@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドンポ語
     auto: true
+  - translation_iso: kor
+    name: 돔포어
+    auto: true
   - translation_iso: por
     name: Dompo
     auto: true

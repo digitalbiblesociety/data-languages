@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Quechuan_languages"
 translations:
   - translation_iso: ara
     name: كتشوا
+  - translation_iso: ben
+    name: কেচুয়া
   - translation_iso: deu
     name: Quechua
   - translation_iso: fra
     name: quechua
   - translation_iso: hin
     name: क्वेशुआ भाषाएं
+  - translation_iso: ind
+    name: Quechua
   - translation_iso: jpn
     name: ケチュア語
   - translation_iso: kor
     name: 케추아어
   - translation_iso: por
     name: quíchua
+  - translation_iso: rus
+    name: кечуа
   - translation_iso: spa
     name: lenguas quechuas
   - translation_iso: zho

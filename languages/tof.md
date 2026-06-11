@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギズラ語
     auto: true
+  - translation_iso: kor
+    name: 기즈라어
+    auto: true
   - translation_iso: por
     name: Gizrra
     auto: true

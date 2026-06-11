@@ -25,9 +25,14 @@ translations:
   - translation_iso: jpn
     name: コーニッシュ語
     auto: true
+  - translation_iso: kor
+    name: 중세 콘월어
+    auto: true
   - translation_iso: por
     name: Córnico médio
     auto: true
+  - translation_iso: rus
+    name: Среднекорнский язык
   - translation_iso: spa
     name: córnico medio
   - translation_iso: zho

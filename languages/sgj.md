@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: سوروجيا
     auto: true
+  - translation_iso: ben
+    name: সরগুজিয়া ভাষা
   - translation_iso: deu
     name: Surgujia
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルグジャ語
+  - translation_iso: kor
+    name: 수르구지아어
+    auto: true
   - translation_iso: por
     name: Surgujia
     auto: true

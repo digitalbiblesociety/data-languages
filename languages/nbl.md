@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
 translations:
   - translation_iso: ara
     name: لغة نديبلي جنوبية
+  - translation_iso: ben
+    name: দক্ষিণ এনডেবেলে
   - translation_iso: deu
     name: Süd-Ndebele
   - translation_iso: fra
     name: nrebele
   - translation_iso: hin
     name: दक्षिण देबेल
+  - translation_iso: ind
+    name: Ndebele Selatan
   - translation_iso: jpn
     name: 南ンデベレ語
   - translation_iso: kor
     name: 남은데벨레어
   - translation_iso: por
     name: língua ndebele
+  - translation_iso: rus
+    name: южный ндебеле
   - translation_iso: spa
     name: ndebele del Sur
   - translation_iso: zho

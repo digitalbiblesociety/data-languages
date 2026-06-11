@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكاوايو
     auto: true
+  - translation_iso: ben
+    name: আকাওয়াইও
   - translation_iso: deu
     name: Akawaio
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカワイオ語
+    auto: true
+  - translation_iso: kor
+    name: 아카와이오어
     auto: true
   - translation_iso: por
     name: Língua capom

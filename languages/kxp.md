@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワディヤラ・コリ語
     auto: true
+  - translation_iso: kor
+    name: 와디야라 콜리어
+    auto: true
   - translation_iso: por
     name: Koli de Wadiyara
     auto: true

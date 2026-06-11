@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イチャテコ族
+  - translation_iso: kor
+    name: 이스카테크어
+    auto: true
   - translation_iso: por
     name: Ixcateco
     auto: true
+  - translation_iso: rus
+    name: Ишкатек
   - translation_iso: spa
     name: ixcateco
   - translation_iso: zho

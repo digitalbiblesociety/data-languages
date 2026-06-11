@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بياو مون
     auto: true
+  - translation_iso: ben
+    name: বায়াও মন
   - translation_iso: deu
     name: Biao Mon
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: ビャオ・モン語
     auto: true
+  - translation_iso: kor
+    name: 뱌오 몬어
+    auto: true
   - translation_iso: por
     name: Mon biao
     auto: true
+  - translation_iso: rus
+    name: биао-моньский язык
   - translation_iso: spa
     name: Biao Mon
     auto: true

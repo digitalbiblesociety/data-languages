@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナウエテ語
     auto: true
+  - translation_iso: kor
+    name: 나우에테어
+    auto: true
   - translation_iso: por
     name: Nauete
     auto: true

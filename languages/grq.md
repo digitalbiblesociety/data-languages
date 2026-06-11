@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ゴロヴ語
     auto: true
+  - translation_iso: kor
+    name: 고로부어
+    auto: true
   - translation_iso: por
     name: Gorovu
     auto: true
+  - translation_iso: rus
+    name: Горову
   - translation_iso: spa
     name: Gorovu
     auto: true

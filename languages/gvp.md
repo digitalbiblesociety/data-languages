@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パラ・ガヴィアン語
     auto: true
+  - translation_iso: kor
+    name: 파라 가비앙어
+    auto: true
   - translation_iso: por
     name: Gavião do Pará
     auto: true

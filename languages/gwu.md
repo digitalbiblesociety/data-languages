@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グワム語
     auto: true
+  - translation_iso: kor
+    name: 구와무어
+    auto: true
   - translation_iso: por
     name: Guwamu
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: लारंतुका मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Larantuka
   - translation_iso: jpn
     name: ラランツカ・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 라란투카 말레이어
     auto: true
   - translation_iso: por
     name: Malaio de Larantuka

@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Puma
     auto: true
+  - translation_iso: rus
+    name: пума
   - translation_iso: spa
     name: Puma
   - translation_iso: zho

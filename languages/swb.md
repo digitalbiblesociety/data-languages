@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maore_dialect"
 translations:
   - translation_iso: ara
     name: القمرية
+  - translation_iso: ben
+    name: কমোরিয়ান
   - translation_iso: deu
     name: Komorisch
   - translation_iso: fra
     name: mahorais
   - translation_iso: hin
     name: कोमोरियन
+  - translation_iso: ind
+    name: Komoria
   - translation_iso: jpn
     name: マオレ語
   - translation_iso: kor
     name: 코모로어
   - translation_iso: por
     name: shimaore
+  - translation_iso: rus
+    name: коморский
   - translation_iso: spa
     name: mahorés
   - translation_iso: zho

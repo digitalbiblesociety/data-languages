@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: グルファン語
     auto: true
+  - translation_iso: kor
+    name: 굴판어
+    auto: true
   - translation_iso: por
     name: Língua ghulfan
+  - translation_iso: rus
+    name: Гхулфан
   - translation_iso: spa
     name: Ghulfan
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コボン語
+  - translation_iso: kor
+    name: 코본어
+    auto: true
   - translation_iso: por
     name: Língua kobon
   - translation_iso: spa

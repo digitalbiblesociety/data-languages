@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: アウラモット語
     auto: true
+  - translation_iso: kor
+    name: 우라어
+    auto: true
   - translation_iso: por
     name: Ura (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: Ура (язык Папуа-Новой Гвинеи)
   - translation_iso: spa
     name: Ura (Papúa Nueva Guinea)
     auto: true

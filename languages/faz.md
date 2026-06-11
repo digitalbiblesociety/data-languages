@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北西ファルス語
     auto: true
+  - translation_iso: kor
+    name: 북서부 파르스어
+    auto: true
   - translation_iso: por
     name: fars do noroeste
     auto: true

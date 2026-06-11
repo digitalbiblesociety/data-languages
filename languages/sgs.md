@@ -21,12 +21,16 @@ translations:
   - translation_iso: hin
     name: समोगितियन
     auto: true
+  - translation_iso: ind
+    name: Dialek Samogitia
   - translation_iso: jpn
     name: サモギティア語
   - translation_iso: kor
     name: 사모기티아어
   - translation_iso: por
     name: Samogiciano
+  - translation_iso: rus
+    name: жемайтское наречие
   - translation_iso: spa
     name: Idioma samogitiano
   - translation_iso: zho

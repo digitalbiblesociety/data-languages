@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: न्दोम
     auto: true
+  - translation_iso: ind
+    name: Ndom
   - translation_iso: jpn
     name: ンドム語
   - translation_iso: kor

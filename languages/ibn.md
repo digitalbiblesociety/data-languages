@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イビノ語
     auto: true
+  - translation_iso: kor
+    name: 이비노어
+    auto: true
   - translation_iso: por
     name: Ibino
     auto: true

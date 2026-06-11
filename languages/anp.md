@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Angika"
 translations:
   - translation_iso: ara
     name: الأنجيكية
+  - translation_iso: ben
+    name: আঙ্গিকা
   - translation_iso: deu
     name: Angika
   - translation_iso: fra
     name: angika
   - translation_iso: hin
     name: अंगिका
+  - translation_iso: ind
+    name: Angika
   - translation_iso: jpn
     name: アンギカ語
   - translation_iso: kor
     name: 앙기카어
   - translation_iso: por
     name: Língua angika
+  - translation_iso: rus
+    name: ангика
   - translation_iso: spa
     name: Idioma angika
   - translation_iso: zho

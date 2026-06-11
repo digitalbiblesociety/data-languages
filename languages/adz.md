@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أدزيرا
     auto: true
+  - translation_iso: ben
+    name: আদজেরা
   - translation_iso: deu
     name: Adzera
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アゼラ語
+  - translation_iso: kor
+    name: 아제라어
+    auto: true
   - translation_iso: por
     name: Língua adzera
+  - translation_iso: rus
+    name: Адзера
   - translation_iso: spa
     name: Adzera
     auto: true

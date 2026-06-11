@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: رينغما ناغا الجنوبية
     auto: true
+  - translation_iso: ben
+    name: রেংগমা ভাষা
   - translation_iso: deu
     name: Südliches Rengma-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: रेंगमा भाषा
   - translation_iso: jpn
     name: 南レングマ・ナガ語
+  - translation_iso: kor
+    name: 남부 렝마 나가어
+    auto: true
   - translation_iso: por
     name: Naga Rengma Meridional
     auto: true

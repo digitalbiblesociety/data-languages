@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワムワン語
     auto: true
+  - translation_iso: kor
+    name: 와암왕어
+    auto: true
   - translation_iso: por
     name: Waamwang
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسترال
     auto: true
+  - translation_iso: ben
+    name: অস্ট্রাল
   - translation_iso: deu
     name: Austral
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラル語
+  - translation_iso: kor
+    name: 오스트랄어
+    auto: true
   - translation_iso: por
     name: Língua austral
+  - translation_iso: rus
+    name: Тубуаи
   - translation_iso: spa
     name: australés
   - translation_iso: zho

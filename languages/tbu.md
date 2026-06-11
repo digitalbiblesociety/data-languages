@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: トゥバル語
     auto: true
+  - translation_iso: kor
+    name: 투바르어
+    auto: true
   - translation_iso: por
     name: Tubar
     auto: true
+  - translation_iso: rus
+    name: Тубар
   - translation_iso: spa
     name: tubar
   - translation_iso: zho

@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: प्यूनिक
     auto: true
+  - translation_iso: ind
+    name: Punik
   - translation_iso: jpn
     name: ポエニ語
   - translation_iso: kor
     name: 포에니어
   - translation_iso: por
     name: púnico
+  - translation_iso: rus
+    name: пунический язык
   - translation_iso: spa
     name: púnico
   - translation_iso: zho

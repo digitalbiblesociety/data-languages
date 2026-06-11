@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘマ語
+  - translation_iso: kor
+    name: 헤마어
+    auto: true
   - translation_iso: por
     name: Hema
     auto: true

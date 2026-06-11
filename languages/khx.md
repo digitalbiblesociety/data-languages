@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カヌ語
     auto: true
+  - translation_iso: kor
+    name: 카누어
+    auto: true
   - translation_iso: por
     name: Kanu
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ナガルチャル語
     auto: true
+  - translation_iso: kor
+    name: 나가르찰어
+    auto: true
   - translation_iso: por
     name: Nagarchal
     auto: true
+  - translation_iso: rus
+    name: нагарчальский язык
   - translation_iso: spa
     name: nagarchal
   - translation_iso: zho

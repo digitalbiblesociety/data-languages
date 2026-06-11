@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オルクミ語
     auto: true
+  - translation_iso: kor
+    name: 울루쿠미어
+    auto: true
   - translation_iso: por
     name: Língua ulucumi
   - translation_iso: spa

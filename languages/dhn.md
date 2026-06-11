@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ダンキ語
     auto: true
+  - translation_iso: kor
+    name: 단키어
+    auto: true
   - translation_iso: por
     name: Dhanki
     auto: true

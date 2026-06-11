@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラカ語
     auto: true
+  - translation_iso: kor
+    name: 라카어
+    auto: true
   - translation_iso: por
     name: Laka (Chade)
     auto: true

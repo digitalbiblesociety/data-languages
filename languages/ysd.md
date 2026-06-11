@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サマタオ語
     auto: true
+  - translation_iso: kor
+    name: 사마타오어
+    auto: true
   - translation_iso: por
     name: samatao
     auto: true

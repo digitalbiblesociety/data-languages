@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヴェルゥス語
     auto: true
+  - translation_iso: kor
+    name: 펠뤼스어
+    auto: true
   - translation_iso: por
     name: Veluws
     auto: true

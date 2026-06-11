@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: केट
     auto: true
+  - translation_iso: ind
+    name: Ket
   - translation_iso: jpn
     name: ケット語
   - translation_iso: kor
     name: 케트어
   - translation_iso: por
     name: Língua ket
+  - translation_iso: rus
+    name: кетский язык
   - translation_iso: spa
     name: ket
   - translation_iso: zho

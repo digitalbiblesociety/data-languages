@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東オロモ語
+  - translation_iso: kor
+    name: 동부 오로모어
+    auto: true
   - translation_iso: por
     name: Oromo Oriental
     auto: true

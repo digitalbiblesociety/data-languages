@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तताना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tatana
   - translation_iso: jpn
     name: タタナ語
+  - translation_iso: kor
+    name: 타타나어
+    auto: true
   - translation_iso: por
     name: Tatana
     auto: true

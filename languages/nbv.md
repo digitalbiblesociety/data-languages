@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングアマンボ語
     auto: true
+  - translation_iso: kor
+    name: 응가맘보어
+    auto: true
   - translation_iso: por
     name: Ngamambo
     auto: true

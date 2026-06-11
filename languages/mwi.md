@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラボ語
+  - translation_iso: kor
+    name: 라보어
+    auto: true
   - translation_iso: por
     name: Labo
     auto: true
+  - translation_iso: rus
+    name: Нинде (язык)
   - translation_iso: spa
     name: Labo
     auto: true

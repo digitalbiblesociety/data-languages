@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: हुइझोउ चीनी
     auto: true
+  - translation_iso: ind
+    name: bahasa Huizhou
   - translation_iso: jpn
     name: 徽語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Chinês huizhou
     auto: true
+  - translation_iso: rus
+    name: хой
   - translation_iso: spa
     name: Chino hui
   - translation_iso: zho

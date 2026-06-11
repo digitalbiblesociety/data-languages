@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コット語
+  - translation_iso: kor
+    name: 코트어
+    auto: true
   - translation_iso: por
     name: kott
     auto: true
+  - translation_iso: rus
+    name: Коттский язык
   - translation_iso: spa
     name: Kott
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفالنسية
     auto: true
+  - translation_iso: ben
+    name: ভালেন্সিয়া  ইশারা ভাষা
   - translation_iso: deu
     name: Valencianische Gebärdensprache
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Valenciana
     auto: true
+  - translation_iso: rus
+    name: валенсийский жестовый язык
   - translation_iso: spa
     name: lengua de signos valenciana
   - translation_iso: zho

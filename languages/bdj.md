@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باي
     auto: true
+  - translation_iso: ben
+    name: বাই
   - translation_iso: deu
     name: Bai
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイ語
+    auto: true
+  - translation_iso: kor
+    name: 바이어
     auto: true
   - translation_iso: por
     name: Bai (Sudão do Sul)

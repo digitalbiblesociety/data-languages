@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゾエ語
+  - translation_iso: kor
+    name: 조에어
+    auto: true
   - translation_iso: por
     name: Língua zoé
+  - translation_iso: rus
+    name: Зо’э
   - translation_iso: spa
     name: "Zo'é"
     auto: true

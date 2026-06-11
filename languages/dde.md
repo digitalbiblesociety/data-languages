@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥンド語
     auto: true
+  - translation_iso: kor
+    name: 돈도어
+    auto: true
   - translation_iso: por
     name: Doondo
     auto: true

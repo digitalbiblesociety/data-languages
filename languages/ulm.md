@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: उलुमांदा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ulumanda
   - translation_iso: jpn
     name: アウォ・スマクユ語
     auto: true
-  - translation_iso: por
-    name: "Ulumanda'"
+  - translation_iso: kor
+    name: 울루만다어
     auto: true
+  - translation_iso: por
+    name: Ulumanda
+    auto: true
+  - translation_iso: rus
+    name: Улуманда
   - translation_iso: spa
     name: Ulumanda
     auto: true

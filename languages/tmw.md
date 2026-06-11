@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: तेमुआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Temuan
   - translation_iso: jpn
     name: テムアン語
+    auto: true
+  - translation_iso: kor
+    name: 테무안어
     auto: true
   - translation_iso: por
     name: Temuan

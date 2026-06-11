@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ゴカナ語
     auto: true
+  - translation_iso: kor
+    name: 고카나어
+    auto: true
   - translation_iso: por
     name: Gokana
     auto: true
+  - translation_iso: rus
+    name: Гокана
   - translation_iso: spa
     name: Gokana
     auto: true

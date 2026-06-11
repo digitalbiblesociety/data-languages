@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: ज़ोफारी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Dhofar
   - translation_iso: jpn
     name: アラビア語ドファール方言
+  - translation_iso: kor
+    name: 도파르 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe dofari
+  - translation_iso: rus
+    name: Дофарский диалект арабского языка
   - translation_iso: spa
     name: Árabe dhofarí
   - translation_iso: zho

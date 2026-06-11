@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_High_German"
 translations:
   - translation_iso: ara
     name: اللغة الألمانية العليا الوسطى
+  - translation_iso: ben
+    name: মধ্য-উচ্চ জার্মানি
   - translation_iso: deu
     name: Mittelhochdeutsch
   - translation_iso: fra
     name: moyen haut-allemand
   - translation_iso: hin
     name: मध्यकालीन हाइ जर्मन
+  - translation_iso: ind
+    name: Jerman Abad Pertengahan
   - translation_iso: jpn
     name: 中高ドイツ語
   - translation_iso: kor
     name: 중세 고지 독일어
   - translation_iso: por
     name: Alto-alemão médio
+  - translation_iso: rus
+    name: средневерхненемецкий
   - translation_iso: spa
     name: alto alemán medio
   - translation_iso: zho

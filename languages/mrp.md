@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة موروويس
     auto: true
+  - translation_iso: ben
+    name: আন্দে
   - translation_iso: deu
     name: Morouas
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロウアス語
+    auto: true
+  - translation_iso: kor
+    name: 모루아스어
     auto: true
   - translation_iso: por
     name: Morouas

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 본둠돔 도곤어
+    auto: true
   - translation_iso: por
     name: Língua bondum
   - translation_iso: spa

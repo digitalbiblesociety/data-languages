@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アグバーネ語
     auto: true
+  - translation_iso: kor
+    name: 소스 쿤디어
+    auto: true
   - translation_iso: por
     name: Sos Kundi
     auto: true

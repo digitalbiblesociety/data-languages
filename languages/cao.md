@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: チャコボ語
     auto: true
+  - translation_iso: kor
+    name: 차코보어
+    auto: true
   - translation_iso: por
     name: Chácobo
     auto: true
+  - translation_iso: rus
+    name: чакобо
   - translation_iso: spa
     name: Chácobo
     auto: true

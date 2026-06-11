@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペンリン語
+  - translation_iso: kor
+    name: 펜린어
+    auto: true
   - translation_iso: por
     name: Língua penrhyn
+  - translation_iso: rus
+    name: тонгарева
   - translation_iso: spa
     name: Penrhyn
     auto: true

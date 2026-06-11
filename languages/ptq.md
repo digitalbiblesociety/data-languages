@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パッタプ語
     auto: true
+  - translation_iso: kor
+    name: 파타푸어
+    auto: true
   - translation_iso: por
     name: Pattapu
     auto: true
+  - translation_iso: rus
+    name: паттапу
   - translation_iso: spa
     name: Idioma pattapu
   - translation_iso: zho

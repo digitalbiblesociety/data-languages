@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: निचली सिलेसियन
     auto: true
+  - translation_iso: ind
+    name: Silesia Rendah
   - translation_iso: jpn
     name: 低シレジア語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Silésio Inferior
     auto: true
+  - translation_iso: rus
+    name: силезские диалекты немецкого языка
   - translation_iso: spa
     name: alemán silesio
   - translation_iso: zho

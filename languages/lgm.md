@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レガ・ムウェンガ語
     auto: true
+  - translation_iso: kor
+    name: 레가음웬가어
+    auto: true
   - translation_iso: por
     name: Lega-Mwenga
     auto: true

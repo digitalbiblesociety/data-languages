@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الخومي تشين
     auto: true
+  - translation_iso: ben
+    name: খুমি ভাষা
   - translation_iso: deu
     name: Khumi-Chin
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クミ・チン語
+    auto: true
+  - translation_iso: kor
+    name: 쿠미 친어
     auto: true
   - translation_iso: por
     name: Chin Khumi

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ソヤルテペク・ミシテク語
     auto: true
+  - translation_iso: kor
+    name: 소얄테펙 미스테카어
+    auto: true
   - translation_iso: por
     name: Mixteco de Soyaltepec
     auto: true
+  - translation_iso: rus
+    name: Сояльтепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Soyaltepec
     auto: true

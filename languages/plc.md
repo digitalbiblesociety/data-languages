@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 中央パラワーノ語
     auto: true
+  - translation_iso: kor
+    name: 중부 팔라와노어
+    auto: true
   - translation_iso: por
     name: Palawano Central
     auto: true

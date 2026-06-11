@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コカタ語
     auto: true
+  - translation_iso: kor
+    name: 코카타어
+    auto: true
   - translation_iso: por
     name: Kokata
     auto: true

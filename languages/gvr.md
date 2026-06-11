@@ -34,6 +34,8 @@ translations:
     name: 구룽어
   - translation_iso: por
     name: Língua gurung
+  - translation_iso: rus
+    name: Гурунг
   - translation_iso: spa
     name: Gurung
     auto: true

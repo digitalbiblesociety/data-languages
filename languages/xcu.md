@@ -21,12 +21,16 @@ translations:
   - translation_iso: hin
     name: कुरोनियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Kuronia
   - translation_iso: jpn
     name: クロニア語
   - translation_iso: kor
     name: 쿠로니아어
   - translation_iso: por
     name: Língua curônia
+  - translation_iso: rus
+    name: куршский язык
   - translation_iso: spa
     name: curonio
   - translation_iso: zho

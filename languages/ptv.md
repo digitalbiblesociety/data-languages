@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポート・ヴァト語
+  - translation_iso: kor
+    name: 포트바토어
+    auto: true
   - translation_iso: por
     name: Port Vato
     auto: true

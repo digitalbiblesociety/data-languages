@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナカメ語
     auto: true
+  - translation_iso: kor
+    name: 나카메어
+    auto: true
   - translation_iso: por
     name: Nakame
     auto: true

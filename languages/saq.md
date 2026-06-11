@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samburu_language"
 translations:
   - translation_iso: ara
     name: سامبورو
+  - translation_iso: ben
+    name: সামবুরু
   - translation_iso: deu
     name: Samburu
   - translation_iso: fra
     name: samburu
   - translation_iso: hin
     name: सैम्बुरु
+  - translation_iso: ind
+    name: Samburu
   - translation_iso: jpn
     name: サンブル語
   - translation_iso: kor
     name: 삼부루어
   - translation_iso: por
     name: samburu
+  - translation_iso: rus
+    name: самбуру
   - translation_iso: spa
     name: samburu
   - translation_iso: zho

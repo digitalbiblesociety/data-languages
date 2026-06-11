@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: सिडेटिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Side
   - translation_iso: jpn
     name: シデ語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Sidético
     auto: true
+  - translation_iso: rus
+    name: сидетский язык
   - translation_iso: spa
     name: Idioma sidético
   - translation_iso: zho

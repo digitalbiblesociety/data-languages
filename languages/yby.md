@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤウェユハ語
     auto: true
+  - translation_iso: kor
+    name: 야웨유하어
+    auto: true
   - translation_iso: por
     name: yaweyuha
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南ワン語
     auto: true
+  - translation_iso: kor
+    name: 남부 오네어
+    auto: true
   - translation_iso: por
     name: One Meridional
     auto: true

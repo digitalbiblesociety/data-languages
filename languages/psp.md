@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفيليبينية
     auto: true
+  - translation_iso: ben
+    name: ফিলিপিন ইশারা ভাষা
   - translation_iso: deu
     name: Philippinische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: फ़िलिपीन सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Filipina
   - translation_iso: jpn
     name: フィリピン手話
+  - translation_iso: kor
+    name: 필리핀 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Filipina
   - translation_iso: spa

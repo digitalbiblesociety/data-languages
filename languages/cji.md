@@ -34,6 +34,8 @@ translations:
     name: 차말랄어
   - translation_iso: por
     name: Língua chamalal
+  - translation_iso: rus
+    name: чамалинский язык
   - translation_iso: spa
     name: Chamalal
     auto: true

@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: रादे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Rade
   - translation_iso: jpn
     name: ラデー語
   - translation_iso: kor
     name: 라데어
   - translation_iso: por
     name: Língua rade
+  - translation_iso: rus
+    name: Эде
   - translation_iso: spa
     name: Rade
     auto: true

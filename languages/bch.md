@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باريايه
     auto: true
+  - translation_iso: ben
+    name: বারিয়াই
   - translation_iso: deu
     name: Bariai
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリアイ語
+  - translation_iso: kor
+    name: 바리아이어
+    auto: true
   - translation_iso: por
     name: Bariai
     auto: true

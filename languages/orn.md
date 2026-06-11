@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ओरंग कानाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Orang Kanaq
   - translation_iso: jpn
     name: オラン・カナック語
+    auto: true
+  - translation_iso: kor
+    name: 오랑 카나크어
     auto: true
   - translation_iso: por
     name: Orang Kanaq

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت
     auto: true
+  - translation_iso: ben
+    name: বায়োট
   - translation_iso: deu
     name: Bayot
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バヨット語
+  - translation_iso: kor
+    name: 바요트어
+    auto: true
   - translation_iso: por
     name: Bayot
     auto: true

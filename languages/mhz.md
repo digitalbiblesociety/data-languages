@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मोर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mor
   - translation_iso: jpn
     name: モア語
+    auto: true
+  - translation_iso: kor
+    name: 모르어
     auto: true
   - translation_iso: por
     name: Mor (Ilhas Mor)

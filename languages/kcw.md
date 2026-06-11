@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カブワリ語
     auto: true
+  - translation_iso: kor
+    name: 카브와리어
+    auto: true
   - translation_iso: por
     name: Kabwari
     auto: true

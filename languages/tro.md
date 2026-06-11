@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تاراو ناجا
     auto: true
+  - translation_iso: ben
+    name: তারাও ভাষা
   - translation_iso: deu
     name: Tarao Naga
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: タラオ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 타라오 나가어
+    auto: true
   - translation_iso: por
     name: Naga Tarao
     auto: true
+  - translation_iso: rus
+    name: Тарао-нага
   - translation_iso: spa
     name: Tarao Naga
     auto: true

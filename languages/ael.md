@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبيل
     auto: true
+  - translation_iso: ben
+    name: আম্বেলে
   - translation_iso: deu
     name: Ambele
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンベレ語
+    auto: true
+  - translation_iso: kor
+    name: 암벨레어
     auto: true
   - translation_iso: por
     name: Ambele

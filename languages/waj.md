@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ワッファ語
     auto: true
+  - translation_iso: kor
+    name: 와파어
+    auto: true
   - translation_iso: por
     name: Waffa
     auto: true
+  - translation_iso: rus
+    name: Ваффа
   - translation_iso: spa
     name: Waffa
     auto: true

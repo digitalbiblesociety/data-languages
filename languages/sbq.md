@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シレイビ語
     auto: true
+  - translation_iso: kor
+    name: 실레이비어
+    auto: true
   - translation_iso: por
     name: Sileibi
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ルエル語
     auto: true
+  - translation_iso: kor
+    name: 르웰어
+    auto: true
   - translation_iso: por
     name: Lwel
     auto: true

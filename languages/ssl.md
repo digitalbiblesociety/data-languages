@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シッサーラ語
     auto: true
+  - translation_iso: kor
+    name: 서부 시살라어
+    auto: true
   - translation_iso: por
     name: Sisaala Ocidental
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: シェルブロ語
     auto: true
+  - translation_iso: kor
+    name: 셰르브로어
+    auto: true
   - translation_iso: por
     name: Sherbro
     auto: true
+  - translation_iso: rus
+    name: Шербро
   - translation_iso: spa
     name: Sherbro
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブルゲビ語
     auto: true
+  - translation_iso: kor
+    name: 불게비어
+    auto: true
   - translation_iso: por
     name: Bulgebi
     auto: true

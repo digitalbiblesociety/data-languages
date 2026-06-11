@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワスキア語
     auto: true
+  - translation_iso: kor
+    name: 와스키아어
+    auto: true
   - translation_iso: por
     name: Waskia
     auto: true
+  - translation_iso: rus
+    name: Васкиа
   - translation_iso: spa
     name: Waskia
     auto: true

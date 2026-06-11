@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥニカ語
+  - translation_iso: kor
+    name: 투니카어
+    auto: true
   - translation_iso: por
     name: Língua tunica
+  - translation_iso: rus
+    name: Туника
   - translation_iso: spa
     name: Tunica
   - translation_iso: zho

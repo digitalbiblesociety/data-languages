@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケテ語
+  - translation_iso: kor
+    name: 케테어
+    auto: true
   - translation_iso: por
     name: Kete
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: केन्सिउ
     auto: true
+  - translation_iso: ind
+    name: Kensiu
   - translation_iso: jpn
     name: ケンシウ語
+  - translation_iso: kor
+    name: 켄시우어
+    auto: true
   - translation_iso: por
     name: Kensiu
     auto: true
+  - translation_iso: rus
+    name: кенсиу
   - translation_iso: spa
     name: Kensiu
     auto: true

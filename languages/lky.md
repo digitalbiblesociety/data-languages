@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロコヤ語
+  - translation_iso: kor
+    name: 로코야어
+    auto: true
   - translation_iso: por
     name: Língua lakoya
   - translation_iso: spa

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोतोली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Totoli
   - translation_iso: jpn
     name: ゲージ語
+    auto: true
+  - translation_iso: kor
+    name: 토톨리어
     auto: true
   - translation_iso: por
     name: Totoli

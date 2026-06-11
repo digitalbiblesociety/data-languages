@@ -21,6 +21,8 @@ translations:
   - translation_iso: hin
     name: ज़ेमगालियन
     auto: true
+  - translation_iso: ind
+    name: Semigallia
   - translation_iso: jpn
     name: セミガリア語
   - translation_iso: kor
@@ -28,6 +30,8 @@ translations:
   - translation_iso: por
     name: zemgálio
     auto: true
+  - translation_iso: rus
+    name: земгальский язык
   - translation_iso: spa
     name: semigalio
   - translation_iso: zho

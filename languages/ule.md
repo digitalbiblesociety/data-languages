@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルレ語
     auto: true
+  - translation_iso: kor
+    name: 룰레어
+    auto: true
   - translation_iso: por
     name: Lule
     auto: true

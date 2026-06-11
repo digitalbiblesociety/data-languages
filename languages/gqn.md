@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: グアナ語
     auto: true
+  - translation_iso: kor
+    name: 과나어
+    auto: true
   - translation_iso: por
     name: Guana (Brasil)
     auto: true

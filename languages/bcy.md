@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكاما
     auto: true
+  - translation_iso: ben
+    name: বাকামা
   - translation_iso: deu
     name: Bacama
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカマ語
+    auto: true
+  - translation_iso: kor
+    name: 바카마어
     auto: true
   - translation_iso: por
     name: Bacama

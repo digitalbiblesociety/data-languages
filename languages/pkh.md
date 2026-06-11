@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانخو
     auto: true
+  - translation_iso: ben
+    name: পাংখুয়া ভাষা
   - translation_iso: deu
     name: Pankhu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パンク語
+    auto: true
+  - translation_iso: kor
+    name: 판쿠어
     auto: true
   - translation_iso: por
     name: Língua Pangkhua

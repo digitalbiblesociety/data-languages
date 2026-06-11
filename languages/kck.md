@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: कलंगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kalanga
   - translation_iso: jpn
     name: カランガ語
+  - translation_iso: kor
+    name: 칼랑가어
+    auto: true
   - translation_iso: por
     name: Língua calanga
+  - translation_iso: rus
+    name: каланга
   - translation_iso: spa
     name: Kalanga
     auto: true

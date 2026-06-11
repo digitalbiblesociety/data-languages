@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: क्वेन फिनिश
     auto: true
+  - translation_iso: ind
+    name: Kven
   - translation_iso: jpn
     name: クヴェン語
   - translation_iso: kor
     name: 크벤어
   - translation_iso: por
     name: kven
+  - translation_iso: rus
+    name: квенский язык
   - translation_iso: spa
     name: kven
   - translation_iso: zho

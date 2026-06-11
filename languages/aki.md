@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أيومي
     auto: true
+  - translation_iso: ben
+    name: আইওমে
   - translation_iso: deu
     name: Aiome
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイオメ語
+    auto: true
+  - translation_iso: kor
+    name: 아이오메어
     auto: true
   - translation_iso: por
     name: Aiome

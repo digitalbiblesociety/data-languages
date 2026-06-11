@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: チヌーク語
     auto: true
+  - translation_iso: kor
+    name: 치누크어
+    auto: true
   - translation_iso: por
     name: Língua baixo chinook
+  - translation_iso: rus
+    name: Нижний чинукский язык
   - translation_iso: spa
     name: Chinook
     auto: true

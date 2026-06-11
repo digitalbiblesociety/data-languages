@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パイコカ語
     auto: true
+  - translation_iso: kor
+    name: 세코야어
+    auto: true
   - translation_iso: por
     name: Língua sekoya
+  - translation_iso: rus
+    name: Секоя
   - translation_iso: spa
     name: Secoya
     auto: true

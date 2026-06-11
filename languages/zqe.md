@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チウベイ・ズアン語
     auto: true
+  - translation_iso: kor
+    name: 추베이 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Qiubei
     auto: true

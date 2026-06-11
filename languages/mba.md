@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヒガオノン語
     auto: true
+  - translation_iso: kor
+    name: 히가오논어
+    auto: true
   - translation_iso: por
     name: Higaonon
     auto: true
+  - translation_iso: rus
+    name: хигаонон
   - translation_iso: spa
     name: Higaonon
     auto: true

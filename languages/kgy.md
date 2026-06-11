@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キェルング語
     auto: true
+  - translation_iso: kor
+    name: 케룽어
+    auto: true
   - translation_iso: por
     name: Kyerung
     auto: true

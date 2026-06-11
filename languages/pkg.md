@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パクトン語
     auto: true
+  - translation_iso: kor
+    name: 파크통어
+    auto: true
   - translation_iso: por
     name: Pak-Tong
     auto: true

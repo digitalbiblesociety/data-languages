@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北東ディンカ語
+  - translation_iso: kor
+    name: 북동부 딩카어
+    auto: true
   - translation_iso: por
     name: Dinka Nordeste
     auto: true

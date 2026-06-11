@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ラパグア-グイビニ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 라파기아·기비니 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Lapaguía-Guivini
     auto: true
+  - translation_iso: rus
+    name: Лапагия-гивинийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Lapaguía-Guivini
     auto: true

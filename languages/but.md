@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブンガイン語
     auto: true
+  - translation_iso: kor
+    name: 붕가인어
+    auto: true
   - translation_iso: por
     name: Bungain
     auto: true

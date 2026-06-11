@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北テペウア語
     auto: true
+  - translation_iso: kor
+    name: 피사플로레스 테페우아어
+    auto: true
   - translation_iso: por
     name: Tepehua de Pisaflores
     auto: true
+  - translation_iso: rus
+    name: Писафлоресский тепеуа
   - translation_iso: spa
     name: tepehua de Pisa Flores
   - translation_iso: zho

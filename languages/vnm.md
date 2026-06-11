@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィンマヴィス語
+  - translation_iso: kor
+    name: 빈마비스어
+    auto: true
   - translation_iso: por
     name: Vinmavis
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マラリャン語
     auto: true
+  - translation_iso: kor
+    name: 말라리안어
+    auto: true
   - translation_iso: por
     name: Malaryan
     auto: true

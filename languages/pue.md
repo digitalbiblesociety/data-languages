@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: プエルチェ語
     auto: true
+  - translation_iso: kor
+    name: 푸엘체어
+    auto: true
   - translation_iso: por
     name: Língua puelche
+  - translation_iso: rus
+    name: Пуэльче
   - translation_iso: spa
     name: gününa këna
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カバライ語
     auto: true
+  - translation_iso: kor
+    name: 카발라이어
+    auto: true
   - translation_iso: por
     name: Língua kabalai
   - translation_iso: spa

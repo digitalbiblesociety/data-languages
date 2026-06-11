@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンダヤ語
+  - translation_iso: kor
+    name: 만다야어
+    auto: true
   - translation_iso: por
     name: Mandaya
     auto: true

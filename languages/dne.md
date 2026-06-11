@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ンデンドゥレ語
     auto: true
+  - translation_iso: kor
+    name: 은덴데울레어
+    auto: true
   - translation_iso: por
     name: Ndendeule
     auto: true

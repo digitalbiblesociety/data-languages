@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホーチミン市手話
+  - translation_iso: kor
+    name: 호찌민 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Cidade de Ho Chi Minh
     auto: true

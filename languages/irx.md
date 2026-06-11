@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カムベラウ語
     auto: true
+  - translation_iso: kor
+    name: 캄베라우어
+    auto: true
   - translation_iso: por
     name: Kamberau
     auto: true

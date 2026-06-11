@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luganda"
 translations:
   - translation_iso: ara
     name: اللوغندية
+  - translation_iso: ben
+    name: গান্ডা
   - translation_iso: deu
     name: Ganda
   - translation_iso: fra
     name: luganda
   - translation_iso: hin
     name: गांडा
+  - translation_iso: ind
+    name: Ganda
   - translation_iso: jpn
     name: ルガンダ語
   - translation_iso: kor
     name: 루간다어
   - translation_iso: por
     name: Língua luganda
+  - translation_iso: rus
+    name: ганда
   - translation_iso: spa
     name: luganda
   - translation_iso: zho

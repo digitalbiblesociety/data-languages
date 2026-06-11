@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغاتاها
     auto: true
+  - translation_iso: ben
+    name: আঙ্গতাহা
   - translation_iso: deu
     name: Angaataha
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンガアタハ語
+    auto: true
+  - translation_iso: kor
+    name: 앙가타하어
     auto: true
   - translation_iso: por
     name: Angaataha

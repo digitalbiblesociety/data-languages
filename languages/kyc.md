@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: キャカ語
     auto: true
+  - translation_iso: kor
+    name: 캬카어
+    auto: true
   - translation_iso: por
     name: Kyaka
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: メルラヴ語
     auto: true
+  - translation_iso: kor
+    name: 메를라브어
+    auto: true
   - translation_iso: por
     name: Merlav
     auto: true
+  - translation_iso: rus
+    name: Мверлап
   - translation_iso: spa
     name: Merlav
     auto: true

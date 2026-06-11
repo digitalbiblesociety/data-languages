@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: カンドシ・シャプラ語
     auto: true
+  - translation_iso: kor
+    name: 칸도시샤프라어
+    auto: true
   - translation_iso: por
     name: Língua candoshi
+  - translation_iso: rus
+    name: Кандоши
   - translation_iso: spa
     name: candoshi
   - translation_iso: zho

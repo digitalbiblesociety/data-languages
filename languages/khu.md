@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンクンビ語
     auto: true
+  - translation_iso: kor
+    name: 은쿰비어
+    auto: true
   - translation_iso: por
     name: Nkhumbi
     auto: true

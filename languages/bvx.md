@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ディボレ語
     auto: true
+  - translation_iso: kor
+    name: 디볼레어
+    auto: true
   - translation_iso: por
     name: Dibole
     auto: true

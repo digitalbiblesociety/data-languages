@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムボンガ語
     auto: true
+  - translation_iso: kor
+    name: 음봉가어
+    auto: true
   - translation_iso: por
     name: Mbonga
     auto: true

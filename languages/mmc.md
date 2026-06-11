@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ミチョアカン・マサウア語
     auto: true
+  - translation_iso: kor
+    name: 미초아칸 마사우아어
+    auto: true
   - translation_iso: por
     name: mazaua de Michoacán
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニニア・ヤリ語
     auto: true
+  - translation_iso: kor
+    name: 니니아 얄리어
+    auto: true
   - translation_iso: por
     name: Yali de Ninia
     auto: true

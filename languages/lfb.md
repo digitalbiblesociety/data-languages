@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブー語
     auto: true
+  - translation_iso: kor
+    name: 부어
+    auto: true
   - translation_iso: por
     name: Buu (Camarões)
     auto: true

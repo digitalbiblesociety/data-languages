@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ニセナン語
     auto: true
+  - translation_iso: kor
+    name: 니세난어
+    auto: true
   - translation_iso: por
     name: Nisenan
     auto: true
+  - translation_iso: rus
+    name: Южный майду
   - translation_iso: spa
     name: Nisenan
     auto: true

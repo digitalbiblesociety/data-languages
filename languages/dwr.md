@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダウロ語
     auto: true
+  - translation_iso: kor
+    name: 다우로어
+    auto: true
   - translation_iso: por
     name: Dawro
     auto: true

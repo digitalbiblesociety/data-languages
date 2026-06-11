@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Spanish"
 translations:
   - translation_iso: ara
     name: اللدينوية
+  - translation_iso: ben
+    name: লাদিনো
   - translation_iso: deu
     name: Sephardisch
   - translation_iso: fra
     name: judéo-espagnol
   - translation_iso: hin
     name: लादीनो
+  - translation_iso: ind
+    name: Ladino
   - translation_iso: jpn
     name: ラディーノ語
   - translation_iso: kor
     name: 라디노어
   - translation_iso: por
     name: judeu-espanhol
+  - translation_iso: rus
+    name: ладино
   - translation_iso: spa
     name: idioma judeoespañol
   - translation_iso: zho

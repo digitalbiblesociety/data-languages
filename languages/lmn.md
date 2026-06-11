@@ -22,16 +22,25 @@ translations:
   - translation_iso: ara
     name: لامبادي
     auto: true
+  - translation_iso: ben
+    name: লাম্বাদী
   - translation_iso: deu
     name: Lamani
   - translation_iso: fra
     name: banjari
   - translation_iso: hin
     name: बंजारा भाषा
+  - translation_iso: ind
+    name: bahasa Lambadi
   - translation_iso: jpn
     name: ランバディ語
+  - translation_iso: kor
+    name: 람바디어
+    auto: true
   - translation_iso: por
     name: Língua lambadi
+  - translation_iso: rus
+    name: ламбади
   - translation_iso: spa
     name: Lambadi
     auto: true

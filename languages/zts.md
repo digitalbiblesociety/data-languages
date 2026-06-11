@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ティルキアパン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 틸키아판 사포텍어
+    auto: true
   - translation_iso: por
     name: Zapoteco tilquiapano
+  - translation_iso: rus
+    name: Тилькиапанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Tilquiapan
     auto: true

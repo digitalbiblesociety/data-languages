@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マルグ語
     auto: true
+  - translation_iso: kor
+    name: 마르구어
+    auto: true
   - translation_iso: por
     name: Marrgu
   - translation_iso: spa

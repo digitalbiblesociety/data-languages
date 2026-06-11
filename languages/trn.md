@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: モホス語
     auto: true
+  - translation_iso: kor
+    name: 트리니타리오어
+    auto: true
   - translation_iso: por
     name: Trinitário
     auto: true
+  - translation_iso: rus
+    name: мохеньо-тринитарио
   - translation_iso: spa
     name: trinitario
   - translation_iso: zho

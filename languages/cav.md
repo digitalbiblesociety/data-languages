@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カビネニャ語
+  - translation_iso: kor
+    name: 카비네냐어
+    auto: true
   - translation_iso: por
     name: Cavineña
+  - translation_iso: rus
+    name: Кавиненья
   - translation_iso: spa
     name: idioma cavineña
   - translation_iso: zho

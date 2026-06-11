@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マルバ・ビリフォル語
     auto: true
+  - translation_iso: kor
+    name: 말바 비리포르어
+    auto: true
   - translation_iso: por
     name: Birifor de Malba
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンザディ語
     auto: true
+  - translation_iso: kor
+    name: 은자디어
+    auto: true
   - translation_iso: por
     name: Nzadi
     auto: true

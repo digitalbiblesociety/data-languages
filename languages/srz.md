@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: マザンダラーニー語
     auto: true
+  - translation_iso: kor
+    name: 샤미르자디어
+    auto: true
   - translation_iso: por
     name: Shahmirzadi
     auto: true
+  - translation_iso: rus
+    name: Шамерзади
   - translation_iso: spa
     name: Shahmirzadi
     auto: true

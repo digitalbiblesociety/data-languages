@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マリマニンディ語
     auto: true
+  - translation_iso: kor
+    name: 마리마닌지어
+    auto: true
   - translation_iso: por
     name: Marimanindji
     auto: true

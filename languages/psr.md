@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرتغالية
     auto: true
+  - translation_iso: ben
+    name: পর্তুগীজ ইশারা ভাষা
   - translation_iso: deu
     name: Portugiesische Gebärdensprache
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पुर्तगाली सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Portugis
   - translation_iso: jpn
     name: ポルトガル手話
+  - translation_iso: kor
+    name: 포르투갈 수어
+    auto: true
   - translation_iso: por
     name: língua gestual portuguesa
   - translation_iso: spa

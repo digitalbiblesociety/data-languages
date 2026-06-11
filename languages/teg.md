@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テケ・テゲ語
     auto: true
+  - translation_iso: kor
+    name: 테케테게어
+    auto: true
   - translation_iso: por
     name: Teke-Tege
     auto: true

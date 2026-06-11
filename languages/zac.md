@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: オコトラン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 오코틀란 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Ocotlán
     auto: true
+  - translation_iso: rus
+    name: Окотланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Ocotlán
     auto: true

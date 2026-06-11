@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナーイーン語
+  - translation_iso: kor
+    name: 나이니어
+    auto: true
   - translation_iso: por
     name: Nayini
     auto: true

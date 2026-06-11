@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुली (घाना)
     auto: true
+  - translation_iso: ind
+    name: Buli
   - translation_iso: jpn
     name: ブリ語
+  - translation_iso: kor
+    name: 불리어
+    auto: true
   - translation_iso: por
     name: Buli (Gana)
     auto: true

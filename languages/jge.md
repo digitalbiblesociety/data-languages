@@ -25,8 +25,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルジン語
+  - translation_iso: kor
+    name: 유대 조지아어
+    auto: true
   - translation_iso: por
     name: gruzinic
+  - translation_iso: rus
+    name: еврейско-грузинский язык
   - translation_iso: spa
     name: judeogeorgiano
   - translation_iso: zho

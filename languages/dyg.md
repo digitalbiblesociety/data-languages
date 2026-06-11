@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビラ・ビシオサ・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 비야비시오사 아그타어
+    auto: true
   - translation_iso: por
     name: Agta de Villa Viciosa
     auto: true

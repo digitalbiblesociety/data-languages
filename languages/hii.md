@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: هندوري
     auto: true
+  - translation_iso: ben
+    name: হিণ্ডুরী ভাষা
   - translation_iso: deu
     name: Hinduri
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: हन्दुरी भाषा
   - translation_iso: jpn
     name: ヒンドゥリ語
+  - translation_iso: kor
+    name: 힌두리어
+    auto: true
   - translation_iso: por
     name: Hinduri
     auto: true

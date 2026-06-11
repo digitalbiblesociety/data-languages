@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンバリ語
+  - translation_iso: kor
+    name: 심바리어
+    auto: true
   - translation_iso: por
     name: Simbari
     auto: true
+  - translation_iso: rus
+    name: симбари
   - translation_iso: spa
     name: Simbari
     auto: true

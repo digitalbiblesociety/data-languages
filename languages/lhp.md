@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロプ語
+  - translation_iso: kor
+    name: 로크푸어
+    auto: true
   - translation_iso: por
     name: Lhokpu
     auto: true
+  - translation_iso: rus
+    name: Лхокпу
   - translation_iso: spa
     name: Lhokpu
     auto: true

@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シルテ語
+  - translation_iso: kor
+    name: 실테어
+    auto: true
   - translation_iso: por
     name: "Língua silt'e"
+  - translation_iso: rus
+    name: Селти (язык)
   - translation_iso: spa
     name: "Silt'e"
     auto: true

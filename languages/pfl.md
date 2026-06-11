@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: फ़ाल्ज़िश
     auto: true
+  - translation_iso: ind
+    name: Jerman Palatinate
   - translation_iso: jpn
     name: プファルツ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: francônio renano
     auto: true
+  - translation_iso: rus
+    name: пфальцский диалект
   - translation_iso: spa
     name: alemán palatino
   - translation_iso: zho

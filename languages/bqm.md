@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウムボコ語
     auto: true
+  - translation_iso: kor
+    name: 움보코어
+    auto: true
   - translation_iso: por
     name: Wumboko
     auto: true

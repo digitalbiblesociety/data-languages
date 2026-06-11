@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: البادشي
     auto: true
+  - translation_iso: ben
+    name: বাদেশি ভাষা
   - translation_iso: deu
     name: Badeschi
   - translation_iso: fra
@@ -27,12 +29,19 @@ translations:
   - translation_iso: hin
     name: बदेशी
     auto: true
+  - translation_iso: ind
+    name: bahasa Badeshi
   - translation_iso: jpn
     name: バデシ語
+    auto: true
+  - translation_iso: kor
+    name: 바데시어
     auto: true
   - translation_iso: por
     name: Badeshi
     auto: true
+  - translation_iso: rus
+    name: бадеши
   - translation_iso: spa
     name: Badeshi
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タクア語
     auto: true
+  - translation_iso: kor
+    name: 타쿠아어
+    auto: true
   - translation_iso: por
     name: Takua
     auto: true

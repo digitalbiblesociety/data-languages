@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ユクベン語
     auto: true
+  - translation_iso: kor
+    name: 유쿠벤어
+    auto: true
   - translation_iso: por
     name: yukuben
     auto: true

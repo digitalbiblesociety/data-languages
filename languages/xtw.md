@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タワンデ語
     auto: true
+  - translation_iso: kor
+    name: 타완데어
+    auto: true
   - translation_iso: por
     name: Língua tawandê
   - translation_iso: spa

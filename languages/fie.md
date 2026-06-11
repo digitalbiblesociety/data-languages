@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: フィエル語
     auto: true
+  - translation_iso: kor
+    name: 피예르어
+    auto: true
   - translation_iso: por
     name: Fyer
     auto: true
+  - translation_iso: rus
+    name: Фьер
   - translation_iso: spa
     name: Fyer
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أجي
     auto: true
+  - translation_iso: ben
+    name: আগি
   - translation_iso: deu
     name: Agi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アギ語
+    auto: true
+  - translation_iso: kor
+    name: 아기어
     auto: true
   - translation_iso: por
     name: Agi

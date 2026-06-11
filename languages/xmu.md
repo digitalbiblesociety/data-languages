@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कामू
     auto: true
+  - translation_iso: ind
+    name: Kamu
   - translation_iso: jpn
     name: カム語
+    auto: true
+  - translation_iso: kor
+    name: 카무어
     auto: true
   - translation_iso: por
     name: Kamu

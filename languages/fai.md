@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: फाइवोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Faiwol
   - translation_iso: jpn
     name: ファイウォル語
+    auto: true
+  - translation_iso: kor
+    name: 파이월어
     auto: true
   - translation_iso: por
     name: Faiwol

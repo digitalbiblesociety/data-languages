@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイ語
+  - translation_iso: kor
+    name: 그위어
+    auto: true
   - translation_iso: por
     name: língua gǀui
   - translation_iso: spa

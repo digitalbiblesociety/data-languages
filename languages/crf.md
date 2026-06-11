@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カラマンタ語
     auto: true
+  - translation_iso: kor
+    name: 카라만타어
+    auto: true
   - translation_iso: por
     name: Caramanta
     auto: true

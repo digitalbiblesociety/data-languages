@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レング語
+  - translation_iso: kor
+    name: 몰렝게어
+    auto: true
   - translation_iso: por
     name: Língua balengue
   - translation_iso: spa

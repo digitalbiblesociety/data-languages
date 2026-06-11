@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソッド語
+  - translation_iso: kor
+    name: 키스타네어
+    auto: true
   - translation_iso: por
     name: Kistane
     auto: true

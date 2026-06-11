@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テケ・フーム語
     auto: true
+  - translation_iso: kor
+    name: 테케푸무어
+    auto: true
   - translation_iso: por
     name: Teke-Fuumu
     auto: true

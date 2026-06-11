@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤバーナ語
+  - translation_iso: kor
+    name: 야바아나어
+    auto: true
   - translation_iso: por
     name: Língua yabahana
+  - translation_iso: rus
+    name: Ябаана
   - translation_iso: spa
     name: Yabaâna
     auto: true

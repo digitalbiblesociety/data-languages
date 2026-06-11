@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブルイ語
     auto: true
+  - translation_iso: kor
+    name: 부루이어
+    auto: true
   - translation_iso: por
     name: Burui
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كارانجا
     auto: true
+  - translation_iso: ben
+    name: কারাঙ্গা ভাষা
   - translation_iso: deu
     name: Karanga
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カランガ語
+    auto: true
+  - translation_iso: kor
+    name: 카랑가어
     auto: true
   - translation_iso: por
     name: Karanga

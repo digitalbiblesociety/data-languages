@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングアジュンマヤ語
     auto: true
+  - translation_iso: kor
+    name: 응아준마야어
+    auto: true
   - translation_iso: por
     name: Ngadjunmaya
     auto: true

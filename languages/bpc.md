@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムブク語
     auto: true
+  - translation_iso: kor
+    name: 음부크어
+    auto: true
   - translation_iso: por
     name: Mbuk
     auto: true

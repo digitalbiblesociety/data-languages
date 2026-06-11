@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タロディ語
     auto: true
+  - translation_iso: kor
+    name: 탈로디어
+    auto: true
   - translation_iso: por
     name: Talodi
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ダアイ・チン語
     auto: true
+  - translation_iso: kor
+    name: 다이 친어
+    auto: true
   - translation_iso: por
     name: Chin Daai
     auto: true

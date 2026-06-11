@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: ميواتي
     auto: true
+  - translation_iso: ben
+    name: মেবাতি ভাষা
   - translation_iso: deu
     name: Mewati
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: メワティ語
     auto: true
+  - translation_iso: kor
+    name: 메와티어
+    auto: true
   - translation_iso: por
     name: Mewati
     auto: true
+  - translation_iso: rus
+    name: Мевати
   - translation_iso: spa
     name: Mewati
     auto: true

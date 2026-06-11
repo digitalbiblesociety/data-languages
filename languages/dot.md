@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ダス語
     auto: true
+  - translation_iso: kor
+    name: 다스어
+    auto: true
   - translation_iso: por
     name: Dass
     auto: true
+  - translation_iso: rus
+    name: Дот
   - translation_iso: spa
     name: Dass
     auto: true

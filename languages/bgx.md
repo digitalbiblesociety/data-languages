@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Turkish_language"
 translations:
   - translation_iso: ara
     name: البلقانية الغاغاوزية
+  - translation_iso: ben
+    name: রুমেলীয় তুর্কি ভাষা
   - translation_iso: deu
     name: Balkan-Gagausische Sprache
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 발칸 가가우즈 터키어
   - translation_iso: por
     name: Língua gagauz turco-balcânico
+  - translation_iso: rus
+    name: балкано-гагаузский язык
   - translation_iso: spa
     name: Turco gagauzo de los Balcanes
     auto: true

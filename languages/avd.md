@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الويري-ويداري
     auto: true
+  - translation_iso: ben
+    name: আলভিরি-ভিদারি
   - translation_iso: deu
     name: Alviri-Vidari
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルビリビダリ語
+    auto: true
+  - translation_iso: kor
+    name: 알비리·비다리어
     auto: true
   - translation_iso: por
     name: Alviri-Vidari

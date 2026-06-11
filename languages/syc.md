@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Syriac_language"
 translations:
   - translation_iso: ara
     name: السريانية
+  - translation_iso: ben
+    name: প্রাচীন সিরিও
   - translation_iso: deu
     name: Syrisch
   - translation_iso: fra
     name: syriaque
   - translation_iso: hin
     name: सीरियाई भाषा
+  - translation_iso: ind
+    name: Suriah Klasik
   - translation_iso: jpn
     name: シリア語
   - translation_iso: kor
     name: 시리아어
   - translation_iso: por
     name: Língua siríaca
+  - translation_iso: rus
+    name: классический сирийский
   - translation_iso: spa
     name: siríaco
   - translation_iso: zho

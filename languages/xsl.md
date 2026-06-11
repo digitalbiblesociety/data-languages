@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南スレイビー語
+  - translation_iso: kor
+    name: 남부 슬레이비어
+    auto: true
   - translation_iso: por
     name: Slavey do Sul
     auto: true

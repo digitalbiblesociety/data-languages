@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピアポコ語
+  - translation_iso: kor
+    name: 피아포코어
+    auto: true
   - translation_iso: por
     name: Língua piapoco
+  - translation_iso: rus
+    name: Пиапоко
   - translation_iso: spa
     name: piapoco
   - translation_iso: zho

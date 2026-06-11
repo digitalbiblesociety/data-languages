@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムバト語
     auto: true
+  - translation_iso: kor
+    name: 음바토어
+    auto: true
   - translation_iso: por
     name: Mbato
     auto: true

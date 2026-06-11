@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ユウト・ワム語
     auto: true
+  - translation_iso: kor
+    name: 요우트왐어
+    auto: true
   - translation_iso: por
     name: yout wam
     auto: true

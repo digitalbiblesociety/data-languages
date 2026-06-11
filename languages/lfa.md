@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レファ語
     auto: true
+  - translation_iso: kor
+    name: 레파어
+    auto: true
   - translation_iso: por
     name: Lefa
     auto: true

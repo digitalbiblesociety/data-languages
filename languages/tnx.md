@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タネマ語
+  - translation_iso: kor
+    name: 타네마어
+    auto: true
   - translation_iso: por
     name: Língua tanema
+  - translation_iso: rus
+    name: Танема
   - translation_iso: spa
     name: Tanema
     auto: true

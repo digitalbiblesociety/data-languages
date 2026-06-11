@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムボイ語
     auto: true
+  - translation_iso: kor
+    name: 음보이어
+    auto: true
   - translation_iso: por
     name: Mboi
     auto: true

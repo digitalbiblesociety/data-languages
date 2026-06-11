@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コミニムング語
     auto: true
+  - translation_iso: kor
+    name: 코미니뭉어
+    auto: true
   - translation_iso: por
     name: Kominimung
     auto: true

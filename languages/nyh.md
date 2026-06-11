@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニギナ語
+  - translation_iso: kor
+    name: 니키나어
+    auto: true
   - translation_iso: por
     name: Nyikina
     auto: true
+  - translation_iso: rus
+    name: ньикина
   - translation_iso: spa
     name: Nyikina
     auto: true

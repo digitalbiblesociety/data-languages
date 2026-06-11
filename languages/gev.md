@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィヤ語
+  - translation_iso: kor
+    name: 에비야어
+    auto: true
   - translation_iso: por
     name: Eviya
     auto: true

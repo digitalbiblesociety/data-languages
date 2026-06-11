@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボド語
     auto: true
+  - translation_iso: kor
+    name: 보도어
+    auto: true
   - translation_iso: por
     name: Bodo (República Centro-Africana)
     auto: true

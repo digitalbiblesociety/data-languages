@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カカンダ語
     auto: true
+  - translation_iso: kor
+    name: 카칸다어
+    auto: true
   - translation_iso: por
     name: Kakanda
     auto: true

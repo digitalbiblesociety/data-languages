@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ティアレ語
     auto: true
+  - translation_iso: kor
+    name: 티알레어
+    auto: true
   - translation_iso: por
     name: Tiale
     auto: true
+  - translation_iso: rus
+    name: Малмарив
   - translation_iso: spa
     name: malmariv
   - translation_iso: zho

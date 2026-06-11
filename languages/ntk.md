@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イコマ・ナタ・イセンイェ語
     auto: true
+  - translation_iso: kor
+    name: 이코마나타이세녜어
+    auto: true
   - translation_iso: por
     name: Ikoma-Nata-Isenye
     auto: true

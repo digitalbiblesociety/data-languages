@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: वोलियो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wolio
   - translation_iso: jpn
     name: ウォリオ語
   - translation_iso: kor
     name: 월리오어
   - translation_iso: por
     name: Língua wolio
+  - translation_iso: rus
+    name: язык уолио
   - translation_iso: spa
     name: Wolio
     auto: true

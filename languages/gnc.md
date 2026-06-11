@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: ग्वांचे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Guanche
   - translation_iso: jpn
     name: グアンチェ語
   - translation_iso: kor
     name: 관체어
   - translation_iso: por
     name: Língua guanche
+  - translation_iso: rus
+    name: гуанчские языки
   - translation_iso: spa
     name: lenguas guanches
   - translation_iso: zho

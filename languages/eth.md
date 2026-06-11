@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Ethiopian
     auto: true
+  - translation_iso: ben
+    name: ইথিওপীয় সাংকেতিক ভাষা
   - translation_iso: deu
     name: Äthiopische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エチオピア手話
+  - translation_iso: kor
+    name: 에티오피아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Etiópia
   - translation_iso: spa

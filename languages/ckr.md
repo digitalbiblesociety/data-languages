@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カイラック語
     auto: true
+  - translation_iso: kor
+    name: 카이라크어
+    auto: true
   - translation_iso: por
     name: Kairak
     auto: true

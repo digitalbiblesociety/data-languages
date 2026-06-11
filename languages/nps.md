@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: निपसान
     auto: true
+  - translation_iso: ind
+    name: Jale Selatan
   - translation_iso: jpn
     name: ニプサン語
+    auto: true
+  - translation_iso: kor
+    name: 닙산어
     auto: true
   - translation_iso: por
     name: Nipsan

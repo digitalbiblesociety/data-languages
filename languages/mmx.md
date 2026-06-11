@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マダク語
+  - translation_iso: kor
+    name: 마다크어
+    auto: true
   - translation_iso: por
     name: Madak
     auto: true

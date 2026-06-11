@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イインウム語
     auto: true
+  - translation_iso: kor
+    name: 인움어
+    auto: true
   - translation_iso: por
     name: yinwum
     auto: true

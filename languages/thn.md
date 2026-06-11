@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: ثاتشانادان
     auto: true
+  - translation_iso: ben
+    name: থাচানাদান ভাষা
   - translation_iso: deu
     name: Thachanadan
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タチャナダン語
+    auto: true
+  - translation_iso: kor
+    name: 타차나단어
     auto: true
   - translation_iso: por
     name: Thachanadan

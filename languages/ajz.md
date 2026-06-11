@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمري كاربي
     auto: true
+  - translation_iso: ben
+    name: আমরি
   - translation_iso: deu
     name: Amri Karbi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムリ語
+  - translation_iso: kor
+    name: 암리 카르비어
+    auto: true
   - translation_iso: por
     name: Karbi Amri
     auto: true

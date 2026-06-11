@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: バイペイ語
     auto: true
+  - translation_iso: kor
+    name: 바이페이어
+    auto: true
   - translation_iso: por
     name: Vaiphei
     auto: true

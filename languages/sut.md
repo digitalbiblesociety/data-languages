@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サブティアバ語
     auto: true
+  - translation_iso: kor
+    name: 수브티아바어
+    auto: true
   - translation_iso: por
     name: Subtiaba
     auto: true
+  - translation_iso: rus
+    name: субтиаба
   - translation_iso: spa
     name: sutiaba
   - translation_iso: zho

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: गलातियाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Galatia
   - translation_iso: jpn
     name: ガラティア語
   - translation_iso: kor
     name: 갈라티아어
   - translation_iso: por
     name: gálata
+  - translation_iso: rus
+    name: галатский язык
   - translation_iso: spa
     name: gálata
   - translation_iso: zho

@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: वानो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wano
   - translation_iso: jpn
     name: ワノ語
+    auto: true
+  - translation_iso: kor
+    name: 와노어
     auto: true
   - translation_iso: por
     name: Wano
     auto: true
+  - translation_iso: rus
+    name: Вано
   - translation_iso: spa
     name: Wano
     auto: true

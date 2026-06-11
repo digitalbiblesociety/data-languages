@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإكاري
     auto: true
+  - translation_iso: ben
+    name: একারি
   - translation_iso: deu
     name: Ekari
     auto: true
@@ -29,10 +31,17 @@ translations:
   - translation_iso: hin
     name: एकारी
     auto: true
+  - translation_iso: ind
+    name: Ekari
   - translation_iso: jpn
     name: エカリ語
+  - translation_iso: kor
+    name: 에카리어
+    auto: true
   - translation_iso: por
     name: Língua ekari
+  - translation_iso: rus
+    name: Экари (язык)
   - translation_iso: spa
     name: Ekari
     auto: true

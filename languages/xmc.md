@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マク​​ワ・マレボネ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠와·마레보네어
+    auto: true
   - translation_iso: por
     name: Makhuwa-Marrevone
     auto: true

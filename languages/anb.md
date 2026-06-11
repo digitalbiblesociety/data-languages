@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أندوا
     auto: true
+  - translation_iso: ben
+    name: আন্দোয়া
   - translation_iso: deu
     name: Andoa
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンドア語
+  - translation_iso: kor
+    name: 안도아어
+    auto: true
   - translation_iso: por
     name: Língua andoa
+  - translation_iso: rus
+    name: андоа
   - translation_iso: spa
     name: andoa
   - translation_iso: zho

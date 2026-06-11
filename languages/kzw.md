@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カリリ・シオコ語
     auto: true
+  - translation_iso: kor
+    name: 카리리쇼코어
+    auto: true
   - translation_iso: por
     name: Karirí-Xocó
     auto: true
+  - translation_iso: rus
+    name: шоко-карири
   - translation_iso: spa
     name: Karirí-Xocó
     auto: true

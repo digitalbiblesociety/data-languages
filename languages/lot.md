@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロトゥゴ語
+  - translation_iso: kor
+    name: 오투호어
+    auto: true
   - translation_iso: por
     name: Língua lotuko
   - translation_iso: spa

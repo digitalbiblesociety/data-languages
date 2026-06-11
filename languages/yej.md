@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: येवानिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yunani Romaniot
   - translation_iso: jpn
     name: ユダヤ・ギリシア語
+  - translation_iso: kor
+    name: 예바니크어
+    auto: true
   - translation_iso: por
     name: yevanic
+  - translation_iso: rus
+    name: еврейско-греческий диалект
   - translation_iso: spa
     name: judeogriego
   - translation_iso: zho

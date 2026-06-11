@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カムトー語
     auto: true
+  - translation_iso: kor
+    name: 캄토어
+    auto: true
   - translation_iso: por
     name: Camtho
     auto: true

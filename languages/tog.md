@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Malawi)"
 translations:
   - translation_iso: ara
     name: تونجا - نياسا
+  - translation_iso: ben
+    name: নায়াসা টোঙ্গা
   - translation_iso: deu
     name: Tonga
   - translation_iso: fra
     name: tonga
   - translation_iso: hin
     name: न्यासा टोन्गा
+  - translation_iso: ind
+    name: Nyasa Tonga
   - translation_iso: jpn
     name: トンガ語 (ニアサ)
   - translation_iso: kor
     name: 니아사 통가어
   - translation_iso: por
     name: Tonga do Malawi
+  - translation_iso: rus
+    name: тонга
   - translation_iso: spa
     name: tonga del Nyasa
   - translation_iso: zho

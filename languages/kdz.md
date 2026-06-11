@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クワジャ語
     auto: true
+  - translation_iso: kor
+    name: 콰자어
+    auto: true
   - translation_iso: por
     name: Kwaja
     auto: true

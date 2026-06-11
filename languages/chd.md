@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ハイランド・オアハカ・チョンタル語
     auto: true
+  - translation_iso: kor
+    name: 고지 오아하카 촌탈어
+    auto: true
   - translation_iso: por
     name: Chontal das terras altas de Oaxaca
     auto: true
+  - translation_iso: rus
+    name: Высокогорный оахака чонтал
   - translation_iso: spa
     name: Chontal de la Sierra de Oaxaca
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ポウマ語
     auto: true
+  - translation_iso: kor
+    name: 우어
+    auto: true
   - translation_iso: por
     name: U
     auto: true

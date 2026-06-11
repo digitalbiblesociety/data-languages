@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنغورك يالي
     auto: true
+  - translation_iso: ben
+    name: আংগুরুক ইয়ালি
   - translation_iso: deu
     name: Angguruk Yali
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अंगुरुक याली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yali Angguruk
   - translation_iso: jpn
     name: アングルク・ヤリ語
+    auto: true
+  - translation_iso: kor
+    name: 앙구루크 얄리어
     auto: true
   - translation_iso: por
     name: yali de Angguruk

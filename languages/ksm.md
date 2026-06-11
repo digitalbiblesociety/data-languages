@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: クンバ語
     auto: true
+  - translation_iso: kor
+    name: 쿰바어
+    auto: true
   - translation_iso: por
     name: Kumba
     auto: true
+  - translation_iso: rus
+    name: Кумба
   - translation_iso: spa
     name: Kumba
     auto: true

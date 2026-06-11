@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハイフォン手話
+  - translation_iso: kor
+    name: 하이퐁 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Haiphong
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モインギ語
     auto: true
+  - translation_iso: kor
+    name: 모잉기어
+    auto: true
   - translation_iso: por
     name: Moingi
     auto: true

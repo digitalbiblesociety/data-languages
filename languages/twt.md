@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: トゥリウアラ語
     auto: true
+  - translation_iso: kor
+    name: 투리와라어
+    auto: true
   - translation_iso: por
     name: Língua turiuara
+  - translation_iso: rus
+    name: Туривара
   - translation_iso: spa
     name: Turiwára
     auto: true

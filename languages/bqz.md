@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكاكا
     auto: true
+  - translation_iso: ben
+    name: বাকাকা
   - translation_iso: deu
     name: Bakaka
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バカカ語
     auto: true
+  - translation_iso: kor
+    name: 바카카어
+    auto: true
   - translation_iso: por
     name: Bakaka
     auto: true
+  - translation_iso: rus
+    name: мка
   - translation_iso: spa
     name: Bakaka
     auto: true

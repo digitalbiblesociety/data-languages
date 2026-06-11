@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: キャガナ語
     auto: true
+  - translation_iso: kor
+    name: 케야가나어
+    auto: true
   - translation_iso: por
     name: Keyagana
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クワクゥム語
     auto: true
+  - translation_iso: kor
+    name: 콰쿰어
+    auto: true
   - translation_iso: por
     name: Kwakum
     auto: true

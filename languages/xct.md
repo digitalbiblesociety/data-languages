@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كلاسسيكال تيبيتان
     auto: true
+  - translation_iso: ben
+    name: ধ্রুপদী তিব্বতী
   - translation_iso: deu
     name: klassisches Tibetisch
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: hin
     name: शास्त्रीय तिब्बती
     auto: true
+  - translation_iso: ind
+    name: bahasa Tibet Klasik
   - translation_iso: jpn
     name: 古典チベット語
   - translation_iso: kor

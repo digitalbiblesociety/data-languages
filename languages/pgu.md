@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पागू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pagu
   - translation_iso: jpn
     name: パグ語
+  - translation_iso: kor
+    name: 파구어
+    auto: true
   - translation_iso: por
     name: Pagu
     auto: true

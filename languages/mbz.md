@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أمولتيبك
     auto: true
+  - translation_iso: ben
+    name: আমোল্টেপেক মিশটেক
   - translation_iso: deu
     name: Amoltepec Mixtec
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アモルテペク・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 아몰테페크 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Amoltepec
     auto: true
+  - translation_iso: rus
+    name: Амольтепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Amoltepec
     auto: true

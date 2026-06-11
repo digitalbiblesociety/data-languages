@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ティラパ・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 틸라파 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Tilapa
     auto: true
+  - translation_iso: rus
+    name: тилапанский отоми
   - translation_iso: spa
     name: otomí de Tilapa
   - translation_iso: zho

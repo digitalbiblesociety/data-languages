@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: メキシコ州オトミ語
     auto: true
+  - translation_iso: kor
+    name: 멕시코주 오토미어
+    auto: true
   - translation_iso: por
     name: otomi do Estado do México
     auto: true
+  - translation_iso: rus
+    name: Сан-фелипенский отоми
   - translation_iso: spa
     name: otomí del Estado de México
   - translation_iso: zho

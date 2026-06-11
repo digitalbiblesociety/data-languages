@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانجارلا
     auto: true
+  - translation_iso: ben
+    name: বারংগারলা
   - translation_iso: deu
     name: Barngarla
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バンガルラ語
     auto: true
+  - translation_iso: kor
+    name: 방가를라어
+    auto: true
   - translation_iso: por
     name: Banggarla
     auto: true
+  - translation_iso: rus
+    name: барнгарла
   - translation_iso: spa
     name: Idioma barngarla
   - translation_iso: zho

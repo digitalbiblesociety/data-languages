@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モレサダ語
     auto: true
+  - translation_iso: kor
+    name: 모레사다어
+    auto: true
   - translation_iso: por
     name: Moresada
     auto: true

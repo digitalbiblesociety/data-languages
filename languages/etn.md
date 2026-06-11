@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エトン語
     auto: true
+  - translation_iso: kor
+    name: 에톤어
+    auto: true
   - translation_iso: por
     name: Eton (Vanuatu)
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソクナ語
+  - translation_iso: kor
+    name: 사우크나어
+    auto: true
   - translation_iso: por
     name: Língua de Socna
+  - translation_iso: rus
+    name: Сокна
   - translation_iso: spa
     name: Idioma sawknah
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيندّيليّاكوا
     auto: true
+  - translation_iso: ben
+    name: আনিন্দিলইয়াকওয়া
   - translation_iso: deu
     name: Anindilyakwa
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エニンディリャグワ語
+  - translation_iso: kor
+    name: 아닌딜리아콰어
+    auto: true
   - translation_iso: por
     name: Língua enindhilyagwa
+  - translation_iso: rus
+    name: Энинтиляква
   - translation_iso: spa
     name: Anindilyakwa
     auto: true

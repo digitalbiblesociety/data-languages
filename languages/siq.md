@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソニア語
     auto: true
+  - translation_iso: kor
+    name: 소니아어
+    auto: true
   - translation_iso: por
     name: Sonia
     auto: true

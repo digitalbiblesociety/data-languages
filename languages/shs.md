@@ -30,8 +30,13 @@ translations:
     name: शुस्वाप भाषा
   - translation_iso: jpn
     name: シュスワプ語
+  - translation_iso: kor
+    name: 슈스왑어
+    auto: true
   - translation_iso: por
     name: Língua shuswap
+  - translation_iso: rus
+    name: Шусвап
   - translation_iso: spa
     name: Shuswap
   - translation_iso: zho

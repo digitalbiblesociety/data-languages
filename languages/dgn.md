@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダゴマン語
     auto: true
+  - translation_iso: kor
+    name: 다고만어
+    auto: true
   - translation_iso: por
     name: Dagoman
     auto: true

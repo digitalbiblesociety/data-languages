@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: यावा
     auto: true
+  - translation_iso: ind
+    name: Yawa
   - translation_iso: jpn
     name: ヤワ語
+  - translation_iso: kor
+    name: 야와어
+    auto: true
   - translation_iso: por
     name: yawa
     auto: true

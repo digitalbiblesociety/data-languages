@@ -20,18 +20,24 @@ wikidata_id: Q41432343
 translations:
   - translation_iso: ara
     name: الروا
+  - translation_iso: ben
+    name: রাওয়া
   - translation_iso: deu
     name: Rwa
   - translation_iso: fra
     name: rwa
   - translation_iso: hin
     name: रवा
+  - translation_iso: ind
+    name: Rwa
   - translation_iso: jpn
     name: ルワ語
   - translation_iso: kor
     name: 르와어
   - translation_iso: por
     name: rwa
+  - translation_iso: rus
+    name: руанда
   - translation_iso: spa
     name: rwa
   - translation_iso: zho

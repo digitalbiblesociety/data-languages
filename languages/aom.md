@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オミエ語
     auto: true
+  - translation_iso: kor
+    name: 외미에어
+    auto: true
   - translation_iso: por
     name: Ömie
     auto: true

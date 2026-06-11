@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: シイン・チン語
     auto: true
+  - translation_iso: kor
+    name: 시인 친어
+    auto: true
   - translation_iso: por
     name: Chin Siyin
     auto: true
+  - translation_iso: rus
+    name: Сийинский язык
   - translation_iso: spa
     name: Chin Siyin
     auto: true

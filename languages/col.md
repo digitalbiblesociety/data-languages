@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コロンビア語
+  - translation_iso: kor
+    name: 컬럼비아웨나치어
+    auto: true
   - translation_iso: por
     name: Columbia-Wenatchi
     auto: true
+  - translation_iso: rus
+    name: Колумбийский венатчи
   - translation_iso: spa
     name: Columbia-Wenatchi
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पालुए
     auto: true
+  - translation_iso: ind
+    name: Palue
   - translation_iso: jpn
     name: パルエ語
+    auto: true
+  - translation_iso: kor
+    name: 팔루에어
     auto: true
   - translation_iso: por
     name: Palue

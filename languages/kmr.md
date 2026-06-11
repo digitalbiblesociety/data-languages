@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurmanji"
 translations:
   - translation_iso: ara
     name: كرمانجي
+  - translation_iso: ben
+    name: কুর্মাঞ্জি
   - translation_iso: deu
     name: Kurmandschi
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: उत्तरी कुर्दी - कुरमानजी
     auto: true
+  - translation_iso: ind
+    name: Kurmanji
   - translation_iso: jpn
     name: クルマンジー
   - translation_iso: kor
     name: 쿠르만지어
   - translation_iso: por
     name: curmânji
+  - translation_iso: rus
+    name: курманджи
   - translation_iso: spa
     name: kurmanji
   - translation_iso: zho

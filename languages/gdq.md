@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mehri_language"
 translations:
   - translation_iso: ara
     name: اللغة المهرية
+  - translation_iso: ben
+    name: মেহরি ভাষা
   - translation_iso: deu
     name: Mehri
   - translation_iso: fra
@@ -27,10 +29,17 @@ translations:
   - translation_iso: hin
     name: मेहरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mehri
   - translation_iso: jpn
     name: マフラ語
+  - translation_iso: kor
+    name: 메흐리어
+    auto: true
   - translation_iso: por
     name: Língua mehri
+  - translation_iso: rus
+    name: Мехри
   - translation_iso: spa
     name: mehri
   - translation_iso: zho

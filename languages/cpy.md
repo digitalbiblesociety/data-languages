@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ウカヤリ・アシェニンカ語
     auto: true
+  - translation_iso: kor
+    name: 남부 우카얄리 아셰닌카어
+    auto: true
   - translation_iso: por
     name: Ashéninka do Ucayali do Sul
     auto: true

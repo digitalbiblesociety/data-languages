@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: पोटावाटोमी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Potawatomi
   - translation_iso: jpn
     name: ポタワトミ語
   - translation_iso: kor
     name: 포타와토미어
   - translation_iso: por
     name: Potawatomi
+  - translation_iso: rus
+    name: Потаватоми
   - translation_iso: spa
     name: potawatomi
   - translation_iso: zho

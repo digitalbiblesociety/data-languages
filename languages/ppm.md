@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पापुमा
     auto: true
+  - translation_iso: ind
+    name: Papuma
   - translation_iso: jpn
     name: パプマ語
+    auto: true
+  - translation_iso: kor
+    name: 파푸마어
     auto: true
   - translation_iso: por
     name: Papuma

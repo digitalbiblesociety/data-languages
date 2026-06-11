@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワミン語
     auto: true
+  - translation_iso: kor
+    name: 와민어
+    auto: true
   - translation_iso: por
     name: Wamin
     auto: true

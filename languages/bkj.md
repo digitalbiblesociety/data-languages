@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パンデ語
     auto: true
+  - translation_iso: kor
+    name: 판데어
+    auto: true
   - translation_iso: por
     name: Pande
     auto: true

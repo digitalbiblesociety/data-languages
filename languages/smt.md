@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゾミ語
     auto: true
+  - translation_iso: kor
+    name: 심테어
+    auto: true
   - translation_iso: por
     name: Simte
     auto: true

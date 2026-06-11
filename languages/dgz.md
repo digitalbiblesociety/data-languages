@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダガ語
     auto: true
+  - translation_iso: kor
+    name: 다가어
+    auto: true
   - translation_iso: por
     name: Língua daga
   - translation_iso: spa

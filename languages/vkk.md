@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कौर
     auto: true
+  - translation_iso: ind
+    name: Kaur
   - translation_iso: jpn
     name: カウル語
+    auto: true
+  - translation_iso: kor
+    name: 카우르어
     auto: true
   - translation_iso: por
     name: Kaur

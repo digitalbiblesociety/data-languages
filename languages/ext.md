@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Extremaduran_language"
 translations:
   - translation_iso: ara
     name: لغة إكستريمادورا
+  - translation_iso: ben
+    name: এক্সত্রেমাদুরীয় ভাষা
   - translation_iso: deu
     name: Extremadurisc
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: एक्स्ट्रेमादुरान
     auto: true
+  - translation_iso: ind
+    name: bahasa Extremadura
   - translation_iso: jpn
     name: エストレマドゥーラ語
   - translation_iso: kor
     name: 에스트레마두라어
   - translation_iso: por
     name: estremenho
+  - translation_iso: rus
+    name: эстремадурский язык
   - translation_iso: spa
     name: extremeño
   - translation_iso: zho

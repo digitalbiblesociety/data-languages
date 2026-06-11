@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングル語
     auto: true
+  - translation_iso: kor
+    name: 응굴어
+    auto: true
   - translation_iso: por
     name: Ngul
     auto: true

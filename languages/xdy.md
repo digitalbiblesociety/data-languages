@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मलयिक दायक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayik Dayak
   - translation_iso: jpn
     name: マレー系デイアク語
+    auto: true
+  - translation_iso: kor
+    name: 말레이계 다약어
     auto: true
   - translation_iso: por
     name: Daiaque Malaico

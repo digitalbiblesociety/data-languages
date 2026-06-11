@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: सलुआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Saluan
   - translation_iso: jpn
     name: サルアン語
+    auto: true
+  - translation_iso: kor
+    name: 살루안어
     auto: true
   - translation_iso: por
     name: Saluan
     auto: true
+  - translation_iso: rus
+    name: Салуанский язык
   - translation_iso: spa
     name: Saluan
     auto: true

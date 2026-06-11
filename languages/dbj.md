@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イダアン語
+  - translation_iso: kor
+    name: 이다안어
+    auto: true
   - translation_iso: por
     name: "Língua ida'an"
+  - translation_iso: rus
+    name: идаанский язык
   - translation_iso: spa
     name: "Ida'an"
     auto: true

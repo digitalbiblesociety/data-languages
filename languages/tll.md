@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テテラ語
+  - translation_iso: kor
+    name: 테텔라어
+    auto: true
   - translation_iso: por
     name: Tetela
     auto: true
+  - translation_iso: rus
+    name: тетела
   - translation_iso: spa
     name: Tetela
     auto: true

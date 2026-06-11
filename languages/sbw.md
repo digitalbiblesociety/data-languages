@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒンバ語
+  - translation_iso: kor
+    name: 심바어
+    auto: true
   - translation_iso: por
     name: Simba
     auto: true

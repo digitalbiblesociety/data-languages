@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フリイル語
     auto: true
+  - translation_iso: kor
+    name: 풀리루어
+    auto: true
   - translation_iso: por
     name: Fuliiru
     auto: true

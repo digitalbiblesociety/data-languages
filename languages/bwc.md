@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブワイレ語
     auto: true
+  - translation_iso: kor
+    name: 브윌레어
+    auto: true
   - translation_iso: por
     name: Bwile
     auto: true

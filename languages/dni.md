@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロウアー・グランド・ヴァレー・ダニ語
     auto: true
+  - translation_iso: kor
+    name: 하부 그랜드밸리 다니어
+    auto: true
   - translation_iso: por
     name: Dani do Baixo Grand Valley
     auto: true

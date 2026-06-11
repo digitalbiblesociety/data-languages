@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أييري
     auto: true
+  - translation_iso: ben
+    name: আয়েরে
   - translation_iso: deu
     name: Ayere
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイエレ語
+    auto: true
+  - translation_iso: kor
+    name: 아예레어
     auto: true
   - translation_iso: por
     name: Ayere

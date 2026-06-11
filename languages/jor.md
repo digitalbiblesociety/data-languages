@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジョラ語
     auto: true
+  - translation_iso: kor
+    name: 호라어
+    auto: true
   - translation_iso: por
     name: Jorá
     auto: true
+  - translation_iso: rus
+    name: Хора
   - translation_iso: spa
     name: jorá
   - translation_iso: zho

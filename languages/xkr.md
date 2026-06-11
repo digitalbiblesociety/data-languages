@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シャクリアバ語
     auto: true
+  - translation_iso: kor
+    name: 샤크리아바어
+    auto: true
   - translation_iso: por
     name: Xakriabá
     auto: true
+  - translation_iso: rus
+    name: Шакриаба
   - translation_iso: spa
     name: Xakriabá
     auto: true

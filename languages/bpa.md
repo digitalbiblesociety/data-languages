@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダカカ語
+  - translation_iso: kor
+    name: 다카카어
+    auto: true
   - translation_iso: por
     name: Daakaka
     auto: true

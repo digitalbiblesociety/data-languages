@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: पोनोसाकन
     auto: true
+  - translation_iso: ind
+    name: Ponosakan
   - translation_iso: jpn
     name: ポノサカン語
+  - translation_iso: kor
+    name: 포노사칸어
+    auto: true
   - translation_iso: por
     name: Ponosakan
   - translation_iso: spa

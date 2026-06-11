@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セレ語
     auto: true
+  - translation_iso: kor
+    name: 세레어
+    auto: true
   - translation_iso: por
     name: Sere
     auto: true

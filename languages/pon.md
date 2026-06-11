@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pohnpeian_language"
 translations:
   - translation_iso: ara
     name: البوهنبيايان
+  - translation_iso: ben
+    name: পোহ্নপেইয়ান
   - translation_iso: deu
     name: Pohnpeanisch
   - translation_iso: fra
     name: pohnpei
   - translation_iso: hin
     name: पोह्नपिएन
+  - translation_iso: ind
+    name: Pohnpeia
   - translation_iso: jpn
     name: ポンペイ語
   - translation_iso: kor
     name: 폰페이어
   - translation_iso: por
     name: Língua pohnpeiana
+  - translation_iso: rus
+    name: понапе
   - translation_iso: spa
     name: ponapeño
   - translation_iso: zho

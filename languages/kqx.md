@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムセル語
     auto: true
+  - translation_iso: kor
+    name: 음세르어
+    auto: true
   - translation_iso: por
     name: Mser
     auto: true

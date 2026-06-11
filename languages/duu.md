@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: द्रुंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Derung
   - translation_iso: jpn
     name: トーロン語
   - translation_iso: kor
     name: 두룽어
   - translation_iso: por
     name: Língua dulong
+  - translation_iso: rus
+    name: дулунский язык
   - translation_iso: spa
     name: Drung
     auto: true

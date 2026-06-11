@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: रेड गेलाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Vandu
   - translation_iso: jpn
     name: レッド・ゲラオ語
+    auto: true
+  - translation_iso: kor
+    name: 홍거라오어
     auto: true
   - translation_iso: por
     name: gelao vermelho
     auto: true
+  - translation_iso: rus
+    name: Вадэ
   - translation_iso: spa
     name: Gelao rojo
     auto: true

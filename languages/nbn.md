@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kuri
   - translation_iso: jpn
     name: クリ語
+    auto: true
+  - translation_iso: kor
+    name: 쿠리어
     auto: true
   - translation_iso: por
     name: Kuri

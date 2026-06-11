@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: बाताक कारो
     auto: true
+  - translation_iso: ind
+    name: bahasa Batak Karo
   - translation_iso: jpn
     name: カロ語
+  - translation_iso: kor
+    name: 바탁 카로어
+    auto: true
   - translation_iso: por
     name: Batak Karo
     auto: true

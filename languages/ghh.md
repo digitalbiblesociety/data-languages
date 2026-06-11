@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ガレ語
     auto: true
+  - translation_iso: kor
+    name: 북부 갈레어
+    auto: true
   - translation_iso: por
     name: ghale do norte
     auto: true

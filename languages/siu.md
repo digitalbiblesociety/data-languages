@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガル語
     auto: true
+  - translation_iso: kor
+    name: 시나겐어
+    auto: true
   - translation_iso: por
     name: Sinagen
     auto: true

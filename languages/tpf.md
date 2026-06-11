@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: तार्पिया
     auto: true
+  - translation_iso: ind
+    name: Tarpia
   - translation_iso: jpn
     name: スァフラ語
     auto: true

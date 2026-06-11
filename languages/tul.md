@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コトゥレ語
     auto: true
+  - translation_iso: kor
+    name: 툴라어
+    auto: true
   - translation_iso: por
     name: Tula
     auto: true
+  - translation_iso: rus
+    name: Тула
   - translation_iso: spa
     name: Tula
     auto: true

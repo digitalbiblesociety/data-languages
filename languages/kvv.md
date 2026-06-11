@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: कोला
     auto: true
+  - translation_iso: ind
+    name: Kola
   - translation_iso: jpn
     name: コラ語
     auto: true
+  - translation_iso: kor
+    name: 콜라어
+    auto: true
   - translation_iso: por
     name: Kola
+  - translation_iso: rus
+    name: Кола (язык)
   - translation_iso: spa
     name: Kola
   - translation_iso: zho

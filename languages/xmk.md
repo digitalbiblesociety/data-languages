@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_Macedonian_language"
 translations:
   - translation_iso: ara
     name: اللغة المقدونية القديمة
+  - translation_iso: ben
+    name: প্রাচীন মেসিডোনীয়
   - translation_iso: deu
     name: Makedonisch
   - translation_iso: fra
@@ -21,10 +23,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन मकदूनियाई
     auto: true
+  - translation_iso: ind
+    name: Makedonia Kuno
   - translation_iso: jpn
     name: 古代マケドニア語
+  - translation_iso: kor
+    name: 고대 마케도니아어
   - translation_iso: por
     name: macedónio antigo
+  - translation_iso: rus
+    name: древнемакедонский язык
   - translation_iso: spa
     name: macedonio antiguo
   - translation_iso: zho

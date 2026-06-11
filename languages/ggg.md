@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グルグラ語
     auto: true
+  - translation_iso: kor
+    name: 구르굴라어
+    auto: true
   - translation_iso: por
     name: Gurgula
     auto: true

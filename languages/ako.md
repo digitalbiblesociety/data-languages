@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوريو
     auto: true
+  - translation_iso: ben
+    name: আকুরিও
   - translation_iso: deu
     name: Akurio
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アクリオ語
     auto: true
+  - translation_iso: kor
+    name: 아쿠리오어
+    auto: true
   - translation_iso: por
     name: Língua akuriyó
+  - translation_iso: rus
+    name: Акурио
   - translation_iso: spa
     name: Akurio
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باسا-جومْنا
     auto: true
+  - translation_iso: ben
+    name: বাসা-গুমনা
   - translation_iso: deu
     name: Basa-Gumna
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサ・グムナ語
+  - translation_iso: kor
+    name: 바사굼나어
+    auto: true
   - translation_iso: por
     name: Basa-Gumna
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブサミ語
     auto: true
+  - translation_iso: kor
+    name: 부사미어
+    auto: true
   - translation_iso: por
     name: Busami
     auto: true

@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: मिल्यन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Milya
   - translation_iso: jpn
     name: ミリヤ語
+  - translation_iso: kor
+    name: 밀리아어
+    auto: true
   - translation_iso: por
     name: Miliano
     auto: true
+  - translation_iso: rus
+    name: милийский язык
   - translation_iso: spa
     name: Milya
     auto: true

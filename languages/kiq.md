@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कोसाद्ले
     auto: true
+  - translation_iso: ind
+    name: Kosare
   - translation_iso: jpn
     name: コサドレ語
+    auto: true
+  - translation_iso: kor
+    name: 코사들레어
     auto: true
   - translation_iso: por
     name: Kosadle

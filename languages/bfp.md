@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيبا
     auto: true
+  - translation_iso: ben
+    name: বেবা
   - translation_iso: deu
     name: Beba
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベバ語
+    auto: true
+  - translation_iso: kor
+    name: 베바어
     auto: true
   - translation_iso: por
     name: Beba

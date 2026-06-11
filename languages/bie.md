@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيبور
     auto: true
+  - translation_iso: ben
+    name: বেপৌর
   - translation_iso: deu
     name: Bepour
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベプール語
+    auto: true
+  - translation_iso: kor
+    name: 베푸르어
     auto: true
   - translation_iso: por
     name: Bepour

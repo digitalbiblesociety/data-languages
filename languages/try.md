@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥルン語
+  - translation_iso: kor
+    name: 투룽어
+    auto: true
   - translation_iso: por
     name: Turung
     auto: true

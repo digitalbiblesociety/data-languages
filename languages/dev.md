@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドムング語
     auto: true
+  - translation_iso: kor
+    name: 도뭉어
+    auto: true
   - translation_iso: por
     name: Domung
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فا دمبو
     auto: true
+  - translation_iso: ben
+    name: অ্যানোবোনিস ক্রেওল
   - translation_iso: deu
     name: Annobonesisch
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アノボネセ語
+  - translation_iso: kor
+    name: 파담부어
+    auto: true
   - translation_iso: por
     name: "Fá d'Ambô"
+  - translation_iso: rus
+    name: Аннобонский язык
   - translation_iso: spa
     name: criollo annobonense
   - translation_iso: zho

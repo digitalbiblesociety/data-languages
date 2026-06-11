@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クパサム語
     auto: true
+  - translation_iso: kor
+    name: 크파삼어
+    auto: true
   - translation_iso: por
     name: Kpasam
     auto: true
+  - translation_iso: rus
+    name: Кпасам
   - translation_iso: spa
     name: Kpasam
     auto: true

@@ -28,11 +28,18 @@ translations:
     name: parya
   - translation_iso: hin
     name: प्रिया भाषा
+  - translation_iso: ind
+    name: Bahasa Parya
   - translation_iso: jpn
     name: タジュズベク語
+  - translation_iso: kor
+    name: 파리야어
+    auto: true
   - translation_iso: por
     name: Parya
     auto: true
+  - translation_iso: rus
+    name: парья
   - translation_iso: spa
     name: Parya
     auto: true

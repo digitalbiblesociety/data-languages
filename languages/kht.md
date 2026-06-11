@@ -29,10 +29,17 @@ translations:
     name: khamti
   - translation_iso: hin
     name: खाम्प्टी भाषा
+  - translation_iso: ind
+    name: Bahasa Khamti
   - translation_iso: jpn
     name: カムティ語
+  - translation_iso: kor
+    name: 캄티어
+    auto: true
   - translation_iso: por
     name: Língua khamti
+  - translation_iso: rus
+    name: кхамти
   - translation_iso: spa
     name: Khamti
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيين موروفو
     auto: true
+  - translation_iso: ben
+    name: আনিন মোরোফো
   - translation_iso: deu
     name: Anyin Morofo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニン・モロフォ語
+    auto: true
+  - translation_iso: kor
+    name: 아니 모로포어
     auto: true
   - translation_iso: por
     name: Anyin Morofo

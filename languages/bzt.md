@@ -31,6 +31,8 @@ translations:
     name: 브리터니그
   - translation_iso: por
     name: Brithenig
+  - translation_iso: rus
+    name: бритениг
   - translation_iso: spa
     name: Brithenig
   - translation_iso: zho

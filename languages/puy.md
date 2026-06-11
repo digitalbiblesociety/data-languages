@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: プリシメーニョ語
     auto: true
+  - translation_iso: kor
+    name: 푸리시메뇨어
+    auto: true
   - translation_iso: por
     name: Purisimeño
     auto: true
+  - translation_iso: rus
+    name: пурисименьо
   - translation_iso: spa
     name: Purisimeño
     auto: true

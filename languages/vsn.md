@@ -14,18 +14,24 @@ translations:
   - translation_iso: ara
     name: السنسكريتية الفيدية
     auto: true
+  - translation_iso: ben
+    name: বৈদিক সংস্কৃত
   - translation_iso: deu
     name: Vedisch
   - translation_iso: fra
     name: sanskrit védique
   - translation_iso: hin
     name: वैदिक संस्कृत
+  - translation_iso: ind
+    name: Bahasa Weda
   - translation_iso: jpn
     name: ヴェーダ語
   - translation_iso: kor
     name: 베다 산스크리트어
   - translation_iso: por
     name: Sânscrito védico
+  - translation_iso: rus
+    name: ведийский язык
   - translation_iso: spa
     name: Sánscrito védico
   - translation_iso: zho

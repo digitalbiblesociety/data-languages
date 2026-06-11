@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゼナグ語
     auto: true
+  - translation_iso: kor
+    name: 제나그어
+    auto: true
   - translation_iso: por
     name: zenag
     auto: true

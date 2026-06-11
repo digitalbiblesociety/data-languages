@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テネ・カン・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 테네칸 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Tene Kan
     auto: true

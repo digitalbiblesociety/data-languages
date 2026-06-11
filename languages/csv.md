@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: スムツ・チン語
     auto: true
+  - translation_iso: kor
+    name: 숨투 친어
+    auto: true
   - translation_iso: por
     name: Chin Sumtu
     auto: true

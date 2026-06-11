@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 中央バイ語
     auto: true
+  - translation_iso: kor
+    name: 중앙 바이어
+    auto: true
   - translation_iso: por
     name: Bai central
     auto: true

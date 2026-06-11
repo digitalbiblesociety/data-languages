@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンガ語
+  - translation_iso: kor
+    name: 싱가어
+    auto: true
   - translation_iso: por
     name: Singa
     auto: true

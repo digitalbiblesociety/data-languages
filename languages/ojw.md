@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Ojibwa_language"
 translations:
   - translation_iso: ara
     name: الأوجيبوا الغربية
+  - translation_iso: ben
+    name: পশ্চিম ওজিবোয়া
   - translation_iso: deu
     name: West-Ojibwe
   - translation_iso: fra
     name: saulteaux
   - translation_iso: hin
     name: पश्चिमी ओजिब्वा
+  - translation_iso: ind
+    name: Ojibwe Barat
   - translation_iso: jpn
     name: 西部オジブワ語
   - translation_iso: kor
     name: 서부 오지브와어
   - translation_iso: por
     name: ojibwa ocidental
+  - translation_iso: rus
+    name: западный оджибве
   - translation_iso: spa
     name: ojibwa occidental
   - translation_iso: zho

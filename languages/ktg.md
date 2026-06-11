@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カルクトゥン語
     auto: true
+  - translation_iso: kor
+    name: 칼쿠퉁어
+    auto: true
   - translation_iso: por
     name: Língua kalkatungu
   - translation_iso: spa

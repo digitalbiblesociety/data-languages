@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナチェズ語
+  - translation_iso: kor
+    name: 나체즈어
+    auto: true
   - translation_iso: por
     name: Língua natchez
+  - translation_iso: rus
+    name: Натчез (язык)
   - translation_iso: spa
     name: idioma natchez
   - translation_iso: zho

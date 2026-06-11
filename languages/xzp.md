@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك القديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন জাপোটেক
   - translation_iso: deu
     name: Altzapotekisch
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代サポテク語
+  - translation_iso: kor
+    name: 고대 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco antigo
     auto: true

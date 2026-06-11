@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Edomite_language"
 translations:
   - translation_iso: ara
     name: لغة إدومية
+  - translation_iso: ben
+    name: এদোমাইট
   - translation_iso: deu
     name: Edomitisch
     auto: true
@@ -21,12 +23,16 @@ translations:
   - translation_iso: hin
     name: एदोमी
     auto: true
+  - translation_iso: ind
+    name: Edom
   - translation_iso: jpn
     name: エドム語
   - translation_iso: kor
     name: 에돔어
   - translation_iso: por
     name: Língua edomita
+  - translation_iso: rus
+    name: Эдомитский язык
   - translation_iso: spa
     name: Idioma edomita
   - translation_iso: zho

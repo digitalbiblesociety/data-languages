@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بياو جياو ميين
     auto: true
+  - translation_iso: ben
+    name: বায়েও মিন
   - translation_iso: deu
     name: Biao-Jiao Mien
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビャオ・ジャオ・ミエン語
+    auto: true
+  - translation_iso: kor
+    name: 뱌오자오 미엔어
     auto: true
   - translation_iso: por
     name: Mien biao-jiao

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワタム語
     auto: true
+  - translation_iso: kor
+    name: 와탐어
+    auto: true
   - translation_iso: por
     name: Watam
     auto: true

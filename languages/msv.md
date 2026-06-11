@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マスラム語
     auto: true
+  - translation_iso: kor
+    name: 마슬람어
+    auto: true
   - translation_iso: por
     name: Maslam
     auto: true

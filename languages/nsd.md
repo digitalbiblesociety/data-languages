@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南ニス語
     auto: true
+  - translation_iso: kor
+    name: 남부 니수어
+    auto: true
   - translation_iso: por
     name: Nisu Meridional
     auto: true

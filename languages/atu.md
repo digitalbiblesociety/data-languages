@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Reel語
+  - translation_iso: kor
+    name: 렐어
+    auto: true
   - translation_iso: por
     name: Reel
     auto: true
+  - translation_iso: rus
+    name: Реель
   - translation_iso: spa
     name: Reel
     auto: true

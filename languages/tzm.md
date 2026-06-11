@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Atlas_Tamazight"
 translations:
   - translation_iso: ara
     name: تمازيغت
+  - translation_iso: ben
+    name: সেন্ট্রাল আটলাস তামাজিগাত
   - translation_iso: deu
     name: Zentralatlas-Tamazight
   - translation_iso: fra
     name: tamazight du Maroc central
   - translation_iso: hin
     name: मध्य एटलस तमाज़ित
+  - translation_iso: ind
+    name: Tamazight Maroko Tengah
   - translation_iso: jpn
     name: 中央アトラス・タマジクト語
   - translation_iso: kor
     name: 중앙 아틀라스 타마지그트어
   - translation_iso: por
     name: tamazight do Atlas Central
+  - translation_iso: rus
+    name: среднеатласский тамазигхтский
   - translation_iso: spa
     name: Tamazight del Marruecos Central
   - translation_iso: zho

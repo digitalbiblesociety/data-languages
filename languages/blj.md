@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बोलोंगन
     auto: true
+  - translation_iso: ind
+    name: Bulungan
   - translation_iso: jpn
     name: ボロンガン語
+    auto: true
+  - translation_iso: kor
+    name: 볼롱안어
     auto: true
   - translation_iso: por
     name: Bolongan

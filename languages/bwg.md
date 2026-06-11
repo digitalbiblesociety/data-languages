@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بارويي
     auto: true
+  - translation_iso: ben
+    name: বারওয়ে
   - translation_iso: deu
     name: Barwe
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルウェ語
+  - translation_iso: kor
+    name: 바르웨어
+    auto: true
   - translation_iso: por
     name: Barwe
     auto: true

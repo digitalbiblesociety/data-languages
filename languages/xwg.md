@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クウェグ語
     auto: true
+  - translation_iso: kor
+    name: 크웨구어
+    auto: true
   - translation_iso: por
     name: kwegu
     auto: true

@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アティカム語
     auto: true
+  - translation_iso: kor
+    name: 우아무에어
+    auto: true
   - translation_iso: por
     name: Língua aticum
+  - translation_iso: rus
+    name: Уамуэ
   - translation_iso: spa
     name: Idioma aticum
   - translation_iso: zho

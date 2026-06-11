@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mundang_language"
 translations:
   - translation_iso: ara
     name: مندنج
+  - translation_iso: ben
+    name: মুদাঙ্গ
   - translation_iso: deu
     name: Mundang
   - translation_iso: fra
     name: moundang
   - translation_iso: hin
     name: मुंडैंग
+  - translation_iso: ind
+    name: Mundang
   - translation_iso: jpn
     name: ムンダン語
   - translation_iso: kor
     name: 문당어
   - translation_iso: por
     name: Língua mundang
+  - translation_iso: rus
+    name: мунданг
   - translation_iso: spa
     name: mundang
   - translation_iso: zho

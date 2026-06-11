@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Alemannic_German"
 translations:
   - translation_iso: ara
     name: الألامانية
+  - translation_iso: ben
+    name: সুইস জার্মান
   - translation_iso: deu
     name: Alemannisch
   - translation_iso: fra
     name: alémanique
   - translation_iso: hin
     name: स्विस जर्मन
+  - translation_iso: ind
+    name: Jerman (Swiss)
   - translation_iso: jpn
     name: アレマン語
   - translation_iso: kor
     name: 알레만어
   - translation_iso: por
     name: Alemânico
+  - translation_iso: rus
+    name: швейцарский немецкий
   - translation_iso: spa
     name: alemánico
   - translation_iso: zho

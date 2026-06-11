@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・クラン語
     auto: true
+  - translation_iso: kor
+    name: 마이·쿨란어
+    auto: true
   - translation_iso: por
     name: Língua mayi-kulan
   - translation_iso: spa

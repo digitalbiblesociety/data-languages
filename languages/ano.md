@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّوك
     auto: true
+  - translation_iso: ben
+    name: আন্দোকি
   - translation_iso: deu
     name: Andoque
     auto: true
@@ -33,6 +35,8 @@ translations:
     name: 안도케어
   - translation_iso: por
     name: Língua andoque
+  - translation_iso: rus
+    name: Андоке
   - translation_iso: spa
     name: idioma andoque
   - translation_iso: zho

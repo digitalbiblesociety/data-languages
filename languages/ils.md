@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/International_Sign"
 translations:
   - translation_iso: ara
     name: الإشارة الدولية
+  - translation_iso: ben
+    name: আন্তর্জাতিক ইশারা ভাষা
   - translation_iso: deu
     name: International Sign
   - translation_iso: fra
@@ -26,10 +28,17 @@ translations:
   - translation_iso: hin
     name: अंतर्राष्ट्रीय सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Isyarat Internasional
   - translation_iso: jpn
     name: 国際手話
+  - translation_iso: kor
+    name: 국제 수어
+    auto: true
   - translation_iso: por
     name: Gestuno
+  - translation_iso: rus
+    name: джестуно
   - translation_iso: spa
     name: lengua internacional de signos
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khasi_language"
 translations:
   - translation_iso: ara
     name: الخاسية
+  - translation_iso: ben
+    name: খাশি
   - translation_iso: deu
     name: Khasi
   - translation_iso: fra
     name: khasi
   - translation_iso: hin
     name: खसी भाषा
+  - translation_iso: ind
+    name: Khasi
   - translation_iso: jpn
     name: カシ語
   - translation_iso: kor
     name: 카시어
   - translation_iso: por
     name: Língua khasi
+  - translation_iso: rus
+    name: кхаси
   - translation_iso: spa
     name: idioma khasi
   - translation_iso: zho

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビルパイ語
     auto: true
+  - translation_iso: kor
+    name: 비르파이어
+    auto: true
   - translation_iso: por
     name: Birrpayi
     auto: true

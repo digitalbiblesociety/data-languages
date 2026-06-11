@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rombo_language"
 translations:
   - translation_iso: ara
     name: الرومبو
+  - translation_iso: ben
+    name: রম্বো
   - translation_iso: deu
     name: Rombo
   - translation_iso: fra
     name: rombo
   - translation_iso: hin
     name: रोम्बो
+  - translation_iso: ind
+    name: Rombo
   - translation_iso: jpn
     name: ロンボ語
   - translation_iso: kor
     name: 롬보어
   - translation_iso: por
     name: rombo
+  - translation_iso: rus
+    name: ромбо
   - translation_iso: spa
     name: rombo
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: チンダ・レギ・ティヤル語
     auto: true
+  - translation_iso: kor
+    name: 친다레기티얄어
+    auto: true
   - translation_iso: por
     name: Cinda-Regi-Tiyal
     auto: true
+  - translation_iso: rus
+    name: Камуку
   - translation_iso: spa
     name: Cinda-Regi-Tiyal
     auto: true

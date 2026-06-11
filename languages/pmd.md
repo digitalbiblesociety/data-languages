@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パランガンミッダン語
     auto: true
+  - translation_iso: kor
+    name: 팔랑간미당어
+    auto: true
   - translation_iso: por
     name: Pallanganmiddang
     auto: true

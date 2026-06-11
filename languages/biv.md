@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南ビリフォル語
     auto: true
+  - translation_iso: kor
+    name: 남부 비리포르어
+    auto: true
   - translation_iso: por
     name: Birifor meridional
     auto: true

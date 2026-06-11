@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: テキステペックポプロッカ語
     auto: true
+  - translation_iso: kor
+    name: 테히스테펙 포폴루카어
+    auto: true
   - translation_iso: por
     name: Popoluca de Texistepec
     auto: true
+  - translation_iso: rus
+    name: Техистепекский пополукский язык
   - translation_iso: spa
     name: Idioma popoluca (Texistepec)
   - translation_iso: zho

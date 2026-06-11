@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: लोआर्की
     auto: true
+  - translation_iso: ind
+    name: bahasa Loarki
   - translation_iso: jpn
     name: ロアルキ語
+    auto: true
+  - translation_iso: kor
+    name: 로아르키어
     auto: true
   - translation_iso: por
     name: Loarki

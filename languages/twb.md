@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バタンガン・タウブウイド語
     auto: true
+  - translation_iso: kor
+    name: 서부 타우부이드어
+    auto: true
   - translation_iso: por
     name: Tawbuid Ocidental
     auto: true

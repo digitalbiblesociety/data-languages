@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビエリア語
     auto: true
+  - translation_iso: kor
+    name: 비에리아어
+    auto: true
   - translation_iso: por
     name: Bieria
     auto: true

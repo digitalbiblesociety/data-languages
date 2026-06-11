@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मोरी बावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mori Bawah
   - translation_iso: jpn
     name: モリ・バワ語
+    auto: true
+  - translation_iso: kor
+    name: 모리 바와어
     auto: true
   - translation_iso: por
     name: Língua mori bawah

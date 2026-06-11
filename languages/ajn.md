@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّاجين
     auto: true
+  - translation_iso: ben
+    name: আন্দাজিন
   - translation_iso: deu
     name: Andajin
     auto: true
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンダジン語
+    auto: true
+  - translation_iso: kor
+    name: 안다진어
     auto: true
   - translation_iso: por
     name: Andajin

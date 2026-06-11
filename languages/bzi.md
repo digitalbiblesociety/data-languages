@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: बिसु
     auto: true
+  - translation_iso: ind
+    name: bahasa Bisu
   - translation_iso: jpn
     name: ビス語
     auto: true
+  - translation_iso: kor
+    name: 비수어
+    auto: true
   - translation_iso: por
     name: Língua bisu
+  - translation_iso: rus
+    name: бису
   - translation_iso: spa
     name: bisu
   - translation_iso: zho

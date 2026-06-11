@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヴァフスィ語
     auto: true
+  - translation_iso: kor
+    name: 바프시어
+    auto: true
   - translation_iso: por
     name: Vafsi
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クアマシ語
     auto: true
+  - translation_iso: kor
+    name: 쿠아마시어
+    auto: true
   - translation_iso: por
     name: kuamasi
     auto: true

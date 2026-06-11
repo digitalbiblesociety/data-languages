@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيوثوك
     auto: true
+  - translation_iso: ben
+    name: বেওথুক
   - translation_iso: deu
     name: Beothuk
     auto: true
@@ -26,6 +28,8 @@ translations:
   - translation_iso: hin
     name: बेओथुक
     auto: true
+  - translation_iso: ind
+    name: Beothuk
   - translation_iso: jpn
     name: ベオスック語
   - translation_iso: kor
@@ -33,6 +37,8 @@ translations:
   - translation_iso: por
     name: Beothuk
     auto: true
+  - translation_iso: rus
+    name: Беотук
   - translation_iso: spa
     name: beothuk
   - translation_iso: zho

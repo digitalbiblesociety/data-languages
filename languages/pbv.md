@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بنار
     auto: true
+  - translation_iso: ben
+    name: জয়ন্তিয়া ভাষা
   - translation_iso: deu
     name: Pnar
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: प्नार भाषा
   - translation_iso: jpn
     name: プナル語
+    auto: true
+  - translation_iso: kor
+    name: 프나르어
     auto: true
   - translation_iso: por
     name: Pnar

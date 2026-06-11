@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムブラ・ブワッザ語
     auto: true
+  - translation_iso: kor
+    name: 음불라브와자어
+    auto: true
   - translation_iso: por
     name: Mbula-Bwazza
     auto: true

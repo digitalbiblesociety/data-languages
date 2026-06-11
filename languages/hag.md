@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハンガ語
     auto: true
+  - translation_iso: kor
+    name: 항가어
+    auto: true
   - translation_iso: por
     name: Hanga
     auto: true

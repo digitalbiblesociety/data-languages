@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ボング語
     auto: true
+  - translation_iso: kor
+    name: 봉구어
+    auto: true
   - translation_iso: por
     name: Bongu
     auto: true
+  - translation_iso: rus
+    name: Бонгу
   - translation_iso: spa
     name: Bongu
     auto: true

@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Qashqai_language"
 translations:
   - translation_iso: ara
     name: القشقائية
+  - translation_iso: ben
+    name: কাশকাই ভাষা
   - translation_iso: deu
     name: Kaschgaisch
   - translation_iso: fra
     name: kachkaï
   - translation_iso: hin
     name: क़शक़ाई भाषा
+  - translation_iso: ind
+    name: Qashqai
   - translation_iso: jpn
     name: ガシュガーイー語
   - translation_iso: kor
     name: 카슈카이어
   - translation_iso: por
     name: qashqai
+  - translation_iso: rus
+    name: кашкайское наречие
   - translation_iso: spa
     name: kashgai
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: شيردوكبين
     auto: true
+  - translation_iso: ben
+    name: শেরডুকপেন ভাষা
   - translation_iso: deu
     name: Sherdukpen
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: शेरडुकपेन भाषा
   - translation_iso: jpn
     name: メイ語
+    auto: true
+  - translation_iso: kor
+    name: 셰르둑펜어
     auto: true
   - translation_iso: por
     name: Sherdukpen

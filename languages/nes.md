@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بهوتي كيناوري
     auto: true
+  - translation_iso: ben
+    name: ভাটি কিন্নরী
   - translation_iso: deu
     name: Bhoti Kinnauri
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボティ・キンナウリ語
+    auto: true
+  - translation_iso: kor
+    name: 보티 킨나우리어
     auto: true
   - translation_iso: por
     name: Bhoti Kinnauri

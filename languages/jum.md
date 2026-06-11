@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジュムジュム語
     auto: true
+  - translation_iso: kor
+    name: 줌줌어
+    auto: true
   - translation_iso: por
     name: Jumjum
     auto: true

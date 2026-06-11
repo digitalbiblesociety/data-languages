@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: येरेतुआर
     auto: true
+  - translation_iso: ind
+    name: Goni
   - translation_iso: jpn
     name: イェレトゥアル語
+    auto: true
+  - translation_iso: kor
+    name: 예레투아르어
     auto: true
   - translation_iso: por
     name: Yeretuar

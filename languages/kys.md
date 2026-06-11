@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: كايان بارام
     auto: true
+  - translation_iso: ben
+    name: বরাম কায়ান
   - translation_iso: deu
     name: Baram-Kayan
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बरम कायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan Baram
   - translation_iso: jpn
     name: バラム・カヤン語
+    auto: true
+  - translation_iso: kor
+    name: 바람 카얀어
     auto: true
   - translation_iso: por
     name: Kayan de Baram

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イクヴェレ語
+  - translation_iso: kor
+    name: 이퀘레어
+    auto: true
   - translation_iso: por
     name: Língua icuerré
   - translation_iso: spa

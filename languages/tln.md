@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: तालोन्दो
     auto: true
+  - translation_iso: ind
+    name: Talondo’
   - translation_iso: jpn
     name: タロンド語
     auto: true
-  - translation_iso: por
-    name: "Talondo'"
+  - translation_iso: kor
+    name: 탈론도어
     auto: true
+  - translation_iso: por
+    name: Talondo
+    auto: true
+  - translation_iso: rus
+    name: Талондо
   - translation_iso: spa
     name: Talondo
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セイト・カイテツ語
     auto: true
+  - translation_iso: kor
+    name: 세이트카이테투어
+    auto: true
   - translation_iso: por
     name: Seit-Kaitetu
     auto: true

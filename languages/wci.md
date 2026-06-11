@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワシ・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 와치 그베어
+    auto: true
   - translation_iso: por
     name: Waci Gbe
     auto: true

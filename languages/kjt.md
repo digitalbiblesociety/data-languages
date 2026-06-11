@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: プレー・プウォ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 프래 포 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Pwo de Phrae
     auto: true
+  - translation_iso: rus
+    name: пхрэ-пво
   - translation_iso: spa
     name: Karen Pwo de Phrae
     auto: true

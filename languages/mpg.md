@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مارابا
     auto: true
+  - translation_iso: ben
+    name: আজুমেইনা
   - translation_iso: deu
     name: Marba
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: マルバ語
     auto: true
+  - translation_iso: kor
+    name: 마르바어
+    auto: true
   - translation_iso: por
     name: Língua marba
+  - translation_iso: rus
+    name: Марба (язык)
   - translation_iso: spa
     name: Marba
     auto: true

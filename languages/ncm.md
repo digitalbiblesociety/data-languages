@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナンボ語
     auto: true
+  - translation_iso: kor
+    name: 남보어
+    auto: true
   - translation_iso: por
     name: Nambo
     auto: true

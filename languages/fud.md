@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フトゥナ語
+  - translation_iso: kor
+    name: 동푸투나어
+    auto: true
   - translation_iso: por
     name: Língua futunana
+  - translation_iso: rus
+    name: Футуна
   - translation_iso: spa
     name: Futunés del Este
     auto: true

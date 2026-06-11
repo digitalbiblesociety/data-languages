@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 東部アレレント語
     auto: true
+  - translation_iso: kor
+    name: 동부 아렌테어
+    auto: true
   - translation_iso: por
     name: Arrernte Oriental
     auto: true
+  - translation_iso: rus
+    name: восточный аррернте
   - translation_iso: spa
     name: Arrernte oriental
     auto: true

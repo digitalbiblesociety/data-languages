@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コンゾ語
     auto: true
+  - translation_iso: kor
+    name: 콘조어
+    auto: true
   - translation_iso: por
     name: Língua konjo
   - translation_iso: spa

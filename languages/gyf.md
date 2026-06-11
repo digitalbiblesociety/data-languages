@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グンガブラ語
     auto: true
+  - translation_iso: kor
+    name: 궁가불라어
+    auto: true
   - translation_iso: por
     name: Gungabula
     auto: true

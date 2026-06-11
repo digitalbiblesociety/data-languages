@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファイタ語
     auto: true
+  - translation_iso: kor
+    name: 파이타어
+    auto: true
   - translation_iso: por
     name: Faita
     auto: true

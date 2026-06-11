@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yue_Chinese"
 translations:
   - translation_iso: ara
     name: صينية يوي
+  - translation_iso: ben
+    name: ক্যান্টোনিজ
   - translation_iso: deu
     name: Kantonesisch
   - translation_iso: fra
     name: cantonais
   - translation_iso: hin
     name: यू चीनी
+  - translation_iso: ind
+    name: Kanton
   - translation_iso: jpn
     name: 粤語
   - translation_iso: kor
     name: 월어
   - translation_iso: por
     name: Língua yue
+  - translation_iso: rus
+    name: кантонский
   - translation_iso: spa
     name: cantonés
   - translation_iso: zho

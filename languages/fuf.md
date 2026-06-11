@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラー語
+  - translation_iso: kor
+    name: 풀라어
+    auto: true
   - translation_iso: por
     name: pular
     auto: true

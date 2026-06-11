@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ティエマセウェ・ボゾ語
     auto: true
+  - translation_iso: kor
+    name: 티에마체웨 보조어
+    auto: true
   - translation_iso: por
     name: Tiemacèwè Bozo
     auto: true

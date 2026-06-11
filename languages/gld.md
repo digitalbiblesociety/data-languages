@@ -35,6 +35,8 @@ translations:
     name: 나나이어
   - translation_iso: por
     name: Língua nanai
+  - translation_iso: rus
+    name: нанайский язык
   - translation_iso: spa
     name: nanai
   - translation_iso: zho

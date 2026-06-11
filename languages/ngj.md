@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンギエ語
     auto: true
+  - translation_iso: kor
+    name: 응기에어
+    auto: true
   - translation_iso: por
     name: Ngie
     auto: true

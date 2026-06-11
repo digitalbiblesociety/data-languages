@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: वर्सिंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wersing
   - translation_iso: jpn
     name: ウェルシン語
+    auto: true
+  - translation_iso: kor
+    name: 웨르싱어
     auto: true
   - translation_iso: por
     name: Wersing
     auto: true
+  - translation_iso: rus
+    name: версингский язык
   - translation_iso: spa
     name: Wersing
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 炯奈語
+  - translation_iso: kor
+    name: 중나이 부누어
+    auto: true
   - translation_iso: por
     name: Bunu Jiongnai
     auto: true

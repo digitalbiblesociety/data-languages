@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
+  - translation_iso: kor
+    name: 서중부 반다어
+    auto: true
   - translation_iso: por
     name: Banda do Centro-Oeste
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルヤ語
+  - translation_iso: kor
+    name: 바루야어
+    auto: true
   - translation_iso: por
     name: Baruya
     auto: true

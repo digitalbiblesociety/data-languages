@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: एल्सेंग
     auto: true
+  - translation_iso: ind
+    name: Elseng
   - translation_iso: jpn
     name: エルセング語
+    auto: true
+  - translation_iso: kor
+    name: 엘셍어
     auto: true
   - translation_iso: por
     name: Elseng
     auto: true
+  - translation_iso: rus
+    name: Эльсенг
   - translation_iso: spa
     name: Idioma elseng
   - translation_iso: zho

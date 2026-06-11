@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: क्विन्सू
     auto: true
+  - translation_iso: ind
+    name: Ansudu
   - translation_iso: jpn
     name: クウィンスゥ語
+    auto: true
+  - translation_iso: kor
+    name: 퀸수어
     auto: true
   - translation_iso: por
     name: Kwinsu

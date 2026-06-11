@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارات الألبانية
+  - translation_iso: ben
+    name: আলবেনীয় সাংকেতিক ভাষা
   - translation_iso: deu
     name: Albanische Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: kor
+    name: 알바니아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais albanesa
+  - translation_iso: rus
+    name: албанский жестовый язык
   - translation_iso: spa
     name: lengua de signos albanesa
   - translation_iso: zho

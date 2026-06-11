@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カヤガル語
     auto: true
+  - translation_iso: kor
+    name: 카야가르어
+    auto: true
   - translation_iso: por
     name: Kayagar
     auto: true
+  - translation_iso: rus
+    name: Каягарский язык
   - translation_iso: spa
     name: Kayagar
     auto: true

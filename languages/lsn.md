@@ -30,8 +30,13 @@ translations:
     name: तिब्बती सांकेतिक भाषा
   - translation_iso: jpn
     name: チベット手話
+  - translation_iso: kor
+    name: 티베트 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Tibetana
+  - translation_iso: rus
+    name: Тибетский жестовый язык
   - translation_iso: spa
     name: Lengua de señas tibetana
     auto: true

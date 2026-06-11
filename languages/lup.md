@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルンブ語
+  - translation_iso: kor
+    name: 룸부어
+    auto: true
   - translation_iso: por
     name: Lumbu
     auto: true
+  - translation_iso: rus
+    name: лумбу
   - translation_iso: spa
     name: lumbu
   - translation_iso: zho

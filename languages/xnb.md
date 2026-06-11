@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: कनकनबू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kanakanavu
   - translation_iso: jpn
     name: カナカナブ語
   - translation_iso: kor
     name: 카나카나부어
   - translation_iso: por
     name: língua kanakanavu
+  - translation_iso: rus
+    name: канаканабский язык
   - translation_iso: spa
     name: idioma kanakanabu
   - translation_iso: zho

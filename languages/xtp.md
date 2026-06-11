@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サンミゲル・ピエドラス・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산미겔 피에드라스 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de San Miguel Piedras
     auto: true
+  - translation_iso: rus
+    name: Сан-мигель-пьедрасский миштекский язык
   - translation_iso: spa
     name: Mixteco de San Miguel Piedras
     auto: true

@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Laurenciano
     auto: true
+  - translation_iso: rus
+    name: Лаврентийский язык
   - translation_iso: spa
     name: Laurentiano
     auto: true

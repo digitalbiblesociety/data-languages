@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: بيببولمان
     auto: true
+  - translation_iso: ben
+    name: বাবউলমান
   - translation_iso: deu
     name: Bibbulman
     auto: true
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビッブルマン語
+    auto: true
+  - translation_iso: kor
+    name: 비불만어
     auto: true
   - translation_iso: por
     name: Bibbulman

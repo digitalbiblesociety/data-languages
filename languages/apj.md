@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ジカリラ・アパッチ語
     auto: true
+  - translation_iso: kor
+    name: 히카리야 아파치어
+    auto: true
   - translation_iso: por
     name: Língua Jicarilla
+  - translation_iso: rus
+    name: Хикарильянский апаче
   - translation_iso: spa
     name: jicarilla
   - translation_iso: zho

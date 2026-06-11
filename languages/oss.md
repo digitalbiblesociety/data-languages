@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iron_Ossetian"
 translations:
   - translation_iso: ara
     name: الأوسيتيك
+  - translation_iso: ben
+    name: ওসেটিক
   - translation_iso: deu
     name: Ossetisch
   - translation_iso: fra
     name: iron
   - translation_iso: hin
     name: ओस्सेटिक
+  - translation_iso: ind
+    name: Ossetia
   - translation_iso: jpn
     name: イロン方言
   - translation_iso: kor
     name: 오세트어
   - translation_iso: por
     name: osseto
+  - translation_iso: rus
+    name: осетинский
   - translation_iso: spa
     name: Irón
   - translation_iso: zho

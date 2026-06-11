@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カンダウォ語
     auto: true
+  - translation_iso: kor
+    name: 칸다워어
+    auto: true
   - translation_iso: por
     name: Kandawo
     auto: true

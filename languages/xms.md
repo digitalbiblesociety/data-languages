@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロッコ手話
+  - translation_iso: kor
+    name: 모로코 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Marroquina
+  - translation_iso: rus
+    name: марокканский жестовый язык
   - translation_iso: spa
     name: lengua de señas marroquí
   - translation_iso: zho

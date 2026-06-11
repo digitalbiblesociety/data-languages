@@ -31,8 +31,13 @@ translations:
   - translation_iso: hin
     name: हाजी
     auto: true
+  - translation_iso: ind
+    name: Haji
   - translation_iso: jpn
     name: ハジ語
+    auto: true
+  - translation_iso: kor
+    name: 하지어
     auto: true
   - translation_iso: por
     name: Haji

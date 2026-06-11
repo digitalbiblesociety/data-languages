@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुराते
     auto: true
+  - translation_iso: ind
+    name: Burate
   - translation_iso: jpn
     name: ブラテ語
+    auto: true
+  - translation_iso: kor
+    name: 부라테어
     auto: true
   - translation_iso: por
     name: Burate

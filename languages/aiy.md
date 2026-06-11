@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة علي
     auto: true
+  - translation_iso: ben
+    name: আলী
   - translation_iso: deu
     name: Ali
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリ語
+    auto: true
+  - translation_iso: kor
+    name: 알리어
     auto: true
   - translation_iso: por
     name: Ali

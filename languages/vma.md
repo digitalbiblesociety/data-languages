@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マルトゥフニラ語
     auto: true
+  - translation_iso: kor
+    name: 마르투유니라어
+    auto: true
   - translation_iso: por
     name: Martuyhunira
     auto: true

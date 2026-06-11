@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ثادو تشين
     auto: true
+  - translation_iso: ben
+    name: থাডো ভাষা
   - translation_iso: deu
     name: Thado Chin
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: थडो भाषा
   - translation_iso: jpn
     name: タドウ語
+  - translation_iso: kor
+    name: 타도 친어
+    auto: true
   - translation_iso: por
     name: Chin Thado
     auto: true

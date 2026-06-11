@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゲバ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 게바 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Geba
     auto: true

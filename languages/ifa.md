@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: أمغانداد إيفوغاو
     auto: true
+  - translation_iso: ben
+    name: আমগানাদ
   - translation_iso: deu
     name: Amganad-Ifugao
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムガナド・イフガオ語
+    auto: true
+  - translation_iso: kor
+    name: 암가나드 이푸가오어
     auto: true
   - translation_iso: por
     name: Ifugao Amganad

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブレリ語
     auto: true
+  - translation_iso: kor
+    name: 브레리어
+    auto: true
   - translation_iso: por
     name: Breri
     auto: true

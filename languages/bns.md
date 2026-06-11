@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بونديلي
     auto: true
+  - translation_iso: ben
+    name: বুন্দেলি ভাষা
   - translation_iso: deu
     name: Bundeli
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     name: बुंदेली भाषा
   - translation_iso: jpn
     name: ブンデーリー語
+  - translation_iso: kor
+    name: 분델리어
+    auto: true
   - translation_iso: por
     name: Bundeli
     auto: true
+  - translation_iso: rus
+    name: бундели
   - translation_iso: spa
     name: bundeli
   - translation_iso: zho

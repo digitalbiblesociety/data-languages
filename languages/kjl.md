@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・パルバテ・ハム語
     auto: true
+  - translation_iso: kor
+    name: 서부 파르바테 캄어
+    auto: true
   - translation_iso: por
     name: Kham Parbate Ocidental
     auto: true

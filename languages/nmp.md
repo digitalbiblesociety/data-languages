@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニマンブル語
+  - translation_iso: kor
+    name: 니만부르어
+    auto: true
   - translation_iso: por
     name: Nimanbur
     auto: true

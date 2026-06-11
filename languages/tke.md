@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タクワネ語
     auto: true
+  - translation_iso: kor
+    name: 타콰네어
+    auto: true
   - translation_iso: por
     name: Takwane
     auto: true

@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Guarani_dialects"
 translations:
   - translation_iso: ara
     name: اللغة الغوارانية
+  - translation_iso: ben
+    name: গুয়ারানি
   - translation_iso: deu
     name: Guaraní
   - translation_iso: fra
     name: guarani
   - translation_iso: hin
     name: गुआरानी भाषा
+  - translation_iso: ind
+    name: Guarani
   - translation_iso: jpn
     name: グアラニー語
   - translation_iso: kor
     name: 과라니어
   - translation_iso: por
     name: língua guarani
+  - translation_iso: rus
+    name: гуарани
   - translation_iso: spa
     name: guaraní
   - translation_iso: zho

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Col
   - translation_iso: jpn
     name: コル語
+    auto: true
+  - translation_iso: kor
+    name: 콜어
     auto: true
   - translation_iso: por
     name: Col

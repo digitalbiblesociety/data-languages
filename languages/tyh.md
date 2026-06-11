@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オドゥ語
     auto: true
+  - translation_iso: kor
+    name: 오두어
+    auto: true
   - translation_iso: por
     name: "O'du"
     auto: true

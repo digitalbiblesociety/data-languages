@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romagnol"
 translations:
   - translation_iso: ara
     name: الرومانيولية
+  - translation_iso: ben
+    name: রোমানিয়ল
   - translation_iso: deu
     name: Romagnol
   - translation_iso: fra
     name: romagnol
   - translation_iso: hin
     name: रोमागनोल
+  - translation_iso: ind
+    name: bahasa Romagna
   - translation_iso: jpn
     name: ロマーニャ語
   - translation_iso: kor
     name: 로마냐어
   - translation_iso: por
     name: romagnol
+  - translation_iso: rus
+    name: Романьольский язык
   - translation_iso: spa
     name: romañol
   - translation_iso: zho

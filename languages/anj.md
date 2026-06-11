@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنور
     auto: true
+  - translation_iso: ben
+    name: আনোর
   - translation_iso: deu
     name: Anor
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アノル語
+    auto: true
+  - translation_iso: kor
+    name: 아노르어
     auto: true
   - translation_iso: por
     name: Anor

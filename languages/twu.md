@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तेर्मानू
     auto: true
+  - translation_iso: ind
+    name: Termanu
   - translation_iso: jpn
     name: パダ語
+    auto: true
+  - translation_iso: kor
+    name: 테르마누어
     auto: true
   - translation_iso: por
     name: Termanu

@@ -34,6 +34,8 @@ translations:
     name: 리프어
   - translation_iso: por
     name: Língua rifenha
+  - translation_iso: rus
+    name: рифский язык
   - translation_iso: spa
     name: rifeño
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノシャン語
+  - translation_iso: kor
+    name: 리샤니드 노샨어
+    auto: true
   - translation_iso: por
     name: Lishanid Noshan
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: hin
     name: माएक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ye-Maek
   - translation_iso: jpn
     name: 濊貊語
   - translation_iso: kor

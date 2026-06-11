@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダナウ語
     auto: true
+  - translation_iso: kor
+    name: 다나우어
+    auto: true
   - translation_iso: por
     name: Danau
     auto: true

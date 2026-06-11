@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشاورا
     auto: true
+  - translation_iso: ben
+    name: চৌরা ভাষা
   - translation_iso: deu
     name: Chaura
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: चौरा भाषा
   - translation_iso: jpn
     name: チャウラ語
+  - translation_iso: kor
+    name: 차우라어
+    auto: true
   - translation_iso: por
     name: Chaura
     auto: true
+  - translation_iso: rus
+    name: Чаура
   - translation_iso: spa
     name: Chaura
     auto: true

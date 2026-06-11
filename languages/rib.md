@@ -25,9 +25,14 @@ translations:
     name: ब्रिब्री सांकेतिक भाषा
   - translation_iso: jpn
     name: ブリブリ手話
+  - translation_iso: kor
+    name: 브리브리 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Bribri
     auto: true
+  - translation_iso: rus
+    name: брибри (жестовый)
   - translation_iso: spa
     name: Lengua de señas bribri
     auto: true

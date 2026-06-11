@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウクワ語
+  - translation_iso: kor
+    name: 우콰어
+    auto: true
   - translation_iso: por
     name: Ukwa
     auto: true

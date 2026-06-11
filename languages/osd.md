@@ -24,11 +24,18 @@ translations:
   - translation_iso: hin
     name: डिगोर ओस्सेटिक
     auto: true
+  - translation_iso: ind
+    name: Ossetia Digor
   - translation_iso: jpn
     name: ディゴル方言
+  - translation_iso: kor
+    name: 디고르 오세트어
+    auto: true
   - translation_iso: por
     name: osseta digor
     auto: true
+  - translation_iso: rus
+    name: дигорский диалект
   - translation_iso: spa
     name: Digor
   - translation_iso: zho

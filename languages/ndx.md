@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: न्दुगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Nduga
   - translation_iso: jpn
     name: ンドゥガ語
+    auto: true
+  - translation_iso: kor
+    name: 은두가어
     auto: true
   - translation_iso: por
     name: Nduga

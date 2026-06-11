@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サラサカハイランドキチュア語
     auto: true
+  - translation_iso: kor
+    name: 살라사카 고지 키추아어
+    auto: true
   - translation_iso: por
     name: Quíchua das Terras Altas de Salasaca
     auto: true

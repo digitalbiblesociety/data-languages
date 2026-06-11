@@ -34,6 +34,8 @@ translations:
     name: 추흐어
   - translation_iso: por
     name: Língua chuj
+  - translation_iso: rus
+    name: Чухский язык
   - translation_iso: spa
     name: chuj
   - translation_iso: zho

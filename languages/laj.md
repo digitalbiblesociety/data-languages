@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランゴ語
+  - translation_iso: kor
+    name: 랑고어
+    auto: true
   - translation_iso: por
     name: Língua langu
+  - translation_iso: rus
+    name: Ланго
   - translation_iso: spa
     name: Lango (Uganda)
     auto: true

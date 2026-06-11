@@ -29,9 +29,14 @@ translations:
     name: टेबुल सांकेतिक भाषा
   - translation_iso: jpn
     name: テブル手話
+  - translation_iso: kor
+    name: 테불 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Tebul
     auto: true
+  - translation_iso: rus
+    name: тебульский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Tebul
     auto: true

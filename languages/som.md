@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Somali_language"
 translations:
   - translation_iso: ara
     name: الصومالية
+  - translation_iso: ben
+    name: সোমালি
   - translation_iso: deu
     name: Somali
   - translation_iso: fra
     name: somali
   - translation_iso: hin
     name: सोमाली भाषा
+  - translation_iso: ind
+    name: Somalia
   - translation_iso: jpn
     name: ソマリ語
   - translation_iso: kor
     name: 소말리어
   - translation_iso: por
     name: Língua somali
+  - translation_iso: rus
+    name: сомали
   - translation_iso: spa
     name: somalí
   - translation_iso: zho

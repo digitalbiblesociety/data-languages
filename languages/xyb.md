@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤンジバラ語
     auto: true
+  - translation_iso: kor
+    name: 얀지바라어
+    auto: true
   - translation_iso: por
     name: yandjibara
     auto: true

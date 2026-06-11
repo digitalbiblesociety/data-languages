@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: メベング・オクレ・カベン語
     auto: true
+  - translation_iso: kor
+    name: 카야포어
+    auto: true
   - translation_iso: por
     name: Língua Mẽbêngôkre
+  - translation_iso: rus
+    name: Каяпо (язык)
   - translation_iso: spa
     name: "idioma m?bêngôkre"
   - translation_iso: zho

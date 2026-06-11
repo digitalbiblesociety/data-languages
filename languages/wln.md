@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Walloon_language"
 translations:
   - translation_iso: ara
     name: لغة والون
+  - translation_iso: ben
+    name: ওয়ালুন
   - translation_iso: deu
     name: Wallonisch
   - translation_iso: fra
     name: wallon
   - translation_iso: hin
     name: वाल्लून
+  - translation_iso: ind
+    name: Walloon
   - translation_iso: jpn
     name: ワロン語
   - translation_iso: kor
     name: 왈롱어
   - translation_iso: por
     name: valão
+  - translation_iso: rus
+    name: валлонский
   - translation_iso: spa
     name: valón
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लामालेरा
     auto: true
+  - translation_iso: ind
+    name: Lamalera
   - translation_iso: jpn
     name: ラマレラ語
+    auto: true
+  - translation_iso: kor
+    name: 라말레라어
     auto: true
   - translation_iso: por
     name: Lamalera

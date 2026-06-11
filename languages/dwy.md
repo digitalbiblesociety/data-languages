@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワヤ語
     auto: true
+  - translation_iso: kor
+    name: 두와야어
+    auto: true
   - translation_iso: por
     name: Dhuwaya
     auto: true

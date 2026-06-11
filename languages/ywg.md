@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イインハワンカ語
     auto: true
+  - translation_iso: kor
+    name: 인하왕카어
+    auto: true
   - translation_iso: por
     name: yinhawangka
     auto: true

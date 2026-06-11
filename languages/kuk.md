@@ -28,11 +28,16 @@ translations:
   - translation_iso: hin
     name: केपो
     auto: true
+  - translation_iso: ind
+    name: Kepo
   - translation_iso: jpn
     name: ケポ語
     auto: true
+  - translation_iso: kor
+    name: 케포어
+    auto: true
   - translation_iso: por
-    name: "Kepo'"
+    name: Kepo
   - translation_iso: spa
     name: Kepo
   - translation_iso: zho

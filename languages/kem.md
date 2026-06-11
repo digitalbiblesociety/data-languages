@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: केमाक
     auto: true
+  - translation_iso: ind
+    name: bahasa Kemak
   - translation_iso: jpn
     name: ケマク語
+  - translation_iso: kor
+    name: 케막어
+    auto: true
   - translation_iso: por
     name: Língua quémaque
+  - translation_iso: rus
+    name: Кемак
   - translation_iso: spa
     name: Kemak
     auto: true

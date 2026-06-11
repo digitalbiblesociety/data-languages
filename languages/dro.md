@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダロマトゥ・メラナウ語
     auto: true
+  - translation_iso: kor
+    name: 다로마투 멜라나우어
+    auto: true
   - translation_iso: por
     name: Melanau Daro-Matu
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दोउताई
     auto: true
+  - translation_iso: ind
+    name: Doutai
   - translation_iso: jpn
     name: ドウタイ語
+    auto: true
+  - translation_iso: kor
+    name: 도우타이어
     auto: true
   - translation_iso: por
     name: Doutai

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ネクギニ語
     auto: true
+  - translation_iso: kor
+    name: 네크기니어
+    auto: true
   - translation_iso: por
     name: Nekgini
     auto: true

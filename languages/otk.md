@@ -15,12 +15,16 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Turkic"
 translations:
   - translation_iso: ara
     name: التركية القديمة
+  - translation_iso: ben
+    name: প্রাচীন তুর্কীয় ভাষা
   - translation_iso: deu
     name: Alttürkisch
   - translation_iso: fra
     name: vieux-turc
   - translation_iso: hin
     name: पुरानी तुर्की भाषा
+  - translation_iso: ind
+    name: Bahasa Turkik Kuno
   - translation_iso: jpn
     name: 古テュルク語
   - translation_iso: kor
@@ -28,6 +32,8 @@ translations:
   - translation_iso: por
     name: turco antigo
     auto: true
+  - translation_iso: rus
+    name: орхоно-енисейский язык
   - translation_iso: spa
     name: turco antiguo
   - translation_iso: zho

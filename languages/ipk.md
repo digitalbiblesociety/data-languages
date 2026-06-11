@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/I%C3%B1upiaq_language"
 translations:
   - translation_iso: ara
     name: لغة إنوبياك
+  - translation_iso: ben
+    name: ইনুপিয়াক
   - translation_iso: deu
     name: Inupiaq
   - translation_iso: fra
     name: inupiaq
   - translation_iso: hin
     name: इनुपियाक भाषा
+  - translation_iso: ind
+    name: Inupiak
   - translation_iso: jpn
     name: イヌピアック語
   - translation_iso: kor
     name: 이누피아트어
   - translation_iso: por
     name: Língua inupiat
+  - translation_iso: rus
+    name: инупиак
   - translation_iso: spa
     name: Idioma iñupiaq
   - translation_iso: zho

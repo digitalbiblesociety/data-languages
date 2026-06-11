@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イネ語
+  - translation_iso: kor
+    name: 이네어
+    auto: true
   - translation_iso: por
     name: Língua yine
+  - translation_iso: rus
+    name: Пиро
   - translation_iso: spa
     name: yine
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لوتا ناجا
     auto: true
+  - translation_iso: ben
+    name: লোথা ভাষা
   - translation_iso: deu
     name: Lotha-Naga
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: लोथा भाषा
   - translation_iso: jpn
     name: ロタ・ナガ語
+  - translation_iso: kor
+    name: 로타 나가어
+    auto: true
   - translation_iso: por
     name: Naga Lotha
     auto: true
+  - translation_iso: rus
+    name: лотха
   - translation_iso: spa
     name: Naga Lotha
     auto: true

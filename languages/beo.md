@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيامي
     auto: true
+  - translation_iso: ben
+    name: বিয়ামি
   - translation_iso: deu
     name: Beami
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベアミ語
+    auto: true
+  - translation_iso: kor
+    name: 베아미어
     auto: true
   - translation_iso: por
     name: Beami

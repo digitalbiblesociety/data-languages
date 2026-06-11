@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エヴァント語
     auto: true
+  - translation_iso: kor
+    name: 에반트어
+    auto: true
   - translation_iso: por
     name: Evant
     auto: true

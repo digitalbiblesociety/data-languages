@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: イジー語
     auto: true
+  - translation_iso: kor
+    name: 이지이어
+    auto: true
   - translation_iso: por
     name: Izii
     auto: true

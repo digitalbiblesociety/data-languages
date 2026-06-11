@@ -28,9 +28,14 @@ translations:
   - translation_iso: jpn
     name: クラマス・モドック語
     auto: true
+  - translation_iso: kor
+    name: 클래머스·모도크어
+    auto: true
   - translation_iso: por
     name: Klamath-Modoc
     auto: true
+  - translation_iso: rus
+    name: кламат-модокский язык
   - translation_iso: spa
     name: idioma klamath-modoc
   - translation_iso: zho

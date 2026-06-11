@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الساكسونية القديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন স্যাক্সন ভাষা
   - translation_iso: deu
     name: Altsächsisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: पुरानी सैक्सन
     auto: true
+  - translation_iso: ind
+    name: bahasa Saksen Kuno
   - translation_iso: jpn
     name: 古ザクセン語
   - translation_iso: kor
     name: 고대 작센어
   - translation_iso: por
     name: Saxão antigo
+  - translation_iso: rus
+    name: древнесаксонский язык
   - translation_iso: spa
     name: sajón antiguo
   - translation_iso: zho

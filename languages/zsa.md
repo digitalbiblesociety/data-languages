@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サラシラ語
     auto: true
+  - translation_iso: kor
+    name: 사라시라어
+    auto: true
   - translation_iso: por
     name: Sarasira
     auto: true

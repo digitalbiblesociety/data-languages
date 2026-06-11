@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: वियोट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wiyot
   - translation_iso: jpn
     name: ウィヨット語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Wiyot
     auto: true
+  - translation_iso: rus
+    name: Вийот
   - translation_iso: spa
     name: Idioma wiyot
   - translation_iso: zho

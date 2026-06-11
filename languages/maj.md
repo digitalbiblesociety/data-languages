@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ハラパ・デ・ディアス・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 할라파 데 디아스 마사테코어
+    auto: true
   - translation_iso: por
     name: Língua jalapa mazatec
+  - translation_iso: rus
+    name: Халапанский масатекский язык
   - translation_iso: spa
     name: Mazateco de Jalapa de Díaz
     auto: true

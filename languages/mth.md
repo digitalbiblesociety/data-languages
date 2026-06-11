@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मुंगुई
     auto: true
+  - translation_iso: ind
+    name: Munggui
   - translation_iso: jpn
     name: ムングイ語
+    auto: true
+  - translation_iso: kor
+    name: 뭉구이어
     auto: true
   - translation_iso: por
     name: Munggui

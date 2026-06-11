@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بااْنْجي
     auto: true
+  - translation_iso: ben
+    name: বাঙ্গি
   - translation_iso: deu
     name: Baangi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バアンギ語
+    auto: true
+  - translation_iso: kor
+    name: 바앙기어
     auto: true
   - translation_iso: por
     name: Baangi

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मिंग्रेलियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mingrelia
   - translation_iso: jpn
     name: メグレル語
   - translation_iso: kor
     name: 민그렐어
   - translation_iso: por
     name: Língua mingreliana
+  - translation_iso: rus
+    name: мегрельский язык
   - translation_iso: spa
     name: megreliano
   - translation_iso: zho

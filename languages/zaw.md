@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ミトラ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 미틀라 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Mitla
     auto: true
+  - translation_iso: rus
+    name: Митланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Mitla
   - translation_iso: zho

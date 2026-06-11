@@ -26,12 +26,16 @@ translations:
   - translation_iso: hin
     name: पोलाबियन
     auto: true
+  - translation_iso: ind
+    name: Polabia
   - translation_iso: jpn
     name: ポラーブ語
   - translation_iso: kor
     name: 폴라브어
   - translation_iso: por
     name: polábio
+  - translation_iso: rus
+    name: полабский язык
   - translation_iso: spa
     name: polabo
   - translation_iso: zho

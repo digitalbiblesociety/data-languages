@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エジャマット語
     auto: true
+  - translation_iso: kor
+    name: 에자마트어
+    auto: true
   - translation_iso: por
     name: Ejamat
     auto: true

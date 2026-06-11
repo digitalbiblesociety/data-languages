@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンブレ語
     auto: true
+  - translation_iso: kor
+    name: 왐불레어
+    auto: true
   - translation_iso: por
     name: Língua wambule
   - translation_iso: spa

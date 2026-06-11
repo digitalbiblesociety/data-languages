@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة مالاسار
     auto: true
+  - translation_iso: ben
+    name: মালাসার ভাষা
   - translation_iso: deu
     name: Malasar
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラサル語
+    auto: true
+  - translation_iso: kor
+    name: 말라사르어
     auto: true
   - translation_iso: por
     name: malasar

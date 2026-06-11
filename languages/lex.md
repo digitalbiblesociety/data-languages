@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルアン語
     auto: true
+  - translation_iso: kor
+    name: 루앙어
+    auto: true
   - translation_iso: por
     name: Luang
     auto: true

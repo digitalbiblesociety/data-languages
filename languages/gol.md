@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴラ語
+  - translation_iso: kor
+    name: 골라어
+    auto: true
   - translation_iso: por
     name: Gola
     auto: true
+  - translation_iso: rus
+    name: гола
   - translation_iso: spa
     name: Idioma gola
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shilha_language"
 translations:
   - translation_iso: ara
     name: الشلحية
+  - translation_iso: ben
+    name: তাচেলহিত
   - translation_iso: deu
     name: Taschelhit
   - translation_iso: fra
     name: chleuh
   - translation_iso: hin
     name: तैचेल्हित
+  - translation_iso: ind
+    name: Tachelhit
   - translation_iso: jpn
     name: シルハ語
   - translation_iso: kor
     name: 실하어
   - translation_iso: por
     name: Tachelhit
+  - translation_iso: rus
+    name: ташельхит
   - translation_iso: spa
     name: chilha
   - translation_iso: zho

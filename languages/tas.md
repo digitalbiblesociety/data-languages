@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تاي بوي
     auto: true
+  - translation_iso: ben
+    name: তায় বোই পিজিন
   - translation_iso: deu
     name: Tay Boi
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ボイ語
+    auto: true
+  - translation_iso: kor
+    name: 떠이보이어
     auto: true
   - translation_iso: por
     name: Tay Boi

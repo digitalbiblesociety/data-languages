@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: コロシ語
     auto: true
+  - translation_iso: kor
+    name: 코로시어
+    auto: true
   - translation_iso: por
     name: Koroshi
     auto: true
+  - translation_iso: rus
+    name: Короши
   - translation_iso: spa
     name: Koroshi
     auto: true

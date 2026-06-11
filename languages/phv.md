@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パハラヴァニ語
     auto: true
+  - translation_iso: kor
+    name: 팔라바니어
+    auto: true
   - translation_iso: por
     name: Pahlavani
     auto: true

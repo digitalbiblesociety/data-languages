@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミジ諸語
+  - translation_iso: kor
+    name: 사자롱어
+    auto: true
   - translation_iso: por
     name: Sajalong
     auto: true

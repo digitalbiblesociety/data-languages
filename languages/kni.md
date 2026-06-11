@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カヌフィ語
     auto: true
+  - translation_iso: kor
+    name: 카누피어
+    auto: true
   - translation_iso: por
     name: Kanufi
     auto: true

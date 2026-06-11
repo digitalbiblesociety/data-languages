@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: タセ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 타세 나가어
+    auto: true
   - translation_iso: por
     name: Naga Tase
     auto: true
+  - translation_iso: rus
+    name: Тасе-нага
   - translation_iso: spa
     name: Naga Tase
     auto: true

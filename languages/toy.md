@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: टोपोइयो
     auto: true
+  - translation_iso: ind
+    name: Topoiyo
   - translation_iso: jpn
     name: トポイヨ語
+    auto: true
+  - translation_iso: kor
+    name: 토포이요어
     auto: true
   - translation_iso: por
     name: Topoiyo

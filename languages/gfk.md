@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パトパタル語
+  - translation_iso: kor
+    name: 파트파타르어
+    auto: true
   - translation_iso: por
     name: Patpatar
     auto: true

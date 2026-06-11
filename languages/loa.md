@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: लोलोदा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Loloda
   - translation_iso: jpn
     name: ロロダ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Loloda
     auto: true
+  - translation_iso: rus
+    name: Лолода
   - translation_iso: spa
     name: Loloda
     auto: true

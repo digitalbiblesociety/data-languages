@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: モトラヴ語
     auto: true
+  - translation_iso: kor
+    name: 모틀라브어
+    auto: true
   - translation_iso: por
     name: Língua mwotlap
+  - translation_iso: rus
+    name: Мвотлап
   - translation_iso: spa
     name: Motlav
     auto: true

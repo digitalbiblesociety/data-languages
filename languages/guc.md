@@ -34,6 +34,8 @@ translations:
     name: 와유어
   - translation_iso: por
     name: Língua wayuu
+  - translation_iso: rus
+    name: Гуахиро
   - translation_iso: spa
     name: idioma wayú
   - translation_iso: zho

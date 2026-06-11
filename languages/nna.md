@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ニャングマルタ語
     auto: true
+  - translation_iso: kor
+    name: 냥구마르타어
+    auto: true
   - translation_iso: por
     name: Nyangumarta
     auto: true
+  - translation_iso: rus
+    name: нянгумарта
   - translation_iso: spa
     name: nyangumarta
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロレディアカルカル語
     auto: true
+  - translation_iso: kor
+    name: 로레디아카르카르어
+    auto: true
   - translation_iso: por
     name: Lorediakarkar
     auto: true

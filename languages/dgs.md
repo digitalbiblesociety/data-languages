@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドゴソ語
     auto: true
+  - translation_iso: kor
+    name: 도고소어
+    auto: true
   - translation_iso: por
     name: Dogoso
     auto: true

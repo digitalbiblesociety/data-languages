@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: पाउलोही
     auto: true
+  - translation_iso: ind
+    name: Paulohi
   - translation_iso: jpn
     name: パウロヒ語
+    auto: true
+  - translation_iso: kor
+    name: 파울로히어
     auto: true
   - translation_iso: por
     name: Paulohi

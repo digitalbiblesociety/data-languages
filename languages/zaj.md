@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザラモ語
+  - translation_iso: kor
+    name: 자라모어
+    auto: true
   - translation_iso: por
     name: zaramo
     auto: true
+  - translation_iso: rus
+    name: Кизарамо
   - translation_iso: spa
     name: Zaramo
     auto: true

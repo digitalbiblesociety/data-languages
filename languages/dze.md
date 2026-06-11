@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジウワルリ語
     auto: true
+  - translation_iso: kor
+    name: 지왈리어
+    auto: true
   - translation_iso: por
     name: Djiwarli
     auto: true
+  - translation_iso: rus
+    name: тьивали
   - translation_iso: spa
     name: Djiwarli
     auto: true

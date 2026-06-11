@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ザングワル語
     auto: true
+  - translation_iso: kor
+    name: 장괄어
+    auto: true
   - translation_iso: por
     name: zangwal
     auto: true
+  - translation_iso: rus
+    name: Зангвал
   - translation_iso: spa
     name: Zangwal
     auto: true

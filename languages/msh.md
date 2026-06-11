@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マシクル・マダガスカル語
+  - translation_iso: kor
+    name: 마시코로 말라가시어
+    auto: true
   - translation_iso: por
     name: malgaxe masikoro
     auto: true

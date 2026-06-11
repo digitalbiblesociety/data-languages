@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カニテ語
+  - translation_iso: kor
+    name: 카니테어
+    auto: true
   - translation_iso: por
     name: Kanite
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: ben
+    name: বেবেলি
   - translation_iso: deu
     name: Bebeli
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カポレ語
+  - translation_iso: kor
+    name: 베벨리어
+    auto: true
   - translation_iso: por
     name: Bebeli
     auto: true

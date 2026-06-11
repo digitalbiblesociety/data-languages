@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レナケル語
+  - translation_iso: kor
+    name: 레나켈어
+    auto: true
   - translation_iso: por
     name: Lenakel
     auto: true

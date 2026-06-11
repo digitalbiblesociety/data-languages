@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: एतेओसाइप्रियट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Eteosiprus
   - translation_iso: jpn
     name: エテオ・キュプロス語
+  - translation_iso: kor
+    name: 에테오키프로스어
+    auto: true
   - translation_iso: por
     name: eteocipriota
+  - translation_iso: rus
+    name: Этеокипрский язык
   - translation_iso: spa
     name: eteochipriota
   - translation_iso: zho

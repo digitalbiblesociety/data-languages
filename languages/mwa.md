@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムワテブ語
     auto: true
+  - translation_iso: kor
+    name: 므와테부어
+    auto: true
   - translation_iso: por
     name: Mwatebu
     auto: true

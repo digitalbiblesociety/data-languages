@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بانتايانون
     auto: true
+  - translation_iso: ben
+    name: বান্তায়নন
   - translation_iso: deu
     name: Bantayanon
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンタヤノン語
+    auto: true
+  - translation_iso: kor
+    name: 반타야논어
     auto: true
   - translation_iso: por
     name: Bantayanon

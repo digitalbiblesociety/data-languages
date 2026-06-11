@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: मांगोले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mangole
   - translation_iso: jpn
     name: マンゴレ語
+    auto: true
+  - translation_iso: kor
+    name: 망올레어
     auto: true
   - translation_iso: por
     name: Mangole

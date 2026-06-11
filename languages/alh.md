@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألّاوا
     auto: true
+  - translation_iso: ben
+    name: আলাওয়া
   - translation_iso: deu
     name: Alawa
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アラワ語
     auto: true
+  - translation_iso: kor
+    name: 알라와어
+    auto: true
   - translation_iso: por
     name: Alawa
     auto: true
+  - translation_iso: rus
+    name: Алава
   - translation_iso: spa
     name: Alawa
     auto: true

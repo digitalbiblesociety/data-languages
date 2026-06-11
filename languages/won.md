@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウォンゴ語
     auto: true
+  - translation_iso: kor
+    name: 웡고어
+    auto: true
   - translation_iso: por
     name: Wongo
     auto: true

@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Romance"
 translations:
   - translation_iso: ara
     name: المستعربية
+  - translation_iso: ben
+    name: মোসারাবীয় ভাষা
   - translation_iso: deu
     name: Mozarabisch
   - translation_iso: fra
@@ -26,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मोज़ाराबिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Muzarab
   - translation_iso: jpn
     name: モサラベ語
   - translation_iso: kor
     name: 모사라베어
   - translation_iso: por
     name: língua moçárabe
+  - translation_iso: rus
+    name: мосарабский язык
   - translation_iso: spa
     name: mozárabe
   - translation_iso: zho

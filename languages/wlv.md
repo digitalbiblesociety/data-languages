@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウィチ・ハムテス・ベホス語
     auto: true
+  - translation_iso: kor
+    name: 위치 람테스 베호스어
+    auto: true
   - translation_iso: por
     name: Wichí Lhamtés Vejoz
     auto: true
+  - translation_iso: rus
+    name: Вичи-лхамтес-вехос
   - translation_iso: spa
     name: Wichí Lhamtés Vejoz
     auto: true

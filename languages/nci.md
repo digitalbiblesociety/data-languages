@@ -35,6 +35,8 @@ translations:
     name: 고전 나와틀어
   - translation_iso: por
     name: Náuatle clássico
+  - translation_iso: rus
+    name: классический науатль
   - translation_iso: spa
     name: náhuatl clásico
   - translation_iso: zho

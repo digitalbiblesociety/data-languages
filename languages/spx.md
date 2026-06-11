@@ -22,10 +22,17 @@ translations:
   - translation_iso: hin
     name: दक्षिण पिकेने
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pikenum Selatan
   - translation_iso: jpn
     name: 南ピケネ語
+  - translation_iso: kor
+    name: 남부 피케네어
+    auto: true
   - translation_iso: por
     name: piceno meridional
+  - translation_iso: rus
+    name: Южнопиценский язык
   - translation_iso: spa
     name: idioma piceno meridional
   - translation_iso: zho

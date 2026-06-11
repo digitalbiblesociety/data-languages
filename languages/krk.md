@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: केरेक
     auto: true
+  - translation_iso: ind
+    name: bahasa Kerek
   - translation_iso: jpn
     name: ケレク語
   - translation_iso: kor
     name: 케레크어
   - translation_iso: por
     name: Língua kereque
+  - translation_iso: rus
+    name: керекский язык
   - translation_iso: spa
     name: Idioma kerek
   - translation_iso: zho

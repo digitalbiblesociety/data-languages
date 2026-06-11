@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フォンクニアン語
     auto: true
+  - translation_iso: kor
+    name: 퐁크니앙어
+    auto: true
   - translation_iso: por
     name: Phong-Kniang
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウロボ語
+  - translation_iso: kor
+    name: 우르호보어
+    auto: true
   - translation_iso: por
     name: Língua urrobo
+  - translation_iso: rus
+    name: урхобо
   - translation_iso: spa
     name: Urhobo
     auto: true

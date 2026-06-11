@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イタイタ語
+  - translation_iso: kor
+    name: 이타 이타어
+    auto: true
   - translation_iso: por
     name: Yitha Yitha
     auto: true

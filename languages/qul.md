@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北ボリビアンケチュア語
     auto: true
+  - translation_iso: kor
+    name: 북부 볼리비아 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua da Bolívia do Norte
     auto: true
+  - translation_iso: rus
+    name: Северо-боливийский кечуа
   - translation_iso: spa
     name: Quechua boliviano septentrional
     auto: true

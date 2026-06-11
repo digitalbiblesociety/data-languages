@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيمين
     auto: true
+  - translation_iso: ben
+    name: বিমিন
   - translation_iso: deu
     name: Bimin
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビミン語
+    auto: true
+  - translation_iso: kor
+    name: 비민어
     auto: true
   - translation_iso: por
     name: Bimin

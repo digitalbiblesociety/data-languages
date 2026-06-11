@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: チュング語
     auto: true
+  - translation_iso: kor
+    name: 충어
+    auto: true
   - translation_iso: por
     name: Chung
     auto: true
+  - translation_iso: rus
+    name: Чунг
   - translation_iso: spa
     name: Chung
     auto: true

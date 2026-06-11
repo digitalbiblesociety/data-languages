@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: केहू
     auto: true
+  - translation_iso: ind
+    name: Kehu
   - translation_iso: jpn
     name: ケフ語
+    auto: true
+  - translation_iso: kor
+    name: 케후어
     auto: true
   - translation_iso: por
     name: Kehu
     auto: true
+  - translation_iso: rus
+    name: Кеху
   - translation_iso: spa
     name: Kehu
     auto: true

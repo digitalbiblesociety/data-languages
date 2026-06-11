@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イノケ・ヤテ語
     auto: true
+  - translation_iso: kor
+    name: 이노케야테어
+    auto: true
   - translation_iso: por
     name: Inoke-Yate
     auto: true

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サンティアゴ・サニカ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 산티아고샤니카 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Santiago Xanica
     auto: true
+  - translation_iso: rus
+    name: Сантьяго-ханиканский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Santiago Xánica
     auto: true

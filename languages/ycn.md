@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユクナ語
+  - translation_iso: kor
+    name: 유쿠나어
+    auto: true
   - translation_iso: por
     name: yucuna
+  - translation_iso: rus
+    name: Юкуна
   - translation_iso: spa
     name: yucuna
   - translation_iso: zho

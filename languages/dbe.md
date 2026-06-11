@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: दाबे
     auto: true
+  - translation_iso: ind
+    name: Dabe
   - translation_iso: jpn
     name: ダベ語
+    auto: true
+  - translation_iso: kor
+    name: 다베어
     auto: true
   - translation_iso: por
     name: Dabe
     auto: true
+  - translation_iso: rus
+    name: Дабе
   - translation_iso: spa
     name: Dabe
     auto: true

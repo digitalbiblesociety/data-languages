@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マングベツ語
+  - translation_iso: kor
+    name: 망베투어
+    auto: true
   - translation_iso: por
     name: Língua mangbetu
+  - translation_iso: rus
+    name: Мангбету (язык)
   - translation_iso: spa
     name: mangbetu
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プエブラ・マザテク語
     auto: true
+  - translation_iso: kor
+    name: 푸에블라 마사테크어
+    auto: true
   - translation_iso: por
     name: mazateco de Puebla
     auto: true

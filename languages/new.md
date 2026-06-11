@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Newar_language"
 translations:
   - translation_iso: ara
     name: النيوارية
+  - translation_iso: ben
+    name: নেওয়ারি
   - translation_iso: deu
     name: Newari
   - translation_iso: fra
     name: newari
   - translation_iso: hin
     name: नेपालभाषा
+  - translation_iso: ind
+    name: Newari
   - translation_iso: jpn
     name: ネパール・バサ語
   - translation_iso: kor
     name: 네와르어
   - translation_iso: por
     name: Língua bhasa
+  - translation_iso: rus
+    name: неварский
   - translation_iso: spa
     name: Newari
   - translation_iso: zho

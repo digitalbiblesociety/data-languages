@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ساوريا باهاريا
     auto: true
+  - translation_iso: ben
+    name: মালতো ভাষা
   - translation_iso: deu
     name: Malto
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Sauria Paharia
     auto: true
+  - translation_iso: rus
+    name: Малто
   - translation_iso: spa
     name: malto
   - translation_iso: zho

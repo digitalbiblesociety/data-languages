@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: イェンダング語
     auto: true
+  - translation_iso: kor
+    name: 옌당어
+    auto: true
   - translation_iso: por
     name: yendang
     auto: true
+  - translation_iso: rus
+    name: Йенданг
   - translation_iso: spa
     name: Yendang
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カムリン語
     auto: true
+  - translation_iso: kor
+    name: 참링어
+    auto: true
   - translation_iso: por
     name: Língua chamling
   - translation_iso: spa

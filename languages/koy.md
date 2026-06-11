@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コユコン語
+  - translation_iso: kor
+    name: 코유콘어
+    auto: true
   - translation_iso: por
     name: Língua koyukon
+  - translation_iso: rus
+    name: Коюкон
   - translation_iso: spa
     name: koyukón
   - translation_iso: zho

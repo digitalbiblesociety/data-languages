@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ワイラキ語
     auto: true
+  - translation_iso: kor
+    name: 와일라키어
+    auto: true
   - translation_iso: por
     name: Wailaki
     auto: true
+  - translation_iso: rus
+    name: Вайлаки
   - translation_iso: spa
     name: atabasco del río Eel
   - translation_iso: zho

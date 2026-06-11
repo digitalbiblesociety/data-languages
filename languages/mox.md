@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モリマ語
     auto: true
+  - translation_iso: kor
+    name: 몰리마어
+    auto: true
   - translation_iso: por
     name: Molima
     auto: true

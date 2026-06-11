@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मिनरिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Minriq
   - translation_iso: jpn
     name: ミンリク語
+    auto: true
+  - translation_iso: kor
+    name: 민리크어
     auto: true
   - translation_iso: por
     name: Minriq

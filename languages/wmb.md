@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワンバヤ語
+  - translation_iso: kor
+    name: 왐바야어
+    auto: true
   - translation_iso: por
     name: Língua wambaya
+  - translation_iso: rus
+    name: Вампая
   - translation_iso: spa
     name: Wambaya
     auto: true

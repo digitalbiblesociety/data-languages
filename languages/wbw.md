@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: वोई
     auto: true
+  - translation_iso: ind
+    name: Woi
   - translation_iso: jpn
     name: ウォイ語
+    auto: true
+  - translation_iso: kor
+    name: 워이어
     auto: true
   - translation_iso: por
     name: Woi

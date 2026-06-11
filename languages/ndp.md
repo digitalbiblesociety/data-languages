@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンド語
     auto: true
+  - translation_iso: kor
+    name: 은도어
+    auto: true
   - translation_iso: por
     name: Ndo
     auto: true

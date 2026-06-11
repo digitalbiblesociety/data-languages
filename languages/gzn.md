@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: गाने
     auto: true
+  - translation_iso: ind
+    name: Gane
   - translation_iso: jpn
     name: ギマン語
+  - translation_iso: kor
+    name: 가네어
+    auto: true
   - translation_iso: por
     name: Gane
     auto: true

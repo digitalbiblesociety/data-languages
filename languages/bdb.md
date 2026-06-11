@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basap_language"
 translations:
   - translation_iso: ara
     name: لغة الباساب
+  - translation_iso: ben
+    name: বাসপ
   - translation_iso: deu
     name: Basap
     auto: true
@@ -28,12 +30,19 @@ translations:
   - translation_iso: hin
     name: बसाप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Basap
   - translation_iso: jpn
     name: バサップ語
+    auto: true
+  - translation_iso: kor
+    name: 바사프어
     auto: true
   - translation_iso: por
     name: Basap
     auto: true
+  - translation_iso: rus
+    name: басапский язык
   - translation_iso: spa
     name: Basap
     auto: true

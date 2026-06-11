@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケナボイ語
+  - translation_iso: kor
+    name: 케나보이어
+    auto: true
   - translation_iso: por
     name: Kenaboi
     auto: true

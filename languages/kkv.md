@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कांगियान
     auto: true
+  - translation_iso: ind
+    name: Kangean
   - translation_iso: jpn
     name: カンギアン語
+    auto: true
+  - translation_iso: kor
+    name: 캉에안어
     auto: true
   - translation_iso: por
     name: Língua kangeana

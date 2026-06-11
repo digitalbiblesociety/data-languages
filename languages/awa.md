@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awadhi_language"
 translations:
   - translation_iso: ara
     name: الأودية
+  - translation_iso: ben
+    name: আওয়াধি
   - translation_iso: deu
     name: Awadhi
   - translation_iso: fra
     name: awadhi
   - translation_iso: hin
     name: अवधी
+  - translation_iso: ind
+    name: Awadhi
   - translation_iso: jpn
     name: アワディー語
   - translation_iso: kor
     name: 아와히어
   - translation_iso: por
     name: awadhi
+  - translation_iso: rus
+    name: авадхи
   - translation_iso: spa
     name: awadhi
   - translation_iso: zho

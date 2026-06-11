@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジルベ語
     auto: true
+  - translation_iso: kor
+    name: 질베어
+    auto: true
   - translation_iso: por
     name: Jilbe
     auto: true

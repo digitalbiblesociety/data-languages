@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: フユグ語
     auto: true
+  - translation_iso: kor
+    name: 푸유그어
+    auto: true
   - translation_iso: por
     name: Fuyug
     auto: true

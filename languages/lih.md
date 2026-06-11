@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リヒル語
+  - translation_iso: kor
+    name: 리히르어
+    auto: true
   - translation_iso: por
     name: Língua lihir
   - translation_iso: spa

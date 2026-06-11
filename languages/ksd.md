@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: कुआनुआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kuanua
   - translation_iso: jpn
     name: クアヌア語
+  - translation_iso: kor
+    name: 쿠아누아어
+    auto: true
   - translation_iso: por
     name: Língua tolai
+  - translation_iso: rus
+    name: Толаи
   - translation_iso: spa
     name: Kuanua
   - translation_iso: zho

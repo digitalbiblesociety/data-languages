@@ -31,6 +31,8 @@ translations:
     name: 푸키나어
   - translation_iso: por
     name: Língua puquina
+  - translation_iso: rus
+    name: Пукина
   - translation_iso: spa
     name: puquina
   - translation_iso: zho

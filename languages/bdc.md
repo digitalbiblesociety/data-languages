@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة إمبيريه-باودو
     auto: true
+  - translation_iso: ben
+    name: বাউডো
   - translation_iso: deu
     name: Emberá-Baudó
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: エンベラ・バウド語
     auto: true
+  - translation_iso: kor
+    name: 엠베라·바우도어
+    auto: true
   - translation_iso: por
     name: Emberá-Baudó
     auto: true
+  - translation_iso: rus
+    name: Баудо
   - translation_iso: spa
     name: Emberá-Baudó
     auto: true

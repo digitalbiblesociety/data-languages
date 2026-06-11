@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キャロック語
+  - translation_iso: kor
+    name: 카록어
+    auto: true
   - translation_iso: por
     name: Língua karuk
+  - translation_iso: rus
+    name: карук
   - translation_iso: spa
     name: idioma karok
   - translation_iso: zho

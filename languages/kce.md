@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カイビ語
     auto: true
+  - translation_iso: kor
+    name: 카이비어
+    auto: true
   - translation_iso: por
     name: Kaivi
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أو
     auto: true
+  - translation_iso: ben
+    name: আউ
   - translation_iso: deu
     name: Au
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アウ語
     auto: true
+  - translation_iso: kor
+    name: 아우어
+    auto: true
   - translation_iso: por
     name: Au
     auto: true
+  - translation_iso: rus
+    name: Ау
   - translation_iso: spa
     name: Au
     auto: true

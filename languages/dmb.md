@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モンボ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 몸보 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Mombo
     auto: true

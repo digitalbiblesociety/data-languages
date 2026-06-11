@@ -21,16 +21,25 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Torwali_language"
 translations:
   - translation_iso: ara
     name: تروالية
+  - translation_iso: ben
+    name: তোরবালী
   - translation_iso: deu
     name: Torwali
   - translation_iso: fra
     name: torwali
   - translation_iso: hin
     name: तोरवाली
+  - translation_iso: ind
+    name: Torwali
   - translation_iso: jpn
     name: トールワーリー語
+  - translation_iso: kor
+    name: 토르왈리어
+    auto: true
   - translation_iso: por
     name: Língua torwali
+  - translation_iso: rus
+    name: торвали
   - translation_iso: spa
     name: Torwali
   - translation_iso: zho

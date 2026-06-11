@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギチョーデ語
+  - translation_iso: kor
+    name: 기초데어
+    auto: true
   - translation_iso: por
     name: Gikyode
     auto: true

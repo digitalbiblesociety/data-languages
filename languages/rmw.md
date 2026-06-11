@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェールズ・ロマ語
+  - translation_iso: kor
+    name: 웨일스 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Galês
     auto: true
+  - translation_iso: rus
+    name: валлийско-цыганский язык
   - translation_iso: spa
     name: Romaní galés
     auto: true

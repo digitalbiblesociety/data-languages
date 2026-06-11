@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カング語
     auto: true
+  - translation_iso: kor
+    name: 캉어
+    auto: true
   - translation_iso: por
     name: Kháng
     auto: true

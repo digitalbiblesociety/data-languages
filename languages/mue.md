@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メディア・レングア
+  - translation_iso: kor
+    name: 메디아 렝구아
+    auto: true
   - translation_iso: por
     name: Media Lengua
     auto: true
+  - translation_iso: rus
+    name: Медиа-ленгуа
   - translation_iso: spa
     name: media lengua
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コオレテ語
     auto: true
+  - translation_iso: kor
+    name: 코레테어
+    auto: true
   - translation_iso: por
     name: Koorete
     auto: true
+  - translation_iso: rus
+    name: Кооре
   - translation_iso: spa
     name: Koorete
     auto: true

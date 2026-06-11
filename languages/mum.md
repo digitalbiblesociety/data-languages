@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マイワラ語
     auto: true
+  - translation_iso: kor
+    name: 마이왈라어
+    auto: true
   - translation_iso: por
     name: Maiwala
     auto: true

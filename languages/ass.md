@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イプロ語
     auto: true
+  - translation_iso: kor
+    name: 이풀로어
+    auto: true
   - translation_iso: por
     name: ipulo
   - translation_iso: spa

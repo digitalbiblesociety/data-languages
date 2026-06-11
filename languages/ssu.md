@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ススアミ語
     auto: true
+  - translation_iso: kor
+    name: 수수아미어
+    auto: true
   - translation_iso: por
     name: Susuami
     auto: true

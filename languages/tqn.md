@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ウォームスプリングス語
     auto: true
+  - translation_iso: kor
+    name: 테니노어
+    auto: true
   - translation_iso: por
     name: Tenino
     auto: true
+  - translation_iso: rus
+    name: Тенино
   - translation_iso: spa
     name: Tenino
     auto: true

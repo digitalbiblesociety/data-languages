@@ -37,6 +37,8 @@ translations:
   - translation_iso: por
     name: Ron
     auto: true
+  - translation_iso: rus
+    name: Рон
   - translation_iso: spa
     name: Ron
     auto: true

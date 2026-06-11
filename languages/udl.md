@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミズリメ語
     auto: true
+  - translation_iso: kor
+    name: 우즐람어
+    auto: true
   - translation_iso: por
     name: Wuzlam
     auto: true

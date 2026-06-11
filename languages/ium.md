@@ -35,6 +35,8 @@ translations:
     name: 유몐어
   - translation_iso: por
     name: Língua iu mien
+  - translation_iso: rus
+    name: Яо
   - translation_iso: spa
     name: Idioma iu mien
   - translation_iso: zho

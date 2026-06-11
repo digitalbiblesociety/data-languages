@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المصرية
+  - translation_iso: ben
+    name: মিশরীয় সাংকেতিক ভাষা
   - translation_iso: deu
     name: Ägyptische Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エジプト手話
+  - translation_iso: kor
+    name: 이집트 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Egípcia
+  - translation_iso: rus
+    name: египетский жестовый язык
   - translation_iso: spa
     name: Lengua de señas egipcia
     auto: true

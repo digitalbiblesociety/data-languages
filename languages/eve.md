@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: एवेन
     auto: true
+  - translation_iso: ind
+    name: bahasa Even
   - translation_iso: jpn
     name: エヴェン語
   - translation_iso: kor
     name: 에벤어
   - translation_iso: por
     name: Língua even
+  - translation_iso: rus
+    name: эвенский язык
   - translation_iso: spa
     name: even
   - translation_iso: zho

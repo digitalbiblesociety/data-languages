@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラフ・シ語
     auto: true
+  - translation_iso: kor
+    name: 라후시어
+    auto: true
   - translation_iso: por
     name: Lahu Shi
     auto: true

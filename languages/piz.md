@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピジェ語
     auto: true
+  - translation_iso: kor
+    name: 피제어
+    auto: true
   - translation_iso: por
     name: Pije
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: सेल्तिबेरियन
     auto: true
+  - translation_iso: ind
+    name: Keltiberia
   - translation_iso: jpn
     name: ケルティベリア語
   - translation_iso: kor
     name: 켈티베리아어
   - translation_iso: por
     name: celtibérico
+  - translation_iso: rus
+    name: кельтиберский язык
   - translation_iso: spa
     name: celtíbero
   - translation_iso: zho

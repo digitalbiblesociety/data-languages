@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤズグリャム語
+  - translation_iso: kor
+    name: 야즈굴럄어
+    auto: true
   - translation_iso: por
     name: língua yazgulyam
+  - translation_iso: rus
+    name: язгулямский язык
   - translation_iso: spa
     name: Yazgulyam
     auto: true

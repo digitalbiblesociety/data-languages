@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: मोंगोंडो
     auto: true
+  - translation_iso: ind
+    name: bahasa Mongondow
   - translation_iso: jpn
     name: モンゴンドウ語
+  - translation_iso: kor
+    name: 몽온도우어
+    auto: true
   - translation_iso: por
     name: Língua mongondow
+  - translation_iso: rus
+    name: Болаанг-монгондоу
   - translation_iso: spa
     name: Mongondow
     auto: true

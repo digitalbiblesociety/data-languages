@@ -35,6 +35,8 @@ translations:
     name: 고도베리어
   - translation_iso: por
     name: Língua godoberi
+  - translation_iso: rus
+    name: годоберинский язык
   - translation_iso: spa
     name: Ghodoberi
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ラレバット語
     auto: true
+  - translation_iso: kor
+    name: 라레바트어
+    auto: true
   - translation_iso: por
     name: Larevat
     auto: true
+  - translation_iso: rus
+    name: Лареват
   - translation_iso: spa
     name: Larevat
     auto: true

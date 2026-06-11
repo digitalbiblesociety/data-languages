@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: मुर्रिन्ह-पाथा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Murrinh-patha
   - translation_iso: jpn
     name: ムリンパタ語
+  - translation_iso: kor
+    name: 무린파타어
+    auto: true
   - translation_iso: por
     name: Murrinh-Patha
     auto: true
+  - translation_iso: rus
+    name: Муррин-пата
   - translation_iso: spa
     name: Murrinh-Patha
     auto: true

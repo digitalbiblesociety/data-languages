@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タスマテ語
     auto: true
+  - translation_iso: kor
+    name: 타스마테어
+    auto: true
   - translation_iso: por
     name: Tasmate
     auto: true

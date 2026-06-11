@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: コカマ語
     auto: true
+  - translation_iso: kor
+    name: 코카마코카미야어
+    auto: true
   - translation_iso: por
     name: Língua cocama
+  - translation_iso: rus
+    name: кокама
   - translation_iso: spa
     name: cocama
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mongo_language"
 translations:
   - translation_iso: ara
     name: منغولى
+  - translation_iso: ben
+    name: মোঙ্গো
   - translation_iso: deu
     name: Lomongo
   - translation_iso: fra
     name: lomongo
   - translation_iso: hin
     name: मोंगो
+  - translation_iso: ind
+    name: Mongo
   - translation_iso: jpn
     name: モンゴ語
   - translation_iso: kor
     name: 몽고어
   - translation_iso: por
     name: mongo
+  - translation_iso: rus
+    name: монго
   - translation_iso: spa
     name: mongo
   - translation_iso: zho

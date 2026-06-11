@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باوري
     auto: true
+  - translation_iso: ben
+    name: বাউরে ভাষা
   - translation_iso: deu
     name: Baure
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: बाउरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baure
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: kor
+    name: 바우레어
+    auto: true
   - translation_iso: por
     name: Língua baure
+  - translation_iso: rus
+    name: Бауре
   - translation_iso: spa
     name: baure
   - translation_iso: zho

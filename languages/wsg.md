@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اديلاباد غوندي
     auto: true
+  - translation_iso: ben
+    name: আদিলাবাদ গোণ্ডি
   - translation_iso: deu
     name: Adilabad-Gondi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アディラバード・ゴンディ語
+    auto: true
+  - translation_iso: kor
+    name: 아딜라바드 곤디어
     auto: true
   - translation_iso: por
     name: Gondi de Adilabad

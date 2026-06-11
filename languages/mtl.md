@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Montol語
+  - translation_iso: kor
+    name: 몬톨어
+    auto: true
   - translation_iso: por
     name: Montol
     auto: true
+  - translation_iso: rus
+    name: Монтол
   - translation_iso: spa
     name: Montol
     auto: true

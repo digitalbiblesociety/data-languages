@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zenaga_language"
 translations:
   - translation_iso: ara
     name: لهجة آزناك
+  - translation_iso: ben
+    name: জেনাগা
   - translation_iso: deu
     name: Zenaga
   - translation_iso: fra
     name: zenaga
   - translation_iso: hin
     name: ज़ेनान्गा
+  - translation_iso: ind
+    name: Zenaga
   - translation_iso: jpn
     name: ゼナガ語
   - translation_iso: kor
     name: 제나가어
   - translation_iso: por
     name: Língua zenaga
+  - translation_iso: rus
+    name: зенагский
   - translation_iso: spa
     name: Idioma zenaga
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アグワグウネ語
     auto: true
+  - translation_iso: kor
+    name: 아과구네어
+    auto: true
   - translation_iso: por
     name: agwagwune
     auto: true

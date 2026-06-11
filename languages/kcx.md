@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カチャマ・ガンジュレ語
     auto: true
+  - translation_iso: kor
+    name: 카차마간줄레어
+    auto: true
   - translation_iso: por
     name: Kachama-Ganjule
     auto: true

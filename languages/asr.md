@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسوري
     auto: true
+  - translation_iso: ben
+    name: আসুর
   - translation_iso: deu
     name: Asuri
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: असुर भाषा
   - translation_iso: jpn
     name: アスル語
+  - translation_iso: kor
+    name: 아수리어
+    auto: true
   - translation_iso: por
     name: Asuri
     auto: true

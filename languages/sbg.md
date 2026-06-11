@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेगेट
     auto: true
+  - translation_iso: ind
+    name: Seget
   - translation_iso: jpn
     name: セゲット語
+    auto: true
+  - translation_iso: kor
+    name: 세겟어
     auto: true
   - translation_iso: por
     name: Seget

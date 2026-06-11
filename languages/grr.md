@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タズナティト語
     auto: true
+  - translation_iso: kor
+    name: 타즈나티트어
+    auto: true
   - translation_iso: por
     name: Taznatit
     auto: true
+  - translation_iso: rus
+    name: гурара
   - translation_iso: spa
     name: Taznatit
     auto: true

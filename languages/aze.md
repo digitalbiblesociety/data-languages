@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Azerbaijani_language"
 translations:
   - translation_iso: ara
     name: الأذرية
+  - translation_iso: ben
+    name: আজারবাইজানী
   - translation_iso: deu
     name: Aserbaidschanisch
   - translation_iso: fra
     name: azéri
   - translation_iso: hin
     name: अज़ेरी भाषा
+  - translation_iso: ind
+    name: Azerbaijani
   - translation_iso: jpn
     name: アゼルバイジャン語
   - translation_iso: kor
     name: 아제르바이잔어
   - translation_iso: por
     name: Língua azeri
+  - translation_iso: rus
+    name: азербайджанский
   - translation_iso: spa
     name: azerí
   - translation_iso: zho

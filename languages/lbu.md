@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラブ語
     auto: true
+  - translation_iso: kor
+    name: 라부어
+    auto: true
   - translation_iso: por
     name: Labu
     auto: true

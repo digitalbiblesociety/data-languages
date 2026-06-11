@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サッランス語
     auto: true
+  - translation_iso: kor
+    name: 살란츠어
+    auto: true
   - translation_iso: por
     name: Sallands
     auto: true

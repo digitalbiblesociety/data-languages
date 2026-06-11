@@ -34,6 +34,8 @@ translations:
     name: 망가레바어
   - translation_iso: por
     name: Língua mangareva
+  - translation_iso: rus
+    name: Мангареванский язык
   - translation_iso: spa
     name: Mangareva
     auto: true

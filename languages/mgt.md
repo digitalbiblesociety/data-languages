@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モンゴル語
     auto: true
+  - translation_iso: kor
+    name: 몽골어
+    auto: true
   - translation_iso: por
     name: Mongol
     auto: true

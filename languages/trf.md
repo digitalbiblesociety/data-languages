@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トリニダード・クレオール英語
     auto: true
+  - translation_iso: kor
+    name: 트리니다드 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo inglês de Trinidad
   - translation_iso: spa

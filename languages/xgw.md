@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グワ語
     auto: true
+  - translation_iso: kor
+    name: 구와어
+    auto: true
   - translation_iso: por
     name: Guwa
     auto: true

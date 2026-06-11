@@ -30,6 +30,8 @@ translations:
     name: 하자어
   - translation_iso: por
     name: Língua hadza
+  - translation_iso: rus
+    name: Хадза
   - translation_iso: spa
     name: Idioma hadza
   - translation_iso: zho

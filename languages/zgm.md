@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: मिन्ज़ ज़ुआंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Zhuang Min
   - translation_iso: jpn
     name: 民講語
+  - translation_iso: kor
+    name: 민즈 좡어
+    auto: true
   - translation_iso: por
     name: zhuang minz
     auto: true
+  - translation_iso: rus
+    name: Миньский чжуанский язык
   - translation_iso: spa
     name: Zhuang Minz
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンハンダ語
     auto: true
+  - translation_iso: kor
+    name: 난다어
+    auto: true
   - translation_iso: por
     name: Nhanda
     auto: true

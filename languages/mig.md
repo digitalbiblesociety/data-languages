@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サン・ミゲル・エル・グランデ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산미겔엘그란데 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de San Miguel El Grande
     auto: true

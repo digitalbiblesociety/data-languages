@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: यामदेना
     auto: true
+  - translation_iso: ind
+    name: Yamdena
   - translation_iso: jpn
     name: ヤムデナ語
+  - translation_iso: kor
+    name: 얌데나어
+    auto: true
   - translation_iso: por
     name: Yamdena
   - translation_iso: spa

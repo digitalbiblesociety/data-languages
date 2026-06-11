@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيكي
     auto: true
+  - translation_iso: ben
+    name: বেকে
   - translation_iso: deu
     name: Beeke
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベーケ語
+    auto: true
+  - translation_iso: kor
+    name: 베케어
     auto: true
   - translation_iso: por
     name: Beeke

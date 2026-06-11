@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ウェンダット語
     auto: true
+  - translation_iso: kor
+    name: 웬다트어
+    auto: true
   - translation_iso: por
     name: Wendat
     auto: true

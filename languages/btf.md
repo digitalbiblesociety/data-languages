@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ビルギット語
     auto: true
+  - translation_iso: kor
+    name: 비르기트어
+    auto: true
   - translation_iso: por
     name: Birgit
     auto: true
+  - translation_iso: rus
+    name: Биргит
   - translation_iso: spa
     name: birgit
   - translation_iso: zho

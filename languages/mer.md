@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Meru_language"
 translations:
   - translation_iso: ara
     name: الميرو
+  - translation_iso: ben
+    name: মেরু
   - translation_iso: deu
     name: Meru
   - translation_iso: fra
     name: meru
   - translation_iso: hin
     name: मेरु
+  - translation_iso: ind
+    name: Meru
   - translation_iso: jpn
     name: メル語
   - translation_iso: kor
     name: 메루어
   - translation_iso: por
     name: meru
+  - translation_iso: rus
+    name: меру
   - translation_iso: spa
     name: meru
   - translation_iso: zho

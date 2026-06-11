@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オパオ語
+  - translation_iso: kor
+    name: 오파오어
+    auto: true
   - translation_iso: por
     name: Opao
     auto: true

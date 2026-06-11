@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة أهيراني
     auto: true
+  - translation_iso: ben
+    name: আহিরানি
   - translation_iso: deu
     name: Ahirani
   - translation_iso: fra
@@ -25,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヒラーニー語
+  - translation_iso: kor
+    name: 아히라니어
+    auto: true
   - translation_iso: por
     name: Ahirani
     auto: true

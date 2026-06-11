@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホロホロ語
+  - translation_iso: kor
+    name: 홀로홀로어
+    auto: true
   - translation_iso: por
     name: Holoholo
     auto: true

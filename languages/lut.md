@@ -35,6 +35,8 @@ translations:
     name: 루슈치드어
   - translation_iso: por
     name: Língua lushootseed
+  - translation_iso: rus
+    name: Лушуцид
   - translation_iso: spa
     name: Lushootseed
   - translation_iso: zho

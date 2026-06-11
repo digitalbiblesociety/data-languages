@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Udmurt_language"
 translations:
   - translation_iso: ara
     name: الأدمورتية
+  - translation_iso: ben
+    name: উডমুর্ট
   - translation_iso: deu
     name: Udmurtisch
   - translation_iso: fra
     name: oudmourte
   - translation_iso: hin
     name: उदमुर्त
+  - translation_iso: ind
+    name: Udmurt
   - translation_iso: jpn
     name: ウドムルト語
   - translation_iso: kor
     name: 우드무르트어
   - translation_iso: por
     name: Língua udmurte
+  - translation_iso: rus
+    name: удмуртский
   - translation_iso: spa
     name: udmurto
   - translation_iso: zho

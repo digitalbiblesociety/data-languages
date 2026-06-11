@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايْجو
     auto: true
+  - translation_iso: ben
+    name: বায়েগু
   - translation_iso: deu
     name: Baeggu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バエッグ語
+    auto: true
+  - translation_iso: kor
+    name: 바에구어
     auto: true
   - translation_iso: por
     name: Baeggu

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レルバレ語
     auto: true
+  - translation_iso: kor
+    name: 레르 바레어
+    auto: true
   - translation_iso: por
     name: Rer Bare
     auto: true

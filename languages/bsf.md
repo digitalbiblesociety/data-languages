@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باوتشي
     auto: true
+  - translation_iso: ben
+    name: বাউচি
   - translation_iso: deu
     name: Bauchi
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウチ語
+    auto: true
+  - translation_iso: kor
+    name: 바우치어
     auto: true
   - translation_iso: por
     name: Bauchi

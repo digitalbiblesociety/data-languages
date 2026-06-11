@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: उत्तरी बिनुकिडनोन
     auto: true
+  - translation_iso: ind
+    name: bahasa Keduulan
   - translation_iso: jpn
     name: 北ビヌキドノン語
+    auto: true
+  - translation_iso: kor
+    name: 북부 비누키드논어
     auto: true
   - translation_iso: por
     name: Binukidnon setentrional

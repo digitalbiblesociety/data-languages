@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラ語
+  - translation_iso: kor
+    name: 나라어
+    auto: true
   - translation_iso: por
     name: Língua nara
+  - translation_iso: rus
+    name: Нара
   - translation_iso: spa
     name: nara
   - translation_iso: zho

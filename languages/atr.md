@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ワイミリアトロアリ語
     auto: true
+  - translation_iso: kor
+    name: 와이미리·아트로아리어
+    auto: true
   - translation_iso: por
     name: Língua uaimiri-atroari
+  - translation_iso: rus
+    name: Ваймири-атроари
   - translation_iso: spa
     name: Waimiri-Atroari
     auto: true

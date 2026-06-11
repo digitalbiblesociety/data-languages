@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلور
     auto: true
+  - translation_iso: ben
+    name: বিলুর
   - translation_iso: deu
     name: Bilur
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルル語
+    auto: true
+  - translation_iso: kor
+    name: 빌루르어
     auto: true
   - translation_iso: por
     name: Bilur

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: グウス語
     auto: true
+  - translation_iso: kor
+    name: 사야어
+    auto: true
   - translation_iso: por
     name: Saya
     auto: true
+  - translation_iso: rus
+    name: сайа
   - translation_iso: spa
     name: Saya
     auto: true

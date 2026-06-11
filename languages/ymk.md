@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マクウェ語
     auto: true
+  - translation_iso: kor
+    name: 마퀘어
+    auto: true
   - translation_iso: por
     name: makwe
     auto: true

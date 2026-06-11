@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ギトンガ語
     auto: true
+  - translation_iso: kor
+    name: 기통가어
+    auto: true
   - translation_iso: por
     name: Guitonga
   - translation_iso: spa

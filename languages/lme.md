@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ペベ語
     auto: true
+  - translation_iso: kor
+    name: 페베어
+    auto: true
   - translation_iso: por
     name: Língua pévé
   - translation_iso: spa

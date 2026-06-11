@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ディャン語
     auto: true
+  - translation_iso: kor
+    name: 디안어
+    auto: true
   - translation_iso: por
     name: Dyan
     auto: true

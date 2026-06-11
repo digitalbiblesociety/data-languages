@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ラメヌ語
     auto: true
+  - translation_iso: kor
+    name: 라메누어
+    auto: true
   - translation_iso: por
     name: Lamenu
     auto: true
+  - translation_iso: rus
+    name: Ламену
   - translation_iso: spa
     name: Lamenu
     auto: true

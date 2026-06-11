@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コパイナラ・ゾケ語
     auto: true
+  - translation_iso: kor
+    name: 코파이날라 소케어
+    auto: true
   - translation_iso: por
     name: zoque de Copainalá
     auto: true

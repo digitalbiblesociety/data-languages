@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語
+  - translation_iso: kor
+    name: 동부 캐나다 이누크티투트어
+    auto: true
   - translation_iso: por
     name: Inuktitut do Canadá Oriental
     auto: true
+  - translation_iso: rus
+    name: восточно-канадский инуитский язык
   - translation_iso: spa
     name: Inuktitut canadiense oriental
     auto: true

@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部オジブワ語
+  - translation_iso: kor
+    name: 동부 오지브와어
+    auto: true
   - translation_iso: por
     name: Ojibwa Oriental
     auto: true
+  - translation_iso: rus
+    name: Восточный оджибве
   - translation_iso: spa
     name: Ojibwa oriental
     auto: true

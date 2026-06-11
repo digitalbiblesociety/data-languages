@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ジュレイ語
     auto: true
+  - translation_iso: kor
+    name: 주라이어
+    auto: true
   - translation_iso: por
     name: Juray
     auto: true

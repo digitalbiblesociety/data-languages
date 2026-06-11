@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chuukese_language"
 translations:
   - translation_iso: ara
     name: لغة تروكية
+  - translation_iso: ben
+    name: চুকিজ
   - translation_iso: deu
     name: Chuukesisch
   - translation_iso: fra
     name: chuuk
   - translation_iso: hin
     name: चूकीस
+  - translation_iso: ind
+    name: Chuuke
   - translation_iso: jpn
     name: チューク語
   - translation_iso: kor
     name: 추크어
   - translation_iso: por
     name: Língua chuquesa
+  - translation_iso: rus
+    name: чукотский
   - translation_iso: spa
     name: idioma Chuuk
   - translation_iso: zho

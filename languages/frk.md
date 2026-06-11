@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Frankish_language"
 translations:
   - translation_iso: ara
     name: الفرنكية القديمة
+  - translation_iso: ben
+    name: ফ্রাঙ্কীয় ভাষা
   - translation_iso: deu
     name: Altfränkisch
   - translation_iso: fra
@@ -22,12 +24,16 @@ translations:
   - translation_iso: hin
     name: फ्रैंकिश
     auto: true
+  - translation_iso: ind
+    name: bahasa Franka
   - translation_iso: jpn
     name: 古フランク語
   - translation_iso: kor
     name: 프랑크어
   - translation_iso: por
     name: Língua francônica
+  - translation_iso: rus
+    name: древнефранкский язык
   - translation_iso: spa
     name: fráncico
   - translation_iso: zho

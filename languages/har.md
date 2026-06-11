@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラリ語
+  - translation_iso: kor
+    name: 하라리어
+    auto: true
   - translation_iso: por
     name: Língua harari
+  - translation_iso: rus
+    name: Харари
   - translation_iso: spa
     name: Idioma harari
   - translation_iso: zho

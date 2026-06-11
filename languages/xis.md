@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キサン語
     auto: true
+  - translation_iso: kor
+    name: 키산어
+    auto: true
   - translation_iso: por
     name: Kisan
     auto: true

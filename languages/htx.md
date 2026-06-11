@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミドル・ヒッタイト語
     auto: true
+  - translation_iso: kor
+    name: 중기 히타이트어
+    auto: true
   - translation_iso: por
     name: Hitita Médio
     auto: true

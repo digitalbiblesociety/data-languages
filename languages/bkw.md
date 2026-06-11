@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيكويل
     auto: true
+  - translation_iso: ben
+    name: বেকউইল
   - translation_iso: deu
     name: Bekwil
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベクウェル語
+    auto: true
+  - translation_iso: kor
+    name: 베크웰어
     auto: true
   - translation_iso: por
     name: Bekwel

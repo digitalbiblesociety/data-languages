@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブビ語
+  - translation_iso: kor
+    name: 부베어
+    auto: true
   - translation_iso: por
     name: Língua bubi
+  - translation_iso: rus
+    name: буби
   - translation_iso: spa
     name: bubi
   - translation_iso: zho

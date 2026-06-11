@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bokm%C3%A5l"
 translations:
   - translation_iso: ara
     name: بوكمول
+  - translation_iso: ben
+    name: নরওয়েজিয়ান বোকমাল
   - translation_iso: deu
     name: Bokmål
   - translation_iso: fra
     name: bokmål
   - translation_iso: hin
     name: बूकमॉल
+  - translation_iso: ind
+    name: Bokmål Norwegia
   - translation_iso: jpn
     name: ブークモール
   - translation_iso: kor
     name: 노르웨이어 보크몰
   - translation_iso: por
     name: bokmål
+  - translation_iso: rus
+    name: норвежский букмол
   - translation_iso: spa
     name: bokmål
   - translation_iso: zho

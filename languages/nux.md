@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: メヘク語
     auto: true
+  - translation_iso: kor
+    name: 메헤크어
+    auto: true
   - translation_iso: por
     name: Mehek
     auto: true

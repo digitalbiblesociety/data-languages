@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Umbundu"
 translations:
   - translation_iso: ara
     name: الأمبندو
+  - translation_iso: ben
+    name: উম্বুন্দু
   - translation_iso: deu
     name: Umbundu
   - translation_iso: fra
     name: umbundu
   - translation_iso: hin
     name: उम्बुन्डु
+  - translation_iso: ind
+    name: Umbundu
   - translation_iso: jpn
     name: ムブンドゥ語
   - translation_iso: kor
     name: 움분두어
   - translation_iso: por
     name: umbundo
+  - translation_iso: rus
+    name: умбунду
   - translation_iso: spa
     name: Idioma umbundu
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タヴェタ語
+  - translation_iso: kor
+    name: 타베타어
+    auto: true
   - translation_iso: por
     name: Taveta
     auto: true

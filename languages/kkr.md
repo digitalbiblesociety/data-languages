@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キル・バラル語
+  - translation_iso: kor
+    name: 키르발라르어
+    auto: true
   - translation_iso: por
     name: Kir-Balar
     auto: true

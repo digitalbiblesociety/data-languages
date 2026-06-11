@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルガマイ語
+  - translation_iso: kor
+    name: 와르가마이어
+    auto: true
   - translation_iso: por
     name: Warrgamay
     auto: true

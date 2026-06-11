@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グラ・イロ語
     auto: true
+  - translation_iso: kor
+    name: 굴라 이로어
+    auto: true
   - translation_iso: por
     name: Gula Iro
     auto: true

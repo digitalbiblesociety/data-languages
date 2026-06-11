@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マダガスカル手話
+  - translation_iso: kor
+    name: 마다가스카르 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Madagáscar
   - translation_iso: spa

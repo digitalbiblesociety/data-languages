@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サファラバ語
     auto: true
+  - translation_iso: kor
+    name: 사팔리바어
+    auto: true
   - translation_iso: por
     name: Safaliba
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パレニ語
     auto: true
+  - translation_iso: kor
+    name: 팔레니어
+    auto: true
   - translation_iso: por
     name: Paleni
     auto: true

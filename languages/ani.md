@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأندية
     auto: true
+  - translation_iso: ben
+    name: অ্যান্দি
   - translation_iso: deu
     name: Andisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 안디어
   - translation_iso: por
     name: Língua andi
+  - translation_iso: rus
+    name: андийский язык
   - translation_iso: spa
     name: Idioma andi
   - translation_iso: zho

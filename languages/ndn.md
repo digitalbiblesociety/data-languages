@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングンディ語
     auto: true
+  - translation_iso: kor
+    name: 응군디어
+    auto: true
   - translation_iso: por
     name: Ngundi
     auto: true

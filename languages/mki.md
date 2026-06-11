@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ذاتكي
     auto: true
+  - translation_iso: ben
+    name: ধাতকি
   - translation_iso: deu
     name: Dhatki
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: धक्ती भाषा
   - translation_iso: jpn
     name: ダツキ語
+    auto: true
+  - translation_iso: kor
+    name: 다트키어
     auto: true
   - translation_iso: por
     name: Língua dhatki

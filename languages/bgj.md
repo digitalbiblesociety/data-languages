@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بانجولان
     auto: true
+  - translation_iso: ben
+    name: ব্যাঙ্গোলীয়
   - translation_iso: deu
     name: Bangolan
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンゴラン語
+    auto: true
+  - translation_iso: kor
+    name: 방골란어
     auto: true
   - translation_iso: por
     name: Bangolan

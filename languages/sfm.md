@@ -33,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 小花苗語
+  - translation_iso: kor
+    name: 소화먀오어
+    auto: true
   - translation_iso: por
     name: Miao das Pequenas Flores
     auto: true
+  - translation_iso: rus
+    name: Гхмау
   - translation_iso: spa
     name: Miao de flores pequeñas
     auto: true

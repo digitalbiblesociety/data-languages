@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بهنار
     auto: true
+  - translation_iso: ben
+    name: বাহ্নার
   - translation_iso: deu
     name: Bahnar-Sprache
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バナール語
+  - translation_iso: kor
+    name: 바나르어
+    auto: true
   - translation_iso: por
     name: Bahnar
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: マクサカリ語
     auto: true
+  - translation_iso: kor
+    name: 마샤칼리어
+    auto: true
   - translation_iso: por
     name: Língua maxacali
+  - translation_iso: rus
+    name: Машакали
   - translation_iso: spa
     name: Maxakalí
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أيميل
     auto: true
+  - translation_iso: ben
+    name: আইমেলে
   - translation_iso: deu
     name: Aimele
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アイメレ語
     auto: true
+  - translation_iso: kor
+    name: 아이멜레어
+    auto: true
   - translation_iso: por
     name: Aimele
     auto: true
+  - translation_iso: rus
+    name: аимеле
   - translation_iso: spa
     name: Aimele
     auto: true

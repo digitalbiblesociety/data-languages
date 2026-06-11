@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヤウヨスケチュア語
     auto: true
+  - translation_iso: kor
+    name: 야우요스 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Yauyos
     auto: true
+  - translation_iso: rus
+    name: Яуйос-чинчанский кечуа
   - translation_iso: spa
     name: quechua de Yauyos
   - translation_iso: zho

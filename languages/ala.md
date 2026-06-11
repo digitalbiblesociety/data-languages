@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألاغو
     auto: true
+  - translation_iso: ben
+    name: আলাগো
   - translation_iso: deu
     name: Alago
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラゴ語
+    auto: true
+  - translation_iso: kor
+    name: 알라고어
     auto: true
   - translation_iso: por
     name: Alago

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワンゴム語
     auto: true
+  - translation_iso: kor
+    name: 왕곰어
+    auto: true
   - translation_iso: por
     name: Wanggom
     auto: true

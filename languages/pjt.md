@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Pitjantjatjara
     auto: true
+  - translation_iso: rus
+    name: питянтятяра
   - translation_iso: spa
     name: Pitjantjatjara
   - translation_iso: zho

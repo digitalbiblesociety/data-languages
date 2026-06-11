@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: エザア語
     auto: true
+  - translation_iso: kor
+    name: 에자어
+    auto: true
   - translation_iso: por
     name: Ezaa
     auto: true

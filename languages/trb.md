@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: テレプ語
     auto: true
+  - translation_iso: kor
+    name: 테레부어
+    auto: true
   - translation_iso: por
     name: Terebu
     auto: true

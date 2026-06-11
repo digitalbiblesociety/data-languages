@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: डुंगन
     auto: true
+  - translation_iso: ind
+    name: Dungan
   - translation_iso: jpn
     name: ドンガン語
   - translation_iso: kor
     name: 둥간어
   - translation_iso: por
     name: Língua Dungan
+  - translation_iso: rus
+    name: дунганский язык
   - translation_iso: spa
     name: dungano
   - translation_iso: zho

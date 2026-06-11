@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Frisian_language"
 translations:
   - translation_iso: ara
     name: اللغة الفريزية الشمالية
+  - translation_iso: ben
+    name: উত্তরাঞ্চলীয় ফ্রিসিয়ান
   - translation_iso: deu
     name: nordfriesische Sprache
   - translation_iso: fra
     name: frison septentrional
   - translation_iso: hin
     name: उत्तरी फ़्रीसियाई
+  - translation_iso: ind
+    name: Frisia Utara
   - translation_iso: jpn
     name: 北フリジア語
   - translation_iso: kor
     name: 북프리슬란트어
   - translation_iso: por
     name: frisão setentrional
+  - translation_iso: rus
+    name: северный фризский
   - translation_iso: spa
     name: frisón septentrional
   - translation_iso: zho

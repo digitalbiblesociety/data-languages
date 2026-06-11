@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トゥトゥテペック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 투투테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tututepec
     auto: true
+  - translation_iso: rus
+    name: Тутутепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Tututepec
     auto: true

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: チャム語
     auto: true
+  - translation_iso: kor
+    name: 동부 참어
+    auto: true
   - translation_iso: por
     name: Cham oriental
     auto: true
+  - translation_iso: rus
+    name: восточный чамский язык
   - translation_iso: spa
     name: Cham Oriental
     auto: true

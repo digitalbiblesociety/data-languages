@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ニミャルティ語
     auto: true
+  - translation_iso: kor
+    name: 테라어
+    auto: true
   - translation_iso: por
     name: Tera
     auto: true
+  - translation_iso: rus
+    name: Тера (язык)
   - translation_iso: spa
     name: Tera
     auto: true

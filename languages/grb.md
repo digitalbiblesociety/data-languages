@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Grebo_language"
 translations:
   - translation_iso: ara
     name: الجريبو
+  - translation_iso: ben
+    name: গ্রেবো
   - translation_iso: deu
     name: Grebo
   - translation_iso: fra
     name: grebo
   - translation_iso: hin
     name: ग्रेबो
+  - translation_iso: ind
+    name: Grebo
   - translation_iso: jpn
     name: グレボ語
   - translation_iso: kor
     name: 그레보어
   - translation_iso: por
     name: grebo
+  - translation_iso: rus
+    name: гребо
   - translation_iso: spa
     name: grebo
   - translation_iso: zho

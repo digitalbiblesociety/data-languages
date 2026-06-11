@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة سلانجور للإشارة
     auto: true
+  - translation_iso: ben
+    name: সেলাঙ্গর ইশারা ভাষা
   - translation_iso: deu
     name: Selangor-Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: सेलांगोर साइन लैंग्वेज
   - translation_iso: jpn
     name: セランゴール手話
+  - translation_iso: kor
+    name: 슬랑오르 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais de Selangor
   - translation_iso: spa

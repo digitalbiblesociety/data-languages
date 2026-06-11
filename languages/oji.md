@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ojibwe_language"
 translations:
   - translation_iso: ara
     name: الأوجيبوية
+  - translation_iso: ben
+    name: ওজিবওয়া
   - translation_iso: deu
     name: Ojibwe
   - translation_iso: fra
     name: ojibwé
   - translation_iso: hin
     name: ओजिब्वा
+  - translation_iso: ind
+    name: Ojibwa
   - translation_iso: jpn
     name: オジブウェー語
   - translation_iso: kor
     name: 오지브와어
   - translation_iso: por
     name: Língua ojíbua
+  - translation_iso: rus
+    name: оджибва
   - translation_iso: spa
     name: Idioma ojibwa
   - translation_iso: zho

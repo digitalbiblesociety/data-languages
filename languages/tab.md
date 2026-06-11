@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तबासरन
     auto: true
+  - translation_iso: ind
+    name: Tabasaran
   - translation_iso: jpn
     name: タバサラン語
   - translation_iso: kor
     name: 타바사란어
   - translation_iso: por
     name: Língua tabassarã
+  - translation_iso: rus
+    name: табасаранский язык
   - translation_iso: spa
     name: tabasarán
   - translation_iso: zho

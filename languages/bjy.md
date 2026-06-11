@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايالي
     auto: true
+  - translation_iso: ben
+    name: বায়ালি
   - translation_iso: deu
     name: Bayali
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バヤリ語
+    auto: true
+  - translation_iso: kor
+    name: 바얄리어
     auto: true
   - translation_iso: por
     name: Bayali

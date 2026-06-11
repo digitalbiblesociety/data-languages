@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोनसावांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tonsawang
   - translation_iso: jpn
     name: トンサワン語
+  - translation_iso: kor
+    name: 톤사왕어
+    auto: true
   - translation_iso: por
     name: Língua tosawang
   - translation_iso: spa

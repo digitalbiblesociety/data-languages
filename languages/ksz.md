@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コダク語
     auto: true
+  - translation_iso: kor
+    name: 코다쿠어
+    auto: true
   - translation_iso: por
     name: Kodaku
     auto: true

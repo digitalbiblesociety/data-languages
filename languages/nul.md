@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: नुसा लाउत
     auto: true
+  - translation_iso: ind
+    name: Nusa Laut
   - translation_iso: jpn
     name: ヌサ・ラウト語
+    auto: true
+  - translation_iso: kor
+    name: 누사라우트어
     auto: true
   - translation_iso: por
     name: Nusa Laut

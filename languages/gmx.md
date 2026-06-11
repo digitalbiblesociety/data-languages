@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マゴマ語
     auto: true
+  - translation_iso: kor
+    name: 마고마어
+    auto: true
   - translation_iso: por
     name: Magoma
     auto: true

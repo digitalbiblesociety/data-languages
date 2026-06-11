@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガナイ語
+  - translation_iso: kor
+    name: 쿠르나이어
+    auto: true
   - translation_iso: por
     name: Kurnai
     auto: true

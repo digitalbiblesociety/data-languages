@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジョンコル・ブルマタギル語
     auto: true
+  - translation_iso: kor
+    name: 종코르 부르마타길어
+    auto: true
   - translation_iso: por
     name: Jonkor Bourmataguil
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カラアマヤ語
     auto: true
+  - translation_iso: kor
+    name: 칼라마야어
+    auto: true
   - translation_iso: por
     name: Kalaamaya
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イテリ語
     auto: true
+  - translation_iso: kor
+    name: 이테리어
+    auto: true
   - translation_iso: por
     name: Iteri
     auto: true
+  - translation_iso: rus
+    name: Итери
   - translation_iso: spa
     name: Iteri
     auto: true

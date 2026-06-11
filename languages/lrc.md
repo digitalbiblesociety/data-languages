@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Luri_language"
 translations:
   - translation_iso: ara
     name: اللرية الشمالية
+  - translation_iso: ben
+    name: উত্তরাঞ্চলীয় লুরি
   - translation_iso: deu
     name: Nördliches Luri
   - translation_iso: fra
     name: lori du Nord
   - translation_iso: hin
     name: उत्तरी लूरी
+  - translation_iso: ind
+    name: Luri Utara
   - translation_iso: jpn
     name: 北ロル語
   - translation_iso: kor
     name: 북부 루리어
   - translation_iso: por
     name: luri setentrional
+  - translation_iso: rus
+    name: севернолурский
   - translation_iso: spa
     name: luri septentrional
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カラン語
     auto: true
+  - translation_iso: kor
+    name: 카랑어
+    auto: true
   - translation_iso: por
     name: Karang
     auto: true
+  - translation_iso: rus
+    name: Каранг
   - translation_iso: spa
     name: Karang
     auto: true

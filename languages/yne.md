@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラング語
     auto: true
+  - translation_iso: kor
+    name: 랑어어
+    auto: true
   - translation_iso: por
     name: "lang'e"
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゾクフォ語
     auto: true
+  - translation_iso: kor
+    name: 조쿠오어
+    auto: true
   - translation_iso: por
     name: zokhuo
     auto: true

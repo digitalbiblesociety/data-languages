@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エンワン語
     auto: true
+  - translation_iso: kor
+    name: 엔완어
+    auto: true
   - translation_iso: por
     name: Enwan (Estado de Edu)
     auto: true

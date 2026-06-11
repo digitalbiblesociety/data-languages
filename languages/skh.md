@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सिकुले
     auto: true
+  - translation_iso: ind
+    name: Sigulai
   - translation_iso: jpn
     name: ワリバヌア語
+    auto: true
+  - translation_iso: kor
+    name: 시쿨레어
     auto: true
   - translation_iso: por
     name: Sikule

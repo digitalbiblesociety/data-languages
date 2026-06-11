@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タレーノイジョミ語
     auto: true
+  - translation_iso: kor
+    name: 살루마어
+    auto: true
   - translation_iso: por
     name: Salumá
     auto: true

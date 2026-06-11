@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キウヌム語
     auto: true
+  - translation_iso: kor
+    name: 키우눔어
+    auto: true
   - translation_iso: por
     name: Kiunum
     auto: true

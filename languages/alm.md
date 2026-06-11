@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبلونج
     auto: true
+  - translation_iso: ben
+    name: আমব্লং
   - translation_iso: deu
     name: Amblong
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンブロン語
+    auto: true
+  - translation_iso: kor
+    name: 암블롱어
     auto: true
   - translation_iso: por
     name: Amblong

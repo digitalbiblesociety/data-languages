@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تايراها
     auto: true
+  - translation_iso: ben
+    name: বাউরো
   - translation_iso: deu
     name: Tairaha
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウロ語
+  - translation_iso: kor
+    name: 타이라하어
+    auto: true
   - translation_iso: por
     name: Tairaha
     auto: true

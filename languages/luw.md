@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルオ語
     auto: true
+  - translation_iso: kor
+    name: 루오어
+    auto: true
   - translation_iso: por
     name: Luo (Camarões)
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウミイダ語
     auto: true
+  - translation_iso: kor
+    name: 우미다어
+    auto: true
   - translation_iso: por
     name: umiida
     auto: true

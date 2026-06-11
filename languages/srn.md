@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sranan_Tongo"
 translations:
   - translation_iso: ara
     name: لغة سرانان
+  - translation_iso: ben
+    name: স্রানান টোঙ্গো
   - translation_iso: deu
     name: Sranantongo
   - translation_iso: fra
     name: sranan
   - translation_iso: hin
     name: स्रानान टॉन्गो
+  - translation_iso: ind
+    name: Sranan Tongo
   - translation_iso: jpn
     name: スラナン語
   - translation_iso: kor
     name: 스라난 통고
   - translation_iso: por
     name: Sranan
+  - translation_iso: rus
+    name: сранан-тонго
   - translation_iso: spa
     name: Sranan tongo
   - translation_iso: zho

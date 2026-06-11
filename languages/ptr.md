@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピアマツィーナ語
     auto: true
+  - translation_iso: kor
+    name: 피아마치나어
+    auto: true
   - translation_iso: por
     name: Piamatsina
     auto: true

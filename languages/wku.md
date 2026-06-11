@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: كوندوفادي
     auto: true
+  - translation_iso: ben
+    name: কুন্ডুবাদি ভাষা
   - translation_iso: deu
     name: Kunduvadi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クンドゥバディ語
+    auto: true
+  - translation_iso: kor
+    name: 쿤두바디어
     auto: true
   - translation_iso: por
     name: Kunduvadi

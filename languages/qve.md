@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東アプリーマックケチュア語
     auto: true
+  - translation_iso: kor
+    name: 동부 아푸리막 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Apurímac Oriental
     auto: true

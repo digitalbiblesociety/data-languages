@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuareg_languages"
 translations:
   - translation_iso: ara
     name: لغات طارقية
+  - translation_iso: ben
+    name: তামাশেক
   - translation_iso: deu
     name: Tuareg
   - translation_iso: fra
     name: langues touarègues
   - translation_iso: hin
     name: तामाशेक
+  - translation_iso: ind
+    name: Tamashek
   - translation_iso: jpn
     name: トゥアレグ語
   - translation_iso: kor
     name: 투아레그어군
   - translation_iso: por
     name: Línguas tuaregues
+  - translation_iso: rus
+    name: тамашек
   - translation_iso: spa
     name: lenguas tuareg
   - translation_iso: zho

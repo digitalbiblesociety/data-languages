@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダワワ語
     auto: true
+  - translation_iso: kor
+    name: 다와와어
+    auto: true
   - translation_iso: por
     name: Dawawa
     auto: true

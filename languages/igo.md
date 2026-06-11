@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イセベ語
     auto: true
+  - translation_iso: kor
+    name: 이세베어
+    auto: true
   - translation_iso: por
     name: Isebe
     auto: true

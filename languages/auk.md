@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヘヨ語
     auto: true
+  - translation_iso: kor
+    name: 헤요어
+    auto: true
   - translation_iso: por
     name: Heyo
     auto: true

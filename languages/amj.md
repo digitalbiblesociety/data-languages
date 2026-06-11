@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amdang_language"
 translations:
   - translation_iso: ara
     name: أمدانغ
+  - translation_iso: ben
+    name: আমডাং
   - translation_iso: deu
     name: Amdang
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムダン語
+  - translation_iso: kor
+    name: 암당어
+    auto: true
   - translation_iso: por
     name: Amdang
     auto: true
+  - translation_iso: rus
+    name: амданг
   - translation_iso: spa
     name: Idioma amdang
   - translation_iso: zho

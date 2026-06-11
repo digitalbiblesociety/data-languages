@@ -13,18 +13,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Multiple_languages"
 translations:
   - translation_iso: ara
     name: متعدد اللغات
+  - translation_iso: ben
+    name: একাধিক ভাষা
   - translation_iso: deu
     name: mehrere Sprachen
   - translation_iso: fra
     name: multilingue
   - translation_iso: hin
     name: कई भाषाएँ
+  - translation_iso: ind
+    name: Beberapa Bahasa
   - translation_iso: jpn
     name: 複数言語
   - translation_iso: kor
     name: 다중 언어
   - translation_iso: por
     name: múltiplas línguas
+  - translation_iso: rus
+    name: языки разных семей
   - translation_iso: spa
     name: plurilingüe
   - translation_iso: zho

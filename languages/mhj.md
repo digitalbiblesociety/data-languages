@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: मोगोली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Moghol
   - translation_iso: jpn
     name: モゴール語
   - translation_iso: kor
     name: 모골어
   - translation_iso: por
     name: Língua mogholi
+  - translation_iso: rus
+    name: могольский язык
   - translation_iso: spa
     name: moghol
   - translation_iso: zho

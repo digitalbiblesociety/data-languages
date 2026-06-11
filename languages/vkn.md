@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コロ・イハ語
     auto: true
+  - translation_iso: kor
+    name: 코로 눌루어
+    auto: true
   - translation_iso: por
     name: Koro Nulu
     auto: true

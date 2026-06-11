@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラ語
+  - translation_iso: kor
+    name: 카라어
+    auto: true
   - translation_iso: por
     name: Kara (Tanzânia)
     auto: true

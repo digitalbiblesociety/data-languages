@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングル語
+  - translation_iso: kor
+    name: 응굴루어
+    auto: true
   - translation_iso: por
     name: Ngulu
     auto: true

@@ -27,10 +27,17 @@ translations:
     name: woleai
   - translation_iso: hin
     name: वोलियन भाषा
+  - translation_iso: ind
+    name: Bahasa Woleai
   - translation_iso: jpn
     name: ウォレアイ語
+  - translation_iso: kor
+    name: 월레아이어
+    auto: true
   - translation_iso: por
     name: Woleaiano
+  - translation_iso: rus
+    name: Волеаи
   - translation_iso: spa
     name: woleaino
   - translation_iso: zho

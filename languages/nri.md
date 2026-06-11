@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تشوكري ناغا
     auto: true
+  - translation_iso: ben
+    name: চোকরি ভাষা
   - translation_iso: deu
     name: Chokri-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: चोकरी भाषा
   - translation_iso: jpn
     name: チョクリ語
+  - translation_iso: kor
+    name: 초크리 나가어
+    auto: true
   - translation_iso: por
     name: Naga Chokri
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: 北エンベラ語
     auto: true
+  - translation_iso: kor
+    name: 북부 엠베라어
+    auto: true
   - translation_iso: por
     name: Língua embera setentrional
+  - translation_iso: rus
+    name: Северный эмбера
   - translation_iso: spa
     name: Emberá del Norte
     auto: true

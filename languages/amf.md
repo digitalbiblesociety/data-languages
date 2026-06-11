@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハマー語
+  - translation_iso: kor
+    name: 하메르·반나어
+    auto: true
   - translation_iso: por
     name: Língua hamer
+  - translation_iso: rus
+    name: хамер-банна
   - translation_iso: spa
     name: hamer
   - translation_iso: zho

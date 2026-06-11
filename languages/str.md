@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Straits_Salish_language"
 translations:
   - translation_iso: ara
     name: سترايتس ساليش
+  - translation_iso: ben
+    name: স্ট্রেটস সালিস
   - translation_iso: deu
     name: Northern Straits Salish
   - translation_iso: fra
     name: salish côtier nord
   - translation_iso: hin
     name: स्ट्रेट्स सैलिश
+  - translation_iso: ind
+    name: Salish Selat
   - translation_iso: jpn
     name: 北ストレイツ語
   - translation_iso: kor
     name: 해안 살리시어
   - translation_iso: por
     name: salish do estreito norte
+  - translation_iso: rus
+    name: стрейтс салиш
   - translation_iso: spa
     name: salish de los estrechos
   - translation_iso: zho

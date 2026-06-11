@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: テクスメルカン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 텍스멜루칸 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Texmelucan
     auto: true
+  - translation_iso: rus
+    name: Тексмелуканский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Texmelucan
     auto: true

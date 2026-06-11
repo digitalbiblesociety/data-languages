@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوا
     auto: true
+  - translation_iso: ben
+    name: আকওয়া
   - translation_iso: deu
     name: Akwa
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Akwa語
+  - translation_iso: kor
+    name: 아콰어
+    auto: true
   - translation_iso: por
     name: Akwa
     auto: true

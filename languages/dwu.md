@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワル語
     auto: true
+  - translation_iso: kor
+    name: 두왈어
+    auto: true
   - translation_iso: por
     name: Dhuwal
     auto: true

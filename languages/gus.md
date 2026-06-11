@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア手話
+  - translation_iso: kor
+    name: 기니 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Guiné
     auto: true

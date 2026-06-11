@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة جاونساري
     auto: true
+  - translation_iso: ben
+    name: জৌনসারি ভাষা
   - translation_iso: deu
     name: Jaunsari
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: जौनसारी भाषा
   - translation_iso: jpn
     name: ジャウンサーリー語
+  - translation_iso: kor
+    name: 자운사리어
+    auto: true
   - translation_iso: por
     name: Língua jaunsari
   - translation_iso: spa

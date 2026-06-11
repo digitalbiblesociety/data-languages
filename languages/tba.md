@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أيكانّا
     auto: true
+  - translation_iso: ben
+    name: আইকানা ভাষা
   - translation_iso: deu
     name: Aikanã
     auto: true
@@ -28,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイカナ語
+  - translation_iso: kor
+    name: 아이카나어
+    auto: true
   - translation_iso: por
     name: Língua aicanã
+  - translation_iso: rus
+    name: Айканан
   - translation_iso: spa
     name: Idioma aikaná
   - translation_iso: zho

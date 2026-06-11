@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジャオ・ミン語
     auto: true
+  - translation_iso: kor
+    name: 자오민어
+    auto: true
   - translation_iso: por
     name: Dzao Min
     auto: true
+  - translation_iso: rus
+    name: дзао-миньский язык
   - translation_iso: spa
     name: Dzao Min
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Edo_language"
 translations:
   - translation_iso: ara
     name: البينية
+  - translation_iso: ben
+    name: বিনি
   - translation_iso: deu
     name: Edo
   - translation_iso: fra
     name: édo
   - translation_iso: hin
     name: बिनी
+  - translation_iso: ind
+    name: Bini
   - translation_iso: jpn
     name: エド語
   - translation_iso: kor
     name: 비니어
   - translation_iso: por
     name: Língua edo
+  - translation_iso: rus
+    name: бини
   - translation_iso: spa
     name: Idioma edo
   - translation_iso: zho

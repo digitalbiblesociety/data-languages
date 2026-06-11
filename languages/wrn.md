@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワルナン語
     auto: true
+  - translation_iso: kor
+    name: 와르낭어
+    auto: true
   - translation_iso: por
     name: Warnang
     auto: true

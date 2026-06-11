@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इबालोई
     auto: true
+  - translation_iso: ind
+    name: bahasa Ivadoi
   - translation_iso: jpn
     name: イバロイ語
+    auto: true
+  - translation_iso: kor
+    name: 이발로이어
     auto: true
   - translation_iso: por
     name: Língua ibaloi

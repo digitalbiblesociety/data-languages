@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェタル語
     auto: true
+  - translation_iso: kor
+    name: 체차우트어
+    auto: true
   - translation_iso: por
     name: Tsetsaut
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amharic"
 translations:
   - translation_iso: ara
     name: الأمهرية
+  - translation_iso: ben
+    name: আমহারিক
   - translation_iso: deu
     name: Amharisch
   - translation_iso: fra
     name: amharique
   - translation_iso: hin
     name: अम्हारिक
+  - translation_iso: ind
+    name: Amharik
   - translation_iso: jpn
     name: アムハラ語
   - translation_iso: kor
     name: 암하라어
   - translation_iso: por
     name: Língua amárica
+  - translation_iso: rus
+    name: амхарский
   - translation_iso: spa
     name: amhárico
   - translation_iso: zho

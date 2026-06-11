@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باوواكي
     auto: true
+  - translation_iso: ben
+    name: বাউওয়াকি
   - translation_iso: deu
     name: Bauwaki
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウワキ語
+    auto: true
+  - translation_iso: kor
+    name: 바우와키어
     auto: true
   - translation_iso: por
     name: Bauwaki

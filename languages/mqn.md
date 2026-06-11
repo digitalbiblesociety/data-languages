@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: मोरोनेने
     auto: true
+  - translation_iso: ind
+    name: Bahasa Moronene
   - translation_iso: jpn
     name: モロネネ語
     auto: true
+  - translation_iso: kor
+    name: 모로네네어
+    auto: true
   - translation_iso: por
     name: Língua moronene
+  - translation_iso: rus
+    name: Маронене
   - translation_iso: spa
     name: Moronene
     auto: true

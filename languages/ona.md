@@ -35,6 +35,8 @@ translations:
     name: 셀크남어
   - translation_iso: por
     name: Ona
+  - translation_iso: rus
+    name: Она
   - translation_iso: spa
     name: "idioma selk'nam"
   - translation_iso: zho

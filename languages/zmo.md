@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モロ語
     auto: true
+  - translation_iso: kor
+    name: 몰로어
+    auto: true
   - translation_iso: por
     name: Molo
     auto: true

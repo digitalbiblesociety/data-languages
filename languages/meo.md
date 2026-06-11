@@ -31,11 +31,18 @@ translations:
   - translation_iso: hin
     name: केदाह मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Kedah-Perak-Perlis-Penang
   - translation_iso: jpn
     name: ケダ・マレー語
+  - translation_iso: kor
+    name: 케다 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio de Kedah
     auto: true
+  - translation_iso: rus
+    name: кедахский малайский
   - translation_iso: spa
     name: Malayo de Kedah
     auto: true

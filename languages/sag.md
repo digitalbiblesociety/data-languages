@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sango_language"
 translations:
   - translation_iso: ara
     name: السنغوية
+  - translation_iso: ben
+    name: সাঙ্গো
   - translation_iso: deu
     name: Sango
   - translation_iso: fra
     name: sango
   - translation_iso: hin
     name: सांगो
+  - translation_iso: ind
+    name: Sango
   - translation_iso: jpn
     name: サンゴ語
   - translation_iso: kor
     name: 상고어
   - translation_iso: por
     name: Língua sango
+  - translation_iso: rus
+    name: санго
   - translation_iso: spa
     name: idioma sango
   - translation_iso: zho

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コノ語
+  - translation_iso: kor
+    name: 코노어
+    auto: true
   - translation_iso: por
     name: Kono (Serra Leoa)
     auto: true
+  - translation_iso: rus
+    name: Коно
   - translation_iso: spa
     name: kono
   - translation_iso: zho

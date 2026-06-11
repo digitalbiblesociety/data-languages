@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヨセミテ語
     auto: true
+  - translation_iso: kor
+    name: 남부 시에라 미워크어
+    auto: true
   - translation_iso: por
     name: Miwok da Sierra Meridional
     auto: true
+  - translation_iso: rus
+    name: южный сьерра-мивокский язык
   - translation_iso: spa
     name: Miwok de la Sierra Meridional
     auto: true

@@ -23,8 +23,13 @@ translations:
   - translation_iso: hin
     name: सोआ
     auto: true
+  - translation_iso: ind
+    name: "So'a"
   - translation_iso: jpn
     name: ソア語
+    auto: true
+  - translation_iso: kor
+    name: 소아어
     auto: true
   - translation_iso: por
     name: "So'a"

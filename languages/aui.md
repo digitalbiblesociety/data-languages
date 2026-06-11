@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنوكي
     auto: true
+  - translation_iso: ben
+    name: আনুকি
   - translation_iso: deu
     name: Anuki
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌキ語
+    auto: true
+  - translation_iso: kor
+    name: 아누키어
     auto: true
   - translation_iso: por
     name: Língua anuki

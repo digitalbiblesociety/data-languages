@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: جيليك
     auto: true
+  - translation_iso: ben
+    name: নিভ্খ ভাষা
   - translation_iso: deu
     name: Niwchisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: गिल्याक
     auto: true
+  - translation_iso: ind
+    name: Nivkh
   - translation_iso: jpn
     name: ニヴフ語
   - translation_iso: kor
     name: 니브흐어
   - translation_iso: por
     name: Língua nivkhe
+  - translation_iso: rus
+    name: нивхский язык
   - translation_iso: spa
     name: nivejí
   - translation_iso: zho

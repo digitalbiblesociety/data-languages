@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nenets_languages"
 translations:
   - translation_iso: ara
     name: لغات النينيتس
+  - translation_iso: ben
+    name: নেনেৎস ভাষাসমূহ
   - translation_iso: deu
     name: Nenzisch
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: hin
     name: नेनेट्स
     auto: true
+  - translation_iso: ind
+    name: Bahasa-bahasa Nenets
   - translation_iso: jpn
     name: ネネツ語
   - translation_iso: kor
@@ -35,6 +39,8 @@ translations:
   - translation_iso: por
     name: nenets
     auto: true
+  - translation_iso: rus
+    name: ненецкий язык
   - translation_iso: spa
     name: nenezo
   - translation_iso: zho

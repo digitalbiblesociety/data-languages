@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: チャズンバ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 차숨바 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Chazumba
     auto: true
+  - translation_iso: rus
+    name: Чазумба-миштекский язык
   - translation_iso: spa
     name: Mixteco de Chazumba
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カフングワリャ語
     auto: true
+  - translation_iso: kor
+    name: 카훙와랴어
+    auto: true
   - translation_iso: por
     name: Ca̱hungwa̱rya̱
     auto: true

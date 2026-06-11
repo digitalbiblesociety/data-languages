@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ウェン・マー・サザン・チュワン語
     auto: true
+  - translation_iso: kor
+    name: 투라오어
+    auto: true
   - translation_iso: por
     name: Thu Lao
     auto: true

@@ -33,6 +33,8 @@ translations:
     name: 걸라어
   - translation_iso: por
     name: Língua gullah
+  - translation_iso: rus
+    name: галла
   - translation_iso: spa
     name: gulá
   - translation_iso: zho

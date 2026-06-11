@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swahili"
 translations:
   - translation_iso: ara
     name: السواحلية
+  - translation_iso: ben
+    name: সোয়াহিলি
   - translation_iso: deu
     name: Swahili
   - translation_iso: fra
     name: swahili
   - translation_iso: hin
     name: स्वाहिली भाषा
+  - translation_iso: ind
+    name: Swahili
   - translation_iso: jpn
     name: スワヒリ語
   - translation_iso: kor
     name: 스와힐리어
   - translation_iso: por
     name: Língua suaíli
+  - translation_iso: rus
+    name: суахили
   - translation_iso: spa
     name: suajili
   - translation_iso: zho

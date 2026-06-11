@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブワル語
+  - translation_iso: kor
+    name: 부왈어
+    auto: true
   - translation_iso: por
     name: Buwal
     auto: true

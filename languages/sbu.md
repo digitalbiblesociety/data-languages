@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スッドボティ語
     auto: true
+  - translation_iso: kor
+    name: 스토드 보티어
+    auto: true
   - translation_iso: por
     name: Stod Bhoti
     auto: true

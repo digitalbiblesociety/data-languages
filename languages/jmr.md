@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カマラ語
     auto: true
+  - translation_iso: kor
+    name: 카마라어
+    auto: true
   - translation_iso: por
     name: Kamara
     auto: true

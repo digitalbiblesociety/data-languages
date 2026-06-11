@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Persian_language"
 translations:
   - translation_iso: ara
     name: الفارسية
+  - translation_iso: ben
+    name: ফার্সি
   - translation_iso: deu
     name: Persisch
   - translation_iso: fra
     name: persan
   - translation_iso: hin
     name: फ़ारसी भाषा
+  - translation_iso: ind
+    name: Persia
   - translation_iso: jpn
     name: ペルシア語
   - translation_iso: kor
     name: 페르시아어
   - translation_iso: por
     name: persa
+  - translation_iso: rus
+    name: персидский
   - translation_iso: spa
     name: persa
   - translation_iso: zho

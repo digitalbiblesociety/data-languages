@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガバギ語
     auto: true
+  - translation_iso: kor
+    name: 그바기어
+    auto: true
   - translation_iso: por
     name: Gbagyi
     auto: true

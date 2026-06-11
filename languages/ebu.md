@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Embu_language"
 translations:
   - translation_iso: ara
     name: إمبو
+  - translation_iso: ben
+    name: এম্বু
   - translation_iso: deu
     name: Embu
   - translation_iso: fra
     name: embu
   - translation_iso: hin
     name: एम्बु
+  - translation_iso: ind
+    name: Embu
   - translation_iso: jpn
     name: エンブ語
   - translation_iso: kor
     name: 엠부어
   - translation_iso: por
     name: embu
+  - translation_iso: rus
+    name: эмбу
   - translation_iso: spa
     name: embu
   - translation_iso: zho

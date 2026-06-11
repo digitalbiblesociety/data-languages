@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムクル語
     auto: true
+  - translation_iso: kor
+    name: 무쿨루어
+    auto: true
   - translation_iso: por
     name: Mukulu
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部恵水フモン語
+  - translation_iso: kor
+    name: 동부 후이수이 몽어
+    auto: true
   - translation_iso: por
     name: Hmong Huishui Oriental
     auto: true

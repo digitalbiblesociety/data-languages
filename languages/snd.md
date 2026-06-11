@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_language"
 translations:
   - translation_iso: ara
     name: السندية
+  - translation_iso: ben
+    name: সিন্ধি
   - translation_iso: deu
     name: Sindhi
   - translation_iso: fra
     name: sindhi
   - translation_iso: hin
     name: सिन्धी
+  - translation_iso: ind
+    name: Sindhi
   - translation_iso: jpn
     name: シンド語
   - translation_iso: kor
     name: 신디어
   - translation_iso: por
     name: língua sindi
+  - translation_iso: rus
+    name: синдхи
   - translation_iso: spa
     name: sindhi
   - translation_iso: zho

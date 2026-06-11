@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カラバヨ語
     auto: true
+  - translation_iso: kor
+    name: 카라바요어
+    auto: true
   - translation_iso: por
     name: Carabayo
     auto: true
+  - translation_iso: rus
+    name: карабайо
   - translation_iso: spa
     name: Idioma carabayo
   - translation_iso: zho

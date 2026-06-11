@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニインドゥ語
     auto: true
+  - translation_iso: kor
+    name: 닌두어
+    auto: true
   - translation_iso: por
     name: Nyindu
     auto: true

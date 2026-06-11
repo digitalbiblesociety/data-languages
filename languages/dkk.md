@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: दक्का
     auto: true
+  - translation_iso: ind
+    name: Dakka
   - translation_iso: jpn
     name: ダッカ
+  - translation_iso: kor
+    name: 다카어
+    auto: true
   - translation_iso: por
     name: Dakka
     auto: true
+  - translation_iso: rus
+    name: Дакка
   - translation_iso: spa
     name: Dakka
     auto: true

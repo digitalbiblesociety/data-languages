@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナンキナ語
     auto: true
+  - translation_iso: kor
+    name: 난키나어
+    auto: true
   - translation_iso: por
     name: Nankina
     auto: true

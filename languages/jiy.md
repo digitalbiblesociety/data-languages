@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブユアン・ジヌオ語
     auto: true
+  - translation_iso: kor
+    name: 부위안 지눠어
+    auto: true
   - translation_iso: por
     name: Jinuo Buyuan
     auto: true

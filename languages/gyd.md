@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كآيآرديلد
     auto: true
+  - translation_iso: ben
+    name: কায়ারদিল্দ ভাষা
   - translation_iso: deu
     name: Kayardild
     auto: true

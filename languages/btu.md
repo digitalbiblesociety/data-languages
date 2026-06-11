@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باتو
     auto: true
+  - translation_iso: ben
+    name: বাটু
   - translation_iso: deu
     name: Batu
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 바투어
     auto: true
   - translation_iso: por
     name: Batu

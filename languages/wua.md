@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウィクネンチェラ語
     auto: true
+  - translation_iso: kor
+    name: 윅응겐체라어
+    auto: true
   - translation_iso: por
     name: Wikngenchera
     auto: true

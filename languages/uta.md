@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イタング語
     auto: true
+  - translation_iso: kor
+    name: 오탕크어
+    auto: true
   - translation_iso: por
     name: Otank
     auto: true

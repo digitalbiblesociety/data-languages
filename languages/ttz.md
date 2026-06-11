@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ツムケ語
     auto: true
+  - translation_iso: kor
+    name: 춤어
+    auto: true
   - translation_iso: por
     name: Tsum
     auto: true

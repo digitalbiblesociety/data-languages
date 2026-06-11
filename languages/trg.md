@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デニ語
+  - translation_iso: kor
+    name: 리샨 디단어
+    auto: true
   - translation_iso: por
     name: Lishán Didán
     auto: true
+  - translation_iso: rus
+    name: урмийский еврейско-арамейский язык
   - translation_iso: spa
     name: Lishán Didán
   - translation_iso: zho

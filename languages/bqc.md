@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボコ
+  - translation_iso: kor
+    name: 보코어
+    auto: true
   - translation_iso: por
     name: Boko (Benim)
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكوي
     auto: true
+  - translation_iso: ben
+    name: বাকওয়ে
   - translation_iso: deu
     name: Bakwé
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バクウェ語
+  - translation_iso: kor
+    name: 바크웨어
+    auto: true
   - translation_iso: por
     name: Bakwé
     auto: true
+  - translation_iso: rus
+    name: Бакве (язык)
   - translation_iso: spa
     name: Bakwé
     auto: true

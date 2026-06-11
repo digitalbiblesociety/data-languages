@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: दक्षिणी बलोची
     auto: true
+  - translation_iso: ind
+    name: bahasa Makran
   - translation_iso: jpn
     name: 南バローチー語
+  - translation_iso: kor
+    name: 남부 발루치어
+    auto: true
   - translation_iso: por
     name: Balúchi meridional
     auto: true
+  - translation_iso: rus
+    name: южный белуджский
   - translation_iso: spa
     name: Baluchi Meridional
     auto: true

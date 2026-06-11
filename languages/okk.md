@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クワムティム・ワン語
     auto: true
+  - translation_iso: kor
+    name: 크왐팀 오네어
+    auto: true
   - translation_iso: por
     name: One Kwamtim
     auto: true

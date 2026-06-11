@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イネセーニョ語
     auto: true
+  - translation_iso: kor
+    name: 이네세뇨어
+    auto: true
   - translation_iso: por
     name: Ineseño
     auto: true

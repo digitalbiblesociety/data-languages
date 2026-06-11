@@ -30,6 +30,8 @@ translations:
   - translation_iso: hin
     name: सावी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sawi
   - translation_iso: jpn
     name: サウィ語
     auto: true

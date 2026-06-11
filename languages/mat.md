@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サン・フランシスコ・マトラツィンカ語
     auto: true
+  - translation_iso: kor
+    name: 산프란시스코 마틀라친카어
+    auto: true
   - translation_iso: por
     name: Matlatzinca de San Francisco
     auto: true

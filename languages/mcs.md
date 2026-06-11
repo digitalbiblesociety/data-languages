@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マンバイ語
     auto: true
+  - translation_iso: kor
+    name: 맘바이어
+    auto: true
   - translation_iso: por
     name: Mambai
     auto: true
+  - translation_iso: rus
+    name: Мамбай
   - translation_iso: spa
     name: Mambai
     auto: true

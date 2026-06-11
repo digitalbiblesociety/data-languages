@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراكاي
     auto: true
+  - translation_iso: ben
+    name: বারাকাই
   - translation_iso: deu
     name: Barakai
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बाराकाई
     auto: true
+  - translation_iso: ind
+    name: Barakai
   - translation_iso: jpn
     name: バラカイ語
+    auto: true
+  - translation_iso: kor
+    name: 바라카이어
     auto: true
   - translation_iso: por
     name: Barakai

@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية سامرية
+  - translation_iso: ben
+    name: সামারিটান আরামিক
   - translation_iso: deu
     name: Samaritanisch
   - translation_iso: fra
     name: araméen samaritain
   - translation_iso: hin
     name: सामैरिटन अरैमिक
+  - translation_iso: ind
+    name: Aram Samaria
   - translation_iso: jpn
     name: サマリア・アラム語
   - translation_iso: kor
     name: 사마리아 아람어
   - translation_iso: por
     name: aramaico samaritano
+  - translation_iso: rus
+    name: самаритянский арамейский
   - translation_iso: spa
     name: samaritano
   - translation_iso: zho

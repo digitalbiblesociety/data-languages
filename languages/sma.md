@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: لغة سامي الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণাঞ্চলীয় সামি
   - translation_iso: deu
     name: Südsamisch
   - translation_iso: fra
     name: same du Sud
   - translation_iso: hin
     name: दक्षिणी सामी
+  - translation_iso: ind
+    name: Sami Selatan
   - translation_iso: jpn
     name: 南部サーミ語
   - translation_iso: kor
     name: 남부 사미어
   - translation_iso: por
     name: língua sami meridional
+  - translation_iso: rus
+    name: южносаамский
   - translation_iso: spa
     name: sami meridional
   - translation_iso: zho

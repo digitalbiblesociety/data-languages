@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मठवासी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: bahasa isyarat biara
   - translation_iso: jpn
     name: 修道院手話
+  - translation_iso: kor
+    name: 수도원 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Monástica
     auto: true

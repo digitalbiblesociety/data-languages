@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マッサラット語
     auto: true
+  - translation_iso: kor
+    name: 마살라트어
+    auto: true
   - translation_iso: por
     name: Massalat
     auto: true

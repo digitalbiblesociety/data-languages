@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी बिनुकिदनोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Magahat
   - translation_iso: jpn
     name: サザン・ビヌキドノン語
+    auto: true
+  - translation_iso: kor
+    name: 남부 비누키드논어
     auto: true
   - translation_iso: por
     name: binukidnon do sul

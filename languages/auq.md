@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنوس
     auto: true
+  - translation_iso: ben
+    name: আনুস
   - translation_iso: deu
     name: Anus
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: अनुस
     auto: true
+  - translation_iso: ind
+    name: Anus
   - translation_iso: jpn
     name: アヌス語
+  - translation_iso: kor
+    name: 아누스어
+    auto: true
   - translation_iso: por
     name: Anus
+  - translation_iso: rus
+    name: анус
   - translation_iso: spa
     name: anus
   - translation_iso: zho

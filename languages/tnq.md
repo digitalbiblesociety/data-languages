@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: ताइनो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Taíno
   - translation_iso: jpn
     name: タイノ語
   - translation_iso: kor
     name: 타이노어
   - translation_iso: por
     name: Língua taína
+  - translation_iso: rus
+    name: таино
   - translation_iso: spa
     name: taíno
   - translation_iso: zho

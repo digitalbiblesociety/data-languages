@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キシ語
     auto: true
+  - translation_iso: kor
+    name: 남부 키시어
+    auto: true
   - translation_iso: por
     name: Kissi meridional
     auto: true

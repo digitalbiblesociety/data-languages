@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガヴァル語
     auto: true
+  - translation_iso: kor
+    name: 가바르어
+    auto: true
   - translation_iso: por
     name: Língua gavar
   - translation_iso: spa

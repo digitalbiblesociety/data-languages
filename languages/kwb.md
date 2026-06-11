@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: ben
+    name: বা
   - translation_iso: deu
     name: Baa
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワ語
+    auto: true
+  - translation_iso: kor
+    name: 콰어
     auto: true
   - translation_iso: por
     name: Kwa

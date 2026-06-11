@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बोआनो (मालुकु)
     auto: true
+  - translation_iso: ind
+    name: Boano
   - translation_iso: jpn
     name: ボアノ・マルク語
+    auto: true
+  - translation_iso: kor
+    name: 보아노어
     auto: true
   - translation_iso: por
     name: Boano (Molucas)

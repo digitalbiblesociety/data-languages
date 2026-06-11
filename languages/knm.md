@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カナマリ語
+  - translation_iso: kor
+    name: 카나마리어
+    auto: true
   - translation_iso: por
     name: Língua Katukina-Kanamari
+  - translation_iso: rus
+    name: Канамари
   - translation_iso: spa
     name: Idioma kanamarí
   - translation_iso: zho

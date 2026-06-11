@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パパゴ語
+  - translation_iso: kor
+    name: 토호노 오오담어
+    auto: true
   - translation_iso: por
     name: "Língua o'odham"
+  - translation_iso: rus
+    name: оодхам
   - translation_iso: spa
     name: "o'odham"
   - translation_iso: zho

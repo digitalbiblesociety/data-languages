@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: دوتيالي
     auto: true
+  - translation_iso: ben
+    name: ডোটেলী ভাষা
   - translation_iso: deu
     name: Doteli
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     name: डोटेली भाषा
   - translation_iso: jpn
     name: ドテリ語
+  - translation_iso: kor
+    name: 도티알리어
+    auto: true
   - translation_iso: por
     name: Doteli
+  - translation_iso: rus
+    name: дотели
   - translation_iso: spa
     name: Doteli
   - translation_iso: zho

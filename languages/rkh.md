@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラカハンガ・マニヒキ語
+  - translation_iso: kor
+    name: 라카항가마니히키어
+    auto: true
   - translation_iso: por
     name: Língua rakahanga
   - translation_iso: spa

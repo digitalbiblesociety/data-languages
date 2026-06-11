@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فيلاموفيان
     auto: true
+  - translation_iso: ben
+    name: ভিলামোভীয় ভাষা
   - translation_iso: deu
     name: Wilmesaurisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: विमिसोरिस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wimisoris
   - translation_iso: jpn
     name: ヴィラモヴィアン語
   - translation_iso: kor
     name: 빌라모비체어
   - translation_iso: por
     name: Wymysorys
+  - translation_iso: rus
+    name: вилямовский язык
   - translation_iso: spa
     name: vilamoviciano
   - translation_iso: zho

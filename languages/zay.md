@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語
     auto: true
+  - translation_iso: kor
+    name: 자이세·제르굴라어
+    auto: true
   - translation_iso: por
     name: zayse-zergulla
     auto: true
+  - translation_iso: rus
+    name: Зайсе-зергулла
   - translation_iso: spa
     name: Idioma zayse-zergulla
   - translation_iso: zho

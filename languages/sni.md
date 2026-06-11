@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: テンティ語
     auto: true
+  - translation_iso: kor
+    name: 센시어
+    auto: true
   - translation_iso: por
     name: Sensi
     auto: true
+  - translation_iso: rus
+    name: Сенси
   - translation_iso: spa
     name: Sensi
   - translation_iso: zho

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيامولو
     auto: true
+  - translation_iso: ben
+    name: কিনয়ারওয়ান্ডা
   - translation_iso: deu
     name: Gunyamolo
   - translation_iso: fra

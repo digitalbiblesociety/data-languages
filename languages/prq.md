@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: アシェニンカペレネ語
     auto: true
+  - translation_iso: kor
+    name: 페레네 아셰닌카어
+    auto: true
   - translation_iso: por
     name: Ashéninka Perené
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガマレ・ハム語
     auto: true
+  - translation_iso: kor
+    name: 가말레 캄어
+    auto: true
   - translation_iso: por
     name: Kham Gamale
     auto: true

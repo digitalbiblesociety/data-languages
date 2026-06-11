@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة أردهاماغادهي براكريت
     auto: true
+  - translation_iso: ben
+    name: অর্ধমাগধী প্রাকৃত
   - translation_iso: deu
     name: Ardhamagadhi
   - translation_iso: fra
@@ -22,6 +24,8 @@ translations:
     auto: true
   - translation_iso: hin
     name: अर्धमागधी
+  - translation_iso: ind
+    name: Bahasa Prakerta Ardhamagadhi
   - translation_iso: jpn
     name: アルダマーガディー
   - translation_iso: kor

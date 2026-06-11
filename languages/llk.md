@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レラック語
+  - translation_iso: kor
+    name: 렐라크어
+    auto: true
   - translation_iso: por
     name: Lelak
     auto: true

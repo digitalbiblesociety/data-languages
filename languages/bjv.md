@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بدجوند
     auto: true
+  - translation_iso: ben
+    name: বেডজন্ড জেজিক
   - translation_iso: deu
     name: Bedjond
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベジョンド語
+    auto: true
+  - translation_iso: kor
+    name: 베존드어
     auto: true
   - translation_iso: por
     name: Bedjond

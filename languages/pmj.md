@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南プミ語
     auto: true
+  - translation_iso: kor
+    name: 남부 푸미어
+    auto: true
   - translation_iso: por
     name: Pumi Meridional
     auto: true

@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afrihili"
 translations:
   - translation_iso: ara
     name: أفرهيلي
+  - translation_iso: ben
+    name: আফ্রিহিলি
   - translation_iso: deu
     name: Afrihili
   - translation_iso: fra
     name: afrihili
   - translation_iso: hin
     name: अफ्रिहिली
+  - translation_iso: ind
+    name: Afrihili
   - translation_iso: jpn
     name: アフリヒリ
   - translation_iso: kor
     name: 아프리힐리어
   - translation_iso: por
     name: afrihili
+  - translation_iso: rus
+    name: африхили
   - translation_iso: spa
     name: afrijili
   - translation_iso: zho

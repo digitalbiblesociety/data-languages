@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ズンブン語
+  - translation_iso: kor
+    name: 줌분어
+    auto: true
   - translation_iso: por
     name: Zumbun
     auto: true
+  - translation_iso: rus
+    name: Джимбин
   - translation_iso: spa
     name: zumbún
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: マエカ語
     auto: true
+  - translation_iso: kor
+    name: 마예카어
+    auto: true
   - translation_iso: por
     name: Mayeka
     auto: true

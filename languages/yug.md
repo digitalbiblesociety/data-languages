@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: yug
     auto: true
+  - translation_iso: rus
+    name: югский язык
   - translation_iso: spa
     name: yugh
   - translation_iso: zho

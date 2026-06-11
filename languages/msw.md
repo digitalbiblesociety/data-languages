@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンソアンカ語
     auto: true
+  - translation_iso: kor
+    name: 만소앙카어
+    auto: true
   - translation_iso: por
     name: Mansoanka
     auto: true

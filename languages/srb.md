@@ -34,6 +34,8 @@ translations:
     name: 소라
   - translation_iso: por
     name: Língua Sora
+  - translation_iso: rus
+    name: Сора (язык)
   - translation_iso: spa
     name: sora
   - translation_iso: zho

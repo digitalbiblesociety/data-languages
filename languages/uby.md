@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ubykh_language"
 translations:
   - translation_iso: ara
     name: لغة الوبخ
+  - translation_iso: ben
+    name: উবুখ ভাষা
   - translation_iso: deu
     name: Ubychisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: उबीख
     auto: true
+  - translation_iso: ind
+    name: Ubykh
   - translation_iso: jpn
     name: ウビフ語
   - translation_iso: kor
     name: 우비흐어
   - translation_iso: por
     name: ubykh
+  - translation_iso: rus
+    name: убыхский язык
   - translation_iso: spa
     name: ubijé
   - translation_iso: zho

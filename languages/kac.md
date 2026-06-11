@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jingpo_language"
 translations:
   - translation_iso: ara
     name: الكاتشين
+  - translation_iso: ben
+    name: কাচিন
   - translation_iso: deu
     name: Jingpho
   - translation_iso: fra
     name: jinghpo
   - translation_iso: hin
     name: जिन्गपो भाषा
+  - translation_iso: ind
+    name: Kachin
   - translation_iso: jpn
     name: ジンポー語
   - translation_iso: kor
     name: 징포어
   - translation_iso: por
     name: Língua jingpho
+  - translation_iso: rus
+    name: качинский
   - translation_iso: spa
     name: idioma jingpo
   - translation_iso: zho

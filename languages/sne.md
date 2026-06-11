@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: バウ語
     auto: true
+  - translation_iso: kor
+    name: 바우 비다유어
+    auto: true
   - translation_iso: por
     name: Bidayuh Bau
     auto: true

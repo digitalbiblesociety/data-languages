@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(India)"
 translations:
   - translation_iso: ara
     name: البودووية
+  - translation_iso: ben
+    name: বোড়ো
   - translation_iso: deu
     name: Bodo
   - translation_iso: fra
     name: bodo
   - translation_iso: hin
     name: बोडो भाषा
+  - translation_iso: ind
+    name: Bodo
   - translation_iso: jpn
     name: ボド語
   - translation_iso: kor
     name: 보도어
   - translation_iso: por
     name: Língua bodo
+  - translation_iso: rus
+    name: бодо
   - translation_iso: spa
     name: idioma bodo
   - translation_iso: zho

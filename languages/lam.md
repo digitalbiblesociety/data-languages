@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lamba_language"
 translations:
   - translation_iso: ara
     name: اللامبا
+  - translation_iso: ben
+    name: লাম্বা
   - translation_iso: deu
     name: Lamba
   - translation_iso: fra
     name: lamba
   - translation_iso: hin
     name: लाम्बा
+  - translation_iso: ind
+    name: Lamba
   - translation_iso: jpn
     name: ランバ語
   - translation_iso: kor
     name: 람바어
   - translation_iso: por
     name: lamba
+  - translation_iso: rus
+    name: ламба
   - translation_iso: spa
     name: lamba
   - translation_iso: zho

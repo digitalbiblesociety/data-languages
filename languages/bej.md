@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Beja_language"
 translations:
   - translation_iso: ara
     name: اللغة البجاوية
+  - translation_iso: ben
+    name: বেজা
   - translation_iso: deu
     name: Bedscha
   - translation_iso: fra
     name: bedja
   - translation_iso: hin
     name: बेजा
+  - translation_iso: ind
+    name: Beja
   - translation_iso: jpn
     name: ベジャ語
   - translation_iso: kor
     name: 베자어
   - translation_iso: por
     name: Língua beja
+  - translation_iso: rus
+    name: беджа
   - translation_iso: spa
     name: Idioma beya
   - translation_iso: zho

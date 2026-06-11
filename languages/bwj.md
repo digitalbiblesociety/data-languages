@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラー・ラー・ブワム語
     auto: true
+  - translation_iso: kor
+    name: 라라 브와무어
+    auto: true
   - translation_iso: por
     name: Língua láá láá bwam
   - translation_iso: spa

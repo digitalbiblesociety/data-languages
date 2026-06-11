@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: クフルカッセムサイン言語
     auto: true
+  - translation_iso: kor
+    name: 쿠프르 카셈 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Kufr Qassem
     auto: true
+  - translation_iso: rus
+    name: жестовый язык Кафр-Касема
   - translation_iso: spa
     name: Lengua de señas de Kufr Qassem
     auto: true

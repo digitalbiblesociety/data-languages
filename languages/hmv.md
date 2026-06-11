@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フモング・ド語
     auto: true
+  - translation_iso: kor
+    name: 몽 도어
+    auto: true
   - translation_iso: por
     name: Hmong Dô
     auto: true

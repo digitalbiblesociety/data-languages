@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ウォロッラ語
     auto: true
+  - translation_iso: kor
+    name: 워로라어
+    auto: true
   - translation_iso: por
     name: Língua worrorra
+  - translation_iso: rus
+    name: Воррорра
   - translation_iso: spa
     name: Worrorra
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الآدمورب
     auto: true
+  - translation_iso: ben
+    name: অ্যাডামরোবে সাংকেতিক ভাষা
   - translation_iso: deu
     name: Adamorobe-Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: एडमोरोब साइन लैंग्वेज
   - translation_iso: jpn
     name: アダモロベ手話
+  - translation_iso: kor
+    name: 아다모로베 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual de Adamorobe
+  - translation_iso: rus
+    name: адаморобе жестовый язык
   - translation_iso: spa
     name: lengua de señas adamorobe
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワウベ語
     auto: true
+  - translation_iso: kor
+    name: 와우베어
+    auto: true
   - translation_iso: por
     name: Waube
     auto: true

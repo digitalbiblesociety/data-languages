@@ -35,6 +35,8 @@ translations:
     name: 중앙 알래스카 유픽어
   - translation_iso: por
     name: Língua iúpique do Alasca Central
+  - translation_iso: rus
+    name: центрально-юпикский язык
   - translation_iso: spa
     name: Yupik alaskeño central
   - translation_iso: zho

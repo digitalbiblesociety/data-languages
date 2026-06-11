@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ノッタウェイ・メヘリン語
     auto: true
+  - translation_iso: kor
+    name: 노터웨이메헤린어
+    auto: true
   - translation_iso: por
     name: Nottoway-Meherrin
     auto: true

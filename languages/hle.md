@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フレルス語
     auto: true
+  - translation_iso: kor
+    name: 흘레르수어
+    auto: true
   - translation_iso: por
     name: Hlersu
     auto: true

@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: मिनोअन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Minoa
   - translation_iso: jpn
     name: ミノア語
+  - translation_iso: kor
+    name: 미노아어
+    auto: true
   - translation_iso: por
     name: minoico
     auto: true
+  - translation_iso: rus
+    name: минойский язык
   - translation_iso: spa
     name: minoico
   - translation_iso: zho

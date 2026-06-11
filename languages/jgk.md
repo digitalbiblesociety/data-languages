@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グワク語
     auto: true
+  - translation_iso: kor
+    name: 과크어
+    auto: true
   - translation_iso: por
     name: Gwak
     auto: true

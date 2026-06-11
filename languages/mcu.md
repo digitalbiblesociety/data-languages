@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カメルーン・マンビラ語
     auto: true
+  - translation_iso: kor
+    name: 카메룬 맘빌라어
+    auto: true
   - translation_iso: por
     name: Mambila dos Camarões
     auto: true

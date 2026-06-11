@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ナリナリ語
     auto: true
+  - translation_iso: kor
+    name: 나리나리어
+    auto: true
   - translation_iso: por
     name: Nari Nari
     auto: true

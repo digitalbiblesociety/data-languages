@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥウェデ語
     auto: true
+  - translation_iso: kor
+    name: 드그웨데어
+    auto: true
   - translation_iso: por
     name: Dghwede
     auto: true

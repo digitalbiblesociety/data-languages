@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イゾラ語
     auto: true
+  - translation_iso: kor
+    name: 이조라어
+    auto: true
   - translation_iso: por
     name: Izora
     auto: true

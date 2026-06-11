@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: アチュアルシウィアル語
     auto: true
+  - translation_iso: kor
+    name: 아추아르·시위아르어
+    auto: true
   - translation_iso: por
     name: achuar
+  - translation_iso: rus
+    name: Ачуар-шивиар
   - translation_iso: spa
     name: Achuar
   - translation_iso: zho

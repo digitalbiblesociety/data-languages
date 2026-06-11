@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 山岳アラペシュ語
+  - translation_iso: kor
+    name: 부키이프어
+    auto: true
   - translation_iso: por
     name: Língua bukiyip
+  - translation_iso: rus
+    name: Букийип
   - translation_iso: spa
     name: arapeso montañés
   - translation_iso: zho

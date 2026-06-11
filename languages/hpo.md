@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フポン語
     auto: true
+  - translation_iso: kor
+    name: 폰어
+    auto: true
   - translation_iso: por
     name: Hpon
     auto: true

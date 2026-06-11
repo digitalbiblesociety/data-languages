@@ -22,16 +22,25 @@ translations:
   - translation_iso: ara
     name: بادقة
     auto: true
+  - translation_iso: ben
+    name: বডাগা ভাষা
   - translation_iso: deu
     name: Badaga
   - translation_iso: fra
     name: badaga
   - translation_iso: hin
     name: बदगा भाषा
+  - translation_iso: ind
+    name: Bahasa Badaga
   - translation_iso: jpn
     name: バダガ語
+  - translation_iso: kor
+    name: 바다가어
+    auto: true
   - translation_iso: por
     name: Língua badaga
+  - translation_iso: rus
+    name: бадага
   - translation_iso: spa
     name: Badaga
     auto: true

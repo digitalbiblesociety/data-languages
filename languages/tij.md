@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティルン語
     auto: true
+  - translation_iso: kor
+    name: 틸룽어
+    auto: true
   - translation_iso: por
     name: Tilung
     auto: true

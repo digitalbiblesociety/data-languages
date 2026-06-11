@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: उना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Una
   - translation_iso: jpn
     name: ウナ語
+    auto: true
+  - translation_iso: kor
+    name: 우나어
     auto: true
   - translation_iso: por
     name: Una

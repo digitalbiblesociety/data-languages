@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ピアメ語
     auto: true
+  - translation_iso: kor
+    name: 피아메어
+    auto: true
   - translation_iso: por
     name: Piame
     auto: true

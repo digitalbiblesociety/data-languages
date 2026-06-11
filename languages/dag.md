@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dagbani_language"
 translations:
   - translation_iso: ara
     name: دغبانية
+  - translation_iso: ben
+    name: দাগবানি
   - translation_iso: deu
     name: Dagbani
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 다그바니어
   - translation_iso: por
     name: dagani
+  - translation_iso: rus
+    name: дагбани
   - translation_iso: spa
     name: dagbanli
   - translation_iso: zho

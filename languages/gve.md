@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥウェット語
     auto: true
+  - translation_iso: kor
+    name: 두웨트어
+    auto: true
   - translation_iso: por
     name: Duwet
     auto: true

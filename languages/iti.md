@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: インラオド・イトネグ語
     auto: true
+  - translation_iso: kor
+    name: 인라오드 이트네그어
+    auto: true
   - translation_iso: por
     name: Itneg Inlaod
     auto: true

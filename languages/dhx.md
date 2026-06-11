@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ドゥンガル語
     auto: true
+  - translation_iso: kor
+    name: 둥갈루어
+    auto: true
   - translation_iso: por
     name: Dhungaloo
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: इंग्रियन
     auto: true
+  - translation_iso: ind
+    name: Ingria
   - translation_iso: jpn
     name: イングリア語
   - translation_iso: kor
     name: 잉그리아어
   - translation_iso: por
     name: ingriano
+  - translation_iso: rus
+    name: ижорский язык
   - translation_iso: spa
     name: ingrio
   - translation_iso: zho

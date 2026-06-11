@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パランラ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 팔란틀라 치난텍어
+    auto: true
   - translation_iso: por
     name: Língua chinanteca de Palantla
+  - translation_iso: rus
+    name: Палантланский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Palantla
   - translation_iso: zho

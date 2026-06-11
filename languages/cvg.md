@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشوغ
     auto: true
+  - translation_iso: ben
+    name: চুগ ভাষা
   - translation_iso: deu
     name: Chug
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: चुग भाषा
   - translation_iso: jpn
     name: チュグ語
+    auto: true
+  - translation_iso: kor
+    name: 추그어
     auto: true
   - translation_iso: por
     name: Chug

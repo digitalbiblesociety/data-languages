@@ -32,6 +32,8 @@ translations:
     name: 에스카야어
   - translation_iso: por
     name: eskaiana
+  - translation_iso: rus
+    name: эскайский язык
   - translation_iso: spa
     name: Eskayan
     auto: true

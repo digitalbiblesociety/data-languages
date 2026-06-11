@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イインバウ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 인보 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Yinbaw
     auto: true

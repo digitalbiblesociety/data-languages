@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クウォムタリ語
     auto: true
+  - translation_iso: kor
+    name: 퀌타리어
+    auto: true
   - translation_iso: por
     name: Kwomtari
     auto: true

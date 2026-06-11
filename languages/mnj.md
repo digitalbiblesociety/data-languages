@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムンジャン語
+  - translation_iso: kor
+    name: 문지어
+    auto: true
   - translation_iso: por
     name: Língua munji
+  - translation_iso: rus
+    name: мунджанский язык
   - translation_iso: spa
     name: Idioma munji
   - translation_iso: zho

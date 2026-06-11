@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロゴーリ語
+  - translation_iso: kor
+    name: 로골리어
+    auto: true
   - translation_iso: por
     name: Logooli
     auto: true
+  - translation_iso: rus
+    name: Логоли
   - translation_iso: spa
     name: Logooli
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: kor
+    name: 루푸어
+    auto: true
   - translation_iso: por
     name: Lufu
     auto: true

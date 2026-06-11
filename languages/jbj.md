@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أرانداي
     auto: true
+  - translation_iso: ben
+    name: আরান্দাই
   - translation_iso: deu
     name: Arandai
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: अरांदाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arandai
   - translation_iso: jpn
     name: アランダイ語
+    auto: true
+  - translation_iso: kor
+    name: 아란다이어
     auto: true
   - translation_iso: por
     name: Arandai

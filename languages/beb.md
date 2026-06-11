@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: ben
+    name: বেবেলে
   - translation_iso: deu
     name: Bebele
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベベレ語
+    auto: true
+  - translation_iso: kor
+    name: 베벨레어
     auto: true
   - translation_iso: por
     name: Bebele

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フィパ語
+  - translation_iso: kor
+    name: 피파어
+    auto: true
   - translation_iso: por
     name: Fipa
     auto: true
+  - translation_iso: rus
+    name: Фипа (язык)
   - translation_iso: spa
     name: Fipa
     auto: true

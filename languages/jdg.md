@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jadgali_language"
 translations:
   - translation_iso: ara
     name: الزدجالية
+  - translation_iso: ben
+    name: জদগালি
   - translation_iso: deu
     name: Jadgali
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: जदगाली
   - translation_iso: jpn
     name: ジャガリ語
+  - translation_iso: kor
+    name: 자드갈리어
+    auto: true
   - translation_iso: por
     name: Jadgali
     auto: true

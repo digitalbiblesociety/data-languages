@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コロ・ズバ語
     auto: true
+  - translation_iso: kor
+    name: 코로 주바어
+    auto: true
   - translation_iso: por
     name: Koro Zuba
     auto: true

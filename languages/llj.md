@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラジ・ラジ語
     auto: true
+  - translation_iso: kor
+    name: 라지라지어
+    auto: true
   - translation_iso: por
     name: Língua latji-latji
   - translation_iso: spa

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: ben
+    name: বেলি
   - translation_iso: deu
     name: Beli (South Sudan)
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベリ語
+    auto: true
+  - translation_iso: kor
+    name: 벨리어
     auto: true
   - translation_iso: por
     name: Língua beli

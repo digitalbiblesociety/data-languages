@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ゾゥングゥ語
     auto: true
+  - translation_iso: kor
+    name: 준구어
+    auto: true
   - translation_iso: por
     name: Dzùùngoo
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・カン語
+  - translation_iso: kor
+    name: 타이 캉어
+    auto: true
   - translation_iso: por
     name: Tay Khang
     auto: true

@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: मोरोरी
     auto: true
+  - translation_iso: ind
+    name: Morori
   - translation_iso: jpn
     name: モロリ語
+    auto: true
+  - translation_iso: kor
+    name: 모로리어
     auto: true
   - translation_iso: por
     name: Morori
     auto: true
+  - translation_iso: rus
+    name: Морори
   - translation_iso: spa
     name: Idioma morori
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナモシ・ナイタシリ・セルア語
     auto: true
+  - translation_iso: kor
+    name: 나모시나이타시리세루아어
+    auto: true
   - translation_iso: por
     name: Namosi-Naitasiri-Serua
     auto: true

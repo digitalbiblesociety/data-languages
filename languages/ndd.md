@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンデ・ンセレ・ンタ語
     auto: true
+  - translation_iso: kor
+    name: 은데·은셀레·은타어
+    auto: true
   - translation_iso: por
     name: Nde-Nsele-Nta
     auto: true

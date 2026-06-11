@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ناامي
     auto: true
+  - translation_iso: ben
+    name: বেবে
   - translation_iso: deu
     name: Bebe
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: नामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bebe
   - translation_iso: jpn
     name: ナアミ語
+    auto: true
+  - translation_iso: kor
+    name: 나미어
     auto: true
   - translation_iso: por
     name: Naami

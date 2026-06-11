@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語
+  - translation_iso: kor
+    name: 트란살피나 갈리아어
+    auto: true
   - translation_iso: por
     name: Gaulês Transalpino
     auto: true

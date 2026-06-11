@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラザジェルディ語
     auto: true
+  - translation_iso: kor
+    name: 라자제르디어
+    auto: true
   - translation_iso: por
     name: Razajerdi
     auto: true

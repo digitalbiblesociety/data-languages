@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルチャジ語
     auto: true
+  - translation_iso: kor
+    name: 루차지어
+    auto: true
   - translation_iso: por
     name: Língua luchazi
   - translation_iso: spa

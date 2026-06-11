@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुसोआ
     auto: true
+  - translation_iso: ind
+    name: Busoa
   - translation_iso: jpn
     name: ブソア語
+    auto: true
+  - translation_iso: kor
+    name: 부소아어
     auto: true
   - translation_iso: por
     name: Busoa

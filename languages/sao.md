@@ -25,12 +25,19 @@ translations:
   - translation_iso: hin
     name: साउसे
     auto: true
+  - translation_iso: ind
+    name: Sause
   - translation_iso: jpn
     name: セウセ語
+    auto: true
+  - translation_iso: kor
+    name: 사우세어
     auto: true
   - translation_iso: por
     name: Sause
     auto: true
+  - translation_iso: rus
+    name: Саусе
   - translation_iso: spa
     name: Sause
     auto: true

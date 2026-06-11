@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンガス語
     auto: true
+  - translation_iso: kor
+    name: 망가스어
+    auto: true
   - translation_iso: por
     name: Mangas
     auto: true

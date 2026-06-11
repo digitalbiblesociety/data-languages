@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: गेसेर-गोरोम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Geser
   - translation_iso: jpn
     name: ゲセル・ゴロム語
+    auto: true
+  - translation_iso: kor
+    name: 게세르·고롬어
     auto: true
   - translation_iso: por
     name: Geser-Gorom

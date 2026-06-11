@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブラン語
     auto: true
+  - translation_iso: kor
+    name: 블랑어
+    auto: true
   - translation_iso: por
     name: Blang
     auto: true

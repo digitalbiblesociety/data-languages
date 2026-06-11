@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール
+  - translation_iso: kor
+    name: 토레스 해협 크리올어
+    auto: true
   - translation_iso: por
     name: Língua crioula do Estreito de Torres
+  - translation_iso: rus
+    name: Креольский язык Торресова пролива
   - translation_iso: spa
     name: Criollo del Estrecho de Torres
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カムラ語
     auto: true
+  - translation_iso: kor
+    name: 카물라어
+    auto: true
   - translation_iso: por
     name: Kamula
     auto: true

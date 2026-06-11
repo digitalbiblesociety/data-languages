@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クルアヤ語
     auto: true
+  - translation_iso: kor
+    name: 쿠루아야어
+    auto: true
   - translation_iso: por
     name: Língua curuaia
+  - translation_iso: rus
+    name: Куруая (язык)
   - translation_iso: spa
     name: Kuruáya
     auto: true

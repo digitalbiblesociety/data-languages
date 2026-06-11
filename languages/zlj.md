@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柳江チワン語
+  - translation_iso: kor
+    name: 류장 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Liujiang
     auto: true

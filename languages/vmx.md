@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タマゾラ・ミシテク語
     auto: true
+  - translation_iso: kor
+    name: 타마솔라 미스테카어
+    auto: true
   - translation_iso: por
     name: Mixteco de Tamazola
     auto: true

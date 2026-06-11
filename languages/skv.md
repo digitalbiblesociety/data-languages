@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: स्कोउ
     auto: true
+  - translation_iso: ind
+    name: Skou
   - translation_iso: jpn
     name: トゥマウォ語
+    auto: true
+  - translation_iso: kor
+    name: 스코우어
     auto: true
   - translation_iso: por
     name: Skou

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ユフップ語
     auto: true
+  - translation_iso: kor
+    name: 유훕어
+    auto: true
   - translation_iso: por
     name: Língua iuhupde
   - translation_iso: spa

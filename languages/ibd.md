@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イワイジャ語
     auto: true
+  - translation_iso: kor
+    name: 이와이자어
+    auto: true
   - translation_iso: por
     name: Iwaidja
     auto: true
+  - translation_iso: rus
+    name: Ивайдя
   - translation_iso: spa
     name: Iwaidja
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبياكا
     auto: true
+  - translation_iso: ben
+    name: আপিয়াকা
   - translation_iso: deu
     name: Apiaká
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アピアカ語
     auto: true
+  - translation_iso: kor
+    name: 아피아카어
+    auto: true
   - translation_iso: por
     name: Língua apiacá
+  - translation_iso: rus
+    name: Апиака
   - translation_iso: spa
     name: Apiaká
     auto: true

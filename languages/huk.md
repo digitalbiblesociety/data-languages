@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: हुलुंग
     auto: true
+  - translation_iso: ind
+    name: Hulung
   - translation_iso: jpn
     name: フルング語
+    auto: true
+  - translation_iso: kor
+    name: 훌룽어
     auto: true
   - translation_iso: por
     name: Hulung

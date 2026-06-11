@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mende_language"
 translations:
   - translation_iso: ara
     name: الميند
+  - translation_iso: ben
+    name: মেন্ডে
   - translation_iso: deu
     name: Mende
   - translation_iso: fra
     name: mendé
   - translation_iso: hin
     name: मेंडे भाषा
+  - translation_iso: ind
+    name: Mende
   - translation_iso: jpn
     name: メンデ語
   - translation_iso: kor
     name: 멘데어
   - translation_iso: por
     name: Língua mende
+  - translation_iso: rus
+    name: менде
   - translation_iso: spa
     name: Idioma mende
   - translation_iso: zho

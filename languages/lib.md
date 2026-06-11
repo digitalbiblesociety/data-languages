@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: リクム語
     auto: true
+  - translation_iso: kor
+    name: 리쿰어
+    auto: true
   - translation_iso: por
     name: Likum
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغولار
     auto: true
+  - translation_iso: ben
+    name: অ্যাঙ্গোলার
   - translation_iso: deu
     name: Angolar
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンゴラ語
+  - translation_iso: kor
+    name: 앙골라르어
+    auto: true
   - translation_iso: por
     name: Angolar
+  - translation_iso: rus
+    name: Анголар
   - translation_iso: spa
     name: criollo angolar
   - translation_iso: zho

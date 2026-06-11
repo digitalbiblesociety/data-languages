@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムスクム語
+  - translation_iso: kor
+    name: 무스쿰어
+    auto: true
   - translation_iso: por
     name: Muskum
     auto: true

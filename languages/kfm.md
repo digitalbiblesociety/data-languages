@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: खुनसारी
     auto: true
+  - translation_iso: ind
+    name: bahasa Khansar
   - translation_iso: jpn
     name: ハーンサール語
+  - translation_iso: kor
+    name: 훈사리어
+    auto: true
   - translation_iso: por
     name: Khunsari
     auto: true

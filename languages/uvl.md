@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウヴォル語
+  - translation_iso: kor
+    name: 로테어
+    auto: true
   - translation_iso: por
     name: Língua lote
   - translation_iso: spa

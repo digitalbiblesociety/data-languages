@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Vai_language"
 translations:
   - translation_iso: ara
     name: الفاي
+  - translation_iso: ben
+    name: ভাই
   - translation_iso: deu
     name: Vai
   - translation_iso: fra
     name: vaï
   - translation_iso: hin
     name: वाई
+  - translation_iso: ind
+    name: Vai
   - translation_iso: jpn
     name: ヴァイ語
   - translation_iso: kor
     name: 바이어
   - translation_iso: por
     name: Língua vai
+  - translation_iso: rus
+    name: ваи
   - translation_iso: spa
     name: Idioma vai
   - translation_iso: zho

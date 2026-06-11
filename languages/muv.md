@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムトゥヴァン語
     auto: true
+  - translation_iso: kor
+    name: 무투반어
+    auto: true
   - translation_iso: por
     name: Muthuvan
     auto: true

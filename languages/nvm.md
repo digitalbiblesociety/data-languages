@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ナミアエ語
     auto: true
+  - translation_iso: kor
+    name: 나미아에어
+    auto: true
   - translation_iso: por
     name: Namiae
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باراپاسي
     auto: true
+  - translation_iso: ben
+    name: বারোপাসি
   - translation_iso: deu
     name: Barapasi
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बारापासी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Barapasi
   - translation_iso: jpn
     name: バラパシ語
+    auto: true
+  - translation_iso: kor
+    name: 바라파시어
     auto: true
   - translation_iso: por
     name: Barapasi

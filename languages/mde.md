@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: माबा
     auto: true
+  - translation_iso: ind
+    name: Maba
   - translation_iso: jpn
     name: マバ語
   - translation_iso: kor
     name: 마바어
   - translation_iso: por
     name: maba
+  - translation_iso: rus
+    name: маба
   - translation_iso: spa
     name: maba
   - translation_iso: zho

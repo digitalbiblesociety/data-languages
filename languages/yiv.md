@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北部ニス語
     auto: true
+  - translation_iso: kor
+    name: 북부 니수어
+    auto: true
   - translation_iso: por
     name: nisu do norte
     auto: true

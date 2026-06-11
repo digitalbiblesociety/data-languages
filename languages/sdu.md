@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सारुदु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sarudu
   - translation_iso: jpn
     name: ドダ語
+    auto: true
+  - translation_iso: kor
+    name: 사루두어
     auto: true
   - translation_iso: por
     name: Sarudu

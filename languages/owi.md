@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オウィニガ語
     auto: true
+  - translation_iso: kor
+    name: 오위니가어
+    auto: true
   - translation_iso: por
     name: Owiniga
     auto: true

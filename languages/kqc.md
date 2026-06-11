@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドロムー・コキ語
     auto: true
+  - translation_iso: kor
+    name: 도로무코키어
+    auto: true
   - translation_iso: por
     name: Doromu-Koki
     auto: true

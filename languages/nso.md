@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sotho"
 translations:
   - translation_iso: ara
     name: لغة سوثو شمالية
+  - translation_iso: ben
+    name: উত্তরাঞ্চলীয় সোথো
   - translation_iso: deu
     name: Nord-Sotho
   - translation_iso: fra
     name: sotho du Nord
   - translation_iso: hin
     name: उत्तरी सोथो
+  - translation_iso: ind
+    name: Sotho Utara
   - translation_iso: jpn
     name: 北ソト語
   - translation_iso: kor
     name: 북소토어
   - translation_iso: por
     name: língua soto do norte
+  - translation_iso: rus
+    name: северный сото
   - translation_iso: spa
     name: Idioma sotho septentrional
   - translation_iso: zho

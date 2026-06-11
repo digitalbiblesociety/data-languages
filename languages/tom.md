@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: तोम्बुलु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tombulu
   - translation_iso: jpn
     name: トムブル語
   - translation_iso: kor

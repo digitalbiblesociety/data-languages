@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイー・タック語
+  - translation_iso: kor
+    name: 따이딱어
+    auto: true
   - translation_iso: por
     name: Tày Tac
     auto: true

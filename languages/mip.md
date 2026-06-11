@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أباسكو أبوالا
     auto: true
+  - translation_iso: ben
+    name: আপাস্কো-আপোয়ালা মিশটেক
   - translation_iso: deu
     name: Apasco-Apoala Mixtec
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アパスコ・アポアラ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 아파스코아포알라 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Apasco-Apoala
     auto: true
+  - translation_iso: rus
+    name: Апаско-апоаланский миштекский язык
   - translation_iso: spa
     name: Mixteco de Apasco-Apoala
     auto: true

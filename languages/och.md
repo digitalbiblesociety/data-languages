@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन चीनी
     auto: true
+  - translation_iso: ind
+    name: Tionghoa Kuno
   - translation_iso: jpn
     name: 上古中国語
   - translation_iso: kor
     name: 상고한어
   - translation_iso: por
     name: Chinês antigo
+  - translation_iso: rus
+    name: древнекитайский язык
   - translation_iso: spa
     name: chino antiguo
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ソリハレンガン語
     auto: true
+  - translation_iso: kor
+    name: 소리하렝간어
+    auto: true
   - translation_iso: por
     name: Sori-Harengan
     auto: true

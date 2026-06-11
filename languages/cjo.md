@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الأشينينكا باخونال
     auto: true
+  - translation_iso: ben
+    name: আশেনিঙ্কা
   - translation_iso: deu
     name: Ashéninka Pajonal
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アシェニンカ・パホナル語
     auto: true
+  - translation_iso: kor
+    name: 아셰닌카 파호날어
+    auto: true
   - translation_iso: por
     name: Língua asheninca
+  - translation_iso: rus
+    name: Пахональ-ашенинка
   - translation_iso: spa
     name: ashéninka
   - translation_iso: zho

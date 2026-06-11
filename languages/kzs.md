@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スグット・ドゥスン語
     auto: true
+  - translation_iso: kor
+    name: 수굿 두순어
+    auto: true
   - translation_iso: por
     name: Dusun de Sugut
     auto: true

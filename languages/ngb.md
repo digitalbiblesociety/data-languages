@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北ングバンディ語
     auto: true
+  - translation_iso: kor
+    name: 북부 응반디어
+    auto: true
   - translation_iso: por
     name: Ngbandi do Norte
     auto: true

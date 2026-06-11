@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マスケリネス語
     auto: true
+  - translation_iso: kor
+    name: 마스켈린스어
+    auto: true
   - translation_iso: por
     name: Língua maskelynes
   - translation_iso: spa

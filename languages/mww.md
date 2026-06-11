@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白苗語
+  - translation_iso: kor
+    name: 흐몽 다우어
+    auto: true
   - translation_iso: por
     name: Hmong Daw
     auto: true
+  - translation_iso: rus
+    name: хмонг-дау
   - translation_iso: spa
     name: Hmong Daw
     auto: true

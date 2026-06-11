@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بانتيك
     auto: true
+  - translation_iso: ben
+    name: বান্তিক
   - translation_iso: deu
     name: Bantik
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बांतिक
     auto: true
+  - translation_iso: ind
+    name: Bantik
   - translation_iso: jpn
     name: バンティック語
+  - translation_iso: kor
+    name: 반티크어
+    auto: true
   - translation_iso: por
     name: Bantik
   - translation_iso: spa

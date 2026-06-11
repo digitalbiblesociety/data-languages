@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبادي
     auto: true
+  - translation_iso: ben
+    name: আবাদি
   - translation_iso: deu
     name: Abadi
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アバディ語
     auto: true
+  - translation_iso: kor
+    name: 아바디어
+    auto: true
   - translation_iso: por
     name: Abadi
     auto: true
+  - translation_iso: rus
+    name: Абади
   - translation_iso: spa
     name: Abadi
     auto: true

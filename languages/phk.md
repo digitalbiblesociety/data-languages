@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة فاكي
     auto: true
+  - translation_iso: ben
+    name: তাই ফাকে ভাষা
   - translation_iso: deu
     name: Phake
     auto: true
@@ -28,10 +30,17 @@ translations:
     name: phake
   - translation_iso: hin
     name: ताई फेके भाषा
+  - translation_iso: ind
+    name: Phake
   - translation_iso: jpn
     name: タイ・パケ語
+  - translation_iso: kor
+    name: 파케어
+    auto: true
   - translation_iso: por
     name: Língua tai phake
+  - translation_iso: rus
+    name: Пхаке
   - translation_iso: spa
     name: Phake
     auto: true

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リッヴィ語
+  - translation_iso: kor
+    name: 리비어
+    auto: true
   - translation_iso: por
     name: livvi
     auto: true
+  - translation_iso: rus
+    name: ливвиковское наречие
   - translation_iso: spa
     name: Livvi
     auto: true

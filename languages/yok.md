@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: yokuts
     auto: true
+  - translation_iso: rus
+    name: Йокутские языки
   - translation_iso: spa
     name: lenguas yokuts
   - translation_iso: zho

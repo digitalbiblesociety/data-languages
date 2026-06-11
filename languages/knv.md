@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タボ語
     auto: true
+  - translation_iso: kor
+    name: 타보어
+    auto: true
   - translation_iso: por
     name: Tabo
     auto: true

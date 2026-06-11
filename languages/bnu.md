@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بينتونج
     auto: true
+  - translation_iso: ben
+    name: বেন্টং
   - translation_iso: deu
     name: Bentong
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेन्तोङ
     auto: true
+  - translation_iso: ind
+    name: Bentong
   - translation_iso: jpn
     name: ベントン語
+    auto: true
+  - translation_iso: kor
+    name: 벤통어
     auto: true
   - translation_iso: por
     name: Bentong

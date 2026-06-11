@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タブリンガーロマニ語
     auto: true
+  - translation_iso: kor
+    name: 타브링에르 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Tavringer
     auto: true

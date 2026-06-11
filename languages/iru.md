@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: إيرولا
     auto: true
+  - translation_iso: ben
+    name: ইরুলা ভাষা
   - translation_iso: deu
     name: Irula
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: ईरुला भाषा
   - translation_iso: jpn
     name: イルラ語
+  - translation_iso: kor
+    name: 이룰라어
+    auto: true
   - translation_iso: por
     name: Irula
     auto: true

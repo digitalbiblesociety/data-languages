@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウングミ語
     auto: true
+  - translation_iso: kor
+    name: 웅구미어
+    auto: true
   - translation_iso: por
     name: Unggumi
     auto: true

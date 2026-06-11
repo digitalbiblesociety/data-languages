@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 低地タラウマラ語
     auto: true
+  - translation_iso: kor
+    name: 저지 타라우마라어
+    auto: true
   - translation_iso: por
     name: Tarahumara das Terras Baixas
     auto: true

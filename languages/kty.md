@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Kango語
+  - translation_iso: kor
+    name: 캉고어
+    auto: true
   - translation_iso: por
     name: Kango (Distrito de Bas-Uélé)
     auto: true

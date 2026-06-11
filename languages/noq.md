@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンゴ語
+  - translation_iso: kor
+    name: 응공고어
+    auto: true
   - translation_iso: por
     name: Ngongo
     auto: true

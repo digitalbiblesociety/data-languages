@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنجوثيمري
     auto: true
+  - translation_iso: ben
+    name: আঙ্গুথিমরি
   - translation_iso: deu
     name: Anguthimri
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アングティムリ語
+    auto: true
+  - translation_iso: kor
+    name: 앙구팀리어
     auto: true
   - translation_iso: por
     name: Anguthimri

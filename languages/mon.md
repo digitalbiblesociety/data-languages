@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_language"
 translations:
   - translation_iso: ara
     name: المغولية
+  - translation_iso: ben
+    name: মোঙ্গোলীয়
   - translation_iso: deu
     name: Mongolisch
   - translation_iso: fra
     name: mongol
   - translation_iso: hin
     name: मंगोल भाषा और साहित्य
+  - translation_iso: ind
+    name: Mongolia
   - translation_iso: jpn
     name: モンゴル語
   - translation_iso: kor
     name: 몽골어
   - translation_iso: por
     name: Língua mongol
+  - translation_iso: rus
+    name: монгольский
   - translation_iso: spa
     name: mongol
   - translation_iso: zho

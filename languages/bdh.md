@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكا
     auto: true
+  - translation_iso: ben
+    name: বাকা
   - translation_iso: deu
     name: Baka (South Sudan)
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカ語
+    auto: true
+  - translation_iso: kor
+    name: 바카어
     auto: true
   - translation_iso: por
     name: Baka (Sudão do Sul)

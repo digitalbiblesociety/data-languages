@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bah-Biau_Punan_language"
 translations:
   - translation_iso: ara
     name: لغة باه بياو بونان
+  - translation_iso: ben
+    name: বাহ-বিয়াউ পুনান
   - translation_iso: deu
     name: Punan Bah-Biau
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プナンバハビアウ語
+    auto: true
+  - translation_iso: kor
+    name: 푸난 바비아우어
     auto: true
   - translation_iso: por
     name: Punan Bah-Biau

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タリエン語
     auto: true
+  - translation_iso: kor
+    name: 탈리엥어
+    auto: true
   - translation_iso: por
     name: Talieng
     auto: true

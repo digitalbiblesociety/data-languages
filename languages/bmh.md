@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケイン語
     auto: true
+  - translation_iso: kor
+    name: 케인어
+    auto: true
   - translation_iso: por
     name: Kein
     auto: true

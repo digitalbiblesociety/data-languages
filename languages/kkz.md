@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カスカ語
     auto: true
+  - translation_iso: kor
+    name: 카스카어
+    auto: true
   - translation_iso: por
     name: Língua kaska
+  - translation_iso: rus
+    name: Каска
   - translation_iso: spa
     name: kaska
   - translation_iso: zho

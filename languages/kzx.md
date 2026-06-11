@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कामारियन
     auto: true
+  - translation_iso: ind
+    name: Kamarian
   - translation_iso: jpn
     name: カマリアン語
+    auto: true
+  - translation_iso: kor
+    name: 카마리안어
     auto: true
   - translation_iso: por
     name: Kamarian

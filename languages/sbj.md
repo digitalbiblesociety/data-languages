@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: سوربخال
     auto: true
+  - translation_iso: ben
+    name: সুরবাখাল ভাষা
   - translation_iso: deu
     name: Surbakhal
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スルバカル語
+    auto: true
+  - translation_iso: kor
+    name: 수르바칼어
     auto: true
   - translation_iso: por
     name: Surbakhal

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トモ・カン・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 토모칸 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Tomo Kan
     auto: true

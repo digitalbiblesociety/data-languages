@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サイウスロー語
+  - translation_iso: kor
+    name: 사이우슬로어
+    auto: true
   - translation_iso: por
     name: Siuslaw
     auto: true
+  - translation_iso: rus
+    name: саюсло
   - translation_iso: spa
     name: idioma siuslaw
   - translation_iso: zho

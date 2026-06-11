@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジョバ語
     auto: true
+  - translation_iso: kor
+    name: 조바어
+    auto: true
   - translation_iso: por
     name: Joba
     auto: true

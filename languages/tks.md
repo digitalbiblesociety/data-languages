@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タケスタニ語
     auto: true
+  - translation_iso: kor
+    name: 타케스타니어
+    auto: true
   - translation_iso: por
     name: Takestani
     auto: true

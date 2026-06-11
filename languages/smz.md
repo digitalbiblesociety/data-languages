@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シメク語
     auto: true
+  - translation_iso: kor
+    name: 시메쿠어
+    auto: true
   - translation_iso: por
     name: Simeku
     auto: true

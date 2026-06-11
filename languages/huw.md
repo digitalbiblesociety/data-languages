@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: हुकुमिना
     auto: true
+  - translation_iso: ind
+    name: Hukumina
   - translation_iso: jpn
     name: フクミナ語
+  - translation_iso: kor
+    name: 후쿠미나어
+    auto: true
   - translation_iso: por
     name: Hukumina
   - translation_iso: spa

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ディマ語
     auto: true
+  - translation_iso: kor
+    name: 디마어
+    auto: true
   - translation_iso: por
     name: Dima
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 羅泊河フモン語
+  - translation_iso: kor
+    name: 뤄보허 몽어
+    auto: true
   - translation_iso: por
     name: Língua Luobohe Miao
   - translation_iso: spa

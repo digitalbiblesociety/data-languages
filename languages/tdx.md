@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンルイ語
+  - translation_iso: kor
+    name: 탄드로이 마하팔리 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe Tandroy-Mahafaly
     auto: true

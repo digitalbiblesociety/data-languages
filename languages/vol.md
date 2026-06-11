@@ -19,18 +19,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Volap%C3%BCk"
 translations:
   - translation_iso: ara
     name: فولابوك
+  - translation_iso: ben
+    name: ভোলাপুক
   - translation_iso: deu
     name: Volapük
   - translation_iso: fra
     name: volapük
   - translation_iso: hin
     name: वोलापूक भाषा
+  - translation_iso: ind
+    name: Volapuk
   - translation_iso: jpn
     name: ヴォラピュク
   - translation_iso: kor
     name: 볼라퓌크
   - translation_iso: por
     name: volapuque
+  - translation_iso: rus
+    name: волапюк
   - translation_iso: spa
     name: volapük
   - translation_iso: zho

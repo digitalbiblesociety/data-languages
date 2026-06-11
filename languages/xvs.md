@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: فيستينية
     auto: true
+  - translation_iso: ben
+    name: ভেস্তিনীয় ভাষা
   - translation_iso: deu
     name: Vestinisch
   - translation_iso: fra
@@ -21,12 +23,19 @@ translations:
   - translation_iso: hin
     name: वेस्टिनियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Vestini
   - translation_iso: jpn
     name: ベスティーニ語
+    auto: true
+  - translation_iso: kor
+    name: 베스티니어
     auto: true
   - translation_iso: por
     name: vestino
     auto: true
+  - translation_iso: rus
+    name: Вестинский язык
   - translation_iso: spa
     name: Idioma vestino
   - translation_iso: zho

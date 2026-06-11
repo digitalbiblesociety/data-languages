@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: セプアル語
     auto: true
+  - translation_iso: kor
+    name: 사푸안어
+    auto: true
   - translation_iso: por
     name: Sapuan
     auto: true

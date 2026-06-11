@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: लियाना-सेती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Liana
   - translation_iso: jpn
     name: リアナセティ語
+    auto: true
+  - translation_iso: kor
+    name: 리아나세티어
     auto: true
   - translation_iso: por
     name: Liana-Seti

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: サンティアゴデルエステロキチュア語
     auto: true
+  - translation_iso: kor
+    name: 산티아고델에스테로 키추아어
+    auto: true
   - translation_iso: por
     name: Língua quíchua santiagueño
+  - translation_iso: rus
+    name: аргентинский кечуа
   - translation_iso: spa
     name: quichua santiagueño
   - translation_iso: zho

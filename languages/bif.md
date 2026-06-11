@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيافادا
     auto: true
+  - translation_iso: ben
+    name: বিয়াফাদা
   - translation_iso: deu
     name: Biafada
   - translation_iso: fra

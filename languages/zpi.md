@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キエゴラニ・サポテク語
+  - translation_iso: kor
+    name: 산타마리아키에골라니 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Santa María Quiegolani
     auto: true
+  - translation_iso: rus
+    name: Санта-мария-кьеголанийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Santa María Quiegolani
     auto: true

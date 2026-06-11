@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボミタバ語
+  - translation_iso: kor
+    name: 보미타바어
+    auto: true
   - translation_iso: por
     name: Bomitaba
     auto: true

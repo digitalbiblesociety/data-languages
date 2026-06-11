@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: बुलू
     auto: true
+  - translation_iso: ind
+    name: Bulu
   - translation_iso: jpn
     name: ブル語
   - translation_iso: kor
     name: 불루어
   - translation_iso: por
     name: Língua bulu
+  - translation_iso: rus
+    name: булу
   - translation_iso: spa
     name: bulu
   - translation_iso: zho

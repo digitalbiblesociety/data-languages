@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bakhtiari_dialect"
 translations:
   - translation_iso: ara
     name: البختيارية
+  - translation_iso: ben
+    name: বখতিয়ারি
   - translation_iso: deu
     name: Bachtiarisch
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: बख्तियारी
     auto: true
+  - translation_iso: ind
+    name: bahasa Bakhtiar
   - translation_iso: jpn
     name: バフティヤーリー語
+  - translation_iso: kor
+    name: 바흐티아리어
+    auto: true
   - translation_iso: por
     name: Bakhtiari
     auto: true
+  - translation_iso: rus
+    name: Бахтиярский язык
   - translation_iso: spa
     name: Bakhtiari
     auto: true

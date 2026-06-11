@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カカバイ語
     auto: true
+  - translation_iso: kor
+    name: 카카바이어
+    auto: true
   - translation_iso: por
     name: Língua kakabai
+  - translation_iso: rus
+    name: Какабай
   - translation_iso: spa
     name: Kakabai
     auto: true

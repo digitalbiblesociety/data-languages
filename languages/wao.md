@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ワッポ語
     auto: true
+  - translation_iso: kor
+    name: 와포어
+    auto: true
   - translation_iso: por
     name: Wappo
     auto: true
+  - translation_iso: rus
+    name: Ваппо
   - translation_iso: spa
     name: Idioma wappo
   - translation_iso: zho

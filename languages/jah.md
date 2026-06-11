@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: जाह हुत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jah Hut
   - translation_iso: jpn
     name: ジャ・ハット語
+    auto: true
+  - translation_iso: kor
+    name: 자훗어
     auto: true
   - translation_iso: por
     name: Jah Hut

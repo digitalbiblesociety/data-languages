@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة وناناكها
     auto: true
+  - translation_iso: ben
+    name: লুনানা উপভাষা
   - translation_iso: deu
     name: Lunanakha
     auto: true
@@ -31,9 +33,14 @@ translations:
     name: लुनाना बोली
   - translation_iso: jpn
     name: ルナナ語
+  - translation_iso: kor
+    name: 루나나카어
+    auto: true
   - translation_iso: por
     name: Lunanakha
     auto: true
+  - translation_iso: rus
+    name: Лунана-кха
   - translation_iso: spa
     name: lunana
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カツ語
     auto: true
+  - translation_iso: kor
+    name: 카투어
+    auto: true
   - translation_iso: por
     name: kathu
     auto: true

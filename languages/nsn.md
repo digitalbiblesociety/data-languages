@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ネハン語
     auto: true
+  - translation_iso: kor
+    name: 네한어
+    auto: true
   - translation_iso: por
     name: Nehan
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 크리츠어
   - translation_iso: por
     name: Língua kryts
+  - translation_iso: rus
+    name: крызский язык
   - translation_iso: spa
     name: Kryts
   - translation_iso: zho

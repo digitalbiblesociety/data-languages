@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفيكام
     auto: true
+  - translation_iso: ben
+    name: আভিকাম
   - translation_iso: deu
     name: Avikam
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: अविकम भाषा
   - translation_iso: jpn
     name: アヴィカム語
+  - translation_iso: kor
+    name: 아비캄어
+    auto: true
   - translation_iso: por
     name: Avikam
     auto: true

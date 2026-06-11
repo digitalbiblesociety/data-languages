@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スアウ語
+  - translation_iso: kor
+    name: 수아우어
+    auto: true
   - translation_iso: por
     name: Suau
     auto: true

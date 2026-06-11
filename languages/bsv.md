@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: باجا سوباني
     auto: true
+  - translation_iso: ben
+    name: বাগা সোবানে
   - translation_iso: deu
     name: Baga Sobané
     auto: true
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バガ・ソバネ語
+    auto: true
+  - translation_iso: kor
+    name: 바가 소바네어
     auto: true
   - translation_iso: por
     name: Baga Sobané

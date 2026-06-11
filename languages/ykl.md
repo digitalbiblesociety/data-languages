@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クルラ語
     auto: true
+  - translation_iso: kor
+    name: 클룰라어
+    auto: true
   - translation_iso: por
     name: khlula
     auto: true

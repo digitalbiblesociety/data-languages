@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ズマヤ語
     auto: true
+  - translation_iso: kor
+    name: 주마야어
+    auto: true
   - translation_iso: por
     name: Zumaya
     auto: true

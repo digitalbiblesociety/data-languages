@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワルナ語
     auto: true
+  - translation_iso: kor
+    name: 와루나어
+    auto: true
   - translation_iso: por
     name: Waruna
     auto: true

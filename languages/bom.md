@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيروم
     auto: true
+  - translation_iso: ben
+    name: বেরোম
   - translation_iso: deu
     name: Berom
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビロム語
+  - translation_iso: kor
+    name: 베롬어
+    auto: true
   - translation_iso: por
     name: Berom
     auto: true

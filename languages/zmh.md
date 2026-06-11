@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マコルコル語
     auto: true
+  - translation_iso: kor
+    name: 마콜콜어
+    auto: true
   - translation_iso: por
     name: makolkol
     auto: true

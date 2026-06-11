@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナロゴ語
     auto: true
+  - translation_iso: kor
+    name: 나뢰고어
+    auto: true
   - translation_iso: por
     name: Nalögo
     auto: true

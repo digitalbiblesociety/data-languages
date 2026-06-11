@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェメ・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 웨메 그베어
+    auto: true
   - translation_iso: por
     name: Weme Gbe
     auto: true

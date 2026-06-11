@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: テゾアトラン・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 테소아틀란 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tezoatlán
     auto: true
+  - translation_iso: rus
+    name: тезоатланский миштекский язык
   - translation_iso: spa
     name: mixteco del oeste alto
   - translation_iso: zho

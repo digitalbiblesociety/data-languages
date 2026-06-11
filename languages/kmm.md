@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コム語
     auto: true
+  - translation_iso: kor
+    name: 콤어
+    auto: true
   - translation_iso: por
     name: Kom (Índia)
     auto: true

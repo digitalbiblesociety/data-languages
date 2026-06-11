@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギユグ語
     auto: true
+  - translation_iso: kor
+    name: 기유그어
+    auto: true
   - translation_iso: por
     name: Língua Giyug
   - translation_iso: spa

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セイム語
+  - translation_iso: kor
+    name: 멘데어
+    auto: true
   - translation_iso: por
     name: Mende (Papua-Nova Guiné)
     auto: true

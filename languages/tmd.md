@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハルアイ語
     auto: true
+  - translation_iso: kor
+    name: 하루아이어
+    auto: true
   - translation_iso: por
     name: Haruai
     auto: true

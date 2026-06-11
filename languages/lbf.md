@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تيناني
     auto: true
+  - translation_iso: ben
+    name: তিনান ভাষা
   - translation_iso: deu
     name: Tinani
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: तिनान भाषा
   - translation_iso: jpn
     name: ティナニ語
+    auto: true
+  - translation_iso: kor
+    name: 티나니어
     auto: true
   - translation_iso: por
     name: Tinani

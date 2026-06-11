@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロヴォノ語
+  - translation_iso: kor
+    name: 바노어
+    auto: true
   - translation_iso: por
     name: Vano
     auto: true

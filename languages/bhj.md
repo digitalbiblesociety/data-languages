@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باهينج
     auto: true
+  - translation_iso: ben
+    name: বাহিং
   - translation_iso: deu
     name: Bahing
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: バヒング語
     auto: true
+  - translation_iso: kor
+    name: 바힝어
+    auto: true
   - translation_iso: por
     name: Bahing
     auto: true
+  - translation_iso: rus
+    name: бахингский язык
   - translation_iso: spa
     name: Bahing
     auto: true

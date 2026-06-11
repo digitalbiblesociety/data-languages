@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ガルサ語
     auto: true
+  - translation_iso: kor
+    name: 가르사어
+    auto: true
   - translation_iso: por
     name: Garza
     auto: true

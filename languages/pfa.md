@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パアファン語
     auto: true
+  - translation_iso: kor
+    name: 파아팡어
+    auto: true
   - translation_iso: por
     name: Pááfang
     auto: true

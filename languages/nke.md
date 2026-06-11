@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: デューク語
     auto: true
+  - translation_iso: kor
+    name: 두케어
+    auto: true
   - translation_iso: por
     name: Duke
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة إيتون
     auto: true
+  - translation_iso: ben
+    name: আইটন
   - translation_iso: deu
     name: Aiton
     auto: true
@@ -28,10 +30,17 @@ translations:
     name: aiton
   - translation_iso: hin
     name: एटन भाषा
+  - translation_iso: ind
+    name: Bahasa Aiton
   - translation_iso: jpn
     name: タイ・アイトン語
+  - translation_iso: kor
+    name: 아이톤어
+    auto: true
   - translation_iso: por
     name: Língua aiton
+  - translation_iso: rus
+    name: Айтон (язык)
   - translation_iso: spa
     name: aiton
   - translation_iso: zho

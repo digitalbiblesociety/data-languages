@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クワンガ語
     auto: true
+  - translation_iso: kor
+    name: 쾅가어
+    auto: true
   - translation_iso: por
     name: Kwanga
     auto: true

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーナ語
+  - translation_iso: kor
+    name: 가나어
+    auto: true
   - translation_iso: por
     name: ǁGana
     auto: true
+  - translation_iso: rus
+    name: лъгана-цъгви
   - translation_iso: spa
     name: ǁGana
     auto: true

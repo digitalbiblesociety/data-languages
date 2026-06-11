@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モヌンボ語
     auto: true
+  - translation_iso: kor
+    name: 모눔보어
+    auto: true
   - translation_iso: por
     name: Monumbo
     auto: true

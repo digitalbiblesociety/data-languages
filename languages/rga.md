@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロリア語
     auto: true
+  - translation_iso: kor
+    name: 로리아어
+    auto: true
   - translation_iso: por
     name: Roria
     auto: true

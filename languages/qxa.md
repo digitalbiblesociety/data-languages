@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: チキアンアンカシュケチュア語
     auto: true
+  - translation_iso: kor
+    name: 치키안 앙카시 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Chiquián Ancash
     auto: true

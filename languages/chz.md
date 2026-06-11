@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オズマシン・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 오수마신 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Ozumacín
     auto: true
+  - translation_iso: rus
+    name: Осумасинский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Ozumacín
   - translation_iso: zho

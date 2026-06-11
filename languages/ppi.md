@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パイパイ語
+  - translation_iso: kor
+    name: 파이파이어
+    auto: true
   - translation_iso: por
     name: Língua paipai
+  - translation_iso: rus
+    name: Пайпай (язык)
   - translation_iso: spa
     name: paipai
   - translation_iso: zho

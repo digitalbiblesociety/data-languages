@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लावांगन
     auto: true
+  - translation_iso: ind
+    name: bahasa Lawangan
   - translation_iso: jpn
     name: ラワンガン語
+    auto: true
+  - translation_iso: kor
+    name: 라왕안어
     auto: true
   - translation_iso: por
     name: Lawangan

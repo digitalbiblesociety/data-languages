@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クドゥ・カモ語
     auto: true
+  - translation_iso: kor
+    name: 쿠두차모어
+    auto: true
   - translation_iso: por
     name: Kudu-Camo
     auto: true

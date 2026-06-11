@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ダガラ語
     auto: true
+  - translation_iso: kor
+    name: 북부 다가라어
+    auto: true
   - translation_iso: por
     name: Dagara Setentrional
     auto: true

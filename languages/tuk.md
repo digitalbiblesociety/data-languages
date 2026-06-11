@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turkmen_language"
 translations:
   - translation_iso: ara
     name: التركمانية
+  - translation_iso: ben
+    name: তুর্কমেনী
   - translation_iso: deu
     name: Turkmenisch
   - translation_iso: fra
     name: turkmène
   - translation_iso: hin
     name: तुर्कमेन भाषा
+  - translation_iso: ind
+    name: Turkmen
   - translation_iso: jpn
     name: トルクメン語
   - translation_iso: kor
     name: 투르크멘어
   - translation_iso: por
     name: Língua turcomena
+  - translation_iso: rus
+    name: туркменский
   - translation_iso: spa
     name: turcomano
   - translation_iso: zho

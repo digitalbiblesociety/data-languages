@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティガク語
+  - translation_iso: kor
+    name: 티각어
+    auto: true
   - translation_iso: por
     name: Língua tigak
   - translation_iso: spa

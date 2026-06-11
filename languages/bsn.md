@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باراسانا-إدوريا
     auto: true
+  - translation_iso: ben
+    name: বারাসানা-এদুরিয়া
   - translation_iso: deu
     name: Barasana-Eduria
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: バラサナ・エドゥリア語
     auto: true
+  - translation_iso: kor
+    name: 바라사나에두리아어
+    auto: true
   - translation_iso: por
     name: Língua barasana-eduria
+  - translation_iso: rus
+    name: Барасана-эдурия
   - translation_iso: spa
     name: Barasana-Eduria
     auto: true

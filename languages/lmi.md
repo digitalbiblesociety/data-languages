@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ロンビ語
     auto: true
+  - translation_iso: kor
+    name: 롬비어
+    auto: true
   - translation_iso: por
     name: Lombi
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: エワゲ・ノツ語
     auto: true
+  - translation_iso: kor
+    name: 에와게노투어
+    auto: true
   - translation_iso: por
     name: Ewage-Notu
     auto: true

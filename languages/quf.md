@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ランバイェケケチュア語
     auto: true
+  - translation_iso: kor
+    name: 람바예케 케추아어
+    auto: true
   - translation_iso: por
     name: quéchua de Lambayeque
+  - translation_iso: rus
+    name: Ламбаекенский кечуа
   - translation_iso: spa
     name: Quechua Incahuasi-Cañaris
   - translation_iso: zho

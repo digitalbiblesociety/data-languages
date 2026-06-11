@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マサトラン・ミクセ語
     auto: true
+  - translation_iso: kor
+    name: 마사틀란 미헤어
+    auto: true
   - translation_iso: por
     name: Mixe de Mazatlán
     auto: true

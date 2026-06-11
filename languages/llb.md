@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ロロ語
     auto: true
+  - translation_iso: kor
+    name: 롤로어
+    auto: true
   - translation_iso: por
     name: Lolo
     auto: true

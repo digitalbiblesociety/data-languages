@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: तोलोवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tolowa
   - translation_iso: jpn
     name: トロワ語
     auto: true
+  - translation_iso: kor
+    name: 톨로와어
+    auto: true
   - translation_iso: por
     name: Língua tolowa
+  - translation_iso: rus
+    name: Толова
   - translation_iso: spa
     name: tolowa
   - translation_iso: zho

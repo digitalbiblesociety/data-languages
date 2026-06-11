@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makassarese_language"
 translations:
   - translation_iso: ara
     name: الماكاسار
+  - translation_iso: ben
+    name: ম্যাকাসার
   - translation_iso: deu
     name: Makassar-Sprache
   - translation_iso: fra
     name: makassar
   - translation_iso: hin
     name: मकासर
+  - translation_iso: ind
+    name: Makasar
   - translation_iso: jpn
     name: マカッサル語
   - translation_iso: kor
     name: 마카사르어
   - translation_iso: por
     name: Língua makassaresa
+  - translation_iso: rus
+    name: макассарский
   - translation_iso: spa
     name: macasar
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: キオワ・アパッチ語
     auto: true
+  - translation_iso: kor
+    name: 카이오와 아파치어
+    auto: true
   - translation_iso: por
     name: Apache de Kiowa
     auto: true
+  - translation_iso: rus
+    name: Кайованский апаче
   - translation_iso: spa
     name: apache kiowa
   - translation_iso: zho

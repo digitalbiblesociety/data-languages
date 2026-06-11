@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィル語
     auto: true
+  - translation_iso: kor
+    name: 위루어
+    auto: true
   - translation_iso: por
     name: Wiru
     auto: true

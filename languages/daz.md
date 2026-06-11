@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ダオ語
     auto: true
+  - translation_iso: kor
+    name: 다오어
+    auto: true
   - translation_iso: por
     name: Dao
     auto: true
+  - translation_iso: rus
+    name: дао
   - translation_iso: spa
     name: Dao
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロゴル語
     auto: true
+  - translation_iso: kor
+    name: 로골어
+    auto: true
   - translation_iso: por
     name: Logol
     auto: true

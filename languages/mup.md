@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة مالفي
     auto: true
+  - translation_iso: ben
+    name: মালবি ভাষা
   - translation_iso: deu
     name: Malvi
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: मालवी
   - translation_iso: jpn
     name: マールヴィー語
+  - translation_iso: kor
+    name: 말비어
+    auto: true
   - translation_iso: por
     name: Malvi
     auto: true

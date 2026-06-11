@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Abaza_language"
 translations:
   - translation_iso: ara
     name: الأباظية
+  - translation_iso: ben
+    name: আবাজা
   - translation_iso: deu
     name: Abasinisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अबाज़ा
     auto: true
+  - translation_iso: ind
+    name: Abaza
   - translation_iso: jpn
     name: アバザ語
   - translation_iso: kor
     name: 아바자어
   - translation_iso: por
     name: Língua abaza
+  - translation_iso: rus
+    name: абазинский язык
   - translation_iso: spa
     name: abaza
   - translation_iso: zho

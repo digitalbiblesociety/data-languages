@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: केनिंजाल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Keninjal
   - translation_iso: jpn
     name: ケニンジャル語
+    auto: true
+  - translation_iso: kor
+    name: 케닌잘어
     auto: true
   - translation_iso: por
     name: Keninjal

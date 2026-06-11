@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フォラ語
     auto: true
+  - translation_iso: kor
+    name: 폴라어
+    auto: true
   - translation_iso: por
     name: phola
     auto: true

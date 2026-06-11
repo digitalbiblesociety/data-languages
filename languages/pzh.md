@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: पाजेह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pazeh
   - translation_iso: jpn
     name: パゼッヘ語
   - translation_iso: kor
     name: 파제어
   - translation_iso: por
     name: Língua pazeh
+  - translation_iso: rus
+    name: пазехский язык
   - translation_iso: spa
     name: Idioma pazeh
   - translation_iso: zho

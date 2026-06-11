@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهندوراسية
     auto: true
+  - translation_iso: ben
+    name: হন্ডুরাসি ইশারা ভাষা
   - translation_iso: deu
     name: Honduranische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: होंडुरन सांकेतिक भाषा
   - translation_iso: jpn
     name: ホンジュラス手話
+  - translation_iso: kor
+    name: 온두라스 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual das Honduras
+  - translation_iso: rus
+    name: гондурасский жестовый язык
   - translation_iso: spa
     name: lengua de señas hondureñas
   - translation_iso: zho

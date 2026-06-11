@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maasai_language"
 translations:
   - translation_iso: ara
     name: الماساي
+  - translation_iso: ben
+    name: মাসাই
   - translation_iso: deu
     name: Maa
   - translation_iso: fra
     name: maa
   - translation_iso: hin
     name: मसाई
+  - translation_iso: ind
+    name: Masai
   - translation_iso: jpn
     name: マサイ語
   - translation_iso: kor
     name: 마사이어
   - translation_iso: por
     name: Língua massai
+  - translation_iso: rus
+    name: масаи
   - translation_iso: spa
     name: masái
   - translation_iso: zho

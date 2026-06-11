@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: スエナ語
     auto: true
+  - translation_iso: kor
+    name: 수에나어
+    auto: true
   - translation_iso: por
     name: Suena
     auto: true

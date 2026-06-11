@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンコン語
+  - translation_iso: kor
+    name: 응겜바어
+    auto: true
   - translation_iso: por
     name: Ngemba
     auto: true

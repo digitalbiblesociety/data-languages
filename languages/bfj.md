@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بافانجي
     auto: true
+  - translation_iso: ben
+    name: বাফানজি
   - translation_iso: deu
     name: Bafanji
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バファンジ語
+    auto: true
+  - translation_iso: kor
+    name: 바판지어
     auto: true
   - translation_iso: por
     name: Bafanji

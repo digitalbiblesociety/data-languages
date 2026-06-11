@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khoekhoe_language"
 translations:
   - translation_iso: ara
     name: لغة ناما
+  - translation_iso: ben
+    name: নামা
   - translation_iso: deu
     name: Khoekhoegowab
   - translation_iso: fra
     name: khoekhoe
   - translation_iso: hin
     name: खोईखोई भाषा
+  - translation_iso: ind
+    name: Nama
   - translation_iso: jpn
     name: ナマ語
   - translation_iso: kor
     name: 나마어
   - translation_iso: por
     name: Língua nama
+  - translation_iso: rus
+    name: нама
   - translation_iso: spa
     name: khoekhoe
   - translation_iso: zho

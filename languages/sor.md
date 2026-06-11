@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة السومراي
     auto: true
+  - translation_iso: ben
+    name: সোমরাই ভাষা
   - translation_iso: deu
     name: Somrai
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: シビネ語
     auto: true
+  - translation_iso: kor
+    name: 솜라이어
+    auto: true
   - translation_iso: por
     name: Língua somrai
+  - translation_iso: rus
+    name: Сомрай
   - translation_iso: spa
     name: Somrai
     auto: true

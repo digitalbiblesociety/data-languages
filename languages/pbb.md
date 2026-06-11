@@ -31,6 +31,8 @@ translations:
     name: 파에스어
   - translation_iso: por
     name: Língua páez
+  - translation_iso: rus
+    name: Паэс
   - translation_iso: spa
     name: Idioma paez
   - translation_iso: zho

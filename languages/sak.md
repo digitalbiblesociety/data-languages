@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サケ語
+  - translation_iso: kor
+    name: 사케어
+    auto: true
   - translation_iso: por
     name: Sake
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムバングウェ語
     auto: true
+  - translation_iso: kor
+    name: 음방궤어
+    auto: true
   - translation_iso: por
     name: Mbangwe
     auto: true

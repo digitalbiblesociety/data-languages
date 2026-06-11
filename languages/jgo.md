@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngomba_language"
 translations:
   - translation_iso: ara
     name: نغومبا
+  - translation_iso: ben
+    name: গোম্বা
   - translation_iso: deu
     name: Ngomba
   - translation_iso: fra
     name: ngomba
   - translation_iso: hin
     name: नगोंबा
+  - translation_iso: ind
+    name: Ngomba
   - translation_iso: jpn
     name: ンゴンバ語
   - translation_iso: kor
     name: 응곰바어
   - translation_iso: por
     name: nguemba
+  - translation_iso: rus
+    name: нгомба
   - translation_iso: spa
     name: ngomba
   - translation_iso: zho

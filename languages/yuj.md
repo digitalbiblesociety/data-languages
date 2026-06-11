@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カルカル-ユリ語
     auto: true
+  - translation_iso: kor
+    name: 카르카르·유리어
+    auto: true
   - translation_iso: por
     name: karkar-yuri
     auto: true
+  - translation_iso: rus
+    name: Каркар-юри
   - translation_iso: spa
     name: Idioma yuri
   - translation_iso: zho

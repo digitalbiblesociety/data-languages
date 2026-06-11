@@ -34,6 +34,8 @@ translations:
     name: 포콤치어
   - translation_iso: por
     name: Língua pocomchi
+  - translation_iso: rus
+    name: Покомчи
   - translation_iso: spa
     name: pocomchí
   - translation_iso: zho

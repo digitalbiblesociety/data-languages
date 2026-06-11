@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: येलमेक
     auto: true
+  - translation_iso: ind
+    name: Yabega
   - translation_iso: jpn
     name: イェルメク語
+  - translation_iso: kor
+    name: 옐메크어
+    auto: true
   - translation_iso: por
     name: Yelmek
     auto: true

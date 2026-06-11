@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ディリング語
     auto: true
+  - translation_iso: kor
+    name: 딜링어
+    auto: true
   - translation_iso: por
     name: Dilling
     auto: true

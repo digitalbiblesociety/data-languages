@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة أيكا
     auto: true
+  - translation_iso: ben
+    name: আয়েকা
   - translation_iso: deu
     name: Aeka
     auto: true
@@ -30,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: アエカ語
     auto: true
+  - translation_iso: kor
+    name: 아에카어
+    auto: true
   - translation_iso: por
     name: Aeka
     auto: true
+  - translation_iso: rus
+    name: аекасский язык
   - translation_iso: spa
     name: Aeka
     auto: true

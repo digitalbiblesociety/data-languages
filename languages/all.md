@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آلّار
     auto: true
+  - translation_iso: ben
+    name: আল্লার ভাষা
   - translation_iso: deu
     name: Allar
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アッラール語
+    auto: true
+  - translation_iso: kor
+    name: 알라르어
     auto: true
   - translation_iso: por
     name: Allar

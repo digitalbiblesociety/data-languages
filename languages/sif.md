@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアモウ語
+  - translation_iso: kor
+    name: 시아무어
+    auto: true
   - translation_iso: por
     name: Siamou
     auto: true

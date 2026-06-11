@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Teso_language"
 translations:
   - translation_iso: ara
     name: تيسو
+  - translation_iso: ben
+    name: তেসো
   - translation_iso: deu
     name: Ateso-Sprache
   - translation_iso: fra
     name: teso
   - translation_iso: hin
     name: टेसो
+  - translation_iso: ind
+    name: Teso
   - translation_iso: jpn
     name: テソ語
   - translation_iso: kor
     name: 테조어
   - translation_iso: por
     name: Língua ateso
+  - translation_iso: rus
+    name: тесо
   - translation_iso: spa
     name: ateso
   - translation_iso: zho

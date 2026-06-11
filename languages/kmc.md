@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: दक्षिणी डोंग
     auto: true
+  - translation_iso: ind
+    name: bahasa Kam
   - translation_iso: jpn
     name: トン語
   - translation_iso: kor
     name: 동어
   - translation_iso: por
     name: Língua dong
+  - translation_iso: rus
+    name: Дун
   - translation_iso: spa
     name: Dong Meridional
     auto: true

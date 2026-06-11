@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワウトラ・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 와우틀라 마사테코어
+    auto: true
   - translation_iso: por
     name: Mazateco de Huautla
     auto: true

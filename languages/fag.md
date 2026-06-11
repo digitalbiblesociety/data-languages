@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フィノンガン語
     auto: true
+  - translation_iso: kor
+    name: 피농간어
+    auto: true
   - translation_iso: por
     name: Finongan
     auto: true

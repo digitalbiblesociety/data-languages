@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イゼレ語
     auto: true
+  - translation_iso: kor
+    name: 이제레어
+    auto: true
   - translation_iso: por
     name: Izere
     auto: true

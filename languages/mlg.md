@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malagasy_language"
 translations:
   - translation_iso: ara
     name: الملغاشية
+  - translation_iso: ben
+    name: মালাগাসি
   - translation_iso: deu
     name: Malagasy
   - translation_iso: fra
     name: malgache
   - translation_iso: hin
     name: मालागासी भाषा
+  - translation_iso: ind
+    name: Malagasi
   - translation_iso: jpn
     name: マダガスカル語
   - translation_iso: kor
     name: 말라가시어
   - translation_iso: por
     name: Língua malgaxe
+  - translation_iso: rus
+    name: малагасийский
   - translation_iso: spa
     name: malgache
   - translation_iso: zho

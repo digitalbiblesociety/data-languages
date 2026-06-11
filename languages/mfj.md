@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: メフェレ語
     auto: true
+  - translation_iso: kor
+    name: 메펠레어
+    auto: true
   - translation_iso: por
     name: Mefele
     auto: true

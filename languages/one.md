@@ -32,6 +32,8 @@ translations:
     name: 오네이다어
   - translation_iso: por
     name: Língua oneida
+  - translation_iso: rus
+    name: Онейда
   - translation_iso: spa
     name: Oneida
   - translation_iso: zho

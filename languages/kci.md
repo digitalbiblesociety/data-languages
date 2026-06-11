@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カマンタン語
     auto: true
+  - translation_iso: kor
+    name: 카만탄어
+    auto: true
   - translation_iso: por
     name: Kamantan
     auto: true

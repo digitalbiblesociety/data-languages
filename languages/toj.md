@@ -34,6 +34,8 @@ translations:
     name: 토홀라발어
   - translation_iso: por
     name: Língua tojolabal
+  - translation_iso: rus
+    name: Тохолабальский язык
   - translation_iso: spa
     name: tojolabal
   - translation_iso: zho

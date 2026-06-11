@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラパンダラム語
     auto: true
+  - translation_iso: kor
+    name: 말라판다람어
+    auto: true
   - translation_iso: por
     name: Malapandaram
     auto: true

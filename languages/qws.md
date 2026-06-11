@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シフアスアンカシュケチュア語
     auto: true
+  - translation_iso: kor
+    name: 시우아스 앙카시 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Sihuas Ancash
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イコ語
     auto: true
+  - translation_iso: kor
+    name: 이코어
+    auto: true
   - translation_iso: por
     name: Iko
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・ヤピ語
     auto: true
+  - translation_iso: kor
+    name: 마이·야피어
+    auto: true
   - translation_iso: por
     name: mayi-yapi
     auto: true

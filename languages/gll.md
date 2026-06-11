@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガルラリ語
     auto: true
+  - translation_iso: kor
+    name: 가를랄리어
+    auto: true
   - translation_iso: por
     name: Garlali
     auto: true

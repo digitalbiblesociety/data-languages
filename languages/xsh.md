@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: シャマング語
     auto: true
+  - translation_iso: kor
+    name: 샤망어
+    auto: true
   - translation_iso: por
     name: Shamang
     auto: true

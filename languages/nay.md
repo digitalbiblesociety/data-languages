@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガリンジェリ語
+  - translation_iso: kor
+    name: 응아린제리어
+    auto: true
   - translation_iso: por
     name: Ngarrindjeri
     auto: true

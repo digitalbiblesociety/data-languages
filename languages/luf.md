@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラウア語
     auto: true
+  - translation_iso: kor
+    name: 라우아어
+    auto: true
   - translation_iso: por
     name: Laua
     auto: true

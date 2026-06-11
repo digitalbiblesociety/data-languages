@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: テペトトゥトラ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 테페토투틀라 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Tepetotutla
     auto: true
+  - translation_iso: rus
+    name: Тепетотутланский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Tepetotutla
   - translation_iso: zho

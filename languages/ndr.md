@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥラ語
     auto: true
+  - translation_iso: kor
+    name: 은돌라어
+    auto: true
   - translation_iso: por
     name: Ndoola
     auto: true

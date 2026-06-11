@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カジャクセ語
     auto: true
+  - translation_iso: kor
+    name: 카자크세어
+    auto: true
   - translation_iso: por
     name: Kajakse
     auto: true
+  - translation_iso: rus
+    name: Каджаксе
   - translation_iso: spa
     name: Kajakse
     auto: true

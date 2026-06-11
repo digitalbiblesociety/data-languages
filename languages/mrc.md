@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリコパ語
+  - translation_iso: kor
+    name: 마리코파어
+    auto: true
   - translation_iso: por
     name: Língua maricopa
+  - translation_iso: rus
+    name: Марикопа
   - translation_iso: spa
     name: Maricopa
   - translation_iso: zho

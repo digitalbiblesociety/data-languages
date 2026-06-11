@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ミワ語
     auto: true
+  - translation_iso: kor
+    name: 미와어
+    auto: true
   - translation_iso: por
     name: Miwa
     auto: true

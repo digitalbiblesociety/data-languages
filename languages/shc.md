@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: キソオンデ語
     auto: true
+  - translation_iso: kor
+    name: 손데어
+    auto: true
   - translation_iso: por
     name: Sonde
     auto: true

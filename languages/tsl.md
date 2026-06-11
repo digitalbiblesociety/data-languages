@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツン・ラオ語
+  - translation_iso: kor
+    name: 췬라오어
+    auto: true
   - translation_iso: por
     name: "Ts'ün-Lao"
     auto: true

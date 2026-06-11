@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジョラ＝カサ語
+  - translation_iso: kor
+    name: 졸라카사어
+    auto: true
   - translation_iso: por
     name: Jola-Kasa
     auto: true

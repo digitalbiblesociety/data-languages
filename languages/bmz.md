@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بارامو
     auto: true
+  - translation_iso: ben
+    name: বড়ামু
   - translation_iso: deu
     name: Baramu
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बारामू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baramu
   - translation_iso: jpn
     name: バラム語
+    auto: true
+  - translation_iso: kor
+    name: 바라무어
     auto: true
   - translation_iso: por
     name: Baramu

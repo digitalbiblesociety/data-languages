@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エチトテラ語
     auto: true
+  - translation_iso: kor
+    name: 토텔라어
+    auto: true
   - translation_iso: por
     name: Totela
     auto: true

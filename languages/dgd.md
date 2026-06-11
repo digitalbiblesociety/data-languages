@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダガアリ・ジウラ語
     auto: true
+  - translation_iso: kor
+    name: 다가리 디울라어
+    auto: true
   - translation_iso: por
     name: Dagaari Dioula
     auto: true

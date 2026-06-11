@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moksha_language"
 translations:
   - translation_iso: ara
     name: لغة الموكشا
+  - translation_iso: ben
+    name: মোকশা
   - translation_iso: deu
     name: Mokschanisch
   - translation_iso: fra
     name: moksa
   - translation_iso: hin
     name: मोक्ष
+  - translation_iso: ind
+    name: Moksha
   - translation_iso: jpn
     name: モクシャ語
   - translation_iso: kor
     name: 모크샤어
   - translation_iso: por
     name: moksha
+  - translation_iso: rus
+    name: мокшанский
   - translation_iso: spa
     name: moksha
   - translation_iso: zho

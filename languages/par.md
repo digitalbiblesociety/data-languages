@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンビシャ語
+  - translation_iso: kor
+    name: 파나민트어
+    auto: true
   - translation_iso: por
     name: Língua timbisha
+  - translation_iso: rus
+    name: Тимбиша
   - translation_iso: spa
     name: timbisha
   - translation_iso: zho

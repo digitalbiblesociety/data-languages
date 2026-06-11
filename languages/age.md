@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アンガル語
     auto: true
+  - translation_iso: kor
+    name: 앙갈어
+    auto: true
   - translation_iso: por
     name: Angal
     auto: true

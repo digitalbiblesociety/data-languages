@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهاتيالي
     auto: true
+  - translation_iso: ben
+    name: ভটিয়ালী ভাষা
   - translation_iso: deu
     name: Bhattiyali
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: भटियाली
   - translation_iso: jpn
     name: バッティヤリ語
+  - translation_iso: kor
+    name: 바티얄리어
+    auto: true
   - translation_iso: por
     name: Bhattiyali
     auto: true

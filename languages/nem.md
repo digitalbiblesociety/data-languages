@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: नेमी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Nemi
   - translation_iso: jpn
     name: ネミ語
+  - translation_iso: kor
+    name: 네미어
+    auto: true
   - translation_iso: por
     name: Nemi
     auto: true

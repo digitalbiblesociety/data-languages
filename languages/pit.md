@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピッタピッタ語
     auto: true
+  - translation_iso: kor
+    name: 피타피타어
+    auto: true
   - translation_iso: por
     name: Pitta Pitta
     auto: true

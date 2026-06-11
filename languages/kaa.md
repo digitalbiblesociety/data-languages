@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karakalpak_language"
 translations:
   - translation_iso: ara
     name: القرقلباغية
+  - translation_iso: ben
+    name: কারা-কাল্পাক
   - translation_iso: deu
     name: Karakalpakisch
   - translation_iso: fra
     name: karakalpak
   - translation_iso: hin
     name: कारा-कल्पक
+  - translation_iso: ind
+    name: Kara-Kalpak
   - translation_iso: jpn
     name: カラカルパク語
   - translation_iso: kor
     name: 카라칼파크어
   - translation_iso: por
     name: caracalpaque
+  - translation_iso: rus
+    name: каракалпакский
   - translation_iso: spa
     name: Idioma karakalpako
   - translation_iso: zho

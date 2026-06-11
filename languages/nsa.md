@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سانغتام ناغا
     auto: true
+  - translation_iso: ben
+    name: সাংতাম ভাষা
   - translation_iso: deu
     name: Sangtam-Naga
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: संगतम भाषा
   - translation_iso: jpn
     name: サンタム・ナガ語
+  - translation_iso: kor
+    name: 상탐 나가어
+    auto: true
   - translation_iso: por
     name: Naga Sangtam
     auto: true

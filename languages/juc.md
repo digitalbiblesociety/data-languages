@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: जुर्चेन
     auto: true
+  - translation_iso: ind
+    name: Jurchen
   - translation_iso: jpn
     name: 女真語
   - translation_iso: kor
     name: 여진어
   - translation_iso: por
     name: Jurchén
+  - translation_iso: rus
+    name: чжурчжэньский язык
   - translation_iso: spa
     name: yurchen
   - translation_iso: zho

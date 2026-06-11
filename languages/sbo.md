@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: साबूम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sabüm
   - translation_iso: jpn
     name: サブウム語
+    auto: true
+  - translation_iso: kor
+    name: 사붐어
     auto: true
   - translation_iso: por
     name: Sabüm

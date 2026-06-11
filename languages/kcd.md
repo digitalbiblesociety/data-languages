@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: न्ग्काल्म्पव कानुम
     auto: true
+  - translation_iso: ind
+    name: Kanum Ngkalmpw
   - translation_iso: jpn
     name: ングカルムプウ・カヌム語
+    auto: true
+  - translation_iso: kor
+    name: 응칼름프 카눔어
     auto: true
   - translation_iso: por
     name: Kanum Ngkâlmpw

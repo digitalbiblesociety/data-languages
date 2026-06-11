@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラベル語
     auto: true
+  - translation_iso: kor
+    name: 라벨어
+    auto: true
   - translation_iso: por
     name: Label
     auto: true

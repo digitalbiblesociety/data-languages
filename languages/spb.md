@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सेपा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Sepa
   - translation_iso: jpn
     name: セパ語
+  - translation_iso: kor
+    name: 세파어
+    auto: true
   - translation_iso: por
     name: Sepa (Indonésia)
     auto: true

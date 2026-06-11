@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エシュテハルディ語
     auto: true
+  - translation_iso: kor
+    name: 에슈테하르디어
+    auto: true
   - translation_iso: por
     name: Eshtehardi
     auto: true

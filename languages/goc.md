@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゴラコル語
     auto: true
+  - translation_iso: kor
+    name: 고라코르어
+    auto: true
   - translation_iso: por
     name: Gorakor
     auto: true

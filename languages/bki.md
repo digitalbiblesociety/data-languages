@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكي
     auto: true
+  - translation_iso: ben
+    name: বাকি
   - translation_iso: deu
     name: Baki
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バキ語
+    auto: true
+  - translation_iso: kor
+    name: 바키어
     auto: true
   - translation_iso: por
     name: Baki

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部貴陽フモン語
+  - translation_iso: kor
+    name: 남부 구이양 몽어
+    auto: true
   - translation_iso: por
     name: Hmong Guiyang do Sul
     auto: true

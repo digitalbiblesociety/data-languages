@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Elamite_language"
 translations:
   - translation_iso: ara
     name: لغة عيلامية
+  - translation_iso: ben
+    name: এলামাইট
   - translation_iso: deu
     name: Elamisch
   - translation_iso: fra
     name: élamite
   - translation_iso: hin
     name: एलामी भाषा
+  - translation_iso: ind
+    name: Elam
   - translation_iso: jpn
     name: エラム語
   - translation_iso: kor
     name: 엘람어
   - translation_iso: por
     name: Língua elamita
+  - translation_iso: rus
+    name: эламский
   - translation_iso: spa
     name: elamita
   - translation_iso: zho

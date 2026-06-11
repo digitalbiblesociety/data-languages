@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アップ・マ語
     auto: true
+  - translation_iso: kor
+    name: 아프마어
+    auto: true
   - translation_iso: por
     name: Ap Ma
     auto: true

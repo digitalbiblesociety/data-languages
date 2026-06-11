@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: نامia
     auto: true
+  - translation_iso: ben
+    name: নামিয়া
   - translation_iso: deu
     name: Namia
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナミア語
+  - translation_iso: kor
+    name: 나미아어
+    auto: true
   - translation_iso: por
     name: Namia
     auto: true

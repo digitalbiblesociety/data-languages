@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: नापु
     auto: true
+  - translation_iso: ind
+    name: Napu
   - translation_iso: jpn
     name: ナプ語
+    auto: true
+  - translation_iso: kor
+    name: 나푸어
     auto: true
   - translation_iso: por
     name: Napu

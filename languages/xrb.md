@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: 東カラボロ語
     auto: true
+  - translation_iso: kor
+    name: 동부 카라보로어
+    auto: true
   - translation_iso: por
     name: Língua caraboro oriental
+  - translation_iso: rus
+    name: Восточный караборо
   - translation_iso: spa
     name: Kar
   - translation_iso: zho

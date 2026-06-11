@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・ルシア・モンテベルデ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산타루시아 몬테베르데 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Santa Lucía Monteverde
     auto: true

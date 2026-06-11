@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: أديثينجيث
     auto: true
+  - translation_iso: ben
+    name: আদিথিনগিথাই
   - translation_iso: deu
     name: Adithinngithigh
     auto: true
@@ -25,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: アディティンギティ語
     auto: true
+  - translation_iso: kor
+    name: 아디틴기티어
+    auto: true
   - translation_iso: por
     name: Adithinngithigh
     auto: true
+  - translation_iso: rus
+    name: адитиннгитиг
   - translation_iso: spa
     name: Idioma adithinngithigh
   - translation_iso: zho

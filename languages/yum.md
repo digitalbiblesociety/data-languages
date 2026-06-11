@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケチャン語
+  - translation_iso: kor
+    name: 케찬어
+    auto: true
   - translation_iso: por
     name: Língua quechan
+  - translation_iso: rus
+    name: квечанский язык
   - translation_iso: spa
     name: Quechan
     auto: true

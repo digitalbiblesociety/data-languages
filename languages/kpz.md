@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クプサビニィ語
+  - translation_iso: kor
+    name: 쿱사비니어
+    auto: true
   - translation_iso: por
     name: Kupsabiny
     auto: true

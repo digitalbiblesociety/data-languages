@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ティチュロン語
     auto: true
+  - translation_iso: kor
+    name: 티추롱어
+    auto: true
   - translation_iso: por
     name: Tichurong
     auto: true

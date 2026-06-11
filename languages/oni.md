@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ओनिन
     auto: true
+  - translation_iso: ind
+    name: Onin
   - translation_iso: jpn
     name: オニン語
+    auto: true
+  - translation_iso: kor
+    name: 오닌어
     auto: true
   - translation_iso: por
     name: Onin

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フォラク語
     auto: true
+  - translation_iso: kor
+    name: 포라크어
+    auto: true
   - translation_iso: por
     name: Forak
     auto: true

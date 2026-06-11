@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イニャパリ語
+  - translation_iso: kor
+    name: 이냐파리어
+    auto: true
   - translation_iso: por
     name: Língua iñapari
+  - translation_iso: rus
+    name: Иньяпари
   - translation_iso: spa
     name: Iñapari
   - translation_iso: zho

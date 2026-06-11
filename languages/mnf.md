@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムンダニ語
     auto: true
+  - translation_iso: kor
+    name: 문다니어
+    auto: true
   - translation_iso: por
     name: Mundani
     auto: true

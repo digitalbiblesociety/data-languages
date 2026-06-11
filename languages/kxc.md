@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: コンソ語
     auto: true
+  - translation_iso: kor
+    name: 콘소어
+    auto: true
   - translation_iso: por
     name: Konso
     auto: true
+  - translation_iso: rus
+    name: Консо (язык)
   - translation_iso: spa
     name: Konso
     auto: true

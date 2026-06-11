@@ -22,12 +22,16 @@ translations:
   - translation_iso: hin
     name: मध्यकालीन कोरियाई
     auto: true
+  - translation_iso: ind
+    name: Korea Pertengahan
   - translation_iso: jpn
     name: 中期朝鮮語
   - translation_iso: kor
     name: 중세 한국어
   - translation_iso: por
     name: Coreano médio
+  - translation_iso: rus
+    name: Средневековый корейский
   - translation_iso: spa
     name: coreano medio
   - translation_iso: zho

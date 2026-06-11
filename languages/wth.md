@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワタウルング語
     auto: true
+  - translation_iso: kor
+    name: 와타우룽어
+    auto: true
   - translation_iso: por
     name: Wathawurrung
     auto: true
+  - translation_iso: rus
+    name: уатаууррунгский язык
   - translation_iso: spa
     name: idioma wathaurong
   - translation_iso: zho

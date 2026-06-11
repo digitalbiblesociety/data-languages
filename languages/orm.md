@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oromo_language"
 translations:
   - translation_iso: ara
     name: الأوروموية
+  - translation_iso: ben
+    name: ওরোমো
   - translation_iso: deu
     name: Oromo
   - translation_iso: fra
     name: oromo
   - translation_iso: hin
     name: ओरोमो भाषा
+  - translation_iso: ind
+    name: Oromo
   - translation_iso: jpn
     name: オロモ語
   - translation_iso: kor
     name: 오로모어
   - translation_iso: por
     name: Língua oromo
+  - translation_iso: rus
+    name: оромо
   - translation_iso: spa
     name: oromo
   - translation_iso: zho

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بارجا
     auto: true
+  - translation_iso: ben
+    name: বরুগা
   - translation_iso: deu
     name: Baruga
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルガ語
+    auto: true
+  - translation_iso: kor
+    name: 바루가어
     auto: true
   - translation_iso: por
     name: Baruga

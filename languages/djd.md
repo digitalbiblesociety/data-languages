@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャミンジュング語
+  - translation_iso: kor
+    name: 자민중어
+    auto: true
   - translation_iso: por
     name: Língua jaminjung
+  - translation_iso: rus
+    name: Тяминтюнг
   - translation_iso: spa
     name: Djamindjung
     auto: true

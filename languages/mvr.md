@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: माराउ
     auto: true
+  - translation_iso: ind
+    name: Marau
   - translation_iso: jpn
     name: マラウ語
+    auto: true
+  - translation_iso: kor
+    name: 마라우어
     auto: true
   - translation_iso: por
     name: Marau

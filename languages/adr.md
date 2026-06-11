@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أدونارا
     auto: true
+  - translation_iso: ben
+    name: আদোনারা
   - translation_iso: deu
     name: Adonara
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अदोनारा
     auto: true
+  - translation_iso: ind
+    name: Adonara
   - translation_iso: jpn
     name: アドナラ語
+    auto: true
+  - translation_iso: kor
+    name: 아도나라어
     auto: true
   - translation_iso: por
     name: Língua adonara

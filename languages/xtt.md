@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タカフア・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 타카우아 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tacahua
     auto: true
+  - translation_iso: rus
+    name: Такауанский миштекский язык
   - translation_iso: spa
     name: Mixteco de Tacahua
     auto: true

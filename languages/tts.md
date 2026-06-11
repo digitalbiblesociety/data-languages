@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: पूर्वोत्तर थाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Lao Thailand
   - translation_iso: jpn
     name: イーサーン語
   - translation_iso: kor
     name: 이산어
   - translation_iso: por
     name: lau tailandês
+  - translation_iso: rus
+    name: исанский язык
   - translation_iso: spa
     name: lao tailandés
   - translation_iso: zho

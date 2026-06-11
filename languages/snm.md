@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サザン・マディ語
     auto: true
+  - translation_iso: kor
+    name: 남부 마디어
+    auto: true
   - translation_iso: por
     name: "Ma'di Meridional"
     auto: true

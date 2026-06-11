@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゴシエ語
     auto: true
+  - translation_iso: kor
+    name: 응고시에어
+    auto: true
   - translation_iso: por
     name: Ngoshie
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヤフナ語
     auto: true
+  - translation_iso: kor
+    name: 야우나어
+    auto: true
   - translation_iso: por
     name: yahuna
     auto: true
+  - translation_iso: rus
+    name: Яуна
   - translation_iso: spa
     name: Yahuna
     auto: true

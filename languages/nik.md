@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: جنوب نيكوبارسي
     auto: true
+  - translation_iso: ben
+    name: দক্ষিণ নিকোবারি ভাষা
   - translation_iso: deu
     name: Süd-Nikobaresisch
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: दक्षिण निकोबारी भाषा
   - translation_iso: jpn
     name: 南ニコバル語
+    auto: true
+  - translation_iso: kor
+    name: 남부 니코바르어
     auto: true
   - translation_iso: por
     name: Nicobarês do Sul

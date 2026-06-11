@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: プルボラ語
     auto: true
+  - translation_iso: kor
+    name: 푸루보라어
+    auto: true
   - translation_iso: por
     name: Língua puruborá
+  - translation_iso: rus
+    name: Пурубора
   - translation_iso: spa
     name: Puruborá
     auto: true

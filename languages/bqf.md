@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: باجا كالوم
     auto: true
+  - translation_iso: ben
+    name: বাগা কালুম
   - translation_iso: deu
     name: Baga Kaloum
     auto: true
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バガ・カルム語
+    auto: true
+  - translation_iso: kor
+    name: 바가 칼룸어
     auto: true
   - translation_iso: por
     name: Baga Kaloum

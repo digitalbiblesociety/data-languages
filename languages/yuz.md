@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوراكاري
     auto: true
+  - translation_iso: ben
+    name: ইয়ুরাকারে ভাষা
   - translation_iso: deu
     name: Yuracaré
     auto: true
@@ -33,6 +35,8 @@ translations:
     name: 유라카레어
   - translation_iso: por
     name: Língua yuracaré
+  - translation_iso: rus
+    name: Юракаре
   - translation_iso: spa
     name: idioma yuracaré
   - translation_iso: zho

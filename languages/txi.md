@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: イクペング語
     auto: true
+  - translation_iso: kor
+    name: 이크펭어
+    auto: true
   - translation_iso: por
     name: Língua icpengue
+  - translation_iso: rus
+    name: икпенг
   - translation_iso: spa
     name: Ikpeng
     auto: true

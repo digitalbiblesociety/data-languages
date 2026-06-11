@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: काओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kao
   - translation_iso: jpn
     name: カオ語
+    auto: true
+  - translation_iso: kor
+    name: 카오어
     auto: true
   - translation_iso: por
     name: Kao

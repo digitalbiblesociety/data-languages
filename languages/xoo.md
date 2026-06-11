@@ -30,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: シュクル語
     auto: true
+  - translation_iso: kor
+    name: 슈쿠루어
+    auto: true
   - translation_iso: por
     name: Língua xucurú
+  - translation_iso: rus
+    name: Шукуру
   - translation_iso: spa
     name: Xukurú
   - translation_iso: zho

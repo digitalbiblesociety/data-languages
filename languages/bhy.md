@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهيلي
     auto: true
+  - translation_iso: ben
+    name: ভেলে
   - translation_iso: deu
     name: Bhele
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベレ語
+    auto: true
+  - translation_iso: kor
+    name: 벨레어
     auto: true
   - translation_iso: por
     name: Bhele

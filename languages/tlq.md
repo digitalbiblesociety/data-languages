@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タイ・ロイ語
     auto: true
+  - translation_iso: kor
+    name: 타이 로이어
+    auto: true
   - translation_iso: por
     name: Tai Loi
     auto: true
+  - translation_iso: rus
+    name: Тай лой
   - translation_iso: spa
     name: Tai Loi
     auto: true

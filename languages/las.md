@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラマ語
     auto: true
+  - translation_iso: kor
+    name: 라마어
+    auto: true
   - translation_iso: por
     name: Lama (Togo)
     auto: true

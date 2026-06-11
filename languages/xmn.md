@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マニ教中期ペルシア語
     auto: true
+  - translation_iso: kor
+    name: 마니교 중세 페르시아어
+    auto: true
   - translation_iso: por
     name: Persa Médio Maniqueu
     auto: true

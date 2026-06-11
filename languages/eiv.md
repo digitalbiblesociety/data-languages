@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: الأسكوبان
     auto: true
+  - translation_iso: ben
+    name: আস্কোপান
   - translation_iso: deu
     name: Askopan
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスコパン語
+    auto: true
+  - translation_iso: kor
+    name: 아스코판어
     auto: true
   - translation_iso: por
     name: Askopan

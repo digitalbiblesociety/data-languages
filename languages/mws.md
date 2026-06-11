@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムウィンビ・ムタンビ語
     auto: true
+  - translation_iso: kor
+    name: 므윔비무탐비어
+    auto: true
   - translation_iso: por
     name: Mwimbi-Muthambi
     auto: true

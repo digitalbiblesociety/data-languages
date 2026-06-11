@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラクルマウ語
     auto: true
+  - translation_iso: kor
+    name: 라쿠루마우어
+    auto: true
   - translation_iso: por
     name: Lakurumau
     auto: true

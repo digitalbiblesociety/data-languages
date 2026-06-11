@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوراسيني براكريت
     auto: true
+  - translation_iso: ben
+    name: শৌরসেনী প্রাকৃত
   - translation_iso: deu
     name: Sauraseni-Prakrit
     auto: true
@@ -29,11 +31,18 @@ translations:
     auto: true
   - translation_iso: hin
     name: शौरसेनी
+  - translation_iso: ind
+    name: Shauraseni
   - translation_iso: jpn
     name: シャウラセーニー
+  - translation_iso: kor
+    name: 샤우라세니 프라크리트어
+    auto: true
   - translation_iso: por
     name: Prácrito sauraseni
     auto: true
+  - translation_iso: rus
+    name: Шаурасени
   - translation_iso: spa
     name: Śauraseni
   - translation_iso: zho

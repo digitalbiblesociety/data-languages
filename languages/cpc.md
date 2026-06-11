@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أجينينكا أبوروكايالي
     auto: true
+  - translation_iso: ben
+    name: অ্যাক্সিনিঙ্কা
   - translation_iso: deu
     name: Ajyíninka Apurucayali
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アジェニンカ・アプルカヤリ語
     auto: true
+  - translation_iso: kor
+    name: 아히니닌카 아푸루카얄리어
+    auto: true
   - translation_iso: por
     name: Ajyíninka Apurucayali
     auto: true
+  - translation_iso: rus
+    name: Апурукаяли
   - translation_iso: spa
     name: axininca
   - translation_iso: zho

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポウハタン語
+  - translation_iso: kor
+    name: 포우하탄어
+    auto: true
   - translation_iso: por
     name: Língua powhatan
+  - translation_iso: rus
+    name: поухатан
   - translation_iso: spa
     name: Powhatan
   - translation_iso: zho

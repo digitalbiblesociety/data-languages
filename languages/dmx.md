@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: デマ語
     auto: true
+  - translation_iso: kor
+    name: 데마어
+    auto: true
   - translation_iso: por
     name: Dema
     auto: true

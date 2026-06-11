@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンコニャ語
     auto: true
+  - translation_iso: kor
+    name: 은코냐어
+    auto: true
   - translation_iso: por
     name: Língua nkonya
   - translation_iso: spa

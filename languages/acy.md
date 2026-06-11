@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: साइप्रसी अरबी
     auto: true
+  - translation_iso: ind
+    name: Arab Siprus
   - translation_iso: jpn
     name: アラビア語キプロス方言
   - translation_iso: kor
     name: 키프로스 아랍어
   - translation_iso: por
     name: árabe cipriota maronita
+  - translation_iso: rus
+    name: Кипрско-арабский язык
   - translation_iso: spa
     name: árabe chipriota
   - translation_iso: zho

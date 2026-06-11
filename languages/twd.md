@@ -25,9 +25,14 @@ translations:
   - translation_iso: jpn
     name: トゥウェンテ語
     auto: true
+  - translation_iso: kor
+    name: 트벤츠어
+    auto: true
   - translation_iso: por
     name: Twents
     auto: true
+  - translation_iso: rus
+    name: Твентский диалект
   - translation_iso: spa
     name: Twents
     auto: true

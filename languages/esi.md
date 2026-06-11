@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アラスカ・イヌピアツン語
+  - translation_iso: kor
+    name: 북알래스카 이누피아툰어
+    auto: true
   - translation_iso: por
     name: inupiatum do norte do Alasca
     auto: true

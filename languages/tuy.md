@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥゲン語
+  - translation_iso: kor
+    name: 투겐어
+    auto: true
   - translation_iso: por
     name: Tugen
     auto: true

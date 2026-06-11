@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サラカバ語
     auto: true
+  - translation_iso: kor
+    name: 사라 카바어
+    auto: true
   - translation_iso: por
     name: Sara Kaba
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أريم
     auto: true
+  - translation_iso: ben
+    name: আরেম
   - translation_iso: deu
     name: Arem
     auto: true
@@ -29,12 +31,19 @@ translations:
   - translation_iso: hin
     name: अरेम
     auto: true
+  - translation_iso: ind
+    name: Arem
   - translation_iso: jpn
     name: アレム語
+    auto: true
+  - translation_iso: kor
+    name: 아렘어
     auto: true
   - translation_iso: por
     name: Arem
     auto: true
+  - translation_iso: rus
+    name: аремский язык
   - translation_iso: spa
     name: Arem
     auto: true

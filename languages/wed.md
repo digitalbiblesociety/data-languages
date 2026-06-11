@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウェダウ語
     auto: true
+  - translation_iso: kor
+    name: 웨다우어
+    auto: true
   - translation_iso: por
     name: Wedau
     auto: true

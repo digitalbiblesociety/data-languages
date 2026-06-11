@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तालिश
     auto: true
+  - translation_iso: ind
+    name: Talish
   - translation_iso: jpn
     name: タリシュ語
   - translation_iso: kor
     name: 탈리시어
   - translation_iso: por
     name: Língua talish
+  - translation_iso: rus
+    name: талышский язык
   - translation_iso: spa
     name: talishi
   - translation_iso: zho

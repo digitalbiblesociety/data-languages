@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロディ語
     auto: true
+  - translation_iso: kor
+    name: 로디어
+    auto: true
   - translation_iso: por
     name: Lodhi
     auto: true

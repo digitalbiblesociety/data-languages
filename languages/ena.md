@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الأبالي
     auto: true
+  - translation_iso: ben
+    name: আপালি
   - translation_iso: deu
     name: Apali
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アパリ語
+    auto: true
+  - translation_iso: kor
+    name: 아팔리어
     auto: true
   - translation_iso: por
     name: Apali

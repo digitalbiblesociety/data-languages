@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أندْيو
     auto: true
+  - translation_iso: ben
+    name: আন্দিও
   - translation_iso: deu
     name: Andio
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: आंदियो
     auto: true
+  - translation_iso: ind
+    name: Andio
   - translation_iso: jpn
     name: アンディオ語
     auto: true
+  - translation_iso: kor
+    name: 안디오어
+    auto: true
   - translation_iso: por
     name: Andio
+  - translation_iso: rus
+    name: Андио
   - translation_iso: spa
     name: andio
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पेन्दाउ
     auto: true
+  - translation_iso: ind
+    name: Ndaoe
   - translation_iso: jpn
     name: ウマラサ語
+    auto: true
+  - translation_iso: kor
+    name: 펜다우어
     auto: true
   - translation_iso: por
     name: Pendau

@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: सिंगापुर सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Singapura
   - translation_iso: jpn
     name: シンガポール手話
+  - translation_iso: kor
+    name: 싱가포르 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais de Singapura
   - translation_iso: spa

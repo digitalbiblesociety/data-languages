@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tigrinya_language"
 translations:
   - translation_iso: ara
     name: التغرينية
+  - translation_iso: ben
+    name: তিগরিনিয়া
   - translation_iso: deu
     name: Tigrinya
   - translation_iso: fra
     name: tigrigna
   - translation_iso: hin
     name: तिग्रीन्या भाषा
+  - translation_iso: ind
+    name: Tigrinya
   - translation_iso: jpn
     name: ティグリニャ語
   - translation_iso: kor
     name: 티그리냐어
   - translation_iso: por
     name: Língua tigrínia
+  - translation_iso: rus
+    name: тигринья
   - translation_iso: spa
     name: idioma tigriña
   - translation_iso: zho

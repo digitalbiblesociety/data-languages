@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: पुरानी उइगुर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Uighur Kuno
   - translation_iso: jpn
     name: 古ウイグル語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: uigur antigo
     auto: true
+  - translation_iso: rus
+    name: древнеуйгурский язык
   - translation_iso: spa
     name: uigur antiguo
   - translation_iso: zho

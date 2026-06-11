@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: كهيتراني
     auto: true
+  - translation_iso: ben
+    name: খেতরানি
   - translation_iso: deu
     name: Khetrani
     auto: true
@@ -31,9 +33,14 @@ translations:
     name: खेतरानी
   - translation_iso: jpn
     name: ケートラーニー語
+  - translation_iso: kor
+    name: 케트라니어
+    auto: true
   - translation_iso: por
     name: Khetrani
     auto: true
+  - translation_iso: rus
+    name: кхетрани
   - translation_iso: spa
     name: Khetrani
     auto: true

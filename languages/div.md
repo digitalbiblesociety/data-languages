@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dhivehi_language"
 translations:
   - translation_iso: ara
     name: ديفهي
+  - translation_iso: ben
+    name: দিবেহি
   - translation_iso: deu
     name: Dhivehi
   - translation_iso: fra
     name: maldivien
   - translation_iso: hin
     name: महल्
+  - translation_iso: ind
+    name: Divehi
   - translation_iso: jpn
     name: ディベヒ語
   - translation_iso: kor
     name: 디베히어
   - translation_iso: por
     name: Língua divehi
+  - translation_iso: rus
+    name: мальдивский
   - translation_iso: spa
     name: maldivo
   - translation_iso: zho

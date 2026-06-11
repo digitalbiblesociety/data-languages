@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北マルキーズ語
+  - translation_iso: kor
+    name: 북부 마르키즈어
+    auto: true
   - translation_iso: por
     name: marquesano do norte
     auto: true

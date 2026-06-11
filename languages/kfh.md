@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كوريتشيا
     auto: true
+  - translation_iso: ben
+    name: কুড়িচিয়া ভাষা
   - translation_iso: deu
     name: Kurichiya
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クリチヤ語
+    auto: true
+  - translation_iso: kor
+    name: 쿠리치야어
     auto: true
   - translation_iso: por
     name: Kurichiya

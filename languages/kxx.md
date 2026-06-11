@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: リクバ語
     auto: true
+  - translation_iso: kor
+    name: 리쿠바어
+    auto: true
   - translation_iso: por
     name: Likuba
     auto: true
+  - translation_iso: rus
+    name: Куби
   - translation_iso: spa
     name: kuba
   - translation_iso: zho

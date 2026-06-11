@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヌブリ語
     auto: true
+  - translation_iso: kor
+    name: 누브리어
+    auto: true
   - translation_iso: por
     name: Nubri
     auto: true

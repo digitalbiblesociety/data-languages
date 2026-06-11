@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ポヤナワ語
     auto: true
+  - translation_iso: kor
+    name: 포야나와어
+    auto: true
   - translation_iso: por
     name: Língua poianaua
+  - translation_iso: rus
+    name: Поянава
   - translation_iso: spa
     name: Poyanáwa
     auto: true

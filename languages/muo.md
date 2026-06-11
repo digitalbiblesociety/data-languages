@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニョン語
     auto: true
+  - translation_iso: kor
+    name: 뇽어
+    auto: true
   - translation_iso: por
     name: Nyong
     auto: true

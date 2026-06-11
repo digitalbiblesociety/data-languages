@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: أراكوال
     auto: true
+  - translation_iso: ben
+    name: আরাকওয়াল
   - translation_iso: deu
     name: Arakwal
     auto: true
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラクワル語
+    auto: true
+  - translation_iso: kor
+    name: 아라크왈어
     auto: true
   - translation_iso: por
     name: Arakwal

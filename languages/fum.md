@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: フム語
     auto: true
+  - translation_iso: kor
+    name: 품어
+    auto: true
   - translation_iso: por
     name: Fum
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゴディエ語
     auto: true
+  - translation_iso: kor
+    name: 고디에어
+    auto: true
   - translation_iso: por
     name: Godié
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ブソ語
     auto: true
+  - translation_iso: kor
+    name: 부소어
+    auto: true
   - translation_iso: por
     name: Buso
     auto: true

@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: मायामी
     auto: true
+  - translation_iso: ind
+    name: Miami-Illinois
   - translation_iso: jpn
     name: マイアミ・イリノイ語
+  - translation_iso: kor
+    name: 마이애미어
+    auto: true
   - translation_iso: por
     name: Língua Miami-Illinois
+  - translation_iso: rus
+    name: майами-иллинойс
   - translation_iso: spa
     name: Miami-Illinois
   - translation_iso: zho

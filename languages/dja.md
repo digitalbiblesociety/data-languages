@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ジャジャワルング語
     auto: true
+  - translation_iso: kor
+    name: 자자우룽어
+    auto: true
   - translation_iso: por
     name: Djadjawurrung
     auto: true

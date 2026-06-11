@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: इंडोनेशियाई बजाऊ
     auto: true
+  - translation_iso: ind
+    name: Bajo
   - translation_iso: jpn
     name: インドネシア・バジャウ語
+    auto: true
+  - translation_iso: kor
+    name: 인도네시아 바자우어
     auto: true
   - translation_iso: por
     name: Bajau indonésio

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأيسلندية
     auto: true
+  - translation_iso: ben
+    name: আইসল্যান্ডীয় ইশারা ভাষা
   - translation_iso: deu
     name: Isländische Gebärdensprache
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイスランド手話
+  - translation_iso: kor
+    name: 아이슬란드 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Islandesa
     auto: true
+  - translation_iso: rus
+    name: исландский жестовый язык
   - translation_iso: spa
     name: Lengua de señas islandesa
   - translation_iso: zho

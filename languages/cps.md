@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: कापिज़्नोन
     auto: true
+  - translation_iso: ind
+    name: dialek Kapis
   - translation_iso: jpn
     name: カピス語
   - translation_iso: kor

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Päri語
+  - translation_iso: kor
+    name: 패리어
+    auto: true
   - translation_iso: por
     name: Língua päri
   - translation_iso: spa

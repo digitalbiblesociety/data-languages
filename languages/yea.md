@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラブラ語
     auto: true
+  - translation_iso: kor
+    name: 라불라어
+    auto: true
   - translation_iso: por
     name: Língua ravula
   - translation_iso: spa

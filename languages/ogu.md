@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オグブロヌアグム語
     auto: true
+  - translation_iso: kor
+    name: 오그브로누아굼어
+    auto: true
   - translation_iso: por
     name: Ogbronuagum
     auto: true

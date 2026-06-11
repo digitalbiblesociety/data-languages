@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハムタイ語
+  - translation_iso: kor
+    name: 함타이어
+    auto: true
   - translation_iso: por
     name: Língua hamtai
   - translation_iso: spa

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルムング語
+  - translation_iso: kor
+    name: 와루뭉구어
+    auto: true
   - translation_iso: por
     name: Warumungu
     auto: true
+  - translation_iso: rus
+    name: Варумунгу
   - translation_iso: spa
     name: Warumungu
     auto: true

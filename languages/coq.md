@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コキール語
     auto: true
+  - translation_iso: kor
+    name: 코퀼어
+    auto: true
   - translation_iso: por
     name: Coquille
     auto: true

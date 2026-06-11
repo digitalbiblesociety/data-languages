@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجينجي
     auto: true
+  - translation_iso: ben
+    name: বলংগিহ সামা
   - translation_iso: deu
     name: Balangingi
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バジャウ語
     auto: true
+  - translation_iso: kor
+    name: 발랑잉이어
+    auto: true
   - translation_iso: por
     name: Balangingi
     auto: true
+  - translation_iso: rus
+    name: "балангинги(?)"
   - translation_iso: spa
     name: Balangingi
     auto: true

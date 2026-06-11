@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥアモトゥ語
+  - translation_iso: kor
+    name: 투아모투어
+    auto: true
   - translation_iso: por
     name: Tuamotuano
     auto: true
+  - translation_iso: rus
+    name: Туамоту
   - translation_iso: spa
     name: Idioma tuamotu
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤゴミ語
     auto: true
+  - translation_iso: kor
+    name: 야고미어
+    auto: true
   - translation_iso: por
     name: yagomi
     auto: true

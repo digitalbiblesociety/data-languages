@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बुहिद
     auto: true
+  - translation_iso: ind
+    name: Bahasa Buhid
   - translation_iso: jpn
     name: ブヒッド語
+  - translation_iso: kor
+    name: 부히드어
+    auto: true
   - translation_iso: por
     name: Língua buhid
   - translation_iso: spa

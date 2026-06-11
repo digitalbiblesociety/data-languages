@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クアパー語
     auto: true
+  - translation_iso: kor
+    name: 쿼포어
+    auto: true
   - translation_iso: por
     name: Língua quapaw
+  - translation_iso: rus
+    name: квапау
   - translation_iso: spa
     name: Quapaw
     auto: true

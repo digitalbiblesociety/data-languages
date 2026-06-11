@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダンマリ語
     auto: true
+  - translation_iso: kor
+    name: 둥말리어
+    auto: true
   - translation_iso: por
     name: Dungmali
     auto: true

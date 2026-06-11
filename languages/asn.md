@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シング・アスリニ語
     auto: true
+  - translation_iso: kor
+    name: 싱구 아수리니어
+    auto: true
   - translation_iso: por
     name: Língua asurini do Xingu
+  - translation_iso: rus
+    name: Шингу-асурини
   - translation_iso: spa
     name: assuriní do Xingú
   - translation_iso: zho

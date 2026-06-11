@@ -27,12 +27,19 @@ translations:
   - translation_iso: hin
     name: एंगानो
     auto: true
+  - translation_iso: ind
+    name: Enggano
   - translation_iso: jpn
     name: エンガーノ語
+    auto: true
+  - translation_iso: kor
+    name: 엥가노어
     auto: true
   - translation_iso: por
     name: Enggano
     auto: true
+  - translation_iso: rus
+    name: Энггано
   - translation_iso: spa
     name: Enggano
     auto: true

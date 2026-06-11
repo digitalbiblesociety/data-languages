@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ティエヤキソ・ボゾ語
     auto: true
+  - translation_iso: kor
+    name: 티에야호 보조어
+    auto: true
   - translation_iso: por
     name: Tiéyaxo Bozo
     auto: true

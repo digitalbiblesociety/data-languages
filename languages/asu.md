@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスリニ語
+  - translation_iso: kor
+    name: 토칸칭스 아수리니어
+    auto: true
   - translation_iso: por
     name: Língua asurini do Tocantins
+  - translation_iso: rus
+    name: Аквава
   - translation_iso: spa
     name: Akwawa
   - translation_iso: zho

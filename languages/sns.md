@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シエシップ語
     auto: true
+  - translation_iso: kor
+    name: 사우스웨스트 베이어
+    auto: true
   - translation_iso: por
     name: South West Bay
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتاك سيمالونْجون
     auto: true
+  - translation_iso: ben
+    name: বাতাক সিমালুনগুন
   - translation_iso: deu
     name: Batak Simalungun
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बाताक सिमालुंगुन
     auto: true
+  - translation_iso: ind
+    name: bahasa Batak Simalungun
   - translation_iso: jpn
     name: バタク・シマルングン語
+  - translation_iso: kor
+    name: 바탁 시말룽운어
+    auto: true
   - translation_iso: por
     name: Batak Simalungun
     auto: true

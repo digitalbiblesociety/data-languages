@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيريك
     auto: true
+  - translation_iso: ben
+    name: বেরিক
   - translation_iso: deu
     name: Berik
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेरिक
     auto: true
+  - translation_iso: ind
+    name: Sewan Teteris
   - translation_iso: jpn
     name: ベリク語
+    auto: true
+  - translation_iso: kor
+    name: 베리크어
     auto: true
   - translation_iso: por
     name: Berik

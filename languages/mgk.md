@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: मावेस
     auto: true
+  - translation_iso: ind
+    name: Mawes
   - translation_iso: jpn
     name: マウェス語
+    auto: true
+  - translation_iso: kor
+    name: 마웨스어
     auto: true
   - translation_iso: por
     name: Mawes
     auto: true
+  - translation_iso: rus
+    name: Мавес
   - translation_iso: spa
     name: Idioma mawes
   - translation_iso: zho

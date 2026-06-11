@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: セントラル・シエラ・ミウォク語
     auto: true
+  - translation_iso: kor
+    name: 중부 시에라 미워크어
+    auto: true
   - translation_iso: por
     name: Miwok da Sierra Central
     auto: true
+  - translation_iso: rus
+    name: центральный сьерра-мивокский язык
   - translation_iso: spa
     name: miwok de sierra central
   - translation_iso: zho

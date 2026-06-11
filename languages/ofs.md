@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الفريزية القديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন ফ্রিজীয়
   - translation_iso: deu
     name: Altfriesisch
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: hin
     name: प्राचीन फ़्रिज़ियन
     auto: true
+  - translation_iso: ind
+    name: Frisia Kuno
   - translation_iso: jpn
     name: 古フリジア語
   - translation_iso: kor
@@ -35,6 +39,8 @@ translations:
   - translation_iso: por
     name: frísio antigo
     auto: true
+  - translation_iso: rus
+    name: древнефризский язык
   - translation_iso: spa
     name: frisón antiguo
   - translation_iso: zho

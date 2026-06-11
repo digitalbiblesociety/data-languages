@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النيبالية
     auto: true
+  - translation_iso: ben
+    name: নেপালী ইশারা ভাষা
   - translation_iso: deu
     name: Nepali-Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     name: नेपाली सांकेतिक भाषा
   - translation_iso: jpn
     name: ネパール手話
+  - translation_iso: kor
+    name: 네팔 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais do Nepal
+  - translation_iso: rus
+    name: непальский жестовый язык
   - translation_iso: spa
     name: Lengua de Señas de Nepal
     auto: true

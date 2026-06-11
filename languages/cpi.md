@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中国ピジン語
+  - translation_iso: kor
+    name: 중국 피진 영어
+    auto: true
   - translation_iso: por
     name: Pidgin inglês chinês
     auto: true
+  - translation_iso: rus
+    name: Китайско-английский пиджин
   - translation_iso: spa
     name: Pidgin inglés chino
     auto: true

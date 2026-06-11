@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カリホナ語
     auto: true
+  - translation_iso: kor
+    name: 카리호나어
+    auto: true
   - translation_iso: por
     name: Língua karihona
+  - translation_iso: rus
+    name: Карихона
   - translation_iso: spa
     name: Idioma carijona
   - translation_iso: zho

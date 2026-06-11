@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वोरिया
     auto: true
+  - translation_iso: ind
+    name: Woria
   - translation_iso: jpn
     name: ウォリア語
+    auto: true
+  - translation_iso: kor
+    name: 워리아어
     auto: true
   - translation_iso: por
     name: Woria

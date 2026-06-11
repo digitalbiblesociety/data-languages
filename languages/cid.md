@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チマリコ語
+  - translation_iso: kor
+    name: 치마리코어
+    auto: true
   - translation_iso: por
     name: Chimariko
     auto: true
+  - translation_iso: rus
+    name: чимарико
   - translation_iso: spa
     name: Chimariko
   - translation_iso: zho

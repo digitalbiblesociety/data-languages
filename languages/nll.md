@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nihali_language"
 translations:
   - translation_iso: ara
     name: نيهالي
+  - translation_iso: ben
+    name: নিহালি ভাষা
   - translation_iso: deu
     name: Nahali
   - translation_iso: fra
@@ -29,6 +31,8 @@ translations:
     name: 니할리어
   - translation_iso: por
     name: Língua nihali
+  - translation_iso: rus
+    name: Нихали
   - translation_iso: spa
     name: nihali
   - translation_iso: zho

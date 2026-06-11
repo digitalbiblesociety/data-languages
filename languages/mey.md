@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: हसनिया अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Hassaniya
   - translation_iso: jpn
     name: アラビア語ハッサニア方言
   - translation_iso: kor
     name: 하사니아 아랍어
   - translation_iso: por
     name: Árabe hassani
+  - translation_iso: rus
+    name: Хассания
   - translation_iso: spa
     name: hassanía
   - translation_iso: zho

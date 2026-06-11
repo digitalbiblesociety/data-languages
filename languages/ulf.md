@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أوسكو
     auto: true
+  - translation_iso: ben
+    name: আফ্রা
   - translation_iso: deu
     name: Aframa
   - translation_iso: fra
@@ -24,11 +26,18 @@ translations:
   - translation_iso: hin
     name: उस्कु
     auto: true
+  - translation_iso: ind
+    name: Aframa
   - translation_iso: jpn
     name: アフラ語
     auto: true
+  - translation_iso: kor
+    name: 우스쿠어
+    auto: true
   - translation_iso: por
     name: Aframa
+  - translation_iso: rus
+    name: Уску
   - translation_iso: spa
     name: Idioma usku
   - translation_iso: zho

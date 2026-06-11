@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンヴィリ方言
+  - translation_iso: kor
+    name: 캄비리어
+    auto: true
   - translation_iso: por
     name: kamviri
     auto: true

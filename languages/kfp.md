@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كورا
     auto: true
+  - translation_iso: ben
+    name: কোরবা ভাষা
   - translation_iso: deu
     name: Korwa
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: कोरवा भाषा
   - translation_iso: jpn
     name: コルワ語
+  - translation_iso: kor
+    name: 코르와어
+    auto: true
   - translation_iso: por
     name: Korwa
     auto: true
+  - translation_iso: rus
+    name: Корва (язык)
   - translation_iso: spa
     name: Korwa
     auto: true

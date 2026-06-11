@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पादोए
     auto: true
+  - translation_iso: ind
+    name: Bahasa Padoe
   - translation_iso: jpn
     name: パドエ語
+    auto: true
+  - translation_iso: kor
+    name: 파도에어
     auto: true
   - translation_iso: por
     name: Língua padoe

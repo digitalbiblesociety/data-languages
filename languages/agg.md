@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغور
     auto: true
+  - translation_iso: ben
+    name: আঙ্গর
   - translation_iso: deu
     name: Angor
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンゴル語
+    auto: true
+  - translation_iso: kor
+    name: 앙고르어
     auto: true
   - translation_iso: por
     name: Angor

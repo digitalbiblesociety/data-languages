@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सांगाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sanggau
   - translation_iso: jpn
     name: バハササンガウ語
+    auto: true
+  - translation_iso: kor
+    name: 상가우어
     auto: true
   - translation_iso: por
     name: Sanggau

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मोर्टलॉकीज़
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mortlock
   - translation_iso: jpn
     name: モートロック語
+  - translation_iso: kor
+    name: 모틀록어
+    auto: true
   - translation_iso: por
     name: Língua mortlockesa
   - translation_iso: spa

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リリオ語
     auto: true
+  - translation_iso: kor
+    name: 리리오어
+    auto: true
   - translation_iso: por
     name: Ririo
     auto: true

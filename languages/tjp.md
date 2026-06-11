@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チュパニ語
     auto: true
+  - translation_iso: kor
+    name: 추파니어
+    auto: true
   - translation_iso: por
     name: Tjupany
     auto: true

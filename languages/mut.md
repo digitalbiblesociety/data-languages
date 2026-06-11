@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・ムリア語
     auto: true
+  - translation_iso: kor
+    name: 서부 무리아어
+    auto: true
   - translation_iso: por
     name: muria ocidental
     auto: true

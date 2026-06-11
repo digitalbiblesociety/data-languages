@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジャンバルプイング語
     auto: true
+  - translation_iso: kor
+    name: 잠바르푸잉구어
+    auto: true
   - translation_iso: por
     name: Djambarrpuyngu
     auto: true
+  - translation_iso: rus
+    name: Тямпаррпуйнгу
   - translation_iso: spa
     name: Djambarrpuyngu
     auto: true

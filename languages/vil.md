@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: ワカ語
     auto: true
+  - translation_iso: kor
+    name: 빌렐라어
+    auto: true
   - translation_iso: por
     name: Vilela
     auto: true
+  - translation_iso: rus
+    name: Вилела
   - translation_iso: spa
     name: Idioma vilela
   - translation_iso: zho

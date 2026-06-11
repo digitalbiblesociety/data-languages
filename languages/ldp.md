@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ツォ語
     auto: true
+  - translation_iso: kor
+    name: 초어
+    auto: true
   - translation_iso: por
     name: Tso
     auto: true
+  - translation_iso: rus
+    name: Цо
   - translation_iso: spa
     name: Tso
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・エパ語
     auto: true
+  - translation_iso: kor
+    name: 윅에파어
+    auto: true
   - translation_iso: por
     name: Wik-Epa
     auto: true

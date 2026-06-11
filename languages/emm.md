@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マムリク語
     auto: true
+  - translation_iso: kor
+    name: 마물리케어
+    auto: true
   - translation_iso: por
     name: Mamulique
     auto: true

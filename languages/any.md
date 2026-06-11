@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيين
     auto: true
+  - translation_iso: ben
+    name: আনিন
   - translation_iso: deu
     name: Anyin
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニ語
+  - translation_iso: kor
+    name: 아니어
+    auto: true
   - translation_iso: por
     name: anyin
   - translation_iso: spa

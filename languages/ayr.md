@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中央アイマラ語
+  - translation_iso: kor
+    name: 중앙 아이마라어
+    auto: true
   - translation_iso: por
     name: Aimará Central
     auto: true

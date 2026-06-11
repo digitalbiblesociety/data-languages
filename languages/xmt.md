@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मतबत
     auto: true
+  - translation_iso: ind
+    name: Matbat
   - translation_iso: jpn
     name: マトバット語
+  - translation_iso: kor
+    name: 마트바트어
+    auto: true
   - translation_iso: por
     name: Matbat
     auto: true

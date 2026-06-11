@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シハン語
     auto: true
+  - translation_iso: kor
+    name: 시한어
+    auto: true
   - translation_iso: por
     name: Sihan
     auto: true

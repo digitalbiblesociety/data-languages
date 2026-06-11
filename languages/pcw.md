@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Pyapun語
+  - translation_iso: kor
+    name: 피아푼어
+    auto: true
   - translation_iso: por
     name: Pyapun
     auto: true
+  - translation_iso: rus
+    name: Пьяпун
   - translation_iso: spa
     name: Pyapun
     auto: true

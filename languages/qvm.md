@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マルゴスヤロウィルカロウリコチャケチュア語
     auto: true
+  - translation_iso: kor
+    name: 마르고스야로윌카라우리코차 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Margos-Yarowilca-Lauricocha
     auto: true

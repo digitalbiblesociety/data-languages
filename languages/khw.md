@@ -27,12 +27,16 @@ translations:
     name: khowar
   - translation_iso: hin
     name: खोवार भाषा
+  - translation_iso: ind
+    name: Bahasa Khowar
   - translation_iso: jpn
     name: コワール語
   - translation_iso: kor
     name: 코와르어
   - translation_iso: por
     name: Língua khovar
+  - translation_iso: rus
+    name: кховар
   - translation_iso: spa
     name: Khowar
   - translation_iso: zho

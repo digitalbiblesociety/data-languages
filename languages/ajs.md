@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Jewish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة غرداية للإشارة
+  - translation_iso: ben
+    name: আলজেরীয় ইহুদি ইশারা ভাষা
   - translation_iso: deu
     name: Algerische jüdische Gebärdensprache
     auto: true
@@ -26,6 +28,9 @@ translations:
     name: अल्जीरियाई यहूदी सांकेतिक भाषा
   - translation_iso: jpn
     name: アルジェリア・ユダヤ・サイン・ランゲージ語
+    auto: true
+  - translation_iso: kor
+    name: 알제리 유대인 수어
     auto: true
   - translation_iso: por
     name: Língua de Sinais Judaica Argelina

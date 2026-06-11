@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rohingya_language"
 translations:
   - translation_iso: ara
     name: لغة روهينغية
+  - translation_iso: ben
+    name: রোহিঙ্গা
   - translation_iso: deu
     name: Rohingyalisch
   - translation_iso: fra
     name: langue rohingya
   - translation_iso: hin
     name: रोहिंग्या भाषा
+  - translation_iso: ind
+    name: Rohingya
   - translation_iso: jpn
     name: ロヒンギャ語
   - translation_iso: kor
     name: 로힝야어
   - translation_iso: por
     name: Língua rohingya
+  - translation_iso: rus
+    name: рохинджа
   - translation_iso: spa
     name: Rohinyá
   - translation_iso: zho

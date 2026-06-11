@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドゥムン語
     auto: true
+  - translation_iso: kor
+    name: 두문어
+    auto: true
   - translation_iso: por
     name: Dumun
     auto: true

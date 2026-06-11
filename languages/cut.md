@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テウティラ・クイカテク語
     auto: true
+  - translation_iso: kor
+    name: 테우틸라 쿠이카텍어
+    auto: true
   - translation_iso: por
     name: Cuicateco de Teutila
     auto: true

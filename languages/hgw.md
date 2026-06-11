@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ハイグワイ語
     auto: true
+  - translation_iso: kor
+    name: 하이과이어
+    auto: true
   - translation_iso: por
     name: Haigwai
     auto: true

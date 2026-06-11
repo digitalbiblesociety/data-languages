@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Asturian_language"
 translations:
   - translation_iso: ara
     name: الأشتورية
+  - translation_iso: ben
+    name: আস্তুরিয়
   - translation_iso: deu
     name: Asturisch
   - translation_iso: fra
     name: asturien
   - translation_iso: hin
     name: अस्तुरियन
+  - translation_iso: ind
+    name: Asturia
   - translation_iso: jpn
     name: アストゥリアス語
   - translation_iso: kor
     name: 아스투리아스어
   - translation_iso: por
     name: asturiano
+  - translation_iso: rus
+    name: астурийский
   - translation_iso: spa
     name: asturiano
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: 신다린
   - translation_iso: por
     name: Sindarin
+  - translation_iso: rus
+    name: синдарин
   - translation_iso: spa
     name: sindarin
   - translation_iso: zho

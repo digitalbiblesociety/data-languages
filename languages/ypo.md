@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة ألو فولا
     auto: true
+  - translation_iso: ben
+    name: আলো ফোলা
   - translation_iso: deu
     name: Alo Phola
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロフォラ語
+    auto: true
+  - translation_iso: kor
+    name: 알로 폴라어
     auto: true
   - translation_iso: por
     name: phola alo

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: कालुयानुन
     auto: true
+  - translation_iso: ind
+    name: Caluyanon
   - translation_iso: jpn
     name: カルヤヌン語
     auto: true
+  - translation_iso: kor
+    name: 칼루야눈어
+    auto: true
   - translation_iso: por
     name: Língua caluyanon
+  - translation_iso: rus
+    name: калуянунский язык
   - translation_iso: spa
     name: Caluyanun
     auto: true

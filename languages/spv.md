@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة سامبالبوري
     auto: true
+  - translation_iso: ben
+    name: সম্বলপুরী ভাষা
   - translation_iso: deu
     name: Sambalpuri
     auto: true
@@ -31,9 +33,14 @@ translations:
     name: सम्बलपुरी भाषा
   - translation_iso: jpn
     name: サンバルプリ語
+  - translation_iso: kor
+    name: 삼발푸리어
+    auto: true
   - translation_iso: por
     name: Sambalpuri
     auto: true
+  - translation_iso: rus
+    name: косли
   - translation_iso: spa
     name: Sambalpuri
     auto: true

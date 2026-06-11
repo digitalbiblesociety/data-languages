@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・パオ語
+  - translation_iso: kor
+    name: 타이 파오어
+    auto: true
   - translation_iso: por
     name: Tai Pao
     auto: true

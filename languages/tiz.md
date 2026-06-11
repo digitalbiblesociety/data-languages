@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 紅金タイ語
+  - translation_iso: kor
+    name: 타이 훙진어
+    auto: true
   - translation_iso: por
     name: Tai Hongjin
     auto: true

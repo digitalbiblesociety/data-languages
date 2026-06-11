@@ -34,6 +34,8 @@ translations:
     name: 포코맘어
   - translation_iso: por
     name: Língua pocomam
+  - translation_iso: rus
+    name: Покомам
   - translation_iso: spa
     name: pocomam
   - translation_iso: zho

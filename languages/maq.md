@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: チキウィトラン・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 치키위틀란 마사테코어
+    auto: true
   - translation_iso: por
     name: Língua chiquihuitlán mazatec
+  - translation_iso: rus
+    name: Чикиуитланский масатекский язык
   - translation_iso: spa
     name: Mazateco de Chiquihuitlán
     auto: true

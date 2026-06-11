@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كويكورو-كالابالو
     auto: true
+  - translation_iso: ben
+    name: আমোনাপ
   - translation_iso: deu
     name: Kuikúro-Kalapálo
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: クイクロ・カラパロ語
     auto: true
+  - translation_iso: kor
+    name: 쿠이쿠로칼라팔로어
+    auto: true
   - translation_iso: por
     name: Língua kalapalo
+  - translation_iso: rus
+    name: Амонап
   - translation_iso: spa
     name: Kuikúro-Kalapálo
     auto: true

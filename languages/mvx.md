@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मेओस्वार
     auto: true
+  - translation_iso: ind
+    name: Meoswar
   - translation_iso: jpn
     name: メオスワル語
+    auto: true
+  - translation_iso: kor
+    name: 메오스와르어
     auto: true
   - translation_iso: por
     name: Meoswar

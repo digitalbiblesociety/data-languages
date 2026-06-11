@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ドゥカ語
     auto: true
+  - translation_iso: kor
+    name: 우스사레어
+    auto: true
   - translation_iso: por
     name: us-Saare
     auto: true

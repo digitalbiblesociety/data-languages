@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セルマ語
     auto: true
+  - translation_iso: kor
+    name: 세르마어
+    auto: true
   - translation_iso: por
     name: Cerma
     auto: true

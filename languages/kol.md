@@ -32,6 +32,8 @@ translations:
   - translation_iso: por
     name: Kol (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: кол
   - translation_iso: spa
     name: Idioma kol
   - translation_iso: zho

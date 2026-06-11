@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابا
     auto: true
+  - translation_iso: ben
+    name: বাবা মালয়
   - translation_iso: deu
     name: Baba-Malaiisch
     auto: true
@@ -29,12 +31,19 @@ translations:
   - translation_iso: hin
     name: बाबा मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Baba
   - translation_iso: jpn
     name: ババ・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 바바 말레이어
     auto: true
   - translation_iso: por
     name: Malaio baba
     auto: true
+  - translation_iso: rus
+    name: баба малайский язык
   - translation_iso: spa
     name: Malayo Baba
     auto: true

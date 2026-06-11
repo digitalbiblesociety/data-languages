@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandar_language"
 translations:
   - translation_iso: ara
     name: لغة مندر
+  - translation_iso: ben
+    name: ম্যাণ্ডার
   - translation_iso: deu
     name: Mandar
   - translation_iso: fra
     name: mandar
   - translation_iso: hin
     name: मंदार
+  - translation_iso: ind
+    name: Mandar
   - translation_iso: jpn
     name: マンダル語
   - translation_iso: kor
     name: 만다르어
   - translation_iso: por
     name: Língua mandar
+  - translation_iso: rus
+    name: мандарский
   - translation_iso: spa
     name: mandar
   - translation_iso: zho

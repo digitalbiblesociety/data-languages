@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इसिनाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isinai
   - translation_iso: jpn
     name: イシナイ語
+  - translation_iso: kor
+    name: 이시나이어
+    auto: true
   - translation_iso: por
     name: Isinai
     auto: true

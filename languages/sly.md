@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: सेलायार
     auto: true
+  - translation_iso: ind
+    name: Selayar
   - translation_iso: jpn
     name: スラヤール語
+  - translation_iso: kor
+    name: 셀라야르어
+    auto: true
   - translation_iso: por
     name: Selayar
     auto: true
+  - translation_iso: rus
+    name: Селаярский язык
   - translation_iso: spa
     name: Selayar
     auto: true

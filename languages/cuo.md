@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマナゴト語
+  - translation_iso: kor
+    name: 쿠마나고토어
+    auto: true
   - translation_iso: por
     name: Cumanagoto
     auto: true
+  - translation_iso: rus
+    name: Куманагота
   - translation_iso: spa
     name: cumanagoto
   - translation_iso: zho

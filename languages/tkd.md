@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: तुकुदेदे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tocodede
   - translation_iso: jpn
     name: トコデデ語
+  - translation_iso: kor
+    name: 투쿠데데어
+    auto: true
   - translation_iso: por
     name: Língua tocodede
+  - translation_iso: rus
+    name: Токодеде
   - translation_iso: spa
     name: Tukudede
     auto: true

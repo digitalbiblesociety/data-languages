@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ハイスラ語
     auto: true
+  - translation_iso: kor
+    name: 하이슬라어
+    auto: true
   - translation_iso: por
     name: Língua haisla
+  - translation_iso: rus
+    name: Хаисла (язык)
   - translation_iso: spa
     name: idioma haisla
   - translation_iso: zho

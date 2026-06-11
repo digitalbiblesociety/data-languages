@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シベ語
     auto: true
+  - translation_iso: kor
+    name: 시베어
+    auto: true
   - translation_iso: por
     name: Sibe
     auto: true

@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: पेत्जो
     auto: true
+  - translation_iso: ind
+    name: Pecok
   - translation_iso: jpn
     name: ペティオ語
+    auto: true
+  - translation_iso: kor
+    name: 페초어
     auto: true
   - translation_iso: por
     name: Petjo
     auto: true
+  - translation_iso: rus
+    name: петджо
   - translation_iso: spa
     name: Criollo Petjo
   - translation_iso: zho

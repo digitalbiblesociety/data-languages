@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダカ語
+  - translation_iso: kor
+    name: 은다카어
+    auto: true
   - translation_iso: por
     name: Ndaka
     auto: true

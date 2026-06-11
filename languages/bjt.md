@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بالانتا جانجا
     auto: true
+  - translation_iso: ben
+    name: বলন্ত-গাঁজা
   - translation_iso: deu
     name: Balanta-Ganja
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バランタ・ガンジャ語
+    auto: true
+  - translation_iso: kor
+    name: 발란타·간자어
     auto: true
   - translation_iso: por
     name: Balanta-Ganja

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・ムノング語
     auto: true
+  - translation_iso: kor
+    name: 중부 므농어
+    auto: true
   - translation_iso: por
     name: Mnong central
     auto: true

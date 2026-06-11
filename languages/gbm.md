@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الجارهوالي
     auto: true
+  - translation_iso: ben
+    name: গাড়োয়ালী ভাষা
   - translation_iso: deu
     name: Garhwali
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 가르왈어
   - translation_iso: por
     name: Língua garhwali
+  - translation_iso: rus
+    name: гархвали
   - translation_iso: spa
     name: Garhwali
     auto: true

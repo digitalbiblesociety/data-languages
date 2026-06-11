@@ -26,12 +26,16 @@ translations:
   - translation_iso: hin
     name: कोगुरयो
     auto: true
+  - translation_iso: ind
+    name: Goguryeo
   - translation_iso: jpn
     name: 高句麗語
   - translation_iso: kor
     name: 고구려어
   - translation_iso: por
     name: Língua de Goguryeo
+  - translation_iso: rus
+    name: Когурё
   - translation_iso: spa
     name: Idioma goguryeo
   - translation_iso: zho

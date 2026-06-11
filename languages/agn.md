@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغوتايننيت
     auto: true
+  - translation_iso: ben
+    name: আগুতায়নেন
   - translation_iso: deu
     name: Agutaynen
     auto: true
@@ -33,8 +35,13 @@ translations:
   - translation_iso: jpn
     name: アグタイネン語
     auto: true
+  - translation_iso: kor
+    name: 아구타이넨어
+    auto: true
   - translation_iso: por
     name: Língua agutaynen
+  - translation_iso: rus
+    name: агутайнен
   - translation_iso: spa
     name: idioma agutaíno
   - translation_iso: zho

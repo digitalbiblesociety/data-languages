@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तिंदी
     auto: true
+  - translation_iso: ind
+    name: bahasa Tindi
   - translation_iso: jpn
     name: ティンディ語
   - translation_iso: kor
     name: 틴디어
   - translation_iso: por
     name: Língua tindi
+  - translation_iso: rus
+    name: тиндинский язык
   - translation_iso: spa
     name: Tindi
     auto: true

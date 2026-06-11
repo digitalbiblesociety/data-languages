@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プトゥクワム語
     auto: true
+  - translation_iso: kor
+    name: 푸투쾀어
+    auto: true
   - translation_iso: por
     name: Putukwam
     auto: true

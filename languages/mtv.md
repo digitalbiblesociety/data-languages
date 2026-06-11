@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أسارو
     auto: true
+  - translation_iso: ben
+    name: "আসারো'ও"
   - translation_iso: deu
     name: "Asaro'o"
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アサロオ語
+    auto: true
+  - translation_iso: kor
+    name: 아사로오어
     auto: true
   - translation_iso: por
     name: "Asaro'o"

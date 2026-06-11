@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リボン・ビコール語
+  - translation_iso: kor
+    name: 리본 비콜어
+    auto: true
   - translation_iso: por
     name: Bikol de Libon
     auto: true

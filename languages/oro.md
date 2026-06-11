@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オロコロ語
     auto: true
+  - translation_iso: kor
+    name: 오로콜로어
+    auto: true
   - translation_iso: por
     name: Orokolo
     auto: true

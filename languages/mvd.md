@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मम्बोरू
     auto: true
+  - translation_iso: ind
+    name: Mamboru
   - translation_iso: jpn
     name: マンボル語
+    auto: true
+  - translation_iso: kor
+    name: 맘보루어
     auto: true
   - translation_iso: por
     name: Mamboru

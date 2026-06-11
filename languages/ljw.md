@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イイランダリ語
     auto: true
+  - translation_iso: kor
+    name: 이란달리어
+    auto: true
   - translation_iso: por
     name: Yirandali
     auto: true

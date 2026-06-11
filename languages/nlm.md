@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンキヤリ語
     auto: true
+  - translation_iso: kor
+    name: 만키얄리어
+    auto: true
   - translation_iso: por
     name: Mankiyali
     auto: true

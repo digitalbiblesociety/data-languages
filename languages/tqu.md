@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバニアタ語
+  - translation_iso: kor
+    name: 토우오어
+    auto: true
   - translation_iso: por
     name: Touo
     auto: true
+  - translation_iso: rus
+    name: тоуо
   - translation_iso: spa
     name: Touo
     auto: true

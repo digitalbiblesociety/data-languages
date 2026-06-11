@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mediterranean_Lingua_Franca"
 translations:
   - translation_iso: ara
     name: صابر
+  - translation_iso: ben
+    name: ভূমধ্যসাগরীয় লিঙ্গুয়া ফ্রাঙ্কা
   - translation_iso: deu
     name: Sabir
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 地中海共通語
+  - translation_iso: kor
+    name: 링구아 프랑카
+    auto: true
   - translation_iso: por
     name: Língua Franca Mediterrânea
+  - translation_iso: rus
+    name: средиземноморский лингва-франка
   - translation_iso: spa
     name: sabir
   - translation_iso: zho

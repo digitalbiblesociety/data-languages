@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: देम्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Demta
   - translation_iso: jpn
     name: デムタ語
+    auto: true
+  - translation_iso: kor
+    name: 뎀타어
     auto: true
   - translation_iso: por
     name: Demta

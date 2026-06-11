@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ニンディ語
     auto: true
+  - translation_iso: kor
+    name: 닌디어
+    auto: true
   - translation_iso: por
     name: Nindi
     auto: true

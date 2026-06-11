@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: フォンゴロ語
     auto: true
+  - translation_iso: kor
+    name: 퐁고로어
+    auto: true
   - translation_iso: por
     name: Fongoro
     auto: true

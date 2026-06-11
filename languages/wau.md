@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワウラ語
+  - translation_iso: kor
+    name: 와우라어
+    auto: true
   - translation_iso: por
     name: uaurá
+  - translation_iso: rus
+    name: Ваура
   - translation_iso: spa
     name: waurá
   - translation_iso: zho

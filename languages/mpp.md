@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ミガバック語
     auto: true
+  - translation_iso: kor
+    name: 미가바크어
+    auto: true
   - translation_iso: por
     name: Migabac
     auto: true

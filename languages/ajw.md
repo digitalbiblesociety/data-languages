@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أجّاوا
     auto: true
+  - translation_iso: ben
+    name: আজাওয়া
   - translation_iso: deu
     name: Ajawa
     auto: true
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジャワ語
+  - translation_iso: kor
+    name: 아자와어
+    auto: true
   - translation_iso: por
     name: Ajawa
     auto: true
+  - translation_iso: rus
+    name: Аджава
   - translation_iso: spa
     name: Ajawa
     auto: true

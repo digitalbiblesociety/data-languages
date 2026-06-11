@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハユ語
+  - translation_iso: kor
+    name: 와유어
+    auto: true
   - translation_iso: por
     name: Wayu
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語
     auto: true
+  - translation_iso: kor
+    name: 코타마루두 탈란탕어
+    auto: true
   - translation_iso: por
     name: Kota Marudu Talantang
     auto: true

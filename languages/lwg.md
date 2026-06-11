@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワンガ語
+  - translation_iso: kor
+    name: 왕가어
+    auto: true
   - translation_iso: por
     name: Wanga
     auto: true

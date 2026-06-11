@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: काकचिकेल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kaqchikel
   - translation_iso: jpn
     name: カクチケル語
   - translation_iso: kor
     name: 칵치켈어
   - translation_iso: por
     name: Língua caqchiquel
+  - translation_iso: rus
+    name: Какчикельский язык
   - translation_iso: spa
     name: Kaqchikel
   - translation_iso: zho

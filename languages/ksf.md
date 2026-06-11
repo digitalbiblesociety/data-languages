@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bafia_language"
 translations:
   - translation_iso: ara
     name: لغة البافيا
+  - translation_iso: ben
+    name: বাফিয়া
   - translation_iso: deu
     name: Bafia
   - translation_iso: fra
     name: bafia
   - translation_iso: hin
     name: बफिआ
+  - translation_iso: ind
+    name: Bafia
   - translation_iso: jpn
     name: バフィア語
   - translation_iso: kor
     name: 바피아어
   - translation_iso: por
     name: bafia
+  - translation_iso: rus
+    name: бафия
   - translation_iso: spa
     name: bafia
   - translation_iso: zho

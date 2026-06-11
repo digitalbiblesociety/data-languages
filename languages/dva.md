@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥアウ語
+  - translation_iso: kor
+    name: 두아우어
+    auto: true
   - translation_iso: por
     name: Duau
     auto: true

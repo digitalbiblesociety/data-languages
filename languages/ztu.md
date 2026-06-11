@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: グイラ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 귈라 사포텍어
+    auto: true
   - translation_iso: por
     name: Língua guilá zapoteco
+  - translation_iso: rus
+    name: Гюиланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Güilá
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: 上部タナナ語
     auto: true
+  - translation_iso: kor
+    name: 고지 타나나어
+    auto: true
   - translation_iso: por
     name: Língua tanana superior
+  - translation_iso: rus
+    name: Верхний танана
   - translation_iso: spa
     name: nabesna
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラモガイ語
+  - translation_iso: kor
+    name: 라모가이어
+    auto: true
   - translation_iso: por
     name: Lamogai
     auto: true

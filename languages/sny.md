@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヒオウェ語
     auto: true
+  - translation_iso: kor
+    name: 사니요히예웨어
+    auto: true
   - translation_iso: por
     name: Saniyo-Hiyewe
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンガリ語
+  - translation_iso: kor
+    name: 쾅갈리어
+    auto: true
   - translation_iso: por
     name: Kwangali
   - translation_iso: spa

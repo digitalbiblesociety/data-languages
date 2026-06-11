@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レウォ語
+  - translation_iso: kor
+    name: 레워어
+    auto: true
   - translation_iso: por
     name: Lewo
     auto: true

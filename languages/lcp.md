@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 西ラワ語
     auto: true
+  - translation_iso: kor
+    name: 서부 라와어
+    auto: true
   - translation_iso: por
     name: Lawa ocidental
     auto: true

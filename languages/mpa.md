@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムポト語
     auto: true
+  - translation_iso: kor
+    name: 음포토어
+    auto: true
   - translation_iso: por
     name: Mpoto
     auto: true

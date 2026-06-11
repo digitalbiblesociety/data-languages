@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コランジェ語
     auto: true
+  - translation_iso: kor
+    name: 코란제어
+    auto: true
   - translation_iso: por
     name: Korandje
     auto: true

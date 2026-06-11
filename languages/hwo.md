@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: フアナ語
     auto: true
+  - translation_iso: kor
+    name: 화나어
+    auto: true
   - translation_iso: por
     name: Língua hwana
+  - translation_iso: rus
+    name: Хона
   - translation_iso: spa
     name: Idioma hwana
   - translation_iso: zho

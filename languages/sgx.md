@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シエラレオネ手話
+  - translation_iso: kor
+    name: 시에라리온 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Serra Leoa
   - translation_iso: spa

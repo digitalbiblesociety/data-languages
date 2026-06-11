@@ -30,8 +30,13 @@ translations:
     name: कैक्विंटे
   - translation_iso: jpn
     name: カキンテ語
+  - translation_iso: kor
+    name: 카킨테어
+    auto: true
   - translation_iso: por
     name: caquinte
+  - translation_iso: rus
+    name: Какинте
   - translation_iso: spa
     name: caquinte
   - translation_iso: zho

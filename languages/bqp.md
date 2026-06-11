@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブサ語
     auto: true
+  - translation_iso: kor
+    name: 부사어
+    auto: true
   - translation_iso: por
     name: Língua bisã
   - translation_iso: spa

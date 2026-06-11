@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マサディイト・イトネグ語
     auto: true
+  - translation_iso: kor
+    name: 마사디트 이트네그어
+    auto: true
   - translation_iso: por
     name: Itneg Masadiit
     auto: true

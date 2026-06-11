@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モラワ語
     auto: true
+  - translation_iso: kor
+    name: 모라와어
+    auto: true
   - translation_iso: por
     name: Morawa
     auto: true

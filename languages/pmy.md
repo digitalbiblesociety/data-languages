@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: पापुआन मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Papua
   - translation_iso: jpn
     name: パプア・マレー語
+  - translation_iso: kor
+    name: 파푸아 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio Papua
     auto: true
+  - translation_iso: rus
+    name: папуанский малайский язык
   - translation_iso: spa
     name: Malayo papú
     auto: true

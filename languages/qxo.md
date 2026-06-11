@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南コンチュコスアンカシュケチュア語
     auto: true
+  - translation_iso: kor
+    name: 남부 콘추코스 앙카시 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Conchucos Ancash do Sul
     auto: true

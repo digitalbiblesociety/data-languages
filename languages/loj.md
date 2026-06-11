@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロウ語
     auto: true
+  - translation_iso: kor
+    name: 로우어
+    auto: true
   - translation_iso: por
     name: Lou
     auto: true

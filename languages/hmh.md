@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西部恵水フモン語
+  - translation_iso: kor
+    name: 남서 후이수이 몽어
+    auto: true
   - translation_iso: por
     name: Hmong Huishui do Sudoeste
     auto: true

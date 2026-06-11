@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ペイ語
     auto: true
+  - translation_iso: kor
+    name: 페이어
+    auto: true
   - translation_iso: por
     name: Pei
     auto: true

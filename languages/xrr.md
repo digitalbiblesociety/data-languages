@@ -25,12 +25,16 @@ translations:
   - translation_iso: hin
     name: रेइटिक
     auto: true
+  - translation_iso: ind
+    name: Raetia
   - translation_iso: jpn
     name: ラエティア語
   - translation_iso: kor
     name: 라이티아어
   - translation_iso: por
     name: Língua récia
+  - translation_iso: rus
+    name: ретский язык
   - translation_iso: spa
     name: rético
   - translation_iso: zho

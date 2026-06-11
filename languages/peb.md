@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: पूर्वी पोमो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pomo Timur
   - translation_iso: jpn
     name: 東ポモ語
+    auto: true
+  - translation_iso: kor
+    name: 동부 포모어
     auto: true
   - translation_iso: por
     name: Pomo Oriental
     auto: true
+  - translation_iso: rus
+    name: Восточный помо
   - translation_iso: spa
     name: Pomo oriental
     auto: true

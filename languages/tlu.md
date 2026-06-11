@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: तुलेहु
     auto: true
+  - translation_iso: ind
+    name: Tulehu
   - translation_iso: jpn
     name: トゥレフ語
+    auto: true
+  - translation_iso: kor
+    name: 툴레후어
     auto: true
   - translation_iso: por
     name: Tulehu

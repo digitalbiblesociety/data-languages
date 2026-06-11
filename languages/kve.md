@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カラバカン語
     auto: true
+  - translation_iso: kor
+    name: 칼라바칸어
+    auto: true
   - translation_iso: por
     name: Kalabakan
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リマッサ語
     auto: true
+  - translation_iso: kor
+    name: 리마사어
+    auto: true
   - translation_iso: por
     name: Limassa
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पेराई
     auto: true
+  - translation_iso: ind
+    name: Perai
   - translation_iso: jpn
     name: ペライ語
+    auto: true
+  - translation_iso: kor
+    name: 페라이어
     auto: true
   - translation_iso: por
     name: Perai

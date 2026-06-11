@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サリナ語
+  - translation_iso: kor
+    name: 살리난어
+    auto: true
   - translation_iso: por
     name: Salinan
     auto: true
+  - translation_iso: rus
+    name: салинский язык
   - translation_iso: spa
     name: Salinero
   - translation_iso: zho

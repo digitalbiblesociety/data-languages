@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرابيلا
     auto: true
+  - translation_iso: ben
+    name: আরাবেলা
   - translation_iso: deu
     name: Arabela
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラベラ語
+  - translation_iso: kor
+    name: 아라벨라어
+    auto: true
   - translation_iso: por
     name: arabela
+  - translation_iso: rus
+    name: Арабела
   - translation_iso: spa
     name: arabela
   - translation_iso: zho

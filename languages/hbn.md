@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヘイバン語
     auto: true
+  - translation_iso: kor
+    name: 헤이반어
+    auto: true
   - translation_iso: por
     name: Heiban
     auto: true

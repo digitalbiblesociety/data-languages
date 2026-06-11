@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テム語
+  - translation_iso: kor
+    name: 템어
+    auto: true
   - translation_iso: por
     name: Língua tem
+  - translation_iso: rus
+    name: котоколи
   - translation_iso: spa
     name: Idioma tem
   - translation_iso: zho

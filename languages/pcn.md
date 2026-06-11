@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピティ語
+  - translation_iso: kor
+    name: 피티어
+    auto: true
   - translation_iso: por
     name: Piti
     auto: true

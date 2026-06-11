@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बिंताउना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bintauna
   - translation_iso: jpn
     name: ビンタウナ語
+  - translation_iso: kor
+    name: 빈타우나어
+    auto: true
   - translation_iso: por
     name: Bintauna
     auto: true

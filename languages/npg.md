@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ポンヨ・ゴングワン・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 포뇨공왕 나가어
+    auto: true
   - translation_iso: por
     name: Naga Ponyo-Gongwang
     auto: true

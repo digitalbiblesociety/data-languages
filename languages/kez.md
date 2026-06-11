@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クケレ語
     auto: true
+  - translation_iso: kor
+    name: 쿠켈레어
+    auto: true
   - translation_iso: por
     name: Kukele
     auto: true

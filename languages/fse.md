@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Finnish
     auto: true
+  - translation_iso: ben
+    name: ফিনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Finnische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: फिनिश साइन लैंग्वेज
   - translation_iso: jpn
     name: フィンランド手話
+  - translation_iso: kor
+    name: 핀란드 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais finlandesa
+  - translation_iso: rus
+    name: финский жестовый язык
   - translation_iso: spa
     name: Lengua de señas finlandesa
     auto: true

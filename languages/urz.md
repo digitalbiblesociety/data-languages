@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カワヒブ語
     auto: true
+  - translation_iso: kor
+    name: 우루에우와우와우어
+    auto: true
   - translation_iso: por
     name: Dialeto uru-eu-uau-uau
   - translation_iso: spa

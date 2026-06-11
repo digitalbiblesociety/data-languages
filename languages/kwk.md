@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwak%CA%BCwala"
 translations:
   - translation_iso: ara
     name: الكواكوالا
+  - translation_iso: ben
+    name: কোয়াক’ওয়ালা
   - translation_iso: deu
     name: "Kwak'wala"
   - translation_iso: fra
     name: "kwak'wala"
   - translation_iso: hin
     name: क्वॉकवाला
+  - translation_iso: ind
+    name: Kwakʼwala
   - translation_iso: jpn
     name: クヮキゥートル語
   - translation_iso: kor
     name: 콰콸라어
   - translation_iso: por
     name: kwakʼwala
+  - translation_iso: rus
+    name: квакиутль
   - translation_iso: spa
     name: kwakʼwala
   - translation_iso: zho

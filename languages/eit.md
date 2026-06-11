@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإيتيب
     auto: true
+  - translation_iso: ben
+    name: এইতিয়েপ
   - translation_iso: deu
     name: Eitiep
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エイティエプ語
+    auto: true
+  - translation_iso: kor
+    name: 에이티엡어
     auto: true
   - translation_iso: por
     name: Eitiep

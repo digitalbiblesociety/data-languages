@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンパル語
     auto: true
+  - translation_iso: kor
+    name: 왐파르어
+    auto: true
   - translation_iso: por
     name: Wampar
     auto: true

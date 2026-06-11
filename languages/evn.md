@@ -34,6 +34,8 @@ translations:
     name: 에벤키어
   - translation_iso: por
     name: Língua evenki
+  - translation_iso: rus
+    name: эвенкийский язык
   - translation_iso: spa
     name: Idioma evenki
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケサワイ語
     auto: true
+  - translation_iso: kor
+    name: 케사와이어
+    auto: true
   - translation_iso: por
     name: Kesawai
     auto: true

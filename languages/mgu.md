@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マイル語
     auto: true
+  - translation_iso: kor
+    name: 마일루어
+    auto: true
   - translation_iso: por
     name: Mailu
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makonde_language"
 translations:
   - translation_iso: ara
     name: ماكونده
+  - translation_iso: ben
+    name: মাকোন্দে
   - translation_iso: deu
     name: Chimakonde
   - translation_iso: fra
     name: makonde
   - translation_iso: hin
     name: मैकोंड
+  - translation_iso: ind
+    name: Makonde
   - translation_iso: jpn
     name: マコンデ語
   - translation_iso: kor
     name: 마콘데어
   - translation_iso: por
     name: Língua maconde
+  - translation_iso: rus
+    name: маконде
   - translation_iso: spa
     name: Idioma makonde
   - translation_iso: zho

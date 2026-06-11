@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サザンロロポ語
     auto: true
+  - translation_iso: kor
+    name: 남부 롤로포어
+    auto: true
   - translation_iso: por
     name: lolopo do sul
     auto: true

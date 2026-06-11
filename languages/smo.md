@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samoan_language"
 translations:
   - translation_iso: ara
     name: الساموية
+  - translation_iso: ben
+    name: সামোয়ান
   - translation_iso: deu
     name: Samoanisch
   - translation_iso: fra
     name: samoan
   - translation_iso: hin
     name: सामोन
+  - translation_iso: ind
+    name: Samoa
   - translation_iso: jpn
     name: サモア語
   - translation_iso: kor
     name: 사모아어
   - translation_iso: por
     name: Língua samoana
+  - translation_iso: rus
+    name: самоанский
   - translation_iso: spa
     name: samoano
   - translation_iso: zho

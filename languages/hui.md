@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: हुली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Huli
   - translation_iso: jpn
     name: フリ語
+  - translation_iso: kor
+    name: 훌리어
+    auto: true
   - translation_iso: por
     name: Língua huli
+  - translation_iso: rus
+    name: Хули
   - translation_iso: spa
     name: Huli
     auto: true

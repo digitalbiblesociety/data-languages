@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنسيرما
     auto: true
+  - translation_iso: ben
+    name: আনসের্মা
   - translation_iso: deu
     name: Anserma
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アンセルマ語
     auto: true
+  - translation_iso: kor
+    name: 안세르마어
+    auto: true
   - translation_iso: por
     name: Língua unga
+  - translation_iso: rus
+    name: Ансерма
   - translation_iso: spa
     name: idioma anserma
   - translation_iso: zho

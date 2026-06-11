@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タングアット語
     auto: true
+  - translation_iso: kor
+    name: 탕구아트어
+    auto: true
   - translation_iso: por
     name: Tanguat
     auto: true

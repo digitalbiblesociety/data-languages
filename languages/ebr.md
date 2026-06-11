@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エブリエ語
+  - translation_iso: kor
+    name: 에브리에어
+    auto: true
   - translation_iso: por
     name: Língua ebrié
+  - translation_iso: rus
+    name: эбрие
   - translation_iso: spa
     name: Ebrié
     auto: true

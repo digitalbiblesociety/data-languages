@@ -21,16 +21,25 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Parthian_language"
 translations:
   - translation_iso: ara
     name: لغة فرثية
+  - translation_iso: ben
+    name: পহ্লবি ভাষা
   - translation_iso: deu
     name: Parthisch
   - translation_iso: fra
     name: parthe
   - translation_iso: hin
     name: पहलवी भाषा
+  - translation_iso: ind
+    name: Parthia
   - translation_iso: jpn
     name: パルティア語
+  - translation_iso: kor
+    name: 파르티아어
+    auto: true
   - translation_iso: por
     name: Língua parta
+  - translation_iso: rus
+    name: парфянский язык
   - translation_iso: spa
     name: parto
   - translation_iso: zho

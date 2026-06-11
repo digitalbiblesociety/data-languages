@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: أرانما-تاميك
     auto: true
+  - translation_iso: ben
+    name: আরানামা
   - translation_iso: deu
     name: Aranama-Tamique
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラナマ・タミーク語
+    auto: true
+  - translation_iso: kor
+    name: 아라나마·타미케어
     auto: true
   - translation_iso: por
     name: Aranama-Tamique

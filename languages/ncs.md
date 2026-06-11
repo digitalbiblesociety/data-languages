@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النيكاراغوية
+  - translation_iso: ben
+    name: নিকারাগুয়া ইশারা ভাষা
   - translation_iso: deu
     name: Nicaraguanische Gebärdensprache
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: निकारागुआई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Nikaragua
   - translation_iso: jpn
     name: ニカラグア手話
   - translation_iso: kor
     name: 니카라과 수화
   - translation_iso: por
     name: língua de sinais nicaraguense
+  - translation_iso: rus
+    name: никарагуанский жестовый язык
   - translation_iso: spa
     name: lengua de señas de Nicaragua
   - translation_iso: zho

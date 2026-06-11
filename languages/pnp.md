@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पंचना
     auto: true
+  - translation_iso: ind
+    name: Pancana
   - translation_iso: jpn
     name: パンカナ語
+    auto: true
+  - translation_iso: kor
+    name: 판카나어
     auto: true
   - translation_iso: por
     name: Pancana

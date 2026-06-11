@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ロング語
     auto: true
+  - translation_iso: kor
+    name: 롱토어
+    auto: true
   - translation_iso: por
     name: Longto
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: ग्रो वांत्र
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gros Ventre
   - translation_iso: jpn
     name: グロー・ヴァントル語
+  - translation_iso: kor
+    name: 그로방트르어
+    auto: true
   - translation_iso: por
     name: Gros Ventre
     auto: true
+  - translation_iso: rus
+    name: Гро-вантр
   - translation_iso: spa
     name: Gros Ventre
     auto: true

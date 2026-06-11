@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: चुत
     auto: true
+  - translation_iso: ind
+    name: Chut
   - translation_iso: jpn
     name: チュット語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Chut
     auto: true
+  - translation_iso: rus
+    name: тьыт
   - translation_iso: spa
     name: Chut
     auto: true

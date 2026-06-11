@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أوبانج
     auto: true
+  - translation_iso: ben
+    name: উবাং ভাষা
   - translation_iso: deu
     name: Ubang
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウバンゴ語
+    auto: true
+  - translation_iso: kor
+    name: 우방어
     auto: true
   - translation_iso: por
     name: Língua ubang

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イク語
+  - translation_iso: kor
+    name: 이크어
+    auto: true
   - translation_iso: por
     name: Língua ik
+  - translation_iso: rus
+    name: Ик (язык)
   - translation_iso: spa
     name: Idioma ik
   - translation_iso: zho

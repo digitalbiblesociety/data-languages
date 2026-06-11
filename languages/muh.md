@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムンドゥ語
     auto: true
+  - translation_iso: kor
+    name: 문두어
+    auto: true
   - translation_iso: por
     name: Mündü
     auto: true

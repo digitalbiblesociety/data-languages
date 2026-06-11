@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: مين فرانكنكش
     auto: true
+  - translation_iso: ben
+    name: মাইন-ফ্রাঙ্কোনীয় উপভাষাসমূহ
   - translation_iso: deu
     name: Mainfränkisch
   - translation_iso: fra
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Francônio Oriental
     auto: true
+  - translation_iso: rus
+    name: Майнфранкские диалекты
   - translation_iso: spa
     name: Fráncico del Meno
   - translation_iso: zho

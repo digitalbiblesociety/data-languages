@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: वेलाउन
     auto: true
+  - translation_iso: ind
+    name: bahasa Welaun
   - translation_iso: jpn
     name: ベカイス語
+  - translation_iso: kor
+    name: 웰라운어
+    auto: true
   - translation_iso: por
     name: Welaun
     auto: true
+  - translation_iso: rus
+    name: Велаун (язык)
   - translation_iso: spa
     name: Welaun
     auto: true

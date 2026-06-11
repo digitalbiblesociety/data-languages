@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Sorbian_language"
 translations:
   - translation_iso: ara
     name: الصوربية السفلى
+  - translation_iso: ben
+    name: সোর্বিয়ান (নিম্নতর)
   - translation_iso: deu
     name: Niedersorbisch
   - translation_iso: fra
     name: bas-sorabe
   - translation_iso: hin
     name: निचला सॉर्बियन
+  - translation_iso: ind
+    name: Sorbia Hilir
   - translation_iso: jpn
     name: 低地ソルブ語
   - translation_iso: kor
     name: 저지 소르브어
   - translation_iso: por
     name: baixo sorábio
+  - translation_iso: rus
+    name: нижнелужицкий
   - translation_iso: spa
     name: bajo sorabo
   - translation_iso: zho

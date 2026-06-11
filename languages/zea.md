@@ -34,6 +34,8 @@ translations:
     name: 제일란트어
   - translation_iso: por
     name: zeêuws
+  - translation_iso: rus
+    name: зеландский диалект
   - translation_iso: spa
     name: zelandés
   - translation_iso: zho

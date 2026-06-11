@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビンダル
+  - translation_iso: kor
+    name: 빈달어
+    auto: true
   - translation_iso: por
     name: Bindal
     auto: true

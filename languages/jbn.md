@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナフサ語
+  - translation_iso: kor
+    name: 나푸시어
+    auto: true
   - translation_iso: por
     name: Nafusi
     auto: true
+  - translation_iso: rus
+    name: нафуси
   - translation_iso: spa
     name: Idioma nafusi
   - translation_iso: zho

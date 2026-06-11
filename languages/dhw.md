@@ -30,6 +30,9 @@ translations:
     name: दनुवार भाषा
   - translation_iso: jpn
     name: ダヌワール族
+  - translation_iso: kor
+    name: 단와르어
+    auto: true
   - translation_iso: por
     name: Língua danwar
   - translation_iso: spa

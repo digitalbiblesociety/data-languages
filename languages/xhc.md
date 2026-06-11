@@ -21,12 +21,16 @@ translations:
   - translation_iso: hin
     name: हुणिक
     auto: true
+  - translation_iso: ind
+    name: bahasa Hun
   - translation_iso: jpn
     name: フン語
   - translation_iso: kor
     name: 훈어
   - translation_iso: por
     name: Língua huna
+  - translation_iso: rus
+    name: гуннский язык
   - translation_iso: spa
     name: Idioma huno
   - translation_iso: zho

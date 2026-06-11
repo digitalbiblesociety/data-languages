@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パパル語
     auto: true
+  - translation_iso: kor
+    name: 파파르어
+    auto: true
   - translation_iso: por
     name: Papar
     auto: true

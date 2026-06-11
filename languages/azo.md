@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوينج
     auto: true
+  - translation_iso: ben
+    name: আউইং
   - translation_iso: deu
     name: Awing
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウィング語
+    auto: true
+  - translation_iso: kor
+    name: 아윙어
     auto: true
   - translation_iso: por
     name: Língua awing

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チェマクム語
     auto: true
+  - translation_iso: kor
+    name: 체마쿰어
+    auto: true
   - translation_iso: por
     name: Chemakum
     auto: true

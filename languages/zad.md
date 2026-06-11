@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: カホノス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 카호노스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Cajonos
     auto: true
+  - translation_iso: rus
+    name: Кахоносский сапотекский язык
   - translation_iso: spa
     name: Zapoteco cajono
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メンカ語
     auto: true
+  - translation_iso: kor
+    name: 멘카어
+    auto: true
   - translation_iso: por
     name: Menka
     auto: true

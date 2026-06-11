@@ -34,6 +34,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ヒンドコー語
     auto: true
+  - translation_iso: kor
+    name: 남부 힌드코어
+    auto: true
   - translation_iso: por
     name: Hindko do Sul
     auto: true

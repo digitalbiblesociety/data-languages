@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ディジン語
     auto: true
+  - translation_iso: kor
+    name: 디진어
+    auto: true
   - translation_iso: por
     name: Língua dizin
+  - translation_iso: rus
+    name: Дизи (язык)
   - translation_iso: spa
     name: Idioma dizi
   - translation_iso: zho

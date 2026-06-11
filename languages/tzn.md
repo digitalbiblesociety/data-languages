@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तुगुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tugun
   - translation_iso: jpn
     name: ウェタル語
+    auto: true
+  - translation_iso: kor
+    name: 투군어
     auto: true
   - translation_iso: por
     name: Tugun

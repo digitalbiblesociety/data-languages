@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أتامپايا
     auto: true
+  - translation_iso: ben
+    name: আতামপায়া
   - translation_iso: deu
     name: Atampaya
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタンパヤ語
+    auto: true
+  - translation_iso: kor
+    name: 아탐파야어
     auto: true
   - translation_iso: por
     name: Atampaya

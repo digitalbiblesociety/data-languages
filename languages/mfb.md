@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة بانجكا
     auto: true
+  - translation_iso: ben
+    name: বাংকা মালয়
   - translation_iso: deu
     name: Bangka
   - translation_iso: fra
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: बांगका
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bangka
   - translation_iso: jpn
     name: バンカ語
+  - translation_iso: kor
+    name: 방카어
+    auto: true
   - translation_iso: por
     name: Bangka
     auto: true
+  - translation_iso: rus
+    name: Банка
   - translation_iso: spa
     name: Bangka
     auto: true

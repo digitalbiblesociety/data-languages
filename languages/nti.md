@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナティオロ語
     auto: true
+  - translation_iso: kor
+    name: 나티오로어
+    auto: true
   - translation_iso: por
     name: Natioro
     auto: true

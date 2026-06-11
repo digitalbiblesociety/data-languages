@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: गलोलेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Galolen
   - translation_iso: jpn
     name: ガロリ語
+  - translation_iso: kor
+    name: 갈롤렌어
+    auto: true
   - translation_iso: por
     name: Língua galóli
   - translation_iso: spa

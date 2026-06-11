@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マムシ語
+  - translation_iso: kor
+    name: 마무시어
+    auto: true
   - translation_iso: por
     name: Mamusi
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तब्ला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tabla
   - translation_iso: jpn
     name: タブラ語
+    auto: true
+  - translation_iso: kor
+    name: 타블라어
     auto: true
   - translation_iso: por
     name: Tabla

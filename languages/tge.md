@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語
     auto: true
+  - translation_iso: kor
+    name: 동부 고르카 타망어
+    auto: true
   - translation_iso: por
     name: Tamang de Gorkha Oriental
     auto: true

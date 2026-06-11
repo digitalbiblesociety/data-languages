@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: कायकावी साहित्यिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Kajkavia
   - translation_iso: jpn
     name: カイ方言
+  - translation_iso: kor
+    name: 카이카비아 문어
+    auto: true
   - translation_iso: por
     name: língua literária caicaviana
     auto: true
+  - translation_iso: rus
+    name: Кайкавское наречие
   - translation_iso: spa
     name: caicavo
   - translation_iso: zho

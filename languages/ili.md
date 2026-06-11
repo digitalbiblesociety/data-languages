@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ili_Turki_language"
 translations:
   - translation_iso: ara
     name: لغة إيلي التركية
+  - translation_iso: ben
+    name: ইলি তুর্কি ভাষা
   - translation_iso: deu
     name: Ili Turki
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリ・チュルク語
+  - translation_iso: kor
+    name: 일리 튀르크어
+    auto: true
   - translation_iso: por
     name: Língua ili turki
+  - translation_iso: rus
+    name: или-тюркский язык
   - translation_iso: spa
     name: Ili Turki
     auto: true

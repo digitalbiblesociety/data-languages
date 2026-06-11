@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Czech_language"
 translations:
   - translation_iso: ara
     name: التشيكية
+  - translation_iso: ben
+    name: চেক
   - translation_iso: deu
     name: Tschechisch
   - translation_iso: fra
     name: tchèque
   - translation_iso: hin
     name: चॅक भाषा
+  - translation_iso: ind
+    name: Ceko
   - translation_iso: jpn
     name: チェコ語
   - translation_iso: kor
     name: 체코어
   - translation_iso: por
     name: checo
+  - translation_iso: rus
+    name: чешский
   - translation_iso: spa
     name: checo
   - translation_iso: zho

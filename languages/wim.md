@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィク・ムンカン語
+  - translation_iso: kor
+    name: 윅뭉칸어
+    auto: true
   - translation_iso: por
     name: Wik-Mungkan
     auto: true
+  - translation_iso: rus
+    name: Вик-мунгкан
   - translation_iso: spa
     name: idioma wik-mungkan
   - translation_iso: zho

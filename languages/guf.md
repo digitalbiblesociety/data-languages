@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: グパプユングゥ語
     auto: true
+  - translation_iso: kor
+    name: 구파푸잉우어
+    auto: true
   - translation_iso: por
     name: Gupapuyngu
     auto: true
+  - translation_iso: rus
+    name: купапунгю
   - translation_iso: spa
     name: Gupapuyngu
     auto: true

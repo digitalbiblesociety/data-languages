@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドクシ語
     auto: true
+  - translation_iso: kor
+    name: 독시어
+    auto: true
   - translation_iso: por
     name: Dokshi
     auto: true

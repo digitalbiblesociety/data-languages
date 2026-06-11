@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: キサンカサ語
     auto: true
+  - translation_iso: kor
+    name: 키산카사어
+    auto: true
   - translation_iso: por
     name: Kisankasa
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ルクバ語
     auto: true
+  - translation_iso: kor
+    name: 체어
+    auto: true
   - translation_iso: por
     name: Che
     auto: true

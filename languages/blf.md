@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुओल
     auto: true
+  - translation_iso: ind
+    name: bahasa Buol
   - translation_iso: jpn
     name: ブオル語
+    auto: true
+  - translation_iso: kor
+    name: 부올어
     auto: true
   - translation_iso: por
     name: Buol

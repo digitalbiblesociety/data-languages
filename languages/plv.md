@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南西パラワーノ語
     auto: true
+  - translation_iso: kor
+    name: 남서 팔라와노어
+    auto: true
   - translation_iso: por
     name: Palawano Sudoeste
     auto: true

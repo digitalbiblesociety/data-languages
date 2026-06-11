@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングングウェル語
     auto: true
+  - translation_iso: kor
+    name: 응웅웰어
+    auto: true
   - translation_iso: por
     name: Ngungwel
     auto: true

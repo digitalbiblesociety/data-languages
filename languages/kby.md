@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語
+  - translation_iso: kor
+    name: 망가 카누리어
+    auto: true
   - translation_iso: por
     name: Kanuri Manga
     auto: true

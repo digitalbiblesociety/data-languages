@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सिसाल्पाइन गॉलिश
     auto: true
+  - translation_iso: ind
+    name: Bahasa Galia Cisalpina
   - translation_iso: jpn
     name: シスアルパイン・ゴール語
+  - translation_iso: kor
+    name: 키살피나 갈리아어
+    auto: true
   - translation_iso: por
     name: Gaulês Cisalpino
     auto: true

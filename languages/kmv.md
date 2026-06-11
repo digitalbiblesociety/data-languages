@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カリプナ語
+  - translation_iso: kor
+    name: 카리푸나 프랑스 크리올어
+    auto: true
   - translation_iso: por
     name: Dialeto caripuna
   - translation_iso: spa

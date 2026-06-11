@@ -28,8 +28,13 @@ translations:
     name: chilisso
   - translation_iso: hin
     name: चीलीस्सो भाषा
+  - translation_iso: ind
+    name: Chilisso
   - translation_iso: jpn
     name: チリッソ語
+  - translation_iso: kor
+    name: 칠리소어
+    auto: true
   - translation_iso: por
     name: Chilisso
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒダッサ語
+  - translation_iso: kor
+    name: 히다차어
+    auto: true
   - translation_iso: por
     name: Língua hidatsa
+  - translation_iso: rus
+    name: хидатса
   - translation_iso: spa
     name: Hidatsa
   - translation_iso: zho

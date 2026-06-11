@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: ओर्मुरी
     auto: true
+  - translation_iso: ind
+    name: bahasa Ormur
   - translation_iso: jpn
     name: オルムル語
+  - translation_iso: kor
+    name: 오르무리어
+    auto: true
   - translation_iso: por
     name: Língua ormuri
+  - translation_iso: rus
+    name: ормури
   - translation_iso: spa
     name: Ormuri
   - translation_iso: zho

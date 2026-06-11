@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリ語
+  - translation_iso: kor
+    name: 마리어
+    auto: true
   - translation_iso: por
     name: Mari (Província de Sepik Oriental)
     auto: true
+  - translation_iso: rus
+    name: Мари
   - translation_iso: spa
     name: Mari (Provincia de Sepik Oriental)
     auto: true

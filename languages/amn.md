@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أمانب
     auto: true
+  - translation_iso: ben
+    name: আমানাব
   - translation_iso: deu
     name: Amanab
   - translation_iso: fra
@@ -27,11 +29,18 @@ translations:
   - translation_iso: hin
     name: अमानाब
     auto: true
+  - translation_iso: ind
+    name: Amanab
   - translation_iso: jpn
     name: アマナブ語
     auto: true
+  - translation_iso: kor
+    name: 아마나브어
+    auto: true
   - translation_iso: por
     name: Amanab
+  - translation_iso: rus
+    name: Аманаб
   - translation_iso: spa
     name: Amanab
   - translation_iso: zho

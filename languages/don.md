@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥーラ語
     auto: true
+  - translation_iso: kor
+    name: 투라어
+    auto: true
   - translation_iso: por
     name: Toura (Papua-Nova Guiné)
     auto: true

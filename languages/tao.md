@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: यामी
     auto: true
+  - translation_iso: ind
+    name: Yami
   - translation_iso: jpn
     name: タオ語
   - translation_iso: kor
     name: 야미어
   - translation_iso: por
     name: Língua yami
+  - translation_iso: rus
+    name: Язык тао (ями)
   - translation_iso: spa
     name: Lengua yami
   - translation_iso: zho

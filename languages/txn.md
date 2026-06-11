@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: पश्चिमी तारंगन
     auto: true
+  - translation_iso: ind
+    name: Tarangan Barat
   - translation_iso: jpn
     name: タランガン・バラト語
+    auto: true
+  - translation_iso: kor
+    name: 서부 타랑안어
     auto: true
   - translation_iso: por
     name: Tarangan Barat

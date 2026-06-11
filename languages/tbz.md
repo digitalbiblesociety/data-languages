@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ディタマリ語
     auto: true
+  - translation_iso: kor
+    name: 디탐마리어
+    auto: true
   - translation_iso: por
     name: Língua tammari
+  - translation_iso: rus
+    name: Дитаммари
   - translation_iso: spa
     name: Ditammari
     auto: true

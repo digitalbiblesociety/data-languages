@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Japanese"
 translations:
   - translation_iso: ara
     name: اللغة اليابانية القديمة
+  - translation_iso: ben
+    name: প্রাচীন জাপানি ভাষা
   - translation_iso: deu
     name: Altjapanisch
   - translation_iso: fra
@@ -27,6 +29,8 @@ translations:
   - translation_iso: hin
     name: प्राचीन जापानी
     auto: true
+  - translation_iso: ind
+    name: Jepang Kuno
   - translation_iso: jpn
     name: 上代日本語
   - translation_iso: kor
@@ -34,6 +38,8 @@ translations:
   - translation_iso: por
     name: japonês antigo
     auto: true
+  - translation_iso: rus
+    name: Старояпонский язык
   - translation_iso: spa
     name: japonés antiguo
   - translation_iso: zho

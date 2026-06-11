@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムルピ語
     auto: true
+  - translation_iso: kor
+    name: 무루피어
+    auto: true
   - translation_iso: por
     name: Murupi
     auto: true

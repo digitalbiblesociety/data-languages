@@ -21,18 +21,24 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكاتالونية
     auto: true
+  - translation_iso: ben
+    name: কাতালান ইশারা ভাষা
   - translation_iso: deu
     name: Llengua de Signes Catalana
   - translation_iso: fra
     name: langue des signes catalane
   - translation_iso: hin
     name: कैटलन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Katalan
   - translation_iso: jpn
     name: カタルーニャ手話
   - translation_iso: kor
     name: 카탈루냐어 수화
   - translation_iso: por
     name: Língua de sinais catalã
+  - translation_iso: rus
+    name: каталонский жестовый язык
   - translation_iso: spa
     name: lengua de signos catalana
   - translation_iso: zho

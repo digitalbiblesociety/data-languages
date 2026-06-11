@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タハガルト・タマハック語
+  - translation_iso: kor
+    name: 타하가르트 타마하크어
+    auto: true
   - translation_iso: por
     name: Tamahaq de Tahaggart
     auto: true
+  - translation_iso: rus
+    name: Севернотуарегские языки
   - translation_iso: spa
     name: Idioma tamahaq
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィシュラム語
+  - translation_iso: kor
+    name: 와스코위시램어
+    auto: true
   - translation_iso: por
     name: Wasco-Wishram
     auto: true
+  - translation_iso: rus
+    name: васко-вишрамский язык
   - translation_iso: spa
     name: Wasco-Wishram
     auto: true

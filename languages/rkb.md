@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リクバクチァ語
+  - translation_iso: kor
+    name: 리크바크차어
+    auto: true
   - translation_iso: por
     name: Língua rikbaktsa
+  - translation_iso: rus
+    name: Рикбакца
   - translation_iso: spa
     name: idioma rikbaktsá
   - translation_iso: zho

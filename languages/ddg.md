@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: फ़ातालुकू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Fataluku
   - translation_iso: jpn
     name: ファタルク語
+  - translation_iso: kor
+    name: 파탈루쿠어
+    auto: true
   - translation_iso: por
     name: Fataluco
+  - translation_iso: rus
+    name: Фаталуку
   - translation_iso: spa
     name: Idioma fataluco
   - translation_iso: zho

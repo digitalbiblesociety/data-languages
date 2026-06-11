@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ガラムブ語
     auto: true
+  - translation_iso: kor
+    name: 갈람부어
+    auto: true
   - translation_iso: por
     name: Galambu
     auto: true
+  - translation_iso: rus
+    name: Галамбу
   - translation_iso: spa
     name: Galambu
     auto: true

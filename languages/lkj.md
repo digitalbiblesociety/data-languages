@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रेमुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Remun
   - translation_iso: jpn
     name: レムン語
+    auto: true
+  - translation_iso: kor
+    name: 레문어
     auto: true
   - translation_iso: por
     name: Remun

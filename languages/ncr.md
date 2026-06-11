@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンカネ語
     auto: true
+  - translation_iso: kor
+    name: 은차네어
+    auto: true
   - translation_iso: por
     name: Ncane
     auto: true

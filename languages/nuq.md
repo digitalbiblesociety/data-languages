@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Nukumanu
     auto: true
+  - translation_iso: rus
+    name: Нукуману
   - translation_iso: spa
     name: Nukumanu
     auto: true

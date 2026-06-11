@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トカノ語
     auto: true
+  - translation_iso: kor
+    name: 토카노어
+    auto: true
   - translation_iso: por
     name: Tokano
     auto: true

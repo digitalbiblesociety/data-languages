@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsilhqot%CA%BCin_language"
 translations:
   - translation_iso: ara
     name: تسيلكوتين
+  - translation_iso: ben
+    name: চিলকোটিন
   - translation_iso: deu
     name: Tschilcotin
   - translation_iso: fra
     name: chilcotin
   - translation_iso: hin
     name: चिलकोटिन
+  - translation_iso: ind
+    name: Chilcotin
   - translation_iso: jpn
     name: チルコティン語
   - translation_iso: kor
     name: 칠코틴어
   - translation_iso: por
     name: Língua chilcontin
+  - translation_iso: rus
+    name: чилкотин
   - translation_iso: spa
     name: chilcotin
   - translation_iso: zho

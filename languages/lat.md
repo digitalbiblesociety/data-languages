@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
 translations:
   - translation_iso: ara
     name: اللاتينية
+  - translation_iso: ben
+    name: লাতিন
   - translation_iso: deu
     name: Latein
   - translation_iso: fra
     name: latin
   - translation_iso: hin
     name: लातिन भाषा
+  - translation_iso: ind
+    name: Latin
   - translation_iso: jpn
     name: ラテン語
   - translation_iso: kor
     name: 라틴어
   - translation_iso: por
     name: latim
+  - translation_iso: rus
+    name: латинский
   - translation_iso: spa
     name: latín
   - translation_iso: zho

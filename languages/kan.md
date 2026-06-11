@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kannada"
 translations:
   - translation_iso: ara
     name: الكنادية
+  - translation_iso: ben
+    name: কন্নড়
   - translation_iso: deu
     name: Kannada
   - translation_iso: fra
     name: kannara
   - translation_iso: hin
     name: कन्नड़ भाषा
+  - translation_iso: ind
+    name: Kannada
   - translation_iso: jpn
     name: カンナダ語
   - translation_iso: kor
     name: 칸나다어
   - translation_iso: por
     name: Língua canaresa
+  - translation_iso: rus
+    name: каннада
   - translation_iso: spa
     name: canarés
   - translation_iso: zho

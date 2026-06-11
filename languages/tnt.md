@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोंतेम्बोआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tontemboan
   - translation_iso: jpn
     name: トンテンボアン語
+  - translation_iso: kor
+    name: 톤템보안어
+    auto: true
   - translation_iso: por
     name: Tontemboan
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノクク語
     auto: true
+  - translation_iso: kor
+    name: 노쿠쿠어
+    auto: true
   - translation_iso: por
     name: Nokuku
     auto: true

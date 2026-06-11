@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة آير
     auto: true
+  - translation_iso: ben
+    name: আয়ের
   - translation_iso: deu
     name: Aer
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アエル語
     auto: true
+  - translation_iso: kor
+    name: 아에르어
+    auto: true
   - translation_iso: por
     name: Aer
     auto: true
+  - translation_iso: rus
+    name: аер
   - translation_iso: spa
     name: Aer
     auto: true

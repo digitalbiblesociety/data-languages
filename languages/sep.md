@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: シシレ語
     auto: true
+  - translation_iso: kor
+    name: 시치테 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Sìcìté
     auto: true

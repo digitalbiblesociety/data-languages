@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cherokee_language"
 translations:
   - translation_iso: ara
     name: شيروكي
+  - translation_iso: ben
+    name: চেরোকি
   - translation_iso: deu
     name: Cherokee
   - translation_iso: fra
     name: cherokee
   - translation_iso: hin
     name: चेरोकी
+  - translation_iso: ind
+    name: Cherokee
   - translation_iso: jpn
     name: チェロキー語
   - translation_iso: kor
     name: 체로키어
   - translation_iso: por
     name: cherokee
+  - translation_iso: rus
+    name: чероки
   - translation_iso: spa
     name: cheroqui
   - translation_iso: zho

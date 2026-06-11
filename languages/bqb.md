@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باجوسا
     auto: true
+  - translation_iso: ben
+    name: বাগুসা
   - translation_iso: deu
     name: Bagusa
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बागुसा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bagusa
   - translation_iso: jpn
     name: バグサ語
+    auto: true
+  - translation_iso: kor
+    name: 바구사어
     auto: true
   - translation_iso: por
     name: Bagusa

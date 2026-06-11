@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Delaware_languages"
 translations:
   - translation_iso: ara
     name: الديلوير
+  - translation_iso: ben
+    name: ডেলাওয়ের
   - translation_iso: deu
     name: Delawarisch
   - translation_iso: fra
     name: langues delaware
   - translation_iso: hin
     name: डिलैवेयर
+  - translation_iso: ind
+    name: Delaware
   - translation_iso: jpn
     name: デラウェア語
   - translation_iso: kor
     name: 델라웨어어
   - translation_iso: por
     name: línguas delaware
+  - translation_iso: rus
+    name: делаварский
   - translation_iso: spa
     name: delaware
   - translation_iso: zho

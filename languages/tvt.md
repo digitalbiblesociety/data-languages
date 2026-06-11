@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トトチャ語
     auto: true
+  - translation_iso: kor
+    name: 투차 나가어
+    auto: true
   - translation_iso: por
     name: Tutsa Naga
     auto: true

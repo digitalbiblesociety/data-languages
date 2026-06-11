@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キナバリアン語
     auto: true
+  - translation_iso: kor
+    name: 키나발리안어
+    auto: true
   - translation_iso: por
     name: Kinabalian
     auto: true

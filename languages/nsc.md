@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シン語
     auto: true
+  - translation_iso: kor
+    name: 은시어
+    auto: true
   - translation_iso: por
     name: Nshi
     auto: true

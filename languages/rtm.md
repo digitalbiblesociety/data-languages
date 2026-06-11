@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: روتومان
     auto: true
+  - translation_iso: ben
+    name: রোতুমা ভাষা
   - translation_iso: deu
     name: Rotumanisch
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: रोटुमान
     auto: true
+  - translation_iso: ind
+    name: Rotuma
   - translation_iso: jpn
     name: ロツマ語
   - translation_iso: kor
     name: 로투마어
   - translation_iso: por
     name: Língua rotumana
+  - translation_iso: rus
+    name: ротуманский язык
   - translation_iso: spa
     name: Rotumano
   - translation_iso: zho

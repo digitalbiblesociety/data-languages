@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكومباي
     auto: true
+  - translation_iso: ben
+    name: বাকুম্পাই
   - translation_iso: deu
     name: Bakumpai
     auto: true
@@ -30,8 +32,13 @@ translations:
   - translation_iso: hin
     name: बकुम्पाई
     auto: true
+  - translation_iso: ind
+    name: Bakumpai
   - translation_iso: jpn
     name: バクムパイ語
+    auto: true
+  - translation_iso: kor
+    name: 바쿰파이어
     auto: true
   - translation_iso: por
     name: Bakumpai

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Bikya語
+  - translation_iso: kor
+    name: 비키아어
+    auto: true
   - translation_iso: por
     name: Bikya
     auto: true
+  - translation_iso: rus
+    name: Бикья
   - translation_iso: spa
     name: Bikya
     auto: true

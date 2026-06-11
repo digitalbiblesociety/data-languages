@@ -27,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: ティングイ・ボト語
     auto: true
+  - translation_iso: kor
+    name: 칭기보토어
+    auto: true
   - translation_iso: por
     name: Tingui-Boto
     auto: true
+  - translation_iso: rus
+    name: Тинги-бото
   - translation_iso: spa
     name: Idioma tingui-boto
   - translation_iso: zho

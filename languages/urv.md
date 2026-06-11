@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウルアヴァ語
     auto: true
+  - translation_iso: kor
+    name: 우루아바어
+    auto: true
   - translation_iso: por
     name: Uruava
     auto: true

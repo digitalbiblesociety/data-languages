@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكروكاي
     auto: true
+  - translation_iso: ben
+    name: আকরুকে
   - translation_iso: deu
     name: Akrukay
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクルカイ語
+    auto: true
+  - translation_iso: kor
+    name: 아크루카이어
     auto: true
   - translation_iso: por
     name: Akrukay

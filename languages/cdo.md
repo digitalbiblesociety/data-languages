@@ -27,12 +27,16 @@ translations:
     name: mindong
   - translation_iso: hin
     name: मीन दोंग भाषा
+  - translation_iso: ind
+    name: Min Timur
   - translation_iso: jpn
     name: 閩東語
   - translation_iso: kor
     name: 민둥어
   - translation_iso: por
     name: Língua min oriental
+  - translation_iso: rus
+    name: восточноминьский язык
   - translation_iso: spa
     name: min dong
   - translation_iso: zho

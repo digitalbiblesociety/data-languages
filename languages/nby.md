@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニンゲラ語
     auto: true
+  - translation_iso: kor
+    name: 닝게라어
+    auto: true
   - translation_iso: por
     name: Ningera
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クークターヨレ語
+  - translation_iso: kor
+    name: 쿠크 타요레어
+    auto: true
   - translation_iso: por
     name: Língua kuuk thaayorre
+  - translation_iso: rus
+    name: тайоре
   - translation_iso: spa
     name: Idioma kuuk thaayorre
   - translation_iso: zho

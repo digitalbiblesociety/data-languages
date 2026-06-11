@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤラワタ語
     auto: true
+  - translation_iso: kor
+    name: 야라와타어
+    auto: true
   - translation_iso: por
     name: yarawata
     auto: true

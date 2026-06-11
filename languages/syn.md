@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セナヤ語
+  - translation_iso: kor
+    name: 세나야어
+    auto: true
   - translation_iso: por
     name: Senaya
     auto: true

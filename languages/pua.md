@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西高地プレペチャ語
     auto: true
+  - translation_iso: kor
+    name: 서부 고지 푸레페차어
+    auto: true
   - translation_iso: por
     name: Purepecha das Terras Altas Ocidentais
     auto: true

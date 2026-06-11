@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ゴル語
     auto: true
+  - translation_iso: kor
+    name: 고르어
+    auto: true
   - translation_iso: por
     name: Gor
     auto: true

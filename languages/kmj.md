@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クマルバグ・パハリア語
     auto: true
+  - translation_iso: kor
+    name: 쿠마르바그 파하리아어
+    auto: true
   - translation_iso: por
     name: Paharia de Kumarbhag
     auto: true

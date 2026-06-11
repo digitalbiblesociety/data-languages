@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シェレンテ語
     auto: true
+  - translation_iso: kor
+    name: 셰렌테어
+    auto: true
   - translation_iso: por
     name: Xerénte
     auto: true
+  - translation_iso: rus
+    name: Шеренте
   - translation_iso: spa
     name: Xerénte
     auto: true

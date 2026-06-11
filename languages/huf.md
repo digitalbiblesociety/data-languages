@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: フメネ語
     auto: true
+  - translation_iso: kor
+    name: 후메네어
+    auto: true
   - translation_iso: por
     name: Humene
     auto: true

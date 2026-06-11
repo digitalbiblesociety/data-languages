@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウィカルカン語
     auto: true
+  - translation_iso: kor
+    name: 위칼칸어
+    auto: true
   - translation_iso: por
     name: Wikalkan
     auto: true

@@ -31,12 +31,19 @@ translations:
   - translation_iso: hin
     name: मध्य मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Tengah
   - translation_iso: jpn
     name: 中央マレー語
+    auto: true
+  - translation_iso: kor
+    name: 중부 말레이어
     auto: true
   - translation_iso: por
     name: Malaio Central
     auto: true
+  - translation_iso: rus
+    name: центральный малайский
   - translation_iso: spa
     name: Malayo central
     auto: true

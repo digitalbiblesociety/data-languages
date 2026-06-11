@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: सावाई
     auto: true
+  - translation_iso: ind
+    name: Sawai
   - translation_iso: jpn
     name: サワイ語
+  - translation_iso: kor
+    name: 사와이어
+    auto: true
   - translation_iso: por
     name: Sawai
     auto: true
+  - translation_iso: rus
+    name: Савай (язык)
   - translation_iso: spa
     name: Sawai
     auto: true

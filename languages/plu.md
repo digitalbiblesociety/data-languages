@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パリクール語
+  - translation_iso: kor
+    name: 팔리쿠르어
+    auto: true
   - translation_iso: por
     name: Língua palicur
+  - translation_iso: rus
+    name: Паликур
   - translation_iso: spa
     name: palikur
   - translation_iso: zho

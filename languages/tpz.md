@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴァスイ語
     auto: true
+  - translation_iso: kor
+    name: 틴푸츠어
+    auto: true
   - translation_iso: por
     name: Tinputz
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サザン・カタン語
     auto: true
+  - translation_iso: kor
+    name: 남부 카탕어
+    auto: true
   - translation_iso: por
     name: Katang Meridional
     auto: true

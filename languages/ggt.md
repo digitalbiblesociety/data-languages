@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギトゥア語
     auto: true
+  - translation_iso: kor
+    name: 기투아어
+    auto: true
   - translation_iso: por
     name: Gitua
     auto: true

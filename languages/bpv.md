@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيان ماريند
     auto: true
+  - translation_iso: ben
+    name: বাইয়ান ম্যারিন্ড
   - translation_iso: deu
     name: Bian Marind
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビアン・マリンド語
+    auto: true
+  - translation_iso: kor
+    name: 비안 마린드어
     auto: true
   - translation_iso: por
     name: Marind bian

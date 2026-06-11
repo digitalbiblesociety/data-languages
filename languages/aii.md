@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Suret_language"
 translations:
   - translation_iso: ara
     name: لهجة آرامية آشورية حديثة
+  - translation_iso: ben
+    name: আসিরীয় নব্য-আরামাইক
   - translation_iso: deu
     name: Assyrisch-Neuaramäisch
   - translation_iso: fra
     name: soureth
   - translation_iso: hin
     name: आशूरी भाषा
+  - translation_iso: ind
+    name: Bahasa Assyria Neo-Aram
   - translation_iso: jpn
     name: アッシリア現代アラム語
   - translation_iso: kor
     name: 아시리아 신아람어
   - translation_iso: por
     name: Língua neoaramaica assíria
+  - translation_iso: rus
+    name: ассирийский литературный язык
   - translation_iso: spa
     name: neoarameo asirio
   - translation_iso: zho

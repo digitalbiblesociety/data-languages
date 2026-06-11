@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南部ムジ語
     auto: true
+  - translation_iso: kor
+    name: 남부 무지어
+    auto: true
   - translation_iso: por
     name: muji do sul
     auto: true

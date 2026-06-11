@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: デノ語
     auto: true
+  - translation_iso: kor
+    name: 데노어
+    auto: true
   - translation_iso: por
     name: Deno
     auto: true
+  - translation_iso: rus
+    name: Дено
   - translation_iso: spa
     name: Deno
     auto: true

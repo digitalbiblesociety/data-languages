@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tigre_language"
 translations:
   - translation_iso: ara
     name: التجرية
+  - translation_iso: ben
+    name: টাইগ্রে
   - translation_iso: deu
     name: Tigre
   - translation_iso: fra
     name: tigré
   - translation_iso: hin
     name: तिग्रे भाषा
+  - translation_iso: ind
+    name: Tigre
   - translation_iso: jpn
     name: ティグレ語
   - translation_iso: kor
     name: 티그레어
   - translation_iso: por
     name: Língua tigré
+  - translation_iso: rus
+    name: тигре
   - translation_iso: spa
     name: Idioma tigré
   - translation_iso: zho

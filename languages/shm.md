@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: シャハルディ語
     auto: true
+  - translation_iso: kor
+    name: 샤흐루디어
+    auto: true
   - translation_iso: por
     name: Shahrudi
     auto: true

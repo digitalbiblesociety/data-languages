@@ -24,6 +24,8 @@ translations:
   - translation_iso: hin
     name: इबेरियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Iberia
   - translation_iso: jpn
     name: イベリア語
   - translation_iso: kor
@@ -31,6 +33,8 @@ translations:
   - translation_iso: por
     name: Ibérico
     auto: true
+  - translation_iso: rus
+    name: иберский язык
   - translation_iso: spa
     name: Idioma ibero
   - translation_iso: zho

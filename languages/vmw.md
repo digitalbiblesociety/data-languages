@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makhuwa_language"
 translations:
   - translation_iso: ara
     name: الماكوا
+  - translation_iso: ben
+    name: মাখুওয়া
   - translation_iso: deu
     name: Makua
   - translation_iso: fra
     name: makua
   - translation_iso: hin
     name: मखुवा
+  - translation_iso: ind
+    name: Makhuwa
   - translation_iso: jpn
     name: マクア語
   - translation_iso: kor
     name: 마쿠아어
   - translation_iso: por
     name: Língua macua
+  - translation_iso: rus
+    name: макуа
   - translation_iso: spa
     name: Lenguaje Makhuwa
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 南プエブラ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 남부 푸에블라 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco do sul de Puebla
     auto: true
+  - translation_iso: rus
+    name: Южнопуэбланский миштекский язык
   - translation_iso: spa
     name: Mixteco de la frontera Puebla-Oaxaca
   - translation_iso: zho

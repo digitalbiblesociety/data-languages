@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダルガリ語
     auto: true
+  - translation_iso: kor
+    name: 다르가리어
+    auto: true
   - translation_iso: por
     name: Dhargari
     auto: true

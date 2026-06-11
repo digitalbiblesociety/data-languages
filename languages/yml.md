@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イアマレレ語
     auto: true
+  - translation_iso: kor
+    name: 이아말렐레어
+    auto: true
   - translation_iso: por
     name: iamalele
     auto: true

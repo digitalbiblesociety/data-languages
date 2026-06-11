@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブアルカウ・チン語
     auto: true
+  - translation_iso: kor
+    name: 부알카우 친어
+    auto: true
   - translation_iso: por
     name: Chin Bualkhaw
     auto: true

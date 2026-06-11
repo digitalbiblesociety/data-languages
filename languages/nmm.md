@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マナン語
+  - translation_iso: kor
+    name: 마낭바어
+    auto: true
   - translation_iso: por
     name: Manangba
     auto: true
+  - translation_iso: rus
+    name: Мананг
   - translation_iso: spa
     name: Manangba
     auto: true

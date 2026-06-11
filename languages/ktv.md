@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 東カトゥ語
     auto: true
+  - translation_iso: kor
+    name: 동부 카투어
+    auto: true
   - translation_iso: por
     name: Katu oriental
     auto: true
+  - translation_iso: rus
+    name: кату
   - translation_iso: spa
     name: Katu Oriental
     auto: true

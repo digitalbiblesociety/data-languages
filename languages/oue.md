@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウネ語
     auto: true
+  - translation_iso: kor
+    name: 오우네어
+    auto: true
   - translation_iso: por
     name: Oune
     auto: true

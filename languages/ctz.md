@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: サカテペク・チャティーノ語
     auto: true
+  - translation_iso: kor
+    name: 사카테펙 차티노어
+    auto: true
   - translation_iso: por
     name: Chatino de Zacatepec
     auto: true
+  - translation_iso: rus
+    name: Сакатепекский чатино
   - translation_iso: spa
     name: Chatino de Zacatepec
   - translation_iso: zho

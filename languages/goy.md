@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グンド語
     auto: true
+  - translation_iso: kor
+    name: 군도어
+    auto: true
   - translation_iso: por
     name: Língua goundo
   - translation_iso: spa

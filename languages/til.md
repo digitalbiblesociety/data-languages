@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティラムック語
+  - translation_iso: kor
+    name: 틸라무크어
+    auto: true
   - translation_iso: por
     name: Língua tillamook
+  - translation_iso: rus
+    name: тилламук
   - translation_iso: spa
     name: idioma tillamook
   - translation_iso: zho

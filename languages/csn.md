@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكولومبية
     auto: true
+  - translation_iso: ben
+    name: কলম্বীয় ইশারা ভাষা
   - translation_iso: deu
     name: Kolumbianische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     name: कोलंबियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: コロンビア手話
+  - translation_iso: kor
+    name: 콜롬비아 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais colombiana
   - translation_iso: spa

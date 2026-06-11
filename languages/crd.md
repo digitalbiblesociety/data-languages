@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: "कोयूर डी'अलीन"
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Coeur d'Alene"
   - translation_iso: jpn
     name: コル・ダレーン語
+  - translation_iso: kor
+    name: 쾨르달렌어
+    auto: true
   - translation_iso: por
     name: Língua coeur d’alene
+  - translation_iso: rus
+    name: Кёр-д’ален
   - translation_iso: spa
     name: "Idioma coeur d'alene"
   - translation_iso: zho

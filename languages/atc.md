@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتساهواكا
     auto: true
+  - translation_iso: ben
+    name: আতসাহুয়াকা
   - translation_iso: deu
     name: Atsawaka
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アツァワカ語
+    auto: true
+  - translation_iso: kor
+    name: 아차우아카어
     auto: true
   - translation_iso: por
     name: Atsahuaca

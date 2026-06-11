@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ديفاكا
     auto: true
+  - translation_iso: ben
+    name: ডিফাকা ভাষা
   - translation_iso: deu
     name: Defaka
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デファカ語
+  - translation_iso: kor
+    name: 데파카어
+    auto: true
   - translation_iso: por
     name: Defaka
     auto: true
+  - translation_iso: rus
+    name: дефака
   - translation_iso: spa
     name: Defaka
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムバラ語
     auto: true
+  - translation_iso: kor
+    name: 음발라어
+    auto: true
   - translation_iso: por
     name: Mbala
     auto: true
+  - translation_iso: rus
+    name: Мбала
   - translation_iso: spa
     name: Mbala
     auto: true

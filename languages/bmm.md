@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北ベツィミサラカ・マダガスカル語
+  - translation_iso: kor
+    name: 북부 베치미사라카 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe betsimisaraka do Norte
     auto: true

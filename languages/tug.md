@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥニア語
     auto: true
+  - translation_iso: kor
+    name: 투니아어
+    auto: true
   - translation_iso: por
     name: Tunia
     auto: true

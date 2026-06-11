@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: डेला-ओएनाले
     auto: true
+  - translation_iso: ind
+    name: Dela-Oenale
   - translation_iso: jpn
     name: デラオエナレ語
+    auto: true
+  - translation_iso: kor
+    name: 델라오에날레어
     auto: true
   - translation_iso: por
     name: Língua dela-oenele

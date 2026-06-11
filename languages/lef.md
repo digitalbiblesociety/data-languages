@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レレミ語
+  - translation_iso: kor
+    name: 렐레미어
+    auto: true
   - translation_iso: por
     name: Lelemi
     auto: true

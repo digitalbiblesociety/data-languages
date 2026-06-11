@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ハヴァスパイ-ワラパイ-ヤヴァパイ語
     auto: true
+  - translation_iso: kor
+    name: 하바수파이·왈라파이·야바파이어
+    auto: true
   - translation_iso: por
     name: havasupai-walapai-yavapai
     auto: true
+  - translation_iso: rus
+    name: хавасупай-валапай-явапай
   - translation_iso: spa
     name: Havasupai-Walapai-Yavapai
     auto: true

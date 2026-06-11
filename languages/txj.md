@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タルフモ語
     auto: true
+  - translation_iso: kor
+    name: 타르주모어
+    auto: true
   - translation_iso: por
     name: Tarjumo
     auto: true

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 게레로 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Guerrero
     auto: true
+  - translation_iso: rus
+    name: Геррерский науатль
   - translation_iso: spa
     name: Mexicano de Guerrero
   - translation_iso: zho

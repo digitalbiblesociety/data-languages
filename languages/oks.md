@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オコ語
+  - translation_iso: kor
+    name: 오코에니오사옌어
+    auto: true
   - translation_iso: por
     name: Língua oko
   - translation_iso: spa

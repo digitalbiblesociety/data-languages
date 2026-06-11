@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Berakou_language"
 translations:
   - translation_iso: ara
     name: بيراكو
+  - translation_iso: ben
+    name: বেরাকু
   - translation_iso: deu
     name: Berakou
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベラク語
+    auto: true
+  - translation_iso: kor
+    name: 베라쿠어
     auto: true
   - translation_iso: por
     name: Berakou

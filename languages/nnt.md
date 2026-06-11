@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンチコーク語
+  - translation_iso: kor
+    name: 낸티코크어
+    auto: true
   - translation_iso: por
     name: Língua nanticoke
+  - translation_iso: rus
+    name: Нантикокский язык
   - translation_iso: spa
     name: Nanticoke
   - translation_iso: zho

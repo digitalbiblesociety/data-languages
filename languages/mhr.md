@@ -35,6 +35,8 @@ translations:
     name: 초원 마리어
   - translation_iso: por
     name: Língua mari das campinas
+  - translation_iso: rus
+    name: луговомарийский язык
   - translation_iso: spa
     name: mari de las praderas
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أنفيلو
     auto: true
+  - translation_iso: ben
+    name: আনফিল্লো
   - translation_iso: deu
     name: Anfillo
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अनफिल्लो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anfillo
   - translation_iso: jpn
     name: アンフィッロ語
+    auto: true
+  - translation_iso: kor
+    name: 안필로어
     auto: true
   - translation_iso: por
     name: Anfillo

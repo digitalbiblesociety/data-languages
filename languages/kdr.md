@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كاراييم
     auto: true
+  - translation_iso: ben
+    name: কারায় ভাষা
   - translation_iso: deu
     name: Karaimisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: कराइम
     auto: true
+  - translation_iso: ind
+    name: Karaim
   - translation_iso: jpn
     name: カライム語
   - translation_iso: kor
     name: 카라임어
   - translation_iso: por
     name: karaim
+  - translation_iso: rus
+    name: караимский язык
   - translation_iso: spa
     name: karaim
   - translation_iso: zho

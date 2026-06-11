@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タロク語
     auto: true
+  - translation_iso: kor
+    name: 타로크어
+    auto: true
   - translation_iso: por
     name: tarok
     auto: true

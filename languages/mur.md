@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムルレ語
+  - translation_iso: kor
+    name: 무를레어
+    auto: true
   - translation_iso: por
     name: Língua murle
   - translation_iso: spa

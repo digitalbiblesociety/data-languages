@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワリヤンガ語
     auto: true
+  - translation_iso: kor
+    name: 와리양가어
+    auto: true
   - translation_iso: por
     name: Wariyangga
     auto: true

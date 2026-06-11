@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マレン語
     auto: true
+  - translation_iso: kor
+    name: 말렝어
+    auto: true
   - translation_iso: por
     name: Maleng
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोंबेलाला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tombelala
   - translation_iso: jpn
     name: トンベララ語
+    auto: true
+  - translation_iso: kor
+    name: 톰벨랄라어
     auto: true
   - translation_iso: por
     name: Tombelala

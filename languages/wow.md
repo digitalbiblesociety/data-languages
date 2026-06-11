@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: वावोनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wawonii
   - translation_iso: jpn
     name: ワウォニイ語
+    auto: true
+  - translation_iso: kor
+    name: 와워니어
     auto: true
   - translation_iso: por
     name: Wawonii

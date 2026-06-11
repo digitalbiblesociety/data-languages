@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلاندا فيري
     auto: true
+  - translation_iso: ben
+    name: বেলান্দা ভিরি
   - translation_iso: deu
     name: Belanda Viri
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベランダ・ビリ語
+    auto: true
+  - translation_iso: kor
+    name: 벨란다 비리어
     auto: true
   - translation_iso: por
     name: Belanda Viri

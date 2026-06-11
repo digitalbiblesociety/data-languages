@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: 峡谷ミヘ語
     auto: true
+  - translation_iso: kor
+    name: 이스머스 미헤어
+    auto: true
   - translation_iso: por
     name: Língua mixe do istmo
+  - translation_iso: rus
+    name: Истмусский михе
   - translation_iso: spa
     name: Mixe del Istmo
     auto: true

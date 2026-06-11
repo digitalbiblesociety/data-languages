@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トラコアツィンテペク・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 틀라코아친테펙 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Tlacoatzintepec
     auto: true

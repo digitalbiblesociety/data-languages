@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サラヴェカ語
+  - translation_iso: kor
+    name: 사라베카어
+    auto: true
   - translation_iso: por
     name: Língua sarave
+  - translation_iso: rus
+    name: Саравека
   - translation_iso: spa
     name: Saraveca
     auto: true

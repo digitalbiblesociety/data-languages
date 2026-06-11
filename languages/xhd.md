@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハドラマウト語
+  - translation_iso: kor
+    name: 하드라미어
+    auto: true
   - translation_iso: por
     name: Hadrami
     auto: true
+  - translation_iso: rus
+    name: гадрамаутский язык
   - translation_iso: spa
     name: Idioma hadramita
   - translation_iso: zho

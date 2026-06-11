@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポコット語
+  - translation_iso: kor
+    name: 포코트어
+    auto: true
   - translation_iso: por
     name: Língua pocote
+  - translation_iso: rus
+    name: Покот
   - translation_iso: spa
     name: Pökoot
     auto: true

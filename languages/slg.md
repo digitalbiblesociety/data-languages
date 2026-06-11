@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムルット語
     auto: true
+  - translation_iso: kor
+    name: 셀룽아이 무루트어
+    auto: true
   - translation_iso: por
     name: Murut Selungai
     auto: true

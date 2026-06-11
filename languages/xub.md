@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيتا كوروما
     auto: true
+  - translation_iso: ben
+    name: বেটা কুরুম্বা
   - translation_iso: deu
     name: Betta Kurumba
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベッタ・クルンバ語
+    auto: true
+  - translation_iso: kor
+    name: 베타 쿠룸바어
     auto: true
   - translation_iso: por
     name: betta kurumba

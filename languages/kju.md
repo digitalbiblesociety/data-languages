@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カシャヤ語
     auto: true
+  - translation_iso: kor
+    name: 카샤야어
+    auto: true
   - translation_iso: por
     name: Língua kashaya
+  - translation_iso: rus
+    name: Кашая
   - translation_iso: spa
     name: Kashaya
     auto: true

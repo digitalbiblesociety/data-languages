@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイテチェ語
+  - translation_iso: kor
+    name: 카이티치어
+    auto: true
   - translation_iso: por
     name: Kaytetye
     auto: true
+  - translation_iso: rus
+    name: кайтетье
   - translation_iso: spa
     name: Idioma kaytetye
   - translation_iso: zho

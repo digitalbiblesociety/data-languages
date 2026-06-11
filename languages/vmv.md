@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: バレー・マイドゥ語
     auto: true
+  - translation_iso: kor
+    name: 밸리 마이두어
+    auto: true
   - translation_iso: por
     name: Maidu do Vale
     auto: true
+  - translation_iso: rus
+    name: долинный майду
   - translation_iso: spa
     name: chico
   - translation_iso: zho

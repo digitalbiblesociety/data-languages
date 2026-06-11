@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mapudungun"
 translations:
   - translation_iso: ara
     name: لغة مابوتشي
+  - translation_iso: ben
+    name: মাপুচে
   - translation_iso: deu
     name: Mapudungun
   - translation_iso: fra
     name: mapudungun
   - translation_iso: hin
     name: मापुचे भाषा
+  - translation_iso: ind
+    name: Mapuche
   - translation_iso: jpn
     name: マプチェ語
   - translation_iso: kor
     name: 마푸둥군어
   - translation_iso: por
     name: mapudungun
+  - translation_iso: rus
+    name: мапуче
   - translation_iso: spa
     name: mapuche
   - translation_iso: zho

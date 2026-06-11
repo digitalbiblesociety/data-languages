@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Galician_language"
 translations:
   - translation_iso: ara
     name: الجليقية
+  - translation_iso: ben
+    name: গ্যালিশীয়
   - translation_iso: deu
     name: Galicisch
   - translation_iso: fra
     name: galicien
   - translation_iso: hin
     name: गैलिशियन
+  - translation_iso: ind
+    name: Galisia
   - translation_iso: jpn
     name: ガリシア語
   - translation_iso: kor
     name: 갈리시아어
   - translation_iso: por
     name: galego
+  - translation_iso: rus
+    name: галисийский
   - translation_iso: spa
     name: gallego
   - translation_iso: zho

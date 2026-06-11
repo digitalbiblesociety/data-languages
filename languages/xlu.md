@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 楔形文字ルウィ語
+  - translation_iso: kor
+    name: 쐐기 문자 루위어
+    auto: true
   - translation_iso: por
     name: Luvita Cuneiforme
     auto: true

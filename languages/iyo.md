@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メサカ語
     auto: true
+  - translation_iso: kor
+    name: 메사카어
+    auto: true
   - translation_iso: por
     name: Mesaka
     auto: true

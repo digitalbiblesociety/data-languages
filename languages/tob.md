@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: तोबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Toba Qom
   - translation_iso: jpn
     name: トバ語 (アルゼンチン)
+  - translation_iso: kor
+    name: 토바어
+    auto: true
   - translation_iso: por
     name: Língua toba
+  - translation_iso: rus
+    name: Тоба-ком
   - translation_iso: spa
     name: idioma toba
   - translation_iso: zho

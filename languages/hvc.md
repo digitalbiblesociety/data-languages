@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語
     auto: true
+  - translation_iso: kor
+    name: 아이티 부두 문화어
+    auto: true
   - translation_iso: por
     name: Língua da Cultura Vodu Haitiana
     auto: true

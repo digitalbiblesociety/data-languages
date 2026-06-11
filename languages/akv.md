@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أخڤاخ
     auto: true
+  - translation_iso: ben
+    name: আখভাখ
   - translation_iso: deu
     name: Achwachisch
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 아흐바흐어
   - translation_iso: por
     name: Língua akhvakh
+  - translation_iso: rus
+    name: ахвахский язык
   - translation_iso: spa
     name: ajvaj
   - translation_iso: zho

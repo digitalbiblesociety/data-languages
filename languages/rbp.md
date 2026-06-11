@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: بارابابارابا
     auto: true
+  - translation_iso: ben
+    name: বারাবাবারাবা
   - translation_iso: deu
     name: Barababaraba
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バラババラバ語
+    auto: true
+  - translation_iso: kor
+    name: 바라바바라바어
     auto: true
   - translation_iso: por
     name: Barababaraba

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بالانتاك
     auto: true
+  - translation_iso: ben
+    name: বলন্তক
   - translation_iso: deu
     name: Balantak
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: बालंताक
     auto: true
+  - translation_iso: ind
+    name: Balantak
   - translation_iso: jpn
     name: バランタク語
     auto: true
+  - translation_iso: kor
+    name: 발란타크어
+    auto: true
   - translation_iso: por
     name: Balantak
+  - translation_iso: rus
+    name: Балантак
   - translation_iso: spa
     name: Balantak
   - translation_iso: zho

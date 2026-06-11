@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カルコ語
     auto: true
+  - translation_iso: kor
+    name: 카르코어
+    auto: true
   - translation_iso: por
     name: Karko
     auto: true

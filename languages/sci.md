@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: श्रीलंकाई क्रियोल मलय
     auto: true
+  - translation_iso: ind
+    name: bahasa Melayu Srilangka
   - translation_iso: jpn
     name: ジャワジャティ語
+    auto: true
+  - translation_iso: kor
+    name: 스리랑카 크리올 말레이어
     auto: true
   - translation_iso: por
     name: Crioulo malaio do Sri Lanka

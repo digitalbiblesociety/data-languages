@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wu_Chinese"
 translations:
   - translation_iso: ara
     name: وو
+  - translation_iso: ben
+    name: উ চীনা
   - translation_iso: deu
     name: Wu
   - translation_iso: fra
     name: wu
   - translation_iso: hin
     name: वू चीनी भाषाएँ
+  - translation_iso: ind
+    name: Wu Tionghoa
   - translation_iso: jpn
     name: 呉語
   - translation_iso: kor
     name: 우어
   - translation_iso: por
     name: Língua wu
+  - translation_iso: rus
+    name: у
   - translation_iso: spa
     name: Chino wu
   - translation_iso: zho

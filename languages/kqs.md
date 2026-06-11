@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・キッシ語
     auto: true
+  - translation_iso: kor
+    name: 북부 키시어
+    auto: true
   - translation_iso: por
     name: Kissi setentrional
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウォリス語
+  - translation_iso: kor
+    name: 왈리스어
+    auto: true
   - translation_iso: por
     name: Língua wallisiana
+  - translation_iso: rus
+    name: Уоллисский язык
   - translation_iso: spa
     name: walisiano
   - translation_iso: zho

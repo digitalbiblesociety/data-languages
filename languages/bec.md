@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イセヴェ・マシ語
     auto: true
+  - translation_iso: kor
+    name: 이체베·마치어
+    auto: true
   - translation_iso: por
     name: Iceve-Maci
     auto: true

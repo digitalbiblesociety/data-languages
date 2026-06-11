@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोम्यांदारेत
     auto: true
+  - translation_iso: ind
+    name: Komyandaret
   - translation_iso: jpn
     name: コミャンダレット語
+    auto: true
+  - translation_iso: kor
+    name: 콤얀다레트어
     auto: true
   - translation_iso: por
     name: Komyandaret

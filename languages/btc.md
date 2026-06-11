@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتي
     auto: true
+  - translation_iso: ben
+    name: বাতি
   - translation_iso: deu
     name: Bati
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バティ語
+    auto: true
+  - translation_iso: kor
+    name: 바티어
     auto: true
   - translation_iso: por
     name: Bati (Camarões)

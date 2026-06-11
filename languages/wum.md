@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Wumbvu語
+  - translation_iso: kor
+    name: 움브부어
+    auto: true
   - translation_iso: por
     name: Wumbvu
     auto: true

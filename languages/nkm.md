@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナマト語
     auto: true
+  - translation_iso: kor
+    name: 나마트어
+    auto: true
   - translation_iso: por
     name: Namat
     auto: true

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェム語
+  - translation_iso: kor
+    name: 옘사어
+    auto: true
   - translation_iso: por
     name: Yemsa
     auto: true
+  - translation_iso: rus
+    name: Йемса
   - translation_iso: spa
     name: Yemsa
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レシガロ語
+  - translation_iso: kor
+    name: 레시가로어
+    auto: true
   - translation_iso: por
     name: Língua resígaro
+  - translation_iso: rus
+    name: ресигаро
   - translation_iso: spa
     name: Idioma resígaro
   - translation_iso: zho

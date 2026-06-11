@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: サイジャ語
     auto: true
+  - translation_iso: kor
+    name: 에페나어
+    auto: true
   - translation_iso: por
     name: Língua eperara
+  - translation_iso: rus
+    name: эпена
   - translation_iso: spa
     name: Epena
     auto: true

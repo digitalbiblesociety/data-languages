@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノム語
+  - translation_iso: kor
+    name: 노무어
+    auto: true
   - translation_iso: por
     name: Nomu
     auto: true

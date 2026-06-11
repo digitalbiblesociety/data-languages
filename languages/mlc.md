@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: काओ लान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Caolan
   - translation_iso: jpn
     name: カオラン語
+  - translation_iso: kor
+    name: 까오란어
+    auto: true
   - translation_iso: por
     name: Cao Lan
     auto: true

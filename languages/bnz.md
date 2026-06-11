@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيزن
     auto: true
+  - translation_iso: ben
+    name: বেজেন
   - translation_iso: deu
     name: Beezen
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベーゼン語
+    auto: true
+  - translation_iso: kor
+    name: 베젠어
     auto: true
   - translation_iso: por
     name: Beezen

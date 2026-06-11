@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: オンテヌ語
     auto: true
+  - translation_iso: kor
+    name: 온테누어
+    auto: true
   - translation_iso: por
     name: Ontenu
     auto: true

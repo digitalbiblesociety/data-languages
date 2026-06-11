@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語
+  - translation_iso: kor
+    name: 부히논 비콜어
+    auto: true
   - translation_iso: por
     name: "Bikol Buhi'non"
     auto: true

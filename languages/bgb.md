@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बोबोंग्को
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bobongko
   - translation_iso: jpn
     name: ボボンコ語
+  - translation_iso: kor
+    name: 보봉코어
+    auto: true
   - translation_iso: por
     name: Bobongko
     auto: true

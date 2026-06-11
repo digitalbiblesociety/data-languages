@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グスィライ語
+  - translation_iso: kor
+    name: 구실라이어
+    auto: true
   - translation_iso: por
     name: Gusilay
     auto: true

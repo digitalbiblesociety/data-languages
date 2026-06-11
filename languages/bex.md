@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジュル・モド語
     auto: true
+  - translation_iso: kor
+    name: 주르 모도어
+    auto: true
   - translation_iso: por
     name: Jur Modo
     auto: true

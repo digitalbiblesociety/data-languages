@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغو
     auto: true
+  - translation_iso: ben
+    name: আঘু
   - translation_iso: deu
     name: Aghu
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अघु
     auto: true
+  - translation_iso: ind
+    name: Aghu
   - translation_iso: jpn
     name: アグ語
+    auto: true
+  - translation_iso: kor
+    name: 아구어
     auto: true
   - translation_iso: por
     name: Aghu

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バソッシ語
     auto: true
+  - translation_iso: kor
+    name: 바소시어
+    auto: true
   - translation_iso: por
     name: Bassossi
     auto: true

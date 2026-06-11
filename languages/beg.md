@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلايت
     auto: true
+  - translation_iso: ben
+    name: বেলাইত
   - translation_iso: deu
     name: Belait
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेलाइट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Belait
   - translation_iso: jpn
     name: ベライト語
+    auto: true
+  - translation_iso: kor
+    name: 벨라이트어
     auto: true
   - translation_iso: por
     name: Belait

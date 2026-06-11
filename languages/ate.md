@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتيمبل
     auto: true
+  - translation_iso: ben
+    name: অ্যাটেম্বল
   - translation_iso: deu
     name: Atemble
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アテンブレ語
+    auto: true
+  - translation_iso: kor
+    name: 아템블레어
     auto: true
   - translation_iso: por
     name: Atemble

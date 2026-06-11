@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: चाडी अरबी
     auto: true
+  - translation_iso: ind
+    name: Arab Suwa
   - translation_iso: jpn
     name: アラビア語チャド方言
   - translation_iso: kor
     name: 차드 아랍어
   - translation_iso: por
     name: Árabe chadiano
+  - translation_iso: rus
+    name: чадский арабский
   - translation_iso: spa
     name: árabe chadiano
   - translation_iso: zho

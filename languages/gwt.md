@@ -30,8 +30,13 @@ translations:
     name: ग्वार-बती भाषा
   - translation_iso: jpn
     name: ガワール・バティ語
+  - translation_iso: kor
+    name: 가와르바티어
+    auto: true
   - translation_iso: por
     name: Língua gawar-bati
+  - translation_iso: rus
+    name: гаавар-бати
   - translation_iso: spa
     name: Gawar-Bati
     auto: true

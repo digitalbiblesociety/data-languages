@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنسوس
     auto: true
+  - translation_iso: ben
+    name: আনসুস
   - translation_iso: deu
     name: Ansus
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: अनसस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ansus
   - translation_iso: jpn
     name: アンスス語
+    auto: true
+  - translation_iso: kor
+    name: 안수스어
     auto: true
   - translation_iso: por
     name: Ansus

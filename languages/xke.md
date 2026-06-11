@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: केरेहो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kereho
   - translation_iso: jpn
     name: ケレホ語
+    auto: true
+  - translation_iso: kor
+    name: 케레호어
     auto: true
   - translation_iso: por
     name: Kereho

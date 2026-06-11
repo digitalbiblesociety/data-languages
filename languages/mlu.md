@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: トゥアバイタ語
     auto: true
+  - translation_iso: kor
+    name: 토아바이타어
+    auto: true
   - translation_iso: por
     name: Língua toqabaqita
+  - translation_iso: rus
+    name: "то'абаита"
   - translation_iso: spa
     name: "To'abaita"
     auto: true

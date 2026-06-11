@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 撒尼語
+  - translation_iso: kor
+    name: 사니어
+    auto: true
   - translation_iso: por
     name: sani
     auto: true

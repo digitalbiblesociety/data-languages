@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تانخول ناغا (الهند)
     auto: true
+  - translation_iso: ben
+    name: তাংখুল ভাষা
   - translation_iso: deu
     name: Tangkhul-Naga (Indien)
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: तांगखुल भाषा
   - translation_iso: jpn
     name: タンクル語
+  - translation_iso: kor
+    name: 탕쿨 나가어
+    auto: true
   - translation_iso: por
     name: Língua tangkhul
   - translation_iso: spa

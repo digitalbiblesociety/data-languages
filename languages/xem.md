@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: केम्बायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kembayan
   - translation_iso: jpn
     name: ケンバヤン語
+    auto: true
+  - translation_iso: kor
+    name: 켐바얀어
     auto: true
   - translation_iso: por
     name: Kembayan

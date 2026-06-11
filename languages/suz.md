@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スヌワール語
+  - translation_iso: kor
+    name: 순와르어
+    auto: true
   - translation_iso: por
     name: Língua sunwar
   - translation_iso: spa

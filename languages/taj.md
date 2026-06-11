@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: 東部タマン語
     auto: true
+  - translation_iso: kor
+    name: 동부 타망어
+    auto: true
   - translation_iso: por
     name: Tamang Oriental
     auto: true

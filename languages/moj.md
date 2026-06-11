@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モンゾンボ語
     auto: true
+  - translation_iso: kor
+    name: 몬좀보어
+    auto: true
   - translation_iso: por
     name: Monzombo
     auto: true

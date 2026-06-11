@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サラ・カバ・デメ語
     auto: true
+  - translation_iso: kor
+    name: 사라 카바 데메어
+    auto: true
   - translation_iso: por
     name: Sara Kaba Deme
     auto: true

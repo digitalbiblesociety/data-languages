@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クレナク語
     auto: true
+  - translation_iso: kor
+    name: 크레나크어
+    auto: true
   - translation_iso: por
     name: Língua crenaque
+  - translation_iso: rus
+    name: Кренак
   - translation_iso: spa
     name: Krenak
     auto: true

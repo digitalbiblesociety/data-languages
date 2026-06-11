@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ムワガヴル語
     auto: true
+  - translation_iso: kor
+    name: 므와가불어
+    auto: true
   - translation_iso: por
     name: Língua mwaghavul
+  - translation_iso: rus
+    name: Сура
   - translation_iso: spa
     name: Mwaghavul
     auto: true

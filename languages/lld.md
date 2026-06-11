@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ladin_language"
 translations:
   - translation_iso: ara
     name: اللادينية
+  - translation_iso: ben
+    name: লাদিন ভাষা
   - translation_iso: deu
     name: Ladinisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: लादीन
     auto: true
+  - translation_iso: ind
+    name: bahasa Ladin
   - translation_iso: jpn
     name: ラディン語
   - translation_iso: kor
     name: 라딘어
   - translation_iso: por
     name: língua ladino-dolomítica
+  - translation_iso: rus
+    name: ладинский язык
   - translation_iso: spa
     name: ladino
   - translation_iso: zho

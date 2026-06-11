@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カディウェウ語
     auto: true
+  - translation_iso: kor
+    name: 카디웨우어
+    auto: true
   - translation_iso: por
     name: Língua kadiwéu
+  - translation_iso: rus
+    name: Кадивеу
   - translation_iso: spa
     name: Idioma kadiweu
   - translation_iso: zho

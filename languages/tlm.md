@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トロマコ語
     auto: true
+  - translation_iso: kor
+    name: 톨로마코어
+    auto: true
   - translation_iso: por
     name: Tolomako
     auto: true

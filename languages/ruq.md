@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ميجلينو رومانية
     auto: true
+  - translation_iso: ben
+    name: মেগ্লেনো-রোমানীয় ভাষা
   - translation_iso: deu
     name: Meglenorumänisch
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: मेग्लेनो रोमानियन
     auto: true
+  - translation_iso: ind
+    name: Megleno-Rumania
   - translation_iso: jpn
     name: メグレノ・ルーマニア語
+  - translation_iso: kor
+    name: 메글레노루마니아어
+    auto: true
   - translation_iso: por
     name: língua romena meglesita
+  - translation_iso: rus
+    name: мегленорумынский язык
   - translation_iso: spa
     name: meglenorrumano
   - translation_iso: zho

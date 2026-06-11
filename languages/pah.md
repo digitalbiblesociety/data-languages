@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テンハリム語
     auto: true
+  - translation_iso: kor
+    name: 테냐링어
+    auto: true
   - translation_iso: por
     name: Dialeto tenharim
   - translation_iso: spa

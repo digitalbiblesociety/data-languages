@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サンファン・テイタ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산후안 테이타 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de San Juan Teita
     auto: true

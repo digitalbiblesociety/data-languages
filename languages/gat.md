@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ケナティ語
     auto: true
+  - translation_iso: kor
+    name: 케나티어
+    auto: true
   - translation_iso: por
     name: Kenati
     auto: true
+  - translation_iso: rus
+    name: Кенати
   - translation_iso: spa
     name: Idioma kenati
   - translation_iso: zho

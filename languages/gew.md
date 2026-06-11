@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ゲラ語
     auto: true
+  - translation_iso: kor
+    name: 게라어
+    auto: true
   - translation_iso: por
     name: Gera
     auto: true
+  - translation_iso: rus
+    name: Гера
   - translation_iso: spa
     name: Gera
     auto: true

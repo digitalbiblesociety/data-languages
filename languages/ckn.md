@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カーン・チン語
     auto: true
+  - translation_iso: kor
+    name: 캉 친어
+    auto: true
   - translation_iso: por
     name: Chin Kaang
     auto: true

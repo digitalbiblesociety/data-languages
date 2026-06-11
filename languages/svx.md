@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スカロヴィア語
+  - translation_iso: kor
+    name: 스칼비아어
+    auto: true
   - translation_iso: por
     name: Skalviano
     auto: true

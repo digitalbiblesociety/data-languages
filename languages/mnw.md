@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mon_language"
 translations:
   - translation_iso: ara
     name: لغة مون
+  - translation_iso: ben
+    name: মন
   - translation_iso: deu
     name: Mon
   - translation_iso: fra
     name: môn
   - translation_iso: hin
     name: मोन भाषा
+  - translation_iso: ind
+    name: Mon
   - translation_iso: jpn
     name: モン語
   - translation_iso: kor
     name: 몬어
   - translation_iso: por
     name: mon
+  - translation_iso: rus
+    name: монский язык
   - translation_iso: spa
     name: Mon
   - translation_iso: zho

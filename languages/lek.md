@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レイポン語
     auto: true
+  - translation_iso: kor
+    name: 레이폰어
+    auto: true
   - translation_iso: por
     name: Leipon
     auto: true

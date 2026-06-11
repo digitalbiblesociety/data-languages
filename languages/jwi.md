@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジウィラ・ペペサ語
     auto: true
+  - translation_iso: kor
+    name: 즈위라페페사어
+    auto: true
   - translation_iso: por
     name: Jwira-Pepesa
     auto: true

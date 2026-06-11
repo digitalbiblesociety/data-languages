@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Georgian_language"
 translations:
   - translation_iso: ara
     name: الجورجية
+  - translation_iso: ben
+    name: জর্জিয়ান
   - translation_iso: deu
     name: Georgisch
   - translation_iso: fra
     name: géorgien
   - translation_iso: hin
     name: जॉर्जियाई भाषा
+  - translation_iso: ind
+    name: Georgia
   - translation_iso: jpn
     name: ジョージア語
   - translation_iso: kor
     name: 조지아어
   - translation_iso: por
     name: língua georgiana
+  - translation_iso: rus
+    name: грузинский
   - translation_iso: spa
     name: georgiano
   - translation_iso: zho

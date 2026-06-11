@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マティ・ケ語
+  - translation_iso: kor
+    name: 마르티케어
+    auto: true
   - translation_iso: por
     name: marti ke
     auto: true
+  - translation_iso: rus
+    name: марти ке
   - translation_iso: spa
     name: Marti Ke
     auto: true

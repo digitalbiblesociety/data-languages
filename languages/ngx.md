@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングワイ語
     auto: true
+  - translation_iso: kor
+    name: 응과히어
+    auto: true
   - translation_iso: por
     name: Nggwahyi
     auto: true

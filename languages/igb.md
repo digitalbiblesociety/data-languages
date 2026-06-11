@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エビラ語
+  - translation_iso: kor
+    name: 에비라어
+    auto: true
   - translation_iso: por
     name: Língua ebira
+  - translation_iso: rus
+    name: Эбира (язык)
   - translation_iso: spa
     name: Ebira
     auto: true

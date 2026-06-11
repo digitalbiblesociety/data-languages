@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सावेरु
     auto: true
+  - translation_iso: ind
+    name: Saweru
   - translation_iso: jpn
     name: サウェル語
+    auto: true
+  - translation_iso: kor
+    name: 사웨루어
     auto: true
   - translation_iso: por
     name: Saweru

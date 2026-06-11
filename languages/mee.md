@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メンゲン語
+  - translation_iso: kor
+    name: 멩엔어
+    auto: true
   - translation_iso: por
     name: Mengen
     auto: true

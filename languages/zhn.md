@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: नोंग ज़ुआंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Zhuang Nong
   - translation_iso: jpn
     name: 硯広チワン語
+  - translation_iso: kor
+    name: 눙 좡어
+    auto: true
   - translation_iso: por
     name: zhuang nong
     auto: true
+  - translation_iso: rus
+    name: нунский чжуанский язык
   - translation_iso: spa
     name: Zhuang Nong
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ネパール語
     auto: true
+  - translation_iso: kor
+    name: 네팔어
+    auto: true
   - translation_iso: por
     name: nepali
     auto: true

@@ -35,6 +35,8 @@ translations:
     name: 할하 몽골어
   - translation_iso: por
     name: khalkha-mongol
+  - translation_iso: rus
+    name: халх
   - translation_iso: spa
     name: Mongol Halh
     auto: true

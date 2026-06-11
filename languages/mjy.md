@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: महिकन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mohikan
   - translation_iso: jpn
     name: マヒカン語
   - translation_iso: kor
     name: 모히칸어
   - translation_iso: por
     name: Língua moicana
+  - translation_iso: rus
+    name: Махикан
   - translation_iso: spa
     name: Mahicano
     auto: true

@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bahrani_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بحرانية
+  - translation_iso: ben
+    name: বাহরানি আরবি
   - translation_iso: deu
     name: Bahrainisches Arabisch
     auto: true
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: बहरानी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Bahrani
   - translation_iso: jpn
     name: アラビア語バーレーン方言
   - translation_iso: kor
     name: 바레인 아랍어
   - translation_iso: por
     name: Árabe bareinita
+  - translation_iso: rus
+    name: Бахарна
   - translation_iso: spa
     name: Árabe bareiní
   - translation_iso: zho

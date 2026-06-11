@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: クレレ語
     auto: true
+  - translation_iso: kor
+    name: 쿨레레어
+    auto: true
   - translation_iso: por
     name: Kulere
     auto: true
+  - translation_iso: rus
+    name: Кулере
   - translation_iso: spa
     name: Kulere
     auto: true

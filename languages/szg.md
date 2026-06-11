@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: センゲレ語
     auto: true
+  - translation_iso: kor
+    name: 셍겔레어
+    auto: true
   - translation_iso: por
     name: Sengele
     auto: true

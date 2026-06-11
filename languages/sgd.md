@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: सुरिगाओनोन
     auto: true
+  - translation_iso: ind
+    name: Surigaonon
   - translation_iso: jpn
     name: スリガオノン語
   - translation_iso: kor

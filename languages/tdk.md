@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: タンバス語
     auto: true
+  - translation_iso: kor
+    name: 탐바스어
+    auto: true
   - translation_iso: por
     name: Tambas
     auto: true
+  - translation_iso: rus
+    name: Тамбас
   - translation_iso: spa
     name: Tambas
     auto: true

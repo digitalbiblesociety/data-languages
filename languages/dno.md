@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥルロ語
     auto: true
+  - translation_iso: kor
+    name: 은드룰로어
+    auto: true
   - translation_iso: por
     name: Ndrulo
     auto: true

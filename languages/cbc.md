@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カラパナ語
     auto: true
+  - translation_iso: kor
+    name: 카라파나어
+    auto: true
   - translation_iso: por
     name: Carapana
     auto: true
+  - translation_iso: rus
+    name: Карапана
   - translation_iso: spa
     name: Carapana
     auto: true

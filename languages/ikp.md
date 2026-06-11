@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イクペシ語
     auto: true
+  - translation_iso: kor
+    name: 이크페시어
+    auto: true
   - translation_iso: por
     name: Ikpeshi
     auto: true

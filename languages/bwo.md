@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ボロ語
     auto: true
+  - translation_iso: kor
+    name: 보로어
+    auto: true
   - translation_iso: por
     name: Boro (Etiópia)
     auto: true
+  - translation_iso: rus
+    name: Боро (язык)
   - translation_iso: spa
     name: shinasha
   - translation_iso: zho

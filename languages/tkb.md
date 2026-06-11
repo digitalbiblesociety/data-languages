@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブクサ語
     auto: true
+  - translation_iso: kor
+    name: 북사어
+    auto: true
   - translation_iso: por
     name: Buksa
     auto: true

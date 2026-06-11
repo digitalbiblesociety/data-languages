@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パルヤ・バレリ語
     auto: true
+  - translation_iso: kor
+    name: 팔리아 바렐리어
+    auto: true
   - translation_iso: por
     name: Palya Bareli
     auto: true

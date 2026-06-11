@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シュアール語
+  - translation_iso: kor
+    name: 슈아르어
+    auto: true
   - translation_iso: por
     name: Língua shuar
+  - translation_iso: rus
+    name: Шуар
   - translation_iso: spa
     name: shuar
   - translation_iso: zho

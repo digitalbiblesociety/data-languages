@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コレグアヘ語
     auto: true
+  - translation_iso: kor
+    name: 코레과헤어
+    auto: true
   - translation_iso: por
     name: Koreguaje
     auto: true
+  - translation_iso: rus
+    name: Корегуахе
   - translation_iso: spa
     name: Coreguaje
   - translation_iso: zho

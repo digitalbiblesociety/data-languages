@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コオン語
     auto: true
+  - translation_iso: kor
+    name: 꼬옹어
+    auto: true
   - translation_iso: por
     name: Côông
     auto: true

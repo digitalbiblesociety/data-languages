@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोहिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kohin
   - translation_iso: jpn
     name: コヒン語
+    auto: true
+  - translation_iso: kor
+    name: 코힌어
     auto: true
   - translation_iso: por
     name: Kohin

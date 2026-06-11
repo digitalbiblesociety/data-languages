@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة ألانغان
     auto: true
+  - translation_iso: ben
+    name: আলানগান
   - translation_iso: deu
     name: Alangan
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अलंगन
     auto: true
+  - translation_iso: ind
+    name: Alangan
   - translation_iso: jpn
     name: アランガン語
+    auto: true
+  - translation_iso: kor
+    name: 알랑안어
     auto: true
   - translation_iso: por
     name: Alangan

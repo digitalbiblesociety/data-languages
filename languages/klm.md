@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ミグム語
     auto: true
+  - translation_iso: kor
+    name: 미굼어
+    auto: true
   - translation_iso: por
     name: Migum
     auto: true
+  - translation_iso: rus
+    name: Мигум
   - translation_iso: spa
     name: Migum
     auto: true

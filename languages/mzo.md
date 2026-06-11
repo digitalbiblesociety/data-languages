@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マティプハイ語
     auto: true
+  - translation_iso: kor
+    name: 마티푸이어
+    auto: true
   - translation_iso: por
     name: Matipuhy
     auto: true
+  - translation_iso: rus
+    name: Матипу
   - translation_iso: spa
     name: Matipuhy
     auto: true

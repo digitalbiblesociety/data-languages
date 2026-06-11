@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナッカラ
+  - translation_iso: kor
+    name: 나카라어
+    auto: true
   - translation_iso: por
     name: Na-kara
     auto: true
+  - translation_iso: rus
+    name: Накара (язык)
   - translation_iso: spa
     name: Na-kara
     auto: true

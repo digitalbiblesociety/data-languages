@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムプムポン語
     auto: true
+  - translation_iso: kor
+    name: 음품퐁어
+    auto: true
   - translation_iso: por
     name: Mpumpong
     auto: true

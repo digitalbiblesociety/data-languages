@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lozi_language"
 translations:
   - translation_iso: ara
     name: اللوزي
+  - translation_iso: ben
+    name: লোজি
   - translation_iso: deu
     name: Lozi
   - translation_iso: fra
     name: lozi
   - translation_iso: hin
     name: लोज़ी
+  - translation_iso: ind
+    name: Lozi
   - translation_iso: jpn
     name: ロジ語
   - translation_iso: kor
     name: 로지어
   - translation_iso: por
     name: Língua lozi
+  - translation_iso: rus
+    name: лози
   - translation_iso: spa
     name: Idioma lozi
   - translation_iso: zho

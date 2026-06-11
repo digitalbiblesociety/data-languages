@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتاك دايري
     auto: true
+  - translation_iso: ben
+    name: বাতাক দাইরি
   - translation_iso: deu
     name: Batak Dairi
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बाताक दैरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batak Pakpak
   - translation_iso: jpn
     name: バタク・ダイリ語
+  - translation_iso: kor
+    name: 바탁 다이리어
+    auto: true
   - translation_iso: por
     name: Língua pakpak
   - translation_iso: spa

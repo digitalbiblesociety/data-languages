@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャバンテ語
+  - translation_iso: kor
+    name: 샤반테어
+    auto: true
   - translation_iso: por
     name: Língua aquém
+  - translation_iso: rus
+    name: Шаванте
   - translation_iso: spa
     name: Idioma xavante
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジレル語
     auto: true
+  - translation_iso: kor
+    name: 지렐어
+    auto: true
   - translation_iso: por
     name: Jirel
     auto: true

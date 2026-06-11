@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ユタンドゥチ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 유탄두치 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Yutanduchi
     auto: true

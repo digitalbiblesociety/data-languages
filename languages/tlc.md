@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: イェクアトラ・トトナック語
     auto: true
+  - translation_iso: kor
+    name: 예쿠아틀라 토토낙어
+    auto: true
   - translation_iso: por
     name: Língua misantla totonac
+  - translation_iso: rus
+    name: Йекуатланский тотонакский язык
   - translation_iso: spa
     name: Totonaco de Yecuatla
     auto: true

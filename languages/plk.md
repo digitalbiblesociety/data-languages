@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コヒスタニシナ語
     auto: true
+  - translation_iso: kor
+    name: 코히스타니 시나어
+    auto: true
   - translation_iso: por
     name: Xina Cohistani
     auto: true

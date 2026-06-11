@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: यिलान क्रियोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jepang Kreol Yilan
   - translation_iso: jpn
     name: 宜蘭クレオール
   - translation_iso: kor

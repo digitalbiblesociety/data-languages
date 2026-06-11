@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ter%C3%AAna_language"
 translations:
   - translation_iso: ara
     name: التيرينو
+  - translation_iso: ben
+    name: তেরেনো
   - translation_iso: deu
     name: Terêna
   - translation_iso: fra
     name: terêna
   - translation_iso: hin
     name: तेरेनो
+  - translation_iso: ind
+    name: Tereno
   - translation_iso: jpn
     name: テレーノ語
   - translation_iso: kor
     name: 테레노어
   - translation_iso: por
     name: Língua terena
+  - translation_iso: rus
+    name: терено
   - translation_iso: spa
     name: terêna
   - translation_iso: zho

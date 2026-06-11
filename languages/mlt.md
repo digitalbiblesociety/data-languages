@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_language"
 translations:
   - translation_iso: ara
     name: المالطية
+  - translation_iso: ben
+    name: মল্টীয়
   - translation_iso: deu
     name: Maltesisch
   - translation_iso: fra
     name: maltais
   - translation_iso: hin
     name: माल्टीज़
+  - translation_iso: ind
+    name: Malta
   - translation_iso: jpn
     name: マルタ語
   - translation_iso: kor
     name: 몰타어
   - translation_iso: por
     name: Maltês
+  - translation_iso: rus
+    name: мальтийский
   - translation_iso: spa
     name: maltés
   - translation_iso: zho

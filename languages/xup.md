@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: アッパー・ウムプクア語
     auto: true
+  - translation_iso: kor
+    name: 상부 엄프콰어
+    auto: true
   - translation_iso: por
     name: umpqua superior
     auto: true

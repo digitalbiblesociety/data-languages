@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テメイン語
     auto: true
+  - translation_iso: kor
+    name: 테메인어
+    auto: true
   - translation_iso: por
     name: Temein
     auto: true

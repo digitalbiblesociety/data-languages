@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ママア語
     auto: true
+  - translation_iso: kor
+    name: 마마어
+    auto: true
   - translation_iso: por
     name: Mamaa
     auto: true

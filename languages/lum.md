@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルイムビ語
     auto: true
+  - translation_iso: kor
+    name: 루임비어
+    auto: true
   - translation_iso: por
     name: Luimbi
     auto: true

@@ -19,18 +19,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Auslan"
 translations:
   - translation_iso: ara
     name: لغة أوسلان
+  - translation_iso: ben
+    name: আউসলান
   - translation_iso: deu
     name: Auslan
   - translation_iso: fra
     name: langue des signes australienne
   - translation_iso: hin
     name: असलन
+  - translation_iso: ind
+    name: Bahasa Isyarat Australia
   - translation_iso: jpn
     name: オーストラリア手話
   - translation_iso: kor
     name: 오스트레일리아 수어
   - translation_iso: por
     name: língua de sinais australiana
+  - translation_iso: rus
+    name: австралийский жестовый язык
   - translation_iso: spa
     name: Auslan
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マリジャビン語
     auto: true
+  - translation_iso: kor
+    name: 마리자빈어
+    auto: true
   - translation_iso: por
     name: Maridjabin
     auto: true

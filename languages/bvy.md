@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باي‌بايانون
     auto: true
+  - translation_iso: ben
+    name: বেইবেই
   - translation_iso: deu
     name: Baybayanon
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बायबायानोन
     auto: true
+  - translation_iso: ind
+    name: Baybay
   - translation_iso: jpn
     name: バイバヤノン語
+    auto: true
+  - translation_iso: kor
+    name: 바이바야논어
     auto: true
   - translation_iso: por
     name: Língua baybay

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swampy_Cree_language"
 translations:
   - translation_iso: ara
     name: السوامبي-كري
+  - translation_iso: ben
+    name: সোয়াম্পি ক্রী
   - translation_iso: deu
     name: Swampy Cree
   - translation_iso: fra
     name: cri des marais
   - translation_iso: hin
     name: स्वॉम्पी क्री
+  - translation_iso: ind
+    name: Cree Rawa
   - translation_iso: jpn
     name: 湿原クリー語
   - translation_iso: kor
     name: 습지 크리어
   - translation_iso: por
     name: Língua swampy cree leste
+  - translation_iso: rus
+    name: болотный кри
   - translation_iso: spa
     name: cree de los pantanos
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケレウォ語
     auto: true
+  - translation_iso: kor
+    name: 케레워어
+    auto: true
   - translation_iso: por
     name: Kerewo
     auto: true

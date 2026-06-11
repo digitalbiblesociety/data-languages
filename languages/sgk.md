@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブキシア語
     auto: true
+  - translation_iso: kor
+    name: 상콩어
+    auto: true
   - translation_iso: por
     name: Sangkong
     auto: true

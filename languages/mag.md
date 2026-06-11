@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Magahi_language"
 translations:
   - translation_iso: ara
     name: لغة ماجادهي
+  - translation_iso: ben
+    name: মাগাহি
   - translation_iso: deu
     name: Magahi
   - translation_iso: fra
     name: magahi
   - translation_iso: hin
     name: मगही
+  - translation_iso: ind
+    name: Magahi
   - translation_iso: jpn
     name: マガヒー語
   - translation_iso: kor
     name: 마가드어
   - translation_iso: por
     name: Magahi
+  - translation_iso: rus
+    name: магахи
   - translation_iso: spa
     name: Idioma magahi
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة جامايكا للغة الإشارة الريفية
     auto: true
+  - translation_iso: ben
+    name: জামাইকা দেশীয় ইশারা ভাষা
   - translation_iso: deu
     name: Jamaikanische Country-Gebärdensprache
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ・カントリー手話
+  - translation_iso: kor
+    name: 자메이카 컨트리 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Rural Jamaicana
     auto: true

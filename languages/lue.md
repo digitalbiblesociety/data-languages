@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルヴァレ語
+  - translation_iso: kor
+    name: 루발레어
+    auto: true
   - translation_iso: por
     name: Língua luvale
+  - translation_iso: rus
+    name: лувалейский язык
   - translation_iso: spa
     name: Idioma luvale
   - translation_iso: zho

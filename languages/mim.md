@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ألاكاتلاتزالا
     auto: true
+  - translation_iso: ben
+    name: আলাকাটলাটজালা মিক্সটেক
   - translation_iso: deu
     name: Alacatlatzala Mixtec
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラカトラツァラ・ミステク語
+    auto: true
+  - translation_iso: kor
+    name: 알라카틀라찰라 믹스텍어
     auto: true
   - translation_iso: por
     name: mixteco de Alacatlatzala

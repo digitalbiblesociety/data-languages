@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेगाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Segai
   - translation_iso: jpn
     name: プナン・ケライ語
+    auto: true
+  - translation_iso: kor
+    name: 세가이어
     auto: true
   - translation_iso: por
     name: Segai

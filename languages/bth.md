@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بياتاه بيدايوه
     auto: true
+  - translation_iso: ben
+    name: বায়াতাহ
   - translation_iso: deu
     name: Biatah Bidayuh
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बियाताह बिदायुह
     auto: true
+  - translation_iso: ind
+    name: Biatah
   - translation_iso: jpn
     name: ビアタ・ビダユ語
+    auto: true
+  - translation_iso: kor
+    name: 비아타 비다유어
     auto: true
   - translation_iso: por
     name: Bidayuh Biatah

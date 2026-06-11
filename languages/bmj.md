@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボテ・ダライ語
     auto: true
+  - translation_iso: kor
+    name: 보테·다라이어
+    auto: true
   - translation_iso: por
     name: Bote-Darai
     auto: true

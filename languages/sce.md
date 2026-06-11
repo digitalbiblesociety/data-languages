@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: डोंगश्यांग
     auto: true
+  - translation_iso: ind
+    name: Dongxiang
   - translation_iso: jpn
     name: サンタ語
   - translation_iso: kor
     name: 둥샹어
   - translation_iso: por
     name: santa
+  - translation_iso: rus
+    name: дунсянский язык
   - translation_iso: spa
     name: santa
   - translation_iso: zho

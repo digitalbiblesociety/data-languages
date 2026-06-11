@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トラゾアルテペック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 틀라소얄테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tlazoyaltepec
     auto: true

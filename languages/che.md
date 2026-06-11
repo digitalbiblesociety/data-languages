@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chechen_language"
 translations:
   - translation_iso: ara
     name: الشيشانية
+  - translation_iso: ben
+    name: চেচেন
   - translation_iso: deu
     name: Tschetschenisch
   - translation_iso: fra
     name: tchétchène
   - translation_iso: hin
     name: चेचन
+  - translation_iso: ind
+    name: Chechen
   - translation_iso: jpn
     name: チェチェン語
   - translation_iso: kor
     name: 체첸어
   - translation_iso: por
     name: checheno
+  - translation_iso: rus
+    name: чеченский
   - translation_iso: spa
     name: checheno
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユト語
+  - translation_iso: kor
+    name: 유트·남부 파이우트어
+    auto: true
   - translation_iso: por
     name: Ute
+  - translation_iso: rus
+    name: юте
   - translation_iso: spa
     name: idioma ute
   - translation_iso: zho

@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: मोटू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Motu
   - translation_iso: jpn
     name: モトゥ語
   - translation_iso: kor
     name: 모투어
   - translation_iso: por
     name: Língua motu
+  - translation_iso: rus
+    name: Моту
   - translation_iso: spa
     name: Idioma motu
   - translation_iso: zho

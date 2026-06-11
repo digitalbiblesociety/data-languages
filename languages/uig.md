@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Uyghur_language"
 translations:
   - translation_iso: ara
     name: الأويغورية
+  - translation_iso: ben
+    name: উইঘুর
   - translation_iso: deu
     name: Uigurisch
   - translation_iso: fra
     name: ouïghour
   - translation_iso: hin
     name: उइगुर भाषा
+  - translation_iso: ind
+    name: Uyghur
   - translation_iso: jpn
     name: ウイグル語
   - translation_iso: kor
     name: 위구르어
   - translation_iso: por
     name: Língua uigur
+  - translation_iso: rus
+    name: уйгурский
   - translation_iso: spa
     name: uigur
   - translation_iso: zho

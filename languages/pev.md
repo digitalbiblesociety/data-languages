@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ペモノ語
     auto: true
+  - translation_iso: kor
+    name: 페모노어
+    auto: true
   - translation_iso: por
     name: Pémono
     auto: true

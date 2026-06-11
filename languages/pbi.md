@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パルクワ語
     auto: true
+  - translation_iso: kor
+    name: 파르크와어
+    auto: true
   - translation_iso: por
     name: Parkwa
     auto: true

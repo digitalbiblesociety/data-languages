@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ラナ・タル語
     auto: true
+  - translation_iso: kor
+    name: 라나 타루어
+    auto: true
   - translation_iso: por
     name: Língua tharu
   - translation_iso: spa

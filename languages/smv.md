@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة سامفيدي
     auto: true
+  - translation_iso: ben
+    name: সামবেদী বোলী
   - translation_iso: deu
     name: Samvedi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サマベディ語
+    auto: true
+  - translation_iso: kor
+    name: 삼베디어
     auto: true
   - translation_iso: por
     name: Samvedi

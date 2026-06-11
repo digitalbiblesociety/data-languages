@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: リビンザ語
     auto: true
+  - translation_iso: kor
+    name: 리빈자어
+    auto: true
   - translation_iso: por
     name: Libinza
     auto: true

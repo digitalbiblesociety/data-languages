@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: チャンティアル語
     auto: true
+  - translation_iso: kor
+    name: 찬티알어
+    auto: true
   - translation_iso: por
     name: Língua chhantyal
+  - translation_iso: rus
+    name: Чантьяльский язык
   - translation_iso: spa
     name: Chantyal
     auto: true

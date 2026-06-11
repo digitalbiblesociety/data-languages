@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فارلي
     auto: true
+  - translation_iso: ben
+    name: বারলী ভাষা
   - translation_iso: deu
     name: Varli
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴァーリー語
+    auto: true
+  - translation_iso: kor
+    name: 바를리어
     auto: true
   - translation_iso: por
     name: Varli

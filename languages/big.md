@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بيانجايي
     auto: true
+  - translation_iso: ben
+    name: বায়াঙাই
   - translation_iso: deu
     name: Biangai
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビアンガイ語
+    auto: true
+  - translation_iso: kor
+    name: 비앙가이어
     auto: true
   - translation_iso: por
     name: Biangai

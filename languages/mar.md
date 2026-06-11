@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Marathi_language"
 translations:
   - translation_iso: ara
     name: المراثية
+  - translation_iso: ben
+    name: মারাঠি
   - translation_iso: deu
     name: Marathi
   - translation_iso: fra
     name: marathi
   - translation_iso: hin
     name: मराठी
+  - translation_iso: ind
+    name: Marathi
   - translation_iso: jpn
     name: マラーティー語
   - translation_iso: kor
     name: 마라티어
   - translation_iso: por
     name: marata
+  - translation_iso: rus
+    name: маратхи
   - translation_iso: spa
     name: maratí
   - translation_iso: zho

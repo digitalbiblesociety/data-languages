@@ -33,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語
+  - translation_iso: kor
+    name: 칼로 핀란드 로마니어
+    auto: true
   - translation_iso: por
     name: Língua kalo finlandesa
+  - translation_iso: rus
+    name: финский кало
   - translation_iso: spa
     name: Romaní finlandés kalo
     auto: true

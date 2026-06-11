@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ポモ語
+  - translation_iso: kor
+    name: 남부 포모어
+    auto: true
   - translation_iso: por
     name: Língua pomo meridional
+  - translation_iso: rus
+    name: Южный помо
   - translation_iso: spa
     name: pomo meridional
   - translation_iso: zho

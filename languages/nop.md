@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヌマンガン語
     auto: true
+  - translation_iso: kor
+    name: 누망강어
+    auto: true
   - translation_iso: por
     name: Numanggang
     auto: true

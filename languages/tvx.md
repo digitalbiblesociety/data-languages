@@ -22,11 +22,18 @@ translations:
   - translation_iso: hin
     name: ताइवोआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Taivoan
   - translation_iso: jpn
     name: タイボアン語
+  - translation_iso: kor
+    name: 타이보안어
+    auto: true
   - translation_iso: por
     name: Taivoan
     auto: true
+  - translation_iso: rus
+    name: тайвоанский язык
   - translation_iso: spa
     name: idioma taivoan
   - translation_iso: zho

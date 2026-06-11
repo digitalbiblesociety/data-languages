@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リポ語
+  - translation_iso: kor
+    name: 롤로포어
+    auto: true
   - translation_iso: por
     name: lolopo
     auto: true
+  - translation_iso: rus
+    name: лолопо
   - translation_iso: spa
     name: Lolopo
     auto: true

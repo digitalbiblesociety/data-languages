@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北中央ミクセ語
     auto: true
+  - translation_iso: kor
+    name: 중북부 미헤어
+    auto: true
   - translation_iso: por
     name: Mixe Centro-Norte
     auto: true

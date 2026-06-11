@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドンベ語
     auto: true
+  - translation_iso: kor
+    name: 돔베어
+    auto: true
   - translation_iso: por
     name: Dombe
     auto: true

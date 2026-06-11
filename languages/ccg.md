@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サンバ・ダカ語
     auto: true
+  - translation_iso: kor
+    name: 삼바 다카어
+    auto: true
   - translation_iso: por
     name: Samba Daka
     auto: true

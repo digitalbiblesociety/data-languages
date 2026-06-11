@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيتي-بيندي
     auto: true
+  - translation_iso: ben
+    name: বেটে-বেন্দি
   - translation_iso: deu
     name: Bete-Bendi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ・ベンディ語
+    auto: true
+  - translation_iso: kor
+    name: 베테벤디어
     auto: true
   - translation_iso: por
     name: Bete-Bendi

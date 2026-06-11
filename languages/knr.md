@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カニングラ語
     auto: true
+  - translation_iso: kor
+    name: 카닝그라어
+    auto: true
   - translation_iso: por
     name: Kaningra
     auto: true
+  - translation_iso: rus
+    name: Канингра
   - translation_iso: spa
     name: kaningra
   - translation_iso: zho

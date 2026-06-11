@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クリアン語
     auto: true
+  - translation_iso: kor
+    name: 크리앙어
+    auto: true
   - translation_iso: por
     name: Kriang
     auto: true

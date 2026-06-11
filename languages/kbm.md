@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イワル語
     auto: true
+  - translation_iso: kor
+    name: 이왈어
+    auto: true
   - translation_iso: por
     name: Iwal
     auto: true

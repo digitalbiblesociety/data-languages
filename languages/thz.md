@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Air_Tamajeq_language"
 translations:
   - translation_iso: ara
     name: تايرت
+  - translation_iso: ben
+    name: এয়ার তামাজেক
   - translation_iso: deu
     name: Tayart Tamajeq
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タヤルト・タマジェク語
+  - translation_iso: kor
+    name: 타야르트 타마제크어
+    auto: true
   - translation_iso: por
     name: Língua tamajeg
+  - translation_iso: rus
+    name: таит
   - translation_iso: spa
     name: Idioma tamajeq de Air
   - translation_iso: zho

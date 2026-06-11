@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ザクリング語
     auto: true
+  - translation_iso: kor
+    name: 자크링어
+    auto: true
   - translation_iso: por
     name: zakhring
     auto: true

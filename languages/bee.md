@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビャンシ語
     auto: true
+  - translation_iso: kor
+    name: 비앙시어
+    auto: true
   - translation_iso: por
     name: Byangsi
     auto: true

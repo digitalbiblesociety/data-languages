@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة أندلسية
+  - translation_iso: ben
+    name: আন্দালুসীয় আরবি
   - translation_iso: deu
     name: Andalusisches Arabisch
     auto: true
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अंदलूसी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Andalusia
   - translation_iso: jpn
     name: アル・アンダルス＝アラビア語
   - translation_iso: kor
     name: 안달루시아 구어체 아랍어
   - translation_iso: por
     name: dialecto árabe andalusino
+  - translation_iso: rus
+    name: Андалузский диалект арабского языка
   - translation_iso: spa
     name: árabe andalusí
   - translation_iso: zho

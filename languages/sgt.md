@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メラ・サクテン語
+  - translation_iso: kor
+    name: 브로크파케어
+    auto: true
   - translation_iso: por
     name: Brokpake
     auto: true
+  - translation_iso: rus
+    name: Брокпа-кэ
   - translation_iso: spa
     name: Brokpake
     auto: true

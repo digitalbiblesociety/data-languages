@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باريجي
     auto: true
+  - translation_iso: ben
+    name: আগা বেরেহো
   - translation_iso: deu
     name: Bariji
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリジ語
+    auto: true
+  - translation_iso: kor
+    name: 바리지어
     auto: true
   - translation_iso: por
     name: Bariji

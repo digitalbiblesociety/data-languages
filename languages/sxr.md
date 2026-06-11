@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: साआरोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Saaroa
   - translation_iso: jpn
     name: サアロア語
+  - translation_iso: kor
+    name: 사로아어
+    auto: true
   - translation_iso: por
     name: Língua saaroa
+  - translation_iso: rus
+    name: саароа
   - translation_iso: spa
     name: Idioma saaroa
   - translation_iso: zho

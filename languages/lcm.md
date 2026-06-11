@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴォンガイ語
+  - translation_iso: kor
+    name: 퉁가그어
+    auto: true
   - translation_iso: por
     name: Tungag
     auto: true
+  - translation_iso: rus
+    name: Тунгаг
   - translation_iso: spa
     name: Tungag
     auto: true

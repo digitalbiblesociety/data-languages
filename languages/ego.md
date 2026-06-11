@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإيجون
     auto: true
+  - translation_iso: ben
+    name: ইগন
   - translation_iso: deu
     name: Eggon
   - translation_iso: fra

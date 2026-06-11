@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 테텔싱고 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Tetelcingo
     auto: true
+  - translation_iso: rus
+    name: тетельсингский науатль
   - translation_iso: spa
     name: náhuatl tetelcinteco
   - translation_iso: zho

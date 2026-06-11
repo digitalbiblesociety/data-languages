@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبالا أيتا
     auto: true
+  - translation_iso: ben
+    name: আম্বালা
   - translation_iso: deu
     name: Ambala Ayta
   - translation_iso: fra
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: अम्बाला अयता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ambala
   - translation_iso: jpn
     name: アンバラアイタ語
     auto: true
+  - translation_iso: kor
+    name: 암발라 아이타어
+    auto: true
   - translation_iso: por
     name: Língua ambala
+  - translation_iso: rus
+    name: амбала
   - translation_iso: spa
     name: Ambala Ayta
     auto: true

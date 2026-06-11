@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ドー語
     auto: true
+  - translation_iso: kor
+    name: 타이도어
+    auto: true
   - translation_iso: por
     name: Tai Do
     auto: true

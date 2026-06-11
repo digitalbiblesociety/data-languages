@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤラカロレ語
     auto: true
+  - translation_iso: kor
+    name: 얄라칼로레어
+    auto: true
   - translation_iso: por
     name: yalakalore
     auto: true

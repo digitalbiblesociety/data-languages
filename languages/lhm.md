@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルホミ語
     auto: true
+  - translation_iso: kor
+    name: 로미어
+    auto: true
   - translation_iso: por
     name: Lhomi
     auto: true

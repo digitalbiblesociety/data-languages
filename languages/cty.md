@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マウンダダン・チェッティ語
     auto: true
+  - translation_iso: kor
+    name: 문다단 체티어
+    auto: true
   - translation_iso: por
     name: Moundadan Chetty
     auto: true

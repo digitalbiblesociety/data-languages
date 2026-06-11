@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باليينكيرو
     auto: true
+  - translation_iso: ben
+    name: পালেঙ্কেরো ক্রেওল
   - translation_iso: deu
     name: Palenquero
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
     name: 팔렌케로 크리올
   - translation_iso: por
     name: Palenquero
+  - translation_iso: rus
+    name: Паленкеро
   - translation_iso: spa
     name: criollo palenquero
   - translation_iso: zho

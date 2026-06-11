@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブディブド語
+  - translation_iso: kor
+    name: 부디부드어
+    auto: true
   - translation_iso: por
     name: Budibud
     auto: true

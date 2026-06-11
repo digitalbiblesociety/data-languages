@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オントンジャワ語
+  - translation_iso: kor
+    name: 온통자바어
+    auto: true
   - translation_iso: por
     name: Língua ontong java
   - translation_iso: spa

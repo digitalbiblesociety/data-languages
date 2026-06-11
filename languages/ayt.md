@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मगबुकुन आयता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mariveleño
   - translation_iso: jpn
     name: マグブクン・アイタ語
+    auto: true
+  - translation_iso: kor
+    name: 마그부쿤 아이타어
     auto: true
   - translation_iso: por
     name: Ayta Magbukun

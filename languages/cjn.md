@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チェナピアン語
     auto: true
+  - translation_iso: kor
+    name: 체나피안어
+    auto: true
   - translation_iso: por
     name: Chenapian
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガブリ語
     auto: true
+  - translation_iso: kor
+    name: 가브리어
+    auto: true
   - translation_iso: por
     name: Gabri
     auto: true

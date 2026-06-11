@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: リパン・アパッチ語
     auto: true
+  - translation_iso: kor
+    name: 리판 아파치어
+    auto: true
   - translation_iso: por
     name: Língua lipan apache
+  - translation_iso: rus
+    name: Липан
   - translation_iso: spa
     name: Lipán
   - translation_iso: zho

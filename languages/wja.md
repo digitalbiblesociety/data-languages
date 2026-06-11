@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ワジャ語
     auto: true
+  - translation_iso: kor
+    name: 와자어
+    auto: true
   - translation_iso: por
     name: Língua waja
+  - translation_iso: rus
+    name: Ваджа
   - translation_iso: spa
     name: Waja
     auto: true

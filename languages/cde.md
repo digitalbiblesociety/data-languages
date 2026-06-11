@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チェンチュ語
     auto: true
+  - translation_iso: kor
+    name: 첸추어
+    auto: true
   - translation_iso: por
     name: Chenchu
     auto: true

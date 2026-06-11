@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カニョク語
     auto: true
+  - translation_iso: kor
+    name: 카뇩어
+    auto: true
   - translation_iso: por
     name: Língua kaniok
   - translation_iso: spa

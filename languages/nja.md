@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンザニイ語
     auto: true
+  - translation_iso: kor
+    name: 은자니어
+    auto: true
   - translation_iso: por
     name: Nzanyi
     auto: true

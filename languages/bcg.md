@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プクル語
+  - translation_iso: kor
+    name: 바가 포쿠르어
+    auto: true
   - translation_iso: por
     name: Baga Pokur
     auto: true

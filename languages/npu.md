@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: プイメイ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 푸이메이 나가어
+    auto: true
   - translation_iso: por
     name: Naga Puimei
     auto: true

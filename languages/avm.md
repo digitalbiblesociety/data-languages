@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنجكاموثي
     auto: true
+  - translation_iso: ben
+    name: আংকামুথি
   - translation_iso: deu
     name: Angkamuthi
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンカムティ語
+    auto: true
+  - translation_iso: kor
+    name: 앙카무티어
     auto: true
   - translation_iso: por
     name: Angkamuthi

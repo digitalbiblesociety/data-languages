@@ -21,17 +21,26 @@ translations:
   - translation_iso: ara
     name: اللغة أشكون
     auto: true
+  - translation_iso: ben
+    name: আশকুন
   - translation_iso: deu
     name: Ashkun
   - translation_iso: fra
     name: ashkun
   - translation_iso: hin
     name: आश्कूनू भाषा
+  - translation_iso: ind
+    name: Bahasa Askunu
   - translation_iso: jpn
     name: アシュク語
+  - translation_iso: kor
+    name: 아슈쿤어
+    auto: true
   - translation_iso: por
     name: Ashkun
     auto: true
+  - translation_iso: rus
+    name: Ашкун
   - translation_iso: spa
     name: Idioma askunu
   - translation_iso: zho

@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: トゥネン語
     auto: true
+  - translation_iso: kor
+    name: 투넨어
+    auto: true
   - translation_iso: por
     name: Tunen
     auto: true
+  - translation_iso: rus
+    name: тунен
   - translation_iso: spa
     name: Tunen
     auto: true

@@ -23,10 +23,17 @@ translations:
     name: méroïtique
   - translation_iso: hin
     name: मेरोइटिक भाषा
+  - translation_iso: ind
+    name: bahasa Meroi
   - translation_iso: jpn
     name: メロエ語
+  - translation_iso: kor
+    name: 메로에어
+    auto: true
   - translation_iso: por
     name: meróitico
+  - translation_iso: rus
+    name: мероитский язык
   - translation_iso: spa
     name: meroítico
   - translation_iso: zho

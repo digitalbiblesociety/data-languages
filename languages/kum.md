@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kumyk_language"
 translations:
   - translation_iso: ara
     name: القموقية
+  - translation_iso: ben
+    name: কুমিয়াক
   - translation_iso: deu
     name: Kumykisch
   - translation_iso: fra
     name: koumyk
   - translation_iso: hin
     name: कुमीक
+  - translation_iso: ind
+    name: Kumyk
   - translation_iso: jpn
     name: クムク語
   - translation_iso: kor
     name: 쿠미크어
   - translation_iso: por
     name: Língua kumyk
+  - translation_iso: rus
+    name: кумыкский
   - translation_iso: spa
     name: Idioma cumuco
   - translation_iso: zho

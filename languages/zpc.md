@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: チョアパン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 초아판 사포텍어
+    auto: true
   - translation_iso: por
     name: Língua choápan
+  - translation_iso: rus
+    name: Чоапанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Choapan
     auto: true

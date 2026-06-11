@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة ألوجو
     auto: true
+  - translation_iso: ben
+    name: আলুগু
   - translation_iso: deu
     name: Alugu
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルグ語
+    auto: true
+  - translation_iso: kor
+    name: 알루구어
     auto: true
   - translation_iso: por
     name: Alugu

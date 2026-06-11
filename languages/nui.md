@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンベ語
+  - translation_iso: kor
+    name: 응굼비어
+    auto: true
   - translation_iso: por
     name: Ngumbi
     auto: true

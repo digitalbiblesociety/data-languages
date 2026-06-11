@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: मेनोमिनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Menominee
   - translation_iso: jpn
     name: メノミニー語
+  - translation_iso: kor
+    name: 메노미니어
+    auto: true
   - translation_iso: por
     name: Língua menominee
+  - translation_iso: rus
+    name: Меномини
   - translation_iso: spa
     name: menominee
   - translation_iso: zho

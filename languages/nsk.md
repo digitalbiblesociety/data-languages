@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: नस्कापी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Naskapi
   - translation_iso: jpn
     name: ナスカピ語
+  - translation_iso: kor
+    name: 나스카피어
+    auto: true
   - translation_iso: por
     name: Naskapi
     auto: true
+  - translation_iso: rus
+    name: Наскапи
   - translation_iso: spa
     name: idioma naskapi
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ジマカニ語
     auto: true
+  - translation_iso: kor
+    name: 지마카니어
+    auto: true
   - translation_iso: por
     name: zimakani
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: メデブル語
     auto: true
+  - translation_iso: kor
+    name: 메데부르어
+    auto: true
   - translation_iso: por
     name: Medebur
     auto: true
+  - translation_iso: rus
+    name: Медебур
   - translation_iso: spa
     name: Medebur
     auto: true

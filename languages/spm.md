@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكيم
     auto: true
+  - translation_iso: ben
+    name: আকুকেম
   - translation_iso: deu
     name: Akukem
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクケム語
+    auto: true
+  - translation_iso: kor
+    name: 아쿠켐어
     auto: true
   - translation_iso: por
     name: Akukem

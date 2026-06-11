@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギビ語
     auto: true
+  - translation_iso: kor
+    name: 그비어
+    auto: true
   - translation_iso: por
     name: Gbii
     auto: true

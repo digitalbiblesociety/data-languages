@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グンウィング語
+  - translation_iso: kor
+    name: 군윙구어
+    auto: true
   - translation_iso: por
     name: Língua kunwinjku
+  - translation_iso: rus
+    name: Кунвиньку
   - translation_iso: spa
     name: Gunwinggu
     auto: true

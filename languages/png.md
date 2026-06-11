@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポング語
+  - translation_iso: kor
+    name: 퐁구어
+    auto: true
   - translation_iso: por
     name: Pongu
     auto: true

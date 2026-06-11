@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hiri_Motu"
 translations:
   - translation_iso: ara
     name: هيري موتو
+  - translation_iso: ben
+    name: হিরি মোতু
   - translation_iso: deu
     name: Hiri Motu
   - translation_iso: fra
     name: hiri motou
   - translation_iso: hin
     name: हिरी मोतू
+  - translation_iso: ind
+    name: Hiri Motu
   - translation_iso: jpn
     name: ヒリモツ語
   - translation_iso: kor
     name: 히리 모투어
   - translation_iso: por
     name: Língua hiri motu
+  - translation_iso: rus
+    name: хиримоту
   - translation_iso: spa
     name: Hiri motu
   - translation_iso: zho

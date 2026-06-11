@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クサール語
+  - translation_iso: kor
+    name: 쿠살어
+    auto: true
   - translation_iso: por
     name: Língua kusaal
+  - translation_iso: rus
+    name: кусаал
   - translation_iso: spa
     name: Kusaal
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イェッキー語
     auto: true
+  - translation_iso: kor
+    name: 예케어
+    auto: true
   - translation_iso: por
     name: língua afenmai
   - translation_iso: spa

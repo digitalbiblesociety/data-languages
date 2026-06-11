@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيرماوري
     auto: true
+  - translation_iso: ben
+    name: সিরমৌরী ভাষা
   - translation_iso: deu
     name: Sirmauri
     auto: true
@@ -31,8 +33,13 @@ translations:
     name: सिरमौरी
   - translation_iso: jpn
     name: スルマウリ語
+  - translation_iso: kor
+    name: 시르마우리어
+    auto: true
   - translation_iso: por
     name: Língua sirmauri
+  - translation_iso: rus
+    name: Сирмаури
   - translation_iso: spa
     name: Sirmauri
     auto: true

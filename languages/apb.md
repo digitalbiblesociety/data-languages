@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サア語
+  - translation_iso: kor
+    name: 사아어
+    auto: true
   - translation_iso: por
     name: "Língua sa'a"
   - translation_iso: spa

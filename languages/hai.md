@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haida_language"
 translations:
   - translation_iso: ara
     name: الهيدا
+  - translation_iso: ben
+    name: হাইডা
   - translation_iso: deu
     name: Haida
   - translation_iso: fra
     name: haïda
   - translation_iso: hin
     name: हैडा
+  - translation_iso: ind
+    name: Haida
   - translation_iso: jpn
     name: ハイダ語
   - translation_iso: kor
     name: 하이다어
   - translation_iso: por
     name: Língua haida
+  - translation_iso: rus
+    name: хайда
   - translation_iso: spa
     name: idioma haida
   - translation_iso: zho

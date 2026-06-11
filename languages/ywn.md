@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤワナワ語
     auto: true
+  - translation_iso: kor
+    name: 야와나와어
+    auto: true
   - translation_iso: por
     name: Língua iauanauá
   - translation_iso: spa

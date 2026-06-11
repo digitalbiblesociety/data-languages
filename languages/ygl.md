@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・ゲル語
     auto: true
+  - translation_iso: kor
+    name: 양굼겔어
+    auto: true
   - translation_iso: por
     name: yangum gel
     auto: true

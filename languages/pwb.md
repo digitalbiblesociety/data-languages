@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パナワ語
     auto: true
+  - translation_iso: kor
+    name: 파나와어
+    auto: true
   - translation_iso: por
     name: Panawa
     auto: true

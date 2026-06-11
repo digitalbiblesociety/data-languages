@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北東ポモ語
     auto: true
+  - translation_iso: kor
+    name: 북동부 포모어
+    auto: true
   - translation_iso: por
     name: Pomo Nordeste
     auto: true
+  - translation_iso: rus
+    name: Северо-восточный помо
   - translation_iso: spa
     name: Northeastern Pomo
   - translation_iso: zho

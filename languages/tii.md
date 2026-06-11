@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Tiene語
+  - translation_iso: kor
+    name: 티에네어
+    auto: true
   - translation_iso: por
     name: Tiene
     auto: true

@@ -31,6 +31,8 @@ translations:
     name: 옐레어
   - translation_iso: por
     name: Língua yele
+  - translation_iso: rus
+    name: Йеле
   - translation_iso: spa
     name: Idioma yélî dnye
   - translation_iso: zho

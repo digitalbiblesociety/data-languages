@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジリム語
     auto: true
+  - translation_iso: kor
+    name: 질림어
+    auto: true
   - translation_iso: por
     name: Jilim
     auto: true

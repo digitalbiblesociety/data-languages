@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥンガ語
     auto: true
+  - translation_iso: kor
+    name: 은둥가어
+    auto: true
   - translation_iso: por
     name: Ndunga
     auto: true

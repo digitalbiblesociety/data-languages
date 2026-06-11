@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أري
     auto: true
+  - translation_iso: ben
+    name: আরে
   - translation_iso: deu
     name: Are
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アレ語
+  - translation_iso: kor
+    name: 아레어
+    auto: true
   - translation_iso: por
     name: Língua are
+  - translation_iso: rus
+    name: аре
   - translation_iso: spa
     name: are
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: スルン語
     auto: true
+  - translation_iso: kor
+    name: 툴룽어
+    auto: true
   - translation_iso: por
     name: Thulung
     auto: true
+  - translation_iso: rus
+    name: тулунгский язык
   - translation_iso: spa
     name: Thulung
     auto: true

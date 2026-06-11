@@ -19,18 +19,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Illyrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الإيليرية
+  - translation_iso: ben
+    name: ইলিরীয় ভাষাসমূহ
   - translation_iso: deu
     name: Illyrisch
   - translation_iso: fra
     name: langues illyriennes
   - translation_iso: hin
     name: इलरियान भाषा
+  - translation_iso: ind
+    name: Bahasa Iliria
   - translation_iso: jpn
     name: イリュリア語
   - translation_iso: kor
     name: 일리리아어
   - translation_iso: por
     name: Línguas ilírias
+  - translation_iso: rus
+    name: иллирийские языки
   - translation_iso: spa
     name: Lenguas ilirias
   - translation_iso: zho

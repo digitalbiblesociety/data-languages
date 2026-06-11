@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أروسي
     auto: true
+  - translation_iso: ben
+    name: আরোসি
   - translation_iso: deu
     name: Arosi
     auto: true
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロシ語
+  - translation_iso: kor
+    name: 아로시어
+    auto: true
   - translation_iso: por
     name: Arosi
     auto: true
+  - translation_iso: rus
+    name: ароси
   - translation_iso: spa
     name: Arosi
     auto: true

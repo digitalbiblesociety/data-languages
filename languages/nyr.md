@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニイハ語
     auto: true
+  - translation_iso: kor
+    name: 니하어
+    auto: true
   - translation_iso: por
     name: Nyiha (Malawi)
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンビ語
+  - translation_iso: kor
+    name: 쾀비어
+    auto: true
   - translation_iso: por
     name: Kwambi
     auto: true

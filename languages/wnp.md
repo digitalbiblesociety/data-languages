@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワナプ語
     auto: true
+  - translation_iso: kor
+    name: 와납어
+    auto: true
   - translation_iso: por
     name: Wanap
     auto: true

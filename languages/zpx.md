@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サン・バルタザル・ロキチャ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 산발타사르로시차 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de San Baltazar Loxicha
     auto: true
+  - translation_iso: rus
+    name: Сан-балтасар-лохичанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de San Baltazar Loxicha
     auto: true

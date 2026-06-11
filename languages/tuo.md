@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥカノ語
+  - translation_iso: kor
+    name: 투카노어
+    auto: true
   - translation_iso: por
     name: Língua tucana
+  - translation_iso: rus
+    name: Тукано
   - translation_iso: spa
     name: Idioma tucano
   - translation_iso: zho

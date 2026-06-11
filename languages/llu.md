@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラウ語
+  - translation_iso: kor
+    name: 라우어
+    auto: true
   - translation_iso: por
     name: Lau
     auto: true
+  - translation_iso: rus
+    name: лау
   - translation_iso: spa
     name: Lau
     auto: true

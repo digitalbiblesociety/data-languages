@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: वारोपेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Waropen
   - translation_iso: jpn
     name: ワロペン語
+    auto: true
+  - translation_iso: kor
+    name: 와로펜어
     auto: true
   - translation_iso: por
     name: Waropen

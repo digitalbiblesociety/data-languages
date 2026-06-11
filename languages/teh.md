@@ -34,6 +34,8 @@ translations:
     name: 떼우엘체어
   - translation_iso: por
     name: Língua tehuelche
+  - translation_iso: rus
+    name: Теуэльче (язык)
   - translation_iso: spa
     name: Idioma tehuelche
   - translation_iso: zho

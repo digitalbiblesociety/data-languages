@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ユイ語
     auto: true
+  - translation_iso: kor
+    name: 솔트유이어
+    auto: true
   - translation_iso: por
     name: Salt-Yui
     auto: true

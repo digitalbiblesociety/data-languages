@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マバカ・ヴァレー・カリンガ語
     auto: true
+  - translation_iso: kor
+    name: 마바카 계곡 칼링가어
+    auto: true
   - translation_iso: por
     name: Kalinga do Vale Mabaka
     auto: true

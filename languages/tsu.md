@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: त्सोऊ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tsou
   - translation_iso: jpn
     name: ツォウ語
   - translation_iso: kor
     name: 초우어
   - translation_iso: por
     name: Língua tsou
+  - translation_iso: rus
+    name: Цзоу
   - translation_iso: spa
     name: Idioma tsou
   - translation_iso: zho

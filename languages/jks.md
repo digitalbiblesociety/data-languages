@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أماميت كونيا للإشارة
     auto: true
+  - translation_iso: ben
+    name: আমামি কোনিয়া সাংকেতিক ভাষা
   - translation_iso: deu
     name: Amami-Koniya-Gebärdensprache
     auto: true
@@ -28,6 +30,9 @@ translations:
     name: कोनिया सांकेतिक भाषा
   - translation_iso: jpn
     name: 奄美大島手話
+  - translation_iso: kor
+    name: 아마미 고니야 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Amami Koniya
     auto: true

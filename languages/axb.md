@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبيبون
     auto: true
+  - translation_iso: ben
+    name: আবিপন
   - translation_iso: deu
     name: Callaga
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アビポン語
     auto: true
+  - translation_iso: kor
+    name: 아비폰어
+    auto: true
   - translation_iso: por
     name: Abipon
     auto: true
+  - translation_iso: rus
+    name: абипон
   - translation_iso: spa
     name: idioma abipón
   - translation_iso: zho

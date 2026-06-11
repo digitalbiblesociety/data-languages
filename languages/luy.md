@@ -16,18 +16,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luhya_language"
 translations:
   - translation_iso: ara
     name: لغة اللويا
+  - translation_iso: ben
+    name: লুইয়া
   - translation_iso: deu
     name: Luhya
   - translation_iso: fra
     name: langues luyia
   - translation_iso: hin
     name: ल्युईआ
+  - translation_iso: ind
+    name: Luyia
   - translation_iso: jpn
     name: ルヒヤ語
   - translation_iso: kor
     name: 루야어
   - translation_iso: por
     name: língua luhya
+  - translation_iso: rus
+    name: лухья
   - translation_iso: spa
     name: luyia
   - translation_iso: zho

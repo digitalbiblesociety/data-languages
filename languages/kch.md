@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ボノ語
     auto: true
+  - translation_iso: kor
+    name: 보노어
+    auto: true
   - translation_iso: por
     name: Vono
     auto: true

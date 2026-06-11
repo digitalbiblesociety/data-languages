@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ウェルガイア語
     auto: true
+  - translation_iso: kor
+    name: 웨르가이아어
+    auto: true
   - translation_iso: por
     name: Wergaia
     auto: true

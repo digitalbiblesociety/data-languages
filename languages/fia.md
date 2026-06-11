@@ -34,6 +34,8 @@ translations:
     name: 노빈어
   - translation_iso: por
     name: Língua nobiin
+  - translation_iso: rus
+    name: Нобин
   - translation_iso: spa
     name: Idioma nobiin
   - translation_iso: zho

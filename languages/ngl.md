@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロムウェ語
+  - translation_iso: kor
+    name: 롬웨어
+    auto: true
   - translation_iso: por
     name: Língua lomué
   - translation_iso: spa

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأريفاما-مينيافيا
     auto: true
+  - translation_iso: ben
+    name: আরিফামা-মিনিয়াফিয়া
   - translation_iso: deu
     name: Arifama-Miniafia
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリファマミニアフィア語
+    auto: true
+  - translation_iso: kor
+    name: 아리파마·미니아피아어
     auto: true
   - translation_iso: por
     name: Arifama-Miniafia

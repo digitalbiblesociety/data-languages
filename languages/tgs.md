@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヌメ語
     auto: true
+  - translation_iso: kor
+    name: 누메어
+    auto: true
   - translation_iso: por
     name: Nume
     auto: true

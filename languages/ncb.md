@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سينترال نيكوبارسي
     auto: true
+  - translation_iso: ben
+    name: মধ্য নিকোবারি ভাষাসমূহ
   - translation_iso: deu
     name: Zentral-Nikobaresisch
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: मध्य निकोबारी भाषाएँ
   - translation_iso: jpn
     name: 中央ニコバル語
+    auto: true
+  - translation_iso: kor
+    name: 중부 니코바르어
     auto: true
   - translation_iso: por
     name: Nicobarês Central

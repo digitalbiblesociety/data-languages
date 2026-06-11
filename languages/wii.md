@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミニディエン語
     auto: true
+  - translation_iso: kor
+    name: 미니디엔어
+    auto: true
   - translation_iso: por
     name: Minidien
     auto: true

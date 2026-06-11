@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: मोरक्कोई अरबी
     auto: true
+  - translation_iso: ind
+    name: Arab Maroko
   - translation_iso: jpn
     name: アラビア語モロッコ方言
   - translation_iso: kor
     name: 모로코 아랍어
   - translation_iso: por
     name: Árabe marroquino
+  - translation_iso: rus
+    name: марокканский диалект арабского языка
   - translation_iso: spa
     name: árabe marroquí
   - translation_iso: zho

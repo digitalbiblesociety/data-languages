@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェイトー語
+  - translation_iso: kor
+    name: 웨이토어
+    auto: true
   - translation_iso: por
     name: Weyto
     auto: true
+  - translation_iso: rus
+    name: Вейто (язык)
   - translation_iso: spa
     name: Weyto
     auto: true

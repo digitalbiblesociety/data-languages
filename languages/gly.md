@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレ語
+  - translation_iso: kor
+    name: 굴레어
+    auto: true
   - translation_iso: por
     name: Língua gule
   - translation_iso: spa

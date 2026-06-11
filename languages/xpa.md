@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピッリヤ語
     auto: true
+  - translation_iso: kor
+    name: 피리야어
+    auto: true
   - translation_iso: por
     name: Pirriya
     auto: true

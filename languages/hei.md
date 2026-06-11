@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘイルツク語
+  - translation_iso: kor
+    name: 헤일추크어
+    auto: true
   - translation_iso: por
     name: Heiltsuk
     auto: true
+  - translation_iso: rus
+    name: Хейлцук-увикяла
   - translation_iso: spa
     name: heilchuco
   - translation_iso: zho

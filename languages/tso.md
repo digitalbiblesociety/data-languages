@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsonga_language"
 translations:
   - translation_iso: ara
     name: لغة تسونجا
+  - translation_iso: ben
+    name: সঙ্গা
   - translation_iso: deu
     name: Xitsonga
   - translation_iso: fra
     name: tsonga
   - translation_iso: hin
     name: सोंगा भाषा
+  - translation_iso: ind
+    name: Tsonga
   - translation_iso: jpn
     name: ツォンガ語
   - translation_iso: kor
     name: 총가어
   - translation_iso: por
     name: língua tsonga
+  - translation_iso: rus
+    name: тсонга
   - translation_iso: spa
     name: tsonga
   - translation_iso: zho

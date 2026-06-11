@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニャトゥル語
     auto: true
+  - translation_iso: kor
+    name: 냐투루어
+    auto: true
   - translation_iso: por
     name: Língua turu
   - translation_iso: spa

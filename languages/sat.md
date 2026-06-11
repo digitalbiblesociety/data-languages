@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Santali_language"
 translations:
   - translation_iso: ara
     name: سنتالية
+  - translation_iso: ben
+    name: সাঁওতালি
   - translation_iso: deu
     name: Santali
   - translation_iso: fra
     name: santâlî
   - translation_iso: hin
     name: संथाली
+  - translation_iso: ind
+    name: Santali
   - translation_iso: jpn
     name: サンタル語
   - translation_iso: kor
     name: 산탈어
   - translation_iso: por
     name: língua santali
+  - translation_iso: rus
+    name: сантали
   - translation_iso: spa
     name: idioma santalí
   - translation_iso: zho

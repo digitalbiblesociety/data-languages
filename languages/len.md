@@ -30,6 +30,8 @@ translations:
     name: 렝카어족
   - translation_iso: por
     name: Língua lenca
+  - translation_iso: rus
+    name: ленканские языки
   - translation_iso: spa
     name: Lenguas lencas
   - translation_iso: zho

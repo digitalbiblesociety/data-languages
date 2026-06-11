@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gujari"
 translations:
   - translation_iso: ara
     name: كجري
+  - translation_iso: ben
+    name: গুর্জরি ভাষা
   - translation_iso: deu
     name: Gujari
     auto: true
@@ -29,8 +31,13 @@ translations:
     name: gujari
   - translation_iso: hin
     name: गोजरी भाषा
+  - translation_iso: ind
+    name: bahasa Gurjar
   - translation_iso: jpn
     name: グジャール語
+  - translation_iso: kor
+    name: 구자리어
+    auto: true
   - translation_iso: por
     name: Gujari
     auto: true

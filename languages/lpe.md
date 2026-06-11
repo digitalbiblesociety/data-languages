@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: लेपकी
     auto: true
+  - translation_iso: ind
+    name: Lepki
   - translation_iso: jpn
     name: レプキ語
     auto: true
+  - translation_iso: kor
+    name: 레프키어
+    auto: true
   - translation_iso: por
     name: Língua lepki
+  - translation_iso: rus
+    name: Лепки
   - translation_iso: spa
     name: Lepki
     auto: true

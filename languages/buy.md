@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ブロム・ソ語
     auto: true
+  - translation_iso: kor
+    name: 불롬 소어
+    auto: true
   - translation_iso: por
     name: Bullom So
     auto: true
+  - translation_iso: rus
+    name: буллом-со
   - translation_iso: spa
     name: Bullom So
     auto: true

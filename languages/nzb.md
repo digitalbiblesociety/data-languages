@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゼビ語
+  - translation_iso: kor
+    name: 은제비어
+    auto: true
   - translation_iso: por
     name: Njebi
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナイ語
     auto: true
+  - translation_iso: kor
+    name: 나이어
+    auto: true
   - translation_iso: por
     name: Língua nayi
   - translation_iso: spa

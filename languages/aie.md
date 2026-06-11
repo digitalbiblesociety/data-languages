@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمارا
     auto: true
+  - translation_iso: ben
+    name: আমারা
   - translation_iso: deu
     name: Amara
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンガ語
+  - translation_iso: kor
+    name: 아마라어
+    auto: true
   - translation_iso: por
     name: Amara
     auto: true
+  - translation_iso: rus
+    name: амара
   - translation_iso: spa
     name: Amara
     auto: true

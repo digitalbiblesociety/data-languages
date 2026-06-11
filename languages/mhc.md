@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モチョ語
+  - translation_iso: kor
+    name: 모초어
+    auto: true
   - translation_iso: por
     name: Língua mochó
+  - translation_iso: rus
+    name: Мочо
   - translation_iso: spa
     name: mochó
   - translation_iso: zho

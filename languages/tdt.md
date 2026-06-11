@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: तेतुन दिली
     auto: true
+  - translation_iso: ind
+    name: bahasa Tetun Dili
   - translation_iso: jpn
     name: テトゥン・ディリ語
+    auto: true
+  - translation_iso: kor
+    name: 테툰 딜리어
     auto: true
   - translation_iso: por
     name: Tétum de Díli

@@ -30,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: スラヴォモリサーノ語
     auto: true
+  - translation_iso: kor
+    name: 몰리세 크로아티아어
+    auto: true
   - translation_iso: por
     name: Língua croata molisana
+  - translation_iso: rus
+    name: молизско-славянский язык
   - translation_iso: spa
     name: Slavomolisano
     auto: true

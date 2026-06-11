@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カウリッツ語
+  - translation_iso: kor
+    name: 카울리츠어
+    auto: true
   - translation_iso: por
     name: Cowlitz
     auto: true
+  - translation_iso: rus
+    name: коулитц
   - translation_iso: spa
     name: Cowlitz
   - translation_iso: zho

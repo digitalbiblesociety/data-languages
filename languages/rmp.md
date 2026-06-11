@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レンピ語
     auto: true
+  - translation_iso: kor
+    name: 렘피어
+    auto: true
   - translation_iso: por
     name: Rempi
     auto: true

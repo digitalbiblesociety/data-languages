@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ब्लागर
     auto: true
+  - translation_iso: ind
+    name: Blagar
   - translation_iso: jpn
     name: ブラガル語
+    auto: true
+  - translation_iso: kor
+    name: 블라가르어
     auto: true
   - translation_iso: por
     name: Língua blagar

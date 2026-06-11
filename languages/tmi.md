@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツツバ語
+  - translation_iso: kor
+    name: 투투바어
+    auto: true
   - translation_iso: por
     name: Tutuba
     auto: true
+  - translation_iso: rus
+    name: Тутуба
   - translation_iso: spa
     name: Tutuba
     auto: true

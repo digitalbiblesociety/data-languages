@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムブコ語
     auto: true
+  - translation_iso: kor
+    name: 음부코어
+    auto: true
   - translation_iso: por
     name: Mbuko
     auto: true

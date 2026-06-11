@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: آشو تشين
     auto: true
+  - translation_iso: ben
+    name: শো ভাষা
   - translation_iso: deu
     name: Asho-Chin
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ショー語
+  - translation_iso: kor
+    name: 아쇼 친어
+    auto: true
   - translation_iso: por
     name: Chin Asho
     auto: true
+  - translation_iso: rus
+    name: Ашо (язык)
   - translation_iso: spa
     name: Chin Asho
     auto: true

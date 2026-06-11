@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グラス・コイアリ語
     auto: true
+  - translation_iso: kor
+    name: 그래스 코이아리어
+    auto: true
   - translation_iso: por
     name: Koiari das Pastagens
     auto: true

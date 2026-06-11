@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: वागिमान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wagiman
   - translation_iso: jpn
     name: ワギマン語
+    auto: true
+  - translation_iso: kor
+    name: 와기만어
     auto: true
   - translation_iso: por
     name: Wagiman

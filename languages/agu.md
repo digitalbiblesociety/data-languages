@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغواكاتيكو
     auto: true
+  - translation_iso: ben
+    name: আওয়াকাটেক
   - translation_iso: deu
     name: Awakatekisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 아와카텍어
   - translation_iso: por
     name: aguacateco
+  - translation_iso: rus
+    name: агуакатекский язык
   - translation_iso: spa
     name: aguacateco
   - translation_iso: zho

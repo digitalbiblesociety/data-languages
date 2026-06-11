@@ -34,6 +34,8 @@ translations:
     name: 이실어
   - translation_iso: por
     name: Língua ixil
+  - translation_iso: rus
+    name: Ишильский язык
   - translation_iso: spa
     name: ixil
   - translation_iso: zho

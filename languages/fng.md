@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファナガロ語
+  - translation_iso: kor
+    name: 파나갈로어
+    auto: true
   - translation_iso: por
     name: Língua fanagalo
+  - translation_iso: rus
+    name: фанагало
   - translation_iso: spa
     name: Fanagalo
   - translation_iso: zho

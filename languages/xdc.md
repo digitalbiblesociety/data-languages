@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: डेसियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Dacia
   - translation_iso: jpn
     name: ダキア語
   - translation_iso: kor
     name: 다키아어
   - translation_iso: por
     name: Língua dácia
+  - translation_iso: rus
+    name: дакский язык
   - translation_iso: spa
     name: dacio
   - translation_iso: zho

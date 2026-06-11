@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ングクコリ語
     auto: true
+  - translation_iso: kor
+    name: 은쿠콜리어
+    auto: true
   - translation_iso: por
     name: Nkukoli
     auto: true

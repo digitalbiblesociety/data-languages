@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デュグン語
+  - translation_iso: kor
+    name: 주군어
+    auto: true
   - translation_iso: por
     name: Dialeto djugun
   - translation_iso: spa

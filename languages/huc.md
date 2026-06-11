@@ -34,6 +34,8 @@ translations:
     name: ǂʼ암코이어
   - translation_iso: por
     name: Língua ǂ’amkoe
+  - translation_iso: rus
+    name: чъхоан
   - translation_iso: spa
     name: Idioma ǂhua
   - translation_iso: zho

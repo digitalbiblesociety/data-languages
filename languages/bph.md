@@ -35,6 +35,8 @@ translations:
     name: 보틀리흐어
   - translation_iso: por
     name: Língua botlikh
+  - translation_iso: rus
+    name: ботлихский язык
   - translation_iso: spa
     name: idioma botlij
   - translation_iso: zho

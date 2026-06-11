@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミッツ語
     auto: true
+  - translation_iso: kor
+    name: 미투어
+    auto: true
   - translation_iso: por
     name: Mittu
     auto: true

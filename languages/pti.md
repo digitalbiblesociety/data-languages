@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ピンディーニ語
     auto: true
+  - translation_iso: kor
+    name: 핀디니어
+    auto: true
   - translation_iso: por
     name: Pindiini
     auto: true

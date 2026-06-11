@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワラワ語
+  - translation_iso: kor
+    name: 와르와어
+    auto: true
   - translation_iso: por
     name: Warrwa
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: साएक
     auto: true
+  - translation_iso: ind
+    name: Saek
   - translation_iso: jpn
     name: 石語
   - translation_iso: kor

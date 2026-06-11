@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: न्यू कैलेडोनियन जावानीज़
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jawa Kaledonia Baru
   - translation_iso: jpn
     name: 新カレドニア・ジャワ語
+    auto: true
+  - translation_iso: kor
+    name: 누벨칼레도니 자와어
     auto: true
   - translation_iso: por
     name: javanês da Nova Caledônia

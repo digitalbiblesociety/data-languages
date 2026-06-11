@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ユグル語
     auto: true
+  - translation_iso: kor
+    name: 유굴어
+    auto: true
   - translation_iso: por
     name: yugul
     auto: true

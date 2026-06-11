@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カアック語
     auto: true
+  - translation_iso: kor
+    name: 카아크어
+    auto: true
   - translation_iso: por
     name: Caac
     auto: true

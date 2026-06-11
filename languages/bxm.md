@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मंगोलियाई बुर्यात
     auto: true
+  - translation_iso: ind
+    name: Buryat Mongolia
   - translation_iso: jpn
     name: モンゴルブリヤート語
+  - translation_iso: kor
+    name: 몽골 부랴트어
+    auto: true
   - translation_iso: por
     name: Buriato da Mongólia
     auto: true

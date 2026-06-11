@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリアムム語
     auto: true
+  - translation_iso: kor
+    name: 마리암무어
+    auto: true
   - translation_iso: por
     name: Marriammu
     auto: true

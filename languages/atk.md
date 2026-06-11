@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آتي
     auto: true
+  - translation_iso: ben
+    name: আতি
   - translation_iso: deu
     name: Ati
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: अती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ati
   - translation_iso: jpn
     name: アティ語
+  - translation_iso: kor
+    name: 아티어
+    auto: true
   - translation_iso: por
     name: Ati
     auto: true

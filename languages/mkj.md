@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モキル語
+  - translation_iso: kor
+    name: 모킬어
+    auto: true
   - translation_iso: por
     name: Língua mokilesa
+  - translation_iso: rus
+    name: мокильский язык
   - translation_iso: spa
     name: Mokilés
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピ語
+  - translation_iso: kor
+    name: 페어
+    auto: true
   - translation_iso: por
     name: Pe
     auto: true

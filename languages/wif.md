@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・キヤンガン語
     auto: true
+  - translation_iso: kor
+    name: 윅케양안어
+    auto: true
   - translation_iso: por
     name: Wik-Keyangan
     auto: true

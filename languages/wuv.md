@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウブル・アウア語
     auto: true
+  - translation_iso: kor
+    name: 우부루·아우아어
+    auto: true
   - translation_iso: por
     name: Wuvulu-Aua
     auto: true

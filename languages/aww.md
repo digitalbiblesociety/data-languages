@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أون
     auto: true
+  - translation_iso: ben
+    name: আউন
   - translation_iso: deu
     name: Awun
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウン語
+    auto: true
+  - translation_iso: kor
+    name: 아운어
     auto: true
   - translation_iso: por
     name: Awun

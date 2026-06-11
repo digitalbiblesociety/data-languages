@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बिंतुलु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bintulu
   - translation_iso: jpn
     name: ビントゥル語
+    auto: true
+  - translation_iso: kor
+    name: 빈툴루어
     auto: true
   - translation_iso: por
     name: Bintulu

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ワツゥト語
     auto: true
+  - translation_iso: kor
+    name: 남부 와투트어
+    auto: true
   - translation_iso: por
     name: Watut do Sul
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: ब्रोक्कत
     auto: true
+  - translation_iso: ind
+    name: Brokkat
   - translation_iso: jpn
     name: ブロッカトゥ語
+  - translation_iso: kor
+    name: 브로카트어
+    auto: true
   - translation_iso: por
     name: Brokkat
     auto: true
+  - translation_iso: rus
+    name: Броккат
   - translation_iso: spa
     name: Brokkat
     auto: true

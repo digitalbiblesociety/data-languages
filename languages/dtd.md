@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ディティダフト語
     auto: true
+  - translation_iso: kor
+    name: 디티다트어
+    auto: true
   - translation_iso: por
     name: Língua ditidaht
+  - translation_iso: rus
+    name: Нитинат
   - translation_iso: spa
     name: Ditidaht
     auto: true

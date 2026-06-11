@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラタウィ語
     auto: true
+  - translation_iso: kor
+    name: 라타위어
+    auto: true
   - translation_iso: por
     name: Rathawi
     auto: true

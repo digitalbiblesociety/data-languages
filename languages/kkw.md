@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ククヤ語
+  - translation_iso: kor
+    name: 테케쿠쿠야어
+    auto: true
   - translation_iso: por
     name: Teke-Kukuya
     auto: true

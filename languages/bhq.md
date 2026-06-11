@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥカン・ベシ南語
     auto: true
+  - translation_iso: kor
+    name: 남부 투캉베시어
+    auto: true
   - translation_iso: por
     name: Tukang Besi do Sul
     auto: true

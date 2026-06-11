@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラス・デリシアス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 라스델리시아스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Las Delicias
     auto: true

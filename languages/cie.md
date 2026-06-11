@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: シネニ語
     auto: true
+  - translation_iso: kor
+    name: 치네니어
+    auto: true
   - translation_iso: por
     name: Cineni
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オコテペク・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 오코테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Ocotepec
     auto: true

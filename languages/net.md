@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ネテ語
     auto: true
+  - translation_iso: kor
+    name: 네테어
+    auto: true
   - translation_iso: por
     name: Nete
     auto: true

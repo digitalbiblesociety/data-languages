@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: प्राचीन डच
     auto: true
+  - translation_iso: ind
+    name: Belanda Kuno
   - translation_iso: jpn
     name: 古低地フランク語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: neerlandês antigo
     auto: true
+  - translation_iso: rus
+    name: древненидерландский язык
   - translation_iso: spa
     name: neerlandés antiguo
   - translation_iso: zho

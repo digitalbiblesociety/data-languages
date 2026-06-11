@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コケ語
     auto: true
+  - translation_iso: kor
+    name: 코케어
+    auto: true
   - translation_iso: por
     name: Koke
     auto: true

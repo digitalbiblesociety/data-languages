@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوم
     auto: true
+  - translation_iso: ben
+    name: আবম
   - translation_iso: deu
     name: Abom
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अबोम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abom
   - translation_iso: jpn
     name: アボム語
+    auto: true
+  - translation_iso: kor
+    name: 아봄어
     auto: true
   - translation_iso: por
     name: Abom

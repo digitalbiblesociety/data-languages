@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニバクレ語
+  - translation_iso: kor
+    name: 니바클레어
+    auto: true
   - translation_iso: por
     name: Língua nivaclé
+  - translation_iso: rus
+    name: Нивакле
   - translation_iso: spa
     name: Idioma nivaclé
   - translation_iso: zho

@@ -21,12 +21,16 @@ translations:
   - translation_iso: ara
     name: اللغة إيه-بوتشيكوار
     auto: true
+  - translation_iso: ben
+    name: এ-পুসিকওয়ার
   - translation_iso: deu
     name: A-Pucikwar
   - translation_iso: fra
     name: pucikwar
   - translation_iso: hin
     name: ओपूचीक्वार भाषा
+  - translation_iso: ind
+    name: Bahasa A-Pucikwar
   - translation_iso: jpn
     name: アプチクワル語
     auto: true
@@ -34,6 +38,8 @@ translations:
     name: 오푸치콰르어
   - translation_iso: por
     name: Língua a-pucikwar
+  - translation_iso: rus
+    name: пучиквар
   - translation_iso: spa
     name: pucikwar
   - translation_iso: zho

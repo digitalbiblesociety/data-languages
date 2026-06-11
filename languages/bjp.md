@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ファナマケット語
     auto: true
+  - translation_iso: kor
+    name: 파나마케트어
+    auto: true
   - translation_iso: por
     name: Fanamaket
     auto: true

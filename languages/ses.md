@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koyraboro_Senni"
 translations:
   - translation_iso: ara
     name: كويرابورو سيني
+  - translation_iso: ben
+    name: কোয়রাবোরো সেন্নি
   - translation_iso: deu
     name: Koyra Senni
   - translation_iso: fra
     name: koyraboro senni
   - translation_iso: hin
     name: कोयराबोरो सेन्नी
+  - translation_iso: ind
+    name: Koyraboro Senni
   - translation_iso: jpn
     name: コイラボロ・センニ語
   - translation_iso: kor
     name: 코이야보로 세니어
   - translation_iso: por
     name: koyraboro senni
+  - translation_iso: rus
+    name: койраборо сенни
   - translation_iso: spa
     name: Koyraboro senni
   - translation_iso: zho

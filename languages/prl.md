@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البيروفية
     auto: true
+  - translation_iso: ben
+    name: পেরুভীয় ইশারা ভাষা
   - translation_iso: deu
     name: Peruanische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: पेरू सांकेतिक भाषा
   - translation_iso: jpn
     name: ペルー手話
+  - translation_iso: kor
+    name: 페루 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais peruana
   - translation_iso: spa

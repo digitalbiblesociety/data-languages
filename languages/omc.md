@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モチカ語
+  - translation_iso: kor
+    name: 모치카어
+    auto: true
   - translation_iso: por
     name: mochica
+  - translation_iso: rus
+    name: Мочика (язык)
   - translation_iso: spa
     name: mochica
   - translation_iso: zho

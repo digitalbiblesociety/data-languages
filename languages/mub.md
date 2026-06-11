@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ムビ語
     auto: true
+  - translation_iso: kor
+    name: 무비어
+    auto: true
   - translation_iso: por
     name: Mubi
     auto: true
+  - translation_iso: rus
+    name: Муби (язык)
   - translation_iso: spa
     name: Mubi
     auto: true

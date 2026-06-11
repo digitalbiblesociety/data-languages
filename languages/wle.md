@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウォラネ語
     auto: true
+  - translation_iso: kor
+    name: 월라네어
+    auto: true
   - translation_iso: por
     name: Wolane
     auto: true

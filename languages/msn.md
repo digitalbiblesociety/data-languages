@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴュレス語
     auto: true
+  - translation_iso: kor
+    name: 부레스어
+    auto: true
   - translation_iso: por
     name: Língua vurës
   - translation_iso: spa

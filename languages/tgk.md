@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tajik_language"
 translations:
   - translation_iso: ara
     name: الطاجيكية
+  - translation_iso: ben
+    name: তাজিক
   - translation_iso: deu
     name: Tadschikisch
   - translation_iso: fra
     name: tadjik
   - translation_iso: hin
     name: ताजिकी भाषा
+  - translation_iso: ind
+    name: Tajik
   - translation_iso: jpn
     name: タジク語
   - translation_iso: kor
     name: 타지크어
   - translation_iso: por
     name: tadjique
+  - translation_iso: rus
+    name: таджикский
   - translation_iso: spa
     name: tayiko
   - translation_iso: zho

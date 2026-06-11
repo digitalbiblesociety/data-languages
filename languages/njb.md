@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: نوكتي ناجا
     auto: true
+  - translation_iso: ben
+    name: নোক্টে ভাষা
   - translation_iso: deu
     name: Nocte-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: नोक्टे भाषा
   - translation_iso: jpn
     name: ノクテ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 녹테 나가어
     auto: true
   - translation_iso: por
     name: Naga Nocte

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リエレ語
+  - translation_iso: kor
+    name: 리엘레어
+    auto: true
   - translation_iso: por
     name: Lyélé
     auto: true

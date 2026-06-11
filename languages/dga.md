@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダガリ語
+  - translation_iso: kor
+    name: 남부 다가레어
+    auto: true
   - translation_iso: por
     name: Língua dagaare
+  - translation_iso: rus
+    name: дагари
   - translation_iso: spa
     name: Idioma dagaare
   - translation_iso: zho

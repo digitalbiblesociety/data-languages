@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أريبواتسا
     auto: true
+  - translation_iso: ben
+    name: আরিবোয়াত্সা
   - translation_iso: deu
     name: Aribwatsa
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリブワツァ語
+    auto: true
+  - translation_iso: kor
+    name: 아리브와차어
     auto: true
   - translation_iso: por
     name: Aribwatsa

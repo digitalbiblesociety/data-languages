@@ -28,9 +28,14 @@ translations:
     name: कालामी भाषा
   - translation_iso: jpn
     name: カラーム語
+  - translation_iso: kor
+    name: 칼라미어
+    auto: true
   - translation_iso: por
     name: Kalami
     auto: true
+  - translation_iso: rus
+    name: гаври
   - translation_iso: spa
     name: Kalami
     auto: true

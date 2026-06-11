@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東アンバエ語
     auto: true
+  - translation_iso: kor
+    name: 동부 암바에어
+    auto: true
   - translation_iso: por
     name: Ambae Oriental
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングアンディエラ語
     auto: true
+  - translation_iso: kor
+    name: 응간제라어
+    auto: true
   - translation_iso: por
     name: Ngandyera
     auto: true

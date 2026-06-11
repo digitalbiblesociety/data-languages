@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Warlpiri_language"
 translations:
   - translation_iso: ara
     name: وارلبيري
+  - translation_iso: ben
+    name: ওয়ার্লপিরি
   - translation_iso: deu
     name: Warlpiri
   - translation_iso: fra
     name: warlpiri
   - translation_iso: hin
     name: वॉल्पेरी
+  - translation_iso: ind
+    name: Warlpiri
   - translation_iso: jpn
     name: ワルピリ語
   - translation_iso: kor
     name: 왈피리어
   - translation_iso: por
     name: Língua warlpiri
+  - translation_iso: rus
+    name: вальбири
   - translation_iso: spa
     name: idioma warlpiri
   - translation_iso: zho

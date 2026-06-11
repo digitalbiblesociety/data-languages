@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكويي
     auto: true
+  - translation_iso: ben
+    name: আকোয়ে
   - translation_iso: deu
     name: Akoye
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アコイェ語
     auto: true
+  - translation_iso: kor
+    name: 아코예어
+    auto: true
   - translation_iso: por
     name: Akoye
     auto: true
+  - translation_iso: rus
+    name: акойе
   - translation_iso: spa
     name: Akoye
     auto: true

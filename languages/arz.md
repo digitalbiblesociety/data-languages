@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Arabic"
 translations:
   - translation_iso: ara
     name: العامية المصرية
+  - translation_iso: ben
+    name: মিশরীয় আরবি
   - translation_iso: deu
     name: Ägyptisch-Arabisch
   - translation_iso: fra
     name: arabe égyptien
   - translation_iso: hin
     name: मिसरी अरबी
+  - translation_iso: ind
+    name: Arab Mesir
   - translation_iso: jpn
     name: アラビア語エジプト方言
   - translation_iso: kor
     name: 이집트 아랍어
   - translation_iso: por
     name: árabe egípcio
+  - translation_iso: rus
+    name: египетский диалект арабского языка
   - translation_iso: spa
     name: árabe egipcio
   - translation_iso: zho

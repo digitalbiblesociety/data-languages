@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ミンジングバル語
     auto: true
+  - translation_iso: kor
+    name: 민중발어
+    auto: true
   - translation_iso: por
     name: Língua Yugambeh
+  - translation_iso: rus
+    name: йугамбехский язык
   - translation_iso: spa
     name: Idioma yugambeh
   - translation_iso: zho

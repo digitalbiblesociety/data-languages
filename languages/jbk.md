@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة باريكيوا
     auto: true
+  - translation_iso: ben
+    name: বারিকেওয়া
   - translation_iso: deu
     name: Barikewa
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリケワ語
+    auto: true
+  - translation_iso: kor
+    name: 바리케와어
     auto: true
   - translation_iso: por
     name: Barikewa

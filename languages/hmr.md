@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: همار
     auto: true
+  - translation_iso: ben
+    name: ম্হার ভাষা
   - translation_iso: deu
     name: Hmar
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: म्हार भाषा
   - translation_iso: jpn
     name: フマール語
+  - translation_iso: kor
+    name: 흐마르어
+    auto: true
   - translation_iso: por
     name: Língua hmar
+  - translation_iso: rus
+    name: Хмар
   - translation_iso: spa
     name: idioma hmar
   - translation_iso: zho

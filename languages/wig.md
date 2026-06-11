@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・ンガータン語
     auto: true
+  - translation_iso: kor
+    name: 윅 응아탄어
+    auto: true
   - translation_iso: por
     name: Wik Ngathan
     auto: true

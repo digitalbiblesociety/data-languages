@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: رابها
     auto: true
+  - translation_iso: ben
+    name: রাভা ভাষা
   - translation_iso: deu
     name: Rabha
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     name: रभा भाषा
   - translation_iso: jpn
     name: ラバ語
+  - translation_iso: kor
+    name: 라바어
+    auto: true
   - translation_iso: por
     name: Rabha
     auto: true
+  - translation_iso: rus
+    name: рабхаский язык
   - translation_iso: spa
     name: idioma rabha
   - translation_iso: zho

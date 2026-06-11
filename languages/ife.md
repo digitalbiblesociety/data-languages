@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: イフェ語
     auto: true
+  - translation_iso: kor
+    name: 이페어
+    auto: true
   - translation_iso: por
     name: Língua ife
+  - translation_iso: rus
+    name: ифе
   - translation_iso: spa
     name: Ifè
     auto: true

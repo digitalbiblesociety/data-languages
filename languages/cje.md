@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: चरू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Churu
   - translation_iso: jpn
     name: チュル語
+    auto: true
+  - translation_iso: kor
+    name: 츠루어
     auto: true
   - translation_iso: por
     name: Língua chru

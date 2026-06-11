@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルチング・パラウン語
     auto: true
+  - translation_iso: kor
+    name: 루칭 팔라웅어
+    auto: true
   - translation_iso: por
     name: Palaung Ruching
     auto: true

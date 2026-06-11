@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: 東部高地オトミ語
     auto: true
+  - translation_iso: kor
+    name: 동부 고지 오토미어
+    auto: true
   - translation_iso: por
     name: Otomi Sierra
+  - translation_iso: rus
+    name: Сьерра отоми
   - translation_iso: spa
     name: Otomí mexiquense
   - translation_iso: zho

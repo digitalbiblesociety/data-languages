@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة اندا-امباري
     auto: true
+  - translation_iso: ben
+    name: বান্দা-বামবাড়ি
   - translation_iso: deu
     name: Banda-Bambari
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: バンダ・バンバリ語
     auto: true
+  - translation_iso: kor
+    name: 반다밤바리어
+    auto: true
   - translation_iso: por
     name: Banda-Bambari
     auto: true
+  - translation_iso: rus
+    name: Банда-бамбари
   - translation_iso: spa
     name: Banda-Bambari
     auto: true

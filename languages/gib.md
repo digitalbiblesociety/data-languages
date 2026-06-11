@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギバナワ語
     auto: true
+  - translation_iso: kor
+    name: 기바나와어
+    auto: true
   - translation_iso: por
     name: Gibanawa
     auto: true

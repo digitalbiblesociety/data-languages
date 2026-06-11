@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パハリ語
+  - translation_iso: kor
+    name: 파하리포트와리어
+    auto: true
   - translation_iso: por
     name: Pahari-Potwari
     auto: true

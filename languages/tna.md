@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タカナ語
+  - translation_iso: kor
+    name: 타카나어
+    auto: true
   - translation_iso: por
     name: Tacana
     auto: true
+  - translation_iso: rus
+    name: Такана
   - translation_iso: spa
     name: Tacana
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チンボラソ高地ケチュア語
+  - translation_iso: kor
+    name: 침보라소 고지 키추아어
+    auto: true
   - translation_iso: por
     name: Quíchua das Terras Altas de Chimborazo
     auto: true

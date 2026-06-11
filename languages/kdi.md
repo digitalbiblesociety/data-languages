@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマム語
+  - translation_iso: kor
+    name: 쿠맘어
+    auto: true
   - translation_iso: por
     name: Kumam
     auto: true

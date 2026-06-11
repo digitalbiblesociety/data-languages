@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تريغامي
     auto: true
+  - translation_iso: ben
+    name: ত্রিগামি ভাষা
   - translation_iso: deu
     name: Tregami
     auto: true
@@ -28,11 +30,18 @@ translations:
     name: tregami
   - translation_iso: hin
     name: त्रेगामी भाषा
+  - translation_iso: ind
+    name: Bahasa Tregami
   - translation_iso: jpn
     name: トレガミ語
+  - translation_iso: kor
+    name: 트레가미어
+    auto: true
   - translation_iso: por
     name: Tregami
     auto: true
+  - translation_iso: rus
+    name: Трегами
   - translation_iso: spa
     name: tregamí
   - translation_iso: zho

@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gbaya_languages"
 translations:
   - translation_iso: ara
     name: الجبيا
+  - translation_iso: ben
+    name: বায়া
   - translation_iso: deu
     name: Gbaya-Sprachen
   - translation_iso: fra
     name: langues gbaya
   - translation_iso: hin
     name: ग्बाया
+  - translation_iso: ind
+    name: Gbaya
   - translation_iso: jpn
     name: バヤ語
   - translation_iso: kor
     name: 그바야어
   - translation_iso: por
     name: gbaia
+  - translation_iso: rus
+    name: гбая
   - translation_iso: spa
     name: Lenguas gbaya
   - translation_iso: zho

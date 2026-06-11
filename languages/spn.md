@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: サナパナパイボマ語
     auto: true
+  - translation_iso: kor
+    name: 사나파나어
+    auto: true
   - translation_iso: por
     name: Sanapaná
     auto: true
+  - translation_iso: rus
+    name: Санапана
   - translation_iso: spa
     name: Sanapaná
     auto: true

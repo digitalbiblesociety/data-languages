@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ベンコンホ語
     auto: true
+  - translation_iso: kor
+    name: 우크웨조어
+    auto: true
   - translation_iso: por
     name: Ukhwejo
     auto: true

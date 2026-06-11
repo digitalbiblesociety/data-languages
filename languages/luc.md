@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ارينجا
     auto: true
+  - translation_iso: ben
+    name: আরিঙ্গা
   - translation_iso: deu
     name: Aringa
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリンガ語
+    auto: true
+  - translation_iso: kor
+    name: 아링가어
     auto: true
   - translation_iso: por
     name: Língua aringa

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Dutch"
 translations:
   - translation_iso: ara
     name: الهولندية الوسطى
+  - translation_iso: ben
+    name: মধ্য ডাচ
   - translation_iso: deu
     name: Mittelniederländisch
   - translation_iso: fra
     name: moyen néerlandais
   - translation_iso: hin
     name: मध्यकालीन पुर्तगाली
+  - translation_iso: ind
+    name: Belanda Abad Pertengahan
   - translation_iso: jpn
     name: 中期オランダ語
   - translation_iso: kor
     name: 중세 네덜란드어
   - translation_iso: por
     name: holandês médio
+  - translation_iso: rus
+    name: средненидерландский
   - translation_iso: spa
     name: neerlandés medio
   - translation_iso: zho

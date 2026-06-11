@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェ・ウェスタン語
     auto: true
+  - translation_iso: kor
+    name: 서부 웨어
+    auto: true
   - translation_iso: por
     name: Wè Ocidental
     auto: true

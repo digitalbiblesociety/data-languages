@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Surjapuri_language"
 translations:
   - translation_iso: ara
     name: لغة سورجابورية
+  - translation_iso: ben
+    name: সূর্যপুরী উপভাষা
   - translation_iso: deu
     name: Surjapuri
     auto: true
@@ -28,8 +30,13 @@ translations:
     auto: true
   - translation_iso: hin
     name: सूरजापुरी भाषा
+  - translation_iso: ind
+    name: Surjapuri
   - translation_iso: jpn
     name: スルジャプリ語
+  - translation_iso: kor
+    name: 수르자푸리어
+    auto: true
   - translation_iso: por
     name: Surjapuri
     auto: true

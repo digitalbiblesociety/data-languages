@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プワプワ語
     auto: true
+  - translation_iso: kor
+    name: 푸아푸아어
+    auto: true
   - translation_iso: por
     name: Pwapwâ
     auto: true

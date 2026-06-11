@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कैस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kais
   - translation_iso: jpn
     name: カイス語
+    auto: true
+  - translation_iso: kor
+    name: 카이스어
     auto: true
   - translation_iso: por
     name: Kais

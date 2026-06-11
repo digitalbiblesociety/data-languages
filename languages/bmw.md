@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ボムワリ語
     auto: true
+  - translation_iso: kor
+    name: 봄왈리어
+    auto: true
   - translation_iso: por
     name: Bomwali
     auto: true
+  - translation_iso: rus
+    name: Бомвали
   - translation_iso: spa
     name: Bomwali
     auto: true

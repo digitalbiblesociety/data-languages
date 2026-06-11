@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: त्रिमुरिस
     auto: true
+  - translation_iso: ind
+    name: Trimuris
   - translation_iso: jpn
     name: トリムリス語
     auto: true
+  - translation_iso: kor
+    name: 트리무리스어
+    auto: true
   - translation_iso: por
     name: Trimuris
+  - translation_iso: rus
+    name: Тримурис
   - translation_iso: spa
     name: Trimuris
   - translation_iso: zho

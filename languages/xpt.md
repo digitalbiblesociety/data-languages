@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プントハマラ語
     auto: true
+  - translation_iso: kor
+    name: 푼타마라어
+    auto: true
   - translation_iso: por
     name: Punthamara
     auto: true

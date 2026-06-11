@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トマ語
     auto: true
+  - translation_iso: kor
+    name: 토마어
+    auto: true
   - translation_iso: por
     name: Toma
     auto: true

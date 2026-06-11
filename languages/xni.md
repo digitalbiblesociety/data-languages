@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ンガリグ語
     auto: true
+  - translation_iso: kor
+    name: 응아리구어
+    auto: true
   - translation_iso: por
     name: Ngarigu
     auto: true

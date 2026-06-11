@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンシー語
+  - translation_iso: kor
+    name: 먼시어
+    auto: true
   - translation_iso: por
     name: Língua munsee
+  - translation_iso: rus
+    name: Мунси
   - translation_iso: spa
     name: Munsee
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 古マラティ語
     auto: true
+  - translation_iso: kor
+    name: 고대 마라티어
+    auto: true
   - translation_iso: por
     name: marata antigo
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: ムニチェ語
     auto: true
+  - translation_iso: kor
+    name: 무니체어
+    auto: true
   - translation_iso: por
     name: Língua muniche
+  - translation_iso: rus
+    name: Муниче
   - translation_iso: spa
     name: muniche
   - translation_iso: zho

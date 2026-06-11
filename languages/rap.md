@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rapa_Nui_language"
 translations:
   - translation_iso: ara
     name: لغة رابا نوي
+  - translation_iso: ben
+    name: রাপানুই
   - translation_iso: deu
     name: Rapanui
   - translation_iso: fra
     name: rapanui
   - translation_iso: hin
     name: रापा नुई भाषा
+  - translation_iso: ind
+    name: Rapanui
   - translation_iso: jpn
     name: ラパ・ヌイ語
   - translation_iso: kor
     name: 라파누이어
   - translation_iso: por
     name: Língua rapanui
+  - translation_iso: rus
+    name: рапануйский
   - translation_iso: spa
     name: Rapa Nui
   - translation_iso: zho

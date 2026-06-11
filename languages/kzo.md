@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カニンギ語
     auto: true
+  - translation_iso: kor
+    name: 카닝기어
+    auto: true
   - translation_iso: por
     name: Kaningi
     auto: true

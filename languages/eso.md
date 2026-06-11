@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Estonian
     auto: true
+  - translation_iso: ben
+    name: এস্তোনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Estnische Gebärdensprache
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エストニア手話
+  - translation_iso: kor
+    name: 에스토니아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais estoniana
+  - translation_iso: rus
+    name: эстонский жестовый язык
   - translation_iso: spa
     name: Lengua de señas estonia
     auto: true

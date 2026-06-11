@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェ語
     auto: true
+  - translation_iso: kor
+    name: 남부 웨어
+    auto: true
   - translation_iso: por
     name: Wè do Sul
     auto: true

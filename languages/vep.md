@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: वेप्स
     auto: true
+  - translation_iso: ind
+    name: Veps
   - translation_iso: jpn
     name: ヴェプス語
   - translation_iso: kor
     name: 벱스어
   - translation_iso: por
     name: língua vepes
+  - translation_iso: rus
+    name: вепсский язык
   - translation_iso: spa
     name: vepsio
   - translation_iso: zho

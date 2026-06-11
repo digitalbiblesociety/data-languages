@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コリ語
     auto: true
+  - translation_iso: kor
+    name: 코리어
+    auto: true
   - translation_iso: por
     name: Cori
     auto: true

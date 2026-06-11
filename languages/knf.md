@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンカニャ語
+  - translation_iso: kor
+    name: 만카냐어
+    auto: true
   - translation_iso: por
     name: Língua mankania
   - translation_iso: spa

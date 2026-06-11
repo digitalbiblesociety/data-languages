@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: オゾロテペック・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 오솔로테펙 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Ozolotepec
     auto: true
+  - translation_iso: rus
+    name: Осолотепекский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Ozolotepec
     auto: true

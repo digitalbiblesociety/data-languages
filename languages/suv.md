@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوروايك
     auto: true
+  - translation_iso: ben
+    name: পুরোইক ভাষা
   - translation_iso: deu
     name: Puroik
     auto: true
@@ -29,9 +31,14 @@ translations:
     name: पुरोइक भाषा
   - translation_iso: jpn
     name: プロイク語
+  - translation_iso: kor
+    name: 푸로이크어
+    auto: true
   - translation_iso: por
     name: Puroik
     auto: true
+  - translation_iso: rus
+    name: пуроикский язык
   - translation_iso: spa
     name: Puroik
     auto: true

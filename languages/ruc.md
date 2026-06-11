@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ルーリ語
     auto: true
+  - translation_iso: kor
+    name: 룰리어
+    auto: true
   - translation_iso: por
     name: Ruuli
     auto: true
+  - translation_iso: rus
+    name: Руули
   - translation_iso: spa
     name: Ruuli
     auto: true

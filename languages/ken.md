@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: केन्यांग
     auto: true
+  - translation_iso: ind
+    name: Kenyang
   - translation_iso: jpn
     name: ニャン語
+  - translation_iso: kor
+    name: 케냥어
+    auto: true
   - translation_iso: por
     name: Kenyang
     auto: true
+  - translation_iso: rus
+    name: Кеньянг
   - translation_iso: spa
     name: Kenyang
     auto: true

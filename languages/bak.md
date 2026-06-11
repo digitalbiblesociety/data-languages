@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bashkir_language"
 translations:
   - translation_iso: ara
     name: الباشقيرية
+  - translation_iso: ben
+    name: বাশকির
   - translation_iso: deu
     name: Baschkirisch
   - translation_iso: fra
     name: bachkir
   - translation_iso: hin
     name: बाश्किर भाषा
+  - translation_iso: ind
+    name: Bashkir
   - translation_iso: jpn
     name: バシキール語
   - translation_iso: kor
     name: 바시키르어
   - translation_iso: por
     name: Língua bashkir
+  - translation_iso: rus
+    name: башкирский
   - translation_iso: spa
     name: bashkir
   - translation_iso: zho

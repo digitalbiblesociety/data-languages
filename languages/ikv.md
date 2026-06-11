@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イク・ゴラ・アンクワ語
     auto: true
+  - translation_iso: kor
+    name: 이쿠고라앙콰어
+    auto: true
   - translation_iso: por
     name: Iku-Gora-Ankwa
     auto: true

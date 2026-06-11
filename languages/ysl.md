@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話
+  - translation_iso: kor
+    name: 유고슬라비아 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais iugoslava
     auto: true
+  - translation_iso: rus
+    name: югославский жестовый язык
   - translation_iso: spa
     name: Lengua de señas yugoslava
     auto: true

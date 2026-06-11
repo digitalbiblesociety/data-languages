@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パッターニ語
     auto: true
+  - translation_iso: kor
+    name: 파타니어
+    auto: true
   - translation_iso: por
     name: Pattani
     auto: true

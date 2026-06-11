@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: آنا تينجا دوجون
     auto: true
+  - translation_iso: ben
+    name: আনা দোগন
   - translation_iso: deu
     name: Ana Tinga Dogon
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アナティンガ・ドゴン語
+    auto: true
+  - translation_iso: kor
+    name: 아나팅가 도곤어
     auto: true
   - translation_iso: por
     name: Dogon Ana Tinga

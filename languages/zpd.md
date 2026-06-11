@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サウスイースタン・イクスラン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 남동부 익스틀란 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Ixtlán do Sudeste
     auto: true
+  - translation_iso: rus
+    name: Юго-восточный истланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco del Sureste de Ixtlán
     auto: true

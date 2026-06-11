@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بجان
     auto: true
+  - translation_iso: ben
+    name: বাজান ক্রেওল
   - translation_iso: deu
     name: Bajan
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: バジャン語
     auto: true
+  - translation_iso: kor
+    name: 바잔어
+    auto: true
   - translation_iso: por
     name: Crioulo bajan
+  - translation_iso: rus
+    name: баджанский язык
   - translation_iso: spa
     name: Bajan
     auto: true

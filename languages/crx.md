@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キャリア語
+  - translation_iso: kor
+    name: 캐리어어
+    auto: true
   - translation_iso: por
     name: Carrier
     auto: true
+  - translation_iso: rus
+    name: Кэрриер
   - translation_iso: spa
     name: carrier
   - translation_iso: zho

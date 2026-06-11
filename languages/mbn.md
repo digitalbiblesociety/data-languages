@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マカグアン語
     auto: true
+  - translation_iso: kor
+    name: 마카관어
+    auto: true
   - translation_iso: por
     name: Macaguán
     auto: true
+  - translation_iso: rus
+    name: Макагуан
   - translation_iso: spa
     name: Macaguán
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タノシ・マダガスカル語
+  - translation_iso: kor
+    name: 타노시 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe Tanosy
     auto: true

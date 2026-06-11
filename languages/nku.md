@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボウナ・クラング語
     auto: true
+  - translation_iso: kor
+    name: 부나 쿨랑고어
+    auto: true
   - translation_iso: por
     name: Kulango de Bouna
     auto: true

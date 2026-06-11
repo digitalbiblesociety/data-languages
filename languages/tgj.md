@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タギン語
     auto: true
+  - translation_iso: kor
+    name: 타긴어
+    auto: true
   - translation_iso: por
     name: Tagin
     auto: true

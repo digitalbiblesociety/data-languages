@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エレピ語
     auto: true
+  - translation_iso: kor
+    name: 엘레피어
+    auto: true
   - translation_iso: por
     name: Elepi
     auto: true

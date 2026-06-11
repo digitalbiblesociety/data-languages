@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Uzbek_language"
 translations:
   - translation_iso: ara
     name: الأوزبكية الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণ উজবেক ভাষা
   - translation_iso: deu
     name: Südusbekisch
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: hin
     name: दक्षिणी उज़्बेक
     auto: true
+  - translation_iso: ind
+    name: Uzbek Selatan
   - translation_iso: jpn
     name: 南ウズベク語
     auto: true
@@ -36,6 +40,8 @@ translations:
   - translation_iso: por
     name: Usbeque Meridional
     auto: true
+  - translation_iso: rus
+    name: Южноузбекский язык
   - translation_iso: spa
     name: Uzbeko meridional
     auto: true

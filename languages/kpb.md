@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムッル・クルンバ語
     auto: true
+  - translation_iso: kor
+    name: 물루 쿠룸바어
+    auto: true
   - translation_iso: por
     name: Kurumba de Mullu
     auto: true

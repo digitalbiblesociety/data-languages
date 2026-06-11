@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تودا
     auto: true
+  - translation_iso: ben
+    name: টোডা ভাষা
   - translation_iso: deu
     name: Toda
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: टोडा भाषा
   - translation_iso: jpn
     name: トダ語
+  - translation_iso: kor
+    name: 토다어
+    auto: true
   - translation_iso: por
     name: Língua toda
+  - translation_iso: rus
+    name: тода
   - translation_iso: spa
     name: toda
   - translation_iso: zho

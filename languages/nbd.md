@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングビンダ語
     auto: true
+  - translation_iso: kor
+    name: 응빈다어
+    auto: true
   - translation_iso: por
     name: Ngbinda
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語
     auto: true
+  - translation_iso: kor
+    name: 아칭고 마틀라칭카어
+    auto: true
   - translation_iso: por
     name: Matlatzinca de Atzingo
     auto: true

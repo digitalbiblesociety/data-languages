@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイルマ語
+  - translation_iso: kor
+    name: 타이루마어
+    auto: true
   - translation_iso: por
     name: Língua tairuma
   - translation_iso: spa

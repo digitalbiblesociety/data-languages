@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: काई
     auto: true
+  - translation_iso: ind
+    name: Kaiy
   - translation_iso: jpn
     name: カイイ語
+    auto: true
+  - translation_iso: kor
+    name: 카이어
     auto: true
   - translation_iso: por
     name: Kaiy

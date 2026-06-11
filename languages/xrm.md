@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: أرمازية
     auto: true
+  - translation_iso: ben
+    name: আরমাজিক
   - translation_iso: deu
     name: Armasisch
   - translation_iso: fra
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルマジック語
+    auto: true
+  - translation_iso: kor
+    name: 아르마지어
     auto: true
   - translation_iso: por
     name: Armázico

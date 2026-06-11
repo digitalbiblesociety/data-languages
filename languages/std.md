@@ -26,12 +26,16 @@ translations:
     name: sentinelle
   - translation_iso: hin
     name: सेंटीनिली भाषा
+  - translation_iso: ind
+    name: Bahasa Sentinel
   - translation_iso: jpn
     name: センチネル語
   - translation_iso: kor
     name: 센티널어
   - translation_iso: por
     name: Língua sentinelesa
+  - translation_iso: rus
+    name: сентинельский язык
   - translation_iso: spa
     name: Idioma sentinelés
   - translation_iso: zho

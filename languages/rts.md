@@ -28,6 +28,8 @@ translations:
   - translation_iso: por
     name: Yurats
     auto: true
+  - translation_iso: rus
+    name: Юрацкий язык
   - translation_iso: spa
     name: yurats
   - translation_iso: zho

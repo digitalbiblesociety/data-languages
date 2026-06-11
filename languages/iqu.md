@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イキト語
+  - translation_iso: kor
+    name: 이키토어
+    auto: true
   - translation_iso: por
     name: Língua iquito
+  - translation_iso: rus
+    name: икито
   - translation_iso: spa
     name: iquito
   - translation_iso: zho

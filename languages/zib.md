@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンバブエ手話
+  - translation_iso: kor
+    name: 짐바브웨 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais do Zimbábue
+  - translation_iso: rus
+    name: зимбабвийский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Zimbabue
     auto: true

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: काटी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kamkata-viri
   - translation_iso: jpn
     name: カム・カタヴァリ語
+  - translation_iso: kor
+    name: 카티어
+    auto: true
   - translation_iso: por
     name: Língua Kamkata-vari
+  - translation_iso: rus
+    name: кати
   - translation_iso: spa
     name: Idioma kamkata-viri
   - translation_iso: zho

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 서부 틀라콜룰라 계곡 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco do Vale de Tlacolula ocidental
     auto: true
+  - translation_iso: rus
+    name: Сан-хуан-гелавиаский сапотекский язык
   - translation_iso: spa
     name: Zapoteco del Valle de Tlacolula occidental
     auto: true

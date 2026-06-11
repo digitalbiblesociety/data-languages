@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: साकिज़ाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sakizaya
   - translation_iso: jpn
     name: サキザヤ語
+  - translation_iso: kor
+    name: 사키자야어
+    auto: true
   - translation_iso: por
     name: Língua sakisaya
+  - translation_iso: rus
+    name: сакизая
   - translation_iso: spa
     name: Sakizaya
     auto: true

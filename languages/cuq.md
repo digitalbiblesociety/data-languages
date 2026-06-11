@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: चुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Cun
   - translation_iso: jpn
     name: 村語
+  - translation_iso: kor
+    name: 춘어
+    auto: true
   - translation_iso: por
     name: Cun
     auto: true
+  - translation_iso: rus
+    name: Цунь
   - translation_iso: spa
     name: Cun
     auto: true

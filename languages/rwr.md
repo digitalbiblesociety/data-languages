@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マールワーリー語
+  - translation_iso: kor
+    name: 마르와리어
+    auto: true
   - translation_iso: por
     name: Marwari (Índia)
     auto: true
+  - translation_iso: rus
+    name: марвари
   - translation_iso: spa
     name: Marwari (India)
     auto: true

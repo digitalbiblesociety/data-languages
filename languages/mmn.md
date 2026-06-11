@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मामानवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mamanwa
   - translation_iso: jpn
     name: ママンワ語
+    auto: true
+  - translation_iso: kor
+    name: 마만와어
     auto: true
   - translation_iso: por
     name: Língua mamanwa

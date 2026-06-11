@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ロングダ語
     auto: true
+  - translation_iso: kor
+    name: 롱구다어
+    auto: true
   - translation_iso: por
     name: Longuda
     auto: true

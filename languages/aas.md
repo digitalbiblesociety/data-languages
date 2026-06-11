@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: アアサックス語
     auto: true
+  - translation_iso: kor
+    name: 아사흐어
+    auto: true
   - translation_iso: por
     name: Aasáx
     auto: true
+  - translation_iso: rus
+    name: асайский язык
   - translation_iso: spa
     name: Aasax
   - translation_iso: zho

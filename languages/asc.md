@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カスアリーナ・コースト・アスマット語
     auto: true
+  - translation_iso: kor
+    name: 카수아리나 해안 아스마트어
+    auto: true
   - translation_iso: por
     name: Asmat da Costa de Casuarina
     auto: true

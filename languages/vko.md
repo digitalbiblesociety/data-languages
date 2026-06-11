@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोदेओहा
     auto: true
+  - translation_iso: ind
+    name: Kodeoha
   - translation_iso: jpn
     name: コンデア語
+    auto: true
+  - translation_iso: kor
+    name: 코데오하어
     auto: true
   - translation_iso: por
     name: Língua kodehoa

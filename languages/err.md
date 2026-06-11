@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エレ語
     auto: true
+  - translation_iso: kor
+    name: 에레어
+    auto: true
   - translation_iso: por
     name: Erre
     auto: true

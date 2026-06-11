@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴエマイ語
+  - translation_iso: kor
+    name: 고에마이어
+    auto: true
   - translation_iso: por
     name: Língua goemai
+  - translation_iso: rus
+    name: Гоэмаи
   - translation_iso: spa
     name: Goemai
     auto: true

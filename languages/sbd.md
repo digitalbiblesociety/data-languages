@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サネ語
     auto: true
+  - translation_iso: kor
+    name: 남부 사모어
+    auto: true
   - translation_iso: por
     name: Samo Meridional
     auto: true

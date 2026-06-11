@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: माक्लेव
     auto: true
+  - translation_iso: ind
+    name: Maklew
   - translation_iso: jpn
     name: マクレウ語
+    auto: true
+  - translation_iso: kor
+    name: 마클레우어
     auto: true
   - translation_iso: por
     name: Maklew

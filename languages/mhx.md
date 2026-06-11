@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンウォー語
+  - translation_iso: kor
+    name: 마루어
+    auto: true
   - translation_iso: por
     name: Maru
     auto: true

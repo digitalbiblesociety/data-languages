@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّاقوي
     auto: true
+  - translation_iso: ben
+    name: আন্দাকি
   - translation_iso: deu
     name: Andaqui
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: アンダキ語
     auto: true
+  - translation_iso: kor
+    name: 안다키어
+    auto: true
   - translation_iso: por
     name: Língua andaquí
+  - translation_iso: rus
+    name: Андаки
   - translation_iso: spa
     name: idioma andaquí
   - translation_iso: zho

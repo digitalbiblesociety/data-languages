@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カタウバ語
     auto: true
+  - translation_iso: kor
+    name: 카토바어
+    auto: true
   - translation_iso: por
     name: catawba
+  - translation_iso: rus
+    name: катоба
   - translation_iso: spa
     name: catauba
   - translation_iso: zho

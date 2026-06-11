@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبون
     auto: true
+  - translation_iso: ben
+    name: আবন
   - translation_iso: deu
     name: Abon
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अबोन
     auto: true
+  - translation_iso: ind
+    name: Abon
   - translation_iso: jpn
     name: アボン語
+    auto: true
+  - translation_iso: kor
+    name: 아본어
     auto: true
   - translation_iso: por
     name: Abon

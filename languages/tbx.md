@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カピン語
     auto: true
+  - translation_iso: kor
+    name: 카핀어
+    auto: true
   - translation_iso: por
     name: Kapin
     auto: true

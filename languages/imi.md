@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أنامغورا
     auto: true
+  - translation_iso: ben
+    name: আনামগুরা
   - translation_iso: deu
     name: Anamgura
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アナムグラ語
+    auto: true
+  - translation_iso: kor
+    name: 아남구라어
     auto: true
   - translation_iso: por
     name: Anamgura

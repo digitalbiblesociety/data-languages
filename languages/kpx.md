@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マウンテン・コイアリ語
     auto: true
+  - translation_iso: kor
+    name: 산악 코이알리어
+    auto: true
   - translation_iso: por
     name: Koiali da Montanha
     auto: true

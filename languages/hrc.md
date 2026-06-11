@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ニウェル・ミル語
     auto: true
+  - translation_iso: kor
+    name: 니웨르 밀어
+    auto: true
   - translation_iso: por
     name: Niwer Mil
     auto: true

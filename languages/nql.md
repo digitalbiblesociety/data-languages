@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンゲンデレンゴ語
     auto: true
+  - translation_iso: kor
+    name: 응엔델렝고어
+    auto: true
   - translation_iso: por
     name: Ngendelengo
     auto: true

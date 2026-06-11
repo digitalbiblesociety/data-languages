@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: सिचेल
     auto: true
+  - translation_iso: ind
+    name: bahasa Sikeloi
   - translation_iso: jpn
     name: シセル語
+  - translation_iso: kor
+    name: 시켈어
+    auto: true
   - translation_iso: por
     name: Sículo
     auto: true
+  - translation_iso: rus
+    name: сикульский язык
   - translation_iso: spa
     name: sículo
   - translation_iso: zho

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكوبية
     auto: true
+  - translation_iso: ben
+    name: কিউবাই ইশারা ভাষা
   - translation_iso: deu
     name: Kubanische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キューバ手話
+  - translation_iso: kor
+    name: 쿠바 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Cubana
   - translation_iso: spa

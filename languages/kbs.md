@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カンデ語
     auto: true
+  - translation_iso: kor
+    name: 칸데어
+    auto: true
   - translation_iso: por
     name: Kande
     auto: true

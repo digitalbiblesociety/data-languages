@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सविला
     auto: true
+  - translation_iso: ind
+    name: Sawila
   - translation_iso: jpn
     name: サウィラ語
+    auto: true
+  - translation_iso: kor
+    name: 사윌라어
     auto: true
   - translation_iso: por
     name: Sawila

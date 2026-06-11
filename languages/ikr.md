@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イカランガル語
     auto: true
+  - translation_iso: kor
+    name: 이카랑갈어
+    auto: true
   - translation_iso: por
     name: Ikaranggal
     auto: true

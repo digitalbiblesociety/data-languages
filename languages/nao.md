@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナアバ語
     auto: true
+  - translation_iso: kor
+    name: 나바어
+    auto: true
   - translation_iso: por
     name: Naaba
     auto: true

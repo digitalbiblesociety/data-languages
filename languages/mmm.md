@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マイイ語
     auto: true
+  - translation_iso: kor
+    name: 마이이어
+    auto: true
   - translation_iso: por
     name: Maii
     auto: true

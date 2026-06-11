@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チマニカ語
     auto: true
+  - translation_iso: kor
+    name: 테웨어
+    auto: true
   - translation_iso: por
     name: Tewe
     auto: true

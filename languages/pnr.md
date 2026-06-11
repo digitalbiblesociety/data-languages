@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パニム語
     auto: true
+  - translation_iso: kor
+    name: 파님어
+    auto: true
   - translation_iso: por
     name: Panim
     auto: true

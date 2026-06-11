@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウォリミ語
     auto: true
+  - translation_iso: kor
+    name: 워리미어
+    auto: true
   - translation_iso: por
     name: Worimi
     auto: true

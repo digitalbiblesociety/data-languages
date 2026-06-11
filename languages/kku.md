@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥミ語
     auto: true
+  - translation_iso: kor
+    name: 투미어
+    auto: true
   - translation_iso: por
     name: Tumi
     auto: true

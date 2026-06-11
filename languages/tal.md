@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タル語
+  - translation_iso: kor
+    name: 탈어
+    auto: true
   - translation_iso: por
     name: Tal
     auto: true
+  - translation_iso: rus
+    name: Тал (язык)
   - translation_iso: spa
     name: Tal
     auto: true

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: तुषारी ए
     auto: true
+  - translation_iso: ind
+    name: Bahasa Turpan
   - translation_iso: jpn
     name: トカラ語A
+  - translation_iso: kor
+    name: 동토하라어
+    auto: true
   - translation_iso: por
     name: tocário A
     auto: true
+  - translation_iso: rus
+    name: восточно-тохарский язык
   - translation_iso: spa
     name: Tocario A
     auto: true

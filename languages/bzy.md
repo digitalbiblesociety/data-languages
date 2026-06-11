@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أوبانْليكو
     auto: true
+  - translation_iso: ben
+    name: বানলিকু
   - translation_iso: deu
     name: Obanliku
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オバンリク語
+    auto: true
+  - translation_iso: kor
+    name: 오반리쿠어
     auto: true
   - translation_iso: por
     name: Obanliku

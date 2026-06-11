@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكي
     auto: true
+  - translation_iso: ben
+    name: আকে
   - translation_iso: deu
     name: Ake
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アケ語
+    auto: true
+  - translation_iso: kor
+    name: 아케어
     auto: true
   - translation_iso: por
     name: Ake

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gagauz_language"
 translations:
   - translation_iso: ara
     name: اللغة الغاغاوزية
+  - translation_iso: ben
+    name: গাগাউজ
   - translation_iso: deu
     name: Gagausisch
   - translation_iso: fra
     name: gagaouze
   - translation_iso: hin
     name: गागाउज़ भाषा
+  - translation_iso: ind
+    name: Gagauz
   - translation_iso: jpn
     name: ガガウズ語
   - translation_iso: kor
     name: 가가우즈어
   - translation_iso: por
     name: Língua gagaúza
+  - translation_iso: rus
+    name: гагаузский
   - translation_iso: spa
     name: gagaúzo
   - translation_iso: zho

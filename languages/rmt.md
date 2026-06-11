@@ -34,6 +34,8 @@ translations:
     name: 도마리어
   - translation_iso: por
     name: Língua domari
+  - translation_iso: rus
+    name: домари
   - translation_iso: spa
     name: domarí
   - translation_iso: zho

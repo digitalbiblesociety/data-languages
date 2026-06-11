@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باساي
     auto: true
+  - translation_iso: ben
+    name: বাসায়
   - translation_iso: deu
     name: Basay
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: बासाय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Basay
   - translation_iso: jpn
     name: バサイ語
+  - translation_iso: kor
+    name: 바사이어
+    auto: true
   - translation_iso: por
     name: Basay
     auto: true
+  - translation_iso: rus
+    name: басайский язык
   - translation_iso: spa
     name: Basay
   - translation_iso: zho

@@ -22,11 +22,18 @@ translations:
   - translation_iso: hin
     name: मिसियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Misia
   - translation_iso: jpn
     name: ミュシア語
+  - translation_iso: kor
+    name: 미시아어
+    auto: true
   - translation_iso: por
     name: mísio
     auto: true
+  - translation_iso: rus
+    name: мисийский язык
   - translation_iso: spa
     name: Idioma misio
   - translation_iso: zho

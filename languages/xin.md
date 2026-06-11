@@ -23,12 +23,16 @@ translations:
   - translation_iso: hin
     name: शिंका
     auto: true
+  - translation_iso: ind
+    name: Rumpun bahasa Xinka
   - translation_iso: jpn
     name: シンカ語
   - translation_iso: kor
     name: 싱카어족
   - translation_iso: por
     name: Língua xinca
+  - translation_iso: rus
+    name: Шинканские языки
   - translation_iso: spa
     name: Lenguas xincas
   - translation_iso: zho

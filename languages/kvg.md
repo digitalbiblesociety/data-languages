@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुनि-बोआज़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Boazi
   - translation_iso: jpn
     name: クニ・ボアジ語
+    auto: true
+  - translation_iso: kor
+    name: 쿠니보아지어
     auto: true
   - translation_iso: por
     name: Kuni-Boazi

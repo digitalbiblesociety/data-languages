@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルブアガン・カリンガ語
     auto: true
+  - translation_iso: kor
+    name: 루부아간 칼링가어
+    auto: true
   - translation_iso: por
     name: Kalinga de Lubuagan
     auto: true

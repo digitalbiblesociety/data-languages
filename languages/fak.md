@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファン語
     auto: true
+  - translation_iso: kor
+    name: 팡어
+    auto: true
   - translation_iso: por
     name: Fang (Camarões)
     auto: true

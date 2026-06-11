@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナイジェリア・フラニ語
+  - translation_iso: kor
+    name: 나이지리아 풀풀데어
+    auto: true
   - translation_iso: por
     name: fulfulde nigeriano
     auto: true

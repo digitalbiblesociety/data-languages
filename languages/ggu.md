@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: गागु
     auto: true
+  - translation_iso: ind
+    name: bahasa Gban
   - translation_iso: jpn
     name: グバン語
+  - translation_iso: kor
+    name: 가구어
+    auto: true
   - translation_iso: por
     name: Gagu
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मकाऊ क्रियोल
     auto: true
+  - translation_iso: ind
+    name: Patois Makau
   - translation_iso: jpn
     name: マカオ語
   - translation_iso: kor
     name: 마카오어
   - translation_iso: por
     name: Patuá macaense
+  - translation_iso: rus
+    name: Маканский язык
   - translation_iso: spa
     name: Macaense
     auto: true

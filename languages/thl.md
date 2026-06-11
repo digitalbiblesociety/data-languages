@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ダンガウラ・タル語
     auto: true
+  - translation_iso: kor
+    name: 당가우라 타루어
+    auto: true
   - translation_iso: por
     name: Tharu de Dangaura
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マグアントシ語
     auto: true
+  - translation_iso: kor
+    name: 마그안치 아이타어
+    auto: true
   - translation_iso: por
     name: Ayta Mag-antsi
     auto: true

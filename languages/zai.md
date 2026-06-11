@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イスムス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 이스트무스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco do Istmo
     auto: true
+  - translation_iso: rus
+    name: Истмусский сапотекский язык
   - translation_iso: spa
     name: Zapoteco del Istmo
   - translation_iso: zho

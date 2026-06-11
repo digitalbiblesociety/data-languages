@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソウ語
+  - translation_iso: kor
+    name: 소이어
+    auto: true
   - translation_iso: por
     name: Soi
     auto: true

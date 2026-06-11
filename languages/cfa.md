@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディカカ語
+  - translation_iso: kor
+    name: 디짐브윌림어
+    auto: true
   - translation_iso: por
     name: Dijim-Bwilim
     auto: true
+  - translation_iso: rus
+    name: Дикака
   - translation_iso: spa
     name: Dijim-Bwilim
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ソルバ語
     auto: true
+  - translation_iso: kor
+    name: 미요베어
+    auto: true
   - translation_iso: por
     name: Miyobe
     auto: true

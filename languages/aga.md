@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغوانو
     auto: true
+  - translation_iso: ben
+    name: আগুয়ানো
   - translation_iso: deu
     name: Aguano
   - translation_iso: fra
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アグアーノ語
     auto: true
+  - translation_iso: kor
+    name: 아과노어
+    auto: true
   - translation_iso: por
     name: aguano
+  - translation_iso: rus
+    name: Агуано
   - translation_iso: spa
     name: aguano
   - translation_iso: zho

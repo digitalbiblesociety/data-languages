@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: トラズ語
     auto: true
+  - translation_iso: kor
+    name: 토라어
+    auto: true
   - translation_iso: por
     name: Torá
     auto: true
+  - translation_iso: rus
+    name: Тора
   - translation_iso: spa
     name: Torá
     auto: true

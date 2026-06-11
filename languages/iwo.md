@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इवुर
     auto: true
+  - translation_iso: ind
+    name: Iwoer
   - translation_iso: jpn
     name: イウル語
+    auto: true
+  - translation_iso: kor
+    name: 이우르어
     auto: true
   - translation_iso: por
     name: Iwur

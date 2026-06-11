@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ギジガ語
     auto: true
+  - translation_iso: kor
+    name: 남부 기지가어
+    auto: true
   - translation_iso: por
     name: giziga do sul
     auto: true

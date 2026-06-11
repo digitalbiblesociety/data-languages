@@ -33,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 森林クリー語
+  - translation_iso: kor
+    name: 우즈 크리어
+    auto: true
   - translation_iso: por
     name: Cree dos Bosques
     auto: true
+  - translation_iso: rus
+    name: Лесной кри
   - translation_iso: spa
     name: cree de los bosques
   - translation_iso: zho

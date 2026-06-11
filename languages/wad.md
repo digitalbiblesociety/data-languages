@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: वान्दामेन
     auto: true
+  - translation_iso: ind
+    name: bahasa Wandamen
   - translation_iso: jpn
     name: ワンダメン語
+    auto: true
+  - translation_iso: kor
+    name: 완다멘어
     auto: true
   - translation_iso: por
     name: Wandamen
     auto: true
+  - translation_iso: rus
+    name: вандаменский язык
   - translation_iso: spa
     name: Wandamen
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: वैओली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Waioli
   - translation_iso: jpn
     name: ワイオリ語
+  - translation_iso: kor
+    name: 와이올리어
+    auto: true
   - translation_iso: por
     name: Waioli
     auto: true
+  - translation_iso: rus
+    name: Вайоли
   - translation_iso: spa
     name: Waioli
     auto: true

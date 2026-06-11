@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コティ語
+  - translation_iso: kor
+    name: 코티어
+    auto: true
   - translation_iso: por
     name: Língua koti
   - translation_iso: spa

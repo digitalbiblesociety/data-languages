@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بارايه
     auto: true
+  - translation_iso: ben
+    name: বারে
   - translation_iso: deu
     name: Baré
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギナオ語
+  - translation_iso: kor
+    name: 바레어
+    auto: true
   - translation_iso: por
     name: Língua baré
+  - translation_iso: rus
+    name: Баре
   - translation_iso: spa
     name: Baré
   - translation_iso: zho

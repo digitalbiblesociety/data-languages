@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ピスカタウェイ語
     auto: true
+  - translation_iso: kor
+    name: 피스카타웨이어
+    auto: true
   - translation_iso: por
     name: Piscataway
+  - translation_iso: rus
+    name: пискатауэй
   - translation_iso: spa
     name: Piscataway
   - translation_iso: zho

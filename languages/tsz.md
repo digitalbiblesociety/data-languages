@@ -34,6 +34,8 @@ translations:
     name: 푸레페차어
   - translation_iso: por
     name: Língua purépecha
+  - translation_iso: rus
+    name: пурепеча
   - translation_iso: spa
     name: purépecha
   - translation_iso: zho

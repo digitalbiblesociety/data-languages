@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بانْجالا
     auto: true
+  - translation_iso: ben
+    name: বানগালা ভাষা
   - translation_iso: deu
     name: Bangala
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンガラ語
+  - translation_iso: kor
+    name: 방갈라어
+    auto: true
   - translation_iso: por
     name: Língua bangala
+  - translation_iso: rus
+    name: бангала
   - translation_iso: spa
     name: Idioma bangala
   - translation_iso: zho

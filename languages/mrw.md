@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: मरानाओ
     auto: true
+  - translation_iso: ind
+    name: bahasa Meranau
   - translation_iso: jpn
     name: マラナオ語
   - translation_iso: kor
     name: 마라나오어
   - translation_iso: por
     name: Língua maranao
+  - translation_iso: rus
+    name: маранао
   - translation_iso: spa
     name: idioma maranao
   - translation_iso: zho

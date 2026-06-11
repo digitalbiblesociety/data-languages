@@ -22,18 +22,24 @@ translations:
   - translation_iso: ara
     name: لغة يمبو
     auto: true
+  - translation_iso: ben
+    name: লিম্বু ভাষা
   - translation_iso: deu
     name: Limbu
   - translation_iso: fra
     name: limbu
   - translation_iso: hin
     name: लिंबू भाषा
+  - translation_iso: ind
+    name: Bahasa Limbu
   - translation_iso: jpn
     name: リンブー語
   - translation_iso: kor
     name: 림부어
   - translation_iso: por
     name: Língua limbu
+  - translation_iso: rus
+    name: Лимбу
   - translation_iso: spa
     name: limbu
   - translation_iso: zho

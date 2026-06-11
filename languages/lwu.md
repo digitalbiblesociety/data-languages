@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラウ語
     auto: true
+  - translation_iso: kor
+    name: 라우어
+    auto: true
   - translation_iso: por
     name: Lawu
     auto: true

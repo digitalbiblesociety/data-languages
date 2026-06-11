@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: म्यांमार सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Myanmar
   - translation_iso: jpn
     name: ビルマ手話
+  - translation_iso: kor
+    name: 미얀마 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais de Mianmar
     auto: true

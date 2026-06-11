@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सेदोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sedoa
   - translation_iso: jpn
     name: タワイリア語
+    auto: true
+  - translation_iso: kor
+    name: 세도아어
     auto: true
   - translation_iso: por
     name: Sedoa

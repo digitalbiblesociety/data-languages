@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Meitei_language"
 translations:
   - translation_iso: ara
     name: الميتية
+  - translation_iso: ben
+    name: মণিপুরী
   - translation_iso: deu
     name: Meitei
   - translation_iso: fra
     name: meitei
   - translation_iso: hin
     name: मणिपुरी भाषा
+  - translation_iso: ind
+    name: Manipuri
   - translation_iso: jpn
     name: マニプリ語
   - translation_iso: kor
     name: 마니푸르어
   - translation_iso: por
     name: Língua manipuri
+  - translation_iso: rus
+    name: манипурский
   - translation_iso: spa
     name: idioma meitei
   - translation_iso: zho

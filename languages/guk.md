@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: グムズ語
     auto: true
+  - translation_iso: kor
+    name: 구무즈어
+    auto: true
   - translation_iso: por
     name: Gumuz
     auto: true
+  - translation_iso: rus
+    name: Гумуз (язык)
   - translation_iso: spa
     name: Idioma gumuz
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Iatmül語
+  - translation_iso: kor
+    name: 야트물어
+    auto: true
   - translation_iso: por
     name: Iatmul
     auto: true

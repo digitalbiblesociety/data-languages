@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メレ・フィラ語
+  - translation_iso: kor
+    name: 멜레필라어
+    auto: true
   - translation_iso: por
     name: Língua mele-fila
+  - translation_iso: rus
+    name: Ифира-меле
   - translation_iso: spa
     name: Mele-Fila
     auto: true

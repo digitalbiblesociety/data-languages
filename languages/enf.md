@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: 森林エネツ語
     auto: true
+  - translation_iso: kor
+    name: 삼림 에네츠어
+    auto: true
   - translation_iso: por
     name: Língua enets da floresta
+  - translation_iso: rus
+    name: пэ-бай
   - translation_iso: spa
     name: Énets del bosque
     auto: true

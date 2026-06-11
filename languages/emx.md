@@ -26,6 +26,8 @@ translations:
   - translation_iso: hin
     name: एरोमिंट्शेला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Erromintxela
   - translation_iso: jpn
     name: エロミンチェラ語
     auto: true
@@ -33,6 +35,8 @@ translations:
     name: 에로민첼라어
   - translation_iso: por
     name: Erromintxela
+  - translation_iso: rus
+    name: Эрроминчела
   - translation_iso: spa
     name: Erromintxela
   - translation_iso: zho

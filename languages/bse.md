@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウシ語
     auto: true
+  - translation_iso: kor
+    name: 우시어
+    auto: true
   - translation_iso: por
     name: Wushi
     auto: true

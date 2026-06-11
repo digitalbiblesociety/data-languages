@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ツィウォガイ語
     auto: true
+  - translation_iso: kor
+    name: 치워가이어
+    auto: true
   - translation_iso: por
     name: Ciwogai
     auto: true
+  - translation_iso: rus
+    name: Цагу
   - translation_iso: spa
     name: Ciwogai
     auto: true

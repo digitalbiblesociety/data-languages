@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウェリキ語
     auto: true
+  - translation_iso: kor
+    name: 웰리키어
+    auto: true
   - translation_iso: por
     name: Weliki
     auto: true

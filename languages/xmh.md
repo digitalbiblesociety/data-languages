@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クグ・ムミンハ語
     auto: true
+  - translation_iso: kor
+    name: 쿠구·무민어
+    auto: true
   - translation_iso: por
     name: Kugu-Muminh
     auto: true

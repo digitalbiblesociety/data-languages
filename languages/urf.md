@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: インジノー語
     auto: true
+  - translation_iso: kor
+    name: 우라디어
+    auto: true
   - translation_iso: por
     name: Uradhi
     auto: true

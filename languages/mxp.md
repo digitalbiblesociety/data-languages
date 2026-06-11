@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語
     auto: true
+  - translation_iso: kor
+    name: 틀라우이톨테펙 미헤어
+    auto: true
   - translation_iso: por
     name: Língua tlahuitoltepec mixe
+  - translation_iso: rus
+    name: Тлауитольтепекский михе
   - translation_iso: spa
     name: Mixe de Tlahuitoltepec
     auto: true

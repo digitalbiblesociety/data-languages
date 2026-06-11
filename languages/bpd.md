@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باندا باندا
     auto: true
+  - translation_iso: ben
+    name: বান্দা-বান্দা
   - translation_iso: deu
     name: Banda-Banda
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンダ・バンダ語
+    auto: true
+  - translation_iso: kor
+    name: 반다반다어
     auto: true
   - translation_iso: por
     name: Banda-Banda

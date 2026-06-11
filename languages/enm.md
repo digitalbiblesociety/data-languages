@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_English"
 translations:
   - translation_iso: ara
     name: الإنجليزية الوسطى
+  - translation_iso: ben
+    name: মধ্য ইংরেজি
   - translation_iso: deu
     name: Mittelenglisch
   - translation_iso: fra
     name: moyen anglais
   - translation_iso: hin
     name: मध्य अंग्रेज़ी
+  - translation_iso: ind
+    name: Inggris Abad Pertengahan
   - translation_iso: jpn
     name: 中英語
   - translation_iso: kor
     name: 중세 영어
   - translation_iso: por
     name: inglês médio
+  - translation_iso: rus
+    name: среднеанглийский
   - translation_iso: spa
     name: inglés medio
   - translation_iso: zho

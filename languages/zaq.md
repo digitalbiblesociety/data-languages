@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ألوابام
     auto: true
+  - translation_iso: ben
+    name: আলোয়াপাম জাপোটেক
   - translation_iso: deu
     name: Zapotekisch (Aloápam)
     auto: true
@@ -33,8 +35,13 @@ translations:
   - translation_iso: jpn
     name: アロアパム・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 알로아팜 사포텍어
+    auto: true
   - translation_iso: por
     name: Língua zapoteca aloapam
+  - translation_iso: rus
+    name: алоапамский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Aloápam
   - translation_iso: zho

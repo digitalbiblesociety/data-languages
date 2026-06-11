@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エマン語
     auto: true
+  - translation_iso: kor
+    name: 에만어
+    auto: true
   - translation_iso: por
     name: Eman
     auto: true

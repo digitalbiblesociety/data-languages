@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピラタプーヨ語
     auto: true
+  - translation_iso: kor
+    name: 피라타푸요어
+    auto: true
   - translation_iso: por
     name: Piratapuyo
     auto: true

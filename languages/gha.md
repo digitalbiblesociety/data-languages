@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガダミス語
+  - translation_iso: kor
+    name: 가다메스어
+    auto: true
   - translation_iso: por
     name: Língua gadamés
+  - translation_iso: rus
+    name: Гхадамесский язык
   - translation_iso: spa
     name: Idioma ghadamés
   - translation_iso: zho

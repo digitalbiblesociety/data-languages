@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロコド語
+  - translation_iso: kor
+    name: 모로코도어
+    auto: true
   - translation_iso: por
     name: Morokodo
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マツヴァン語
     auto: true
+  - translation_iso: kor
+    name: 추반어
+    auto: true
   - translation_iso: por
     name: Tsuvan
     auto: true

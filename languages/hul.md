@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: フラ語
     auto: true
+  - translation_iso: kor
+    name: 훌라어
+    auto: true
   - translation_iso: por
     name: Hula
     auto: true

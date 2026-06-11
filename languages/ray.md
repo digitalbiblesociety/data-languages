@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラパ語
+  - translation_iso: kor
+    name: 라파어
+    auto: true
   - translation_iso: por
     name: Língua rapa
+  - translation_iso: rus
+    name: Рапа (язык)
   - translation_iso: spa
     name: Idioma rapa
   - translation_iso: zho

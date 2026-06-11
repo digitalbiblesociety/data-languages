@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東南イジョ語
     auto: true
+  - translation_iso: kor
+    name: 남동 이조어
+    auto: true
   - translation_iso: por
     name: Ijo do Sudeste
     auto: true

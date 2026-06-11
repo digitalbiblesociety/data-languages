@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أموندّافا
     auto: true
+  - translation_iso: ben
+    name: অমুন্ডব
   - translation_iso: deu
     name: Amundava
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムンダバ語
+    auto: true
+  - translation_iso: kor
+    name: 아문다바어
     auto: true
   - translation_iso: por
     name: Dialeto amondaua

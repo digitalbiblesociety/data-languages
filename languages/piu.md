@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語
+  - translation_iso: kor
+    name: 핀투피루리차어
+    auto: true
   - translation_iso: por
     name: Pintupi
+  - translation_iso: rus
+    name: Пинтуби
   - translation_iso: spa
     name: Pintupi-Luritja
     auto: true

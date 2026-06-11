@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムフィヌ語
     auto: true
+  - translation_iso: kor
+    name: 음피누어
+    auto: true
   - translation_iso: por
     name: mfinu
     auto: true

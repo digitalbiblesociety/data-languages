@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブクス語
+  - translation_iso: kor
+    name: 부쿠수어
+    auto: true
   - translation_iso: por
     name: Língua bukusu
   - translation_iso: spa

@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: पिसिडियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pisidia
   - translation_iso: jpn
     name: ピシディア語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Pisídio
     auto: true
+  - translation_iso: rus
+    name: писидийский язык
   - translation_iso: spa
     name: Idioma pisidio
   - translation_iso: zho

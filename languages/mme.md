@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マエ語
     auto: true
+  - translation_iso: kor
+    name: 마에어
+    auto: true
   - translation_iso: por
     name: Mae
     auto: true

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニェン語
+  - translation_iso: kor
+    name: 니엔카어
+    auto: true
   - translation_iso: por
     name: Nyenkha
     auto: true
+  - translation_iso: rus
+    name: Ньен-кха
   - translation_iso: spa
     name: Nyenkha
     auto: true

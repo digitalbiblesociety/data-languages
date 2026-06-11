@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كاكهاري
     auto: true
+  - translation_iso: ben
+    name: কাছারী ভাষা
   - translation_iso: deu
     name: Kachari
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: कछारी भाषा
   - translation_iso: jpn
     name: カチャリ語
+  - translation_iso: kor
+    name: 카차리어
+    auto: true
   - translation_iso: por
     name: Kachari
     auto: true
+  - translation_iso: rus
+    name: Качари
   - translation_iso: spa
     name: idioma kachari
   - translation_iso: zho

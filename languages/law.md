@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लाउजे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lauje
   - translation_iso: jpn
     name: ラウジェ語
+    auto: true
+  - translation_iso: kor
+    name: 라우제어
     auto: true
   - translation_iso: por
     name: Lauje

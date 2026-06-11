@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iban_language"
 translations:
   - translation_iso: ara
     name: الإيبان
+  - translation_iso: ben
+    name: ইবান
   - translation_iso: deu
     name: Iban
   - translation_iso: fra
     name: iban
   - translation_iso: hin
     name: इबान
+  - translation_iso: ind
+    name: Iban
   - translation_iso: jpn
     name: イバン語
   - translation_iso: kor
     name: 이반어
   - translation_iso: por
     name: Língua iban
+  - translation_iso: rus
+    name: ибанский
   - translation_iso: spa
     name: Idioma iban
   - translation_iso: zho

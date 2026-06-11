@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダランジ語
     auto: true
+  - translation_iso: kor
+    name: 달란지어
+    auto: true
   - translation_iso: por
     name: Dhalandji
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: トロム語
     auto: true
+  - translation_iso: kor
+    name: 토람어
+    auto: true
   - translation_iso: por
     name: Toram
     auto: true
+  - translation_iso: rus
+    name: Торам
   - translation_iso: spa
     name: Toram
     auto: true

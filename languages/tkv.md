@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムル・パノ語
     auto: true
+  - translation_iso: kor
+    name: 무르 파노어
+    auto: true
   - translation_iso: por
     name: Mur Pano
     auto: true

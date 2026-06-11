@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ササル語
     auto: true
+  - translation_iso: kor
+    name: 사사루어
+    auto: true
   - translation_iso: por
     name: Sasaru
     auto: true

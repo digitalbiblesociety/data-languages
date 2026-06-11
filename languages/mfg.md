@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モゴフィン語
     auto: true
+  - translation_iso: kor
+    name: 모고핀어
+    auto: true
   - translation_iso: por
     name: Mogofin
     auto: true

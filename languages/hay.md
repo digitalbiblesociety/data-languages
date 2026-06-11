@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヤ語
+  - translation_iso: kor
+    name: 하야어
+    auto: true
   - translation_iso: por
     name: Língua haya
   - translation_iso: spa

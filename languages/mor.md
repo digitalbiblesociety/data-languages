@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロ語
+  - translation_iso: kor
+    name: 모로어
+    auto: true
   - translation_iso: por
     name: Moro
     auto: true
+  - translation_iso: rus
+    name: Моро
   - translation_iso: spa
     name: Moro
     auto: true

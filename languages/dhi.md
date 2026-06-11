@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディマール語
+  - translation_iso: kor
+    name: 디말어
+    auto: true
   - translation_iso: por
     name: Língua dhimal
+  - translation_iso: rus
+    name: Дхималь
   - translation_iso: spa
     name: dhimal
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジャングン語
     auto: true
+  - translation_iso: kor
+    name: 장군어
+    auto: true
   - translation_iso: por
     name: Djangun
     auto: true

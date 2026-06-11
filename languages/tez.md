@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンセルト語
+  - translation_iso: kor
+    name: 테체레트어
+    auto: true
   - translation_iso: por
     name: Tetserret
     auto: true
+  - translation_iso: rus
+    name: Тешеррет
   - translation_iso: spa
     name: tetserret
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ナランゴ語
     auto: true
+  - translation_iso: kor
+    name: 나랑고어
+    auto: true
   - translation_iso: por
     name: Narango
     auto: true
+  - translation_iso: rus
+    name: Наранго
   - translation_iso: spa
     name: Narango
     auto: true

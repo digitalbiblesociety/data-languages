@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: تانغتشانغيا
     auto: true
+  - translation_iso: ben
+    name: তঞ্চঙ্গ্যা ভাষা
   - translation_iso: deu
     name: Tangchangya
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: तंचंग्या भाषा
   - translation_iso: jpn
     name: タンチャンギャ語
+    auto: true
+  - translation_iso: kor
+    name: 탕창야어
     auto: true
   - translation_iso: por
     name: Língua tanchangya

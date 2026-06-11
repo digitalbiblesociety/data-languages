@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オロウェ語
     auto: true
+  - translation_iso: kor
+    name: 오로웨어
+    auto: true
   - translation_iso: por
     name: Orowe
     auto: true

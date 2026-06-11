@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh"
 translations:
   - translation_iso: ara
     name: الأمازيغية المعيارية المغربية
+  - translation_iso: ben
+    name: আদর্শ মরক্কোন তামাজিগাত
   - translation_iso: deu
     name: marokkanisches Amazigh
   - translation_iso: fra
     name: amazighe standard marocain
   - translation_iso: hin
     name: मानक मोरक्कन तैमैज़िग़्त
+  - translation_iso: ind
+    name: Tamazight Maroko Standar
   - translation_iso: jpn
     name: 標準モロッコ・タマジクト語
   - translation_iso: kor
     name: 표준 모로코 타마지트어
   - translation_iso: por
     name: tamazirte marroqino padrão
+  - translation_iso: rus
+    name: тамазигхтский
   - translation_iso: spa
     name: Amazig estándar marroquí
   - translation_iso: zho

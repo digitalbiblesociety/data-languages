@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: प्रसुनी
     auto: true
+  - translation_iso: ind
+    name: Wasi-wari
   - translation_iso: jpn
     name: プラスーン語
+  - translation_iso: kor
+    name: 프라수니어
+    auto: true
   - translation_iso: por
     name: Prasuni
     auto: true
+  - translation_iso: rus
+    name: Прасун
   - translation_iso: spa
     name: Idioma prasun
   - translation_iso: zho

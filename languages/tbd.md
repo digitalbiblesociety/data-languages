@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カキ・アエ語
+  - translation_iso: kor
+    name: 카키아에어
+    auto: true
   - translation_iso: por
     name: Kaki Ae
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セラーノ語
+  - translation_iso: kor
+    name: 세라노어
+    auto: true
   - translation_iso: por
     name: Língua serrano
+  - translation_iso: rus
+    name: серрано
   - translation_iso: spa
     name: Idioma serrano
   - translation_iso: zho

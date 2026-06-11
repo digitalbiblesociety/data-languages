@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: カナン語
     auto: true
+  - translation_iso: kor
+    name: 카난어
+    auto: true
   - translation_iso: por
     name: kanan
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: コンコンバ語
     auto: true
+  - translation_iso: kor
+    name: 콘콤바어
+    auto: true
   - translation_iso: por
     name: Língua konkomba
+  - translation_iso: rus
+    name: конкомба
   - translation_iso: spa
     name: konkomba
   - translation_iso: zho

@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kenyan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الكينية
+  - translation_iso: ben
+    name: কেনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Kenyanische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケニア手話
+  - translation_iso: kor
+    name: 케냐 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual Queniana
   - translation_iso: spa

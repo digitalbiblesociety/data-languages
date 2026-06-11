@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तामान (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Taman
   - translation_iso: jpn
     name: タマン語
+    auto: true
+  - translation_iso: kor
+    name: 타만어
     auto: true
   - translation_iso: por
     name: Taman (Indonésia)

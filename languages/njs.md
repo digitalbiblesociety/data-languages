@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニサ語
     auto: true
+  - translation_iso: kor
+    name: 니사어
+    auto: true
   - translation_iso: por
     name: Nisa
     auto: true

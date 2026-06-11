@@ -25,12 +25,16 @@ translations:
   - translation_iso: hin
     name: एत्रुस्कन
     auto: true
+  - translation_iso: ind
+    name: Etruria
   - translation_iso: jpn
     name: エトルリア語
   - translation_iso: kor
     name: 에트루리아어
   - translation_iso: por
     name: Língua etrusca
+  - translation_iso: rus
+    name: этрусский язык
   - translation_iso: spa
     name: idioma etrusco
   - translation_iso: zho

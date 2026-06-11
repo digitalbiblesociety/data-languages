@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブム語
     auto: true
+  - translation_iso: kor
+    name: 붐어
+    auto: true
   - translation_iso: por
     name: Bum
     auto: true

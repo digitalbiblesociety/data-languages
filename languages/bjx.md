@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بناو إيتنج
     auto: true
+  - translation_iso: ben
+    name: বানাও ইতনেগ
   - translation_iso: deu
     name: Banao Itneg
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バナオ・イトネグ語
+    auto: true
+  - translation_iso: kor
+    name: 바나오 이트네그어
     auto: true
   - translation_iso: por
     name: Banao Itneg

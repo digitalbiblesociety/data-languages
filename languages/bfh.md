@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブラフェ語
     auto: true
+  - translation_iso: kor
+    name: 블라페어
+    auto: true
   - translation_iso: por
     name: Blafe
     auto: true

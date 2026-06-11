@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クウェラ・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 크웰라 그베어
+    auto: true
   - translation_iso: por
     name: xwela gbe
     auto: true

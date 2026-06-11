@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Duala_language"
 translations:
   - translation_iso: ara
     name: الديولا
+  - translation_iso: ben
+    name: দুয়ালা
   - translation_iso: deu
     name: Duala
   - translation_iso: fra
     name: Duala
   - translation_iso: hin
     name: दुआला
+  - translation_iso: ind
+    name: Duala
   - translation_iso: jpn
     name: ドゥアラ語
   - translation_iso: kor
     name: 두알라어
   - translation_iso: por
     name: Língua duala
+  - translation_iso: rus
+    name: дуала
   - translation_iso: spa
     name: duala
   - translation_iso: zho

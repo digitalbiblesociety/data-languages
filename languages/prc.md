@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: पराची
     auto: true
+  - translation_iso: ind
+    name: Parachi
   - translation_iso: jpn
     name: パラチ語
+    auto: true
+  - translation_iso: kor
+    name: 파라치어
     auto: true
   - translation_iso: por
     name: Parachi
     auto: true
+  - translation_iso: rus
+    name: Парачи
   - translation_iso: spa
     name: Parachi
     auto: true

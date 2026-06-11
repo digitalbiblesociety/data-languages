@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كودافا
     auto: true
+  - translation_iso: ben
+    name: কোড়াভা ভাষা
   - translation_iso: deu
     name: Kodava
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 코다바어
   - translation_iso: por
     name: Língua kodava
+  - translation_iso: rus
+    name: Кодагу
   - translation_iso: spa
     name: Kodava
     auto: true

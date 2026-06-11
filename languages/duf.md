@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンドゥベア語
+  - translation_iso: kor
+    name: 둠베아어
+    auto: true
   - translation_iso: por
     name: Língua ndrumbea
   - translation_iso: spa

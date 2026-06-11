@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チョング語
     auto: true
+  - translation_iso: kor
+    name: 총어
+    auto: true
   - translation_iso: por
     name: Chong
     auto: true

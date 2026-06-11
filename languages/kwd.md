@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: क्वाइयो
     auto: true
+  - translation_iso: ind
+    name: Kwaio
   - translation_iso: jpn
     name: クワイオ語
+    auto: true
+  - translation_iso: kor
+    name: 콰이오어
     auto: true
   - translation_iso: por
     name: Língua kwaio

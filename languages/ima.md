@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: مالا مالاسار
     auto: true
+  - translation_iso: ben
+    name: মালা মালাসার ভাষা
   - translation_iso: deu
     name: Mala Malasar
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラ・マラサル語
+    auto: true
+  - translation_iso: kor
+    name: 말라 말라사르어
     auto: true
   - translation_iso: por
     name: Mala Malasar

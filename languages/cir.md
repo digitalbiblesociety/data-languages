@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンリン語
+  - translation_iso: kor
+    name: 티리어
+    auto: true
   - translation_iso: por
     name: Tiri
     auto: true

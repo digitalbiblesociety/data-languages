@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أنجلورومانية
     auto: true
+  - translation_iso: ben
+    name: অ্যাংলোরোমানি
   - translation_iso: deu
     name: Anglo-Romani
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アングロ・ロマニー語
+  - translation_iso: kor
+    name: 앵글로로마니어
+    auto: true
   - translation_iso: por
     name: Anglo-Romani
     auto: true
+  - translation_iso: rus
+    name: англо-цыганский язык
   - translation_iso: spa
     name: Anglorromaní
   - translation_iso: zho

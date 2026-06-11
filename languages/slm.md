@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シヤマ語
     auto: true
+  - translation_iso: kor
+    name: 팡우타란 사마어
+    auto: true
   - translation_iso: por
     name: Sama Pangutaran
     auto: true

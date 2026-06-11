@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: नेदेबांग
     auto: true
+  - translation_iso: ind
+    name: Nedebang
   - translation_iso: jpn
     name: ネデバン語
+    auto: true
+  - translation_iso: kor
+    name: 네데방어
     auto: true
   - translation_iso: por
     name: Nedebang

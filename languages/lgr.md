@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンゴ語
+  - translation_iso: kor
+    name: 렝고어
+    auto: true
   - translation_iso: por
     name: Lengo
     auto: true

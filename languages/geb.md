@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キレ語
     auto: true
+  - translation_iso: kor
+    name: 키레어
+    auto: true
   - translation_iso: por
     name: Kire
     auto: true

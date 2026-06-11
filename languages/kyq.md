@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ケンガ語
     auto: true
+  - translation_iso: kor
+    name: 켕가어
+    auto: true
   - translation_iso: por
     name: Kenga
     auto: true
+  - translation_iso: rus
+    name: Кенга
   - translation_iso: spa
     name: Kenga
     auto: true

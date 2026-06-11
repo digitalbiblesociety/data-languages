@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: उमा लासन
     auto: true
+  - translation_iso: ind
+    name: Kenyah Barat
   - translation_iso: jpn
     name: ウマラサン語
+    auto: true
+  - translation_iso: kor
+    name: 우마 라산어
     auto: true
   - translation_iso: por
     name: "Uma' Lasan"

@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الجزائرية
+  - translation_iso: ben
+    name: আলজেরীয় ইশারা ভাষা
   - translation_iso: deu
     name: Algerische Gebärdensprache
   - translation_iso: fra
@@ -32,6 +34,8 @@ translations:
     name: 알제리 수어
   - translation_iso: por
     name: Língua de Sinais Algeriana
+  - translation_iso: rus
+    name: алжирский жестовый язык
   - translation_iso: spa
     name: Lengua de señas argelina
     auto: true

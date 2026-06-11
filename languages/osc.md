@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: ओस्कन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Oska
   - translation_iso: jpn
     name: オスク語
   - translation_iso: kor
     name: 오스크어
   - translation_iso: por
     name: osco
+  - translation_iso: rus
+    name: оскский язык
   - translation_iso: spa
     name: idioma osco
   - translation_iso: zho

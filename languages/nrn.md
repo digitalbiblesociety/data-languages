@@ -13,18 +13,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Norn_language"
 translations:
   - translation_iso: ara
     name: لغة نورن
+  - translation_iso: ben
+    name: নর্ন ভাষা
   - translation_iso: deu
     name: Norn
   - translation_iso: fra
     name: norne
   - translation_iso: hin
     name: नोर्न भाषा
+  - translation_iso: ind
+    name: Norn
   - translation_iso: jpn
     name: ノルン語
   - translation_iso: kor
     name: 노른어
   - translation_iso: por
     name: Norn
+  - translation_iso: rus
+    name: норн
   - translation_iso: spa
     name: norn
   - translation_iso: zho

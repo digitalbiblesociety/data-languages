@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: उल्च
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ulch
   - translation_iso: jpn
     name: ウリチ語
   - translation_iso: kor
     name: 울치어
   - translation_iso: por
     name: Língua ulch
+  - translation_iso: rus
+    name: ульчский язык
   - translation_iso: spa
     name: ulch
   - translation_iso: zho

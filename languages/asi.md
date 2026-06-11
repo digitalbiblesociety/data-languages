@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブルウァイ語
     auto: true
+  - translation_iso: kor
+    name: 부루와이어
+    auto: true
   - translation_iso: por
     name: Buruwai
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イーンジラランジ語
     auto: true
+  - translation_iso: kor
+    name: 인질란지어
+    auto: true
   - translation_iso: por
     name: yindjilandji
     auto: true

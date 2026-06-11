@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ドゥワイ語
     auto: true
+  - translation_iso: kor
+    name: 두와이어
+    auto: true
   - translation_iso: por
     name: Duwai
     auto: true
+  - translation_iso: rus
+    name: Дувай
   - translation_iso: spa
     name: duwai
   - translation_iso: zho

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कुर
     auto: true
+  - translation_iso: ind
+    name: Kur
   - translation_iso: jpn
     name: クル語
+    auto: true
+  - translation_iso: kor
+    name: 쿠르어
     auto: true
   - translation_iso: por
     name: Kur

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آجي
     auto: true
+  - translation_iso: ben
+    name: আজহে
   - translation_iso: deu
     name: Azhe
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アージェ語
+    auto: true
+  - translation_iso: kor
+    name: 아저어
     auto: true
   - translation_iso: por
     name: azhe

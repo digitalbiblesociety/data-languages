@@ -23,14 +23,21 @@ translations:
   - translation_iso: ara
     name: واجدي
     auto: true
+  - translation_iso: ben
+    name: বাগডি ভাষা
   - translation_iso: deu
     name: Wagdi
   - translation_iso: fra
     name: Wagdi
   - translation_iso: hin
     name: वागडी
+  - translation_iso: ind
+    name: Wagdi
   - translation_iso: jpn
     name: ワグディ語
+  - translation_iso: kor
+    name: 와그디어
+    auto: true
   - translation_iso: por
     name: Wagdi
   - translation_iso: spa

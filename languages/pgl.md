@@ -23,10 +23,17 @@ translations:
   - translation_iso: hin
     name: आदिम आयरिश
     auto: true
+  - translation_iso: ind
+    name: Bahasa Irlandia Purba
   - translation_iso: jpn
     name: 原アイルランド語
+  - translation_iso: kor
+    name: 원시 아일랜드어
+    auto: true
   - translation_iso: por
     name: Irlandês arcaico
+  - translation_iso: rus
+    name: первобытный ирландский язык
   - translation_iso: spa
     name: paleoirlandés
   - translation_iso: zho

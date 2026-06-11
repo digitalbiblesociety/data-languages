@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルグラ語
+  - translation_iso: kor
+    name: 타가르그렌트어
+    auto: true
   - translation_iso: por
     name: Tagargrent
     auto: true
+  - translation_iso: rus
+    name: Уаргла (язык)
   - translation_iso: spa
     name: Idioma ouargli
   - translation_iso: zho

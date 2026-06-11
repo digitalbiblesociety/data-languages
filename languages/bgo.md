@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باجا كوجا
     auto: true
+  - translation_iso: ben
+    name: বাগা কোগা
   - translation_iso: deu
     name: Koga
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バガ・コガ語
+    auto: true
+  - translation_iso: kor
+    name: 바가 코가어
     auto: true
   - translation_iso: por
     name: Baga Koga

@@ -34,6 +34,8 @@ translations:
     name: 라칸돈어
   - translation_iso: por
     name: lacandão
+  - translation_iso: rus
+    name: Лакандонский язык
   - translation_iso: spa
     name: lacandón
   - translation_iso: zho

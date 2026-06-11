@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネオ
+  - translation_iso: kor
+    name: 네오어
+    auto: true
   - translation_iso: por
     name: Língua neo
+  - translation_iso: rus
+    name: Нэо
   - translation_iso: spa
     name: Idioma neo
   - translation_iso: zho

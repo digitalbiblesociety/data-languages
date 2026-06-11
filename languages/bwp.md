@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンドボ・バワ語
     auto: true
+  - translation_iso: kor
+    name: 만도보 바와어
+    auto: true
   - translation_iso: por
     name: Mandobo Bawah
     auto: true

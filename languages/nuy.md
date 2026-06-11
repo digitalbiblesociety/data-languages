@@ -28,11 +28,18 @@ translations:
     name: nunggubuyu
   - translation_iso: hin
     name: वुबुय भाषा
+  - translation_iso: ind
+    name: Bahasa Nunggubuyu
   - translation_iso: jpn
     name: ヌンググブユ語
     auto: true
+  - translation_iso: kor
+    name: 눙구부유어
+    auto: true
   - translation_iso: por
     name: Língua nunggubuyu
+  - translation_iso: rus
+    name: нунггубую
   - translation_iso: spa
     name: Nunggubuyu
     auto: true

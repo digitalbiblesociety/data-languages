@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمانايي
     auto: true
+  - translation_iso: ben
+    name: আমানায়ে
   - translation_iso: deu
     name: Amanayé
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アマナエ語
     auto: true
+  - translation_iso: kor
+    name: 아마나예어
+    auto: true
   - translation_iso: por
     name: Língua amanaié
+  - translation_iso: rus
+    name: Аманайе
   - translation_iso: spa
     name: Lengua amanayé
   - translation_iso: zho

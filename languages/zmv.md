@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ググ・ワラ語
+  - translation_iso: kor
+    name: 음바리만·구딘마어
+    auto: true
   - translation_iso: por
     name: Mbariman-Gudhinma
     auto: true

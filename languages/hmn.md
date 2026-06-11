@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hmong_language"
 translations:
   - translation_iso: ara
     name: الهمونجية
+  - translation_iso: ben
+    name: হ্‌মোঙ
   - translation_iso: deu
     name: Miao
   - translation_iso: fra
     name: miao chuanqiandian
   - translation_iso: hin
     name: ह्मॉंग
+  - translation_iso: ind
+    name: Hmong
   - translation_iso: jpn
     name: ミャオ語
   - translation_iso: kor
     name: 몽어
   - translation_iso: por
     name: Língua hmong
+  - translation_iso: rus
+    name: хмонг
   - translation_iso: spa
     name: Idioma hmong
   - translation_iso: zho

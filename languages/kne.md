@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カンカナエ語
     auto: true
+  - translation_iso: kor
+    name: 칸카나에이어
+    auto: true
   - translation_iso: por
     name: Língua kankanaey
   - translation_iso: spa

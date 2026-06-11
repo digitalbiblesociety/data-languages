@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة إنجليزية كريول البهاما
     auto: true
+  - translation_iso: ben
+    name: বাহামীয় ক্রেওল
   - translation_iso: deu
     name: Bahama-Kreolenglisch
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バハマ・クレオール語
+  - translation_iso: kor
+    name: 바하마 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo das Bahamas
+  - translation_iso: rus
+    name: Багамский креольский язык
   - translation_iso: spa
     name: inglés criollo bahameño
   - translation_iso: zho

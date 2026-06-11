@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: メーファア語
     auto: true
+  - translation_iso: kor
+    name: 틀라코아파 메파어
+    auto: true
   - translation_iso: por
     name: "Me'phaa de Tlacoapa"
     auto: true

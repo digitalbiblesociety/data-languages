@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クァザ語
+  - translation_iso: kor
+    name: 콰자어
+    auto: true
   - translation_iso: por
     name: "Kw'adza"
     auto: true

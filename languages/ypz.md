@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フーザ語
     auto: true
+  - translation_iso: kor
+    name: 푸자어
+    auto: true
   - translation_iso: por
     name: phuza
     auto: true

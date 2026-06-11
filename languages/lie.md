@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リキラ語
     auto: true
+  - translation_iso: kor
+    name: 리킬라어
+    auto: true
   - translation_iso: por
     name: Likila
     auto: true

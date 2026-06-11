@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurukh_language"
 translations:
   - translation_iso: ara
     name: الكوروخ
+  - translation_iso: ben
+    name: কুরুখ
   - translation_iso: deu
     name: Kurukh
   - translation_iso: fra
     name: kurukh
   - translation_iso: hin
     name: कुड़ुख़
+  - translation_iso: ind
+    name: Kuruk
   - translation_iso: jpn
     name: クルク語
   - translation_iso: kor
     name: 쿠루흐어
   - translation_iso: por
     name: Língua kurux
+  - translation_iso: rus
+    name: курух
   - translation_iso: spa
     name: kurukh
   - translation_iso: zho

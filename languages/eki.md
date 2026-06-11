@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: الإكي
     auto: true
+  - translation_iso: ben
+    name: একি
   - translation_iso: deu
     name: Eki
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エキ語
+    auto: true
+  - translation_iso: kor
+    name: 에키어
     auto: true
   - translation_iso: por
     name: Eki

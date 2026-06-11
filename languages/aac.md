@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة الآري
     auto: true
+  - translation_iso: ben
+    name: আরি
   - translation_iso: deu
     name: Ari
   - translation_iso: fra

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギェム語
     auto: true
+  - translation_iso: kor
+    name: 겜어
+    auto: true
   - translation_iso: por
     name: Gyem
     auto: true

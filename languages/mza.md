@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・サカテペック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산타마리아 사카테펙 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Santa María Zacatepec
     auto: true
+  - translation_iso: rus
+    name: Санта-мария-сакатепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Santa María Zacatepec
     auto: true

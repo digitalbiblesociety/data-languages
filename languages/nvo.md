@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ニョコン語
     auto: true
+  - translation_iso: kor
+    name: 뇨콘어
+    auto: true
   - translation_iso: por
     name: Nyokon
     auto: true

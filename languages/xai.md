@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: カインベ語
     auto: true
+  - translation_iso: kor
+    name: 카임베어
+    auto: true
   - translation_iso: por
     name: Língua kaimbé
+  - translation_iso: rus
+    name: Каимбе
   - translation_iso: spa
     name: Kaimbé
     auto: true

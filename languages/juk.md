@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワパン語
     auto: true
+  - translation_iso: kor
+    name: 와판어
+    auto: true
   - translation_iso: por
     name: Wapan
     auto: true

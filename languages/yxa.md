@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マヤワリ語
     auto: true
+  - translation_iso: kor
+    name: 마야왈리어
+    auto: true
   - translation_iso: por
     name: mayawali
     auto: true

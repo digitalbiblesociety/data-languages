@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أراتبوتين هوا
     auto: true
+  - translation_iso: ben
+    name: আমারাকায়েরি
   - translation_iso: deu
     name: Amarakaeri
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
     name: 아마라카에리어
   - translation_iso: por
     name: Língua amarakaeri
+  - translation_iso: rus
+    name: Амаракаэри
   - translation_iso: spa
     name: Amarakaeri
   - translation_iso: zho

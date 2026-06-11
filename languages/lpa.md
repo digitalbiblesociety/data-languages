@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レレパ語
     auto: true
+  - translation_iso: kor
+    name: 렐레파어
+    auto: true
   - translation_iso: por
     name: Lelepa
     auto: true

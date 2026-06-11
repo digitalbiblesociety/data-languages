@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ヤテ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 야테 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Yatee
     auto: true
+  - translation_iso: rus
+    name: Ятеенский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Yatee
     auto: true

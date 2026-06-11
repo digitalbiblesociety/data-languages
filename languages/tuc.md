@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムトゥ語
+  - translation_iso: kor
+    name: 무투어
+    auto: true
   - translation_iso: por
     name: Mutu
     auto: true

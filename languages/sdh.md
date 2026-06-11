@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Kurdish"
 translations:
   - translation_iso: ara
     name: الكردية الخوارينية (الكردية الجنوبية)
+  - translation_iso: ben
+    name: দক্ষিণ কুর্দিশ
   - translation_iso: deu
     name: Südkurdisch
   - translation_iso: fra
     name: kurde du Sud
   - translation_iso: hin
     name: दक्षिणी कार्डिश
+  - translation_iso: ind
+    name: Kurdi Selatan
   - translation_iso: jpn
     name: 南部クルド語
   - translation_iso: kor
     name: 팔레와니어
   - translation_iso: por
     name: Curdo meridional
+  - translation_iso: rus
+    name: южнокурдский
   - translation_iso: spa
     name: kurdo meridional
   - translation_iso: zho

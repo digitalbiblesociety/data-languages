@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रहाम्बू
     auto: true
+  - translation_iso: ind
+    name: Noihe
   - translation_iso: jpn
     name: ラハンブー語
+    auto: true
+  - translation_iso: kor
+    name: 라함부어
     auto: true
   - translation_iso: por
     name: Rahambuu

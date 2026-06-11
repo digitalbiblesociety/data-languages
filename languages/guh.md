@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: グアヒボ語
     auto: true
+  - translation_iso: kor
+    name: 과이보어
+    auto: true
   - translation_iso: por
     name: Língua sikuani
+  - translation_iso: rus
+    name: гуахибо
   - translation_iso: spa
     name: idioma sikuani
   - translation_iso: zho

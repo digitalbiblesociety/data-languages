@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पश्चिमी दामार
     auto: true
+  - translation_iso: ind
+    name: Damar Batumerah
   - translation_iso: jpn
     name: 西ダマル語
+    auto: true
+  - translation_iso: kor
+    name: 서부 다마르어
     auto: true
   - translation_iso: por
     name: Damar Ocidental

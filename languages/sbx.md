@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सेबेरुआंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Seberuang
   - translation_iso: jpn
     name: セベルアン語
+    auto: true
+  - translation_iso: kor
+    name: 세베루앙어
     auto: true
   - translation_iso: por
     name: Seberuang

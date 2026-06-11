@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウヌムラ語
     auto: true
+  - translation_iso: kor
+    name: 우누마라어
+    auto: true
   - translation_iso: por
     name: Wunumara
     auto: true

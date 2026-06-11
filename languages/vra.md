@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ベラア語
     auto: true
+  - translation_iso: kor
+    name: 베라아어
+    auto: true
   - translation_iso: por
     name: "Língua vera'a"
   - translation_iso: spa

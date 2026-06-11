@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マー語
     auto: true
+  - translation_iso: kor
+    name: 마어
+    auto: true
   - translation_iso: por
     name: Maa
     auto: true

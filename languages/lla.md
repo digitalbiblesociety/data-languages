@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ララ・ロバ語
     auto: true
+  - translation_iso: kor
+    name: 랄라로바어
+    auto: true
   - translation_iso: por
     name: Lala-Roba
     auto: true

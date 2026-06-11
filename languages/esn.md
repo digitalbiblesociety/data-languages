@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルバドル手話
+  - translation_iso: kor
+    name: 엘살바도르 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Salvadorenha
     auto: true

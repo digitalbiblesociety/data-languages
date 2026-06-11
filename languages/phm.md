@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フィンビ語
     auto: true
+  - translation_iso: kor
+    name: 핌비어
+    auto: true
   - translation_iso: por
     name: Phimbi
     auto: true

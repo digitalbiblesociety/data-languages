@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सबाह बिसाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bisaya Sabah
   - translation_iso: jpn
     name: タタナ語
+  - translation_iso: kor
+    name: 사바 비사야어
+    auto: true
   - translation_iso: por
     name: Bisaya de Sabah
     auto: true

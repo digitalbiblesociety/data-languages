@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘヘ語
+  - translation_iso: kor
+    name: 헤헤어
+    auto: true
   - translation_iso: por
     name: Hehe
     auto: true
+  - translation_iso: rus
+    name: хехе
   - translation_iso: spa
     name: Idioma hehe
   - translation_iso: zho

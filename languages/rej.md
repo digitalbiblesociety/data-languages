@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: रेजांग
     auto: true
+  - translation_iso: ind
+    name: Rejang
   - translation_iso: jpn
     name: レジャン語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Rejang
     auto: true
+  - translation_iso: rus
+    name: Реджанг
   - translation_iso: spa
     name: Rejang
     auto: true

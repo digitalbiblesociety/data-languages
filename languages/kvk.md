@@ -21,18 +21,24 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكورية
     auto: true
+  - translation_iso: ben
+    name: কোরীয় ইশারা ভাষা
   - translation_iso: deu
     name: Koreanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes coréenne
   - translation_iso: hin
     name: कोरीआई इशारों की ज़ुबान
+  - translation_iso: ind
+    name: Bahasa Isyarat Korea
   - translation_iso: jpn
     name: 韓国手話
   - translation_iso: kor
     name: 한국 수어
   - translation_iso: por
     name: língua de sinais coreana
+  - translation_iso: rus
+    name: корейский жестовый язык
   - translation_iso: spa
     name: lengua de señas coreana
   - translation_iso: zho

@@ -34,6 +34,8 @@ translations:
     name: 콰디어
   - translation_iso: por
     name: Kwadi
+  - translation_iso: rus
+    name: Квади
   - translation_iso: spa
     name: Idioma kwadi
   - translation_iso: zho

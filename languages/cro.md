@@ -34,6 +34,8 @@ translations:
     name: 크로우어
   - translation_iso: por
     name: Língua crow
+  - translation_iso: rus
+    name: кроу
   - translation_iso: spa
     name: Crow
   - translation_iso: zho

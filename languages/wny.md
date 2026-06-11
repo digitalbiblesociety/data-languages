@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワニイ語
     auto: true
+  - translation_iso: kor
+    name: 와니어
+    auto: true
   - translation_iso: por
     name: Wanyi
     auto: true

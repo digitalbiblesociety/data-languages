@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ホニ語
     auto: true
+  - translation_iso: kor
+    name: 호니어
+    auto: true
   - translation_iso: por
     name: Honi
     auto: true

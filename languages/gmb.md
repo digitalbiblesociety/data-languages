@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グラアラア語
     auto: true
+  - translation_iso: kor
+    name: 굴라알라어
+    auto: true
   - translation_iso: por
     name: "Gula'alaa"
     auto: true

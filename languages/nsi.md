@@ -28,8 +28,13 @@ translations:
     name: नाइजीरियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ナイジェリア手話
+  - translation_iso: kor
+    name: 나이지리아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Nigeriana
+  - translation_iso: rus
+    name: нигерийский жестовый язык
   - translation_iso: spa
     name: Lengua de Señas de Nigeria
     auto: true

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: नोरिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Norik
   - translation_iso: jpn
     name: ノリック語
     auto: true
+  - translation_iso: kor
+    name: 노리쿰어
+    auto: true
   - translation_iso: por
     name: nórico
+  - translation_iso: rus
+    name: норикский язык
   - translation_iso: spa
     name: nórico
   - translation_iso: zho

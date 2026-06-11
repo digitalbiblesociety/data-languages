@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オソソ語
     auto: true
+  - translation_iso: kor
+    name: 오소소어
+    auto: true
   - translation_iso: por
     name: Ososo
     auto: true

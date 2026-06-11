@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: साउरी
     auto: true
+  - translation_iso: ind
+    name: Sauri
   - translation_iso: jpn
     name: バハササウリ語
+    auto: true
+  - translation_iso: kor
+    name: 사우리어
     auto: true
   - translation_iso: por
     name: Sauri

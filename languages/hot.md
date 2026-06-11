@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ホテ語
     auto: true
+  - translation_iso: kor
+    name: 호테어
+    auto: true
   - translation_iso: por
     name: Hote
     auto: true

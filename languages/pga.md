@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: जूबा अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Juba
   - translation_iso: jpn
     name: ジュバ・アラビア語
+  - translation_iso: kor
+    name: 수단 크리올 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe de Juba
+  - translation_iso: rus
+    name: Южносуданский арабский пиджин
   - translation_iso: spa
     name: Árabe Yuba
   - translation_iso: zho

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ワルダマン語
     auto: true
+  - translation_iso: kor
+    name: 와르다만어
+    auto: true
   - translation_iso: por
     name: Língua wardaman
+  - translation_iso: rus
+    name: Ватаман (язык)
   - translation_iso: spa
     name: wardaman
   - translation_iso: zho

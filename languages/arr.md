@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマラマ語
+  - translation_iso: kor
+    name: 카로어
+    auto: true
   - translation_iso: por
     name: Língua caro
+  - translation_iso: rus
+    name: Каро
   - translation_iso: spa
     name: Karo (Brasil)
     auto: true

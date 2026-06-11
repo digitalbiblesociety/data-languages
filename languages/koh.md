@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Koyo語
+  - translation_iso: kor
+    name: 코요어
+    auto: true
   - translation_iso: por
     name: Koyo
     auto: true

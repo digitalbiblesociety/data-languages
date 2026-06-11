@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيلدين سامي
     auto: true
+  - translation_iso: ben
+    name: কিলদিন সামি
   - translation_iso: deu
     name: Kildinsamisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: किल्डिन सामी
     auto: true
+  - translation_iso: ind
+    name: Sami Kildin
   - translation_iso: jpn
     name: キルディン・サーミ語
   - translation_iso: kor
     name: 킬딘 사미어
   - translation_iso: por
     name: Língua sami de Kildin
+  - translation_iso: rus
+    name: кильдинский саамский язык
   - translation_iso: spa
     name: sami kildin
   - translation_iso: zho

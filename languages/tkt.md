@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カトリア・タル語
     auto: true
+  - translation_iso: kor
+    name: 카토리야 타루어
+    auto: true
   - translation_iso: por
     name: Tharu de Kathoriya
     auto: true

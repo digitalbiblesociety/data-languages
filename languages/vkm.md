@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: エゼシオ語
     auto: true
+  - translation_iso: kor
+    name: 카마칸어
+    auto: true
   - translation_iso: por
     name: Língua camacã
+  - translation_iso: rus
+    name: Камакан
   - translation_iso: spa
     name: Kamakán
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ガヴァク語
     auto: true
+  - translation_iso: kor
+    name: 가바크어
+    auto: true
   - translation_iso: por
     name: Gavak
     auto: true

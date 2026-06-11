@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バダ語
     auto: true
+  - translation_iso: kor
+    name: 바다어
+    auto: true
   - translation_iso: por
     name: Bada (Nigéria)
     auto: true

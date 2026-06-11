@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: कोकोडा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kokoda
   - translation_iso: jpn
     name: ココダ語
+    auto: true
+  - translation_iso: kor
+    name: 코코다어
     auto: true
   - translation_iso: por
     name: Kokoda
     auto: true
+  - translation_iso: rus
+    name: Кокода
   - translation_iso: spa
     name: Kokoda
     auto: true

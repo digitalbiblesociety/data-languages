@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グルッジャル語
     auto: true
+  - translation_iso: kor
+    name: 구르자르어
+    auto: true
   - translation_iso: por
     name: Gurdjar
     auto: true

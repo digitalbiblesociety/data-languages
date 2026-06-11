@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أيوتلا
     auto: true
+  - translation_iso: ben
+    name: আয়ুতলা মিক্সটেক
   - translation_iso: deu
     name: Ayutla Mixtec
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アユトラ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 아유틀라 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Ayutla
     auto: true
+  - translation_iso: rus
+    name: Аютланский миштекский язык
   - translation_iso: spa
     name: Mixteco de Ayutla
     auto: true

@@ -29,11 +29,16 @@ translations:
   - translation_iso: hin
     name: रारा बकाती
     auto: true
+  - translation_iso: ind
+    name: "Bakati'Rara"
   - translation_iso: jpn
     name: ララ・バカティ語
     auto: true
+  - translation_iso: kor
+    name: 라라 바카티어
+    auto: true
   - translation_iso: por
-    name: "Rara Bakati'"
+    name: Rara Bakati
     auto: true
   - translation_iso: spa
     name: Rara Bakati

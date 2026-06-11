@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・ムミンハ語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠우그반어
+    auto: true
   - translation_iso: por
     name: Kuku-Ugbanh
     auto: true

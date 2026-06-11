@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Abkhaz_language"
 translations:
   - translation_iso: ara
     name: الأبخازية
+  - translation_iso: ben
+    name: আবখাজিয়ান
   - translation_iso: deu
     name: Abchasisch
   - translation_iso: fra
     name: abkhaze
   - translation_iso: hin
     name: अबखाज़ भाषा
+  - translation_iso: ind
+    name: Abkhaz
   - translation_iso: jpn
     name: アブハズ語
   - translation_iso: kor
     name: 압하지야어
   - translation_iso: por
     name: Língua abecásia
+  - translation_iso: rus
+    name: абхазский
   - translation_iso: spa
     name: abjasio
   - translation_iso: zho

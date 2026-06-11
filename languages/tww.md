@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ語
     auto: true
+  - translation_iso: kor
+    name: 투와리어
+    auto: true
   - translation_iso: por
     name: Tuwari
     auto: true

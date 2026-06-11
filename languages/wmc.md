@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワマス語
     auto: true
+  - translation_iso: kor
+    name: 와마스어
+    auto: true
   - translation_iso: por
     name: Wamas
     auto: true

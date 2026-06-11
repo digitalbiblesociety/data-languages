@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: कैरोलिनियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Caroline
   - translation_iso: jpn
     name: カロリン語
   - translation_iso: kor
     name: 캐롤라인어
   - translation_iso: por
     name: Língua caroliniana
+  - translation_iso: rus
+    name: Каролинский язык
   - translation_iso: spa
     name: carolinio
   - translation_iso: zho

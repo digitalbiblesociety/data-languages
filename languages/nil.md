@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: नीला
     auto: true
+  - translation_iso: ind
+    name: Nila
   - translation_iso: jpn
     name: ニラ語
+    auto: true
+  - translation_iso: kor
+    name: 닐라어
     auto: true
   - translation_iso: por
     name: Nila

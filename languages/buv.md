@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブン語
     auto: true
+  - translation_iso: kor
+    name: 분어
+    auto: true
   - translation_iso: por
     name: Bun
     auto: true

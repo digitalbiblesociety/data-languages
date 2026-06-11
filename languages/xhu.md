@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: हुर्रियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Hurri
   - translation_iso: jpn
     name: フルリ語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Hurrita
     auto: true
+  - translation_iso: rus
+    name: хурритский язык
   - translation_iso: spa
     name: Idioma hurrita
   - translation_iso: zho

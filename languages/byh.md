@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهوجيل
     auto: true
+  - translation_iso: ben
+    name: ভুজেল
   - translation_iso: deu
     name: Bhujel
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: ブジェル語
     auto: true
+  - translation_iso: kor
+    name: 부젤어
+    auto: true
   - translation_iso: por
     name: Bhujel
     auto: true
+  - translation_iso: rus
+    name: Бхуджельский язык
   - translation_iso: spa
     name: idioma bhujel
   - translation_iso: zho

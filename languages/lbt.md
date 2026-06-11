@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラチ語
+  - translation_iso: kor
+    name: 라치어
+    auto: true
   - translation_iso: por
     name: Lachi
     auto: true
+  - translation_iso: rus
+    name: Лати (язык)
   - translation_iso: spa
     name: Lachi
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة وادي السند
     auto: true
+  - translation_iso: ben
+    name: হরপ্পা ভাষা
   - translation_iso: deu
     name: Industal-Sprache
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सिंधु घाटी भाषा
     auto: true
+  - translation_iso: ind
+    name: Harappa
   - translation_iso: jpn
     name: ハラッパー語
+  - translation_iso: kor
+    name: 인더스어
+    auto: true
   - translation_iso: por
     name: Língua harapeana
   - translation_iso: spa

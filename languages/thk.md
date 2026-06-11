@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ターラカ語
     auto: true
+  - translation_iso: kor
+    name: 타라카어
+    auto: true
   - translation_iso: por
     name: Tharaka
     auto: true

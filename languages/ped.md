@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラ語（パプアニューギニア）
     auto: true
+  - translation_iso: kor
+    name: 말라어
+    auto: true
   - translation_iso: por
     name: Mala (Papua-Nova Guiné)
     auto: true

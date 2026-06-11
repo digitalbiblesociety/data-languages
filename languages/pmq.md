@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北パメ語
     auto: true
+  - translation_iso: kor
+    name: 북부 파메어
+    auto: true
   - translation_iso: por
     name: Pame Setentrional
     auto: true

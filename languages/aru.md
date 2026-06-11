@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروا
     auto: true
+  - translation_iso: ben
+    name: আরাওয়া
   - translation_iso: deu
     name: Aruá
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラワ語
+  - translation_iso: kor
+    name: 아루아어
+    auto: true
   - translation_iso: por
     name: Língua aruá
+  - translation_iso: rus
+    name: Арава
   - translation_iso: spa
     name: arauá
   - translation_iso: zho

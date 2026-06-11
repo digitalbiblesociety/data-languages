@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرمينية
     auto: true
+  - translation_iso: ben
+    name: আর্মেনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Armenische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルメニア手話
+  - translation_iso: kor
+    name: 아르메니아 수어
+    auto: true
   - translation_iso: por
     name: Língua gestual armeniana
+  - translation_iso: rus
+    name: армянский жестовый язык
   - translation_iso: spa
     name: lengua de señas armenia
   - translation_iso: zho

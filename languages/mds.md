@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マリア語
     auto: true
+  - translation_iso: kor
+    name: 마리아어
+    auto: true
   - translation_iso: por
     name: Maria (Papua-Nova Guiné)
     auto: true

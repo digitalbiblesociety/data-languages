@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ताजियो
     auto: true
+  - translation_iso: ind
+    name: Adijo
   - translation_iso: jpn
     name: タジオ語
+    auto: true
+  - translation_iso: kor
+    name: 타지오어
     auto: true
   - translation_iso: por
     name: Tajio

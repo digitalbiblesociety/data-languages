@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: मोकेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Moken
   - translation_iso: jpn
     name: モーケン語
   - translation_iso: kor

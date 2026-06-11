@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボルユ語
     auto: true
+  - translation_iso: kor
+    name: 볼류어
+    auto: true
   - translation_iso: por
     name: Língua bolyu
   - translation_iso: spa

@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: न्गेम
     auto: true
+  - translation_iso: ind
+    name: Nggem
   - translation_iso: jpn
     name: ングゲム語
+    auto: true
+  - translation_iso: kor
+    name: 응겜어
     auto: true
   - translation_iso: por
     name: Nggem
     auto: true
+  - translation_iso: rus
+    name: Нггем
   - translation_iso: spa
     name: Nggem
     auto: true

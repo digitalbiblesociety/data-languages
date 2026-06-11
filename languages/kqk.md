@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コタフォン・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 코타폰 그베어
+    auto: true
   - translation_iso: por
     name: Gbe de Kotafon
     auto: true

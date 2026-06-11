@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغورام
     auto: true
+  - translation_iso: ben
+    name: আঙ্গোরাম
   - translation_iso: deu
     name: Angoram
     auto: true
@@ -37,6 +39,8 @@ translations:
   - translation_iso: por
     name: Angoram
     auto: true
+  - translation_iso: rus
+    name: Ангорам (язык)
   - translation_iso: spa
     name: Angoram
     auto: true

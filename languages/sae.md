@@ -30,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: サバネ語
     auto: true
+  - translation_iso: kor
+    name: 사바네어
+    auto: true
   - translation_iso: por
     name: Língua sabanê
+  - translation_iso: rus
+    name: Сабане
   - translation_iso: spa
     name: Sabanê
     auto: true

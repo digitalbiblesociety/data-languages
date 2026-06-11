@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モブワ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 모브와 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Mobwa
     auto: true

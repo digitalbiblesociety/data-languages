@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الفرنسية
     auto: true
+  - translation_iso: ben
+    name: সুইস-ফরাসি ইশারা ভাষা
   - translation_iso: deu
     name: Westschweizer Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
+  - translation_iso: kor
+    name: 스위스 프랑스어권 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Suíço-Francesa
     auto: true

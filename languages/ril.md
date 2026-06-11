@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: リアンラン語
     auto: true
+  - translation_iso: kor
+    name: 리앙 랑어
+    auto: true
   - translation_iso: por
     name: Riang Lang
     auto: true
+  - translation_iso: rus
+    name: Рианг
   - translation_iso: spa
     name: idioma riang
   - translation_iso: zho

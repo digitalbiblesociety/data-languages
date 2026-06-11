@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيغامبال
     auto: true
+  - translation_iso: ben
+    name: বিগম্বল
   - translation_iso: deu
     name: Bigambal
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビガンバル語
+    auto: true
+  - translation_iso: kor
+    name: 비감발어
     auto: true
   - translation_iso: por
     name: Bigambal

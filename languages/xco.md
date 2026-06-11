@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khwarezmian_language"
 translations:
   - translation_iso: ara
     name: الخوارزمية
+  - translation_iso: ben
+    name: খোয়রেজমীয় ভাষা
   - translation_iso: deu
     name: Choresmisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: ख़्वारज़्मी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Khwarezmia
   - translation_iso: jpn
     name: ホラズム語
   - translation_iso: kor
     name: 화레즘어
   - translation_iso: por
     name: língua corásmia
+  - translation_iso: rus
+    name: хорезмийский язык
   - translation_iso: spa
     name: corasmio
   - translation_iso: zho

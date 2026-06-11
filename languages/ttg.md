@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तुतोंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tutong 2
   - translation_iso: jpn
     name: トゥトン語
+    auto: true
+  - translation_iso: kor
+    name: 투통어
     auto: true
   - translation_iso: por
     name: Tutong

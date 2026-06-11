@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シエラ・デ・フアレス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 시에라데후아레스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco da Serra de Juárez
     auto: true

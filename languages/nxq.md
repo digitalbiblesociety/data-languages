@@ -35,6 +35,8 @@ translations:
     name: 나시어
   - translation_iso: por
     name: Língua naxi
+  - translation_iso: rus
+    name: Наси
   - translation_iso: spa
     name: Naxi
     auto: true

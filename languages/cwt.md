@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワータイ語
+  - translation_iso: kor
+    name: 쿠와타이어
+    auto: true
   - translation_iso: por
     name: Kuwaataay
     auto: true
+  - translation_iso: rus
+    name: Куватай
   - translation_iso: spa
     name: Kuwaataay
     auto: true

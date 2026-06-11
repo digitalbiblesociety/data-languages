@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Coptic_language"
 translations:
   - translation_iso: ara
     name: القبطية
+  - translation_iso: ben
+    name: কপটিক
   - translation_iso: deu
     name: Koptisch
   - translation_iso: fra
     name: copte
   - translation_iso: hin
     name: कोप्टिक
+  - translation_iso: ind
+    name: Koptik
   - translation_iso: jpn
     name: コプト・エジプト語
   - translation_iso: kor
     name: 콥트어
   - translation_iso: por
     name: copto
+  - translation_iso: rus
+    name: коптский
   - translation_iso: spa
     name: copto
   - translation_iso: zho

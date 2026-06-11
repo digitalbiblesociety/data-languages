@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オゲア語
     auto: true
+  - translation_iso: kor
+    name: 오게아어
+    auto: true
   - translation_iso: por
     name: Ogea
     auto: true

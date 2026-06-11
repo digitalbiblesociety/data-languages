@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ペディ語
     auto: true
+  - translation_iso: kor
+    name: 츠와퐁어
+    auto: true
   - translation_iso: por
     name: Tswapong
     auto: true

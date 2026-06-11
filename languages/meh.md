@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: 南西トラシアコ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 남서부 틀라히아코 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Tlaxiaco sudoeste
     auto: true
+  - translation_iso: rus
+    name: Юго-западный тлахиакский миштекский язык
   - translation_iso: spa
     name: Mixteco del Suroeste de Tlaxiaco
     auto: true

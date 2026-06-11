@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/San%CA%BDani_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة صنعانية
+  - translation_iso: ben
+    name: "সান'আনি আরবি"
   - translation_iso: deu
     name: Sanaani-Arabisch
     auto: true
@@ -30,11 +32,18 @@ translations:
   - translation_iso: hin
     name: सनानी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Sanʽani
   - translation_iso: jpn
     name: サナーニ・アラビア語
     auto: true
+  - translation_iso: kor
+    name: 사나니 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe sanani
+  - translation_iso: rus
+    name: севернойеменский диалект арабского языка
   - translation_iso: spa
     name: "Árabe san'ani"
   - translation_iso: zho

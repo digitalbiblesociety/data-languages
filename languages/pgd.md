@@ -20,18 +20,24 @@ translations:
   - translation_iso: ara
     name: اللغة غاندهارا
     auto: true
+  - translation_iso: ben
+    name: গান্ধারী ভাষা
   - translation_iso: deu
     name: Gandhari
   - translation_iso: fra
     name: gāndhārī
   - translation_iso: hin
     name: गांधारी भाषा
+  - translation_iso: ind
+    name: Gāndhārī
   - translation_iso: jpn
     name: ガンダーラ語
   - translation_iso: kor
     name: 간다라어
   - translation_iso: por
     name: Gāndhārī
+  - translation_iso: rus
+    name: Гандхари (язык)
   - translation_iso: spa
     name: Gāndhārī
   - translation_iso: zho

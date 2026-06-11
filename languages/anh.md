@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ネンド語
     auto: true
+  - translation_iso: kor
+    name: 넨드어
+    auto: true
   - translation_iso: por
     name: Nend
     auto: true

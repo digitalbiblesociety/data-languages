@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボリア語
     auto: true
+  - translation_iso: kor
+    name: 볼리아어
+    auto: true
   - translation_iso: por
     name: Bolia
     auto: true

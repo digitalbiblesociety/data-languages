@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: إيدي إيجي
     auto: true
+  - translation_iso: ben
+    name: এদে ইজে
   - translation_iso: deu
     name: Ede Ije
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エデ・イジェ語
+    auto: true
+  - translation_iso: kor
+    name: 에데 이제어
     auto: true
   - translation_iso: por
     name: Ede Ije

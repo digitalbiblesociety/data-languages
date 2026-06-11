@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァーンギ語
+  - translation_iso: kor
+    name: 창기어
+    auto: true
   - translation_iso: por
     name: Tsaangi
     auto: true

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: ليبيرنية
     auto: true
+  - translation_iso: ben
+    name: লিবুর্নীয় ভাষা
   - translation_iso: deu
     name: Liburnisch
   - translation_iso: fra
@@ -21,11 +23,18 @@ translations:
   - translation_iso: hin
     name: लिबर्नियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Liburnia
   - translation_iso: jpn
     name: リブルニア語
+  - translation_iso: kor
+    name: 리부르니아어
+    auto: true
   - translation_iso: por
     name: Liburnico
     auto: true
+  - translation_iso: rus
+    name: либурнский язык
   - translation_iso: spa
     name: Liburnio
     auto: true

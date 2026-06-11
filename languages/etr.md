@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإدولو
     auto: true
+  - translation_iso: ben
+    name: এডোলো
   - translation_iso: deu
     name: Edolo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エドロ語
+    auto: true
+  - translation_iso: kor
+    name: 에돌로어
     auto: true
   - translation_iso: por
     name: Edolo

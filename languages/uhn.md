@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دامال
     auto: true
+  - translation_iso: ben
+    name: আমুং
   - translation_iso: deu
     name: Damal
     auto: true
@@ -26,12 +28,19 @@ translations:
   - translation_iso: hin
     name: दामाल
     auto: true
+  - translation_iso: ind
+    name: Amung
   - translation_iso: jpn
     name: ダマル語
+    auto: true
+  - translation_iso: kor
+    name: 다말어
     auto: true
   - translation_iso: por
     name: Damal
     auto: true
+  - translation_iso: rus
+    name: Ухундуни
   - translation_iso: spa
     name: Damal
     auto: true

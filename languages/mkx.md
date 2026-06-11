@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: किनामिगिंग मानोबो
     auto: true
+  - translation_iso: ind
+    name: bahasa Kamigin
   - translation_iso: jpn
     name: キナミギング・マノボ語
+    auto: true
+  - translation_iso: kor
+    name: 키나미깅 마노보어
     auto: true
   - translation_iso: por
     name: manobo de Kinamiging

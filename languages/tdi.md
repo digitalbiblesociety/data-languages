@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोमादीनो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tomadino
   - translation_iso: jpn
     name: トマディーノ語
+    auto: true
+  - translation_iso: kor
+    name: 토마디노어
     auto: true
   - translation_iso: por
     name: Tomadino

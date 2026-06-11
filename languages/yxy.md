@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ヤブラ・ヤブラ語
     auto: true
+  - translation_iso: kor
+    name: 야불라야불라어
+    auto: true
   - translation_iso: por
     name: yabula yabula
     auto: true

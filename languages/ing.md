@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: デゲエキシタン語
     auto: true
+  - translation_iso: kor
+    name: 데게히탄어
+    auto: true
   - translation_iso: por
     name: Língua deg xinaq
+  - translation_iso: rus
+    name: Дег-хитан
   - translation_iso: spa
     name: idioma deg xinag
   - translation_iso: zho

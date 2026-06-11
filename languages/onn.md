@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オノバスル語
     auto: true
+  - translation_iso: kor
+    name: 오노바술루어
+    auto: true
   - translation_iso: por
     name: Onobasulu
     auto: true
+  - translation_iso: rus
+    name: Онобасулу
   - translation_iso: spa
     name: Onobasulu
     auto: true

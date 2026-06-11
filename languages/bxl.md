@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジャルクナン語
     auto: true
+  - translation_iso: kor
+    name: 잘쿠난어
+    auto: true
   - translation_iso: por
     name: Jalkunan
     auto: true

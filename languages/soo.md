@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エヤンシ語
     auto: true
+  - translation_iso: kor
+    name: 송고어
+    auto: true
   - translation_iso: por
     name: Songo
     auto: true

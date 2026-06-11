@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クク・ヤウ語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠야우어
+    auto: true
   - translation_iso: por
     name: "Kuuku-Ya'u"
     auto: true

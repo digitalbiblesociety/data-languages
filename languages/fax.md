@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الفالا
     auto: true
+  - translation_iso: ben
+    name: ফালা
   - translation_iso: deu
     name: Fala
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 팔라어
   - translation_iso: por
     name: fala da Estremadura
+  - translation_iso: rus
+    name: Фала де Шалима
   - translation_iso: spa
     name: fala
   - translation_iso: zho

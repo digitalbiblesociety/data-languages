@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウビ語
     auto: true
+  - translation_iso: kor
+    name: 우비어
+    auto: true
   - translation_iso: por
     name: Ubi
     auto: true

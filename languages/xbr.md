@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: कांबेरा
     auto: true
+  - translation_iso: ind
+    name: Kambera
   - translation_iso: jpn
     name: カンベラ
+  - translation_iso: kor
+    name: 캄베라어
+    auto: true
   - translation_iso: por
     name: Língua kambera
+  - translation_iso: rus
+    name: камбера
   - translation_iso: spa
     name: Kambera
     auto: true

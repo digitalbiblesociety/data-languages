@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: बुनुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bunun
   - translation_iso: jpn
     name: ブヌン語
   - translation_iso: kor
     name: 부눈어
   - translation_iso: por
     name: Língua bunun
+  - translation_iso: rus
+    name: Бунун
   - translation_iso: spa
     name: Idioma bunun
   - translation_iso: zho

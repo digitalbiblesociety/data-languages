@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナキ語
     auto: true
+  - translation_iso: kor
+    name: 나키어
+    auto: true
   - translation_iso: por
     name: Naki
     auto: true

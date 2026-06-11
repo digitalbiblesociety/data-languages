@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sumerian_language"
 translations:
   - translation_iso: ara
     name: السومرية
+  - translation_iso: ben
+    name: সুমেরীয়
   - translation_iso: deu
     name: Sumerisch
   - translation_iso: fra
     name: sumérien
   - translation_iso: hin
     name: सुमेरी भाषा
+  - translation_iso: ind
+    name: Sumeria
   - translation_iso: jpn
     name: シュメール語
   - translation_iso: kor
     name: 수메르어
   - translation_iso: por
     name: língua suméria
+  - translation_iso: rus
+    name: шумерский
   - translation_iso: spa
     name: sumerio
   - translation_iso: zho

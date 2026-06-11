@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: スガンガ語
     auto: true
+  - translation_iso: kor
+    name: 수강가어
+    auto: true
   - translation_iso: por
     name: Suganga
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ランドマ語
     auto: true
+  - translation_iso: kor
+    name: 란도마어
+    auto: true
   - translation_iso: por
     name: Landoma
     auto: true
+  - translation_iso: rus
+    name: ландума
   - translation_iso: spa
     name: landuma
   - translation_iso: zho

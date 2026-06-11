@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: होवोंगन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hovongan
   - translation_iso: jpn
     name: ホヴォンガン語
+    auto: true
+  - translation_iso: kor
+    name: 호봉안어
     auto: true
   - translation_iso: por
     name: Hovongan

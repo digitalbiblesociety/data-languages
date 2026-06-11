@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダバレ語
     auto: true
+  - translation_iso: kor
+    name: 다바레어
+    auto: true
   - translation_iso: por
     name: Dabarre
     auto: true

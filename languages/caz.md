@@ -27,8 +27,13 @@ translations:
   - translation_iso: jpn
     name: カニチャナ語
     auto: true
+  - translation_iso: kor
+    name: 카니차나어
+    auto: true
   - translation_iso: por
     name: Canichana
+  - translation_iso: rus
+    name: Каничана
   - translation_iso: spa
     name: idioma canichana
   - translation_iso: zho

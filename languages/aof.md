@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブラガット語
     auto: true
+  - translation_iso: kor
+    name: 브라가트어
+    auto: true
   - translation_iso: por
     name: Bragat
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カパナウア語
     auto: true
+  - translation_iso: kor
+    name: 카파나우아어
+    auto: true
   - translation_iso: por
     name: Capanahua
     auto: true
+  - translation_iso: rus
+    name: Капанауа (язык)
   - translation_iso: spa
     name: Kapanawa
   - translation_iso: zho

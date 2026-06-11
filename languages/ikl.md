@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イクル語
     auto: true
+  - translation_iso: kor
+    name: 이쿨루어
+    auto: true
   - translation_iso: por
     name: Ikulu
     auto: true

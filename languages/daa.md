@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダンガレアト語
     auto: true
+  - translation_iso: kor
+    name: 당갈레아트어
+    auto: true
   - translation_iso: por
     name: Língua dangaleat
   - translation_iso: spa

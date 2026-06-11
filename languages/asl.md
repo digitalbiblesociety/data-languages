@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسيلولو
     auto: true
+  - translation_iso: ben
+    name: আসিলুলু
   - translation_iso: deu
     name: Asilulu
   - translation_iso: fra
@@ -27,11 +29,18 @@ translations:
   - translation_iso: hin
     name: असिलुलु
     auto: true
+  - translation_iso: ind
+    name: Asilulu
   - translation_iso: jpn
     name: アシルル語
     auto: true
+  - translation_iso: kor
+    name: 아실룰루어
+    auto: true
   - translation_iso: por
     name: Asilulu
+  - translation_iso: rus
+    name: асилулу
   - translation_iso: spa
     name: Asilulu
   - translation_iso: zho

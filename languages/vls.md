@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: पश्चिमी फ्लेमिश
     auto: true
+  - translation_iso: ind
+    name: Flam Barat
   - translation_iso: jpn
     name: 西フラマン語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Flamengo Ocidental
     auto: true
+  - translation_iso: rus
+    name: западнофламандская группа диалектов
   - translation_iso: spa
     name: flamenco occidental
   - translation_iso: zho

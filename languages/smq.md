@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ダバ語
     auto: true
+  - translation_iso: kor
+    name: 사모어
+    auto: true
   - translation_iso: por
     name: Samo
     auto: true

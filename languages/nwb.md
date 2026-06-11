@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャブワ語
+  - translation_iso: kor
+    name: 냐브와어
+    auto: true
   - translation_iso: por
     name: Língua nyabwa
+  - translation_iso: rus
+    name: нябуа
   - translation_iso: spa
     name: Nyabwa
     auto: true

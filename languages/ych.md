@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チェス語
     auto: true
+  - translation_iso: kor
+    name: 처쑤어
+    auto: true
   - translation_iso: por
     name: chesu
     auto: true

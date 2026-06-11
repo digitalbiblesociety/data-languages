@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eyak_language"
 translations:
   - translation_iso: ara
     name: لغة إياك
+  - translation_iso: ben
+    name: ইয়াক ভাষা
   - translation_iso: deu
     name: Eyak
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: इयाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Eyak
   - translation_iso: jpn
     name: イヤック語
   - translation_iso: kor
     name: 에야크어
   - translation_iso: por
     name: Língua eyak
+  - translation_iso: rus
+    name: эякский язык
   - translation_iso: spa
     name: Idioma eyak
   - translation_iso: zho

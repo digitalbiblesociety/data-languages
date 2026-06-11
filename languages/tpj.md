@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タピエテ語
+  - translation_iso: kor
+    name: 타피에테어
+    auto: true
   - translation_iso: por
     name: Tapieté
+  - translation_iso: rus
+    name: Тапиете
   - translation_iso: spa
     name: Tapieté
   - translation_iso: zho

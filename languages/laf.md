@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラフォファ諸語
+  - translation_iso: kor
+    name: 라포파어
+    auto: true
   - translation_iso: por
     name: Lafofa
     auto: true

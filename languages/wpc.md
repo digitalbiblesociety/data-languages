@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マコ語
     auto: true
+  - translation_iso: kor
+    name: 마코어
+    auto: true
   - translation_iso: por
     name: Maco
     auto: true
+  - translation_iso: rus
+    name: Мако
   - translation_iso: spa
     name: idioma wirö
   - translation_iso: zho

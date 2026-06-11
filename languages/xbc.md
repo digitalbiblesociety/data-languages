@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bactrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الباخترية
+  - translation_iso: ben
+    name: ব্যাক্ট্রিয় ভাষা
   - translation_iso: deu
     name: Baktrisch
   - translation_iso: fra
     name: bactrien
   - translation_iso: hin
     name: बाख़्त्री भाषा
+  - translation_iso: ind
+    name: Baktria
   - translation_iso: jpn
     name: バクトリア語
   - translation_iso: kor
     name: 박트리아어
   - translation_iso: por
     name: Língua bactriana
+  - translation_iso: rus
+    name: бактрийский язык
   - translation_iso: spa
     name: Idioma bactriano
   - translation_iso: zho

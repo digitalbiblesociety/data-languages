@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كاربي
     auto: true
+  - translation_iso: ben
+    name: কার্বি ভাষা
   - translation_iso: deu
     name: Karbi
     auto: true

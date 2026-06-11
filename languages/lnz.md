@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ロンゾ語
     auto: true
+  - translation_iso: kor
+    name: 론조어
+    auto: true
   - translation_iso: por
     name: Lonzo
     auto: true

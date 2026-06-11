@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ンディユカ・トリオ・ピジン語
     auto: true
+  - translation_iso: kor
+    name: 은듀카·트리오 피진
+    auto: true
   - translation_iso: por
     name: Pidgin Ndyuka-Trio
     auto: true
+  - translation_iso: rus
+    name: Ндюка-тирийо пиджин
   - translation_iso: spa
     name: Pidgin Ndyuka-Trio
     auto: true

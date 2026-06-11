@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リラウ語
     auto: true
+  - translation_iso: kor
+    name: 릴라우어
+    auto: true
   - translation_iso: por
     name: Lilau
     auto: true

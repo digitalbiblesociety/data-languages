@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コフモノ語
     auto: true
+  - translation_iso: kor
+    name: 코후모노어
+    auto: true
   - translation_iso: por
     name: Kohumono
     auto: true

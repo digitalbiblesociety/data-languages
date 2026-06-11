@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラヴェダン語
     auto: true
+  - translation_iso: kor
+    name: 말라베단어
+    auto: true
   - translation_iso: por
     name: Malavedan
     auto: true

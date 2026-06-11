@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルン語
+  - translation_iso: kor
+    name: 부룬어
+    auto: true
   - translation_iso: por
     name: Burun
     auto: true

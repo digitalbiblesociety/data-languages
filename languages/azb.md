@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/South_Azerbaijani_language"
 translations:
   - translation_iso: ara
     name: الأذرية الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণ আজারবাইজানি ভাষা
   - translation_iso: deu
     name: Südaserbaidschanisch
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Azerbaijano do Sul
     auto: true
+  - translation_iso: rus
+    name: южно-азербайджанский язык
   - translation_iso: spa
     name: Azerbaiyano Meridional
     auto: true

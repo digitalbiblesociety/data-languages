@@ -25,12 +25,16 @@ translations:
     name: langue interslave
   - translation_iso: hin
     name: अंतरस्लाव भाषा
+  - translation_iso: ind
+    name: Bahasa Interslavia
   - translation_iso: jpn
     name: インタースラーヴィク
   - translation_iso: kor
     name: 인터슬라빅
   - translation_iso: por
     name: idioma intereslavo
+  - translation_iso: rus
+    name: межславянский язык
   - translation_iso: spa
     name: Intereslavo
   - translation_iso: zho

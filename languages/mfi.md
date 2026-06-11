@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワンダラ語
     auto: true
+  - translation_iso: kor
+    name: 완달라어
+    auto: true
   - translation_iso: por
     name: Wandala
     auto: true
+  - translation_iso: rus
+    name: Вандала
   - translation_iso: spa
     name: Idioma wandala
   - translation_iso: zho

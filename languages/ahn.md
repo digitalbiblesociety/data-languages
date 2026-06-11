@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آهان
     auto: true
+  - translation_iso: ben
+    name: আহান
   - translation_iso: deu
     name: Ahan
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アハン語
+    auto: true
+  - translation_iso: kor
+    name: 아한어
     auto: true
   - translation_iso: por
     name: Àhàn

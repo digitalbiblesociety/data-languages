@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ilocano_language"
 translations:
   - translation_iso: ara
     name: الإيلوكانوية
+  - translation_iso: ben
+    name: ইলোকো
   - translation_iso: deu
     name: Ilokano
   - translation_iso: fra
     name: ilocano
   - translation_iso: hin
     name: इलोकानो भाषा
+  - translation_iso: ind
+    name: Iloko
   - translation_iso: jpn
     name: イロカノ語
   - translation_iso: kor
     name: 일로카노어
   - translation_iso: por
     name: Ilocano
+  - translation_iso: rus
+    name: илоко
   - translation_iso: spa
     name: ilocano
   - translation_iso: zho

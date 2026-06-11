@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nuer_language"
 translations:
   - translation_iso: ara
     name: النوير
+  - translation_iso: ben
+    name: নুয়ার
   - translation_iso: deu
     name: Nuer
   - translation_iso: fra
     name: nuer
   - translation_iso: hin
     name: नुएर
+  - translation_iso: ind
+    name: Nuer
   - translation_iso: jpn
     name: ヌエル語
   - translation_iso: kor
     name: 누에르어
   - translation_iso: por
     name: Língua nuer
+  - translation_iso: rus
+    name: нуэр
   - translation_iso: spa
     name: Idioma nuer
   - translation_iso: zho

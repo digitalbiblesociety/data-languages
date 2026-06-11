@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヤメオ語
     auto: true
+  - translation_iso: kor
+    name: 야메오어
+    auto: true
   - translation_iso: por
     name: yameo
     auto: true
+  - translation_iso: rus
+    name: Ямео
   - translation_iso: spa
     name: Yameo
     auto: true

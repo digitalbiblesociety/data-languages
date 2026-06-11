@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: komi-zyriano
     auto: true
+  - translation_iso: rus
+    name: коми-зырянский язык
   - translation_iso: spa
     name: Komi-Zyrian
     auto: true

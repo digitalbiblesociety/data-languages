@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبوني مالاي
     auto: true
+  - translation_iso: ben
+    name: আম্বোনীয়
   - translation_iso: deu
     name: Ambonesisch
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: अम्बोनी मलय
     auto: true
+  - translation_iso: ind
+    name: Ambon
   - translation_iso: jpn
     name: アンボン・マライ語
+  - translation_iso: kor
+    name: 암본 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio ambonês
+  - translation_iso: rus
+    name: амбонезский язык
   - translation_iso: spa
     name: Malayo ambonés
     auto: true

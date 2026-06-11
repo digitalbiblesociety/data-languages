@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラビ語
     auto: true
+  - translation_iso: kor
+    name: 라비어
+    auto: true
   - translation_iso: por
     name: Lavi
     auto: true

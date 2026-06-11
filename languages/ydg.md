@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドガ語
+  - translation_iso: kor
+    name: 이드가어
+    auto: true
   - translation_iso: por
     name: Língua yidgha
+  - translation_iso: rus
+    name: йидга
   - translation_iso: spa
     name: Yidgha
     auto: true

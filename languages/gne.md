@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガナング語
     auto: true
+  - translation_iso: kor
+    name: 가낭어
+    auto: true
   - translation_iso: por
     name: Ganang
     auto: true

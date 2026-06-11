@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: نسجايا
     auto: true
+  - translation_iso: ben
+    name: নিসগা
   - translation_iso: deu
     name: Nisga’a
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ニスガ語
     auto: true
+  - translation_iso: kor
+    name: 니스가어
+    auto: true
   - translation_iso: por
     name: "Língua nisga'a"
+  - translation_iso: rus
+    name: Нисгаа
   - translation_iso: spa
     name: "Nisga'a"
     auto: true

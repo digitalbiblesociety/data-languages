@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Xhosa_language"
 translations:
   - translation_iso: ara
     name: الكوسية
+  - translation_iso: ben
+    name: খোসা
   - translation_iso: deu
     name: IsiXhosa
   - translation_iso: fra
     name: xhosa
   - translation_iso: hin
     name: ख़ोसा भाषा
+  - translation_iso: ind
+    name: Xhosa
   - translation_iso: jpn
     name: コサ語
   - translation_iso: kor
     name: 코사어
   - translation_iso: por
     name: língua xhosa
+  - translation_iso: rus
+    name: коса
   - translation_iso: spa
     name: xhosa
   - translation_iso: zho

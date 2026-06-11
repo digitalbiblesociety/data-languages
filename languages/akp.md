@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シウ語
     auto: true
+  - translation_iso: kor
+    name: 시우어
+    auto: true
   - translation_iso: por
     name: Língua siwu
   - translation_iso: spa

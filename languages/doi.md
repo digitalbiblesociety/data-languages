@@ -13,18 +13,24 @@ wikidata_id: Q5583349
 translations:
   - translation_iso: ara
     name: الدوجرية
+  - translation_iso: ben
+    name: ডোগরি
   - translation_iso: deu
     name: Dogri–Kangri-Sprachen
   - translation_iso: fra
     name: langues kangri-dogri
   - translation_iso: hin
     name: डोगरी
+  - translation_iso: ind
+    name: Dogri
   - translation_iso: jpn
     name: ドーグリー・カーングリー諸語
   - translation_iso: kor
     name: 도그리어
   - translation_iso: por
     name: dogri
+  - translation_iso: rus
+    name: догри
   - translation_iso: spa
     name: dogri
   - translation_iso: zho

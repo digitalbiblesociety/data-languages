@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: تشيريبا
     auto: true
+  - translation_iso: ben
+    name: আভা গুয়ারানি
   - translation_iso: deu
     name: Chiripá
     auto: true
@@ -32,8 +34,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバグアラニー語
+  - translation_iso: kor
+    name: 치리파어
+    auto: true
   - translation_iso: por
     name: Guarani chiripá
+  - translation_iso: rus
+    name: Чирипа
   - translation_iso: spa
     name: Guaraní chiripá
   - translation_iso: zho

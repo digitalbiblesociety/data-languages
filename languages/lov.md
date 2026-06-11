@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ロピ語
     auto: true
+  - translation_iso: kor
+    name: 로피어
+    auto: true
   - translation_iso: por
     name: Lopi
     auto: true

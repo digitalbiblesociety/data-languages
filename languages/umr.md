@@ -27,9 +27,14 @@ translations:
     name: उमबुगरला भाषा
   - translation_iso: jpn
     name: ウンブガルラ語
+  - translation_iso: kor
+    name: 움부갈라어
+    auto: true
   - translation_iso: por
     name: Umbugarla
     auto: true
+  - translation_iso: rus
+    name: Умбукарла
   - translation_iso: spa
     name: Umbugarla
     auto: true

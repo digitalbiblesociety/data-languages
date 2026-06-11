@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌクリア語
+  - translation_iso: kor
+    name: 누쿠리아어
+    auto: true
   - translation_iso: por
     name: Língua nuguria
   - translation_iso: spa

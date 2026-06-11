@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フォイ語
     auto: true
+  - translation_iso: kor
+    name: 포이어
+    auto: true
   - translation_iso: por
     name: Foi
     auto: true

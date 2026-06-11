@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クンカリ語
     auto: true
+  - translation_iso: kor
+    name: 쿵카리어
+    auto: true
   - translation_iso: por
     name: Kungkari
     auto: true

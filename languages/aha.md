@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أهانتا
     auto: true
+  - translation_iso: ben
+    name: আহান্তা
   - translation_iso: deu
     name: Ahanta
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アハンタ語
+    auto: true
+  - translation_iso: kor
+    name: 아한타어
     auto: true
   - translation_iso: por
     name: Língua ahanta

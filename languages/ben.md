@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bengali_language"
 translations:
   - translation_iso: ara
     name: البنغالية
+  - translation_iso: ben
+    name: বাংলা
   - translation_iso: deu
     name: Bengalisch
   - translation_iso: fra
     name: bengali
   - translation_iso: hin
     name: बांग्ला
+  - translation_iso: ind
+    name: Bengali
   - translation_iso: jpn
     name: ベンガル語
   - translation_iso: kor
     name: 벵골어
   - translation_iso: por
     name: língua bangla
+  - translation_iso: rus
+    name: бенгальский
   - translation_iso: spa
     name: bengalí
   - translation_iso: zho

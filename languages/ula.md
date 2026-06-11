@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウラ語
     auto: true
+  - translation_iso: kor
+    name: 풍과어
+    auto: true
   - translation_iso: por
     name: Fungwa
     auto: true

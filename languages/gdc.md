@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ググ・バドゥン語
     auto: true
+  - translation_iso: kor
+    name: 구구 바둔어
+    auto: true
   - translation_iso: por
     name: Gugu Badhun
     auto: true

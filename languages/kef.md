@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クペシ語
     auto: true
+  - translation_iso: kor
+    name: 크페시어
+    auto: true
   - translation_iso: por
     name: Kpessi
     auto: true

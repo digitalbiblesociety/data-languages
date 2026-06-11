@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Japanese_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الاشارة اليابانية
+  - translation_iso: ben
+    name: জাপানি ইশারা ভাষা
   - translation_iso: deu
     name: Japanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes japonaise
   - translation_iso: hin
     name: जापानी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Jepang
   - translation_iso: jpn
     name: 日本手話
   - translation_iso: kor
     name: 일본 수화
   - translation_iso: por
     name: Língua de Sinais Japonesa
+  - translation_iso: rus
+    name: японский жестовый язык
   - translation_iso: spa
     name: lengua de señas japonesa
   - translation_iso: zho

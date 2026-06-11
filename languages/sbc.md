@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゲレ語
     auto: true
+  - translation_iso: kor
+    name: 켈레어
+    auto: true
   - translation_iso: por
     name: Kele (Papua-Nova Guiné)
     auto: true

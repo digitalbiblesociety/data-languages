@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ダディヤ語
     auto: true
+  - translation_iso: kor
+    name: 다디야어
+    auto: true
   - translation_iso: por
     name: Dadiya
     auto: true
+  - translation_iso: rus
+    name: Дадийя
   - translation_iso: spa
     name: Dadiya
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: jpn
     name: カユババ語
     auto: true
+  - translation_iso: kor
+    name: 카유바바어
+    auto: true
   - translation_iso: por
     name: Língua cayuvava
+  - translation_iso: rus
+    name: каювава
   - translation_iso: spa
     name: idioma cayubaba
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムンガカ語
     auto: true
+  - translation_iso: kor
+    name: 뭉가카어
+    auto: true
   - translation_iso: por
     name: Mungaka
     auto: true

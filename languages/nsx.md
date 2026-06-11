@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンソンゴ語
     auto: true
+  - translation_iso: kor
+    name: 은송고어
+    auto: true
   - translation_iso: por
     name: Nsongo
     auto: true

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: باتجالا
     auto: true
+  - translation_iso: ben
+    name: বাটিয়ালা
   - translation_iso: deu
     name: Batjala
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バティアラ語
+  - translation_iso: kor
+    name: 바찰라어
+    auto: true
   - translation_iso: por
     name: Batjala
     auto: true

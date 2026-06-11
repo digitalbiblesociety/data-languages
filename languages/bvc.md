@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايليا
     auto: true
+  - translation_iso: ben
+    name: বেলেলিয়া
   - translation_iso: deu
     name: Baelelea
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バエレレア語
+    auto: true
+  - translation_iso: kor
+    name: 바엘렐레아어
     auto: true
   - translation_iso: por
     name: Baelelea

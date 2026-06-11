@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エマエ語
+  - translation_iso: kor
+    name: 에마에어
+    auto: true
   - translation_iso: por
     name: Língua emae
+  - translation_iso: rus
+    name: Эмаэ (язык)
   - translation_iso: spa
     name: Emae
     auto: true

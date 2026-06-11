@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴドワリ語
+  - translation_iso: kor
+    name: 고드와리어
+    auto: true
   - translation_iso: por
     name: Godwari
     auto: true

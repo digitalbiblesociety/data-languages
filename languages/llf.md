@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハーミット語
     auto: true
+  - translation_iso: kor
+    name: 허밋어
+    auto: true
   - translation_iso: por
     name: Hermit
     auto: true

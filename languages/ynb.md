@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ヤンベン語
     auto: true
+  - translation_iso: kor
+    name: 얌벤어
+    auto: true
   - translation_iso: por
     name: yamben
     auto: true

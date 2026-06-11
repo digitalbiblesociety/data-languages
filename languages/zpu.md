@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ヤララグ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 얄랄라그 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Yalálag
     auto: true
+  - translation_iso: rus
+    name: Ялалагский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Yalálag
   - translation_iso: zho

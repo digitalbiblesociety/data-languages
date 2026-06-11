@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワラ語
     auto: true
+  - translation_iso: kor
+    name: 와라어
+    auto: true
   - translation_iso: por
     name: Wára
     auto: true

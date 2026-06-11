@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブァイドカ語
+  - translation_iso: kor
+    name: 브와이도카어
+    auto: true
   - translation_iso: por
     name: Língua buaidoca
   - translation_iso: spa

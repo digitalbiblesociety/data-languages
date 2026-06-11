@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セラ語
     auto: true
+  - translation_iso: kor
+    name: 세라어
+    auto: true
   - translation_iso: por
     name: Sera
     auto: true

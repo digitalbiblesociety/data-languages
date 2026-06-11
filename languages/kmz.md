@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khorasani_Turkic"
 translations:
   - translation_iso: ara
     name: التركية الخراسانية
+  - translation_iso: ben
+    name: খোরাসানি তুর্কীয় ভাষা
   - translation_iso: deu
     name: Chorasan-Türkisch
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホラサン・トルコ語
+  - translation_iso: kor
+    name: 호라산 튀르크어
+    auto: true
   - translation_iso: por
     name: Língua turca coraçone
+  - translation_iso: rus
+    name: Хорасанско-тюркский язык
   - translation_iso: spa
     name: Idioma turco de Jorasán
   - translation_iso: zho

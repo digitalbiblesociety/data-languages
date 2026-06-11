@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبما
     auto: true
+  - translation_iso: ben
+    name: আপ্মা
   - translation_iso: deu
     name: Apma
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプマ語
+  - translation_iso: kor
+    name: 아프마어
+    auto: true
   - translation_iso: por
     name: Língua apma
+  - translation_iso: rus
+    name: Абма
   - translation_iso: spa
     name: Apma
     auto: true

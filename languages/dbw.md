@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانكان تاي دوجون
     auto: true
+  - translation_iso: ben
+    name: বাঙ্কান তেই ডগন
   - translation_iso: deu
     name: Bankan Tey Dogon
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカン・テイ・ドゴン語
+    auto: true
+  - translation_iso: kor
+    name: 반칸테이 도곤어
     auto: true
   - translation_iso: por
     name: Dogon Bankan Tey

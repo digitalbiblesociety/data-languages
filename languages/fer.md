@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フェロゲ語
     auto: true
+  - translation_iso: kor
+    name: 페로게어
+    auto: true
   - translation_iso: por
     name: Feroge
     auto: true

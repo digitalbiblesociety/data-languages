@@ -27,12 +27,19 @@ translations:
   - translation_iso: hin
     name: कादारू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kadaru
   - translation_iso: jpn
     name: カダル語
+    auto: true
+  - translation_iso: kor
+    name: 카다루어
     auto: true
   - translation_iso: por
     name: Kadaru
     auto: true
+  - translation_iso: rus
+    name: Кадару
   - translation_iso: spa
     name: Kadaru
     auto: true

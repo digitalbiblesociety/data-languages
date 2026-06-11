@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بومبوكول
     auto: true
+  - translation_iso: ben
+    name: পুম্পকল ভাষা
   - translation_iso: deu
     name: Pumpokol
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パンポコル語
+  - translation_iso: kor
+    name: 품포콜어
+    auto: true
   - translation_iso: por
     name: Pumpokol
     auto: true
+  - translation_iso: rus
+    name: Пумпокольский язык
   - translation_iso: spa
     name: Pumpokol
     auto: true

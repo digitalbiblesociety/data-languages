@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أيمول
     auto: true
+  - translation_iso: ben
+    name: আইমল
   - translation_iso: deu
     name: Aimol
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: आइमोल भाषा
   - translation_iso: jpn
     name: アイモル語
+    auto: true
+  - translation_iso: kor
+    name: 아이몰어
     auto: true
   - translation_iso: por
     name: Aimol

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبورينيا
     auto: true
+  - translation_iso: ben
+    name: আপুরিনা
   - translation_iso: deu
     name: Apurinã
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプリニャ語
+  - translation_iso: kor
+    name: 아푸리낭어
+    auto: true
   - translation_iso: por
     name: apurinã
+  - translation_iso: rus
+    name: Апуринан
   - translation_iso: spa
     name: apurinã
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メスメス語
+  - translation_iso: kor
+    name: 메스메스어
+    auto: true
   - translation_iso: por
     name: Mesmes
     auto: true

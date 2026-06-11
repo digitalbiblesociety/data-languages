@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أريتينجيثيج
     auto: true
+  - translation_iso: ben
+    name: আরিটিনগিটহাই
   - translation_iso: deu
     name: Arritinngithigh
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリティングギティ語
+    auto: true
+  - translation_iso: kor
+    name: 아리틴응이티그어
     auto: true
   - translation_iso: por
     name: Arritinngithigh

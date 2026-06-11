@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ガヴィアン・ド・ジパラナ語
     auto: true
+  - translation_iso: kor
+    name: 지파라나 가비앙어
+    auto: true
   - translation_iso: por
     name: Língua zoró
+  - translation_iso: rus
+    name: Жипаранский гавиану
   - translation_iso: spa
     name: Gavião del Jiparaná
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشامبيالي
     auto: true
+  - translation_iso: ben
+    name: চম্বিয়ালী ভাষা
   - translation_iso: deu
     name: Chambeali
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: चम्बयाली
   - translation_iso: jpn
     name: チャンベアリ語
+    auto: true
+  - translation_iso: kor
+    name: 참베알리어
     auto: true
   - translation_iso: por
     name: Língua chambeali

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغارييا
     auto: true
+  - translation_iso: ben
+    name: আগারিয়া
   - translation_iso: deu
     name: Agariya
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガリア語
+  - translation_iso: kor
+    name: 아가리야어
+    auto: true
   - translation_iso: por
     name: Agariya
     auto: true

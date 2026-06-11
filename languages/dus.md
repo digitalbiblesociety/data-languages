@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥミー語
+  - translation_iso: kor
+    name: 두미어
+    auto: true
   - translation_iso: por
     name: Língua dumi
+  - translation_iso: rus
+    name: Думи
   - translation_iso: spa
     name: idioma dumi
   - translation_iso: zho

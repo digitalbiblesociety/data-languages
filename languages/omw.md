@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南タイロラ語
     auto: true
+  - translation_iso: kor
+    name: 남부 타이로라어
+    auto: true
   - translation_iso: por
     name: Tairora do Sul
     auto: true

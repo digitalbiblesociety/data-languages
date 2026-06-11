@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Berti_language"
 translations:
   - translation_iso: ara
     name: البرتي
+  - translation_iso: ben
+    name: বার্টি
   - translation_iso: deu
     name: Berti
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベルティ語
+  - translation_iso: kor
+    name: 베르티어
+    auto: true
   - translation_iso: por
     name: Berti
     auto: true
+  - translation_iso: rus
+    name: Берти
   - translation_iso: spa
     name: Berti
   - translation_iso: zho

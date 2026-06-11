@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピムベ語
     auto: true
+  - translation_iso: kor
+    name: 핌브웨어
+    auto: true
   - translation_iso: por
     name: Pimbwe
     auto: true

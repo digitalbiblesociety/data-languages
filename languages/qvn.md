@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: 北フニン語
     auto: true
+  - translation_iso: kor
+    name: 북부 후닌 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Junín do Norte
     auto: true

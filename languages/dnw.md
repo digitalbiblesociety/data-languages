@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: पश्चिमी दानी
     auto: true
+  - translation_iso: ind
+    name: bahasa Lani
   - translation_iso: jpn
     name: 西ダニ語
+  - translation_iso: kor
+    name: 서부 다니어
+    auto: true
   - translation_iso: por
     name: Dani Ocidental
     auto: true
+  - translation_iso: rus
+    name: Лани (язык)
   - translation_iso: spa
     name: Dani Occidental
     auto: true

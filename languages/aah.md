@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبو أرابيش
     auto: true
+  - translation_iso: ben
+    name: আবু’ আরাপেশ
   - translation_iso: deu
     name: "Abu' Arapesh"
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アブ・アラペシュ語
     auto: true
+  - translation_iso: kor
+    name: 아부 아라페시어
+    auto: true
   - translation_iso: por
     name: "Abu' Arapesh"
     auto: true
+  - translation_iso: rus
+    name: абу-арапеш
   - translation_iso: spa
     name: "Abu' Arapesh"
     auto: true

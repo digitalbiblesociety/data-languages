@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クラ・エデ・ナゴ語
     auto: true
+  - translation_iso: kor
+    name: 쿠라 에데 나고어
+    auto: true
   - translation_iso: por
     name: Kura Ede Nago
     auto: true

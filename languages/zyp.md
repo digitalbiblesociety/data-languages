@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ズィフェ・チン語
     auto: true
+  - translation_iso: kor
+    name: 지페 친어
+    auto: true
   - translation_iso: por
     name: chin zyphe
     auto: true

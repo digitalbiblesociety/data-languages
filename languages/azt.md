@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フェアレ・アッタ語
     auto: true
+  - translation_iso: kor
+    name: 파이레 아타어
+    auto: true
   - translation_iso: por
     name: Atta de Faire
     auto: true

@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: सोरखेई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sorkhei
   - translation_iso: jpn
     name: ソルヘ語
+  - translation_iso: kor
+    name: 소르헤이어
+    auto: true
   - translation_iso: por
     name: Sorkhei
     auto: true

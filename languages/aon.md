@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブンビタ・アラペシュ語
     auto: true
+  - translation_iso: kor
+    name: 붐비타 아라페시어
+    auto: true
   - translation_iso: por
     name: Arapesh Bumbita
     auto: true

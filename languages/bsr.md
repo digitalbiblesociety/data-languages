@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باسّا-كونْتاجورا
     auto: true
+  - translation_iso: ben
+    name: বাসা-কন্টাগোরা
   - translation_iso: deu
     name: Bassa-Kontagora
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バッサ・コンタゴラ語
+    auto: true
+  - translation_iso: kor
+    name: 바사콘타고라어
     auto: true
   - translation_iso: por
     name: Bassa-Kontagora

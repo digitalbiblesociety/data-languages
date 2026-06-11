@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 島嶼チュマシュ語
+  - translation_iso: kor
+    name: 크루세뇨어
+    auto: true
   - translation_iso: por
     name: Cruzeño
     auto: true
+  - translation_iso: rus
+    name: крусеньо
   - translation_iso: spa
     name: Cruzeño
     auto: true

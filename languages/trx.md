@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トリングス語
     auto: true
+  - translation_iso: kor
+    name: 트링구스 셈반 비다유어
+    auto: true
   - translation_iso: por
     name: Bidayuh Tringgus-Sembaan
     auto: true

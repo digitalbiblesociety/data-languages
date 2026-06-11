@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アサバ語
     auto: true
+  - translation_iso: kor
+    name: 수아르민어
+    auto: true
   - translation_iso: por
     name: Suarmin
     auto: true

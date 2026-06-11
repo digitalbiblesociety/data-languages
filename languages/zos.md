@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フランシスコ・レオン・ゾケ語
     auto: true
+  - translation_iso: kor
+    name: 프란시스코레온 소케어
+    auto: true
   - translation_iso: por
     name: zoque de Francisco León
     auto: true

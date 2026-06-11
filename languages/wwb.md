@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワカブンガ語
     auto: true
+  - translation_iso: kor
+    name: 와카붕가어
+    auto: true
   - translation_iso: por
     name: Wakabunga
     auto: true

@@ -20,11 +20,18 @@ translations:
   - translation_iso: hin
     name: मोआबी
     auto: true
+  - translation_iso: ind
+    name: Moab
   - translation_iso: jpn
     name: モアブ語
+  - translation_iso: kor
+    name: 모압어
+    auto: true
   - translation_iso: por
     name: moabita
     auto: true
+  - translation_iso: rus
+    name: моавитский язык
   - translation_iso: spa
     name: Moabita
   - translation_iso: zho

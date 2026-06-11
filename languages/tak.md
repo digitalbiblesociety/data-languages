@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タラ語
     auto: true
+  - translation_iso: kor
+    name: 탈라어
+    auto: true
   - translation_iso: por
     name: Tala
     auto: true
+  - translation_iso: rus
+    name: Тала
   - translation_iso: spa
     name: Tala
     auto: true

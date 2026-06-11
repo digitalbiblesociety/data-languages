@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モーリシャス手話
+  - translation_iso: kor
+    name: 모리셔스 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Mauriciana
     auto: true

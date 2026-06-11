@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒャム語
+  - translation_iso: kor
+    name: 햠어
+    auto: true
   - translation_iso: por
     name: Hyam
     auto: true

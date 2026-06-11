@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タングラング語
     auto: true
+  - translation_iso: kor
+    name: 탕랑어
+    auto: true
   - translation_iso: por
     name: tanglang
     auto: true

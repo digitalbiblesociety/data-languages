@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Waray_language"
 translations:
   - translation_iso: ara
     name: لغة الواراى الواراى
+  - translation_iso: ben
+    name: ওয়ারে
   - translation_iso: deu
     name: Wáray-Wáray
   - translation_iso: fra
     name: waray-waray
   - translation_iso: hin
     name: विनारे भाषा
+  - translation_iso: ind
+    name: Warai
   - translation_iso: jpn
     name: ワライ語
   - translation_iso: kor
     name: 와라이어
   - translation_iso: por
     name: língua waray-waray
+  - translation_iso: rus
+    name: варай
   - translation_iso: spa
     name: samareño
   - translation_iso: zho

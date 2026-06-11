@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dzongkha"
 translations:
   - translation_iso: ara
     name: لغة دزونكا
+  - translation_iso: ben
+    name: জোংখা
   - translation_iso: deu
     name: Dzongkha
   - translation_iso: fra
     name: dzongkha
   - translation_iso: hin
     name: जोंगखा
+  - translation_iso: ind
+    name: Dzongkha
   - translation_iso: jpn
     name: ゾンカ語
   - translation_iso: kor
     name: 종카어
   - translation_iso: por
     name: língua butanesa
+  - translation_iso: rus
+    name: дзонг-кэ
   - translation_iso: spa
     name: idioma dzongkha
   - translation_iso: zho

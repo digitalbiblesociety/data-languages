@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドグル・ドム・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 도굴돔 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Dogul Dom
     auto: true

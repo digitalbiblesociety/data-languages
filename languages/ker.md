@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: केरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kera
   - translation_iso: jpn
     name: ケラ語
+  - translation_iso: kor
+    name: 케라어
+    auto: true
   - translation_iso: por
     name: Língua kera
+  - translation_iso: rus
+    name: кера
   - translation_iso: spa
     name: kera
   - translation_iso: zho

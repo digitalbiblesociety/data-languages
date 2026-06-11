@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ヤガラ語
     auto: true
+  - translation_iso: kor
+    name: 야가라어
+    auto: true
   - translation_iso: por
     name: yagara
     auto: true

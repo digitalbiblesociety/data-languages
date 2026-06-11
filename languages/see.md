@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: सेनेका
     auto: true
+  - translation_iso: ind
+    name: Seneca
   - translation_iso: jpn
     name: セネカ語
   - translation_iso: kor
     name: 세네카어
   - translation_iso: por
     name: Língua seneca
+  - translation_iso: rus
+    name: сенека
   - translation_iso: spa
     name: Seneca
   - translation_iso: zho

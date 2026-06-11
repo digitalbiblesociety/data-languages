@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コメクルド語
     auto: true
+  - translation_iso: kor
+    name: 코메크루도어
+    auto: true
   - translation_iso: por
     name: Comecrudo
     auto: true

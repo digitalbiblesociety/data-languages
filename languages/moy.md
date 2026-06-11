@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: シェッカチョ語
     auto: true
+  - translation_iso: kor
+    name: 셰카초어
+    auto: true
   - translation_iso: por
     name: Shekkacho
     auto: true
+  - translation_iso: rus
+    name: Моча (язык)
   - translation_iso: spa
     name: Shekkacho
     auto: true

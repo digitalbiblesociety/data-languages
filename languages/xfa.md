@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: فاليسكان
     auto: true
+  - translation_iso: ben
+    name: ফলিস্কা ভাষা
   - translation_iso: deu
     name: Faliskisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: फ़ालिस्कन
     auto: true
+  - translation_iso: ind
+    name: Faliski
   - translation_iso: jpn
     name: ファリスク語
   - translation_iso: kor
     name: 팔리스크어
   - translation_iso: por
     name: falisco
+  - translation_iso: rus
+    name: фалискский язык
   - translation_iso: spa
     name: idioma falisco
   - translation_iso: zho

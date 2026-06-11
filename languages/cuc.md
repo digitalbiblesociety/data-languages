@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウシラ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 우실라 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Usila
     auto: true
+  - translation_iso: rus
+    name: Усиланский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Usila
   - translation_iso: zho

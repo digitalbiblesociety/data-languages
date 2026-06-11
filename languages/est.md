@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_language"
 translations:
   - translation_iso: ara
     name: الإستونية
+  - translation_iso: ben
+    name: এস্তোনীয়
   - translation_iso: deu
     name: Estnisch
   - translation_iso: fra
     name: estonien
   - translation_iso: hin
     name: एस्टोनियाई
+  - translation_iso: ind
+    name: Estonia
   - translation_iso: jpn
     name: エストニア語
   - translation_iso: kor
     name: 에스토니아어
   - translation_iso: por
     name: estónio
+  - translation_iso: rus
+    name: эстонский
   - translation_iso: spa
     name: estonio
   - translation_iso: zho

@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jamaican_Patois"
 translations:
   - translation_iso: ara
     name: كريولية جامايكية
+  - translation_iso: ben
+    name: জ্যামাইকান ক্রেওল
   - translation_iso: deu
     name: Jamaikanisch-Kreolisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: जमैकन क्रियोल अंग्रेज़ी
     auto: true
+  - translation_iso: ind
+    name: Patois Jamaika
   - translation_iso: jpn
     name: ジャマイカ・クレオール語
   - translation_iso: kor
     name: 자메이카 파트와
   - translation_iso: por
     name: patoá jamaicano
+  - translation_iso: rus
+    name: ямайский креольский язык
   - translation_iso: spa
     name: criollo jamaicano
   - translation_iso: zho

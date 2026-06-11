@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: माकासाए
     auto: true
+  - translation_iso: ind
+    name: Makasae
   - translation_iso: jpn
     name: マカサエ語
   - translation_iso: kor
     name: 마카사이어
   - translation_iso: por
     name: Macassai
+  - translation_iso: rus
+    name: Макасаи (язык)
   - translation_iso: spa
     name: makasae
   - translation_iso: zho

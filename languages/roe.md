@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロンジ語
     auto: true
+  - translation_iso: kor
+    name: 론지어
+    auto: true
   - translation_iso: por
     name: Ronji
     auto: true

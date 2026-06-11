@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: kor
+    name: 렐레어
+    auto: true
   - translation_iso: por
     name: Lele (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: Леле (язык Папуа-Новой Гвинеи)
   - translation_iso: spa
     name: Lele (Papúa Nueva Guinea)
     auto: true

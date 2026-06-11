@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أزها
     auto: true
+  - translation_iso: ben
+    name: আজহা
   - translation_iso: deu
     name: Azha
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アズハ語
+    auto: true
+  - translation_iso: kor
+    name: 아자어
     auto: true
   - translation_iso: por
     name: Azha

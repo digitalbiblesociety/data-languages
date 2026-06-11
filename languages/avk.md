@@ -26,12 +26,16 @@ translations:
   - translation_iso: hin
     name: कोतावा
     auto: true
+  - translation_iso: ind
+    name: bahasa Kotava
   - translation_iso: jpn
     name: コタヴァ
   - translation_iso: kor
     name: 코타바
   - translation_iso: por
     name: Kotava
+  - translation_iso: rus
+    name: котава
   - translation_iso: spa
     name: Kotava
     auto: true

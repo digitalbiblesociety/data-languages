@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: غوولآن
     auto: true
+  - translation_iso: ben
+    name: ভালয়-গওলান
   - translation_iso: deu
     name: Gowlan
     auto: true
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴウラン語
+    auto: true
+  - translation_iso: kor
+    name: 고울란어
     auto: true
   - translation_iso: por
     name: Gowlan

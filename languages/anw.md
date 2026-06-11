@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أناّانج
     auto: true
+  - translation_iso: ben
+    name: আনাং
   - translation_iso: deu
     name: Anaang
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アナン語
+  - translation_iso: kor
+    name: 아낭어
+    auto: true
   - translation_iso: por
     name: Anaang
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Korean_language"
 translations:
   - translation_iso: ara
     name: الكورية
+  - translation_iso: ben
+    name: কোরিয়ান
   - translation_iso: deu
     name: Koreanisch
   - translation_iso: fra
     name: coréen
   - translation_iso: hin
     name: कोरियाई भाषा
+  - translation_iso: ind
+    name: Korea
   - translation_iso: jpn
     name: 朝鮮語
   - translation_iso: kor
     name: 한국어
   - translation_iso: por
     name: coreano
+  - translation_iso: rus
+    name: корейский
   - translation_iso: spa
     name: coreano
   - translation_iso: zho

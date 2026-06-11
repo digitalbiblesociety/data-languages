@@ -27,6 +27,8 @@ translations:
     name: khitan
   - translation_iso: hin
     name: ख़ितानी भाषा
+  - translation_iso: ind
+    name: bahasa Khitan
   - translation_iso: jpn
     name: 契丹語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: quitai
     auto: true
+  - translation_iso: rus
+    name: киданьский язык
   - translation_iso: spa
     name: Idioma kitán
   - translation_iso: zho

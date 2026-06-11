@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヌポデ・ウイトト語
     auto: true
+  - translation_iso: kor
+    name: 뉘포데 위토토어
+    auto: true
   - translation_iso: por
     name: Huitoto Nüpode
     auto: true
+  - translation_iso: rus
+    name: Нюподе-уитотский язык
   - translation_iso: spa
     name: nipode
   - translation_iso: zho

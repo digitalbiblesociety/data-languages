@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブクウェン語
     auto: true
+  - translation_iso: kor
+    name: 부크웬어
+    auto: true
   - translation_iso: por
     name: Bukwen
     auto: true

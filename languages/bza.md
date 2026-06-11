@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باندي
     auto: true
+  - translation_iso: ben
+    name: বান্দি
   - translation_iso: deu
     name: Bandi
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バンディ語
     auto: true
+  - translation_iso: kor
+    name: 반디어
+    auto: true
   - translation_iso: por
     name: Bandi
     auto: true
+  - translation_iso: rus
+    name: Банди
   - translation_iso: spa
     name: Bandi
   - translation_iso: zho

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: माकाह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Makah
   - translation_iso: jpn
     name: マカー語
+  - translation_iso: kor
+    name: 마카어
+    auto: true
   - translation_iso: por
     name: Língua makah
+  - translation_iso: rus
+    name: Маках
   - translation_iso: spa
     name: Lengua makah
   - translation_iso: zho

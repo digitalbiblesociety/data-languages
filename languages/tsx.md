@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タオ語
     auto: true
+  - translation_iso: kor
+    name: 무바미어
+    auto: true
   - translation_iso: por
     name: Mubami
     auto: true

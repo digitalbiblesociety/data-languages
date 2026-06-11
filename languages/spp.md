@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: スピリエセヌーフォ語
     auto: true
+  - translation_iso: kor
+    name: 수피레 세누포어
+    auto: true
   - translation_iso: por
     name: Língua supyire
   - translation_iso: spa

@@ -33,6 +33,8 @@ translations:
     name: 카핑아마랑이어
   - translation_iso: por
     name: Língua kapingamarangi
+  - translation_iso: rus
+    name: капингамаранги
   - translation_iso: spa
     name: idioma kapingamarangi
   - translation_iso: zho

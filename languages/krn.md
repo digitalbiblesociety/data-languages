@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サポ語
     auto: true
+  - translation_iso: kor
+    name: 사포어
+    auto: true
   - translation_iso: por
     name: Sapo
     auto: true

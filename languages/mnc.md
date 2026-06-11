@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manchu_language"
 translations:
   - translation_iso: ara
     name: لغة المانشو
+  - translation_iso: ben
+    name: মাঞ্চু
   - translation_iso: deu
     name: Mandschurisch
   - translation_iso: fra
     name: mandchou
   - translation_iso: hin
     name: मान्छु भाषा
+  - translation_iso: ind
+    name: Manchuria
   - translation_iso: jpn
     name: 満洲語
   - translation_iso: kor
     name: 만주어
   - translation_iso: por
     name: Língua manchu
+  - translation_iso: rus
+    name: маньчжурский
   - translation_iso: spa
     name: idioma manchú
   - translation_iso: zho

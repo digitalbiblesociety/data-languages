@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オッラーリ語
+  - translation_iso: kor
+    name: 포탕기 올라르 가다바어
+    auto: true
   - translation_iso: por
     name: Língua ollari
+  - translation_iso: rus
+    name: Гадаба
   - translation_iso: spa
     name: Gadaba pottangi ollar
     auto: true

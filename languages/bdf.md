@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة بياجي
     auto: true
+  - translation_iso: ben
+    name: বিয়েজ
   - translation_iso: deu
     name: Biage
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビアゲ語
+    auto: true
+  - translation_iso: kor
+    name: 비아게어
     auto: true
   - translation_iso: por
     name: Biage

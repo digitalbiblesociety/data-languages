@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: फ्लाईताल
     auto: true
+  - translation_iso: ind
+    name: Tsotsitaal
   - translation_iso: jpn
     name: ツォツィタール
+  - translation_iso: kor
+    name: 플라이탈어
+    auto: true
   - translation_iso: por
     name: Língua isotsitaal
+  - translation_iso: rus
+    name: цоциталь
   - translation_iso: spa
     name: Flaaitaal
     auto: true

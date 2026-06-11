@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クロス・リバー・ムベンベ語
     auto: true
+  - translation_iso: kor
+    name: 크로스리버 음벰베어
+    auto: true
   - translation_iso: por
     name: Mbembe do Cross River
     auto: true

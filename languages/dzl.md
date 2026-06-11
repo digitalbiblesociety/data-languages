@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザラ語
+  - translation_iso: kor
+    name: 잘라카어
+    auto: true
   - translation_iso: por
     name: Dzalakha
     auto: true
+  - translation_iso: rus
+    name: Дзала-кха
   - translation_iso: spa
     name: Dzalakha
     auto: true

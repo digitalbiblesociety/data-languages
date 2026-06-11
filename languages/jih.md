@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スティオツデ語
     auto: true
+  - translation_iso: kor
+    name: 스토드스데어
+    auto: true
   - translation_iso: por
     name: sTodsde
     auto: true

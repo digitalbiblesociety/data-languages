@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सारा
     auto: true
+  - translation_iso: ind
+    name: Bakati’ Sara
   - translation_iso: jpn
     name: リオク語
+    auto: true
+  - translation_iso: kor
+    name: 사라어
     auto: true
   - translation_iso: por
     name: Sara

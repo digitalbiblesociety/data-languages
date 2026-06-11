@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ディル・ニャムザク・ムバリミ語
     auto: true
+  - translation_iso: kor
+    name: 디르냠자크음바리미어
+    auto: true
   - translation_iso: por
     name: Dir-Nyamzak-Mbarimi
     auto: true

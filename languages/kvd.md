@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुई (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Kui
   - translation_iso: jpn
     name: クイ語（インドネシア）
+    auto: true
+  - translation_iso: kor
+    name: 쿠이어
     auto: true
   - translation_iso: por
     name: Kui (Indonésia)

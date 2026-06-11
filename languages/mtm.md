@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Mator
     auto: true
+  - translation_iso: rus
+    name: маторский язык
   - translation_iso: spa
     name: mator
   - translation_iso: zho

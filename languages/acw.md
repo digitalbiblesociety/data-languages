@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: हिजाज़ी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Hijaz
   - translation_iso: jpn
     name: アラビア語ヒジャーズ方言
+  - translation_iso: kor
+    name: 히자즈 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe hejazi
+  - translation_iso: rus
+    name: Хиджазский диалект арабского языка
   - translation_iso: spa
     name: Árabe hiyazí
   - translation_iso: zho

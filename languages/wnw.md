@@ -25,8 +25,13 @@ translations:
   - translation_iso: jpn
     name: ウィントゥ語
     auto: true
+  - translation_iso: kor
+    name: 윈투어
+    auto: true
   - translation_iso: por
     name: Língua wintu
+  - translation_iso: rus
+    name: винту
   - translation_iso: spa
     name: Wintu
     auto: true

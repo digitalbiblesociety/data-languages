@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グワイミ語
+  - translation_iso: kor
+    name: 응아베레어
+    auto: true
   - translation_iso: por
     name: Língua guaymí
+  - translation_iso: rus
+    name: гуайми
   - translation_iso: spa
     name: Idioma ngäbe
   - translation_iso: zho

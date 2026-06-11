@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムバラ語
     auto: true
+  - translation_iso: kor
+    name: 음바라어
+    auto: true
   - translation_iso: por
     name: Mbara (Austrália)
     auto: true

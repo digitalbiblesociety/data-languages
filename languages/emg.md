@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東メオハン語
     auto: true
+  - translation_iso: kor
+    name: 동부 메오항어
+    auto: true
   - translation_iso: por
     name: meohang oriental
     auto: true

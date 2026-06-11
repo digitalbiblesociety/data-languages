@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ewondo_language"
 translations:
   - translation_iso: ara
     name: الإيوندو
+  - translation_iso: ben
+    name: ইওন্ডো
   - translation_iso: deu
     name: Ewondo
   - translation_iso: fra
     name: ewondo
   - translation_iso: hin
     name: इवोन्डो
+  - translation_iso: ind
+    name: Ewondo
   - translation_iso: jpn
     name: エウォンド語
   - translation_iso: kor
     name: 이원도어
   - translation_iso: por
     name: Língua ewondo
+  - translation_iso: rus
+    name: эвондо
   - translation_iso: spa
     name: ewondo
   - translation_iso: zho

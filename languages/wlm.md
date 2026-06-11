@@ -22,10 +22,17 @@ translations:
   - translation_iso: hin
     name: मध्य वेल्श
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wales Pertengahan
   - translation_iso: jpn
     name: 中期ウェールズ語
+  - translation_iso: kor
+    name: 중세 웨일스어
+    auto: true
   - translation_iso: por
     name: galês médio
+  - translation_iso: rus
+    name: средневаллийский язык
   - translation_iso: spa
     name: galés medio
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラウヌイア語
     auto: true
+  - translation_iso: kor
+    name: 라우누이아어
+    auto: true
   - translation_iso: por
     name: Lawunuia
     auto: true

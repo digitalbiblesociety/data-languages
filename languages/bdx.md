@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: बुदोंग-बुदोंग
     auto: true
+  - translation_iso: ind
+    name: Budong-Budong
   - translation_iso: jpn
     name: ブドン・ブドン語
+    auto: true
+  - translation_iso: kor
+    name: 부동부동어
     auto: true
   - translation_iso: por
     name: Budong-Budong
     auto: true
+  - translation_iso: rus
+    name: Будонг-будонг
   - translation_iso: spa
     name: Budong-Budong
     auto: true

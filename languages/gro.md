@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: グロマ語
     auto: true
+  - translation_iso: kor
+    name: 그로마어
+    auto: true
   - translation_iso: por
     name: Groma
     auto: true
+  - translation_iso: rus
+    name: грома
   - translation_iso: spa
     name: Groma
     auto: true

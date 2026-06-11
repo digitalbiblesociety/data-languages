@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: गामकोनोरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gamkonora
   - translation_iso: jpn
     name: ガムコノラ語
+    auto: true
+  - translation_iso: kor
+    name: 감코노라어
     auto: true
   - translation_iso: por
     name: Gamkonora
     auto: true
+  - translation_iso: rus
+    name: Гамконора
   - translation_iso: spa
     name: Gamkonora
     auto: true

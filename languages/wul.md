@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सिलिमो
     auto: true
+  - translation_iso: ind
+    name: Silimo
   - translation_iso: jpn
     name: シリモ語
+    auto: true
+  - translation_iso: kor
+    name: 실리모어
     auto: true
   - translation_iso: por
     name: Silimo

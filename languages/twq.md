@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tasawaq_language"
 translations:
   - translation_iso: ara
     name: تاساواق
+  - translation_iso: ben
+    name: তাসাওয়াক
   - translation_iso: deu
     name: Tasawaq
   - translation_iso: fra
     name: tasawaq
   - translation_iso: hin
     name: टासवाक
+  - translation_iso: ind
+    name: Tasawaq
   - translation_iso: jpn
     name: タサワク語
   - translation_iso: kor
     name: 타사와크어
   - translation_iso: por
     name: tasawaq
+  - translation_iso: rus
+    name: тасавак
   - translation_iso: spa
     name: Idioma tasawaq
   - translation_iso: zho

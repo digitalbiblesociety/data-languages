@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basaa_language"
 translations:
   - translation_iso: ara
     name: الباسا
+  - translation_iso: ben
+    name: বাসা
   - translation_iso: deu
     name: Bassa
   - translation_iso: fra
     name: bassa
   - translation_iso: hin
     name: बसा
+  - translation_iso: ind
+    name: Basa
   - translation_iso: jpn
     name: バサ語
   - translation_iso: kor
     name: 바사어
   - translation_iso: por
     name: basa
+  - translation_iso: rus
+    name: баса
   - translation_iso: spa
     name: Idioma basaa
   - translation_iso: zho

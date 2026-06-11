@@ -23,8 +23,13 @@ translations:
   - translation_iso: hin
     name: पुरानी सुंदानी
     auto: true
+  - translation_iso: ind
+    name: Sunda Kuno
   - translation_iso: jpn
     name: 古スンダ語
+  - translation_iso: kor
+    name: 고대 순다어
+    auto: true
   - translation_iso: por
     name: sundanês antigo
     auto: true

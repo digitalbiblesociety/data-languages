@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वहौ केन्याह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kenyah Wahau
   - translation_iso: jpn
     name: ワハウ・ケニャー語
+    auto: true
+  - translation_iso: kor
+    name: 와하우 케냐어
     auto: true
   - translation_iso: por
     name: Kenyah Wahau

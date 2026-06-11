@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ndebele_language"
 translations:
   - translation_iso: ara
     name: النديبيلية الشمالية
+  - translation_iso: ben
+    name: উত্তর এন্দেবেলে
   - translation_iso: deu
     name: Nord-Ndebele
   - translation_iso: fra
     name: sindebele
   - translation_iso: hin
     name: ज़िम्बाब्वेई न्देबेले भाषा
+  - translation_iso: ind
+    name: Ndebele Utara
   - translation_iso: jpn
     name: 北ンデベレ語
   - translation_iso: kor
     name: 북은데벨레어
   - translation_iso: por
     name: língua ndebele do norte
+  - translation_iso: rus
+    name: северный ндебеле
   - translation_iso: spa
     name: ndebele del norte
   - translation_iso: zho

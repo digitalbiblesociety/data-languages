@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オロ語
     auto: true
+  - translation_iso: kor
+    name: 오로어
+    auto: true
   - translation_iso: por
     name: Oro
     auto: true
+  - translation_iso: rus
+    name: Орон
   - translation_iso: spa
     name: Oro
     auto: true

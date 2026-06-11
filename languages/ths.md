@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: タカリ語
     auto: true
+  - translation_iso: kor
+    name: 타칼리어
+    auto: true
   - translation_iso: por
     name: Língua thakali
+  - translation_iso: rus
+    name: тхакали
   - translation_iso: spa
     name: thakali
   - translation_iso: zho

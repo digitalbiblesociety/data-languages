@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألامبلاك
     auto: true
+  - translation_iso: ben
+    name: আলামব্লাক
   - translation_iso: deu
     name: Alamblak
     auto: true
@@ -29,10 +31,17 @@ translations:
   - translation_iso: hin
     name: अलाम्ब्लाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alamblak
   - translation_iso: jpn
     name: アランブラック語
+  - translation_iso: kor
+    name: 알람블라크어
+    auto: true
   - translation_iso: por
     name: Língua alamblak
+  - translation_iso: rus
+    name: аламблак
   - translation_iso: spa
     name: Alamblak
     auto: true

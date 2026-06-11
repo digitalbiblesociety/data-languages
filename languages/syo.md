@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: スオイ語
     auto: true
+  - translation_iso: kor
+    name: 수오이어
+    auto: true
   - translation_iso: por
     name: Suoy
     auto: true

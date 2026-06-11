@@ -30,6 +30,9 @@ translations:
     name: गोरुम भाषा
   - translation_iso: jpn
     name: パレンガ語
+  - translation_iso: kor
+    name: 파렝가어
+    auto: true
   - translation_iso: por
     name: Parenga
     auto: true

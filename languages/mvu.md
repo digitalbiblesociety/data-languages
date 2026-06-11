@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة مارفا
     auto: true
+  - translation_iso: ben
+    name: মারফা ভাষা
   - translation_iso: deu
     name: Marfa
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルファ語
+    auto: true
+  - translation_iso: kor
+    name: 마르파어
     auto: true
   - translation_iso: por
     name: Marfa

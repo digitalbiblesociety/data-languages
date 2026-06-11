@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: कप्पाडोसियन यूनानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yunani Kapadokia
   - translation_iso: jpn
     name: カッパドキアのギリシア人
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Grego capadócio
     auto: true
+  - translation_iso: rus
+    name: каппадокийский язык
   - translation_iso: spa
     name: idioma griego de Capadocia
   - translation_iso: zho

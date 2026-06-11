@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Limburgish"
 translations:
   - translation_iso: ara
     name: اللغة الليمبورغية
+  - translation_iso: ben
+    name: লিম্বুর্গিশ
   - translation_iso: deu
     name: limburgische Sprache
   - translation_iso: fra
     name: langue limbourgeoise
   - translation_iso: hin
     name: लिंबर्गिश
+  - translation_iso: ind
+    name: Limburgia
   - translation_iso: jpn
     name: リンブルフ語
   - translation_iso: kor
     name: 림뷔르흐어
   - translation_iso: por
     name: língua limburguesa
+  - translation_iso: rus
+    name: лимбургский
   - translation_iso: spa
     name: limburgués
   - translation_iso: zho

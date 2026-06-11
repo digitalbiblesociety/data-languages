@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ルトス語
     auto: true
+  - translation_iso: kor
+    name: 루토스어
+    auto: true
   - translation_iso: por
     name: Lutos
     auto: true

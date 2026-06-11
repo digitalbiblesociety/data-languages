@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कैम्बुलावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kaimbulawa
   - translation_iso: jpn
     name: カイムブラワ語
+    auto: true
+  - translation_iso: kor
+    name: 카임불라와어
     auto: true
   - translation_iso: por
     name: kaimbulawa

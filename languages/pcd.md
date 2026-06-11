@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Picard_language"
 translations:
   - translation_iso: ara
     name: اللغة البيكاردية
+  - translation_iso: ben
+    name: পিকার্ড ভাষা
   - translation_iso: deu
     name: Picardisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: पिकार्ड
     auto: true
+  - translation_iso: ind
+    name: Picardia
   - translation_iso: jpn
     name: ピカルディ語
   - translation_iso: kor
     name: 피카르디어
   - translation_iso: por
     name: picardo
+  - translation_iso: rus
+    name: пикардский язык
   - translation_iso: spa
     name: picardo
   - translation_iso: zho

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: マムプルリ語
     auto: true
+  - translation_iso: kor
+    name: 맘프룰리어
+    auto: true
   - translation_iso: por
     name: Língua mampruli
+  - translation_iso: rus
+    name: Мампрули
   - translation_iso: spa
     name: Mampruli
   - translation_iso: zho

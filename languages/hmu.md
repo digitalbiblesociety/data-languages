@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: हमाप
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hamap
   - translation_iso: jpn
     name: ハマップ語
+    auto: true
+  - translation_iso: kor
+    name: 하맙어
     auto: true
   - translation_iso: por
     name: Hamap

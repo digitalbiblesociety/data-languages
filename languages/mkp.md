@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モイコディ語
     auto: true
+  - translation_iso: kor
+    name: 모이코디어
+    auto: true
   - translation_iso: por
     name: Moikodi
     auto: true

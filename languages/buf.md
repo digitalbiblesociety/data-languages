@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブションゴ語
+  - translation_iso: kor
+    name: 부숑어
+    auto: true
   - translation_iso: por
     name: Bushoong
     auto: true

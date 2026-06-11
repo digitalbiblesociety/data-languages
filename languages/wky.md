@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンガカユティル語
     auto: true
+  - translation_iso: kor
+    name: 왕카유추루어
+    auto: true
   - translation_iso: por
     name: Wangkayutyuru
     auto: true

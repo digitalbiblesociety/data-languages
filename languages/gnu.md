@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: ग्नाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gnau
   - translation_iso: jpn
     name: グナウ語
+    auto: true
+  - translation_iso: kor
+    name: 그나우어
     auto: true
   - translation_iso: por
     name: Gnau

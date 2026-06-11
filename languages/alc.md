@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カウェスカル語
+  - translation_iso: kor
+    name: 카웨스카르어
+    auto: true
   - translation_iso: por
     name: Língua kawésqar
+  - translation_iso: rus
+    name: Кавескар
   - translation_iso: spa
     name: Idioma kawésqar
   - translation_iso: zho

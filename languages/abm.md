@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبنيوم
     auto: true
+  - translation_iso: ben
+    name: অবনৈওম
   - translation_iso: deu
     name: Abanyom
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバニョム語
+  - translation_iso: kor
+    name: 아바뇸어
+    auto: true
   - translation_iso: por
     name: Abanyom
     auto: true
+  - translation_iso: rus
+    name: абаньом
   - translation_iso: spa
     name: abanyom
   - translation_iso: zho

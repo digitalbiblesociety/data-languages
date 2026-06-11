@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: मेस्क्वाकी
     auto: true
+  - translation_iso: ind
+    name: Fox
   - translation_iso: jpn
     name: フォックス語
   - translation_iso: kor
     name: 폭스어
   - translation_iso: por
     name: Língua fox
+  - translation_iso: rus
+    name: сок-фокс
   - translation_iso: spa
     name: Meskwaki
   - translation_iso: zho

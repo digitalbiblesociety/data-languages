@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khotanese_language"
 translations:
   - translation_iso: ara
     name: الخوتانيز
+  - translation_iso: ben
+    name: খোটানিজ
   - translation_iso: deu
     name: Sakisch
   - translation_iso: fra
     name: khotanais
   - translation_iso: hin
     name: खोतानीस
+  - translation_iso: ind
+    name: Khotan
   - translation_iso: jpn
     name: コータン語
   - translation_iso: kor
     name: 호탄어
   - translation_iso: por
     name: khotanês
+  - translation_iso: rus
+    name: хотанский
   - translation_iso: spa
     name: Idioma jotanés
   - translation_iso: zho

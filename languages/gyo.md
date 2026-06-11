@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ギャルスムド語
     auto: true
+  - translation_iso: kor
+    name: 걀숨도어
+    auto: true
   - translation_iso: por
     name: Gyalsumdo
     auto: true

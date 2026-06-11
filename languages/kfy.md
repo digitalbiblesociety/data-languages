@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكومايونية
     auto: true
+  - translation_iso: ben
+    name: কুমায়ূনী ভাষা
   - translation_iso: deu
     name: Kumaoni
     auto: true
@@ -31,8 +33,13 @@ translations:
     name: कुमाऊँनी
   - translation_iso: jpn
     name: クマーオニー語
+  - translation_iso: kor
+    name: 쿠마오니어
+    auto: true
   - translation_iso: por
     name: Língua Kumaoni
+  - translation_iso: rus
+    name: Кумаони
   - translation_iso: spa
     name: Kumaoni
     auto: true

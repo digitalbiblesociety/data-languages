@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باردي
     auto: true
+  - translation_iso: ben
+    name: বার্দি
   - translation_iso: deu
     name: Bardi
     auto: true

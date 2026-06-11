@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: アシェ語
     auto: true
+  - translation_iso: kor
+    name: 아셰어
+    auto: true
   - translation_iso: por
     name: Ashe
     auto: true

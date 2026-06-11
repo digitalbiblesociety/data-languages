@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yakut_language"
 translations:
   - translation_iso: ara
     name: الياقوتية
+  - translation_iso: ben
+    name: ইয়াকুট
   - translation_iso: deu
     name: Jakutisch
   - translation_iso: fra
     name: iakoute
   - translation_iso: hin
     name: साख़ा भाषा
+  - translation_iso: ind
+    name: Sakha
   - translation_iso: jpn
     name: サハ語
   - translation_iso: kor
     name: 야쿠트어
   - translation_iso: por
     name: Língua iacuta
+  - translation_iso: rus
+    name: саха
   - translation_iso: spa
     name: Idioma yakuto
   - translation_iso: zho

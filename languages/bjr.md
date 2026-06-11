@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヌマリエン語
+  - translation_iso: kor
+    name: 비누마리엔어
+    auto: true
   - translation_iso: por
     name: Binumarien
     auto: true

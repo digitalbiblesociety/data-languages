@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألدي
     auto: true
+  - translation_iso: ben
+    name: আদেলে
   - translation_iso: deu
     name: Adele
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アデレ語
+  - translation_iso: kor
+    name: 아델레어
+    auto: true
   - translation_iso: por
     name: língua adele
+  - translation_iso: rus
+    name: Адель
   - translation_iso: spa
     name: idioma adele
   - translation_iso: zho

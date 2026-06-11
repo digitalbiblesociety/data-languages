@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rangi_language"
 translations:
   - translation_iso: ara
     name: لانجي
+  - translation_iso: ben
+    name: লাঙ্গি
   - translation_iso: deu
     name: Langi
   - translation_iso: fra
     name: langi
   - translation_iso: hin
     name: लांगि
+  - translation_iso: ind
+    name: Langi
   - translation_iso: jpn
     name: ランギ語
   - translation_iso: kor
     name: 랑기어
   - translation_iso: por
     name: langi
+  - translation_iso: rus
+    name: ланго
   - translation_iso: spa
     name: langi
   - translation_iso: zho

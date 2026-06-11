@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デロ語
+  - translation_iso: kor
+    name: 델로어
+    auto: true
   - translation_iso: por
     name: Delo
     auto: true

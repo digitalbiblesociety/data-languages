@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カドゥング語
     auto: true
+  - translation_iso: kor
+    name: 카둥어
+    auto: true
   - translation_iso: por
     name: Kadung
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナカナイ語
+  - translation_iso: kor
+    name: 나카나이어
+    auto: true
   - translation_iso: por
     name: Nakanai
     auto: true

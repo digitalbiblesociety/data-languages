@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケニイ語
     auto: true
+  - translation_iso: kor
+    name: 케니어
+    auto: true
   - translation_iso: por
     name: Kenyi
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: توري
     auto: true
+  - translation_iso: ben
+    name: তুরী ভাষা
   - translation_iso: deu
     name: Turi
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: तुरी भाषा
   - translation_iso: jpn
     name: トゥーリー語
+    auto: true
+  - translation_iso: kor
+    name: 투리어
     auto: true
   - translation_iso: por
     name: Turi

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガンベラ語
     auto: true
+  - translation_iso: kor
+    name: 감베라어
+    auto: true
   - translation_iso: por
     name: Gambera
     auto: true

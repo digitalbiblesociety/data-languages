@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クラオ語
     auto: true
+  - translation_iso: kor
+    name: 클라오어
+    auto: true
   - translation_iso: por
     name: Klao
     auto: true

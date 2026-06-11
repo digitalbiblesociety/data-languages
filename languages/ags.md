@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة إيسيمبي
     auto: true
+  - translation_iso: ben
+    name: এসিম্বি ভাষা
   - translation_iso: deu
     name: Esimbi
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エシンビ語
+    auto: true
+  - translation_iso: kor
+    name: 에심비어
     auto: true
   - translation_iso: por
     name: Esimbi

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイニン語
+  - translation_iso: kor
+    name: 카케트어
+    auto: true
   - translation_iso: por
     name: Qaqet
     auto: true

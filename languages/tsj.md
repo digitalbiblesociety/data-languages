@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: تشانغلا
     auto: true
+  - translation_iso: ben
+    name: সাংগলা ভাষা
   - translation_iso: deu
     name: Tshangla
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     name: सांगला भाषा
   - translation_iso: jpn
     name: ツァンラ語
+  - translation_iso: kor
+    name: 창라어
+    auto: true
   - translation_iso: por
     name: Língua tshangla
+  - translation_iso: rus
+    name: цангла
   - translation_iso: spa
     name: Tshangla
     auto: true

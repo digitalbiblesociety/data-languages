@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミアン語
     auto: true
+  - translation_iso: kor
+    name: 미안어
+    auto: true
   - translation_iso: por
     name: Mian
     auto: true

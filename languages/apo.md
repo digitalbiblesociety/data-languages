@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أمبول
     auto: true
+  - translation_iso: ben
+    name: আপালিক
   - translation_iso: deu
     name: Ambul
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンブル語
+    auto: true
+  - translation_iso: kor
+    name: 암불어
     auto: true
   - translation_iso: por
     name: Ambul

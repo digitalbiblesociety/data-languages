@@ -32,6 +32,8 @@ translations:
     name: 타얍어
   - translation_iso: por
     name: Língua taiap
+  - translation_iso: rus
+    name: Таиап
   - translation_iso: spa
     name: Idioma gapun
   - translation_iso: zho

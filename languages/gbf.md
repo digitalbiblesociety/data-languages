@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガイクンディ語
     auto: true
+  - translation_iso: kor
+    name: 가이쿤디어
+    auto: true
   - translation_iso: por
     name: Gaikundi
     auto: true

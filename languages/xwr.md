@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: क्वेर्बा मम्बेरामो
     auto: true
+  - translation_iso: ind
+    name: Kwerba Mamberamo
   - translation_iso: jpn
     name: ケルバ・マンベラモ語
+    auto: true
+  - translation_iso: kor
+    name: 크웨르바 맘베라모어
     auto: true
   - translation_iso: por
     name: kwerba mamberamo
     auto: true
+  - translation_iso: rus
+    name: Кверба-мамберамо
   - translation_iso: spa
     name: Kwerba Mamberamo
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ラタニョン語
     auto: true
+  - translation_iso: kor
+    name: 라타그논어
+    auto: true
   - translation_iso: por
     name: Língua ratagnon
+  - translation_iso: rus
+    name: ратаньон
   - translation_iso: spa
     name: ratagnon
   - translation_iso: zho

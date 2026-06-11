@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Persian"
 translations:
   - translation_iso: ara
     name: الفارسية القديمة
+  - translation_iso: ben
+    name: প্রাচীন ফার্সি
   - translation_iso: deu
     name: Altpersisch
   - translation_iso: fra
     name: vieux-perse
   - translation_iso: hin
     name: प्राचीन फ़ारसी भाषा
+  - translation_iso: ind
+    name: Persia Kuno
   - translation_iso: jpn
     name: 古代ペルシア語
   - translation_iso: kor
     name: 고대 페르시아어
   - translation_iso: por
     name: Língua persa antiga
+  - translation_iso: rus
+    name: староперсидский
   - translation_iso: spa
     name: persa antiguo
   - translation_iso: zho

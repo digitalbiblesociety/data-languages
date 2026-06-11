@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブスー語
+  - translation_iso: kor
+    name: 부수어
+    auto: true
   - translation_iso: por
     name: Língua busuu
   - translation_iso: spa

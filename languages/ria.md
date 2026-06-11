@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: リアン（インド）語
     auto: true
+  - translation_iso: kor
+    name: 리앙어
+    auto: true
   - translation_iso: por
     name: Riang (Índia)
     auto: true

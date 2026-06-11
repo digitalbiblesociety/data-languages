@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ソー語
     auto: true
+  - translation_iso: kor
+    name: 스워어
+    auto: true
   - translation_iso: por
     name: Swo
     auto: true
+  - translation_iso: rus
+    name: Сво
   - translation_iso: spa
     name: Swo
     auto: true

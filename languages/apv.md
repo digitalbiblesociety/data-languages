@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة نامبيكوارا الشمالية
     auto: true
+  - translation_iso: ben
+    name: আলাপমুন্টে
   - translation_iso: deu
     name: Nord-Nambikwara
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ナンビクワラ語
+    auto: true
+  - translation_iso: kor
+    name: 북부 남비콰라어
     auto: true
   - translation_iso: por
     name: Nambikwara do Norte

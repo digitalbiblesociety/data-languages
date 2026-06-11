@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ベエレ語
     auto: true
+  - translation_iso: kor
+    name: 벨레어
+    auto: true
   - translation_iso: por
     name: Beele
     auto: true
+  - translation_iso: rus
+    name: Бееле
   - translation_iso: spa
     name: Beele
     auto: true

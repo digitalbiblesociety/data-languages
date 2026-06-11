@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: 南部ティワ語
     auto: true
+  - translation_iso: kor
+    name: 남부 티와어
+    auto: true
   - translation_iso: por
     name: Língua tiwa meridonal
+  - translation_iso: rus
+    name: Южный тива
   - translation_iso: spa
     name: idioma tigua meridional
   - translation_iso: zho

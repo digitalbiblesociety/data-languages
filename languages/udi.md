@@ -34,6 +34,8 @@ translations:
     name: 우디어
   - translation_iso: por
     name: Língua udi
+  - translation_iso: rus
+    name: удинский язык
   - translation_iso: spa
     name: Idioma udí
   - translation_iso: zho

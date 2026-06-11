@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サフェヨカ語
     auto: true
+  - translation_iso: kor
+    name: 사페요카어
+    auto: true
   - translation_iso: por
     name: Safeyoka
     auto: true
+  - translation_iso: rus
+    name: ампале
   - translation_iso: spa
     name: Safeyoka
     auto: true

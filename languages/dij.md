@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダイ語
     auto: true
+  - translation_iso: kor
+    name: 다이어
+    auto: true
   - translation_iso: por
     name: Dai
     auto: true

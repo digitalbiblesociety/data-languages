@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリンバ語
     auto: true
+  - translation_iso: kor
+    name: 말림바어
+    auto: true
   - translation_iso: por
     name: Malimba
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケブ語
+  - translation_iso: kor
+    name: 아케부어
+    auto: true
   - translation_iso: por
     name: Akebu
     auto: true

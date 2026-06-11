@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジャウィン語
     auto: true
+  - translation_iso: kor
+    name: 자워인어
+    auto: true
   - translation_iso: por
     name: Jawoyn
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジタ語
     auto: true
+  - translation_iso: kor
+    name: 지타어
+    auto: true
   - translation_iso: por
     name: Língua jita
   - translation_iso: spa

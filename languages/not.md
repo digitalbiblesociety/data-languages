@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノマツィゲンガ語
+  - translation_iso: kor
+    name: 노마치겐가어
+    auto: true
   - translation_iso: por
     name: nomatsiguenga
+  - translation_iso: rus
+    name: Номацигенга
   - translation_iso: spa
     name: nomatsiguenga
   - translation_iso: zho

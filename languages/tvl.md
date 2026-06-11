@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuvaluan_language"
 translations:
   - translation_iso: ara
     name: اللغة التوفالوية
+  - translation_iso: ben
+    name: টুভালু
   - translation_iso: deu
     name: Tuvaluisch
   - translation_iso: fra
     name: tuvaluan
   - translation_iso: hin
     name: तुवालुयाई भाषा
+  - translation_iso: ind
+    name: Tuvalu
   - translation_iso: jpn
     name: ツバル語
   - translation_iso: kor
     name: 투발루어
   - translation_iso: por
     name: língua tuvaluana
+  - translation_iso: rus
+    name: тувалу
   - translation_iso: spa
     name: tuvaluano
   - translation_iso: zho

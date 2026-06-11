@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダホ・ドゥー語
     auto: true
+  - translation_iso: kor
+    name: 다호도어
+    auto: true
   - translation_iso: por
     name: Daho-Doo
     auto: true

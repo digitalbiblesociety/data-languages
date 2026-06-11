@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة باجيري
     auto: true
+  - translation_iso: ben
+    name: বাদজিরি
   - translation_iso: deu
     name: Badjiri
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バジリ語
+    auto: true
+  - translation_iso: kor
+    name: 바지리어
     auto: true
   - translation_iso: por
     name: Badjiri

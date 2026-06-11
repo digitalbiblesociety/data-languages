@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sogdian_language"
 translations:
   - translation_iso: ara
     name: اللغة الصغدية
+  - translation_iso: ben
+    name: সোগডিয়ান
   - translation_iso: deu
     name: Sogdisch
   - translation_iso: fra
     name: sogdien
   - translation_iso: hin
     name: सोग़दाई भाषा
+  - translation_iso: ind
+    name: Sogdien
   - translation_iso: jpn
     name: ソグド語
   - translation_iso: kor
     name: 소그드어
   - translation_iso: por
     name: Língua sogdiana
+  - translation_iso: rus
+    name: согдийский
   - translation_iso: spa
     name: Idioma sogdiano
   - translation_iso: zho

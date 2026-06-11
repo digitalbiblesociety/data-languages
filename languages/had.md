@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: हाताम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hattam
   - translation_iso: jpn
     name: ハタム語
+    auto: true
+  - translation_iso: kor
+    name: 하탐어
     auto: true
   - translation_iso: por
     name: Hatam
     auto: true
+  - translation_iso: rus
+    name: хаттам
   - translation_iso: spa
     name: Hatam
     auto: true

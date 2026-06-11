@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويوكاوا
     auto: true
+  - translation_iso: ben
+    name: আয়োকাওয়া
   - translation_iso: deu
     name: Auyokawa
     auto: true
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヨカワ語
+  - translation_iso: kor
+    name: 아우요카와어
+    auto: true
   - translation_iso: por
     name: Auyokawa
     auto: true
+  - translation_iso: rus
+    name: Айюкава
   - translation_iso: spa
     name: auyokawa
   - translation_iso: zho

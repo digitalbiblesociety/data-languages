@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: गोरानी
     auto: true
+  - translation_iso: ind
+    name: bahasa Gorani
   - translation_iso: jpn
     name: ゴラニ語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Gurani
     auto: true
+  - translation_iso: rus
+    name: горани
   - translation_iso: spa
     name: Gurani
     auto: true

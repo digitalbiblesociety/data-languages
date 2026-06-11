@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تيوا
     auto: true
+  - translation_iso: ben
+    name: টিবা ভাষা
   - translation_iso: deu
     name: Tiwa
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: टिवा भाषा
   - translation_iso: jpn
     name: ティワ語
+  - translation_iso: kor
+    name: 티와어
+    auto: true
   - translation_iso: por
     name: Tiwa
     auto: true

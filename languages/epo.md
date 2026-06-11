@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Esperanto"
 translations:
   - translation_iso: ara
     name: الإسبرانتية
+  - translation_iso: ben
+    name: এস্পেরান্তো
   - translation_iso: deu
     name: Esperanto
   - translation_iso: fra
     name: espéranto
   - translation_iso: hin
     name: एस्पेरान्तो
+  - translation_iso: ind
+    name: Esperanto
   - translation_iso: jpn
     name: エスペラント
   - translation_iso: kor
     name: 에스페란토
   - translation_iso: por
     name: esperanto
+  - translation_iso: rus
+    name: эсперанто
   - translation_iso: spa
     name: esperanto
   - translation_iso: zho

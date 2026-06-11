@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カアンサ語
     auto: true
+  - translation_iso: kor
+    name: 칸사어
+    auto: true
   - translation_iso: por
     name: Kaansa
     auto: true

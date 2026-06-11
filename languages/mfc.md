@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムバ語
     auto: true
+  - translation_iso: kor
+    name: 음바어
+    auto: true
   - translation_iso: por
     name: Mba
     auto: true
+  - translation_iso: rus
+    name: мба
   - translation_iso: spa
     name: Mba
     auto: true

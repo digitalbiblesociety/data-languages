@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kapampangan_language"
 translations:
   - translation_iso: ara
     name: لغة كابامبانجان
+  - translation_iso: ben
+    name: পাম্পাঙ্গা
   - translation_iso: deu
     name: Kapampangan
   - translation_iso: fra
     name: pampangue
   - translation_iso: hin
     name: पम्पाङ्गी
+  - translation_iso: ind
+    name: Pampanga
   - translation_iso: jpn
     name: パンパンガ語
   - translation_iso: kor
     name: 카팜팡안 어
   - translation_iso: por
     name: pampango
+  - translation_iso: rus
+    name: пампанга
   - translation_iso: spa
     name: pampango
   - translation_iso: zho

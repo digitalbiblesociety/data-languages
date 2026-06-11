@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بهام
     auto: true
+  - translation_iso: ben
+    name: বাহাম
   - translation_iso: deu
     name: Baham
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बहम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Baham
   - translation_iso: jpn
     name: バハム語
+    auto: true
+  - translation_iso: kor
+    name: 바함어
     auto: true
   - translation_iso: por
     name: Baham

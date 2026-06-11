@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة كوستاريكية
     auto: true
+  - translation_iso: ben
+    name: কোস্টা রিকাই ইশারা ভাষা
   - translation_iso: deu
     name: Costa-ricanische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コスタリカ手話
+  - translation_iso: kor
+    name: 코스타리카 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Costa Rica
   - translation_iso: spa

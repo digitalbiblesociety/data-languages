@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェタ語
+  - translation_iso: kor
+    name: 셰타어
+    auto: true
   - translation_iso: por
     name: Língua xetá
+  - translation_iso: rus
+    name: Шета
   - translation_iso: spa
     name: Xetá
   - translation_iso: zho

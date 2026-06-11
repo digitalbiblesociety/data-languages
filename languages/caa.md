@@ -34,6 +34,8 @@ translations:
     name: 초르티어
   - translation_iso: por
     name: Língua chorti
+  - translation_iso: rus
+    name: Чорти
   - translation_iso: spa
     name: Idioma chortí
   - translation_iso: zho

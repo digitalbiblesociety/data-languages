@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オナンク語
     auto: true
+  - translation_iso: kor
+    name: 북부 와투트어
+    auto: true
   - translation_iso: por
     name: Watut Setentrional
     auto: true

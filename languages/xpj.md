@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ムパリチャンハ語
     auto: true
+  - translation_iso: kor
+    name: 음팔리찬어
+    auto: true
   - translation_iso: por
     name: Mpalitjanh
     auto: true

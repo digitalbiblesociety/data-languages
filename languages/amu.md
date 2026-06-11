@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語
     auto: true
+  - translation_iso: kor
+    name: 게레로 아무스고어
+    auto: true
   - translation_iso: por
     name: Amuzgo de Guerrero
     auto: true
+  - translation_iso: rus
+    name: Геррерский амусго
   - translation_iso: spa
     name: Amuzgo de Guerrero
   - translation_iso: zho

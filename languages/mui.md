@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: मुसी
     auto: true
+  - translation_iso: ind
+    name: Musi
   - translation_iso: jpn
     name: ムシ語
+  - translation_iso: kor
+    name: 무시어
+    auto: true
   - translation_iso: por
     name: Musi
+  - translation_iso: rus
+    name: Муси
   - translation_iso: spa
     name: Musi
     auto: true

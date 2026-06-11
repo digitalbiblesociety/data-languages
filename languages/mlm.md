@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムーラオ語
+  - translation_iso: kor
+    name: 무라오어
+    auto: true
   - translation_iso: por
     name: Mulam
     auto: true

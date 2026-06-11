@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リゾンカ語
     auto: true
+  - translation_iso: kor
+    name: 리존카어
+    auto: true
   - translation_iso: por
     name: Lidzonka
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: アッパー・クスコクウィム語
     auto: true
+  - translation_iso: kor
+    name: 상부 쿠스코큄어
+    auto: true
   - translation_iso: por
     name: Língua kolchan
+  - translation_iso: rus
+    name: Верхнекускоквимский язык
   - translation_iso: spa
     name: "dinak'i"
   - translation_iso: zho

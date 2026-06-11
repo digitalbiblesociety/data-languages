@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: メスカン語
     auto: true
+  - translation_iso: kor
+    name: 메스칸어
+    auto: true
   - translation_iso: por
     name: Mesqan
     auto: true
+  - translation_iso: rus
+    name: Мескан
   - translation_iso: spa
     name: Mesqan
     auto: true

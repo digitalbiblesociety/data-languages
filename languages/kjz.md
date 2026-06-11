@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة بومثانجخا
     auto: true
+  - translation_iso: ben
+    name: বুমথাং ভাষা
   - translation_iso: deu
     name: Bumthangkha
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブムタン語
+  - translation_iso: kor
+    name: 붐탕카어
+    auto: true
   - translation_iso: por
     name: Língua bumthang
+  - translation_iso: rus
+    name: Бумтанг
   - translation_iso: spa
     name: Bumthangkha
     auto: true

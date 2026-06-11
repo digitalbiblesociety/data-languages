@@ -31,8 +31,13 @@ translations:
   - translation_iso: hin
     name: नेगेरी सेम्बिलान मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Negeri Sembilan
   - translation_iso: jpn
     name: ネゲリ・センビラン・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 느그리슴빌란 말레이어
     auto: true
   - translation_iso: por
     name: malaio de Negeri Sembilan

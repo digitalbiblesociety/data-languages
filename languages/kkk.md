@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ココタ語
     auto: true
+  - translation_iso: kor
+    name: 코코타어
+    auto: true
   - translation_iso: por
     name: Língua kokota
+  - translation_iso: rus
+    name: Кокота
   - translation_iso: spa
     name: Kokota
   - translation_iso: zho

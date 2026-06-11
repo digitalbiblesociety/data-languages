@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボ語
     auto: true
+  - translation_iso: kor
+    name: 보어
+    auto: true
   - translation_iso: por
     name: Bo (Papua-Nova Guiné)
     auto: true

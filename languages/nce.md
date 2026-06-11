@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤレ語
+  - translation_iso: kor
+    name: 얄레어
+    auto: true
   - translation_iso: por
     name: Yale
     auto: true
+  - translation_iso: rus
+    name: Яле
   - translation_iso: spa
     name: Idioma yalë
   - translation_iso: zho

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ユルティ語
     auto: true
+  - translation_iso: kor
+    name: 유루티어
+    auto: true
   - translation_iso: por
     name: Língua yuruti
+  - translation_iso: rus
+    name: Вахиара
   - translation_iso: spa
     name: Idioma yurutí
   - translation_iso: zho

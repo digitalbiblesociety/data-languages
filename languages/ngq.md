@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ングリミ語
     auto: true
+  - translation_iso: kor
+    name: 응구리미어
+    auto: true
   - translation_iso: por
     name: Ngurimi
     auto: true

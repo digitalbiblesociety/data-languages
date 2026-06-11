@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة سيفيا
     auto: true
+  - translation_iso: ben
+    name: সিভিয়া ইশারা ভাষা
   - translation_iso: deu
     name: Sivia-Gebärdensprache
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: शिविया सांकेतिक भाषा
   - translation_iso: jpn
     name: シビア手話
+    auto: true
+  - translation_iso: kor
+    name: 시비아 수어
     auto: true
   - translation_iso: por
     name: Língua de Sinais de Sivia

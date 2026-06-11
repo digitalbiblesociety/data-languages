@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Arikara_language"
 translations:
   - translation_iso: ara
     name: لغة أريكارا
+  - translation_iso: ben
+    name: আরিকারা
   - translation_iso: deu
     name: Arikara
     auto: true
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリカラ語
+  - translation_iso: kor
+    name: 아리카라어
+    auto: true
   - translation_iso: por
     name: Língua arikara
+  - translation_iso: rus
+    name: Арикара
   - translation_iso: spa
     name: Lengua arikara
   - translation_iso: zho

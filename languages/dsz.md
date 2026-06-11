@@ -28,9 +28,14 @@ translations:
     name: मार्डिन सांकेतिक भाषा
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: kor
+    name: 마르딘 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Mardin
     auto: true
+  - translation_iso: rus
+    name: мардинский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Mardin
     auto: true

@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: फ़्रिजियन
     auto: true
+  - translation_iso: ind
+    name: Frigia
   - translation_iso: jpn
     name: フリュギア語
   - translation_iso: kor
     name: 프리기아어
   - translation_iso: por
     name: Língua frígia
+  - translation_iso: rus
+    name: фригийский язык
   - translation_iso: spa
     name: frigio
   - translation_iso: zho

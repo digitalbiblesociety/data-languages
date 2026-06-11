@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أموردك
     auto: true
+  - translation_iso: ben
+    name: আমুরদাগ
   - translation_iso: deu
     name: Amurdak
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アムルダック語
     auto: true
+  - translation_iso: kor
+    name: 아무르다크어
+    auto: true
   - translation_iso: por
     name: Amurdak
     auto: true
+  - translation_iso: rus
+    name: амуртак
   - translation_iso: spa
     name: Amurdak
     auto: true

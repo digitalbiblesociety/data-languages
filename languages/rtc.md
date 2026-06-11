@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ルングトゥチン語
     auto: true
+  - translation_iso: kor
+    name: 룽투 친어
+    auto: true
   - translation_iso: por
     name: Chin Rungtu
     auto: true

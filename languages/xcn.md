@@ -27,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: コトナメ語
     auto: true
+  - translation_iso: kor
+    name: 코토나메어
+    auto: true
   - translation_iso: por
     name: Cotoname
     auto: true
+  - translation_iso: rus
+    name: Котонаме
   - translation_iso: spa
     name: Idioma cotoname
   - translation_iso: zho

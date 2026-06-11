@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カラプヤ語
     auto: true
+  - translation_iso: kor
+    name: 칼라푸야어
+    auto: true
   - translation_iso: por
     name: Kalapuya
     auto: true
+  - translation_iso: rus
+    name: Центральный калапуянский язык
   - translation_iso: spa
     name: Kalapuya
     auto: true

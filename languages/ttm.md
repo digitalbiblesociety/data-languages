@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Tutchone_language"
 translations:
   - translation_iso: ara
     name: التوتشون الشمالية
+  - translation_iso: ben
+    name: উত্তরাঞ্চলীয় টুচোন
   - translation_iso: deu
     name: Nord-Tutchone
   - translation_iso: fra
     name: tutchone du Nord
   - translation_iso: hin
     name: उत्तरी टुशोनी
+  - translation_iso: ind
+    name: Tutchone Utara
   - translation_iso: jpn
     name: 北部トゥショーニ語
   - translation_iso: kor
     name: 북부 투톤어
   - translation_iso: por
     name: tutchone setentrional
+  - translation_iso: rus
+    name: северный тутчоне
   - translation_iso: spa
     name: tutchone septentrional
   - translation_iso: zho

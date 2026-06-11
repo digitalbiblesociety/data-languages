@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ネレムワ・ニクスムワク語
     auto: true
+  - translation_iso: kor
+    name: 넬렘와·닉수므와크어
+    auto: true
   - translation_iso: por
     name: Nêlêmwa-Nixumwak
     auto: true
+  - translation_iso: rus
+    name: кумакский язык
   - translation_iso: spa
     name: Nêlêmwa-Nixumwak
     auto: true

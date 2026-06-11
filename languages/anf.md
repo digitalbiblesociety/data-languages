@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيميري
     auto: true
+  - translation_iso: ben
+    name: আনিমেরে
   - translation_iso: deu
     name: Animere
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニメレ語
+    auto: true
+  - translation_iso: kor
+    name: 아니메레어
     auto: true
   - translation_iso: por
     name: Animere

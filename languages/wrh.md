@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語
+  - translation_iso: kor
+    name: 위라주리어
+    auto: true
   - translation_iso: por
     name: Wiradjuri
     auto: true

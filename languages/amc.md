@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأمهواكا
     auto: true
+  - translation_iso: ben
+    name: আমাহুয়াকা
   - translation_iso: deu
     name: Amahuaca
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アマワカ語
     auto: true
+  - translation_iso: kor
+    name: 아마우아카어
+    auto: true
   - translation_iso: por
     name: Língua amahuaca
+  - translation_iso: rus
+    name: Амауака
   - translation_iso: spa
     name: idioma amahuaca
   - translation_iso: zho

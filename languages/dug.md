@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ドゥルマ語
     auto: true
+  - translation_iso: kor
+    name: 두루마어
+    auto: true
   - translation_iso: por
     name: Duruma
     auto: true
+  - translation_iso: rus
+    name: кидурума
   - translation_iso: spa
     name: Duruma
     auto: true

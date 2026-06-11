@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チャチャポヤスケチュア語
     auto: true
+  - translation_iso: kor
+    name: 차차포야스 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Chachapoyas
     auto: true
+  - translation_iso: rus
+    name: Чачапоясский кечуа
   - translation_iso: spa
     name: quechua chachapoyano
   - translation_iso: zho

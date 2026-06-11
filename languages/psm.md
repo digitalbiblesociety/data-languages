@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パウセルナ語
     auto: true
+  - translation_iso: kor
+    name: 파우세르나어
+    auto: true
   - translation_iso: por
     name: Língua warázu
+  - translation_iso: rus
+    name: Паусерна
   - translation_iso: spa
     name: idioma pauserna
   - translation_iso: zho

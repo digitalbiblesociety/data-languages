@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チカウアストラ・トリケ語
     auto: true
+  - translation_iso: kor
+    name: 치카우아스틀라 트리키어
+    auto: true
   - translation_iso: por
     name: Língua triqui de chicacahuaxtia
   - translation_iso: spa

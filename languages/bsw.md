@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايسو
     auto: true
+  - translation_iso: ben
+    name: বাইসো
   - translation_iso: deu
     name: Bayso
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バイソ語
     auto: true
+  - translation_iso: kor
+    name: 바이소어
+    auto: true
   - translation_iso: por
     name: Baiso
     auto: true
+  - translation_iso: rus
+    name: Байсо
   - translation_iso: spa
     name: Baiso
     auto: true

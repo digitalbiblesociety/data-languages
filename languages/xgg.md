@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ゴレン語
     auto: true
+  - translation_iso: kor
+    name: 고렝어
+    auto: true
   - translation_iso: por
     name: Goreng
     auto: true

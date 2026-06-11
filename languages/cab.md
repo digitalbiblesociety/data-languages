@@ -34,6 +34,8 @@ translations:
     name: 가리푸나어
   - translation_iso: por
     name: Língua garífuna
+  - translation_iso: rus
+    name: Гарифуна
   - translation_iso: spa
     name: Idioma garífuna
   - translation_iso: zho

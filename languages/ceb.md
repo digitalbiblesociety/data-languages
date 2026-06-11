@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cebuano_language"
 translations:
   - translation_iso: ara
     name: السيبوانية
+  - translation_iso: ben
+    name: চেবুয়ানো
   - translation_iso: deu
     name: Cebuano
   - translation_iso: fra
     name: cébouano
   - translation_iso: hin
     name: सेबुआनो
+  - translation_iso: ind
+    name: Cebuano
   - translation_iso: jpn
     name: セブアノ語
   - translation_iso: kor
     name: 세부아노어
   - translation_iso: por
     name: cebuano
+  - translation_iso: rus
+    name: себуано
   - translation_iso: spa
     name: cebuano
   - translation_iso: zho

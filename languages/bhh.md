@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: बुख़ारी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Persia Bukhara
   - translation_iso: jpn
     name: ブハラ語
   - translation_iso: kor
     name: 부하라어
   - translation_iso: por
     name: Língua bujara
+  - translation_iso: rus
+    name: еврейско-таджикский диалект
   - translation_iso: spa
     name: Idioma bújaro
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メトラトノック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 메틀라토녹 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Metlatónoc
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムン・チン語
     auto: true
+  - translation_iso: kor
+    name: 뮌 친어
+    auto: true
   - translation_iso: por
     name: chin mün
     auto: true

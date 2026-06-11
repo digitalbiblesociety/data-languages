@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マヤングナ語
     auto: true
+  - translation_iso: kor
+    name: 마양나어
+    auto: true
   - translation_iso: por
     name: mayangna
     auto: true

@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: ती
     auto: true
+  - translation_iso: ind
+    name: Tii
   - translation_iso: jpn
     name: 西ロテ語
+    auto: true
+  - translation_iso: kor
+    name: 티이어
     auto: true
   - translation_iso: por
     name: Tii
     auto: true
+  - translation_iso: rus
+    name: Тии
   - translation_iso: spa
     name: Tii
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファガニ語
     auto: true
+  - translation_iso: kor
+    name: 파가니어
+    auto: true
   - translation_iso: por
     name: Fagani
     auto: true

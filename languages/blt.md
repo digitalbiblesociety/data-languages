@@ -37,6 +37,8 @@ translations:
   - translation_iso: por
     name: Tai dam
     auto: true
+  - translation_iso: rus
+    name: Тай-дам
   - translation_iso: spa
     name: Tai Dam
     auto: true

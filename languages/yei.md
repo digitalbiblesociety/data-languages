@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェニ語
+  - translation_iso: kor
+    name: 예니어
+    auto: true
   - translation_iso: por
     name: yeni
     auto: true

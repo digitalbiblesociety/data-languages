@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مارا تشين
     auto: true
+  - translation_iso: ben
+    name: মারা ভাষা
   - translation_iso: deu
     name: Mara-Chin
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: मारा भाषा
   - translation_iso: jpn
     name: マラ語
+  - translation_iso: kor
+    name: 마라 친어
+    auto: true
   - translation_iso: por
     name: chin mara
     auto: true
+  - translation_iso: rus
+    name: Мара
   - translation_iso: spa
     name: Mara Chin
     auto: true

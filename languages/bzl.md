@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बोआनो (सुलावेसी)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Boano (Sulawesi)
   - translation_iso: jpn
     name: ボアノ語
+    auto: true
+  - translation_iso: kor
+    name: 보아노어
     auto: true
   - translation_iso: por
     name: Boano (Sulawesi)

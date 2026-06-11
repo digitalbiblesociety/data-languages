@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タトゥヨ語
     auto: true
+  - translation_iso: kor
+    name: 타투요어
+    auto: true
   - translation_iso: por
     name: Tatuyo
     auto: true
+  - translation_iso: rus
+    name: Татуйо
   - translation_iso: spa
     name: Tatuyo
   - translation_iso: zho

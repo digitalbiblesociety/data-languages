@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lunda_language"
 translations:
   - translation_iso: ara
     name: اللوندا
+  - translation_iso: ben
+    name: লুন্ডা
   - translation_iso: deu
     name: Chilunda
   - translation_iso: fra
     name: lunda
   - translation_iso: hin
     name: लुन्डा
+  - translation_iso: ind
+    name: Lunda
   - translation_iso: jpn
     name: ルンダ語
   - translation_iso: kor
     name: 룬다어
   - translation_iso: por
     name: Lunda
+  - translation_iso: rus
+    name: лунда
   - translation_iso: spa
     name: Idioma lunda
   - translation_iso: zho

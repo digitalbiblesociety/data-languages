@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東スウラ・ベ語
     auto: true
+  - translation_iso: kor
+    name: 동부 흘라 그베어
+    auto: true
   - translation_iso: por
     name: gbe xwla oriental
     auto: true

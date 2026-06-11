@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴロア語
+  - translation_iso: kor
+    name: 고로와어
+    auto: true
   - translation_iso: por
     name: Gorowa
     auto: true

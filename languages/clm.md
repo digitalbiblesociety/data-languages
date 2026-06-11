@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Clallam
     auto: true
+  - translation_iso: rus
+    name: Клаллам
   - translation_iso: spa
     name: Idioma klallam
   - translation_iso: zho

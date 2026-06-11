@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニャンガ語
     auto: true
+  - translation_iso: kor
+    name: 냥가어
+    auto: true
   - translation_iso: por
     name: Nyangga
     auto: true

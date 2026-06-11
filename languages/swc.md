@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンゴ・スワヒリ語
+  - translation_iso: kor
+    name: 콩고 스와힐리어
+    auto: true
   - translation_iso: por
     name: Suaíli congolês
   - translation_iso: spa

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Armenian_language"
 translations:
   - translation_iso: ara
     name: الأرمنية
+  - translation_iso: ben
+    name: আর্মেনিয়
   - translation_iso: deu
     name: Armenisch
   - translation_iso: fra
     name: arménien
   - translation_iso: hin
     name: आर्मीनियाई भाषा
+  - translation_iso: ind
+    name: Armenia
   - translation_iso: jpn
     name: アルメニア語
   - translation_iso: kor
     name: 아르메니아어
   - translation_iso: por
     name: língua arménia
+  - translation_iso: rus
+    name: армянский
   - translation_iso: spa
     name: armenio
   - translation_iso: zho

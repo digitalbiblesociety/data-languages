@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بالوان بام
     auto: true
+  - translation_iso: ben
+    name: বালুয়ান-পাম
   - translation_iso: deu
     name: Baluan-Pam
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルアン・パム語
+    auto: true
+  - translation_iso: kor
+    name: 발루안·팜어
     auto: true
   - translation_iso: por
     name: Baluan-Pam

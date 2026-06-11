@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: إيدو-ميشمي
     auto: true
+  - translation_iso: ben
+    name: ইদু মিশমি ভাষা
   - translation_iso: deu
     name: Idu-Mishmi
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: इदु मिश्मी भाषा
   - translation_iso: jpn
     name: 義都語
+  - translation_iso: kor
+    name: 이두 미슈미어
+    auto: true
   - translation_iso: por
     name: Língua idu mishmi
+  - translation_iso: rus
+    name: иду-мишми
   - translation_iso: spa
     name: Idu-Mishmi
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tiv_language"
 translations:
   - translation_iso: ara
     name: التيف
+  - translation_iso: ben
+    name: টিভ
   - translation_iso: deu
     name: Tiv
   - translation_iso: fra
     name: tiv
   - translation_iso: hin
     name: तिव
+  - translation_iso: ind
+    name: Tiv
   - translation_iso: jpn
     name: ティヴ語
   - translation_iso: kor
     name: 티브어
   - translation_iso: por
     name: Língua tiv
+  - translation_iso: rus
+    name: тиви
   - translation_iso: spa
     name: idioma tiv
   - translation_iso: zho

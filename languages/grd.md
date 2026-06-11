@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: グルントゥム・ムバール語
     auto: true
+  - translation_iso: kor
+    name: 구룬툼·음바루어
+    auto: true
   - translation_iso: por
     name: Guruntum-Mbaaru
     auto: true
+  - translation_iso: rus
+    name: Гурунтум
   - translation_iso: spa
     name: Guruntum-Mbaaru
     auto: true

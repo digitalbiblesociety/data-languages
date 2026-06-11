@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Colognian_dialect"
 translations:
   - translation_iso: ara
     name: لغة الكولونيان
+  - translation_iso: ben
+    name: কলোগনিয়ান
   - translation_iso: deu
     name: Kölsch
   - translation_iso: fra
     name: kölsch
   - translation_iso: hin
     name: कोलोनियाई
+  - translation_iso: ind
+    name: Dialek Kolsch
   - translation_iso: jpn
     name: ケルン語
   - translation_iso: kor
     name: 쾰른어
   - translation_iso: por
     name: kölsch
+  - translation_iso: rus
+    name: кёльнский
   - translation_iso: spa
     name: dialecto colonés
   - translation_iso: zho

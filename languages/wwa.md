@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ワマ語
     auto: true
+  - translation_iso: kor
+    name: 와마어
+    auto: true
   - translation_iso: por
     name: Língua waama
+  - translation_iso: rus
+    name: Ваама
   - translation_iso: spa
     name: Waama
     auto: true

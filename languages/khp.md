@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: कापोरी
     auto: true
+  - translation_iso: ind
+    name: Kapauri
   - translation_iso: jpn
     name: カポリ語
+    auto: true
+  - translation_iso: kor
+    name: 카포리어
     auto: true
   - translation_iso: por
     name: Kapori

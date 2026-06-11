@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lule_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: لغة لوله سامي
+  - translation_iso: ben
+    name: লুলে সামি
   - translation_iso: deu
     name: Lulesamisch
   - translation_iso: fra
     name: same de Lule
   - translation_iso: hin
     name: ल्युल सामी
+  - translation_iso: ind
+    name: Lule Sami
   - translation_iso: jpn
     name: ルレ・サーミ語
   - translation_iso: kor
     name: 룰레 사미어
   - translation_iso: por
     name: língua sami de Lule
+  - translation_iso: rus
+    name: луле-саамский
   - translation_iso: spa
     name: sami de Lule
   - translation_iso: zho

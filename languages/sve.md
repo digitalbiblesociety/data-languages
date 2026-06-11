@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: सेरिली
     auto: true
+  - translation_iso: ind
+    name: Serili
   - translation_iso: jpn
     name: セリリ語
+    auto: true
+  - translation_iso: kor
+    name: 세릴리어
     auto: true
   - translation_iso: por
     name: Serili

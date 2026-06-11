@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: マロ語
     auto: true
+  - translation_iso: kor
+    name: 말로어
+    auto: true
   - translation_iso: por
     name: Língua tamambo
+  - translation_iso: rus
+    name: Тамамбо
   - translation_iso: spa
     name: Malo
     auto: true

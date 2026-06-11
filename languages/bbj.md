@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: घोमाला
     auto: true
+  - translation_iso: ind
+    name: Ghomala
   - translation_iso: jpn
     name: ゴーマラ語
   - translation_iso: kor
     name: 고말라어
   - translation_iso: por
     name: ghomala’
+  - translation_iso: rus
+    name: гомала
   - translation_iso: spa
     name: ghomala
   - translation_iso: zho

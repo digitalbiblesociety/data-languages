@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Kala Lagaw Ya
     auto: true
+  - translation_iso: rus
+    name: Кала-лагав-я
   - translation_iso: spa
     name: Kalaw Lagaw Ya
   - translation_iso: zho

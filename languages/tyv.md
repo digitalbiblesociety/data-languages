@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuvan_language"
 translations:
   - translation_iso: ara
     name: اللغة التوفانية
+  - translation_iso: ben
+    name: টুভিনিয়ান
   - translation_iso: deu
     name: Tuwinisch
   - translation_iso: fra
     name: touvain
   - translation_iso: hin
     name: तूवी भाषा
+  - translation_iso: ind
+    name: Tuvinia
   - translation_iso: jpn
     name: トゥヴァ語
   - translation_iso: kor
     name: 투바어
   - translation_iso: por
     name: Língua tuviniana
+  - translation_iso: rus
+    name: тувинский
   - translation_iso: spa
     name: idioma tuvano
   - translation_iso: zho

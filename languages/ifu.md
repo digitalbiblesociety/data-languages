@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マヨヤオ・イフガオ語
     auto: true
+  - translation_iso: kor
+    name: 마요야오 이푸가오어
+    auto: true
   - translation_iso: por
     name: Ifugao Mayoyao
     auto: true

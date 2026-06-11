@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北ヌニ語
     auto: true
+  - translation_iso: kor
+    name: 북부 누니어
+    auto: true
   - translation_iso: por
     name: Nuni Setentrional
     auto: true

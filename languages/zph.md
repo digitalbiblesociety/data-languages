@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トトマチャパン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 토토마차판 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Totomachapan
     auto: true
+  - translation_iso: rus
+    name: Тотомачапанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Totomachapan
     auto: true

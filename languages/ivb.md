@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イバタン語
+  - translation_iso: kor
+    name: 이바탄어
+    auto: true
   - translation_iso: por
     name: Ibatan
     auto: true

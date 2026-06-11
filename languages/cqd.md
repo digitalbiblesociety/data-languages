@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 川黔滇苗語
+  - translation_iso: kor
+    name: 촨첸뎬 먀오어
+    auto: true
   - translation_iso: por
     name: Miao do conjunto Chuanqiandian
     auto: true

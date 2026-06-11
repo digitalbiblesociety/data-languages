@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألنجيت
     auto: true
+  - translation_iso: ben
+    name: আলনগিথ
   - translation_iso: deu
     name: Alngith
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アルンギス語
     auto: true
+  - translation_iso: kor
+    name: 알응이트어
+    auto: true
   - translation_iso: por
     name: Alngith
     auto: true
+  - translation_iso: rus
+    name: алнгит
   - translation_iso: spa
     name: Alngith
     auto: true

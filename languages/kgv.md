@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: कारास
     auto: true
+  - translation_iso: ind
+    name: Karas
   - translation_iso: jpn
     name: カラス語
+    auto: true
+  - translation_iso: kor
+    name: 카라스어
     auto: true
   - translation_iso: por
     name: Karas
     auto: true
+  - translation_iso: rus
+    name: каламанг
   - translation_iso: spa
     name: Idioma karas
   - translation_iso: zho

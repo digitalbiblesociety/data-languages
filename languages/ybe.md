@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: يوجور الغربية
     auto: true
+  - translation_iso: ben
+    name: পশ্চিম ইউগুর ভাষা
   - translation_iso: deu
     name: West-Yugurisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 서부 유구르어
   - translation_iso: por
     name: Língua uigur ocidental
+  - translation_iso: rus
+    name: Сарыг-югурский язык
   - translation_iso: spa
     name: Yugur occidental
     auto: true

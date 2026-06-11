@@ -20,18 +20,24 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الصينية
     auto: true
+  - translation_iso: ben
+    name: চীনা ইশারা ভাষা
   - translation_iso: deu
     name: Chinesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes chinoise
   - translation_iso: hin
     name: चीनी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Tiongkok
   - translation_iso: jpn
     name: 中国手話
   - translation_iso: kor
     name: 중국 수어
   - translation_iso: por
     name: língua de sinais chinesa
+  - translation_iso: rus
+    name: китайский жестовый язык
   - translation_iso: spa
     name: Lengua de Señas China
     auto: true

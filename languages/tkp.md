@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティコピア語
+  - translation_iso: kor
+    name: 티코피아어
+    auto: true
   - translation_iso: por
     name: Língua tikopia
+  - translation_iso: rus
+    name: Тикопиа
   - translation_iso: spa
     name: Tikopia
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: サテレ・マウェ語
     auto: true
+  - translation_iso: kor
+    name: 사테레마웨어
+    auto: true
   - translation_iso: por
     name: Língua sateré-mawé
+  - translation_iso: rus
+    name: Сатере-маве
   - translation_iso: spa
     name: Idioma mawé
   - translation_iso: zho

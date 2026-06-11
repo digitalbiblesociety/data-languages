@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة ألور
     auto: true
+  - translation_iso: ben
+    name: আলোরেস
   - translation_iso: deu
     name: Alor
   - translation_iso: fra
@@ -27,10 +29,17 @@ translations:
   - translation_iso: hin
     name: एलोर
     auto: true
+  - translation_iso: ind
+    name: Alor
   - translation_iso: jpn
     name: アロール語
+  - translation_iso: kor
+    name: 알로르어
+    auto: true
   - translation_iso: por
     name: Alor
+  - translation_iso: rus
+    name: Алорский язык
   - translation_iso: spa
     name: Alor
   - translation_iso: zho

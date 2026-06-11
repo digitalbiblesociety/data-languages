@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तांग्को
     auto: true
+  - translation_iso: ind
+    name: Tangko
   - translation_iso: jpn
     name: タングコ語
+    auto: true
+  - translation_iso: kor
+    name: 탕코어
     auto: true
   - translation_iso: por
     name: Tangko

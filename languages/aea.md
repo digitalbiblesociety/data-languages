@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أريبا
     auto: true
+  - translation_iso: ben
+    name: আরেবা
   - translation_iso: deu
     name: Areba
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アレバ語
+    auto: true
+  - translation_iso: kor
+    name: 아레바어
     auto: true
   - translation_iso: por
     name: Areba

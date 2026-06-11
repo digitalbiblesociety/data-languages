@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कैदिपांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kaidipang
   - translation_iso: jpn
     name: カイディパン語
+  - translation_iso: kor
+    name: 카이디팡어
+    auto: true
   - translation_iso: por
     name: Kaidipang
     auto: true

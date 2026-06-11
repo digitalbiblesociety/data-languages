@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンデムリ語
     auto: true
+  - translation_iso: kor
+    name: 은뎀리어
+    auto: true
   - translation_iso: por
     name: Ndemli
     auto: true

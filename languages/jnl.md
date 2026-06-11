@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラワット語
     auto: true
+  - translation_iso: kor
+    name: 라와트어
+    auto: true
   - translation_iso: por
     name: Rawat
     auto: true

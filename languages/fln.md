@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フリンダース島語
     auto: true
+  - translation_iso: kor
+    name: 플린더스섬어
+    auto: true
   - translation_iso: por
     name: Flinders Island
     auto: true

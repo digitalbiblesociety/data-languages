@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Avestan"
 translations:
   - translation_iso: ara
     name: الأوستية
+  - translation_iso: ben
+    name: আবেস্তীয়
   - translation_iso: deu
     name: Avestisch
   - translation_iso: fra
     name: avestique
   - translation_iso: hin
     name: अवस्ताई भाषा
+  - translation_iso: ind
+    name: Avesta
   - translation_iso: jpn
     name: アヴェスター語
   - translation_iso: kor
     name: 아베스타어
   - translation_iso: por
     name: Língua avéstica
+  - translation_iso: rus
+    name: авестийский
   - translation_iso: spa
     name: avéstico
   - translation_iso: zho

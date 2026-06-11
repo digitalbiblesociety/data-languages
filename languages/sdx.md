@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・メラナウ語
     auto: true
+  - translation_iso: kor
+    name: 시부 멜라나우어
+    auto: true
   - translation_iso: por
     name: Melanau Sibu
     auto: true

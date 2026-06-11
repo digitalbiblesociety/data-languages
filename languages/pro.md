@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Occitan"
 translations:
   - translation_iso: ara
     name: القسطانية القديمة
+  - translation_iso: ben
+    name: প্রাচীন প্রোভেনসাল
   - translation_iso: deu
     name: Altokzitanisch
   - translation_iso: fra
     name: ancien occitan
   - translation_iso: hin
     name: पुरानी प्रोवेन्सल
+  - translation_iso: ind
+    name: Provencal Lama
   - translation_iso: jpn
     name: 古プロヴァンス語
   - translation_iso: kor
     name: 고대 프로방스어
   - translation_iso: por
     name: provençal arcaico
+  - translation_iso: rus
+    name: старопровансальский
   - translation_iso: spa
     name: occitano antiguo
   - translation_iso: zho

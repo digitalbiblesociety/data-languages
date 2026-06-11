@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンブロン語
+  - translation_iso: kor
+    name: 롬블로마논어
+    auto: true
   - translation_iso: por
     name: Língua romblomanon
+  - translation_iso: rus
+    name: ромбломанон
   - translation_iso: spa
     name: romblomanon
   - translation_iso: zho

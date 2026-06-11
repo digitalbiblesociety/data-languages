@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मुलाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mulao
   - translation_iso: jpn
     name: ムラオ語
+    auto: true
+  - translation_iso: kor
+    name: 무라오어
     auto: true
   - translation_iso: por
     name: Mulao

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: हाइलैंड कोन्जो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Konjo Pegunungan
   - translation_iso: jpn
     name: ハイランド・コンジョ語
+    auto: true
+  - translation_iso: kor
+    name: 고지 콘조어
     auto: true
   - translation_iso: por
     name: Konjo das Terras Altas

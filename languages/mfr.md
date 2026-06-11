@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルリ・ジャビン語
+  - translation_iso: kor
+    name: 마리티옐어
+    auto: true
   - translation_iso: por
     name: Marrithiyel
     auto: true
+  - translation_iso: rus
+    name: Маритийел
   - translation_iso: spa
     name: Marrithiyel
     auto: true

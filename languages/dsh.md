@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダサネッチ語
+  - translation_iso: kor
+    name: 다사나치어
+    auto: true
   - translation_iso: por
     name: Daasanach
     auto: true
+  - translation_iso: rus
+    name: Дасанеч (язык)
   - translation_iso: spa
     name: Daasanach
     auto: true

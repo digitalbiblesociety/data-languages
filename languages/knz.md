@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カラムセ語
     auto: true
+  - translation_iso: kor
+    name: 칼람세어
+    auto: true
   - translation_iso: por
     name: Kalamsé
     auto: true

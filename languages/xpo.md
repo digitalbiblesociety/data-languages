@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: पोचुटेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pochutec
   - translation_iso: jpn
     name: ポチュテク語
     auto: true
+  - translation_iso: kor
+    name: 포추텍어
+    auto: true
   - translation_iso: por
     name: Língua pochuteca
+  - translation_iso: rus
+    name: почутецкий язык
   - translation_iso: spa
     name: idioma pochuteco
   - translation_iso: zho

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ドゥフワ語
     auto: true
+  - translation_iso: kor
+    name: 두와어
+    auto: true
   - translation_iso: por
     name: Duhwa
     auto: true
+  - translation_iso: rus
+    name: Карфа
   - translation_iso: spa
     name: Duhwa
     auto: true

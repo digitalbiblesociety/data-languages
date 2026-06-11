@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カワイブ語
+  - translation_iso: kor
+    name: 투쿠만페드어
+    auto: true
   - translation_iso: por
     name: Língua cauaíbe
+  - translation_iso: rus
+    name: Кавахиб
   - translation_iso: spa
     name: Tukumanféd
     auto: true

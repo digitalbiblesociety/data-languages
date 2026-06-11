@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बोबोत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bobot
   - translation_iso: jpn
     name: ボボト語
+    auto: true
+  - translation_iso: kor
+    name: 보보트어
     auto: true
   - translation_iso: por
     name: Bobot

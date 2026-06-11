@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギムニメ語
     auto: true
+  - translation_iso: kor
+    name: 김니메어
+    auto: true
   - translation_iso: por
     name: Gimnime
     auto: true

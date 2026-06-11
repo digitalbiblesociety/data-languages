@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: उत्तरी अमामी-ओशिमा
     auto: true
+  - translation_iso: ind
+    name: Amami Ōshima Utara
   - translation_iso: jpn
     name: 北奄美大島方言
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Amami-Oshima Setentrional
     auto: true
+  - translation_iso: rus
+    name: северный амамийский осимский язык
   - translation_iso: spa
     name: Amami-Oshima septentrional
     auto: true

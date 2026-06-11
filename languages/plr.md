@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラカ語
+  - translation_iso: kor
+    name: 팔라카 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Palaka
     auto: true
+  - translation_iso: rus
+    name: Кпалага
   - translation_iso: spa
     name: Senoufo palaka
     auto: true

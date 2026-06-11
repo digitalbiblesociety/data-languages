@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オトロ語
     auto: true
+  - translation_iso: kor
+    name: 오토로어
+    auto: true
   - translation_iso: por
     name: Otoro
     auto: true

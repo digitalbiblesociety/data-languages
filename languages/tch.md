@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タークス・カイコス・クレオール英語
     auto: true
+  - translation_iso: kor
+    name: 터크스 케이커스 크리올 영어
+    auto: true
   - translation_iso: por
     name: Inglês Crioulo de Turks e Caicos
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブナ語
     auto: true
+  - translation_iso: kor
+    name: 부나어
+    auto: true
   - translation_iso: por
     name: Buna
     auto: true

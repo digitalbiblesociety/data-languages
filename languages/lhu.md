@@ -34,6 +34,8 @@ translations:
     name: 라후어
   - translation_iso: por
     name: Língua lahu
+  - translation_iso: rus
+    name: лаху
   - translation_iso: spa
     name: Lahu
     auto: true

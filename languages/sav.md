@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: サアフィサアフィ語
     auto: true
+  - translation_iso: kor
+    name: 사피사피어
+    auto: true
   - translation_iso: por
     name: Língua safene
+  - translation_iso: rus
+    name: Сафен
   - translation_iso: spa
     name: Saafi-Saafi
     auto: true

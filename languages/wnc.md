@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワントアト語
     auto: true
+  - translation_iso: kor
+    name: 완토아트어
+    auto: true
   - translation_iso: por
     name: Língua wantoat
   - translation_iso: spa

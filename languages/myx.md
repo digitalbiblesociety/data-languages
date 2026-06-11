@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサバ語
+  - translation_iso: kor
+    name: 마사바어
+    auto: true
   - translation_iso: por
     name: Língua masaba
   - translation_iso: spa

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सेलुवासान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Seluwasan
   - translation_iso: jpn
     name: セルワサン語
+    auto: true
+  - translation_iso: kor
+    name: 셀루와산어
     auto: true
   - translation_iso: por
     name: Seluarsa

@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: वहौ कायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan Wahau
   - translation_iso: jpn
     name: ワハウ・カヤン語
+    auto: true
+  - translation_iso: kor
+    name: 와하우 카얀어
     auto: true
   - translation_iso: por
     name: Kayan Wahau

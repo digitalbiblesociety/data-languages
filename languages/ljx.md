@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ユル語
     auto: true
+  - translation_iso: kor
+    name: 유루어
+    auto: true
   - translation_iso: por
     name: Yuru
     auto: true

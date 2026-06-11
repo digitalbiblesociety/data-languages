@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フレフォ・ファウ語
     auto: true
+  - translation_iso: kor
+    name: 흘레포 포와어
+    auto: true
   - translation_iso: por
     name: hlepho phowa
     auto: true

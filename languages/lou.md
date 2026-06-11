@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Louisiana_Creole"
 translations:
   - translation_iso: ara
     name: كريول لويزيانا
+  - translation_iso: ben
+    name: লুইসিয়ানা ক্রেওল
   - translation_iso: deu
     name: Louisiana-Kreolisch
   - translation_iso: fra
     name: créole louisianais
   - translation_iso: hin
     name: लुईज़ियाना क्रियोल
+  - translation_iso: ind
+    name: Kreol Louisiana
   - translation_iso: jpn
     name: ルイジアナ・クレオール語
   - translation_iso: kor
     name: 루이지애나 크리올
   - translation_iso: por
     name: crioulo da Louisiana
+  - translation_iso: rus
+    name: луизианский креольский
   - translation_iso: spa
     name: criollo luisiano
   - translation_iso: zho

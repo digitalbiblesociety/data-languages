@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プラブ語
     auto: true
+  - translation_iso: kor
+    name: 풀라부어
+    auto: true
   - translation_iso: por
     name: Pulabu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ゴブ語
     auto: true
+  - translation_iso: kor
+    name: 고부어
+    auto: true
   - translation_iso: por
     name: Gobu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キャン・カリャウ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 캰카랴우 나가어
+    auto: true
   - translation_iso: por
     name: Naga Kyan-Karyaw
     auto: true

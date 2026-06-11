@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンドンデ・ハンバ語
     auto: true
+  - translation_iso: kor
+    name: 은돈데 함바어
+    auto: true
   - translation_iso: por
     name: Ndonde Hamba
     auto: true

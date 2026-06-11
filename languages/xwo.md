@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: 書き言葉オイラート語
     auto: true
+  - translation_iso: kor
+    name: 오이라트 문어
+    auto: true
   - translation_iso: por
     name: oirate escrito
     auto: true

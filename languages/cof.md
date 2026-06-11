@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: コロラド語
     auto: true
+  - translation_iso: kor
+    name: 콜로라도어
+    auto: true
   - translation_iso: por
     name: Língua tsafiki
+  - translation_iso: rus
+    name: Цафики
   - translation_iso: spa
     name: idioma tsafiki
   - translation_iso: zho

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: गालेला
     auto: true
+  - translation_iso: ind
+    name: Galela
   - translation_iso: jpn
     name: ガレラ語
+  - translation_iso: kor
+    name: 갈렐라어
+    auto: true
   - translation_iso: por
     name: Galela
+  - translation_iso: rus
+    name: Галела
   - translation_iso: spa
     name: Galela
   - translation_iso: zho

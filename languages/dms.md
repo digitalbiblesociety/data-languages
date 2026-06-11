@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दम्पेलास
     auto: true
+  - translation_iso: ind
+    name: Dampelas
   - translation_iso: jpn
     name: ダンペラス語
+    auto: true
+  - translation_iso: kor
+    name: 담펠라스어
     auto: true
   - translation_iso: por
     name: Dampelas

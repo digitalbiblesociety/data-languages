@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャル語
+  - translation_iso: kor
+    name: 자루어
+    auto: true
   - translation_iso: por
     name: Jaru
     auto: true
+  - translation_iso: rus
+    name: Тяру
   - translation_iso: spa
     name: Jaru
     auto: true

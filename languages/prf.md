@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラナン
+  - translation_iso: kor
+    name: 파라난어
+    auto: true
   - translation_iso: por
     name: Paranan
     auto: true
+  - translation_iso: rus
+    name: парананский язык
   - translation_iso: spa
     name: Paranan
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムラタヤク語
     auto: true
+  - translation_iso: kor
+    name: 무라타야크어
+    auto: true
   - translation_iso: por
     name: Muratayak
     auto: true

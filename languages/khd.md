@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة بيدي كانوم
     auto: true
+  - translation_iso: ben
+    name: বাদি কানুম
   - translation_iso: deu
     name: Bädi Kanum
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バディ・カヌム語
+    auto: true
+  - translation_iso: kor
+    name: 배디 카눔어
     auto: true
   - translation_iso: por
     name: Kanum Bädi

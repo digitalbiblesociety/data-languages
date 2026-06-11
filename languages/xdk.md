@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: धारुक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dharug
   - translation_iso: jpn
     name: ダルク語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Dharuk
     auto: true
+  - translation_iso: rus
+    name: даругский язык
   - translation_iso: spa
     name: Dharug
   - translation_iso: zho

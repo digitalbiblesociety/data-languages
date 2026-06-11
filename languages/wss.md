@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワサ語
+  - translation_iso: kor
+    name: 와사어
+    auto: true
   - translation_iso: por
     name: Wasa
     auto: true

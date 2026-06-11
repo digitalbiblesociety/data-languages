@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワルジ語
     auto: true
+  - translation_iso: kor
+    name: 와르지어
+    auto: true
   - translation_iso: por
     name: Warji
     auto: true
+  - translation_iso: rus
+    name: Варджи
   - translation_iso: spa
     name: Warji
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: パロール語
     auto: true
+  - translation_iso: kor
+    name: 팔로르어
+    auto: true
   - translation_iso: por
     name: Língua palor
+  - translation_iso: rus
+    name: палорский язык
   - translation_iso: spa
     name: Paloor
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इलियानेन मानोबो
     auto: true
+  - translation_iso: ind
+    name: Ilianen
   - translation_iso: jpn
     name: イリアネン語
+  - translation_iso: kor
+    name: 일리아넨 마노보어
+    auto: true
   - translation_iso: por
     name: Manobo ilianen
     auto: true

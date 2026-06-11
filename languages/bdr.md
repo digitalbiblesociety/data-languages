@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: पश्चिमी तट बजाऊ
     auto: true
+  - translation_iso: ind
+    name: Bajau Pantai Barat
   - translation_iso: jpn
     name: サマ・バジャウ諸語
+  - translation_iso: kor
+    name: 서해안 바자우어
+    auto: true
   - translation_iso: por
     name: Bajau da Costa Oeste
     auto: true
+  - translation_iso: rus
+    name: баджо западного побережья
   - translation_iso: spa
     name: Bajau de la Costa Occidental
     auto: true

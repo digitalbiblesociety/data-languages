@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: イクスタユトラ・ミシテク語
     auto: true
+  - translation_iso: kor
+    name: 이스타유틀라 미스테카어
+    auto: true
   - translation_iso: por
     name: Mixteco de Ixtayutla
     auto: true
+  - translation_iso: rus
+    name: Истаютланский миштекский язык
   - translation_iso: spa
     name: Mixteco de Ixtayutla
     auto: true

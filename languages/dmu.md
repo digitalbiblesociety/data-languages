@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: दुबू
     auto: true
+  - translation_iso: ind
+    name: Tebi
   - translation_iso: jpn
     name: ドゥブ語
+    auto: true
+  - translation_iso: kor
+    name: 두부어
     auto: true
   - translation_iso: por
     name: Dubu

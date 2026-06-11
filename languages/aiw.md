@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aari_language"
 translations:
   - translation_iso: ara
     name: لغة آري
+  - translation_iso: ben
+    name: আরি
   - translation_iso: deu
     name: Aari
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 아리어
   - translation_iso: por
     name: Língua aari
+  - translation_iso: rus
+    name: аари
   - translation_iso: spa
     name: arí
   - translation_iso: zho

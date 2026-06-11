@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hupa_language"
 translations:
   - translation_iso: ara
     name: الهبا
+  - translation_iso: ben
+    name: হুপা
   - translation_iso: deu
     name: Hupa
   - translation_iso: fra
     name: hupa
   - translation_iso: hin
     name: हूपा
+  - translation_iso: ind
+    name: Hupa
   - translation_iso: jpn
     name: フーパ語
   - translation_iso: kor
     name: 후파어
   - translation_iso: por
     name: Língua hupa
+  - translation_iso: rus
+    name: хупа
   - translation_iso: spa
     name: Hupa
   - translation_iso: zho

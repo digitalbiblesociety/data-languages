@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カプワ語
     auto: true
+  - translation_iso: kor
+    name: 카브와어
+    auto: true
   - translation_iso: por
     name: Kabwa
     auto: true

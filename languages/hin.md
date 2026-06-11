@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hindi"
 translations:
   - translation_iso: ara
     name: الهندية
+  - translation_iso: ben
+    name: হিন্দি
   - translation_iso: deu
     name: Hindi
   - translation_iso: fra
     name: hindi
   - translation_iso: hin
     name: हिन्दी
+  - translation_iso: ind
+    name: Hindi
   - translation_iso: jpn
     name: ヒンディー語
   - translation_iso: kor
     name: 힌디어
   - translation_iso: por
     name: língua hindi
+  - translation_iso: rus
+    name: хинди
   - translation_iso: spa
     name: hindi
   - translation_iso: zho

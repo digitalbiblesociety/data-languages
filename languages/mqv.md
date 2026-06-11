@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モシモ語
     auto: true
+  - translation_iso: kor
+    name: 모시모어
+    auto: true
   - translation_iso: por
     name: Mosimo
     auto: true

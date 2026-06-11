@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: मामासा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mamasa
   - translation_iso: jpn
     name: ママサ語
+    auto: true
+  - translation_iso: kor
+    name: 마마사어
     auto: true
   - translation_iso: por
     name: Mamasa
     auto: true
+  - translation_iso: rus
+    name: Мамаса
   - translation_iso: spa
     name: Mamasa
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: دولجان
     auto: true
+  - translation_iso: ben
+    name: দোলগান ভাষা
   - translation_iso: deu
     name: Dolganisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: डोलगन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dolgan
   - translation_iso: jpn
     name: ドルガン語
   - translation_iso: kor
     name: 돌간어
   - translation_iso: por
     name: Língua dolgan
+  - translation_iso: rus
+    name: долганский язык
   - translation_iso: spa
     name: Dolgano
   - translation_iso: zho

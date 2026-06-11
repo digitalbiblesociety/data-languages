@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बुकित मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bukit
   - translation_iso: jpn
     name: ブキット・マレー語
+  - translation_iso: kor
+    name: 부킷 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio Bukit
     auto: true

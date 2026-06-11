@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤンダ語
     auto: true
+  - translation_iso: kor
+    name: 얀다어
+    auto: true
   - translation_iso: por
     name: yanda
     auto: true

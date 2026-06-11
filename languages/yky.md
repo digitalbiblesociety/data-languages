@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤコマ語
     auto: true
+  - translation_iso: kor
+    name: 야코마어
+    auto: true
   - translation_iso: por
     name: yakoma
     auto: true

@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルデア現代アラム語
+  - translation_iso: kor
+    name: 칼데아 신아람어
+    auto: true
   - translation_iso: por
     name: neoaramaico caldeu
+  - translation_iso: rus
+    name: халдейский новоарамейский язык
   - translation_iso: spa
     name: caldeo neoarameo
   - translation_iso: zho

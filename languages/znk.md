@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マナングカリ語
     auto: true
+  - translation_iso: kor
+    name: 마낭카리어
+    auto: true
   - translation_iso: por
     name: Manangkari
     auto: true

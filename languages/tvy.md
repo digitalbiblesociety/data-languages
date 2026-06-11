@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيدجين تيمور
     auto: true
+  - translation_iso: ben
+    name: বাদাউ ক্রেওল পর্তুগিজ
   - translation_iso: deu
     name: Timor-Pidgin
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティモール・ピジン語
+    auto: true
+  - translation_iso: kor
+    name: 티모르 피진어
     auto: true
   - translation_iso: por
     name: Crioulo Português de Bidau

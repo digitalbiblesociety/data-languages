@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: काबिये
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kabiye
   - translation_iso: jpn
     name: カビエ語
+  - translation_iso: kor
+    name: 카비예어
+    auto: true
   - translation_iso: por
     name: kabiyé
+  - translation_iso: rus
+    name: Кабийе
   - translation_iso: spa
     name: kabiyé
   - translation_iso: zho

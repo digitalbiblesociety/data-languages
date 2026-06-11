@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fula_language"
 translations:
   - translation_iso: ara
     name: الفولانية
+  - translation_iso: ben
+    name: ফুলা
   - translation_iso: deu
     name: Fulfulde
   - translation_iso: fra
     name: peul
   - translation_iso: hin
     name: फ़ुला भाषा
+  - translation_iso: ind
+    name: Fula
   - translation_iso: jpn
     name: フラニ語
   - translation_iso: kor
     name: 풀라어
   - translation_iso: por
     name: Língua fula
+  - translation_iso: rus
+    name: фулах
   - translation_iso: spa
     name: fula
   - translation_iso: zho

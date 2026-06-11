@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بياو
     auto: true
+  - translation_iso: ben
+    name: বায়াও
   - translation_iso: deu
     name: Biao
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बियाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Biao
   - translation_iso: jpn
     name: 標語
+  - translation_iso: kor
+    name: 뱌오어
+    auto: true
   - translation_iso: por
     name: Biao
     auto: true

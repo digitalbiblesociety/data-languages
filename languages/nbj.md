@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングアリニマン語
     auto: true
+  - translation_iso: kor
+    name: 응아린만어
+    auto: true
   - translation_iso: por
     name: Ngarinyman
     auto: true

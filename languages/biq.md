@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビピ語
     auto: true
+  - translation_iso: kor
+    name: 비피어
+    auto: true
   - translation_iso: por
     name: Bipi
     auto: true

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ングナワル語
     auto: true
+  - translation_iso: kor
+    name: 응우나왈어
+    auto: true
   - translation_iso: por
     name: ngunawal
     auto: true

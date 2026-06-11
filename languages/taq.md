@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: तामाशेक
     auto: true
+  - translation_iso: ind
+    name: bahasa Tamashek
   - translation_iso: jpn
     name: タマシェク語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Tamasheq
     auto: true
+  - translation_iso: rus
+    name: тамашек
   - translation_iso: spa
     name: Idioma tamashek
   - translation_iso: zho

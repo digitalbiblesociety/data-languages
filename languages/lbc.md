@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: लाक्किया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lakkia
   - translation_iso: jpn
     name: ラギャ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Lakkia
     auto: true
+  - translation_iso: rus
+    name: Лацзя
   - translation_iso: spa
     name: Lakkia
     auto: true

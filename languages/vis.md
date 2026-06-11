@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فيشافان
     auto: true
+  - translation_iso: ben
+    name: ভিসাভান ভাষা
   - translation_iso: deu
     name: Vishavan
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マランクディ語
+    auto: true
+  - translation_iso: kor
+    name: 비샤반어
     auto: true
   - translation_iso: por
     name: Vishavan

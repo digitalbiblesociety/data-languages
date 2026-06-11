@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أوتووو
     auto: true
+  - translation_iso: ben
+    name: আওতুউ
   - translation_iso: deu
     name: Awtuw
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウトゥウ語
+    auto: true
+  - translation_iso: kor
+    name: 아우투어
     auto: true
   - translation_iso: por
     name: Awtuw

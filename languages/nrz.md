@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ララ語
     auto: true
+  - translation_iso: kor
+    name: 랄라어
+    auto: true
   - translation_iso: por
     name: Lala
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マカ語
     auto: true
+  - translation_iso: kor
+    name: 마카어
+    auto: true
   - translation_iso: por
     name: Maca
     auto: true
+  - translation_iso: rus
+    name: мака
   - translation_iso: spa
     name: idioma maká
   - translation_iso: zho

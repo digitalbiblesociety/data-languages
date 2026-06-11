@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: इले आपे
     auto: true
+  - translation_iso: ind
+    name: Ile Ape
   - translation_iso: jpn
     name: イレ・アペ語
+    auto: true
+  - translation_iso: kor
+    name: 일레 아페어
     auto: true
   - translation_iso: por
     name: Ile Ape

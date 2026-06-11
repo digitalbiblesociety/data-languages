@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ティカル語
     auto: true
+  - translation_iso: kor
+    name: 티카르어
+    auto: true
   - translation_iso: por
     name: Língua ticar
   - translation_iso: spa

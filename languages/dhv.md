@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Dehu
     auto: true
+  - translation_iso: rus
+    name: Деху
   - translation_iso: spa
     name: Idioma drehu
   - translation_iso: zho

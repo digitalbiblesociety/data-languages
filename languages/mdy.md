@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マレ語
+  - translation_iso: kor
+    name: 말레어
+    auto: true
   - translation_iso: por
     name: Língua maale
+  - translation_iso: rus
+    name: Мале (язык)
   - translation_iso: spa
     name: Male (Etiopía)
     auto: true

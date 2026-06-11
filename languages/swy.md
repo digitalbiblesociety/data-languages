@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サルア語
     auto: true
+  - translation_iso: kor
+    name: 사루아어
+    auto: true
   - translation_iso: por
     name: Sarua
     auto: true

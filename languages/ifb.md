@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باتاد إيفوغاو
     auto: true
+  - translation_iso: ben
+    name: বাতাদ
   - translation_iso: deu
     name: Batad-Ifugao
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタド・イフガオ語
+    auto: true
+  - translation_iso: kor
+    name: 바타드 이푸가오어
     auto: true
   - translation_iso: por
     name: Ifugao Batad

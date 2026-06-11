@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ドン語
+  - translation_iso: kor
+    name: 타이돈어
+    auto: true
   - translation_iso: por
     name: Língua tai dón
   - translation_iso: spa

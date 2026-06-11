@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラナ語
+  - translation_iso: kor
+    name: 야바라나어
+    auto: true
   - translation_iso: por
     name: yabarana
     auto: true

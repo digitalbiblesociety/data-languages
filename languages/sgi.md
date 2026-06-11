@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سوجا
     auto: true
+  - translation_iso: ben
+    name: নিজা ভাষা
   - translation_iso: deu
     name: Suga
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सुगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Suga
   - translation_iso: jpn
     name: ニザー語
+    auto: true
+  - translation_iso: kor
+    name: 수가어
     auto: true
   - translation_iso: por
     name: Suga

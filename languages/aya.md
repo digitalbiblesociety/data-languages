@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوار
     auto: true
+  - translation_iso: ben
+    name: আওয়ার
   - translation_iso: deu
     name: Awar
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワル語
+    auto: true
+  - translation_iso: kor
+    name: 아와르어
     auto: true
   - translation_iso: por
     name: Awar

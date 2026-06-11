@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कादुओ
     auto: true
+  - translation_iso: ind
+    name: Kaduo
   - translation_iso: jpn
     name: カドゥオ語
+    auto: true
+  - translation_iso: kor
+    name: 카두오어
     auto: true
   - translation_iso: por
     name: Kaduo

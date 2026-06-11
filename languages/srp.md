@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serbian_language"
 translations:
   - translation_iso: ara
     name: الصربية
+  - translation_iso: ben
+    name: সার্বীয়
   - translation_iso: deu
     name: Serbisch
   - translation_iso: fra
     name: serbe
   - translation_iso: hin
     name: सर्बियाई भाषा
+  - translation_iso: ind
+    name: Serbia
   - translation_iso: jpn
     name: セルビア語
   - translation_iso: kor
     name: 세르비아어
   - translation_iso: por
     name: língua sérvia
+  - translation_iso: rus
+    name: сербский
   - translation_iso: spa
     name: serbio
   - translation_iso: zho

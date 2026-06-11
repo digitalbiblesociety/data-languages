@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンドンベ語
     auto: true
+  - translation_iso: kor
+    name: 은돔베어
+    auto: true
   - translation_iso: por
     name: Ndombe
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プダギ語
     auto: true
+  - translation_iso: kor
+    name: 푸다기어
+    auto: true
   - translation_iso: por
     name: Phudagi
     auto: true

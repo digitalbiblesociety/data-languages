@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スカジット・ニスクワリ語
     auto: true
+  - translation_iso: kor
+    name: 스노호미시어
+    auto: true
   - translation_iso: por
     name: Snohomish
   - translation_iso: spa

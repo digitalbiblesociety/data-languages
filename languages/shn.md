@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shan_language"
 translations:
   - translation_iso: ara
     name: لغة شان
+  - translation_iso: ben
+    name: শান
   - translation_iso: deu
     name: Shan
   - translation_iso: fra
     name: shan
   - translation_iso: hin
     name: शान भाषा
+  - translation_iso: ind
+    name: Shan
   - translation_iso: jpn
     name: シャン語
   - translation_iso: kor
     name: 샨어
   - translation_iso: por
     name: língua shan
+  - translation_iso: rus
+    name: шанский
   - translation_iso: spa
     name: shan
   - translation_iso: zho

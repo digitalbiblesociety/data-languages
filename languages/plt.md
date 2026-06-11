@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語
+  - translation_iso: kor
+    name: 고원 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe do Planalto
     auto: true

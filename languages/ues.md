@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: किओको
     auto: true
+  - translation_iso: ind
+    name: Kioko
   - translation_iso: jpn
     name: キオコ語
+    auto: true
+  - translation_iso: kor
+    name: 키오코어
     auto: true
   - translation_iso: por
     name: Kioko

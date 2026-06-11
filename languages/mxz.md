@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・マセラ語
     auto: true
+  - translation_iso: kor
+    name: 중부 마셀라어
+    auto: true
   - translation_iso: por
     name: Masela Central
     auto: true

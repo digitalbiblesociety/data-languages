@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ワリ語（ガーナ）
     auto: true
+  - translation_iso: kor
+    name: 왈리어
+    auto: true
   - translation_iso: por
     name: Wali (Gana)
     auto: true
+  - translation_iso: rus
+    name: аули
   - translation_iso: spa
     name: Wali
     auto: true

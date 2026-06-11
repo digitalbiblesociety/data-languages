@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أمبا
     auto: true
+  - translation_iso: ben
+    name: আম্বা
   - translation_iso: deu
     name: Amba (Uganda)
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバ語
+  - translation_iso: kor
+    name: 암바어
+    auto: true
   - translation_iso: por
     name: Amba (Uganda)
     auto: true

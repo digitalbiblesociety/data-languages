@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パレ語
     auto: true
+  - translation_iso: kor
+    name: 파레어
+    auto: true
   - translation_iso: por
     name: Pare
     auto: true

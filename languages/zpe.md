@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ペタパ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 페타파 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Petapa
     auto: true
+  - translation_iso: rus
+    name: Петапанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Petapa
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: यहूदी-त्रिपोलितानी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Yahudi-Tripoli
   - translation_iso: jpn
     name: ユダヤ・トリポリタニア・アラビア語
+  - translation_iso: kor
+    name: 유대 트리폴리타니아 아랍어
+    auto: true
   - translation_iso: por
     name: árabe judeu-tripolitano
     auto: true
+  - translation_iso: rus
+    name: Еврейско-триполитанский диалект арабского языка
   - translation_iso: spa
     name: árabe judeo-tripolitano
   - translation_iso: zho

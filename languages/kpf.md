@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コンバ語
     auto: true
+  - translation_iso: kor
+    name: 콤바어
+    auto: true
   - translation_iso: por
     name: Komba
     auto: true

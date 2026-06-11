@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マーシナ・フルフルデ語
     auto: true
+  - translation_iso: kor
+    name: 마시나 풀풀데어
+    auto: true
   - translation_iso: por
     name: fulfulde de Maasina
     auto: true

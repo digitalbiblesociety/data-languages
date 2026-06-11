@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォレ語
+  - translation_iso: kor
+    name: 포레어
+    auto: true
   - translation_iso: por
     name: Fore
     auto: true

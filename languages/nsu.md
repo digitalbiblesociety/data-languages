@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シエラネグラ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 시에라네그라 나와틀어
+    auto: true
   - translation_iso: por
     name: náuatle da Sierra Negra
     auto: true

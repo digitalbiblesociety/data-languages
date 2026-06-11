@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤウィジバヤ語
     auto: true
+  - translation_iso: kor
+    name: 야위지바야어
+    auto: true
   - translation_iso: por
     name: Yawijibaya
     auto: true

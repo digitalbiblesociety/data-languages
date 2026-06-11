@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ماهاسو باهاري
     auto: true
+  - translation_iso: ben
+    name: মহাসু পাহাড়ি ভাষা
   - translation_iso: deu
     name: Mahasu-Pahari
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: महासु पहाड़ी
   - translation_iso: jpn
     name: マハス・パハリー語
+  - translation_iso: kor
+    name: 마하수 파하리어
+    auto: true
   - translation_iso: por
     name: Língua mahasu pahari
   - translation_iso: spa

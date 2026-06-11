@@ -27,8 +27,13 @@ translations:
   - translation_iso: jpn
     name: ステリングワルフス語
     auto: true
+  - translation_iso: kor
+    name: 스텔링베르프스어
+    auto: true
   - translation_iso: por
     name: Língua stellingwarfs
+  - translation_iso: rus
+    name: Стеллингверфский диалект
   - translation_iso: spa
     name: Stellingwerfs
     auto: true

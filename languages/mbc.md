@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マクシー語
+  - translation_iso: kor
+    name: 마쿠시어
+    auto: true
   - translation_iso: por
     name: Língua macuxi
+  - translation_iso: rus
+    name: макуши
   - translation_iso: spa
     name: Idioma macushi
   - translation_iso: zho

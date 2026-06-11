@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カコリ語
     auto: true
+  - translation_iso: kor
+    name: 움부웅구어
+    auto: true
   - translation_iso: por
     name: Umbu-Ungu
     auto: true

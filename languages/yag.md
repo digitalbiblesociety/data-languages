@@ -31,6 +31,8 @@ translations:
     name: 야간어
   - translation_iso: por
     name: Língua yagan
+  - translation_iso: rus
+    name: ямана
   - translation_iso: spa
     name: idioma yagán
   - translation_iso: zho

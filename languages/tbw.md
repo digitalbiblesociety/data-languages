@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: تاغبانوا
     auto: true
+  - translation_iso: ben
+    name: আবোরলান তাগবানওয়া
   - translation_iso: deu
     name: Tagbanwa
     auto: true
@@ -33,6 +35,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグバンワ語
+    auto: true
+  - translation_iso: kor
+    name: 타그반와어
     auto: true
   - translation_iso: por
     name: Língua aborlana tagbanwa

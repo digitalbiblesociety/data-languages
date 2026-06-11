@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيابادهو
     auto: true
+  - translation_iso: ben
+    name: আয়াবাধু
   - translation_iso: deu
     name: Ayabadhu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヤバッド語
+    auto: true
+  - translation_iso: kor
+    name: 아야바두어
     auto: true
   - translation_iso: por
     name: Ayabadhu

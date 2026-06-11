@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: دومينيكان ساين لانجويج
     auto: true
+  - translation_iso: ben
+    name: ডোমিনিকাই ইশারা ভাষা
   - translation_iso: deu
     name: Dominikanische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドミニカ共和国手話
+  - translation_iso: kor
+    name: 도미니카 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Dominicana
     auto: true

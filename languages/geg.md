@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ゲングル語
     auto: true
+  - translation_iso: kor
+    name: 겐글레어
+    auto: true
   - translation_iso: por
     name: Gengle
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 구니얀디어
   - translation_iso: por
     name: Língua guniyandi
+  - translation_iso: rus
+    name: Куниянти
   - translation_iso: spa
     name: Gooniyandi
     auto: true

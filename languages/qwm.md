@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cuman_language"
 translations:
   - translation_iso: ara
     name: اللغة القمانية
+  - translation_iso: ben
+    name: কুমান ভাষা
   - translation_iso: deu
     name: Kumanisch
   - translation_iso: fra
@@ -20,12 +22,16 @@ translations:
   - translation_iso: hin
     name: कुमान (रूस)
     auto: true
+  - translation_iso: ind
+    name: bahasa Kuman
   - translation_iso: jpn
     name: クマン語 (テュルク諸語)
   - translation_iso: kor
     name: 쿠만어
   - translation_iso: por
     name: cumano
+  - translation_iso: rus
+    name: половецкий язык
   - translation_iso: spa
     name: cumano
   - translation_iso: zho

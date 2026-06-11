@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_language"
 translations:
   - translation_iso: ara
     name: لغة مصرية
+  - translation_iso: ben
+    name: প্রাচীন মিশরীয়
   - translation_iso: deu
     name: Ägyptisch
   - translation_iso: fra
     name: égyptien ancien
   - translation_iso: hin
     name: मिस्री भाषा
+  - translation_iso: ind
+    name: Mesir Kuno
   - translation_iso: jpn
     name: エジプト語
   - translation_iso: kor
     name: 이집트어
   - translation_iso: por
     name: egípcio
+  - translation_iso: rus
+    name: древнеегипетский
   - translation_iso: spa
     name: egipcio
   - translation_iso: zho

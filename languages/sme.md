@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: اللغة السامي الشمالية
+  - translation_iso: ben
+    name: উত্তরাঞ্চলীয় সামি
   - translation_iso: deu
     name: Nordsamisch
   - translation_iso: fra
     name: same du Nord
   - translation_iso: hin
     name: नॉर्दन सामी
+  - translation_iso: ind
+    name: Sami Utara
   - translation_iso: jpn
     name: 北部サーミ語
   - translation_iso: kor
     name: 북부 사미어
   - translation_iso: por
     name: língua sami setentrional
+  - translation_iso: rus
+    name: северносаамский
   - translation_iso: spa
     name: sami septentrional
   - translation_iso: zho

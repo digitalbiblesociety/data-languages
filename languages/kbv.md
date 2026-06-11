@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: डेरा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Dera
   - translation_iso: jpn
     name: デラ語
+    auto: true
+  - translation_iso: kor
+    name: 데라어
     auto: true
   - translation_iso: por
     name: Dera (Indonésia)

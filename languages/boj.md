@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أنجام
     auto: true
+  - translation_iso: ben
+    name: আনজাম
   - translation_iso: deu
     name: Anjam
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンジャム語
+    auto: true
+  - translation_iso: kor
+    name: 안잠어
     auto: true
   - translation_iso: por
     name: Anjam

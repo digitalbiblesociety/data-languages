@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بارك
     auto: true
+  - translation_iso: ben
+    name: বারোক
   - translation_iso: deu
     name: Barok
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バロク語
+  - translation_iso: kor
+    name: 바로크어
+    auto: true
   - translation_iso: por
     name: Barok
     auto: true

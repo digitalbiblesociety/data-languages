@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ララナ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 랄라나 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Lalana
     auto: true

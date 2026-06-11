@@ -27,12 +27,16 @@ translations:
     name: hazara
   - translation_iso: hin
     name: हज़ारगी भाषा
+  - translation_iso: ind
+    name: Hazaragi
   - translation_iso: jpn
     name: ハザラギ語
   - translation_iso: kor
     name: 하자라어
   - translation_iso: por
     name: Língua hazaragi
+  - translation_iso: rus
+    name: Хазара
   - translation_iso: spa
     name: Idioma hazara
   - translation_iso: zho

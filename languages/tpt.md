@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 西テペウア語
     auto: true
+  - translation_iso: kor
+    name: 틀라치칠코 테페우아어
+    auto: true
   - translation_iso: por
     name: Tepehua de Tlachichilco
     auto: true
+  - translation_iso: rus
+    name: Тлачичилькский тепеуа
   - translation_iso: spa
     name: tepehua de Tlachichilco
   - translation_iso: zho

@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Chipaya
     auto: true
+  - translation_iso: rus
+    name: Чипайя
   - translation_iso: spa
     name: chipaya
   - translation_iso: zho

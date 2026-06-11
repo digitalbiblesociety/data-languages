@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブウェラ語
     auto: true
+  - translation_iso: kor
+    name: 브웰라어
+    auto: true
   - translation_iso: por
     name: Bwela
     auto: true

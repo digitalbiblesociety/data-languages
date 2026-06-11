@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥルボフアイ語
     auto: true
+  - translation_iso: kor
+    name: 툴루보후아이어
+    auto: true
   - translation_iso: por
     name: Tulu-Bohuai
     auto: true

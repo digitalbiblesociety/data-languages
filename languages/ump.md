@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北東パマン語
     auto: true
+  - translation_iso: kor
+    name: 움필라어
+    auto: true
   - translation_iso: por
     name: Umpila
     auto: true
+  - translation_iso: rus
+    name: Умпила
   - translation_iso: spa
     name: idioma umpila
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ニャンクパ語
     auto: true
+  - translation_iso: kor
+    name: 냔크파어
+    auto: true
   - translation_iso: por
     name: nyankpa
     auto: true

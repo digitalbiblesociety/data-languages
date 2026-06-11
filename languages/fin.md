@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_language"
 translations:
   - translation_iso: ara
     name: الفنلندية
+  - translation_iso: ben
+    name: ফিনিশ
   - translation_iso: deu
     name: Finnisch
   - translation_iso: fra
     name: finnois
   - translation_iso: hin
     name: फ़िनिश भाषा
+  - translation_iso: ind
+    name: Suomi
   - translation_iso: jpn
     name: フィンランド語
   - translation_iso: kor
     name: 핀란드어
   - translation_iso: por
     name: finlandês
+  - translation_iso: rus
+    name: финский
   - translation_iso: spa
     name: finés
   - translation_iso: zho

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シンタ・ラルガ語
     auto: true
+  - translation_iso: kor
+    name: 신타 라르가어
+    auto: true
   - translation_iso: por
     name: Língua cinta-larga
+  - translation_iso: rus
+    name: Синта-ларга
   - translation_iso: spa
     name: Cinta Larga
     auto: true

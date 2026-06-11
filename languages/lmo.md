@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lombard_language"
 translations:
   - translation_iso: ara
     name: اللُمبَرديَّة
+  - translation_iso: ben
+    name: লম্বার্ড
   - translation_iso: deu
     name: Lombardisch
   - translation_iso: fra
     name: lombard
   - translation_iso: hin
     name: लोम्बार्ड
+  - translation_iso: ind
+    name: Lombard
   - translation_iso: jpn
     name: ロンバルド語
   - translation_iso: kor
     name: 롬바르디아어
   - translation_iso: por
     name: língua lombarda
+  - translation_iso: rus
+    name: ломбардский
   - translation_iso: spa
     name: lombardo
   - translation_iso: zho

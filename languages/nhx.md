@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 地峡メカヤパン・ナワトル語
+  - translation_iso: kor
+    name: 이스트모·메카야판 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl do Istmo-Mecayapan
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ディディンガ語
     auto: true
+  - translation_iso: kor
+    name: 디딩가어
+    auto: true
   - translation_iso: por
     name: Didinga
     auto: true

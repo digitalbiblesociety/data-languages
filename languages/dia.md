@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ディア語
     auto: true
+  - translation_iso: kor
+    name: 디아어
+    auto: true
   - translation_iso: por
     name: Dia
     auto: true

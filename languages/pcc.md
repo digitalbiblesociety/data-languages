@@ -34,6 +34,8 @@ translations:
     name: 부이어
   - translation_iso: por
     name: Língua bouyei
+  - translation_iso: rus
+    name: буи
   - translation_iso: spa
     name: Idioma buyei
   - translation_iso: zho

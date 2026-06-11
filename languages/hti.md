@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: होती
     auto: true
+  - translation_iso: ind
+    name: Hoti
   - translation_iso: jpn
     name: ホティ語
+    auto: true
+  - translation_iso: kor
+    name: 호티어
     auto: true
   - translation_iso: por
     name: Hoti

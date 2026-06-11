@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: سيثية
     auto: true
+  - translation_iso: ben
+    name: শক ভাষাসমূহ
   - translation_iso: deu
     name: Skythisch
   - translation_iso: fra
@@ -21,12 +23,16 @@ translations:
   - translation_iso: hin
     name: सीथियन
     auto: true
+  - translation_iso: ind
+    name: rumpun bahasa Skithia
   - translation_iso: jpn
     name: スキタイ語
   - translation_iso: kor
     name: 스키타이어
   - translation_iso: por
     name: Línguas citas
+  - translation_iso: rus
+    name: скифо-сарматские языки
   - translation_iso: spa
     name: Lenguas escito-sármatas
   - translation_iso: zho

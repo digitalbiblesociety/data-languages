@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सिका
     auto: true
+  - translation_iso: ind
+    name: Sika
   - translation_iso: jpn
     name: クロウェ語
+    auto: true
+  - translation_iso: kor
+    name: 시카어
     auto: true
   - translation_iso: por
     name: Sika

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانغوالي
     auto: true
+  - translation_iso: ben
+    name: পাংওয়ালি ভাষা
   - translation_iso: deu
     name: Pangwali
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: पंगवाड़ी
   - translation_iso: jpn
     name: パングワーリー語
+  - translation_iso: kor
+    name: 팡왈리어
+    auto: true
   - translation_iso: por
     name: Língua pangwali
+  - translation_iso: rus
+    name: пангвали
   - translation_iso: spa
     name: Pangwali
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهاوسا
     auto: true
+  - translation_iso: ben
+    name: হাউসা ইশারা ভাষা
   - translation_iso: deu
     name: Hausa-Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: हौसा सांकेतिक भाषा
   - translation_iso: jpn
     name: ハウサ手話
+  - translation_iso: kor
+    name: 하우사 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual Hausa
   - translation_iso: spa

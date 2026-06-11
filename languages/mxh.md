@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムヴバ語
     auto: true
+  - translation_iso: kor
+    name: 음부바어
+    auto: true
   - translation_iso: por
     name: Mvuba
     auto: true

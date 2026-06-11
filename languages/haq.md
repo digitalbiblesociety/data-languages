@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハー語
     auto: true
+  - translation_iso: kor
+    name: 하어
+    auto: true
   - translation_iso: por
     name: Língua giha
   - translation_iso: spa

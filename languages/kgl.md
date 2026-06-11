@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クングガリ語
     auto: true
+  - translation_iso: kor
+    name: 쿵가리어
+    auto: true
   - translation_iso: por
     name: Kunggari
     auto: true

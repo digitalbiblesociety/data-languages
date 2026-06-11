@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ムムイェ語
     auto: true
+  - translation_iso: kor
+    name: 무무예어
+    auto: true
   - translation_iso: por
     name: Mumuye
     auto: true
+  - translation_iso: rus
+    name: мумуйе
   - translation_iso: spa
     name: Mumuie
   - translation_iso: zho

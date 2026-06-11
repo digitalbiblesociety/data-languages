@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤンバ語
     auto: true
+  - translation_iso: kor
+    name: 얌바어
+    auto: true
   - translation_iso: por
     name: yamba
     auto: true

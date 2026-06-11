@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابانكي
     auto: true
+  - translation_iso: ben
+    name: বাবাঙ্কি
   - translation_iso: deu
     name: Babanki
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ババンキ語
     auto: true
+  - translation_iso: kor
+    name: 바반키어
+    auto: true
   - translation_iso: por
     name: Babanki
     auto: true
+  - translation_iso: rus
+    name: Бабанки
   - translation_iso: spa
     name: Babanki
     auto: true

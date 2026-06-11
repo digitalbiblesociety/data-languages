@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チェレポン語
     auto: true
+  - translation_iso: kor
+    name: 체레폰어
+    auto: true
   - translation_iso: por
     name: Língua kyiripong
   - translation_iso: spa

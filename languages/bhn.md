@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボータン現代アラム語
+  - translation_iso: kor
+    name: 보흐탄 신아람어
+    auto: true
   - translation_iso: por
     name: Neoaramaico de Bohtan
     auto: true

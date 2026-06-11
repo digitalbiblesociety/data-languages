@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ياييما
     auto: true
+  - translation_iso: ben
+    name: ইয়েয়ামা ভাষা
   - translation_iso: deu
     name: Yaeyama
     auto: true
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: याएयामा
     auto: true
+  - translation_iso: ind
+    name: bahasa Yaeyama
   - translation_iso: jpn
     name: 八重山語
   - translation_iso: kor
     name: 야에야마어
   - translation_iso: por
     name: Língua yaeyama
+  - translation_iso: rus
+    name: яэямское наречие
   - translation_iso: spa
     name: yaeyama
   - translation_iso: zho

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوّا
     auto: true
+  - translation_iso: ben
+    name: আবুয়া
   - translation_iso: deu
     name: Abua
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブア語
+    auto: true
+  - translation_iso: kor
+    name: 아부아어
     auto: true
   - translation_iso: por
     name: Abua

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クロブ語
     auto: true
+  - translation_iso: kor
+    name: 크로부어
+    auto: true
   - translation_iso: por
     name: Krobu
     auto: true

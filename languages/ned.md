@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ンデ・グビテ語
     auto: true
+  - translation_iso: kor
+    name: 은데그비테어
+    auto: true
   - translation_iso: por
     name: Nde-Gbite
     auto: true

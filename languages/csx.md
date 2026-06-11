@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكمبودية
     auto: true
+  - translation_iso: ben
+    name: কম্বোডীয় ইশারা ভাষা
   - translation_iso: deu
     name: Kambodschanische Gebärdensprache
   - translation_iso: fra
@@ -26,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कंबोडियाई सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Kamboja
   - translation_iso: jpn
     name: カンボジア手話
+  - translation_iso: kor
+    name: 캄보디아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Cambojana
     auto: true

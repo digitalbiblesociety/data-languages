@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ココ・ババングク語
     auto: true
+  - translation_iso: kor
+    name: 코코 바방크어
+    auto: true
   - translation_iso: por
     name: Koko Babangk
     auto: true

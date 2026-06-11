@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤベム語
+  - translation_iso: kor
+    name: 야벰어
+    auto: true
   - translation_iso: por
     name: Língua yabem
+  - translation_iso: rus
+    name: Ябем
   - translation_iso: spa
     name: Yabem
     auto: true

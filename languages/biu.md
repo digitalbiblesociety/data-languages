@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: ben
+    name: বিয়াটা ভাষা
   - translation_iso: deu
     name: Biete
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: बियाट भाषा
   - translation_iso: jpn
     name: ビエテ語
+    auto: true
+  - translation_iso: kor
+    name: 비에테어
     auto: true
   - translation_iso: por
     name: Língua biate

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Cree_language"
 translations:
   - translation_iso: ara
     name: لغة بلينز كري
+  - translation_iso: ben
+    name: প্লেনস ক্রী
   - translation_iso: deu
     name: Plains-Cree
   - translation_iso: fra
     name: cri des plaines
   - translation_iso: hin
     name: प्लेंज़ क्री
+  - translation_iso: ind
+    name: Cree Dataran
   - translation_iso: jpn
     name: 平原クリー語
   - translation_iso: kor
     name: 평원 크리어
   - translation_iso: por
     name: cree das planícies
+  - translation_iso: rus
+    name: равнинный кри
   - translation_iso: spa
     name: cree de las llanuras
   - translation_iso: zho

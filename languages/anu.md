@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنوّاك
     auto: true
+  - translation_iso: ben
+    name: আনুয়াক
   - translation_iso: deu
     name: Anuak
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌアク語
+  - translation_iso: kor
+    name: 아누아크어
+    auto: true
   - translation_iso: por
     name: Anuak
     auto: true
+  - translation_iso: rus
+    name: Ануакский язык
   - translation_iso: spa
     name: Anuak
     auto: true

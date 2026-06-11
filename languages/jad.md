@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジャハンカ語
     auto: true
+  - translation_iso: kor
+    name: 자한카어
+    auto: true
   - translation_iso: por
     name: Jahanka
     auto: true

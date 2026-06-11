@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndam_language"
 translations:
   - translation_iso: ara
     name: ندام
+  - translation_iso: ben
+    name: নদাম ভাষা
   - translation_iso: deu
     name: Ndam
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダム語
+  - translation_iso: kor
+    name: 은담어
+    auto: true
   - translation_iso: por
     name: Língua ndam
   - translation_iso: spa

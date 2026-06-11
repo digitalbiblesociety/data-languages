@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コノサロラ語
     auto: true
+  - translation_iso: kor
+    name: 바글라어
+    auto: true
   - translation_iso: por
     name: Vagla
     auto: true

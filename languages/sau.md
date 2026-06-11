@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: सालेमान
     auto: true
+  - translation_iso: ind
+    name: Saleman
   - translation_iso: jpn
     name: サワイ語
+    auto: true
+  - translation_iso: kor
+    name: 살레만어
     auto: true
   - translation_iso: por
     name: Saleman
     auto: true
+  - translation_iso: rus
+    name: Салеман
   - translation_iso: spa
     name: Saleman
     auto: true

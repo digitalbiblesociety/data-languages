@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北ミッドランド・タスマニア語
     auto: true
+  - translation_iso: kor
+    name: 노스미들랜즈 태즈메이니아어
+    auto: true
   - translation_iso: por
     name: Tasmaniano North Midlands
     auto: true

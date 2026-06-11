@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: メレイ語
     auto: true
+  - translation_iso: kor
+    name: 메레이어
+    auto: true
   - translation_iso: por
     name: Merey
     auto: true

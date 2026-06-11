@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: क्वेरबा
     auto: true
+  - translation_iso: ind
+    name: Airmati
   - translation_iso: jpn
     name: クウェルバ語
+    auto: true
+  - translation_iso: kor
+    name: 퀘르바어
     auto: true
   - translation_iso: por
     name: Kwerba

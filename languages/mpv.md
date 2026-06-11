@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムングキップ語
     auto: true
+  - translation_iso: kor
+    name: 뭉키프어
+    auto: true
   - translation_iso: por
     name: Mungkip
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イニャシアーノ語
     auto: true
+  - translation_iso: kor
+    name: 이그나시아노어
+    auto: true
   - translation_iso: por
     name: Ignaciano
     auto: true
+  - translation_iso: rus
+    name: мохеньо-игнасиано
   - translation_iso: spa
     name: idioma ignaciano
   - translation_iso: zho

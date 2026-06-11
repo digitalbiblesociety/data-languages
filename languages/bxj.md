@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايونْجو
     auto: true
+  - translation_iso: ben
+    name: বায়ুঙ্গু
   - translation_iso: deu
     name: Bayungu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バユングゥ語
+    auto: true
+  - translation_iso: kor
+    name: 바융구어
     auto: true
   - translation_iso: por
     name: Bayungu

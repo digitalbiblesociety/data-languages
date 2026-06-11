@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウォム語（ナイジェリア）
     auto: true
+  - translation_iso: kor
+    name: 웜어
+    auto: true
   - translation_iso: por
     name: Wom (Nigéria)
     auto: true

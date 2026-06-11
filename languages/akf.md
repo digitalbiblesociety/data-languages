@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكپا
     auto: true
+  - translation_iso: ben
+    name: আকপা
   - translation_iso: deu
     name: Akpa
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクパ語
+    auto: true
+  - translation_iso: kor
+    name: 아크파어
     auto: true
   - translation_iso: por
     name: Akpa

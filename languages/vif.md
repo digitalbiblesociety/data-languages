@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィリ語
+  - translation_iso: kor
+    name: 빌리어
+    auto: true
   - translation_iso: por
     name: Vili
     auto: true

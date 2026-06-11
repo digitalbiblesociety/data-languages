@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Minangkabau_language"
 translations:
   - translation_iso: ara
     name: لغة مينانغكاباو
+  - translation_iso: ben
+    name: মিনাংকাবাউ
   - translation_iso: deu
     name: Minangkabauisch
   - translation_iso: fra
     name: minangkabau
   - translation_iso: hin
     name: मिनांगकाबाउ
+  - translation_iso: ind
+    name: Minangkabau
   - translation_iso: jpn
     name: ミナンカバウ語
   - translation_iso: kor
     name: 미낭카바우어
   - translation_iso: por
     name: Língua minangkabau
+  - translation_iso: rus
+    name: минангкабау
   - translation_iso: spa
     name: minangkabau
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミナ語
     auto: true
+  - translation_iso: kor
+    name: 미나어
+    auto: true
   - translation_iso: por
     name: Mina (Camarões)
     auto: true
+  - translation_iso: rus
+    name: Хина
   - translation_iso: spa
     name: Mina (Camerún)
     auto: true

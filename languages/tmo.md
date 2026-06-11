@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तेमोक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Temoq
   - translation_iso: jpn
     name: テモク語
+    auto: true
+  - translation_iso: kor
+    name: 테모크어
     auto: true
   - translation_iso: por
     name: Temoq

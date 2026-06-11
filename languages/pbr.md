@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パングワ語
     auto: true
+  - translation_iso: kor
+    name: 팡와어
+    auto: true
   - translation_iso: por
     name: Pangwa
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة إيكليب
     auto: true
+  - translation_iso: ben
+    name: আইক্লেপ
   - translation_iso: deu
     name: Aiklep
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メーヴェハーフェン語
+  - translation_iso: kor
+    name: 아이클레프어
+    auto: true
   - translation_iso: por
     name: Aiklep
     auto: true

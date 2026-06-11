@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マニャ語
     auto: true
+  - translation_iso: kor
+    name: 마냐어
+    auto: true
   - translation_iso: por
     name: Manya
     auto: true

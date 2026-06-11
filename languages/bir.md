@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビソリオ語
     auto: true
+  - translation_iso: kor
+    name: 비소리오어
+    auto: true
   - translation_iso: por
     name: Bisorio
     auto: true

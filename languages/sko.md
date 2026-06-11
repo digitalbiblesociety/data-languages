@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: सेको तेंगाह
     auto: true
+  - translation_iso: ind
+    name: Pohoneang
   - translation_iso: jpn
     name: ペワネアン語
+    auto: true
+  - translation_iso: kor
+    name: 세코 텡아어
     auto: true
   - translation_iso: por
     name: Seko Tengah
     auto: true
+  - translation_iso: rus
+    name: Секо-тенгах
   - translation_iso: spa
     name: Seko Tengah
     auto: true

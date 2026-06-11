@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダマ語
     auto: true
+  - translation_iso: kor
+    name: 다마어
+    auto: true
   - translation_iso: por
     name: Dama
     auto: true

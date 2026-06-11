@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンプアン語
+  - translation_iso: kor
+    name: 탐푸안어
+    auto: true
   - translation_iso: por
     name: Língua tampuan
+  - translation_iso: rus
+    name: Тампуан (язык)
   - translation_iso: spa
     name: Tampuan
   - translation_iso: zho

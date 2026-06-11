@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヘルデ語
     auto: true
+  - translation_iso: kor
+    name: 헤르데어
+    auto: true
   - translation_iso: por
     name: Herdé
     auto: true

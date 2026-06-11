@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsimshian_language"
 translations:
   - translation_iso: ara
     name: التسيمشيان
+  - translation_iso: ben
+    name: সিমশিয়ান
   - translation_iso: deu
     name: Tsimshian
   - translation_iso: fra
     name: tsimshian
   - translation_iso: hin
     name: त्सिमीशियन
+  - translation_iso: ind
+    name: Tsimshia
   - translation_iso: jpn
     name: ツィムシアン語
   - translation_iso: kor
     name: 트심시안어
   - translation_iso: por
     name: tsimshiano
+  - translation_iso: rus
+    name: цимшиан
   - translation_iso: spa
     name: tsimshiano
   - translation_iso: zho

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: पुयुमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Puyuma
   - translation_iso: jpn
     name: プユマ語
   - translation_iso: kor
     name: 푸유마어
   - translation_iso: por
     name: Língua puyuma
+  - translation_iso: rus
+    name: пуюма
   - translation_iso: spa
     name: Idioma puyuma
   - translation_iso: zho

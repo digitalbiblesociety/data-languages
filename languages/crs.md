@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seychellois_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية السيشيلية
+  - translation_iso: ben
+    name: সেসেলওয়া ক্রেওল ফ্রেঞ্চ
   - translation_iso: deu
     name: Seychellenkreol
   - translation_iso: fra
     name: créole seychellois
   - translation_iso: hin
     name: सेसेल्वा क्रिओल फ्रेंच
+  - translation_iso: ind
+    name: Seselwa Kreol Prancis
   - translation_iso: jpn
     name: セーシェル・クレオール語
   - translation_iso: kor
     name: 세이셸 크리올
   - translation_iso: por
     name: Crioulo de Seychelles
+  - translation_iso: rus
+    name: сейшельский креольский
   - translation_iso: spa
     name: criollo seychelense
   - translation_iso: zho

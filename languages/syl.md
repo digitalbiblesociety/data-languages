@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sylheti_language"
 translations:
   - translation_iso: ara
     name: لغة سيلهيتية
+  - translation_iso: ben
+    name: সিলেটি
   - translation_iso: deu
     name: Sylheti
   - translation_iso: fra
     name: sylheti
   - translation_iso: hin
     name: सिलेटी भाषा
+  - translation_iso: ind
+    name: bahasa Sylheti
   - translation_iso: jpn
     name: シレット語
   - translation_iso: kor
     name: 실헤티어
   - translation_iso: por
     name: Siroto
+  - translation_iso: rus
+    name: силхетский язык
   - translation_iso: spa
     name: Idioma sylheti
   - translation_iso: zho

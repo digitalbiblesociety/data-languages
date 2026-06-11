@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Lakha
     auto: true
+  - translation_iso: rus
+    name: Ла-кха
   - translation_iso: spa
     name: Lakha
     auto: true

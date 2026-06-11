@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベナマンガ語
     auto: true
+  - translation_iso: kor
+    name: 베나망가어
+    auto: true
   - translation_iso: por
     name: Benamanga
     auto: true

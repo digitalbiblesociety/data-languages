@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングアルマ語
     auto: true
+  - translation_iso: kor
+    name: 응알루마어
+    auto: true
   - translation_iso: por
     name: Ngarluma
     auto: true

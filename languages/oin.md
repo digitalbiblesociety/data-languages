@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イネブ・ワン語
     auto: true
+  - translation_iso: kor
+    name: 이네부 오네어
+    auto: true
   - translation_iso: por
     name: One Inebu
     auto: true

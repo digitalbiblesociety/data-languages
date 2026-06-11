@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: डेमिसा
     auto: true
+  - translation_iso: ind
+    name: Demisa
   - translation_iso: jpn
     name: デミサ語
+    auto: true
+  - translation_iso: kor
+    name: 데미사어
     auto: true
   - translation_iso: por
     name: Demisa

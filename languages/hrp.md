@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニリッピ語
     auto: true
+  - translation_iso: kor
+    name: 니르피어
+    auto: true
   - translation_iso: por
     name: Nhirrpi
     auto: true

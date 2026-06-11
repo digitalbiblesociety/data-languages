@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ホイーニ語
     auto: true
+  - translation_iso: kor
+    name: 호이니어
+    auto: true
   - translation_iso: por
     name: "Kho'ini"
     auto: true

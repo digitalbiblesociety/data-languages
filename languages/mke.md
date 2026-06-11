@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マウチ語
     auto: true
+  - translation_iso: kor
+    name: 마우치어
+    auto: true
   - translation_iso: por
     name: Mawchi
     auto: true

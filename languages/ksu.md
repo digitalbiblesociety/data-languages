@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: خام يانج
     auto: true
+  - translation_iso: ben
+    name: খামইয়াং ভাষা
   - translation_iso: deu
     name: Khamyang
     auto: true
@@ -28,8 +30,13 @@ translations:
     name: khamyang
   - translation_iso: hin
     name: खमयांग भाषा
+  - translation_iso: ind
+    name: Bahasa Khamyang
   - translation_iso: jpn
     name: カムヤン語
+  - translation_iso: kor
+    name: 캄양어
+    auto: true
   - translation_iso: por
     name: Khamyang
     auto: true

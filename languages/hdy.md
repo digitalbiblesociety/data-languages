@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハディヤ語
+  - translation_iso: kor
+    name: 하디야어
+    auto: true
   - translation_iso: por
     name: Língua hadia
+  - translation_iso: rus
+    name: Хадия (язык)
   - translation_iso: spa
     name: Hadiyya
     auto: true

@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rangpuri_language"
 translations:
   - translation_iso: ara
     name: لهجة رنغفورية
+  - translation_iso: ben
+    name: রংপুরী
   - translation_iso: deu
     name: Rangpuri
     auto: true
@@ -28,8 +30,13 @@ translations:
     name: rangpuri
   - translation_iso: hin
     name: राजबोंग्शी भाषा
+  - translation_iso: ind
+    name: bahasa Rangpur
   - translation_iso: jpn
     name: ランプリ語
+  - translation_iso: kor
+    name: 랑푸리어
+    auto: true
   - translation_iso: por
     name: Língua rangpuri
   - translation_iso: spa

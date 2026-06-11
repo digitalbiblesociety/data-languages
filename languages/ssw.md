@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swazi_language"
 translations:
   - translation_iso: ara
     name: السوازية
+  - translation_iso: ben
+    name: সোয়াতি
   - translation_iso: deu
     name: Siswati
   - translation_iso: fra
     name: swati
   - translation_iso: hin
     name: स्वाज़ी भाषा
+  - translation_iso: ind
+    name: Swati
   - translation_iso: jpn
     name: スワジ語
   - translation_iso: kor
     name: 스와티어
   - translation_iso: por
     name: língua suázi
+  - translation_iso: rus
+    name: свази
   - translation_iso: spa
     name: suazi
   - translation_iso: zho

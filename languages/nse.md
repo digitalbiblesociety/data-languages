@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンセンガ語
+  - translation_iso: kor
+    name: 은셍가어
+    auto: true
   - translation_iso: por
     name: Nsenga
     auto: true
+  - translation_iso: rus
+    name: Нсенга
   - translation_iso: spa
     name: Nsenga
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 두파니난 아그타어
+    auto: true
   - translation_iso: por
     name: Língua dupaningan acta
   - translation_iso: spa

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キーレイ・ウーロング語
     auto: true
+  - translation_iso: kor
+    name: 키레이우룽어
+    auto: true
   - translation_iso: por
     name: Keerray-Woorroong
     auto: true

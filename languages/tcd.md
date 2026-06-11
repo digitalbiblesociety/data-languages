@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タフィ語
     auto: true
+  - translation_iso: kor
+    name: 타피어
+    auto: true
   - translation_iso: por
     name: Tafi
     auto: true

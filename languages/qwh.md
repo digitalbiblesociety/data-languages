@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワイラスアンカシュケチュア語
     auto: true
+  - translation_iso: kor
+    name: 우아일라스 앙카시 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Huaylas Ancash
     auto: true

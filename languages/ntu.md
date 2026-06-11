@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナトゥグ語
     auto: true
+  - translation_iso: kor
+    name: 나튀구어
+    auto: true
   - translation_iso: por
     name: Natügu
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: バルバラム語
     auto: true
+  - translation_iso: kor
+    name: 바르바람어
+    auto: true
   - translation_iso: por
     name: Barbaram
     auto: true
+  - translation_iso: rus
+    name: мбабарам
   - translation_iso: spa
     name: idioma mbabaram
   - translation_iso: zho

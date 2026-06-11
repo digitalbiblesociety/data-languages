@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: मामुजू
     auto: true
+  - translation_iso: ind
+    name: Mamuju
   - translation_iso: jpn
     name: マムジュ語
+    auto: true
+  - translation_iso: kor
+    name: 마무주어
     auto: true
   - translation_iso: por
     name: Mamuju
     auto: true
+  - translation_iso: rus
+    name: Мамуджу
   - translation_iso: spa
     name: Mamuju
     auto: true

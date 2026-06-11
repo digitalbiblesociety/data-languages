@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة السالار
     auto: true
+  - translation_iso: ben
+    name: সালার ভাষা
   - translation_iso: deu
     name: Salarisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: सालार
     auto: true
+  - translation_iso: ind
+    name: bahasa Salar
   - translation_iso: jpn
     name: サラール語
   - translation_iso: kor
     name: 살라르어
   - translation_iso: por
     name: Língua salar
+  - translation_iso: rus
+    name: Саларский язык
   - translation_iso: spa
     name: Idioma salar
   - translation_iso: zho

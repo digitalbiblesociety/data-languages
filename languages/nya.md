@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chewa_language"
 translations:
   - translation_iso: ara
     name: لغة الشيشيوا
+  - translation_iso: ben
+    name: নায়াঞ্জা
   - translation_iso: deu
     name: Chichewa
   - translation_iso: fra
     name: chewa
   - translation_iso: hin
     name: चेवा भाषा
+  - translation_iso: ind
+    name: Nyanja
   - translation_iso: jpn
     name: チェワ語
   - translation_iso: kor
     name: 치체와어
   - translation_iso: por
     name: língua nianja
+  - translation_iso: rus
+    name: ньянджа
   - translation_iso: spa
     name: chichewa
   - translation_iso: zho

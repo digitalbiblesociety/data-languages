@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノースイースト・キワイ語
     auto: true
+  - translation_iso: kor
+    name: 북동 키와이어
+    auto: true
   - translation_iso: por
     name: Kiwai do Nordeste
     auto: true

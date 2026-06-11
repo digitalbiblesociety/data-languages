@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西カラボロ語
     auto: true
+  - translation_iso: kor
+    name: 서부 카라보로어
+    auto: true
   - translation_iso: por
     name: Língua caraboro ocidental
   - translation_iso: spa

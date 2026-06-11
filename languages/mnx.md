@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मानिकियोन
     auto: true
+  - translation_iso: ind
+    name: Mantion
   - translation_iso: jpn
     name: マニキオン語
+    auto: true
+  - translation_iso: kor
+    name: 마니키온어
     auto: true
   - translation_iso: por
     name: Manikion

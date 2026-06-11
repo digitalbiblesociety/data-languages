@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤングカム語
     auto: true
+  - translation_iso: kor
+    name: 양캄어
+    auto: true
   - translation_iso: por
     name: Yangkam
     auto: true

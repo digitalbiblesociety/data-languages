@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キマーマ語
     auto: true
+  - translation_iso: kor
+    name: 키마마어
+    auto: true
   - translation_iso: por
     name: Kimaama
     auto: true

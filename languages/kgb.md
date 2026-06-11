@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カウェ語
     auto: true
+  - translation_iso: kor
+    name: 카웨어
+    auto: true
   - translation_iso: por
     name: Kawe
     auto: true

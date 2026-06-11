@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダルムバル語
     auto: true
+  - translation_iso: kor
+    name: 다룸발어
+    auto: true
   - translation_iso: por
     name: Dharumbal
     auto: true

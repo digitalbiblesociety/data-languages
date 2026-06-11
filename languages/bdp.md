@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيندي
     auto: true
+  - translation_iso: ben
+    name: বেন্ডে
   - translation_iso: deu
     name: Bende
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンデ語
+    auto: true
+  - translation_iso: kor
+    name: 벤데어
     auto: true
   - translation_iso: por
     name: Bende

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: توينيبو باريو نيغرو
     auto: true
+  - translation_iso: ben
+    name: ব্যারো নিগ্রো টুনেবো
   - translation_iso: deu
     name: Barro Negro Tunebo
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バロネグロ・トゥネボ語
+    auto: true
+  - translation_iso: kor
+    name: 바로 네그로 투네보어
     auto: true
   - translation_iso: por
     name: Tunebo de Barro Negro

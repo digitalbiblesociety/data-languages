@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラー・アララ語
+  - translation_iso: kor
+    name: 파라 아라라어
+    auto: true
   - translation_iso: por
     name: Arára do Pará
     auto: true
+  - translation_iso: rus
+    name: Паранский арара
   - translation_iso: spa
     name: arára de Pará
   - translation_iso: zho

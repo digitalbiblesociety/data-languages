@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビノンガン・イトネグ語
     auto: true
+  - translation_iso: kor
+    name: 비농안 이트네그어
+    auto: true
   - translation_iso: por
     name: Itneg Binongan
     auto: true

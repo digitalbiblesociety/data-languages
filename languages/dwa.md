@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ディリ語
     auto: true
+  - translation_iso: kor
+    name: 디리어
+    auto: true
   - translation_iso: por
     name: Diri
     auto: true
+  - translation_iso: rus
+    name: Дири
   - translation_iso: spa
     name: Diri
     auto: true

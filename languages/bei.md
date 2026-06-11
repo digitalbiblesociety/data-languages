@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيكاتي
     auto: true
+  - translation_iso: ben
+    name: বাকাতি’
   - translation_iso: deu
     name: Bekati
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेकाती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bakati
   - translation_iso: jpn
     name: ベカティ語
+    auto: true
+  - translation_iso: kor
+    name: 베카티어
     auto: true
   - translation_iso: por
     name: Língua bekati

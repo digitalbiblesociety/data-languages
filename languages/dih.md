@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クミアイ語
     auto: true
+  - translation_iso: kor
+    name: 쿠미아이어
+    auto: true
   - translation_iso: por
     name: Kumiai
     auto: true

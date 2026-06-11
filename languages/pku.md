@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: पाकू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Paku
   - translation_iso: jpn
     name: パク語
+    auto: true
+  - translation_iso: kor
+    name: 파쿠어
     auto: true
   - translation_iso: por
     name: Paku
     auto: true
+  - translation_iso: rus
+    name: Паку
   - translation_iso: spa
     name: Paku
     auto: true

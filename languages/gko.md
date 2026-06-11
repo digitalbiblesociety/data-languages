@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コック・ナル語
     auto: true
+  - translation_iso: kor
+    name: 콕나르어
+    auto: true
   - translation_iso: por
     name: Língua kok-nar
   - translation_iso: spa

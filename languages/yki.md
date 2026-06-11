@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: योके
     auto: true
+  - translation_iso: ind
+    name: Bitovondo
   - translation_iso: jpn
     name: ヨケ語
+    auto: true
+  - translation_iso: kor
+    name: 요케어
     auto: true
   - translation_iso: por
     name: yoke
     auto: true
+  - translation_iso: rus
+    name: йоке
   - translation_iso: spa
     name: Yoke
     auto: true

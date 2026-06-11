@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: रेजांग कायान
     auto: true
+  - translation_iso: ind
+    name: Rajakng Kayan
   - translation_iso: jpn
     name: レジャンカヤン語
+    auto: true
+  - translation_iso: kor
+    name: 레장 카얀어
     auto: true
   - translation_iso: por
     name: Kayan Rejang

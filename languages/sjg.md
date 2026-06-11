@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: アサンゴリ語
     auto: true
+  - translation_iso: kor
+    name: 아상고리어
+    auto: true
   - translation_iso: por
     name: Assangori
     auto: true
+  - translation_iso: rus
+    name: Ассангори
   - translation_iso: spa
     name: Assangori
     auto: true

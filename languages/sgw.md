@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: セントラル・ウェスト・グラゲ語
     auto: true
+  - translation_iso: kor
+    name: 세바트 베트 구라게어
+    auto: true
   - translation_iso: por
     name: Sebat Bet Gurage
     auto: true
+  - translation_iso: rus
+    name: Себат-бет гураге
   - translation_iso: spa
     name: Gurage Sebat Bet
     auto: true

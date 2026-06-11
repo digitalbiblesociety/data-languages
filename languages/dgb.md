@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブノゲ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 부노게 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Bunoge
     auto: true

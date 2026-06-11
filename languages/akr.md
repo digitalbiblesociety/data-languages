@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أراكي
     auto: true
+  - translation_iso: ben
+    name: আরাকি ভাষা
   - translation_iso: deu
     name: Araki
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラキ語
+  - translation_iso: kor
+    name: 아라키어
+    auto: true
   - translation_iso: por
     name: Língua araki
+  - translation_iso: rus
+    name: Араки (язык)
   - translation_iso: spa
     name: Idioma Araki
   - translation_iso: zho

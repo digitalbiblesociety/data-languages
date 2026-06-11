@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チュカ語
     auto: true
+  - translation_iso: kor
+    name: 추카어
+    auto: true
   - translation_iso: por
     name: Chuka
     auto: true

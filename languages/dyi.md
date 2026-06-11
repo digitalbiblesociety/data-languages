@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジミニ・セヌーフォ語
     auto: true
+  - translation_iso: kor
+    name: 지미니 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Djimini
     auto: true

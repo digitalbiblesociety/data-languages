@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゴファ語
     auto: true
+  - translation_iso: kor
+    name: 고파어
+    auto: true
   - translation_iso: por
     name: Gofa
     auto: true

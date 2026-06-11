@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Piedmontese_language"
 translations:
   - translation_iso: ara
     name: البيمنتية
+  - translation_iso: ben
+    name: পিয়েমোন্তেইস ভাষা
   - translation_iso: deu
     name: Piemontesisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: पीडमॉन्टी
     auto: true
+  - translation_iso: ind
+    name: bahasa Piemonte
   - translation_iso: jpn
     name: ピエモンテ語
   - translation_iso: kor
     name: 피에몬테어
   - translation_iso: por
     name: Língua piemontesa
+  - translation_iso: rus
+    name: пьемонтский язык
   - translation_iso: spa
     name: piamontés
   - translation_iso: zho

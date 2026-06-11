@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タムキ語
     auto: true
+  - translation_iso: kor
+    name: 탐키어
+    auto: true
   - translation_iso: por
     name: Tamki
     auto: true

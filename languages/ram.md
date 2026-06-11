@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カネラ語
+  - translation_iso: kor
+    name: 카넬라어
+    auto: true
   - translation_iso: por
     name: Língua Canela
+  - translation_iso: rus
+    name: Канела
   - translation_iso: spa
     name: Canela
     auto: true

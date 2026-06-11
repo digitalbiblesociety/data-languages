@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コパル語
     auto: true
+  - translation_iso: kor
+    name: 코파르어
+    auto: true
   - translation_iso: por
     name: Kopar
     auto: true

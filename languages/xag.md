@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ウディ語
+  - translation_iso: kor
+    name: 캅카스 알바니아어
+    auto: true
   - translation_iso: por
     name: Língua cáucaso-albanesa
+  - translation_iso: rus
+    name: агванский язык
   - translation_iso: spa
     name: albanés caucásico
   - translation_iso: zho

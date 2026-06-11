@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بينجويي
     auto: true
+  - translation_iso: ben
+    name: বেঙ্গোই
   - translation_iso: deu
     name: Benggoi
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेंगोई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Benggoi
   - translation_iso: jpn
     name: ベンゴイ語
+    auto: true
+  - translation_iso: kor
+    name: 벵고이어
     auto: true
   - translation_iso: por
     name: Benggoi

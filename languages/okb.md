@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オコボ語
     auto: true
+  - translation_iso: kor
+    name: 오코보어
+    auto: true
   - translation_iso: por
     name: Okobo
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブットブット・カリンガ語
     auto: true
+  - translation_iso: kor
+    name: 붓붓 칼링가어
+    auto: true
   - translation_iso: por
     name: Kalinga de Butbut
     auto: true

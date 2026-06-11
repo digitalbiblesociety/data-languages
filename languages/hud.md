@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: हुआउलू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Huaulu
   - translation_iso: jpn
     name: フアウル語
+    auto: true
+  - translation_iso: kor
+    name: 후아울루어
     auto: true
   - translation_iso: por
     name: Huaulu

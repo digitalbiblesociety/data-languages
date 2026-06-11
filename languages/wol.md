@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wolof_language"
 translations:
   - translation_iso: ara
     name: الولوفية
+  - translation_iso: ben
+    name: ওলোফ
   - translation_iso: deu
     name: Wolof
   - translation_iso: fra
     name: wolof
   - translation_iso: hin
     name: वोलोफ़
+  - translation_iso: ind
+    name: Wolof
   - translation_iso: jpn
     name: ウォロフ語
   - translation_iso: kor
     name: 월로프어
   - translation_iso: por
     name: Língua uolofe
+  - translation_iso: rus
+    name: волоф
   - translation_iso: spa
     name: wólof
   - translation_iso: zho

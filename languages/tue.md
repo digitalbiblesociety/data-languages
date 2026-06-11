@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ドカプアラエ語
     auto: true
+  - translation_iso: kor
+    name: 투유카어
+    auto: true
   - translation_iso: por
     name: Tuiúcas
+  - translation_iso: rus
+    name: Туюка
   - translation_iso: spa
     name: idioma tuyuca
   - translation_iso: zho

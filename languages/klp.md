@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カマサ語
     auto: true
+  - translation_iso: kor
+    name: 카마사어
+    auto: true
   - translation_iso: por
     name: Kamasa
     auto: true

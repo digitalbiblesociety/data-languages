@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: ben
+    name: আউই
   - translation_iso: deu
     name: Awyi
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अव्यी
     auto: true
+  - translation_iso: ind
+    name: Awyi
   - translation_iso: jpn
     name: アウィ語
+    auto: true
+  - translation_iso: kor
+    name: 아위어
     auto: true
   - translation_iso: por
     name: Awyi

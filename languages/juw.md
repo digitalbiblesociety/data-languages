@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワムファ語
     auto: true
+  - translation_iso: kor
+    name: 와파어
+    auto: true
   - translation_iso: por
     name: Wãpha
     auto: true

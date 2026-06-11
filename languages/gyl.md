@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ガイル語
     auto: true
+  - translation_iso: kor
+    name: 가일어
+    auto: true
   - translation_iso: por
     name: Gayil
     auto: true
+  - translation_iso: rus
+    name: гайильский язык
   - translation_iso: spa
     name: Gayil
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ナテニ語
     auto: true
+  - translation_iso: kor
+    name: 나테니어
+    auto: true
   - translation_iso: por
     name: Nateni
     auto: true
+  - translation_iso: rus
+    name: Натени
   - translation_iso: spa
     name: Nateni
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ミリ語
     auto: true
+  - translation_iso: kor
+    name: 밀리어
+    auto: true
   - translation_iso: por
     name: mili
     auto: true

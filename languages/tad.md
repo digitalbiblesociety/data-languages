@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: ताउसे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tause
   - translation_iso: jpn
     name: タウセ語
+    auto: true
+  - translation_iso: kor
+    name: 타우세어
     auto: true
   - translation_iso: por
     name: Tause
     auto: true
+  - translation_iso: rus
+    name: Таусе
   - translation_iso: spa
     name: Idioma tause
   - translation_iso: zho

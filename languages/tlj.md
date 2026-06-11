@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タリンガ・ブウィシ語
     auto: true
+  - translation_iso: kor
+    name: 탈링가 브위시어
+    auto: true
   - translation_iso: por
     name: Língua talinga
   - translation_iso: spa

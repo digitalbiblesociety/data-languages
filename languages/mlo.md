@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムロンプ語
     auto: true
+  - translation_iso: kor
+    name: 믈롬프어
+    auto: true
   - translation_iso: por
     name: Mlomp
     auto: true

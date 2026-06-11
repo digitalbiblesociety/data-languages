@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イェサーサハ語
     auto: true
+  - translation_iso: kor
+    name: 투텔로어
+    auto: true
   - translation_iso: por
     name: Língua tutelo
   - translation_iso: spa

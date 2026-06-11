@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: グワ語
     auto: true
+  - translation_iso: kor
+    name: 과어
+    auto: true
   - translation_iso: por
     name: Gwa
     auto: true

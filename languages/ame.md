@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムエシャ語
+  - translation_iso: kor
+    name: 야네샤어
+    auto: true
   - translation_iso: por
     name: Língua amuesha
+  - translation_iso: rus
+    name: Янеша
   - translation_iso: spa
     name: yanesha
   - translation_iso: zho

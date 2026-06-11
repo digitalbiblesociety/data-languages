@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムボ語（コンゴ民主共和国）
     auto: true
+  - translation_iso: kor
+    name: 음보어
+    auto: true
   - translation_iso: por
     name: Mbo (República Democrática do Congo)
     auto: true

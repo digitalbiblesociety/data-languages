@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クリパコ語
     auto: true
+  - translation_iso: kor
+    name: 쿠리파코어
+    auto: true
   - translation_iso: por
     name: Curripaco
     auto: true
+  - translation_iso: rus
+    name: Каррипако (язык)
   - translation_iso: spa
     name: Kurripako
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オリング語
     auto: true
+  - translation_iso: kor
+    name: 오링어
+    auto: true
   - translation_iso: por
     name: Oring
     auto: true

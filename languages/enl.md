@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: エンレット語
     auto: true
+  - translation_iso: kor
+    name: 엔레트어
+    auto: true
   - translation_iso: por
     name: Enlhet
     auto: true
+  - translation_iso: rus
+    name: Энльет (язык)
   - translation_iso: spa
     name: enlhet
   - translation_iso: zho

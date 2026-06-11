@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リー語
+  - translation_iso: kor
+    name: 리어
+    auto: true
   - translation_iso: por
     name: Hlai
     auto: true
+  - translation_iso: rus
+    name: ли
   - translation_iso: spa
     name: Hlai
     auto: true

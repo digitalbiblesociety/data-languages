@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الأوزبكية الشمالية
     auto: true
+  - translation_iso: ben
+    name: উত্তর উজবেক ভাষা
   - translation_iso: deu
     name: Nordusbekisch
   - translation_iso: fra
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: 北ウズベク語
     auto: true
+  - translation_iso: kor
+    name: 북부 우즈베크어
+    auto: true
   - translation_iso: por
     name: Usbeque Setentrional
     auto: true
+  - translation_iso: rus
+    name: североузбекский
   - translation_iso: spa
     name: Uzbeko septentrional
     auto: true

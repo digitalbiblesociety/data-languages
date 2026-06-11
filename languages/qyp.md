@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: किरिपी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Quiripi
   - translation_iso: jpn
     name: キリピ
   - translation_iso: kor

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: エニャパ・ウォロマイプ語
     auto: true
+  - translation_iso: kor
+    name: 에냐파 워로마이푸어
+    auto: true
   - translation_iso: por
     name: Língua panare
+  - translation_iso: rus
+    name: Панаре
   - translation_iso: spa
     name: Idioma panare
   - translation_iso: zho

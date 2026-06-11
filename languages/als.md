@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Albanês Tosco
     auto: true
+  - translation_iso: rus
+    name: тоскский диалект албанского языка
   - translation_iso: spa
     name: albanés tosco
   - translation_iso: zho

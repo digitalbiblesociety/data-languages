@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンギセリー語
+  - translation_iso: kor
+    name: 산기사리어
+    auto: true
   - translation_iso: por
     name: Sangisari
     auto: true

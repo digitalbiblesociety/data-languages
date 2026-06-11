@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: एरिताई
     auto: true
+  - translation_iso: ind
+    name: Babiruwa
   - translation_iso: jpn
     name: エリタイ語
+    auto: true
+  - translation_iso: kor
+    name: 에리타이어
     auto: true
   - translation_iso: por
     name: Eritai
     auto: true
+  - translation_iso: rus
+    name: Эритайский язык
   - translation_iso: spa
     name: Eritai
     auto: true

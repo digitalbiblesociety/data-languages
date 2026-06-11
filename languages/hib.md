@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヒビト語
     auto: true
+  - translation_iso: kor
+    name: 이비토어
+    auto: true
   - translation_iso: por
     name: Hibito
     auto: true
+  - translation_iso: rus
+    name: Ибито
   - translation_iso: spa
     name: hibito
   - translation_iso: zho

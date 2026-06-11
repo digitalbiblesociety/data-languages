@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パウリ・バレリ語
     auto: true
+  - translation_iso: kor
+    name: 파우리 바렐리어
+    auto: true
   - translation_iso: por
     name: Pauri Bareli
     auto: true

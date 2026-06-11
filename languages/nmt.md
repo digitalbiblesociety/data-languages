@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナモヌイト語
+  - translation_iso: kor
+    name: 나모누이토어
+    auto: true
   - translation_iso: por
     name: Língua namonuito
   - translation_iso: spa

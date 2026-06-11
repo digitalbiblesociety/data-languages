@@ -28,12 +28,16 @@ translations:
     name: sariqoli
   - translation_iso: hin
     name: सरिकोली भाषा
+  - translation_iso: ind
+    name: Bahasa Sarikoli
   - translation_iso: jpn
     name: サリコリ語
   - translation_iso: kor
     name: 사리콜리어
   - translation_iso: por
     name: língua sarikoli
+  - translation_iso: rus
+    name: сарыкольский язык
   - translation_iso: spa
     name: idioma sarikoli
   - translation_iso: zho

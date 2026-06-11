@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sicilian_language"
 translations:
   - translation_iso: ara
     name: الصقلية
+  - translation_iso: ben
+    name: সিসিলিয়ান
   - translation_iso: deu
     name: Sizilianisch
   - translation_iso: fra
     name: sicilien
   - translation_iso: hin
     name: सिसिलियन
+  - translation_iso: ind
+    name: Sisilia
   - translation_iso: jpn
     name: シチリア語
   - translation_iso: kor
     name: 시칠리아어
   - translation_iso: por
     name: Língua siciliana
+  - translation_iso: rus
+    name: сицилийский
   - translation_iso: spa
     name: siciliano
   - translation_iso: zho

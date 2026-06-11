@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コロ・ワチ語
     auto: true
+  - translation_iso: kor
+    name: 코로 와치어
+    auto: true
   - translation_iso: por
     name: Koro Wachi
     auto: true

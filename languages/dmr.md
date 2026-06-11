@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पूर्वी दामार
     auto: true
+  - translation_iso: ind
+    name: Damar Timur
   - translation_iso: jpn
     name: イースト・ダマル語
+    auto: true
+  - translation_iso: kor
+    name: 동부 다마르어
     auto: true
   - translation_iso: por
     name: Damar Timur

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: モコレ語
     auto: true
+  - translation_iso: kor
+    name: 모콜레어
+    auto: true
   - translation_iso: por
     name: Língua mocolé
+  - translation_iso: rus
+    name: Моколе
   - translation_iso: spa
     name: Mokole
     auto: true

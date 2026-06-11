@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヤミナウア語
     auto: true
+  - translation_iso: kor
+    name: 야미나와어
+    auto: true
   - translation_iso: por
     name: Língua Yaminauá
+  - translation_iso: rus
+    name: яминауа
   - translation_iso: spa
     name: idioma yaminahua
   - translation_iso: zho

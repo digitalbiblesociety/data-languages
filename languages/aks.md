@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكاسيليم
     auto: true
+  - translation_iso: ben
+    name: আকসালেম
   - translation_iso: deu
     name: Akaselem
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカセレム語
+    auto: true
+  - translation_iso: kor
+    name: 아카셀렘어
     auto: true
   - translation_iso: por
     name: Língua akaselem

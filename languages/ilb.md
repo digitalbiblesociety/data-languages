@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラ語
+  - translation_iso: kor
+    name: 일라어
+    auto: true
   - translation_iso: por
     name: Ila
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كاري
     auto: true
+  - translation_iso: ben
+    name: আকা-কারি
   - translation_iso: deu
     name: Aka-Cari
     auto: true
@@ -38,6 +40,8 @@ translations:
   - translation_iso: por
     name: Aka-Cari
     auto: true
+  - translation_iso: rus
+    name: чариар
   - translation_iso: spa
     name: Idioma cari
   - translation_iso: zho

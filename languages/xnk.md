@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ンガナカルティ語
     auto: true
+  - translation_iso: kor
+    name: 응아나카르티어
+    auto: true
   - translation_iso: por
     name: Nganakarti
     auto: true

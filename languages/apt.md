@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أباتاني
     auto: true
+  - translation_iso: ben
+    name: অপতানি ভাষা
   - translation_iso: deu
     name: Apatani
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: अपतानी भाषा
   - translation_iso: jpn
     name: アパタニ語
+  - translation_iso: kor
+    name: 아파타니어
+    auto: true
   - translation_iso: por
     name: Língua apatani
+  - translation_iso: rus
+    name: апатани
   - translation_iso: spa
     name: idioma apatani
   - translation_iso: zho

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダン語
+  - translation_iso: kor
+    name: 단어
+    auto: true
   - translation_iso: por
     name: Língua dan
   - translation_iso: spa

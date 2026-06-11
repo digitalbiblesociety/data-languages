@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: サルシー語
     auto: true
+  - translation_iso: kor
+    name: 사르시어
+    auto: true
   - translation_iso: por
     name: Língua sarcee
+  - translation_iso: rus
+    name: сарси
   - translation_iso: spa
     name: sarcee
   - translation_iso: zho

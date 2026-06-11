@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मेकवेई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mekwei
   - translation_iso: jpn
     name: メクウェイ語
+    auto: true
+  - translation_iso: kor
+    name: 메퀘이어
     auto: true
   - translation_iso: por
     name: Mekwei

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ソンバ・シアワリ語
     auto: true
+  - translation_iso: kor
+    name: 솜바·시아와리어
+    auto: true
   - translation_iso: por
     name: Somba-Siawari
     auto: true

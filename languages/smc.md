@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ディナンゲット語
     auto: true
+  - translation_iso: kor
+    name: 솜어
+    auto: true
   - translation_iso: por
     name: Som
     auto: true

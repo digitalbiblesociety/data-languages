@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: タンボタロ語
     auto: true
+  - translation_iso: kor
+    name: 탐보탈로어
+    auto: true
   - translation_iso: por
     name: Tambotalo
     auto: true
+  - translation_iso: rus
+    name: Тамботало
   - translation_iso: spa
     name: Tambotalo
     auto: true

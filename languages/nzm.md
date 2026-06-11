@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيمي ناغا
     auto: true
+  - translation_iso: ben
+    name: জেমে ভাষা
   - translation_iso: deu
     name: Zeme-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: ज़ेमे भाषा
   - translation_iso: jpn
     name: ゼメ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 제메 나가어
     auto: true
   - translation_iso: por
     name: Naga Zeme

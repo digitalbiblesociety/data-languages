@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サンタ・イネス・ヤツェチ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 산타이네스야체치 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Santa Inés Yatzechi
     auto: true
+  - translation_iso: rus
+    name: Санта-инес-яцечийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Santa Inés Yatzechi
     auto: true

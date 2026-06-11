@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファス語
     auto: true
+  - translation_iso: kor
+    name: 파스어
+    auto: true
   - translation_iso: por
     name: Fas
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミドブ語
+  - translation_iso: kor
+    name: 미도브어
+    auto: true
   - translation_iso: por
     name: Midob
     auto: true

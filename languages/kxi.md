@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケニンガウ・ムルット語
     auto: true
+  - translation_iso: kor
+    name: 케닝가우 무루트어
+    auto: true
   - translation_iso: por
     name: Murut de Keningau
     auto: true

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: वैगली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Waigal
   - translation_iso: jpn
     name: ワイガリ語
+  - translation_iso: kor
+    name: 와이갈리어
+    auto: true
   - translation_iso: por
     name: Waigali
     auto: true
+  - translation_iso: rus
+    name: Вайгали
   - translation_iso: spa
     name: waigali
   - translation_iso: zho

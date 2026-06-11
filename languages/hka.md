@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヘ語
+  - translation_iso: kor
+    name: 카헤어
+    auto: true
   - translation_iso: por
     name: Kahe
     auto: true

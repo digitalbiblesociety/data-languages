@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ماهالي
     auto: true
+  - translation_iso: ben
+    name: মাহালী
   - translation_iso: deu
     name: Mahali
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: マハリ語
     auto: true
+  - translation_iso: kor
+    name: 마할리어
+    auto: true
   - translation_iso: por
     name: Mahali
     auto: true
+  - translation_iso: rus
+    name: махали
   - translation_iso: spa
     name: Mahali
     auto: true

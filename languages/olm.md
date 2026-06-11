@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オロマ語
     auto: true
+  - translation_iso: kor
+    name: 올로마어
+    auto: true
   - translation_iso: por
     name: Oloma
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोम्बाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Kombai
   - translation_iso: jpn
     name: コンバイ語
+  - translation_iso: kor
+    name: 콤바이어
+    auto: true
   - translation_iso: por
     name: Kombai
     auto: true

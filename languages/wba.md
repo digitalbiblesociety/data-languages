@@ -25,12 +25,16 @@ translations:
   - translation_iso: hin
     name: वराओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Warao
   - translation_iso: jpn
     name: ワラオ語
   - translation_iso: kor
     name: 와라오어
   - translation_iso: por
     name: Língua warao
+  - translation_iso: rus
+    name: варао
   - translation_iso: spa
     name: idioma guarao
   - translation_iso: zho

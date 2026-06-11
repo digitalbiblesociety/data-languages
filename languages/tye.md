@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テイエンガ語
     auto: true
+  - translation_iso: kor
+    name: 키앙가어
+    auto: true
   - translation_iso: por
     name: Kyanga
     auto: true

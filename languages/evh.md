@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウヴビエ語
     auto: true
+  - translation_iso: kor
+    name: 우비에어
+    auto: true
   - translation_iso: por
     name: Uvbie
     auto: true
+  - translation_iso: rus
+    name: увбие
   - translation_iso: spa
     name: Uvbie
     auto: true

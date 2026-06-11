@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東ニャラ語
     auto: true
+  - translation_iso: kor
+    name: 동부 냘라어
+    auto: true
   - translation_iso: por
     name: Nyala Oriental
     auto: true

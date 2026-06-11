@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グワハティケ語
     auto: true
+  - translation_iso: kor
+    name: 과하티케어
+    auto: true
   - translation_iso: por
     name: Gwahatike
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yao_language"
 translations:
   - translation_iso: ara
     name: الياو
+  - translation_iso: ben
+    name: ইয়াও
   - translation_iso: deu
     name: Yao
   - translation_iso: fra
     name: chiyao
   - translation_iso: hin
     name: याओ
+  - translation_iso: ind
+    name: Yao
   - translation_iso: jpn
     name: ヤオ語
   - translation_iso: kor
     name: 야오어
   - translation_iso: por
     name: Ciyao
+  - translation_iso: rus
+    name: яо
   - translation_iso: spa
     name: Idioma yao
   - translation_iso: zho

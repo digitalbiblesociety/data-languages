@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グレイ語
     auto: true
+  - translation_iso: kor
+    name: 굴라이어
+    auto: true
   - translation_iso: por
     name: Gulay
     auto: true

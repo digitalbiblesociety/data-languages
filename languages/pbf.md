@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コヨテペック・ポポロカ語
     auto: true
+  - translation_iso: kor
+    name: 코요테페크 포폴로카어
+    auto: true
   - translation_iso: por
     name: Popoloca de Coyotepec
     auto: true
+  - translation_iso: rus
+    name: Койотепекский пополокский язык
   - translation_iso: spa
     name: Popoloca de Coyotepec
     auto: true

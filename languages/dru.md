@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: रुकाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Rukai
   - translation_iso: jpn
     name: ルカイ語
   - translation_iso: kor
     name: 루카이어
   - translation_iso: por
     name: Língua rukai
+  - translation_iso: rus
+    name: рукаи
   - translation_iso: spa
     name: rukai
   - translation_iso: zho

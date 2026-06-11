@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルマイパラウン語
     auto: true
+  - translation_iso: kor
+    name: 루마이 팔라웅어
+    auto: true
   - translation_iso: por
     name: Palaung Rumai
     auto: true

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: तेवा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Tewa
   - translation_iso: jpn
     name: テワ語
     auto: true
+  - translation_iso: kor
+    name: 테와어
+    auto: true
   - translation_iso: por
     name: Língua teiwa
+  - translation_iso: rus
+    name: тева
   - translation_iso: spa
     name: Tewa (Indonesia)
     auto: true

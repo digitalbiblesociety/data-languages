@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドンゴトノ語
+  - translation_iso: kor
+    name: 동고토노어
+    auto: true
   - translation_iso: por
     name: Língua dongotono
   - translation_iso: spa

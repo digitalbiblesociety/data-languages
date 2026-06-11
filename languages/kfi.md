@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كانادا كوروما
     auto: true
+  - translation_iso: ben
+    name: কুরুম্বা ভাষা
   - translation_iso: deu
     name: Kannada-Kurumba
     auto: true
@@ -26,6 +28,9 @@ translations:
     name: कुरुबा भाषा
   - translation_iso: jpn
     name: クルンバ語
+  - translation_iso: kor
+    name: 칸나다 쿠룸바어
+    auto: true
   - translation_iso: por
     name: Kurumba Kannada
     auto: true

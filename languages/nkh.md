@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: خيزها ناغا
     auto: true
+  - translation_iso: ben
+    name: খেজা ভাষা
   - translation_iso: deu
     name: Khezha-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: खेज़ा भाषा
   - translation_iso: jpn
     name: ケーザ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 케자 나가어
     auto: true
   - translation_iso: por
     name: Naga Khezha

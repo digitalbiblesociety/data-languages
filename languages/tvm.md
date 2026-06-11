@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: テラ・マスブアル語
     auto: true
+  - translation_iso: kor
+    name: 텔라마스부아르어
+    auto: true
   - translation_iso: por
     name: Tela-Masbuar
     auto: true

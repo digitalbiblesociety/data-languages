@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: लोलाक
     auto: true
+  - translation_iso: ind
+    name: Lolak
   - translation_iso: jpn
     name: ロラク語
+  - translation_iso: kor
+    name: 롤라크어
+    auto: true
   - translation_iso: por
     name: Lolak
     auto: true

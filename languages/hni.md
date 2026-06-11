@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: हानी
     auto: true
+  - translation_iso: ind
+    name: Hani
   - translation_iso: jpn
     name: ハニ語
   - translation_iso: kor
     name: 하니어
   - translation_iso: por
     name: Língua hani
+  - translation_iso: rus
+    name: Хани
   - translation_iso: spa
     name: Hani
     auto: true

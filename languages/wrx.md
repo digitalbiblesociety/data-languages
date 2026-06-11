@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: वाए राना
     auto: true
+  - translation_iso: ind
+    name: Wae Rana
   - translation_iso: jpn
     name: ワエ・ラナ語
+    auto: true
+  - translation_iso: kor
+    name: 와에 라나어
     auto: true
   - translation_iso: por
     name: Wae Rana

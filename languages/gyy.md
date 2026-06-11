@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グニャ語
     auto: true
+  - translation_iso: kor
+    name: 군야어
+    auto: true
   - translation_iso: por
     name: Gunya
     auto: true

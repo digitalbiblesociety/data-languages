@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イヨフワハ・チョロテ語
     auto: true
+  - translation_iso: kor
+    name: 이요후아하 초로테어
+    auto: true
   - translation_iso: por
     name: "Chorote Iyojwa'ja"
     auto: true
+  - translation_iso: rus
+    name: Ийохваха-чороте
   - translation_iso: spa
     name: "Chorote iyojwa'ja"
   - translation_iso: zho

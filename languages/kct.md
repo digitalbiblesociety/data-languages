@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カイアン語
     auto: true
+  - translation_iso: kor
+    name: 카이안어
+    auto: true
   - translation_iso: por
     name: Kaian
     auto: true

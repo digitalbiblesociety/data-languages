@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तुगुतिल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Togutil
   - translation_iso: jpn
     name: トゥグティル語
+    auto: true
+  - translation_iso: kor
+    name: 투구틸어
     auto: true
   - translation_iso: por
     name: Tugutil

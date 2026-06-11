@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ショクレング語
     auto: true
+  - translation_iso: kor
+    name: 쇼클렝어
+    auto: true
   - translation_iso: por
     name: língua xoclengue
+  - translation_iso: rus
+    name: Шокленг
   - translation_iso: spa
     name: lengua xokleng
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: トー語
     auto: true
+  - translation_iso: kor
+    name: 토어
+    auto: true
   - translation_iso: por
     name: Tho
     auto: true
+  - translation_iso: rus
+    name: тхо
   - translation_iso: spa
     name: Tho
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 코만치어
   - translation_iso: por
     name: Língua comanche
+  - translation_iso: rus
+    name: команчский язык
   - translation_iso: spa
     name: Idioma comanche
   - translation_iso: zho

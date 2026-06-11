@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パパパナ語
     auto: true
+  - translation_iso: kor
+    name: 파파파나어
+    auto: true
   - translation_iso: por
     name: Papapana
     auto: true

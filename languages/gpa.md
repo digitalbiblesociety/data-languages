@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: グパ・アバワ語
     auto: true
+  - translation_iso: kor
+    name: 구파·아바와어
+    auto: true
   - translation_iso: por
     name: Gupa-Abawa
     auto: true

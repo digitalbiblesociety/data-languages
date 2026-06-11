@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パイナマル語
     auto: true
+  - translation_iso: kor
+    name: 파이나마르어
+    auto: true
   - translation_iso: por
     name: Paynamar
     auto: true

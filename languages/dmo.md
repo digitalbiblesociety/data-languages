@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケメドズング語
     auto: true
+  - translation_iso: kor
+    name: 케메중어
+    auto: true
   - translation_iso: por
     name: Kemedzung
     auto: true

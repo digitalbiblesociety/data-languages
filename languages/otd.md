@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ओत दानुम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ot Danum
   - translation_iso: jpn
     name: オト・ダヌム語
+    auto: true
+  - translation_iso: kor
+    name: 오트다눔어
     auto: true
   - translation_iso: por
     name: Ot Danum

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: コアトラン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 코아틀란 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Coatlán
     auto: true
+  - translation_iso: rus
+    name: Коатланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Coatlán
     auto: true

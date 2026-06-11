@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: लाहा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Laha
   - translation_iso: jpn
     name: ラハ語
+    auto: true
+  - translation_iso: kor
+    name: 라하어
     auto: true
   - translation_iso: por
     name: Laha (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: Лаха
   - translation_iso: spa
     name: Laha
     auto: true

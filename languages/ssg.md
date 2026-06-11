@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セイマット語
     auto: true
+  - translation_iso: kor
+    name: 세이마트어
+    auto: true
   - translation_iso: por
     name: Seimat
     auto: true

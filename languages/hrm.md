@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 角苗語
+  - translation_iso: kor
+    name: 자오자오 먀오어
+    auto: true
   - translation_iso: por
     name: Miao Cornudo
     auto: true

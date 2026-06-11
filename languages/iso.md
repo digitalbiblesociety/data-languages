@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イソコ語
+  - translation_iso: kor
+    name: 이소코어
+    auto: true
   - translation_iso: por
     name: Língua isoco
+  - translation_iso: rus
+    name: исоко
   - translation_iso: spa
     name: Isoko
     auto: true

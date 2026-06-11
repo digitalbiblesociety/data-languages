@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة بان خور الإشارية
     auto: true
+  - translation_iso: ben
+    name: ব্যান খোর সাংকেতিক ভাষা
   - translation_iso: deu
     name: Ban Khor-Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     name: बान खोर सांकेतिक भाषा
   - translation_iso: jpn
     name: バンコール手話
+  - translation_iso: kor
+    name: 반코르 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais de Ban Khor
+  - translation_iso: rus
+    name: бан-кхорский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Ban Khor
     auto: true

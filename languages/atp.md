@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プドトル・アッタ語
     auto: true
+  - translation_iso: kor
+    name: 푸드톨 아타어
+    auto: true
   - translation_iso: por
     name: Atta de Pudtol
     auto: true

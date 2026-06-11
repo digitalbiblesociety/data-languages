@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドエ語
     auto: true
+  - translation_iso: kor
+    name: 도에어
+    auto: true
   - translation_iso: por
     name: Doe
     auto: true

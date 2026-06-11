@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ルムー語
     auto: true
+  - translation_iso: kor
+    name: 루무어
+    auto: true
   - translation_iso: por
     name: Rumu
     auto: true

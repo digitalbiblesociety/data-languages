@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Min"
 translations:
   - translation_iso: ara
     name: مين نان
+  - translation_iso: ben
+    name: দক্ষিণী মিন
   - translation_iso: deu
     name: Min Nan
   - translation_iso: fra
     name: minnan
   - translation_iso: hin
     name: दक्षिणी मिन
+  - translation_iso: ind
+    name: Min Selatan
   - translation_iso: jpn
     name: 閩南語
   - translation_iso: kor
     name: 민난어
   - translation_iso: por
     name: Min Nan
+  - translation_iso: rus
+    name: миньнань
   - translation_iso: spa
     name: chino min nan
   - translation_iso: zho

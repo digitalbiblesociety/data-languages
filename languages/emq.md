@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東ミニャン語
     auto: true
+  - translation_iso: kor
+    name: 동부 미냐그어
+    auto: true
   - translation_iso: por
     name: minyag oriental
     auto: true

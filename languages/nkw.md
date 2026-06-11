@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンクツ語
     auto: true
+  - translation_iso: kor
+    name: 은쿠투어
+    auto: true
   - translation_iso: por
     name: Nkutu
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة خمو
     auto: true
+  - translation_iso: ben
+    name: খমু ভাষা
   - translation_iso: deu
     name: Khmu
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: ख्मू
     auto: true
+  - translation_iso: ind
+    name: Khmu
   - translation_iso: jpn
     name: クム語
   - translation_iso: kor
     name: 크무어
   - translation_iso: por
     name: Língua Khmu
+  - translation_iso: rus
+    name: кхму
   - translation_iso: spa
     name: Idioma khmu
   - translation_iso: zho

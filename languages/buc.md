@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: बुशी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bushi
   - translation_iso: jpn
     name: ブシ語
+  - translation_iso: kor
+    name: 부시어
+    auto: true
   - translation_iso: por
     name: Língua bushi
+  - translation_iso: rus
+    name: Буши
   - translation_iso: spa
     name: bushi
   - translation_iso: zho

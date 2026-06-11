@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمباكيت
     auto: true
+  - translation_iso: ben
+    name: আম্বাকিচ
   - translation_iso: deu
     name: Ambakich
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバキッチ語
+    auto: true
+  - translation_iso: kor
+    name: 암바키치어
     auto: true
   - translation_iso: por
     name: Ambakich

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: トゥルムサ語
     auto: true
+  - translation_iso: kor
+    name: 투룸사어
+    auto: true
   - translation_iso: por
     name: Turumsa
     auto: true
+  - translation_iso: rus
+    name: Турумса
   - translation_iso: spa
     name: Turumsa
     auto: true

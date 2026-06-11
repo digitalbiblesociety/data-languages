@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジバ語
     auto: true
+  - translation_iso: kor
+    name: 지바어
+    auto: true
   - translation_iso: por
     name: Jiba
     auto: true

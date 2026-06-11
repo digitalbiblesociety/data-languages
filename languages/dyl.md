@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ブータン手話
     auto: true
+  - translation_iso: kor
+    name: 부탄 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Butanesa
     auto: true

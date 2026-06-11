@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: زارفاتيك
     auto: true
+  - translation_iso: ben
+    name: জার্ফাটীয় ভাষা
   - translation_iso: deu
     name: Zarfatisch
   - translation_iso: fra
@@ -25,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァルファティート
+  - translation_iso: kor
+    name: 자르파트어
+    auto: true
   - translation_iso: por
     name: Língua zarfática
+  - translation_iso: rus
+    name: еврейско-французский язык
   - translation_iso: spa
     name: Zarfático
   - translation_iso: zho

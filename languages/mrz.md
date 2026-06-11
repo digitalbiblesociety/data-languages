@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: मारिंद
     auto: true
+  - translation_iso: ind
+    name: Bahasa Marind
   - translation_iso: jpn
     name: マリンド語
+    auto: true
+  - translation_iso: kor
+    name: 마린드어
     auto: true
   - translation_iso: por
     name: Marind
     auto: true
+  - translation_iso: rus
+    name: маринд
   - translation_iso: spa
     name: Marind
     auto: true

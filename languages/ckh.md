@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشاك
     auto: true
+  - translation_iso: ben
+    name: চাক ভাষা
   - translation_iso: deu
     name: Chak
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サク諸語
+  - translation_iso: kor
+    name: 차크어
+    auto: true
   - translation_iso: por
     name: Chak
     auto: true

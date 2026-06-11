@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ウェンバ・ウェンバ語
     auto: true
+  - translation_iso: kor
+    name: 웸바 웸바어
+    auto: true
   - translation_iso: por
     name: Língua wemba wemba
   - translation_iso: spa

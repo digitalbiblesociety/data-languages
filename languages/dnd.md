@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダオンダ語
     auto: true
+  - translation_iso: kor
+    name: 다온다어
+    auto: true
   - translation_iso: por
     name: Daonda
     auto: true

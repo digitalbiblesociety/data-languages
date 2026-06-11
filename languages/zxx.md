@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/ISO_639:zxx"
 translations:
   - translation_iso: ara
     name: بدون محتوى لغوي
+  - translation_iso: ben
+    name: ভাষাভিত্তিক বিষয়বস্তু নেই
   - translation_iso: deu
     name: kein sprachlicher Inhalt
   - translation_iso: fra
     name: pas de contenu linguistique
   - translation_iso: hin
     name: कोई भाषा सामग्री नहीं
+  - translation_iso: ind
+    name: Tidak ada konten linguistik
   - translation_iso: jpn
     name: 言語的内容無し
   - translation_iso: kor
     name: 언어적 내용 없음
   - translation_iso: por
     name: sem conteúdo linguístico
+  - translation_iso: rus
+    name: нет языкового материала
   - translation_iso: spa
     name: sin contenido lingüístico
   - translation_iso: zho

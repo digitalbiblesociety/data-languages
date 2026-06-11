@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サンタ・カタリナ・アルバラダス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 산타카타리나알바라다스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Santa Catarina Albarradas
     auto: true
+  - translation_iso: rus
+    name: Санта-катарина-альбаррадасский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Santa Catarina Albarradas
     auto: true

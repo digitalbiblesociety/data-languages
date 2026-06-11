@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダングゥ・ジャングゥ語
     auto: true
+  - translation_iso: kor
+    name: 당구장구어
+    auto: true
   - translation_iso: por
     name: Dhangu-Djangu
     auto: true

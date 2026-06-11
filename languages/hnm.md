@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: हाइनानी
     auto: true
+  - translation_iso: ind
+    name: bahasa Hainan
   - translation_iso: jpn
     name: 海南語
   - translation_iso: kor
     name: 하이난어
   - translation_iso: por
     name: Hainanês
+  - translation_iso: rus
+    name: Хайнаньский язык
   - translation_iso: spa
     name: Chino hainanés
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラウイ・ロムウェ語
+  - translation_iso: kor
+    name: 말라위 롬웨어
+    auto: true
   - translation_iso: por
     name: Lomwe do Malawi
     auto: true
+  - translation_iso: rus
+    name: Малавийский ломве
   - translation_iso: spa
     name: Lomwe de Malaui
     auto: true

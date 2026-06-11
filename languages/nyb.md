@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャングボ語
+  - translation_iso: kor
+    name: 냥보어
+    auto: true
   - translation_iso: por
     name: Nyangbo
     auto: true

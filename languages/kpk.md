@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クパン語
     auto: true
+  - translation_iso: kor
+    name: 크판어
+    auto: true
   - translation_iso: por
     name: Kpan
     auto: true

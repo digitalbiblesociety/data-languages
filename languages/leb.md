@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ララ・ビサ語
     auto: true
+  - translation_iso: kor
+    name: 랄라비사어
+    auto: true
   - translation_iso: por
     name: Lala-Bisa
     auto: true
+  - translation_iso: rus
+    name: Лала-биса
   - translation_iso: spa
     name: Lala-Bisa
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: シンサウル語
     auto: true
+  - translation_iso: kor
+    name: 코우어
+    auto: true
   - translation_iso: por
     name: Kou
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Brahvi_language"
 translations:
   - translation_iso: ara
     name: البراهوية
+  - translation_iso: ben
+    name: ব্রাহুই ভাষা
   - translation_iso: deu
     name: Brahui
   - translation_iso: fra
     name: brahoui
   - translation_iso: hin
     name: ब्राहुई भाषा
+  - translation_iso: ind
+    name: Brahui
   - translation_iso: jpn
     name: ブラーフーイー語
   - translation_iso: kor
     name: 브라후이어
   - translation_iso: por
     name: Língua brahui
+  - translation_iso: rus
+    name: брауи
   - translation_iso: spa
     name: Idioma brahui
   - translation_iso: zho

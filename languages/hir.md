@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ヒマリマ語
     auto: true
+  - translation_iso: kor
+    name: 히마리마어
+    auto: true
   - translation_iso: por
     name: Himarimã
     auto: true
+  - translation_iso: rus
+    name: Имариман
   - translation_iso: spa
     name: Himarimã
   - translation_iso: zho

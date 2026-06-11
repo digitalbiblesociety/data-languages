@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: योनागुनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yonaguni
   - translation_iso: jpn
     name: 与那国語
   - translation_iso: kor
     name: 요나구니어
   - translation_iso: por
     name: Língua Yonaguni
+  - translation_iso: rus
+    name: йонагунский язык
   - translation_iso: spa
     name: yonaguni
   - translation_iso: zho

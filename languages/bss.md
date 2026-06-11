@@ -26,12 +26,16 @@ translations:
     name: akoose
   - translation_iso: hin
     name: अकूसे
+  - translation_iso: ind
+    name: Akoose
   - translation_iso: jpn
     name: アコース語
   - translation_iso: kor
     name: 아쿠즈어
   - translation_iso: por
     name: akoose
+  - translation_iso: rus
+    name: акоосе
   - translation_iso: spa
     name: akoose
   - translation_iso: zho

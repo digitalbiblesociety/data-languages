@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヤノマミ語
     auto: true
+  - translation_iso: kor
+    name: 야노마미어
+    auto: true
   - translation_iso: por
     name: Língua ianomâmi
+  - translation_iso: rus
+    name: Яномами
   - translation_iso: spa
     name: Yanomami
     auto: true

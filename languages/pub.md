@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: プルム語
     auto: true
+  - translation_iso: kor
+    name: 푸룸어
+    auto: true
   - translation_iso: por
     name: Purum
     auto: true

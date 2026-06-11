@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マクワ・モニガ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠와모니가어
+    auto: true
   - translation_iso: por
     name: Makhuwa-Moniga
     auto: true

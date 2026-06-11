@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北ファリ語
     auto: true
+  - translation_iso: kor
+    name: 북부 팔리어
+    auto: true
   - translation_iso: por
     name: fali do norte
     auto: true
+  - translation_iso: rus
+    name: Северный фали
   - translation_iso: spa
     name: Fali del Norte
     auto: true

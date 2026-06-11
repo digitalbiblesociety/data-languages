@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة كريولو جينيا العليا
     auto: true
+  - translation_iso: ben
+    name: গিনি-বিসাউ ক্রেওল
   - translation_iso: deu
     name: Guineabissauisches Kreol
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 기니비사우 크리올
   - translation_iso: por
     name: crioulo da Guiné-Bissau
+  - translation_iso: rus
+    name: Креольский португальский язык
   - translation_iso: spa
     name: Criollo de Guinea-Bisáu
   - translation_iso: zho

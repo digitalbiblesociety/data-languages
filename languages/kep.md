@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カイカディ語
     auto: true
+  - translation_iso: kor
+    name: 카이카디어
+    auto: true
   - translation_iso: por
     name: Kaikadi
     auto: true

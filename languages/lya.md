@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヤ語
+  - translation_iso: kor
+    name: 라야카어
+    auto: true
   - translation_iso: por
     name: Layakha
     auto: true
+  - translation_iso: rus
+    name: Лая-кха
   - translation_iso: spa
     name: Layakha
     auto: true

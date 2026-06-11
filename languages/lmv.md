@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ロマイビティ語
     auto: true
+  - translation_iso: kor
+    name: 로마이비티어
+    auto: true
   - translation_iso: por
     name: Lomaiviti
     auto: true
+  - translation_iso: rus
+    name: ломаивичи
   - translation_iso: spa
     name: Idioma lomaiviti
   - translation_iso: zho

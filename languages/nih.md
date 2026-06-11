@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニハ語
+  - translation_iso: kor
+    name: 니하어
+    auto: true
   - translation_iso: por
     name: Nyiha (Tanzânia)
     auto: true

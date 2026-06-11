@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イワム語
     auto: true
+  - translation_iso: kor
+    name: 이왐어
+    auto: true
   - translation_iso: por
     name: Iwam
     auto: true

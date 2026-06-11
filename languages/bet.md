@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: غيبيروا بيتي
     auto: true
+  - translation_iso: ben
+    name: বেটে গুইবেরুয়া
   - translation_iso: deu
     name: Guiberoua Béte
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギベルア・ベテ語
+    auto: true
+  - translation_iso: kor
+    name: 기베루아 베테어
     auto: true
   - translation_iso: por
     name: Guiberoua Béte

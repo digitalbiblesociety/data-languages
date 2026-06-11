@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジャブガイ語
     auto: true
+  - translation_iso: kor
+    name: 자부가이어
+    auto: true
   - translation_iso: por
     name: Djabugay
     auto: true
+  - translation_iso: rus
+    name: Тяпукай
   - translation_iso: spa
     name: idioma djabugay
   - translation_iso: zho

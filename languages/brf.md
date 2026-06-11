@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ベラ語
     auto: true
+  - translation_iso: kor
+    name: 베라어
+    auto: true
   - translation_iso: por
     name: Bera
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तेरेवेंग
     auto: true
+  - translation_iso: ind
+    name: Tereweng
   - translation_iso: jpn
     name: テレウェング語
+    auto: true
+  - translation_iso: kor
+    name: 테레웽어
     auto: true
   - translation_iso: por
     name: Tereweng

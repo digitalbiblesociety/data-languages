@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムユウ語
+  - translation_iso: kor
+    name: 무유어
+    auto: true
   - translation_iso: por
     name: Muyuw
     auto: true
+  - translation_iso: rus
+    name: Муюв
   - translation_iso: spa
     name: Muyuw
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムサウ・エミラ語
+  - translation_iso: kor
+    name: 무사우·에미라어
+    auto: true
   - translation_iso: por
     name: Mussau-Emira
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मारिरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mariri
   - translation_iso: jpn
     name: マリリ語
+    auto: true
+  - translation_iso: kor
+    name: 마리리어
     auto: true
   - translation_iso: por
     name: Mariri

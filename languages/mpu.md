@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: マクラップ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠라프어
+    auto: true
   - translation_iso: por
     name: Língua makurap
+  - translation_iso: rus
+    name: Макурап
   - translation_iso: spa
     name: Makuráp
     auto: true

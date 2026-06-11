@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: توني بو أنجوستورس
     auto: true
+  - translation_iso: ben
+    name: অ্যাঙ্গোস্টুরাস টুনেবো
   - translation_iso: deu
     name: Angosturas Tunebo
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンゴストゥラス・トゥネボ語
+    auto: true
+  - translation_iso: kor
+    name: 앙고스투라스 투네보어
     auto: true
   - translation_iso: por
     name: Tunebo de Angosturas

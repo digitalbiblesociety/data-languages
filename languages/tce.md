@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tutchone_language"
 translations:
   - translation_iso: ara
     name: التوتشون الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণী টুচোন
   - translation_iso: deu
     name: Südliches Tutchone
   - translation_iso: fra
     name: tutchone du Sud
   - translation_iso: hin
     name: दक्षिणी टशोनी
+  - translation_iso: ind
+    name: Tutchone Selatan
   - translation_iso: jpn
     name: 南部トゥショーニ語
   - translation_iso: kor
     name: 남부 투톤어
   - translation_iso: por
     name: tutchone do sul
+  - translation_iso: rus
+    name: южный тутчоне
   - translation_iso: spa
     name: tutchone meridional
   - translation_iso: zho

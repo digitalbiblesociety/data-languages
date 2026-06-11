@@ -33,9 +33,14 @@ translations:
     name: शेखावाटी भाषा
   - translation_iso: jpn
     name: シェカワティ語
+  - translation_iso: kor
+    name: 셰카와티어
+    auto: true
   - translation_iso: por
     name: Shekhawati
     auto: true
+  - translation_iso: rus
+    name: Шекхавати
   - translation_iso: spa
     name: Shekhawati
     auto: true

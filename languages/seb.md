@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シェンピレ語
     auto: true
+  - translation_iso: kor
+    name: 솀피레 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Shempire
     auto: true

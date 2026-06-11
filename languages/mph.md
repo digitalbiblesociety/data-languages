@@ -36,6 +36,8 @@ translations:
     name: 마웅어
   - translation_iso: por
     name: Língua maung
+  - translation_iso: rus
+    name: Маунг
   - translation_iso: spa
     name: Maung
     auto: true

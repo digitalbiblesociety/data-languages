@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジェンヌ・クルンバ語
     auto: true
+  - translation_iso: kor
+    name: 젠누 쿠룸바어
+    auto: true
   - translation_iso: por
     name: jennu kurumba
     auto: true

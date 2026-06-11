@@ -33,6 +33,8 @@ translations:
     name: 쇼쇼니어
   - translation_iso: por
     name: Língua shoshone
+  - translation_iso: rus
+    name: шошоне
   - translation_iso: spa
     name: idioma shoshoni
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビッグナンバス語
+  - translation_iso: kor
+    name: 빅 남바스어
+    auto: true
   - translation_iso: por
     name: Nambas Grande
     auto: true

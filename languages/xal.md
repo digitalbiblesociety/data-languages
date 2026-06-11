@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kalmyk_Oirat"
 translations:
   - translation_iso: ara
     name: اللغة القلميقية
+  - translation_iso: ben
+    name: কাল্মাইক
   - translation_iso: deu
     name: Kalmückisch
   - translation_iso: fra
     name: kalmouk
   - translation_iso: hin
     name: ओइरत भाषा
+  - translation_iso: ind
+    name: Kalmuk
   - translation_iso: jpn
     name: カルムイク語
   - translation_iso: kor
     name: 칼미크어
   - translation_iso: por
     name: calmuco
+  - translation_iso: rus
+    name: калмыцкий
   - translation_iso: spa
     name: kalmuko
   - translation_iso: zho

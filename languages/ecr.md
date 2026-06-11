@@ -26,10 +26,17 @@ translations:
   - translation_iso: hin
     name: एतेओक्रेतन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Eteokreta
   - translation_iso: jpn
     name: 純正クレタ語
+  - translation_iso: kor
+    name: 에테오크레타어
+    auto: true
   - translation_iso: por
     name: eteocretense
+  - translation_iso: rus
+    name: Этеокритский язык
   - translation_iso: spa
     name: eteocretense
   - translation_iso: zho

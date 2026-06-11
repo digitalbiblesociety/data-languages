@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: kor
+    name: 레레어
+    auto: true
   - translation_iso: por
     name: Lere
     auto: true

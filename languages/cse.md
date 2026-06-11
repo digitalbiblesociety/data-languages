@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشيكية
     auto: true
+  - translation_iso: ben
+    name: চেক ইশারা ভাষা
   - translation_iso: deu
     name: Tschechische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チェコ手話
+  - translation_iso: kor
+    name: 체코 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais checa
+  - translation_iso: rus
+    name: чешский язык жестов
   - translation_iso: spa
     name: Lengua de Señas Checa
     auto: true

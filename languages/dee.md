@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: デウォイン語
     auto: true
+  - translation_iso: kor
+    name: 데워인어
+    auto: true
   - translation_iso: por
     name: Dewoin
     auto: true

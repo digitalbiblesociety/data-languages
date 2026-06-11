@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チボク語
+  - translation_iso: kor
+    name: 치바크어
+    auto: true
   - translation_iso: por
     name: Cibak
     auto: true

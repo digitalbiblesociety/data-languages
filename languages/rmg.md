@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: トラベラーノルウェー語
     auto: true
+  - translation_iso: kor
+    name: 트래블러 노르웨이어
+    auto: true
   - translation_iso: por
     name: Norueguês dos Viajantes
     auto: true
+  - translation_iso: rus
+    name: родийский язык
   - translation_iso: spa
     name: rodi
   - translation_iso: zho

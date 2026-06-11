@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرهواكو
     auto: true
+  - translation_iso: ben
+    name: আরহুয়াকো
   - translation_iso: deu
     name: Arhuaco
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アルワコ語
     auto: true
+  - translation_iso: kor
+    name: 아루아코어
+    auto: true
   - translation_iso: por
     name: Língua arhuaca
+  - translation_iso: rus
+    name: Аруако
   - translation_iso: spa
     name: idioma arhuaco
   - translation_iso: zho

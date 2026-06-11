@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: पानासुआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Panasuan
   - translation_iso: jpn
     name: パナスアン語
+    auto: true
+  - translation_iso: kor
+    name: 파나수안어
     auto: true
   - translation_iso: por
     name: Panasuan
     auto: true
+  - translation_iso: rus
+    name: Панасуан
   - translation_iso: spa
     name: Panasuan
     auto: true

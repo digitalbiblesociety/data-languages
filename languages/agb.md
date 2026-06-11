@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レグボ語
     auto: true
+  - translation_iso: kor
+    name: 레그보어
+    auto: true
   - translation_iso: por
     name: Legbo
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Lengola語
+  - translation_iso: kor
+    name: 렝골라어
+    auto: true
   - translation_iso: por
     name: Língua lengola
   - translation_iso: spa

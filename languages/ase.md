@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/American_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الأمريكية
+  - translation_iso: ben
+    name: মার্কিন ইশারা ভাষা
   - translation_iso: deu
     name: American Sign Language
   - translation_iso: fra
     name: langue des signes américaine
   - translation_iso: hin
     name: अमेरिकी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Amerika
   - translation_iso: jpn
     name: アメリカ手話
   - translation_iso: kor
     name: 미국 수어
   - translation_iso: por
     name: língua de sinais americana
+  - translation_iso: rus
+    name: амслен
   - translation_iso: spa
     name: lengua de señas estadounidense
   - translation_iso: zho

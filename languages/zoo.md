@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك أسونثيون ميكستيبيك
     auto: true
+  - translation_iso: ben
+    name: আসুন্সিওন মিশটেপেক জাপোটেক
   - translation_iso: deu
     name: Zapotekisch (Asunción Mixtepec)
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アスンシオン・ミステペック・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 아순시온 믹스테펙 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Asunción Mixtepec
     auto: true
+  - translation_iso: rus
+    name: Асунсьон-мистепекский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Asunción Mixtepec
     auto: true

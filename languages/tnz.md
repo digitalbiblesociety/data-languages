@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テネドゥン語
     auto: true
+  - translation_iso: kor
+    name: 테네든어
+    auto: true
   - translation_iso: por
     name: "Ten'edn"
     auto: true

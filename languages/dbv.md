@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥング語
+  - translation_iso: kor
+    name: 둥구어
+    auto: true
   - translation_iso: por
     name: Dungu
     auto: true
+  - translation_iso: rus
+    name: Дунгу
   - translation_iso: spa
     name: Dungu
     auto: true

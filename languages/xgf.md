@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: गैब्रिएलिनो-फ़र्नांडेन्यो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tongva
   - translation_iso: jpn
     name: ガブリエリーノ語
+  - translation_iso: kor
+    name: 가브리엘리노·페르난데뇨어
+    auto: true
   - translation_iso: por
     name: Língua tongva
   - translation_iso: spa

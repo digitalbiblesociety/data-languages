@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ムボリジア語
     auto: true
+  - translation_iso: kor
+    name: 음그볼리지아어
+    auto: true
   - translation_iso: por
     name: Mgbolizhia
     auto: true

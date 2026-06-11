@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मोम्बुम
     auto: true
+  - translation_iso: ind
+    name: Mombum
   - translation_iso: jpn
     name: モンブム語
+    auto: true
+  - translation_iso: kor
+    name: 몸붐어
     auto: true
   - translation_iso: por
     name: Mombum

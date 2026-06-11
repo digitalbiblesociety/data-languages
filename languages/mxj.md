@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ميجو ميشمي
     auto: true
+  - translation_iso: ben
+    name: মিজু ভাষা
   - translation_iso: deu
     name: Miju-Mishmi
     auto: true
@@ -28,8 +30,13 @@ translations:
     name: geman deng
   - translation_iso: hin
     name: मिजु भाषा
+  - translation_iso: ind
+    name: Bahasa Miju
   - translation_iso: jpn
     name: ミジュ語
+  - translation_iso: kor
+    name: 미주미슈미어
+    auto: true
   - translation_iso: por
     name: Língua kaman
   - translation_iso: spa

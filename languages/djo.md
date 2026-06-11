@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: जंगकांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jangkang
   - translation_iso: jpn
     name: ジャンカング語
+    auto: true
+  - translation_iso: kor
+    name: 장캉어
     auto: true
   - translation_iso: por
     name: Jangkang

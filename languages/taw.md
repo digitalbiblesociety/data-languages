@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: タイ語
     auto: true
+  - translation_iso: kor
+    name: 타이어
+    auto: true
   - translation_iso: por
     name: Tai
     auto: true
+  - translation_iso: rus
+    name: тай
   - translation_iso: spa
     name: Tai
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ソウマ語
     auto: true
+  - translation_iso: kor
+    name: 수마어
+    auto: true
   - translation_iso: por
     name: Suma
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراما
     auto: true
+  - translation_iso: ben
+    name: বার্মা
   - translation_iso: deu
     name: Barama
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バラマ語
+    auto: true
+  - translation_iso: kor
+    name: 바라마어
     auto: true
   - translation_iso: por
     name: Barama

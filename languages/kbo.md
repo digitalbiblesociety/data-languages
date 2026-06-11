@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケリコ語
     auto: true
+  - translation_iso: kor
+    name: 켈리코어
+    auto: true
   - translation_iso: por
     name: Língua keliko
   - translation_iso: spa

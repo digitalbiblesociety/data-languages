@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セイシェル手話
     auto: true
+  - translation_iso: kor
+    name: 세이셸 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais das Seicheles
     auto: true

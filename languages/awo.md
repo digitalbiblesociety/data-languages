@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أواك
     auto: true
+  - translation_iso: ben
+    name: আওয়াক
   - translation_iso: deu
     name: Awak
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アワク語
     auto: true
+  - translation_iso: kor
+    name: 아와크어
+    auto: true
   - translation_iso: por
     name: Awak
     auto: true
+  - translation_iso: rus
+    name: Авак
   - translation_iso: spa
     name: Awak
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Polish_language"
 translations:
   - translation_iso: ara
     name: البولندية
+  - translation_iso: ben
+    name: পোলিশ
   - translation_iso: deu
     name: Polnisch
   - translation_iso: fra
     name: polonais
   - translation_iso: hin
     name: पोलिश भाषा
+  - translation_iso: ind
+    name: Polski
   - translation_iso: jpn
     name: ポーランド語
   - translation_iso: kor
     name: 폴란드어
   - translation_iso: por
     name: polaco
+  - translation_iso: rus
+    name: польский
   - translation_iso: spa
     name: polaco
   - translation_iso: zho

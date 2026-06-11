@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タガラカ語
     auto: true
+  - translation_iso: kor
+    name: 타갈라카어
+    auto: true
   - translation_iso: por
     name: Tagalaka
     auto: true

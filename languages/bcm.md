@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانوني
     auto: true
+  - translation_iso: ben
+    name: বান্নোনি
   - translation_iso: deu
     name: Bannoni
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バノニ語
+  - translation_iso: kor
+    name: 반노니어
+    auto: true
   - translation_iso: por
     name: Bannoni
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: दौर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Daur
   - translation_iso: jpn
     name: ダウール語
   - translation_iso: kor
     name: 다우르어
   - translation_iso: por
     name: Língua daur
+  - translation_iso: rus
+    name: даурский язык
   - translation_iso: spa
     name: daur
   - translation_iso: zho

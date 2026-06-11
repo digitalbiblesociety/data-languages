@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: रिबुन
     auto: true
+  - translation_iso: ind
+    name: Ribun
   - translation_iso: jpn
     name: リブン語
+    auto: true
+  - translation_iso: kor
+    name: 리분어
     auto: true
   - translation_iso: por
     name: Ribun

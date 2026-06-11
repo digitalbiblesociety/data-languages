@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: آتشé
     auto: true
+  - translation_iso: ben
+    name: আচে
   - translation_iso: deu
     name: Aché
     auto: true
@@ -29,10 +31,17 @@ translations:
   - translation_iso: hin
     name: आचे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aché
   - translation_iso: jpn
     name: グアヤキ語
+  - translation_iso: kor
+    name: 아체어
+    auto: true
   - translation_iso: por
     name: Língua aché
+  - translation_iso: rus
+    name: аче
   - translation_iso: spa
     name: idioma aché
   - translation_iso: zho

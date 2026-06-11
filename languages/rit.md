@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: リサルングー語
     auto: true
+  - translation_iso: kor
+    name: 리타릉구어
+    auto: true
   - translation_iso: por
     name: Ritharrngu
     auto: true

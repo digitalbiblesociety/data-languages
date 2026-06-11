@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابتانا
     auto: true
+  - translation_iso: ben
+    name: বাবাটানা
   - translation_iso: deu
     name: Babatana
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバンバタナ語
+  - translation_iso: kor
+    name: 바바타나어
+    auto: true
   - translation_iso: por
     name: Babatana
     auto: true
+  - translation_iso: rus
+    name: Бабатана
   - translation_iso: spa
     name: Babatana
   - translation_iso: zho

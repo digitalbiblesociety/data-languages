@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クビ語
+  - translation_iso: kor
+    name: 쿠비어
+    auto: true
   - translation_iso: por
     name: Kubi
     auto: true

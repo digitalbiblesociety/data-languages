@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヌクナ語
     auto: true
+  - translation_iso: kor
+    name: 누크나어
+    auto: true
   - translation_iso: por
     name: Nukna
     auto: true

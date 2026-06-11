@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シナアンフ語
     auto: true
+  - translation_iso: kor
+    name: 코팔라 트리키어
+    auto: true
   - translation_iso: por
     name: Língua troque copala
+  - translation_iso: rus
+    name: Копаланский трики
   - translation_iso: spa
     name: Triqui de Copala
   - translation_iso: zho

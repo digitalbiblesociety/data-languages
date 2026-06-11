@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シボマ語
     auto: true
+  - translation_iso: kor
+    name: 눔바미어
+    auto: true
   - translation_iso: por
     name: Numbami
     auto: true
+  - translation_iso: rus
+    name: Нумбами
   - translation_iso: spa
     name: Numbami
     auto: true

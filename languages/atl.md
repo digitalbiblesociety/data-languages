@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: Mt.イラヤ・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 이라야산 아그타어
+    auto: true
   - translation_iso: por
     name: Agta do Monte Iraya
     auto: true

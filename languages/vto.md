@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビトゥ語
     auto: true
+  - translation_iso: kor
+    name: 비토우어
+    auto: true
   - translation_iso: por
     name: Vitou
     auto: true

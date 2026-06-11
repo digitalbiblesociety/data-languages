@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラピティ語
+  - translation_iso: kor
+    name: 야왈라피티어
+    auto: true
   - translation_iso: por
     name: Língua Yawalapiti
+  - translation_iso: rus
+    name: Явалапити
   - translation_iso: spa
     name: yawalapiti
   - translation_iso: zho

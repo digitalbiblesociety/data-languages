@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグラ語
+  - translation_iso: kor
+    name: 수데스트어
+    auto: true
   - translation_iso: por
     name: Sudest
     auto: true
+  - translation_iso: rus
+    name: судест
   - translation_iso: spa
     name: Sudest
     auto: true

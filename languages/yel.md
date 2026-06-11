@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イェラ語
     auto: true
+  - translation_iso: kor
+    name: 옐라어
+    auto: true
   - translation_iso: por
     name: yela
     auto: true

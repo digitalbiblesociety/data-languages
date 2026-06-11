@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セナリ語
     auto: true
+  - translation_iso: kor
+    name: 냐라폴로 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Nyarafolo
     auto: true

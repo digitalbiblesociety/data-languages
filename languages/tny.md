@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トングウェ語
     auto: true
+  - translation_iso: kor
+    name: 통웨어
+    auto: true
   - translation_iso: por
     name: Tongwe
     auto: true
+  - translation_iso: rus
+    name: Тонгве
   - translation_iso: spa
     name: Idioma tongwe-bende
   - translation_iso: zho

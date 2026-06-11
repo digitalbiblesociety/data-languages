@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アッパー・グランド・ヴァレー・ダニ語
     auto: true
+  - translation_iso: kor
+    name: 상부 그랜드밸리 다니어
+    auto: true
   - translation_iso: por
     name: Dani do Alto Grand Valley
     auto: true

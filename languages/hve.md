@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サン・ディオニシオ・デル・マル・ウアベ語
     auto: true
+  - translation_iso: kor
+    name: 산디오니시오델마르 와베어
+    auto: true
   - translation_iso: por
     name: Huave de San Dionisio del Mar
     auto: true

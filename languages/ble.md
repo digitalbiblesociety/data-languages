@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بالانتا كنتوهي
     auto: true
+  - translation_iso: ben
+    name: বলন্ত-কেন্তোহে
   - translation_iso: deu
     name: Balanta-Kentohe
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バランタ・ケントヘ語
+    auto: true
+  - translation_iso: kor
+    name: 발란타·켄토헤어
     auto: true
   - translation_iso: por
     name: Balanta-Kentohe

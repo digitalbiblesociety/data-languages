@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウサルファ語
+  - translation_iso: kor
+    name: 우사루파어
+    auto: true
   - translation_iso: por
     name: Usarufa
     auto: true

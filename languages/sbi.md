@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セティ語
     auto: true
+  - translation_iso: kor
+    name: 세티어
+    auto: true
   - translation_iso: por
     name: Seti
     auto: true

@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: वोतू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wotu
   - translation_iso: jpn
     name: ウォトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 워투어
     auto: true
   - translation_iso: por
     name: Wotu

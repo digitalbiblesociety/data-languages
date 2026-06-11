@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: मध्य मंगोलियाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Mongol Pertengahan
   - translation_iso: jpn
     name: 中期モンゴル語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Mongol Médio
     auto: true
+  - translation_iso: rus
+    name: среднемонгольский язык
   - translation_iso: spa
     name: mongol medio
   - translation_iso: zho

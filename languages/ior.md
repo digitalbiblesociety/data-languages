@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イノル語
     auto: true
+  - translation_iso: kor
+    name: 이노르어
+    auto: true
   - translation_iso: por
     name: Língua inor
   - translation_iso: spa

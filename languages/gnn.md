@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: グマタジ語
     auto: true
+  - translation_iso: kor
+    name: 구마치어
+    auto: true
   - translation_iso: por
     name: Gumatj
     auto: true
+  - translation_iso: rus
+    name: кумать
   - translation_iso: spa
     name: idioma gumatj
   - translation_iso: zho

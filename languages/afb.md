@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulf_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة خليجية
+  - translation_iso: ben
+    name: উপসাগরীয় আরবি ভাষা
   - translation_iso: deu
     name: Golf-Arabisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: खाड़ी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Teluk
   - translation_iso: jpn
     name: アラビア語湾岸方言
   - translation_iso: kor
     name: 걸프 아랍어
   - translation_iso: por
     name: Árabe khaliji
+  - translation_iso: rus
+    name: арабский диалект Персидского залива
   - translation_iso: spa
     name: Árabe del Golfo
   - translation_iso: zho

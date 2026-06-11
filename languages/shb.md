@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ニナム語
     auto: true
+  - translation_iso: kor
+    name: 니남어
+    auto: true
   - translation_iso: por
     name: Língua ianam
+  - translation_iso: rus
+    name: Янам
   - translation_iso: spa
     name: Idioma yanam
   - translation_iso: zho

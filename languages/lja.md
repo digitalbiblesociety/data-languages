@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴルパ語
     auto: true
+  - translation_iso: kor
+    name: 골파어
+    auto: true
   - translation_iso: por
     name: Golpa
     auto: true

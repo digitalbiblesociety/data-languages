@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: कवालन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kavalan
   - translation_iso: jpn
     name: クバラン語
+  - translation_iso: kor
+    name: 카발란어
+    auto: true
   - translation_iso: por
     name: Língua kavalan
+  - translation_iso: rus
+    name: каваланский язык
   - translation_iso: spa
     name: Idioma kavalan
   - translation_iso: zho

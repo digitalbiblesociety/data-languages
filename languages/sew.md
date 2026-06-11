@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥアウプワタ語
     auto: true
+  - translation_iso: kor
+    name: 세와 베이어
+    auto: true
   - translation_iso: por
     name: Sewa Bay
     auto: true

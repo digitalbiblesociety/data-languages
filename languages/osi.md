@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: ओसिंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Osing
   - translation_iso: jpn
     name: ウシン語
+  - translation_iso: kor
+    name: 오싱어
+    auto: true
   - translation_iso: por
     name: Osing
+  - translation_iso: rus
+    name: Осинг
   - translation_iso: spa
     name: Osing
   - translation_iso: zho

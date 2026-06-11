@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mizo_language"
 translations:
   - translation_iso: ara
     name: لغة ميزو
+  - translation_iso: ben
+    name: মিজো
   - translation_iso: deu
     name: Mizo
   - translation_iso: fra
     name: mizo
   - translation_iso: hin
     name: मिज़ो भाषा
+  - translation_iso: ind
+    name: Mizo
   - translation_iso: jpn
     name: ミゾ語
   - translation_iso: kor
     name: 미조어
   - translation_iso: por
     name: Língua mizo
+  - translation_iso: rus
+    name: мизо
   - translation_iso: spa
     name: idioma mizo
   - translation_iso: zho

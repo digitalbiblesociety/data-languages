@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カハマルカケチュア語
     auto: true
+  - translation_iso: kor
+    name: 카하마르카 케추아어
+    auto: true
   - translation_iso: por
     name: Língua quíchua cajamarca
+  - translation_iso: rus
+    name: Кахамарканский кечуа
   - translation_iso: spa
     name: quechua cajamarquino
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カラワリ語
     auto: true
+  - translation_iso: kor
+    name: 타브리아크어
+    auto: true
   - translation_iso: por
     name: Tabriak
     auto: true

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tamil"
 translations:
   - translation_iso: ara
     name: التملية القديمة
+  - translation_iso: ben
+    name: প্রাচীন তামিল ভাষা
   - translation_iso: deu
     name: Alttamilisch
   - translation_iso: fra
@@ -27,6 +29,8 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्राचीन तमिल
+  - translation_iso: ind
+    name: Bahasa Tamil Kuno
   - translation_iso: jpn
     name: 古タミル語
   - translation_iso: kor
@@ -34,6 +38,8 @@ translations:
   - translation_iso: por
     name: tâmil antigo
     auto: true
+  - translation_iso: rus
+    name: старый тамильский язык
   - translation_iso: spa
     name: tamil antiguo
   - translation_iso: zho

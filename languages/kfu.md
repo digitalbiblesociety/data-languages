@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كتكاري
     auto: true
+  - translation_iso: ben
+    name: কাতকারি ভাষা
   - translation_iso: deu
     name: Katkari
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カツカリ語
+    auto: true
+  - translation_iso: kor
+    name: 카트카리어
     auto: true
   - translation_iso: por
     name: Katkari

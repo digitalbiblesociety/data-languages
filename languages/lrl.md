@@ -20,12 +20,16 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Achomi_language"
 translations:
   - translation_iso: ara
     name: الأتشومية
+  - translation_iso: ben
+    name: আচোমে ভাষা
   - translation_iso: deu
     name: Larestani-Sprache
   - translation_iso: fra
     name: achomi
   - translation_iso: hin
     name: अचुमी भाषा
+  - translation_iso: ind
+    name: Bahasa Achomi
   - translation_iso: jpn
     name: ラル語
   - translation_iso: kor
@@ -33,6 +37,8 @@ translations:
   - translation_iso: por
     name: Lari
     auto: true
+  - translation_iso: rus
+    name: ачуми
   - translation_iso: spa
     name: Lenguaje Achomic Antiguo
   - translation_iso: zho

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カシャラリ語
     auto: true
+  - translation_iso: kor
+    name: 카샤라리어
+    auto: true
   - translation_iso: por
     name: Língua caxarari
+  - translation_iso: rus
+    name: Кашарари
   - translation_iso: spa
     name: Kaxararí
     auto: true

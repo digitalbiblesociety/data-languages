@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنتاكاريnya
     auto: true
+  - translation_iso: ben
+    name: এন্টাকারিনিয়া
   - translation_iso: deu
     name: Antakarinya
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンタカリニャ語
+    auto: true
+  - translation_iso: kor
+    name: 안타카리냐어
     auto: true
   - translation_iso: por
     name: Antakarinya

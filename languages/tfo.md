@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तेफारो
     auto: true
+  - translation_iso: ind
+    name: Demba
   - translation_iso: jpn
     name: テファロ語
+    auto: true
+  - translation_iso: kor
+    name: 테파로어
     auto: true
   - translation_iso: por
     name: Tefaro

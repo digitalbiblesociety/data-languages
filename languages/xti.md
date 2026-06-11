@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シニカフア・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 시니카우아 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Sinicahua
     auto: true

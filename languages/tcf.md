@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリナルテペク・メファ語
     auto: true
+  - translation_iso: kor
+    name: 말리날테펙 메파어
+    auto: true
   - translation_iso: por
     name: "Me'phaa de Malinaltepec"
     auto: true

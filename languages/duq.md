@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: दुसुन मलंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dusun Malang
   - translation_iso: jpn
     name: ドゥスン・マラン語
+    auto: true
+  - translation_iso: kor
+    name: 두순 말랑어
     auto: true
   - translation_iso: por
     name: Dusun Malang
     auto: true
+  - translation_iso: rus
+    name: Дусун-маланг
   - translation_iso: spa
     name: Dusun Malang
     auto: true

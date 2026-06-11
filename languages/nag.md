@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيدجن ناجا
     auto: true
+  - translation_iso: ben
+    name: নাগামি ভাষা
   - translation_iso: deu
     name: Naga-Pidgin
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: नागामी भाषा
   - translation_iso: jpn
     name: Nagameseクレオール語
+  - translation_iso: kor
+    name: 나가 피진
+    auto: true
   - translation_iso: por
     name: Pidgin Naga
     auto: true

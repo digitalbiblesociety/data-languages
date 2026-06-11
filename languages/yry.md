@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤルユアンディ語
     auto: true
+  - translation_iso: kor
+    name: 야를루얀디어
+    auto: true
   - translation_iso: por
     name: yarluyandi
     auto: true

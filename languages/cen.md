@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セン語
     auto: true
+  - translation_iso: kor
+    name: 첸어
+    auto: true
   - translation_iso: por
     name: Cen
     auto: true

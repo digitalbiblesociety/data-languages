@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: بارا ملاجاشي
     auto: true
+  - translation_iso: ben
+    name: বারা মালাগাসি
   - translation_iso: deu
     name: Bara Malagasy
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バラ・マダガスカル語
+  - translation_iso: kor
+    name: 바라 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe bara
     auto: true

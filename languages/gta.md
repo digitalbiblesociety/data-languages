@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: グアトー語
     auto: true
+  - translation_iso: kor
+    name: 과토어
+    auto: true
   - translation_iso: por
     name: Língua guató
+  - translation_iso: rus
+    name: Гуато
   - translation_iso: spa
     name: idioma guató
   - translation_iso: zho

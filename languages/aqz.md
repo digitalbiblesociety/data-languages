@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أكونتسو
     auto: true
+  - translation_iso: ben
+    name: আকুনৎসু
   - translation_iso: deu
     name: Akuntsu
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アクンツ語
     auto: true
+  - translation_iso: kor
+    name: 아쿤추어
+    auto: true
   - translation_iso: por
     name: Língua Acuntsú
+  - translation_iso: rus
+    name: Акунтсу
   - translation_iso: spa
     name: Akuntsu
     auto: true

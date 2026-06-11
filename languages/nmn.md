@@ -33,6 +33,8 @@ translations:
     name: 꽁옹어
   - translation_iso: por
     name: Língua ǃxóõ
+  - translation_iso: rus
+    name: къхонг
   - translation_iso: spa
     name: taa
   - translation_iso: zho

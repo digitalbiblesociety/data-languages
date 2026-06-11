@@ -28,9 +28,14 @@ translations:
   - translation_iso: jpn
     name: クハルゲ語
     auto: true
+  - translation_iso: kor
+    name: 쿠자르게어
+    auto: true
   - translation_iso: por
     name: Kujarge
     auto: true
+  - translation_iso: rus
+    name: кудьярге
   - translation_iso: spa
     name: kuyargé
   - translation_iso: zho

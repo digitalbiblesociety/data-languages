@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メゾントラ・ポポロカ語
     auto: true
+  - translation_iso: kor
+    name: 메손틀라 포폴로카어
+    auto: true
   - translation_iso: por
     name: Popoloca de Mezontla
     auto: true

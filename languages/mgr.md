@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンブウェ語
+  - translation_iso: kor
+    name: 맘브웨룽구어
+    auto: true
   - translation_iso: por
     name: Mambwe
+  - translation_iso: rus
+    name: Мамбве-лунгу
   - translation_iso: spa
     name: Mambwe-Lungu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 遠西ムリア語
     auto: true
+  - translation_iso: kor
+    name: 극서부 무리아어
+    auto: true
   - translation_iso: por
     name: muria do extremo oeste
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミトラトンゴ・ミシテク語
     auto: true
+  - translation_iso: kor
+    name: 미틀라통고 미스테카어
+    auto: true
   - translation_iso: por
     name: Mixteco de Mitlatongo
     auto: true
+  - translation_iso: rus
+    name: Митлатонгско-ютандучийский миштекский язык
   - translation_iso: spa
     name: Mixteco de Mitlatongo
     auto: true

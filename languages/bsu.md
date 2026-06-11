@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باهونْسوايي
     auto: true
+  - translation_iso: ben
+    name: বাহনসুয়াই
   - translation_iso: deu
     name: Bahonsuai
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बहोनसुआई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bahonsuai
   - translation_iso: jpn
     name: バホンスアイ語
+    auto: true
+  - translation_iso: kor
+    name: 바혼수아이어
     auto: true
   - translation_iso: por
     name: Bahonsuai

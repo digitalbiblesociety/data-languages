@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ブマング語
     auto: true
+  - translation_iso: kor
+    name: 부망어
+    auto: true
   - translation_iso: por
     name: Bumang
     auto: true

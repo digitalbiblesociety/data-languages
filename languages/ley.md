@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: लेमोलांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lemolang
   - translation_iso: jpn
     name: レモラン語
+    auto: true
+  - translation_iso: kor
+    name: 레몰랑어
     auto: true
   - translation_iso: por
     name: Lemolang

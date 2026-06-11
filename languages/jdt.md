@@ -28,12 +28,16 @@ translations:
     name: juhuri
   - translation_iso: hin
     name: यहूदी-तात भाषा
+  - translation_iso: ind
+    name: Bahasa Persia Tat Yahudi
   - translation_iso: jpn
     name: ユダヤ・タート語
   - translation_iso: kor
     name: 유대 타트어
   - translation_iso: por
     name: tat-judeu
+  - translation_iso: rus
+    name: горско-еврейский язык
   - translation_iso: spa
     name: juhuri
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイサカ・マダガスカル語
+  - translation_iso: kor
+    name: 테사카 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe Tesaka
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: レンベナ語
     auto: true
+  - translation_iso: kor
+    name: 렘베나어
+    auto: true
   - translation_iso: por
     name: Lembena
     auto: true

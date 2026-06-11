@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴァングヌ語
     auto: true
+  - translation_iso: kor
+    name: 방구누어
+    auto: true
   - translation_iso: por
     name: Vangunu
     auto: true

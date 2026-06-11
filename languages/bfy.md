@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: باغيلي
     auto: true
+  - translation_iso: ben
+    name: বাঘেলি ভাষা
   - translation_iso: deu
     name: Bagheli
     auto: true
@@ -31,9 +33,14 @@ translations:
     name: बघेली
   - translation_iso: jpn
     name: バゲーリー語
+  - translation_iso: kor
+    name: 바겔리어
+    auto: true
   - translation_iso: por
     name: Bagheli
     auto: true
+  - translation_iso: rus
+    name: багхели
   - translation_iso: spa
     name: Bagheli
     auto: true

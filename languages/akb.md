@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة باتاك أنجكولا
     auto: true
+  - translation_iso: ben
+    name: বাতাক আংকোলা
   - translation_iso: deu
     name: Angkola-Batak
     auto: true
@@ -29,10 +31,17 @@ translations:
   - translation_iso: hin
     name: बाटक अंगकोला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batak Angkola
   - translation_iso: jpn
     name: バタク・アンコーラ語
+  - translation_iso: kor
+    name: 앙콜라 바탁어
+    auto: true
   - translation_iso: por
     name: língua angkola
+  - translation_iso: rus
+    name: Ангкола
   - translation_iso: spa
     name: Batak Angkola
     auto: true

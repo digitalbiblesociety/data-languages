@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムアヴェケ語
+  - translation_iso: kor
+    name: 음와베케어
+    auto: true
   - translation_iso: por
     name: Hmwaveke
     auto: true

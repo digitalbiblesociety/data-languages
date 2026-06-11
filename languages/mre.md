@@ -28,8 +28,13 @@ translations:
     name: मार्था की वाइनयार्ड साइन भाषा
   - translation_iso: jpn
     name: マーサズ・ヴィンヤード手話
+  - translation_iso: kor
+    name: 마서스비니어드 수어
+    auto: true
   - translation_iso: por
     name: "Língua de Sinais de Martha's Vineyard"
+  - translation_iso: rus
+    name: жестовый язык Мартас-Винъярд
   - translation_iso: spa
     name: "Lengua de señas de Martha's Vineyard"
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ndambomo語
+  - translation_iso: kor
+    name: 은담보모어
+    auto: true
   - translation_iso: por
     name: Ndambomo
     auto: true

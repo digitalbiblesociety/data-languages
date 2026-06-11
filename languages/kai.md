@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カレカレ語
     auto: true
+  - translation_iso: kor
+    name: 카레카레어
+    auto: true
   - translation_iso: por
     name: Karekare
     auto: true
+  - translation_iso: rus
+    name: Карекаре
   - translation_iso: spa
     name: Karekare
     auto: true

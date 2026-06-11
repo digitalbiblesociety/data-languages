@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マヤ・サモ語
     auto: true
+  - translation_iso: kor
+    name: 마야 사모어
+    auto: true
   - translation_iso: por
     name: Samo Maya
     auto: true

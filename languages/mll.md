@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マルア・ベイ語
     auto: true
+  - translation_iso: kor
+    name: 말루아베이어
+    auto: true
   - translation_iso: por
     name: Malua Bay
     auto: true
+  - translation_iso: rus
+    name: Малуа (язык)
   - translation_iso: spa
     name: Malua Bay
     auto: true

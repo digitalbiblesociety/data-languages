@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンディーレ語
+  - translation_iso: kor
+    name: 렌딜레어
+    auto: true
   - translation_iso: por
     name: Rendille
     auto: true
+  - translation_iso: rus
+    name: Рендилле
   - translation_iso: spa
     name: Rendille
     auto: true

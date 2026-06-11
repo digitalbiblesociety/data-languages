@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ティゴン・ムベンベ語
     auto: true
+  - translation_iso: kor
+    name: 티곤 음벰베어
+    auto: true
   - translation_iso: por
     name: Mbembe Tigon
     auto: true
+  - translation_iso: rus
+    name: Мбембе
   - translation_iso: spa
     name: Mbembe Tigon
     auto: true

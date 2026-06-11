@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونغي
     auto: true
+  - translation_iso: ben
+    name: ওঙ্গে ভাষা
   - translation_iso: deu
     name: Önge
     auto: true
@@ -29,12 +31,16 @@ translations:
     auto: true
   - translation_iso: hin
     name: ओन्गी भाषा
+  - translation_iso: ind
+    name: Bahasa Onge
   - translation_iso: jpn
     name: オンゲ語
   - translation_iso: kor
     name: 옹게어
   - translation_iso: por
     name: Língua onge
+  - translation_iso: rus
+    name: онге
   - translation_iso: spa
     name: Idioma önge
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikidata_id: Q12642195
 translations:
   - translation_iso: ara
     name: الكري شمال الشرقية
+  - translation_iso: ben
+    name: উত্তর পূর্ব ক্রী
   - translation_iso: deu
     name: Northern East Cree
   - translation_iso: fra
     name: "cri de l’Est, dialecte du Nord"
   - translation_iso: hin
     name: नॉर्दन ईस्ट क्री
+  - translation_iso: ind
+    name: East Cree Utara
   - translation_iso: jpn
     name: 北東クリー語
   - translation_iso: kor
     name: 북동부 크리어
   - translation_iso: por
     name: cree do nordeste
+  - translation_iso: rus
+    name: северо-восточный кри
   - translation_iso: spa
     name: cree nororiental
   - translation_iso: zho

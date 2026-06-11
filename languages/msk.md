@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: मनसाका
     auto: true
+  - translation_iso: ind
+    name: Mansaka
   - translation_iso: jpn
     name: マンサカ語
+    auto: true
+  - translation_iso: kor
+    name: 만사카어
     auto: true
   - translation_iso: por
     name: Mansaka
     auto: true
+  - translation_iso: rus
+    name: мансака
   - translation_iso: spa
     name: Mansaka
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أكياونغ آري ناغا
     auto: true
+  - translation_iso: ben
+    name: আকিয়াং আরি
   - translation_iso: deu
     name: Akyaung Ari-Naga
     auto: true
@@ -25,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 아캬웅 아리 나가어
     auto: true
   - translation_iso: por
     name: Naga Akyaung Ari

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シルク語
+  - translation_iso: kor
+    name: 실루크어
+    auto: true
   - translation_iso: por
     name: Língua shilluk
+  - translation_iso: rus
+    name: Шиллук
   - translation_iso: spa
     name: Shilluk
     auto: true

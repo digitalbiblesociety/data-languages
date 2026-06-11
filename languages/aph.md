@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أثباريا
     auto: true
+  - translation_iso: ben
+    name: আথপারে
   - translation_iso: deu
     name: Athpariya
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスパリヤ語
+    auto: true
+  - translation_iso: kor
+    name: 아트파리야어
     auto: true
   - translation_iso: por
     name: Língua athpare

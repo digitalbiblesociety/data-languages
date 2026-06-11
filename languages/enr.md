@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: एमुमु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Emem
   - translation_iso: jpn
     name: エムム語
+    auto: true
+  - translation_iso: kor
+    name: 에무무어
     auto: true
   - translation_iso: por
     name: Emumu

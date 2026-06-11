@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語
+  - translation_iso: kor
+    name: 키타 마닌카칸어
+    auto: true
   - translation_iso: por
     name: maninkakan de Kita
     auto: true

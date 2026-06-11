@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヌクアク・マク語
     auto: true
+  - translation_iso: kor
+    name: 누카크 마쿠어
+    auto: true
   - translation_iso: por
     name: Língua nukak
+  - translation_iso: rus
+    name: Нукак
   - translation_iso: spa
     name: Idioma nukak
   - translation_iso: zho

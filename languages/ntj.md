@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガーニャチャラ語
+  - translation_iso: kor
+    name: 응아냐차라어
+    auto: true
   - translation_iso: por
     name: Língua ngaanyatjarra
+  - translation_iso: rus
+    name: нганятьяра
   - translation_iso: spa
     name: Ngaanyatjarra
     auto: true

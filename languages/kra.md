@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كومهالي
     auto: true
+  - translation_iso: ben
+    name: কুমহালি ভাষা
   - translation_iso: deu
     name: Kumhali
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クムハリ語
+    auto: true
+  - translation_iso: kor
+    name: 쿰할리어
     auto: true
   - translation_iso: por
     name: Kumhali

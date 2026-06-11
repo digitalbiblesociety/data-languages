@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: デドゥア語
     auto: true
+  - translation_iso: kor
+    name: 데두아어
+    auto: true
   - translation_iso: por
     name: Dedua
     auto: true

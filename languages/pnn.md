@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピナイハガハイ語
     auto: true
+  - translation_iso: kor
+    name: 피나이하가하이어
+    auto: true
   - translation_iso: por
     name: Pinai-Hagahai
     auto: true

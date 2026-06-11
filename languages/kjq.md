@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・ケレス語
     auto: true
+  - translation_iso: kor
+    name: 서부 케레스어
+    auto: true
   - translation_iso: por
     name: queres ocidental
     auto: true
+  - translation_iso: rus
+    name: Акома (язык)
   - translation_iso: spa
     name: queresano occidental
   - translation_iso: zho

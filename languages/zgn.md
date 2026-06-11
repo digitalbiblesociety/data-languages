@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂辺チワン語
+  - translation_iso: kor
+    name: 구이볜 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Guibian
     auto: true

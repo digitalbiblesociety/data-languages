@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: パットウィン語
     auto: true
+  - translation_iso: kor
+    name: 파트윈어
+    auto: true
   - translation_iso: por
     name: Língua patwin
+  - translation_iso: rus
+    name: Патвин
   - translation_iso: spa
     name: Patwin
     auto: true

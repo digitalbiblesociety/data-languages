@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムウェラ語
     auto: true
+  - translation_iso: kor
+    name: 니아사 므웨라어
+    auto: true
   - translation_iso: por
     name: Mwera (Nyasa)
     auto: true

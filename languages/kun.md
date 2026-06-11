@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クナマ語
+  - translation_iso: kor
+    name: 쿠나마어
+    auto: true
   - translation_iso: por
     name: Kunama
     auto: true
+  - translation_iso: rus
+    name: Кунама (язык)
   - translation_iso: spa
     name: Kunama
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北部トラシアコ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 북부 틀락시아코 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tlaxiaco do Norte
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドン語
     auto: true
+  - translation_iso: kor
+    name: 동어
+    auto: true
   - translation_iso: por
     name: Dong
     auto: true

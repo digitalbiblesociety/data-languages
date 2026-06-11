@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボンギ語
     auto: true
+  - translation_iso: kor
+    name: 봉기어
+    auto: true
   - translation_iso: por
     name: Língua bonggi
   - translation_iso: spa

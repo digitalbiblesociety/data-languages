@@ -24,12 +24,16 @@ translations:
     name: kusunda
   - translation_iso: hin
     name: कुसुन्दा
+  - translation_iso: ind
+    name: Bahasa Kusunda
   - translation_iso: jpn
     name: クスンダ語
   - translation_iso: kor
     name: 쿠순다어
   - translation_iso: por
     name: Língua kusunda
+  - translation_iso: rus
+    name: Кусунда
   - translation_iso: spa
     name: Kusunda
   - translation_iso: zho

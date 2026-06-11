@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 現代西アラム語
+  - translation_iso: kor
+    name: 서부 신아람어
+    auto: true
   - translation_iso: por
     name: Língua neoaramaica ocidental
   - translation_iso: spa

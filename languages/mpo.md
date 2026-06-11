@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミウ語
     auto: true
+  - translation_iso: kor
+    name: 미우어
+    auto: true
   - translation_iso: por
     name: Miu
     auto: true

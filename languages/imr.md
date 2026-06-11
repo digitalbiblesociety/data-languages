@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イムロイング語
     auto: true
+  - translation_iso: kor
+    name: 임로잉어
+    auto: true
   - translation_iso: por
     name: Imroing
     auto: true

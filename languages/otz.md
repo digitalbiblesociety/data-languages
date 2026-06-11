@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イクステンコ・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 익스텐코 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Ixtenco
     auto: true
+  - translation_iso: rus
+    name: Истенкский отоми
   - translation_iso: spa
     name: otomí de Ixtenco
   - translation_iso: zho

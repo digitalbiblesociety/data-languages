@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ハラング・ドアン語
     auto: true
+  - translation_iso: kor
+    name: 할랑 도안어
+    auto: true
   - translation_iso: por
     name: Halang Doan
     auto: true

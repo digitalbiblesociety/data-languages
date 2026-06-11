@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: ティニグア語
     auto: true
+  - translation_iso: kor
+    name: 티니과어
+    auto: true
   - translation_iso: por
     name: Tinigua
     auto: true
+  - translation_iso: rus
+    name: Тинигуа
   - translation_iso: spa
     name: idioma tinigua
   - translation_iso: zho

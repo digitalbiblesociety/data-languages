@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンガヤット語
     auto: true
+  - translation_iso: kor
+    name: 망가야트어
+    auto: true
   - translation_iso: por
     name: Mangayat
     auto: true

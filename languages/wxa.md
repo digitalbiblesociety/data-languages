@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वाक्सियांगहुआ
     auto: true
+  - translation_iso: ind
+    name: bahasa Waxiang
   - translation_iso: jpn
     name: 瓦郷話
+  - translation_iso: kor
+    name: 와샹어
+    auto: true
   - translation_iso: por
     name: Waxianghua
     auto: true

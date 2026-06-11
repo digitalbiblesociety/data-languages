@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コルビラ語
     auto: true
+  - translation_iso: kor
+    name: 콜빌라어
+    auto: true
   - translation_iso: por
     name: Kolbila
     auto: true

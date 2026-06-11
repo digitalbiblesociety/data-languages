@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ラリケワカシフ語
     auto: true
+  - translation_iso: kor
+    name: 라리케·와카시후어
+    auto: true
   - translation_iso: por
     name: Larike-Wakasihu
     auto: true
+  - translation_iso: rus
+    name: укасихуйский язык
   - translation_iso: spa
     name: Larike-Wakasihu
     auto: true

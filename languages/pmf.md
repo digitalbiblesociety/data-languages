@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पामोना
     auto: true
+  - translation_iso: ind
+    name: bahasa Pamona
   - translation_iso: jpn
     name: パモナ語
+    auto: true
+  - translation_iso: kor
+    name: 파모나어
     auto: true
   - translation_iso: por
     name: Pamona

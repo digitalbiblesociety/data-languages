@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムバンギ語
     auto: true
+  - translation_iso: kor
+    name: 음방기어
+    auto: true
   - translation_iso: por
     name: Mbangi
     auto: true

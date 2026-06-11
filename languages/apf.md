@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パハナン・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 파하난 아그타어
+    auto: true
   - translation_iso: por
     name: Agta de Pahanan
     auto: true

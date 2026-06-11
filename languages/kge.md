@@ -27,12 +27,16 @@ translations:
     name: komering
   - translation_iso: hin
     name: कोमेरिंग भाषा
+  - translation_iso: ind
+    name: Komering
   - translation_iso: jpn
     name: コメリン語
   - translation_iso: kor
     name: 람풍어
   - translation_iso: por
     name: Língua komering
+  - translation_iso: rus
+    name: Комеринг
   - translation_iso: spa
     name: komering
   - translation_iso: zho

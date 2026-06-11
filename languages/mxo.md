@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムボウェ語
     auto: true
+  - translation_iso: kor
+    name: 음보웨어
+    auto: true
   - translation_iso: por
     name: Mbowe
     auto: true

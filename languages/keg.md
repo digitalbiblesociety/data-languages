@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: テセ語
     auto: true
+  - translation_iso: kor
+    name: 테세어
+    auto: true
   - translation_iso: por
     name: Tese
     auto: true

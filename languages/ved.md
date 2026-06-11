@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Vedda_language"
 translations:
   - translation_iso: ara
     name: لغة فيدا
+  - translation_iso: ben
+    name: ভেদ্দা ভাষা
   - translation_iso: deu
     name: Vedda
   - translation_iso: fra
@@ -27,6 +29,8 @@ translations:
   - translation_iso: hin
     name: वेद्दा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wedda
   - translation_iso: jpn
     name: ヴェッダ語
   - translation_iso: kor
@@ -34,6 +38,8 @@ translations:
   - translation_iso: por
     name: Veddah
     auto: true
+  - translation_iso: rus
+    name: Ведда
   - translation_iso: spa
     name: Idioma vedda
   - translation_iso: zho

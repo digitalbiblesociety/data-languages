@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ユアンガ語
     auto: true
+  - translation_iso: kor
+    name: 유앙가어
+    auto: true
   - translation_iso: por
     name: Yuanga
     auto: true

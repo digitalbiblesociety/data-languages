@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネンゴネ語
+  - translation_iso: kor
+    name: 넹고네어
+    auto: true
   - translation_iso: por
     name: Língua nengone
   - translation_iso: spa

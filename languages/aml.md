@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة وار-جايينتيا
     auto: true
+  - translation_iso: ben
+    name: ওয়ার ভাষা
   - translation_iso: deu
     name: War-Jaintia
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: वार भाषा
   - translation_iso: jpn
     name: ワルジャインティア語
+    auto: true
+  - translation_iso: kor
+    name: 와르·자인티아어
     auto: true
   - translation_iso: por
     name: War-Jaintia

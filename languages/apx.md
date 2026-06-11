@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبوتاي
     auto: true
+  - translation_iso: ben
+    name: আপুতাই
   - translation_iso: deu
     name: Aputai
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: अपुताई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aputai
   - translation_iso: jpn
     name: アプタイ語
+    auto: true
+  - translation_iso: kor
+    name: 아푸타이어
     auto: true
   - translation_iso: por
     name: Aputai

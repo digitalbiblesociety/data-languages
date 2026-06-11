@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwanyama"
 translations:
   - translation_iso: ara
     name: كوانياما
+  - translation_iso: ben
+    name: কোয়ানিয়ামা
   - translation_iso: deu
     name: Kwanyama
   - translation_iso: fra
     name: kwanyama
   - translation_iso: hin
     name: क्वान्यामा भाषा
+  - translation_iso: ind
+    name: Kuanyama
   - translation_iso: jpn
     name: クワニャマ語
   - translation_iso: kor
     name: 콰냐마어
   - translation_iso: por
     name: cuanhama
+  - translation_iso: rus
+    name: кунама
   - translation_iso: spa
     name: idioma kuanyama
   - translation_iso: zho

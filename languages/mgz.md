@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムブグウェ語
     auto: true
+  - translation_iso: kor
+    name: 음부그웨어
+    auto: true
   - translation_iso: por
     name: Mbugwe
     auto: true
+  - translation_iso: rus
+    name: Мбугве
   - translation_iso: spa
     name: Mbugwe
     auto: true

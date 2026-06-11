@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kpelle_language"
 translations:
   - translation_iso: ara
     name: الكبيل
+  - translation_iso: ben
+    name: ক্‌পেল্লে
   - translation_iso: deu
     name: Kpelle
   - translation_iso: fra
     name: kpèllé
   - translation_iso: hin
     name: क्पेल
+  - translation_iso: ind
+    name: Kpelle
   - translation_iso: jpn
     name: クペレ語
   - translation_iso: kor
     name: 크펠레어
   - translation_iso: por
     name: Língua kpelle
+  - translation_iso: rus
+    name: кпелле
   - translation_iso: spa
     name: kpelle
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マシネレ語
     auto: true
+  - translation_iso: kor
+    name: 마치네레어
+    auto: true
   - translation_iso: por
     name: Machinere
     auto: true

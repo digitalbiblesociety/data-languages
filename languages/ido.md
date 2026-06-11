@@ -19,18 +19,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ido"
 translations:
   - translation_iso: ara
     name: لغة إيدو
+  - translation_iso: ben
+    name: ইডো
   - translation_iso: deu
     name: Ido
   - translation_iso: fra
     name: ido
   - translation_iso: hin
     name: ईदो
+  - translation_iso: ind
+    name: Ido
   - translation_iso: jpn
     name: イド語
   - translation_iso: kor
     name: 이도
   - translation_iso: por
     name: ido
+  - translation_iso: rus
+    name: идо
   - translation_iso: spa
     name: ido
   - translation_iso: zho

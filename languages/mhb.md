@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マホングウェ語
+  - translation_iso: kor
+    name: 마홍웨어
+    auto: true
   - translation_iso: por
     name: Mahongwe
     auto: true

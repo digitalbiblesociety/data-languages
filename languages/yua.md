@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: युकातेक माया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Maya Yukatek
   - translation_iso: jpn
     name: ユカテコ語
   - translation_iso: kor
     name: 유카텍어
   - translation_iso: por
     name: Iucateque
+  - translation_iso: rus
+    name: юкатекский язык
   - translation_iso: spa
     name: maya
   - translation_iso: zho

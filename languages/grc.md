@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_Greek"
 translations:
   - translation_iso: ara
     name: الإغريقية
+  - translation_iso: ben
+    name: প্রাচীন গ্রীক
   - translation_iso: deu
     name: Altgriechisch
   - translation_iso: fra
     name: grec ancien
   - translation_iso: hin
     name: प्राचीन यूनानी भाषा
+  - translation_iso: ind
+    name: Yunani Kuno
   - translation_iso: jpn
     name: 古代ギリシア語
   - translation_iso: kor
     name: 고대 그리스어
   - translation_iso: por
     name: grego antigo
+  - translation_iso: rus
+    name: древнегреческий
   - translation_iso: spa
     name: griego antiguo
   - translation_iso: zho

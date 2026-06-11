@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّ
     auto: true
+  - translation_iso: ben
+    name: আন্ধ
   - translation_iso: deu
     name: Andh
     auto: true
@@ -27,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンドゥ語
+    auto: true
+  - translation_iso: kor
+    name: 안드어
     auto: true
   - translation_iso: por
     name: Andh

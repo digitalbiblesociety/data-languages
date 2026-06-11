@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: باتشانيسي مالاي
     auto: true
+  - translation_iso: ben
+    name: বাকানি মালয়
   - translation_iso: deu
     name: Bacanese Malay
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: hin
     name: बाचान मलय
     auto: true
+  - translation_iso: ind
+    name: Bacan
   - translation_iso: jpn
     name: バカン・マレー語
+  - translation_iso: kor
+    name: 바찬 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio de Bacan
     auto: true

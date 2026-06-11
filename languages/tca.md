@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: तिकुना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ticuna
   - translation_iso: jpn
     name: クシヨコチャ・ティクナ語
+  - translation_iso: kor
+    name: 티쿠나어
+    auto: true
   - translation_iso: por
     name: ticuna
+  - translation_iso: rus
+    name: Тыкуна
   - translation_iso: spa
     name: ticuna
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北アスマット語
     auto: true
+  - translation_iso: kor
+    name: 북부 아스마트어
+    auto: true
   - translation_iso: por
     name: Asmat do Norte
     auto: true

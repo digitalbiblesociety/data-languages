@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: जाविंडो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Javindo
   - translation_iso: jpn
     name: ジャビンド語
+    auto: true
+  - translation_iso: kor
+    name: 자빈도어
     auto: true
   - translation_iso: por
     name: Javindo

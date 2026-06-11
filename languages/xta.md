@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: ألكوزاوكا ميكستيك
     auto: true
+  - translation_iso: ben
+    name: আলকোজাউকা মিক্সটেক
   - translation_iso: deu
     name: Alcozauca-Mixtekisch
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルコザウカ・ミステク語
+    auto: true
+  - translation_iso: kor
+    name: 알코사우카 믹스텍어
     auto: true
   - translation_iso: por
     name: Mixteco de Alcozauca

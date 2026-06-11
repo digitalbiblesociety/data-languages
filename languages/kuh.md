@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クシ語
     auto: true
+  - translation_iso: kor
+    name: 쿠시어
+    auto: true
   - translation_iso: por
     name: Kushi
     auto: true
+  - translation_iso: rus
+    name: Куши
   - translation_iso: spa
     name: Kushi
     auto: true

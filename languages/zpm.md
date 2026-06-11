@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ミステペック・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 믹스테펙 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Mixtepec
     auto: true
+  - translation_iso: rus
+    name: Мистепекский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Mixtepec
     auto: true

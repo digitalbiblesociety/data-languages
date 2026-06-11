@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pa%27O_language"
 translations:
   - translation_iso: ara
     name: باو
+  - translation_iso: ben
+    name: "পা'ও ভাষা"
   - translation_iso: deu
     name: "Pa'o Karen"
     auto: true
@@ -34,6 +36,8 @@ translations:
     name: 파오어
   - translation_iso: por
     name: "Língua Pa'O"
+  - translation_iso: rus
+    name: пао
   - translation_iso: spa
     name: "Karén Pa'o"
     auto: true

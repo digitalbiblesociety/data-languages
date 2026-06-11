@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهاتري
     auto: true
+  - translation_iso: ben
+    name: ভাত্রি
   - translation_iso: deu
     name: Bhatri
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: भातरी भाषा
   - translation_iso: jpn
     name: バトリ語
+    auto: true
+  - translation_iso: kor
+    name: 바트리어
     auto: true
   - translation_iso: por
     name: Língua bhatri

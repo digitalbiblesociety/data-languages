@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ダマカワ語
     auto: true
+  - translation_iso: kor
+    name: 다마카와어
+    auto: true
   - translation_iso: por
     name: Damakawa
     auto: true
+  - translation_iso: rus
+    name: Дамакава
   - translation_iso: spa
     name: Damakawa
     auto: true

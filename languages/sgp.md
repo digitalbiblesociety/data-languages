@@ -30,6 +30,9 @@ translations:
     name: सिंगफ़ो भाषा
   - translation_iso: jpn
     name: シンポー語
+  - translation_iso: kor
+    name: 싱포어
+    auto: true
   - translation_iso: por
     name: Singpho
     auto: true

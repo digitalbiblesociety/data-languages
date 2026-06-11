@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ロン語
     auto: true
+  - translation_iso: kor
+    name: 타이 롱어
+    auto: true
   - translation_iso: por
     name: Tai Long
     auto: true

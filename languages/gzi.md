@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギャズ語
+  - translation_iso: kor
+    name: 가지어
+    auto: true
   - translation_iso: por
     name: Gazi
     auto: true

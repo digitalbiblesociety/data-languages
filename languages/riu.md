@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: रियुंग
     auto: true
+  - translation_iso: ind
+    name: Riung
   - translation_iso: jpn
     name: リウン語
     auto: true
+  - translation_iso: kor
+    name: 리웅어
+    auto: true
   - translation_iso: por
     name: Riung
+  - translation_iso: rus
+    name: Рюнь
   - translation_iso: spa
     name: Riung
   - translation_iso: zho

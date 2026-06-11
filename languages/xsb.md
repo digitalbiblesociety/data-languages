@@ -30,6 +30,8 @@ translations:
   - translation_iso: hin
     name: संबल
     auto: true
+  - translation_iso: ind
+    name: bahasa Sambal
   - translation_iso: jpn
     name: サンバル語
     auto: true
@@ -37,6 +39,8 @@ translations:
     name: 삼발어
   - translation_iso: por
     name: Língua sambal
+  - translation_iso: rus
+    name: тина
   - translation_iso: spa
     name: idioma zambal
   - translation_iso: zho

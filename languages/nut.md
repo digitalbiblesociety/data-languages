@@ -35,6 +35,8 @@ translations:
     name: 눙어
   - translation_iso: por
     name: Língua nung
+  - translation_iso: rus
+    name: нунг
   - translation_iso: spa
     name: Nung (Vietnam)
     auto: true

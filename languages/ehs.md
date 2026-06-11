@@ -27,11 +27,18 @@ translations:
     auto: true
   - translation_iso: hin
     name: मियाकूबो सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Miyakubo
   - translation_iso: jpn
     name: 宮窪手話
+  - translation_iso: kor
+    name: 미야쿠보 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Miyakubo
     auto: true
+  - translation_iso: rus
+    name: жестовый язык Миякубо
   - translation_iso: spa
     name: Lengua de señas de Miyakubo
     auto: true

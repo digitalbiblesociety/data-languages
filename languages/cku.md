@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コウシャッタ語
+  - translation_iso: kor
+    name: 코아사티어
+    auto: true
   - translation_iso: por
     name: Língua koasati
+  - translation_iso: rus
+    name: Коасати
   - translation_iso: spa
     name: Koasati
   - translation_iso: zho

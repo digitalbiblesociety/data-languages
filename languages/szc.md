@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेमाक बेरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Semaq Beri
   - translation_iso: jpn
     name: セマク・ベリ語
+    auto: true
+  - translation_iso: kor
+    name: 세마크 베리어
     auto: true
   - translation_iso: por
     name: Semaq Beri

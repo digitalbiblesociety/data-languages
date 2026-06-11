@@ -29,9 +29,14 @@ translations:
     name: दामेली भाषा
   - translation_iso: jpn
     name: ダメーリー語
+  - translation_iso: kor
+    name: 다멜리어
+    auto: true
   - translation_iso: por
     name: Dameli
     auto: true
+  - translation_iso: rus
+    name: дамели
   - translation_iso: spa
     name: dameli
   - translation_iso: zho

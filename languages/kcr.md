@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カトラ語
+  - translation_iso: kor
+    name: 카틀라어
+    auto: true
   - translation_iso: por
     name: Katla
     auto: true
+  - translation_iso: rus
+    name: Катла
   - translation_iso: spa
     name: Idioma kaalak
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nzema_language"
 translations:
   - translation_iso: ara
     name: النزيما
+  - translation_iso: ben
+    name: এনজিমা
   - translation_iso: deu
     name: Nzema
   - translation_iso: fra
     name: nzema
   - translation_iso: hin
     name: न्ज़ीमा
+  - translation_iso: ind
+    name: Nzima
   - translation_iso: jpn
     name: ンゼマ語
   - translation_iso: kor
     name: 느지마어
   - translation_iso: por
     name: Língua nzema
+  - translation_iso: rus
+    name: нзима
   - translation_iso: spa
     name: Idioma nzema
   - translation_iso: zho

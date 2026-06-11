@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोवियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kowiai
   - translation_iso: jpn
     name: コウィアイ語
+    auto: true
+  - translation_iso: kor
+    name: 코위아이어
     auto: true
   - translation_iso: por
     name: Kowiai

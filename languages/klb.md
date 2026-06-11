@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリワ語
+  - translation_iso: kor
+    name: 킬리와어
+    auto: true
   - translation_iso: por
     name: Língua kiliwa
+  - translation_iso: rus
+    name: Килива
   - translation_iso: spa
     name: idioma kiliwa
   - translation_iso: zho

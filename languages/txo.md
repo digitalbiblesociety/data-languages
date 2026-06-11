@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: توتو
     auto: true
+  - translation_iso: ben
+    name: টোটো
   - translation_iso: deu
     name: Toto
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: टोटो भाषा
   - translation_iso: jpn
     name: トト語
+  - translation_iso: kor
+    name: 토토어
+    auto: true
   - translation_iso: por
     name: Língua toto
+  - translation_iso: rus
+    name: тото
   - translation_iso: spa
     name: toto
   - translation_iso: zho

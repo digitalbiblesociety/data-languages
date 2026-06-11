@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モル語
     auto: true
+  - translation_iso: kor
+    name: 모르어
+    auto: true
   - translation_iso: por
     name: Mor (Península de Bomberai)
     auto: true

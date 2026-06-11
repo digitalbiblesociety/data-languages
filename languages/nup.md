@@ -29,8 +29,12 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌペ語
+  - translation_iso: kor
+    name: 누페어
   - translation_iso: por
     name: Língua nupe
+  - translation_iso: rus
+    name: нупе
   - translation_iso: spa
     name: nupe
   - translation_iso: zho

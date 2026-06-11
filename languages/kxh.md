@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ語
+  - translation_iso: kor
+    name: 카로어
+    auto: true
   - translation_iso: por
     name: Karo (Etiópia)
     auto: true

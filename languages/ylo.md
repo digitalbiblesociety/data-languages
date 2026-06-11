@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナルオ・イー語
     auto: true
+  - translation_iso: kor
+    name: 나뤄 이어
+    auto: true
   - translation_iso: por
     name: yi naluo
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هاتتيك
     auto: true
+  - translation_iso: ben
+    name: হাত্তীক ভাষা
   - translation_iso: deu
     name: Hattisch
   - translation_iso: fra
@@ -25,12 +27,16 @@ translations:
   - translation_iso: hin
     name: हत्ती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hatti
   - translation_iso: jpn
     name: ハッティ語
   - translation_iso: kor
     name: 하티어
   - translation_iso: por
     name: Língua hatita
+  - translation_iso: rus
+    name: хаттский язык
   - translation_iso: spa
     name: Idioma hatti
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クムキオ語
     auto: true
+  - translation_iso: kor
+    name: 쿠무키오어
+    auto: true
   - translation_iso: por
     name: Kumukio
     auto: true

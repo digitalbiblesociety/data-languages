@@ -36,6 +36,8 @@ translations:
     name: 리수어
   - translation_iso: por
     name: Língua lisu
+  - translation_iso: rus
+    name: Лису
   - translation_iso: spa
     name: idioma lisu
   - translation_iso: zho

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: एम्प्लावास
     auto: true
+  - translation_iso: ind
+    name: Emplawas
   - translation_iso: jpn
     name: エムプラワス語
+    auto: true
+  - translation_iso: kor
+    name: 엠플라와스어
     auto: true
   - translation_iso: por
     name: Emplawas

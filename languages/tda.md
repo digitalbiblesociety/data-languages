@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: タグダル語
     auto: true
+  - translation_iso: kor
+    name: 타그달어
+    auto: true
   - translation_iso: por
     name: Tagdal
     auto: true
+  - translation_iso: rus
+    name: Тагдал
   - translation_iso: spa
     name: Tagdal
     auto: true

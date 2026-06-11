@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンジワニ・コモロ語
     auto: true
+  - translation_iso: kor
+    name: 은즈와니 코모로어
+    auto: true
   - translation_iso: por
     name: Comoriano Ndzwani
     auto: true

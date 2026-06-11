@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ماسماجي
     auto: true
+  - translation_iso: ben
+    name: "মাস'মাজে ভাষা"
   - translation_iso: deu
     name: Masmaje
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: マスマエ語
     auto: true
+  - translation_iso: kor
+    name: 마스마제어
+    auto: true
   - translation_iso: por
     name: Masmaje
     auto: true
+  - translation_iso: rus
+    name: Масмадже
   - translation_iso: spa
     name: Masmaje
     auto: true

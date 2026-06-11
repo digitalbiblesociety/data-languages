@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガファト語
+  - translation_iso: kor
+    name: 가파트어
+    auto: true
   - translation_iso: por
     name: Gafat
     auto: true
+  - translation_iso: rus
+    name: Гафат
   - translation_iso: spa
     name: gafat
   - translation_iso: zho

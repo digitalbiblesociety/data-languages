@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ロブ語
     auto: true
+  - translation_iso: kor
+    name: 톰보누오어
+    auto: true
   - translation_iso: por
     name: Tombonuo
     auto: true

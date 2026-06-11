@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: हिनुख
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hinuq
   - translation_iso: jpn
     name: ヒヌフ語
   - translation_iso: kor
     name: 히누흐어
   - translation_iso: por
     name: Língua hinukh
+  - translation_iso: rus
+    name: гинухский язык
   - translation_iso: spa
     name: Hinduq
   - translation_iso: zho

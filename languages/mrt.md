@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルギ語
+  - translation_iso: kor
+    name: 중부 마르기어
+    auto: true
   - translation_iso: por
     name: marghi central
     auto: true

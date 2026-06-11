@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サダニ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 샤다니 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Xadani
     auto: true
+  - translation_iso: rus
+    name: Хаданийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Xadani
     auto: true

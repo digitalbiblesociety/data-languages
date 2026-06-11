@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンカリ語
     auto: true
+  - translation_iso: kor
+    name: 은카리어
+    auto: true
   - translation_iso: por
     name: Nkari
     auto: true

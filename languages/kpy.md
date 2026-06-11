@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koryak_language"
 translations:
   - translation_iso: ara
     name: لغة كورياك
+  - translation_iso: ben
+    name: করিয়াক ভাষা
   - translation_iso: deu
     name: Korjakisch
   - translation_iso: fra
     name: koriak
   - translation_iso: hin
     name: कोरयाक भाषा
+  - translation_iso: ind
+    name: bahasa Koryak
   - translation_iso: jpn
     name: コリャーク語
   - translation_iso: kor
     name: 코랴크어
   - translation_iso: por
     name: Língua koriaque
+  - translation_iso: rus
+    name: корякский язык
   - translation_iso: spa
     name: coriaco
   - translation_iso: zho

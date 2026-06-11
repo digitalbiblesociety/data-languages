@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビシス語
     auto: true
+  - translation_iso: kor
+    name: 비시스어
+    auto: true
   - translation_iso: por
     name: Bisis
     auto: true

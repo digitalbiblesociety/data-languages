@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュバンチー語
+  - translation_iso: kor
+    name: 추반어
+    auto: true
   - translation_iso: por
     name: Chuvantsy
     auto: true
+  - translation_iso: rus
+    name: чуванский язык
   - translation_iso: spa
     name: Chuvantsy
     auto: true

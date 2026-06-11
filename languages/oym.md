@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワヤンピ語
+  - translation_iso: kor
+    name: 와얌피어
+    auto: true
   - translation_iso: por
     name: Língua oiampi
+  - translation_iso: rus
+    name: Ваямпи
   - translation_iso: spa
     name: Wayampi
   - translation_iso: zho

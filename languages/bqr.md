@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बुरुसु
     auto: true
+  - translation_iso: ind
+    name: Burusu
   - translation_iso: jpn
     name: ブルスゥ語
+    auto: true
+  - translation_iso: kor
+    name: 부루수어
     auto: true
   - translation_iso: por
     name: Burusu

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イト語
     auto: true
+  - translation_iso: kor
+    name: 이토어
+    auto: true
   - translation_iso: por
     name: Ito
     auto: true

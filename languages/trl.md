@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トラベラー・スコットランド語
     auto: true
+  - translation_iso: kor
+    name: 스코틀랜드 트래블러어
+    auto: true
   - translation_iso: por
     name: Escocês dos Viajantes
     auto: true
+  - translation_iso: rus
+    name: шотландский кант
   - translation_iso: spa
     name: Cant escocés
     auto: true

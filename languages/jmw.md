@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モウワセ語
     auto: true
+  - translation_iso: kor
+    name: 모우와세어
+    auto: true
   - translation_iso: por
     name: Mouwase
     auto: true

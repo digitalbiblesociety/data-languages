@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングアンド語
     auto: true
+  - translation_iso: kor
+    name: 응간도어
+    auto: true
   - translation_iso: por
     name: Ngando (República Centro-Africana)
     auto: true

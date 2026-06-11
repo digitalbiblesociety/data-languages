@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فوم ناغا
     auto: true
+  - translation_iso: ben
+    name: ফোম ভাষা
   - translation_iso: deu
     name: Phom-Naga
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: フォム・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 폼 나가어
+    auto: true
   - translation_iso: por
     name: Língua phon
+  - translation_iso: rus
+    name: Пхом
   - translation_iso: spa
     name: Naga Phom
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フヤム語
     auto: true
+  - translation_iso: kor
+    name: 피암어
+    auto: true
   - translation_iso: por
     name: Fyam
     auto: true

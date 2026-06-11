@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ゴバシ語
     auto: true
+  - translation_iso: kor
+    name: 고바시어
+    auto: true
   - translation_iso: por
     name: Gobasi
     auto: true

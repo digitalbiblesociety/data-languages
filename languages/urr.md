@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダイバース・ベイ語
     auto: true
+  - translation_iso: kor
+    name: 레할루루프어
+    auto: true
   - translation_iso: por
     name: Löyöp
   - translation_iso: spa

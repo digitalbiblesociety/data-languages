@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミガアマ語
     auto: true
+  - translation_iso: kor
+    name: 미가마어
+    auto: true
   - translation_iso: por
     name: Língua migaama
   - translation_iso: spa

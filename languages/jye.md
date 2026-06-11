@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: यहूदी-यमनी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Yudeo-Yaman
   - translation_iso: jpn
     name: ユダヤ・イエメン・アラビア語
+  - translation_iso: kor
+    name: 유대 예멘 아랍어
+    auto: true
   - translation_iso: por
     name: árabe judaico-iemenita
     auto: true
+  - translation_iso: rus
+    name: Еврейско-йеменский диалект
   - translation_iso: spa
     name: árabe judeo-yemení
   - translation_iso: zho

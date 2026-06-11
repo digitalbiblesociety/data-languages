@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セネド語
+  - translation_iso: kor
+    name: 세네드어
+    auto: true
   - translation_iso: por
     name: Sened
     auto: true
+  - translation_iso: rus
+    name: Сенед
   - translation_iso: spa
     name: Idioma bereber de Sened
   - translation_iso: zho

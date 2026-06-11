@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: यालाहातान
     auto: true
+  - translation_iso: ind
+    name: Yalahatan
   - translation_iso: jpn
     name: ヤラハタン語
+    auto: true
+  - translation_iso: kor
+    name: 얄라하탄어
     auto: true
   - translation_iso: por
     name: Yalahatan
     auto: true
+  - translation_iso: rus
+    name: Ялахатан
   - translation_iso: spa
     name: Yalahatan
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: جالورسي سردينية
     auto: true
+  - translation_iso: ben
+    name: গাডুরীয় উপভাষা
   - translation_iso: deu
     name: Galluresisch
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガッルーラ語
+  - translation_iso: kor
+    name: 갈루라 사르데냐어
+    auto: true
   - translation_iso: por
     name: galurês
+  - translation_iso: rus
+    name: Галлурский диалект
   - translation_iso: spa
     name: gallurés
   - translation_iso: zho

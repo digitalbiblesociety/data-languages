@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الهند-البرتغالية
     auto: true
+  - translation_iso: ben
+    name: ইন্দো-পর্তুগিজ ক্রেওল
   - translation_iso: deu
     name: Indoportugiesisch
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: हिन्द-पुर्तगाली क्रियोल
   - translation_iso: jpn
     name: インド・ポルトガル語
+    auto: true
+  - translation_iso: kor
+    name: 인도포르투갈어
     auto: true
   - translation_iso: por
     name: Crioulos indo-portugueses

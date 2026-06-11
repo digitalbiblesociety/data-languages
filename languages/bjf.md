@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بارزاني اليهودية آرامية جديدة
     auto: true
+  - translation_iso: ben
+    name: বারজানি ইহুদি নব্য-আরামাইক
   - translation_iso: deu
     name: Bijil
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: バルザーニ・ユダヤ・ネオ・アラム語
     auto: true
+  - translation_iso: kor
+    name: 바르자니 유대 신아람어
+    auto: true
   - translation_iso: por
     name: Língua neo-aramaica barzani judaica
+  - translation_iso: rus
+    name: барзанский язык
   - translation_iso: spa
     name: Neoarameo judío de Barzani
     auto: true

@@ -22,18 +22,24 @@ translations:
   - translation_iso: ara
     name: شيربا
     auto: true
+  - translation_iso: ben
+    name: শেরপা ভাষা
   - translation_iso: deu
     name: Sherpa
   - translation_iso: fra
     name: sherpa
   - translation_iso: hin
     name: शेर्पा भाषा
+  - translation_iso: ind
+    name: Sherpa
   - translation_iso: jpn
     name: シェルパ語
   - translation_iso: kor
     name: 셰르파어
   - translation_iso: por
     name: Língua xerpa
+  - translation_iso: rus
+    name: шерпский язык
   - translation_iso: spa
     name: sherpa
   - translation_iso: zho

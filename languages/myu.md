@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムンドゥルク
+  - translation_iso: kor
+    name: 문두루쿠어
+    auto: true
   - translation_iso: por
     name: língua mundurucu
+  - translation_iso: rus
+    name: Мундуруку
   - translation_iso: spa
     name: idioma mundurucú
   - translation_iso: zho

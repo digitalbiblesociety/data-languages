@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニアンガトム語
+  - translation_iso: kor
+    name: 냥가톰어
+    auto: true
   - translation_iso: por
     name: Nyangatom
     auto: true

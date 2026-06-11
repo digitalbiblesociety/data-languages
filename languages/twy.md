@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तावोयन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tawoyan
   - translation_iso: jpn
     name: タボハン語
+    auto: true
+  - translation_iso: kor
+    name: 타워얀어
     auto: true
   - translation_iso: por
     name: Tawoyan

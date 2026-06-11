@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォロパ語
+  - translation_iso: kor
+    name: 폴로파어
+    auto: true
   - translation_iso: por
     name: Folopa
     auto: true
+  - translation_iso: rus
+    name: фолопа
   - translation_iso: spa
     name: Folopa
     auto: true

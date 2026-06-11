@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モノ語
     auto: true
+  - translation_iso: kor
+    name: 모노어
+    auto: true
   - translation_iso: por
     name: Mono (Camarões)
     auto: true

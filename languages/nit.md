@@ -30,9 +30,14 @@ translations:
     name: नेईकी भाषा
   - translation_iso: jpn
     name: ナイキー語
+  - translation_iso: kor
+    name: 남동부 콜라미어
+    auto: true
   - translation_iso: por
     name: Kolami do Sudeste
     auto: true
+  - translation_iso: rus
+    name: найки
   - translation_iso: spa
     name: Kolami suroriental
     auto: true

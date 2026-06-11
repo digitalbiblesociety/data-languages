@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボスングン語
     auto: true
+  - translation_iso: kor
+    name: 보스응운어
+    auto: true
   - translation_iso: por
     name: Bosngun
     auto: true

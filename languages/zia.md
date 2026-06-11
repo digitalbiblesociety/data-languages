@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジア語
     auto: true
+  - translation_iso: kor
+    name: 지아어
+    auto: true
   - translation_iso: por
     name: zia
     auto: true

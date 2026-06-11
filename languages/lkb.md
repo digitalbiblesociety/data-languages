@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カブラス語
     auto: true
+  - translation_iso: kor
+    name: 카브라스어
+    auto: true
   - translation_iso: por
     name: Kabras
     auto: true
+  - translation_iso: rus
+    name: лукабарас
   - translation_iso: spa
     name: Kabras
     auto: true

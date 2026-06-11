@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: कुबु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kubu
   - translation_iso: jpn
     name: クブ語
     auto: true
+  - translation_iso: kor
+    name: 쿠부어
+    auto: true
   - translation_iso: por
     name: Kubu
+  - translation_iso: rus
+    name: Кубу
   - translation_iso: spa
     name: Kubu
   - translation_iso: zho

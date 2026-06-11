@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: グマワナ語
     auto: true
+  - translation_iso: kor
+    name: 구마와나어
+    auto: true
   - translation_iso: por
     name: Gumawana
     auto: true

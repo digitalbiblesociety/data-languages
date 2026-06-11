@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルウンド語
     auto: true
+  - translation_iso: kor
+    name: 룬드어
+    auto: true
   - translation_iso: por
     name: Ruund
     auto: true

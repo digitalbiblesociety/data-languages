@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الألبانية الأرڤانيتية
     auto: true
+  - translation_iso: ben
+    name: আরভানিটিক
   - translation_iso: deu
     name: Arvanitisch
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルヴァニティカ方言
+  - translation_iso: kor
+    name: 아르바니티카 알바니아어
+    auto: true
   - translation_iso: por
     name: arvanitico
+  - translation_iso: rus
+    name: Арнаутский диалект
   - translation_iso: spa
     name: arvanítico
   - translation_iso: zho

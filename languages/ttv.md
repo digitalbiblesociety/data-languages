@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティタン語
+  - translation_iso: kor
+    name: 티탄어
+    auto: true
   - translation_iso: por
     name: Titan
     auto: true
+  - translation_iso: rus
+    name: Титан
   - translation_iso: spa
     name: Titan
     auto: true

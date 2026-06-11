@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: करोन डोरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Karon Dori
   - translation_iso: jpn
     name: カロン・ドリ語
+    auto: true
+  - translation_iso: kor
+    name: 카론 도리어
     auto: true
   - translation_iso: por
     name: Karon Dori

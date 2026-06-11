@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カモ語
     auto: true
+  - translation_iso: kor
+    name: 카모어
+    auto: true
   - translation_iso: por
     name: Kamo
     auto: true
+  - translation_iso: rus
+    name: Камо
   - translation_iso: spa
     name: Kamo
     auto: true

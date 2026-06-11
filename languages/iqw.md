@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: イクウォ語
     auto: true
+  - translation_iso: kor
+    name: 이쿼어
+    auto: true
   - translation_iso: por
     name: Ikwo
     auto: true

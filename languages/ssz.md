@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: アセンセング語
     auto: true
+  - translation_iso: kor
+    name: 셍셍어
+    auto: true
   - translation_iso: por
     name: Sengseng
     auto: true

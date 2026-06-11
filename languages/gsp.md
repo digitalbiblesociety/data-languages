@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワセンボ語
     auto: true
+  - translation_iso: kor
+    name: 와셈보어
+    auto: true
   - translation_iso: por
     name: Wasembo
     auto: true

@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: एम्बालोह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Embaloh
   - translation_iso: jpn
     name: エムバロー語
+    auto: true
+  - translation_iso: kor
+    name: 엠발로어
     auto: true
   - translation_iso: por
     name: Embaloh
     auto: true
+  - translation_iso: rus
+    name: Мбалох
   - translation_iso: spa
     name: Embaloh
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンコロ語
     auto: true
+  - translation_iso: kor
+    name: 은코로어
+    auto: true
   - translation_iso: por
     name: Nkoroo
     auto: true

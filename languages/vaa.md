@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ハッキピッキ語
     auto: true
+  - translation_iso: kor
+    name: 바그리 볼리어
+    auto: true
   - translation_iso: por
     name: Vaagri Booli
     auto: true

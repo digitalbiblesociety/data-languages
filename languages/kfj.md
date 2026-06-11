@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ケミエフア語
     auto: true
+  - translation_iso: kor
+    name: 커몌화어
+    auto: true
   - translation_iso: por
     name: Kemiehua
     auto: true

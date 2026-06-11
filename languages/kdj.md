@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カリモジョン語
+  - translation_iso: kor
+    name: 카라모종어
+    auto: true
   - translation_iso: por
     name: Língua Karamajong
   - translation_iso: spa

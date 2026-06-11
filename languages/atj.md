@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atikamekw_language"
 translations:
   - translation_iso: ara
     name: الأتيكاميكوية
+  - translation_iso: ben
+    name: আটিকামেকিউ
   - translation_iso: deu
     name: Atikamekw
   - translation_iso: fra
     name: atikamekw
   - translation_iso: hin
     name: अतिकामेक्व
+  - translation_iso: ind
+    name: Atikamekw
   - translation_iso: jpn
     name: アティカメク語
   - translation_iso: kor
     name: 아티카메쿠어
   - translation_iso: por
     name: Língua atikamekw
+  - translation_iso: rus
+    name: атикамек
   - translation_iso: spa
     name: atikamekw
   - translation_iso: zho

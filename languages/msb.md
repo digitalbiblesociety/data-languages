@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: मस्बातेन्यो
     auto: true
+  - translation_iso: ind
+    name: bahasa Masbati
   - translation_iso: jpn
     name: マスバテニョ語
+  - translation_iso: kor
+    name: 마스바테뇨어
+    auto: true
   - translation_iso: por
     name: Língua masbatenha
+  - translation_iso: rus
+    name: масбатеньо
   - translation_iso: spa
     name: masbateño
   - translation_iso: zho

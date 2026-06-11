@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ヤウマ語
     auto: true
+  - translation_iso: kor
+    name: 야우마어
+    auto: true
   - translation_iso: por
     name: yauma
     auto: true

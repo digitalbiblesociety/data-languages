@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フル語
     auto: true
+  - translation_iso: kor
+    name: 푸루어
+    auto: true
   - translation_iso: por
     name: Furu
     auto: true

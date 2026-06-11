@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東ウォロラン語
     auto: true
+  - translation_iso: kor
+    name: 응아리닌어
+    auto: true
   - translation_iso: por
     name: Ngarinyin
     auto: true

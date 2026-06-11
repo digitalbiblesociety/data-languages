@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ألو كوروما
     auto: true
+  - translation_iso: ben
+    name: আলু কুরুম্বা
   - translation_iso: deu
     name: Alu Kurumba
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アル・クルンバ語
+    auto: true
+  - translation_iso: kor
+    name: 알루 쿠룸바어
     auto: true
   - translation_iso: por
     name: alu kurumba

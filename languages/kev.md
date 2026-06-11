@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كانيكاران
     auto: true
+  - translation_iso: ben
+    name: কনিক্করন ভাষা
   - translation_iso: deu
     name: Kanikkaran
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カニッカラン語
+    auto: true
+  - translation_iso: kor
+    name: 카니카란어
     auto: true
   - translation_iso: por
     name: Kanikkaran

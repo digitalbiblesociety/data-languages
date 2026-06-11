@@ -28,6 +28,8 @@ translations:
   - translation_iso: por
     name: Selian
     auto: true
+  - translation_iso: rus
+    name: селонский язык
   - translation_iso: spa
     name: selonio
   - translation_iso: zho

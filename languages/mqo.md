@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: मोदोले
     auto: true
+  - translation_iso: ind
+    name: Modole
   - translation_iso: jpn
     name: モドレ語
+  - translation_iso: kor
+    name: 모돌레어
+    auto: true
   - translation_iso: por
     name: Modole
   - translation_iso: spa

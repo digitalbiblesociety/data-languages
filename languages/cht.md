@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チョロン語
     auto: true
+  - translation_iso: kor
+    name: 촐론어
+    auto: true
   - translation_iso: por
     name: Cholón
     auto: true
+  - translation_iso: rus
+    name: Чолонский язык
   - translation_iso: spa
     name: cholón
   - translation_iso: zho

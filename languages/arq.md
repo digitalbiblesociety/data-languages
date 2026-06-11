@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة الجزائرية
+  - translation_iso: ben
+    name: আলজেরীয় আরবি
   - translation_iso: deu
     name: Algerisch-Arabisch
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: अल्जीरियाई अरबी
     auto: true
+  - translation_iso: ind
+    name: Arab Aljazair
   - translation_iso: jpn
     name: アラビア語アルジェリア方言
   - translation_iso: kor
     name: 알제리 아랍어
   - translation_iso: por
     name: árabe argelino
+  - translation_iso: rus
+    name: алжирский диалект арабского языка
   - translation_iso: spa
     name: árabe argelino
   - translation_iso: zho

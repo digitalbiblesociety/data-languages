@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部マリンカカン語
+  - translation_iso: kor
+    name: 서부 마닌카칸어
+    auto: true
   - translation_iso: por
     name: maninkakan ocidental
     auto: true

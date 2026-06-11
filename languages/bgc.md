@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haryanvi_language"
 translations:
   - translation_iso: ara
     name: الهريانية
+  - translation_iso: ben
+    name: হরিয়ানভি
   - translation_iso: deu
     name: Haryanvi
   - translation_iso: fra
     name: haryanvi
   - translation_iso: hin
     name: हरियाणवी
+  - translation_iso: ind
+    name: Haryanvi
   - translation_iso: jpn
     name: ハリヤーンウィー語
   - translation_iso: kor
     name: 하리아나어
   - translation_iso: por
     name: Hariani
+  - translation_iso: rus
+    name: харианви
   - translation_iso: spa
     name: Idioma haryanvi
   - translation_iso: zho

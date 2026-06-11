@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブナマ語
     auto: true
+  - translation_iso: kor
+    name: 부나마어
+    auto: true
   - translation_iso: por
     name: Bunama
     auto: true

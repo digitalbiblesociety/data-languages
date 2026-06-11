@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴァサヴィ語
+  - translation_iso: kor
+    name: 바사비어
+    auto: true
   - translation_iso: por
     name: Vasavi
     auto: true

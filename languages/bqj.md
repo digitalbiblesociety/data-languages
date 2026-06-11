@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باندْيال
     auto: true
+  - translation_iso: ben
+    name: বান্দিয়াল
   - translation_iso: deu
     name: Bandial
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンジャル語
+  - translation_iso: kor
+    name: 반디알어
+    auto: true
   - translation_iso: por
     name: Língua bandial
+  - translation_iso: rus
+    name: Бандиал
   - translation_iso: spa
     name: Bandial
     auto: true

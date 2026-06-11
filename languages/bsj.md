@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانْجويْنجي
     auto: true
+  - translation_iso: ben
+    name: ব্যাংউইনজি
   - translation_iso: deu
     name: Bangwinji
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: バングウィンジ語
     auto: true
+  - translation_iso: kor
+    name: 방윈지어
+    auto: true
   - translation_iso: por
     name: Bangwinji
     auto: true
+  - translation_iso: rus
+    name: Бангвинджи
   - translation_iso: spa
     name: Bangwinji
     auto: true

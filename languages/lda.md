@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クラ・ダン語
     auto: true
+  - translation_iso: kor
+    name: 클라단어
+    auto: true
   - translation_iso: por
     name: Kla-Dan
     auto: true

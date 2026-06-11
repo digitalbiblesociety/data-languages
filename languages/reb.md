@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: रेमबोंग
     auto: true
+  - translation_iso: ind
+    name: Rembong
   - translation_iso: jpn
     name: レムボング語
+  - translation_iso: kor
+    name: 렘봉어
+    auto: true
   - translation_iso: por
     name: Rembong
   - translation_iso: spa

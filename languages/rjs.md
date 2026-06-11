@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラージバンシ語
+  - translation_iso: kor
+    name: 라지반시어
+    auto: true
   - translation_iso: por
     name: Língua rajbanshi
   - translation_iso: spa

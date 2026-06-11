@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: उत्तरी अव्यु
     auto: true
+  - translation_iso: ind
+    name: Awyu utara
   - translation_iso: jpn
     name: 北アウィユ語
+    auto: true
+  - translation_iso: kor
+    name: 북부 아우유어
     auto: true
   - translation_iso: por
     name: awyu do norte

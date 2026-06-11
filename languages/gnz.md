@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガンジ語
     auto: true
+  - translation_iso: kor
+    name: 간지어
+    auto: true
   - translation_iso: por
     name: Ganzi
     auto: true

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語
+  - translation_iso: kor
+    name: 투바툴라발어
+    auto: true
   - translation_iso: por
     name: Tübatulabal
     auto: true
+  - translation_iso: rus
+    name: Тюбатулабаль
   - translation_iso: spa
     name: Idioma tübatulabal
   - translation_iso: zho

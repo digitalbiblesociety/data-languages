@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: तिदोरे
     auto: true
+  - translation_iso: ind
+    name: Tidore
   - translation_iso: jpn
     name: ティドレ語
+  - translation_iso: kor
+    name: 티도레어
+    auto: true
   - translation_iso: por
     name: Tidore
     auto: true
+  - translation_iso: rus
+    name: Тидоре (язык)
   - translation_iso: spa
     name: Tidore
     auto: true

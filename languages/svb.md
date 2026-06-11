@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウラウ・スアイン語
     auto: true
+  - translation_iso: kor
+    name: 울라우수아인어
+    auto: true
   - translation_iso: por
     name: Ulau-Suain
     auto: true

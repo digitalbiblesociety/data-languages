@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ペンチャル語
     auto: true
+  - translation_iso: kor
+    name: 펜찰어
+    auto: true
   - translation_iso: por
     name: Penchal
     auto: true

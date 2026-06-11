@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 古アバル語
     auto: true
+  - translation_iso: kor
+    name: 고대 아바르어
+    auto: true
   - translation_iso: por
     name: avar antigo
     auto: true

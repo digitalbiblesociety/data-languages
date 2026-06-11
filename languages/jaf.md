@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ジャラ語
     auto: true
+  - translation_iso: kor
+    name: 자라어
+    auto: true
   - translation_iso: por
     name: Jara
     auto: true
+  - translation_iso: rus
+    name: Джара (язык)
   - translation_iso: spa
     name: Jara
     auto: true

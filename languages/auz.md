@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Árabe Usbeque
     auto: true
+  - translation_iso: rus
+    name: Кашкадарьинский диалект арабского языка
   - translation_iso: spa
     name: Árabe uzbeko
     auto: true

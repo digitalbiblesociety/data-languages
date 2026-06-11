@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北西アラスカ・イヌピアツン語
+  - translation_iso: kor
+    name: 북서알래스카 이누피아툰어
+    auto: true
   - translation_iso: por
     name: inupiatum do noroeste do Alasca
     auto: true
+  - translation_iso: rus
+    name: инуитов полуострова Сьюард язык
   - translation_iso: spa
     name: inuit de la Península Seward
   - translation_iso: zho

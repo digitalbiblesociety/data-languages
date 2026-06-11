@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पा दी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pa Di
   - translation_iso: jpn
     name: パディ語
+  - translation_iso: kor
+    name: 파디어
+    auto: true
   - translation_iso: por
     name: Pa Di
     auto: true

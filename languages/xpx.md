@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南西タスマニア語
     auto: true
+  - translation_iso: kor
+    name: 남서부 태즈메이니아어
+    auto: true
   - translation_iso: por
     name: Tasmaniano Sudoeste
     auto: true

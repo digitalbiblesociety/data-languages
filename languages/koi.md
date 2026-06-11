@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Permyak_language"
 translations:
   - translation_iso: ara
     name: بيرمياك
+  - translation_iso: ben
+    name: কমি-পারমিআক
   - translation_iso: deu
     name: Komi-Permjakisch
   - translation_iso: fra
     name: komi-permiak
   - translation_iso: hin
     name: कोमी-पर्मयाक
+  - translation_iso: ind
+    name: Komi-Permyak
   - translation_iso: jpn
     name: コミ・ペルミャク語
   - translation_iso: kor
     name: 코미페르먀크어
   - translation_iso: por
     name: língua komi-permyak
+  - translation_iso: rus
+    name: коми-пермяцкий
   - translation_iso: spa
     name: komi permio
   - translation_iso: zho

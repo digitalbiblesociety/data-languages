@@ -30,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: クイレウテ語
     auto: true
+  - translation_iso: kor
+    name: 퀼리우트어
+    auto: true
   - translation_iso: por
     name: Quileute
+  - translation_iso: rus
+    name: килеут
   - translation_iso: spa
     name: Quileute
   - translation_iso: zho

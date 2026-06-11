@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bislama"
 translations:
   - translation_iso: ara
     name: لغة بسلاما
+  - translation_iso: ben
+    name: বিসলামা
   - translation_iso: deu
     name: Bislama
   - translation_iso: fra
     name: bichelamar
   - translation_iso: hin
     name: बिस्लामा
+  - translation_iso: ind
+    name: Bislama
   - translation_iso: jpn
     name: ビスラマ語
   - translation_iso: kor
     name: 비슬라마어
   - translation_iso: por
     name: Língua bislamá
+  - translation_iso: rus
+    name: бислама
   - translation_iso: spa
     name: Bislama
   - translation_iso: zho

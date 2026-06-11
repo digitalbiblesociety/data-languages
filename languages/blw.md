@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بالانجاو
     auto: true
+  - translation_iso: ben
+    name: বালাঙ্গাও
   - translation_iso: deu
     name: Balangao
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バランガオ語
+    auto: true
+  - translation_iso: kor
+    name: 발랑가오어
     auto: true
   - translation_iso: por
     name: Língua balangao

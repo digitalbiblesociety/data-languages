@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोसारेक याले
     auto: true
+  - translation_iso: ind
+    name: Kosarek
   - translation_iso: jpn
     name: コサレク・イェール語
+    auto: true
+  - translation_iso: kor
+    name: 코사레크 얄레어
     auto: true
   - translation_iso: por
     name: Yale de Kosarek

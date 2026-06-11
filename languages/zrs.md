@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マイラシ語
     auto: true
+  - translation_iso: kor
+    name: 마이라시어
+    auto: true
   - translation_iso: por
     name: Mairasi
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Anii_language"
 translations:
   - translation_iso: ara
     name: الآنية
+  - translation_iso: ben
+    name: অ্যানি
   - translation_iso: deu
     name: Anii
   - translation_iso: fra
     name: anii
   - translation_iso: hin
     name: अनी
+  - translation_iso: ind
+    name: Anii
   - translation_iso: jpn
     name: アニ語 (ベナン)
   - translation_iso: kor
     name: 아니이어
   - translation_iso: por
     name: Língua anii
+  - translation_iso: rus
+    name: ании
   - translation_iso: spa
     name: anii
   - translation_iso: zho

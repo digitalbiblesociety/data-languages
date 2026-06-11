@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ويتشي يامتيس نوكتن
     auto: true
+  - translation_iso: ben
+    name: উইচি লামতেস নকতেন
   - translation_iso: deu
     name: Wichí Lhamtés Nocten
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: ウィチ・ルハムテス・ノクテン語
     auto: true
+  - translation_iso: kor
+    name: 위치 람테스 녹텐어
+    auto: true
   - translation_iso: por
     name: wichí lhamtés nocten
     auto: true
+  - translation_iso: rus
+    name: Вичи-лхамтес-ноктен
   - translation_iso: spa
     name: Idioma weenhayek
   - translation_iso: zho

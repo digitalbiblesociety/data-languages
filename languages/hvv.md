@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・デル・マル・ウアベ語
     auto: true
+  - translation_iso: kor
+    name: 산타마리아델마르 와베어
+    auto: true
   - translation_iso: por
     name: Huave de Santa María del Mar
     auto: true

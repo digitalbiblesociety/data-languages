@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ボセレワ語
     auto: true
+  - translation_iso: kor
+    name: 보셀레와어
+    auto: true
   - translation_iso: por
     name: Boselewa
     auto: true
+  - translation_iso: rus
+    name: Боселева
   - translation_iso: spa
     name: Boselewa
     auto: true

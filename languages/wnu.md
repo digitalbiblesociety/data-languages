@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ウサン語
     auto: true
+  - translation_iso: kor
+    name: 우산어
+    auto: true
   - translation_iso: por
     name: Usan
     auto: true
+  - translation_iso: rus
+    name: усанский язык
   - translation_iso: spa
     name: Usan
     auto: true

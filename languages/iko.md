@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オルルモ・イコム語
     auto: true
+  - translation_iso: kor
+    name: 올룰루모이콤어
+    auto: true
   - translation_iso: por
     name: Olulumo-Ikom
     auto: true

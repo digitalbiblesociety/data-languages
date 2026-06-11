@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 峡湾部・パハパン・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 이스트모·파하판 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl do Istmo-Pajapan
     auto: true

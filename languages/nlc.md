@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: नाल्का
     auto: true
+  - translation_iso: ind
+    name: Mek Nalca
   - translation_iso: jpn
     name: ナルカ語
+    auto: true
+  - translation_iso: kor
+    name: 날차어
     auto: true
   - translation_iso: por
     name: Nalca

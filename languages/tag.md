@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: タゴイ語
     auto: true
+  - translation_iso: kor
+    name: 타고이어
+    auto: true
   - translation_iso: por
     name: Tagoi
     auto: true
+  - translation_iso: rus
+    name: Тагой
   - translation_iso: spa
     name: Tagoi
     auto: true

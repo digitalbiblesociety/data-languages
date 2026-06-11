@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أدانجبي
     auto: true
+  - translation_iso: ben
+    name: আগোতাইম
   - translation_iso: deu
     name: Adangbe
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダンゲベ語
+    auto: true
+  - translation_iso: kor
+    name: 아당베어
     auto: true
   - translation_iso: por
     name: Adangbe

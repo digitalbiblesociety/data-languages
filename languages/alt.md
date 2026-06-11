@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Altai_language"
 translations:
   - translation_iso: ara
     name: الألطائية الجنوبية
+  - translation_iso: ben
+    name: দক্ষিন আলতাই
   - translation_iso: deu
     name: Südaltaisch
   - translation_iso: fra
     name: altaï méridional
   - translation_iso: hin
     name: दक्षिणी अल्ताई
+  - translation_iso: ind
+    name: Altai Selatan
   - translation_iso: jpn
     name: 南アルタイ語
   - translation_iso: kor
     name: 남알타이어
   - translation_iso: por
     name: altai meridional
+  - translation_iso: rus
+    name: южноалтайский
   - translation_iso: spa
     name: altái meridional
   - translation_iso: zho

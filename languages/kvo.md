@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: दोबेल
     auto: true
+  - translation_iso: ind
+    name: Dobel
   - translation_iso: jpn
     name: ドベル語
+    auto: true
+  - translation_iso: kor
+    name: 도벨어
     auto: true
   - translation_iso: por
     name: Dobel

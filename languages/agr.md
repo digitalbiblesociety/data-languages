@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغوارونا
     auto: true
+  - translation_iso: ben
+    name: আগুয়ারুনা
   - translation_iso: deu
     name: Aguaruna
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アグアルナ語
     auto: true
+  - translation_iso: kor
+    name: 아과루나어
+    auto: true
   - translation_iso: por
     name: Língua aguaruna
+  - translation_iso: rus
+    name: Агуаруна
   - translation_iso: spa
     name: lengua awajún
   - translation_iso: zho

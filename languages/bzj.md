@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيليز كريول إنْجليزي
     auto: true
+  - translation_iso: ben
+    name: বেলিজীয় ক্রেওল
   - translation_iso: deu
     name: Belize-Kreolenglisch
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 벨리즈 크리올
   - translation_iso: por
     name: Crioulo belizenho
+  - translation_iso: rus
+    name: Белизский креольский язык
   - translation_iso: spa
     name: criollo beliceño
   - translation_iso: zho

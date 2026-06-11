@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤンプ語
     auto: true
+  - translation_iso: kor
+    name: 얌푸어
+    auto: true
   - translation_iso: por
     name: yamphu
     auto: true

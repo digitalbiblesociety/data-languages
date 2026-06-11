@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: نيمادي
     auto: true
+  - translation_iso: ben
+    name: নিমাড়ি ভাষা
   - translation_iso: deu
     name: Nimadi
     auto: true
@@ -32,8 +34,13 @@ translations:
     name: निमाड़ी
   - translation_iso: jpn
     name: ニマディ語
+  - translation_iso: kor
+    name: 니마디어
+    auto: true
   - translation_iso: por
     name: Língua nimadi
+  - translation_iso: rus
+    name: нимади
   - translation_iso: spa
     name: Nimadi
     auto: true

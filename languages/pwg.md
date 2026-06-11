@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガパパイワ語
     auto: true
+  - translation_iso: kor
+    name: 가파파이와어
+    auto: true
   - translation_iso: por
     name: Gapapaiwa
     auto: true

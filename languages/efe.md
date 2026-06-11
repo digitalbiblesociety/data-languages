@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: الإيفي
     auto: true
+  - translation_iso: ben
+    name: ইফে
   - translation_iso: deu
     name: Efe
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフェ語
+    auto: true
+  - translation_iso: kor
+    name: 에페어
     auto: true
   - translation_iso: por
     name: Efe

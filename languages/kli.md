@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: कालुम्पांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kalumpang
   - translation_iso: jpn
     name: カルムパン語
+    auto: true
+  - translation_iso: kor
+    name: 칼룸팡어
     auto: true
   - translation_iso: por
     name: Kalumpang
     auto: true
+  - translation_iso: rus
+    name: Калумпанг
   - translation_iso: spa
     name: Kalumpang
     auto: true

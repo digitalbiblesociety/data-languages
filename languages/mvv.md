@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तागल मुरुत
     auto: true
+  - translation_iso: ind
+    name: Tagal Murut
   - translation_iso: jpn
     name: タガル・ムルット語
+    auto: true
+  - translation_iso: kor
+    name: 타갈 무루트어
     auto: true
   - translation_iso: por
     name: Tagal Murut

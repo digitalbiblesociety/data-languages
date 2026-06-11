@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボンケング語
     auto: true
+  - translation_iso: kor
+    name: 봉켕어
+    auto: true
   - translation_iso: por
     name: Bonkeng
     auto: true

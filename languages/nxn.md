@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンガウン語
     auto: true
+  - translation_iso: kor
+    name: 응아운어
+    auto: true
   - translation_iso: por
     name: Língua ngawun
   - translation_iso: spa

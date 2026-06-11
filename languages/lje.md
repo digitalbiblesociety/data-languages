@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: रंपी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Rampi
   - translation_iso: jpn
     name: ラムピ語
+    auto: true
+  - translation_iso: kor
+    name: 람피어
     auto: true
   - translation_iso: por
     name: Rampi

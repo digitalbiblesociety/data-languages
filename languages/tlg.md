@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: तोफानमा
     auto: true
+  - translation_iso: ind
+    name: Tofanma
   - translation_iso: jpn
     name: トファンマ語
+    auto: true
+  - translation_iso: kor
+    name: 토판마어
     auto: true
   - translation_iso: por
     name: Tofanma
     auto: true
+  - translation_iso: rus
+    name: Тофамна (язык)
   - translation_iso: spa
     name: Idioma tofamna
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・グッデナフ語
     auto: true
+  - translation_iso: kor
+    name: 서부 굿이너프어
+    auto: true
   - translation_iso: por
     name: Goodenough Ocidental
     auto: true

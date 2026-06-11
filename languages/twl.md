@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チショナ語
     auto: true
+  - translation_iso: kor
+    name: 타와라어
+    auto: true
   - translation_iso: por
     name: Tawara
     auto: true

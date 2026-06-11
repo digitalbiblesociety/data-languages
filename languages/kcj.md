@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: कोबियाना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kobiana
   - translation_iso: jpn
     name: コビアナ語
     auto: true

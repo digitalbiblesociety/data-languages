@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: ताय सा पा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sapa
   - translation_iso: jpn
     name: サパ語
+  - translation_iso: kor
+    name: 따이사파어
+    auto: true
   - translation_iso: por
     name: Tày Sa Pa
     auto: true
+  - translation_iso: rus
+    name: сапа
   - translation_iso: spa
     name: Tày Sa Pa
     auto: true

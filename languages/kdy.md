@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: केडर
     auto: true
+  - translation_iso: ind
+    name: Keijar
   - translation_iso: jpn
     name: ケデル語
+    auto: true
+  - translation_iso: kor
+    name: 케데르어
     auto: true
   - translation_iso: por
     name: Keder

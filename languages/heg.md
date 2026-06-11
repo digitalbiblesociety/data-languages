@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: हेलोंग
     auto: true
+  - translation_iso: ind
+    name: Helong
   - translation_iso: jpn
     name: ヘロング語
     auto: true
+  - translation_iso: kor
+    name: 헬롱어
+    auto: true
   - translation_iso: por
     name: Língua helong
+  - translation_iso: rus
+    name: хелонг
   - translation_iso: spa
     name: Helong
     auto: true

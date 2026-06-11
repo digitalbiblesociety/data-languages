@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムゴム語
     auto: true
+  - translation_iso: kor
+    name: 무곰어
+    auto: true
   - translation_iso: por
     name: Mugom
     auto: true
+  - translation_iso: rus
+    name: Мугом
   - translation_iso: spa
     name: Mugom
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヴァリヒオ語
     auto: true
+  - translation_iso: kor
+    name: 우아리히오어
+    auto: true
   - translation_iso: por
     name: Língua guarijio
+  - translation_iso: rus
+    name: гуарихио
   - translation_iso: spa
     name: idioma guarijío
   - translation_iso: zho

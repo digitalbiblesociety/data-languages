@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コモックス語
+  - translation_iso: kor
+    name: 코목스어
+    auto: true
   - translation_iso: por
     name: Língua comox
+  - translation_iso: rus
+    name: Комокс
   - translation_iso: spa
     name: Comox
     auto: true

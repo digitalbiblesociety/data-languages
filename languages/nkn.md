@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンカンガラ語
     auto: true
+  - translation_iso: kor
+    name: 은캉갈라어
+    auto: true
   - translation_iso: por
     name: Nkangala
     auto: true

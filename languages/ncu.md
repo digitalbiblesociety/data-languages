@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チュムブルング語
     auto: true
+  - translation_iso: kor
+    name: 춤부룽어
+    auto: true
   - translation_iso: por
     name: Chumburung
     auto: true

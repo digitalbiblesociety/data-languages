@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オイダ語
     auto: true
+  - translation_iso: kor
+    name: 오이다어
+    auto: true
   - translation_iso: por
     name: Oyda
     auto: true
+  - translation_iso: rus
+    name: Ойда
   - translation_iso: spa
     name: Oyda
     auto: true

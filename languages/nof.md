@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ノマネ語
     auto: true
+  - translation_iso: kor
+    name: 노마네어
+    auto: true
   - translation_iso: por
     name: Nomane
     auto: true

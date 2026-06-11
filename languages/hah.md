@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ハホン語
     auto: true
+  - translation_iso: kor
+    name: 하혼어
+    auto: true
   - translation_iso: por
     name: Hahon
     auto: true

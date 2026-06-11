@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラグフー語
     auto: true
+  - translation_iso: kor
+    name: 라구어
+    auto: true
   - translation_iso: por
     name: Laghuu
     auto: true

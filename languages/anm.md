@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أناّال
     auto: true
+  - translation_iso: ben
+    name: নামফাউ ভাষা
   - translation_iso: deu
     name: Anal
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     name: अनाल भाषा
   - translation_iso: jpn
     name: アナル語
+  - translation_iso: kor
+    name: 아날어
+    auto: true
   - translation_iso: por
     name: Idioma Anāl
+  - translation_iso: rus
+    name: Анал
   - translation_iso: spa
     name: Idioma anal
   - translation_iso: zho

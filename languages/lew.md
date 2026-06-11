@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: लेदो कैली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kaili
   - translation_iso: jpn
     name: レド・カイリ語
+    auto: true
+  - translation_iso: kor
+    name: 레도 카일리어
     auto: true
   - translation_iso: por
     name: Língua ledo-kaili

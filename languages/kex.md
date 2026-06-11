@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: कुकना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kukna
   - translation_iso: jpn
     name: ククナ語
+    auto: true
+  - translation_iso: kor
+    name: 쿠크나어
     auto: true
   - translation_iso: por
     name: Kukna

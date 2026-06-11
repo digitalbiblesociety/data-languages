@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بادمايا
     auto: true
+  - translation_iso: ben
+    name: বাদিমায়া
   - translation_iso: deu
     name: Badimaya
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: バディマヤ語
     auto: true
+  - translation_iso: kor
+    name: 바디마야어
+    auto: true
   - translation_iso: por
     name: Badimaya
     auto: true
+  - translation_iso: rus
+    name: патимая
   - translation_iso: spa
     name: Badimaya
     auto: true

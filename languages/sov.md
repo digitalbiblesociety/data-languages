@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: सोनसोरोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sonsorol
   - translation_iso: jpn
     name: ソンソロール語
+  - translation_iso: kor
+    name: 손소롤어
+    auto: true
   - translation_iso: por
     name: Línguas sonsorolesa
+  - translation_iso: rus
+    name: сонсорольский язык
   - translation_iso: spa
     name: sonsorol
   - translation_iso: zho

@@ -33,6 +33,8 @@ translations:
     name: 스반어
   - translation_iso: por
     name: Língua svan
+  - translation_iso: rus
+    name: сванский язык
   - translation_iso: spa
     name: esvano
   - translation_iso: zho

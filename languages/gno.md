@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
+  - translation_iso: kor
+    name: 북부 곤드어
+    auto: true
   - translation_iso: por
     name: gondi do norte
     auto: true

@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: بانيڤا
     auto: true
+  - translation_iso: ben
+    name: গুয়াইনিয়ার বানিওয়া
   - translation_iso: deu
     name: Baniva
     auto: true
@@ -26,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニバ語
+  - translation_iso: kor
+    name: 바니바어
+    auto: true
   - translation_iso: por
     name: Baniva
     auto: true
+  - translation_iso: rus
+    name: Банива
   - translation_iso: spa
     name: idioma abane
   - translation_iso: zho

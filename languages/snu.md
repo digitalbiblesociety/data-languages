@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेंग्गी
     auto: true
+  - translation_iso: ind
+    name: Senggi
   - translation_iso: jpn
     name: ヴィイド語
+    auto: true
+  - translation_iso: kor
+    name: 셍기어
     auto: true
   - translation_iso: por
     name: Senggi

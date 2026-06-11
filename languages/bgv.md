@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वारकाय-बिपिम
     auto: true
+  - translation_iso: ind
+    name: Bipim
   - translation_iso: jpn
     name: ワルカイ・ビピム語
+    auto: true
+  - translation_iso: kor
+    name: 와르카이·비핌어
     auto: true
   - translation_iso: por
     name: Warkay-Bipim

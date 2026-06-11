@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوشي
     auto: true
+  - translation_iso: ben
+    name: আউশি
   - translation_iso: deu
     name: Aushi
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウシ語
+    auto: true
+  - translation_iso: kor
+    name: 아우시어
     auto: true
   - translation_iso: por
     name: Aushi

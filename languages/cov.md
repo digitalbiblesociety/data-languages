@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カオ・ミャオ語
     auto: true
+  - translation_iso: kor
+    name: 차오먀오어
+    auto: true
   - translation_iso: por
     name: Cao Miao
     auto: true

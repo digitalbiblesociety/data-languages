@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: काबोला
     auto: true
+  - translation_iso: ind
+    name: Kabola
   - translation_iso: jpn
     name: カボラ語
+    auto: true
+  - translation_iso: kor
+    name: 카볼라어
     auto: true
   - translation_iso: por
     name: Kabola

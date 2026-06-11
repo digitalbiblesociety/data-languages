@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kinyarwanda"
 translations:
   - translation_iso: ara
     name: الكينيارواندية
+  - translation_iso: ben
+    name: কিনয়ারোয়ান্ডা
   - translation_iso: deu
     name: Kinyarwanda
   - translation_iso: fra
     name: kinyarwanda
   - translation_iso: hin
     name: किन्यारुआण्डा भाषा
+  - translation_iso: ind
+    name: Kinyarwanda
   - translation_iso: jpn
     name: ルワンダ語
   - translation_iso: kor
     name: 키냐르완다어
   - translation_iso: por
     name: Língua kinyarwanda
+  - translation_iso: rus
+    name: киньяруанда
   - translation_iso: spa
     name: kiñaruanda
   - translation_iso: zho

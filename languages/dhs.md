@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダイソ語
     auto: true
+  - translation_iso: kor
+    name: 다이소어
+    auto: true
   - translation_iso: por
     name: Dhaiso
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كانجوبال الغربية
     auto: true
+  - translation_iso: ben
+    name: আকাতেকো
   - translation_iso: deu
     name: Akatekisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 아카텍어
   - translation_iso: por
     name: Língua acateca
+  - translation_iso: rus
+    name: Акатекский язык
   - translation_iso: spa
     name: acateco
   - translation_iso: zho

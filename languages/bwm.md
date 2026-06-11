@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビワット語
     auto: true
+  - translation_iso: kor
+    name: 비와트어
+    auto: true
   - translation_iso: por
     name: Biwat
     auto: true

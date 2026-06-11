@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أمبو-باسكو
     auto: true
+  - translation_iso: ben
+    name: আম্বো-পাসকো কেচুয়া
   - translation_iso: deu
     name: Ambo-Pasco-Quechua
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンボパスコケチュア語
+    auto: true
+  - translation_iso: kor
+    name: 암보파스코 케추아어
     auto: true
   - translation_iso: por
     name: Quíchua de Ambo-Pasco

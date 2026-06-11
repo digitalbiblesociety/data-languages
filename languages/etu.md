@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإجاغام
     auto: true
+  - translation_iso: ben
+    name: একোই
   - translation_iso: deu
     name: Ejagham
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エコイ語
+  - translation_iso: kor
+    name: 에자감어
+    auto: true
   - translation_iso: por
     name: Ejagham
     auto: true

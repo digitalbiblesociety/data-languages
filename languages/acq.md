@@ -28,10 +28,17 @@ translations:
     name: "arabe ta'izzi-adeni"
   - translation_iso: hin
     name: ताज़ी अदनी अरबी
+  - translation_iso: ind
+    name: Bahasa Arab Taʽizzi-Adeni
   - translation_iso: jpn
     name: アラビア語南イエメン方言
+  - translation_iso: kor
+    name: 타이즈·아덴 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe taizzi-adeni
+  - translation_iso: rus
+    name: Южнойеменский диалект арабского языка
   - translation_iso: spa
     name: "Árabe ta'izzi-adeni"
   - translation_iso: zho

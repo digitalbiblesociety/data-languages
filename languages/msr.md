@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المنغولية
     auto: true
+  - translation_iso: ben
+    name: মঙ্গোলীয় ইশারা ভাষা
   - translation_iso: deu
     name: Mongolische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴル手話
+  - translation_iso: kor
+    name: 몽골 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Mongólia
+  - translation_iso: rus
+    name: монгольский жестовый язык
   - translation_iso: spa
     name: lengua de signos mongola
   - translation_iso: zho

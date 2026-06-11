@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブア語
     auto: true
+  - translation_iso: kor
+    name: 부아어
+    auto: true
   - translation_iso: por
     name: Bua
     auto: true

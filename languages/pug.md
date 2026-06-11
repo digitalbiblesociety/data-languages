@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: フィエ語
     auto: true
+  - translation_iso: kor
+    name: 푸이에어
+    auto: true
   - translation_iso: por
     name: Phuie
     auto: true
+  - translation_iso: rus
+    name: Пуэ
   - translation_iso: spa
     name: Phuie
     auto: true

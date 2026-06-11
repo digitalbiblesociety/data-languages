@@ -30,8 +30,13 @@ translations:
     name: तेवा भाषा
   - translation_iso: jpn
     name: テワ語
+  - translation_iso: kor
+    name: 테와어
+    auto: true
   - translation_iso: por
     name: Língua tewa
+  - translation_iso: rus
+    name: тева
   - translation_iso: spa
     name: Tewa
   - translation_iso: zho

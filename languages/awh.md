@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوبونو
     auto: true
+  - translation_iso: ben
+    name: আওবোনো
   - translation_iso: deu
     name: Awbono
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अवबोनो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awbono
   - translation_iso: jpn
     name: アウボノ語
+    auto: true
+  - translation_iso: kor
+    name: 아우보노어
     auto: true
   - translation_iso: por
     name: Awbono

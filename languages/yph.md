@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フーファ語
     auto: true
+  - translation_iso: kor
+    name: 푸파어
+    auto: true
   - translation_iso: por
     name: phupha
     auto: true

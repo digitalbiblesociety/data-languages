@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ナリ語
     auto: true
+  - translation_iso: kor
+    name: 날리어
+    auto: true
   - translation_iso: por
     name: Nali
     auto: true
+  - translation_iso: rus
+    name: Нали
   - translation_iso: spa
     name: Nali
     auto: true

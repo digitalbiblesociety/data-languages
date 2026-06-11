@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أني فوا
     auto: true
+  - translation_iso: ben
+    name: আনি ফোয়া
   - translation_iso: deu
     name: Ani Phowa
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニフォワ語
+    auto: true
+  - translation_iso: kor
+    name: 아니 포와어
     auto: true
   - translation_iso: por
     name: ani phowa

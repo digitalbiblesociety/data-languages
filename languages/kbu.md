@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カブトラ語
     auto: true
+  - translation_iso: kor
+    name: 카부트라어
+    auto: true
   - translation_iso: por
     name: Kabutra
     auto: true

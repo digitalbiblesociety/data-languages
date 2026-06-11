@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブカン語
     auto: true
+  - translation_iso: kor
+    name: 보칸어
+    auto: true
   - translation_iso: por
     name: Bookan
     auto: true

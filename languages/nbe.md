@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كونيك ناجا
     auto: true
+  - translation_iso: ben
+    name: কোনিয়াক ভাষা
   - translation_iso: deu
     name: Konyak-Naga
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: कोन्यक भाषा
   - translation_iso: jpn
     name: コニャック語
+  - translation_iso: kor
+    name: 코냐크 나가어
+    auto: true
   - translation_iso: por
     name: Naga Konyak
     auto: true
+  - translation_iso: rus
+    name: Коньякский язык
   - translation_iso: spa
     name: Naga Konyak
     auto: true

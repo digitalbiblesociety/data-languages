@@ -33,6 +33,8 @@ translations:
     name: 사마카어
   - translation_iso: por
     name: Saramacano
+  - translation_iso: rus
+    name: сарамакканский язык
   - translation_iso: spa
     name: Saamáka
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クーロン語
+  - translation_iso: kor
+    name: 쿨론어
+    auto: true
   - translation_iso: por
     name: Kulon
     auto: true

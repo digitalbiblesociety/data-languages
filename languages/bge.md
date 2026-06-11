@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باوريا
     auto: true
+  - translation_iso: ben
+    name: বাউরিয়া
   - translation_iso: deu
     name: Bauria
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウリア語
+    auto: true
+  - translation_iso: kor
+    name: 바우리아어
     auto: true
   - translation_iso: por
     name: Bauria

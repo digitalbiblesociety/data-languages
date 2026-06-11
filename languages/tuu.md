@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 下ローグ川語
     auto: true
+  - translation_iso: kor
+    name: 투투트니어
+    auto: true
   - translation_iso: por
     name: Tututni
     auto: true
+  - translation_iso: rus
+    name: Кокилье
   - translation_iso: spa
     name: tututni
   - translation_iso: zho

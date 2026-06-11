@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتس
     auto: true
+  - translation_iso: ben
+    name: বাতস
   - translation_iso: deu
     name: Batsisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 바츠어
   - translation_iso: por
     name: língua bats
+  - translation_iso: rus
+    name: бацбийский язык
   - translation_iso: spa
     name: Bats
     auto: true

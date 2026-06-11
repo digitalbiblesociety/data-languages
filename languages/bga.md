@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グワムヒ・ウリ語
     auto: true
+  - translation_iso: kor
+    name: 괌히·우리어
+    auto: true
   - translation_iso: por
     name: Gwamhi-Wuri
     auto: true

@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: मेंतावाई
     auto: true
+  - translation_iso: ind
+    name: Mentawai
   - translation_iso: jpn
     name: メンタワイ語
+  - translation_iso: kor
+    name: 멘타와이어
+    auto: true
   - translation_iso: por
     name: Mentawai
+  - translation_iso: rus
+    name: ментавай
   - translation_iso: spa
     name: mentawai
   - translation_iso: zho

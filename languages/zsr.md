@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: サザン・リンコン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 남부 린콘 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Rincon do Sul
     auto: true

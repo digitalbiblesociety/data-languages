@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोटा बांगुन कुताई मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Kutai Kota Bangun
   - translation_iso: jpn
     name: コタ・バングン・クタイ・マレー語
+  - translation_iso: kor
+    name: 코타방운 쿠타이 말레이어
+    auto: true
   - translation_iso: por
     name: malaio kutai de Kota Bangun
     auto: true

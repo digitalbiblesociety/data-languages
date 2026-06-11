@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワディカリ語
     auto: true
+  - translation_iso: kor
+    name: 와디칼리어
+    auto: true
   - translation_iso: por
     name: Wadikali
     auto: true

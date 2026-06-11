@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カクア語
     auto: true
+  - translation_iso: kor
+    name: 카쿠아어
+    auto: true
   - translation_iso: por
     name: Língua cacua
+  - translation_iso: rus
+    name: Какуа
   - translation_iso: spa
     name: Idioma kãkwã
   - translation_iso: zho

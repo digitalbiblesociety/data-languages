@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラモアイナ語
     auto: true
+  - translation_iso: kor
+    name: 라모아이나어
+    auto: true
   - translation_iso: por
     name: Língua ramoaaina
   - translation_iso: spa

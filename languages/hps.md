@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهاواية
     auto: true
+  - translation_iso: ben
+    name: হাওয়াই ইশারা ভাষা
   - translation_iso: deu
     name: Hawaiische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: हवाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ハワイ・ピジン手話
+  - translation_iso: kor
+    name: 하와이 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Havaiana
+  - translation_iso: rus
+    name: гавайский жестовый язык
   - translation_iso: spa
     name: lenguaje de señas hawaiano
   - translation_iso: zho

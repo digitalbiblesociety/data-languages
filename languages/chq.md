@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: キオテペク・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 키오테펙 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Quiotepec
     auto: true
+  - translation_iso: rus
+    name: Горный чинантекский язык
   - translation_iso: spa
     name: chinanteca de Quiotepec
   - translation_iso: zho

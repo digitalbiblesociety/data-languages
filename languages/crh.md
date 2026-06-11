@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Crimean_Tatar_language"
 translations:
   - translation_iso: ara
     name: تتارية القرم
+  - translation_iso: ben
+    name: ক্রিমিয়ান তুর্কি
   - translation_iso: deu
     name: Krimtatarisch
   - translation_iso: fra
     name: tatar de Crimée
   - translation_iso: hin
     name: क्रीमीन तुर्की
+  - translation_iso: ind
+    name: Tatar Krimea
   - translation_iso: jpn
     name: クリミア・タタール語
   - translation_iso: kor
     name: 크림 타타르어
   - translation_iso: por
     name: tártaro da Crimeia
+  - translation_iso: rus
+    name: крымско-татарский
   - translation_iso: spa
     name: tártaro de Crimea
   - translation_iso: zho

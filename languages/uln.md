@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: उन्ज़र्डॉयच
     auto: true
+  - translation_iso: ind
+    name: Unserdeutsch
   - translation_iso: jpn
     name: ドイツ語系クレオール語
   - translation_iso: kor
     name: 운저도이치
   - translation_iso: por
     name: Unserdeutsch
+  - translation_iso: rus
+    name: унзердойч
   - translation_iso: spa
     name: unserdeutsch
   - translation_iso: zho

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: क़ाबियाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Qabiao
   - translation_iso: jpn
     name: クァビャウ語
+  - translation_iso: kor
+    name: 카비아오어
+    auto: true
   - translation_iso: por
     name: Qabiao
     auto: true
+  - translation_iso: rus
+    name: Кабяо
   - translation_iso: spa
     name: Qabiao
     auto: true

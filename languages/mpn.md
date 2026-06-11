@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ミンディリ語
     auto: true
+  - translation_iso: kor
+    name: 민디리어
+    auto: true
   - translation_iso: por
     name: Mindiri
     auto: true
+  - translation_iso: rus
+    name: Миндири
   - translation_iso: spa
     name: Mindiri
   - translation_iso: zho

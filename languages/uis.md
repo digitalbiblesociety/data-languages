@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィサイ語
     auto: true
+  - translation_iso: kor
+    name: 우이사이어
+    auto: true
   - translation_iso: por
     name: Uisai
     auto: true

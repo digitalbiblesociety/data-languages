@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラウ語
+  - translation_iso: kor
+    name: 토라우어
+    auto: true
   - translation_iso: por
     name: Torau
     auto: true

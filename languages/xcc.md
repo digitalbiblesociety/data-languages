@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: कामुनिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kamuni
   - translation_iso: jpn
     name: カムニック語
+  - translation_iso: kor
+    name: 카무니어
+    auto: true
   - translation_iso: por
     name: Camúnico
     auto: true
+  - translation_iso: rus
+    name: Камунский язык
   - translation_iso: spa
     name: Idioma camúnico
   - translation_iso: zho

@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Median_language"
 translations:
   - translation_iso: ara
     name: لغة ميدية
+  - translation_iso: ben
+    name: মিডীয় ভাষা
   - translation_iso: deu
     name: Medisch
   - translation_iso: fra
@@ -20,10 +22,17 @@ translations:
   - translation_iso: hin
     name: मेडियन
     auto: true
+  - translation_iso: ind
+    name: Media
   - translation_iso: jpn
     name: メディア語
+  - translation_iso: kor
+    name: 메디아어
+    auto: true
   - translation_iso: por
     name: Língua meda
+  - translation_iso: rus
+    name: мидийский язык
   - translation_iso: spa
     name: Medo
   - translation_iso: zho

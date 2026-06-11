@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_North_Arabian_languages"
 translations:
   - translation_iso: ara
     name: عربية شمالية قديمة
+  - translation_iso: ben
+    name: প্রাচীন উত্তর আরবি
   - translation_iso: deu
     name: Frühnordarabisch
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代北部アラビア語
+  - translation_iso: kor
+    name: 고대 북아라비아어
+    auto: true
   - translation_iso: por
     name: Árabe Setentrional Antigo
     auto: true
+  - translation_iso: rus
+    name: Северноаравийские языки
   - translation_iso: spa
     name: Árabe antiguo septentrional
   - translation_iso: zho

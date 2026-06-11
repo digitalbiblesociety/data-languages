@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shina_language"
 translations:
   - translation_iso: ara
     name: شينا
+  - translation_iso: ben
+    name: শীনা ভাষা
   - translation_iso: deu
     name: Shina
   - translation_iso: fra
     name: shina
   - translation_iso: hin
     name: शीना भाषा
+  - translation_iso: ind
+    name: Shina
   - translation_iso: jpn
     name: シナー語
   - translation_iso: kor
     name: 시나어
   - translation_iso: por
     name: Língua shina
+  - translation_iso: rus
+    name: шина
   - translation_iso: spa
     name: Idioma shina
   - translation_iso: zho

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: केम्ब्रा
     auto: true
+  - translation_iso: ind
+    name: Kembra
   - translation_iso: jpn
     name: ケンブラ語
     auto: true
+  - translation_iso: kor
+    name: 켐브라어
+    auto: true
   - translation_iso: por
     name: Língua kembra
+  - translation_iso: rus
+    name: кембра
   - translation_iso: spa
     name: Kembra
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ディボ語
     auto: true
+  - translation_iso: kor
+    name: 디보어
+    auto: true
   - translation_iso: por
     name: Dibo
     auto: true

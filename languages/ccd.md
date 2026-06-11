@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: カフンド・クレオール語
     auto: true
+  - translation_iso: kor
+    name: 카푼도 크리올어
+    auto: true
   - translation_iso: por
     name: Cupópia
+  - translation_iso: rus
+    name: Кафундо
   - translation_iso: spa
     name: Criollo de Cafundo
     auto: true

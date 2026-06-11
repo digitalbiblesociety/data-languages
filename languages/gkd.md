@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マギ語
     auto: true
+  - translation_iso: kor
+    name: 마기어
+    auto: true
   - translation_iso: por
     name: Magɨ (Província de Madang)
     auto: true

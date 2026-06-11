@@ -35,6 +35,8 @@ translations:
     name: 므엉어
   - translation_iso: por
     name: Língua muong
+  - translation_iso: rus
+    name: Мыонгский язык
   - translation_iso: spa
     name: Idioma muong
   - translation_iso: zho

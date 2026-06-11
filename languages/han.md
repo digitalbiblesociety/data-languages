@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ハンガザ語
     auto: true
+  - translation_iso: kor
+    name: 항가자어
+    auto: true
   - translation_iso: por
     name: Hangaza
     auto: true

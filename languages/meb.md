@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イコビ語
     auto: true
+  - translation_iso: kor
+    name: 이코비어
+    auto: true
   - translation_iso: por
     name: Ikobi
     auto: true
+  - translation_iso: rus
+    name: Икоби
   - translation_iso: spa
     name: Ikobi
     auto: true

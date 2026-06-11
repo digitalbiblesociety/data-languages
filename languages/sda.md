@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: तोराजा-सादान
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Toraja-Sa'dan"
   - translation_iso: jpn
     name: トラジャ＝サダン語
+  - translation_iso: kor
+    name: 토라자사단어
+    auto: true
   - translation_iso: por
     name: "Língua toraja sa'dan"
+  - translation_iso: rus
+    name: Тораджа-садан
   - translation_iso: spa
     name: "Toraja-Sa'dan"
     auto: true

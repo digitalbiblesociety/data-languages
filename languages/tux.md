@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トゥチナウア語
     auto: true
+  - translation_iso: kor
+    name: 투시나와어
+    auto: true
   - translation_iso: por
     name: Tuxináwa
     auto: true
+  - translation_iso: rus
+    name: Тушинава
   - translation_iso: spa
     name: Tuxináwa
     auto: true

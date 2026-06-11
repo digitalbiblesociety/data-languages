@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルマ語
+  - translation_iso: kor
+    name: 에나웨네나웨어
+    auto: true
   - translation_iso: por
     name: Língua enawenê-nawê
+  - translation_iso: rus
+    name: Энавене-наве
   - translation_iso: spa
     name: Enawené-Nawé
     auto: true

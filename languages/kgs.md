@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: クンバインガル語
     auto: true
+  - translation_iso: kor
+    name: 쿰바잉가르어
+    auto: true
   - translation_iso: por
     name: Kumbainggar
     auto: true
+  - translation_iso: rus
+    name: Кумпайнгкир
   - translation_iso: spa
     name: gumbaynggirr
   - translation_iso: zho

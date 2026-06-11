@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ジャンダブラ語
     auto: true
+  - translation_iso: kor
+    name: 잔다브라어
+    auto: true
   - translation_iso: por
     name: Jandavra
     auto: true
+  - translation_iso: rus
+    name: джандавра
   - translation_iso: spa
     name: Jandavra
     auto: true

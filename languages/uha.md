@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イシュア語
     auto: true
+  - translation_iso: kor
+    name: 우하미어
+    auto: true
   - translation_iso: por
     name: Uhami
     auto: true

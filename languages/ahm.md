@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モブムリン・アイジ語
     auto: true
+  - translation_iso: kor
+    name: 모붐린 아이지어
+    auto: true
   - translation_iso: por
     name: Aizi Mobumrin
     auto: true

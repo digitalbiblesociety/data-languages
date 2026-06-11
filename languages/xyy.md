@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヨルタ・ヨルタ語
     auto: true
+  - translation_iso: kor
+    name: 요르타 요르타어
+    auto: true
   - translation_iso: por
     name: yorta yorta
     auto: true

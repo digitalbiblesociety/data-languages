@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケンスウェイ・ンセイ語
     auto: true
+  - translation_iso: kor
+    name: 켄스웨이 은세이어
+    auto: true
   - translation_iso: por
     name: Kenswei Nsei
     auto: true

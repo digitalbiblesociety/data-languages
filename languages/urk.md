@@ -30,14 +30,18 @@ translations:
   - translation_iso: hin
     name: उराक लावोई
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Urak Lawoi'"
   - translation_iso: jpn
     name: ウラック・ラオイ語
     auto: true
   - translation_iso: kor
     name: 우락라워이어
   - translation_iso: por
-    name: "Urak Lawoi'"
+    name: Urak Lawoi
     auto: true
+  - translation_iso: rus
+    name: урак-лавойский язык
   - translation_iso: spa
     name: Urak Lawoi
     auto: true

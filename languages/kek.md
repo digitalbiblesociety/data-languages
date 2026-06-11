@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: केकची
     auto: true
+  - translation_iso: ind
+    name: bahasa Kekchi
   - translation_iso: jpn
     name: ケクチ語
   - translation_iso: kor
     name: 켁치어
   - translation_iso: por
     name: Língua queqchi
+  - translation_iso: rus
+    name: Кекчи
   - translation_iso: spa
     name: quekchí
   - translation_iso: zho

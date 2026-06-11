@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グリアソ語
     auto: true
+  - translation_iso: kor
+    name: 구리아소어
+    auto: true
   - translation_iso: por
     name: Guriaso
     auto: true

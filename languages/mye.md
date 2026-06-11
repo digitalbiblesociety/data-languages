@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: म्येने
     auto: true
+  - translation_iso: ind
+    name: Myene
   - translation_iso: jpn
     name: ミエネ語
   - translation_iso: kor
     name: 미예네어
   - translation_iso: por
     name: myene
+  - translation_iso: rus
+    name: миене
   - translation_iso: spa
     name: Idioma myene
   - translation_iso: zho

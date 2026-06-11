@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلوا
     auto: true
+  - translation_iso: ben
+    name: বিলুয়া
   - translation_iso: deu
     name: Bilua
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムビルア語
+  - translation_iso: kor
+    name: 빌루아어
+    auto: true
   - translation_iso: por
     name: Língua bilua
+  - translation_iso: rus
+    name: Билуа
   - translation_iso: spa
     name: Lenguaje Bilua
   - translation_iso: zho

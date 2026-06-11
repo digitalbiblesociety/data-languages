@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: साबू
     auto: true
+  - translation_iso: ind
+    name: Hawu
   - translation_iso: jpn
     name: サブ語
+    auto: true
+  - translation_iso: kor
+    name: 사부어
     auto: true
   - translation_iso: por
     name: Língua hawu

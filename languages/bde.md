@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بادي
     auto: true
+  - translation_iso: ben
+    name: বাডে
   - translation_iso: deu
     name: Bade
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バデ語
+  - translation_iso: kor
+    name: 바데어
+    auto: true
   - translation_iso: por
     name: Língua bade
+  - translation_iso: rus
+    name: Баде
   - translation_iso: spa
     name: Bade
     auto: true

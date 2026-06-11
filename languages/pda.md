@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنام
     auto: true
+  - translation_iso: ben
+    name: আনাম
   - translation_iso: deu
     name: Anam
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アナム語
+    auto: true
+  - translation_iso: kor
+    name: 아남어
     auto: true
   - translation_iso: por
     name: Anam

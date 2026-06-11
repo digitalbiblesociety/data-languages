@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tamil_language"
 translations:
   - translation_iso: ara
     name: التملية
+  - translation_iso: ben
+    name: তামিল
   - translation_iso: deu
     name: Tamil
   - translation_iso: fra
     name: tamoul
   - translation_iso: hin
     name: तमिल
+  - translation_iso: ind
+    name: Tamil
   - translation_iso: jpn
     name: タミル語
   - translation_iso: kor
     name: 타밀어
   - translation_iso: por
     name: Língua tâmil
+  - translation_iso: rus
+    name: тамильский
   - translation_iso: spa
     name: tamil
   - translation_iso: zho

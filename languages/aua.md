@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسومبوا
     auto: true
+  - translation_iso: ben
+    name: আসুম্বোয়া
   - translation_iso: deu
     name: Asumboa
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスンボア語
+  - translation_iso: kor
+    name: 아숨보아어
+    auto: true
   - translation_iso: por
     name: Asumboa
     auto: true

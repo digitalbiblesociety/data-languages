@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナチェリング語
     auto: true
+  - translation_iso: kor
+    name: 나체링어
+    auto: true
   - translation_iso: por
     name: Nachering
     auto: true

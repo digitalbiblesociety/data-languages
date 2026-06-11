@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルギッド語
+  - translation_iso: kor
+    name: 비르케드어
+    auto: true
   - translation_iso: por
     name: Birked
     auto: true

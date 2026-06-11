@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂南平話
+  - translation_iso: kor
+    name: 남부 핑화
+    auto: true
   - translation_iso: por
     name: Chinês ping meridional
     auto: true

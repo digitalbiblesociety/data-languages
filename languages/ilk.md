@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イロンゴット語
+  - translation_iso: kor
+    name: 일롱고트어
+    auto: true
   - translation_iso: por
     name: Língua bugkalot
   - translation_iso: spa

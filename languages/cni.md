@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الأشانينكا
     auto: true
+  - translation_iso: ben
+    name: আশানিঙ্কা
   - translation_iso: deu
     name: Asháninka
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アシェニンカ語
+  - translation_iso: kor
+    name: 아샤닌카어
+    auto: true
   - translation_iso: por
     name: asháninka
+  - translation_iso: rus
+    name: Кампа
   - translation_iso: spa
     name: asháninca
   - translation_iso: zho

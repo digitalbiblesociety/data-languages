@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナロ語
+  - translation_iso: kor
+    name: 나로어
+    auto: true
   - translation_iso: por
     name: Língua naro
   - translation_iso: spa

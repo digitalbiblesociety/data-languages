@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दुरियानकेरे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Duriankere
   - translation_iso: jpn
     name: ドゥリアンケレ語
+    auto: true
+  - translation_iso: kor
+    name: 두리안케레어
     auto: true
   - translation_iso: por
     name: Duriankere

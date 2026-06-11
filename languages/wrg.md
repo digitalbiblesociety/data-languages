@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルング語
+  - translation_iso: kor
+    name: 와룽구어
+    auto: true
   - translation_iso: por
     name: Warungu
     auto: true

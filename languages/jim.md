@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジミ語
     auto: true
+  - translation_iso: kor
+    name: 지미어
+    auto: true
   - translation_iso: por
     name: Jimi (Camarões)
     auto: true

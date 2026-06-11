@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マイアドム語
     auto: true
+  - translation_iso: kor
+    name: 마이아도무어
+    auto: true
   - translation_iso: por
     name: Maiadomu
     auto: true

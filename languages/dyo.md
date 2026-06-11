@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
 translations:
   - translation_iso: ara
     name: جولا فونيا
+  - translation_iso: ben
+    name: জোলা-ফনী
   - translation_iso: deu
     name: Diola
   - translation_iso: fra
     name: diola-fogny
   - translation_iso: hin
     name: जोला-फोंई
+  - translation_iso: ind
+    name: Jola-Fonyi
   - translation_iso: jpn
     name: ジョラ＝フォニィ語
   - translation_iso: kor
     name: 졸라 포니어
   - translation_iso: por
     name: Língua jola-Fonyi
+  - translation_iso: rus
+    name: диола-фоньи
   - translation_iso: spa
     name: jola-fonyi
   - translation_iso: zho

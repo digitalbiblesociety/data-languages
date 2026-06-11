@@ -34,6 +34,8 @@ translations:
   - translation_iso: por
     name: Panjabi Ocidental
     auto: true
+  - translation_iso: rus
+    name: западный панджаби
   - translation_iso: spa
     name: Panyabí occidental
     auto: true

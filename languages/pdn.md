@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ポデナ語
     auto: true
+  - translation_iso: kor
+    name: 포데나어
+    auto: true
   - translation_iso: por
     name: Podena
     auto: true

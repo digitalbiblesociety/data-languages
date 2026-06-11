@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيونو
     auto: true
+  - translation_iso: ben
+    name: বেইনুক-গুনিউনো
   - translation_iso: deu
     name: Gunyuño
   - translation_iso: fra

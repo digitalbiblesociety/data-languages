@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامبام
     auto: true
+  - translation_iso: ben
+    name: বামবাম
   - translation_iso: deu
     name: Bambam
   - translation_iso: fra
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: बाम्बाम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bambam
   - translation_iso: jpn
     name: バンバム語
     auto: true
+  - translation_iso: kor
+    name: 밤밤어
+    auto: true
   - translation_iso: por
     name: Lingua bambam
+  - translation_iso: rus
+    name: Бамбам
   - translation_iso: spa
     name: Bambam
     auto: true

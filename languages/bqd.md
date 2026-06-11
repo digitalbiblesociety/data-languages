@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bung
   - translation_iso: jpn
     name: ブング語
+  - translation_iso: kor
+    name: 붕어
+    auto: true
   - translation_iso: por
     name: Bung
     auto: true

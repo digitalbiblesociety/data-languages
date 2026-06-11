@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيمي سامي
     auto: true
+  - translation_iso: ben
+    name: কেমি সামি
   - translation_iso: deu
     name: Kemisamisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 케미 사미어
   - translation_iso: por
     name: sami de Kemi
+  - translation_iso: rus
+    name: кеми-саамский язык
   - translation_iso: spa
     name: sami de Kemi
   - translation_iso: zho

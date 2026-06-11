@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クバチ語
+  - translation_iso: kor
+    name: 쿠바치어
+    auto: true
   - translation_iso: por
     name: Língua kubachi
+  - translation_iso: rus
+    name: кубачинский язык
   - translation_iso: spa
     name: idioma kubachi
   - translation_iso: zho

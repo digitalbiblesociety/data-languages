@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カリ語
     auto: true
+  - translation_iso: kor
+    name: 카리어
+    auto: true
   - translation_iso: por
     name: Kari
     auto: true

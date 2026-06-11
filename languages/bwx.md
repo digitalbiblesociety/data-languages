@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プヌ語
+  - translation_iso: kor
+    name: 부나오 부누어
+    auto: true
   - translation_iso: por
     name: Bunu Bu-Nao
     auto: true

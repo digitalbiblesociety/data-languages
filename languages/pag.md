@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pangasinan_language"
 translations:
   - translation_iso: ara
     name: البانجاسينان
+  - translation_iso: ben
+    name: পাঙ্গাসিনান
   - translation_iso: deu
     name: Pangasinensisch
   - translation_iso: fra
     name: pangassinais
   - translation_iso: hin
     name: पंगासीनान
+  - translation_iso: ind
+    name: Pangasina
   - translation_iso: jpn
     name: パンガシナン語
   - translation_iso: kor
     name: 팡가시난어
   - translation_iso: por
     name: língua pangasinesa
+  - translation_iso: rus
+    name: пангасинан
   - translation_iso: spa
     name: pangasinense
   - translation_iso: zho

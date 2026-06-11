@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 西部アレント語
     auto: true
+  - translation_iso: kor
+    name: 서부 아란타어
+    auto: true
   - translation_iso: por
     name: Arrarnta Ocidental
     auto: true
+  - translation_iso: rus
+    name: западный аррарнта
   - translation_iso: spa
     name: Arrarnta occidental
     auto: true

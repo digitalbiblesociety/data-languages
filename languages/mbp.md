@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مالايو
     auto: true
+  - translation_iso: ben
+    name: উইওয়া ভাষা
   - translation_iso: deu
     name: Malayo
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィワ語
+  - translation_iso: kor
+    name: 말라요어
+    auto: true
   - translation_iso: por
     name: Língua wiwa
+  - translation_iso: rus
+    name: Малайо
   - translation_iso: spa
     name: Damana
   - translation_iso: zho

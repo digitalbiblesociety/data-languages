@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشاودانغسي
     auto: true
+  - translation_iso: ben
+    name: চৌদাংসি
   - translation_iso: deu
     name: Chaudangsi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: चौडांगसी भाषा
   - translation_iso: jpn
     name: チャウダングシ語
+    auto: true
+  - translation_iso: kor
+    name: 차우당시어
     auto: true
   - translation_iso: por
     name: Chaudangsi

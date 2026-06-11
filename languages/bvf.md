@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بور
     auto: true
+  - translation_iso: ben
+    name: বোর ভাষা
   - translation_iso: deu
     name: Boor
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: ボール語
     auto: true
+  - translation_iso: kor
+    name: 보르어
+    auto: true
   - translation_iso: por
     name: Boor
     auto: true
+  - translation_iso: rus
+    name: боорский язык
   - translation_iso: spa
     name: boor
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部湘西苗語
+  - translation_iso: kor
+    name: 동부 샹시 먀오어
+    auto: true
   - translation_iso: por
     name: miao xiangxi oriental
     auto: true

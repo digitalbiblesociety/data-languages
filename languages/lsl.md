@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラトビア手話
+  - translation_iso: kor
+    name: 라트비아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Letã
     auto: true
+  - translation_iso: rus
+    name: латвийский жестовый язык
   - translation_iso: spa
     name: lengua de señas letona
   - translation_iso: zho

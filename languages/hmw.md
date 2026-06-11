@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部麻山フモン語
+  - translation_iso: kor
+    name: 서부 마산 몽어
+    auto: true
   - translation_iso: por
     name: Hmong Mashan Ocidental
     auto: true

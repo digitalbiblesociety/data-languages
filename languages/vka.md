@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カリャーラ語
     auto: true
+  - translation_iso: kor
+    name: 카리야라어
+    auto: true
   - translation_iso: por
     name: Kariyarra
     auto: true

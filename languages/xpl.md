@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ポートソレル・タスマニア語
     auto: true
+  - translation_iso: kor
+    name: 포트소렐 태즈메이니아어
+    auto: true
   - translation_iso: por
     name: Tasmaniano de Port Sorell
     auto: true

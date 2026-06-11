@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: シパヤ語
     auto: true
+  - translation_iso: kor
+    name: 시파야어
+    auto: true
   - translation_iso: por
     name: xipaia
+  - translation_iso: rus
+    name: Шипая
   - translation_iso: spa
     name: xipaya
   - translation_iso: zho

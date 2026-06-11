@@ -33,8 +33,11 @@ translations:
   - translation_iso: jpn
     name: ダアンタナイ語
     auto: true
+  - translation_iso: kor
+    name: 단타나이어
+    auto: true
   - translation_iso: por
-    name: "Daantanai'"
+    name: Daantanai
     auto: true
   - translation_iso: spa
     name: Daantanai

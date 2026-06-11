@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Banjarese_language"
 translations:
   - translation_iso: ara
     name: البنجرية
+  - translation_iso: ben
+    name: বানজার
   - translation_iso: deu
     name: Banjaresisch
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: बंजार
     auto: true
+  - translation_iso: ind
+    name: Banjar
   - translation_iso: jpn
     name: バンジャル語
   - translation_iso: kor
     name: 반자르어
   - translation_iso: por
     name: Língua banjaresa
+  - translation_iso: rus
+    name: банджарский язык
   - translation_iso: spa
     name: banjar
   - translation_iso: zho

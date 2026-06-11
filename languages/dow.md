@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドヤヨ語
     auto: true
+  - translation_iso: kor
+    name: 도야요어
+    auto: true
   - translation_iso: por
     name: Doyayo
     auto: true

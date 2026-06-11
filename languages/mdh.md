@@ -30,12 +30,16 @@ translations:
   - translation_iso: hin
     name: मगिंडानाओन
     auto: true
+  - translation_iso: ind
+    name: bahasa Magindanau
   - translation_iso: jpn
     name: マギンダナオ語
   - translation_iso: kor
     name: 마긴다나오어
   - translation_iso: por
     name: Língua maguindanao
+  - translation_iso: rus
+    name: магинданао
   - translation_iso: spa
     name: idioma maguindánao
   - translation_iso: zho

@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: बहा बुयांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Paha
   - translation_iso: jpn
     name: パハ語
+  - translation_iso: kor
+    name: 바하 부양어
+    auto: true
   - translation_iso: por
     name: buyang baha
     auto: true
+  - translation_iso: rus
+    name: Паха (язык)
   - translation_iso: spa
     name: Buyang de Baha
     auto: true

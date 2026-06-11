@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 初期トリプリ語
     auto: true
+  - translation_iso: kor
+    name: 초기 트리푸리어
+    auto: true
   - translation_iso: por
     name: tripuri antigo
     auto: true

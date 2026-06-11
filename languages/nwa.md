@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: नावाथिनेहेना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Nawathinehena
   - translation_iso: jpn
     name: ナワティネヘナ語
+    auto: true
+  - translation_iso: kor
+    name: 나와시네헤나어
     auto: true
   - translation_iso: por
     name: Nawathinehena

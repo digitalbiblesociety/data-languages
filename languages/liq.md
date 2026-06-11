@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リビド語
+  - translation_iso: kor
+    name: 리비도어
+    auto: true
   - translation_iso: por
     name: Libido
     auto: true
+  - translation_iso: rus
+    name: Либидо (язык)
   - translation_iso: spa
     name: Idioma Libido
   - translation_iso: zho

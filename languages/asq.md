@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Austrian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النمساوية
+  - translation_iso: ben
+    name: অস্ট্রীয় ইশারা ভাষা
   - translation_iso: deu
     name: Österreichische Gebärdensprache
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 오스트리아 수어
   - translation_iso: por
     name: língua de sinais austríaca
+  - translation_iso: rus
+    name: австрийский жестовый язык
   - translation_iso: spa
     name: lengua austríaca de signos
   - translation_iso: zho

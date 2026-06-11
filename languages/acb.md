@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة آنسّا
     auto: true
+  - translation_iso: ben
+    name: আঙ্কা
   - translation_iso: deu
     name: Áncá
     auto: true
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンカ語
+    auto: true
+  - translation_iso: kor
+    name: 안카어
     auto: true
   - translation_iso: por
     name: Áncá

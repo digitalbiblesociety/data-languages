@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أومي سامي
     auto: true
+  - translation_iso: ben
+    name: উমে সামি
   - translation_iso: deu
     name: Umesamisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 우메 사미어
   - translation_iso: por
     name: língua sami de Ume
+  - translation_iso: rus
+    name: уме-саамский язык
   - translation_iso: spa
     name: sami del Ume
   - translation_iso: zho

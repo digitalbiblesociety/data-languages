@@ -23,12 +23,19 @@ translations:
   - translation_iso: hin
     name: यासिक
     auto: true
+  - translation_iso: ind
+    name: Jasz
   - translation_iso: jpn
     name: ヤッシック語
+    auto: true
+  - translation_iso: kor
+    name: 야스어
     auto: true
   - translation_iso: por
     name: iássico
     auto: true
+  - translation_iso: rus
+    name: Ясский язык
   - translation_iso: spa
     name: Yásico
     auto: true

@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venezuelan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الفنزويلية
+  - translation_iso: ben
+    name: ভেনেজুয়েলীয় ইশারা ভাষা
   - translation_iso: deu
     name: Venezolanische Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベネズエラ手話
+  - translation_iso: kor
+    name: 베네수엘라 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Venezuelana
+  - translation_iso: rus
+    name: венесуэльский жестовый язык
   - translation_iso: spa
     name: lengua de señas venezolana
   - translation_iso: zho

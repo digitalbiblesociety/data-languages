@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مويوك بيي
     auto: true
+  - translation_iso: ben
+    name: বে মিওক
   - translation_iso: deu
     name: Bay Miwok
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: ベイ・ミウォク語
     auto: true
+  - translation_iso: kor
+    name: 베이 미워크어
+    auto: true
   - translation_iso: por
     name: miwok da Baía
     auto: true
+  - translation_iso: rus
+    name: Заливный мивокский язык
   - translation_iso: spa
     name: Miwok de la Bahía
     auto: true

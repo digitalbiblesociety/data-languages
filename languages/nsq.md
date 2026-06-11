@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北シエラミウォク語
     auto: true
+  - translation_iso: kor
+    name: 북부 시에라 미워크어
+    auto: true
   - translation_iso: por
     name: Miwok da Sierra Setentrional
     auto: true
+  - translation_iso: rus
+    name: Северный сьерра-мивокский язык
   - translation_iso: spa
     name: Miwok de la Sierra Norte
     auto: true

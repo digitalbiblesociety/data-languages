@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヌノオ語
+  - translation_iso: kor
+    name: 하누노오어
+    auto: true
   - translation_iso: por
     name: "Língua hanunó'o"
+  - translation_iso: rus
+    name: "хануно'о"
   - translation_iso: spa
     name: Hanunuo
   - translation_iso: zho

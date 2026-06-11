@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهندية
     auto: true
+  - translation_iso: ben
+    name: ভারতীয় ইশারা ভাষা
   - translation_iso: deu
     name: Indische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     name: भारतीय सांकेतिक भाषा
   - translation_iso: jpn
     name: インド手話
+  - translation_iso: kor
+    name: 인도 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais indiana
   - translation_iso: spa

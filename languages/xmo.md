@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モレレビ語
     auto: true
+  - translation_iso: kor
+    name: 모레레비어
+    auto: true
   - translation_iso: por
     name: Morerebi
     auto: true

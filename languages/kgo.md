@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロンゴ語
+  - translation_iso: kor
+    name: 크롱고어
+    auto: true
   - translation_iso: por
     name: Língua krongo
   - translation_iso: spa

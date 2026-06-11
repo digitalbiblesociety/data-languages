@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكار-بالي
     auto: true
+  - translation_iso: ben
+    name: আকার-বালে
   - translation_iso: deu
     name: Akar-Bale
   - translation_iso: fra
@@ -29,6 +31,8 @@ translations:
   - translation_iso: hin
     name: अकार-बाले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Akar-Bale
   - translation_iso: jpn
     name: アカルバレ語
     auto: true
@@ -37,6 +41,8 @@ translations:
   - translation_iso: por
     name: Akar-Bale
     auto: true
+  - translation_iso: rus
+    name: акар-балеский язык
   - translation_iso: spa
     name: Idioma bale
   - translation_iso: zho

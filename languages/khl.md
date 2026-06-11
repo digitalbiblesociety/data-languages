@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルシ語
+  - translation_iso: kor
+    name: 루시어
+    auto: true
   - translation_iso: por
     name: Lusi
     auto: true

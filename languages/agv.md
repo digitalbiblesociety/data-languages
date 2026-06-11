@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: रेमोन्तादो दुमागात
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hatang-Kayi
   - translation_iso: jpn
     name: レモンタード・ドゥマガト語
+    auto: true
+  - translation_iso: kor
+    name: 레몬타도 두마가트어
     auto: true
   - translation_iso: por
     name: Língua remontado dumagat

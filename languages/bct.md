@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بندي
     auto: true
+  - translation_iso: ben
+    name: বেন্ডি
   - translation_iso: deu
     name: Bendi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンディ語
+    auto: true
+  - translation_iso: kor
+    name: 벤디어
     auto: true
   - translation_iso: por
     name: Bendi

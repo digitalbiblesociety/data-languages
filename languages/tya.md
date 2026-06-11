@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: フォウポ語
     auto: true
+  - translation_iso: kor
+    name: 타우야어
+    auto: true
   - translation_iso: por
     name: Tauya
     auto: true

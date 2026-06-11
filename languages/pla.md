@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ミアニ語
     auto: true
+  - translation_iso: kor
+    name: 미아니어
+    auto: true
   - translation_iso: por
     name: Miani
     auto: true

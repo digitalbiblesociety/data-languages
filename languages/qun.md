@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クイナルト語
+  - translation_iso: kor
+    name: 퀴놀트어
+    auto: true
   - translation_iso: por
     name: Quinault
+  - translation_iso: rus
+    name: квинолт
   - translation_iso: spa
     name: Quinault
   - translation_iso: zho

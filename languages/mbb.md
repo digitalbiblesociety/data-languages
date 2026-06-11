@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西ブキドノン・マノボ語
+  - translation_iso: kor
+    name: 서부 부키드논 마노보어
+    auto: true
   - translation_iso: por
     name: Manobo bukidnon ocidental
     auto: true

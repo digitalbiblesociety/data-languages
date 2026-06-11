@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أور
     auto: true
+  - translation_iso: ben
+    name: আওরে
   - translation_iso: deu
     name: Aore
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アオレ語
+    auto: true
+  - translation_iso: kor
+    name: 아오레어
     auto: true
   - translation_iso: por
     name: Aore

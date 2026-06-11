@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hittite_language"
 translations:
   - translation_iso: ara
     name: الحيثية
+  - translation_iso: ben
+    name: হিট্টিট
   - translation_iso: deu
     name: Hethitisch
   - translation_iso: fra
     name: hittite
   - translation_iso: hin
     name: हत्ती
+  - translation_iso: ind
+    name: Hitit
   - translation_iso: jpn
     name: ヒッタイト語
   - translation_iso: kor
     name: 히타이트어
   - translation_iso: por
     name: Língua hitita
+  - translation_iso: rus
+    name: хеттский
   - translation_iso: spa
     name: hitita
   - translation_iso: zho

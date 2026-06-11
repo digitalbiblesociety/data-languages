@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكايري
     auto: true
+  - translation_iso: ben
+    name: বাকাইরি
   - translation_iso: deu
     name: Bakairí
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: バカイリ語
     auto: true
+  - translation_iso: kor
+    name: 바카이리어
+    auto: true
   - translation_iso: por
     name: Língua bacairi
+  - translation_iso: rus
+    name: бакаири
   - translation_iso: spa
     name: Bakairí
     auto: true

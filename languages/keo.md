@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カクワ語
     auto: true
+  - translation_iso: kor
+    name: 카콰어
+    auto: true
   - translation_iso: por
     name: Kakwa
     auto: true

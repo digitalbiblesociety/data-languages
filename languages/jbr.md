@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: जोफोटेक-ब्रोम्न्या
     auto: true
+  - translation_iso: ind
+    name: Jofotek-Bromnya
   - translation_iso: jpn
     name: ジョフォテク・ブロムニャ語
+    auto: true
+  - translation_iso: kor
+    name: 조포테크브롬냐어
     auto: true
   - translation_iso: por
     name: Jofotek-Bromnya

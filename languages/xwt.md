@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウォッジョバルク語
     auto: true
+  - translation_iso: kor
+    name: 워초발루크어
+    auto: true
   - translation_iso: por
     name: wotjobaluk
     auto: true

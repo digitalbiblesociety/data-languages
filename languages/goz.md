@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ゴザルハニ語
     auto: true
+  - translation_iso: kor
+    name: 고자르하니어
+    auto: true
   - translation_iso: por
     name: Gozarkhani
     auto: true

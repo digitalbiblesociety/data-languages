@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gujarati_language"
 translations:
   - translation_iso: ara
     name: الكجراتية
+  - translation_iso: ben
+    name: গুজরাটি
   - translation_iso: deu
     name: Gujarati
   - translation_iso: fra
     name: gujarati
   - translation_iso: hin
     name: गुजराती
+  - translation_iso: ind
+    name: Gujarat
   - translation_iso: jpn
     name: グジャラート語
   - translation_iso: kor
     name: 구자라트어
   - translation_iso: por
     name: gujarate
+  - translation_iso: rus
+    name: гуджарати
   - translation_iso: spa
     name: guyarati
   - translation_iso: zho

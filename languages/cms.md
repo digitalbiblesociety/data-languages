@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: मेसापिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Messapia
   - translation_iso: jpn
     name: メッサピア語
+  - translation_iso: kor
+    name: 메사피아어
+    auto: true
   - translation_iso: por
     name: Messápico
     auto: true
+  - translation_iso: rus
+    name: мессапский язык
   - translation_iso: spa
     name: Idioma mesapio
   - translation_iso: zho

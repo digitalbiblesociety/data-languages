@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तेहित
     auto: true
+  - translation_iso: ind
+    name: bahasa Tehit
   - translation_iso: jpn
     name: テヒット語
+    auto: true
+  - translation_iso: kor
+    name: 테히트어
     auto: true
   - translation_iso: por
     name: Tehit

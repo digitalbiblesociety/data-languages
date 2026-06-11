@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Daza_language"
 translations:
   - translation_iso: ara
     name: لغة الدازاقا
+  - translation_iso: ben
+    name: দাজাগা
   - translation_iso: deu
     name: Dazaga-kare
   - translation_iso: fra
     name: dazaga-kara
   - translation_iso: hin
     name: दज़ागा
+  - translation_iso: ind
+    name: Dazaga
   - translation_iso: jpn
     name: ダザガ語
   - translation_iso: kor
     name: 다장가어
   - translation_iso: por
     name: Língua daza
+  - translation_iso: rus
+    name: даза
   - translation_iso: spa
     name: dazaga
   - translation_iso: zho

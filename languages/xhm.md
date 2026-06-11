@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: 中クメール語
     auto: true
+  - translation_iso: kor
+    name: 중세 크메르어
+    auto: true
   - translation_iso: por
     name: Khmer Médio (1400 a 1850 d.C.)
     auto: true

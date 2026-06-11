@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウーリウーリ語
     auto: true
+  - translation_iso: kor
+    name: 울리울리어
+    auto: true
   - translation_iso: por
     name: Wuliwuli
     auto: true

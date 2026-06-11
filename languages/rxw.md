@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガラワリ語
     auto: true
+  - translation_iso: kor
+    name: 카루왈리어
+    auto: true
   - translation_iso: por
     name: Karuwali
     auto: true

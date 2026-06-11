@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: فاندالية
     auto: true
+  - translation_iso: ben
+    name: ভান্ডালীয় ভাষা
   - translation_iso: deu
     name: Vandalisch
   - translation_iso: fra
@@ -21,12 +23,16 @@ translations:
   - translation_iso: hin
     name: वैंडलिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Vandal
   - translation_iso: jpn
     name: ヴァンダル語
   - translation_iso: kor
     name: 반달어
   - translation_iso: por
     name: vândalo
+  - translation_iso: rus
+    name: вандальский язык
   - translation_iso: spa
     name: vándalo
   - translation_iso: zho

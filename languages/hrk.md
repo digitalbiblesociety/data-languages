@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: हारुकू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Haruku
   - translation_iso: jpn
     name: ハルク語
+    auto: true
+  - translation_iso: kor
+    name: 하루쿠어
     auto: true
   - translation_iso: por
     name: Haruku

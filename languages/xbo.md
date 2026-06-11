@@ -33,6 +33,8 @@ translations:
     name: 불가르어
   - translation_iso: por
     name: Língua bulgárica
+  - translation_iso: rus
+    name: булгарский язык
   - translation_iso: spa
     name: bulgárico
   - translation_iso: zho

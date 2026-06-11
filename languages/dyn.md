@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ディャンガディ語
     auto: true
+  - translation_iso: kor
+    name: 장가디어
+    auto: true
   - translation_iso: por
     name: Dyangadi
     auto: true

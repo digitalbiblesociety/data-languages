@@ -27,12 +27,16 @@ translations:
     auto: true
   - translation_iso: hin
     name: प्यू भाषा
+  - translation_iso: ind
+    name: Bahasa Pyu
   - translation_iso: jpn
     name: ピュー語
   - translation_iso: kor
     name: 쀼어
   - translation_iso: por
     name: Língua pyu
+  - translation_iso: rus
+    name: "Пью (язык, Мьянма)"
   - translation_iso: spa
     name: Idioma pyu
   - translation_iso: zho

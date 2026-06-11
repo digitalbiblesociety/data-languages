@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガンディッジマラ語
     auto: true
+  - translation_iso: kor
+    name: 군디치마라어
+    auto: true
   - translation_iso: por
     name: Gunditjmara
     auto: true

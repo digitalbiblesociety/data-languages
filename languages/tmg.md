@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: तेरनातेन्यो
     auto: true
+  - translation_iso: ind
+    name: Ternateño
   - translation_iso: jpn
     name: テルナテーニョ語
+    auto: true
+  - translation_iso: kor
+    name: 테르나테뇨어
     auto: true
   - translation_iso: por
     name: Portugis

@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: किसार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kisar
   - translation_iso: jpn
     name: キサル語
+    auto: true
+  - translation_iso: kor
+    name: 키사르어
     auto: true
   - translation_iso: por
     name: Kisar
     auto: true
+  - translation_iso: rus
+    name: Кисарский язык
   - translation_iso: spa
     name: Kisar
     auto: true

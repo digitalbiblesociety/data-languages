@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة أوروبو-كاابور
     auto: true
+  - translation_iso: ben
+    name: "কা'পর ইশারা ভাষা"
   - translation_iso: deu
     name: Urubú-Kaapor-Gebärdensprache
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: कापोर सांकेतिक भाषा
   - translation_iso: jpn
     name: ウルブ・カァポル手話
+  - translation_iso: kor
+    name: 우루부카아포르 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Kaapor Brasileira
+  - translation_iso: rus
+    name: каапорский жестовый язык
   - translation_iso: spa
     name: Lengua de señas Urubu-Kaapor
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マハーラーシュトリアン・コンカニ語
+  - translation_iso: kor
+    name: 콘칸어
+    auto: true
   - translation_iso: por
     name: concani
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: क्वेर
     auto: true
+  - translation_iso: ind
+    name: Kwer
   - translation_iso: jpn
     name: クウェル語
+    auto: true
+  - translation_iso: kor
+    name: 퀘르어
     auto: true
   - translation_iso: por
     name: Kwer

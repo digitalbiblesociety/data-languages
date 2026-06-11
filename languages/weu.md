@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラウング・チン語
     auto: true
+  - translation_iso: kor
+    name: 롱투 친어
+    auto: true
   - translation_iso: por
     name: Chin Rawngtu
     auto: true

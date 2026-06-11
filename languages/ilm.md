@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラヌン語
+  - translation_iso: kor
+    name: 이라눈어
+    auto: true
   - translation_iso: por
     name: Iranun (Malásia)
     auto: true

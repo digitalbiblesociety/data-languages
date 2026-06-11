@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カトゥア語
     auto: true
+  - translation_iso: kor
+    name: 카투아어
+    auto: true
   - translation_iso: por
     name: Katua
     auto: true

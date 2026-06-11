@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バムンカ語
     auto: true
+  - translation_iso: kor
+    name: 바뭉카어
+    auto: true
   - translation_iso: por
     name: Bamunka
     auto: true

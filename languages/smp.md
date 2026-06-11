@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: सामरी
     auto: true
+  - translation_iso: ind
+    name: bahasa Ibrani Samaria
   - translation_iso: jpn
     name: サマリア語
   - translation_iso: kor
     name: 사마리아어
   - translation_iso: por
     name: Hebraico samaritano
+  - translation_iso: rus
+    name: самаритянский иврит
   - translation_iso: spa
     name: samaritano
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バロムビ語
     auto: true
+  - translation_iso: kor
+    name: 바롬비어
+    auto: true
   - translation_iso: por
     name: Barombi
     auto: true

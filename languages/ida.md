@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イダホ＝イスハ＝ティリキ語
+  - translation_iso: kor
+    name: 이다코·이수카·티리키어
+    auto: true
   - translation_iso: por
     name: Idakho-Isukha-Tiriki
     auto: true

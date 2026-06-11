@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤベン語
     auto: true
+  - translation_iso: kor
+    name: 야벤어
+    auto: true
   - translation_iso: por
     name: yaben
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أماراسي
     auto: true
+  - translation_iso: ben
+    name: আমারাসি
   - translation_iso: deu
     name: Amarasi
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: अमारासी
     auto: true
+  - translation_iso: ind
+    name: Amarasi
   - translation_iso: jpn
     name: アマラシ語
     auto: true
+  - translation_iso: kor
+    name: 아마라시어
+    auto: true
   - translation_iso: por
     name: Língua amarasi
+  - translation_iso: rus
+    name: амараси
   - translation_iso: spa
     name: Amarasi
     auto: true

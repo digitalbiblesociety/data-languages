@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サウ語
+  - translation_iso: kor
+    name: 사비어
+    auto: true
   - translation_iso: por
     name: Língua sawi
+  - translation_iso: rus
+    name: сави
   - translation_iso: spa
     name: Savi
     auto: true

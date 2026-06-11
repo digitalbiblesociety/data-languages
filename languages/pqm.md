@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maliseet-Passamaquoddy_language"
 translations:
   - translation_iso: ara
     name: ماليسيت-باساماقودي
+  - translation_iso: ben
+    name: মালিসেট-পাসামাকুয়োড্ডি
   - translation_iso: deu
     name: Maliseet-Passamaquoddy
   - translation_iso: fra
     name: malécite-passamaquoddy
   - translation_iso: hin
     name: मलेसीट-पासेमेक्वोडी
+  - translation_iso: ind
+    name: Maliseet-Passamaquoddy
   - translation_iso: jpn
     name: マリシート＝パサマコディ語
   - translation_iso: kor
     name: 말리시트-파사마쿼디어
   - translation_iso: por
     name: Língua malecite–passamaquoddy
+  - translation_iso: rus
+    name: малесит-пассамакводди
   - translation_iso: spa
     name: Malecite-Passamaquoddy
   - translation_iso: zho

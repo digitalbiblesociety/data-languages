@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإم‌رو-خيمي تشين
     auto: true
+  - translation_iso: ben
+    name: ম্রো-খিমি ভাষা
   - translation_iso: deu
     name: Mro-Khimi-Chin
     auto: true
@@ -30,8 +32,13 @@ translations:
   - translation_iso: hin
     name: म्रो-खिमी चिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mro
   - translation_iso: jpn
     name: ムロ・キミ・チン語
+    auto: true
+  - translation_iso: kor
+    name: 므로키미 친어
     auto: true
   - translation_iso: por
     name: Língua mro

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: イル語
     auto: true
+  - translation_iso: kor
+    name: 이르어
+    auto: true
   - translation_iso: por
     name: Ir
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イクスカトラン・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 이스카틀란 마사테코어
+    auto: true
   - translation_iso: por
     name: Mazateco de Ixcatlán
     auto: true
+  - translation_iso: rus
+    name: Искатланский масатекский язык
   - translation_iso: spa
     name: Mazateco de Ixcatlán
     auto: true

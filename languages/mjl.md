@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ماندلي
     auto: true
+  - translation_iso: ben
+    name: মণ্ডিয়ালী ভাষা
   - translation_iso: deu
     name: Mandeali
     auto: true
@@ -31,8 +33,13 @@ translations:
     name: मंडयाली
   - translation_iso: jpn
     name: マンデアーリー語
+  - translation_iso: kor
+    name: 만데알리어
+    auto: true
   - translation_iso: por
     name: Língua mandeali
+  - translation_iso: rus
+    name: Мандеали
   - translation_iso: spa
     name: Mandeali
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serbo-Croatian"
 translations:
   - translation_iso: ara
     name: الصربية الكرواتية
+  - translation_iso: ben
+    name: সার্বো-ক্রোয়েশিয়
   - translation_iso: deu
     name: Serbokroatisch
   - translation_iso: fra
     name: serbo-croate
   - translation_iso: hin
     name: सर्बी क्रोएशियन भाषा
+  - translation_iso: ind
+    name: Serbo-Kroasia
   - translation_iso: jpn
     name: セルビア・クロアチア語
   - translation_iso: kor
     name: 세르보크로아트어
   - translation_iso: por
     name: Língua servo-croata
+  - translation_iso: rus
+    name: сербскохорватский
   - translation_iso: spa
     name: serbocroata
   - translation_iso: zho

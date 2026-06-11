@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マカヤム語
     auto: true
+  - translation_iso: kor
+    name: 마카얌어
+    auto: true
   - translation_iso: por
     name: Makayam
     auto: true
+  - translation_iso: rus
+    name: Макаям
   - translation_iso: spa
     name: Makayam
     auto: true

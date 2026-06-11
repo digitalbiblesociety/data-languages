@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スナム語
+  - translation_iso: kor
+    name: 수남어
+    auto: true
   - translation_iso: por
     name: Sunam
     auto: true

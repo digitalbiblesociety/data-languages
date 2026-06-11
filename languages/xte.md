@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: केतेंगबान
     auto: true
+  - translation_iso: ind
+    name: Ketengban
   - translation_iso: jpn
     name: ケテングバン語
     auto: true
+  - translation_iso: kor
+    name: 케텡반어
+    auto: true
   - translation_iso: por
     name: Língua ketengban
+  - translation_iso: rus
+    name: Кетенгбанский язык
   - translation_iso: spa
     name: Ketengban
     auto: true

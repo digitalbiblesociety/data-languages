@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कामोरो
     auto: true
+  - translation_iso: ind
+    name: Kamoro
   - translation_iso: jpn
     name: カモロ語
+    auto: true
+  - translation_iso: kor
+    name: 카모로어
     auto: true
   - translation_iso: por
     name: Kamora

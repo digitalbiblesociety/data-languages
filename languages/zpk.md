@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トラコルリタ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 틀라콜룰리타 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Tlacolulita
     auto: true
+  - translation_iso: rus
+    name: Тлаколулитанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Tlacolulita
     auto: true

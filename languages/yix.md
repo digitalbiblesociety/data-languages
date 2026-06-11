@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكسي يي
     auto: true
+  - translation_iso: ben
+    name: অক্ষি
   - translation_iso: deu
     name: Axi Yi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクシ・イー語
+    auto: true
+  - translation_iso: kor
+    name: 아시 이어
     auto: true
   - translation_iso: por
     name: yi axi

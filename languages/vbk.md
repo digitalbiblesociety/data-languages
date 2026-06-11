@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西ボントク語
+  - translation_iso: kor
+    name: 남서부 본톡어
+    auto: true
   - translation_iso: por
     name: Bontok Sudoeste
     auto: true

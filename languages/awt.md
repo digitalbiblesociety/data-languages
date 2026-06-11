@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أراويتيه
     auto: true
+  - translation_iso: ben
+    name: আরাওয়েতে
   - translation_iso: deu
     name: Araweté
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アラウェテ語
     auto: true
+  - translation_iso: kor
+    name: 아라웨테어
+    auto: true
   - translation_iso: por
     name: Língua araueté
+  - translation_iso: rus
+    name: Аравете
   - translation_iso: spa
     name: Araweté
     auto: true

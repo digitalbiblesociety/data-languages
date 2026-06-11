@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソナガ語
     auto: true
+  - translation_iso: kor
+    name: 소나가어
+    auto: true
   - translation_iso: por
     name: sonaga
     auto: true

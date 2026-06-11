@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: कायेली
     auto: true
+  - translation_iso: ind
+    name: bahasa Kayeli
   - translation_iso: jpn
     name: カヤリ語
     auto: true
+  - translation_iso: kor
+    name: 카옐리어
+    auto: true
   - translation_iso: por
     name: Kayeli
+  - translation_iso: rus
+    name: Каели (язык)
   - translation_iso: spa
     name: Kayeli
   - translation_iso: zho

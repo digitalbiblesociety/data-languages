@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: リンコン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 린콘 사포텍어
+    auto: true
   - translation_iso: por
     name: Língua rincón
+  - translation_iso: rus
+    name: Ринконский сапотекский язык
   - translation_iso: spa
     name: Zapoteco del Rincón
     auto: true

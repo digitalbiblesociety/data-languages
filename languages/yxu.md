@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユユ語
+  - translation_iso: kor
+    name: 유유어
+    auto: true
   - translation_iso: por
     name: Idioma yuyu
   - translation_iso: spa

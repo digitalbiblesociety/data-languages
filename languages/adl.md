@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة غالو
     auto: true
+  - translation_iso: ben
+    name: গালো ভাষা
   - translation_iso: deu
     name: Galo
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: गालो भाषा
   - translation_iso: jpn
     name: Galo語
+  - translation_iso: kor
+    name: 갈로어
+    auto: true
   - translation_iso: por
     name: Língua galoo
+  - translation_iso: rus
+    name: Гало
   - translation_iso: spa
     name: Galo
     auto: true

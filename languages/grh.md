@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギビリ・ニラグ語
     auto: true
+  - translation_iso: kor
+    name: 그비리·니라구어
+    auto: true
   - translation_iso: por
     name: Gbiri-Niragu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クラマ語
     auto: true
+  - translation_iso: kor
+    name: 쿠라마어
+    auto: true
   - translation_iso: por
     name: Kurama
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キュン語
+  - translation_iso: kor
+    name: 쿤어
+    auto: true
   - translation_iso: por
     name: Khün
+  - translation_iso: rus
+    name: кхынский язык
   - translation_iso: spa
     name: Khün
   - translation_iso: zho

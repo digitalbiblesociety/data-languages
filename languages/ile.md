@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Interlingue"
 translations:
   - translation_iso: ara
     name: الغربية (لغة)
+  - translation_iso: ben
+    name: ইন্টারলিঙ্গ
   - translation_iso: deu
     name: Interlingue
   - translation_iso: fra
     name: occidental
   - translation_iso: hin
     name: इंटरलिंगुई
+  - translation_iso: ind
+    name: Interlingue
   - translation_iso: jpn
     name: インターリング
   - translation_iso: kor
     name: 인테르링구에
   - translation_iso: por
     name: interlingue
+  - translation_iso: rus
+    name: интерлингве
   - translation_iso: spa
     name: interlingue
   - translation_iso: zho

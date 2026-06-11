@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヨコボウエ・ディダ語
     auto: true
+  - translation_iso: kor
+    name: 요코부에 디다어
+    auto: true
   - translation_iso: por
     name: Dida Yocoboué
     auto: true

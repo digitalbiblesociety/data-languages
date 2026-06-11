@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガダン語
     auto: true
+  - translation_iso: kor
+    name: 가당어
+    auto: true
   - translation_iso: por
     name: Gadang
     auto: true

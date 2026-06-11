@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボーダー・クナ語
     auto: true
+  - translation_iso: kor
+    name: 국경 쿠나어
+    auto: true
   - translation_iso: por
     name: Kuna fronteiriço
     auto: true

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: जराई
     auto: true
+  - translation_iso: ind
+    name: bahasa Jarai
   - translation_iso: jpn
     name: ジャライ語
+  - translation_iso: kor
+    name: 자라이어
+    auto: true
   - translation_iso: por
     name: Língua jarai
+  - translation_iso: rus
+    name: Джарайский язык
   - translation_iso: spa
     name: Jarai
     auto: true

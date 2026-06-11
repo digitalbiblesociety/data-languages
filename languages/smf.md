@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: ben
+    name: আউয়ে
   - translation_iso: deu
     name: Auwe
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シモッグ語
+    auto: true
+  - translation_iso: kor
+    name: 아우웨어
     auto: true
   - translation_iso: por
     name: Auwe

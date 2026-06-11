@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティルライ語
     auto: true
+  - translation_iso: kor
+    name: 티루라이어
+    auto: true
   - translation_iso: por
     name: Língua tiruray
   - translation_iso: spa

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 下チヘリス語
+  - translation_iso: kor
+    name: 저지 체할리스어
+    auto: true
   - translation_iso: por
     name: Chehalis inferior
     auto: true
+  - translation_iso: rus
+    name: Нижний чехалис
   - translation_iso: spa
     name: Chehalis Bajo
     auto: true

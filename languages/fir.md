@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フィラン語
     auto: true
+  - translation_iso: kor
+    name: 피란어
+    auto: true
   - translation_iso: por
     name: Firan
     auto: true

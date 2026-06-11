@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: リゲンザ語
     auto: true
+  - translation_iso: kor
+    name: 리겐자어
+    auto: true
   - translation_iso: por
     name: Ligenza
     auto: true

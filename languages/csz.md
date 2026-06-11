@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クース語
     auto: true
+  - translation_iso: kor
+    name: 쿠스어
+    auto: true
   - translation_iso: por
     name: Hanis
   - translation_iso: spa

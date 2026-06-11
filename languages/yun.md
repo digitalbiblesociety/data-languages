@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة بينا النيجيرية
     auto: true
+  - translation_iso: ben
+    name: বেনা
   - translation_iso: deu
     name: Bena (Nigeria)
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: ベナ語（ナイジェリア）
     auto: true
+  - translation_iso: kor
+    name: 베나어
+    auto: true
   - translation_iso: por
     name: bena (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: Бена
   - translation_iso: spa
     name: Bena (Nigeria)
     auto: true

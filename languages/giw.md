@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: व्हाइट गेलाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Telue
   - translation_iso: jpn
     name: ホワイト・ゲラオ語
+    auto: true
+  - translation_iso: kor
+    name: 백거라오어
     auto: true
   - translation_iso: por
     name: gelao branco
     auto: true
+  - translation_iso: rus
+    name: Толо (язык)
   - translation_iso: spa
     name: Gelao blanco
     auto: true

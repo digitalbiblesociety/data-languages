@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/French_language"
 translations:
   - translation_iso: ara
     name: الفرنسية
+  - translation_iso: ben
+    name: ফরাসি
   - translation_iso: deu
     name: Französisch
   - translation_iso: fra
     name: français
   - translation_iso: hin
     name: फ़्रांसीसी
+  - translation_iso: ind
+    name: Prancis
   - translation_iso: jpn
     name: フランス語
   - translation_iso: kor
     name: 프랑스어
   - translation_iso: por
     name: francês
+  - translation_iso: rus
+    name: французский
   - translation_iso: spa
     name: francés
   - translation_iso: zho

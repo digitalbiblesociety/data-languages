@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: बोनेरिफ़
     auto: true
+  - translation_iso: ind
+    name: bahasa Bonerif
   - translation_iso: jpn
     name: ボネリフ語
+    auto: true
+  - translation_iso: kor
+    name: 보네리프어
     auto: true
   - translation_iso: por
     name: Bonerif
     auto: true
+  - translation_iso: rus
+    name: Бенераф
   - translation_iso: spa
     name: Bonerif
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بامويي
     auto: true
+  - translation_iso: ben
+    name: বামওয়ে
   - translation_iso: deu
     name: Bamwe
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バムウェ語
+    auto: true
+  - translation_iso: kor
+    name: 밤웨어
     auto: true
   - translation_iso: por
     name: Bamwe

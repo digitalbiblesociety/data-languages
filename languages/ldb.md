@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ドゥヤ語
     auto: true
+  - translation_iso: kor
+    name: 두야어
+    auto: true
   - translation_iso: por
     name: Dũya
     auto: true

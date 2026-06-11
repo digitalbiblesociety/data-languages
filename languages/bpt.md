@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باروو پوينت
     auto: true
+  - translation_iso: ben
+    name: ব্যারো পয়েন্ট
   - translation_iso: deu
     name: Barrow Point
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バロウ・ポイント語
     auto: true
+  - translation_iso: kor
+    name: 배로 포인트어
+    auto: true
   - translation_iso: por
     name: Barrow Point
     auto: true
+  - translation_iso: rus
+    name: Барроу-пойнтский язык
   - translation_iso: spa
     name: idioma Barrow Point
   - translation_iso: zho

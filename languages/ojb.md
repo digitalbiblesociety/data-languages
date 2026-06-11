@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northwestern_Ojibwa"
 translations:
   - translation_iso: ara
     name: أوجيبوا الشمالية الغربية
+  - translation_iso: ben
+    name: উত্তর পশ্চিম ওজিবোয়া
   - translation_iso: deu
     name: Nordwestliches Ojibwe
   - translation_iso: fra
     name: ojibwé du Nord-Ouest
   - translation_iso: hin
     name: उत्तरपश्चिमी ओजिब्वे
+  - translation_iso: ind
+    name: Ojibwe Barat Laut
   - translation_iso: jpn
     name: 北西部オジブワ語
   - translation_iso: kor
     name: 북서부 오지브와어
   - translation_iso: por
     name: ojibwa do noroeste
+  - translation_iso: rus
+    name: северо-западный оджибве
   - translation_iso: spa
     name: ojibwa noroccidental
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ニシ語（中国）
     auto: true
+  - translation_iso: kor
+    name: 니시어
+    auto: true
   - translation_iso: por
     name: nisi (China)
     auto: true

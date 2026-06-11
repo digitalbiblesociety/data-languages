@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kanembu_language"
 translations:
   - translation_iso: ara
     name: كانانبو
+  - translation_iso: ben
+    name: কানেম্বু ভাষা
   - translation_iso: deu
     name: Kanembu
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: कानेम्बू
     auto: true
+  - translation_iso: ind
+    name: Kanembu
   - translation_iso: jpn
     name: カネンブ語
   - translation_iso: kor
     name: 카넴부어
   - translation_iso: por
     name: Língua kanembu
+  - translation_iso: rus
+    name: канембу
   - translation_iso: spa
     name: kanembu
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥラカ語
     auto: true
+  - translation_iso: kor
+    name: 투라카어
+    auto: true
   - translation_iso: por
     name: Turaka
     auto: true

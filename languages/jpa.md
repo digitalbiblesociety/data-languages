@@ -21,11 +21,18 @@ translations:
   - translation_iso: hin
     name: यहूदी फ़िलिस्तीनी अरामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aram Palestina Yahudi
   - translation_iso: jpn
     name: ユダヤ＝パレスチナ・アラム語
+  - translation_iso: kor
+    name: 유대 팔레스타인 아람어
+    auto: true
   - translation_iso: por
     name: aramaico judaico-palestino
     auto: true
+  - translation_iso: rus
+    name: Палестинский иудейско-арамейский язык
   - translation_iso: spa
     name: arameo palestino judío
   - translation_iso: zho

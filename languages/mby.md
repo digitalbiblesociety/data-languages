@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: メモニ語
     auto: true
+  - translation_iso: kor
+    name: 메모니어
+    auto: true
   - translation_iso: por
     name: Memoni
     auto: true

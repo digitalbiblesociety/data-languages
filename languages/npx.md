@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ノイプックス語
     auto: true
+  - translation_iso: kor
+    name: 노이프어
+    auto: true
   - translation_iso: por
     name: Noipx
     auto: true

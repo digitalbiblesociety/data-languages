@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オマ・ロング語
     auto: true
+  - translation_iso: kor
+    name: 우마룽어
+    auto: true
   - translation_iso: por
     name: "Uma' Lung"
     auto: true

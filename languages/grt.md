@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Garo_language"
 translations:
   - translation_iso: ara
     name: الغاروية
+  - translation_iso: ben
+    name: গারো ভাষা
   - translation_iso: deu
     name: Garo
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 가로어
   - translation_iso: por
     name: Língua garo
+  - translation_iso: rus
+    name: Гаро
   - translation_iso: spa
     name: idioma garo
   - translation_iso: zho

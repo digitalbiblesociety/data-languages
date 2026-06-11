@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブイン語
+  - translation_iso: kor
+    name: 테레이어
+    auto: true
   - translation_iso: por
     name: Terei
     auto: true
+  - translation_iso: rus
+    name: Буин (язык)
   - translation_iso: spa
     name: terei
   - translation_iso: zho

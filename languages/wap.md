@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワピシャナ語
+  - translation_iso: kor
+    name: 와피샤나어
+    auto: true
   - translation_iso: por
     name: Língua wapixana
+  - translation_iso: rus
+    name: Вапишана
   - translation_iso: spa
     name: idioma wapishana
   - translation_iso: zho

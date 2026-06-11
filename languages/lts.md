@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タコニ語
     auto: true
+  - translation_iso: kor
+    name: 타초니어
+    auto: true
   - translation_iso: por
     name: Tachoni
     auto: true

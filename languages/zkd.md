@@ -25,9 +25,14 @@ translations:
   - translation_iso: jpn
     name: カドゥ語
     auto: true
+  - translation_iso: kor
+    name: 카두어
+    auto: true
   - translation_iso: por
     name: kadu
     auto: true
+  - translation_iso: rus
+    name: каду
   - translation_iso: spa
     name: Kadu
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マヌマナウ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 마누마노 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Manumanaw
     auto: true

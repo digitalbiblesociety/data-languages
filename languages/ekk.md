@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: エストニア語
     auto: true
+  - translation_iso: kor
+    name: 표준 에스토니아어
+    auto: true
   - translation_iso: por
     name: Estoniano Padrão
     auto: true
+  - translation_iso: rus
+    name: стандартный эстонский
   - translation_iso: spa
     name: Estonio estándar
     auto: true

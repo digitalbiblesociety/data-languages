@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रून
     auto: true
+  - translation_iso: ind
+    name: Roon
   - translation_iso: jpn
     name: ルーン語
+    auto: true
+  - translation_iso: kor
+    name: 론어
     auto: true
   - translation_iso: por
     name: Roon

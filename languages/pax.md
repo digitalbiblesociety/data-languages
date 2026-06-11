@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パンカラレ語
     auto: true
+  - translation_iso: kor
+    name: 판카라레어
+    auto: true
   - translation_iso: por
     name: Pankararé
     auto: true

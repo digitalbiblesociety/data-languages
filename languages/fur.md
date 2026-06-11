@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Friulian_language"
 translations:
   - translation_iso: ara
     name: الفريولية
+  - translation_iso: ben
+    name: ফ্রিউলিও
   - translation_iso: deu
     name: Furlanisch
   - translation_iso: fra
     name: frioulan
   - translation_iso: hin
     name: फ्रीयुलीयान
+  - translation_iso: ind
+    name: Friuli
   - translation_iso: jpn
     name: フリウリ語
   - translation_iso: kor
     name: 프리울리어
   - translation_iso: por
     name: friulano
+  - translation_iso: rus
+    name: фриульский
   - translation_iso: spa
     name: friulano
   - translation_iso: zho

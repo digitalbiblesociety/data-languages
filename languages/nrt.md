@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 北カラプヤ語
     auto: true
+  - translation_iso: kor
+    name: 북부 칼라푸야어
+    auto: true
   - translation_iso: por
     name: Kalapuya Setentrional
     auto: true
+  - translation_iso: rus
+    name: Северный калапуянский язык
   - translation_iso: spa
     name: Kalapuya Septentrional
     auto: true

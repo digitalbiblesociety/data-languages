@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أمبا
     auto: true
+  - translation_iso: ben
+    name: আম্বা
   - translation_iso: deu
     name: Amba (Salomonen)
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバ語
+  - translation_iso: kor
+    name: 암바어
+    auto: true
   - translation_iso: por
     name: Amba (Ilhas Salomão)
     auto: true
+  - translation_iso: rus
+    name: амба
   - translation_iso: spa
     name: Amba
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンドウェウェ語
     auto: true
+  - translation_iso: kor
+    name: 은드웨웨어
+    auto: true
   - translation_iso: por
     name: Ndwewe
     auto: true

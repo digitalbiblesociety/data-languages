@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イス語
     auto: true
+  - translation_iso: kor
+    name: 이수어
+    auto: true
   - translation_iso: por
     name: Isu (Divisão de Menchum)
     auto: true
+  - translation_iso: rus
+    name: ису
   - translation_iso: spa
     name: Isu (División Menchum)
     auto: true

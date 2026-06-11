@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュンブリ語
+  - translation_iso: kor
+    name: 춤불리어
+    auto: true
   - translation_iso: por
     name: Tchumbuli
     auto: true

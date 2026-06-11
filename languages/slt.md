@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シダ語
     auto: true
+  - translation_iso: kor
+    name: 실라어
+    auto: true
   - translation_iso: por
     name: Sila
     auto: true

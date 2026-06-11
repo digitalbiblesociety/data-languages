@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: पूर्वी युगुर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yugur Timur
   - translation_iso: jpn
     name: 東部ユグル語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: iugur oriental
     auto: true
+  - translation_iso: rus
+    name: шира-югурский язык
   - translation_iso: spa
     name: yugur oriental
   - translation_iso: zho

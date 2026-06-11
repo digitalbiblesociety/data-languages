@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايْجو
     auto: true
+  - translation_iso: ben
+    name: বেইগো
   - translation_iso: deu
     name: Baygo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベイゴ語
+  - translation_iso: kor
+    name: 바이고어
+    auto: true
   - translation_iso: por
     name: Baygo
     auto: true

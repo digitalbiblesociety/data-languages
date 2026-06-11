@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أيوو
     auto: true
+  - translation_iso: ben
+    name: আইও
   - translation_iso: deu
     name: Ayiwo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エイウォ語
+  - translation_iso: kor
+    name: 아이워어
+    auto: true
   - translation_iso: por
     name: Äiwoo
   - translation_iso: spa

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Walser_German"
 translations:
   - translation_iso: ara
     name: الوالسر
+  - translation_iso: ben
+    name: ওয়ালসার
   - translation_iso: deu
     name: Walliserdeutsch
   - translation_iso: fra
     name: haut-valaisan
   - translation_iso: hin
     name: वाल्सर
+  - translation_iso: ind
+    name: Walser
   - translation_iso: jpn
     name: ヴァリス語
   - translation_iso: kor
     name: 발리스 독일어
   - translation_iso: por
     name: walser
+  - translation_iso: rus
+    name: валлисский
   - translation_iso: spa
     name: dialecto valesano
   - translation_iso: zho

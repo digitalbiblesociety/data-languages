@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オキエク語
+  - translation_iso: kor
+    name: 오키에크어
+    auto: true
   - translation_iso: por
     name: Okiek
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダバ語
     auto: true
+  - translation_iso: kor
+    name: 다바어
+    auto: true
   - translation_iso: por
     name: Daba
     auto: true

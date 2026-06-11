@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クリア語
     auto: true
+  - translation_iso: kor
+    name: 쿠리아어
+    auto: true
   - translation_iso: por
     name: Língua kuria
+  - translation_iso: rus
+    name: Куриа (язык)
   - translation_iso: spa
     name: Kuria
     auto: true

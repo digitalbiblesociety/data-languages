@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ティダア・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 티다아 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Tidaá
     auto: true
+  - translation_iso: rus
+    name: Тидаанский миштекский язык
   - translation_iso: spa
     name: Mixteco de Tidaá
     auto: true

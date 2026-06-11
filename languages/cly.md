@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・ハイランド・チャティーノ語
     auto: true
+  - translation_iso: kor
+    name: 동부 고지 차티노어
+    auto: true
   - translation_iso: por
     name: Chatino das terras altas orientais
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 네즈퍼스어
   - translation_iso: por
     name: Língua nez perce
+  - translation_iso: rus
+    name: не-персе
   - translation_iso: spa
     name: Nez Perce
   - translation_iso: zho

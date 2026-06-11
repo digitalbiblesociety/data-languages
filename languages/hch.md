@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: हुइचोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Huichol
   - translation_iso: jpn
     name: ウイチョル語
+  - translation_iso: kor
+    name: 위촐어
+    auto: true
   - translation_iso: por
     name: Língua huichol
+  - translation_iso: rus
+    name: Уичоль
   - translation_iso: spa
     name: Idioma huichol
   - translation_iso: zho

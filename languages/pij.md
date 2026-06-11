@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ピハオ語
     auto: true
+  - translation_iso: kor
+    name: 피하오어
+    auto: true
   - translation_iso: por
     name: Pijao
     auto: true
+  - translation_iso: rus
+    name: Пихао
   - translation_iso: spa
     name: Idioma pijao
   - translation_iso: zho

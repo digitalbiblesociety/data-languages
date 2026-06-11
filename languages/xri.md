@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: クリカティ・ティムビラ語
     auto: true
+  - translation_iso: kor
+    name: 크리카티·팀비라어
+    auto: true
   - translation_iso: por
     name: Krikati-Timbira
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドリオ語
     auto: true
+  - translation_iso: kor
+    name: 도리오어
+    auto: true
   - translation_iso: por
     name: "Dori'o"
     auto: true

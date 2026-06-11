@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باوم تشين
     auto: true
+  - translation_iso: ben
+    name: বম ভাষা
   - translation_iso: deu
     name: Bawm Chin
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: बॉम भाषा
   - translation_iso: jpn
     name: ボーン語
+  - translation_iso: kor
+    name: 바움 친어
+    auto: true
   - translation_iso: por
     name: Bawm Chin
     auto: true
+  - translation_iso: rus
+    name: баум
   - translation_iso: spa
     name: Bawm Chin
     auto: true

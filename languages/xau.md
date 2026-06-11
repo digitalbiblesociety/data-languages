@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: काउवेरा
     auto: true
+  - translation_iso: ind
+    name: Kabera
   - translation_iso: jpn
     name: カウウェラ語
+    auto: true
+  - translation_iso: kor
+    name: 카우웨라어
     auto: true
   - translation_iso: por
     name: Kauwera

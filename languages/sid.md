@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sidama_language"
 translations:
   - translation_iso: ara
     name: لغة السيداما
+  - translation_iso: ben
+    name: সিডামো
   - translation_iso: deu
     name: Sidama
   - translation_iso: fra
     name: sidama
   - translation_iso: hin
     name: सिडाम भाषा
+  - translation_iso: ind
+    name: Sidamo
   - translation_iso: jpn
     name: シダモ語
   - translation_iso: kor
     name: 시다모어
   - translation_iso: por
     name: sidamo
+  - translation_iso: rus
+    name: сидама
   - translation_iso: spa
     name: Idioma sidamo
   - translation_iso: zho

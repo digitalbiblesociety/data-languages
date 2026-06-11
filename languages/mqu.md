@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンダリ語
     auto: true
+  - translation_iso: kor
+    name: 만다리어
+    auto: true
   - translation_iso: por
     name: Língua mandari
   - translation_iso: spa

@@ -21,18 +21,24 @@ translations:
   - translation_iso: ara
     name: اللغة السيكيمية
     auto: true
+  - translation_iso: ben
+    name: সিকিমি ভাষা
   - translation_iso: deu
     name: Denjongka
   - translation_iso: fra
     name: sikkimais
   - translation_iso: hin
     name: सिक्किमी भाषा
+  - translation_iso: ind
+    name: bahasa Sikkim
   - translation_iso: jpn
     name: シッキム語
   - translation_iso: kor
     name: 시킴어
   - translation_iso: por
     name: Língua siquimesa
+  - translation_iso: rus
+    name: сиккимский язык
   - translation_iso: spa
     name: Idioma bhutia
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कामायो
     auto: true
+  - translation_iso: ind
+    name: Kamayo
   - translation_iso: jpn
     name: カマヨ語
+    auto: true
+  - translation_iso: kor
+    name: 카마요어
     auto: true
   - translation_iso: por
     name: Kamayo

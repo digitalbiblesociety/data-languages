@@ -23,12 +23,19 @@ translations:
   - translation_iso: hin
     name: लौरा
     auto: true
+  - translation_iso: ind
+    name: Laura
   - translation_iso: jpn
     name: ラウラ語
+    auto: true
+  - translation_iso: kor
+    name: 라우라어
     auto: true
   - translation_iso: por
     name: Laura
     auto: true
+  - translation_iso: rus
+    name: лаора
   - translation_iso: spa
     name: Laura
     auto: true

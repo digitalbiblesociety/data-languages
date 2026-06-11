@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Icelandic_language"
 translations:
   - translation_iso: ara
     name: الآيسلندية
+  - translation_iso: ben
+    name: আইসল্যান্ডীয়
   - translation_iso: deu
     name: Isländisch
   - translation_iso: fra
     name: islandais
   - translation_iso: hin
     name: आइसलैण्डिक भाषा
+  - translation_iso: ind
+    name: Islandia
   - translation_iso: jpn
     name: アイスランド語
   - translation_iso: kor
     name: 아이슬란드어
   - translation_iso: por
     name: islandês
+  - translation_iso: rus
+    name: исландский
   - translation_iso: spa
     name: islandés
   - translation_iso: zho

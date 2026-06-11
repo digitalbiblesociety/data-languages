@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダイル語
+  - translation_iso: kor
+    name: 다이르어
+    auto: true
   - translation_iso: por
     name: Dair
     auto: true

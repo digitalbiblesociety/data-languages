@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北ムユ語
     auto: true
+  - translation_iso: kor
+    name: 북부 무유어
+    auto: true
   - translation_iso: por
     name: Muyu setentrional
     auto: true

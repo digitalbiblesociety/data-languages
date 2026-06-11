@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クンダ語
     auto: true
+  - translation_iso: kor
+    name: 쿤다어
+    auto: true
   - translation_iso: por
     name: Kunda
     auto: true
+  - translation_iso: rus
+    name: Кунда
   - translation_iso: spa
     name: Kunda
     auto: true

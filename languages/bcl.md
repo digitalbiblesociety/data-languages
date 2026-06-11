@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मध्य बिकोल
     auto: true
+  - translation_iso: ind
+    name: Bikol Tengah
   - translation_iso: jpn
     name: 中央ビコール語
   - translation_iso: kor
     name: 중부 비콜어
   - translation_iso: por
     name: bikol central
+  - translation_iso: rus
+    name: центральный бикольский язык
   - translation_iso: spa
     name: bicolano central
   - translation_iso: zho

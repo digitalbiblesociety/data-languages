@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: माइवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Maiwa
   - translation_iso: jpn
     name: マイワ語
+    auto: true
+  - translation_iso: kor
+    name: 마이와어
     auto: true
   - translation_iso: por
     name: Maiwa (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: маива
   - translation_iso: spa
     name: Maiwa
     auto: true

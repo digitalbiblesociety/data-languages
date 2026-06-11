@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: レイイーグハ語
     auto: true
+  - translation_iso: kor
+    name: 레이가어
+    auto: true
   - translation_iso: por
     name: Leyigha
     auto: true

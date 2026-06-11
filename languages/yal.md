@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤルンカ語
+  - translation_iso: kor
+    name: 얄룬카어
+    auto: true
   - translation_iso: por
     name: Língua yalunka
+  - translation_iso: rus
+    name: ялунка
   - translation_iso: spa
     name: Yalunka
     auto: true

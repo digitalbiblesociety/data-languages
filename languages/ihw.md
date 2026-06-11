@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビドハワル語
     auto: true
+  - translation_iso: kor
+    name: 비다왈어
+    auto: true
   - translation_iso: por
     name: Bidhawal
     auto: true

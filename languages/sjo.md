@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: शिबे
     auto: true
+  - translation_iso: ind
+    name: bahasa Sibe
   - translation_iso: jpn
     name: シベ語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Xibe
     auto: true
+  - translation_iso: rus
+    name: Сибинский диалект
   - translation_iso: spa
     name: xibe
   - translation_iso: zho

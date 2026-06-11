@@ -34,6 +34,8 @@ translations:
     name: 지르발어
   - translation_iso: por
     name: Dyirbal
+  - translation_iso: rus
+    name: Дирбал
   - translation_iso: spa
     name: dyirbal
   - translation_iso: zho

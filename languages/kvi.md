@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クワン語
     auto: true
+  - translation_iso: kor
+    name: 쾅어
+    auto: true
   - translation_iso: por
     name: Kwang
     auto: true

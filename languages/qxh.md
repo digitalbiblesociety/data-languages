@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パナオワヌコケチュア語
     auto: true
+  - translation_iso: kor
+    name: 파나오 우아누코 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Panao Huánuco
     auto: true

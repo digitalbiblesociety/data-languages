@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カシナワ語
+  - translation_iso: kor
+    name: 카시나와어
+    auto: true
   - translation_iso: por
     name: Língua caxinauá
+  - translation_iso: rus
+    name: Кашинауа
   - translation_iso: spa
     name: Kashinawa
   - translation_iso: zho

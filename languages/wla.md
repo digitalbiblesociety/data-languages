@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワリオ語
     auto: true
+  - translation_iso: kor
+    name: 왈리오어
+    auto: true
   - translation_iso: por
     name: Walio
     auto: true

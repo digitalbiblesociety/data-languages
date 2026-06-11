@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأفادي
     auto: true
+  - translation_iso: ben
+    name: আফাদে
   - translation_iso: deu
     name: Afade
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アファデ語
+    auto: true
+  - translation_iso: kor
+    name: 아파데어
     auto: true
   - translation_iso: por
     name: Afade

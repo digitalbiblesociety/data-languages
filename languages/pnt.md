@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: पोंटिक यूनानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yunani Pontus
   - translation_iso: jpn
     name: ギリシア語ポントス方言
   - translation_iso: kor
     name: 폰토스 그리스어
   - translation_iso: por
     name: Grego do Ponto
+  - translation_iso: rus
+    name: понтийский язык
   - translation_iso: spa
     name: griego póntico
   - translation_iso: zho

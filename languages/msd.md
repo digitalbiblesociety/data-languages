@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة يوكاتيك مايا للإشارة
     auto: true
+  - translation_iso: ben
+    name: মায়া ইশারা ভাষা
   - translation_iso: deu
     name: Maya-Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: मय साइन लैंग्वेज
   - translation_iso: jpn
     name: ユカテク・マヤ手話
+  - translation_iso: kor
+    name: 유카텍 마야 수어
+    auto: true
   - translation_iso: por
     name: línguas gestuais maias
   - translation_iso: spa

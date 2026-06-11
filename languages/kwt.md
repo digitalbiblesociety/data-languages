@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: क्वेस्टेन
     auto: true
+  - translation_iso: ind
+    name: Kwesten
   - translation_iso: jpn
     name: クウェステン語
+    auto: true
+  - translation_iso: kor
+    name: 퀘스텐어
     auto: true
   - translation_iso: por
     name: Kwesten

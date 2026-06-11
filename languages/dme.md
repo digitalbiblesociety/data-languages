@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥグウォル語
     auto: true
+  - translation_iso: kor
+    name: 두그워르어
+    auto: true
   - translation_iso: por
     name: Dugwor
     auto: true

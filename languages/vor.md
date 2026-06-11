@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボロ語
     auto: true
+  - translation_iso: kor
+    name: 보로어
+    auto: true
   - translation_iso: por
     name: Voro
     auto: true

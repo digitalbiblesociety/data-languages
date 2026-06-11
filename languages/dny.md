@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: デニ語
     auto: true
+  - translation_iso: kor
+    name: 데니어
+    auto: true
   - translation_iso: por
     name: Língua deni
+  - translation_iso: rus
+    name: Дени
   - translation_iso: spa
     name: dení
   - translation_iso: zho

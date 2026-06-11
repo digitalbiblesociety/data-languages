@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルクミ語
     auto: true
+  - translation_iso: kor
+    name: 루쿠미어
+    auto: true
   - translation_iso: por
     name: Língua lucumi
   - translation_iso: spa

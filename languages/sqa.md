@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トゥシャマ語
     auto: true
+  - translation_iso: kor
+    name: 샤마삼부가어
+    auto: true
   - translation_iso: por
     name: Shama-Sambuga
     auto: true

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Paiwan_language"
 translations:
   - translation_iso: ara
     name: بايوان
+  - translation_iso: ben
+    name: পাইওয়ান ভাষা
   - translation_iso: deu
     name: Paiwan
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: पाइवान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Paiwan
   - translation_iso: jpn
     name: パイワン語
   - translation_iso: kor
     name: 파이완어
   - translation_iso: por
     name: Língua paiwan
+  - translation_iso: rus
+    name: пайван
   - translation_iso: spa
     name: Idioma paiwan
   - translation_iso: zho

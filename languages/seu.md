@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेरुई-लाउत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Serui Laut
   - translation_iso: jpn
     name: アルイ語
+    auto: true
+  - translation_iso: kor
+    name: 세루이라우트어
     auto: true
   - translation_iso: por
     name: Serui-Laut

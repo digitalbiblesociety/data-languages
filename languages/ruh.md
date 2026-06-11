@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ルガ語
     auto: true
+  - translation_iso: kor
+    name: 루가어
+    auto: true
   - translation_iso: por
     name: Ruga
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パレシ語
+  - translation_iso: kor
+    name: 파레시스어
+    auto: true
   - translation_iso: por
     name: Língua pareci
+  - translation_iso: rus
+    name: Пареси
   - translation_iso: spa
     name: paresí
   - translation_iso: zho

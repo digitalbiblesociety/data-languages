@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チナリ語
     auto: true
+  - translation_iso: kor
+    name: 치날리어
+    auto: true
   - translation_iso: por
     name: Língua Chinali
   - translation_iso: spa

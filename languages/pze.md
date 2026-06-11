@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ペッセ語
     auto: true
+  - translation_iso: kor
+    name: 페세어
+    auto: true
   - translation_iso: por
     name: Pesse
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: राजोंग
     auto: true
+  - translation_iso: ind
+    name: Rajong
   - translation_iso: jpn
     name: ラジョン語
+    auto: true
+  - translation_iso: kor
+    name: 라종어
     auto: true
   - translation_iso: por
     name: Rajong

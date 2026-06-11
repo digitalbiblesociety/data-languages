@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانجاندو
     auto: true
+  - translation_iso: ben
+    name: বাঙান্দু
   - translation_iso: deu
     name: Bangandu
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンベ語
+  - translation_iso: kor
+    name: 방간두어
+    auto: true
   - translation_iso: por
     name: Bangandu
     auto: true

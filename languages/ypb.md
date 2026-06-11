@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラボフォワ語
     auto: true
+  - translation_iso: kor
+    name: 라보 포와어
+    auto: true
   - translation_iso: por
     name: labo phowa
     auto: true

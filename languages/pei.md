@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チチメカ・ジョナス語
     auto: true
+  - translation_iso: kor
+    name: 치치메카호나스어
+    auto: true
   - translation_iso: por
     name: Chichimeca-Jonaz
     auto: true
+  - translation_iso: rus
+    name: Чичимека-хонас
   - translation_iso: spa
     name: jonaz
   - translation_iso: zho

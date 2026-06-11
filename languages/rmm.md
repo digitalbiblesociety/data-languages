@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: रोमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Romang
   - translation_iso: jpn
     name: ロマ語
+    auto: true
+  - translation_iso: kor
+    name: 로마어
     auto: true
   - translation_iso: por
     name: Roma

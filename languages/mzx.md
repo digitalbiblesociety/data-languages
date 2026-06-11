@@ -27,8 +27,13 @@ translations:
   - translation_iso: jpn
     name: マワヤナ語
     auto: true
+  - translation_iso: kor
+    name: 마와야나어
+    auto: true
   - translation_iso: por
     name: Língua mawayana
+  - translation_iso: rus
+    name: Маваяна
   - translation_iso: spa
     name: mahuayana
   - translation_iso: zho

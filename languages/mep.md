@@ -36,6 +36,8 @@ translations:
     name: 미리웅어
   - translation_iso: por
     name: Miriwung
+  - translation_iso: rus
+    name: мириуонгский язык
   - translation_iso: spa
     name: Miriwoong
     auto: true

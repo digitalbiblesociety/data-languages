@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイワイ語
+  - translation_iso: kor
+    name: 와이와이어
+    auto: true
   - translation_iso: por
     name: Língua uaiuai
+  - translation_iso: rus
+    name: Вайвай (язык)
   - translation_iso: spa
     name: Waiwai
     auto: true

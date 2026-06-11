@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 西ミニャク語
     auto: true
+  - translation_iso: kor
+    name: 서부 미냐그어
+    auto: true
   - translation_iso: por
     name: Minyag Ocidental
     auto: true

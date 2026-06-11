@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南ログライ語
     auto: true
+  - translation_iso: kor
+    name: 남부 로글라이어
+    auto: true
   - translation_iso: por
     name: Roglai Meridional
     auto: true

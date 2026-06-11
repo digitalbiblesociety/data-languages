@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カジャマン語
     auto: true
+  - translation_iso: kor
+    name: 카자만어
+    auto: true
   - translation_iso: por
     name: Kajaman
     auto: true

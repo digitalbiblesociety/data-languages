@@ -27,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: レパンビティップ語
     auto: true
+  - translation_iso: kor
+    name: 레판비팁어
+    auto: true
   - translation_iso: por
     name: Repanbitip
     auto: true
+  - translation_iso: rus
+    name: Репанбитип
   - translation_iso: spa
     name: Repanbitip
     auto: true

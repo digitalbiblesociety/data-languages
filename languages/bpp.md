@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कौरे
     auto: true
+  - translation_iso: ind
+    name: Kaure
   - translation_iso: jpn
     name: カウレ語
+    auto: true
+  - translation_iso: kor
+    name: 카우레어
     auto: true
   - translation_iso: por
     name: Kaure

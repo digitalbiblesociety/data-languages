@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テレフォル語
+  - translation_iso: kor
+    name: 텔레폴어
+    auto: true
   - translation_iso: por
     name: Telefol
     auto: true

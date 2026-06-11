@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コチミ語
+  - translation_iso: kor
+    name: 코치미어
+    auto: true
   - translation_iso: por
     name: Cochimi
     auto: true
+  - translation_iso: rus
+    name: кочими
   - translation_iso: spa
     name: cochimí
   - translation_iso: zho

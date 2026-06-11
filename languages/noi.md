@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノイリ語
     auto: true
+  - translation_iso: kor
+    name: 노이리어
+    auto: true
   - translation_iso: por
     name: Noiri
     auto: true

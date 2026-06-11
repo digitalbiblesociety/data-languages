@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: साकापुल्तेको
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sakapultek
   - translation_iso: jpn
     name: サカプルテコ語
   - translation_iso: kor
     name: 사카풀텍어
   - translation_iso: por
     name: Língua sacapulteca
+  - translation_iso: rus
+    name: сакапультекский язык
   - translation_iso: spa
     name: sacapulteco
   - translation_iso: zho

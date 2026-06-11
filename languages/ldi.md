@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラリ語
+  - translation_iso: kor
+    name: 라리어
+    auto: true
   - translation_iso: por
     name: Laari
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-بو
     auto: true
+  - translation_iso: ben
+    name: বো ভাষা
   - translation_iso: deu
     name: Aka-Bo
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
     name: 아카보어
   - translation_iso: por
     name: Língua aka-bo
+  - translation_iso: rus
+    name: бо
   - translation_iso: spa
     name: aka-bo
   - translation_iso: zho

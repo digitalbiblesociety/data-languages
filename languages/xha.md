@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハラミ語
     auto: true
+  - translation_iso: kor
+    name: 하라미어
+    auto: true
   - translation_iso: por
     name: Harami
     auto: true

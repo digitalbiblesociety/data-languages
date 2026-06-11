@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コユトラ・トトナック語
     auto: true
+  - translation_iso: kor
+    name: 코유틀라 토토낙어
+    auto: true
   - translation_iso: por
     name: Totonaco de Coyutla
     auto: true

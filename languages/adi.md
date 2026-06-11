@@ -21,14 +21,21 @@ translations:
   - translation_iso: ara
     name: لغة أدي
     auto: true
+  - translation_iso: ben
+    name: আদি ভাষা
   - translation_iso: deu
     name: Adi
   - translation_iso: fra
     name: adi
   - translation_iso: hin
     name: तंगम भाषा
+  - translation_iso: ind
+    name: Adi
   - translation_iso: jpn
     name: アディ語
+  - translation_iso: kor
+    name: 아디어
+    auto: true
   - translation_iso: por
     name: Adi
   - translation_iso: spa

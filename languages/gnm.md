@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギヌマン語
     auto: true
+  - translation_iso: kor
+    name: 기누만어
+    auto: true
   - translation_iso: por
     name: Ginuman
     auto: true

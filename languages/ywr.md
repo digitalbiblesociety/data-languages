@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤウル語
+  - translation_iso: kor
+    name: 야우루어
+    auto: true
   - translation_iso: por
     name: Língua yawuru
   - translation_iso: spa

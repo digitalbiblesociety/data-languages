@@ -20,12 +20,16 @@ translations:
     name: cambrien
   - translation_iso: hin
     name: कुम्ब्रिक भाषा
+  - translation_iso: ind
+    name: Kumbrik
   - translation_iso: jpn
     name: カンブリア語
   - translation_iso: kor
     name: 컴브리아어
   - translation_iso: por
     name: cúmbrico
+  - translation_iso: rus
+    name: Кумбрийский язык
   - translation_iso: spa
     name: cúmbrico
   - translation_iso: zho

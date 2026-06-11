@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fiji_Hindi"
 translations:
   - translation_iso: ara
     name: هندية فيجي
+  - translation_iso: ben
+    name: ফিজি হিন্দি
   - translation_iso: deu
     name: Fidschi-Hindi
   - translation_iso: fra
     name: hindi des Fidji
   - translation_iso: hin
     name: फ़ीजी हिन्दी
+  - translation_iso: ind
+    name: Hindi Fiji
   - translation_iso: jpn
     name: フィジー・ヒンディー語
   - translation_iso: kor
     name: 피지 힌디어
   - translation_iso: por
     name: Hindi fijiano
+  - translation_iso: rus
+    name: фиджийский хинди
   - translation_iso: spa
     name: hindi de Fiyi
   - translation_iso: zho

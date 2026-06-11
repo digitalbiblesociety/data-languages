@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネコ語
+  - translation_iso: kor
+    name: 네코어
+    auto: true
   - translation_iso: por
     name: Neko
     auto: true

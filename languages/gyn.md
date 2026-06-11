@@ -30,8 +30,13 @@ translations:
     name: गयानी क्रेओल
   - translation_iso: jpn
     name: ガイアナ・クレオール語
+  - translation_iso: kor
+    name: 가이아나 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo da Guiana
+  - translation_iso: rus
+    name: гайанский креольский язык
   - translation_iso: spa
     name: Criollo guyanés
   - translation_iso: zho

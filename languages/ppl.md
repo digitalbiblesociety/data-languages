@@ -27,12 +27,16 @@ translations:
     name: pipil
   - translation_iso: hin
     name: नावात
+  - translation_iso: ind
+    name: Bahasa Pipil
   - translation_iso: jpn
     name: ナワト語
   - translation_iso: kor
     name: 피필어
   - translation_iso: por
     name: Língua pipil
+  - translation_iso: rus
+    name: пипиль
   - translation_iso: spa
     name: idioma pipil
   - translation_iso: zho

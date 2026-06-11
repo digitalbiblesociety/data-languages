@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ファンドゥワリ語
     auto: true
+  - translation_iso: kor
+    name: 팡두왈리어
+    auto: true
   - translation_iso: por
     name: Phangduwali
     auto: true

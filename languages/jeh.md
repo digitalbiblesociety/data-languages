@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ジェ語
     auto: true
+  - translation_iso: kor
+    name: 제어
+    auto: true
   - translation_iso: por
     name: Jeh
     auto: true
+  - translation_iso: rus
+    name: джех
   - translation_iso: spa
     name: Jeh
     auto: true

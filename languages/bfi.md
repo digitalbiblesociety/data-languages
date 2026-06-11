@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/British_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة البريطانية
+  - translation_iso: ben
+    name: ব্রিটিশ ইশারা ভাষা
   - translation_iso: deu
     name: Britische Gebärdensprache
   - translation_iso: fra
     name: langue des signes britannique
   - translation_iso: hin
     name: ब्रिटिश सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Inggris
   - translation_iso: jpn
     name: イギリス手話
   - translation_iso: kor
     name: 영국 수화
   - translation_iso: por
     name: língua de sinais britânica
+  - translation_iso: rus
+    name: британский жестовый язык
   - translation_iso: spa
     name: lengua de señas británica
   - translation_iso: zho

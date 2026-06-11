@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: तोलाकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tolaki
   - translation_iso: jpn
     name: トラキ語
+  - translation_iso: kor
+    name: 톨라키어
+    auto: true
   - translation_iso: por
     name: Língua tolaki
+  - translation_iso: rus
+    name: Толаки
   - translation_iso: spa
     name: Tolaki
     auto: true

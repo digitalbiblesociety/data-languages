@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: वोरो
     auto: true
+  - translation_iso: ind
+    name: bahasa Estonia Selatan
   - translation_iso: jpn
     name: 南エストニア語
   - translation_iso: kor
     name: 버로어
   - translation_iso: por
     name: língua võro
+  - translation_iso: rus
+    name: южноэстонский диалект
   - translation_iso: spa
     name: idioma võro
   - translation_iso: zho

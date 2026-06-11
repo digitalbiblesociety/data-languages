@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुलिसुसु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kulisusu
   - translation_iso: jpn
     name: カリスゥス語
+    auto: true
+  - translation_iso: kor
+    name: 쿨리수수어
     auto: true
   - translation_iso: por
     name: Língua kulisusu

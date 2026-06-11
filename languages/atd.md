@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتا مانوبو
     auto: true
+  - translation_iso: ben
+    name: আতা মানোবো
   - translation_iso: deu
     name: Ata-Manobo
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタ・マノボ語
+  - translation_iso: kor
+    name: 아타 마노보어
+    auto: true
   - translation_iso: por
     name: Manobo Ata
     auto: true

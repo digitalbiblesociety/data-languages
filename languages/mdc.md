@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マレ語
     auto: true
+  - translation_iso: kor
+    name: 말레어
+    auto: true
   - translation_iso: por
     name: Male (Papua-Nova Guiné)
     auto: true

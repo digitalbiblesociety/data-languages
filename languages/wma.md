@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マワ語
+  - translation_iso: kor
+    name: 마와어
+    auto: true
   - translation_iso: por
     name: Mawa (Nigéria)
     auto: true

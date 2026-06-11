@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東カヤー語
     auto: true
+  - translation_iso: kor
+    name: 동부 카야어
+    auto: true
   - translation_iso: por
     name: kayah oriental
     auto: true

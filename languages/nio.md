@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: न्गानासान
     auto: true
+  - translation_iso: ind
+    name: Nganasan
   - translation_iso: jpn
     name: ガナサン語
   - translation_iso: kor
     name: 응가나산어
   - translation_iso: por
     name: Língua nganasan
+  - translation_iso: rus
+    name: нганасанский язык
   - translation_iso: spa
     name: enganasano
   - translation_iso: zho

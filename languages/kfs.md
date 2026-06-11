@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة بيلاسبوري
     auto: true
+  - translation_iso: ben
+    name: বিলাসপুরী
   - translation_iso: deu
     name: Bilaspuri
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビラースプリ語
+    auto: true
+  - translation_iso: kor
+    name: 빌라스푸리어
     auto: true
   - translation_iso: por
     name: Língua bilaspuri

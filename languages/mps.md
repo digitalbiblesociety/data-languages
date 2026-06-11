@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダリビ語
+  - translation_iso: kor
+    name: 다디비어
+    auto: true
   - translation_iso: por
     name: Língua dadibi
   - translation_iso: spa

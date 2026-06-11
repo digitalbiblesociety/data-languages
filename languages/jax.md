@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: जाम्बी मलय
     auto: true
+  - translation_iso: ind
+    name: bahasa Melayu Jambi
   - translation_iso: jpn
     name: ジャンビ・マレー語
+  - translation_iso: kor
+    name: 잠비 말레이어
+    auto: true
   - translation_iso: por
     name: malaio de Jambi
     auto: true
+  - translation_iso: rus
+    name: Джамби
   - translation_iso: spa
     name: Malayo de Jambi
     auto: true

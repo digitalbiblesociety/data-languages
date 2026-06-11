@@ -34,6 +34,8 @@ translations:
     name: ǀ캄어
   - translation_iso: por
     name: Língua ǀxam
+  - translation_iso: rus
+    name: цъхам
   - translation_iso: spa
     name: idioma ǀxam
   - translation_iso: zho

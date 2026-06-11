@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أييزو جبي
     auto: true
+  - translation_iso: ben
+    name: আয়িজো
   - translation_iso: deu
     name: Ayizo
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイゾ語
+  - translation_iso: kor
+    name: 아이조 그베어
+    auto: true
   - translation_iso: por
     name: Ayizo Gbe
     auto: true

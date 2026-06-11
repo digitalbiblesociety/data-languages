@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ロパ語
     auto: true
+  - translation_iso: kor
+    name: 로파어
+    auto: true
   - translation_iso: por
     name: Lopa
     auto: true

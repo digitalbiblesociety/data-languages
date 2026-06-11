@@ -33,6 +33,8 @@ translations:
     name: 브리브리어
   - translation_iso: por
     name: Língua bribri
+  - translation_iso: rus
+    name: брибри
   - translation_iso: spa
     name: Idioma bribri
   - translation_iso: zho

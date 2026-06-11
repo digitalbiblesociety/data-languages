@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتونج
     auto: true
+  - translation_iso: ben
+    name: "এ'টং"
   - translation_iso: deu
     name: Atong
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: アトン語(インド)
     auto: true
+  - translation_iso: kor
+    name: 아통어
+    auto: true
   - translation_iso: por
     name: Língua atong
+  - translation_iso: rus
+    name: а’тонг
   - translation_iso: spa
     name: idioma atong
   - translation_iso: zho

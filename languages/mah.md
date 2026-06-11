@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Marshallese_language"
 translations:
   - translation_iso: ara
     name: المارشالية
+  - translation_iso: ben
+    name: মার্শালিজ
   - translation_iso: deu
     name: Marshallesisch
   - translation_iso: fra
     name: marshallais
   - translation_iso: hin
     name: मार्शली भाषा
+  - translation_iso: ind
+    name: Marshall
   - translation_iso: jpn
     name: マーシャル語
   - translation_iso: kor
     name: 마셜어
   - translation_iso: por
     name: Língua marshalesa
+  - translation_iso: rus
+    name: маршалльский
   - translation_iso: spa
     name: marshalés
   - translation_iso: zho

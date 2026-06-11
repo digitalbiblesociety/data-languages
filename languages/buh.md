@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ユンノ・ブヌ語
     auto: true
+  - translation_iso: kor
+    name: 유누오 부누어
+    auto: true
   - translation_iso: por
     name: Bunu Younuo
     auto: true

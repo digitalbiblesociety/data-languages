@@ -26,9 +26,14 @@ translations:
   - translation_iso: jpn
     name: 混合大アンダマン語
     auto: true
+  - translation_iso: kor
+    name: 혼합 대안다만어
+    auto: true
   - translation_iso: por
     name: grande andamanês misto
     auto: true
+  - translation_iso: rus
+    name: великий смешанный адаманский язык
   - translation_iso: spa
     name: Gran andamanés mixto
     auto: true

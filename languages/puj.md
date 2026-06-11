@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पुनान तुबु
     auto: true
+  - translation_iso: ind
+    name: Punan Tubu
   - translation_iso: jpn
     name: プナントゥブ語
+    auto: true
+  - translation_iso: kor
+    name: 푸난 투부어
     auto: true
   - translation_iso: por
     name: Punan Tubu

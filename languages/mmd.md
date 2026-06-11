@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: माओनान
     auto: true
+  - translation_iso: ind
+    name: bahasa Maonan
   - translation_iso: jpn
     name: マオナン語
+  - translation_iso: kor
+    name: 마오난어
+    auto: true
   - translation_iso: por
     name: Maonan
     auto: true
+  - translation_iso: rus
+    name: маонаньский язык
   - translation_iso: spa
     name: Maonan
     auto: true

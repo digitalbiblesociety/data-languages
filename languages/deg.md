@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ديجيما
     auto: true
+  - translation_iso: ben
+    name: ডেগেমা ভাষা
   - translation_iso: deu
     name: Degema
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デゲマ語
+    auto: true
+  - translation_iso: kor
+    name: 데게마어
     auto: true
   - translation_iso: por
     name: Degema

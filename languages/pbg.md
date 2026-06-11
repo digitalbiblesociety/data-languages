@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラウハノ語
+  - translation_iso: kor
+    name: 파라우하노어
+    auto: true
   - translation_iso: por
     name: Língua paraujano
+  - translation_iso: rus
+    name: Параухано
   - translation_iso: spa
     name: añú
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブッザ語
     auto: true
+  - translation_iso: kor
+    name: 부자어
+    auto: true
   - translation_iso: por
     name: Budza
     auto: true

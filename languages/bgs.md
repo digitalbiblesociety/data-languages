@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タガバワ語
     auto: true
+  - translation_iso: kor
+    name: 타가바와어
+    auto: true
   - translation_iso: por
     name: Língua tagabawa
   - translation_iso: spa

@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Lushootseed"
 translations:
   - translation_iso: ara
     name: لوشوتسيد الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণী লুশুটসীড
   - translation_iso: deu
     name: Southern Puget Sound Salish
   - translation_iso: fra
     name: whulshootseed
   - translation_iso: hin
     name: दक्षिणी लशूटसीड
+  - translation_iso: ind
+    name: Lushootseed Selatan
   - translation_iso: jpn
     name: 南部ルシュツィード語
   - translation_iso: kor
     name: 남부 루슈트시드어
   - translation_iso: por
     name: lushootseed do sul
+  - translation_iso: rus
+    name: южный лушуцид
   - translation_iso: spa
     name: lushootseed meridional
   - translation_iso: zho

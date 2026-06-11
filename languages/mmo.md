@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンガ・ブアン語
     auto: true
+  - translation_iso: kor
+    name: 망가 부앙어
+    auto: true
   - translation_iso: por
     name: Mangga Buang
     auto: true

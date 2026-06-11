@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モンドロポロン語
     auto: true
+  - translation_iso: kor
+    name: 몬드로폴론어
+    auto: true
   - translation_iso: por
     name: Mondropolon
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: लोउन
     auto: true
+  - translation_iso: ind
+    name: Loun
   - translation_iso: jpn
     name: ロウン語
+    auto: true
+  - translation_iso: kor
+    name: 로운어
     auto: true
   - translation_iso: por
     name: Loun

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: सईदी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Saʽidi
   - translation_iso: jpn
     name: アラビア語サイード方言
   - translation_iso: kor
     name: 사이드 아랍어
   - translation_iso: por
     name: Árabe saidi
+  - translation_iso: rus
+    name: Саидский диалект арабского языка
   - translation_iso: spa
     name: árabe saidí
   - translation_iso: zho

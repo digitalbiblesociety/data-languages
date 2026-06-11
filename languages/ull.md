@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: コチュ・ヴェラン語
     auto: true
+  - translation_iso: kor
+    name: 울라탄어
+    auto: true
   - translation_iso: por
     name: Ullatan
     auto: true
+  - translation_iso: rus
+    name: уллатанский язык
   - translation_iso: spa
     name: Ullatan
     auto: true

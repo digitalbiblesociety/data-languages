@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: दुआनो
     auto: true
+  - translation_iso: ind
+    name: Duano
   - translation_iso: jpn
     name: ドゥアノ語
+    auto: true
+  - translation_iso: kor
+    name: 두아노어
     auto: true
   - translation_iso: por
     name: Duano
     auto: true
+  - translation_iso: rus
+    name: Дуано
   - translation_iso: spa
     name: Duano
     auto: true

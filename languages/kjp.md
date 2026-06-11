@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東ポー語
+  - translation_iso: kor
+    name: 동부 포 카렌어
+    auto: true
   - translation_iso: por
     name: Língua pwo leste
+  - translation_iso: rus
+    name: восточный пво
   - translation_iso: spa
     name: Karen Pwo Oriental
     auto: true

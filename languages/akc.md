@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: म्पुर
     auto: true
+  - translation_iso: ind
+    name: Amberbaken
   - translation_iso: jpn
     name: ムプル語
+    auto: true
+  - translation_iso: kor
+    name: 음푸르어
     auto: true
   - translation_iso: por
     name: Amberbaken

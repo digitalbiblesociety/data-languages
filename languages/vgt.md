@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فلامسي جيبارنتال
     auto: true
+  - translation_iso: ben
+    name: ফ্লেমিশ ইশারা ভাষা
   - translation_iso: deu
     name: Flämische Gebärdensprache
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フラマン手話
+  - translation_iso: kor
+    name: 플랑드르 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Flamenga
     auto: true
+  - translation_iso: rus
+    name: фламандский язык жестов
   - translation_iso: spa
     name: lengua de señas flamenca
   - translation_iso: zho

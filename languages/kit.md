@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغوب
     auto: true
+  - translation_iso: ben
+    name: আগব
   - translation_iso: deu
     name: Agob
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アゴブ語
+    auto: true
+  - translation_iso: kor
+    name: 아고브어
     auto: true
   - translation_iso: por
     name: Agob

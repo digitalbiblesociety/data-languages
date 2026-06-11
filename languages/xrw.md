@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カラワ語
     auto: true
+  - translation_iso: kor
+    name: 카라와어
+    auto: true
   - translation_iso: por
     name: Karawa
     auto: true

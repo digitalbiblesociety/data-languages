@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コアテペク・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 코아테펙 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Coatepec
     auto: true
+  - translation_iso: rus
+    name: коатепекский науатль
   - translation_iso: spa
     name: Náhuatl de Coatepec
     auto: true

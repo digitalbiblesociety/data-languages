@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nyamwezi_language"
 translations:
   - translation_iso: ara
     name: النيامويزي
+  - translation_iso: ben
+    name: ন্যায়ামওয়েজি
   - translation_iso: deu
     name: Nyamwezi
   - translation_iso: fra
     name: nyamwezi
   - translation_iso: hin
     name: न्यामवेज़ी
+  - translation_iso: ind
+    name: Nyamwezi
   - translation_iso: jpn
     name: ニャムウェジ語
   - translation_iso: kor
     name: 니암웨지어
   - translation_iso: por
     name: Língua nyamwezi
+  - translation_iso: rus
+    name: ньямвези
   - translation_iso: spa
     name: nyamwezi
   - translation_iso: zho

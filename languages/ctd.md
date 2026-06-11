@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディム・チン語
+  - translation_iso: kor
+    name: 테딤 친어
+    auto: true
   - translation_iso: por
     name: Língua tedim
+  - translation_iso: rus
+    name: Тедим-чин
   - translation_iso: spa
     name: sukte
   - translation_iso: zho

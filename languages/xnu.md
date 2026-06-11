@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ヌクヌル語
     auto: true
+  - translation_iso: kor
+    name: 누쿠눌어
+    auto: true
   - translation_iso: por
     name: Língua nunukul
   - translation_iso: spa

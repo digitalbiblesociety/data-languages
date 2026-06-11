@@ -20,18 +20,24 @@ wikidata_id: Q880301
 translations:
   - translation_iso: ara
     name: الفرنسية الكاجونية
+  - translation_iso: ben
+    name: কাজুন ফরাসি
   - translation_iso: deu
     name: Cajun
   - translation_iso: fra
     name: français cadien
   - translation_iso: hin
     name: केजन फ़्रेंच
+  - translation_iso: ind
+    name: Prancis Cajun
   - translation_iso: jpn
     name: ケイジャン・フランス語
   - translation_iso: kor
     name: 케이준 프랑스어
   - translation_iso: por
     name: Francês cajun
+  - translation_iso: rus
+    name: каджунский французский
   - translation_iso: spa
     name: francés cajún
   - translation_iso: zho

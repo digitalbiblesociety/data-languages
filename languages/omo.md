@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウタルムブング語
     auto: true
+  - translation_iso: kor
+    name: 우타름붕어
+    auto: true
   - translation_iso: por
     name: Utarmbung
     auto: true

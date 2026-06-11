@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヌマナ語
     auto: true
+  - translation_iso: kor
+    name: 누마나어
+    auto: true
   - translation_iso: por
     name: Numana
     auto: true

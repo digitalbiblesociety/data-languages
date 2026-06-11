@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミチョアカン・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 미초아칸 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Michoacán
     auto: true
+  - translation_iso: rus
+    name: Мичоаканский науатль
   - translation_iso: spa
     name: náhuatl michoacano
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンダンバ語
     auto: true
+  - translation_iso: kor
+    name: 은담바어
+    auto: true
   - translation_iso: por
     name: Ndamba
     auto: true

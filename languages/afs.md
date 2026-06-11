@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أفرو-سيميينول كريول
     auto: true
+  - translation_iso: ben
+    name: আফ্রো-সেমিনোল ক্রেওল
   - translation_iso: deu
     name: Afro-Seminolisches Kreol
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語
+  - translation_iso: kor
+    name: 아프로세미놀 크리올어
+    auto: true
   - translation_iso: por
     name: Crioulo afro-seminole
+  - translation_iso: rus
+    name: афро-семинольский креольский язык
   - translation_iso: spa
     name: criollo afroseminola
   - translation_iso: zho

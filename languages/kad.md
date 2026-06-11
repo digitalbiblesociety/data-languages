@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أدارا
     auto: true
+  - translation_iso: ben
+    name: আদারা
   - translation_iso: deu
     name: Adara
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダラ語
+    auto: true
+  - translation_iso: kor
+    name: 아다라어
     auto: true
   - translation_iso: por
     name: Adara

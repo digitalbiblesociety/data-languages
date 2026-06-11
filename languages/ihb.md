@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: इहा-आधारित पिजिन
     auto: true
+  - translation_iso: ind
+    name: Iha Based Pidgin
   - translation_iso: jpn
     name: イハ・ベースド・ピジン語
+    auto: true
+  - translation_iso: kor
+    name: 이하 기반 피진어
     auto: true
   - translation_iso: por
     name: Pidgin Baseado no Iha

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダルミヤ語
     auto: true
+  - translation_iso: kor
+    name: 다르미야어
+    auto: true
   - translation_iso: por
     name: Língua darma
   - translation_iso: spa

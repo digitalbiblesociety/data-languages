@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラプティング語
     auto: true
+  - translation_iso: kor
+    name: 랍팅어
+    auto: true
   - translation_iso: por
     name: Rapting
     auto: true

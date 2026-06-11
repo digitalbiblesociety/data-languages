@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kamba_language"
 translations:
   - translation_iso: ara
     name: الكامبا
+  - translation_iso: ben
+    name: কাম্বা
   - translation_iso: deu
     name: Kikamba
   - translation_iso: fra
     name: kamba
   - translation_iso: hin
     name: कम्बा
+  - translation_iso: ind
+    name: Kamba
   - translation_iso: jpn
     name: カンバ語
   - translation_iso: kor
     name: 캄바어
   - translation_iso: por
     name: Língua kikamba
+  - translation_iso: rus
+    name: камба
   - translation_iso: spa
     name: Idioma kamba
   - translation_iso: zho

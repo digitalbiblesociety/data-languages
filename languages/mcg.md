@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マポヨ語
     auto: true
+  - translation_iso: kor
+    name: 마포요어
+    auto: true
   - translation_iso: por
     name: Mapoyo
     auto: true
+  - translation_iso: rus
+    name: Мапойо
   - translation_iso: spa
     name: idioma mapoyo
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वेमाले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wemale
   - translation_iso: jpn
     name: ウェマレ語
+    auto: true
+  - translation_iso: kor
+    name: 웨말레어
     auto: true
   - translation_iso: por
     name: Wemale

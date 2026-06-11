@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: योंग
     auto: true
+  - translation_iso: ind
+    name: Yong
   - translation_iso: jpn
     name: ヨン語
+  - translation_iso: kor
+    name: 용어
+    auto: true
   - translation_iso: por
     name: yong
     auto: true

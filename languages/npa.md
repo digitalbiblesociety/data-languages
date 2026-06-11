@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナル・プ語
     auto: true
+  - translation_iso: kor
+    name: 나르푸어
+    auto: true
   - translation_iso: por
     name: Nar Phu
     auto: true

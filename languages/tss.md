@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايوانية
     auto: true
+  - translation_iso: ben
+    name: তাইওয়ানি ইশারা ভাষা
   - translation_iso: deu
     name: Taiwanesische Gebärdensprache
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: ताइवान सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Taiwan
   - translation_iso: jpn
     name: 台湾手話
   - translation_iso: kor
     name: 대만 수화
   - translation_iso: por
     name: língua de sinais de Taiwan
+  - translation_iso: rus
+    name: тайваньский жестовый язык
   - translation_iso: spa
     name: lengua de señas taiwanesa
   - translation_iso: zho

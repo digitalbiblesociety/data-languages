@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プエルトリコ手話
+  - translation_iso: kor
+    name: 푸에르토리코 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Porto-Riquenha
     auto: true

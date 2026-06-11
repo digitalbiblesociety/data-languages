@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: グアヤベロ語
     auto: true
+  - translation_iso: kor
+    name: 과야베로어
+    auto: true
   - translation_iso: por
     name: Guayabero
     auto: true
+  - translation_iso: rus
+    name: Гуаяберо (язык)
   - translation_iso: spa
     name: Guayabero
   - translation_iso: zho

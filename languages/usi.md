@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トリプラ語
     auto: true
+  - translation_iso: kor
+    name: 우수이어
+    auto: true
   - translation_iso: por
     name: Usui
     auto: true

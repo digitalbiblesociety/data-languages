@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブラブランガ語
     auto: true
+  - translation_iso: kor
+    name: 블라블랑가어
+    auto: true
   - translation_iso: por
     name: Blablanga
     auto: true

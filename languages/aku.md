@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوم
     auto: true
+  - translation_iso: ben
+    name: আকুম
   - translation_iso: deu
     name: Akum
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクム語
+    auto: true
+  - translation_iso: kor
+    name: 아쿰어
     auto: true
   - translation_iso: por
     name: Akum

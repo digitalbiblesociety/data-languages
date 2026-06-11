@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكبينكا
     auto: true
+  - translation_iso: ben
+    name: বাকপিঙ্কা
   - translation_iso: deu
     name: Bakpinka
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: バクピンカ語
     auto: true
+  - translation_iso: kor
+    name: 바크핀카어
+    auto: true
   - translation_iso: por
     name: Bakpinka
     auto: true
+  - translation_iso: rus
+    name: Бакпинка
   - translation_iso: spa
     name: Bakpinka
     auto: true

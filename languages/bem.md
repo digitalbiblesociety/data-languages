@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bemba_language"
 translations:
   - translation_iso: ara
     name: بيمبا
+  - translation_iso: ben
+    name: বেম্বা
   - translation_iso: deu
     name: Bemba
   - translation_iso: fra
     name: bemba
   - translation_iso: hin
     name: बेम्बा भाषा
+  - translation_iso: ind
+    name: Bemba
   - translation_iso: jpn
     name: ベンバ語
   - translation_iso: kor
     name: 벰바어
   - translation_iso: por
     name: bemba
+  - translation_iso: rus
+    name: бемба
   - translation_iso: spa
     name: bemba
   - translation_iso: zho

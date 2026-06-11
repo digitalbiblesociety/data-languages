@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ウル・パ・イン語
     auto: true
+  - translation_iso: kor
+    name: 우루파인어
+    auto: true
   - translation_iso: por
     name: Uru-Pa-In
     auto: true
+  - translation_iso: rus
+    name: Уру-па-ин
   - translation_iso: spa
     name: Uru-Pa-In
     auto: true

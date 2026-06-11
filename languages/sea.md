@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セマイ語
+  - translation_iso: kor
+    name: 세마이어
+    auto: true
   - translation_iso: por
     name: Língua semai
+  - translation_iso: rus
+    name: семаи
   - translation_iso: spa
     name: Semai
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
+  - translation_iso: kor
+    name: 북부 렝마 나가어
+    auto: true
   - translation_iso: por
     name: Naga Rengma do Norte
     auto: true

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: トゥルカ語
     auto: true
+  - translation_iso: kor
+    name: 트루카어
+    auto: true
   - translation_iso: por
     name: Truká
     auto: true
+  - translation_iso: rus
+    name: Трука
   - translation_iso: spa
     name: Idioma truká
   - translation_iso: zho

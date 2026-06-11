@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コノ語
     auto: true
+  - translation_iso: kor
+    name: 코노어
+    auto: true
   - translation_iso: por
     name: Kono (Nigéria)
     auto: true

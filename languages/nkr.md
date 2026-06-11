@@ -34,6 +34,8 @@ translations:
     name: 누쿠오로어
   - translation_iso: por
     name: Língua nukuoro
+  - translation_iso: rus
+    name: Нукуоро
   - translation_iso: spa
     name: Idioma nukuoro
   - translation_iso: zho

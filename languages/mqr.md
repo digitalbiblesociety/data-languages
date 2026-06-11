@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मांदेर
     auto: true
+  - translation_iso: ind
+    name: Mander
   - translation_iso: jpn
     name: マンデル語
+    auto: true
+  - translation_iso: kor
+    name: 만데르어
     auto: true
   - translation_iso: por
     name: Mander

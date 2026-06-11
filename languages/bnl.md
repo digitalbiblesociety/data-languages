@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブーン語
     auto: true
+  - translation_iso: kor
+    name: 본어
+    auto: true
   - translation_iso: por
     name: Boon
     auto: true

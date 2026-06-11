@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガンギテメリ語
+  - translation_iso: kor
+    name: 응안기티예메리어
+    auto: true
   - translation_iso: por
     name: Língua ngangikurrunggurr
   - translation_iso: spa

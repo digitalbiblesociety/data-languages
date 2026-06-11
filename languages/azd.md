@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 東ドゥランゴ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 동부 두랑고 나와틀어
+    auto: true
   - translation_iso: por
     name: Náuatle de Durango Oriental
     auto: true
+  - translation_iso: rus
+    name: восточный дурангский науатль
   - translation_iso: spa
     name: Náhuatl del Durango Oriental
     auto: true

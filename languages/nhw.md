@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 西ワステカ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 서부 우아스테카 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl da Huasteca Ocidental
     auto: true

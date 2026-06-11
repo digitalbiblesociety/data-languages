@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カクチケル・キチェ混合言語
     auto: true
+  - translation_iso: kor
+    name: 칵치켈키체어
+    auto: true
   - translation_iso: por
     name: Cakchiquel-Quiché
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミンティル語
     auto: true
+  - translation_iso: kor
+    name: 민틸어
+    auto: true
   - translation_iso: por
     name: Mintil
     auto: true

@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランゴ語
+  - translation_iso: kor
+    name: 랑고어
+    auto: true
   - translation_iso: por
     name: Lango (Sudão do Sul)
     auto: true

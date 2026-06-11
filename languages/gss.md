@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليونانية
     auto: true
+  - translation_iso: ben
+    name: গ্রীক ইশারা ভাষা
   - translation_iso: deu
     name: Griechische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギリシャ手話
+  - translation_iso: kor
+    name: 그리스 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais grega
+  - translation_iso: rus
+    name: греческий жестовый язык
   - translation_iso: spa
     name: Lengua de señas griega
     auto: true

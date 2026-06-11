@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グリンジ語
+  - translation_iso: kor
+    name: 구린지어
+    auto: true
   - translation_iso: por
     name: Gurindji
     auto: true

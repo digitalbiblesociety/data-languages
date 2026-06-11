@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キスウンディ語
     auto: true
+  - translation_iso: kor
+    name: 순디어
+    auto: true
   - translation_iso: por
     name: Suundi
     auto: true

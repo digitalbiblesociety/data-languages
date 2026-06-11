@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ペタツ語
     auto: true
+  - translation_iso: kor
+    name: 페타츠어
+    auto: true
   - translation_iso: por
     name: Petats
     auto: true

@@ -28,12 +28,19 @@ translations:
     name: liangmai
   - translation_iso: hin
     name: लिआंगमई भाषा
+  - translation_iso: ind
+    name: bahasa Liangmai
   - translation_iso: jpn
     name: リアングマイ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 리앙마이 나가어
     auto: true
   - translation_iso: por
     name: Naga Liangmai
     auto: true
+  - translation_iso: rus
+    name: лиангмаи
   - translation_iso: spa
     name: Naga Liangmai
     auto: true

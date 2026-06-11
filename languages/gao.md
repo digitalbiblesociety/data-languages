@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガンツ語
     auto: true
+  - translation_iso: kor
+    name: 간츠어
+    auto: true
   - translation_iso: por
     name: Gants
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبيلاو
     auto: true
+  - translation_iso: ben
+    name: আম্বেলাউ
   - translation_iso: deu
     name: Ambalau
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: अम्बेलाउ
     auto: true
+  - translation_iso: ind
+    name: Ambalau
   - translation_iso: jpn
     name: アンベラウ語
     auto: true
+  - translation_iso: kor
+    name: 암벨라우어
+    auto: true
   - translation_iso: por
     name: Ambalau
+  - translation_iso: rus
+    name: Амбелау
   - translation_iso: spa
     name: Ambalau
   - translation_iso: zho

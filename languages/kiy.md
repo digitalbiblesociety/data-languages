@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: किरिकिरी
     auto: true
+  - translation_iso: ind
+    name: Kirikiri
   - translation_iso: jpn
     name: キリキリ語
+    auto: true
+  - translation_iso: kor
+    name: 키리키리어
     auto: true
   - translation_iso: por
     name: Kirikiri

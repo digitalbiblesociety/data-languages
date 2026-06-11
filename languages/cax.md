@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: チキターノ語
     auto: true
+  - translation_iso: kor
+    name: 치키타노어
+    auto: true
   - translation_iso: por
     name: Língua chiquitana
+  - translation_iso: rus
+    name: Чикитано
   - translation_iso: spa
     name: idioma chiquitano
   - translation_iso: zho

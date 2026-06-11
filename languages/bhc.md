@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيجا
     auto: true
+  - translation_iso: ben
+    name: বিগা
   - translation_iso: deu
     name: Biga
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बिगा
     auto: true
+  - translation_iso: ind
+    name: Biga
   - translation_iso: jpn
     name: ビガ語
+    auto: true
+  - translation_iso: kor
+    name: 비가어
     auto: true
   - translation_iso: por
     name: Biga

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori"
 translations:
   - translation_iso: ara
     name: الراروتونجاني
+  - translation_iso: ben
+    name: রারোটোংগান
   - translation_iso: deu
     name: Rarotonganisch
   - translation_iso: fra
     name: maori des îles Cook
   - translation_iso: hin
     name: रारोतोंगन
+  - translation_iso: ind
+    name: Rarotonga
   - translation_iso: jpn
     name: ラロトンガ語
   - translation_iso: kor
     name: 라로통가어
   - translation_iso: por
     name: Maori das Ilhas Cook
+  - translation_iso: rus
+    name: раротонга
   - translation_iso: spa
     name: Idioma rarotongano
   - translation_iso: zho

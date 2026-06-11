@@ -30,9 +30,14 @@ translations:
     name: वोटापूरी-कटारक़लाई भाषा
   - translation_iso: jpn
     name: ウォタプル・カタルカラ語
+  - translation_iso: kor
+    name: 워타푸리·카타르칼라이어
+    auto: true
   - translation_iso: por
     name: Wotapuri-Katarqalai
     auto: true
+  - translation_iso: rus
+    name: вотапури-катаркалаи
   - translation_iso: spa
     name: Wotapuri-Katarqalai
     auto: true

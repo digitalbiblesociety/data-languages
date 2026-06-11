@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ゲデオ語
     auto: true
+  - translation_iso: kor
+    name: 게데오어
+    auto: true
   - translation_iso: por
     name: Gedeo
     auto: true
+  - translation_iso: rus
+    name: гедео
   - translation_iso: spa
     name: Gedeo
     auto: true

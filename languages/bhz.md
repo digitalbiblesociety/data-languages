@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بادا
     auto: true
+  - translation_iso: ben
+    name: বাডা
   - translation_iso: deu
     name: Bada (Indonesia)
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: बादा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bada
   - translation_iso: jpn
     name: バダ語
+  - translation_iso: kor
+    name: 바다어
+    auto: true
   - translation_iso: por
     name: Bada (Indonésia)
     auto: true
+  - translation_iso: rus
+    name: Бада
   - translation_iso: spa
     name: Bada (Indonesia)
     auto: true

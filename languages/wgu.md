@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウィラング語
     auto: true
+  - translation_iso: kor
+    name: 위랑구어
+    auto: true
   - translation_iso: por
     name: Wirangu
     auto: true
+  - translation_iso: rus
+    name: вирангу
   - translation_iso: spa
     name: idioma wirangu
   - translation_iso: zho

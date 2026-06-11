@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कम्पालागियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Campalagian
   - translation_iso: jpn
     name: カンパラギアン語
+    auto: true
+  - translation_iso: kor
+    name: 캄팔라기안어
     auto: true
   - translation_iso: por
     name: Campalagian

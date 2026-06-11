@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インク語
+  - translation_iso: kor
+    name: 자카티어
+    auto: true
   - translation_iso: por
     name: Jakati
     auto: true
+  - translation_iso: rus
+    name: Джакати
   - translation_iso: spa
     name: Jakati
     auto: true

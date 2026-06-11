@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピンジ語
+  - translation_iso: kor
+    name: 핀지어
+    auto: true
   - translation_iso: por
     name: Pinji
     auto: true

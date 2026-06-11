@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: モラレ語
     auto: true
+  - translation_iso: kor
+    name: 몰랄레어
+    auto: true
   - translation_iso: por
     name: Molale
     auto: true
+  - translation_iso: rus
+    name: Молала
   - translation_iso: spa
     name: idioma molala
   - translation_iso: zho

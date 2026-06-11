@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بايما
     auto: true
+  - translation_iso: ben
+    name: বাইমা
   - translation_iso: deu
     name: Baima
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白馬語
+  - translation_iso: kor
+    name: 바이마어
+    auto: true
   - translation_iso: por
     name: Língua baima
+  - translation_iso: rus
+    name: Байма
   - translation_iso: spa
     name: Baima
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: 中央マサウア語
     auto: true
+  - translation_iso: kor
+    name: 중부 마사와어
+    auto: true
   - translation_iso: por
     name: Língua mazaua
+  - translation_iso: rus
+    name: Масауа
   - translation_iso: spa
     name: mazahua
   - translation_iso: zho

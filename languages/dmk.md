@@ -29,9 +29,14 @@ translations:
     name: डोमाकी भाषा
   - translation_iso: jpn
     name: ドマーキー語
+  - translation_iso: kor
+    name: 도마키어
+    auto: true
   - translation_iso: por
     name: Domaaki
     auto: true
+  - translation_iso: rus
+    name: думаки
   - translation_iso: spa
     name: domaaki
   - translation_iso: zho

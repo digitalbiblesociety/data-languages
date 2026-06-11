@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: लिशियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Likia
   - translation_iso: jpn
     name: リュキア語
   - translation_iso: kor
     name: 리키아어
   - translation_iso: por
     name: Língua lícia
+  - translation_iso: rus
+    name: ликийский язык
   - translation_iso: spa
     name: licio
   - translation_iso: zho

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フェフェ語
-  - translation_iso: por
-    name: "Fe'fe'"
+  - translation_iso: kor
+    name: 페페어
     auto: true
+  - translation_iso: por
+    name: "Fe'fe"
+    auto: true
+  - translation_iso: rus
+    name: фефе
   - translation_iso: spa
     name: "Fe'fe"
     auto: true

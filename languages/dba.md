@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجيمي
     auto: true
+  - translation_iso: ben
+    name: বাঙ্গিম
   - translation_iso: deu
     name: Bangime
     auto: true
@@ -33,6 +35,8 @@ translations:
   - translation_iso: por
     name: Bangime
     auto: true
+  - translation_iso: rus
+    name: Бангери
   - translation_iso: spa
     name: Idioma bangime
   - translation_iso: zho

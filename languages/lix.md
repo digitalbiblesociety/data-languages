@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लियाबुकु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Liabuku
   - translation_iso: jpn
     name: リアブク語
+    auto: true
+  - translation_iso: kor
+    name: 리아부쿠어
     auto: true
   - translation_iso: por
     name: Liabuku

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: アバル語
     auto: true
+  - translation_iso: kor
+    name: 아바르어
+    auto: true
   - translation_iso: por
     name: Abar
     auto: true

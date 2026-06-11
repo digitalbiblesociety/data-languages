@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウクペ・バヨビリ語
     auto: true
+  - translation_iso: kor
+    name: 우크페바요비리어
+    auto: true
   - translation_iso: por
     name: Ukpe-Bayobiri
     auto: true

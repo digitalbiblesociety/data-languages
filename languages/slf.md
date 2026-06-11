@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話
+  - translation_iso: kor
+    name: 스위스 이탈리아어권 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Suíço-Italiana
     auto: true

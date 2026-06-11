@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フェンベ語
     auto: true
+  - translation_iso: kor
+    name: 펨베어
+    auto: true
   - translation_iso: por
     name: Fembe
     auto: true

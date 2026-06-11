@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリング語
     auto: true
+  - translation_iso: kor
+    name: 마링어
+    auto: true
   - translation_iso: por
     name: Maring
     auto: true

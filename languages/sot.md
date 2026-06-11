@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sotho_language"
 translations:
   - translation_iso: ara
     name: لغة سوتية
+  - translation_iso: ben
+    name: দক্ষিন সোথো
   - translation_iso: deu
     name: Sesotho
   - translation_iso: fra
     name: sotho du Sud
   - translation_iso: hin
     name: सिसोथो भाषा
+  - translation_iso: ind
+    name: Sotho Selatan
   - translation_iso: jpn
     name: ソト語
   - translation_iso: kor
     name: 소토어
   - translation_iso: por
     name: língua soto do sul
+  - translation_iso: rus
+    name: южный сото
   - translation_iso: spa
     name: sesotho
   - translation_iso: zho

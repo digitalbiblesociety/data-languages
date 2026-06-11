@@ -24,8 +24,13 @@ translations:
   - translation_iso: jpn
     name: トゥピナンバ語
     auto: true
+  - translation_iso: kor
+    name: 투피니킨어
+    auto: true
   - translation_iso: por
     name: Língua tupiniquim
+  - translation_iso: rus
+    name: Тупиникин
   - translation_iso: spa
     name: tupiniquim
   - translation_iso: zho

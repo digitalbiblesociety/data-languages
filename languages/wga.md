@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワガヤ語
     auto: true
+  - translation_iso: kor
+    name: 와가야어
+    auto: true
   - translation_iso: por
     name: Wagaya
     auto: true

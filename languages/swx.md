@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: スルアハ語
     auto: true
+  - translation_iso: kor
+    name: 수루아하어
+    auto: true
   - translation_iso: por
     name: Língua zuruahã
+  - translation_iso: rus
+    name: Суруаха
   - translation_iso: spa
     name: sorowahá
   - translation_iso: zho

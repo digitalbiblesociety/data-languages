@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nheengatu_language"
 translations:
   - translation_iso: ara
     name: النيينجاتو
+  - translation_iso: ben
+    name: নহিংগাটু
   - translation_iso: deu
     name: Nheengatu
   - translation_iso: fra
     name: nheengatu
   - translation_iso: hin
     name: न्हींगातु भाषा
+  - translation_iso: ind
+    name: Nheengatu
   - translation_iso: jpn
     name: ニェエンガトゥ語
   - translation_iso: kor
     name: 녜엥가투어
   - translation_iso: por
     name: nheengatu
+  - translation_iso: rus
+    name: ньенгату
   - translation_iso: spa
     name: "ñe'engatú"
   - translation_iso: zho

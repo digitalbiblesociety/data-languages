@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ブラカ語
     auto: true
+  - translation_iso: kor
+    name: 부라카어
+    auto: true
   - translation_iso: por
     name: Buraka
     auto: true

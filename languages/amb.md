@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأمبو
     auto: true
+  - translation_iso: ben
+    name: আম্বো
   - translation_iso: deu
     name: Ambo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンボ語
+    auto: true
+  - translation_iso: kor
+    name: 암보어
     auto: true
   - translation_iso: por
     name: Ambo

@@ -34,6 +34,8 @@ translations:
     name: 하칼테크어
   - translation_iso: por
     name: Língua jacalteca
+  - translation_iso: rus
+    name: Хакальтекский язык
   - translation_iso: spa
     name: jacalteco
   - translation_iso: zho

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة أذربيجان الشمالية
     auto: true
+  - translation_iso: ben
+    name: উত্তর আজারবাইজানি ভাষা
   - translation_iso: deu
     name: Nord-Aserbaidschanisch
   - translation_iso: fra
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語
+  - translation_iso: kor
+    name: 북아제르바이잔어
+    auto: true
   - translation_iso: por
     name: Azerbaijano do Norte
     auto: true
+  - translation_iso: rus
+    name: северный азербайджанский язык
   - translation_iso: spa
     name: Azerbaiyano Septentrional
     auto: true

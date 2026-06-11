@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लोके
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lhowa
   - translation_iso: jpn
     name: ロケ語
+    auto: true
+  - translation_iso: kor
+    name: 로케어
     auto: true
   - translation_iso: por
     name: Loke

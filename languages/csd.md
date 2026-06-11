@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تشيانغماي
     auto: true
+  - translation_iso: ben
+    name: ছিয়াংমাই ইশারা ভাষা
   - translation_iso: deu
     name: Chiangmai-Gebärdensprache
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 原チェンマイ手話
+  - translation_iso: kor
+    name: 치앙마이 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Chiangmai
     auto: true

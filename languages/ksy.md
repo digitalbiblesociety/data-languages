@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: خاريا ثار
     auto: true
+  - translation_iso: ben
+    name: খরিয়া থার
   - translation_iso: deu
     name: Kharia Thar
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: カリア・タール語
     auto: true
+  - translation_iso: kor
+    name: 카리아 타르어
+    auto: true
   - translation_iso: por
     name: Kharia Thar
     auto: true
+  - translation_iso: rus
+    name: кхариа тхар
   - translation_iso: spa
     name: Kharia Thar
     auto: true

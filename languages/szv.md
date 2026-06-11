@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イス語
     auto: true
+  - translation_iso: kor
+    name: 이수어
+    auto: true
   - translation_iso: por
     name: Isu (Distrito de Fako)
     auto: true

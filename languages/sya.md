@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: सियांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Siang
   - translation_iso: jpn
     name: シアン語
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナムリック語
     auto: true
+  - translation_iso: kor
+    name: 토토로어
+    auto: true
   - translation_iso: por
     name: Totoro
     auto: true

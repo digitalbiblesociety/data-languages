@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: कोरोनी
     auto: true
+  - translation_iso: ind
+    name: bahasa Koroni
   - translation_iso: jpn
     name: コロニ語
+    auto: true
+  - translation_iso: kor
+    name: 코로니어
     auto: true
   - translation_iso: por
     name: Koroni

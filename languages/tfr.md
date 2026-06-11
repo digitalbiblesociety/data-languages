@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テリベ語
     auto: true
+  - translation_iso: kor
+    name: 테리베어
+    auto: true
   - translation_iso: por
     name: Língua teribe
   - translation_iso: spa

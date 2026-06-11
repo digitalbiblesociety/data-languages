@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クス語
+  - translation_iso: kor
+    name: 쿠수어
+    auto: true
   - translation_iso: por
     name: Kusu
     auto: true

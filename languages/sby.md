@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チソリ語
     auto: true
+  - translation_iso: kor
+    name: 솔리어
+    auto: true
   - translation_iso: por
     name: Língua soli
   - translation_iso: spa

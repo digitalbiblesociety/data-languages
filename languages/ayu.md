@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيو
     auto: true
+  - translation_iso: ben
+    name: আয়ু
   - translation_iso: deu
     name: Ayu
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アユ語
+    auto: true
+  - translation_iso: kor
+    name: 아유어
     auto: true
   - translation_iso: por
     name: Ayu

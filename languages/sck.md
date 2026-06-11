@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nagpuri_language"
 translations:
   - translation_iso: ara
     name: لغة سادرية
+  - translation_iso: ben
+    name: সাদরি ভাষা
   - translation_iso: deu
     name: Sadri
     auto: true
@@ -34,6 +36,8 @@ translations:
     name: 사드리어
   - translation_iso: por
     name: Língua sadri
+  - translation_iso: rus
+    name: нагпури
   - translation_iso: spa
     name: Sadri
     auto: true

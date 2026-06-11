@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيرتا
     auto: true
+  - translation_iso: ben
+    name: বার্টা
   - translation_iso: deu
     name: Berta
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
   - translation_iso: por
     name: Berta
     auto: true
+  - translation_iso: rus
+    name: Берта
   - translation_iso: spa
     name: Idioma berta
   - translation_iso: zho

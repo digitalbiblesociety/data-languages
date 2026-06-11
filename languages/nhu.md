@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Noni語
+  - translation_iso: kor
+    name: 노네어
+    auto: true
   - translation_iso: por
     name: Noone
     auto: true

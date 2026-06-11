@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キムレ語
     auto: true
+  - translation_iso: kor
+    name: 킴레어
+    auto: true
   - translation_iso: por
     name: Kimré
     auto: true

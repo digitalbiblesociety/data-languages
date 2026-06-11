@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シナシナ語
     auto: true
+  - translation_iso: kor
+    name: 시나시나어
+    auto: true
   - translation_iso: por
     name: Sinasina
     auto: true

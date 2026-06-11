@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マバアレ語
     auto: true
+  - translation_iso: kor
+    name: 마발레어
+    auto: true
   - translation_iso: por
     name: Mabaale
     auto: true

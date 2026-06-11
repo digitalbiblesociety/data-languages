@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブビ語
     auto: true
+  - translation_iso: kor
+    name: 부비어
+    auto: true
   - translation_iso: por
     name: Bubi
     auto: true

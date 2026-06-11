@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリム語
+  - translation_iso: kor
+    name: 카르나이어
+    auto: true
   - translation_iso: por
     name: Karnai
     auto: true

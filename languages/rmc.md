@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルパティア・ロマ語
+  - translation_iso: kor
+    name: 카르파티아 로마니어
+    auto: true
   - translation_iso: por
     name: Romani dos Cárpatos
+  - translation_iso: rus
+    name: Карпатские диалекты цыганского языка
   - translation_iso: spa
     name: Romaní carpático
     auto: true

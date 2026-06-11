@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: सांगिर
     auto: true
+  - translation_iso: ind
+    name: Sangihe
   - translation_iso: jpn
     name: サンギル語
+  - translation_iso: kor
+    name: 상이르어
+    auto: true
   - translation_iso: por
     name: Sangihe
+  - translation_iso: rus
+    name: Сангирский язык
   - translation_iso: spa
     name: Sangihe
   - translation_iso: zho

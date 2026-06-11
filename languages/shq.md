@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルンドウェ語
     auto: true
+  - translation_iso: kor
+    name: 살라어
+    auto: true
   - translation_iso: por
     name: Sala
     auto: true

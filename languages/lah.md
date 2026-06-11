@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lahnda"
 translations:
   - translation_iso: ara
     name: لاهندا
+  - translation_iso: ben
+    name: লান্ডা
   - translation_iso: deu
     name: Lahnda
   - translation_iso: fra
     name: lahnda
   - translation_iso: hin
     name: लहन्दा भाषाएँ
+  - translation_iso: ind
+    name: Lahnda
   - translation_iso: jpn
     name: ラフンダー語
   - translation_iso: kor
     name: 란다어
   - translation_iso: por
     name: língua Lahnda
+  - translation_iso: rus
+    name: лахнда
   - translation_iso: spa
     name: lahnda
   - translation_iso: zho

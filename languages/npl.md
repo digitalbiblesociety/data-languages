@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南東プエブラ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 남동부 푸에블라 나와틀어
+    auto: true
   - translation_iso: por
     name: náuatle de Puebla Sudeste
     auto: true

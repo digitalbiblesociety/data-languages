@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लाइयोलो
     auto: true
+  - translation_iso: ind
+    name: Laiyolo
   - translation_iso: jpn
     name: ライヨロ語
+    auto: true
+  - translation_iso: kor
+    name: 라이욜로어
     auto: true
   - translation_iso: por
     name: Laiyolo

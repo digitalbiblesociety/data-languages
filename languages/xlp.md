@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: लेपोंटिक
     auto: true
+  - translation_iso: ind
+    name: Leponti
   - translation_iso: jpn
     name: レポント語
+  - translation_iso: kor
+    name: 레폰티어
+    auto: true
   - translation_iso: por
     name: lepôntico
+  - translation_iso: rus
+    name: лепонтийский язык
   - translation_iso: spa
     name: lepóntico
   - translation_iso: zho

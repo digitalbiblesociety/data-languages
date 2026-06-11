@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ピラガ語
     auto: true
+  - translation_iso: kor
+    name: 필라가어
+    auto: true
   - translation_iso: por
     name: Língua pilagá
+  - translation_iso: rus
+    name: Пилага
   - translation_iso: spa
     name: idioma pilagá
   - translation_iso: zho

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पुलुवात
     auto: true
+  - translation_iso: ind
+    name: Bahasa Puluwat
   - translation_iso: jpn
     name: プルワット語
+  - translation_iso: kor
+    name: 풀루와트어
+    auto: true
   - translation_iso: por
     name: Pulutawês
   - translation_iso: spa

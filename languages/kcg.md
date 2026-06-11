@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tyap"
 translations:
   - translation_iso: ara
     name: لغة تياب
+  - translation_iso: ben
+    name: টিয়াপ
   - translation_iso: deu
     name: Tjap
   - translation_iso: fra
     name: tyap
   - translation_iso: hin
     name: त्याप
+  - translation_iso: ind
+    name: Tyap
   - translation_iso: jpn
     name: カタブ語
   - translation_iso: kor
     name: 티얍어
   - translation_iso: por
     name: tyap
+  - translation_iso: rus
+    name: тьяп
   - translation_iso: spa
     name: Katab
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マルグベ語
     auto: true
+  - translation_iso: kor
+    name: 말그베어
+    auto: true
   - translation_iso: por
     name: Malgbe
     auto: true

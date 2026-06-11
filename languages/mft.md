@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モケラン語
     auto: true
+  - translation_iso: kor
+    name: 모케랑어
+    auto: true
   - translation_iso: por
     name: Mokerang
     auto: true

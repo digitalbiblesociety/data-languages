@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: هاخا تشين
     auto: true
+  - translation_iso: ben
+    name: হাকা চিন ভাষা
   - translation_iso: deu
     name: Hakha Chin
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     name: हाखा चिन भाषा
   - translation_iso: jpn
     name: ハカ語
+  - translation_iso: kor
+    name: 하카 친어
+    auto: true
   - translation_iso: por
     name: Chin Hakha
     auto: true
+  - translation_iso: rus
+    name: Чинский язык
   - translation_iso: spa
     name: idioma hakha-chin
   - translation_iso: zho

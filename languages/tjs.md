@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南部トゥジア語
     auto: true
+  - translation_iso: kor
+    name: 남부 투자어
+    auto: true
   - translation_iso: por
     name: Tujia do Sul
     auto: true

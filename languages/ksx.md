@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: केडांग
     auto: true
+  - translation_iso: ind
+    name: Kedang
   - translation_iso: jpn
     name: ケダン語
+    auto: true
+  - translation_iso: kor
+    name: 케당어
     auto: true
   - translation_iso: por
     name: Kedang

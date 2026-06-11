@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンワニ語
+  - translation_iso: kor
+    name: 음와니어
+    auto: true
   - translation_iso: por
     name: Quimuane
+  - translation_iso: rus
+    name: Мвани
   - translation_iso: spa
     name: Mwani
     auto: true

@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: सापोनी
     auto: true
+  - translation_iso: ind
+    name: Saponi
   - translation_iso: jpn
     name: バハササポニ語
+    auto: true
+  - translation_iso: kor
+    name: 사포니어
     auto: true
   - translation_iso: por
     name: Saponi
     auto: true
+  - translation_iso: rus
+    name: Сапони
   - translation_iso: spa
     name: Idioma saponi
   - translation_iso: zho

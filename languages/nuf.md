@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 怒蘇語
+  - translation_iso: kor
+    name: 누수어
+    auto: true
   - translation_iso: por
     name: Língua nusu
+  - translation_iso: rus
+    name: Нусу (язык)
   - translation_iso: spa
     name: Nusu
     auto: true

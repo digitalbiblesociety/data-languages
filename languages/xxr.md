@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: コロポ語
     auto: true
+  - translation_iso: kor
+    name: 코로포어
+    auto: true
   - translation_iso: por
     name: Língua koropó
+  - translation_iso: rus
+    name: Коропо
   - translation_iso: spa
     name: Koropó
     auto: true

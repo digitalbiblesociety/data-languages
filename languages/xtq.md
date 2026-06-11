@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トゥムシュケーゼ語
     auto: true
+  - translation_iso: kor
+    name: 툼슈크어
+    auto: true
   - translation_iso: por
     name: tumshuqês
     auto: true

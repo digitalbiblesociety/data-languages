@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘルテヴィン語
+  - translation_iso: kor
+    name: 헤르테빈어
+    auto: true
   - translation_iso: por
     name: Hértevin
     auto: true
+  - translation_iso: rus
+    name: севернобохтанский язык
   - translation_iso: spa
     name: Hértevin
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェヌア語
+  - translation_iso: kor
+    name: 셰누아어
+    auto: true
   - translation_iso: por
     name: Língua shenwa
   - translation_iso: spa

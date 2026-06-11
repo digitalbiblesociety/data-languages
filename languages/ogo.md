@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カナ語
     auto: true
+  - translation_iso: kor
+    name: 카나어
+    auto: true
   - translation_iso: por
     name: Khana
     auto: true
+  - translation_iso: rus
+    name: кана
   - translation_iso: spa
     name: Khana
     auto: true

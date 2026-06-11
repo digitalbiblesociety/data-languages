@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南ヌアウル語
     auto: true
+  - translation_iso: kor
+    name: 남부 누아울루어
+    auto: true
   - translation_iso: por
     name: Nuaulu do Sul
     auto: true

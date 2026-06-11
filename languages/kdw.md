@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कोनेराव
     auto: true
+  - translation_iso: ind
+    name: Koneraw
   - translation_iso: jpn
     name: コネラウ語
+    auto: true
+  - translation_iso: kor
+    name: 코네라우어
     auto: true
   - translation_iso: por
     name: Koneraw

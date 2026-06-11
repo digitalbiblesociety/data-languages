@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ツンドラエネツ語
     auto: true
+  - translation_iso: kor
+    name: 툰드라 에네츠어
+    auto: true
   - translation_iso: por
     name: enets da tundra
     auto: true
+  - translation_iso: rus
+    name: тундровый энецкий язык
   - translation_iso: spa
     name: Énets de la tundra
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パワイア語
     auto: true
+  - translation_iso: kor
+    name: 파와이아어
+    auto: true
   - translation_iso: por
     name: Pawaia
     auto: true

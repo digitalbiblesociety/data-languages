@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة مرو
     auto: true
+  - translation_iso: ben
+    name: ম্রো ভাষা
   - translation_iso: deu
     name: Mru
   - translation_iso: fra
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: म्रू
     auto: true
+  - translation_iso: ind
+    name: bahasa Mru
   - translation_iso: jpn
     name: ムル語
+  - translation_iso: kor
+    name: 므루어
+    auto: true
   - translation_iso: por
     name: Mru
     auto: true
+  - translation_iso: rus
+    name: Мру
   - translation_iso: spa
     name: Mru
     auto: true

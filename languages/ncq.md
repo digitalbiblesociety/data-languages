@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北カタン語
     auto: true
+  - translation_iso: kor
+    name: 북부 카탕어
+    auto: true
   - translation_iso: por
     name: Katang do Norte
     auto: true

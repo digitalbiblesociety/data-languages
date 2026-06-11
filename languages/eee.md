@@ -18,6 +18,8 @@ glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Dai
 wikidata_id: Q35386
 wikipedia_url: "https://en.wikipedia.org/wiki/E_language"
 translations:
+  - translation_iso: ben
+    name: ই ভাষা
   - translation_iso: deu
     name: E
   - translation_iso: fra
@@ -25,8 +27,13 @@ translations:
   - translation_iso: hin
     name: ए
     auto: true
+  - translation_iso: ind
+    name: E
   - translation_iso: jpn
     name: エ語
+    auto: true
+  - translation_iso: kor
+    name: 에어
     auto: true
   - translation_iso: por
     name: E

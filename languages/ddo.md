@@ -34,6 +34,8 @@ translations:
     name: 체즈어
   - translation_iso: por
     name: Língua tsez
+  - translation_iso: rus
+    name: цезский язык
   - translation_iso: spa
     name: Idioma tsez
   - translation_iso: zho

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tofa_language"
 translations:
   - translation_iso: ara
     name: لغة التوفا
+  - translation_iso: ben
+    name: তোফা ভাষা
   - translation_iso: deu
     name: Tofalarisch
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 토파어
   - translation_iso: por
     name: Língua tofa
+  - translation_iso: rus
+    name: тофаларский язык
   - translation_iso: spa
     name: Karagas
     auto: true

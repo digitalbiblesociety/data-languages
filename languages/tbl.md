@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: तबोली
     auto: true
+  - translation_iso: ind
+    name: bahasa Teboli
   - translation_iso: jpn
     name: トボリ語
     auto: true
+  - translation_iso: kor
+    name: 트볼리어
+    auto: true
   - translation_iso: por
     name: Língua tboli
+  - translation_iso: rus
+    name: тболи
   - translation_iso: spa
     name: idioma tboli
   - translation_iso: zho

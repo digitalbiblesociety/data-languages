@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: तुंगगारे
     auto: true
+  - translation_iso: ind
+    name: Tunggare
   - translation_iso: jpn
     name: タルンガレ語
+    auto: true
+  - translation_iso: kor
+    name: 퉁가레어
     auto: true
   - translation_iso: por
     name: Tunggare

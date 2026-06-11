@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venda_language"
 translations:
   - translation_iso: ara
     name: الفيندية
+  - translation_iso: ben
+    name: ভেন্ডা
   - translation_iso: deu
     name: Tshivenda
   - translation_iso: fra
     name: venda
   - translation_iso: hin
     name: वेन्दा
+  - translation_iso: ind
+    name: Venda
   - translation_iso: jpn
     name: ヴェンダ語
   - translation_iso: kor
     name: 벤다어
   - translation_iso: por
     name: língua venda
+  - translation_iso: rus
+    name: венда
   - translation_iso: spa
     name: venda
   - translation_iso: zho

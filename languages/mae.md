@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة و-وكول
     auto: true
+  - translation_iso: ben
+    name: বারকুল
   - translation_iso: deu
     name: Bo-Rukul
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボ・ルクル語
+    auto: true
+  - translation_iso: kor
+    name: 보루쿨어
     auto: true
   - translation_iso: por
     name: Bo-Rukul

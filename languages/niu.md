@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Niuean_language"
 translations:
   - translation_iso: ara
     name: النييوية
+  - translation_iso: ben
+    name: নিউয়ান
   - translation_iso: deu
     name: Niueanisch
   - translation_iso: fra
     name: niuéen
   - translation_iso: hin
     name: नियुआन
+  - translation_iso: ind
+    name: Niuea
   - translation_iso: jpn
     name: ニウエ語
   - translation_iso: kor
     name: 니우에어
   - translation_iso: por
     name: Língua niueana
+  - translation_iso: rus
+    name: ниуэ
   - translation_iso: spa
     name: Idioma niuano
   - translation_iso: zho

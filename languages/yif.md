@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آتشي
     auto: true
+  - translation_iso: ben
+    name: একে ঝি
   - translation_iso: deu
     name: Ache
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチェ語
+    auto: true
+  - translation_iso: kor
+    name: 아처어
     auto: true
   - translation_iso: por
     name: ache

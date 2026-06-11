@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南ヤンフ語
     auto: true
+  - translation_iso: kor
+    name: 남부 얌푸어
+    auto: true
   - translation_iso: por
     name: Yamphu do Sul
     auto: true

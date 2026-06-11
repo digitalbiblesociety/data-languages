@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コニャンカ・マニンカ語
     auto: true
+  - translation_iso: kor
+    name: 코냔카 마닌카어
+    auto: true
   - translation_iso: por
     name: maninca de Konyanka
     auto: true

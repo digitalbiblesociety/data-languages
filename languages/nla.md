@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンバレ語
+  - translation_iso: kor
+    name: 응곰발레어
+    auto: true
   - translation_iso: por
     name: Ngombale
     auto: true

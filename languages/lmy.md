@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लंबोया
     auto: true
+  - translation_iso: ind
+    name: Lamboya
   - translation_iso: jpn
     name: ランボヤ語
+    auto: true
+  - translation_iso: kor
+    name: 람보야어
     auto: true
   - translation_iso: por
     name: Lamboya

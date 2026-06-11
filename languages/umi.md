@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セル語
+  - translation_iso: kor
+    name: 우킷어
+    auto: true
   - translation_iso: por
     name: Ukit
     auto: true

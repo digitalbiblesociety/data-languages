@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アモル語
     auto: true
+  - translation_iso: kor
+    name: 아몰어
+    auto: true
   - translation_iso: por
     name: Amol
     auto: true

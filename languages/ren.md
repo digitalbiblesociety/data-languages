@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: レンガオ語
     auto: true
+  - translation_iso: kor
+    name: 렝가오어
+    auto: true
   - translation_iso: por
     name: Rengao
     auto: true

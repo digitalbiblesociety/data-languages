@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: बोटोलन साम्बल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Botolan
   - translation_iso: jpn
     name: ボトラン・サンバル語
     auto: true
+  - translation_iso: kor
+    name: 보톨란 삼발어
+    auto: true
   - translation_iso: por
     name: Língua botolan
+  - translation_iso: rus
+    name: ботоланский язык
   - translation_iso: spa
     name: idioma botolano
   - translation_iso: zho

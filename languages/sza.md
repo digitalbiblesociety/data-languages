@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: सेमेलाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Semelai
   - translation_iso: jpn
     name: セメライ語
+    auto: true
+  - translation_iso: kor
+    name: 세멜라이어
     auto: true
   - translation_iso: por
     name: Semelai
     auto: true
+  - translation_iso: rus
+    name: Семелайский язык
   - translation_iso: spa
     name: Semelai
     auto: true

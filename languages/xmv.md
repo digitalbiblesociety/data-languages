@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: ملغاشية أنتانكارانا
     auto: true
+  - translation_iso: ben
+    name: আন্টাঙ্কারানা মালাগাসি
   - translation_iso: deu
     name: Antankarana-Malagasy
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンタンカラナ・マダガスカル語
+  - translation_iso: kor
+    name: 안탄카라나 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe Antankarana
     auto: true

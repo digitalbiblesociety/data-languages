@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باهاو
     auto: true
+  - translation_iso: ben
+    name: বাহাউ
   - translation_iso: deu
     name: Bahau
     auto: true
@@ -28,12 +30,19 @@ translations:
   - translation_iso: hin
     name: बहाऊ
     auto: true
+  - translation_iso: ind
+    name: bahasa Bahau
   - translation_iso: jpn
     name: バハウ語
+    auto: true
+  - translation_iso: kor
+    name: 바하우어
     auto: true
   - translation_iso: por
     name: Bahau
     auto: true
+  - translation_iso: rus
+    name: Бахау
   - translation_iso: spa
     name: Bahau
     auto: true

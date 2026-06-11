@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सापारुआ
     auto: true
+  - translation_iso: ind
+    name: Saparua
   - translation_iso: jpn
     name: イハ語
+    auto: true
+  - translation_iso: kor
+    name: 사파루아어
     auto: true
   - translation_iso: por
     name: Saparua

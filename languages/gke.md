@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンダイ語
     auto: true
+  - translation_iso: kor
+    name: 은다이어
+    auto: true
   - translation_iso: por
     name: Língua ndai
   - translation_iso: spa

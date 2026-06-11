@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナケ語
     auto: true
+  - translation_iso: kor
+    name: 나케어
+    auto: true
   - translation_iso: por
     name: Nake
     auto: true

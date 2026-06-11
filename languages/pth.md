@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: パタショーハーハーハーエ語
     auto: true
+  - translation_iso: kor
+    name: 파타쇼 항하항에어
+    auto: true
   - translation_iso: por
     name: Língua pataxó
+  - translation_iso: rus
+    name: Паташо
   - translation_iso: spa
     name: Idioma patashó
   - translation_iso: zho

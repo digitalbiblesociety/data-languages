@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: يهودي-إيطالي
     auto: true
+  - translation_iso: ben
+    name: ইহুদী-ইতালীয় ভাষা
   - translation_iso: deu
     name: Judäo-Italienisch
     auto: true
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Judeu-Italiano
     auto: true
+  - translation_iso: rus
+    name: еврейско-итальянские диалекты
   - translation_iso: spa
     name: lenguas judeo-italianas
   - translation_iso: zho

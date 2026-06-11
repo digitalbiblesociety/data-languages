@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サランガニ・ブラアン語
     auto: true
+  - translation_iso: kor
+    name: 사랑가니 블라안어
+    auto: true
   - translation_iso: por
     name: Blaan de Sarangani
     auto: true

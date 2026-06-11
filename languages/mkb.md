@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マル・パハリア語
     auto: true
+  - translation_iso: kor
+    name: 말 파하리아어
+    auto: true
   - translation_iso: por
     name: Mal Paharia
     auto: true
+  - translation_iso: rus
+    name: Маль-пахарья
   - translation_iso: spa
     name: Mal Paharia
     auto: true

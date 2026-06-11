@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ワラガウアヌコケチュア語
     auto: true
+  - translation_iso: kor
+    name: 우아야가 우아누코 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua do Huallaga
+  - translation_iso: rus
+    name: Уальягский кечуа
   - translation_iso: spa
     name: quechua huanuqueño
   - translation_iso: zho

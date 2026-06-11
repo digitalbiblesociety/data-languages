@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ألاجوا
     auto: true
+  - translation_iso: ben
+    name: আলাগওয়া
   - translation_iso: deu
     name: Alagwa
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラグワ語
+    auto: true
+  - translation_iso: kor
+    name: 알라그와어
     auto: true
   - translation_iso: por
     name: Alagwa

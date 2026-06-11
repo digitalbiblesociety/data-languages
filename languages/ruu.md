@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ロブ語
     auto: true
+  - translation_iso: kor
+    name: 라나스 로부어
+    auto: true
   - translation_iso: por
     name: Lanas Lobu
     auto: true

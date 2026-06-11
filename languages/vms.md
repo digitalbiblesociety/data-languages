@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मोकसेला
     auto: true
+  - translation_iso: ind
+    name: Moksela
   - translation_iso: jpn
     name: モクセラ語
+    auto: true
+  - translation_iso: kor
+    name: 목셀라어
     auto: true
   - translation_iso: por
     name: Moksela

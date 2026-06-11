@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोंदानो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tondano
   - translation_iso: jpn
     name: トンダノ語
+  - translation_iso: kor
+    name: 톤다노어
+    auto: true
   - translation_iso: por
     name: Língua tondano
   - translation_iso: spa

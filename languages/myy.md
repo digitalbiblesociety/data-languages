@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マクナ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠나어
+    auto: true
   - translation_iso: por
     name: Macuna
     auto: true
+  - translation_iso: rus
+    name: Макуна
   - translation_iso: spa
     name: Macuna
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: خويبو ناغا
     auto: true
+  - translation_iso: ben
+    name: খোইবু
   - translation_iso: deu
     name: Khoibu
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: खोइबु
   - translation_iso: jpn
     name: コイブー
+  - translation_iso: kor
+    name: 코이부 나가어
+    auto: true
   - translation_iso: por
     name: Naga Khoibu
     auto: true

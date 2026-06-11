@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボルグ・フルフルディ語
+  - translation_iso: kor
+    name: 보르구 풀풀데어
+    auto: true
   - translation_iso: por
     name: fulfulde de Borgu
     auto: true

@@ -21,16 +21,25 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرازيلية
     auto: true
+  - translation_iso: ben
+    name: ব্রাজিলীয় ইশারা ভাষা
   - translation_iso: deu
     name: Brasilianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes brésilienne
   - translation_iso: hin
     name: ब्राज़ीलियाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Brasil
   - translation_iso: jpn
     name: ブラジル手話
+  - translation_iso: kor
+    name: 브라질 수어
+    auto: true
   - translation_iso: por
     name: língua brasileira de sinais
+  - translation_iso: rus
+    name: бразильский жестовый язык
   - translation_iso: spa
     name: lengua de señas brasileña
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: lü
   - translation_iso: hin
     name: ताई लुए भाषा
+  - translation_iso: ind
+    name: Bahasa Tai Lue
   - translation_iso: jpn
     name: タイ・ルー語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Lü
     auto: true
+  - translation_iso: rus
+    name: Лы (язык)
   - translation_iso: spa
     name: Tai Lü
   - translation_iso: zho

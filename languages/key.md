@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クピア語
     auto: true
+  - translation_iso: kor
+    name: 쿠피아어
+    auto: true
   - translation_iso: por
     name: Língua kupia
   - translation_iso: spa

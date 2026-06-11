@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ピチス・アシェニンカ語
     auto: true
+  - translation_iso: kor
+    name: 피치스 아셰닌카어
+    auto: true
   - translation_iso: por
     name: Ashéninka de Pichis
     auto: true

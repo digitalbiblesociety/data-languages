@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エマ・ブヤン語
     auto: true
+  - translation_iso: kor
+    name: 어마 부양어
+    auto: true
   - translation_iso: por
     name: "buyang e'ma"
     auto: true

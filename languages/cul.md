@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クリナ語
     auto: true
+  - translation_iso: kor
+    name: 쿨리나어
+    auto: true
   - translation_iso: por
     name: Língua culina
+  - translation_iso: rus
+    name: кулина
   - translation_iso: spa
     name: culina
   - translation_iso: zho

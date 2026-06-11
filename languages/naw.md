@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナウリ語
     auto: true
+  - translation_iso: kor
+    name: 나우리어
+    auto: true
   - translation_iso: por
     name: Nawuri
     auto: true

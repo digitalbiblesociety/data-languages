@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セタマン語
     auto: true
+  - translation_iso: kor
+    name: 세타만어
+    auto: true
   - translation_iso: por
     name: Setaman
     auto: true

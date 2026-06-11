@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: फोआउ
     auto: true
+  - translation_iso: ind
+    name: Foau
   - translation_iso: jpn
     name: フォアウ語
+    auto: true
+  - translation_iso: kor
+    name: 포아우어
     auto: true
   - translation_iso: por
     name: Foau

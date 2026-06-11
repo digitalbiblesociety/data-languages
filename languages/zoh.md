@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チマラパ・ゾケ語
     auto: true
+  - translation_iso: kor
+    name: 치말라파 소케어
+    auto: true
   - translation_iso: por
     name: zoque de Chimalapa
     auto: true
+  - translation_iso: rus
+    name: Чималапанский соке
   - translation_iso: spa
     name: zoque de los Chimalapas
   - translation_iso: zho

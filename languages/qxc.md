@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: チンチャケチュア語
     auto: true
+  - translation_iso: kor
+    name: 친차 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Chincha
     auto: true

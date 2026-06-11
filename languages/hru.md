@@ -27,6 +27,9 @@ translations:
     name: अका भाषा
   - translation_iso: jpn
     name: フルソ語
+  - translation_iso: kor
+    name: 흐루소어
+    auto: true
   - translation_iso: por
     name: Hruso
     auto: true

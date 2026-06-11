@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マジェラ語
     auto: true
+  - translation_iso: kor
+    name: 마제라어
+    auto: true
   - translation_iso: por
     name: Majera
     auto: true
+  - translation_iso: rus
+    name: Маджера
   - translation_iso: spa
     name: Majera
     auto: true

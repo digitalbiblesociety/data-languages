@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: जाकुन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jakun
   - translation_iso: jpn
     name: ジャクン語
+    auto: true
+  - translation_iso: kor
+    name: 자쿤어
     auto: true
   - translation_iso: por
     name: Jakun

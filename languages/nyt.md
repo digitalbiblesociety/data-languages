@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニャワイギ語
     auto: true
+  - translation_iso: kor
+    name: 냐와이기어
+    auto: true
   - translation_iso: por
     name: Nyawaygi
     auto: true

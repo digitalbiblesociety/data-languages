@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 北東パシャイ語
     auto: true
+  - translation_iso: kor
+    name: 북동 파샤이어
+    auto: true
   - translation_iso: por
     name: Pashai do Nordeste
     auto: true
+  - translation_iso: rus
+    name: северо-восточный пашаи
   - translation_iso: spa
     name: Pashai nororiental
     auto: true

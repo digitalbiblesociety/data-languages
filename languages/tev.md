@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: テオル語
     auto: true
+  - translation_iso: kor
+    name: 테오르어
+    auto: true
   - translation_iso: por
     name: Teor
     auto: true

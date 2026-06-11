@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンテング語
     auto: true
+  - translation_iso: kor
+    name: 은텡어
+    auto: true
   - translation_iso: por
     name: Nteng
     auto: true

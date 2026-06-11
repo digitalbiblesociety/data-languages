@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ザイイン・カレン語
     auto: true
+  - translation_iso: kor
+    name: 자예인 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Zayein
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ディンボング語
     auto: true
+  - translation_iso: kor
+    name: 딤봉어
+    auto: true
   - translation_iso: por
     name: Dimbong
     auto: true

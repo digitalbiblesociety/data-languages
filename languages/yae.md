@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: プメ語
     auto: true
+  - translation_iso: kor
+    name: 푸메어
+    auto: true
   - translation_iso: por
     name: Língua yaruro
+  - translation_iso: rus
+    name: яруро
   - translation_iso: spa
     name: idioma yaruro
   - translation_iso: zho

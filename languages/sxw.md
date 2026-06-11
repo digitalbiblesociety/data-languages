@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: サクシェ・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 사흐웨 그베어
+    auto: true
   - translation_iso: por
     name: Saxwe Gbe
     auto: true
+  - translation_iso: rus
+    name: Сафе
   - translation_iso: spa
     name: Saxwe Gbe
     auto: true

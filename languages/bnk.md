@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيريبو
     auto: true
+  - translation_iso: ben
+    name: বিয়েরেবো
   - translation_iso: deu
     name: Bierebo
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビエレボ語
+    auto: true
+  - translation_iso: kor
+    name: 비에레보어
     auto: true
   - translation_iso: por
     name: Bierebo

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويايانا
     auto: true
+  - translation_iso: ben
+    name: আউইয়ানা
   - translation_iso: deu
     name: Awiyaana
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヤナ語
+  - translation_iso: kor
+    name: 아위야나어
+    auto: true
   - translation_iso: por
     name: Awiyaana
     auto: true

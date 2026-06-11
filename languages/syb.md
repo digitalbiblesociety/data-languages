@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 中央スバネン語
     auto: true
+  - translation_iso: kor
+    name: 중부 수바넨어
+    auto: true
   - translation_iso: por
     name: Subanen Central
     auto: true

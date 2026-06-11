@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ディリム語
     auto: true
+  - translation_iso: kor
+    name: 디림어
+    auto: true
   - translation_iso: por
     name: Dirim
     auto: true

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: लुहू
     auto: true
+  - translation_iso: ind
+    name: Luhu
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: kor
+    name: 루후어
+    auto: true
   - translation_iso: por
     name: Luhu
+  - translation_iso: rus
+    name: Луху
   - translation_iso: spa
     name: Luhu
   - translation_iso: zho

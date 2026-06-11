@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴァレ語
     auto: true
+  - translation_iso: kor
+    name: 발레어
+    auto: true
   - translation_iso: por
     name: Vale
     auto: true

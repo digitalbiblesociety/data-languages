@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بينابينا
     auto: true
+  - translation_iso: ben
+    name: বেনাবেনা
   - translation_iso: deu
     name: Benabena
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベナベナ語
+  - translation_iso: kor
+    name: 베나베나어
+    auto: true
   - translation_iso: por
     name: Benabena
     auto: true

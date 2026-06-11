@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: वाम्बोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wambon
   - translation_iso: jpn
     name: ワンボン語
+    auto: true
+  - translation_iso: kor
+    name: 왐본어
     auto: true
   - translation_iso: por
     name: Wambon
     auto: true
+  - translation_iso: rus
+    name: вамбон
   - translation_iso: spa
     name: Wambon
     auto: true

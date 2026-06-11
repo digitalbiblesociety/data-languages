@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クット語
     auto: true
+  - translation_iso: kor
+    name: 쿠토어
+    auto: true
   - translation_iso: por
     name: Kutto
     auto: true
+  - translation_iso: rus
+    name: Кутто
   - translation_iso: spa
     name: Kutto
     auto: true

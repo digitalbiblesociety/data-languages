@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラウェ語
+  - translation_iso: kor
+    name: 솔롱어
+    auto: true
   - translation_iso: por
     name: Solong
     auto: true

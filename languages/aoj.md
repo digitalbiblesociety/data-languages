@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語
+  - translation_iso: kor
+    name: 무피안어
+    auto: true
   - translation_iso: por
     name: Mufian
     auto: true

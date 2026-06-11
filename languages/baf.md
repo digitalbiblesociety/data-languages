@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة نوباكا
     auto: true
+  - translation_iso: ben
+    name: বাকা
   - translation_iso: deu
     name: Nubaca
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌバカ語
+    auto: true
+  - translation_iso: kor
+    name: 누바카어
     auto: true
   - translation_iso: por
     name: Nubaca

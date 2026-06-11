@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: नगादा
     auto: true
+  - translation_iso: ind
+    name: Ngada
   - translation_iso: jpn
     name: ンガダ語
+    auto: true
+  - translation_iso: kor
+    name: 응아다어
     auto: true
   - translation_iso: por
     name: Ngada

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: हुप्ला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hupla
   - translation_iso: jpn
     name: フプラ語
+    auto: true
+  - translation_iso: kor
+    name: 후플라어
     auto: true
   - translation_iso: por
     name: Hupla

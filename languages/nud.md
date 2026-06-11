@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンガラ語
     auto: true
+  - translation_iso: kor
+    name: 응갈라어
+    auto: true
   - translation_iso: por
     name: Ngala
     auto: true

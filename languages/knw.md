@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كونج إيكوكا
     auto: true
+  - translation_iso: ben
+    name: "ইকোকা !কুং"
   - translation_iso: deu
     name: Kung-Ekoka
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: クング・エコカ語
     auto: true
+  - translation_iso: kor
+    name: 쿵에코카어
+    auto: true
   - translation_iso: por
     name: "Ekoka !Kung"
+  - translation_iso: rus
+    name: Экока Къкунг
   - translation_iso: spa
     name: "!Kung Ekoka"
   - translation_iso: zho

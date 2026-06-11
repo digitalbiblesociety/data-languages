@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラングロン語
     auto: true
+  - translation_iso: kor
+    name: 랑글롱어
+    auto: true
   - translation_iso: por
     name: Ranglong
     auto: true

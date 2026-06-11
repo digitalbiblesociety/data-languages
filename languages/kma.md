@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コンニ語
     auto: true
+  - translation_iso: kor
+    name: 콘니어
+    auto: true
   - translation_iso: por
     name: Konni
     auto: true

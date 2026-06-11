@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: कैताग
     auto: true
+  - translation_iso: ind
+    name: Kaitag
   - translation_iso: jpn
     name: カジュタク語
+  - translation_iso: kor
+    name: 카이타그어
+    auto: true
   - translation_iso: por
     name: Língua kaitag
+  - translation_iso: rus
+    name: Кайтагский язык
   - translation_iso: spa
     name: idioma kaytak
   - translation_iso: zho

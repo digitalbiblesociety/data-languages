@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナ語
+  - translation_iso: kor
+    name: 파나어
+    auto: true
   - translation_iso: por
     name: Pana (Burquina Faso)
     auto: true

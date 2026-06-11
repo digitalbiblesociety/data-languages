@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باهينمو
     auto: true
+  - translation_iso: ben
+    name: বাহিনেমো
   - translation_iso: deu
     name: Bahinemo
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バヒネモ語
+    auto: true
+  - translation_iso: kor
+    name: 바히네모어
     auto: true
   - translation_iso: por
     name: Bahinemo

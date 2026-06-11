@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムラッゲ・ペゴレッボ語
     auto: true
+  - translation_iso: kor
+    name: 마라게이어
+    auto: true
   - translation_iso: por
     name: Maraghei
     auto: true

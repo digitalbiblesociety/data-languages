@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グレング・グレング語
     auto: true
+  - translation_iso: kor
+    name: 구렝구렝어
+    auto: true
   - translation_iso: por
     name: Gureng Gureng
     auto: true

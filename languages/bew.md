@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Betawi_language"
 translations:
   - translation_iso: ara
     name: البتاوية
+  - translation_iso: ben
+    name: বেতাউই ভাষা
   - translation_iso: deu
     name: Betawi
   - translation_iso: fra
     name: batavien
   - translation_iso: hin
     name: बेतावी
+  - translation_iso: ind
+    name: Betawi
   - translation_iso: jpn
     name: ベタウィ語
   - translation_iso: kor
     name: 베타위어
   - translation_iso: por
     name: Língua betawi
+  - translation_iso: rus
+    name: батавский язык
   - translation_iso: spa
     name: Betawi
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジャンド語
     auto: true
+  - translation_iso: kor
+    name: 잔도어
+    auto: true
   - translation_iso: por
     name: Dzando
     auto: true

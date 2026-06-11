@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チョニ語
     auto: true
+  - translation_iso: kor
+    name: 초니어
+    auto: true
   - translation_iso: por
     name: Choni
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クヴォク語
     auto: true
+  - translation_iso: kor
+    name: 추보크어
+    auto: true
   - translation_iso: por
     name: Cuvok
     auto: true
+  - translation_iso: rus
+    name: Кувок
   - translation_iso: spa
     name: Cuvok
     auto: true

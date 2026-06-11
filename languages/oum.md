@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウマ語
     auto: true
+  - translation_iso: kor
+    name: 오우마어
+    auto: true
   - translation_iso: por
     name: Ouma
     auto: true

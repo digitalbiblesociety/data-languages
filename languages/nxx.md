@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: नाफ्री
     auto: true
+  - translation_iso: ind
+    name: Nafri
   - translation_iso: jpn
     name: ナフリ語
+    auto: true
+  - translation_iso: kor
+    name: 나프리어
     auto: true
   - translation_iso: por
     name: Nafri

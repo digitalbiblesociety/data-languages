@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウノバイ語
     auto: true
+  - translation_iso: kor
+    name: 우누바헤어
+    auto: true
   - translation_iso: por
     name: Unubahe
     auto: true

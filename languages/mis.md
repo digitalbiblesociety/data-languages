@@ -21,12 +21,16 @@ translations:
   - translation_iso: hin
     name: बिना कोड वाली भाषाएँ
     auto: true
+  - translation_iso: ind
+    name: bahasa tanpa kode bahasa
   - translation_iso: jpn
     name: 言語コードのない言語
   - translation_iso: kor
     name: 언어 코드가 없는 언어
   - translation_iso: por
     name: idioma sem código específico
+  - translation_iso: rus
+    name: язык без кода языка
   - translation_iso: spa
     name: Lenguas no codificadas
     auto: true

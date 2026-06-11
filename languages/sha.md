@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シャルズワール語
     auto: true
+  - translation_iso: kor
+    name: 샬즈왈어
+    auto: true
   - translation_iso: por
     name: Shall-Zwall
     auto: true

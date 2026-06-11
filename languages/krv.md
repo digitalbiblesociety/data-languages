@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: カベット語
     auto: true
+  - translation_iso: kor
+    name: 카베트어
+    auto: true
   - translation_iso: por
     name: Kavet
     auto: true

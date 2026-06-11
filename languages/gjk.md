@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カチ・コリ語
     auto: true
+  - translation_iso: kor
+    name: 카치 콜리어
+    auto: true
   - translation_iso: por
     name: koli de Kachi
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クァン語
+  - translation_iso: kor
+    name: 쿠안어
+    auto: true
   - translation_iso: por
     name: Kuan
     auto: true

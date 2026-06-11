@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ジャブティ語
     auto: true
+  - translation_iso: kor
+    name: 자부티어
+    auto: true
   - translation_iso: por
     name: Língua jabuti
+  - translation_iso: rus
+    name: Ябути
   - translation_iso: spa
     name: Lenguas yabutí
   - translation_iso: zho

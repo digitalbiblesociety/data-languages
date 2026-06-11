@@ -27,12 +27,16 @@ translations:
     name: tat
   - translation_iso: hin
     name: कोकेशियान टाट भाषा
+  - translation_iso: ind
+    name: Tat Muslim
   - translation_iso: jpn
     name: ムスリム・タート語
   - translation_iso: kor
     name: 타트어
   - translation_iso: por
     name: Língua tat
+  - translation_iso: rus
+    name: татский язык
   - translation_iso: spa
     name: Idioma tati
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウルミ語
     auto: true
+  - translation_iso: kor
+    name: 우루미어
+    auto: true
   - translation_iso: por
     name: Urumi
     auto: true
+  - translation_iso: rus
+    name: Уруми
   - translation_iso: spa
     name: Urumi
     auto: true

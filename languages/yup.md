@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ユクパ語
     auto: true
+  - translation_iso: kor
+    name: 유크파어
+    auto: true
   - translation_iso: por
     name: Língua yukpa
+  - translation_iso: rus
+    name: Юкпа
   - translation_iso: spa
     name: Idioma yukpa
   - translation_iso: zho

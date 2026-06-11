@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジナ語
     auto: true
+  - translation_iso: kor
+    name: 지나어
+    auto: true
   - translation_iso: por
     name: Jina
     auto: true

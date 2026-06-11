@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلبا
     auto: true
+  - translation_iso: ben
+    name: বিলবা
   - translation_iso: deu
     name: Bilba
     auto: true
@@ -30,12 +32,19 @@ translations:
   - translation_iso: hin
     name: बिल्बा
     auto: true
+  - translation_iso: ind
+    name: Bilba
   - translation_iso: jpn
     name: ビルバ語
+    auto: true
+  - translation_iso: kor
+    name: 빌바어
     auto: true
   - translation_iso: por
     name: Bilba
     auto: true
+  - translation_iso: rus
+    name: Билба
   - translation_iso: spa
     name: Bilba
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بالينسي
     auto: true
+  - translation_iso: ben
+    name: বালিনীয় মালয়
   - translation_iso: deu
     name: Bali-Malaiisch
     auto: true
@@ -30,8 +32,13 @@ translations:
   - translation_iso: hin
     name: बाली मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Bali
   - translation_iso: jpn
     name: バリ・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 발리 말레이어
     auto: true
   - translation_iso: por
     name: malaio balinês

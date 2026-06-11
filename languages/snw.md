@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セレ語
+  - translation_iso: kor
+    name: 셀레어
+    auto: true
   - translation_iso: por
     name: Selee
     auto: true

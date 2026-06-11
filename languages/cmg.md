@@ -22,6 +22,8 @@ translations:
   - translation_iso: hin
     name: शास्त्रीय मंगोलियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mongol Klasik
   - translation_iso: jpn
     name: 古典モンゴル語
     auto: true
@@ -29,6 +31,8 @@ translations:
     name: 고전 몽골어
   - translation_iso: por
     name: Mongol clássico
+  - translation_iso: rus
+    name: классический монгольский язык
   - translation_iso: spa
     name: mongol clásico
   - translation_iso: zho

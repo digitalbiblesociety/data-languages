@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヮム語
+  - translation_iso: kor
+    name: 부아무어
+    auto: true
   - translation_iso: por
     name: Buamu
     auto: true

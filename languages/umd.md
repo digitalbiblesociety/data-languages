@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウンビンダムー語
     auto: true
+  - translation_iso: kor
+    name: 움빈다무어
+    auto: true
   - translation_iso: por
     name: Umbindhamu
     auto: true

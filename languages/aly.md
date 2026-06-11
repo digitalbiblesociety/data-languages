@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة ألياوار
     auto: true
+  - translation_iso: ben
+    name: আলইয়াওয়ার
   - translation_iso: deu
     name: Alyawarr
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アリャワール語
     auto: true
+  - translation_iso: kor
+    name: 알리야와르어
+    auto: true
   - translation_iso: por
     name: Alyawarr
     auto: true
+  - translation_iso: rus
+    name: алйяварр
   - translation_iso: spa
     name: Alyawarr
     auto: true

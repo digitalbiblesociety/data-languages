@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: पश्चिमी अपाचे
     auto: true
+  - translation_iso: ind
+    name: bahasa Apache Barat
   - translation_iso: jpn
     name: サンカルロス・アパッチ語
+  - translation_iso: kor
+    name: 서부 아파치어
+    auto: true
   - translation_iso: por
     name: Apache Ocidental
     auto: true
+  - translation_iso: rus
+    name: Западно-апачский язык
   - translation_iso: spa
     name: apache occidental
   - translation_iso: zho

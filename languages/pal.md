@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Persian"
 translations:
   - translation_iso: ara
     name: الفهلوية
+  - translation_iso: ben
+    name: পাহ্লাভি
   - translation_iso: deu
     name: Mittelpersisch
   - translation_iso: fra
     name: moyen-perse
   - translation_iso: hin
     name: मध्य फ़ारसी भाषा
+  - translation_iso: ind
+    name: Pahlevi
   - translation_iso: jpn
     name: パフラヴィー語
   - translation_iso: kor
     name: 팔라비어
   - translation_iso: por
     name: Persa médio
+  - translation_iso: rus
+    name: пехлевийский
   - translation_iso: spa
     name: Persa medio
   - translation_iso: zho

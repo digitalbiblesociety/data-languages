@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कामारू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kamaru
   - translation_iso: jpn
     name: カマル語
+    auto: true
+  - translation_iso: kor
+    name: 카마루어
     auto: true
   - translation_iso: por
     name: Kamaru

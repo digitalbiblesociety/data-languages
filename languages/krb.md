@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カルキン語
     auto: true
+  - translation_iso: kor
+    name: 카르킨어
+    auto: true
   - translation_iso: por
     name: Karkin
     auto: true
+  - translation_iso: rus
+    name: Каркин
   - translation_iso: spa
     name: Karkin
     auto: true

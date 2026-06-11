@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: विचिता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wichita
   - translation_iso: jpn
     name: ウィチタ語
+    auto: true
+  - translation_iso: kor
+    name: 위치타어
     auto: true
   - translation_iso: por
     name: Wichita
     auto: true
+  - translation_iso: rus
+    name: Уичито
   - translation_iso: spa
     name: Wichita
   - translation_iso: zho

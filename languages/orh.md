@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: ओरोकेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Oroqen
   - translation_iso: jpn
     name: オロチョン語
   - translation_iso: kor
     name: 어룬춘어
   - translation_iso: por
     name: Língua oroquen
+  - translation_iso: rus
+    name: орокенский язык
   - translation_iso: spa
     name: Oroqen
     auto: true

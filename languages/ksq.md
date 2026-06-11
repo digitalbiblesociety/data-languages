@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クワアミ語
     auto: true
+  - translation_iso: kor
+    name: 콰미어
+    auto: true
   - translation_iso: por
     name: Kwaami
     auto: true
+  - translation_iso: rus
+    name: Кваами
   - translation_iso: spa
     name: Kwaami
     auto: true

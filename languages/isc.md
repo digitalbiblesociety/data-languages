@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イスコナフア語
     auto: true
+  - translation_iso: kor
+    name: 이스코나와어
+    auto: true
   - translation_iso: por
     name: Isconahua
     auto: true
+  - translation_iso: rus
+    name: Исконауа
   - translation_iso: spa
     name: idioma isconahua
   - translation_iso: zho

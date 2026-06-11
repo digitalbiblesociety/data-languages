@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بن تاي دوجون
     auto: true
+  - translation_iso: ben
+    name: বেন টেই ডগন
   - translation_iso: deu
     name: Ben Tey Dogon
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベン・テイ・ドゴン語
+    auto: true
+  - translation_iso: kor
+    name: 벤테이 도곤어
     auto: true
   - translation_iso: por
     name: Dogon Ben Tey

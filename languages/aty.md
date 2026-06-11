@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنيتيوم
     auto: true
+  - translation_iso: ben
+    name: আনেইটিউম
   - translation_iso: deu
     name: Aneityum
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネイチュム語
+  - translation_iso: kor
+    name: 아네이튬어
+    auto: true
   - translation_iso: por
     name: Aneityum
     auto: true

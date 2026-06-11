@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: タマナク語
     auto: true
+  - translation_iso: kor
+    name: 타마나쿠어
+    auto: true
   - translation_iso: por
     name: Língua tamanaku
+  - translation_iso: rus
+    name: Таманаку
   - translation_iso: spa
     name: Idioma tamanaco
   - translation_iso: zho

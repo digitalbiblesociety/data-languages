@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グマル語
     auto: true
+  - translation_iso: kor
+    name: 구말루어
+    auto: true
   - translation_iso: por
     name: Gumalu
     auto: true

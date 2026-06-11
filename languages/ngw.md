@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ングワバ語
     auto: true
+  - translation_iso: kor
+    name: 응와바어
+    auto: true
   - translation_iso: por
     name: Ngwaba
     auto: true
+  - translation_iso: rus
+    name: Нгваба
   - translation_iso: spa
     name: Ngwaba
     auto: true

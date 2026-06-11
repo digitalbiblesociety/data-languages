@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانتاوا
     auto: true
+  - translation_iso: ben
+    name: বান্তবা ভাষা
   - translation_iso: deu
     name: Bantawa
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: बंतावा भाषा
   - translation_iso: jpn
     name: バンタワ語
+  - translation_iso: kor
+    name: 반타와어
+    auto: true
   - translation_iso: por
     name: Língua bantawa
   - translation_iso: spa

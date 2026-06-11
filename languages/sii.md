@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة شوم بينج
     auto: true
+  - translation_iso: ben
+    name: শোম্পেন ভাষা
   - translation_iso: deu
     name: Shom Peng
     auto: true
@@ -25,12 +27,16 @@ translations:
     name: shom peng
   - translation_iso: hin
     name: शोम्पेन भाषा
+  - translation_iso: ind
+    name: Bahasa Shompen
   - translation_iso: jpn
     name: ションペン語
   - translation_iso: kor
     name: 숌펜어
   - translation_iso: por
     name: Língua shompen
+  - translation_iso: rus
+    name: Шомпенский язык
   - translation_iso: spa
     name: Shom Peng
     auto: true

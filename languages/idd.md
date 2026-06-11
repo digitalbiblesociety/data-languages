@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: إيدي إيداكا
     auto: true
+  - translation_iso: ben
+    name: এদে ইদাচা
   - translation_iso: deu
     name: Ede Idaca
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エデ・イダカ語
+    auto: true
+  - translation_iso: kor
+    name: 에데 이다차어
     auto: true
   - translation_iso: por
     name: Ede Idaca

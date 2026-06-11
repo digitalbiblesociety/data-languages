@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أربوري
     auto: true
+  - translation_iso: ben
+    name: আর্বোর
   - translation_iso: deu
     name: Arbore
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アルボレ語
     auto: true
+  - translation_iso: kor
+    name: 아르보레어
+    auto: true
   - translation_iso: por
     name: Arbore
     auto: true
+  - translation_iso: rus
+    name: Арборе (язык)
   - translation_iso: spa
     name: Arbore
     auto: true

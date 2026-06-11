@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Albanês Gego
     auto: true
+  - translation_iso: rus
+    name: гегский диалект албанского языка
   - translation_iso: spa
     name: albanés guego
   - translation_iso: zho

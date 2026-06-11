@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムワリ・コモロ語
     auto: true
+  - translation_iso: kor
+    name: 음왈리 코모로어
+    auto: true
   - translation_iso: por
     name: Comoriano Mwali
     auto: true

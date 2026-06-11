@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カンバプ語
     auto: true
+  - translation_iso: kor
+    name: 트웬디어
+    auto: true
   - translation_iso: por
     name: Twendi
     auto: true

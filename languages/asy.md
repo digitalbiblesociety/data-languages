@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤオサコル・アスマット語
     auto: true
+  - translation_iso: kor
+    name: 야오사코르 아스마트어
+    auto: true
   - translation_iso: por
     name: Asmat de Yaosakor
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チシンギニ語
     auto: true
+  - translation_iso: kor
+    name: 치싱기니어
+    auto: true
   - translation_iso: por
     name: Cishingini
     auto: true

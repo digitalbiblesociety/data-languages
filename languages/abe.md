@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西アベナキ語
+  - translation_iso: kor
+    name: 서부 아베나키어
+    auto: true
   - translation_iso: por
     name: Abnaki Ocidental
     auto: true
+  - translation_iso: rus
+    name: западный абенаки
   - translation_iso: spa
     name: Abenaki occidental
     auto: true

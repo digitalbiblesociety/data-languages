@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥーグラ語
+  - translation_iso: kor
+    name: 테마신 타마지트어
+    auto: true
   - translation_iso: por
     name: Tamazight de Temacine
     auto: true
+  - translation_iso: rus
+    name: Ригх
   - translation_iso: spa
     name: Idioma tugurt
   - translation_iso: zho

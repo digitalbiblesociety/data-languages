@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カチャ・カドゥグリ・ミリ語
     auto: true
+  - translation_iso: kor
+    name: 카차·카두글리·미리어
+    auto: true
   - translation_iso: por
     name: Língua kadugli
   - translation_iso: spa

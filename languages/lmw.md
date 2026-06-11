@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: レイク・ミウォク語
     auto: true
+  - translation_iso: kor
+    name: 레이크 미웍어
+    auto: true
   - translation_iso: por
     name: Miwok do Lago
     auto: true
+  - translation_iso: rus
+    name: Озёрный мивокский язык
   - translation_iso: spa
     name: Miwok del lago
     auto: true

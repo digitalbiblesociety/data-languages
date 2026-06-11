@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コレシュエ・ロスタム語
     auto: true
+  - translation_iso: kor
+    name: 코레셰 로스탐어
+    auto: true
   - translation_iso: por
     name: Koresh-e Rostam
     auto: true

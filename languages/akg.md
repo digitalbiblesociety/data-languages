@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنّاكالانغو
     auto: true
+  - translation_iso: ben
+    name: আনাকালাঙ্গু
   - translation_iso: deu
     name: Anakalangu
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: अनाकालांगू
     auto: true
+  - translation_iso: ind
+    name: Anakalangu
   - translation_iso: jpn
     name: アナカラング語
+    auto: true
+  - translation_iso: kor
+    name: 아나칼랑우어
     auto: true
   - translation_iso: por
     name: Anakalangu

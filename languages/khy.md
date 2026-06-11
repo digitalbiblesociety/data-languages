@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロケレ語
+  - translation_iso: kor
+    name: 켈레어
+    auto: true
   - translation_iso: por
     name: Kele (República Democrática do Congo)
     auto: true

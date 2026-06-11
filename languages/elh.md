@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エル・フゲイラット語
     auto: true
+  - translation_iso: kor
+    name: 엘후게이라트어
+    auto: true
   - translation_iso: por
     name: El Hugeirat
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南ファリ語
     auto: true
+  - translation_iso: kor
+    name: 남부 팔리어
+    auto: true
   - translation_iso: por
     name: fali do sul
     auto: true

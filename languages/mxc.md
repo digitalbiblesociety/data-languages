@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: マニカ語
     auto: true
+  - translation_iso: kor
+    name: 마니카어
+    auto: true
   - translation_iso: por
     name: Língua manica
+  - translation_iso: rus
+    name: манйика
   - translation_iso: spa
     name: Manyika
     auto: true

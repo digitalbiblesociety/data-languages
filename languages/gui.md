@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリグアノ族
+  - translation_iso: kor
+    name: 동부 볼리비아 과라니어
+    auto: true
   - translation_iso: por
     name: Guarani oriental boliviano
+  - translation_iso: rus
+    name: восточноболивийский гуарани
   - translation_iso: spa
     name: guaraní oriental boliviano
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ビリ語
     auto: true
+  - translation_iso: kor
+    name: 비리어
+    auto: true
   - translation_iso: por
     name: Biri
     auto: true
+  - translation_iso: rus
+    name: Бири (язык)
   - translation_iso: spa
     name: Idioma biri
   - translation_iso: zho

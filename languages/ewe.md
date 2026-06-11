@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ewe_language"
 translations:
   - translation_iso: ara
     name: لغة الإيوي
+  - translation_iso: ben
+    name: ইউয়ি
   - translation_iso: deu
     name: Ewe
   - translation_iso: fra
     name: ewé
   - translation_iso: hin
     name: एबी भाषा
+  - translation_iso: ind
+    name: Ewe
   - translation_iso: jpn
     name: エウェ語
   - translation_iso: kor
     name: 에웨어
   - translation_iso: por
     name: ewe
+  - translation_iso: rus
+    name: эве
   - translation_iso: spa
     name: ewé
   - translation_iso: zho

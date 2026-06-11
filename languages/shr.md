@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シ語
+  - translation_iso: kor
+    name: 시어
+    auto: true
   - translation_iso: por
     name: Língua shi
   - translation_iso: spa

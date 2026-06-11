@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باريْكانْشي
     auto: true
+  - translation_iso: ben
+    name: বারিকাঞ্চি পিজিন
   - translation_iso: deu
     name: Barikanchi
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリカンチ語
+    auto: true
+  - translation_iso: kor
+    name: 바리칸치어
     auto: true
   - translation_iso: por
     name: Barikanchi

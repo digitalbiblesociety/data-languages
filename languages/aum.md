@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسو
     auto: true
+  - translation_iso: ben
+    name: আসু
   - translation_iso: deu
     name: Asu
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アス語(ナイジェリア)
+    auto: true
+  - translation_iso: kor
+    name: 아수어
     auto: true
   - translation_iso: por
     name: Asu (Nigéria)

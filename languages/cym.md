@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Welsh_language"
 translations:
   - translation_iso: ara
     name: الويلزية
+  - translation_iso: ben
+    name: ওয়েলশ
   - translation_iso: deu
     name: Walisisch
   - translation_iso: fra
     name: gallois
   - translation_iso: hin
     name: वेल्श भाषा
+  - translation_iso: ind
+    name: Welsh
   - translation_iso: jpn
     name: ウェールズ語
   - translation_iso: kor
     name: 웨일스어
   - translation_iso: por
     name: galês
+  - translation_iso: rus
+    name: валлийский
   - translation_iso: spa
     name: galés
   - translation_iso: zho

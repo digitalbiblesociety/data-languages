@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malayalam"
 translations:
   - translation_iso: ara
     name: المليالية
+  - translation_iso: ben
+    name: মালয়ালম
   - translation_iso: deu
     name: Malayalam
   - translation_iso: fra
     name: malayâlam
   - translation_iso: hin
     name: मलयालम भाषा
+  - translation_iso: ind
+    name: Malayalam
   - translation_iso: jpn
     name: マラヤーラム語
   - translation_iso: kor
     name: 말라얄람어
   - translation_iso: por
     name: língua malaiala
+  - translation_iso: rus
+    name: малаялам
   - translation_iso: spa
     name: malabar
   - translation_iso: zho

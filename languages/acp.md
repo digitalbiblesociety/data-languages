@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東部アシパ語
     auto: true
+  - translation_iso: kor
+    name: 동부 아치파어
+    auto: true
   - translation_iso: por
     name: Acipa Oriental
     auto: true

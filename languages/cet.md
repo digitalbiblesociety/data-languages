@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャラア語
+  - translation_iso: kor
+    name: 첸투움어
+    auto: true
   - translation_iso: por
     name: Centúúm
     auto: true
+  - translation_iso: rus
+    name: Джалаа
   - translation_iso: spa
     name: Idioma centúúm
   - translation_iso: zho

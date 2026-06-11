@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: यागनोबी
     auto: true
+  - translation_iso: ind
+    name: bahasa Yaghnob
   - translation_iso: jpn
     name: ヤグノビ語
   - translation_iso: kor
     name: 야그노비어
   - translation_iso: por
     name: Língua yaghnobi
+  - translation_iso: rus
+    name: ягнобский язык
   - translation_iso: spa
     name: yagnobi
   - translation_iso: zho

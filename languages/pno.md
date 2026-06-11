@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パノボ語
     auto: true
+  - translation_iso: kor
+    name: 파노보어
+    auto: true
   - translation_iso: por
     name: Panobo
     auto: true
+  - translation_iso: rus
+    name: Панобо
   - translation_iso: spa
     name: waripano
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・タド語
     auto: true
+  - translation_iso: kor
+    name: 엠베라 타도어
+    auto: true
   - translation_iso: por
     name: Emberá-Tadó
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニャラユ語
     auto: true
+  - translation_iso: kor
+    name: 냘라유어
+    auto: true
   - translation_iso: por
     name: Língua nyelâyu
   - translation_iso: spa

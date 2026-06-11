@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジャウェ語
     auto: true
+  - translation_iso: kor
+    name: 자웨어
+    auto: true
   - translation_iso: por
     name: Jawe
     auto: true

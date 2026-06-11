@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الجادي
     auto: true
+  - translation_iso: ben
+    name: গদিয়ালী ভাষা
   - translation_iso: deu
     name: Gaddi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: गदी
   - translation_iso: jpn
     name: ガッディ語
+    auto: true
+  - translation_iso: kor
+    name: 가디어
     auto: true
   - translation_iso: por
     name: Língua gaddi

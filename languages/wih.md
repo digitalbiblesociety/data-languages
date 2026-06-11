@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・メアンハ語
     auto: true
+  - translation_iso: kor
+    name: 윅메아나어
+    auto: true
   - translation_iso: por
     name: "Wik-Me'anha"
     auto: true

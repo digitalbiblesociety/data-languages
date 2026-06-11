@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: フォルツェナル語
     auto: true
+  - translation_iso: kor
+    name: 포르체날어
+    auto: true
   - translation_iso: por
     name: Fortsenal
     auto: true
+  - translation_iso: rus
+    name: Киаи
   - translation_iso: spa
     name: Idioma de kiai
   - translation_iso: zho

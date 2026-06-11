@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أبيدجي
     auto: true
+  - translation_iso: ben
+    name: আবিদজি
   - translation_iso: deu
     name: Abidschi
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: アビッジ語
     auto: true
+  - translation_iso: kor
+    name: 아비지어
+    auto: true
   - translation_iso: por
     name: Língua abidji
+  - translation_iso: rus
+    name: абиджи
   - translation_iso: spa
     name: Abidji
     auto: true

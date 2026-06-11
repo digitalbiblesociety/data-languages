@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: サンマルティンケチュア語
     auto: true
+  - translation_iso: kor
+    name: 산마르틴 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de San Martín
     auto: true
+  - translation_iso: rus
+    name: Ламасский кечуа
   - translation_iso: spa
     name: quechua lamista
   - translation_iso: zho

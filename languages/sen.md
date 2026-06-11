@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナーニ語
     auto: true
+  - translation_iso: kor
+    name: 나네리게 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Nanerigé
     auto: true

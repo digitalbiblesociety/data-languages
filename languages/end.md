@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: एंडे
     auto: true
+  - translation_iso: ind
+    name: Ende
   - translation_iso: jpn
     name: エンデ語
+    auto: true
+  - translation_iso: kor
+    name: 엔데어
     auto: true
   - translation_iso: por
     name: Ende

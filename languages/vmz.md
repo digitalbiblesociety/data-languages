@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マサトラン・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 마사틀란 마사테카어
+    auto: true
   - translation_iso: por
     name: Mazateco de Mazatlán
     auto: true
+  - translation_iso: rus
+    name: масатланский масатекский язык
   - translation_iso: spa
     name: Mazateco de Mazatlán
   - translation_iso: zho

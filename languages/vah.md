@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فارهادي-ناجبوري
     auto: true
+  - translation_iso: ben
+    name: বর্হাডী বোলী
   - translation_iso: deu
     name: Varhadi-Nagpuri
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: वर्हाडी बोली
   - translation_iso: jpn
     name: ヴァルハディ＝ナーグプリ語
+  - translation_iso: kor
+    name: 바르하디나그푸리어
+    auto: true
   - translation_iso: por
     name: Varhadi-Nagpuri
     auto: true

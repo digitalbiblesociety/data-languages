@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラマ・バイ語
     auto: true
+  - translation_iso: kor
+    name: 라마 바이어
+    auto: true
   - translation_iso: por
     name: Bai de Lama
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seediq_language"
 translations:
   - translation_iso: ara
     name: صديك
+  - translation_iso: ben
+    name: তারোকো
   - translation_iso: deu
     name: Taroko
   - translation_iso: fra
     name: seediq
   - translation_iso: hin
     name: तारोको
+  - translation_iso: ind
+    name: Taroko
   - translation_iso: jpn
     name: セデック語
   - translation_iso: kor
     name: 세디크어
   - translation_iso: por
     name: Língua seediq
+  - translation_iso: rus
+    name: седекский
   - translation_iso: spa
     name: Idioma seediq
   - translation_iso: zho

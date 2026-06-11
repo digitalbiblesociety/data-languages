@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クンジェン語
     auto: true
+  - translation_iso: kor
+    name: 쿤젠어
+    auto: true
   - translation_iso: por
     name: Língua kunjen
   - translation_iso: spa

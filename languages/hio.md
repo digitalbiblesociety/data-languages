@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: त्सोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa  Tshwa
   - translation_iso: jpn
     name: チュワ語
+  - translation_iso: kor
+    name: 초아어
+    auto: true
   - translation_iso: por
     name: Tsoa
     auto: true

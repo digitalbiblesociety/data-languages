@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ボグホム語
     auto: true
+  - translation_iso: kor
+    name: 보곰어
+    auto: true
   - translation_iso: por
     name: Boghom
     auto: true

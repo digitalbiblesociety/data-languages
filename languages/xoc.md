@@ -26,8 +26,11 @@ translations:
   - translation_iso: jpn
     name: オチチ語
     auto: true
+  - translation_iso: kor
+    name: 오치치어
+    auto: true
   - translation_iso: por
-    name: "O'chi'chi'"
+    name: "O'chi'chi"
     auto: true
   - translation_iso: spa
     name: "O'chi'chi"

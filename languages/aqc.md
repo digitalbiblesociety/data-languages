@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرشي
     auto: true
+  - translation_iso: ben
+    name: অর্চি
   - translation_iso: deu
     name: Artschinisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अर्ची
     auto: true
+  - translation_iso: ind
+    name: Archi
   - translation_iso: jpn
     name: アルチ語
   - translation_iso: kor
     name: 아르치어
   - translation_iso: por
     name: Língua archi
+  - translation_iso: rus
+    name: арчинский язык
   - translation_iso: spa
     name: Idioma archi
   - translation_iso: zho

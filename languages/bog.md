@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة باماكو الإشارية
     auto: true
+  - translation_iso: ben
+    name: বামাকো সাংকেতিক ভাষা
   - translation_iso: deu
     name: Bamako Sign Language
     auto: true
@@ -30,8 +32,13 @@ translations:
     name: बामको सांकेतिक भाषा
   - translation_iso: jpn
     name: バマコ手話
+  - translation_iso: kor
+    name: 바마코 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Bamako
+  - translation_iso: rus
+    name: малийский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Bamako
     auto: true

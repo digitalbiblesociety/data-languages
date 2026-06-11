@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムソム語
     auto: true
+  - translation_iso: kor
+    name: 무솜어
+    auto: true
   - translation_iso: por
     name: Musom
     auto: true

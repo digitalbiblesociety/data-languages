@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: シニャル語
     auto: true
+  - translation_iso: kor
+    name: 시냐르어
+    auto: true
   - translation_iso: por
     name: Sinyar
     auto: true
+  - translation_iso: rus
+    name: Синьяр (язык)
   - translation_iso: spa
     name: Sinyar
     auto: true

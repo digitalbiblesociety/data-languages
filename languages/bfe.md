@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيتاف
     auto: true
+  - translation_iso: ben
+    name: বেতাফ
   - translation_iso: deu
     name: Betaf
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेताफ
     auto: true
+  - translation_iso: ind
+    name: Betaf
   - translation_iso: jpn
     name: ベタフ語
+    auto: true
+  - translation_iso: kor
+    name: 베타프어
     auto: true
   - translation_iso: por
     name: Betaf

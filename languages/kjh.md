@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khakas_language"
 translations:
   - translation_iso: ara
     name: الخاكاسية
+  - translation_iso: ben
+    name: খাকাস ভাষা
   - translation_iso: deu
     name: Chakassisch
   - translation_iso: fra
     name: khakasse
   - translation_iso: hin
     name: ख़कास भाषा
+  - translation_iso: ind
+    name: Khakas
   - translation_iso: jpn
     name: ハカス語
   - translation_iso: kor
     name: 하카스어
   - translation_iso: por
     name: Língua khakas
+  - translation_iso: rus
+    name: хакасский язык
   - translation_iso: spa
     name: Idioma jakasio
   - translation_iso: zho

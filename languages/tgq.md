@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トリン語
     auto: true
+  - translation_iso: kor
+    name: 트링어
+    auto: true
   - translation_iso: por
     name: Tring
     auto: true

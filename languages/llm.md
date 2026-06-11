@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ラサリム語
     auto: true
+  - translation_iso: kor
+    name: 라살리무어
+    auto: true
   - translation_iso: por
     name: Lasalimu
     auto: true

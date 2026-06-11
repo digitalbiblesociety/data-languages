@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダンパス語
     auto: true
+  - translation_iso: kor
+    name: 둠파스어
+    auto: true
   - translation_iso: por
     name: Dumpas
     auto: true

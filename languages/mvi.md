@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मियाको
     auto: true
+  - translation_iso: ind
+    name: Bahasa Miyako
   - translation_iso: jpn
     name: 宮古語
   - translation_iso: kor
     name: 미야코어
   - translation_iso: por
     name: Língua miyako
+  - translation_iso: rus
+    name: миякоское наречие
   - translation_iso: spa
     name: idioma miyako
   - translation_iso: zho

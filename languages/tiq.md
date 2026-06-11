@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティエフォ語
     auto: true
+  - translation_iso: kor
+    name: 티에포어
+    auto: true
   - translation_iso: por
     name: Língua tiefo
   - translation_iso: spa

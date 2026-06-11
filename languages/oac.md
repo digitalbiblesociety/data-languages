@@ -34,6 +34,8 @@ translations:
     name: 오로치어
   - translation_iso: por
     name: Língua oroch
+  - translation_iso: rus
+    name: орочский язык
   - translation_iso: spa
     name: oroch
   - translation_iso: zho

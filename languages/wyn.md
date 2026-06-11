@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワイアンドット語
     auto: true
+  - translation_iso: kor
+    name: 와이언도트어
+    auto: true
   - translation_iso: por
     name: Wyandot
     auto: true

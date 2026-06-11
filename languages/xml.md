@@ -20,16 +20,25 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الماليزية
     auto: true
+  - translation_iso: ben
+    name: মালয়েশীয় ইশারা ভাষা
   - translation_iso: deu
     name: Malaiische Gebärdensprache
   - translation_iso: fra
     name: langue des signes malaisienne
   - translation_iso: hin
     name: मलेशियाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Malaysia
   - translation_iso: jpn
     name: マレーシア手話
+  - translation_iso: kor
+    name: 말레이시아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais malasiana
+  - translation_iso: rus
+    name: малайский жестовый язык
   - translation_iso: spa
     name: Lengua de señas malaya
     auto: true

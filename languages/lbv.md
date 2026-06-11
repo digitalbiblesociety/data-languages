@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴァットブラ・ラムソン語
+  - translation_iso: kor
+    name: 라밧부라라무송어
+    auto: true
   - translation_iso: por
     name: Lavatbura-Lamusong
     auto: true

@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: एब्लाइट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ebla
   - translation_iso: jpn
     name: エブラ語
   - translation_iso: kor
     name: 에블라어
   - translation_iso: por
     name: Língua eblaíta
+  - translation_iso: rus
+    name: эблаитский язык
   - translation_iso: spa
     name: Idioma eblaíta
   - translation_iso: zho

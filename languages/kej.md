@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カダル語
     auto: true
+  - translation_iso: kor
+    name: 카다르어
+    auto: true
   - translation_iso: por
     name: Kadar
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングアミニ語
     auto: true
+  - translation_iso: kor
+    name: 응아미니어
+    auto: true
   - translation_iso: por
     name: Língua ngamini
   - translation_iso: spa

@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: यहूदी बेबीलोनियाई अरामी (लगभग 200-1200 ई.)
     auto: true
+  - translation_iso: ind
+    name: bahasa Aram Babilonia Yahudi
   - translation_iso: jpn
     name: ユダヤ・バビロニア・アラム語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Aramaico Babilônico Judaico (ca. 200-1200 d.C.)
     auto: true
+  - translation_iso: rus
+    name: вавилонский иудейско-арамейский язык
   - translation_iso: spa
     name: judeo-arameo babilónico
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: フモング・シュア語
     auto: true
+  - translation_iso: kor
+    name: 몽 슈아어
+    auto: true
   - translation_iso: por
     name: Hmong Shua
     auto: true

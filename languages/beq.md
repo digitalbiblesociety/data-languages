@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيمبي
     auto: true
+  - translation_iso: ben
+    name: বেম্বে
   - translation_iso: deu
     name: Beembe
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベエムベ語
+    auto: true
+  - translation_iso: kor
+    name: 벰베어
     auto: true
   - translation_iso: por
     name: Língua bembe

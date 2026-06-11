@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-بيا
     auto: true
+  - translation_iso: ben
+    name: আকা বিয়া ভাষা
   - translation_iso: deu
     name: Aka-Bea
     auto: true
@@ -29,6 +31,8 @@ translations:
     auto: true
   - translation_iso: hin
     name: अका बिया भाषा
+  - translation_iso: ind
+    name: Bahasa Aka-Bea
   - translation_iso: jpn
     name: Aka-Bea族の言葉
   - translation_iso: kor
@@ -36,6 +40,8 @@ translations:
   - translation_iso: por
     name: Aka-Bea
     auto: true
+  - translation_iso: rus
+    name: беа
   - translation_iso: spa
     name: Idioma bea
   - translation_iso: zho

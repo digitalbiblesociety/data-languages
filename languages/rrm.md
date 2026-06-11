@@ -24,6 +24,8 @@ translations:
   - translation_iso: hin
     name: मोरिओरी
     auto: true
+  - translation_iso: ind
+    name: Moriori
   - translation_iso: jpn
     name: モリオリ語
   - translation_iso: kor

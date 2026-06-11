@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة لاسي
     auto: true
+  - translation_iso: ben
+    name: লাসি
   - translation_iso: deu
     name: Lasi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: लासी
   - translation_iso: jpn
     name: ラシ語
+    auto: true
+  - translation_iso: kor
+    name: 라시어
     auto: true
   - translation_iso: por
     name: Lasi

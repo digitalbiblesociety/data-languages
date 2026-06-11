@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: キリケ語
     auto: true
+  - translation_iso: kor
+    name: 키리케어
+    auto: true
   - translation_iso: por
     name: Kirike
     auto: true
+  - translation_iso: rus
+    name: кирике
   - translation_iso: spa
     name: Kirike
     auto: true

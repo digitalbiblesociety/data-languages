@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パカラオスケチュア語
     auto: true
+  - translation_iso: kor
+    name: 파카라오스 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Pacaraos
     auto: true
+  - translation_iso: rus
+    name: Пакараосский кечуа
   - translation_iso: spa
     name: quechua de Pacaraos
   - translation_iso: zho

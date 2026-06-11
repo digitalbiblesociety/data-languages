@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チトワニア・タル語
     auto: true
+  - translation_iso: kor
+    name: 치트와니아 타루어
+    auto: true
   - translation_iso: por
     name: Tharu de Chitwania
     auto: true

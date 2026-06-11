@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: hin
     name: दार्लोंग भाषा
+  - translation_iso: ind
+    name: Darlong
   - translation_iso: jpn
     name: ダルロング語
+    auto: true
+  - translation_iso: kor
+    name: 다를롱어
     auto: true
   - translation_iso: por
     name: Darlong

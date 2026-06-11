@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पेकाल
     auto: true
+  - translation_iso: ind
+    name: Pekal
   - translation_iso: jpn
     name: ペカル語
+    auto: true
+  - translation_iso: kor
+    name: 페칼어
     auto: true
   - translation_iso: por
     name: Pekal

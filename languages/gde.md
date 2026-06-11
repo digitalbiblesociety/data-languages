@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グデ語
     auto: true
+  - translation_iso: kor
+    name: 구데어
+    auto: true
   - translation_iso: por
     name: Gude
     auto: true

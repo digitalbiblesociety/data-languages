@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: サウ語
     auto: true
+  - translation_iso: kor
+    name: 삼베리기어
+    auto: true
   - translation_iso: por
     name: Samberigi
     auto: true

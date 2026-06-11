@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: पिलेनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pileni
   - translation_iso: jpn
     name: ビカウ・タウマコ語
+  - translation_iso: kor
+    name: 필레니어
+    auto: true
   - translation_iso: por
     name: Língua vaeakau-taumako
+  - translation_iso: rus
+    name: Пилени
   - translation_iso: spa
     name: Pileni
     auto: true

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラースゲルド語
+  - translation_iso: kor
+    name: 라스게르디어
+    auto: true
   - translation_iso: por
     name: Lasgerdi
     auto: true
+  - translation_iso: rus
+    name: Ласгерди
   - translation_iso: spa
     name: Lasgerdi
     auto: true

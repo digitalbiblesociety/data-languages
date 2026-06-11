@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クンサ語
+  - translation_iso: kor
+    name: 쿤사어
+    auto: true
   - translation_iso: por
     name: Língua kunza
+  - translation_iso: rus
+    name: Кунса
   - translation_iso: spa
     name: Kunza
   - translation_iso: zho

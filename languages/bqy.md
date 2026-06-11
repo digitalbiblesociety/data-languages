@@ -26,10 +26,17 @@ translations:
     name: langue des signes de Bengkala
   - translation_iso: hin
     name: काटा कोलोक
+  - translation_iso: ind
+    name: Kata Kolok
   - translation_iso: jpn
     name: カタ・コロック
+  - translation_iso: kor
+    name: 벵칼라 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Kata Kolok
+  - translation_iso: rus
+    name: балийский жестовый язык
   - translation_iso: spa
     name: Desa Kolok
   - translation_iso: zho

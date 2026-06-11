@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボンドゥークー・クランゴ語
     auto: true
+  - translation_iso: kor
+    name: 본두쿠 쿨랑고어
+    auto: true
   - translation_iso: por
     name: Kulango de Bondoukou
     auto: true

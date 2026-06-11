@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ルングワ語
     auto: true
+  - translation_iso: kor
+    name: 룽과어
+    auto: true
   - translation_iso: por
     name: Rungwa
     auto: true

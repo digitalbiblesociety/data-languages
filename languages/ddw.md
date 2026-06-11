@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दावेरा-दावेलूर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dawera-Daweloor
   - translation_iso: jpn
     name: ダウェラ・ダウェロール語
+    auto: true
+  - translation_iso: kor
+    name: 다웨라다웰로르어
     auto: true
   - translation_iso: por
     name: Dawera-Daweloor

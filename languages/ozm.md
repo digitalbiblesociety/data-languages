@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クーンジメ語
     auto: true
+  - translation_iso: kor
+    name: 콘지메어
+    auto: true
   - translation_iso: por
     name: Koonzime
     auto: true

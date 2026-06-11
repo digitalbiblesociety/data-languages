@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガライ語
+  - translation_iso: kor
+    name: 망가라이어
+    auto: true
   - translation_iso: por
     name: Mangarrayi
     auto: true
+  - translation_iso: rus
+    name: Мангаррайи
   - translation_iso: spa
     name: Mangarrayi
     auto: true

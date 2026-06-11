@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥグリ語
     auto: true
+  - translation_iso: kor
+    name: 두구리어
+    auto: true
   - translation_iso: por
     name: Duguri
     auto: true

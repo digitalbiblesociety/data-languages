@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モマレ語
     auto: true
+  - translation_iso: kor
+    name: 모마레어
+    auto: true
   - translation_iso: por
     name: Momare
     auto: true

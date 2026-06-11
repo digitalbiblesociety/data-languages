@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キベット語
     auto: true
+  - translation_iso: kor
+    name: 키베트어
+    auto: true
   - translation_iso: por
     name: Kibet
     auto: true

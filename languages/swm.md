@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サモサ語
+  - translation_iso: kor
+    name: 사모사어
+    auto: true
   - translation_iso: por
     name: Samosa
     auto: true

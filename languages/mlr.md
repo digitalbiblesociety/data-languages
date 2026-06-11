@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヴァメ語
     auto: true
+  - translation_iso: kor
+    name: 바메어
+    auto: true
   - translation_iso: por
     name: Vame
     auto: true
+  - translation_iso: rus
+    name: Ваме
   - translation_iso: spa
     name: Vame
     auto: true

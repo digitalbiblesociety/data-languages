@@ -32,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部ボリビア・グアラニー語
+  - translation_iso: kor
+    name: 서부 볼리비아 과라니어
+    auto: true
   - translation_iso: por
     name: Guarani ocidental boliviano
+  - translation_iso: rus
+    name: Западноболивийский гуарани
   - translation_iso: spa
     name: Guaraní occidental boliviano
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أريكيم
     auto: true
+  - translation_iso: ben
+    name: আরিকেম
   - translation_iso: deu
     name: Arikem
     auto: true
@@ -33,8 +35,13 @@ translations:
   - translation_iso: jpn
     name: アリケム語
     auto: true
+  - translation_iso: kor
+    name: 아리켐어
+    auto: true
   - translation_iso: por
     name: Língua ariquém
+  - translation_iso: rus
+    name: Арикем
   - translation_iso: spa
     name: Arikem
     auto: true

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラグ語
+  - translation_iso: kor
+    name: 라구어
+    auto: true
   - translation_iso: por
     name: Laghu
     auto: true
+  - translation_iso: rus
+    name: Лагу
   - translation_iso: spa
     name: Idioma Laghu
   - translation_iso: zho

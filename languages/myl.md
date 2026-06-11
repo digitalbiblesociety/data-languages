@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मोमा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Moma
   - translation_iso: jpn
     name: モマ語
+    auto: true
+  - translation_iso: kor
+    name: 모마어
     auto: true
   - translation_iso: por
     name: Moma

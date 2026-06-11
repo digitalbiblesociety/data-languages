@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/German_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الألمانية
+  - translation_iso: ben
+    name: জার্মান ইশারা ভাষা
   - translation_iso: deu
     name: Deutsche Gebärdensprache
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: जर्मन सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Jerman
   - translation_iso: jpn
     name: ドイツ手話
   - translation_iso: kor
     name: 독일 수화
   - translation_iso: por
     name: língua gestual alemã
+  - translation_iso: rus
+    name: германский жестовый язык
   - translation_iso: spa
     name: lengua de señas alemana
   - translation_iso: zho

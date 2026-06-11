@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤオウレ語
     auto: true
+  - translation_iso: kor
+    name: 야우레어
+    auto: true
   - translation_iso: por
     name: yaouré
     auto: true

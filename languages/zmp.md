@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Mpuono語
+  - translation_iso: kor
+    name: 음푸오노어
+    auto: true
   - translation_iso: por
     name: Mpuono
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラトゥンデ語
     auto: true
+  - translation_iso: kor
+    name: 라툰데어
+    auto: true
   - translation_iso: por
     name: Língua latundê
   - translation_iso: spa

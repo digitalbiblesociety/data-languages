@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: エル・アルト・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 엘알토 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de El Alto
     auto: true
+  - translation_iso: rus
+    name: Эль-альтский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de El Alto
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chukchi_language"
 translations:
   - translation_iso: ara
     name: لغة تشوكشي
+  - translation_iso: ben
+    name: চুকচি ভাষা
   - translation_iso: deu
     name: Tschuktschisch
   - translation_iso: fra
     name: tchouktche
   - translation_iso: hin
     name: चुकची भाषा
+  - translation_iso: ind
+    name: Chukchi
   - translation_iso: jpn
     name: チュクチ語
   - translation_iso: kor
     name: 축치어
   - translation_iso: por
     name: Língua chukoto
+  - translation_iso: rus
+    name: чукотский язык
   - translation_iso: spa
     name: Idioma chucoto
   - translation_iso: zho

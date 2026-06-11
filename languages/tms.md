@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ティマ語
     auto: true
+  - translation_iso: kor
+    name: 티마어
+    auto: true
   - translation_iso: por
     name: Tima
     auto: true

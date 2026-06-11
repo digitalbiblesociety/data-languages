@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: लामाहोलोत
     auto: true
+  - translation_iso: ind
+    name: Lamaholot
   - translation_iso: jpn
     name: ラマホロット語
+  - translation_iso: kor
+    name: 라마홀로트어
+    auto: true
   - translation_iso: por
     name: Língua lamahólot
+  - translation_iso: rus
+    name: ламахолот (язык)
   - translation_iso: spa
     name: Lamaholot
   - translation_iso: zho

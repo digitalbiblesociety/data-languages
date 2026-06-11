@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أماهاي
     auto: true
+  - translation_iso: ben
+    name: আমাহাই
   - translation_iso: deu
     name: Amahai
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: अमाहाई
     auto: true
+  - translation_iso: ind
+    name: Amahai
   - translation_iso: jpn
     name: アマハイ語
+  - translation_iso: kor
+    name: 아마하이어
+    auto: true
   - translation_iso: por
     name: Amahai
   - translation_iso: spa

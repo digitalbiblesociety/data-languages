@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ヤカイ語
     auto: true
+  - translation_iso: kor
+    name: 야카이어
+    auto: true
   - translation_iso: por
     name: Yaqay
     auto: true

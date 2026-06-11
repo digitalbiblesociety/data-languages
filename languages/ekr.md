@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤセ語
     auto: true
+  - translation_iso: kor
+    name: 야체어
+    auto: true
   - translation_iso: por
     name: Yace
     auto: true

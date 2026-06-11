@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムリク語
     auto: true
+  - translation_iso: kor
+    name: 무리크어
+    auto: true
   - translation_iso: por
     name: Murik (Papua-Nova Guiné)
     auto: true

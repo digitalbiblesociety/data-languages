@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ताइकात
     auto: true
+  - translation_iso: ind
+    name: Arso
   - translation_iso: jpn
     name: タイカット語
+    auto: true
+  - translation_iso: kor
+    name: 타이카트어
     auto: true
   - translation_iso: por
     name: Taikat

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: क्रियो
     auto: true
+  - translation_iso: ind
+    name: Krio
   - translation_iso: jpn
     name: クリオ語
   - translation_iso: kor
     name: 크리오
   - translation_iso: por
     name: Língua krio
+  - translation_iso: rus
+    name: Крио
   - translation_iso: spa
     name: Criollo sierraleonés
   - translation_iso: zho

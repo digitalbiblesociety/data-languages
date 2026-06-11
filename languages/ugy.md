@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
+  - translation_iso: kor
+    name: 우루과이 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais do Uruguai
   - translation_iso: spa

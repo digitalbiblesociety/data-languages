@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: जिन चीनी
     auto: true
+  - translation_iso: ind
+    name: Jin
   - translation_iso: jpn
     name: 晋語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Chinês jin
     auto: true
+  - translation_iso: rus
+    name: цзинь
   - translation_iso: spa
     name: chino jin
   - translation_iso: zho

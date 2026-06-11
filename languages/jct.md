@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كريمتشاك
     auto: true
+  - translation_iso: ben
+    name: ক্রিমচাক ভাষা
   - translation_iso: deu
     name: Krimtschakisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 크림차크어
   - translation_iso: por
     name: krimchaque
+  - translation_iso: rus
+    name: крымчакский язык
   - translation_iso: spa
     name: crimchaco
   - translation_iso: zho

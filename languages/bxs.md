@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブサム語
     auto: true
+  - translation_iso: kor
+    name: 부삼어
+    auto: true
   - translation_iso: por
     name: Busam
     auto: true

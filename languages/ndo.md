@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndonga"
 translations:
   - translation_iso: ara
     name: الندونجا
+  - translation_iso: ben
+    name: এন্দোঙ্গা
   - translation_iso: deu
     name: Ndonga
   - translation_iso: fra
     name: ndonga
   - translation_iso: hin
     name: डोन्गा
+  - translation_iso: ind
+    name: Ndonga
   - translation_iso: jpn
     name: ンドンガ語
   - translation_iso: kor
     name: 느동가어
   - translation_iso: por
     name: xindonga
+  - translation_iso: rus
+    name: ндонга
   - translation_iso: spa
     name: ndonga
   - translation_iso: zho

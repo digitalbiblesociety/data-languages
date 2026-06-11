@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カーテ語
+  - translation_iso: kor
+    name: 카테어
+    auto: true
   - translation_iso: por
     name: Kâte
     auto: true
+  - translation_iso: rus
+    name: Кате (язык)
   - translation_iso: spa
     name: Kâte
     auto: true

@@ -21,18 +21,24 @@ translations:
   - translation_iso: ara
     name: كار نيكوبارية
     auto: true
+  - translation_iso: ben
+    name: কার ভাষা
   - translation_iso: deu
     name: Car
   - translation_iso: fra
     name: car
   - translation_iso: hin
     name: कार भाषा
+  - translation_iso: ind
+    name: bahasa Car
   - translation_iso: jpn
     name: カー語
   - translation_iso: kor
     name: 카어
   - translation_iso: por
     name: Língua car
+  - translation_iso: rus
+    name: кар
   - translation_iso: spa
     name: lengua car
   - translation_iso: zho

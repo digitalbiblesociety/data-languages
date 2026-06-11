@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84ynu_language"
 translations:
   - translation_iso: ara
     name: لغة آينو
+  - translation_iso: ben
+    name: এইনু ভাষা
   - translation_iso: deu
     name: Äynu
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 애이누어
   - translation_iso: por
     name: Língua aini
+  - translation_iso: rus
+    name: Айнийский язык
   - translation_iso: spa
     name: aini
   - translation_iso: zho

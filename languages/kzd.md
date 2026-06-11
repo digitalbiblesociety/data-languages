@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: कदाई
     auto: true
+  - translation_iso: ind
+    name: Kadai
   - translation_iso: jpn
     name: カダイ語
+    auto: true
+  - translation_iso: kor
+    name: 카다이어
     auto: true
   - translation_iso: por
     name: Kadai

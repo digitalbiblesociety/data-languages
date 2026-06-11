@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドゥングラ・ビル語
     auto: true
+  - translation_iso: kor
+    name: 둥그라 빌어
+    auto: true
   - translation_iso: por
     name: Bhil Dungra
     auto: true

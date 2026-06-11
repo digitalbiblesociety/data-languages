@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chipewyan_language"
 translations:
   - translation_iso: ara
     name: الشيباوايان
+  - translation_iso: ben
+    name: চিপেওয়ান
   - translation_iso: deu
     name: Chipewyan
   - translation_iso: fra
     name: chipewyan
   - translation_iso: hin
     name: शिपेव्यान
+  - translation_iso: ind
+    name: Chipewyan
   - translation_iso: jpn
     name: チペワイアン語
   - translation_iso: kor
     name: 치퍼와이언어
   - translation_iso: por
     name: língua chipewyan
+  - translation_iso: rus
+    name: чипевьян
   - translation_iso: spa
     name: idioma dene suliné
   - translation_iso: zho

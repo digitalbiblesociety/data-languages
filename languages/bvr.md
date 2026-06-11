@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ブラッラ語
     auto: true
+  - translation_iso: kor
+    name: 부라라어
+    auto: true
   - translation_iso: por
     name: Burarra
     auto: true
+  - translation_iso: rus
+    name: Бурарра
   - translation_iso: spa
     name: Burarra
     auto: true

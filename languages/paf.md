@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パラナワッ語
     auto: true
+  - translation_iso: kor
+    name: 파라나와트어
+    auto: true
   - translation_iso: por
     name: Paranawát
     auto: true

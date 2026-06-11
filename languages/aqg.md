@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أريجيدي
     auto: true
+  - translation_iso: ben
+    name: আকোকো
   - translation_iso: deu
     name: Akoko
   - translation_iso: fra
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アリギディ語
     auto: true
+  - translation_iso: kor
+    name: 아리기디어
+    auto: true
   - translation_iso: por
     name: Língua arigidi
+  - translation_iso: rus
+    name: Акоко
   - translation_iso: spa
     name: Arigidi
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सिकारितई
     auto: true
+  - translation_iso: ind
+    name: Aikwakai
   - translation_iso: jpn
     name: トリ・アイクワカイ語
+    auto: true
+  - translation_iso: kor
+    name: 시카리타이어
     auto: true
   - translation_iso: por
     name: Aikwakai

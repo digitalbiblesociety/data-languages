@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファラム語
+  - translation_iso: kor
+    name: 팔람 친어
+    auto: true
   - translation_iso: por
     name: Chin Falam
     auto: true

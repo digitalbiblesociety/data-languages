@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ラン語
     auto: true
+  - translation_iso: kor
+    name: 랑어
+    auto: true
   - translation_iso: por
     name: Rang
     auto: true
+  - translation_iso: rus
+    name: Ранг
   - translation_iso: spa
     name: Rang
     auto: true

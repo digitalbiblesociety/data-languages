@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サール語
+  - translation_iso: kor
+    name: 사르어
+    auto: true
   - translation_iso: por
     name: Língua sar
+  - translation_iso: rus
+    name: Сар
   - translation_iso: spa
     name: sar
   - translation_iso: zho

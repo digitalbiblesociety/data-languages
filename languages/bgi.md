@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: गियांगन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Klata
   - translation_iso: jpn
     name: ギアンガン語
+    auto: true
+  - translation_iso: kor
+    name: 기앙안어
     auto: true
   - translation_iso: por
     name: Língua klata

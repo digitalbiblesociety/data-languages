@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: マンナ・ドラ語
     auto: true
+  - translation_iso: kor
+    name: 만나도라어
+    auto: true
   - translation_iso: por
     name: Manna-Dora
     auto: true

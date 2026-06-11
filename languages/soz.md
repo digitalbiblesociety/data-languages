@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: テミ語
     auto: true
+  - translation_iso: kor
+    name: 테미어
+    auto: true
   - translation_iso: por
     name: Temi
     auto: true
+  - translation_iso: rus
+    name: сонджо
   - translation_iso: spa
     name: sonjo
   - translation_iso: zho

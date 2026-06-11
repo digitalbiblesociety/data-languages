@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グラマ語
     auto: true
+  - translation_iso: kor
+    name: 쿠라마어
+    auto: true
   - translation_iso: por
     name: Kurrama
     auto: true

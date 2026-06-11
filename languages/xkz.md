@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルトプ語
+  - translation_iso: kor
+    name: 쿠르토카어
+    auto: true
   - translation_iso: por
     name: Língua kurtöp
+  - translation_iso: rus
+    name: Курто-кха
   - translation_iso: spa
     name: Kurtokha
     auto: true

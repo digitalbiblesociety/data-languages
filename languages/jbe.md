@@ -24,8 +24,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・ベルベル語
+  - translation_iso: kor
+    name: 유대 베르베르어
+    auto: true
   - translation_iso: por
     name: Judeu-berbere
+  - translation_iso: rus
+    name: еврейско-берберские диалекты
   - translation_iso: spa
     name: judeo-bereber
   - translation_iso: zho

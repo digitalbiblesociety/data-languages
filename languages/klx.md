@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コルワワ語
     auto: true
+  - translation_iso: kor
+    name: 콜루와와어
+    auto: true
   - translation_iso: por
     name: Koluwawa
     auto: true
+  - translation_iso: rus
+    name: Колувава
   - translation_iso: spa
     name: Koluwawa
     auto: true

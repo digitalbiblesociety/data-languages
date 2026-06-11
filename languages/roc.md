@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カギアログライ語
     auto: true
+  - translation_iso: kor
+    name: 칵자 로글라이어
+    auto: true
   - translation_iso: por
     name: Roglai Cacgia
     auto: true

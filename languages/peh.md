@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: बोनान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bonan
   - translation_iso: jpn
     name: バオアン語
   - translation_iso: kor
     name: 바오안어
   - translation_iso: por
     name: Língua bonã
+  - translation_iso: rus
+    name: баоаньский язык
   - translation_iso: spa
     name: Idioma bonán
   - translation_iso: zho

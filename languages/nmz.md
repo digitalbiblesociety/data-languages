@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ナウドム語
     auto: true
+  - translation_iso: kor
+    name: 나우듬어
+    auto: true
   - translation_iso: por
     name: Nawdm
     auto: true
+  - translation_iso: rus
+    name: наудм
   - translation_iso: spa
     name: Nawdm
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラマ語
+  - translation_iso: kor
+    name: 마라마어
+    auto: true
   - translation_iso: por
     name: Marama
     auto: true

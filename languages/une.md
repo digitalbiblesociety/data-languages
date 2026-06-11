@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウネメ・ネクア語
     auto: true
+  - translation_iso: kor
+    name: 우네메어
+    auto: true
   - translation_iso: por
     name: Uneme
     auto: true

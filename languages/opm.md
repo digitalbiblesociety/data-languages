@@ -35,6 +35,8 @@ translations:
     name: 오크사프민어
   - translation_iso: por
     name: Língua oksapmin
+  - translation_iso: rus
+    name: оксапмин
   - translation_iso: spa
     name: Idioma oksapmin
   - translation_iso: zho

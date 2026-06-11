@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マジ語
     auto: true
+  - translation_iso: kor
+    name: 마지어
+    auto: true
   - translation_iso: por
     name: Majhi
     auto: true

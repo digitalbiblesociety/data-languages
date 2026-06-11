@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ishkashimi_language"
 translations:
   - translation_iso: ara
     name: اللغة_الإشكاشمية
+  - translation_iso: ben
+    name: ইশকাশিমি ভাষা
   - translation_iso: deu
     name: Ishkashimi
   - translation_iso: fra
@@ -27,10 +29,17 @@ translations:
   - translation_iso: hin
     name: इश्काशिमी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ishkashimi
   - translation_iso: jpn
     name: イシュカシム語
+  - translation_iso: kor
+    name: 이슈카시미어
+    auto: true
   - translation_iso: por
     name: Língua ishkashimi
+  - translation_iso: rus
+    name: ишкашимский язык
   - translation_iso: spa
     name: Idioma ishkashimi
   - translation_iso: zho

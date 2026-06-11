@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アッパー・キナバタンガン語
     auto: true
+  - translation_iso: kor
+    name: 상부 키나바탕안어
+    auto: true
   - translation_iso: por
     name: Kinabatangan Superior
     auto: true

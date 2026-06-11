@@ -34,6 +34,8 @@ translations:
     name: 차후르어
   - translation_iso: por
     name: Língua tsakhur
+  - translation_iso: rus
+    name: цахурский язык
   - translation_iso: spa
     name: Idioma tsajur
   - translation_iso: zho

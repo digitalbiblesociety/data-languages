@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लाम्मा
     auto: true
+  - translation_iso: ind
+    name: Lamma
   - translation_iso: jpn
     name: ランマ語
+    auto: true
+  - translation_iso: kor
+    name: 람마어
     auto: true
   - translation_iso: por
     name: Lamma

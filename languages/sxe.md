@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シグ語
     auto: true
+  - translation_iso: kor
+    name: 시구어
+    auto: true
   - translation_iso: por
     name: Sighu
     auto: true

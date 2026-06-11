@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ジャングル・インガ語
     auto: true
+  - translation_iso: kor
+    name: 정글 잉가어
+    auto: true
   - translation_iso: por
     name: Inga da Selva
     auto: true

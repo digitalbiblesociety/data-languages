@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: स्मार्की कनुम
     auto: true
+  - translation_iso: ind
+    name: Kanum Smarky
   - translation_iso: jpn
     name: スメルキー・カヌム語
+    auto: true
+  - translation_iso: kor
+    name: 스메르키 카눔어
     auto: true
   - translation_iso: por
     name: Kanum Smärky

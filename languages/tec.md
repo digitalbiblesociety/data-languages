@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テリク語
+  - translation_iso: kor
+    name: 테릭어
+    auto: true
   - translation_iso: por
     name: Terik
     auto: true

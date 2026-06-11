@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: ben
+    name: বেটে
   - translation_iso: deu
     name: Bete
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ語
+  - translation_iso: kor
+    name: 베테어
+    auto: true
   - translation_iso: por
     name: Bete
     auto: true

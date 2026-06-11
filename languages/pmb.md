@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パンビア語
     auto: true
+  - translation_iso: kor
+    name: 팜비아어
+    auto: true
   - translation_iso: por
     name: Pambia
     auto: true

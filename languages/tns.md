@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テニス語
+  - translation_iso: kor
+    name: 테니스어
+    auto: true
   - translation_iso: por
     name: Tenis
     auto: true

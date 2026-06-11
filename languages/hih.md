@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パモス語
     auto: true
+  - translation_iso: kor
+    name: 파모수어
+    auto: true
   - translation_iso: por
     name: Pamosu
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボウィリ語
+  - translation_iso: kor
+    name: 투울리어
+    auto: true
   - translation_iso: por
     name: Tuwuli
     auto: true

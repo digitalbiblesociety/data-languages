@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ブンガンディッジ語
     auto: true
+  - translation_iso: kor
+    name: 붕간디치어
+    auto: true
   - translation_iso: por
     name: Bunganditj
     auto: true
+  - translation_iso: rus
+    name: Бунгандидж
   - translation_iso: spa
     name: Idioma bungandidj
   - translation_iso: zho

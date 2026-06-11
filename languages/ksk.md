@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カンサ語
     auto: true
+  - translation_iso: kor
+    name: 캔자어
+    auto: true
   - translation_iso: por
     name: Kansa
+  - translation_iso: rus
+    name: Канса
   - translation_iso: spa
     name: kansa
   - translation_iso: zho

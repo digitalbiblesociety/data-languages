@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 上チヘリス語
+  - translation_iso: kor
+    name: 고지 체할리스어
+    auto: true
   - translation_iso: por
     name: Chehalis superior
     auto: true
+  - translation_iso: rus
+    name: верхний чехалис
   - translation_iso: spa
     name: Chehalis Alto
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クワミ語
     auto: true
+  - translation_iso: kor
+    name: 콰미어
+    auto: true
   - translation_iso: por
     name: Kwami
     auto: true

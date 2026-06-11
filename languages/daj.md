@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ダルフール・ダジュ語
     auto: true
+  - translation_iso: kor
+    name: 다르푸르 다주어
+    auto: true
   - translation_iso: por
     name: Daju de Dar Fur
     auto: true

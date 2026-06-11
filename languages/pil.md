@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ヨム語
     auto: true
+  - translation_iso: kor
+    name: 욤어
+    auto: true
   - translation_iso: por
     name: Yom
     auto: true
+  - translation_iso: rus
+    name: Йом (язык)
   - translation_iso: spa
     name: Yom
     auto: true

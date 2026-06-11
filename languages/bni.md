@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانجي
     auto: true
+  - translation_iso: ben
+    name: বাঙ্গি
   - translation_iso: deu
     name: Bangi
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボバンギ語
+  - translation_iso: kor
+    name: 방기어
+    auto: true
   - translation_iso: por
     name: Bangi
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويرا
     auto: true
+  - translation_iso: ben
+    name: আওয়েরা
   - translation_iso: deu
     name: Awera
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अवेरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awera
   - translation_iso: jpn
     name: アウェラ語
+    auto: true
+  - translation_iso: kor
+    name: 아웨라어
     auto: true
   - translation_iso: por
     name: Awera

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: スルイ・ド・パラ語
     auto: true
+  - translation_iso: kor
+    name: 수루이 두 파라어
+    auto: true
   - translation_iso: por
     name: Língua suruí-aiqueuara
+  - translation_iso: rus
+    name: Паранский суруйский язык
   - translation_iso: spa
     name: Suruí del Pará
     auto: true

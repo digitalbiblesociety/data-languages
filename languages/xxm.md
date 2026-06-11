@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミンキン語
     auto: true
+  - translation_iso: kor
+    name: 민킨어
+    auto: true
   - translation_iso: por
     name: minkin
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西ペナン語
     auto: true
+  - translation_iso: kor
+    name: 서부 페난어
+    auto: true
   - translation_iso: por
     name: Penan Ocidental
     auto: true

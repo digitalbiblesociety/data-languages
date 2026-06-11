@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フディ語
+  - translation_iso: kor
+    name: 흐디어
+    auto: true
   - translation_iso: por
     name: Língua hdi
   - translation_iso: spa

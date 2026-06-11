@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Slovak_language"
 translations:
   - translation_iso: ara
     name: السلوفاكية
+  - translation_iso: ben
+    name: স্লোভাক
   - translation_iso: deu
     name: Slowakisch
   - translation_iso: fra
     name: slovaque
   - translation_iso: hin
     name: स्लोवाक भाषा
+  - translation_iso: ind
+    name: Slovak
   - translation_iso: jpn
     name: スロバキア語
   - translation_iso: kor
     name: 슬로바키아어
   - translation_iso: por
     name: eslovaco
+  - translation_iso: rus
+    name: словацкий
   - translation_iso: spa
     name: eslovaco
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タワ語
     auto: true
+  - translation_iso: kor
+    name: 타와어
+    auto: true
   - translation_iso: por
     name: thawa
     auto: true

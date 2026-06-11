@@ -29,11 +29,16 @@ translations:
   - translation_iso: hin
     name: बेन्यादु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Benyadu
   - translation_iso: jpn
     name: ベニャドゥ語
     auto: true
+  - translation_iso: kor
+    name: 베냐두어
+    auto: true
   - translation_iso: por
-    name: "Benyadu'"
+    name: Benyadu
     auto: true
   - translation_iso: spa
     name: Benyadu

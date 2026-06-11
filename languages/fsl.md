@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/French_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الفرنسية
+  - translation_iso: ben
+    name: ফরাসি ইশারা ভাষা
   - translation_iso: deu
     name: Langue des signes française
   - translation_iso: fra
     name: langue des signes française
   - translation_iso: hin
     name: फ्रेंच साइन लैंग्वेज
+  - translation_iso: ind
+    name: Bahasa Isyarat Prancis
   - translation_iso: jpn
     name: フランス手話
   - translation_iso: kor
     name: 프랑스 수화
   - translation_iso: por
     name: língua de sinais francesa
+  - translation_iso: rus
+    name: французский жестовый язык
   - translation_iso: spa
     name: lengua de señas francesa
   - translation_iso: zho

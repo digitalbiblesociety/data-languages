@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kabardian_language"
 translations:
   - translation_iso: ara
     name: القبردينية
+  - translation_iso: ben
+    name: কাবার্ডিয়ান
   - translation_iso: deu
     name: Kabardinisch
   - translation_iso: fra
     name: kabarde
   - translation_iso: hin
     name: चरकसी भाषा
+  - translation_iso: ind
+    name: Kabardi
   - translation_iso: jpn
     name: カバルド語
   - translation_iso: kor
     name: 카바르디어
   - translation_iso: por
     name: Língua cabardiana
+  - translation_iso: rus
+    name: кабардинский
   - translation_iso: spa
     name: cabardino
   - translation_iso: zho

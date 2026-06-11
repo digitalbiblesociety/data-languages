@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: トゥパリ語
     auto: true
+  - translation_iso: kor
+    name: 투파리어
+    auto: true
   - translation_iso: por
     name: Língua tupari
+  - translation_iso: rus
+    name: Тупари
   - translation_iso: spa
     name: Tuparí
     auto: true

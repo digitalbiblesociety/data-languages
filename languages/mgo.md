@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Meta%CA%BC_language"
 translations:
   - translation_iso: ara
     name: ميتا
+  - translation_iso: ben
+    name: মেটা
   - translation_iso: deu
     name: Meta
   - translation_iso: fra
     name: meta’
   - translation_iso: hin
     name: मेटा
+  - translation_iso: ind
+    name: Meta’
   - translation_iso: jpn
     name: メタ語
   - translation_iso: kor
     name: 메타어
   - translation_iso: por
     name: meta’
+  - translation_iso: rus
+    name: мета
   - translation_iso: spa
     name: meta’
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カランギャ語
     auto: true
+  - translation_iso: kor
+    name: 칼랑구야어
+    auto: true
   - translation_iso: por
     name: Kalanguya
     auto: true

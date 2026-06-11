@@ -20,18 +20,24 @@ wikidata_id: Q12952751
 translations:
   - translation_iso: ara
     name: الماتشامية
+  - translation_iso: ben
+    name: মাকামে
   - translation_iso: deu
     name: Machame
   - translation_iso: fra
     name: machame
   - translation_iso: hin
     name: मैकहैमे
+  - translation_iso: ind
+    name: Machame
   - translation_iso: jpn
     name: マチャメ語
   - translation_iso: kor
     name: 마차메어
   - translation_iso: por
     name: machame
+  - translation_iso: rus
+    name: мачаме
   - translation_iso: spa
     name: machame
   - translation_iso: zho

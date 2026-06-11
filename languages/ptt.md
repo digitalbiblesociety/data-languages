@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: एनरेकांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Enrekang
   - translation_iso: jpn
     name: エンレカン語
+    auto: true
+  - translation_iso: kor
+    name: 엔레캉어
     auto: true
   - translation_iso: por
     name: Enrekang
     auto: true
+  - translation_iso: rus
+    name: Энреканг
   - translation_iso: spa
     name: Enrekang
     auto: true

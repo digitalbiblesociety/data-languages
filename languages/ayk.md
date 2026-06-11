@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكو
     auto: true
+  - translation_iso: ben
+    name: আকুকু
   - translation_iso: deu
     name: Akuku
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクク語
+    auto: true
+  - translation_iso: kor
+    name: 아쿠쿠어
     auto: true
   - translation_iso: por
     name: Akuku

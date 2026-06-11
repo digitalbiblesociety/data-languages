@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: वैम्पानोग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Massachusett
   - translation_iso: jpn
     name: マサチューセット語
+  - translation_iso: kor
+    name: 왐파노아그어
+    auto: true
   - translation_iso: por
     name: Língua massachusett
+  - translation_iso: rus
+    name: Массачусетский язык
   - translation_iso: spa
     name: Massachusett
   - translation_iso: zho

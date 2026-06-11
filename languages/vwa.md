@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: آوا
     auto: true
+  - translation_iso: ben
+    name: আওয়া
   - translation_iso: deu
     name: Awa (China)
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワ語
+  - translation_iso: kor
+    name: 아와어
+    auto: true
   - translation_iso: por
     name: Awa (China)
     auto: true

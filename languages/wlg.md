@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クンバルラン語
     auto: true
+  - translation_iso: kor
+    name: 쿤발랑어
+    auto: true
   - translation_iso: por
     name: Kunbarlang
     auto: true

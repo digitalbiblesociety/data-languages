@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة إشارة المالطية
     auto: true
+  - translation_iso: ben
+    name: মাল্টীয় ইশারা ভাষা
   - translation_iso: deu
     name: Maltesische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルタ手話
+  - translation_iso: kor
+    name: 몰타 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais maltesa
+  - translation_iso: rus
+    name: мальтийский жестовый язык
   - translation_iso: spa
     name: Lengua de señas maltesa
     auto: true

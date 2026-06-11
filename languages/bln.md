@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी कातांदुआनेस बिकोल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bikol Catanduanes Selatan
   - translation_iso: jpn
     name: 南部カタンドゥアネス州ビトール語
+  - translation_iso: kor
+    name: 남부 카탄두아네스 비콜어
+    auto: true
   - translation_iso: por
     name: Bicol de Catanduanes do Sul
     auto: true

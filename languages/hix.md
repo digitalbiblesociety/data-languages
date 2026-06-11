@@ -34,6 +34,8 @@ translations:
     name: 히슈카랴나어
   - translation_iso: por
     name: Hixkaryana
+  - translation_iso: rus
+    name: хишкарьяна
   - translation_iso: spa
     name: Idioma hixkaryána
   - translation_iso: zho

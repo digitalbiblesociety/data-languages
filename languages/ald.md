@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألّاديان
     auto: true
+  - translation_iso: ben
+    name: আল্লাদীয়
   - translation_iso: deu
     name: Alladian
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アッラディアン語
+    auto: true
+  - translation_iso: kor
+    name: 알라디안어
     auto: true
   - translation_iso: por
     name: Alladian

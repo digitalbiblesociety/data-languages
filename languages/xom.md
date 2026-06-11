@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: コモ語（スーダン）
     auto: true
+  - translation_iso: kor
+    name: 코모어
+    auto: true
   - translation_iso: por
     name: Língua komo
+  - translation_iso: rus
+    name: Комо (язык)
   - translation_iso: spa
     name: Komo (Sudán)
     auto: true

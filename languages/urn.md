@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: उरुआंगनिरिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Uruangnirin
   - translation_iso: jpn
     name: ファウル語
+    auto: true
+  - translation_iso: kor
+    name: 우루앙니린어
     auto: true
   - translation_iso: por
     name: Uruangnirin
     auto: true
+  - translation_iso: rus
+    name: Уруангнирин
   - translation_iso: spa
     name: Uruangnirin
     auto: true

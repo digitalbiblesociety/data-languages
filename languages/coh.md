@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チョニイ語
     auto: true
+  - translation_iso: kor
+    name: 초니지하나카우마어
+    auto: true
   - translation_iso: por
     name: Chonyi-Dzihana-Kauma
     auto: true

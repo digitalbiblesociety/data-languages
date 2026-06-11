@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: काबुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kaburi
   - translation_iso: jpn
     name: アウェ・マウェヨ語
+    auto: true
+  - translation_iso: kor
+    name: 카부리어
     auto: true
   - translation_iso: por
     name: Kaburi

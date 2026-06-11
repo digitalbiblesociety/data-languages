@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: グアナ語
     auto: true
+  - translation_iso: kor
+    name: 과나어
+    auto: true
   - translation_iso: por
     name: Guaná (Paraguai)
     auto: true
+  - translation_iso: rus
+    name: Гуана
   - translation_iso: spa
     name: Guana (Paraguay)
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レシェ語
     auto: true
+  - translation_iso: kor
+    name: 레셰어
+    auto: true
   - translation_iso: por
     name: Reshe
     auto: true

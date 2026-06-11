@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カハタンボ北リマケチュア語
     auto: true
+  - translation_iso: kor
+    name: 카하탐보 북부 리마 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Cajatambo Lima do Norte
     auto: true

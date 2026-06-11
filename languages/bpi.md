@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باجوبي
     auto: true
+  - translation_iso: ben
+    name: বাগুপি
   - translation_iso: deu
     name: Bagupi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バグピ語
+    auto: true
+  - translation_iso: kor
+    name: 바구피어
     auto: true
   - translation_iso: por
     name: Bagupi

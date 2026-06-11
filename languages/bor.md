@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ボロロ語
     auto: true
+  - translation_iso: kor
+    name: 보로로어
+    auto: true
   - translation_iso: por
     name: Língua bororo
+  - translation_iso: rus
+    name: Бороро
   - translation_iso: spa
     name: Bororo
     auto: true

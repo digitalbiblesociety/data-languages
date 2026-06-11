@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألغونكوين
     auto: true
+  - translation_iso: ben
+    name: আলগোংকিন ভাষা
   - translation_iso: deu
     name: Algonquin
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 알곤킨어
   - translation_iso: por
     name: Língua algonquina
+  - translation_iso: rus
+    name: Алгонквинский язык
   - translation_iso: spa
     name: Algonquin
   - translation_iso: zho

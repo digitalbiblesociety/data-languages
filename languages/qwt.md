@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クワルヒオクワトラツカナイ語
     auto: true
+  - translation_iso: kor
+    name: 콸리오콰틀라츠카나이어
+    auto: true
   - translation_iso: por
     name: Kwalhioqua-Tlatskanai
     auto: true

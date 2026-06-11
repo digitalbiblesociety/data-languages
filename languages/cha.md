@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chamorro_language"
 translations:
   - translation_iso: ara
     name: لغة تشاموروية
+  - translation_iso: ben
+    name: চামোরো
   - translation_iso: deu
     name: Chamorro
   - translation_iso: fra
     name: chamorro
   - translation_iso: hin
     name: कमोरो
+  - translation_iso: ind
+    name: Chamorro
   - translation_iso: jpn
     name: チャモロ語
   - translation_iso: kor
     name: 차모로어
   - translation_iso: por
     name: Língua chamorro
+  - translation_iso: rus
+    name: чаморро
   - translation_iso: spa
     name: idioma chamorro
   - translation_iso: zho

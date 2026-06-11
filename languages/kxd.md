@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ब्रुनेई मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Brunei
   - translation_iso: jpn
     name: ブルネイ・マレー語
+  - translation_iso: kor
+    name: 브루나이어
+    auto: true
   - translation_iso: por
     name: Malaio de Brunei
   - translation_iso: spa

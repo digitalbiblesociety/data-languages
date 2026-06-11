@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オリガナウ語
     auto: true
+  - translation_iso: kor
+    name: 우리기나어
+    auto: true
   - translation_iso: por
     name: Urigina
     auto: true

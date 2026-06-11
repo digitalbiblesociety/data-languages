@@ -20,16 +20,25 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rakhine_language"
 translations:
   - translation_iso: ara
     name: راخين
+  - translation_iso: ben
+    name: রাখাইন ভাষা
   - translation_iso: deu
     name: Arakanesisch
   - translation_iso: fra
     name: arakanais
   - translation_iso: hin
     name: रख़ाइन भाषा
+  - translation_iso: ind
+    name: Rakhine
   - translation_iso: jpn
     name: ラカイン語
+  - translation_iso: kor
+    name: 라카인어
+    auto: true
   - translation_iso: por
     name: Língua arracanesa
+  - translation_iso: rus
+    name: араканский язык
   - translation_iso: spa
     name: Rakhine
     auto: true

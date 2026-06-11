@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プー・タイ語
+  - translation_iso: kor
+    name: 푸타이어
+    auto: true
   - translation_iso: por
     name: Phu Thai
     auto: true

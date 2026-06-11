@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トロ・ソ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 토로소 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Toro So
     auto: true

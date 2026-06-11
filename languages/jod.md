@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウォジェナカ語
     auto: true
+  - translation_iso: kor
+    name: 워제나카어
+    auto: true
   - translation_iso: por
     name: Wojenaka
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: リジリ語
     auto: true
+  - translation_iso: kor
+    name: 리질리어
+    auto: true
   - translation_iso: por
     name: Lijili
     auto: true
+  - translation_iso: rus
+    name: Лидьили
   - translation_iso: spa
     name: Lijili
     auto: true

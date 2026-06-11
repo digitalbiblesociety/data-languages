@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウラ語
+  - translation_iso: kor
+    name: 우라어
+    auto: true
   - translation_iso: por
     name: Ura (Vanuatu)
     auto: true
+  - translation_iso: rus
+    name: Ура
   - translation_iso: spa
     name: Ura (Vanuatu)
     auto: true

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: मुना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Muna
   - translation_iso: jpn
     name: ムナ語
+  - translation_iso: kor
+    name: 무나어
+    auto: true
   - translation_iso: por
     name: Língua muna
+  - translation_iso: rus
+    name: муна
   - translation_iso: spa
     name: Muna
   - translation_iso: zho

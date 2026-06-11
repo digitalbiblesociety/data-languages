@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モルモ・ワン語
     auto: true
+  - translation_iso: kor
+    name: 몰모 오네어
+    auto: true
   - translation_iso: por
     name: Molmo One
     auto: true

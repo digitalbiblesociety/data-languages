@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: माम्बाए
     auto: true
+  - translation_iso: ind
+    name: Mambai
   - translation_iso: jpn
     name: マンバエ語
     auto: true
+  - translation_iso: kor
+    name: 맘바에어
+    auto: true
   - translation_iso: por
     name: Língua mambae
+  - translation_iso: rus
+    name: мамбаи
   - translation_iso: spa
     name: Mambae
     auto: true

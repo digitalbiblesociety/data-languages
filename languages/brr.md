@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムビラオ語
+  - translation_iso: kor
+    name: 비라오어
+    auto: true
   - translation_iso: por
     name: Birao
     auto: true

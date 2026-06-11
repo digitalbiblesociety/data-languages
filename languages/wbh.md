@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンダ語
     auto: true
+  - translation_iso: kor
+    name: 완다어
+    auto: true
   - translation_iso: por
     name: Língua wanda
   - translation_iso: spa

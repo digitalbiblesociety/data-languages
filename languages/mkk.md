@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビエプ語
     auto: true
+  - translation_iso: kor
+    name: 비에프어
+    auto: true
   - translation_iso: por
     name: Byep
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ナル語
     auto: true
+  - translation_iso: kor
+    name: 날루어
+    auto: true
   - translation_iso: por
     name: Nalu
     auto: true

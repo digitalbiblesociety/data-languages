@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة باري
     auto: true
+  - translation_iso: ben
+    name: বারি ভাষা
   - translation_iso: deu
     name: Barí
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: バリ語
     auto: true
+  - translation_iso: kor
+    name: 바리어
+    auto: true
   - translation_iso: por
     name: Língua bari
+  - translation_iso: rus
+    name: Бари
   - translation_iso: spa
     name: idioma barí
   - translation_iso: zho

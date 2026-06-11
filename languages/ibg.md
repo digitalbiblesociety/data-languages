@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: इबानाग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ibanag
   - translation_iso: jpn
     name: イバナグ語
   - translation_iso: kor
     name: 이바나그어
   - translation_iso: por
     name: Língua ibanag
+  - translation_iso: rus
+    name: ибанаг
   - translation_iso: spa
     name: Ibanag
     auto: true

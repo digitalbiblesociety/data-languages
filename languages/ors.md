@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ओरंग सेलेतार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Orang Seletar
   - translation_iso: jpn
     name: オラン・スレタル語
+    auto: true
+  - translation_iso: kor
+    name: 오랑 셀레타르어
     auto: true
   - translation_iso: por
     name: Orang Seletar

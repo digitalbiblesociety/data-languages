@@ -33,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中東部ニジェール・フルフルディ語
+  - translation_iso: kor
+    name: 중동부 니제르 풀풀데어
+    auto: true
   - translation_iso: por
     name: fulfulde do Níger centro-oriental
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パギベテ語
     auto: true
+  - translation_iso: kor
+    name: 파기베테어
+    auto: true
   - translation_iso: por
     name: Pagibete
     auto: true

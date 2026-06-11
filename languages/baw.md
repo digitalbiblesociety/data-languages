@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バンビリ・バンブイ語
     auto: true
+  - translation_iso: kor
+    name: 밤빌리·밤부이어
+    auto: true
   - translation_iso: por
     name: Bambili-Bambui
     auto: true

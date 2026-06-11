@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヤプンダ語
     auto: true
+  - translation_iso: kor
+    name: 야푼다어
+    auto: true
   - translation_iso: por
     name: yapunda
     auto: true
+  - translation_iso: rus
+    name: Япунда
   - translation_iso: spa
     name: Yapunda
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラジプット・ガラシア語
     auto: true
+  - translation_iso: kor
+    name: 라지푸트 가라시아어
+    auto: true
   - translation_iso: por
     name: garasia rajput
     auto: true

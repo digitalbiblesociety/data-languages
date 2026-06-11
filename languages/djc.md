@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダル・ダジュ語
     auto: true
+  - translation_iso: kor
+    name: 다르다주 다주어
+    auto: true
   - translation_iso: por
     name: Daju de Dar Daju
     auto: true

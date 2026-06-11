@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タウアタ語
     auto: true
+  - translation_iso: kor
+    name: 타우아데어
+    auto: true
   - translation_iso: por
     name: Tauade
     auto: true

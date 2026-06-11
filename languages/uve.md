@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Uveano Ocidental
     auto: true
+  - translation_iso: rus
+    name: Западный увеа
   - translation_iso: spa
     name: Uveano occidental
     auto: true

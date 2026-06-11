@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: バヴリ語
     auto: true
+  - translation_iso: kor
+    name: 바그리어
+    auto: true
   - translation_iso: por
     name: Vaghri
     auto: true

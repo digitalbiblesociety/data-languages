@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इतिक
     auto: true
+  - translation_iso: ind
+    name: Betef
   - translation_iso: jpn
     name: イティク語
+    auto: true
+  - translation_iso: kor
+    name: 이티크어
     auto: true
   - translation_iso: por
     name: Itik

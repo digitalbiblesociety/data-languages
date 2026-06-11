@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ザアチラ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 사아칠라 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Zaachila
     auto: true
+  - translation_iso: rus
+    name: Саачиланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Zaachila
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 누할크어
   - translation_iso: por
     name: Língua nuxalk
+  - translation_iso: rus
+    name: Нухалк
   - translation_iso: spa
     name: Bella Coola
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタンラル語
     auto: true
+  - translation_iso: kor
+    name: 서부 랄루어
+    auto: true
   - translation_iso: por
     name: lalu ocidental
     auto: true

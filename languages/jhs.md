@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة جهانكوت للإشارة
     auto: true
+  - translation_iso: ben
+    name: ঝানকোট ইশারা ভাষা
   - translation_iso: deu
     name: Jhankot-Gebärdensprache
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: झनकोट सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャンコット手話
+  - translation_iso: kor
+    name: 잔코트 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Jhankot
     auto: true
+  - translation_iso: rus
+    name: джханкотский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Jhankot
     auto: true

@@ -35,6 +35,8 @@ translations:
     name: 세인트루시아 크리올
   - translation_iso: por
     name: Crioulo de Santa Lúcia
+  - translation_iso: rus
+    name: Сент-люсийский франко-креольский язык
   - translation_iso: spa
     name: idioma criollo santalucense
   - translation_iso: zho

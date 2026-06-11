@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マ語
     auto: true
+  - translation_iso: kor
+    name: 마어
+    auto: true
   - translation_iso: por
     name: Ma (Papua-Nova Guiné)
     auto: true

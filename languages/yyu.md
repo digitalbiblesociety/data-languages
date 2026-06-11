@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤウ語（サンダウン州）
     auto: true
+  - translation_iso: kor
+    name: 야우어
+    auto: true
   - translation_iso: por
     name: yau (Província de Sandaun)
     auto: true

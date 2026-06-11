@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガアム語
     auto: true
+  - translation_iso: kor
+    name: 감어
+    auto: true
   - translation_iso: por
     name: Gaam
     auto: true

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: コフヤル語
     auto: true
+  - translation_iso: kor
+    name: 코피아르어
+    auto: true
   - translation_iso: por
     name: Kofyar
     auto: true
+  - translation_iso: rus
+    name: кофьяр
   - translation_iso: spa
     name: Kofyar
     auto: true

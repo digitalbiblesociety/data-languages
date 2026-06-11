@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムダ語
     auto: true
+  - translation_iso: kor
+    name: 무다어
+    auto: true
   - translation_iso: por
     name: muda
     auto: true

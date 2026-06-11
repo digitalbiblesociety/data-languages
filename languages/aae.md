@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الألبانية الأربريشية
     auto: true
+  - translation_iso: ben
+    name: আরবেরেশ
   - translation_iso: deu
     name: Arbëresh
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルベレシュ方言
+  - translation_iso: kor
+    name: 아르버레시 알바니아어
+    auto: true
   - translation_iso: por
     name: língua arberesca
+  - translation_iso: rus
+    name: арберешский диалект
   - translation_iso: spa
     name: Dialecto arbëreshë
   - translation_iso: zho

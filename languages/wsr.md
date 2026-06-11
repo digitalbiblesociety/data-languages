@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オウェニア語
     auto: true
+  - translation_iso: kor
+    name: 오웨니아어
+    auto: true
   - translation_iso: por
     name: Owenia
     auto: true

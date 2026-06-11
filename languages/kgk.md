@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイワ語
+  - translation_iso: kor
+    name: 카이와어
+    auto: true
   - translation_iso: por
     name: Língua kaiowá
+  - translation_iso: rus
+    name: кайва
   - translation_iso: spa
     name: kaiwá
   - translation_iso: zho

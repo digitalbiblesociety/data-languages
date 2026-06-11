@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンガラ語
     auto: true
+  - translation_iso: kor
+    name: 망갈라어
+    auto: true
   - translation_iso: por
     name: Mangala
     auto: true

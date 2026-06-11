@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Temne_language"
 translations:
   - translation_iso: ara
     name: التيمن
+  - translation_iso: ben
+    name: টাইম্নে
   - translation_iso: deu
     name: Temne
   - translation_iso: fra
     name: temne
   - translation_iso: hin
     name: टिम्ने
+  - translation_iso: ind
+    name: Timne
   - translation_iso: jpn
     name: テムネ語
   - translation_iso: kor
     name: 팀니어
   - translation_iso: por
     name: Língua temne
+  - translation_iso: rus
+    name: темне
   - translation_iso: spa
     name: Idioma temné
   - translation_iso: zho

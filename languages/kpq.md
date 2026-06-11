@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: कोरुपुन-सेला
     auto: true
+  - translation_iso: ind
+    name: Kimyal
   - translation_iso: jpn
     name: コルプン・セラ語
+    auto: true
+  - translation_iso: kor
+    name: 코루푼셀라어
     auto: true
   - translation_iso: por
     name: Korupun-Sela
     auto: true
+  - translation_iso: rus
+    name: Корупун-села
   - translation_iso: spa
     name: Korupun-Sela
     auto: true

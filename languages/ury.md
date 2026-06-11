@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: ओर्या
     auto: true
+  - translation_iso: ind
+    name: Orya
   - translation_iso: jpn
     name: オリア語
+    auto: true
+  - translation_iso: kor
+    name: 오리아어
     auto: true
   - translation_iso: por
     name: Orya

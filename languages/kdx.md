@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニングォム語
+  - translation_iso: kor
+    name: 캄어
+    auto: true
   - translation_iso: por
     name: Kam
     auto: true

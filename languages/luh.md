@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: लेइझोउ चीनी
     auto: true
+  - translation_iso: ind
+    name: bahasa Leizhou
   - translation_iso: jpn
     name: 雷州語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Chinês de Leizhou
     auto: true
+  - translation_iso: rus
+    name: Лэйчжоуский язык
   - translation_iso: spa
     name: Min de Leizhou
   - translation_iso: zho

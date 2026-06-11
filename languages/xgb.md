@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギビン語
     auto: true
+  - translation_iso: kor
+    name: 그빈어
+    auto: true
   - translation_iso: por
     name: Gbin
     auto: true

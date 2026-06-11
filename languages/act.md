@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة أختيرهويكس
     auto: true
+  - translation_iso: ben
+    name: অ্যাক্টারহুক
   - translation_iso: deu
     name: Achterhooks
   - translation_iso: fra
@@ -26,8 +28,13 @@ translations:
   - translation_iso: jpn
     name: アハーテルホークス語
     auto: true
+  - translation_iso: kor
+    name: 아흐터르훅스어
+    auto: true
   - translation_iso: por
     name: achteroequês
+  - translation_iso: rus
+    name: Ахтерхукский диалект
   - translation_iso: spa
     name: achteroequés
   - translation_iso: zho

@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tahltan_language"
 translations:
   - translation_iso: ara
     name: التالتان
+  - translation_iso: ben
+    name: তাহ্লতান
   - translation_iso: deu
     name: Tahltan-Sprache
   - translation_iso: fra
     name: tahltan
   - translation_iso: hin
     name: टैल्हटन
+  - translation_iso: ind
+    name: Tahltan
   - translation_iso: jpn
     name: タールタン語
   - translation_iso: kor
     name: 탈탄어
   - translation_iso: por
     name: Língua tahltan
+  - translation_iso: rus
+    name: талтан
   - translation_iso: spa
     name: tahltan
   - translation_iso: zho

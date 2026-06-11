@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南スバネン語
     auto: true
+  - translation_iso: kor
+    name: 남부 수바넨어
+    auto: true
   - translation_iso: por
     name: Subanen meridional
     auto: true

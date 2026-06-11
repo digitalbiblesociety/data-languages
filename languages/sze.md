@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セゼ語
     auto: true
+  - translation_iso: kor
+    name: 세제어
+    auto: true
   - translation_iso: por
     name: Seze
     auto: true

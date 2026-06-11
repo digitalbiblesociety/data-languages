@@ -27,12 +27,19 @@ translations:
   - translation_iso: hin
     name: एलिमियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Elimia
   - translation_iso: jpn
     name: エリミアン語
+    auto: true
+  - translation_iso: kor
+    name: 엘리미아어
     auto: true
   - translation_iso: por
     name: Elímio
     auto: true
+  - translation_iso: rus
+    name: Элимский язык
   - translation_iso: spa
     name: Elimio
     auto: true

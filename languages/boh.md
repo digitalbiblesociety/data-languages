@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ボマ語
     auto: true
+  - translation_iso: kor
+    name: 보마어
+    auto: true
   - translation_iso: por
     name: Boma
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クサゲ語
     auto: true
+  - translation_iso: kor
+    name: 쿠사게어
+    auto: true
   - translation_iso: por
     name: Kusaghe
     auto: true

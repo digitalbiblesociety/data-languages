@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フィワガ語
     auto: true
+  - translation_iso: kor
+    name: 피와가어
+    auto: true
   - translation_iso: por
     name: Fiwaga
     auto: true

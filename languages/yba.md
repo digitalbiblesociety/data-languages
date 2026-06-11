@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤラ語
     auto: true
+  - translation_iso: kor
+    name: 얄라어
+    auto: true
   - translation_iso: por
     name: yala
     auto: true

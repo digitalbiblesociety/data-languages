@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フンブリ・センニ・ソンガイ語
     auto: true
+  - translation_iso: kor
+    name: 훔부리 센니 송가이어
+    auto: true
   - translation_iso: por
     name: Songai Humburi Senni
     auto: true

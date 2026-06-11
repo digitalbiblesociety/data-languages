@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ティファルミン語
     auto: true
+  - translation_iso: kor
+    name: 우라프민어
+    auto: true
   - translation_iso: por
     name: Urapmin
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イダテ語
     auto: true
+  - translation_iso: kor
+    name: 이다테어
+    auto: true
   - translation_iso: por
     name: Idaté
     auto: true

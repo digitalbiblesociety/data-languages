@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باراس
     auto: true
+  - translation_iso: ben
+    name: বরাস
   - translation_iso: deu
     name: Baras
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बारास
     auto: true
+  - translation_iso: ind
+    name: Baras
   - translation_iso: jpn
     name: バラス語
+    auto: true
+  - translation_iso: kor
+    name: 바라스어
     auto: true
   - translation_iso: por
     name: Baras

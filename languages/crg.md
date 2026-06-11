@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Michif"
 translations:
   - translation_iso: ara
     name: الميتشيف
+  - translation_iso: ben
+    name: মিচিফ
   - translation_iso: deu
     name: Michif
   - translation_iso: fra
     name: métchif
   - translation_iso: hin
     name: मिचिफ़
+  - translation_iso: ind
+    name: Michif
   - translation_iso: jpn
     name: ミチフ語
   - translation_iso: kor
     name: 미치프어
   - translation_iso: por
     name: Língua michif
+  - translation_iso: rus
+    name: мичиф
   - translation_iso: spa
     name: Michif
   - translation_iso: zho

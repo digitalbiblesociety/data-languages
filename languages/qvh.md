@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワマリエスドスデマヨワヌコケチュア語
     auto: true
+  - translation_iso: kor
+    name: 우아말리에스도스데마요 우아누코 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Huamalíes-Dos de Mayo Huánuco
     auto: true

@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ニイ語
     auto: true
+  - translation_iso: kor
+    name: 니어
+    auto: true
   - translation_iso: por
     name: Nii
     auto: true
+  - translation_iso: rus
+    name: Нии
   - translation_iso: spa
     name: Nii
   - translation_iso: zho

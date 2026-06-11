@@ -28,9 +28,14 @@ translations:
   - translation_iso: jpn
     name: コアウイルテコ語
     auto: true
+  - translation_iso: kor
+    name: 코아우일테코어
+    auto: true
   - translation_iso: por
     name: Coahuilteco
     auto: true
+  - translation_iso: rus
+    name: Коавильтекский язык
   - translation_iso: spa
     name: idioma coahuilteco
   - translation_iso: zho

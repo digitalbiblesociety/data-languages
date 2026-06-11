@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: तेरनाते
     auto: true
+  - translation_iso: ind
+    name: bahasa Ternate
   - translation_iso: jpn
     name: テルナタ語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Ternate
     auto: true
+  - translation_iso: rus
+    name: Тернате
   - translation_iso: spa
     name: Idioma ternate
   - translation_iso: zho

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मानेम
     auto: true
+  - translation_iso: ind
+    name: Jeti
   - translation_iso: jpn
     name: マネム語
+    auto: true
+  - translation_iso: kor
+    name: 마넴어
     auto: true
   - translation_iso: por
     name: Manem

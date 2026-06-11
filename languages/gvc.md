@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: गुआनानो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wanano
   - translation_iso: jpn
     name: グアナーノ語
     auto: true
+  - translation_iso: kor
+    name: 과나노어
+    auto: true
   - translation_iso: por
     name: Língua guanano
+  - translation_iso: rus
+    name: Пиратапуйо
   - translation_iso: spa
     name: Idioma guanano
   - translation_iso: zho

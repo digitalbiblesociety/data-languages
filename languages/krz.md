@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सोता कानुम
     auto: true
+  - translation_iso: ind
+    name: Kanum Sota
   - translation_iso: jpn
     name: ソタ・カヌム語
+    auto: true
+  - translation_iso: kor
+    name: 소타 카눔어
     auto: true
   - translation_iso: por
     name: Kanum de Sota

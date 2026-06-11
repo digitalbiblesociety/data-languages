@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: ओरोक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Orok
   - translation_iso: jpn
     name: ウィルタ語
   - translation_iso: kor
     name: 윌타어
   - translation_iso: por
     name: Língua orok
+  - translation_iso: rus
+    name: орокский язык
   - translation_iso: spa
     name: Idioma orok
   - translation_iso: zho

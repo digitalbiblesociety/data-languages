@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ga_language"
 translations:
   - translation_iso: ara
     name: لغة غا
+  - translation_iso: ben
+    name: গা
   - translation_iso: deu
     name: Ga
   - translation_iso: fra
     name: ga
   - translation_iso: hin
     name: गा
+  - translation_iso: ind
+    name: Ga
   - translation_iso: jpn
     name: ガ語
   - translation_iso: kor
     name: 가어
   - translation_iso: por
     name: ga
+  - translation_iso: rus
+    name: га
   - translation_iso: spa
     name: Idioma ga
   - translation_iso: zho

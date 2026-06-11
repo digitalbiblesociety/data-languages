@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北プエブラ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 북부 푸에블라 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Puebla do Norte
     auto: true

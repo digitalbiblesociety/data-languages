@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウェタムト語
     auto: true
+  - translation_iso: kor
+    name: 웨타무트어
+    auto: true
   - translation_iso: por
     name: Wetamut
     auto: true

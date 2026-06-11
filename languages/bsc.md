@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: بسّاري
     auto: true
+  - translation_iso: ben
+    name: বাসসারী
   - translation_iso: deu
     name: Bassari
   - translation_iso: fra
@@ -35,6 +37,8 @@ translations:
     name: 바사리어
   - translation_iso: por
     name: Língua bassari
+  - translation_iso: rus
+    name: Басари
   - translation_iso: spa
     name: Idioma bassari
   - translation_iso: zho

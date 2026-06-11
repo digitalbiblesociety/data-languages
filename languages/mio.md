@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ピノテパ・ナシオナル・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 피노테파나시오날 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Pinotepa Nacional
     auto: true
+  - translation_iso: rus
+    name: Пинотепский миштекский язык
   - translation_iso: spa
     name: Mixteco de Pinotepa Nacional
     auto: true

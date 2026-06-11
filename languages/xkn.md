@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कायन नदी कायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan Sungai Kayan
   - translation_iso: jpn
     name: カヤン川カヤン語
+    auto: true
+  - translation_iso: kor
+    name: 카얀강 카얀어
     auto: true
   - translation_iso: por
     name: Kayan do Rio Kayan

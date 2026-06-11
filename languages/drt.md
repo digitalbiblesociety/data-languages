@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ドレント語
     auto: true
+  - translation_iso: kor
+    name: 드렌츠어
+    auto: true
   - translation_iso: por
     name: Drents
     auto: true

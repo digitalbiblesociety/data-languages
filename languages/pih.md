@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pitkern"
 translations:
   - translation_iso: ara
     name: البتكرنية
+  - translation_iso: ben
+    name: পিটকের্ন ক্রেওল
   - translation_iso: deu
     name: Pitcairn-Englisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: पिटकेर्न-नॉरफ़ॉक
     auto: true
+  - translation_iso: ind
+    name: bahasa Pitcairn
   - translation_iso: jpn
     name: ピトケアン語
   - translation_iso: kor
     name: 핏케언어
   - translation_iso: por
     name: pitcairnes
+  - translation_iso: rus
+    name: питкэрнский язык
   - translation_iso: spa
     name: pitcairnés
   - translation_iso: zho

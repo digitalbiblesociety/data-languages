@@ -30,8 +30,13 @@ translations:
     name: परजी भाषा
   - translation_iso: jpn
     name: ドゥルワー語
+  - translation_iso: kor
+    name: 두루와어
+    auto: true
   - translation_iso: por
     name: Língua dhurwa
+  - translation_iso: rus
+    name: парджи
   - translation_iso: spa
     name: Duruwa
     auto: true

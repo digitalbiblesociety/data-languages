@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: デゲナン語
     auto: true
+  - translation_iso: kor
+    name: 데게난어
+    auto: true
   - translation_iso: por
     name: Degenan
     auto: true

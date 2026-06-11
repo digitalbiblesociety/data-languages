@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hopi_language"
 translations:
   - translation_iso: ara
     name: هوبي
+  - translation_iso: ben
+    name: হোপি ভাষা
   - translation_iso: deu
     name: Hopi
     auto: true
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: होपी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hopi
   - translation_iso: jpn
     name: ホピ語
   - translation_iso: kor
     name: 호피어
   - translation_iso: por
     name: Língua hopi
+  - translation_iso: rus
+    name: хопи
   - translation_iso: spa
     name: hopi
   - translation_iso: zho

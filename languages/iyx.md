@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤカ語
     auto: true
+  - translation_iso: kor
+    name: 야카어
+    auto: true
   - translation_iso: por
     name: Yaka (Congo)
     auto: true

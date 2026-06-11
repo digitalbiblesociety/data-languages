@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キホロ語
     auto: true
+  - translation_iso: kor
+    name: 삼바어
+    auto: true
   - translation_iso: por
     name: Samba
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: ओनिन आधारित पिजिन
     auto: true
+  - translation_iso: ind
+    name: Onin Based Pidgin
   - translation_iso: jpn
     name: オニン系ピジン語
+    auto: true
+  - translation_iso: kor
+    name: 오닌 피진어
     auto: true
   - translation_iso: por
     name: Pidgin Baseado em Onin

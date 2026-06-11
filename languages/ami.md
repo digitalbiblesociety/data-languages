@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amis_language"
 translations:
   - translation_iso: ara
     name: أميس
+  - translation_iso: ben
+    name: আমিস
   - translation_iso: deu
     name: Amisisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: अमिस
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amis
   - translation_iso: jpn
     name: アミ語
   - translation_iso: kor
     name: 아미어
   - translation_iso: por
     name: amis
+  - translation_iso: rus
+    name: амисский язык
   - translation_iso: spa
     name: idioma amis
   - translation_iso: zho

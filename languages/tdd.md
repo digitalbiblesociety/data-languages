@@ -35,6 +35,8 @@ translations:
     name: 따이느아어
   - translation_iso: por
     name: Tai nüa
+  - translation_iso: rus
+    name: Тай-ныа
   - translation_iso: spa
     name: tai nüa
   - translation_iso: zho

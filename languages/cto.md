@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: エンベラ・カティオ語
     auto: true
+  - translation_iso: kor
+    name: 엠베라카티오어
+    auto: true
   - translation_iso: por
     name: Emberá-Catío
     auto: true
+  - translation_iso: rus
+    name: Катио
   - translation_iso: spa
     name: Emberá-Catío
     auto: true

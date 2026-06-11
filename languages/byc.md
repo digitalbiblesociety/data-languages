@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウバガラ語
     auto: true
+  - translation_iso: kor
+    name: 우바가라어
+    auto: true
   - translation_iso: por
     name: Ubaghara
     auto: true

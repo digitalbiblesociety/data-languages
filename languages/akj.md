@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-جيرو
     auto: true
+  - translation_iso: ben
+    name: আকা-জেরু ভাষা
   - translation_iso: deu
     name: Aka-Jeru
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 아카제루 방언
   - translation_iso: por
     name: Língua aka-jeru
+  - translation_iso: rus
+    name: йерева
   - translation_iso: spa
     name: Idioma jeru
   - translation_iso: zho

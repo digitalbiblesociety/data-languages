@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: エセ語
     auto: true
+  - translation_iso: kor
+    name: 에세어
+    auto: true
   - translation_iso: por
     name: Ese
     auto: true

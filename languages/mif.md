@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モフ・グドゥル語
     auto: true
+  - translation_iso: kor
+    name: 모푸구두르어
+    auto: true
   - translation_iso: por
     name: Mofu-Gudur
     auto: true

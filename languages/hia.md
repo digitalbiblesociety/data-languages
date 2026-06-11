@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラマング語
     auto: true
+  - translation_iso: kor
+    name: 라망어
+    auto: true
   - translation_iso: por
     name: Lamang
     auto: true

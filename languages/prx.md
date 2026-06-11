@@ -28,8 +28,13 @@ translations:
     name: purik
   - translation_iso: hin
     name: पुरगी भाषा
+  - translation_iso: ind
+    name: Purik
   - translation_iso: jpn
     name: ブリグ
+  - translation_iso: kor
+    name: 푸리크어
+    auto: true
   - translation_iso: por
     name: Purik
     auto: true

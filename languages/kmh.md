@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラム語
+  - translation_iso: kor
+    name: 칼람어
+    auto: true
   - translation_iso: por
     name: Língua kalam
   - translation_iso: spa

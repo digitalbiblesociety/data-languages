@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: イェロング語
     auto: true
+  - translation_iso: kor
+    name: 예룽어
+    auto: true
   - translation_iso: por
     name: yerong
     auto: true
+  - translation_iso: rus
+    name: Яхронг (язык)
   - translation_iso: spa
     name: Yerong
     auto: true

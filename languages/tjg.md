@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तुंजुंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tunjung
   - translation_iso: jpn
     name: トゥンジュン語
+    auto: true
+  - translation_iso: kor
+    name: 툰중어
     auto: true
   - translation_iso: por
     name: Tunjung

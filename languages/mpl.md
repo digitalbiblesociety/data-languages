@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ミドル・ワトゥット語
     auto: true
+  - translation_iso: kor
+    name: 중부 와투트어
+    auto: true
   - translation_iso: por
     name: watut central
     auto: true

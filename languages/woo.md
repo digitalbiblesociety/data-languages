@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मानोम्बाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Manombai
   - translation_iso: jpn
     name: マノンバイ語
+    auto: true
+  - translation_iso: kor
+    name: 마놈바이어
     auto: true
   - translation_iso: por
     name: Manombai

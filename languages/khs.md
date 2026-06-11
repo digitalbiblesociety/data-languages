@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カスア語
     auto: true
+  - translation_iso: kor
+    name: 카수아어
+    auto: true
   - translation_iso: por
     name: Kasua
     auto: true

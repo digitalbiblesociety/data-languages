@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・チョン語
     auto: true
+  - translation_iso: kor
+    name: 솜라이어
+    auto: true
   - translation_iso: por
     name: Somray
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語
+  - translation_iso: kor
+    name: 기니 크펠레어
+    auto: true
   - translation_iso: por
     name: kpelle da Guiné
     auto: true

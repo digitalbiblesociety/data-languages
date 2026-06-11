@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: ओडियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Busa
   - translation_iso: jpn
     name: ブサ語
+  - translation_iso: kor
+    name: 오디아이어
+    auto: true
   - translation_iso: por
     name: Odiai
     auto: true
+  - translation_iso: rus
+    name: Одиаи
   - translation_iso: spa
     name: Idioma busa
   - translation_iso: zho

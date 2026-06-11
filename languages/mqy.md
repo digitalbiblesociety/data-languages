@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: मांगगराई
     auto: true
+  - translation_iso: ind
+    name: Manggarai
   - translation_iso: jpn
     name: マンガライ語
+  - translation_iso: kor
+    name: 망가라이어
+    auto: true
   - translation_iso: por
     name: Manggarai
+  - translation_iso: rus
+    name: Манггараи
   - translation_iso: spa
     name: Manggarai
   - translation_iso: zho

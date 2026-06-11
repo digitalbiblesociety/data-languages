@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kaingang_language"
 translations:
   - translation_iso: ara
     name: الكاينغانغ
+  - translation_iso: ben
+    name: কেইনগ্যাং
   - translation_iso: deu
     name: Kaingang
   - translation_iso: fra
     name: kaingang
   - translation_iso: hin
     name: काइंगांग
+  - translation_iso: ind
+    name: Kaingang
   - translation_iso: jpn
     name: カインガング語
   - translation_iso: kor
     name: 카잉강어
   - translation_iso: por
     name: Língua caingangue
+  - translation_iso: rus
+    name: каинганг
   - translation_iso: spa
     name: Lengua kaingang
   - translation_iso: zho

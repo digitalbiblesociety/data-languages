@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: बातक तोबा
     auto: true
+  - translation_iso: ind
+    name: Batak Toba
   - translation_iso: jpn
     name: バタク・トバ語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Batak Toba
     auto: true
+  - translation_iso: rus
+    name: тоба
   - translation_iso: spa
     name: Batak Toba
     auto: true

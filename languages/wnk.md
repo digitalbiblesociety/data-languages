@@ -27,8 +27,13 @@ translations:
     name: wanukaka
   - translation_iso: hin
     name: वानुकाका भाषा
+  - translation_iso: ind
+    name: Bahasa Wanukaka
   - translation_iso: jpn
     name: ワヌカカ語
+    auto: true
+  - translation_iso: kor
+    name: 와누카카어
     auto: true
   - translation_iso: por
     name: Wanukaka

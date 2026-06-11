@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブルックスポイントパラワーノ語
     auto: true
+  - translation_iso: kor
+    name: 브룩스포인트 팔라와노어
+    auto: true
   - translation_iso: por
     name: "Palawano de Brooke's Point"
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホマ語
+  - translation_iso: kor
+    name: 호마어
+    auto: true
   - translation_iso: por
     name: Homa
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ジャプレリア語
     auto: true
+  - translation_iso: kor
+    name: 하프레리아어
+    auto: true
   - translation_iso: por
     name: Língua japreria
+  - translation_iso: rus
+    name: Хапрерия
   - translation_iso: spa
     name: Idioma japrería
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ディカマイ・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 디카마이 아그타어
+    auto: true
   - translation_iso: por
     name: Agta de Dicamay
     auto: true

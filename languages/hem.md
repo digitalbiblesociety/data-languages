@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヘンバ語
     auto: true
+  - translation_iso: kor
+    name: 헴바어
+    auto: true
   - translation_iso: por
     name: Hemba
     auto: true

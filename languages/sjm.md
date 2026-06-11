@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: バホ語
     auto: true
+  - translation_iso: kor
+    name: 마푼어
+    auto: true
   - translation_iso: por
     name: Mapun
     auto: true
+  - translation_iso: rus
+    name: мапунский язык
   - translation_iso: spa
     name: Mapun
     auto: true

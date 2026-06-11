@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: グエベア・デ・フンボルト・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 게베아데훔볼트 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Guevea de Humboldt
     auto: true
+  - translation_iso: rus
+    name: Гевеа-де-гумбольдтский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Guevea de Humboldt
     auto: true

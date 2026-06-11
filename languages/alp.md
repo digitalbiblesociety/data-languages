@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألون
     auto: true
+  - translation_iso: ben
+    name: আলুনে
   - translation_iso: deu
     name: Alune
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: अलुने
     auto: true
+  - translation_iso: ind
+    name: bahasa Alune
   - translation_iso: jpn
     name: アルネ語
     auto: true
+  - translation_iso: kor
+    name: 알루네어
+    auto: true
   - translation_iso: por
     name: Alune
+  - translation_iso: rus
+    name: Алуне (язык)
   - translation_iso: spa
     name: Alune
   - translation_iso: zho

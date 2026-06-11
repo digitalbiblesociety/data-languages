@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワウヤイ語
     auto: true
+  - translation_iso: kor
+    name: 와우야이어
+    auto: true
   - translation_iso: por
     name: Wauyai
     auto: true

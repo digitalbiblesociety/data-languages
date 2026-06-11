@@ -31,8 +31,11 @@ translations:
   - translation_iso: jpn
     name: ンダンダ語
     auto: true
+  - translation_iso: kor
+    name: 은단다어
+    auto: true
   - translation_iso: por
-    name: "Nda'nda'"
+    name: "Nda'nda"
     auto: true
   - translation_iso: spa
     name: "Nda'nda"

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Braj_Bhasha"
 translations:
   - translation_iso: ara
     name: البرجية
+  - translation_iso: ben
+    name: ব্রাজ
   - translation_iso: deu
     name: Braj-Bhakha
   - translation_iso: fra
     name: braj Bhasha
   - translation_iso: hin
     name: ब्रजभाषा
+  - translation_iso: ind
+    name: Braj
   - translation_iso: jpn
     name: ブラジュ・バーシャー語
   - translation_iso: kor
     name: 브라지어
   - translation_iso: por
     name: Língua braj
+  - translation_iso: rus
+    name: брауи
   - translation_iso: spa
     name: braj
   - translation_iso: zho

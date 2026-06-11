@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيزي
     auto: true
+  - translation_iso: ben
+    name: আয়িজি
   - translation_iso: deu
     name: Ayizi
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイイズィ語
+    auto: true
+  - translation_iso: kor
+    name: 아이지어
     auto: true
   - translation_iso: por
     name: ayizi

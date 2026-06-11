@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フキラ・ミクセ語
     auto: true
+  - translation_iso: kor
+    name: 후킬라 미헤어
+    auto: true
   - translation_iso: por
     name: Mixe de Juquila
     auto: true

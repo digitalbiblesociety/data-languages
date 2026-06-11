@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ディリク語
     auto: true
+  - translation_iso: kor
+    name: 디리쿠어
+    auto: true
   - translation_iso: por
     name: Língua dciriku
+  - translation_iso: rus
+    name: дирику
   - translation_iso: spa
     name: Idioma gciriku
   - translation_iso: zho

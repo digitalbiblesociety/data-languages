@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイチョン語
+  - translation_iso: kor
+    name: 구이충어
+    auto: true
   - translation_iso: por
     name: Guiqiong
     auto: true
+  - translation_iso: rus
+    name: гуикион
   - translation_iso: spa
     name: Guiqiong
     auto: true

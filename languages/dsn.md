@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: डुस्नर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dusner
   - translation_iso: jpn
     name: ドゥスネル語
+    auto: true
+  - translation_iso: kor
+    name: 두스네르어
     auto: true
   - translation_iso: por
     name: Dusner

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワダギナム語
     auto: true
+  - translation_iso: kor
+    name: 와다기남어
+    auto: true
   - translation_iso: por
     name: Wadaginam
     auto: true

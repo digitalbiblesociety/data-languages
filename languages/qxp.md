@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プノ・ケチュア語
+  - translation_iso: kor
+    name: 푸노 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Puno
     auto: true
+  - translation_iso: rus
+    name: Пунский кечуа
   - translation_iso: spa
     name: quechua puneño
   - translation_iso: zho

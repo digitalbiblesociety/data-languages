@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة وما
     auto: true
+  - translation_iso: ben
+    name: লমা ভাষা
   - translation_iso: deu
     name: Loma
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トマ語
+  - translation_iso: kor
+    name: 로마어
+    auto: true
   - translation_iso: por
     name: Língua loma
+  - translation_iso: rus
+    name: Лоома
   - translation_iso: spa
     name: loma
   - translation_iso: zho

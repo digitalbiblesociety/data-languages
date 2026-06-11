@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: セレペット語
     auto: true
+  - translation_iso: kor
+    name: 셀레페트어
+    auto: true
   - translation_iso: por
     name: Selepet
     auto: true

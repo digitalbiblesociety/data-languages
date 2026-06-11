@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: इंथा
     auto: true
+  - translation_iso: ind
+    name: bahasa Intha
   - translation_iso: jpn
     name: インサ語
+    auto: true
+  - translation_iso: kor
+    name: 인타어
     auto: true
   - translation_iso: por
     name: Intha

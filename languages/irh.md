@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इरारुतु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Irarutu
   - translation_iso: jpn
     name: イラルトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 이라루투어
     auto: true
   - translation_iso: por
     name: Irarutu

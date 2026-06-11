@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: レモ語
     auto: true
+  - translation_iso: kor
+    name: 레모어
+    auto: true
   - translation_iso: por
     name: Remo
     auto: true
+  - translation_iso: rus
+    name: Ремо
   - translation_iso: spa
     name: Remo
     auto: true

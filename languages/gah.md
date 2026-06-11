@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الأليكانو
     auto: true
+  - translation_iso: ben
+    name: আলেকানো
   - translation_iso: deu
     name: Alekano
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガフク・アサロ語
+  - translation_iso: kor
+    name: 알레카노어
+    auto: true
   - translation_iso: por
     name: Alekano
     auto: true
+  - translation_iso: rus
+    name: Алекано
   - translation_iso: spa
     name: Alekano
     auto: true

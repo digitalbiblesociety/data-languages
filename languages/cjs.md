@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shor_language"
 translations:
   - translation_iso: ara
     name: لغة الشور
+  - translation_iso: ben
+    name: শোর ভাষা
   - translation_iso: deu
     name: Schorisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: शोर
     auto: true
+  - translation_iso: ind
+    name: Bahasa Shor
   - translation_iso: jpn
     name: ショル語
   - translation_iso: kor
     name: 쇼르어
   - translation_iso: por
     name: Língua shor
+  - translation_iso: rus
+    name: шорский язык
   - translation_iso: spa
     name: Idioma shor
   - translation_iso: zho

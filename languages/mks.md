@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 실라카요아판 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Silacayoapan
     auto: true
+  - translation_iso: rus
+    name: Силакайоапанский миштекский язык
   - translation_iso: spa
     name: Mixteco de Silacayoapan
     auto: true

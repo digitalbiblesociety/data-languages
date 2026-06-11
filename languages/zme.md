@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンゲル語
     auto: true
+  - translation_iso: kor
+    name: 망게르어
+    auto: true
   - translation_iso: por
     name: mangerr
     auto: true

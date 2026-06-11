@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بامباسي
     auto: true
+  - translation_iso: ben
+    name: বাম্বাসি
   - translation_iso: deu
     name: Bambassi
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: バンバッシ語
     auto: true
+  - translation_iso: kor
+    name: 밤바시어
+    auto: true
   - translation_iso: por
     name: Língua bambassu
+  - translation_iso: rus
+    name: Бамбеши
   - translation_iso: spa
     name: Bambassi
     auto: true

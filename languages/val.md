@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブアシ語
     auto: true
+  - translation_iso: kor
+    name: 베헤스어
+    auto: true
   - translation_iso: por
     name: Vehes
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: शास्त्रीय अर्मेनियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Armenia Kuno
   - translation_iso: jpn
     name: 古典アルメニア語
   - translation_iso: kor
     name: 고전 아르메니아어
   - translation_iso: por
     name: armênio clássico
+  - translation_iso: rus
+    name: грабар
   - translation_iso: spa
     name: armenio clásico
   - translation_iso: zho

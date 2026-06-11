@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インターグロッサ
+  - translation_iso: kor
+    name: 인테르글로사
+    auto: true
   - translation_iso: por
     name: Interglossa
+  - translation_iso: rus
+    name: Интерглосса
   - translation_iso: spa
     name: Interglossa
   - translation_iso: zho

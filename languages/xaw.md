@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カワイイス語
     auto: true
+  - translation_iso: kor
+    name: 카와이수어
+    auto: true
   - translation_iso: por
     name: Língua kawaiisu
+  - translation_iso: rus
+    name: Кавайису
   - translation_iso: spa
     name: Kawaiisu
   - translation_iso: zho

@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: सुई
     auto: true
+  - translation_iso: ind
+    name: Sui
   - translation_iso: jpn
     name: スイ語
   - translation_iso: kor
     name: 수이어
   - translation_iso: por
     name: Língua shui
+  - translation_iso: rus
+    name: Шуйский язык
   - translation_iso: spa
     name: Sui
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सुवावा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Suwawa
   - translation_iso: jpn
     name: スワワ語
+  - translation_iso: kor
+    name: 수와와어
+    auto: true
   - translation_iso: por
     name: Língua suwawa
   - translation_iso: spa

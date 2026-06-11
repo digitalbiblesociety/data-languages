@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: रुतुल
     auto: true
+  - translation_iso: ind
+    name: bahasa Rutul
   - translation_iso: jpn
     name: ルトゥル語
   - translation_iso: kor
     name: 루툴어
   - translation_iso: por
     name: Língua rutul
+  - translation_iso: rus
+    name: Рутульский язык
   - translation_iso: spa
     name: rutul
   - translation_iso: zho

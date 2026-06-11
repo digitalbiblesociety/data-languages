@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トワ語
+  - translation_iso: kor
+    name: 헤메스어
+    auto: true
   - translation_iso: por
     name: Jemez
     auto: true
+  - translation_iso: rus
+    name: Това
   - translation_iso: spa
     name: idioma jémez
   - translation_iso: zho

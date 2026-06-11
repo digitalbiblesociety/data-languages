@@ -23,18 +23,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Indonesian_language"
 translations:
   - translation_iso: ara
     name: الإندونيسية
+  - translation_iso: ben
+    name: ইন্দোনেশীয়
   - translation_iso: deu
     name: Indonesisch
   - translation_iso: fra
     name: indonésien
   - translation_iso: hin
     name: इंडोनेशियाई भाषा
+  - translation_iso: ind
+    name: Indonesia
   - translation_iso: jpn
     name: インドネシア語
   - translation_iso: kor
     name: 인도네시아어
   - translation_iso: por
     name: língua indonésia
+  - translation_iso: rus
+    name: индонезийский
   - translation_iso: spa
     name: indonesio
   - translation_iso: zho

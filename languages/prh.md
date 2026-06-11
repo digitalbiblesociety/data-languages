@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ポロハノン語
     auto: true
+  - translation_iso: kor
+    name: 포로하논어
+    auto: true
   - translation_iso: por
     name: Língua porohanon
   - translation_iso: spa

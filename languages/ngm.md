@@ -34,6 +34,8 @@ translations:
     name: 응가틱 크리올
   - translation_iso: por
     name: Crioulo ngatik
+  - translation_iso: rus
+    name: Нгатикский креольский язык
   - translation_iso: spa
     name: ngatik
   - translation_iso: zho

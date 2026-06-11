@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_French"
 translations:
   - translation_iso: ara
     name: اللغة الفرنسية الوسطى
+  - translation_iso: ben
+    name: মধ্য ফরাসি
   - translation_iso: deu
     name: Mittelfranzösisch
   - translation_iso: fra
     name: moyen français
   - translation_iso: hin
     name: मध्यकालीन फ़्रांसीसी
+  - translation_iso: ind
+    name: Prancis Abad Pertengahan
   - translation_iso: jpn
     name: 中世フランス語
   - translation_iso: kor
     name: 중세 프랑스어
   - translation_iso: por
     name: Francês médio
+  - translation_iso: rus
+    name: среднефранцузский
   - translation_iso: spa
     name: francés medio
   - translation_iso: zho

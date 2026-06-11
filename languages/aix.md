@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أيغون
     auto: true
+  - translation_iso: ben
+    name: আইগন
   - translation_iso: deu
     name: Aighon
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイゴン語
+    auto: true
+  - translation_iso: kor
+    name: 아이곤어
     auto: true
   - translation_iso: por
     name: Aighon

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابا
     auto: true
+  - translation_iso: ben
+    name: পাপিয়া
   - translation_iso: deu
     name: Baba
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ババ語
+    auto: true
+  - translation_iso: kor
+    name: 바바어
     auto: true
   - translation_iso: por
     name: Baba

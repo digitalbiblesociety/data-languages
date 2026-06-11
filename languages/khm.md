@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khmer_language"
 translations:
   - translation_iso: ara
     name: الخميرية
+  - translation_iso: ben
+    name: খমের
   - translation_iso: deu
     name: Khmer
   - translation_iso: fra
     name: khmer
   - translation_iso: hin
     name: खमेर भाषा
+  - translation_iso: ind
+    name: Khmer
   - translation_iso: jpn
     name: クメール語
   - translation_iso: kor
     name: 크메르어
   - translation_iso: por
     name: Língua khmer
+  - translation_iso: rus
+    name: кхмерский
   - translation_iso: spa
     name: camboyano
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: por
     name: Galindan
     auto: true
+  - translation_iso: rus
+    name: галиндский язык
   - translation_iso: spa
     name: galíndico
   - translation_iso: zho

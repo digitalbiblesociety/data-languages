@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャンギ語
+  - translation_iso: kor
+    name: 냥이어
+    auto: true
   - translation_iso: por
     name: "Nyang'i"
     auto: true

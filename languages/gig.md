@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゴアリア語
     auto: true
+  - translation_iso: kor
+    name: 고아리아어
+    auto: true
   - translation_iso: por
     name: Goaria
     auto: true

@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムクア語
+  - translation_iso: kor
+    name: 티무쿠아어
+    auto: true
   - translation_iso: por
     name: Língua timucua
+  - translation_iso: rus
+    name: Тимукуа
   - translation_iso: spa
     name: idioma timucua
   - translation_iso: zho

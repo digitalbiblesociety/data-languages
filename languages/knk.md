@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クランコ語
     auto: true
+  - translation_iso: kor
+    name: 쿠랑코어
+    auto: true
   - translation_iso: por
     name: Kuranko
     auto: true

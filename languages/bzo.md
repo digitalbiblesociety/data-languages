@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボザバ語
     auto: true
+  - translation_iso: kor
+    name: 보자바어
+    auto: true
   - translation_iso: por
     name: Bozaba
     auto: true

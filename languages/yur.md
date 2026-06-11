@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: युरोक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yurok
   - translation_iso: jpn
     name: ユロック語
   - translation_iso: kor
     name: 유로크어
   - translation_iso: por
     name: Língua yurok
+  - translation_iso: rus
+    name: Юрок
   - translation_iso: spa
     name: yurok
   - translation_iso: zho

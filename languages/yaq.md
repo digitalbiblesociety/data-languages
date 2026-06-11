@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤキ語
+  - translation_iso: kor
+    name: 야키어
+    auto: true
   - translation_iso: por
     name: Língua yaqui
+  - translation_iso: rus
+    name: Яки
   - translation_iso: spa
     name: yaqui
   - translation_iso: zho

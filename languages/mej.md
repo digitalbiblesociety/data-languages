@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मेयाह
     auto: true
+  - translation_iso: ind
+    name: Meax
   - translation_iso: jpn
     name: メヤ語
+    auto: true
+  - translation_iso: kor
+    name: 메야어
     auto: true
   - translation_iso: por
     name: Meyah

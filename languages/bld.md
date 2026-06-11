@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बोलांगो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bolango
   - translation_iso: jpn
     name: ボランゴ語
+  - translation_iso: kor
+    name: 볼랑고어
+    auto: true
   - translation_iso: por
     name: Bolango
     auto: true

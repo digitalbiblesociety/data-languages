@@ -27,6 +27,8 @@ translations:
     name: 수도비아어
   - translation_iso: por
     name: sudóvio
+  - translation_iso: rus
+    name: ятвяжский язык
   - translation_iso: spa
     name: sudovio
   - translation_iso: zho

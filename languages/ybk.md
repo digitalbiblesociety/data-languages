@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボカ語
     auto: true
+  - translation_iso: kor
+    name: 보카어
+    auto: true
   - translation_iso: por
     name: bokha
     auto: true

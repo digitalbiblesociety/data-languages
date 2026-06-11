@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Osage_language"
 translations:
   - translation_iso: ara
     name: الأوساج
+  - translation_iso: ben
+    name: ওসেজ
   - translation_iso: deu
     name: Osage
   - translation_iso: fra
     name: osage
   - translation_iso: hin
     name: ओसेज
+  - translation_iso: ind
+    name: Osage
   - translation_iso: jpn
     name: オセージ語
   - translation_iso: kor
     name: 오세이지어
   - translation_iso: por
     name: osage
+  - translation_iso: rus
+    name: оседжи
   - translation_iso: spa
     name: Lengua osage
   - translation_iso: zho

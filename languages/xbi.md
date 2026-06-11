@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コンビオ語
     auto: true
+  - translation_iso: kor
+    name: 콤비오어
+    auto: true
   - translation_iso: por
     name: Kombio
     auto: true

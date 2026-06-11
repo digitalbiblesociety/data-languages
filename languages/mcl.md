@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マカグアエ語
     auto: true
+  - translation_iso: kor
+    name: 마카과헤어
+    auto: true
   - translation_iso: por
     name: Macaguaje
     auto: true
+  - translation_iso: rus
+    name: Макагуахе
   - translation_iso: spa
     name: Macaguaje
     auto: true

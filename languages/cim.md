@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: सिम्ब्रियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Zimbris
   - translation_iso: jpn
     name: チンブロ語
+  - translation_iso: kor
+    name: 침브리아어
+    auto: true
   - translation_iso: por
     name: Cimbriano
+  - translation_iso: rus
+    name: Цимбрский язык
   - translation_iso: spa
     name: Idioma cimbriano
   - translation_iso: zho

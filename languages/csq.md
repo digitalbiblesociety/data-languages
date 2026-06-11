@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكرواتية
     auto: true
+  - translation_iso: ben
+    name: ক্রোয়েশীয় ইশারা ভাষা
   - translation_iso: deu
     name: Kroatische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロアチア手話
+  - translation_iso: kor
+    name: 크로아티아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais croata
+  - translation_iso: rus
+    name: хорватский жестовый язык
   - translation_iso: spa
     name: Lengua de Señas de Croacia
     auto: true

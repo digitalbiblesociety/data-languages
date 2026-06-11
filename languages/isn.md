@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イサンズ語
     auto: true
+  - translation_iso: kor
+    name: 이산주어
+    auto: true
   - translation_iso: por
     name: Isanzu
     auto: true

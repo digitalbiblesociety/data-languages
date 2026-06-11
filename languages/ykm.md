@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カップ語
     auto: true
+  - translation_iso: kor
+    name: 카프어
+    auto: true
   - translation_iso: por
     name: kap
     auto: true

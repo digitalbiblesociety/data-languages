@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: カカロクステペク・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 카칼로스테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Cacaloxtepec
     auto: true
+  - translation_iso: rus
+    name: Какалостепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Cacaloxtepec
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Susu_language"
 translations:
   - translation_iso: ara
     name: لغة سوسوية
+  - translation_iso: ben
+    name: সুসু
   - translation_iso: deu
     name: Susu
   - translation_iso: fra
     name: soussou
   - translation_iso: hin
     name: सूसू भाषा
+  - translation_iso: ind
+    name: Susu
   - translation_iso: jpn
     name: スス語
   - translation_iso: kor
     name: 수수어
   - translation_iso: por
     name: Língua susu
+  - translation_iso: rus
+    name: сусу
   - translation_iso: spa
     name: Idioma suso
   - translation_iso: zho

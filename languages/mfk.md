@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北モフ語
     auto: true
+  - translation_iso: kor
+    name: 북부 모푸어
+    auto: true
   - translation_iso: por
     name: Mofu do Norte
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرابانا
     auto: true
+  - translation_iso: ben
+    name: আরাবানা
   - translation_iso: deu
     name: Arabana
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラバナ語
+  - translation_iso: kor
+    name: 아라바나어
+    auto: true
   - translation_iso: por
     name: Arabana
     auto: true

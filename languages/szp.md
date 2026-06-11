@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सुआबो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Suabo
   - translation_iso: jpn
     name: イナンワタン語
+  - translation_iso: kor
+    name: 수아보어
+    auto: true
   - translation_iso: por
     name: Suabo
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラジ語
     auto: true
+  - translation_iso: kor
+    name: 라지어
+    auto: true
   - translation_iso: por
     name: Raji
     auto: true

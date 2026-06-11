@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イタウィット語
     auto: true
+  - translation_iso: kor
+    name: 이타위트어
+    auto: true
   - translation_iso: por
     name: Língua itawis
   - translation_iso: spa

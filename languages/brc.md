@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بِرْبيس كريول هولندي
     auto: true
+  - translation_iso: ben
+    name: বারবিস ক্রেওল ডাচ
   - translation_iso: deu
     name: Berbice-Niederländisch
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true
+  - translation_iso: kor
+    name: 베르비세 크리올 네덜란드어
+    auto: true
   - translation_iso: por
     name: Crioulo neerlandês de Berbice
     auto: true
+  - translation_iso: rus
+    name: бербисский язык
   - translation_iso: spa
     name: Criollo barbiezos
   - translation_iso: zho

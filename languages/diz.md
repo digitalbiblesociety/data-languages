@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ディング語
     auto: true
+  - translation_iso: kor
+    name: 딩어
+    auto: true
   - translation_iso: por
     name: Ding
     auto: true
+  - translation_iso: rus
+    name: Динг
   - translation_iso: spa
     name: Ding
     auto: true

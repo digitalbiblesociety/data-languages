@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Washo_language"
 translations:
   - translation_iso: ara
     name: الواشوية
+  - translation_iso: ben
+    name: ওয়াশো
   - translation_iso: deu
     name: Washoe
   - translation_iso: fra
     name: washo
   - translation_iso: hin
     name: वाशो
+  - translation_iso: ind
+    name: Washo
   - translation_iso: jpn
     name: ワショ語
   - translation_iso: kor
     name: 와쇼어
   - translation_iso: por
     name: Língua washo
+  - translation_iso: rus
+    name: вашо
   - translation_iso: spa
     name: washo
   - translation_iso: zho

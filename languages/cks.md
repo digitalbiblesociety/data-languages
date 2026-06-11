@@ -34,6 +34,8 @@ translations:
     name: 타요
   - translation_iso: por
     name: Tayo
+  - translation_iso: rus
+    name: Тайо
   - translation_iso: spa
     name: idioma tayo
   - translation_iso: zho

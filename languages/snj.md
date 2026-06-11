@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤンガティサンゴ語
     auto: true
+  - translation_iso: kor
+    name: 강변 상고어
+    auto: true
   - translation_iso: por
     name: Sango Ribeirinho
     auto: true

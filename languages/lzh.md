@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Chinese"
 translations:
   - translation_iso: ara
     name: الصينية الكلاسيكية
+  - translation_iso: ben
+    name: শাস্ত্রীয় চীনাভাষা
   - translation_iso: deu
     name: klassisches Chinesisch
   - translation_iso: fra
     name: chinois classique
   - translation_iso: hin
     name: शास्त्रीय चीनी
+  - translation_iso: ind
+    name: bahasa Tionghoa Klasik
   - translation_iso: jpn
     name: 漢文
   - translation_iso: kor
     name: 한문
   - translation_iso: por
     name: chinês clássico
+  - translation_iso: rus
+    name: классический китайский язык
   - translation_iso: spa
     name: chino clásico
   - translation_iso: zho

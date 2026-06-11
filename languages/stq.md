@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saterland_Frisian_language"
 translations:
   - translation_iso: ara
     name: اللغة الفريزية السيترلندية
+  - translation_iso: ben
+    name: সাটেরলান্ড ফ্রিসীয়
   - translation_iso: deu
     name: Saterfriesisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: ज़ाटरफ़्रीज़िश
     auto: true
+  - translation_iso: ind
+    name: Bahasa Frisia Saterland
   - translation_iso: jpn
     name: 東フリジア語
   - translation_iso: kor
     name: 동프리슬란트어
   - translation_iso: por
     name: frisão oriental
+  - translation_iso: rus
+    name: затерландский фризский язык
   - translation_iso: spa
     name: dialecto frisón saterlandés
   - translation_iso: zho

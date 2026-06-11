@@ -27,11 +27,18 @@ translations:
     name: batak mandailing
   - translation_iso: hin
     name: मंदायलिंग बतक भाषा
+  - translation_iso: ind
+    name: bahasa Batak Mandailing
   - translation_iso: jpn
     name: バタク・マンダイリン語
+  - translation_iso: kor
+    name: 바탁 만다일링어
+    auto: true
   - translation_iso: por
     name: Batak Mandailing
     auto: true
+  - translation_iso: rus
+    name: мандайлингский язык
   - translation_iso: spa
     name: Batak Mandailing
     auto: true

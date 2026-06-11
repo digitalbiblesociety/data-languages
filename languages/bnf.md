@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मसिवांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Masiwang
   - translation_iso: jpn
     name: マシワン語
+    auto: true
+  - translation_iso: kor
+    name: 마시왕어
     auto: true
   - translation_iso: por
     name: Masiwang

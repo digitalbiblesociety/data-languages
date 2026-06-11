@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشانغثانغ
     auto: true
+  - translation_iso: ben
+    name: চাংথাং ভাষা
   - translation_iso: deu
     name: Changthang
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: चांगथंग भाषा
   - translation_iso: jpn
     name: チャンタン語
+    auto: true
+  - translation_iso: kor
+    name: 창탕어
     auto: true
   - translation_iso: por
     name: Changthang

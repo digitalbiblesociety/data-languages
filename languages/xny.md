@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニイャパーリ語
     auto: true
+  - translation_iso: kor
+    name: 니야팔리어
+    auto: true
   - translation_iso: por
     name: Nyiyaparli
     auto: true

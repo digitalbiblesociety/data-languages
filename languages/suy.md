@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: スヤ語
     auto: true
+  - translation_iso: kor
+    name: 수야어
+    auto: true
   - translation_iso: por
     name: Língua suiá
+  - translation_iso: rus
+    name: Суя
   - translation_iso: spa
     name: Suyá
     auto: true

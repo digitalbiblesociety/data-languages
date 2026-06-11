@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: フプデ語
     auto: true
+  - translation_iso: kor
+    name: 후프데어
+    auto: true
   - translation_iso: por
     name: Língua hupdá
+  - translation_iso: rus
+    name: Хупде
   - translation_iso: spa
     name: idioma judpa
   - translation_iso: zho

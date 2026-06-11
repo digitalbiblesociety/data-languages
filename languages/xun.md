@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウンガランググ語
     auto: true
+  - translation_iso: kor
+    name: 웅가랑구어
+    auto: true
   - translation_iso: por
     name: unggaranggu
     auto: true

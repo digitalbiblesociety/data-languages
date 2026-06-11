@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gilbertese_language"
 translations:
   - translation_iso: ara
     name: الكيريباتية
+  - translation_iso: ben
+    name: গিলবার্টিজ
   - translation_iso: deu
     name: Kiribatisch
   - translation_iso: fra
     name: gilbertin
   - translation_iso: hin
     name: गिल्बरतीस
+  - translation_iso: ind
+    name: Gilbert
   - translation_iso: jpn
     name: キリバス語
   - translation_iso: kor
     name: 키리바시어
   - translation_iso: por
     name: Gilbertês
+  - translation_iso: rus
+    name: гилбертский
   - translation_iso: spa
     name: gilbertino
   - translation_iso: zho

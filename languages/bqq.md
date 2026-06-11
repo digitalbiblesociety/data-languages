@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बिरिताई
     auto: true
+  - translation_iso: ind
+    name: Biri
   - translation_iso: jpn
     name: ビリタイ語
+    auto: true
+  - translation_iso: kor
+    name: 비리타이어
     auto: true
   - translation_iso: por
     name: Biritai

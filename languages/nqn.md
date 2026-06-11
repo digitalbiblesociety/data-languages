@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ネン語
     auto: true
+  - translation_iso: kor
+    name: 넨어
+    auto: true
   - translation_iso: por
     name: Nen
     auto: true

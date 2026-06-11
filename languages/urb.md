@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ウルブ語
     auto: true
+  - translation_iso: kor
+    name: 우루부카아포르어
+    auto: true
   - translation_iso: por
     name: Língua caapor
+  - translation_iso: rus
+    name: Урубу-каапор
   - translation_iso: spa
     name: Urubú-Kaapor
     auto: true

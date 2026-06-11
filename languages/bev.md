@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: دالوا بيتي
     auto: true
+  - translation_iso: ben
+    name: বেটে ডালোয়া
   - translation_iso: deu
     name: Daloa Bété
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダロア・ベテ語
+    auto: true
+  - translation_iso: kor
+    name: 달로아 베테어
     auto: true
   - translation_iso: por
     name: Daloa Bété

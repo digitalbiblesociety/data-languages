@@ -24,9 +24,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルシ語
+  - translation_iso: kor
+    name: 마르시어
+    auto: true
   - translation_iso: por
     name: Mársio
     auto: true
+  - translation_iso: rus
+    name: марсский диалект
   - translation_iso: spa
     name: idioma marso
   - translation_iso: zho

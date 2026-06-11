@@ -23,8 +23,13 @@ translations:
   - translation_iso: hin
     name: पूर्वी न्गादा
     auto: true
+  - translation_iso: ind
+    name: Ngada Timur
   - translation_iso: jpn
     name: 東ングアダ語
+    auto: true
+  - translation_iso: kor
+    name: 동부 응아다어
     auto: true
   - translation_iso: por
     name: Ngada Timur

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コオンゴ語
+  - translation_iso: kor
+    name: 콩고어
+    auto: true
   - translation_iso: por
     name: quicongo
     auto: true

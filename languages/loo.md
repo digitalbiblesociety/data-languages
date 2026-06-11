@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Lombo語
+  - translation_iso: kor
+    name: 롬보어
+    auto: true
   - translation_iso: por
     name: Lombo
     auto: true

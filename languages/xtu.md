@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: クヤメカルコ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 쿠야메칼코 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Cuyamecalco
     auto: true
+  - translation_iso: rus
+    name: Куямекалькский миштекский язык
   - translation_iso: spa
     name: Mixteco de Cuyamecalco
     auto: true

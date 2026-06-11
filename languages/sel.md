@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Selkup_languages"
 translations:
   - translation_iso: ara
     name: لغة سيلكوب
+  - translation_iso: ben
+    name: সেল্কুপ
   - translation_iso: deu
     name: Selkupisch
   - translation_iso: fra
     name: selkoupe
   - translation_iso: hin
     name: सेल्कप
+  - translation_iso: ind
+    name: Selkup
   - translation_iso: jpn
     name: セリクプ語
   - translation_iso: kor
     name: 셀쿠프어
   - translation_iso: por
     name: Língua selkup
+  - translation_iso: rus
+    name: селькупский
   - translation_iso: spa
     name: Selkup
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ムラフソー語
     auto: true
+  - translation_iso: kor
+    name: 믈라소어
+    auto: true
   - translation_iso: por
     name: Mlahsö
     auto: true
+  - translation_iso: rus
+    name: Млахсо
   - translation_iso: spa
     name: Mlahsö
     auto: true

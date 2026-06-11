@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ottawa_dialect"
 translations:
   - translation_iso: ara
     name: أوطاوا
+  - translation_iso: ben
+    name: অটোয়া উপভাষা
   - translation_iso: deu
     name: Ottawa
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オタワ語
+  - translation_iso: kor
+    name: 오타와어
+    auto: true
   - translation_iso: por
     name: Língua ottawa
+  - translation_iso: rus
+    name: оттава
   - translation_iso: spa
     name: ottawa
   - translation_iso: zho

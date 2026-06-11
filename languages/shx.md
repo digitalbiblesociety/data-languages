@@ -35,6 +35,8 @@ translations:
     name: 서어
   - translation_iso: por
     name: Língua she
+  - translation_iso: rus
+    name: Шэ
   - translation_iso: spa
     name: She
     auto: true

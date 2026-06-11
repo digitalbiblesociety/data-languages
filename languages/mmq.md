@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムサク語
     auto: true
+  - translation_iso: kor
+    name: 무사크어
+    auto: true
   - translation_iso: por
     name: Musak
     auto: true

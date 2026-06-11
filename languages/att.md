@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パンプロナ・アッタ語
     auto: true
+  - translation_iso: kor
+    name: 팜플로나 아타어
+    auto: true
   - translation_iso: por
     name: Atta de Pamplona
     auto: true

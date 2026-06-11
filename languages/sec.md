@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シーシェルト語
+  - translation_iso: kor
+    name: 시셸트어
+    auto: true
   - translation_iso: por
     name: Sechelt
     auto: true
+  - translation_iso: rus
+    name: Сешельт
   - translation_iso: spa
     name: Sechelt
     auto: true

@@ -32,6 +32,8 @@ translations:
     name: 이토나마어
   - translation_iso: por
     name: Língua itonama
+  - translation_iso: rus
+    name: Итонама
   - translation_iso: spa
     name: idioma itonama
   - translation_iso: zho

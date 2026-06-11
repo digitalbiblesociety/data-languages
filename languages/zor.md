@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラヨン・ゾケ語
     auto: true
+  - translation_iso: kor
+    name: 라욘 소케어
+    auto: true
   - translation_iso: por
     name: zoque de Rayón
     auto: true

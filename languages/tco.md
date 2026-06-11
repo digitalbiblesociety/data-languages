@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タウンギョ語
     auto: true
+  - translation_iso: kor
+    name: 타웅요어
+    auto: true
   - translation_iso: por
     name: Taungyo
     auto: true

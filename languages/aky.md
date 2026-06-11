@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كول
     auto: true
+  - translation_iso: ben
+    name: আকা-কোল
   - translation_iso: deu
     name: Aka-Kol
     auto: true

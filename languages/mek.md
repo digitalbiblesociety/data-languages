@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メケオ語
+  - translation_iso: kor
+    name: 메케오어
+    auto: true
   - translation_iso: por
     name: Mekeo
     auto: true

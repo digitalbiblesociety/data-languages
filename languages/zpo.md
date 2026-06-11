@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك أمتلان
     auto: true
+  - translation_iso: ben
+    name: আমাতলান জাপোটেক
   - translation_iso: deu
     name: Zapotekisch (Amatlán)
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アマトラン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 아마틀란 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Amatlán
     auto: true
+  - translation_iso: rus
+    name: аматланский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Amatlán
     auto: true

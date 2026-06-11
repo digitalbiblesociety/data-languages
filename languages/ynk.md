@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: नौकान युपिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yupik Naukan
   - translation_iso: jpn
     name: ナウカン語
+  - translation_iso: kor
+    name: 나우칸 유픽어
+    auto: true
   - translation_iso: por
     name: yupik de Naukan
     auto: true
+  - translation_iso: rus
+    name: науканский язык
   - translation_iso: spa
     name: naukanski
   - translation_iso: zho

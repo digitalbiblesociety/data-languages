@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ストニー語
+  - translation_iso: kor
+    name: 스토니어
+    auto: true
   - translation_iso: por
     name: Língua stoney
+  - translation_iso: rus
+    name: стони
   - translation_iso: spa
     name: Stoney
     auto: true

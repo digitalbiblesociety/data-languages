@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マカレロ方言
+  - translation_iso: kor
+    name: 마칼레로어
+    auto: true
   - translation_iso: por
     name: Língua makalera
   - translation_iso: spa

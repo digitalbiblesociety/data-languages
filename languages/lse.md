@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルセンゴ語
     auto: true
+  - translation_iso: kor
+    name: 루셍고어
+    auto: true
   - translation_iso: por
     name: Lusengo
     auto: true

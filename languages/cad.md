@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Caddo_language"
 translations:
   - translation_iso: ara
     name: الكادو
+  - translation_iso: ben
+    name: ক্যাডো
   - translation_iso: deu
     name: Caddo
   - translation_iso: fra
     name: caddo
   - translation_iso: hin
     name: कैड्डो
+  - translation_iso: ind
+    name: Kado
   - translation_iso: jpn
     name: カドー語
   - translation_iso: kor
     name: 캐도어
   - translation_iso: por
     name: Língua caddo
+  - translation_iso: rus
+    name: каддо
   - translation_iso: spa
     name: Caddo
   - translation_iso: zho

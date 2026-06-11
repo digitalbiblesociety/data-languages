@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: इहा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Iha
   - translation_iso: jpn
     name: イハ語
+    auto: true
+  - translation_iso: kor
+    name: 이하어
     auto: true
   - translation_iso: por
     name: Iha

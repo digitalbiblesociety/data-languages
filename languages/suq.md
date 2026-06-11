@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: スリ語
     auto: true
+  - translation_iso: kor
+    name: 수리어
+    auto: true
   - translation_iso: por
     name: Língua suri
+  - translation_iso: rus
+    name: Сури (язык)
   - translation_iso: spa
     name: Idioma suri
   - translation_iso: zho

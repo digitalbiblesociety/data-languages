@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: लंपुंग आपी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lampung Api
   - translation_iso: jpn
     name: ランプン語
   - translation_iso: kor
     name: 람풍어
   - translation_iso: por
     name: Língua lampung
+  - translation_iso: rus
+    name: Лампунгский язык
   - translation_iso: spa
     name: lampung
   - translation_iso: zho

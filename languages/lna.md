@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ランガバシェ語
     auto: true
+  - translation_iso: kor
+    name: 랑바셰어
+    auto: true
   - translation_iso: por
     name: Langbashe
     auto: true

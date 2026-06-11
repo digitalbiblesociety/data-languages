@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シピボ語
     auto: true
+  - translation_iso: kor
+    name: 시피보코니보어
+    auto: true
   - translation_iso: por
     name: Língua shipibo
+  - translation_iso: rus
+    name: Шипибо-конибо
   - translation_iso: spa
     name: idioma shipibo
   - translation_iso: zho

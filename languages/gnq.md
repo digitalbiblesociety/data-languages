@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガナ語
     auto: true
+  - translation_iso: kor
+    name: 가나어
+    auto: true
   - translation_iso: por
     name: Gana
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पश्चिमी लेंबाता
     auto: true
+  - translation_iso: ind
+    name: Lembata Barat
   - translation_iso: jpn
     name: 西レンバタ語
+  - translation_iso: kor
+    name: 서부 렘바타어
+    auto: true
   - translation_iso: por
     name: Lembata ocidental
     auto: true

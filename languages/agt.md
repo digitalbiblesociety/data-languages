@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 中央カガヤン・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 중부 카가얀 아그타어
+    auto: true
   - translation_iso: por
     name: Agta do Cagayan Central
     auto: true

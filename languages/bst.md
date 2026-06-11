@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باسْكيتو
     auto: true
+  - translation_iso: ben
+    name: বাস্কেটো
   - translation_iso: deu
     name: Basketo
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バスケト語
+  - translation_iso: kor
+    name: 바스케토어
+    auto: true
   - translation_iso: por
     name: Basketo
     auto: true
+  - translation_iso: rus
+    name: Баскето
   - translation_iso: spa
     name: Basketo
     auto: true

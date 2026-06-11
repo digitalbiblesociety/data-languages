@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ウゲレ語
     auto: true
+  - translation_iso: kor
+    name: 우겔레어
+    auto: true
   - translation_iso: por
     name: Ughele
     auto: true
+  - translation_iso: rus
+    name: угеле
   - translation_iso: spa
     name: Ughele
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チュングンジ語
     auto: true
+  - translation_iso: kor
+    name: 충운지어
+    auto: true
   - translation_iso: por
     name: Tjungundji
     auto: true

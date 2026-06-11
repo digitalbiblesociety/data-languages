@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゴロ語
     auto: true
+  - translation_iso: kor
+    name: 도고로어
+    auto: true
   - translation_iso: por
     name: Doghoro
     auto: true

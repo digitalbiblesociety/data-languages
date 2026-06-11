@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: त्सात
     auto: true
+  - translation_iso: ind
+    name: Tsat
   - translation_iso: jpn
     name: 回輝語
+  - translation_iso: kor
+    name: 차트어
+    auto: true
   - translation_iso: por
     name: Tsat
     auto: true
+  - translation_iso: rus
+    name: Цатский язык
   - translation_iso: spa
     name: Tsat
     auto: true

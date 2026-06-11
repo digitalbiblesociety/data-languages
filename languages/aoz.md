@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: उआब मेतो
     auto: true
+  - translation_iso: ind
+    name: Uab Meto
   - translation_iso: jpn
     name: ウアブ・メト語
   - translation_iso: kor
     name: 우압메토어
   - translation_iso: por
     name: Uab Meto
+  - translation_iso: rus
+    name: Уаб-мето
   - translation_iso: spa
     name: Uab Meto
   - translation_iso: zho

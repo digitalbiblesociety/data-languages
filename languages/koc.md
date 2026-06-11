@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クパティ語
+  - translation_iso: kor
+    name: 크파티어
+    auto: true
   - translation_iso: por
     name: Kpati
     auto: true

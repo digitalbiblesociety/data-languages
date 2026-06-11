@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スワヒリ語
+  - translation_iso: kor
+    name: 해안 스와힐리어
+    auto: true
   - translation_iso: por
     name: Suaíli (Costeiro)
     auto: true
+  - translation_iso: rus
+    name: кисуахили
   - translation_iso: spa
     name: Kiswahili
   - translation_iso: zho

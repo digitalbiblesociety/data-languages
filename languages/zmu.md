@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムルワリ語
+  - translation_iso: kor
+    name: 무루와리어
+    auto: true
   - translation_iso: por
     name: Muruwari
     auto: true
+  - translation_iso: rus
+    name: Мурувари
   - translation_iso: spa
     name: Idioma muruwari
   - translation_iso: zho

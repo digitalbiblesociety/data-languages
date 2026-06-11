@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ブラ・パビール語
     auto: true
+  - translation_iso: kor
+    name: 부라파비르어
+    auto: true
   - translation_iso: por
     name: Bura-Pabir
     auto: true
+  - translation_iso: rus
+    name: бура
   - translation_iso: spa
     name: Bura-Pabir
     auto: true

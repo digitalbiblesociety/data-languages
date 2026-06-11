@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lezgian_language"
 translations:
   - translation_iso: ara
     name: لغة ليزغينية
+  - translation_iso: ben
+    name: লেজঘিয়ান
   - translation_iso: deu
     name: Lesgisch
   - translation_iso: fra
     name: lezghien
   - translation_iso: hin
     name: लेज़गियान भाषा
+  - translation_iso: ind
+    name: Lezghia
   - translation_iso: jpn
     name: レズギ語
   - translation_iso: kor
     name: 레즈긴어
   - translation_iso: por
     name: Língua lezgui
+  - translation_iso: rus
+    name: лезгинский
   - translation_iso: spa
     name: Idioma lezgui
   - translation_iso: zho

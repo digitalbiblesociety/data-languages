@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: नाकाएला
     auto: true
+  - translation_iso: ind
+    name: "Naka'ela"
   - translation_iso: jpn
     name: ナカエラ語
+    auto: true
+  - translation_iso: kor
+    name: 나카엘라어
     auto: true
   - translation_iso: por
     name: "Naka'ela"

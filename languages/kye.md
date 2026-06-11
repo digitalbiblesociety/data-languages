@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クラッシェ語
     auto: true
+  - translation_iso: kor
+    name: 크라치어
+    auto: true
   - translation_iso: por
     name: Krache
     auto: true

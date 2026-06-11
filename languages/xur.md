@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: उरार्तियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Urartu
   - translation_iso: jpn
     name: ウラルトゥ語
   - translation_iso: kor
     name: 우라르투어
   - translation_iso: por
     name: Língua urartita
+  - translation_iso: rus
+    name: урартский язык
   - translation_iso: spa
     name: idioma urartiano
   - translation_iso: zho

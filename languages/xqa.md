@@ -22,9 +22,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラハン朝トルコ語
+  - translation_iso: kor
+    name: 카라한어
+    auto: true
   - translation_iso: por
     name: Caraânida
     auto: true
+  - translation_iso: rus
+    name: хаканский язык
   - translation_iso: spa
     name: Carejanida
     auto: true

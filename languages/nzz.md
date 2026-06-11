@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナンガ・ダマ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 낭가 다마 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Nanga Dama
     auto: true

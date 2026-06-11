@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤンダ・ドム・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 얀다돔 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Yanda Dom
     auto: true

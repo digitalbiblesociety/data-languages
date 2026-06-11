@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الشوني
     auto: true
+  - translation_iso: ben
+    name: শনি ভাষা
   - translation_iso: deu
     name: Shawnee
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: शॉनी
     auto: true
+  - translation_iso: ind
+    name: Shawnee
   - translation_iso: jpn
     name: ショーニー語
+  - translation_iso: kor
+    name: 쇼니어
+    auto: true
   - translation_iso: por
     name: Shawnee
     auto: true
+  - translation_iso: rus
+    name: шони
   - translation_iso: spa
     name: Shawnee
   - translation_iso: zho

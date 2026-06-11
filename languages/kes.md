@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クグボ語
     auto: true
+  - translation_iso: kor
+    name: 쿠그보어
+    auto: true
   - translation_iso: por
     name: Kugbo
     auto: true

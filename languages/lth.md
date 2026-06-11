@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥア語
     auto: true
+  - translation_iso: kor
+    name: 투르어
+    auto: true
   - translation_iso: por
     name: Thur
     auto: true

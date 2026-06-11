@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イウォム語
     auto: true
+  - translation_iso: kor
+    name: 이웜어
+    auto: true
   - translation_iso: por
     name: Ywom
     auto: true
+  - translation_iso: rus
+    name: Герка
   - translation_iso: spa
     name: Ywom
     auto: true

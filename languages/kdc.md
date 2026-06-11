@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クトゥ語
     auto: true
+  - translation_iso: kor
+    name: 쿠투어
+    auto: true
   - translation_iso: por
     name: Kutu
     auto: true

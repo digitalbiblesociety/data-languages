@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inuktitut"
 translations:
   - translation_iso: ara
     name: الإنكتيتوتية
+  - translation_iso: ben
+    name: ইনুক্টিটুট
   - translation_iso: deu
     name: Inuktitut
   - translation_iso: fra
     name: inuktitut
   - translation_iso: hin
     name: इनूकीटूत्
+  - translation_iso: ind
+    name: Inuktitut
   - translation_iso: jpn
     name: イヌクティトゥット語
   - translation_iso: kor
     name: 이누크티투트어
   - translation_iso: por
     name: Língua inuktitut
+  - translation_iso: rus
+    name: инуктитут
   - translation_iso: spa
     name: inuktitut
   - translation_iso: zho

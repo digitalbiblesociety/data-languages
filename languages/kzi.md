@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: केलाबित
     auto: true
+  - translation_iso: ind
+    name: Kelabit
   - translation_iso: jpn
     name: クラビト語
+  - translation_iso: kor
+    name: 켈라빗어
+    auto: true
   - translation_iso: por
     name: Língua kelabit
+  - translation_iso: rus
+    name: Келабитский язык
   - translation_iso: spa
     name: Kelabit
     auto: true

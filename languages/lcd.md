@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: लोला
     auto: true
+  - translation_iso: ind
+    name: Lola
   - translation_iso: jpn
     name: ロラ語
+    auto: true
+  - translation_iso: kor
+    name: 롤라어
     auto: true
   - translation_iso: por
     name: Lola
     auto: true
+  - translation_iso: rus
+    name: Лола
   - translation_iso: spa
     name: Lola
     auto: true

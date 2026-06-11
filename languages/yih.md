@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西イディッシュ語
+  - translation_iso: kor
+    name: 서부 이디시어
+    auto: true
   - translation_iso: por
     name: ídiche ocidental
     auto: true
+  - translation_iso: rus
+    name: еврейский немецкий
   - translation_iso: spa
     name: yidis occidental
   - translation_iso: zho

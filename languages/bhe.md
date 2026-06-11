@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بهايا
     auto: true
+  - translation_iso: ben
+    name: ভায়া ভাষা
   - translation_iso: deu
     name: Bhaya
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビャヤ語
+    auto: true
+  - translation_iso: kor
+    name: 바야어
     auto: true
   - translation_iso: por
     name: Bhaya

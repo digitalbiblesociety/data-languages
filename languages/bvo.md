@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ボルゴ語
     auto: true
+  - translation_iso: kor
+    name: 볼고어
+    auto: true
   - translation_iso: por
     name: Bolgo
     auto: true
+  - translation_iso: rus
+    name: Болго
   - translation_iso: spa
     name: Bolgo
     auto: true

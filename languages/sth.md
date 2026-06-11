@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: शेल्टा
     auto: true
+  - translation_iso: ind
+    name: bahasa Shelta
   - translation_iso: jpn
     name: シェルタ語
   - translation_iso: kor
     name: 셸타어
   - translation_iso: por
     name: Língua shelta
+  - translation_iso: rus
+    name: шелта
   - translation_iso: spa
     name: shelta
   - translation_iso: zho

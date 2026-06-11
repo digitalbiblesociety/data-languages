@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イル・ヨロント語
     auto: true
+  - translation_iso: kor
+    name: 이르요론트어
+    auto: true
   - translation_iso: por
     name: yir yoront
     auto: true

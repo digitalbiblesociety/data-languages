@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: प्राचीन चाम
     auto: true
+  - translation_iso: ind
+    name: Cham Kuno
   - translation_iso: jpn
     name: 古チャム語
+    auto: true
+  - translation_iso: kor
+    name: 고대 참어
     auto: true
   - translation_iso: por
     name: cham antigo
     auto: true
+  - translation_iso: rus
+    name: древнечамский язык
   - translation_iso: spa
     name: Cham antiguo
     auto: true

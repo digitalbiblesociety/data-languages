@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النرويجية
     auto: true
+  - translation_iso: ben
+    name: নরওয়েজীয় ইশারা ভাষা
   - translation_iso: deu
     name: Norwegische Gebärdensprache
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノルウェー手話
+  - translation_iso: kor
+    name: 노르웨이 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Norueguesa
     auto: true
+  - translation_iso: rus
+    name: норвежский жестовый язык
   - translation_iso: spa
     name: Lengua de señas noruega
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東リンバ語
     auto: true
+  - translation_iso: kor
+    name: 동부 림바어
+    auto: true
   - translation_iso: por
     name: Limba oriental
     auto: true

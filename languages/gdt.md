@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: クンガルドゥティイ語
     auto: true
+  - translation_iso: kor
+    name: 쿵가르두티어
+    auto: true
   - translation_iso: por
     name: Kungardutyi
     auto: true

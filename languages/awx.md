@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوارا
     auto: true
+  - translation_iso: ben
+    name: আওয়ারা
   - translation_iso: deu
     name: Awara
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワラ語
+    auto: true
+  - translation_iso: kor
+    name: 아와라어
     auto: true
   - translation_iso: por
     name: Língua awara

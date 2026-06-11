@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムボ語
     auto: true
+  - translation_iso: kor
+    name: 음보어
+    auto: true
   - translation_iso: por
     name: Mbo (Camarões)
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エロイ語
     auto: true
+  - translation_iso: kor
+    name: 엘로이어
+    auto: true
   - translation_iso: por
     name: Eloyi
     auto: true

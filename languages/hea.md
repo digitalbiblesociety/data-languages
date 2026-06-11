@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部黔東苗語
+  - translation_iso: kor
+    name: 북부 첸둥 먀오어
+    auto: true
   - translation_iso: por
     name: Miao Qiandong do Norte
     auto: true

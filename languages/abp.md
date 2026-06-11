@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبيلن أيتا
     auto: true
+  - translation_iso: ben
+    name: আবেল্লেন
   - translation_iso: deu
     name: Abellen-Ayta
     auto: true
@@ -33,8 +35,13 @@ translations:
   - translation_iso: jpn
     name: アベレンアイタ語
     auto: true
+  - translation_iso: kor
+    name: 아벨렌 아이타어
+    auto: true
   - translation_iso: por
     name: Língua abellen
+  - translation_iso: rus
+    name: абенлен
   - translation_iso: spa
     name: Abellen Ayta
     auto: true

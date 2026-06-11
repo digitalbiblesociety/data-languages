@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ボラナ・アルシ・グジ・オロモ語
     auto: true
+  - translation_iso: kor
+    name: 보라나·아르시·구지 오로모어
+    auto: true
   - translation_iso: por
     name: oromo de Borana-Arsi-Guji
     auto: true

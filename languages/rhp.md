@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤハン語
     auto: true
+  - translation_iso: kor
+    name: 야항어
+    auto: true
   - translation_iso: por
     name: Yahang
     auto: true

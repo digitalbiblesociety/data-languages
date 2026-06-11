@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トビルン語
     auto: true
+  - translation_iso: kor
+    name: 토빌룽어
+    auto: true
   - translation_iso: por
     name: Tobilung
     auto: true

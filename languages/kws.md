@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クウェセ語
     auto: true
+  - translation_iso: kor
+    name: 퀘세어
+    auto: true
   - translation_iso: por
     name: Kwese
     auto: true

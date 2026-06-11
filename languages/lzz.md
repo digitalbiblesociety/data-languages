@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: लाज़
     auto: true
+  - translation_iso: ind
+    name: Laz
   - translation_iso: jpn
     name: ラズ語
   - translation_iso: kor
     name: 라즈어
   - translation_iso: por
     name: laz
+  - translation_iso: rus
+    name: лазский язык
   - translation_iso: spa
     name: laz
   - translation_iso: zho

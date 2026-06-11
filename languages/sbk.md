@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イシサファ語
     auto: true
+  - translation_iso: kor
+    name: 사프와어
+    auto: true
   - translation_iso: por
     name: Safwa
     auto: true

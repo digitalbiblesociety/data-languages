@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Vietnamese_language"
 translations:
   - translation_iso: ara
     name: الفيتنامية
+  - translation_iso: ben
+    name: ভিয়েতনামী
   - translation_iso: deu
     name: Vietnamesisch
   - translation_iso: fra
     name: vietnamien
   - translation_iso: hin
     name: वियतनामी भाषा
+  - translation_iso: ind
+    name: Vietnam
   - translation_iso: jpn
     name: ベトナム語
   - translation_iso: kor
     name: 베트남어
   - translation_iso: por
     name: vietnamita
+  - translation_iso: rus
+    name: вьетнамский
   - translation_iso: spa
     name: vietnamita
   - translation_iso: zho

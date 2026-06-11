@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cayuga_language"
 translations:
   - translation_iso: ara
     name: الكايوجية
+  - translation_iso: ben
+    name: কায়ুগা
   - translation_iso: deu
     name: Cayuga
   - translation_iso: fra
     name: cayuga
   - translation_iso: hin
     name: कायुगा
+  - translation_iso: ind
+    name: Cayuga
   - translation_iso: jpn
     name: カユーガ語
   - translation_iso: kor
     name: 카유가어
   - translation_iso: por
     name: cayuga
+  - translation_iso: rus
+    name: кайюга
   - translation_iso: spa
     name: Cayuga
   - translation_iso: zho

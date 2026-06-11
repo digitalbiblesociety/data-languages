@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serer_language"
 translations:
   - translation_iso: ara
     name: لغة سيريرية
+  - translation_iso: ben
+    name: সেরের
   - translation_iso: deu
     name: Serer
   - translation_iso: fra
     name: sérère
   - translation_iso: hin
     name: सेरेर
+  - translation_iso: ind
+    name: Serer
   - translation_iso: jpn
     name: セレール語
   - translation_iso: kor
     name: 세레르어
   - translation_iso: por
     name: Língua serer
+  - translation_iso: rus
+    name: серер
   - translation_iso: spa
     name: serer
   - translation_iso: zho

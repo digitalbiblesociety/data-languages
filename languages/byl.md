@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بايونو
     auto: true
+  - translation_iso: ben
+    name: বেয়োনো
   - translation_iso: deu
     name: Bayono
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बायोनो
     auto: true
+  - translation_iso: ind
+    name: Bayono
   - translation_iso: jpn
     name: バヤノ語
+    auto: true
+  - translation_iso: kor
+    name: 바요노어
     auto: true
   - translation_iso: por
     name: Bayono

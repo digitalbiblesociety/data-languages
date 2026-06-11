@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أروامو
     auto: true
+  - translation_iso: ben
+    name: আরুয়ামু
   - translation_iso: deu
     name: Aruamu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルアム語
+    auto: true
+  - translation_iso: kor
+    name: 아루아무어
     auto: true
   - translation_iso: por
     name: Aruamu

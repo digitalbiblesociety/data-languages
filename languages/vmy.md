@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أيوتلا مازاتك
     auto: true
+  - translation_iso: ben
+    name: আয়াউতলা মাজাটেক
   - translation_iso: deu
     name: Ayautla-Mazatekisch
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true
+  - translation_iso: kor
+    name: 아야우틀라 마사테카어
+    auto: true
   - translation_iso: por
     name: Mazateco de Ayautla
     auto: true
+  - translation_iso: rus
+    name: аяутланский масатекский язык
   - translation_iso: spa
     name: Mazateco de Ayautla
     auto: true

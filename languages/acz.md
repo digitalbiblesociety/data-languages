@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acheron_language"
 translations:
   - translation_iso: ara
     name: لغة الاكرون
+  - translation_iso: ben
+    name: একেরন
   - translation_iso: deu
     name: Acheron
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アケロン語
+    auto: true
+  - translation_iso: kor
+    name: 아체론어
     auto: true
   - translation_iso: por
     name: Língua acheron

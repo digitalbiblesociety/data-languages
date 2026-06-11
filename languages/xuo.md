@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クオ語
     auto: true
+  - translation_iso: kor
+    name: 쿠오어
+    auto: true
   - translation_iso: por
     name: kuo
     auto: true
+  - translation_iso: rus
+    name: Куо
   - translation_iso: spa
     name: Kuo
     auto: true

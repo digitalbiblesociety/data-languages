@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ビディヨ語
     auto: true
+  - translation_iso: kor
+    name: 비디요어
+    auto: true
   - translation_iso: por
     name: Bidiyo
     auto: true
+  - translation_iso: rus
+    name: Бидийя
   - translation_iso: spa
     name: bidiyo
   - translation_iso: zho

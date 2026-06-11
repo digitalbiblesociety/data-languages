@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: तोनसेआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tonsea
   - translation_iso: jpn
     name: トンセア語
+  - translation_iso: kor
+    name: 톤세아어
+    auto: true
   - translation_iso: por
     name: Língua tonsea
   - translation_iso: spa

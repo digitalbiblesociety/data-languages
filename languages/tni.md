@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: तांदिया
     auto: true
+  - translation_iso: ind
+    name: Tandia
   - translation_iso: jpn
     name: タンディア語
     auto: true
+  - translation_iso: kor
+    name: 탄디아어
+    auto: true
   - translation_iso: por
     name: Tandia
+  - translation_iso: rus
+    name: Тандиа
   - translation_iso: spa
     name: Tandia
   - translation_iso: zho

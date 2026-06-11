@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: グダン語
     auto: true
+  - translation_iso: kor
+    name: 구당어
+    auto: true
   - translation_iso: por
     name: Gudang
     auto: true

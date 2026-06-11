@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ディラシャ語
     auto: true
+  - translation_iso: kor
+    name: 디라샤어
+    auto: true
   - translation_iso: por
     name: Dirasha
     auto: true
+  - translation_iso: rus
+    name: Дираша
   - translation_iso: spa
     name: Dirasha
     auto: true

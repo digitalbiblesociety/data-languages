@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ムブルンギシュ語
     auto: true
+  - translation_iso: kor
+    name: 음불룽기시어
+    auto: true
   - translation_iso: por
     name: Mbulungish
     auto: true
+  - translation_iso: rus
+    name: Бага-форе
   - translation_iso: spa
     name: mbulungish
   - translation_iso: zho

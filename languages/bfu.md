@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガフリ語
     auto: true
+  - translation_iso: kor
+    name: 가리어
+    auto: true
   - translation_iso: por
     name: Gahri
     auto: true

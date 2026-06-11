@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتوي
     auto: true
+  - translation_iso: ben
+    name: বাটুই
   - translation_iso: deu
     name: Batui
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बातुई
     auto: true
+  - translation_iso: ind
+    name: Baha
   - translation_iso: jpn
     name: バトゥイ語
+    auto: true
+  - translation_iso: kor
+    name: 바투이어
     auto: true
   - translation_iso: por
     name: batui

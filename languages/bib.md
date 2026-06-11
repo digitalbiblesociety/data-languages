@@ -35,6 +35,8 @@ translations:
     name: 비사어
   - translation_iso: por
     name: Língua bissa
+  - translation_iso: rus
+    name: биса
   - translation_iso: spa
     name: bissa
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・アスマット語
     auto: true
+  - translation_iso: kor
+    name: 중부 아스마트어
+    auto: true
   - translation_iso: por
     name: Asmat central
     auto: true

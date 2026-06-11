@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Akan_language"
 translations:
   - translation_iso: ara
     name: اللغة الأكانية
+  - translation_iso: ben
+    name: আকান
   - translation_iso: deu
     name: Akan
   - translation_iso: fra
     name: akan
   - translation_iso: hin
     name: अकन
+  - translation_iso: ind
+    name: Akan
   - translation_iso: jpn
     name: アカン語
   - translation_iso: kor
     name: 아칸어
   - translation_iso: por
     name: língua akan
+  - translation_iso: rus
+    name: акан
   - translation_iso: spa
     name: lenguas akánicas
   - translation_iso: zho

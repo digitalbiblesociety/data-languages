@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボロンド語
     auto: true
+  - translation_iso: kor
+    name: 볼론도어
+    auto: true
   - translation_iso: por
     name: Bolondo
     auto: true

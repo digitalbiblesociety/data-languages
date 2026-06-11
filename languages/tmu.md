@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इआउ
     auto: true
+  - translation_iso: ind
+    name: Turu
   - translation_iso: jpn
     name: イアウ語
+    auto: true
+  - translation_iso: kor
+    name: 이아우어
     auto: true
   - translation_iso: por
     name: Iau

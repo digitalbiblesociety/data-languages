@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラチ語
     auto: true
+  - translation_iso: kor
+    name: 마라치어
+    auto: true
   - translation_iso: por
     name: Marachi
     auto: true

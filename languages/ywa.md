@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カロウ語
     auto: true
+  - translation_iso: kor
+    name: 칼로우어
+    auto: true
   - translation_iso: por
     name: kalou
     auto: true

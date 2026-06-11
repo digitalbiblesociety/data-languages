@@ -28,12 +28,16 @@ translations:
     name: cham
   - translation_iso: hin
     name: चाम भाषा
+  - translation_iso: ind
+    name: bahasa Cham
   - translation_iso: jpn
     name: チャム語
   - translation_iso: kor
     name: 참어
   - translation_iso: por
     name: Língua cham
+  - translation_iso: rus
+    name: чамский язык
   - translation_iso: spa
     name: idioma cham
   - translation_iso: zho

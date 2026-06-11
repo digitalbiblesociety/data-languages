@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sandawe_language"
 translations:
   - translation_iso: ara
     name: السانداوي
+  - translation_iso: ben
+    name: সান্দাওয়ে
   - translation_iso: deu
     name: Sandawe
   - translation_iso: fra
     name: sandawe
   - translation_iso: hin
     name: सन्डावे
+  - translation_iso: ind
+    name: Sandawe
   - translation_iso: jpn
     name: サンダウェ語
   - translation_iso: kor
     name: 산다웨어
   - translation_iso: por
     name: Língua sandawe
+  - translation_iso: rus
+    name: сандаве
   - translation_iso: spa
     name: sandawe
   - translation_iso: zho

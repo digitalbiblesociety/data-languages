@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: प्लाउटडीच
     auto: true
+  - translation_iso: ind
+    name: Bahasa Plautdietsch
   - translation_iso: jpn
     name: メノナイト低地ドイツ語
   - translation_iso: kor
     name: 메노나이트 저지 독일어
   - translation_iso: por
     name: Plautdietsch
+  - translation_iso: rus
+    name: немецко-платский диалект
   - translation_iso: spa
     name: Plautdietsch
   - translation_iso: zho

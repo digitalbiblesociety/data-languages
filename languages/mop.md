@@ -34,6 +34,8 @@ translations:
     name: 모판어
   - translation_iso: por
     name: Língua mopan
+  - translation_iso: rus
+    name: Мопанский язык
   - translation_iso: spa
     name: mopán
   - translation_iso: zho

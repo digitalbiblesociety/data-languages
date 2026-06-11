@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ミンデリコ語
     auto: true
+  - translation_iso: kor
+    name: 민데리쿠어
+    auto: true
   - translation_iso: por
     name: Minderico
+  - translation_iso: rus
+    name: миндерикский язык
   - translation_iso: spa
     name: Minderico
   - translation_iso: zho

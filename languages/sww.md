@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ソワ語
     auto: true
+  - translation_iso: kor
+    name: 소와어
+    auto: true
   - translation_iso: por
     name: Sowa
     auto: true
+  - translation_iso: rus
+    name: Сова
   - translation_iso: spa
     name: Sowa
     auto: true

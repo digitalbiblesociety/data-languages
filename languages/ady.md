@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Adyghe_language"
 translations:
   - translation_iso: ara
     name: الأديغية
+  - translation_iso: ben
+    name: আদেগে
   - translation_iso: deu
     name: Adygeisch
   - translation_iso: fra
     name: adyguéen
   - translation_iso: hin
     name: अदिघे
+  - translation_iso: ind
+    name: Adygei
   - translation_iso: jpn
     name: アディゲ語
   - translation_iso: kor
     name: 아디게어
   - translation_iso: por
     name: língua adigue
+  - translation_iso: rus
+    name: адыгейский
   - translation_iso: spa
     name: adigués
   - translation_iso: zho

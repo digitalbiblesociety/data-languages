@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラリア語
     auto: true
+  - translation_iso: kor
+    name: 랄리아어
+    auto: true
   - translation_iso: por
     name: Lalia
     auto: true

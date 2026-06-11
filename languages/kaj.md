@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jju_language"
 translations:
   - translation_iso: ara
     name: الجيو
+  - translation_iso: ben
+    name: জজু
   - translation_iso: deu
     name: Kaje
   - translation_iso: fra
     name: jju
   - translation_iso: hin
     name: ज्जू
+  - translation_iso: ind
+    name: Jju
   - translation_iso: jpn
     name: カジェ語
   - translation_iso: kor
     name: 까꼬토끄어
   - translation_iso: por
     name: jju
+  - translation_iso: rus
+    name: каджи
   - translation_iso: spa
     name: Jju
   - translation_iso: zho

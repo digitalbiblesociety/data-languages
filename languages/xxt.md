@@ -24,12 +24,16 @@ translations:
   - translation_iso: hin
     name: तंबोरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tambora
   - translation_iso: jpn
     name: タンボラ語
   - translation_iso: kor
     name: 탐보라어
   - translation_iso: por
     name: Língua tambora
+  - translation_iso: rus
+    name: Тамборский язык
   - translation_iso: spa
     name: Tambora
     auto: true

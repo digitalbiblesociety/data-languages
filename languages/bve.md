@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: بيراو مالاي
     auto: true
+  - translation_iso: ben
+    name: বেরউ মালয়
   - translation_iso: deu
     name: Berau Malay
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: hin
     name: बेराउ मलय
     auto: true
+  - translation_iso: ind
+    name: Berau
   - translation_iso: jpn
     name: ベラウ・マレー語
+  - translation_iso: kor
+    name: 베라우 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio de Berau
     auto: true

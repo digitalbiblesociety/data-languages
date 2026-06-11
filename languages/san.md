@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sanskrit"
 translations:
   - translation_iso: ara
     name: السنسكريتية
+  - translation_iso: ben
+    name: সংস্কৃত
   - translation_iso: deu
     name: Sanskrit
   - translation_iso: fra
     name: sanskrit
   - translation_iso: hin
     name: संस्कृत भाषा
+  - translation_iso: ind
+    name: Sanskerta
   - translation_iso: jpn
     name: サンスクリット
   - translation_iso: kor
     name: 산스크리트어
   - translation_iso: por
     name: Sânscrito
+  - translation_iso: rus
+    name: санскрит
   - translation_iso: spa
     name: sánscrito
   - translation_iso: zho

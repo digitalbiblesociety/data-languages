@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أجا
     auto: true
+  - translation_iso: ben
+    name: আজা
   - translation_iso: deu
     name: Aja
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジャ語 (ニジェール・コンゴ語族)
+  - translation_iso: kor
+    name: 아자어
+    auto: true
   - translation_iso: por
     name: Língua aja
+  - translation_iso: rus
+    name: аджа
   - translation_iso: spa
     name: Idioma aja
   - translation_iso: zho

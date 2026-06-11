@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: म्लाप
     auto: true
+  - translation_iso: ind
+    name: Mlap
   - translation_iso: jpn
     name: ムラプ語
+    auto: true
+  - translation_iso: kor
+    name: 믈라프어
     auto: true
   - translation_iso: por
     name: Mlap
     auto: true
+  - translation_iso: rus
+    name: Млап
   - translation_iso: spa
     name: Mlap
     auto: true

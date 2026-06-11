@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 文馬チワン語
+  - translation_iso: kor
+    name: 다이 좡어
+    auto: true
   - translation_iso: por
     name: zhuang dai
     auto: true
+  - translation_iso: rus
+    name: Дайский чжуанский язык
   - translation_iso: spa
     name: Zhuang Dai
     auto: true

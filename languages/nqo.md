@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/N%27Ko_language"
 translations:
   - translation_iso: ara
     name: أنكو
+  - translation_iso: ben
+    name: এন’কো
   - translation_iso: deu
     name: N’Ko
   - translation_iso: fra
     name: n’ko
   - translation_iso: hin
     name: एन्को
+  - translation_iso: ind
+    name: N’Ko
   - translation_iso: jpn
     name: ンコ語
   - translation_iso: kor
     name: 응코어
   - translation_iso: por
     name: n’ko
+  - translation_iso: rus
+    name: нко
   - translation_iso: spa
     name: n’ko
   - translation_iso: zho

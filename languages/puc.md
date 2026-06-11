@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: पुनान मेराप
     auto: true
+  - translation_iso: ind
+    name: Punan Merap
   - translation_iso: jpn
     name: プナンメラップ語
+    auto: true
+  - translation_iso: kor
+    name: 푸난 메랍어
     auto: true
   - translation_iso: por
     name: Punan Merap

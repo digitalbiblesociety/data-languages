@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: दक्षिण-पश्चिमी तन्ना
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tanna Barat Daya
   - translation_iso: jpn
     name: 南西タンナ語
     auto: true
+  - translation_iso: kor
+    name: 남서부 탄나어
+    auto: true
   - translation_iso: por
     name: Tanna do sudoeste
+  - translation_iso: rus
+    name: Юго-западный танна
   - translation_iso: spa
     name: Tanna del Suroeste
     auto: true

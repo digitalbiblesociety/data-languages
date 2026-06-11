@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ザナキ語
     auto: true
+  - translation_iso: kor
+    name: 자나키어
+    auto: true
   - translation_iso: por
     name: zanaki
     auto: true
+  - translation_iso: rus
+    name: Занаки
   - translation_iso: spa
     name: Zanaki
     auto: true

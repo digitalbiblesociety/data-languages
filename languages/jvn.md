@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कैरिबियन जावानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jawa Suriname
   - translation_iso: jpn
     name: カリブ海ジャワ語
+    auto: true
+  - translation_iso: kor
+    name: 카리브 자와어
     auto: true
   - translation_iso: por
     name: javanês caribenho

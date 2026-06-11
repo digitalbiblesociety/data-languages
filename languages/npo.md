@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ポチュリ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 포추리 나가어
+    auto: true
   - translation_iso: por
     name: Língua pochuri
   - translation_iso: spa

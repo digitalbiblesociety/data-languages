@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hajong_language"
 translations:
   - translation_iso: ara
     name: لغة_هاجونغية
+  - translation_iso: ben
+    name: হাজং ভাষা
   - translation_iso: deu
     name: Hajong
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: हाजंग बोली
   - translation_iso: jpn
     name: ハジョン語
+    auto: true
+  - translation_iso: kor
+    name: 하종어
     auto: true
   - translation_iso: por
     name: Língua hajong

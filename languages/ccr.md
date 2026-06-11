@@ -34,6 +34,9 @@ translations:
   - translation_iso: jpn
     name: カカオペラ語
     auto: true
+  - translation_iso: kor
+    name: 카카오페라어
+    auto: true
   - translation_iso: por
     name: Cacaopera
     auto: true

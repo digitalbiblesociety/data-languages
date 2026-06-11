@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मोराइद
     auto: true
+  - translation_iso: ind
+    name: Moraid
   - translation_iso: jpn
     name: モライド語
+    auto: true
+  - translation_iso: kor
+    name: 모라이드어
     auto: true
   - translation_iso: por
     name: Moraid

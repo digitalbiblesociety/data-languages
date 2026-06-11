@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكسامب
     auto: true
+  - translation_iso: ben
+    name: অ্যাক্সাম্ব
   - translation_iso: deu
     name: Axamb
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アクサンブ語
+    auto: true
+  - translation_iso: kor
+    name: 아함브어
     auto: true
   - translation_iso: por
     name: Axamb

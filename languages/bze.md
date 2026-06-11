@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジェナアマ・ボゾ語
     auto: true
+  - translation_iso: kor
+    name: 제나마 보조어
+    auto: true
   - translation_iso: por
     name: Bozo Jenaama
     auto: true

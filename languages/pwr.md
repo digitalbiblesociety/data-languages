@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ポワリ語
     auto: true
+  - translation_iso: kor
+    name: 포와리어
+    auto: true
   - translation_iso: por
     name: Powari
     auto: true

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_language"
 translations:
   - translation_iso: ara
     name: باقرمي
+  - translation_iso: ben
+    name: বাগিরমি
   - translation_iso: deu
     name: Bagirmi
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バギルミ語
+  - translation_iso: kor
+    name: 바기르미어
+    auto: true
   - translation_iso: por
     name: Língua bagirmi
+  - translation_iso: rus
+    name: Багирми
   - translation_iso: spa
     name: Idioma baguirmi
   - translation_iso: zho

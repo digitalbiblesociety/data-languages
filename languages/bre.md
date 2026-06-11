@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Breton_language"
 translations:
   - translation_iso: ara
     name: اللغة البريتانية
+  - translation_iso: ben
+    name: ব্রেটন
   - translation_iso: deu
     name: Bretonisch
   - translation_iso: fra
     name: breton
   - translation_iso: hin
     name: ब्रेटन
+  - translation_iso: ind
+    name: Breton
   - translation_iso: jpn
     name: ブルトン語
   - translation_iso: kor
     name: 브르타뉴어
   - translation_iso: por
     name: bretão
+  - translation_iso: rus
+    name: бретонский
   - translation_iso: spa
     name: bretón
   - translation_iso: zho

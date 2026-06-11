@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة جنوب أفريقيا
     auto: true
+  - translation_iso: ben
+    name: দক্ষিণ আফ্রিকীয় ইশারা ভাষা
   - translation_iso: deu
     name: Südafrikanische Gebärdensprache
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南アフリカ手話
+  - translation_iso: kor
+    name: 남아프리카 공화국 수어
+    auto: true
   - translation_iso: por
     name: língua gestual sul-africana
+  - translation_iso: rus
+    name: южноафриканский жестовый язык
   - translation_iso: spa
     name: Lenguaje de Signos Sudafricano
   - translation_iso: zho

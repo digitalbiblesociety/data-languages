@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マジュワル語
     auto: true
+  - translation_iso: kor
+    name: 마즈와르어
+    auto: true
   - translation_iso: por
     name: Majhwar
     auto: true

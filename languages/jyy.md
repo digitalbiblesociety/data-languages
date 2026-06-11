@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジャヤ語
     auto: true
+  - translation_iso: kor
+    name: 자야어
+    auto: true
   - translation_iso: por
     name: Jaya
     auto: true

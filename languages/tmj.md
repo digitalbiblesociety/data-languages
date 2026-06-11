@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: समारोकेना
     auto: true
+  - translation_iso: ind
+    name: Samarkena
   - translation_iso: jpn
     name: サマロケナ語
+    auto: true
+  - translation_iso: kor
+    name: 사마로케나어
     auto: true
   - translation_iso: por
     name: Samarokena

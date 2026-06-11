@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マル語
+  - translation_iso: kor
+    name: 말어
+    auto: true
   - translation_iso: por
     name: Mal
     auto: true

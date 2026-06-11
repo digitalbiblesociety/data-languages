@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥルカナ語
+  - translation_iso: kor
+    name: 투르카나어
+    auto: true
   - translation_iso: por
     name: Língua turkana
+  - translation_iso: rus
+    name: Туркана (язык)
   - translation_iso: spa
     name: turkana
   - translation_iso: zho

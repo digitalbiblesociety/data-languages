@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ヌビア語
+  - translation_iso: kor
+    name: 고대 누비아어
+    auto: true
   - translation_iso: por
     name: Língua núbia antiga
+  - translation_iso: rus
+    name: древненубийский язык
   - translation_iso: spa
     name: nubio antiguo
   - translation_iso: zho

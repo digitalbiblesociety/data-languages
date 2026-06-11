@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maithili_language"
 translations:
   - translation_iso: ara
     name: اللغة المايثيلية
+  - translation_iso: ben
+    name: মৈথিলি
   - translation_iso: deu
     name: Maithili
   - translation_iso: fra
     name: maïthili
   - translation_iso: hin
     name: मैथिली
+  - translation_iso: ind
+    name: Maithili
   - translation_iso: jpn
     name: マイティリー語
   - translation_iso: kor
     name: 마이틸어
   - translation_iso: por
     name: maithili
+  - translation_iso: rus
+    name: майтхили
   - translation_iso: spa
     name: Maithili
   - translation_iso: zho

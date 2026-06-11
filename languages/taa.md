@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タナナ語
+  - translation_iso: kor
+    name: 저지 타나나어
+    auto: true
   - translation_iso: por
     name: Língua tanana inferior
+  - translation_iso: rus
+    name: Нижний танана
   - translation_iso: spa
     name: bajo tanana
   - translation_iso: zho

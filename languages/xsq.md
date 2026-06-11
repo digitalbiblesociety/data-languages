@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マク​​ワ・サカ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠와·사카어
+    auto: true
   - translation_iso: por
     name: Makhuwa-Saka
     auto: true

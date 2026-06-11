@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السويدية
     auto: true
+  - translation_iso: ben
+    name: সুয়েডীয় ইশারা ভাষা
   - translation_iso: deu
     name: Svenskt teckenspråk
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スウェーデン手話
+  - translation_iso: kor
+    name: 스웨덴 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Sueca
     auto: true
+  - translation_iso: rus
+    name: шведский жестовый язык
   - translation_iso: spa
     name: Lengua de señas sueca
   - translation_iso: zho

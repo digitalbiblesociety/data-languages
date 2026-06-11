@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カヨン語
     auto: true
+  - translation_iso: kor
+    name: 카용어
+    auto: true
   - translation_iso: por
     name: Kayong
     auto: true

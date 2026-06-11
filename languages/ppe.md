@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パピ語
     auto: true
+  - translation_iso: kor
+    name: 파피어
+    auto: true
   - translation_iso: por
     name: Papi
     auto: true

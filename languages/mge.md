@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンゴ語
     auto: true
+  - translation_iso: kor
+    name: 망고어
+    auto: true
   - translation_iso: por
     name: Mango
     auto: true

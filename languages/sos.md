@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: センブラ語
     auto: true
+  - translation_iso: kor
+    name: 세쿠어
+    auto: true
   - translation_iso: por
     name: Seeku
     auto: true

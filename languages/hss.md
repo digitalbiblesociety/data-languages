@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: हरसूसी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Harsusi
   - translation_iso: jpn
     name: ハラシース語
+  - translation_iso: kor
+    name: 하르수시어
+    auto: true
   - translation_iso: por
     name: Harsusi
     auto: true
+  - translation_iso: rus
+    name: Харсуси
   - translation_iso: spa
     name: Harsusi
     auto: true

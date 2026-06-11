@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デンディ語
+  - translation_iso: kor
+    name: 덴디어
+    auto: true
   - translation_iso: por
     name: Língua dendi
   - translation_iso: spa

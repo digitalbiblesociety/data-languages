@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タマン語
     auto: true
+  - translation_iso: kor
+    name: 타만어
+    auto: true
   - translation_iso: por
     name: Taman (Myanmar)
     auto: true

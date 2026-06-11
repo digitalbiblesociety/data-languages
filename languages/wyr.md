@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ワイロ語
     auto: true
+  - translation_iso: kor
+    name: 와요로어
+    auto: true
   - translation_iso: por
     name: Língua ajuru
+  - translation_iso: rus
+    name: Вайоро
   - translation_iso: spa
     name: Huayoró
   - translation_iso: zho

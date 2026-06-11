@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンハジャ語
+  - translation_iso: kor
+    name: 센하자 데 스라이르어
+    auto: true
   - translation_iso: por
     name: Senhaja de Srair
     auto: true
+  - translation_iso: rus
+    name: Сенхаджа
   - translation_iso: spa
     name: Senhayi de Serair
   - translation_iso: zho

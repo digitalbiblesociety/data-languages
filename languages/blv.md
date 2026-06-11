@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キバラ語
     auto: true
+  - translation_iso: kor
+    name: 키발라어
+    auto: true
   - translation_iso: por
     name: Kibala
     auto: true

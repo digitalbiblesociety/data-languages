@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オーラムス語
     auto: true
+  - translation_iso: kor
+    name: 오를람스어
+    auto: true
   - translation_iso: por
     name: Língua oorlans
   - translation_iso: spa

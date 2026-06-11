@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tumbuka_language"
 translations:
   - translation_iso: ara
     name: التامبوكا
+  - translation_iso: ben
+    name: তুম্বুকা
   - translation_iso: deu
     name: Tumbuka
   - translation_iso: fra
     name: tumbuka
   - translation_iso: hin
     name: तम्बूका
+  - translation_iso: ind
+    name: Tumbuka
   - translation_iso: jpn
     name: トゥンブカ語
   - translation_iso: kor
     name: 툼부카어
   - translation_iso: por
     name: Língua tumbuka
+  - translation_iso: rus
+    name: тумбука
   - translation_iso: spa
     name: Idioma tumbuka
   - translation_iso: zho

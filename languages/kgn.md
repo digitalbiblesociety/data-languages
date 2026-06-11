@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カリンガニ語
     auto: true
+  - translation_iso: kor
+    name: 카린가니어
+    auto: true
   - translation_iso: por
     name: Karingani
     auto: true

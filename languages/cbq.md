@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ツクバ語
     auto: true
+  - translation_iso: kor
+    name: 추쿠바어
+    auto: true
   - translation_iso: por
     name: Tsucuba
     auto: true

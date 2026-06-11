@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ノパラ・チャティーノ語
     auto: true
+  - translation_iso: kor
+    name: 노팔라 차티노어
+    auto: true
   - translation_iso: por
     name: Chatino de Nopala
     auto: true

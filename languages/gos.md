@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フローニン語
+  - translation_iso: kor
+    name: 흐로닝스어
+    auto: true
   - translation_iso: por
     name: Gronings
     auto: true
+  - translation_iso: rus
+    name: Гронингенское наречие
   - translation_iso: spa
     name: Idioma Groningués (Países Bajos)
   - translation_iso: zho

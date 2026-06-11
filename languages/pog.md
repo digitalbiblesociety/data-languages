@@ -27,8 +27,13 @@ translations:
   - translation_iso: jpn
     name: ポティグアラ語
     auto: true
+  - translation_iso: kor
+    name: 포치구아라어
+    auto: true
   - translation_iso: por
     name: Língua potiguara
+  - translation_iso: rus
+    name: Потигвара
   - translation_iso: spa
     name: potiguara
   - translation_iso: zho

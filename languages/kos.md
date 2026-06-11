@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kosraean_language"
 translations:
   - translation_iso: ara
     name: الكوسراين
+  - translation_iso: ben
+    name: কোস্রাইন
   - translation_iso: deu
     name: Kosraeanisch
   - translation_iso: fra
     name: kosrae
   - translation_iso: hin
     name: कोसरैन
+  - translation_iso: ind
+    name: Kosre
   - translation_iso: jpn
     name: コスラエ語
   - translation_iso: kor
     name: 코스라에어
   - translation_iso: por
     name: Língua kosreana
+  - translation_iso: rus
+    name: косраенский
   - translation_iso: spa
     name: kosraeano
   - translation_iso: zho

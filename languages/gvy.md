@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グヤニ語
     auto: true
+  - translation_iso: kor
+    name: 구야니어
+    auto: true
   - translation_iso: por
     name: Guyani
     auto: true

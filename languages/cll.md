@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チャラ語
     auto: true
+  - translation_iso: kor
+    name: 찰라어
+    auto: true
   - translation_iso: por
     name: Chala
     auto: true

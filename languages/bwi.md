@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانيوا
     auto: true
+  - translation_iso: ben
+    name: বানিওয়া
   - translation_iso: deu
     name: Baniwa
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニワ語
+  - translation_iso: kor
+    name: 바니와어
+    auto: true
   - translation_iso: por
     name: baniua
+  - translation_iso: rus
+    name: Банива
   - translation_iso: spa
     name: baniwa
   - translation_iso: zho

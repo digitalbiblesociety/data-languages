@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワヤナード・チェッティ語
     auto: true
+  - translation_iso: kor
+    name: 와야나드 체티어
+    auto: true
   - translation_iso: por
     name: Chetti de Wayanad
     auto: true

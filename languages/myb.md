@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバイ語
+  - translation_iso: kor
+    name: 음바이어
+    auto: true
   - translation_iso: por
     name: Mbay
     auto: true

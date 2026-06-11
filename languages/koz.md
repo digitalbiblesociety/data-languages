@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कोराक
     auto: true
+  - translation_iso: ind
+    name: korak
   - translation_iso: jpn
     name: コラク語
+    auto: true
+  - translation_iso: kor
+    name: 코락어
     auto: true
   - translation_iso: por
     name: Korak

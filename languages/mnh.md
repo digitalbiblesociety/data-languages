@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モノ語
+  - translation_iso: kor
+    name: 모노어
+    auto: true
   - translation_iso: por
     name: Mono (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: Моно
   - translation_iso: spa
     name: Mono
   - translation_iso: zho

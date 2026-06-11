@@ -34,6 +34,9 @@ translations:
   - translation_iso: jpn
     name: ムブンガ語
     auto: true
+  - translation_iso: kor
+    name: 음붕가어
+    auto: true
   - translation_iso: por
     name: Mbunga
     auto: true

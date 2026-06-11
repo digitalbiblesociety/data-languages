@@ -13,18 +13,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Undetermined_language"
 translations:
   - translation_iso: ara
     name: لغة غير معروفة
+  - translation_iso: ben
+    name: অজানা ভাষা
   - translation_iso: deu
     name: unbestimmte Sprache
   - translation_iso: fra
     name: langue indéterminée
   - translation_iso: hin
     name: अज्ञात भाषा
+  - translation_iso: ind
+    name: Bahasa Tidak Dikenal
   - translation_iso: jpn
     name: 言語不明
   - translation_iso: kor
     name: 알 수 없는 언어
   - translation_iso: por
     name: idioma indeterminado
+  - translation_iso: rus
+    name: неизвестный язык
   - translation_iso: spa
     name: lengua indeterminada
   - translation_iso: zho

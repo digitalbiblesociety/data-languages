@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أمايمون
     auto: true
+  - translation_iso: ben
+    name: আমাইমন
   - translation_iso: deu
     name: Amaimon
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アマイモン語
+    auto: true
+  - translation_iso: kor
+    name: 아마이몬어
     auto: true
   - translation_iso: por
     name: Amaimon

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Palauan_language"
 translations:
   - translation_iso: ara
     name: البالاوية
+  - translation_iso: ben
+    name: পালায়ুয়ান
   - translation_iso: deu
     name: Palauisch
   - translation_iso: fra
     name: palau
   - translation_iso: hin
     name: पलोउआन
+  - translation_iso: ind
+    name: Palau
   - translation_iso: jpn
     name: パラオ語
   - translation_iso: kor
     name: 팔라우어
   - translation_iso: por
     name: palauense
+  - translation_iso: rus
+    name: палау
   - translation_iso: spa
     name: palauano
   - translation_iso: zho

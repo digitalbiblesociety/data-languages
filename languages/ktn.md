@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カリティアナ語
     auto: true
+  - translation_iso: kor
+    name: 카리티아나어
+    auto: true
   - translation_iso: por
     name: Língua caritiana
+  - translation_iso: rus
+    name: Каритиана
   - translation_iso: spa
     name: Karitiâna
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ومااندي
     auto: true
+  - translation_iso: ben
+    name: মান্দি
   - translation_iso: deu
     name: Nomaande
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンディ語
+  - translation_iso: kor
+    name: 노만데어
+    auto: true
   - translation_iso: por
     name: Nomaande
     auto: true
+  - translation_iso: rus
+    name: номаанде
   - translation_iso: spa
     name: Nomaande
     auto: true

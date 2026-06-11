@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: インバブラハイランドキチュア語
     auto: true
+  - translation_iso: kor
+    name: 임바부라 고지 키추아어
+    auto: true
   - translation_iso: por
     name: Quíchua das Terras Altas de Imbabura
     auto: true

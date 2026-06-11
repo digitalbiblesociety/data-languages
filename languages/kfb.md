@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كولامي الشمالية الغربية
     auto: true
+  - translation_iso: ben
+    name: কোলামি ভাষা
   - translation_iso: deu
     name: Kolami
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 콜라미어
   - translation_iso: por
     name: Língua kolam
+  - translation_iso: rus
+    name: Колами
   - translation_iso: spa
     name: kolami
   - translation_iso: zho

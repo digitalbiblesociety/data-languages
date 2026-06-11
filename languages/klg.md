@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タガカウロ語
     auto: true
+  - translation_iso: kor
+    name: 타가카울로어
+    auto: true
   - translation_iso: por
     name: Tagakaulo
     auto: true

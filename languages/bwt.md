@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بافاو-بالونج
     auto: true
+  - translation_iso: ben
+    name: বাফাও-বালং
   - translation_iso: deu
     name: Bafaw-Balong
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バファウ・バロン語
+  - translation_iso: kor
+    name: 바포발롱어
+    auto: true
   - translation_iso: por
     name: Bafaw-Balong
     auto: true

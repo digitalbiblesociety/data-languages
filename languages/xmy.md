@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マヤグドゥナ語
     auto: true
+  - translation_iso: kor
+    name: 마야구두나어
+    auto: true
   - translation_iso: por
     name: Língua mayi-kutuna
   - translation_iso: spa

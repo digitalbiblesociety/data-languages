@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أدابي
     auto: true
+  - translation_iso: ben
+    name: আদাবে
   - translation_iso: deu
     name: Adabe
   - translation_iso: fra
@@ -24,8 +26,13 @@ translations:
   - translation_iso: hin
     name: अदाबे
     auto: true
+  - translation_iso: ind
+    name: Adabe
   - translation_iso: jpn
     name: アダベ語
+    auto: true
+  - translation_iso: kor
+    name: 아다베어
     auto: true
   - translation_iso: por
     name: Adabe

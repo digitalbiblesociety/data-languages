@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スロバキア手話
+  - translation_iso: kor
+    name: 슬로바키아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais eslovaca
   - translation_iso: spa

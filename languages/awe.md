@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويتي
     auto: true
+  - translation_iso: ben
+    name: আওয়েটি
   - translation_iso: deu
     name: Awetí
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アウェティ語
     auto: true
+  - translation_iso: kor
+    name: 아웨티어
+    auto: true
   - translation_iso: por
     name: Língua aueti
+  - translation_iso: rus
+    name: Авети
   - translation_iso: spa
     name: Idioma awetí
   - translation_iso: zho

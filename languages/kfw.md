@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハラム・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 카람 나가어
+    auto: true
   - translation_iso: por
     name: Naga Kharam
     auto: true

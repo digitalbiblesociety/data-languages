@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: هيرنيكان
     auto: true
+  - translation_iso: ben
+    name: হের্নিকো ভাষা
   - translation_iso: deu
     name: Hernikische Sprache
   - translation_iso: fra
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘルニカン語
+    auto: true
+  - translation_iso: kor
+    name: 헤르니키어
     auto: true
   - translation_iso: por
     name: Hérnico

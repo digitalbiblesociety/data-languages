@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソンゲ語
+  - translation_iso: kor
+    name: 송게어
+    auto: true
   - translation_iso: por
     name: Língua songe
   - translation_iso: spa

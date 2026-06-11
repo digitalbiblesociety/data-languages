@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリャンガパ語
     auto: true
+  - translation_iso: kor
+    name: 말량가파어
+    auto: true
   - translation_iso: por
     name: malyangapa
     auto: true

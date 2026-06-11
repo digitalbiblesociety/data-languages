@@ -20,18 +20,24 @@ wikidata_id: Q12953315
 translations:
   - translation_iso: ara
     name: يانجبن
+  - translation_iso: ben
+    name: ইয়াঙ্গবেন
   - translation_iso: deu
     name: Yangben
   - translation_iso: fra
     name: yangben
   - translation_iso: hin
     name: यांगबेन
+  - translation_iso: ind
+    name: Yangben
   - translation_iso: jpn
     name: ヤンベン語
   - translation_iso: kor
     name: 양본어
   - translation_iso: por
     name: yangben
+  - translation_iso: rus
+    name: янгбен
   - translation_iso: spa
     name: yangben
   - translation_iso: zho

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: اللغة إلفدالية
     auto: true
+  - translation_iso: ben
+    name: আল্ভডালীয় ভাষা
   - translation_iso: deu
     name: Älvdalisch
   - translation_iso: fra
@@ -23,8 +25,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
+  - translation_iso: kor
+    name: 엘브달렌어
+    auto: true
   - translation_iso: por
     name: Älvdalsmål
+  - translation_iso: rus
+    name: эльвдальский диалект
   - translation_iso: spa
     name: idioma dalecarliano
   - translation_iso: zho

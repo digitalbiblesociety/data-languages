@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テンネット語
     auto: true
+  - translation_iso: kor
+    name: 테네트어
+    auto: true
   - translation_iso: por
     name: Tennet
     auto: true

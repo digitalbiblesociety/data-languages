@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ケツァルテペックミクステ語
     auto: true
+  - translation_iso: kor
+    name: 케찰테펙 미헤어
+    auto: true
   - translation_iso: por
     name: Mixe de Quetzaltepec
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワリング語
     auto: true
+  - translation_iso: kor
+    name: 왈링어
+    auto: true
   - translation_iso: por
     name: Waling
     auto: true

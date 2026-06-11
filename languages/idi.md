@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イディ語
     auto: true
+  - translation_iso: kor
+    name: 이디어
+    auto: true
   - translation_iso: por
     name: Idi
     auto: true

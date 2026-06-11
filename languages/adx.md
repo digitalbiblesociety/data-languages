@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية الآمدو
     auto: true
+  - translation_iso: ben
+    name: আমদো তিব্বতি
   - translation_iso: deu
     name: Amdo-Tibetisch
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 암도 티베트어
   - translation_iso: por
     name: Tibetano Amdo
+  - translation_iso: rus
+    name: амдо
   - translation_iso: spa
     name: Tibetano amdo
     auto: true

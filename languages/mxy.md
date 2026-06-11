@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サウスイースタン・ノチクストラン・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 남동 노치스틀란 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Nochixtlán do Sudeste
     auto: true
+  - translation_iso: rus
+    name: Юго-восточный ночистланский миштекский язык
   - translation_iso: spa
     name: Mixteco del Sureste de Nochixtlán
     auto: true

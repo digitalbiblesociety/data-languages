@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タンゴア語
     auto: true
+  - translation_iso: kor
+    name: 탕고아어
+    auto: true
   - translation_iso: por
     name: Língua tangoa
   - translation_iso: spa

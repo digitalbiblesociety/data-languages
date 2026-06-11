@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التنزانية
     auto: true
+  - translation_iso: ben
+    name: তানজানীয় সাংকেতিক ভাষাসমূহ
   - translation_iso: deu
     name: Tansanische Gebärdensprache
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンザニア手話
+  - translation_iso: kor
+    name: 탄자니아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Tanzânia
   - translation_iso: spa

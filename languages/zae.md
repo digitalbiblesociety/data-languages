@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤレニ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 야레니 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Yareni
     auto: true

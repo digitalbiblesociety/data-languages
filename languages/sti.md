@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブディップ語
     auto: true
+  - translation_iso: kor
+    name: 불로 스티엥어
+    auto: true
   - translation_iso: por
     name: Stieng Bulo
     auto: true

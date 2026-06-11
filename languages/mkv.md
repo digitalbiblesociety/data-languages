@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヴェア語
+  - translation_iso: kor
+    name: 마페아어
+    auto: true
   - translation_iso: por
     name: Língua mavea
+  - translation_iso: rus
+    name: мафеа
   - translation_iso: spa
     name: Mafea
     auto: true

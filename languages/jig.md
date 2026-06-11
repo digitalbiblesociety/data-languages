@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ジングル語
     auto: true
+  - translation_iso: kor
+    name: 징굴루어
+    auto: true
   - translation_iso: por
     name: Língua jingulu
+  - translation_iso: rus
+    name: джингулу
   - translation_iso: spa
     name: Jingulu
     auto: true

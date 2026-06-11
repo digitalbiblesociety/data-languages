@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koyra_Chiini_language"
 translations:
   - translation_iso: ara
     name: كويرا تشيني
+  - translation_iso: ben
+    name: কোয়রা চীনি
   - translation_iso: deu
     name: Koyra Chiini
   - translation_iso: fra
     name: koyra chiini
   - translation_iso: hin
     name: कोयरा चीनी
+  - translation_iso: ind
+    name: Koyra Chiini
   - translation_iso: jpn
     name: コイラ・チーニ語
   - translation_iso: kor
     name: 코이라치니어
   - translation_iso: por
     name: Língua koyra chiini
+  - translation_iso: rus
+    name: койра чиини
   - translation_iso: spa
     name: Koyra chiini
   - translation_iso: zho

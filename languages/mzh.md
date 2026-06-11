@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ウィチー・ラムテス・グイスナイ語
     auto: true
+  - translation_iso: kor
+    name: 위치 람테스 귀스나이어
+    auto: true
   - translation_iso: por
     name: Wichí Lhamtés Güisnay
     auto: true
+  - translation_iso: rus
+    name: Вичи-лхамтес-гюйснай
   - translation_iso: spa
     name: Wichí Lhamtés Güisnay
     auto: true

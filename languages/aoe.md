@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アンガル・エネン語
     auto: true
+  - translation_iso: kor
+    name: 앙갈 에넨어
+    auto: true
   - translation_iso: por
     name: Angal Enen
     auto: true

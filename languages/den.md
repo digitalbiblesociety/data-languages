@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Slavey_language"
 translations:
   - translation_iso: ara
     name: السلافية
+  - translation_iso: ben
+    name: স্ল্যাভ
   - translation_iso: deu
     name: Slavey
   - translation_iso: fra
     name: esclave
   - translation_iso: hin
     name: स्लेव
+  - translation_iso: ind
+    name: Slave
   - translation_iso: jpn
     name: スレイビー語
   - translation_iso: kor
     name: 슬라브어
   - translation_iso: por
     name: Língua dos escravos
+  - translation_iso: rus
+    name: слейви
   - translation_iso: spa
     name: slave
   - translation_iso: zho

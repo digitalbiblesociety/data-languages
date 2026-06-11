@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モザンビーク手話
+  - translation_iso: kor
+    name: 모잠비크 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Moçambicana
+  - translation_iso: rus
+    name: мозамбикский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Mozambique
     auto: true

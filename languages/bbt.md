@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ムブルク語
     auto: true
+  - translation_iso: kor
+    name: 음부르쿠어
+    auto: true
   - translation_iso: por
     name: Mburku
     auto: true
+  - translation_iso: rus
+    name: Мбурку
   - translation_iso: spa
     name: Mburku
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوليت
     auto: true
+  - translation_iso: ben
+    name: আকোলেট
   - translation_iso: deu
     name: Akolet
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アコレット語
+    auto: true
+  - translation_iso: kor
+    name: 아콜레트어
     auto: true
   - translation_iso: por
     name: Akolet

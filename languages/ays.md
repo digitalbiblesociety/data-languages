@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソルソゴン・アイタ語
     auto: true
+  - translation_iso: kor
+    name: 소르소곤 아이타어
+    auto: true
   - translation_iso: por
     name: Ayta de Sorsogon
     auto: true

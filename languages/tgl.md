@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tagalog_language"
 translations:
   - translation_iso: ara
     name: التاغالوغية
+  - translation_iso: ben
+    name: তাগালগ
   - translation_iso: deu
     name: Tagalog
   - translation_iso: fra
     name: tagalog
   - translation_iso: hin
     name: तागालोग
+  - translation_iso: ind
+    name: Tagalog
   - translation_iso: jpn
     name: タガログ語
   - translation_iso: kor
     name: 타갈로그어
   - translation_iso: por
     name: tagalo
+  - translation_iso: rus
+    name: тагалог
   - translation_iso: spa
     name: tagalo
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガッレ語
     auto: true
+  - translation_iso: kor
+    name: 가레어
+    auto: true
   - translation_iso: por
     name: Garre
     auto: true

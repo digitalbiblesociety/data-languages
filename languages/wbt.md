@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワーンマン語
     auto: true
+  - translation_iso: kor
+    name: 와른만어
+    auto: true
   - translation_iso: por
     name: Warnman
     auto: true

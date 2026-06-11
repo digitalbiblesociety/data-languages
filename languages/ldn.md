@@ -32,6 +32,8 @@ translations:
   - translation_iso: por
     name: Láadan
     auto: true
+  - translation_iso: rus
+    name: лаадан
   - translation_iso: spa
     name: Láadan
   - translation_iso: zho

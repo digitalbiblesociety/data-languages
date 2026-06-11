@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: أداسين
     auto: true
+  - translation_iso: ben
+    name: আদাসেন
   - translation_iso: deu
     name: Adasen
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダセン語
+    auto: true
+  - translation_iso: kor
+    name: 아다센어
     auto: true
   - translation_iso: por
     name: Adasen

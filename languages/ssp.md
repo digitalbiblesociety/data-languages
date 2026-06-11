@@ -20,12 +20,16 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة الإسبانية
+  - translation_iso: ben
+    name: স্পেনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Spanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes espagnole
   - translation_iso: hin
     name: स्पेनिश सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Spanyol
   - translation_iso: jpn
     name: スペイン手話
   - translation_iso: kor
@@ -33,6 +37,8 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Espanhola
     auto: true
+  - translation_iso: rus
+    name: испанский жестовый язык
   - translation_iso: spa
     name: lengua de signos española
   - translation_iso: zho

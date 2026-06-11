@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वाबो
     auto: true
+  - translation_iso: ind
+    name: Woriasi
   - translation_iso: jpn
     name: ワボ語
+    auto: true
+  - translation_iso: kor
+    name: 와보어
     auto: true
   - translation_iso: por
     name: Wabo

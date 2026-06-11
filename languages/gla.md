@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Gaelic"
 translations:
   - translation_iso: ara
     name: الغيلية الإسكتلندية
+  - translation_iso: ben
+    name: স্কটিশ-গ্যেলিক
   - translation_iso: deu
     name: Schottisch-Gälisch
   - translation_iso: fra
     name: gaélique écossais
   - translation_iso: hin
     name: स्कॉटिश गैलिक
+  - translation_iso: ind
+    name: Gaelik Skotlandia
   - translation_iso: jpn
     name: スコットランド・ゲール語
   - translation_iso: kor
     name: 스코틀랜드 게일어
   - translation_iso: por
     name: Língua gaélica escocesa
+  - translation_iso: rus
+    name: гэльский
   - translation_iso: spa
     name: gaélico escocés
   - translation_iso: zho

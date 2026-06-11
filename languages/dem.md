@@ -26,8 +26,13 @@ translations:
   - translation_iso: hin
     name: देम
     auto: true
+  - translation_iso: ind
+    name: Dem
   - translation_iso: jpn
     name: デム語
+    auto: true
+  - translation_iso: kor
+    name: 뎀어
     auto: true
   - translation_iso: por
     name: Dem

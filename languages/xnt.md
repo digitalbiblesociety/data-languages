@@ -20,10 +20,17 @@ translations:
   - translation_iso: hin
     name: नारगांसेट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Narragansett
   - translation_iso: jpn
     name: ナラガンセット語
+  - translation_iso: kor
+    name: 내러갠싯어
+    auto: true
   - translation_iso: por
     name: Língua narragansett
+  - translation_iso: rus
+    name: Наррагансеттский язык
   - translation_iso: spa
     name: Narragansett
   - translation_iso: zho

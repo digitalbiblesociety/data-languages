@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソリガ語
     auto: true
+  - translation_iso: kor
+    name: 숄라가어
+    auto: true
   - translation_iso: por
     name: Sholaga
     auto: true

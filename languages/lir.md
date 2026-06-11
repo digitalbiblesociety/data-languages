@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語
     auto: true
+  - translation_iso: kor
+    name: 라이베리아 영어
+    auto: true
   - translation_iso: por
     name: Inglês liberiano
     auto: true

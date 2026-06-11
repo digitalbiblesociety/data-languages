@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レレップ語
     auto: true
+  - translation_iso: kor
+    name: 레레프어
+    auto: true
   - translation_iso: por
     name: Rerep
     auto: true

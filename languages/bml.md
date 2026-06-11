@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボンボリ語
     auto: true
+  - translation_iso: kor
+    name: 봄볼리어
+    auto: true
   - translation_iso: por
     name: Bomboli
     auto: true

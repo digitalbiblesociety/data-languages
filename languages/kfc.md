@@ -29,8 +29,13 @@ translations:
     name: कोंडा भाषा
   - translation_iso: jpn
     name: コンダ語
+  - translation_iso: kor
+    name: 콘다도라어
+    auto: true
   - translation_iso: por
     name: Língua konda-dora
+  - translation_iso: rus
+    name: конда
   - translation_iso: spa
     name: konda
   - translation_iso: zho

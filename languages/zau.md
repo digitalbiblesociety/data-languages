@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة زانغسكاري
     auto: true
+  - translation_iso: ben
+    name: জাংসকারি ভাষা
   - translation_iso: deu
     name: Zangskari
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     name: ज़ंग्सकरी भाषा
   - translation_iso: jpn
     name: ザングスカリ語
+    auto: true
+  - translation_iso: kor
+    name: 잔스카르어
     auto: true
   - translation_iso: por
     name: zangskari

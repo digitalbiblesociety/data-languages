@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باسّا
     auto: true
+  - translation_iso: ben
+    name: বাসসা
   - translation_iso: deu
     name: Bassa
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バッサ語
+  - translation_iso: kor
+    name: 바사어
+    auto: true
   - translation_iso: por
     name: Bassa
     auto: true
+  - translation_iso: rus
+    name: Басса
   - translation_iso: spa
     name: bassa
   - translation_iso: zho

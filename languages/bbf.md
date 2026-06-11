@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: ben
+    name: বাইবাই
   - translation_iso: deu
     name: Baibai
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बाईबाई
     auto: true
+  - translation_iso: ind
+    name: Baibai
   - translation_iso: jpn
     name: バイバイ語
+    auto: true
+  - translation_iso: kor
+    name: 바이바이어
     auto: true
   - translation_iso: por
     name: Baibai

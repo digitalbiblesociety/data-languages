@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Arabian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بدوية
+  - translation_iso: ben
+    name: বেদাভি আরবি
   - translation_iso: deu
     name: Bedawi-Arabisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: पूर्वी मिस्री बदावी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Arabia Barat Laut
   - translation_iso: jpn
     name: アラビア語東部エジプト・ベダウィ方言
   - translation_iso: kor
     name: 베다위 아랍어
   - translation_iso: por
     name: Língua árabe do noroeste
+  - translation_iso: rus
+    name: Бедуинский диалект восточного Египта и Леванта
   - translation_iso: spa
     name: Árabe bedawi
   - translation_iso: zho

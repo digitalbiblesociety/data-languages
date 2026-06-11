@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シャネナワ語
     auto: true
+  - translation_iso: kor
+    name: 샤네나와어
+    auto: true
   - translation_iso: por
     name: Shanenawa
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بازيجار
     auto: true
+  - translation_iso: ben
+    name: বাজিগর ভাষা
   - translation_iso: deu
     name: Bazigar
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バズィガル語
+    auto: true
+  - translation_iso: kor
+    name: 바지가르어
     auto: true
   - translation_iso: por
     name: Bazigar

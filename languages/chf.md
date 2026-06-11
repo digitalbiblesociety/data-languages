@@ -34,6 +34,8 @@ translations:
     name: 촌탈 마야어
   - translation_iso: por
     name: Língua chontal maia
+  - translation_iso: rus
+    name: чонтальский язык
   - translation_iso: spa
     name: chontal de Tabasco
   - translation_iso: zho

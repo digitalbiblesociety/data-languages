@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرابازو
     auto: true
+  - translation_iso: ben
+    name: আরাপ
   - translation_iso: deu
     name: Arapaso
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラパソ語
+    auto: true
+  - translation_iso: kor
+    name: 아라파소어
     auto: true
   - translation_iso: por
     name: Arapáso

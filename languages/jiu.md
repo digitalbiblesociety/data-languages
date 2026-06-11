@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ユーレ・ジヌオ語
     auto: true
+  - translation_iso: kor
+    name: 유러 지눠어
+    auto: true
   - translation_iso: por
     name: Jinuo Youle
     auto: true

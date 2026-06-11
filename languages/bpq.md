@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باندا ملايو
     auto: true
+  - translation_iso: ben
+    name: বান্দা মালয়
   - translation_iso: deu
     name: Banda Malay
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बांदा मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Banda
   - translation_iso: jpn
     name: バンダ・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 반다 말레이어
     auto: true
   - translation_iso: por
     name: Malaio de Banda

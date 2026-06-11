@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チャユコ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 차유코 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Chayuco
     auto: true
+  - translation_iso: rus
+    name: Чаюкско-хамильтепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Chayuco
     auto: true

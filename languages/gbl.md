@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガミット語
+  - translation_iso: kor
+    name: 가미트어
+    auto: true
   - translation_iso: por
     name: Gamit
     auto: true

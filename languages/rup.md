@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aromanian_language"
 translations:
   - translation_iso: ara
     name: الأرومونية
+  - translation_iso: ben
+    name: আরোমেনিয়
   - translation_iso: deu
     name: Aromunische Sprache
   - translation_iso: fra
     name: aroumain
   - translation_iso: hin
     name: अरोमानियन
+  - translation_iso: ind
+    name: Aromania
   - translation_iso: jpn
     name: アルーマニア語
   - translation_iso: kor
     name: 아로마니아어
   - translation_iso: por
     name: língua arromena
+  - translation_iso: rus
+    name: арумынский
   - translation_iso: spa
     name: arrumano
   - translation_iso: zho

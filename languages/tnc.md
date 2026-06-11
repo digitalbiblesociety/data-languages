@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語
     auto: true
+  - translation_iso: kor
+    name: 타니무카 레투아라어
+    auto: true
   - translation_iso: por
     name: Tanimuca-Retuarã
     auto: true
+  - translation_iso: rus
+    name: Танимука-ретуара
   - translation_iso: spa
     name: Tanimuca
   - translation_iso: zho

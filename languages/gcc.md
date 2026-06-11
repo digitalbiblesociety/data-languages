@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マリ語
     auto: true
+  - translation_iso: kor
+    name: 말리어
+    auto: true
   - translation_iso: por
     name: Mali
     auto: true

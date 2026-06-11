@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムドブラ語
     auto: true
+  - translation_iso: kor
+    name: 무드부라어
+    auto: true
   - translation_iso: por
     name: Mudburra
     auto: true

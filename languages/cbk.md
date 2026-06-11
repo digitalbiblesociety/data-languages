@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chavacano"
 translations:
   - translation_iso: ara
     name: لغة تشاباكانو
+  - translation_iso: ben
+    name: চাভাকানো ভাষা
   - translation_iso: deu
     name: Chabacano
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: चावाकानो
     auto: true
+  - translation_iso: ind
+    name: bahasa Cabakano
   - translation_iso: jpn
     name: チャバカノ語
   - translation_iso: kor
     name: 차바카노어
   - translation_iso: por
     name: chavacano
+  - translation_iso: rus
+    name: чабакано
   - translation_iso: spa
     name: criollo chabacano
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワランガマ語
     auto: true
+  - translation_iso: kor
+    name: 왈랑가마어
+    auto: true
   - translation_iso: por
     name: Walangama
     auto: true

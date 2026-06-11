@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グヤ語
     auto: true
+  - translation_iso: kor
+    name: 구야어
+    auto: true
   - translation_iso: por
     name: Guya
     auto: true

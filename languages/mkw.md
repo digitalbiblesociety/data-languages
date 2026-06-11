@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キツバ語
     auto: true
+  - translation_iso: kor
+    name: 키투바어
+    auto: true
   - translation_iso: por
     name: quituba (Congo)
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ルクパ語
     auto: true
+  - translation_iso: kor
+    name: 루크파어
+    auto: true
   - translation_iso: por
     name: Lukpa
     auto: true
+  - translation_iso: rus
+    name: лукпа
   - translation_iso: spa
     name: Lukpa
     auto: true

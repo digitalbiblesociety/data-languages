@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タクー語
+  - translation_iso: kor
+    name: 타쿠어
+    auto: true
   - translation_iso: por
     name: Língua takuu
+  - translation_iso: rus
+    name: Такуу
   - translation_iso: spa
     name: Takuu
     auto: true

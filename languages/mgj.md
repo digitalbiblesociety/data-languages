@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوريني
     auto: true
+  - translation_iso: ben
+    name: আবুরেনি
   - translation_iso: deu
     name: Abureni
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブレニ語
+    auto: true
+  - translation_iso: kor
+    name: 아부레니어
     auto: true
   - translation_iso: por
     name: Abureni

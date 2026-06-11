@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミチエ語
     auto: true
+  - translation_iso: kor
+    name: 미치에어
+    auto: true
   - translation_iso: por
     name: miqie
     auto: true

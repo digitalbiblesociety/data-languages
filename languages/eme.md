@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: エメリヨン語
     auto: true
+  - translation_iso: kor
+    name: 에메리용어
+    auto: true
   - translation_iso: por
     name: Língua emerillon
+  - translation_iso: rus
+    name: Эмерильон
   - translation_iso: spa
     name: Emerillón
     auto: true

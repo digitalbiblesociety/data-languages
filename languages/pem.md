@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フェンデ語
     auto: true
+  - translation_iso: kor
+    name: 펜데어
+    auto: true
   - translation_iso: por
     name: Phende
     auto: true

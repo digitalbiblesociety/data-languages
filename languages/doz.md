@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドルゼ語
     auto: true
+  - translation_iso: kor
+    name: 도르제어
+    auto: true
   - translation_iso: por
     name: Dorze
     auto: true

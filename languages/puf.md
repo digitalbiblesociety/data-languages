@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पुनान मेराह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Punan Merah
   - translation_iso: jpn
     name: プナンメラ語
+    auto: true
+  - translation_iso: kor
+    name: 푸난 메라어
     auto: true
   - translation_iso: por
     name: Punan Merah

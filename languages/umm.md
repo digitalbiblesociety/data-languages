@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アモン語
     auto: true
+  - translation_iso: kor
+    name: 우몬어
+    auto: true
   - translation_iso: por
     name: Umon
     auto: true

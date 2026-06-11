@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: マティグサルグ・マノボ語
     auto: true
+  - translation_iso: kor
+    name: 마티그살루그 마노보어
+    auto: true
   - translation_iso: por
     name: Língua matigsalug
+  - translation_iso: rus
+    name: матигсалугский язык
   - translation_iso: spa
     name: Manobo Matigsalug
     auto: true

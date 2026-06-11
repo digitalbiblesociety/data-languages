@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पोम
     auto: true
+  - translation_iso: ind
+    name: Pom
   - translation_iso: jpn
     name: ポム語
+  - translation_iso: kor
+    name: 폼어
+    auto: true
   - translation_iso: por
     name: Pom
     auto: true

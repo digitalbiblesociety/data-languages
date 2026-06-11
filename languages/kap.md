@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة بيزتا
     auto: true
+  - translation_iso: ben
+    name: বেজতা
   - translation_iso: deu
     name: Beschtinisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 베즈타어
   - translation_iso: por
     name: Língua bezhta
+  - translation_iso: rus
+    name: бежтинский язык
   - translation_iso: spa
     name: Idioma bezhta
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エラヴァッラン語
     auto: true
+  - translation_iso: kor
+    name: 에라발란어
+    auto: true
   - translation_iso: por
     name: Eravallan
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チャイマ語
     auto: true
+  - translation_iso: kor
+    name: 차이마어
+    auto: true
   - translation_iso: por
     name: Chaima
     auto: true

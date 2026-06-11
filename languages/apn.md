@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبيناييه
     auto: true
+  - translation_iso: ben
+    name: আপিনায়ে
   - translation_iso: deu
     name: Apinayé
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アピナエ語
     auto: true
+  - translation_iso: kor
+    name: 아피나예어
+    auto: true
   - translation_iso: por
     name: Língua apinajé
+  - translation_iso: rus
+    name: Апинайе
   - translation_iso: spa
     name: Apinayé
     auto: true

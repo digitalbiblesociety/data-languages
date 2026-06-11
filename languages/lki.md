@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: लाकी
     auto: true
+  - translation_iso: ind
+    name: Laki
   - translation_iso: jpn
     name: ラーク語
   - translation_iso: kor
     name: 라크어
   - translation_iso: por
     name: Laki
+  - translation_iso: rus
+    name: лаки
   - translation_iso: spa
     name: Laki
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南部アルタ語
     auto: true
+  - translation_iso: kor
+    name: 남부 알타어
+    auto: true
   - translation_iso: por
     name: Alta do Sul
     auto: true

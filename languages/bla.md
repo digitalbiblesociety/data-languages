@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Blackfoot_language"
 translations:
   - translation_iso: ara
     name: اللغة النيتسيتابية
+  - translation_iso: ben
+    name: সিকসিকা
   - translation_iso: deu
     name: Blackfoot
   - translation_iso: fra
     name: pied-noir
   - translation_iso: hin
     name: सिक्सिका
+  - translation_iso: ind
+    name: Siksika
   - translation_iso: jpn
     name: ブラックフット語
   - translation_iso: kor
     name: 블랙풋어
   - translation_iso: por
     name: Língua Siksiká
+  - translation_iso: rus
+    name: сиксика
   - translation_iso: spa
     name: Idioma siksiká
   - translation_iso: zho

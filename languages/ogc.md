@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オグバ語
     auto: true
+  - translation_iso: kor
+    name: 오그바어
+    auto: true
   - translation_iso: por
     name: Ogba
   - translation_iso: spa

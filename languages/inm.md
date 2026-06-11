@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミナエア語
+  - translation_iso: kor
+    name: 미나이어
+    auto: true
   - translation_iso: por
     name: Mineano
     auto: true

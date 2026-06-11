@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブガン語
     auto: true
+  - translation_iso: kor
+    name: 부간어
+    auto: true
   - translation_iso: por
     name: Língua bugan
   - translation_iso: spa

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マザグウェイ語
     auto: true
+  - translation_iso: kor
+    name: 마자그와이어
+    auto: true
   - translation_iso: por
     name: Mazagway
     auto: true

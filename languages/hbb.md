@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: هوبآ
     auto: true
+  - translation_iso: ben
+    name: হুবা ভাষা
   - translation_iso: deu
     name: Huba
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フバ語
+    auto: true
+  - translation_iso: kor
+    name: 후바어
     auto: true
   - translation_iso: por
     name: Huba

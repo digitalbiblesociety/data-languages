@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: सेको पादांग
     auto: true
+  - translation_iso: ind
+    name: Seko Padang
   - translation_iso: jpn
     name: セコ語
+    auto: true
+  - translation_iso: kor
+    name: 세코 파당어
     auto: true
   - translation_iso: por
     name: Seko Padang
     auto: true
+  - translation_iso: rus
+    name: Секо-паданг
   - translation_iso: spa
     name: Seko Padang
     auto: true

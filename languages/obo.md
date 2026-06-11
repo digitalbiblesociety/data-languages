@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: オボ・マノボ語
     auto: true
+  - translation_iso: kor
+    name: 오보 마노보어
+    auto: true
   - translation_iso: por
     name: Língua obo
   - translation_iso: spa

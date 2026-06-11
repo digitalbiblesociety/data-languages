@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أجونا
     auto: true
+  - translation_iso: ben
+    name: আগুনা
   - translation_iso: deu
     name: Aguna
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アグナ語
+    auto: true
+  - translation_iso: kor
+    name: 아구나어
     auto: true
   - translation_iso: por
     name: Aguna

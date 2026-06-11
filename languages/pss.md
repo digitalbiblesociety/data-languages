@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パシスマヌア語
+  - translation_iso: kor
+    name: 카울롱어
+    auto: true
   - translation_iso: por
     name: Kaulong
     auto: true

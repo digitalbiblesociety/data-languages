@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オンジョブ語
     auto: true
+  - translation_iso: kor
+    name: 온조브어
+    auto: true
   - translation_iso: por
     name: Onjob
     auto: true

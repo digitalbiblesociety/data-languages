@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bulgarian_language"
 translations:
   - translation_iso: ara
     name: البلغارية
+  - translation_iso: ben
+    name: বুলগেরিয়
   - translation_iso: deu
     name: Bulgarisch
   - translation_iso: fra
     name: bulgare
   - translation_iso: hin
     name: बुल्गारियाई भाषा
+  - translation_iso: ind
+    name: Bulgaria
   - translation_iso: jpn
     name: ブルガリア語
   - translation_iso: kor
     name: 불가리아어
   - translation_iso: por
     name: língua búlgara
+  - translation_iso: rus
+    name: болгарский
   - translation_iso: spa
     name: búlgaro
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チュルング語
     auto: true
+  - translation_iso: kor
+    name: 출룽어
+    auto: true
   - translation_iso: por
     name: Chhulung
     auto: true

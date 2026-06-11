@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبو
     auto: true
+  - translation_iso: ben
+    name: অ্যাডজোরা
   - translation_iso: deu
     name: Abu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブ語
+    auto: true
+  - translation_iso: kor
+    name: 아부어
     auto: true
   - translation_iso: por
     name: Língua adjora

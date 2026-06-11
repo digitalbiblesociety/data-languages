@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミラロイ語
+  - translation_iso: kor
+    name: 가밀라라이어
+    auto: true
   - translation_iso: por
     name: Língua gamilaraay
   - translation_iso: spa

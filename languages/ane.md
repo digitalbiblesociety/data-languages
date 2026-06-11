@@ -35,6 +35,8 @@ translations:
     name: 항랑츠어
   - translation_iso: por
     name: Língua xârâcùù
+  - translation_iso: rus
+    name: Харачии
   - translation_iso: spa
     name: Idioma xârâcùù
   - translation_iso: zho

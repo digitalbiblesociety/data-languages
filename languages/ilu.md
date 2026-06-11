@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: इलिउन
     auto: true
+  - translation_iso: ind
+    name: Illiun
   - translation_iso: jpn
     name: イリウン語
+    auto: true
+  - translation_iso: kor
+    name: 일리운어
     auto: true
   - translation_iso: por
     name: Illiun

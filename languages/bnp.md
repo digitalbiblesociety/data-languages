@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボラ語
+  - translation_iso: kor
+    name: 볼라어
+    auto: true
   - translation_iso: por
     name: Língua bola
   - translation_iso: spa

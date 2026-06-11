@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケン語
+  - translation_iso: kor
+    name: 켕카어
+    auto: true
   - translation_iso: por
     name: Khengkha
     auto: true
+  - translation_iso: rus
+    name: Кхенг-кха
   - translation_iso: spa
     name: Khengkha
     auto: true

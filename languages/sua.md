@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スルカ語
+  - translation_iso: kor
+    name: 술카어
+    auto: true
   - translation_iso: por
     name: Língua sulka
+  - translation_iso: rus
+    name: Сулка
   - translation_iso: spa
     name: Idioma sulka
   - translation_iso: zho

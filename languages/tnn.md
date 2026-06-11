@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北タンナ語
     auto: true
+  - translation_iso: kor
+    name: 북부 탄나어
+    auto: true
   - translation_iso: por
     name: Tanna do Norte
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラク語
+  - translation_iso: kor
+    name: 나라크어
+    auto: true
   - translation_iso: por
     name: Narak
     auto: true

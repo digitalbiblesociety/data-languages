@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: एन
     auto: true
+  - translation_iso: ind
+    name: Bahasa En
   - translation_iso: jpn
     name: エン語
+  - translation_iso: kor
+    name: 엔어
+    auto: true
   - translation_iso: por
     name: En
     auto: true
+  - translation_iso: rus
+    name: энь
   - translation_iso: spa
     name: Idioma en
   - translation_iso: zho

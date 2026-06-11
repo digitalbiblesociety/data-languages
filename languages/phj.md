@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パハリ語
     auto: true
+  - translation_iso: kor
+    name: 파하리어
+    auto: true
   - translation_iso: por
     name: Pahari
     auto: true

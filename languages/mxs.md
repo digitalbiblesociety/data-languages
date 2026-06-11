@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィテペック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 우이테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Huitepec
     auto: true

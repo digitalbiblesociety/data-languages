@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ホアバ語
     auto: true
+  - translation_iso: kor
+    name: 호아바어
+    auto: true
   - translation_iso: por
     name: Língua hoava
   - translation_iso: spa

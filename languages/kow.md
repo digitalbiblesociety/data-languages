@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クガマ語
     auto: true
+  - translation_iso: kor
+    name: 쿠가마어
+    auto: true
   - translation_iso: por
     name: Kugama
     auto: true
+  - translation_iso: rus
+    name: Кугама
   - translation_iso: spa
     name: Kugama
     auto: true

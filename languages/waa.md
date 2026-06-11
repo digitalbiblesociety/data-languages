@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワラワラ語
     auto: true
+  - translation_iso: kor
+    name: 왈라왈라어
+    auto: true
   - translation_iso: por
     name: Walla Walla
     auto: true

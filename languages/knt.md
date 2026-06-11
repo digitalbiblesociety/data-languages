@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パノアン・カトゥキナ語
     auto: true
+  - translation_iso: kor
+    name: 파노 카투키나어
+    auto: true
   - translation_iso: por
     name: Língua katukina-pano
+  - translation_iso: rus
+    name: Ваниннава
   - translation_iso: spa
     name: Katukína panoana
     auto: true

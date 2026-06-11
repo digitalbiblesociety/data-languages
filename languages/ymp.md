@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤマップ語
     auto: true
+  - translation_iso: kor
+    name: 야마프어
+    auto: true
   - translation_iso: por
     name: yamap
     auto: true

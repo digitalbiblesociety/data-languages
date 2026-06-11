@@ -21,14 +21,21 @@ translations:
   - translation_iso: ara
     name: سويس جيرمان لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: সুইস-জার্মান ইশারা ভাষা
   - translation_iso: deu
     name: Deutschschweizer Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Suisse alémanique
   - translation_iso: hin
     name: स्विस-जर्मन सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Jerman-Swiss
   - translation_iso: jpn
     name: スイス・ドイツ手話
+  - translation_iso: kor
+    name: 스위스 독일어권 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Suíço-Alemã
     auto: true

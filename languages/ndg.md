@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ンデンゲレコ語
     auto: true
+  - translation_iso: kor
+    name: 은뎅게레코어
+    auto: true
   - translation_iso: por
     name: Ndengereko
     auto: true

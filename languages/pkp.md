@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プカプカ語
+  - translation_iso: kor
+    name: 푸카푸카어
+    auto: true
   - translation_iso: por
     name: língua pakapuka
+  - translation_iso: rus
+    name: Пукапука
   - translation_iso: spa
     name: idioma pukapukano
   - translation_iso: zho

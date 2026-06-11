@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カラオ語
     auto: true
+  - translation_iso: kor
+    name: 카라오어
+    auto: true
   - translation_iso: por
     name: Karao
     auto: true
+  - translation_iso: rus
+    name: карао
   - translation_iso: spa
     name: carao
   - translation_iso: zho

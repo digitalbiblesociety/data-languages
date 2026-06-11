@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オドドゥ語
     auto: true
+  - translation_iso: kor
+    name: 오도데어
+    auto: true
   - translation_iso: por
     name: Odoodee
     auto: true

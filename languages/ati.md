@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتييه
     auto: true
+  - translation_iso: ben
+    name: আত্তি
   - translation_iso: deu
     name: Attie
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチェ語
+  - translation_iso: kor
+    name: 아티에어
+    auto: true
   - translation_iso: por
     name: Attié
     auto: true
+  - translation_iso: rus
+    name: Аттие
   - translation_iso: spa
     name: Attié
     auto: true

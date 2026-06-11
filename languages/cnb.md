@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チンボン・チン語
     auto: true
+  - translation_iso: kor
+    name: 친본 친어
+    auto: true
   - translation_iso: por
     name: Chin Chinbon
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ge%CA%BDez"
 translations:
   - translation_iso: ara
     name: الجعزية
+  - translation_iso: ben
+    name: গীজ
   - translation_iso: deu
     name: Ge’ez
   - translation_iso: fra
     name: guèze
   - translation_iso: hin
     name: गिइज़ भाषा
+  - translation_iso: ind
+    name: Geez
   - translation_iso: jpn
     name: ゲエズ語
   - translation_iso: kor
     name: 그으즈어
   - translation_iso: por
     name: "língua ge'ez"
+  - translation_iso: rus
+    name: геэз
   - translation_iso: spa
     name: "ge'ez"
   - translation_iso: zho

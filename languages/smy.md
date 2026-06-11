@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: सेमनानी
     auto: true
+  - translation_iso: ind
+    name: bahasa Semnan
   - translation_iso: jpn
     name: セムナーン語
+  - translation_iso: kor
+    name: 셈나니어
+    auto: true
   - translation_iso: por
     name: Semnani
     auto: true
+  - translation_iso: rus
+    name: Семнанский язык
   - translation_iso: spa
     name: Semnani
     auto: true

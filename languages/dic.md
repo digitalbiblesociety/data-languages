@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラコタ・ディダ語
     auto: true
+  - translation_iso: kor
+    name: 라코타 디다어
+    auto: true
   - translation_iso: por
     name: Dida de Lakota
     auto: true

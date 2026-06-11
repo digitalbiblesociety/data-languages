@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: कोलोनिया तोवार जर्मन
     auto: true
+  - translation_iso: ind
+    name: Dialek Colonia Tovar
   - translation_iso: jpn
     name: コロニア・トバール方言
   - translation_iso: kor
     name: 알레만 콜로네이로어
   - translation_iso: por
     name: Alemão colonieiro
+  - translation_iso: rus
+    name: Алеман колоньеро
   - translation_iso: spa
     name: Alemán coloniero
   - translation_iso: zho

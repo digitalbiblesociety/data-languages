@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムセイ語
     auto: true
+  - translation_iso: kor
+    name: 무세이어
+    auto: true
   - translation_iso: por
     name: Língua musey
   - translation_iso: spa

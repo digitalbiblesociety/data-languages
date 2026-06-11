@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तबारू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tabaru
   - translation_iso: jpn
     name: トバル語
+  - translation_iso: kor
+    name: 타바루어
+    auto: true
   - translation_iso: por
     name: Tabaru
     auto: true

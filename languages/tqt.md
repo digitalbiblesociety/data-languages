@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 西トトナク語
     auto: true
+  - translation_iso: kor
+    name: 서부 토토낙어
+    auto: true
   - translation_iso: por
     name: Totonaco Ocidental
     auto: true
+  - translation_iso: rus
+    name: Осуматланский тотонакский язык
   - translation_iso: spa
     name: Totonaco occidental
     auto: true

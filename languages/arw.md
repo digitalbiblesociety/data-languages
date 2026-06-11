@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lokono_language"
 translations:
   - translation_iso: ara
     name: الأراواكية
+  - translation_iso: ben
+    name: আরাওয়াক
   - translation_iso: deu
     name: Arawak
   - translation_iso: fra
     name: lokono
   - translation_iso: hin
     name: अरावक
+  - translation_iso: ind
+    name: Arawak
   - translation_iso: jpn
     name: アラワク語
   - translation_iso: kor
     name: 아라와크어
   - translation_iso: por
     name: lokono
+  - translation_iso: rus
+    name: аравакский
   - translation_iso: spa
     name: arawak-lokono
   - translation_iso: zho

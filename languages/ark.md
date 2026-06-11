@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أريكابو
     auto: true
+  - translation_iso: ben
+    name: আরিকাপু
   - translation_iso: deu
     name: Jaboti
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アリカプ語
     auto: true
+  - translation_iso: kor
+    name: 아리카푸어
+    auto: true
   - translation_iso: por
     name: Língua arikapú
+  - translation_iso: rus
+    name: Арикапу
   - translation_iso: spa
     name: Arikapú
     auto: true

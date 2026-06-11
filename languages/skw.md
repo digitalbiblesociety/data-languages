@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: スケピクレオール・オランダ語
     auto: true
+  - translation_iso: kor
+    name: 스케피 크리올 네덜란드어
+    auto: true
   - translation_iso: por
     name: Holandês Crioulo de Skepi
     auto: true

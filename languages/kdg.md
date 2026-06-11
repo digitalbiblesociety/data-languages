@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सेबा
     auto: true
+  - translation_iso: ind
+    name: Seba
   - translation_iso: jpn
     name: セバ語
+    auto: true
+  - translation_iso: kor
+    name: 세바어
     auto: true
   - translation_iso: por
     name: Seba

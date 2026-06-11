@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イサビ語
     auto: true
+  - translation_iso: kor
+    name: 이사비어
+    auto: true
   - translation_iso: por
     name: Isabi
     auto: true

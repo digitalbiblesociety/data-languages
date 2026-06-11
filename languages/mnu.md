@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मेर
     auto: true
+  - translation_iso: ind
+    name: Mer
   - translation_iso: jpn
     name: メル語 (パプア諸語)
+  - translation_iso: kor
+    name: 메르어
+    auto: true
   - translation_iso: por
     name: Mer
     auto: true

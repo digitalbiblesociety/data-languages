@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハヴ語
     auto: true
+  - translation_iso: kor
+    name: 하부어
+    auto: true
   - translation_iso: por
     name: Havu
     auto: true

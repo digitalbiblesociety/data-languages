@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カー語
     auto: true
+  - translation_iso: kor
+    name: 카어
+    auto: true
   - translation_iso: por
     name: Khah
     auto: true

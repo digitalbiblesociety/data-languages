@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラウテ語
     auto: true
+  - translation_iso: kor
+    name: 라우테어
+    auto: true
   - translation_iso: por
     name: Língua raute
   - translation_iso: spa

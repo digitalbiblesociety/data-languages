@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ليش
     auto: true
+  - translation_iso: ben
+    name: লিশ ভাষা
   - translation_iso: deu
     name: Lish
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: लिश भाषा
   - translation_iso: jpn
     name: リシュ語
+    auto: true
+  - translation_iso: kor
+    name: 리시어
     auto: true
   - translation_iso: por
     name: Lish

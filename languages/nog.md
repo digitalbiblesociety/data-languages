@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nogai_language"
 translations:
   - translation_iso: ara
     name: لغة نوغاي
+  - translation_iso: ben
+    name: নোগাই
   - translation_iso: deu
     name: Nogaisch
   - translation_iso: fra
     name: nogaï
   - translation_iso: hin
     name: नोगाई
+  - translation_iso: ind
+    name: Nogai
   - translation_iso: jpn
     name: ノガイ語
   - translation_iso: kor
     name: 노가이어
   - translation_iso: por
     name: Língua nogai
+  - translation_iso: rus
+    name: ногайский
   - translation_iso: spa
     name: Nogai
   - translation_iso: zho

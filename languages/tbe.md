@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タニビリ語
+  - translation_iso: kor
+    name: 타님빌리어
+    auto: true
   - translation_iso: por
     name: Tanimbili
     auto: true

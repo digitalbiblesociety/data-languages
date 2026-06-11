@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ロゴ語
     auto: true
+  - translation_iso: kor
+    name: 로고어
+    auto: true
   - translation_iso: por
     name: Logo
     auto: true
+  - translation_iso: rus
+    name: Лого
   - translation_iso: spa
     name: Logo
     auto: true

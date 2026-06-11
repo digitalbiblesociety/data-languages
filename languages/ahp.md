@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبروومو أيزي
     auto: true
+  - translation_iso: ben
+    name: আপ্রো
   - translation_iso: deu
     name: Aproumu
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプロウム・アイジ語
+    auto: true
+  - translation_iso: kor
+    name: 아프루무 아이지어
     auto: true
   - translation_iso: por
     name: Aizi Aproumu

@@ -27,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: ラムビッチョン語
     auto: true
+  - translation_iso: kor
+    name: 람비총어
+    auto: true
   - translation_iso: por
     name: Lambichhong
     auto: true
+  - translation_iso: rus
+    name: Ламбичхонг
   - translation_iso: spa
     name: Lambichhong
     auto: true

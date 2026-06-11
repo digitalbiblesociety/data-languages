@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: アウヘラワ語
     auto: true
+  - translation_iso: kor
+    name: 아우헬라와어
+    auto: true
   - translation_iso: por
     name: "Língua 'auhelawa"
+  - translation_iso: rus
+    name: аухелава
   - translation_iso: spa
     name: auhelawa
   - translation_iso: zho

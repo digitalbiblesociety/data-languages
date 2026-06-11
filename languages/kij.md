@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリヴィラ語
+  - translation_iso: kor
+    name: 킬리빌라어
+    auto: true
   - translation_iso: por
     name: Kilivila
     auto: true
+  - translation_iso: rus
+    name: киливила
   - translation_iso: spa
     name: Kilivila
     auto: true

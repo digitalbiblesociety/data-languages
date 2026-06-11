@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マエング・イトネグ語
     auto: true
+  - translation_iso: kor
+    name: 마엥 이트네그어
+    auto: true
   - translation_iso: por
     name: Itneg Maeng
     auto: true

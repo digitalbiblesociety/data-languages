@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チェケ・ホロ語
     auto: true
+  - translation_iso: kor
+    name: 체케 홀로어
+    auto: true
   - translation_iso: por
     name: Cheke Holo
     auto: true

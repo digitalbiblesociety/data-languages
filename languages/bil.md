@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: ben
+    name: বাইল
   - translation_iso: deu
     name: Bile
   - translation_iso: fra
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: ビレ語
     auto: true
+  - translation_iso: kor
+    name: 빌레어
+    auto: true
   - translation_iso: por
     name: Bile
     auto: true
+  - translation_iso: rus
+    name: Биле
   - translation_iso: spa
     name: Bile
     auto: true

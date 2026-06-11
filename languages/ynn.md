@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤナ語
+  - translation_iso: kor
+    name: 야나어
+    auto: true
   - translation_iso: por
     name: yana
     auto: true
+  - translation_iso: rus
+    name: Яна
   - translation_iso: spa
     name: Yana
   - translation_iso: zho

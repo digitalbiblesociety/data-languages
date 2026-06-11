@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キマント語
     auto: true
+  - translation_iso: kor
+    name: 키만트어
+    auto: true
   - translation_iso: por
     name: Qimant
     auto: true

@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 左江チワン語
+  - translation_iso: kor
+    name: 쭤장 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Zuojiang
     auto: true
+  - translation_iso: rus
+    name: Цзоцзянский чжуанский язык
   - translation_iso: spa
     name: Zhuang de Zuojiang
     auto: true

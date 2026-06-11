@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيدوانا
     auto: true
+  - translation_iso: ben
+    name: বেদোয়ানাস
   - translation_iso: deu
     name: Bedoanas
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बेडोआनास
     auto: true
+  - translation_iso: ind
+    name: Bedoanas
   - translation_iso: jpn
     name: ベドアナス語
+    auto: true
+  - translation_iso: kor
+    name: 베도아나스어
     auto: true
   - translation_iso: por
     name: Bedoanas

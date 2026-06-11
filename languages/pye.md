@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パイクルーメン語
     auto: true
+  - translation_iso: kor
+    name: 피에 크루멘어
+    auto: true
   - translation_iso: por
     name: Krumen Pye
     auto: true

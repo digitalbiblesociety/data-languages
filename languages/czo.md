@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: मिन ज़ोंग चीनी
     auto: true
+  - translation_iso: ind
+    name: rumpun bahasa Min Tengah
   - translation_iso: jpn
     name: 閩中語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Chinês min zhong
     auto: true
+  - translation_iso: rus
+    name: Среднеминьский язык
   - translation_iso: spa
     name: minzhong
   - translation_iso: zho

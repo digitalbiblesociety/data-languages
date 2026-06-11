@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クン語
     auto: true
+  - translation_iso: kor
+    name: 쿵어
+    auto: true
   - translation_iso: por
     name: Kung
     auto: true

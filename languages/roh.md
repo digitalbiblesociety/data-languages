@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romansh_language"
 translations:
   - translation_iso: ara
     name: الرومانشية
+  - translation_iso: ben
+    name: রোমান্স
   - translation_iso: deu
     name: Bündnerromanisch
   - translation_iso: fra
     name: romanche
   - translation_iso: hin
     name: रूमान्त्च भाषा
+  - translation_iso: ind
+    name: Reto-Roman
   - translation_iso: jpn
     name: ロマンシュ語
   - translation_iso: kor
     name: 로만슈어
   - translation_iso: por
     name: romanche
+  - translation_iso: rus
+    name: романшский
   - translation_iso: spa
     name: romanche
   - translation_iso: zho

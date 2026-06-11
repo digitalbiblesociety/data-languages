@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マノ語
+  - translation_iso: kor
+    name: 마노어
+    auto: true
   - translation_iso: por
     name: Língua mano
+  - translation_iso: rus
+    name: Мано (язык)
   - translation_iso: spa
     name: Mano
     auto: true

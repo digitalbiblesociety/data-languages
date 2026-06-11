@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムボシ語
+  - translation_iso: kor
+    name: 음보시어
+    auto: true
   - translation_iso: por
     name: Mbosi
     auto: true
+  - translation_iso: rus
+    name: мбоши
   - translation_iso: spa
     name: Mbosi
     auto: true

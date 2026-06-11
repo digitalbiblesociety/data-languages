@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミシマ語
+  - translation_iso: kor
+    name: 미시마파나에아티어
+    auto: true
   - translation_iso: por
     name: Misima-Panaeati
     auto: true

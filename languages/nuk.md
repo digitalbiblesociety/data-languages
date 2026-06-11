@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語
+  - translation_iso: kor
+    name: 누차눌스어
+    auto: true
   - translation_iso: por
     name: Língua Nuu-chah-nulth
+  - translation_iso: rus
+    name: нутка
   - translation_iso: spa
     name: idioma nutka
   - translation_iso: zho

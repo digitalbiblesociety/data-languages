@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ギーオ語
     auto: true
+  - translation_iso: kor
+    name: 기워어
+    auto: true
   - translation_iso: por
     name: Giiwo
     auto: true
+  - translation_iso: rus
+    name: Кирфи
   - translation_iso: spa
     name: Giiwo
     auto: true

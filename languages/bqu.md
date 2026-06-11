@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボグル語
     auto: true
+  - translation_iso: kor
+    name: 보구루어
+    auto: true
   - translation_iso: por
     name: Boguru
     auto: true

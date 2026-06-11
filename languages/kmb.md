@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kimbundu"
 translations:
   - translation_iso: ara
     name: الكيمبندو
+  - translation_iso: ben
+    name: কিম্বুন্দু
   - translation_iso: deu
     name: Kimbundu
   - translation_iso: fra
     name: kimbundu
   - translation_iso: hin
     name: किम्बन्दु
+  - translation_iso: ind
+    name: Kimbundu
   - translation_iso: jpn
     name: キンブンド語
   - translation_iso: kor
     name: 킴분두어
   - translation_iso: por
     name: quimbundo
+  - translation_iso: rus
+    name: кимбунду
   - translation_iso: spa
     name: kimbundu
   - translation_iso: zho

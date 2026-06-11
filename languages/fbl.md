@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西アルバイ・ビコール語
+  - translation_iso: kor
+    name: 서부 알바이 비콜어
+    auto: true
   - translation_iso: por
     name: bikol do oeste de Albay
     auto: true

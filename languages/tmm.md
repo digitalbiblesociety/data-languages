@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・タィン語
+  - translation_iso: kor
+    name: 타이 타인어
+    auto: true
   - translation_iso: por
     name: Tai Thanh
     auto: true

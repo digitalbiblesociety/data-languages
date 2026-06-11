@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: ताय
     auto: true
+  - translation_iso: ind
+    name: Tày
   - translation_iso: jpn
     name: タイー語
   - translation_iso: kor
     name: 따이어
   - translation_iso: por
     name: Língua tày
+  - translation_iso: rus
+    name: тхо
   - translation_iso: spa
     name: Tày
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フウェ語
     auto: true
+  - translation_iso: kor
+    name: 프웨어
+    auto: true
   - translation_iso: por
     name: Fwe
     auto: true

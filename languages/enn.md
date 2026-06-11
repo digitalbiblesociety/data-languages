@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: エンゲニ語
     auto: true
+  - translation_iso: kor
+    name: 엥게니어
+    auto: true
   - translation_iso: por
     name: Engenni
     auto: true
+  - translation_iso: rus
+    name: Нгене
   - translation_iso: spa
     name: Engenni
     auto: true

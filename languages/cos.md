@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Corsican_language"
 translations:
   - translation_iso: ara
     name: الكورسيكية
+  - translation_iso: ben
+    name: কর্সিকান
   - translation_iso: deu
     name: Korsisch
   - translation_iso: fra
     name: corse
   - translation_iso: hin
     name: कोर्सीकन
+  - translation_iso: ind
+    name: Korsika
   - translation_iso: jpn
     name: コルシカ語
   - translation_iso: kor
     name: 코르시카어
   - translation_iso: por
     name: Língua corsa
+  - translation_iso: rus
+    name: корсиканский
   - translation_iso: spa
     name: corso
   - translation_iso: zho

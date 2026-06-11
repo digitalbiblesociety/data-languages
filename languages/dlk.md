@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: दहालिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dahalik
   - translation_iso: jpn
     name: ダフラク語
+  - translation_iso: kor
+    name: 다할리크어
+    auto: true
   - translation_iso: por
     name: Dahalik
     auto: true
+  - translation_iso: rus
+    name: дахлик
   - translation_iso: spa
     name: dahalik
   - translation_iso: zho

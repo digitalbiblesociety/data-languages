@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダル・シラ・ダジュ語
     auto: true
+  - translation_iso: kor
+    name: 다르실라 다주어
+    auto: true
   - translation_iso: por
     name: Daju de Dar Sila
     auto: true

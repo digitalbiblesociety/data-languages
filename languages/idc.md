@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イドン語
     auto: true
+  - translation_iso: kor
+    name: 이돈어
+    auto: true
   - translation_iso: por
     name: Idon
     auto: true
+  - translation_iso: rus
+    name: Аджия
   - translation_iso: spa
     name: Idon
     auto: true

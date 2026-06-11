@@ -22,18 +22,24 @@ translations:
   - translation_iso: ara
     name: اليونانية الميسينية
     auto: true
+  - translation_iso: ben
+    name: মাইসিনীয় গ্রিক ভাষা
   - translation_iso: deu
     name: mykenisches Griechisch
   - translation_iso: fra
     name: mycénien
   - translation_iso: hin
     name: माइसीनियाई यूनानी
+  - translation_iso: ind
+    name: bahasa Yunani Mikenai
   - translation_iso: jpn
     name: ミケーネ・ギリシャ語
   - translation_iso: kor
     name: 미케네 그리스어
   - translation_iso: por
     name: grego micênico
+  - translation_iso: rus
+    name: микенский язык
   - translation_iso: spa
     name: griego micénico
   - translation_iso: zho

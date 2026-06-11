@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mexican_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المكسيكية
+  - translation_iso: ben
+    name: মেক্সিকান ইশারা ভাষা
   - translation_iso: deu
     name: Mexikanische Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
     name: मैक्सिकन सांकेतिक भाषा
   - translation_iso: jpn
     name: メキシコ手話
+  - translation_iso: kor
+    name: 멕시코 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais mexicana
+  - translation_iso: rus
+    name: мексиканский жестовый язык
   - translation_iso: spa
     name: lengua de señas mexicana
   - translation_iso: zho

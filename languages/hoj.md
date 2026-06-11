@@ -23,6 +23,8 @@ translations:
   - translation_iso: ara
     name: هادوثي
     auto: true
+  - translation_iso: ben
+    name: হারৌতি উপভাষা
   - translation_iso: deu
     name: Harauti
   - translation_iso: fra
@@ -32,6 +34,9 @@ translations:
     name: हड़ौती भाषा
   - translation_iso: jpn
     name: ハーラウト方言
+  - translation_iso: kor
+    name: 하도티어
+    auto: true
   - translation_iso: por
     name: Hadothi
     auto: true

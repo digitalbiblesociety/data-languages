@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: シカニア語
     auto: true
+  - translation_iso: kor
+    name: 시카니아어
+    auto: true
   - translation_iso: por
     name: Sicaniano
     auto: true
+  - translation_iso: rus
+    name: сиканский язык
   - translation_iso: spa
     name: sicano
   - translation_iso: zho

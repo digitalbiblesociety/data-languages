@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柳黔チワン語
+  - translation_iso: kor
+    name: 류첸 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Liuqian
     auto: true

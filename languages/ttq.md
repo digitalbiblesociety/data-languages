@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タワラマト・タマジャク語
+  - translation_iso: kor
+    name: 타왈람마트 타마자크어
+    auto: true
   - translation_iso: por
     name: Língua tawellemmet
+  - translation_iso: rus
+    name: Тауллеммет
   - translation_iso: spa
     name: Idioma tahoua
   - translation_iso: zho

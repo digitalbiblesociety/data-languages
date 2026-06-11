@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミンガン・ドソ語
     auto: true
+  - translation_iso: kor
+    name: 밍강 도소어
+    auto: true
   - translation_iso: por
     name: Mingang Doso
     auto: true

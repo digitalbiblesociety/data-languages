@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレナダ・クレオール語
+  - translation_iso: kor
+    name: 그레나다 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo inglês de Granada
   - translation_iso: spa

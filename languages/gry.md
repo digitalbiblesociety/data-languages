@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: バークレイヴィル・グレボ語
     auto: true
+  - translation_iso: kor
+    name: 바클레이빌 그레보어
+    auto: true
   - translation_iso: por
     name: Grebo de Barclayville
     auto: true

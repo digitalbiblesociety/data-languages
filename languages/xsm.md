@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: कासेम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kasena
   - translation_iso: jpn
     name: カセム語
+  - translation_iso: kor
+    name: 카셈어
+    auto: true
   - translation_iso: por
     name: Língua kasen
+  - translation_iso: rus
+    name: Касем
   - translation_iso: spa
     name: Kasem
     auto: true

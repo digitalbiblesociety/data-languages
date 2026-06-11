@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイオワ語
+  - translation_iso: kor
+    name: 아이오와오토어
+    auto: true
   - translation_iso: por
     name: Língua chiwere
+  - translation_iso: rus
+    name: Чивере
   - translation_iso: spa
     name: Idioma chiwere
   - translation_iso: zho

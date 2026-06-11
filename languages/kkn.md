@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コン・クー語
     auto: true
+  - translation_iso: kor
+    name: 콘케우어
+    auto: true
   - translation_iso: por
     name: Kon Keu
     auto: true

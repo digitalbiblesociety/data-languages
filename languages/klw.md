@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タド語
     auto: true
+  - translation_iso: kor
+    name: 타도어
+    auto: true
   - translation_iso: por
     name: Tado
     auto: true
+  - translation_iso: rus
+    name: линду
   - translation_iso: spa
     name: Tado
     auto: true

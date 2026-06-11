@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أواباكال
     auto: true
+  - translation_iso: ben
+    name: আওয়াবাকাল
   - translation_iso: deu
     name: Awabakal
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アワバカル語
     auto: true
+  - translation_iso: kor
+    name: 아와바칼어
+    auto: true
   - translation_iso: por
     name: Awabakal
     auto: true
+  - translation_iso: rus
+    name: аубакальский язык
   - translation_iso: spa
     name: idioma awabakal
   - translation_iso: zho

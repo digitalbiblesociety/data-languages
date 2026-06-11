@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カラ語
     auto: true
+  - translation_iso: kor
+    name: 카라어
+    auto: true
   - translation_iso: por
     name: Kara (República Centro-Africana)
     auto: true

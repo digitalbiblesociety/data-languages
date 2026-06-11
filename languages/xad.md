@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اداي
     auto: true
+  - translation_iso: ben
+    name: আদাই
   - translation_iso: deu
     name: Adai
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: アダイ語
     auto: true
+  - translation_iso: kor
+    name: 아다이어
+    auto: true
   - translation_iso: por
     name: Língua adai
+  - translation_iso: rus
+    name: Адаи
   - translation_iso: spa
     name: Adai
   - translation_iso: zho

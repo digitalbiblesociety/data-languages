@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالي
     auto: true
+  - translation_iso: ben
+    name: বালি
   - translation_iso: deu
     name: Bali (Democratic Republic of Congo)
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリ語
+  - translation_iso: kor
+    name: 발리어
+    auto: true
   - translation_iso: por
     name: Bali (República Democrática do Congo)
     auto: true

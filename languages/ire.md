@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इरेसिम
     auto: true
+  - translation_iso: ind
+    name: Beduba
   - translation_iso: jpn
     name: イレシム語
+    auto: true
+  - translation_iso: kor
+    name: 이레심어
     auto: true
   - translation_iso: por
     name: Iresim

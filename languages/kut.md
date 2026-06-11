@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kutenai_language"
 translations:
   - translation_iso: ara
     name: الكتيناي
+  - translation_iso: ben
+    name: কুটেনাই
   - translation_iso: deu
     name: Kutanaha
   - translation_iso: fra
     name: kutenai
   - translation_iso: hin
     name: क्यूतनाई
+  - translation_iso: ind
+    name: Kutenai
   - translation_iso: jpn
     name: クテナイ語
   - translation_iso: kor
     name: 쿠테나이어
   - translation_iso: por
     name: Língua kutenai
+  - translation_iso: rus
+    name: кутенаи
   - translation_iso: spa
     name: Idioma kutenai
   - translation_iso: zho

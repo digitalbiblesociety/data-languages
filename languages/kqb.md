@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コヴァイ語
+  - translation_iso: kor
+    name: 코바이어
+    auto: true
   - translation_iso: por
     name: Kovai
     auto: true

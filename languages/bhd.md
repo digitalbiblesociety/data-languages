@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bhadarwahi_language"
 translations:
   - translation_iso: ara
     name: البدرواهية
+  - translation_iso: ben
+    name: ভদ্রবাহী ভাষা
   - translation_iso: deu
     name: Bhadrawahi
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: भदरवाही
   - translation_iso: jpn
     name: バドラワーヒー語
+  - translation_iso: kor
+    name: 바드라와히어
+    auto: true
   - translation_iso: por
     name: Bhadrawahi
     auto: true

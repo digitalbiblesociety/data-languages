@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: सेंतानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sentani
   - translation_iso: jpn
     name: ブヤカ語
+    auto: true
+  - translation_iso: kor
+    name: 센타니어
     auto: true
   - translation_iso: por
     name: Sentani
     auto: true
+  - translation_iso: rus
+    name: Сентани
   - translation_iso: spa
     name: Sentani
     auto: true

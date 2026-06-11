@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कोबा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Koba
   - translation_iso: jpn
     name: コバ語
+  - translation_iso: kor
+    name: 코바어
+    auto: true
   - translation_iso: por
     name: Koba
     auto: true

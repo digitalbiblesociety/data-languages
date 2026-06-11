@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウメダ語
     auto: true
+  - translation_iso: kor
+    name: 우메다어
+    auto: true
   - translation_iso: por
     name: Umeda
     auto: true
+  - translation_iso: rus
+    name: умеда
   - translation_iso: spa
     name: Umeda
     auto: true

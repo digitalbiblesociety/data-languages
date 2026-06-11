@@ -30,6 +30,9 @@ translations:
     name: चेपाङ भाषा
   - translation_iso: jpn
     name: チェパン語
+  - translation_iso: kor
+    name: 체팡어
+    auto: true
   - translation_iso: por
     name: Chepang
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة جومل للإشارة
     auto: true
+  - translation_iso: ben
+    name: জুমলা ইশারা ভাষা
   - translation_iso: deu
     name: Jumla-Gebärdensprache
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: जुमला सांकेतिक भाषा
   - translation_iso: jpn
     name: ジュムラ手話
+  - translation_iso: kor
+    name: 줌라 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Jumla
     auto: true
+  - translation_iso: rus
+    name: джумланский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Jumla
     auto: true

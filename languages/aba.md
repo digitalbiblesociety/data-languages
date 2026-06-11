@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبيه
     auto: true
+  - translation_iso: ben
+    name: আবে
   - translation_iso: deu
     name: Abé
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アベイ語
+  - translation_iso: kor
+    name: 아베어
+    auto: true
   - translation_iso: por
     name: Abé
     auto: true
+  - translation_iso: rus
+    name: абе
   - translation_iso: spa
     name: Abé
   - translation_iso: zho

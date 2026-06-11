@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Muscogee_language"
 translations:
   - translation_iso: ara
     name: لغة مسكوكية
+  - translation_iso: ben
+    name: মুস্কোগী
   - translation_iso: deu
     name: Maskoki
   - translation_iso: fra
     name: creek
   - translation_iso: hin
     name: क्रीक
+  - translation_iso: ind
+    name: Bahasa Muskogee
   - translation_iso: jpn
     name: マスコギ語
   - translation_iso: kor
     name: 마스코기어
   - translation_iso: por
     name: Língua creek
+  - translation_iso: rus
+    name: крик
   - translation_iso: spa
     name: idioma maskoki
   - translation_iso: zho

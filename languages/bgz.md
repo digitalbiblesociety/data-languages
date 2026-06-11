@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانجايي
     auto: true
+  - translation_iso: ben
+    name: বাংগাই
   - translation_iso: deu
     name: Banggai
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बंगाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Banggai
   - translation_iso: jpn
     name: バンガイ語
+    auto: true
+  - translation_iso: kor
+    name: 방가이어
     auto: true
   - translation_iso: por
     name: Banggai

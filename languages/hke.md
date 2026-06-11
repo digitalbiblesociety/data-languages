@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フンデ語
+  - translation_iso: kor
+    name: 훈데어
+    auto: true
   - translation_iso: por
     name: Hunde
     auto: true
+  - translation_iso: rus
+    name: Хунде
   - translation_iso: spa
     name: hunde
   - translation_iso: zho

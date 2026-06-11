@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: コチラ・タル語
     auto: true
+  - translation_iso: kor
+    name: 코칠라 타루어
+    auto: true
   - translation_iso: por
     name: Tharu de Kochila
     auto: true

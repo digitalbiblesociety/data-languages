@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ネオ・ヒッタイト語
     auto: true
+  - translation_iso: kor
+    name: 신히타이트어
+    auto: true
   - translation_iso: por
     name: Neo-hitita
     auto: true

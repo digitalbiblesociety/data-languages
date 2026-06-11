@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: オマグア語
     auto: true
+  - translation_iso: kor
+    name: 오마과어
+    auto: true
   - translation_iso: por
     name: Língua cambeba
+  - translation_iso: rus
+    name: Омагуа
   - translation_iso: spa
     name: Omagua
   - translation_iso: zho

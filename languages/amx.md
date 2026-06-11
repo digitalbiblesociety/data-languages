@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنماتييري
     auto: true
+  - translation_iso: ben
+    name: অ্যানমাটির
   - translation_iso: deu
     name: Anmatyerre
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンマティエッレ語
+    auto: true
+  - translation_iso: kor
+    name: 안마티에레어
     auto: true
   - translation_iso: por
     name: Anmatyerre

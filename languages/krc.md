@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karachay-Balkar"
 translations:
   - translation_iso: ara
     name: القراشاية البلقارية
+  - translation_iso: ben
+    name: কারচে-বাল্কার
   - translation_iso: deu
     name: Karatschai-Balkarisch
   - translation_iso: fra
     name: karatchaï-balkar
   - translation_iso: hin
     name: कराचय-बल्कार
+  - translation_iso: ind
+    name: Karachai Balkar
   - translation_iso: jpn
     name: カラチャイ・バルカル語
   - translation_iso: kor
     name: 카라차이발카르어
   - translation_iso: por
     name: Língua carachaio-bálcara
+  - translation_iso: rus
+    name: карачаево-балкарский
   - translation_iso: spa
     name: idioma karachái-bálkaro
   - translation_iso: zho

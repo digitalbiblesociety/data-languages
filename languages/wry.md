@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メールワーリー語
+  - translation_iso: kor
+    name: 메르와리어
+    auto: true
   - translation_iso: por
     name: Merwari
     auto: true

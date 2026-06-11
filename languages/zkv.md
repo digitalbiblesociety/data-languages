@@ -24,9 +24,14 @@ translations:
   - translation_iso: jpn
     name: クレビニアン語
     auto: true
+  - translation_iso: kor
+    name: 크레빈어
+    auto: true
   - translation_iso: por
     name: krevínio
     auto: true
+  - translation_iso: rus
+    name: Кревинский диалект
   - translation_iso: spa
     name: Krevinian
     auto: true

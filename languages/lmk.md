@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラムカン語
     auto: true
+  - translation_iso: kor
+    name: 람캉어
+    auto: true
   - translation_iso: por
     name: Lamkang
     auto: true

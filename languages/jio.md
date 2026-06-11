@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: जियामाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Jiamao
   - translation_iso: jpn
     name: チャマオ語
+  - translation_iso: kor
+    name: 자마오어
+    auto: true
   - translation_iso: por
     name: Língua jiamao
   - translation_iso: spa

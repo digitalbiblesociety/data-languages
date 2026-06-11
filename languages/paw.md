@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーニー語
+  - translation_iso: kor
+    name: 포니어
+    auto: true
   - translation_iso: por
     name: Língua pawnee
+  - translation_iso: rus
+    name: Пауни
   - translation_iso: spa
     name: Pawnee
   - translation_iso: zho

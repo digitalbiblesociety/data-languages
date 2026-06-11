@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エセレン語
+  - translation_iso: kor
+    name: 에셀렌어
+    auto: true
   - translation_iso: por
     name: Esselen
     auto: true
+  - translation_iso: rus
+    name: эсселенский язык
   - translation_iso: spa
     name: idioma esselen
   - translation_iso: zho

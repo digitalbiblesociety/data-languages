@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी तिदुंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tidung Selatan
   - translation_iso: jpn
     name: 南部ティドゥング語
+    auto: true
+  - translation_iso: kor
+    name: 남부 티둥어
     auto: true
   - translation_iso: por
     name: Tidung do Sul

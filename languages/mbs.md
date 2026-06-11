@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: サランガニ・マノボ語
     auto: true
+  - translation_iso: kor
+    name: 사랑가니 마노보어
+    auto: true
   - translation_iso: por
     name: Manobo sarangani
     auto: true

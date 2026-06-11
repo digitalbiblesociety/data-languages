@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンタ語
     auto: true
+  - translation_iso: kor
+    name: 만타어
+    auto: true
   - translation_iso: por
     name: Manta
     auto: true

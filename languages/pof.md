@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पोके
     auto: true
+  - translation_iso: ind
+    name: bahasa puki
   - translation_iso: jpn
     name: ポケ語
+    auto: true
+  - translation_iso: kor
+    name: 포케어
     auto: true
   - translation_iso: por
     name: Poke

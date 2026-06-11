@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東ボウユイド語
     auto: true
+  - translation_iso: kor
+    name: 동부 타우부이드어
+    auto: true
   - translation_iso: por
     name: Tawbuid oriental
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: चीनी बुर्यात
     auto: true
+  - translation_iso: ind
+    name: Buryat Bargu-Shineken
   - translation_iso: jpn
     name: 中国ブリヤート語
+  - translation_iso: kor
+    name: 중국 부랴트어
+    auto: true
   - translation_iso: por
     name: Buriato da China
     auto: true

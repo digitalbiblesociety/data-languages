@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コネストガ語
     auto: true
+  - translation_iso: kor
+    name: 서스쿼해녹어
+    auto: true
   - translation_iso: por
     name: Susquehannock
     auto: true

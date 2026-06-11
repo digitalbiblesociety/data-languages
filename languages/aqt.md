@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنجايتيه
     auto: true
+  - translation_iso: ben
+    name: আঙ্গাইতে
   - translation_iso: deu
     name: Angaité
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アンガイテ語
     auto: true
+  - translation_iso: kor
+    name: 앙가이테어
+    auto: true
   - translation_iso: por
     name: Angaité
     auto: true
+  - translation_iso: rus
+    name: Ангайте
   - translation_iso: spa
     name: Angaité
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Obolo_language"
 translations:
   - translation_iso: ara
     name: أوبلو
+  - translation_iso: ben
+    name: ওবোলো
   - translation_iso: deu
     name: Obolo
   - translation_iso: fra
     name: obolo
   - translation_iso: hin
     name: ओबोलो
+  - translation_iso: ind
+    name: Obolo
   - translation_iso: jpn
     name: オボロ語
   - translation_iso: kor
     name: 오볼로어
   - translation_iso: por
     name: Língua obolo
+  - translation_iso: rus
+    name: оболо
   - translation_iso: spa
     name: Idioma obolo
   - translation_iso: zho

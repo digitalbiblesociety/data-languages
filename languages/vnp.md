@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブナプ語
     auto: true
+  - translation_iso: kor
+    name: 부나푸어
+    auto: true
   - translation_iso: por
     name: Vunapu
     auto: true

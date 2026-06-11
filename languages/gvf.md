@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴリン語
+  - translation_iso: kor
+    name: 골린어
+    auto: true
   - translation_iso: por
     name: Golin
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سندي بيل
     auto: true
+  - translation_iso: ben
+    name: সিংধি ভীল
   - translation_iso: deu
     name: Sindhi-Bhil
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: सिंधी भील
   - translation_iso: jpn
     name: シンディ・ビル語
+    auto: true
+  - translation_iso: kor
+    name: 신디 빌어
     auto: true
   - translation_iso: por
     name: Bhil Sindi

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリダン語
     auto: true
+  - translation_iso: kor
+    name: 마리단어
+    auto: true
   - translation_iso: por
     name: maridan
     auto: true

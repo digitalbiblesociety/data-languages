@@ -29,9 +29,14 @@ translations:
     name: उशोजी भाषा
   - translation_iso: jpn
     name: ウショジョ語
+  - translation_iso: kor
+    name: 우쇼조어
+    auto: true
   - translation_iso: por
     name: Ushojo
     auto: true
+  - translation_iso: rus
+    name: ушоджи
   - translation_iso: spa
     name: Ushojo
     auto: true

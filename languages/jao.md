@@ -36,6 +36,8 @@ translations:
     name: 야뉴와어
   - translation_iso: por
     name: Língua yaniuwa
+  - translation_iso: rus
+    name: янюва
   - translation_iso: spa
     name: yanyuwa
   - translation_iso: zho

@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: हुंज़िब
     auto: true
+  - translation_iso: ind
+    name: bahasa Hunzib
   - translation_iso: jpn
     name: フンズィブ語
   - translation_iso: kor
     name: 훈지브어
   - translation_iso: por
     name: Língua hunzib
+  - translation_iso: rus
+    name: гунзибский язык
   - translation_iso: spa
     name: Hunzib
   - translation_iso: zho

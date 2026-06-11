@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: コロミラ語
     auto: true
+  - translation_iso: kor
+    name: 코로미라어
+    auto: true
   - translation_iso: por
     name: Koromira
     auto: true

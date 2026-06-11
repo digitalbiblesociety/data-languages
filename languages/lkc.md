@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クコン語
     auto: true
+  - translation_iso: kor
+    name: 쿠충어
+    auto: true
   - translation_iso: por
     name: Kucong
     auto: true

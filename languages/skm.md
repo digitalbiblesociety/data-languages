@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クトン語
     auto: true
+  - translation_iso: kor
+    name: 쿠통어
+    auto: true
   - translation_iso: por
     name: Kutong
     auto: true

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オカイナ語
+  - translation_iso: kor
+    name: 오카이나어
+    auto: true
   - translation_iso: por
     name: Ocaina
     auto: true
+  - translation_iso: rus
+    name: Окайна
   - translation_iso: spa
     name: Ocaina
   - translation_iso: zho

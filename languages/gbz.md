@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: dari zoroastriano
     auto: true
+  - translation_iso: rus
+    name: дари
   - translation_iso: spa
     name: Dari zoroastriano
     auto: true

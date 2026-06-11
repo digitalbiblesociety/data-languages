@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ピマバホ語
     auto: true
+  - translation_iso: kor
+    name: 피마 바호어
+    auto: true
   - translation_iso: por
     name: Pima Baixo
     auto: true
+  - translation_iso: rus
+    name: нижнепиманский язык
   - translation_iso: spa
     name: névome
   - translation_iso: zho

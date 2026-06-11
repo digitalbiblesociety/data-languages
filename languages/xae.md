@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: ايقويان
     auto: true
+  - translation_iso: ben
+    name: একুইয়ীয়
   - translation_iso: deu
     name: Äquisch
   - translation_iso: fra
@@ -21,12 +23,19 @@ translations:
   - translation_iso: hin
     name: एक्वियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aequi
   - translation_iso: jpn
     name: アエクイアン語
+    auto: true
+  - translation_iso: kor
+    name: 아이퀴어
     auto: true
   - translation_iso: por
     name: Équio
     auto: true
+  - translation_iso: rus
+    name: эквский язык
   - translation_iso: spa
     name: Idioma ecuo
   - translation_iso: zho

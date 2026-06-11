@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガンテ語
     auto: true
+  - translation_iso: kor
+    name: 강테어
+    auto: true
   - translation_iso: por
     name: Gangte
     auto: true

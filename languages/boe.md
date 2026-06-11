@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムンダブリ語
     auto: true
+  - translation_iso: kor
+    name: 문다블리어
+    auto: true
   - translation_iso: por
     name: Mundabli
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: パイテル語
     auto: true
+  - translation_iso: kor
+    name: 수루이어
+    auto: true
   - translation_iso: por
     name: Língua suruí-paíter
+  - translation_iso: rus
+    name: Суруйский язык
   - translation_iso: spa
     name: Suruí
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سوكي تاباسكو
     auto: true
+  - translation_iso: ben
+    name: আয়াপা জোক
   - translation_iso: deu
     name: Ayapaneco
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     name: आयापानेको
   - translation_iso: jpn
     name: アヤパネコ語
+  - translation_iso: kor
+    name: 타바스코 소케어
+    auto: true
   - translation_iso: por
     name: zoque de Tabasco
     auto: true
+  - translation_iso: rus
+    name: Аяпанский соке
   - translation_iso: spa
     name: ayapanecaca
   - translation_iso: zho

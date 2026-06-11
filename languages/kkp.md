@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ググベラ語
     auto: true
+  - translation_iso: kor
+    name: 구구베라어
+    auto: true
   - translation_iso: por
     name: Gugubera
     auto: true

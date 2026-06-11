@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブキタン語
     auto: true
+  - translation_iso: kor
+    name: 부키탄어
+    auto: true
   - translation_iso: por
     name: Bukitan
     auto: true

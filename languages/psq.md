@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パシ語
     auto: true
+  - translation_iso: kor
+    name: 파시어
+    auto: true
   - translation_iso: por
     name: Pasi
     auto: true

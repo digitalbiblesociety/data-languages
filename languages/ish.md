@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エサン語
     auto: true
+  - translation_iso: kor
+    name: 에산어
+    auto: true
   - translation_iso: por
     name: Esan
     auto: true

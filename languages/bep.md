@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيسوا
     auto: true
+  - translation_iso: ben
+    name: বেসোয়া
   - translation_iso: deu
     name: Besoa
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बेसोआ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Besoa
   - translation_iso: jpn
     name: ベソア語
+    auto: true
+  - translation_iso: kor
+    name: 베소아어
     auto: true
   - translation_iso: por
     name: Besoa

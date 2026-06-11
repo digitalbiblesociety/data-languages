@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カイク語
     auto: true
+  - translation_iso: kor
+    name: 카이쿠어
+    auto: true
   - translation_iso: por
     name: Kaiku
     auto: true

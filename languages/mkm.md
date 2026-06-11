@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: मोकलेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Moklen
   - translation_iso: jpn
     name: モクレン語
     auto: true

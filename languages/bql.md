@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビラクラ語
     auto: true
+  - translation_iso: kor
+    name: 빌라쿠라어
+    auto: true
   - translation_iso: por
     name: Bilakura
     auto: true

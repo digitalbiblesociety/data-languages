@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: ओकी-नो-एराबु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Okinoerabu
   - translation_iso: jpn
     name: 沖永良部島方言
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Oki-No-Erabu
     auto: true
+  - translation_iso: rus
+    name: окиноерабу
   - translation_iso: spa
     name: Oki-No-Erabu
     auto: true

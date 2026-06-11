@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: लेगेनयेम
     auto: true
+  - translation_iso: ind
+    name: Legenyem
   - translation_iso: jpn
     name: レゲニェム語
+    auto: true
+  - translation_iso: kor
+    name: 레게니엠어
     auto: true
   - translation_iso: por
     name: Legenyem

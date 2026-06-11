@@ -30,9 +30,14 @@ translations:
     name: चिकसॉ
   - translation_iso: jpn
     name: チカソー語
+  - translation_iso: kor
+    name: 치카소어
+    auto: true
   - translation_iso: por
     name: Chickasaw
     auto: true
+  - translation_iso: rus
+    name: Чикасавский язык
   - translation_iso: spa
     name: chickasaw
   - translation_iso: zho

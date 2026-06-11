@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンブラス・クナ語
     auto: true
+  - translation_iso: kor
+    name: 산블라스 쿠나어
+    auto: true
   - translation_iso: por
     name: Kuna de San Blas
     auto: true

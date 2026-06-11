@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مولجي
     auto: true
+  - translation_iso: ben
+    name: মিরে ভাষা
   - translation_iso: deu
     name: Mulgi
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムルギ語
+    auto: true
+  - translation_iso: kor
+    name: 물기어
     auto: true
   - translation_iso: por
     name: Mulgi

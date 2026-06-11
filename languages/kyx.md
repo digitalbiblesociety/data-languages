@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クヌア語
+  - translation_iso: kor
+    name: 라포이시어
+    auto: true
   - translation_iso: por
     name: Rapoisi
     auto: true

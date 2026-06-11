@@ -28,10 +28,17 @@ translations:
     name: arabe hadhrami
   - translation_iso: hin
     name: हज़रमी अरबी
+  - translation_iso: ind
+    name: Arab Hadhrami
   - translation_iso: jpn
     name: アラビア語ハドラマウト方言
+  - translation_iso: kor
+    name: 하드라미 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe hadhrami
+  - translation_iso: rus
+    name: Хадрамаутский диалект
   - translation_iso: spa
     name: Árabe hadhramí
   - translation_iso: zho

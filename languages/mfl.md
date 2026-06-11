@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プタイ語
     auto: true
+  - translation_iso: kor
+    name: 푸타이어
+    auto: true
   - translation_iso: por
     name: Putai
     auto: true

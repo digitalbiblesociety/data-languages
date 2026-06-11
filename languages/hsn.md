@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Xiang_Chinese"
 translations:
   - translation_iso: ara
     name: شيانغ الصينية
+  - translation_iso: ben
+    name: Xiang চীনা
   - translation_iso: deu
     name: Xiang
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: श्यांग चीनी
     auto: true
+  - translation_iso: ind
+    name: Xiang
   - translation_iso: jpn
     name: 湘語
   - translation_iso: kor
     name: 샹어
   - translation_iso: por
     name: xiang
+  - translation_iso: rus
+    name: сян
   - translation_iso: spa
     name: xiang
   - translation_iso: zho

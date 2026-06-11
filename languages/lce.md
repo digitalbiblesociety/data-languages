@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: लोंचोंग
     auto: true
+  - translation_iso: ind
+    name: Loncong
   - translation_iso: jpn
     name: セカ族
+  - translation_iso: kor
+    name: 론총어
+    auto: true
   - translation_iso: por
     name: Loncong
     auto: true

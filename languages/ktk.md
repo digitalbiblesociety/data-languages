@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カニエット語
     auto: true
+  - translation_iso: kor
+    name: 카니에트어
+    auto: true
   - translation_iso: por
     name: Kaniet
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミツカナカン語
     auto: true
+  - translation_iso: kor
+    name: 벤투레뇨어
+    auto: true
   - translation_iso: por
     name: Ventureño
     auto: true
+  - translation_iso: rus
+    name: Вентуреньо
   - translation_iso: spa
     name: ventureño
   - translation_iso: zho

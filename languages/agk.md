@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イサログ・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 이사로그 아그타어
+    auto: true
   - translation_iso: por
     name: Agta de Isarog
     auto: true

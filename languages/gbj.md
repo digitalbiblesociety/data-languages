@@ -30,6 +30,9 @@ translations:
     name: गुटोब भाषा
   - translation_iso: jpn
     name: ガダバ語
+  - translation_iso: kor
+    name: 보도 가다바어
+    auto: true
   - translation_iso: por
     name: Língua gadaba
   - translation_iso: spa

@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: गेराई
     auto: true
+  - translation_iso: ind
+    name: Gerai
   - translation_iso: jpn
     name: ゲライ語
+    auto: true
+  - translation_iso: kor
+    name: 게라이어
     auto: true
   - translation_iso: por
     name: Gerai

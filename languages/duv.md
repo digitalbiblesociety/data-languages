@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: डुव्ले
     auto: true
+  - translation_iso: ind
+    name: Duvde
   - translation_iso: jpn
     name: ドゥヴレ語
+    auto: true
+  - translation_iso: kor
+    name: 두블레어
     auto: true
   - translation_iso: por
     name: Duvle

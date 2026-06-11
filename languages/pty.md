@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パティーヤ語
     auto: true
+  - translation_iso: kor
+    name: 파티야어
+    auto: true
   - translation_iso: por
     name: Pathiya
     auto: true
+  - translation_iso: rus
+    name: Патия
   - translation_iso: spa
     name: Pathiya
     auto: true

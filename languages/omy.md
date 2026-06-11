@@ -23,8 +23,13 @@ translations:
   - translation_iso: hin
     name: पुरानी मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Kuno
   - translation_iso: jpn
     name: 古マレー語
+    auto: true
+  - translation_iso: kor
+    name: 고대 말레이어
     auto: true
   - translation_iso: por
     name: Antigo malaio

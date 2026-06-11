@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Callawalla
     auto: true
+  - translation_iso: rus
+    name: Кальяуайя
   - translation_iso: spa
     name: idioma kallawaya
   - translation_iso: zho

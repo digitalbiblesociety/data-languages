@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルグバラ語
+  - translation_iso: kor
+    name: 루그바라어
+    auto: true
   - translation_iso: por
     name: Língua lugbara
+  - translation_iso: rus
+    name: лугбара
   - translation_iso: spa
     name: Lugbara
     auto: true

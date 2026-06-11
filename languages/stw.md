@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: सातावालीज़
     auto: true
+  - translation_iso: ind
+    name: Bahasa Satawal
   - translation_iso: jpn
     name: サタワル語
+  - translation_iso: kor
+    name: 사타왈어
+    auto: true
   - translation_iso: por
     name: Língua satawalesa
+  - translation_iso: rus
+    name: Сатавальский язык
   - translation_iso: spa
     name: satawal
   - translation_iso: zho

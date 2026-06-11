@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バーガンジ語
+  - translation_iso: kor
+    name: 파칸티어
+    auto: true
   - translation_iso: por
     name: Língua darling
   - translation_iso: spa

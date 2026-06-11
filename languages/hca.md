@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: آندآمآن كرإولإ هيندي
     auto: true
+  - translation_iso: ben
+    name: আন্দামানি ক্রেওল হিন্দি
   - translation_iso: deu
     name: Andamanen-Kreolhindi
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アンダマン・クレオール・ヒンディー語
     auto: true
+  - translation_iso: kor
+    name: 안다만 크리올 힌디어
+    auto: true
   - translation_iso: por
     name: Hindi Crioulo de Andamão
     auto: true
+  - translation_iso: rus
+    name: Андаманский креольский хинди
   - translation_iso: spa
     name: Hindi criollo andamanés
     auto: true

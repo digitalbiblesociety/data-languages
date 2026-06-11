@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मोरी अतास
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mori Atas
   - translation_iso: jpn
     name: モリ・アタス語
+    auto: true
+  - translation_iso: kor
+    name: 모리 아타스어
     auto: true
   - translation_iso: por
     name: Língua mori-atas

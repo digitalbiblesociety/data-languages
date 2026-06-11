@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブワトゥー語
     auto: true
+  - translation_iso: kor
+    name: 브와투어
+    auto: true
   - translation_iso: por
     name: Bwatoo
     auto: true

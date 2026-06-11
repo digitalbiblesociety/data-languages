@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biblical_Hebrew"
 translations:
   - translation_iso: ara
     name: العبرانية
+  - translation_iso: ben
+    name: বাইবেলীয় হিব্রু
   - translation_iso: deu
     name: Bibelhebräisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन हिब्रू
     auto: true
+  - translation_iso: ind
+    name: Ibrani Alkitab
   - translation_iso: jpn
     name: 聖書ヘブライ語
   - translation_iso: kor
     name: 고대 히브리어
   - translation_iso: por
     name: Hebraico bíblico
+  - translation_iso: rus
+    name: древнееврейский язык
   - translation_iso: spa
     name: hebreo bíblico
   - translation_iso: zho

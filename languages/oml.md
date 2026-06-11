@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ombo語
+  - translation_iso: kor
+    name: 옴보어
+    auto: true
   - translation_iso: por
     name: Ombo
     auto: true

@@ -34,6 +34,9 @@ translations:
   - translation_iso: jpn
     name: ネーザーランズ・アンティルズ・クレオール英語
     auto: true
+  - translation_iso: kor
+    name: 버진아일랜드 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo das Ilhas Virgens
   - translation_iso: spa

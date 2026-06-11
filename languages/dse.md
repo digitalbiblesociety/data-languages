@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: دوتش ساين لانجويج
     auto: true
+  - translation_iso: ben
+    name: ওলন্দাজ ইশারা ভাষা
   - translation_iso: deu
     name: Niederländische Gebärdensprache
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: डच सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Belanda
   - translation_iso: jpn
     name: オランダ手話
+  - translation_iso: kor
+    name: 네덜란드 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais neerlandesa
   - translation_iso: spa

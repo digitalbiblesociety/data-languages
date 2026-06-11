@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كياك
     auto: true
+  - translation_iso: ben
+    name: বাম্বুকা
   - translation_iso: deu
     name: Kyak
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キャク語
+    auto: true
+  - translation_iso: kor
+    name: 키아크어
     auto: true
   - translation_iso: por
     name: Língua kyak

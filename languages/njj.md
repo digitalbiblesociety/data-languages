@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンジェン語
     auto: true
+  - translation_iso: kor
+    name: 은젠어
+    auto: true
   - translation_iso: por
     name: Njen
     auto: true

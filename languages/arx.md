@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروا
     auto: true
+  - translation_iso: ben
+    name: আরুয়াশি
   - translation_iso: deu
     name: Aruá (Bundesstaat Rondônia)
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アルア語
     auto: true
+  - translation_iso: kor
+    name: 아루아어
+    auto: true
   - translation_iso: por
     name: Língua aruá
+  - translation_iso: rus
+    name: Аруаши
   - translation_iso: spa
     name: Aruá (estado de Rondonia)
     auto: true

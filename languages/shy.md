@@ -33,6 +33,8 @@ translations:
     name: 샤위야어
   - translation_iso: por
     name: Língua chaouis
+  - translation_iso: rus
+    name: шавия
   - translation_iso: spa
     name: chaoui
   - translation_iso: zho

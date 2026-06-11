@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باجو-كوسونتو
     auto: true
+  - translation_iso: ben
+    name: বাগো-কুসুন্তু
   - translation_iso: deu
     name: Bago-Kusuntu
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バゴ・クスントゥ語
+    auto: true
+  - translation_iso: kor
+    name: 바고쿠순투어
     auto: true
   - translation_iso: por
     name: Bago-Kusuntu

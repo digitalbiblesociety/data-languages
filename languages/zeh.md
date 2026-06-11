@@ -33,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語
+  - translation_iso: kor
+    name: 동부 훙수이허 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Hongshuihe oriental
     auto: true
+  - translation_iso: rus
+    name: Восточный хуншуйхэйский чжуанский язык
   - translation_iso: spa
     name: Zhuang Hongshuihe oriental
   - translation_iso: zho

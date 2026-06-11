@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aghem_language"
 translations:
   - translation_iso: ara
     name: الأغم
+  - translation_iso: ben
+    name: এঘেম
   - translation_iso: deu
     name: Aghem
   - translation_iso: fra
     name: aghem
   - translation_iso: hin
     name: अग्हेम
+  - translation_iso: ind
+    name: Aghem
   - translation_iso: jpn
     name: アゲム語
   - translation_iso: kor
     name: 아그햄어
   - translation_iso: por
     name: aghem
+  - translation_iso: rus
+    name: агем
   - translation_iso: spa
     name: aghem
   - translation_iso: zho

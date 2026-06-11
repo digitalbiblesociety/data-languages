@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kashubian_language"
 translations:
   - translation_iso: ara
     name: الكاشوبية
+  - translation_iso: ben
+    name: কাশুবিয়ান
   - translation_iso: deu
     name: Kaschubisch
   - translation_iso: fra
     name: cachoube
   - translation_iso: hin
     name: काशुबियन
+  - translation_iso: ind
+    name: Kashubia
   - translation_iso: jpn
     name: カシューブ語
   - translation_iso: kor
     name: 카슈브어
   - translation_iso: por
     name: cassúbio
+  - translation_iso: rus
+    name: кашубский
   - translation_iso: spa
     name: casubio
   - translation_iso: zho

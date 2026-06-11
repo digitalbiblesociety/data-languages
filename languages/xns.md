@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: كاناشي
     auto: true
+  - translation_iso: ben
+    name: কানাশী ভাষা
   - translation_iso: deu
     name: Kanashi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: कनाशी भाषा
   - translation_iso: jpn
     name: カナシ語
+    auto: true
+  - translation_iso: kor
+    name: 카나시어
     auto: true
   - translation_iso: por
     name: Kanashi

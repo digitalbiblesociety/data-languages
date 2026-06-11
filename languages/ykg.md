@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: iucaguir setentrional
     auto: true
+  - translation_iso: rus
+    name: северноюкагирский язык
   - translation_iso: spa
     name: yucaguiro septentrional
   - translation_iso: zho

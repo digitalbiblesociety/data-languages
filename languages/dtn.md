@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダーツイン語
     auto: true
+  - translation_iso: kor
+    name: 다친어
+    auto: true
   - translation_iso: por
     name: Daatsʼíin
     auto: true

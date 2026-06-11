@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: デシヤ語
     auto: true
+  - translation_iso: kor
+    name: 데시야어
+    auto: true
   - translation_iso: por
     name: Língua desiya
   - translation_iso: spa

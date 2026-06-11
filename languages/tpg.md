@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कुला
     auto: true
+  - translation_iso: ind
+    name: Kula
   - translation_iso: jpn
     name: タングラプウイ語
+    auto: true
+  - translation_iso: kor
+    name: 쿨라어
     auto: true
   - translation_iso: por
     name: Kula

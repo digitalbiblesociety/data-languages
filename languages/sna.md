@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shona_language"
 translations:
   - translation_iso: ara
     name: لغة الشونا
+  - translation_iso: ben
+    name: শোনা
   - translation_iso: deu
     name: Shona
   - translation_iso: fra
     name: shona
   - translation_iso: hin
     name: शोना भाषा
+  - translation_iso: ind
+    name: Shona
   - translation_iso: jpn
     name: ショナ語
   - translation_iso: kor
     name: 쇼나어
   - translation_iso: por
     name: Língua chona
+  - translation_iso: rus
+    name: шона
   - translation_iso: spa
     name: shona
   - translation_iso: zho

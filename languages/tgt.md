@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグバヌワ語
+  - translation_iso: kor
+    name: 중부 타그반와어
+    auto: true
   - translation_iso: por
     name: Língua central tagbanwa
+  - translation_iso: rus
+    name: тагбанва
   - translation_iso: spa
     name: idioma tagbanuá central
   - translation_iso: zho

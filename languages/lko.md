@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カヨ語
     auto: true
+  - translation_iso: kor
+    name: 카요어
+    auto: true
   - translation_iso: por
     name: Khayo
     auto: true

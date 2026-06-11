@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ユ語
     auto: true
+  - translation_iso: kor
+    name: 주어
+    auto: true
   - translation_iso: por
     name: Ju
     auto: true
+  - translation_iso: rus
+    name: Джу
   - translation_iso: spa
     name: Ju
     auto: true

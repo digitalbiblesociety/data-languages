@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ムアク・サアク語
     auto: true
+  - translation_iso: kor
+    name: 무악 사악어
+    auto: true
   - translation_iso: por
     name: Muak Sa-aak
     auto: true

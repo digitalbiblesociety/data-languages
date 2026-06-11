@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディダン語
+  - translation_iso: kor
+    name: 리샤나 데니어
+    auto: true
   - translation_iso: por
     name: Lishana Deni
     auto: true
+  - translation_iso: rus
+    name: лишана-дени
   - translation_iso: spa
     name: Lishana Deni
     auto: true

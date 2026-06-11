@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أوتو
     auto: true
+  - translation_iso: ben
+    name: এফুতু
   - translation_iso: deu
     name: Awutu
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 아우투어
     auto: true
   - translation_iso: por
     name: Awutu

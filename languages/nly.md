@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニャマル語
     auto: true
+  - translation_iso: kor
+    name: 냐말어
+    auto: true
   - translation_iso: por
     name: Nyamal
     auto: true

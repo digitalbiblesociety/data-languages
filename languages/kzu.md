@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कायुपुलाउ
     auto: true
+  - translation_iso: ind
+    name: Kajupulau
   - translation_iso: jpn
     name: カユプラウ語
+    auto: true
+  - translation_iso: kor
+    name: 카유풀라우어
     auto: true
   - translation_iso: por
     name: Kayupulau

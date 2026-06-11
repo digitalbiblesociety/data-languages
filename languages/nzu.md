@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: テケ・ンジコウ語
     auto: true
+  - translation_iso: kor
+    name: 테케은지쿠어
+    auto: true
   - translation_iso: por
     name: Teke-Nzikou
     auto: true

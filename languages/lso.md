@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: लाओस सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Laos
   - translation_iso: jpn
     name: ラオス手話
+  - translation_iso: kor
+    name: 라오스 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Laos
   - translation_iso: spa

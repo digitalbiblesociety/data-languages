@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Uru
     auto: true
+  - translation_iso: rus
+    name: Уру
   - translation_iso: spa
     name: idioma uru
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムラハ語
     auto: true
+  - translation_iso: kor
+    name: 물라하어
+    auto: true
   - translation_iso: por
     name: Mulaha
     auto: true

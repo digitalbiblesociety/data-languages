@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: सेलारू
     auto: true
+  - translation_iso: ind
+    name: Selaru
   - translation_iso: jpn
     name: サラル語
+    auto: true
+  - translation_iso: kor
+    name: 셀라루어
     auto: true
   - translation_iso: por
     name: Selaru

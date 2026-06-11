@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيرينومو
     auto: true
+  - translation_iso: ben
+    name: বেরিনোমো
   - translation_iso: deu
     name: Berinomo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベリノモ語
+    auto: true
+  - translation_iso: kor
+    name: 베리노모어
     auto: true
   - translation_iso: por
     name: Berinomo

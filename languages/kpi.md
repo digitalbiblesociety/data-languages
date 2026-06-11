@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोफेई
     auto: true
+  - translation_iso: ind
+    name: Kofei
   - translation_iso: jpn
     name: コフェイ語
+    auto: true
+  - translation_iso: kor
+    name: 코페이어
     auto: true
   - translation_iso: por
     name: Kofei

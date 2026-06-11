@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: パエリグニア語
     auto: true
+  - translation_iso: kor
+    name: 파엘리그니어
+    auto: true
   - translation_iso: por
     name: Peligno
     auto: true

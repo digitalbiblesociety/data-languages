@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブユ語
     auto: true
+  - translation_iso: kor
+    name: 부유어
+    auto: true
   - translation_iso: por
     name: Buyu
     auto: true

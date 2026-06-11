@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ハン語
     auto: true
+  - translation_iso: kor
+    name: 한어
+    auto: true
   - translation_iso: por
     name: Língua hän
+  - translation_iso: rus
+    name: хан
   - translation_iso: spa
     name: Idioma hän
   - translation_iso: zho

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部チャン語
+  - translation_iso: kor
+    name: 남부 창어
+    auto: true
   - translation_iso: por
     name: Língua qiang do sul
+  - translation_iso: rus
+    name: южноцянский язык
   - translation_iso: spa
     name: Qiang meridional
     auto: true

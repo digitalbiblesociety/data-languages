@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: フェルナンド・ポー・クレオール英語
     auto: true
+  - translation_iso: kor
+    name: 페르난도포 크리올 영어
+    auto: true
   - translation_iso: por
     name: Língua crioula de Bioco
+  - translation_iso: rus
+    name: Фернандо-по (диалект)
   - translation_iso: spa
     name: pichinglis
   - translation_iso: zho

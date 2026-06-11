@@ -30,6 +30,8 @@ translations:
   - translation_iso: hin
     name: इवातान
     auto: true
+  - translation_iso: ind
+    name: bahasa Ivatan
   - translation_iso: jpn
     name: イヴァタン語
   - translation_iso: kor

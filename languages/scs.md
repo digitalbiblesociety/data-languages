@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北スレイビー語
+  - translation_iso: kor
+    name: 북부 슬레이비어
+    auto: true
   - translation_iso: por
     name: Slavey Setentrional
     auto: true

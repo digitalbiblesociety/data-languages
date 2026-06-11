@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロマノヴァ
+  - translation_iso: kor
+    name: 로마노바어
+    auto: true
   - translation_iso: por
     name: Romanova
     auto: true
+  - translation_iso: rus
+    name: Рома-нова
   - translation_iso: spa
     name: Romanova
     auto: true

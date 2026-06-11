@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミリティ語
     auto: true
+  - translation_iso: kor
+    name: 미리티어
+    auto: true
   - translation_iso: por
     name: Miriti
     auto: true
+  - translation_iso: rus
+    name: Мирити
   - translation_iso: spa
     name: Miriti
     auto: true

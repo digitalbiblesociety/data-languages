@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: アミ語
     auto: true
+  - translation_iso: kor
+    name: 아미어
+    auto: true
   - translation_iso: por
     name: Ami
     auto: true
+  - translation_iso: rus
+    name: ами
   - translation_iso: spa
     name: Ami
     auto: true

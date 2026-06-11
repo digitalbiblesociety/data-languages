@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クワメラ語
     auto: true
+  - translation_iso: kor
+    name: 콰메라어
+    auto: true
   - translation_iso: por
     name: Kwamera
     auto: true

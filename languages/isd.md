@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: इसनाग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isnag
   - translation_iso: jpn
     name: イスナグ語
+    auto: true
+  - translation_iso: kor
+    name: 이스나그어
     auto: true
   - translation_iso: por
     name: Língua isnag

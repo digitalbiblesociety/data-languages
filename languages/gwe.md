@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グウェノ語
+  - translation_iso: kor
+    name: 그웨노어
+    auto: true
   - translation_iso: por
     name: Gweno
     auto: true

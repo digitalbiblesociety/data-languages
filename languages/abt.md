@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبولاس
     auto: true
+  - translation_iso: ben
+    name: আবেলাম
   - translation_iso: deu
     name: Ambulas
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アベラム語
+  - translation_iso: kor
+    name: 암불라스어
+    auto: true
   - translation_iso: por
     name: Ambulas
     auto: true
+  - translation_iso: rus
+    name: Абелам (язык)
   - translation_iso: spa
     name: Idioma ambulas
   - translation_iso: zho

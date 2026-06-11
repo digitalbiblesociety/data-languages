@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البولندية
     auto: true
+  - translation_iso: ben
+    name: পোলীয় ইশারা ভাষা
   - translation_iso: deu
     name: Polnische Gebärdensprache
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーランド手話
+  - translation_iso: kor
+    name: 폴란드 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Polonesa
     auto: true
+  - translation_iso: rus
+    name: польский жестовый язык
   - translation_iso: spa
     name: Lengua de señas polaca
     auto: true

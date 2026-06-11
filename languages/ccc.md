@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャミクロ語
+  - translation_iso: kor
+    name: 차미쿠로어
+    auto: true
   - translation_iso: por
     name: chamicuro
+  - translation_iso: rus
+    name: Чамикуро
   - translation_iso: spa
     name: chamicuro
   - translation_iso: zho

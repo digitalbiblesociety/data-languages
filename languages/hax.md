@@ -20,18 +20,24 @@ wikidata_id: Q12953543
 translations:
   - translation_iso: ara
     name: هايدا الجنوبية
+  - translation_iso: ben
+    name: দক্ষিণী হায়দা
   - translation_iso: deu
     name: Süd-Haida
   - translation_iso: fra
     name: haïda du Sud
   - translation_iso: hin
     name: दक्षिणी हाइदा
+  - translation_iso: ind
+    name: Haida Selatan
   - translation_iso: jpn
     name: 南部ハイダ語
   - translation_iso: kor
     name: 남부 하이다어
   - translation_iso: por
     name: haida do sul
+  - translation_iso: rus
+    name: южный хайда
   - translation_iso: spa
     name: haida meridional
   - translation_iso: zho

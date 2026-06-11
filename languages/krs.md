@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガバヤ語
     auto: true
+  - translation_iso: kor
+    name: 그바야어
+    auto: true
   - translation_iso: por
     name: Gbaya (Sudão)
     auto: true

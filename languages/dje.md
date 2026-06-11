@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zarma_language"
 translations:
   - translation_iso: ara
     name: لغة زرمة
+  - translation_iso: ben
+    name: জার্মা
   - translation_iso: deu
     name: Zarma
   - translation_iso: fra
     name: zarma
   - translation_iso: hin
     name: झार्मा
+  - translation_iso: ind
+    name: Zarma
   - translation_iso: jpn
     name: ザルマ語
   - translation_iso: kor
     name: 자르마어
   - translation_iso: por
     name: Língua zarma
+  - translation_iso: rus
+    name: джерма
   - translation_iso: spa
     name: Idioma zarma
   - translation_iso: zho

@@ -27,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: ロマーノセルビア語
     auto: true
+  - translation_iso: kor
+    name: 로마노세르비아어
+    auto: true
   - translation_iso: por
     name: Romano-Sérvio
     auto: true
+  - translation_iso: rus
+    name: цыгано-сербский язык
   - translation_iso: spa
     name: Romaní serbio
     auto: true

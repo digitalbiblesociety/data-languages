@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ジュルナ語
     auto: true
+  - translation_iso: kor
+    name: 주루나어
+    auto: true
   - translation_iso: por
     name: língua juruna
+  - translation_iso: rus
+    name: Юруна
   - translation_iso: spa
     name: yuruna
   - translation_iso: zho

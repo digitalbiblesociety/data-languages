@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفوكايا
     auto: true
+  - translation_iso: ben
+    name: আভোকায়া
   - translation_iso: deu
     name: Avokaya
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヴォカヤ語
+    auto: true
+  - translation_iso: kor
+    name: 아보카야어
     auto: true
   - translation_iso: por
     name: Língua avokaya

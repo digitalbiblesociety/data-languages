@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北西グバヤ語
+  - translation_iso: kor
+    name: 북서 그바야어
+    auto: true
   - translation_iso: por
     name: Gbaya do Noroeste
     auto: true
+  - translation_iso: rus
+    name: северо-западный гбайя
   - translation_iso: spa
     name: Gbaya del Noroeste
     auto: true

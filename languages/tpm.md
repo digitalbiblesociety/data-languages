@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンプルマ
+  - translation_iso: kor
+    name: 탐풀마어
+    auto: true
   - translation_iso: por
     name: Tampulma
     auto: true

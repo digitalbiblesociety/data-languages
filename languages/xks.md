@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुम्बेवाहा
     auto: true
+  - translation_iso: ind
+    name: Kumbewaha
   - translation_iso: jpn
     name: クンベワハ語
+    auto: true
+  - translation_iso: kor
+    name: 쿰베와하어
     auto: true
   - translation_iso: por
     name: Kumbewaha

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باوني
     auto: true
+  - translation_iso: ben
+    name: বাউনি
   - translation_iso: deu
     name: Bauni
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウニ語
+    auto: true
+  - translation_iso: kor
+    name: 바우니어
     auto: true
   - translation_iso: por
     name: Bauni

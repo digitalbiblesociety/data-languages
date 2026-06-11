@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロムクン語
     auto: true
+  - translation_iso: kor
+    name: 롬쿤어
+    auto: true
   - translation_iso: por
     name: Romkun
     auto: true

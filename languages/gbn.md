@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モダ語
     auto: true
+  - translation_iso: kor
+    name: 모다어
+    auto: true
   - translation_iso: por
     name: "Mo'da"
     auto: true

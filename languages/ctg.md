@@ -20,12 +20,16 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chittagonian_language"
 translations:
   - translation_iso: ara
     name: لهجة جاتجامية
+  - translation_iso: ben
+    name: চাটগাঁইয়া
   - translation_iso: deu
     name: Chittagonisch
   - translation_iso: fra
     name: chittagonien
   - translation_iso: hin
     name: चटगाँवी बोली
+  - translation_iso: ind
+    name: bahasa Chittagong
   - translation_iso: jpn
     name: チッタゴン語
   - translation_iso: kor

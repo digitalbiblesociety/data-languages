@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मुख्यधारा केन्या
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kenyah Kelinyau
   - translation_iso: jpn
     name: メインストリーム・ケニャ語
+    auto: true
+  - translation_iso: kor
+    name: 주류 켄야어
     auto: true
   - translation_iso: por
     name: Kenyah Convencional

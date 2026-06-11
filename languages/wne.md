@@ -35,6 +35,8 @@ translations:
     name: 와네치어
   - translation_iso: por
     name: Wanetsi
+  - translation_iso: rus
+    name: ванеци
   - translation_iso: spa
     name: Waneci
     auto: true

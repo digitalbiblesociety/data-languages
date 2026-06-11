@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: バルムバル語
     auto: true
+  - translation_iso: kor
+    name: 부름바르어
+    auto: true
   - translation_iso: por
     name: Burmbar
     auto: true

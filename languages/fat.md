@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fante_dialect"
 translations:
   - translation_iso: ara
     name: الفانتية
+  - translation_iso: ben
+    name: ফান্তি
   - translation_iso: deu
     name: Fante
   - translation_iso: fra
     name: fanti
   - translation_iso: hin
     name: फन्टी
+  - translation_iso: ind
+    name: Fanti
   - translation_iso: jpn
     name: ファンティ語
   - translation_iso: kor
     name: 판티어
   - translation_iso: por
     name: Língua fanti
+  - translation_iso: rus
+    name: фанти
   - translation_iso: spa
     name: lengua fante
   - translation_iso: zho

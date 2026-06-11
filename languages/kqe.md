@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カラガン語
     auto: true
+  - translation_iso: kor
+    name: 칼라간어
+    auto: true
   - translation_iso: por
     name: Kalagan
     auto: true

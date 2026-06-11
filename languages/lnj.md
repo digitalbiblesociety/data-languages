@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レニンギティジ語
     auto: true
+  - translation_iso: kor
+    name: 레닝기티지어
+    auto: true
   - translation_iso: por
     name: Leningitij
     auto: true

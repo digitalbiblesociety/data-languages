@@ -24,12 +24,16 @@ translations:
   - translation_iso: hin
     name: बिराले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ongota
   - translation_iso: jpn
     name: オンゴタ語
   - translation_iso: kor
     name: 옹고타어
   - translation_iso: por
     name: Língua ongota
+  - translation_iso: rus
+    name: онгота
   - translation_iso: spa
     name: Idioma ongota
   - translation_iso: zho

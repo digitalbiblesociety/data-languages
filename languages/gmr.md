@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ミルニング語
     auto: true
+  - translation_iso: kor
+    name: 미르닝어
+    auto: true
   - translation_iso: por
     name: Mirning
     auto: true

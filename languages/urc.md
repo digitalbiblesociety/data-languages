@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンゲール語
     auto: true
+  - translation_iso: kor
+    name: 우르닝강어
+    auto: true
   - translation_iso: por
     name: Urningangg
     auto: true

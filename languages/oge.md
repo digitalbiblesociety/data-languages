@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: प्राचीन जॉर्जियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Georgia Kuno
   - translation_iso: jpn
     name: 古ジョージア語
   - translation_iso: kor
     name: 고대 조지아어
   - translation_iso: por
     name: Língua georgiana antiga
+  - translation_iso: rus
+    name: древнегрузинский язык
   - translation_iso: spa
     name: georgiano antiguo
   - translation_iso: zho

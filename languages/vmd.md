@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コラッグ語
     auto: true
+  - translation_iso: kor
+    name: 무두 코라가어
+    auto: true
   - translation_iso: por
     name: Mudu Koraga
     auto: true

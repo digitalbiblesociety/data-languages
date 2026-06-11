@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gun_language"
 translations:
   - translation_iso: ara
     name: لغة جن
+  - translation_iso: ben
+    name: গুন ভাষা
   - translation_iso: deu
     name: Gun
   - translation_iso: fra
@@ -29,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グン語
+  - translation_iso: kor
+    name: 군어
+    auto: true
   - translation_iso: por
     name: Gun
     auto: true
+  - translation_iso: rus
+    name: гун
   - translation_iso: spa
     name: Idioma Gungbe
   - translation_iso: zho

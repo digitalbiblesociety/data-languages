@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンザ語
+  - translation_iso: kor
+    name: 진자어
+    auto: true
   - translation_iso: por
     name: Língua zinza
+  - translation_iso: rus
+    name: Зинза
   - translation_iso: spa
     name: Zinza
     auto: true

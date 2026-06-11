@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムボンノ語
     auto: true
+  - translation_iso: kor
+    name: 음봉노어
+    auto: true
   - translation_iso: por
     name: Mbongno
     auto: true

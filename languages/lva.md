@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: माकुआ
     auto: true
+  - translation_iso: ind
+    name: "Maku'a"
   - translation_iso: jpn
     name: マクヴァ語
+  - translation_iso: kor
+    name: 마쿠아어
+    auto: true
   - translation_iso: por
     name: "Maku'a"
     auto: true

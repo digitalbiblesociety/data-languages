@@ -21,16 +21,25 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الروسية
     auto: true
+  - translation_iso: ben
+    name: রুশ ইশারা ভাষা
   - translation_iso: deu
     name: russische Gebärdensprache
   - translation_iso: fra
     name: langue des signes russe
   - translation_iso: hin
     name: रूसी सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Rusia
   - translation_iso: jpn
     name: ロシア手話
+  - translation_iso: kor
+    name: 러시아 수어
+    auto: true
   - translation_iso: por
     name: Língua gestual russa
+  - translation_iso: rus
+    name: русский жестовый язык
   - translation_iso: spa
     name: lengua de señas de Rusia
   - translation_iso: zho

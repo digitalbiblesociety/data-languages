@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإسي إجا
     auto: true
+  - translation_iso: ben
+    name: এসে এহা ভাষা
   - translation_iso: deu
     name: Ese Eja Sprache
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エセエハ語
+  - translation_iso: kor
+    name: 에세에하어
+    auto: true
   - translation_iso: por
     name: Língua ese ejja
+  - translation_iso: rus
+    name: Эсе-эхха
   - translation_iso: spa
     name: idioma ese eja
   - translation_iso: zho

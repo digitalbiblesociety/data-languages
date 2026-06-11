@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: निंबोरान
     auto: true
+  - translation_iso: ind
+    name: Namblong
   - translation_iso: jpn
     name: ニンボラン語
+    auto: true
+  - translation_iso: kor
+    name: 님보란어
     auto: true
   - translation_iso: por
     name: Nimboran

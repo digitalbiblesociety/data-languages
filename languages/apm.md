@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリカワ語
+  - translation_iso: kor
+    name: 메스칼레로·치리카후아 아파치어
+    auto: true
   - translation_iso: por
     name: mescalero-chiricahua
+  - translation_iso: rus
+    name: Мескалеро-чирикауанский апаче
   - translation_iso: spa
     name: chiricahua
   - translation_iso: zho

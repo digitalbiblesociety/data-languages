@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: キアビクザス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 키아비쿠사스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Quiavicuzas
     auto: true
+  - translation_iso: rus
+    name: Киавикусасский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Quiavicuzas
     auto: true

@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: डोंडो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dondo
   - translation_iso: jpn
     name: ドンド語
+    auto: true
+  - translation_iso: kor
+    name: 돈도어
     auto: true
   - translation_iso: por
     name: Dondo

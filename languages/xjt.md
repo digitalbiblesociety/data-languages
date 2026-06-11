@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャイトマタン語
     auto: true
+  - translation_iso: kor
+    name: 자이트마탕어
+    auto: true
   - translation_iso: por
     name: Jaitmatang
     auto: true

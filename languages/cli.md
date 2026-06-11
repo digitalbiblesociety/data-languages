@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: チャカリ語
     auto: true
+  - translation_iso: kor
+    name: 차칼리어
+    auto: true
   - translation_iso: por
     name: Chakali
     auto: true

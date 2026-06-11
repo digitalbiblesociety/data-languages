@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サンパン語
     auto: true
+  - translation_iso: kor
+    name: 삼팡어
+    auto: true
   - translation_iso: por
     name: Sampang
     auto: true

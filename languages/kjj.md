@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: ख़िनालुग़
     auto: true
+  - translation_iso: ind
+    name: bahasa Khinalug
   - translation_iso: jpn
     name: ヒナルク語
   - translation_iso: kor
     name: 히날루그어
   - translation_iso: por
     name: Língua khinalug
+  - translation_iso: rus
+    name: хиналугский язык
   - translation_iso: spa
     name: Idioma khinalug
   - translation_iso: zho

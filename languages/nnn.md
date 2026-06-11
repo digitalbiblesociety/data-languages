@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングエテ語
     auto: true
+  - translation_iso: kor
+    name: 응게테어
+    auto: true
   - translation_iso: por
     name: Ngete
     auto: true

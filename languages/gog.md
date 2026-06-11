@@ -30,6 +30,9 @@ translations:
     name: गोगो भाषा
   - translation_iso: jpn
     name: ゴゴ語
+  - translation_iso: kor
+    name: 고고어
+    auto: true
   - translation_iso: por
     name: Língua gogo
   - translation_iso: spa

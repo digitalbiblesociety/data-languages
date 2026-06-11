@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラコンデ語
     auto: true
+  - translation_iso: kor
+    name: 라콘데어
+    auto: true
   - translation_iso: por
     name: Língua lakondê
   - translation_iso: spa

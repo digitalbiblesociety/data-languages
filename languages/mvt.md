@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムポトヴォロ語
     auto: true
+  - translation_iso: kor
+    name: 음포토보로어
+    auto: true
   - translation_iso: por
     name: Mpotovoro
     auto: true
+  - translation_iso: rus
+    name: Мпотоворо
   - translation_iso: spa
     name: Mpotovoro
     auto: true

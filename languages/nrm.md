@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナロム語
     auto: true
+  - translation_iso: kor
+    name: 나롬어
+    auto: true
   - translation_iso: por
     name: narom
   - translation_iso: spa

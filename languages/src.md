@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ログドーロ・サルデーニャ語
+  - translation_iso: kor
+    name: 로구도로 사르데냐어
+    auto: true
   - translation_iso: por
     name: Sardo Logudorês
     auto: true
+  - translation_iso: rus
+    name: логудорский диалект
   - translation_iso: spa
     name: Sardo logudorés
     auto: true

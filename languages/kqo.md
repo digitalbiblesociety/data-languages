@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・クラーン語
     auto: true
+  - translation_iso: kor
+    name: 동부 크란어
+    auto: true
   - translation_iso: por
     name: Krahn oriental
     auto: true

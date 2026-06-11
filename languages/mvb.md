@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: マットレ語
     auto: true
+  - translation_iso: kor
+    name: 마톨어
+    auto: true
   - translation_iso: por
     name: Mattole
     auto: true
+  - translation_iso: rus
+    name: Маттол
   - translation_iso: spa
     name: mattole
   - translation_iso: zho

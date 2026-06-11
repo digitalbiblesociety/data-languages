@@ -31,11 +31,18 @@ translations:
   - translation_iso: hin
     name: उत्तरी मोलुक्कन मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Maluku Utara
   - translation_iso: jpn
     name: 北モルッカ・マレー語
+  - translation_iso: kor
+    name: 북말루쿠 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio das Molucas do Norte
     auto: true
+  - translation_iso: rus
+    name: Северо-молуккский малайский язык
   - translation_iso: spa
     name: Malayo del norte de las Molucas
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キワイ語
     auto: true
+  - translation_iso: kor
+    name: 남부 키와이어
+    auto: true
   - translation_iso: por
     name: Kiwai do Sul
     auto: true

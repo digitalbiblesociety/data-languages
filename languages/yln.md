@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラングニアン・ブヤン語
     auto: true
+  - translation_iso: kor
+    name: 랑녠 부양어
+    auto: true
   - translation_iso: por
     name: buyang langnian
     auto: true

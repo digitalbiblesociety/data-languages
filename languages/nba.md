@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニエンバ語
     auto: true
+  - translation_iso: kor
+    name: 니엠바어
+    auto: true
   - translation_iso: por
     name: Nyemba
     auto: true

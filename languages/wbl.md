@@ -21,18 +21,24 @@ translations:
   - translation_iso: ara
     name: واخي
     auto: true
+  - translation_iso: ben
+    name: ওয়াখি ভাষা
   - translation_iso: deu
     name: Wakhi
   - translation_iso: fra
     name: wakhi
   - translation_iso: hin
     name: वख़ी
+  - translation_iso: ind
+    name: Bahasa Wakhi
   - translation_iso: jpn
     name: ワヒ語
   - translation_iso: kor
     name: 와히어
   - translation_iso: por
     name: Língua wakhi
+  - translation_iso: rus
+    name: ваханский язык
   - translation_iso: spa
     name: wají
   - translation_iso: zho

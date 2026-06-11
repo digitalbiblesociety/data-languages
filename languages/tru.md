@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तुरोयो
     auto: true
+  - translation_iso: ind
+    name: Turoyo
   - translation_iso: jpn
     name: トゥロヨ語
   - translation_iso: kor
     name: 투로요어
   - translation_iso: por
     name: turoyo
+  - translation_iso: rus
+    name: туройо
   - translation_iso: spa
     name: turoyo
   - translation_iso: zho

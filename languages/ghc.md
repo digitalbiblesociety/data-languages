@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ハイベルノ・スコティッシュゲール語
     auto: true
+  - translation_iso: kor
+    name: 하이버노·스코틀랜드 게일어
+    auto: true
   - translation_iso: por
     name: gaélico hiberno-escocês
     auto: true

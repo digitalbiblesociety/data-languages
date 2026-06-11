@@ -34,6 +34,8 @@ translations:
     name: 흐와르시어
   - translation_iso: por
     name: Língua khwarshi
+  - translation_iso: rus
+    name: хваршинский язык
   - translation_iso: spa
     name: jvarshi
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソンゴメーノ語
     auto: true
+  - translation_iso: kor
+    name: 송고메노어
+    auto: true
   - translation_iso: por
     name: Songomeno
     auto: true

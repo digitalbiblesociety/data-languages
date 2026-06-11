@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマユラ語
+  - translation_iso: kor
+    name: 카마유라어
+    auto: true
   - translation_iso: por
     name: Língua camaiurá
+  - translation_iso: rus
+    name: Камаюра
   - translation_iso: spa
     name: Kamayurá
     auto: true

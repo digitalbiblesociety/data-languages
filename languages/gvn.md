@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クク・ヤラニ語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠얄란지어
+    auto: true
   - translation_iso: por
     name: Língua guugu yalandji
   - translation_iso: spa

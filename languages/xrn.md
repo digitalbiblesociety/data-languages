@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: آرين
     auto: true
+  - translation_iso: ben
+    name: আরিন ভাষা
   - translation_iso: deu
     name: Arin
     auto: true
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Arin
     auto: true
+  - translation_iso: rus
+    name: аринский язык
   - translation_iso: spa
     name: Arin
     auto: true

@@ -31,6 +31,8 @@ translations:
     name: 와오라니어
   - translation_iso: por
     name: Língua huaorani
+  - translation_iso: rus
+    name: уаорани
   - translation_iso: spa
     name: idioma huaorani
   - translation_iso: zho

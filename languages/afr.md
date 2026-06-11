@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afrikaans"
 translations:
   - translation_iso: ara
     name: الأفريقانية
+  - translation_iso: ben
+    name: আফ্রিকান
   - translation_iso: deu
     name: Afrikaans
   - translation_iso: fra
     name: afrikaans
   - translation_iso: hin
     name: अफ़्रीकाँस भाषा
+  - translation_iso: ind
+    name: Afrikaans
   - translation_iso: jpn
     name: アフリカーンス語
   - translation_iso: kor
     name: 아프리칸스어
   - translation_iso: por
     name: língua africâner
+  - translation_iso: rus
+    name: африкаанс
   - translation_iso: spa
     name: afrikáans
   - translation_iso: zho

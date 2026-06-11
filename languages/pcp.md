@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パカワラ語
     auto: true
+  - translation_iso: kor
+    name: 파카와라어
+    auto: true
   - translation_iso: por
     name: Pacahuara
     auto: true
+  - translation_iso: rus
+    name: Пакауара
   - translation_iso: spa
     name: idioma pacahuara
   - translation_iso: zho

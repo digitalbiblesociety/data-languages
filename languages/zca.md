@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: コアテカス・アルタス・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 코아테카스 알타스 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Coatecas Altas
     auto: true
+  - translation_iso: rus
+    name: Коатекас-альтасский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Coatecas Altas
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_language"
 translations:
   - translation_iso: ara
     name: الرومانية
+  - translation_iso: ben
+    name: রোমানীয়
   - translation_iso: deu
     name: Rumänisch
   - translation_iso: fra
     name: roumain
   - translation_iso: hin
     name: रोमानियाई भाषा
+  - translation_iso: ind
+    name: Rumania
   - translation_iso: jpn
     name: ルーマニア語
   - translation_iso: kor
     name: 루마니아어
   - translation_iso: por
     name: língua romena
+  - translation_iso: rus
+    name: румынский
   - translation_iso: spa
     name: rumano
   - translation_iso: zho

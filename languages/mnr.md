@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モーノー語
+  - translation_iso: kor
+    name: 모노어
+    auto: true
   - translation_iso: por
     name: Língua mono
+  - translation_iso: rus
+    name: Моно
   - translation_iso: spa
     name: Idioma mono
   - translation_iso: zho

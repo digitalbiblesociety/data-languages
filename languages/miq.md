@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मिस्कितो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Miskito
   - translation_iso: jpn
     name: ミスキート語
   - translation_iso: kor
     name: 미스키토어
   - translation_iso: por
     name: Língua misquita
+  - translation_iso: rus
+    name: Мискито
   - translation_iso: spa
     name: idioma misquito
   - translation_iso: zho

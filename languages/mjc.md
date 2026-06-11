@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンフアン・コロラド・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 산후안콜로라도 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de San Juan Colorado
     auto: true

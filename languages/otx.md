@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テクスカテペック・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 텍스카테페크 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Texcatepec
     auto: true

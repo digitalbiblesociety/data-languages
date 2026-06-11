@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レハル語
     auto: true
+  - translation_iso: kor
+    name: 레하르어
+    auto: true
   - translation_iso: por
     name: Língua laalaa
   - translation_iso: spa

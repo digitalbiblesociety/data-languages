@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バジャウ語
     auto: true
+  - translation_iso: kor
+    name: 중부 사마어
+    auto: true
   - translation_iso: por
     name: Sama Central
     auto: true

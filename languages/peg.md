@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينغو
     auto: true
+  - translation_iso: ben
+    name: পেংগো ভাষা
   - translation_iso: deu
     name: Pengo
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: पेंगो भाषा
   - translation_iso: jpn
     name: ペンゴ語
+  - translation_iso: kor
+    name: 펭고어
+    auto: true
   - translation_iso: por
     name: Pengo
     auto: true
+  - translation_iso: rus
+    name: Пенго
   - translation_iso: spa
     name: Pengo
     auto: true

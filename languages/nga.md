@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングバカ・バヤ語
+  - translation_iso: kor
+    name: 응바카어
+    auto: true
   - translation_iso: por
     name: Ngbaka
     auto: true
+  - translation_iso: rus
+    name: Нгбака
   - translation_iso: spa
     name: Ngbaka
     auto: true

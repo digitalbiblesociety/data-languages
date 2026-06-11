@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लेवुका
     auto: true
+  - translation_iso: ind
+    name: Levuka
   - translation_iso: jpn
     name: レブカ語
+    auto: true
+  - translation_iso: kor
+    name: 레부카어
     auto: true
   - translation_iso: por
     name: Levuka

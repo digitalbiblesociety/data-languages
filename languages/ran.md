@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रिआंताना
     auto: true
+  - translation_iso: ind
+    name: Riantana
   - translation_iso: jpn
     name: リアンタナ語
+    auto: true
+  - translation_iso: kor
+    name: 리안타나어
     auto: true
   - translation_iso: por
     name: Riantana

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギリマ語
     auto: true
+  - translation_iso: kor
+    name: 길리마어
+    auto: true
   - translation_iso: por
     name: Gilima
     auto: true

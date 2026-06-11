@@ -35,6 +35,8 @@ translations:
     name: 네기달어
   - translation_iso: por
     name: Língua negidal
+  - translation_iso: rus
+    name: негидальский язык
   - translation_iso: spa
     name: Negidal
     auto: true

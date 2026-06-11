@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シシプ語
     auto: true
+  - translation_iso: kor
+    name: 치치푸어
+    auto: true
   - translation_iso: por
     name: Língua cipo
   - translation_iso: spa

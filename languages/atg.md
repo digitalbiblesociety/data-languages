@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イヴビエ北オクペラアーエ語
     auto: true
+  - translation_iso: kor
+    name: 북이브비에·오크펠라·아르헤어
+    auto: true
   - translation_iso: por
     name: Ivbie North-Okpela-Arhe
     auto: true

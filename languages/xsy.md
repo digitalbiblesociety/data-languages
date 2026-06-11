@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: साइसियात
     auto: true
+  - translation_iso: ind
+    name: Saisiyat
   - translation_iso: jpn
     name: サイシャット語
+  - translation_iso: kor
+    name: 사이시야트어
+    auto: true
   - translation_iso: por
     name: Língua saisiyat
+  - translation_iso: rus
+    name: сайсият
   - translation_iso: spa
     name: Idioma saisiyat
   - translation_iso: zho

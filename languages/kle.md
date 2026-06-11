@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كولونج
     auto: true
+  - translation_iso: ben
+    name: কুলুঙ ভাষা
   - translation_iso: deu
     name: Kulung (Nepal)
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: クルン語
     auto: true
+  - translation_iso: kor
+    name: 쿨룽어
+    auto: true
   - translation_iso: por
     name: Kulung (Nepal)
     auto: true
+  - translation_iso: rus
+    name: кулунгский язык
   - translation_iso: spa
     name: Kulung (Nepal)
     auto: true

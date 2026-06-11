@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: याकाइकेके
     auto: true
+  - translation_iso: ind
+    name: Yakai
   - translation_iso: jpn
     name: ヤカイケケ語
+    auto: true
+  - translation_iso: kor
+    name: 야카이케케어
     auto: true
   - translation_iso: por
     name: yakaikeke

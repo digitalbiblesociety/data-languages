@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awjila_language"
 translations:
   - translation_iso: ara
     name: الأوجلية
+  - translation_iso: ben
+    name: আওজিলা
   - translation_iso: deu
     name: Awjilah
     auto: true
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウジラ語
+  - translation_iso: kor
+    name: 아우질라어
+    auto: true
   - translation_iso: por
     name: Awjilah
     auto: true
+  - translation_iso: rus
+    name: Ауджила
   - translation_iso: spa
     name: awjila
   - translation_iso: zho

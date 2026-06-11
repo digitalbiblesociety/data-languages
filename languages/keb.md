@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケレ語
+  - translation_iso: kor
+    name: 켈레어
+    auto: true
   - translation_iso: por
     name: Kélé
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オロハ語
     auto: true
+  - translation_iso: kor
+    name: 오로하어
+    auto: true
   - translation_iso: por
     name: Oroha
     auto: true

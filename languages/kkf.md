@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カラクタン・モンパ語
     auto: true
+  - translation_iso: kor
+    name: 칼라크탕 몬파어
+    auto: true
   - translation_iso: por
     name: Monpa de Kalaktang
     auto: true

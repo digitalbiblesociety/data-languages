@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナグプリ語
     auto: true
+  - translation_iso: kor
+    name: 오라온 사드리어
+    auto: true
   - translation_iso: por
     name: Sadri Oraon
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オルラット語
     auto: true
+  - translation_iso: kor
+    name: 올라트어
+    auto: true
   - translation_iso: por
     name: Olrat
     auto: true

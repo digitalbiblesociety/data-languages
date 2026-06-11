@@ -34,6 +34,8 @@ translations:
     name: 부두흐어
   - translation_iso: por
     name: Língua budukh
+  - translation_iso: rus
+    name: Будухский язык
   - translation_iso: spa
     name: Idioma buduj
   - translation_iso: zho

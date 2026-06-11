@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンガマラ語
     auto: true
+  - translation_iso: kor
+    name: 왕가말라어
+    auto: true
   - translation_iso: por
     name: Wanggamala
     auto: true

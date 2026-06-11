@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة جوانغ
     auto: true
+  - translation_iso: ben
+    name: জুয়াং ভাষা
   - translation_iso: deu
     name: Juang
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 주앙
   - translation_iso: por
     name: Língua juang
+  - translation_iso: rus
+    name: джуанг
   - translation_iso: spa
     name: Juang
     auto: true

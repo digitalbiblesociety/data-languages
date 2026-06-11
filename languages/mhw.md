@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムブクシュ語
+  - translation_iso: kor
+    name: 음부쿠슈어
+    auto: true
   - translation_iso: por
     name: Língua mbukushu
   - translation_iso: spa

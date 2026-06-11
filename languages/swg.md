@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: स्वाबियन
     auto: true
+  - translation_iso: ind
+    name: Swabia Jerman
   - translation_iso: jpn
     name: シュヴァーベン語
   - translation_iso: kor
     name: 슈바벤어
   - translation_iso: por
     name: alemão suábio
+  - translation_iso: rus
+    name: Швабский диалект
   - translation_iso: spa
     name: suabo
   - translation_iso: zho

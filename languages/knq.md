@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: किंताक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kintaq
   - translation_iso: jpn
     name: キンタク語
+    auto: true
+  - translation_iso: kor
+    name: 킨탁어
     auto: true
   - translation_iso: por
     name: Kintaq

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラジャ・カブンスワン・マノボ語
     auto: true
+  - translation_iso: kor
+    name: 라자카분수완 마노보어
+    auto: true
   - translation_iso: por
     name: manobo de Rajah Kabunsuwan
     auto: true

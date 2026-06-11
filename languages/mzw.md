@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: デグ語
     auto: true
+  - translation_iso: kor
+    name: 데그어
+    auto: true
   - translation_iso: por
     name: Deg
     auto: true
+  - translation_iso: rus
+    name: Дег
   - translation_iso: spa
     name: Deg
     auto: true

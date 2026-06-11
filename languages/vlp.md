@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヴァルペイ語
     auto: true
+  - translation_iso: kor
+    name: 발페이어
+    auto: true
   - translation_iso: por
     name: Valpei
     auto: true
+  - translation_iso: rus
+    name: Валпей
   - translation_iso: spa
     name: Valpei
     auto: true

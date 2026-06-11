@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آفا-كانويرو
     auto: true
+  - translation_iso: ben
+    name: আভা-কানোইরো
   - translation_iso: deu
     name: Avá-Canoeiro
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アヴァ・カノエイロ語
     auto: true
+  - translation_iso: kor
+    name: 아바·카노에이루어
+    auto: true
   - translation_iso: por
     name: Língua avá-canoeira
+  - translation_iso: rus
+    name: Ава-кануэйро
   - translation_iso: spa
     name: Avá-Canoeiro
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ピロ語
     auto: true
+  - translation_iso: kor
+    name: 피로어
+    auto: true
   - translation_iso: por
     name: Piro
     auto: true
+  - translation_iso: rus
+    name: Пиро
   - translation_iso: spa
     name: idioma piro (kiowa-tanoano)
   - translation_iso: zho

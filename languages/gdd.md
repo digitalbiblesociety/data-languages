@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゲダーゲド語
+  - translation_iso: kor
+    name: 게다게드어
+    auto: true
   - translation_iso: por
     name: Gedaged
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باتورا
     auto: true
+  - translation_iso: ben
+    name: বেটোরা
   - translation_iso: deu
     name: Baetora
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バエトラ語
+    auto: true
+  - translation_iso: kor
+    name: 바에토라어
     auto: true
   - translation_iso: por
     name: Baetora

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語
     auto: true
+  - translation_iso: kor
+    name: 고지 네칵사 토토낙어
+    auto: true
   - translation_iso: por
     name: Totonaco do Alto Necaxa
     auto: true
+  - translation_iso: rus
+    name: Верхненекаханский тотонакский язык
   - translation_iso: spa
     name: Totonaco del Alto Necaxa
     auto: true

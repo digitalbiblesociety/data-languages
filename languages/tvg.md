@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: तुगुनीज़
     auto: true
+  - translation_iso: ind
+    name: Kreol Mardijker
   - translation_iso: jpn
     name: パピア・トゥグ語
+    auto: true
+  - translation_iso: kor
+    name: 투구 크리올어
     auto: true
   - translation_iso: por
     name: Crioulo Português de Java

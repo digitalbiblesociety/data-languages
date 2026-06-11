@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: マタンブウェ語
     auto: true
+  - translation_iso: kor
+    name: 마탐브웨어
+    auto: true
   - translation_iso: por
     name: Matambwe
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パアー語
     auto: true
+  - translation_iso: kor
+    name: 파아어
+    auto: true
   - translation_iso: por
     name: "Pa'a"
     auto: true
+  - translation_iso: rus
+    name: Па’а
   - translation_iso: spa
     name: "Pa'a"
     auto: true

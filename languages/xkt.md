@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カントシ語
     auto: true
+  - translation_iso: kor
+    name: 칸토시어
+    auto: true
   - translation_iso: por
     name: Kantosi
     auto: true
+  - translation_iso: rus
+    name: Кантоси
   - translation_iso: spa
     name: kantosi
   - translation_iso: zho

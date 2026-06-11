@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tok_Pisin"
 translations:
   - translation_iso: ara
     name: لغة توك بيسين
+  - translation_iso: ben
+    name: টোক পিসিন
   - translation_iso: deu
     name: Tok Pisin
   - translation_iso: fra
     name: tok pisin
   - translation_iso: hin
     name: टोक पिसिन
+  - translation_iso: ind
+    name: Tok Pisin
   - translation_iso: jpn
     name: トク・ピシン
   - translation_iso: kor
     name: 톡 피신
   - translation_iso: por
     name: Tok Pisin
+  - translation_iso: rus
+    name: ток-писин
   - translation_iso: spa
     name: tok pisin
   - translation_iso: zho

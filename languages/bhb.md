@@ -22,18 +22,24 @@ translations:
   - translation_iso: ara
     name: بهيلي
     auto: true
+  - translation_iso: ben
+    name: ভিলি ভাষা
   - translation_iso: deu
     name: Bhili
   - translation_iso: fra
     name: bhili
   - translation_iso: hin
     name: भील भाषा
+  - translation_iso: ind
+    name: Bhili
   - translation_iso: jpn
     name: ビリー語
   - translation_iso: kor
     name: 빌리어
   - translation_iso: por
     name: Língua bhili
+  - translation_iso: rus
+    name: бхили
   - translation_iso: spa
     name: idioma bhili
   - translation_iso: zho

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: पुरानी वेल्श
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wales Kuno
   - translation_iso: jpn
     name: 古ウェールズ語
+  - translation_iso: kor
+    name: 고대 웨일스어
+    auto: true
   - translation_iso: por
     name: galês antigo
+  - translation_iso: rus
+    name: Древневаллийский язык
   - translation_iso: spa
     name: galés antiguo
   - translation_iso: zho

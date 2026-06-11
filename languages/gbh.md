@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: デフィ・ベ語
     auto: true
+  - translation_iso: kor
+    name: 데피 그베어
+    auto: true
   - translation_iso: por
     name: gbe de Defi
     auto: true

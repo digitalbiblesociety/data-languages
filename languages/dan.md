@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Danish_language"
 translations:
   - translation_iso: ara
     name: الدنماركية
+  - translation_iso: ben
+    name: ডেনিশ
   - translation_iso: deu
     name: Dänisch
   - translation_iso: fra
     name: danois
   - translation_iso: hin
     name: डेनिश भाषा
+  - translation_iso: ind
+    name: Dansk
   - translation_iso: jpn
     name: デンマーク語
   - translation_iso: kor
     name: 덴마크어
   - translation_iso: por
     name: dinamarquês
+  - translation_iso: rus
+    name: датский
   - translation_iso: spa
     name: danés
   - translation_iso: zho

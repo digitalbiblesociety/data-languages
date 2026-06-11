@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: उत्तरी अल्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alta Utara
   - translation_iso: jpn
     name: 北部アルタ語
+    auto: true
+  - translation_iso: kor
+    name: 북부 알타어
     auto: true
   - translation_iso: por
     name: Alta do Norte

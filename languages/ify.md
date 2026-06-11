@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語
     auto: true
+  - translation_iso: kor
+    name: 켈레이 칼라한어
+    auto: true
   - translation_iso: por
     name: Kallahan Keley-I
     auto: true

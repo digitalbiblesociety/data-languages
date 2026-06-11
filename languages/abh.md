@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Árabe Tadjique
     auto: true
+  - translation_iso: rus
+    name: Бухарский диалект арабского языка
   - translation_iso: spa
     name: Árabe tayiko
     auto: true

@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: पेरानाकन इंडोनेशियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Indonesia Peranakan
   - translation_iso: jpn
     name: ペラナカン・インドネシア語
+    auto: true
+  - translation_iso: kor
+    name: 페라나칸 인도네시아어
     auto: true
   - translation_iso: por
     name: indonésio peranakan
     auto: true
+  - translation_iso: rus
+    name: перанаканский индонезийский язык
   - translation_iso: spa
     name: Indonesio peranakan
     auto: true

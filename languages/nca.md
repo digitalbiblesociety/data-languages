@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イヨ語
     auto: true
+  - translation_iso: kor
+    name: 이요어
+    auto: true
   - translation_iso: por
     name: Iyo
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワラアエ語
+  - translation_iso: kor
+    name: 콰라아에어
+    auto: true
   - translation_iso: por
     name: "Língua kwara'ae"
   - translation_iso: spa

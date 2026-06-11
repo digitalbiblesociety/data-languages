@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コル語
+  - translation_iso: kor
+    name: 콜어
+    auto: true
   - translation_iso: por
     name: Kol (Camarões)
     auto: true

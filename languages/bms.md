@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلما كانوري
     auto: true
+  - translation_iso: ben
+    name: বিলমা কানুরি
   - translation_iso: deu
     name: Bilma Kanuri
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルマ・カヌリ語
+  - translation_iso: kor
+    name: 빌마 카누리어
+    auto: true
   - translation_iso: por
     name: Canúri de Bilma
     auto: true

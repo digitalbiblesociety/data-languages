@@ -35,6 +35,8 @@ translations:
     name: 보라어
   - translation_iso: por
     name: Língua bora
+  - translation_iso: rus
+    name: Бора
   - translation_iso: spa
     name: bora
   - translation_iso: zho

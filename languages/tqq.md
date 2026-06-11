@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツンニ方言
+  - translation_iso: kor
+    name: 툰니어
+    auto: true
   - translation_iso: por
     name: Língua tunni
   - translation_iso: spa

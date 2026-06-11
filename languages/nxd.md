@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ンガンド語
     auto: true
+  - translation_iso: kor
+    name: 응안도어
+    auto: true
   - translation_iso: por
     name: Ngando (República Democrática do Congo)
     auto: true

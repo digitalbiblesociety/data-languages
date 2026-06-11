@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アルバラダ手話
     auto: true
+  - translation_iso: kor
+    name: 알바라다스 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Albarradas
     auto: true

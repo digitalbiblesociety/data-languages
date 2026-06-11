@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クケ語
     auto: true
+  - translation_iso: kor
+    name: 쿠케어
+    auto: true
   - translation_iso: por
     name: Kuke
     auto: true

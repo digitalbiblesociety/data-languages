@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナポ低地ケチュア語
     auto: true
+  - translation_iso: kor
+    name: 나포 저지 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua das Terras Baixas de Napo
     auto: true

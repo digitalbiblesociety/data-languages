@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Irish_language"
 translations:
   - translation_iso: ara
     name: الأيرلندية
+  - translation_iso: ben
+    name: আইরিশ
   - translation_iso: deu
     name: Irisch
   - translation_iso: fra
     name: irlandais
   - translation_iso: hin
     name: आयरिश भाषा
+  - translation_iso: ind
+    name: Irlandia
   - translation_iso: jpn
     name: アイルランド語
   - translation_iso: kor
     name: 아일랜드어
   - translation_iso: por
     name: irlandês
+  - translation_iso: rus
+    name: ирландский
   - translation_iso: spa
     name: irlandés
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボガヤ語
     auto: true
+  - translation_iso: kor
+    name: 보가야어
+    auto: true
   - translation_iso: por
     name: Bogaya
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワレケナ語
+  - translation_iso: kor
+    name: 과레케나어
+    auto: true
   - translation_iso: por
     name: Uarequenas
+  - translation_iso: rus
+    name: Гуарекена
   - translation_iso: spa
     name: Warekena
   - translation_iso: zho

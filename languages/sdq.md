@@ -23,8 +23,13 @@ translations:
   - translation_iso: hin
     name: सेमंदांग
     auto: true
+  - translation_iso: ind
+    name: Kualan-Semandang
   - translation_iso: jpn
     name: バハサ・クアラン・セマンダン語
+    auto: true
+  - translation_iso: kor
+    name: 세만당어
     auto: true
   - translation_iso: por
     name: Semandang

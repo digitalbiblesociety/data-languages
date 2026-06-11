@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北グレボ語
     auto: true
+  - translation_iso: kor
+    name: 북부 그레보어
+    auto: true
   - translation_iso: por
     name: grebo do norte
     auto: true

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モタ語
+  - translation_iso: kor
+    name: 모타어
+    auto: true
   - translation_iso: por
     name: Mota
     auto: true
+  - translation_iso: rus
+    name: мота
   - translation_iso: spa
     name: Mota
   - translation_iso: zho

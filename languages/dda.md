@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダディ・ダディ語
     auto: true
+  - translation_iso: kor
+    name: 다디다디어
+    auto: true
   - translation_iso: por
     name: Dadi Dadi
     auto: true

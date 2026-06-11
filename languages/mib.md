@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أتاتلاهوكا
     auto: true
+  - translation_iso: ben
+    name: আটাট্লাহুকা মিশটেক
   - translation_iso: deu
     name: Atatláhuca Mixtec
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタトラフカ・ミステク語
+    auto: true
+  - translation_iso: kor
+    name: 아타틀라우카 믹스텍어
     auto: true
   - translation_iso: por
     name: mixteco de Atatláhuca

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة بارجام
     auto: true
+  - translation_iso: ben
+    name: বারগাম
   - translation_iso: deu
     name: Bargam
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルガム語
+    auto: true
+  - translation_iso: kor
+    name: 바르감어
     auto: true
   - translation_iso: por
     name: Bargam

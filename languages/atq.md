@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرالي-تابولاهان
     auto: true
+  - translation_iso: ben
+    name: আরালে-তাবুলাহান
   - translation_iso: deu
     name: Aralle-Tabulahan
   - translation_iso: fra
@@ -28,12 +30,19 @@ translations:
   - translation_iso: hin
     name: अरल्ले-तबुलाहन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aralle-Tabulahan
   - translation_iso: jpn
     name: アラレタブラハン語
+    auto: true
+  - translation_iso: kor
+    name: 아랄레·타불라한어
     auto: true
   - translation_iso: por
     name: Aralle-Tabulahan
     auto: true
+  - translation_iso: rus
+    name: Аралле-табулахан
   - translation_iso: spa
     name: Aralle-Tabulahan
     auto: true

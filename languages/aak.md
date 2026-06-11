@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأنكافي
     auto: true
+  - translation_iso: ben
+    name: আনকাভে
   - translation_iso: deu
     name: Ankave
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンカベ語
+    auto: true
+  - translation_iso: kor
+    name: 안카베어
     auto: true
   - translation_iso: por
     name: Ankave

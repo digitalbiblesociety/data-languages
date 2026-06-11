@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانجبا
     auto: true
+  - translation_iso: ben
+    name: বাংবা
   - translation_iso: deu
     name: Bangba
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バングバ語
+    auto: true
+  - translation_iso: kor
+    name: 방바어
     auto: true
   - translation_iso: por
     name: Bangba

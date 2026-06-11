@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガレヤ語
     auto: true
+  - translation_iso: kor
+    name: 갈레야어
+    auto: true
   - translation_iso: por
     name: Galeya
     auto: true

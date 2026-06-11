@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي سامي
     auto: true
+  - translation_iso: ben
+    name: পিতে সামি
   - translation_iso: deu
     name: Pitesamisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 피테 사미어
   - translation_iso: por
     name: língua sami de Pite
+  - translation_iso: rus
+    name: пите-саамский язык
   - translation_iso: spa
     name: sami de Pite
   - translation_iso: zho

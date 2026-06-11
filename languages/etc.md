@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エッチェミン語
     auto: true
+  - translation_iso: kor
+    name: 에체민어
+    auto: true
   - translation_iso: por
     name: Etchemin
     auto: true

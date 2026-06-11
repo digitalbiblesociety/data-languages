@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hiligaynon_language"
 translations:
   - translation_iso: ara
     name: الهيليجينون
+  - translation_iso: ben
+    name: হিলিগ্যায়নোন
   - translation_iso: deu
     name: Hiligaynon
   - translation_iso: fra
     name: hiligaïnon
   - translation_iso: hin
     name: हिलिगायनोन भाषा
+  - translation_iso: ind
+    name: Hiligaynon
   - translation_iso: jpn
     name: ヒリガイノン語
   - translation_iso: kor
     name: 힐리가이논어
   - translation_iso: por
     name: língua hiligaína
+  - translation_iso: rus
+    name: хилигайнон
   - translation_iso: spa
     name: hiligaíno
   - translation_iso: zho

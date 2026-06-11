@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パルダン語
     auto: true
+  - translation_iso: kor
+    name: 파르단어
+    auto: true
   - translation_iso: por
     name: Pardhan
     auto: true

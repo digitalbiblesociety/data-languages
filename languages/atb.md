@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 載瓦語
+  - translation_iso: kor
+    name: 자이와어
+    auto: true
   - translation_iso: por
     name: Zaiwa
     auto: true
+  - translation_iso: rus
+    name: Цзайва
   - translation_iso: spa
     name: zaiwa
   - translation_iso: zho

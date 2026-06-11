@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: ज़ांडे
     auto: true
+  - translation_iso: ind
+    name: Bahasa Zande
   - translation_iso: jpn
     name: ザンデ語
   - translation_iso: kor
     name: 잔데어
   - translation_iso: por
     name: Língua zande
+  - translation_iso: rus
+    name: Занде
   - translation_iso: spa
     name: Zande
     auto: true

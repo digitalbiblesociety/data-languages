@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dari"
 translations:
   - translation_iso: ara
     name: الدرية
+  - translation_iso: ben
+    name: দারি ভাষা
   - translation_iso: deu
     name: Dari
   - translation_iso: fra
     name: dari
   - translation_iso: hin
     name: दरी फ़ारसी
+  - translation_iso: ind
+    name: bahasa Dari
   - translation_iso: jpn
     name: ダリー語
   - translation_iso: kor
     name: 다리어
   - translation_iso: por
     name: Língua dari
+  - translation_iso: rus
+    name: дари
   - translation_iso: spa
     name: dari
   - translation_iso: zho

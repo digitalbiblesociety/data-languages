@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柔若語
+  - translation_iso: kor
+    name: 자우저우어
+    auto: true
   - translation_iso: por
     name: zauzou
     auto: true

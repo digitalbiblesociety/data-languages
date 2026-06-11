@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samia_language"
 translations:
   - translation_iso: ara
     name: الساميا
+  - translation_iso: ben
+    name: সামিয়া
   - translation_iso: deu
     name: Saamia
   - translation_iso: fra
     name: samia
   - translation_iso: hin
     name: सामिया
+  - translation_iso: ind
+    name: Saamia
   - translation_iso: jpn
     name: サアミア語
   - translation_iso: kor
     name: 사미아어
   - translation_iso: por
     name: saamia
+  - translation_iso: rus
+    name: саамиа
   - translation_iso: spa
     name: samia
   - translation_iso: zho

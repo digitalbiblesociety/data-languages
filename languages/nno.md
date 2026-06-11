@@ -16,18 +16,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nynorsk"
 translations:
   - translation_iso: ara
     name: ني نوشك
+  - translation_iso: ben
+    name: নরওয়েজিয়ান নিনর্স্ক
   - translation_iso: deu
     name: Nynorsk
   - translation_iso: fra
     name: nynorsk
   - translation_iso: hin
     name: नॉर्वेजियाई नॉयनॉर्स्क
+  - translation_iso: ind
+    name: Nynorsk Norwegia
   - translation_iso: jpn
     name: ニーノシュク
   - translation_iso: kor
     name: 노르웨이어 뉘노르스크
   - translation_iso: por
     name: novo norueguês
+  - translation_iso: rus
+    name: нюнорск
   - translation_iso: spa
     name: nynorsk
   - translation_iso: zho

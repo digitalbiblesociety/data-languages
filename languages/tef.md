@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تيريسا
     auto: true
+  - translation_iso: ben
+    name: তেরেস্সা ভাষা
   - translation_iso: deu
     name: Teressa
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: तेरेस्सा भाषा
   - translation_iso: jpn
     name: テレッサ語
+  - translation_iso: kor
+    name: 테레사어
+    auto: true
   - translation_iso: por
     name: Teressa
     auto: true

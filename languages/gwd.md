@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Dullay諸語
+  - translation_iso: kor
+    name: 가와다어
+    auto: true
   - translation_iso: por
     name: Língua gawwada
+  - translation_iso: rus
+    name: Але (язык)
   - translation_iso: spa
     name: Gawwada
     auto: true

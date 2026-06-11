@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マアカ語
     auto: true
+  - translation_iso: kor
+    name: 마카어
+    auto: true
   - translation_iso: por
     name: Maaka
     auto: true
+  - translation_iso: rus
+    name: Маха
   - translation_iso: spa
     name: Maaka
     auto: true

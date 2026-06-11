@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェナラ・セヌフォ語
+  - translation_iso: kor
+    name: 세나라 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Senara
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ميجام
     auto: true
+  - translation_iso: ben
+    name: মেগাম ভাষা
   - translation_iso: deu
     name: Megam
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メガム語
+    auto: true
+  - translation_iso: kor
+    name: 메감어
     auto: true
   - translation_iso: por
     name: Megam

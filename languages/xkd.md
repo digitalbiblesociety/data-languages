@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मेंदलाम कायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan Mendalam
   - translation_iso: jpn
     name: メンダラム・カヤン語
+    auto: true
+  - translation_iso: kor
+    name: 멘달람 카얀어
     auto: true
   - translation_iso: por
     name: Kayan Mendalam

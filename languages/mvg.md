@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ユクアニェ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 유쿠아녜 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Yucuañe
     auto: true

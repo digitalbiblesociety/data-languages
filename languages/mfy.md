@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヨ語
+  - translation_iso: kor
+    name: 마요어
+    auto: true
   - translation_iso: por
     name: Língua mayo
+  - translation_iso: rus
+    name: Майо (язык)
   - translation_iso: spa
     name: mayo
   - translation_iso: zho

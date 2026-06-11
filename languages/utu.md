@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウトゥ語
     auto: true
+  - translation_iso: kor
+    name: 우투어
+    auto: true
   - translation_iso: por
     name: Utu
     auto: true

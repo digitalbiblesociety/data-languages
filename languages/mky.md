@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पूर्वी माकियान
     auto: true
+  - translation_iso: ind
+    name: Makian Dalam
   - translation_iso: jpn
     name: 東マキアン語
+  - translation_iso: kor
+    name: 동부 마키안어
+    auto: true
   - translation_iso: por
     name: macuíno oriental
     auto: true

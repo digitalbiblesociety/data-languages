@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キルマンジュキ語
+  - translation_iso: kor
+    name: 키르만지키어
+    auto: true
   - translation_iso: por
     name: Kirmanjki
     auto: true
+  - translation_iso: rus
+    name: кирманский
   - translation_iso: spa
     name: Kırmancki
   - translation_iso: zho

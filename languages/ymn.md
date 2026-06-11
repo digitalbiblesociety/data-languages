@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: यामना
     auto: true
+  - translation_iso: ind
+    name: Yamna
   - translation_iso: jpn
     name: ヤムナ語
+    auto: true
+  - translation_iso: kor
+    name: 얌나어
     auto: true
   - translation_iso: por
     name: yamna

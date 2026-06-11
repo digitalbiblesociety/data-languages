@@ -16,18 +16,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pashto"
 translations:
   - translation_iso: ara
     name: البشتوية
+  - translation_iso: ben
+    name: পাশতু
   - translation_iso: deu
     name: Paschtu
   - translation_iso: fra
     name: pachto
   - translation_iso: hin
     name: पश्तो भाषा
+  - translation_iso: ind
+    name: Pashto
   - translation_iso: jpn
     name: パシュトー語
   - translation_iso: kor
     name: 파슈토어
   - translation_iso: por
     name: pastó
+  - translation_iso: rus
+    name: пушту
   - translation_iso: spa
     name: pastún
   - translation_iso: zho

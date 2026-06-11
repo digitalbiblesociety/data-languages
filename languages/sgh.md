@@ -27,12 +27,16 @@ translations:
     name: shughni
   - translation_iso: hin
     name: शुग़नी भाषा
+  - translation_iso: ind
+    name: Shughni
   - translation_iso: jpn
     name: シュグニー語
   - translation_iso: kor
     name: 슈그니어
   - translation_iso: por
     name: Língua shughni
+  - translation_iso: rus
+    name: шугнанский язык
   - translation_iso: spa
     name: sugní
   - translation_iso: zho

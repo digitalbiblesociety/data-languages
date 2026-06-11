@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: غورو
     auto: true
+  - translation_iso: ben
+    name: গুরো ভাষা
   - translation_iso: deu
     name: Guro
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グロ語
+  - translation_iso: kor
+    name: 구로어
+    auto: true
   - translation_iso: por
     name: Guro
     auto: true
+  - translation_iso: rus
+    name: Гуро (язык)
   - translation_iso: spa
     name: Idioma guro
   - translation_iso: zho

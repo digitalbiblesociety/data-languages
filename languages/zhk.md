@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكردية
     auto: true
+  - translation_iso: ben
+    name: কুর্দিশ ইশারা ভাষা
   - translation_iso: deu
     name: Kurdische Gebärdensprache
     auto: true
@@ -26,9 +28,14 @@ translations:
   - translation_iso: jpn
     name: クルド手話言語
     auto: true
+  - translation_iso: kor
+    name: 쿠르드 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais curda
     auto: true
+  - translation_iso: rus
+    name: курдский жестовый язык
   - translation_iso: spa
     name: Lengua de señas kurda
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفاتيم
     auto: true
+  - translation_iso: ben
+    name: আভাতাইম
   - translation_iso: deu
     name: Avatime
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アヴァティメ語
     auto: true
+  - translation_iso: kor
+    name: 아바티메어
+    auto: true
   - translation_iso: por
     name: Avatime
     auto: true
+  - translation_iso: rus
+    name: Аватиме
   - translation_iso: spa
     name: Avatime
     auto: true

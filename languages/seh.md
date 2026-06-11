@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sena_language"
 translations:
   - translation_iso: ara
     name: سينا
+  - translation_iso: ben
+    name: সেনা
   - translation_iso: deu
     name: Sena
   - translation_iso: fra
     name: sena du Mozambique
   - translation_iso: hin
     name: सेना
+  - translation_iso: ind
+    name: Sena
   - translation_iso: jpn
     name: セナ語
   - translation_iso: kor
     name: 세나어
   - translation_iso: por
     name: XiSena
+  - translation_iso: rus
+    name: сена
   - translation_iso: spa
     name: sena
   - translation_iso: zho

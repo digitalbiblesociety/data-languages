@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テンボ語
     auto: true
+  - translation_iso: kor
+    name: 키템보 템보어
+    auto: true
   - translation_iso: por
     name: Tembo (Kitembo)
     auto: true

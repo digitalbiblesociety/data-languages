@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كوركو
     auto: true
+  - translation_iso: ben
+    name: কোরকু ভাষা
   - translation_iso: deu
     name: Korku
     auto: true
@@ -34,6 +36,8 @@ translations:
     name: 코르쿠어
   - translation_iso: por
     name: Língua korku
+  - translation_iso: rus
+    name: корку
   - translation_iso: spa
     name: Korku
     auto: true

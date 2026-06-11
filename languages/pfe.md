@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ペーレ語
     auto: true
+  - translation_iso: kor
+    name: 페레어
+    auto: true
   - translation_iso: por
     name: Peere
     auto: true

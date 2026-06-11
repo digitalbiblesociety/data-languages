@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: मोदांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Modang
   - translation_iso: jpn
     name: モダン語
+    auto: true
+  - translation_iso: kor
+    name: 모당어
     auto: true
   - translation_iso: por
     name: Modang
     auto: true
+  - translation_iso: rus
+    name: Моданг
   - translation_iso: spa
     name: Modang
     auto: true

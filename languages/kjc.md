@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तटीय कोंजो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Konjo Pesisir
   - translation_iso: jpn
     name: コースタル・コンジョ語
+    auto: true
+  - translation_iso: kor
+    name: 해안 콘조어
     auto: true
   - translation_iso: por
     name: Konjo Litorâneo

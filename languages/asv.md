@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسوا
     auto: true
+  - translation_iso: ben
+    name: আসোয়া
   - translation_iso: deu
     name: Asoa
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アソア語
+    auto: true
+  - translation_iso: kor
+    name: 아소아어
     auto: true
   - translation_iso: por
     name: Língua asoa

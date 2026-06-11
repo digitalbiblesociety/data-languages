@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東クミ・チン語
     auto: true
+  - translation_iso: kor
+    name: 동부 쿠미 친어
+    auto: true
   - translation_iso: por
     name: Chin Khumi oriental
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتوليي
     auto: true
+  - translation_iso: ben
+    name: বাটুলেই
   - translation_iso: deu
     name: Batuley
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बातुले
     auto: true
+  - translation_iso: ind
+    name: Bahasa Batuley
   - translation_iso: jpn
     name: バトゥレイ語
+    auto: true
+  - translation_iso: kor
+    name: 바툴레이어
     auto: true
   - translation_iso: por
     name: Batuley

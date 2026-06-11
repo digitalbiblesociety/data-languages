@@ -30,8 +30,13 @@ translations:
     name: पालूला भाषा
   - translation_iso: jpn
     name: パルーラ語
+  - translation_iso: kor
+    name: 팔루라어
+    auto: true
   - translation_iso: por
     name: Língua palula
+  - translation_iso: rus
+    name: пхалура
   - translation_iso: spa
     name: Phalura
     auto: true

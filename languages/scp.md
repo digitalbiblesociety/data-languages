@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヘラムブシェルパ語
     auto: true
+  - translation_iso: kor
+    name: 욜모어
+    auto: true
   - translation_iso: por
     name: Língua Yolmo
+  - translation_iso: rus
+    name: Йолмо (язык)
   - translation_iso: spa
     name: Hyolmo
     auto: true

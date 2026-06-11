@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スポケーン語
+  - translation_iso: kor
+    name: 스포캔어
+    auto: true
   - translation_iso: por
     name: Spokane
     auto: true

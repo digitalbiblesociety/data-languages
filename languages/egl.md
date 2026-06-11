@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Emilian_language"
 translations:
   - translation_iso: ara
     name: لغة إميليانو
+  - translation_iso: ben
+    name: এমিলীয় উপভাষা
   - translation_iso: deu
     name: Emilianisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: एमिलियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Emilia
   - translation_iso: jpn
     name: エミリア語
   - translation_iso: kor
     name: 에밀리아어
   - translation_iso: por
     name: dialeto emiliano
+  - translation_iso: rus
+    name: эмилианский
   - translation_iso: spa
     name: emiliano
   - translation_iso: zho

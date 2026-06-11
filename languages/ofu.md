@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة إيفوتوب
     auto: true
+  - translation_iso: ben
+    name: এফুটপ
   - translation_iso: deu
     name: Efutop
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフトプ語
+    auto: true
+  - translation_iso: kor
+    name: 에푸톱어
     auto: true
   - translation_iso: por
     name: Efutop

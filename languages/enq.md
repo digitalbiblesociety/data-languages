@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: एंगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Enga
   - translation_iso: jpn
     name: エンガ語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Enga
     auto: true
+  - translation_iso: rus
+    name: энга
   - translation_iso: spa
     name: Enga
     auto: true

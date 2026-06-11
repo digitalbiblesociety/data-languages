@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألابا-كابينا
     auto: true
+  - translation_iso: ben
+    name: আলাবা-কাবিনা
   - translation_iso: deu
     name: Alaba-K’abeena
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アラバカベエナ語
     auto: true
+  - translation_iso: kor
+    name: 알라바·카베나어
+    auto: true
   - translation_iso: por
     name: "Alaba-K'abeena"
     auto: true
+  - translation_iso: rus
+    name: алаба-кабеена
   - translation_iso: spa
     name: "Alaba-K'abeena"
     auto: true

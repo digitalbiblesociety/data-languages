@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルヤナ語
     auto: true
+  - translation_iso: kor
+    name: 루야나어
+    auto: true
   - translation_iso: por
     name: Luyana
     auto: true

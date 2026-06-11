@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامو
     auto: true
+  - translation_iso: ben
+    name: বামু
   - translation_iso: deu
     name: Bamu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バムー語
+    auto: true
+  - translation_iso: kor
+    name: 바무어
     auto: true
   - translation_iso: por
     name: Bamu

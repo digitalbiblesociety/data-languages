@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: ألانية
     auto: true
+  - translation_iso: ben
+    name: আলানীয়
   - translation_iso: deu
     name: Alanisch
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: por
     name: Alânico
     auto: true
+  - translation_iso: rus
+    name: аланский язык
   - translation_iso: spa
     name: Alánico
     auto: true

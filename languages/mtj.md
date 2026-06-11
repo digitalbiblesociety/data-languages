@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: मोस्कोना
     auto: true
+  - translation_iso: ind
+    name: Moskona
   - translation_iso: jpn
     name: モスコナ語
+    auto: true
+  - translation_iso: kor
+    name: 모스코나어
     auto: true
   - translation_iso: por
     name: Moskona
     auto: true
+  - translation_iso: rus
+    name: москона
   - translation_iso: spa
     name: Moskona
     auto: true

@@ -17,6 +17,8 @@ glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Garasia Bhil > Adiwasi Garasia"
 wikidata_id: Q12953522
 translations:
+  - translation_iso: ben
+    name: আদিবাসী গরাসিয়া
   - translation_iso: deu
     name: Adiwasi Garasia
     auto: true
@@ -28,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アディワシ・ガラシア語
+    auto: true
+  - translation_iso: kor
+    name: 아디와시 가라시아어
     auto: true
   - translation_iso: por
     name: garasia de Adiwasi

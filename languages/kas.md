@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kashmiri_language"
 translations:
   - translation_iso: ara
     name: الكشميرية
+  - translation_iso: ben
+    name: কাশ্মীরি
   - translation_iso: deu
     name: Kashmiri
   - translation_iso: fra
     name: cachemiri
   - translation_iso: hin
     name: कश्मीरी भाषा
+  - translation_iso: ind
+    name: Kashmir
   - translation_iso: jpn
     name: カシミール語
   - translation_iso: kor
     name: 카슈미르어
   - translation_iso: por
     name: língua caxemira
+  - translation_iso: rus
+    name: кашмири
   - translation_iso: spa
     name: cachemir
   - translation_iso: zho

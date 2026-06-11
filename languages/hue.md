@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サン・フランシスコ・デル・マル・ウアベ語
     auto: true
+  - translation_iso: kor
+    name: 산프란시스코델마르 와베어
+    auto: true
   - translation_iso: por
     name: Huave de San Francisco del Mar
     auto: true

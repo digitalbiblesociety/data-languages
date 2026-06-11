@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カゴマ語
     auto: true
+  - translation_iso: kor
+    name: 카고마어
+    auto: true
   - translation_iso: por
     name: Kagoma
     auto: true

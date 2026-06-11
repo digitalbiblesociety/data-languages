@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: リグビ語
     auto: true
+  - translation_iso: kor
+    name: 리그비어
+    auto: true
   - translation_iso: por
     name: Ligbi
     auto: true
+  - translation_iso: rus
+    name: ликби
   - translation_iso: spa
     name: Ligbi
     auto: true

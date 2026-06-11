@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルマン語
+  - translation_iso: kor
+    name: 발만어
+    auto: true
   - translation_iso: por
     name: Valman
     auto: true

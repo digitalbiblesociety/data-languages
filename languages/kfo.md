@@ -20,18 +20,24 @@ wikidata_id: Q11160588
 translations:
   - translation_iso: ara
     name: الكورو
+  - translation_iso: ben
+    name: কোরো
   - translation_iso: deu
     name: Koro
   - translation_iso: fra
     name: koro
   - translation_iso: hin
     name: कोरो
+  - translation_iso: ind
+    name: Koro
   - translation_iso: jpn
     name: コロ・ジュラ語
   - translation_iso: kor
     name: 코로어
   - translation_iso: por
     name: koro
+  - translation_iso: rus
+    name: коро
   - translation_iso: spa
     name: koro
   - translation_iso: zho

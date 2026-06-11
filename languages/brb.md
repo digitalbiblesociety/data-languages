@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラヴェ語
     auto: true
+  - translation_iso: kor
+    name: 라베어
+    auto: true
   - translation_iso: por
     name: Lave
     auto: true

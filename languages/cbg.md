@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: チミラ語
     auto: true
+  - translation_iso: kor
+    name: 치밀라어
+    auto: true
   - translation_iso: por
     name: Língua Chimila
+  - translation_iso: rus
+    name: Чимила
   - translation_iso: spa
     name: idioma chimila
   - translation_iso: zho

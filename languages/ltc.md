@@ -27,6 +27,8 @@ translations:
   - translation_iso: hin
     name: उत्तर मध्यकालीन चीनी
     auto: true
+  - translation_iso: ind
+    name: Tionghoa Pertengahan
   - translation_iso: jpn
     name: 中古中国語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Chinês médio tardio
     auto: true
+  - translation_iso: rus
+    name: среднекитайский язык
   - translation_iso: spa
     name: chino medio
   - translation_iso: zho

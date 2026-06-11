@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: कारेय
     auto: true
+  - translation_iso: ind
+    name: Karey
   - translation_iso: jpn
     name: カレイ語
     auto: true
+  - translation_iso: kor
+    name: 카레이어
+    auto: true
   - translation_iso: por
     name: Karey
+  - translation_iso: rus
+    name: Карейский язык
   - translation_iso: spa
     name: Karey
   - translation_iso: zho

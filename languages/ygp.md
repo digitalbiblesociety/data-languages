@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゲポ語
     auto: true
+  - translation_iso: kor
+    name: 거포어
+    auto: true
   - translation_iso: por
     name: gepo
     auto: true

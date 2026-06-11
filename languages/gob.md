@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プライェロ語
     auto: true
+  - translation_iso: kor
+    name: 플라예로어
+    auto: true
   - translation_iso: por
     name: Playero
     auto: true

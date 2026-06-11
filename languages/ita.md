@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Italian_language"
 translations:
   - translation_iso: ara
     name: الإيطالية
+  - translation_iso: ben
+    name: ইতালীয়
   - translation_iso: deu
     name: Italienisch
   - translation_iso: fra
     name: italien
   - translation_iso: hin
     name: इतालवी
+  - translation_iso: ind
+    name: Italia
   - translation_iso: jpn
     name: イタリア語
   - translation_iso: kor
     name: 이탈리아어
   - translation_iso: por
     name: italiano
+  - translation_iso: rus
+    name: итальянский
   - translation_iso: spa
     name: italiano
   - translation_iso: zho

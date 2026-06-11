@@ -20,12 +20,16 @@ translations:
     name: monténégrin
   - translation_iso: hin
     name: मोंटेनीग्रिन भाषा
+  - translation_iso: ind
+    name: Montenegro
   - translation_iso: jpn
     name: モンテネグロ語
   - translation_iso: kor
     name: 몬테네그로어
   - translation_iso: por
     name: língua montenegrina
+  - translation_iso: rus
+    name: черногорский язык
   - translation_iso: spa
     name: montenegrino
   - translation_iso: zho

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: मुआलांग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mualang
   - translation_iso: jpn
     name: ムアラン語
     auto: true
+  - translation_iso: kor
+    name: 무알랑어
+    auto: true
   - translation_iso: por
     name: Língua mualang
+  - translation_iso: rus
+    name: муалангский язык
   - translation_iso: spa
     name: Mualang
     auto: true

@@ -33,6 +33,8 @@ translations:
     name: 투스카로라어
   - translation_iso: por
     name: Tuscarora
+  - translation_iso: rus
+    name: тускарора
   - translation_iso: spa
     name: Tuscarora
   - translation_iso: zho

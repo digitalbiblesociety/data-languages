@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Mbati語
+  - translation_iso: kor
+    name: 음바티어
+    auto: true
   - translation_iso: por
     name: Mbati
     auto: true

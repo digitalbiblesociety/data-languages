@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ワディ・ワディ語
     auto: true
+  - translation_iso: kor
+    name: 와디 와디어
+    auto: true
   - translation_iso: por
     name: Língua wadi-wadi
   - translation_iso: spa

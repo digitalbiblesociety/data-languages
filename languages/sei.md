@@ -26,12 +26,16 @@ translations:
   - translation_iso: hin
     name: सेरी
     auto: true
+  - translation_iso: ind
+    name: Seri
   - translation_iso: jpn
     name: セリ語
   - translation_iso: kor
     name: 세리어
   - translation_iso: por
     name: Língua seri
+  - translation_iso: rus
+    name: Сери
   - translation_iso: spa
     name: seri
   - translation_iso: zho

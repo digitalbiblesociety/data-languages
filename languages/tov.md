@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 上部タロミ語
     auto: true
+  - translation_iso: kor
+    name: 고지 타로미어
+    auto: true
   - translation_iso: por
     name: Taromi do Alto
     auto: true

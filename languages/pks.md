@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الباكستانية
     auto: true
+  - translation_iso: ben
+    name: পাকিস্তান ইশারা ভাষা
   - translation_iso: deu
     name: Pakistanische Gebärdensprache
   - translation_iso: fra
@@ -28,9 +30,14 @@ translations:
     name: पाकिसतान इशारा
   - translation_iso: jpn
     name: パキスタン手話
+  - translation_iso: kor
+    name: 파키스탄 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Paquistanesa
     auto: true
+  - translation_iso: rus
+    name: пакистанский жестовый язык
   - translation_iso: spa
     name: lengua de señas pakistaní
   - translation_iso: zho

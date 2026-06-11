@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_French"
 translations:
   - translation_iso: ara
     name: الفرنسية القديمة
+  - translation_iso: ben
+    name: প্রাচীন ফরাসি
   - translation_iso: deu
     name: Altfranzösisch
   - translation_iso: fra
     name: ancien français
   - translation_iso: hin
     name: पुरातन फ़्रांसीसी
+  - translation_iso: ind
+    name: Prancis Kuno
   - translation_iso: jpn
     name: 古フランス語
   - translation_iso: kor
     name: 고대 프랑스어
   - translation_iso: por
     name: francês antigo
+  - translation_iso: rus
+    name: старофранцузский
   - translation_iso: spa
     name: francés antiguo
   - translation_iso: zho

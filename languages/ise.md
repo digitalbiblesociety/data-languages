@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإيطالية
     auto: true
+  - translation_iso: ben
+    name: ইতালীয় ইশারা ভাষা
   - translation_iso: deu
     name: italienische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,8 @@ translations:
   - translation_iso: hin
     name: इतालवी सांकेतिक भाषा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Isyarat Italia
   - translation_iso: jpn
     name: イタリア手話
   - translation_iso: kor
@@ -35,6 +39,8 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Italiana
     auto: true
+  - translation_iso: rus
+    name: итальянский жестовый язык
   - translation_iso: spa
     name: lengua de signos italiana
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ネファメセ語
     auto: true
+  - translation_iso: kor
+    name: 네파메세어
+    auto: true
   - translation_iso: por
     name: Nefamese
     auto: true

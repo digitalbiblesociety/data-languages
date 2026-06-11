@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: नामला
     auto: true
+  - translation_iso: ind
+    name: Namla
   - translation_iso: jpn
     name: ナムラ語
     auto: true
+  - translation_iso: kor
+    name: 남라어
+    auto: true
   - translation_iso: por
     name: Língua namla
+  - translation_iso: rus
+    name: Намла
   - translation_iso: spa
     name: Idioma namla
   - translation_iso: zho

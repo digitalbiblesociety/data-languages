@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: सबा मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Sabah
   - translation_iso: jpn
     name: サバ・マレー語
+  - translation_iso: kor
+    name: 사바 말레이어
+    auto: true
   - translation_iso: por
     name: malaio de Sabah
     auto: true
+  - translation_iso: rus
+    name: сабахский малайский
   - translation_iso: spa
     name: Malayo de Sabah
     auto: true

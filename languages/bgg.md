@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بوجون
     auto: true
+  - translation_iso: ben
+    name: বুগুন ভাষা
   - translation_iso: deu
     name: Bugun
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: बुगुन भाषा
   - translation_iso: jpn
     name: ブグン語
+    auto: true
+  - translation_iso: kor
+    name: 부군어
     auto: true
   - translation_iso: por
     name: Bugun

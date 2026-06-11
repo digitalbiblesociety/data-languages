@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロ・ウィン語
+  - translation_iso: kor
+    name: 오로윈어
+    auto: true
   - translation_iso: por
     name: Oro Win
     auto: true
+  - translation_iso: rus
+    name: Оро-вин
   - translation_iso: spa
     name: Oro Win
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンガ語
+  - translation_iso: kor
+    name: 상가어
+    auto: true
   - translation_iso: por
     name: Sanga (República Democrática do Congo)
     auto: true

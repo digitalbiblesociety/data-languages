@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيراها
     auto: true
+  - translation_iso: ben
+    name: পিরাহা ভাষা
   - translation_iso: deu
     name: Pirahã
   - translation_iso: fra
@@ -25,12 +27,16 @@ translations:
   - translation_iso: hin
     name: पिराहा
     auto: true
+  - translation_iso: ind
+    name: Pirahã
   - translation_iso: jpn
     name: ピダハン語
   - translation_iso: kor
     name: 피라항어
   - translation_iso: por
     name: língua pirarrã
+  - translation_iso: rus
+    name: пираха
   - translation_iso: spa
     name: idioma pirahã
   - translation_iso: zho

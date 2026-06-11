@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムブグ語
     auto: true
+  - translation_iso: kor
+    name: 음부구어
+    auto: true
   - translation_iso: por
     name: Mbugu
     auto: true

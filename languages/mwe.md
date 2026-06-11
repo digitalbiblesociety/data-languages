@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムウェラ語
+  - translation_iso: kor
+    name: 침웨라 므웨라어
+    auto: true
   - translation_iso: por
     name: Língua muera
   - translation_iso: spa

@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: मंडान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mandan
   - translation_iso: jpn
     name: マンダン語
     auto: true
+  - translation_iso: kor
+    name: 만단어
+    auto: true
   - translation_iso: por
     name: Língua mandan
+  - translation_iso: rus
+    name: мандан
   - translation_iso: spa
     name: Mandan
     auto: true

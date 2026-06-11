@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأرانادان
     auto: true
+  - translation_iso: ben
+    name: আরানাদান
   - translation_iso: deu
     name: Aranadan
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アラナダン語
     auto: true
+  - translation_iso: kor
+    name: 아라나단어
+    auto: true
   - translation_iso: por
     name: Aranadan
     auto: true
+  - translation_iso: rus
+    name: аранаданский язык
   - translation_iso: spa
     name: Aranadan
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カシボ・カカタイボ語
     auto: true
+  - translation_iso: kor
+    name: 카시보카카타이보어
+    auto: true
   - translation_iso: por
     name: Língua kakataibo
+  - translation_iso: rus
+    name: Кашибо
   - translation_iso: spa
     name: Kakataibo
   - translation_iso: zho

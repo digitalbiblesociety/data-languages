@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クディヤ語
     auto: true
+  - translation_iso: kor
+    name: 쿠디야어
+    auto: true
   - translation_iso: por
     name: Kudiya
     auto: true

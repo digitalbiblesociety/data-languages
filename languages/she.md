@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シャック語
     auto: true
+  - translation_iso: kor
+    name: 셰코어
+    auto: true
   - translation_iso: por
     name: Língua sheko
+  - translation_iso: rus
+    name: Шеко (язык)
   - translation_iso: spa
     name: Sheko
     auto: true

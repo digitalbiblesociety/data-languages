@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: हितु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hitu
   - translation_iso: jpn
     name: ヒトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 히투어
     auto: true
   - translation_iso: por
     name: Hitu

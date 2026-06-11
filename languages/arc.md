@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Imperial_Aramaic"
 translations:
   - translation_iso: ara
     name: الآرامية الإمبراطورية
+  - translation_iso: ben
+    name: আরামাইক
   - translation_iso: deu
     name: Reichsaramäisch
   - translation_iso: fra
     name: araméen impérial
   - translation_iso: hin
     name: ऐरेमेक
+  - translation_iso: ind
+    name: Aram
   - translation_iso: jpn
     name: 帝国アラム語
   - translation_iso: kor
     name: 아람어
   - translation_iso: por
     name: Aramaico imperial
+  - translation_iso: rus
+    name: арамейский
   - translation_iso: spa
     name: arameo imperial
   - translation_iso: zho

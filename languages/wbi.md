@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴワンジ語
     auto: true
+  - translation_iso: kor
+    name: 브완지어
+    auto: true
   - translation_iso: por
     name: Vwanji
     auto: true

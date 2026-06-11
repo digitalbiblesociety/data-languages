@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンルイステマラカユカポポロカ語
     auto: true
+  - translation_iso: kor
+    name: 산루이스 테말라카유카 포폴로카어
+    auto: true
   - translation_iso: por
     name: Popoloca de San Luís Temalacayuca
     auto: true

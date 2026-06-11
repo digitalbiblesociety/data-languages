@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラリット語
     auto: true
+  - translation_iso: kor
+    name: 마라리트어
+    auto: true
   - translation_iso: por
     name: Mararit
     auto: true

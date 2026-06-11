@@ -30,8 +30,13 @@ translations:
     name: थॉम्पसन नदी सलीशन भाषा
   - translation_iso: jpn
     name: トンプソン語
+  - translation_iso: kor
+    name: 톰프슨어
+    auto: true
   - translation_iso: por
     name: Língua thompson
+  - translation_iso: rus
+    name: Томпсон
   - translation_iso: spa
     name: Thompson
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イヤユ語
     auto: true
+  - translation_iso: kor
+    name: 이야유어
+    auto: true
   - translation_iso: por
     name: Iyayu
     auto: true

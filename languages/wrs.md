@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワリス語
     auto: true
+  - translation_iso: kor
+    name: 와리스어
+    auto: true
   - translation_iso: por
     name: Waris
     auto: true

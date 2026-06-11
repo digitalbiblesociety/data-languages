@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: ارارانديورا
     auto: true
+  - translation_iso: ben
+    name: আরারান্দেওয়ারা
   - translation_iso: deu
     name: Ararandewára
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラランデワラ語
+    auto: true
+  - translation_iso: kor
+    name: 아라란데와라어
     auto: true
   - translation_iso: por
     name: Ararandewára

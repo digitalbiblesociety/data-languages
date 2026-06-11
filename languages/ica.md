@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イカ語
     auto: true
+  - translation_iso: kor
+    name: 에데 이차어
+    auto: true
   - translation_iso: por
     name: Ede Ica
     auto: true

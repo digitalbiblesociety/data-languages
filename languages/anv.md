@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: デニャ語
     auto: true
+  - translation_iso: kor
+    name: 데냐어
+    auto: true
   - translation_iso: por
     name: Denya
     auto: true

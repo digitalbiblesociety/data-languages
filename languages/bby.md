@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ベファング語
     auto: true
+  - translation_iso: kor
+    name: 베팡어
+    auto: true
   - translation_iso: por
     name: Befang
     auto: true

@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: कैबोबो
     auto: true
+  - translation_iso: ind
+    name: Kaibobo
   - translation_iso: jpn
     name: カイボボ語
+    auto: true
+  - translation_iso: kor
+    name: 카이보보어
     auto: true
   - translation_iso: por
     name: Kaibobo

@@ -26,9 +26,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌプビ語
+  - translation_iso: kor
+    name: 눕비카어
+    auto: true
   - translation_iso: por
     name: Nupbikha
     auto: true
+  - translation_iso: rus
+    name: Нупби-кха
   - translation_iso: spa
     name: Nupbikha
     auto: true

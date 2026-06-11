@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジューホアン方言
+  - translation_iso: kor
+    name: 주호안어
+    auto: true
   - translation_iso: por
     name: Língua Juǀʼhoan
+  - translation_iso: rus
+    name: жуцъоан
   - translation_iso: spa
     name: Juǀʼhoan
   - translation_iso: zho

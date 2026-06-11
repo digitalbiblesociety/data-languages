@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتونوم
     auto: true
+  - translation_iso: ben
+    name: বারিবা
   - translation_iso: deu
     name: Bariba
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バアトゥヌム語
+    auto: true
+  - translation_iso: kor
+    name: 바토눔어
     auto: true
   - translation_iso: por
     name: Língua bariba

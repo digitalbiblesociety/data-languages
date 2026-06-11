@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ワス語
     auto: true
+  - translation_iso: kor
+    name: 와수어
+    auto: true
   - translation_iso: por
     name: Língua wasu
+  - translation_iso: rus
+    name: Васу
   - translation_iso: spa
     name: Wasu
     auto: true

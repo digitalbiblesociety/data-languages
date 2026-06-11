@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンガンタンガラ語
     auto: true
+  - translation_iso: kor
+    name: 응안탕가라어
+    auto: true
   - translation_iso: por
     name: Ngantangarra
     auto: true

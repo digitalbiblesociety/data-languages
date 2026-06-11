@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キサカタ語
     auto: true
+  - translation_iso: kor
+    name: 사카타어
+    auto: true
   - translation_iso: por
     name: Sakata
     auto: true

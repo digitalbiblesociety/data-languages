@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガイン語
+  - translation_iso: kor
+    name: 응아잉어
+    auto: true
   - translation_iso: por
     name: Ngaing
     auto: true
+  - translation_iso: rus
+    name: нгаингский язык
   - translation_iso: spa
     name: Ngaing
     auto: true

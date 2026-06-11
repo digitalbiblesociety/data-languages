@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワレイ語（オーストラリア）
     auto: true
+  - translation_iso: kor
+    name: 와라이어
+    auto: true
   - translation_iso: por
     name: Waray (Austrália)
     auto: true
+  - translation_iso: rus
+    name: Вараи (язык)
   - translation_iso: spa
     name: Waray (Australia)
     auto: true

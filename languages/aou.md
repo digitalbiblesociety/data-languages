@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة آو
     auto: true
+  - translation_iso: ben
+    name: আউ
   - translation_iso: deu
     name: "A'ou"
     auto: true
@@ -28,12 +30,19 @@ translations:
   - translation_iso: hin
     name: आओउ
     auto: true
+  - translation_iso: ind
+    name: "Bahasa A'ou"
   - translation_iso: jpn
     name: アウ語
+    auto: true
+  - translation_iso: kor
+    name: 아오우어
     auto: true
   - translation_iso: por
     name: "A'ou"
     auto: true
+  - translation_iso: rus
+    name: Аоу
   - translation_iso: spa
     name: "A'ou"
     auto: true

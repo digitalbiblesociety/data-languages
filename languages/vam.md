@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥソ語
     auto: true
+  - translation_iso: kor
+    name: 바니모어
+    auto: true
   - translation_iso: por
     name: Vanimo
     auto: true

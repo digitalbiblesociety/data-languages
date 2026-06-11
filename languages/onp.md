@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة سارتانغ
     auto: true
+  - translation_iso: ben
+    name: সরতংগ ভাষা
   - translation_iso: deu
     name: Sartang
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: सरतंग भाषा
   - translation_iso: jpn
     name: サルタング語
+    auto: true
+  - translation_iso: kor
+    name: 사르탕어
     auto: true
   - translation_iso: por
     name: Sartang

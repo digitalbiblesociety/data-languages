@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ・イフガオ語
     auto: true
+  - translation_iso: kor
+    name: 투왈리 이푸가오어
+    auto: true
   - translation_iso: por
     name: Ifugao Tuwali
     auto: true

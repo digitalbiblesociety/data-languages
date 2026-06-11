@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/German_language"
 translations:
   - translation_iso: ara
     name: الألمانية
+  - translation_iso: ben
+    name: জার্মান
   - translation_iso: deu
     name: Deutsch
   - translation_iso: fra
     name: allemand
   - translation_iso: hin
     name: जर्मन
+  - translation_iso: ind
+    name: Jerman
   - translation_iso: jpn
     name: ドイツ語
   - translation_iso: kor
     name: 독일어
   - translation_iso: por
     name: alemão
+  - translation_iso: rus
+    name: немецкий
   - translation_iso: spa
     name: alemán
   - translation_iso: zho

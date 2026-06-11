@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: टोबियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tobi
   - translation_iso: jpn
     name: トビ語
+  - translation_iso: kor
+    name: 토비어
+    auto: true
   - translation_iso: por
     name: Língua tobiana
   - translation_iso: spa

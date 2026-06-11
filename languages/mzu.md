@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イナパン語
     auto: true
+  - translation_iso: kor
+    name: 이나팡어
+    auto: true
   - translation_iso: por
     name: Inapang
     auto: true

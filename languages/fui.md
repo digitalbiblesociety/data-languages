@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_Fulfulde"
 translations:
   - translation_iso: ara
     name: باقرمي فيلفيلد
+  - translation_iso: ben
+    name: বাগিরমি ফুলফুলদে
   - translation_iso: deu
     name: Bagirmi-Fulfulde
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バギルミ・フルフルディ語
+  - translation_iso: kor
+    name: 바기르미 풀풀데어
+    auto: true
   - translation_iso: por
     name: fulfulde de Bagirmi
     auto: true

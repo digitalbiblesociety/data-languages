@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レミオ語
     auto: true
+  - translation_iso: kor
+    name: 레미오어
+    auto: true
   - translation_iso: por
     name: Lemio
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンドボ語
     auto: true
+  - translation_iso: kor
+    name: 은도보어
+    auto: true
   - translation_iso: por
     name: Ndobo
     auto: true

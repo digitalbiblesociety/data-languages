@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケレンガッソ・ボゾ語
     auto: true
+  - translation_iso: kor
+    name: 켈렝가호 보조어
+    auto: true
   - translation_iso: por
     name: Bozo Kɛlɛngaxo
     auto: true

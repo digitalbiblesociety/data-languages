@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マロボ語
+  - translation_iso: kor
+    name: 마로보어
+    auto: true
   - translation_iso: por
     name: Marovo
     auto: true

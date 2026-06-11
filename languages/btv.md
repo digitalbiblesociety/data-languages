@@ -22,17 +22,26 @@ translations:
   - translation_iso: ara
     name: باتيري
     auto: true
+  - translation_iso: ben
+    name: বাতেরি
   - translation_iso: deu
     name: Bateri
   - translation_iso: fra
     name: bateri
   - translation_iso: hin
     name: बटेरी भाषा
+  - translation_iso: ind
+    name: Bateri
   - translation_iso: jpn
     name: バテラ語
+  - translation_iso: kor
+    name: 바테리어
+    auto: true
   - translation_iso: por
     name: Bateri
     auto: true
+  - translation_iso: rus
+    name: батери
   - translation_iso: spa
     name: Bateri
     auto: true

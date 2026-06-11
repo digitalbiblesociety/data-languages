@@ -36,6 +36,8 @@ translations:
     name: 마체스어
   - translation_iso: por
     name: Língua matsés
+  - translation_iso: rus
+    name: Матсес
   - translation_iso: spa
     name: Matsés
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ميسينج
     auto: true
+  - translation_iso: ben
+    name: মিশিং ভাষা
   - translation_iso: deu
     name: Mising
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: मिसिंग भाषा
   - translation_iso: jpn
     name: ミシン語
+  - translation_iso: kor
+    name: 미싱어
+    auto: true
   - translation_iso: por
     name: Mising
     auto: true

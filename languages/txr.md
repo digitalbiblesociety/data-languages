@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: टार्टेसियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tartessia
   - translation_iso: jpn
     name: タルテッソス語
+  - translation_iso: kor
+    name: 타르테소스어
+    auto: true
   - translation_iso: por
     name: tartessiano
+  - translation_iso: rus
+    name: тартессийский язык
   - translation_iso: spa
     name: tartésico
   - translation_iso: zho

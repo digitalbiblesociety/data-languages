@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kokborok"
 translations:
   - translation_iso: ara
     name: كوكبوروك
+  - translation_iso: ben
+    name: ককবরক ভাষা
   - translation_iso: deu
     name: Kokborok
   - translation_iso: fra
@@ -32,6 +34,8 @@ translations:
     name: 콕보록어
   - translation_iso: por
     name: Língua kokborok
+  - translation_iso: rus
+    name: кокборок
   - translation_iso: spa
     name: idioma kokborok
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pare_language"
 translations:
   - translation_iso: ara
     name: الآسو
+  - translation_iso: ben
+    name: আসু
   - translation_iso: deu
     name: Pare
   - translation_iso: fra
     name: asu
   - translation_iso: hin
     name: असु
+  - translation_iso: ind
+    name: Asu
   - translation_iso: jpn
     name: アス語
   - translation_iso: kor
     name: 아수어
   - translation_iso: por
     name: asu
+  - translation_iso: rus
+    name: асу
   - translation_iso: spa
     name: asu
   - translation_iso: zho

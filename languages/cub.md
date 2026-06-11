@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: कुबेओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Cubeo
   - translation_iso: jpn
     name: クベオ語
     auto: true
+  - translation_iso: kor
+    name: 쿠베오어
+    auto: true
   - translation_iso: por
     name: Língua cubeo
+  - translation_iso: rus
+    name: Кубео
   - translation_iso: spa
     name: idioma cubeo
   - translation_iso: zho

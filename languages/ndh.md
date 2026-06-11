@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ンダリ語
     auto: true
+  - translation_iso: kor
+    name: 은달리어
+    auto: true
   - translation_iso: por
     name: Ndali
     auto: true
+  - translation_iso: rus
+    name: ндали
   - translation_iso: spa
     name: Ndali
     auto: true

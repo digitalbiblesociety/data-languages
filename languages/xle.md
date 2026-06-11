@@ -25,10 +25,17 @@ translations:
   - translation_iso: hin
     name: लेम्नियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lemnos
   - translation_iso: jpn
     name: レムニア語
+  - translation_iso: kor
+    name: 렘노스어
+    auto: true
   - translation_iso: por
     name: Língua lêmnia
+  - translation_iso: rus
+    name: лемносский язык
   - translation_iso: spa
     name: Idioma lemnio
   - translation_iso: zho

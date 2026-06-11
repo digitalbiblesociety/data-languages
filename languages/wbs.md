@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 西ベンガル手話
     auto: true
+  - translation_iso: kor
+    name: 서벵골 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Bengala Ocidental
     auto: true

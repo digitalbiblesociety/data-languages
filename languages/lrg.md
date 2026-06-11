@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ララキア語
+  - translation_iso: kor
+    name: 라라키아어
+    auto: true
   - translation_iso: por
     name: Laragia
     auto: true
+  - translation_iso: rus
+    name: Ларакия
   - translation_iso: spa
     name: Laragia
     auto: true

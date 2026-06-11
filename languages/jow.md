@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジョウル語
     auto: true
+  - translation_iso: kor
+    name: 조울루어
+    auto: true
   - translation_iso: por
     name: Jowulu
     auto: true

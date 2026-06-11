@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セケ語
     auto: true
+  - translation_iso: kor
+    name: 세케어
+    auto: true
   - translation_iso: por
     name: Seke (Nepal)
     auto: true

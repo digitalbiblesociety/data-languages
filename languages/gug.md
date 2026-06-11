@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラグアイ・グアラニー語
+  - translation_iso: kor
+    name: 파라과이 과라니어
+    auto: true
   - translation_iso: por
     name: Guarani paraguaio (dialeto)
   - translation_iso: spa

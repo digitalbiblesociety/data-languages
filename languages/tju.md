@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チュルル語
     auto: true
+  - translation_iso: kor
+    name: 추루루어
+    auto: true
   - translation_iso: por
     name: Tjurruru
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サラ・カバ・ナア語
     auto: true
+  - translation_iso: kor
+    name: 사라 카바 나어
+    auto: true
   - translation_iso: por
     name: Sara Kaba Náà
     auto: true

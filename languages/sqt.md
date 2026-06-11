@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: सोकोत्री
     auto: true
+  - translation_iso: ind
+    name: bahasa Soqotri
   - translation_iso: jpn
     name: ソコトラ語
   - translation_iso: kor
     name: 소코트라어
   - translation_iso: por
     name: Língua socotri
+  - translation_iso: rus
+    name: сокотрийский язык
   - translation_iso: spa
     name: socotrí
   - translation_iso: zho

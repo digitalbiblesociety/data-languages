@@ -28,12 +28,16 @@ translations:
     name: tibétain khamké
   - translation_iso: hin
     name: खम्बा भाषा
+  - translation_iso: ind
+    name: Tibet Khams
   - translation_iso: jpn
     name: カム・チベット語
   - translation_iso: kor
     name: 캄 티베트어
   - translation_iso: por
     name: Tibetano khams
+  - translation_iso: rus
+    name: камский тибетский язык
   - translation_iso: spa
     name: Tibetano de Khams
     auto: true

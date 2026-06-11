@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أجافوتاجيرا
     auto: true
+  - translation_iso: ben
+    name: আগাভোতাগুয়েরা
   - translation_iso: deu
     name: Agavotaguerra
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アガヴォタグエッラ語
     auto: true
+  - translation_iso: kor
+    name: 아가보타게하어
+    auto: true
   - translation_iso: por
     name: Agavotaguerra
     auto: true
+  - translation_iso: rus
+    name: Агавотагерра
   - translation_iso: spa
     name: agavotaguerra
   - translation_iso: zho

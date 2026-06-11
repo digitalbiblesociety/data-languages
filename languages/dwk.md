@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ダウィック・クイ語
     auto: true
+  - translation_iso: kor
+    name: 다위크 쿠이어
+    auto: true
   - translation_iso: por
     name: Kui Dawik
     auto: true

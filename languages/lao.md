@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lao_language"
 translations:
   - translation_iso: ara
     name: لاو
+  - translation_iso: ben
+    name: লাও
   - translation_iso: deu
     name: Laotisch
   - translation_iso: fra
     name: lao
   - translation_iso: hin
     name: लाओ भाषा
+  - translation_iso: ind
+    name: Lao
   - translation_iso: jpn
     name: ラーオ語
   - translation_iso: kor
     name: 라오어
   - translation_iso: por
     name: Língua laociana
+  - translation_iso: rus
+    name: лаосский
   - translation_iso: spa
     name: lao
   - translation_iso: zho

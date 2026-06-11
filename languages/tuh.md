@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タウリル語
+  - translation_iso: kor
+    name: 타울릴어
+    auto: true
   - translation_iso: por
     name: Taulil
     auto: true

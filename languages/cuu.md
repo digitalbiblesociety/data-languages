@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 傣雅語
+  - translation_iso: kor
+    name: 타이야어
+    auto: true
   - translation_iso: por
     name: Língua tai ya
   - translation_iso: spa

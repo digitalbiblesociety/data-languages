@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンダス語
+  - translation_iso: kor
+    name: 칸다스어
+    auto: true
   - translation_iso: por
     name: Kandas
     auto: true

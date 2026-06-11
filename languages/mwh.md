@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モク・アリア語
+  - translation_iso: kor
+    name: 무크아리아어
+    auto: true
   - translation_iso: por
     name: Mouk-Aria
     auto: true

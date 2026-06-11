@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: سورشترا
     auto: true
+  - translation_iso: ben
+    name: সৌরাষ্ট্র ভাষা
   - translation_iso: deu
     name: Saurashtri
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     name: सौराष्ट्र भाषा
   - translation_iso: jpn
     name: サウラーシュトラ語
+  - translation_iso: kor
+    name: 사우라슈트라어
+    auto: true
   - translation_iso: por
     name: Língua saurashtra
+  - translation_iso: rus
+    name: саураштра
   - translation_iso: spa
     name: saurashtra
   - translation_iso: zho

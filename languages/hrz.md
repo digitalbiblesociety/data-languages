@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Herzendī
+  - translation_iso: kor
+    name: 하르자니어
+    auto: true
   - translation_iso: por
     name: Harzani
     auto: true

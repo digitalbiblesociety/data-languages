@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Sorbian_language"
 translations:
   - translation_iso: ara
     name: اللغة الصوربية العليا
+  - translation_iso: ben
+    name: সোর্বিয়ান (উচ্চ)
   - translation_iso: deu
     name: Obersorbisch
   - translation_iso: fra
     name: haut-sorabe
   - translation_iso: hin
     name: ऊपरी सॉर्बियन
+  - translation_iso: ind
+    name: Sorbia Hulu
   - translation_iso: jpn
     name: 高地ソルブ語
   - translation_iso: kor
     name: 고지 소르브어
   - translation_iso: por
     name: alto sorábio
+  - translation_iso: rus
+    name: верхнелужицкий
   - translation_iso: spa
     name: alto sorabo
   - translation_iso: zho

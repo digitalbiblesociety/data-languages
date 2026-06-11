@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: तोंकावा
     auto: true
+  - translation_iso: ind
+    name: bahasa Tonkawa
   - translation_iso: jpn
     name: トンカワ語
+    auto: true
+  - translation_iso: kor
+    name: 톤카와어
     auto: true
   - translation_iso: por
     name: Tonkawa
     auto: true
+  - translation_iso: rus
+    name: тонкава
   - translation_iso: spa
     name: idioma tónkawa
   - translation_iso: zho

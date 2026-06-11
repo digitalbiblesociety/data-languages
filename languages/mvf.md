@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群
+  - translation_iso: kor
+    name: 내몽골어
+    auto: true
   - translation_iso: por
     name: mongol periférico
     auto: true
+  - translation_iso: rus
+    name: южномонгольский язык
   - translation_iso: spa
     name: Mongol Periférico
     auto: true

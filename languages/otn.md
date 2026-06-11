@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テナンゴ・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 테낭고 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Tenango
     auto: true

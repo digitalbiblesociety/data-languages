@@ -21,17 +21,26 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإسرائيلية
     auto: true
+  - translation_iso: ben
+    name: ইসরায়েলি ইশারা ভাষা
   - translation_iso: deu
     name: Israelische Gebärdensprache
   - translation_iso: fra
     name: langue des signes israélienne
   - translation_iso: hin
     name: इज़राइली सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Israel
   - translation_iso: jpn
     name: イスラエル手話
+  - translation_iso: kor
+    name: 이스라엘 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Israelense
     auto: true
+  - translation_iso: rus
+    name: израильский жестовый язык
   - translation_iso: spa
     name: lengua de señas israelí
   - translation_iso: zho

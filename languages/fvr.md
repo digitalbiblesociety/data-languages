@@ -34,6 +34,8 @@ translations:
     name: 푸르어
   - translation_iso: por
     name: Língua fur
+  - translation_iso: rus
+    name: фур
   - translation_iso: spa
     name: Idioma fur
   - translation_iso: zho

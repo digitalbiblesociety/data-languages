@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンディ語
+  - translation_iso: kor
+    name: 난디어
+    auto: true
   - translation_iso: por
     name: Nandi
     auto: true

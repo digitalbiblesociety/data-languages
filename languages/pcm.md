@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Pidgin"
 translations:
   - translation_iso: ara
     name: البيدغينية النيجيرية
+  - translation_iso: ben
+    name: নাইজেরীয় পিজিন
   - translation_iso: deu
     name: nigerianisches Pidgin
   - translation_iso: fra
     name: pidgin nigérian
   - translation_iso: hin
     name: नाइजीरियाई पिडगिन
+  - translation_iso: ind
+    name: Pidgin Nigeria
   - translation_iso: jpn
     name: ナイジェリア・ピジン
   - translation_iso: kor
     name: 나이지리아 피진
   - translation_iso: por
     name: Língua naijá
+  - translation_iso: rus
+    name: нигерийско-креольский
   - translation_iso: spa
     name: Pidgin nigeriano
   - translation_iso: zho

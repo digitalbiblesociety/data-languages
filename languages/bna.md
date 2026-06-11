@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बोनेराते
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bonerate
   - translation_iso: jpn
     name: ボネラート語
+    auto: true
+  - translation_iso: kor
+    name: 보네라테어
     auto: true
   - translation_iso: por
     name: Bonerate

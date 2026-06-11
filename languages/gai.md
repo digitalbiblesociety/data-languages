@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボレイ語
     auto: true
+  - translation_iso: kor
+    name: 보레이어
+    auto: true
   - translation_iso: por
     name: Borei
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 高地プエブラ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 고지 푸에블라 나와틀어
+    auto: true
   - translation_iso: por
     name: Náuatle de Puebla das Terras Altas
     auto: true

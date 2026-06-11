@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ジェン語
     auto: true
+  - translation_iso: kor
+    name: 자어
+    auto: true
   - translation_iso: por
     name: Língua jen
+  - translation_iso: rus
+    name: Джен
   - translation_iso: spa
     name: Dza
     auto: true

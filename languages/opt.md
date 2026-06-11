@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: オパタ語
     auto: true
+  - translation_iso: kor
+    name: 오파타어
+    auto: true
   - translation_iso: por
     name: Opata
     auto: true
+  - translation_iso: rus
+    name: опата
   - translation_iso: spa
     name: ópata
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サンシボリ語
     auto: true
+  - translation_iso: kor
+    name: 산시어
+    auto: true
   - translation_iso: por
     name: Sansi
     auto: true

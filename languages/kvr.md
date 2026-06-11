@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: केरिंची
     auto: true
+  - translation_iso: ind
+    name: bahasa Kerinci
   - translation_iso: jpn
     name: クリンチ語
+  - translation_iso: kor
+    name: 케린치어
+    auto: true
   - translation_iso: por
     name: Kerinci
+  - translation_iso: rus
+    name: Керинчи (язык)
   - translation_iso: spa
     name: Kerinci
   - translation_iso: zho

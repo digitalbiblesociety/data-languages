@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेमिमी
     auto: true
+  - translation_iso: ind
+    name: Etna Bay
   - translation_iso: jpn
     name: セミミ語
+    auto: true
+  - translation_iso: kor
+    name: 세미미어
     auto: true
   - translation_iso: por
     name: Semimi

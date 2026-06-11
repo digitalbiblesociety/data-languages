@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Baduy_language"
 translations:
   - translation_iso: ara
     name: لغة بادوي
+  - translation_iso: ben
+    name: বাদুই
   - translation_iso: deu
     name: Baduy
   - translation_iso: fra
@@ -22,8 +24,13 @@ translations:
   - translation_iso: hin
     name: बादुई
     auto: true
+  - translation_iso: ind
+    name: Badui
   - translation_iso: jpn
     name: バドゥイ語
+    auto: true
+  - translation_iso: kor
+    name: 바두이어
     auto: true
   - translation_iso: por
     name: Badui

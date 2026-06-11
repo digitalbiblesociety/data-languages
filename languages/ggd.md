@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グガジ語
     auto: true
+  - translation_iso: kor
+    name: 구가지어
+    auto: true
   - translation_iso: por
     name: Gugadj
     auto: true

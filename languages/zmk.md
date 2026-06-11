@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンダンダニ語
     auto: true
+  - translation_iso: kor
+    name: 만단다니어
+    auto: true
   - translation_iso: por
     name: Mandandanyi
     auto: true

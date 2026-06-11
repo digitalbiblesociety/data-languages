@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ホヤホヤ語
     auto: true
+  - translation_iso: kor
+    name: 호야호야어
+    auto: true
   - translation_iso: por
     name: Hoyahoya
     auto: true

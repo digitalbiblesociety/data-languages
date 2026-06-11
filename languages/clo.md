@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ローランド・オアハカ・チョンタル語
     auto: true
+  - translation_iso: kor
+    name: 저지 오아하카 촌탈어
+    auto: true
   - translation_iso: por
     name: Chontal das terras baixas de Oaxaca
     auto: true

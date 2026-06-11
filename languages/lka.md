@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラカレイ語
     auto: true
+  - translation_iso: kor
+    name: 라칼레이어
+    auto: true
   - translation_iso: por
     name: Lakalei
     auto: true

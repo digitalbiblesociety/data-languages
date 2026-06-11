@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: ग्रीन गेलाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Hagei
   - translation_iso: jpn
     name: グリーン・ゲラオ語
+    auto: true
+  - translation_iso: kor
+    name: 청거라오어
     auto: true
   - translation_iso: por
     name: gelao verde
     auto: true
+  - translation_iso: rus
+    name: Хакэй (язык)
   - translation_iso: spa
     name: Gelao verde
     auto: true

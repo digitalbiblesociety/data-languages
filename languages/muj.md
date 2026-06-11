@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مابيري
     auto: true
+  - translation_iso: ben
+    name: মাবিরে ভাষা
   - translation_iso: deu
     name: Mabire
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マビレ語
+    auto: true
+  - translation_iso: kor
+    name: 마비레어
     auto: true
   - translation_iso: por
     name: Mabire

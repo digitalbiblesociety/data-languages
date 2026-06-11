@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルンガ語
     auto: true
+  - translation_iso: kor
+    name: 룽가어
+    auto: true
   - translation_iso: por
     name: Runga
     auto: true

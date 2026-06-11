@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティラニゲ・ディガ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 티라니게 디가 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Tiranige Diga
     auto: true

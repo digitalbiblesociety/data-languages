@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باربارينيو
     auto: true
+  - translation_iso: ben
+    name: বারবারেনো
   - translation_iso: deu
     name: Barbareño
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: バルバレーニョ語
     auto: true
+  - translation_iso: kor
+    name: 바르바레뇨어
+    auto: true
   - translation_iso: por
     name: Língua barbareña
+  - translation_iso: rus
+    name: Барбареньо
   - translation_iso: spa
     name: barbareño
   - translation_iso: zho

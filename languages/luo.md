@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dholuo"
 translations:
   - translation_iso: ara
     name: الدهولوية
+  - translation_iso: ben
+    name: লুয়ো
   - translation_iso: deu
     name: Luo
   - translation_iso: fra
     name: luo
   - translation_iso: hin
     name: लुओ भाषा
+  - translation_iso: ind
+    name: Luo
   - translation_iso: jpn
     name: ルオ語
   - translation_iso: kor
     name: 루오어
   - translation_iso: por
     name: Língua luo
+  - translation_iso: rus
+    name: луо
   - translation_iso: spa
     name: Luo (Kenia y Tanzania)
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボン・グラ語
     auto: true
+  - translation_iso: kor
+    name: 본 굴라어
+    auto: true
   - translation_iso: por
     name: Bon Gula
     auto: true

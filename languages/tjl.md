@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: タイ・ライン語
     auto: true
+  - translation_iso: kor
+    name: 타이 라잉어
+    auto: true
   - translation_iso: por
     name: Língua tai lai
+  - translation_iso: rus
+    name: Тай-лай
   - translation_iso: spa
     name: Tai Laing
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: アジュムブ語
     auto: true
+  - translation_iso: kor
+    name: 아줌부어
+    auto: true
   - translation_iso: por
     name: Ajumbu
     auto: true
+  - translation_iso: rus
+    name: Аджумбу
   - translation_iso: spa
     name: Ajumbu
     auto: true

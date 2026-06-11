@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तालियाबु
     auto: true
+  - translation_iso: ind
+    name: Taliabu
   - translation_iso: jpn
     name: タリアブ語
+    auto: true
+  - translation_iso: kor
+    name: 탈리아부어
     auto: true
   - translation_iso: por
     name: Taliabu

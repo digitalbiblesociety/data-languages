@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: उराली
     auto: true
+  - translation_iso: ind
+    name: Urali
   - translation_iso: jpn
     name: オーラジ語
+    auto: true
+  - translation_iso: kor
+    name: 우랄리어
     auto: true
   - translation_iso: por
     name: Urali
     auto: true
+  - translation_iso: rus
+    name: урали
   - translation_iso: spa
     name: Urali
     auto: true

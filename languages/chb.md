@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Muisca_language"
 translations:
   - translation_iso: ara
     name: التشيبشا
+  - translation_iso: ben
+    name: চিবচা
   - translation_iso: deu
     name: Chibcha
   - translation_iso: fra
     name: muisca
   - translation_iso: hin
     name: चिब्चा
+  - translation_iso: ind
+    name: Chibcha
   - translation_iso: jpn
     name: チブチャ語
   - translation_iso: kor
     name: 치브차어
   - translation_iso: por
     name: Língua chibcha
+  - translation_iso: rus
+    name: чибча
   - translation_iso: spa
     name: idioma muisca
   - translation_iso: zho

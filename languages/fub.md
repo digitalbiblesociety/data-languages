@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الفولفولدية آدمووا
     auto: true
+  - translation_iso: ben
+    name: আদামাউয়া-ফুলফুলদে
   - translation_iso: deu
     name: Adamaua-Fulfulde
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
+  - translation_iso: kor
+    name: 아다마와 풀풀데어
+    auto: true
   - translation_iso: por
     name: Língua adamaua fulfulde
   - translation_iso: spa

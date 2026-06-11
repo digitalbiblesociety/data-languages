@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: メンギサ語
     auto: true
+  - translation_iso: kor
+    name: 멩기사어
+    auto: true
   - translation_iso: por
     name: Mengisa
     auto: true

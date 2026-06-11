@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドゥングーマ語
     auto: true
+  - translation_iso: kor
+    name: 둔구마어
+    auto: true
   - translation_iso: por
     name: Duungooma
     auto: true

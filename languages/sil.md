@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シサーラ語
     auto: true
+  - translation_iso: kor
+    name: 투물룽 시살라어
+    auto: true
   - translation_iso: por
     name: Sisaala Tumulung
     auto: true

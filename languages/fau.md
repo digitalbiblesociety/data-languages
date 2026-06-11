@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: फायू
     auto: true
+  - translation_iso: ind
+    name: Fayu
   - translation_iso: jpn
     name: ファユ語
+    auto: true
+  - translation_iso: kor
+    name: 파유어
     auto: true
   - translation_iso: por
     name: Fayu

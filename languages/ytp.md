@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ソッフォ語
     auto: true
+  - translation_iso: kor
+    name: 토포어
+    auto: true
   - translation_iso: por
     name: thopho
     auto: true

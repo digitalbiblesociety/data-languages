@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manding_languages"
 translations:
   - translation_iso: ara
     name: الماندينغ
+  - translation_iso: ben
+    name: ম্যান্ডিঙ্গো
   - translation_iso: deu
     name: Manding-Sprachen
   - translation_iso: fra
     name: langues mandingues
   - translation_iso: hin
     name: अनिवर्य भाषाएं
+  - translation_iso: ind
+    name: Mandingo
   - translation_iso: jpn
     name: マンディング諸語
   - translation_iso: kor
     name: 만딩어
   - translation_iso: por
     name: mandinga
+  - translation_iso: rus
+    name: мандинго
   - translation_iso: spa
     name: lenguas mandinga
   - translation_iso: zho

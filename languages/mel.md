@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सेंट्रल मेलानाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melanau
   - translation_iso: jpn
     name: 中央メラナウ語
+    auto: true
+  - translation_iso: kor
+    name: 중부 멜라나우어
     auto: true
   - translation_iso: por
     name: Melanau central

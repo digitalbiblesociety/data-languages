@@ -23,9 +23,14 @@ translations:
     name: कुई भाषा
   - translation_iso: jpn
     name: クーイ語
+  - translation_iso: kor
+    name: 쿠이어
+    auto: true
   - translation_iso: por
     name: Kui (Índia)
     auto: true
+  - translation_iso: rus
+    name: Куи (язык)
   - translation_iso: spa
     name: Kui (India)
     auto: true

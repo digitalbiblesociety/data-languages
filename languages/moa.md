@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ムワン語
     auto: true
+  - translation_iso: kor
+    name: 무안어
+    auto: true
   - translation_iso: por
     name: Mwan
     auto: true
+  - translation_iso: rus
+    name: Муан (язык)
   - translation_iso: spa
     name: Mwan
     auto: true

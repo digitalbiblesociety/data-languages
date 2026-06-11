@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة وبالا
     auto: true
+  - translation_iso: ben
+    name: বালা
   - translation_iso: deu
     name: Lobala
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロバラ語
+    auto: true
+  - translation_iso: kor
+    name: 로발라어
     auto: true
   - translation_iso: por
     name: Lobala

@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chhattisgarhi_language"
 translations:
   - translation_iso: ara
     name: تشهاتيسجارية
+  - translation_iso: ben
+    name: ছত্তিশগড়ি ভাষা
   - translation_iso: deu
     name: Chhattisgarhi
   - translation_iso: fra
@@ -33,6 +35,8 @@ translations:
     name: 차티스가르어
   - translation_iso: por
     name: Língua chhattisgarhi
+  - translation_iso: rus
+    name: чхаттисгархи
   - translation_iso: spa
     name: chatisgarí
   - translation_iso: zho

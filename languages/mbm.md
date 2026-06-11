@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバンバ語
+  - translation_iso: kor
+    name: 옴밤바어
+    auto: true
   - translation_iso: por
     name: Ombamba
     auto: true

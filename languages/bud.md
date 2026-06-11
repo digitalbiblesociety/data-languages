@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ンチャム語
     auto: true
+  - translation_iso: kor
+    name: 은참어
+    auto: true
   - translation_iso: por
     name: Ntcham
     auto: true
+  - translation_iso: rus
+    name: Нтчам
   - translation_iso: spa
     name: Idioma ntcham
   - translation_iso: zho

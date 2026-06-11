@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤングマン語
     auto: true
+  - translation_iso: kor
+    name: 양만어
+    auto: true
   - translation_iso: por
     name: Yangman
     auto: true

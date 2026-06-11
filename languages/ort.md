@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أديفاسي أوريا
     auto: true
+  - translation_iso: ben
+    name: আদিবাসী ওড়িয়া
   - translation_iso: deu
     name: Adivasi-Oriya
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: And
   - translation_iso: jpn
     name: アディバシ・オリヤ語
+    auto: true
+  - translation_iso: kor
+    name: 아디바시 오리야어
     auto: true
   - translation_iso: por
     name: Oriá Adivasi

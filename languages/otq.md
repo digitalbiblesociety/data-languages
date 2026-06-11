@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケレタロ・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 케레타로 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Querétaro
     auto: true

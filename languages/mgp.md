@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: 東マガル語
     auto: true
+  - translation_iso: kor
+    name: 동부 마가르어
+    auto: true
   - translation_iso: por
     name: magar oriental
     auto: true

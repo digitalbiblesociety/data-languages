@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドマ語
+  - translation_iso: kor
+    name: 이도마어
+    auto: true
   - translation_iso: por
     name: Idoma
     auto: true

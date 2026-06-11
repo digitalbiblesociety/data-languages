@@ -24,9 +24,14 @@ translations:
   - translation_iso: jpn
     name: 中ブルトン語
     auto: true
+  - translation_iso: kor
+    name: 중세 브르타뉴어
+    auto: true
   - translation_iso: por
     name: Bretão Médio
     auto: true
+  - translation_iso: rus
+    name: среднебретонский язык
   - translation_iso: spa
     name: bretón medio
   - translation_iso: zho

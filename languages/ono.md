@@ -35,6 +35,8 @@ translations:
     name: 오논다가어
   - translation_iso: por
     name: Língua onondaga
+  - translation_iso: rus
+    name: Онондага
   - translation_iso: spa
     name: Onondaga
   - translation_iso: zho

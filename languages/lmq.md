@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: लामातुका
     auto: true
+  - translation_iso: ind
+    name: Lamatuka
   - translation_iso: jpn
     name: ラマトゥカ語
+    auto: true
+  - translation_iso: kor
+    name: 라마투카어
     auto: true
   - translation_iso: por
     name: Lamatuka

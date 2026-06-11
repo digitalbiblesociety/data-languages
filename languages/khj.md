@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クトゥルミ語
     auto: true
+  - translation_iso: kor
+    name: 쿠투르미어
+    auto: true
   - translation_iso: por
     name: Kuturmi
     auto: true

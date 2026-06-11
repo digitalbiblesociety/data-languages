@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイ・サンジャク・スラト語
+  - translation_iso: kor
+    name: 코이 산자크 수라트어
+    auto: true
   - translation_iso: por
     name: Surat de Koy Sanjaq
     auto: true
+  - translation_iso: rus
+    name: кой саняк-сирийский
   - translation_iso: spa
     name: Surat de Koy Sanjaq
     auto: true

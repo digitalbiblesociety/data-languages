@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東バローチー語
+  - translation_iso: kor
+    name: 동부 발루치어
+    auto: true
   - translation_iso: por
     name: Balúchi oriental
     auto: true
+  - translation_iso: rus
+    name: восточный белуджский
   - translation_iso: spa
     name: Baluchi oriental
     auto: true

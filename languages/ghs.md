@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: グフ・サマネ語
     auto: true
+  - translation_iso: kor
+    name: 구후·사마네어
+    auto: true
   - translation_iso: por
     name: Guhu-Samane
     auto: true

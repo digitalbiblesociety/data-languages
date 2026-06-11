@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوليوا
     auto: true
+  - translation_iso: ben
+    name: আউলুয়া
   - translation_iso: deu
     name: Aulua
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アウルア語
     auto: true
+  - translation_iso: kor
+    name: 아울루아어
+    auto: true
   - translation_iso: por
     name: Aulua
     auto: true
+  - translation_iso: rus
+    name: Аулуа
   - translation_iso: spa
     name: Aulua
     auto: true

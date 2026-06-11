@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشوراهي
     auto: true
+  - translation_iso: ben
+    name: চুরাহী ভাষা
   - translation_iso: deu
     name: Churahi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: चुराही
   - translation_iso: jpn
     name: チュラヒ語
+    auto: true
+  - translation_iso: kor
+    name: 추라히어
     auto: true
   - translation_iso: por
     name: Churahi

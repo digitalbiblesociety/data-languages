@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أجيي
     auto: true
+  - translation_iso: ben
+    name: আজিই
   - translation_iso: deu
     name: Ajië
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンジエ語
+  - translation_iso: kor
+    name: 아지에어
+    auto: true
   - translation_iso: por
     name: Língua ajië
+  - translation_iso: rus
+    name: Аджиэ
   - translation_iso: spa
     name: Idioma ajië
   - translation_iso: zho

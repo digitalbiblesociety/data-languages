@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونجي
     auto: true
+  - translation_iso: ben
+    name: আউংগি
   - translation_iso: deu
     name: Awngi
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: アウンギ語
     auto: true
+  - translation_iso: kor
+    name: 아웅기어
+    auto: true
   - translation_iso: por
     name: Língua awngi
+  - translation_iso: rus
+    name: Авнги
   - translation_iso: spa
     name: Awngi
     auto: true

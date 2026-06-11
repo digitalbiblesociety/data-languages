@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: न्गालुम
     auto: true
+  - translation_iso: ind
+    name: Ngalum
   - translation_iso: jpn
     name: ンガルム語
+    auto: true
+  - translation_iso: kor
+    name: 응알룸어
     auto: true
   - translation_iso: por
     name: Língua ngalum

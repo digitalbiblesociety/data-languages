@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブマジ語
     auto: true
+  - translation_iso: kor
+    name: 부마지어
+    auto: true
   - translation_iso: por
     name: Bumaji
     auto: true

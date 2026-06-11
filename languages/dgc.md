@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カシグラン・ドゥマガット・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 카시구란 두마가트 아그타어
+    auto: true
   - translation_iso: por
     name: Língua dumagat agta
   - translation_iso: spa

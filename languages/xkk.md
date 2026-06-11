@@ -32,8 +32,11 @@ translations:
   - translation_iso: jpn
     name: カコ語
     auto: true
+  - translation_iso: kor
+    name: 카코어
+    auto: true
   - translation_iso: por
-    name: "Kaco'"
+    name: Kaco
     auto: true
   - translation_iso: spa
     name: Kaco

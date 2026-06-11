@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メセム語
+  - translation_iso: kor
+    name: 메세어
+    auto: true
   - translation_iso: por
     name: Mese
     auto: true

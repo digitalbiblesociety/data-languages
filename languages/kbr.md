@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: カファ語
     auto: true
+  - translation_iso: kor
+    name: 카파어
+    auto: true
   - translation_iso: por
     name: Kafa
     auto: true
+  - translation_iso: rus
+    name: Каффа
   - translation_iso: spa
     name: idioma kafa
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プハ語
     auto: true
+  - translation_iso: kor
+    name: 푸카어
+    auto: true
   - translation_iso: por
     name: Phukha
     auto: true

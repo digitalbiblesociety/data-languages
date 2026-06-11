@@ -28,9 +28,14 @@ translations:
   - translation_iso: jpn
     name: カユース語
     auto: true
+  - translation_iso: kor
+    name: 카유스어
+    auto: true
   - translation_iso: por
     name: Cayuse
     auto: true
+  - translation_iso: rus
+    name: Каюсе
   - translation_iso: spa
     name: idioma cayuse
   - translation_iso: zho

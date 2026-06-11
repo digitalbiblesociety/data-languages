@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: وانشو ناغا
     auto: true
+  - translation_iso: ben
+    name: ওয়াঞ্চো ভাষা
   - translation_iso: deu
     name: Wancho-Naga
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 완초어
   - translation_iso: por
     name: Língua wancho
+  - translation_iso: rus
+    name: уанчо
   - translation_iso: spa
     name: Naga Wancho
     auto: true

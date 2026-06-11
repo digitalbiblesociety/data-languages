@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キセゲジュ語
     auto: true
+  - translation_iso: kor
+    name: 세게주어
+    auto: true
   - translation_iso: por
     name: Segeju
     auto: true

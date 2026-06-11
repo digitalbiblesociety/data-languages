@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: プリ語
     auto: true
+  - translation_iso: kor
+    name: 푸리어
+    auto: true
   - translation_iso: por
     name: Língua puri
+  - translation_iso: rus
+    name: пури
   - translation_iso: spa
     name: Puri
     auto: true

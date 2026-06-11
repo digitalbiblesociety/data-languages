@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: धाओ
     auto: true
+  - translation_iso: ind
+    name: Dhao
   - translation_iso: jpn
     name: ダハオ語
+    auto: true
+  - translation_iso: kor
+    name: 다오어
     auto: true
   - translation_iso: por
     name: Língua dhao

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: 中央ワステカ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 중부 우아스테카 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl da Huasteca Central
     auto: true
+  - translation_iso: rus
+    name: центрально-уастеканский науатль
   - translation_iso: spa
     name: Mexicano de la Huasteca hidalguense
   - translation_iso: zho

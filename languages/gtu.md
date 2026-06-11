@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: آغو-ثآرنجغآلآ
     auto: true
+  - translation_iso: ben
+    name: আঘু থারংগালা
   - translation_iso: deu
     name: Aghu-Tharnggala
     auto: true
@@ -25,9 +27,14 @@ translations:
   - translation_iso: jpn
     name: アグ・タルングガラ語
     auto: true
+  - translation_iso: kor
+    name: 아구타른갈라어
+    auto: true
   - translation_iso: por
     name: Aghu-Tharnggala
     auto: true
+  - translation_iso: rus
+    name: агу-тарнкгала
   - translation_iso: spa
     name: Idioma aghu-tharnggala
   - translation_iso: zho

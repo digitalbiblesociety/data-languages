@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ゾツング・チン語
     auto: true
+  - translation_iso: kor
+    name: 조퉁 친어
+    auto: true
   - translation_iso: por
     name: Chin Zotung
     auto: true

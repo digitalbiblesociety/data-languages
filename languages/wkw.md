@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワカワカ語
     auto: true
+  - translation_iso: kor
+    name: 와카와카어
+    auto: true
   - translation_iso: por
     name: Wakawaka
     auto: true
+  - translation_iso: rus
+    name: уакка-уакка
   - translation_iso: spa
     name: idioma waga
   - translation_iso: zho

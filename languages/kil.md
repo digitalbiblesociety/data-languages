@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カリヤ語
     auto: true
+  - translation_iso: kor
+    name: 카리야어
+    auto: true
   - translation_iso: por
     name: Kariya
     auto: true
+  - translation_iso: rus
+    name: Кария
   - translation_iso: spa
     name: Kariya
     auto: true

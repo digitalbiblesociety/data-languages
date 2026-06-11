@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キシンビティ語
     auto: true
+  - translation_iso: kor
+    name: 수바심비티어
+    auto: true
   - translation_iso: por
     name: Língua simbiti
   - translation_iso: spa

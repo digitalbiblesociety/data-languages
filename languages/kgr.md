@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آبون
     auto: true
+  - translation_iso: ben
+    name: আবুন
   - translation_iso: deu
     name: Abun
     auto: true
@@ -26,12 +28,19 @@ translations:
   - translation_iso: hin
     name: अबुन
     auto: true
+  - translation_iso: ind
+    name: Abun
   - translation_iso: jpn
     name: アブン語
+    auto: true
+  - translation_iso: kor
+    name: 아분어
     auto: true
   - translation_iso: por
     name: Abun
     auto: true
+  - translation_iso: rus
+    name: Абун
   - translation_iso: spa
     name: Idioma abun
   - translation_iso: zho

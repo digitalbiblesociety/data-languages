@@ -33,6 +33,8 @@ translations:
     name: 칼로어
   - translation_iso: por
     name: Caló
+  - translation_iso: rus
+    name: испанский кало
   - translation_iso: spa
     name: caló
   - translation_iso: zho

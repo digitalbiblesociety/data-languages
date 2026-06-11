@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クイトラテック語
+  - translation_iso: kor
+    name: 쿠이틀라텍어
+    auto: true
   - translation_iso: por
     name: Cuitlateco
     auto: true
+  - translation_iso: rus
+    name: куитлатекский язык
   - translation_iso: spa
     name: idioma cuitlateco
   - translation_iso: zho

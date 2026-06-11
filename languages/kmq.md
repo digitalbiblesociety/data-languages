@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: クワマ語
     auto: true
+  - translation_iso: kor
+    name: 콰마어
+    auto: true
   - translation_iso: por
     name: Língua kuama
+  - translation_iso: rus
+    name: Квама
   - translation_iso: spa
     name: Kwama
     auto: true

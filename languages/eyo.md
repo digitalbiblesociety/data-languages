@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケイヨ語
+  - translation_iso: kor
+    name: 케이요어
+    auto: true
   - translation_iso: por
     name: Keiyo
     auto: true

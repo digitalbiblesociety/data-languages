@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ロキチャ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 로시차 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Loxicha
     auto: true
+  - translation_iso: rus
+    name: Лохичанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Loxicha
     auto: true

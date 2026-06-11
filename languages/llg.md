@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लोले
     auto: true
+  - translation_iso: ind
+    name: Lole
   - translation_iso: jpn
     name: ロレ語
+    auto: true
+  - translation_iso: kor
+    name: 롤레어
     auto: true
   - translation_iso: por
     name: Lole

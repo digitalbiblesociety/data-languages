@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: دهوندري
     auto: true
+  - translation_iso: ben
+    name: ঢুনঢারি ভাষা
   - translation_iso: deu
     name: Dhundari
     auto: true
@@ -30,10 +32,17 @@ translations:
     auto: true
   - translation_iso: hin
     name: ढूंढारी
+  - translation_iso: ind
+    name: bahasa Dhundhar
   - translation_iso: jpn
     name: ドゥーンダリ語
+  - translation_iso: kor
+    name: 둔다리어
+    auto: true
   - translation_iso: por
     name: Língua dhundari
+  - translation_iso: rus
+    name: Дхундари
   - translation_iso: spa
     name: Dhundari
     auto: true

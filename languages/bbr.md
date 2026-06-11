@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギラワ語
     auto: true
+  - translation_iso: kor
+    name: 기라와어
+    auto: true
   - translation_iso: por
     name: Girawa
     auto: true

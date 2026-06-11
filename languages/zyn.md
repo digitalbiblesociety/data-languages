@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 邕南チワン語
+  - translation_iso: kor
+    name: 융난 좡어
+    auto: true
   - translation_iso: por
     name: zhuang de Yongnan
     auto: true
+  - translation_iso: rus
+    name: Юннаньский чжуанский язык
   - translation_iso: spa
     name: Zhuang de Yongnan
     auto: true

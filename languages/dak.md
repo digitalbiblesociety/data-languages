@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dakota_language"
 translations:
   - translation_iso: ara
     name: لغة داكوتا
+  - translation_iso: ben
+    name: ডাকোটা
   - translation_iso: deu
     name: Dakota
   - translation_iso: fra
     name: dakota
   - translation_iso: hin
     name: दाकोता
+  - translation_iso: ind
+    name: Dakota
   - translation_iso: jpn
     name: ダコタ語
   - translation_iso: kor
     name: 다코타어
   - translation_iso: por
     name: dacota
+  - translation_iso: rus
+    name: дакота
   - translation_iso: spa
     name: Dakota
   - translation_iso: zho

@@ -33,6 +33,8 @@ translations:
     name: 키카푸어
   - translation_iso: por
     name: Kickapoo
+  - translation_iso: rus
+    name: кикапу
   - translation_iso: spa
     name: idioma kikapú
   - translation_iso: zho

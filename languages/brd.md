@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باراامو
     auto: true
+  - translation_iso: ben
+    name: বরাম
   - translation_iso: deu
     name: Baraamu
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: バラアム語
     auto: true
+  - translation_iso: kor
+    name: 바라무어
+    auto: true
   - translation_iso: por
     name: Baraamu
     auto: true
+  - translation_iso: rus
+    name: Барам
   - translation_iso: spa
     name: Baraamu
     auto: true

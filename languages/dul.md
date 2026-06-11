@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アラバット島アグタ語
     auto: true
+  - translation_iso: kor
+    name: 알라바트섬 아그타어
+    auto: true
   - translation_iso: por
     name: Agta da Ilha de Alabat
     auto: true

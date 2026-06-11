@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लेवो एलेंग
     auto: true
+  - translation_iso: ind
+    name: Lewo Eleng
   - translation_iso: jpn
     name: レウォ・エレン語
+    auto: true
+  - translation_iso: kor
+    name: 레워 엘렝어
     auto: true
   - translation_iso: por
     name: Lewo Eleng

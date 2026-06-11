@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イピコ語
     auto: true
+  - translation_iso: kor
+    name: 이피코어
+    auto: true
   - translation_iso: por
     name: Ipiko
     auto: true
+  - translation_iso: rus
+    name: Ипико
   - translation_iso: spa
     name: Ipiko
     auto: true

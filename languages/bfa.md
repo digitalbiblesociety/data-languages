@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bari_language"
 translations:
   - translation_iso: ara
     name: لغة باري
+  - translation_iso: ben
+    name: বারি
   - translation_iso: deu
     name: Bari
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリ語
+  - translation_iso: kor
+    name: 바리어
+    auto: true
   - translation_iso: por
     name: Língua bari
   - translation_iso: spa

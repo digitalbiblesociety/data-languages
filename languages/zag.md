@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザガワ語
+  - translation_iso: kor
+    name: 자가와어
+    auto: true
   - translation_iso: por
     name: língua zaghawa
+  - translation_iso: rus
+    name: Загава (язык)
   - translation_iso: spa
     name: Idioma zaghawa
   - translation_iso: zho

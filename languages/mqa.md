@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: माबा (इंडोनेशिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Maba
   - translation_iso: jpn
     name: マバ語
+  - translation_iso: kor
+    name: 마바어
+    auto: true
   - translation_iso: por
     name: Maba (Indonésia)
     auto: true

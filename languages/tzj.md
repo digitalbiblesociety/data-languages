@@ -34,6 +34,8 @@ translations:
     name: 추투힐어
   - translation_iso: por
     name: Língua tsutuil
+  - translation_iso: rus
+    name: Цутухильский язык
   - translation_iso: spa
     name: Idioma zutuhil
   - translation_iso: zho

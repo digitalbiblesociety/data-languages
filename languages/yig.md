@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウサ・ナス語
     auto: true
+  - translation_iso: kor
+    name: 우사 나수어
+    auto: true
   - translation_iso: por
     name: nasu wusa
     auto: true

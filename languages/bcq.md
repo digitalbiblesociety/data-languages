@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينتش
     auto: true
+  - translation_iso: ben
+    name: বেঞ্চ
   - translation_iso: deu
     name: Bench
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンチ語
+  - translation_iso: kor
+    name: 벤치어
+    auto: true
   - translation_iso: por
     name: Língua bench
+  - translation_iso: rus
+    name: Бенч
   - translation_iso: spa
     name: Bench
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シランケ語
     auto: true
+  - translation_iso: kor
+    name: 시닌케레어
+    auto: true
   - translation_iso: por
     name: Sininkere
     auto: true

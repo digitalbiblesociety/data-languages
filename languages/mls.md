@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサリート語
+  - translation_iso: kor
+    name: 마살리트어
+    auto: true
   - translation_iso: por
     name: Língua masalit
+  - translation_iso: rus
+    name: Масалит
   - translation_iso: spa
     name: Lengua masalit
   - translation_iso: zho

@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: मोलोफ
     auto: true
+  - translation_iso: ind
+    name: Ampas
   - translation_iso: jpn
     name: モロフ語
+    auto: true
+  - translation_iso: kor
+    name: 몰로프어
     auto: true
   - translation_iso: por
     name: Molof
     auto: true
+  - translation_iso: rus
+    name: Молоф
   - translation_iso: spa
     name: Idioma molof
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバンジャ語
+  - translation_iso: kor
+    name: 음반자어
+    auto: true
   - translation_iso: por
     name: Mbandja
     auto: true

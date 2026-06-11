@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सिताक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kau
   - translation_iso: jpn
     name: アスマット・ダラット語
+    auto: true
+  - translation_iso: kor
+    name: 치탁어
     auto: true
   - translation_iso: por
     name: Citak

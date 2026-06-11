@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガンガリダ語
     auto: true
+  - translation_iso: kor
+    name: 강갈리다어
+    auto: true
   - translation_iso: por
     name: Ganggalida
     auto: true

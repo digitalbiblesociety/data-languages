@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكوه
     auto: true
+  - translation_iso: ben
+    name: পাকোহ ভাষা
   - translation_iso: deu
     name: Pacoh
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: パコー語
     auto: true
+  - translation_iso: kor
+    name: 파코어
+    auto: true
   - translation_iso: por
     name: Pacoh
     auto: true
+  - translation_iso: rus
+    name: пакохский язык
   - translation_iso: spa
     name: Pacoh
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أباغا
     auto: true
+  - translation_iso: ben
+    name: আবাগা
   - translation_iso: deu
     name: Abaga
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アバガ語
     auto: true
+  - translation_iso: kor
+    name: 아바가어
+    auto: true
   - translation_iso: por
     name: Abaga
     auto: true
+  - translation_iso: rus
+    name: Абага
   - translation_iso: spa
     name: abaga
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتسوجيوي
     auto: true
+  - translation_iso: ben
+    name: আতসুগেউই
   - translation_iso: deu
     name: Atsugewi
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アツゲウィ語
     auto: true
+  - translation_iso: kor
+    name: 아추게위어
+    auto: true
   - translation_iso: por
     name: Atsugewi
     auto: true
+  - translation_iso: rus
+    name: Ацугеви
   - translation_iso: spa
     name: Idioma atsugewi
   - translation_iso: zho

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: クウィンティ語
     auto: true
+  - translation_iso: kor
+    name: 퀸티어
+    auto: true
   - translation_iso: por
     name: Língua kwinti
+  - translation_iso: rus
+    name: Квинти
   - translation_iso: spa
     name: Kwinti
     auto: true

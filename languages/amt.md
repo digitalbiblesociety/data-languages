@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمتو
     auto: true
+  - translation_iso: ben
+    name: আমতো
   - translation_iso: deu
     name: Amto
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アムト語
     auto: true
+  - translation_iso: kor
+    name: 암토어
+    auto: true
   - translation_iso: por
     name: Amto
     auto: true
+  - translation_iso: rus
+    name: Амто
   - translation_iso: spa
     name: Idioma amto
   - translation_iso: zho

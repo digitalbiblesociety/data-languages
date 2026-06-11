@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムバンガラ語
     auto: true
+  - translation_iso: kor
+    name: 음방갈라어
+    auto: true
   - translation_iso: por
     name: Mbangala
     auto: true

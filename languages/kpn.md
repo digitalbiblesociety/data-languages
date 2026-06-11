@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ケプキリワット語
     auto: true
+  - translation_iso: kor
+    name: 켑키리와트어
+    auto: true
   - translation_iso: por
     name: Kepkiriwát
     auto: true
+  - translation_iso: rus
+    name: Кепкириват
   - translation_iso: spa
     name: Kepkiriwát
     auto: true

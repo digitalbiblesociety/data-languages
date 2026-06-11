@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ファム語
     auto: true
+  - translation_iso: kor
+    name: 팜어
+    auto: true
   - translation_iso: por
     name: Fam
     auto: true

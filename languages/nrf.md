@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Norman_language"
 translations:
   - translation_iso: ara
     name: النرمندية
+  - translation_iso: ben
+    name: নর্মান্ড ভাষা
   - translation_iso: deu
     name: Normannisch
   - translation_iso: fra
     name: normand
   - translation_iso: hin
     name: नोर्मन भाषा
+  - translation_iso: ind
+    name: bahasa Norman
   - translation_iso: jpn
     name: ノルマン語
   - translation_iso: kor
     name: 노르만어
   - translation_iso: por
     name: normando
+  - translation_iso: rus
+    name: нормандский язык
   - translation_iso: spa
     name: normando
   - translation_iso: zho

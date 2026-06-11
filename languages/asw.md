@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأسترالية الأصلية
     auto: true
+  - translation_iso: ben
+    name: অস্ট্রেলীয় আদিবাসী ইশারা ভাষা
   - translation_iso: deu
     name: Gebärdensprachen der Aborigines
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラリア・アボリジニ手話
+  - translation_iso: kor
+    name: 오스트레일리아 원주민 수어
+    auto: true
   - translation_iso: por
     name: Línguas de sinais de aborígenes australianos
+  - translation_iso: rus
+    name: жестовые языки австралийских аборигенов
   - translation_iso: spa
     name: Lengua de señas de los aborígenes australianos
     auto: true

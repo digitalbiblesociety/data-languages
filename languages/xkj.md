@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カジャリ語
     auto: true
+  - translation_iso: kor
+    name: 카잘리어
+    auto: true
   - translation_iso: por
     name: Kajali
     auto: true

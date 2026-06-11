@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スクルム語
     auto: true
+  - translation_iso: kor
+    name: 수쿠룸어
+    auto: true
   - translation_iso: por
     name: Sukurum
     auto: true

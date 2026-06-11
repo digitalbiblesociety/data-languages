@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブウィシ語
     auto: true
+  - translation_iso: kor
+    name: 브위시어
+    auto: true
   - translation_iso: por
     name: Bwisi
     auto: true

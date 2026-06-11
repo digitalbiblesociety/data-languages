@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニモア語
+  - translation_iso: kor
+    name: 니모아어
+    auto: true
   - translation_iso: por
     name: Nimoa
     auto: true

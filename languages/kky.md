@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語
+  - translation_iso: kor
+    name: 구구 이미티르어
+    auto: true
   - translation_iso: por
     name: Guguyimidjir
+  - translation_iso: rus
+    name: кууку-йимитирский язык
   - translation_iso: spa
     name: Idioma guugu yimithirr
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カエラ語
     auto: true
+  - translation_iso: kor
+    name: 카에라어
+    auto: true
   - translation_iso: por
     name: Kaera
     auto: true

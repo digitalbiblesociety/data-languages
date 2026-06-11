@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kalina_language"
 translations:
   - translation_iso: ara
     name: الكاريبية
+  - translation_iso: ben
+    name: ক্যারিব
   - translation_iso: deu
     name: Karibisch
   - translation_iso: fra
     name: "kali'na"
   - translation_iso: hin
     name: कैरिब
+  - translation_iso: ind
+    name: Karibia
   - translation_iso: jpn
     name: カリブ語
   - translation_iso: kor
     name: 카리브어
   - translation_iso: por
     name: Língua galibi
+  - translation_iso: rus
+    name: кариб
   - translation_iso: spa
     name: kariña
   - translation_iso: zho

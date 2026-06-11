@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ديجارو ميشمي
     auto: true
+  - translation_iso: ben
+    name: তারুয়াং ভাষা
   - translation_iso: deu
     name: Digaro-Mishmi
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: तरुआंग भाषा
   - translation_iso: jpn
     name: ディガロ・ミシミ語
+    auto: true
+  - translation_iso: kor
+    name: 디가로미슈미어
     auto: true
   - translation_iso: por
     name: Língua digaro mishmi

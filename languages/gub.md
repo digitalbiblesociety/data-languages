@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true
+  - translation_iso: kor
+    name: 과자자라어
+    auto: true
   - translation_iso: por
     name: Língua guajajara
   - translation_iso: spa

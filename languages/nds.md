@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Low_German"
 translations:
   - translation_iso: ara
     name: الألمانية الدنيا
+  - translation_iso: ben
+    name: জার্মান (নিম্ন)
   - translation_iso: deu
     name: Niederdeutsch
   - translation_iso: fra
     name: bas allemand
   - translation_iso: hin
     name: निचला जर्मन
+  - translation_iso: ind
+    name: Jerman Rendah
   - translation_iso: jpn
     name: 低地ドイツ語
   - translation_iso: kor
     name: 저지 독일어
   - translation_iso: por
     name: baixo-alemão
+  - translation_iso: rus
+    name: нижненемецкий
   - translation_iso: spa
     name: bajo alemán
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥマリ・カヌリ語
+  - translation_iso: kor
+    name: 투마리 카누리어
+    auto: true
   - translation_iso: por
     name: canúri de Tumari
     auto: true

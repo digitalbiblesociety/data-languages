@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Irish"
 translations:
   - translation_iso: ara
     name: الأيرلندية الوسطى
+  - translation_iso: ben
+    name: মধ্য আইরিশ
   - translation_iso: deu
     name: Mittelirisch
   - translation_iso: fra
     name: moyen irlandais
   - translation_iso: hin
     name: मध्यकालीन आइरिश
+  - translation_iso: ind
+    name: Irlandia Abad Pertengahan
   - translation_iso: jpn
     name: 中期アイルランド語
   - translation_iso: kor
     name: 중세 아일랜드어
   - translation_iso: por
     name: irlandês médio
+  - translation_iso: rus
+    name: среднеирландский
   - translation_iso: spa
     name: irlandés medio
   - translation_iso: zho

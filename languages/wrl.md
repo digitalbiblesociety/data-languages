@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Warlmanpa語
+  - translation_iso: kor
+    name: 왈만파어
+    auto: true
   - translation_iso: por
     name: Warlmanpa
     auto: true
+  - translation_iso: rus
+    name: Варлманпа
   - translation_iso: spa
     name: Warlmanpa
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンジャルグルグレ語
     auto: true
+  - translation_iso: kor
+    name: 은잘굴굴레어
+    auto: true
   - translation_iso: por
     name: Njalgulgule
     auto: true

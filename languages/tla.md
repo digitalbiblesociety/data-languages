@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南西テペフアン語
     auto: true
+  - translation_iso: kor
+    name: 남서부 테페우안어
+    auto: true
   - translation_iso: por
     name: Tepehuan do Sudoeste
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Igbo_language"
 translations:
   - translation_iso: ara
     name: الإيجبوية
+  - translation_iso: ben
+    name: ইগবো
   - translation_iso: deu
     name: Igbo
   - translation_iso: fra
     name: igbo
   - translation_iso: hin
     name: इगबो
+  - translation_iso: ind
+    name: Igbo
   - translation_iso: jpn
     name: イボ語
   - translation_iso: kor
     name: 이그보어
   - translation_iso: por
     name: Língua igbo
+  - translation_iso: rus
+    name: игбо
   - translation_iso: spa
     name: idioma igbo
   - translation_iso: zho

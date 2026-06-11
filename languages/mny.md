@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マニャワ語
     auto: true
+  - translation_iso: kor
+    name: 마냐와어
+    auto: true
   - translation_iso: por
     name: Manyawa
     auto: true

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nkore_language"
 translations:
   - translation_iso: ara
     name: رونيانكولية
+  - translation_iso: ben
+    name: ন্যায়াঙ্কোলে
   - translation_iso: deu
     name: Runyankole
   - translation_iso: fra
     name: nkore
   - translation_iso: hin
     name: न्यानकोल
+  - translation_iso: ind
+    name: Nyankole
   - translation_iso: jpn
     name: ニャンコレ語
   - translation_iso: kor
     name: 니안콜어
   - translation_iso: por
     name: Língua runyankole
+  - translation_iso: rus
+    name: ньянколе
   - translation_iso: spa
     name: runyankole
   - translation_iso: zho

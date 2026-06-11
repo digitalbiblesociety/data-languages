@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بياك
     auto: true
+  - translation_iso: ben
+    name: বিয়াক
   - translation_iso: deu
     name: Biak
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बियाक
     auto: true
+  - translation_iso: ind
+    name: bahasa Biak
   - translation_iso: jpn
     name: ビヤック語
+  - translation_iso: kor
+    name: 비아크어
+    auto: true
   - translation_iso: por
     name: Biak
     auto: true

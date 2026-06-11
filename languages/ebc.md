@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: बेगिन्ची
     auto: true
+  - translation_iso: ind
+    name: Beginci
   - translation_iso: jpn
     name: ベギンジ語
+    auto: true
+  - translation_iso: kor
+    name: 베긴치어
     auto: true
   - translation_iso: por
     name: Beginci

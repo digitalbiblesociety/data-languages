@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シュー・ミンダ・ニエ語
     auto: true
+  - translation_iso: kor
+    name: 슈·민다·니에어
+    auto: true
   - translation_iso: por
     name: Shoo-Minda-Nye
     auto: true

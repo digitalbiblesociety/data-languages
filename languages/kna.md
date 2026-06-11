@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: デラ語
     auto: true
+  - translation_iso: kor
+    name: 데라어
+    auto: true
   - translation_iso: por
     name: Dera (Nigéria)
     auto: true
+  - translation_iso: rus
+    name: Дера
   - translation_iso: spa
     name: Dera (Nigeria)
     auto: true

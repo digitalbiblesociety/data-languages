@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الكول
     auto: true
+  - translation_iso: ben
+    name: কোল ভাষা (বাংলাদেশ)
   - translation_iso: deu
     name: Kol
   - translation_iso: fra

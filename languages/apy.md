@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبالايي
     auto: true
+  - translation_iso: ben
+    name: আপালাই
   - translation_iso: deu
     name: Apalaí
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アパライ語
+  - translation_iso: kor
+    name: 아팔라이어
+    auto: true
   - translation_iso: por
     name: Língua aparaí
+  - translation_iso: rus
+    name: Апалаи
   - translation_iso: spa
     name: Apalaí
   - translation_iso: zho

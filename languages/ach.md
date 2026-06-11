@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acholi_dialect"
 translations:
   - translation_iso: ara
     name: الأكولية
+  - translation_iso: ben
+    name: আকোলি
   - translation_iso: deu
     name: Acholi
   - translation_iso: fra
     name: acholi
   - translation_iso: hin
     name: अकोली
+  - translation_iso: ind
+    name: Acoli
   - translation_iso: jpn
     name: アチョリ語
   - translation_iso: kor
     name: 아촐리어
   - translation_iso: por
     name: Língua acholi
+  - translation_iso: rus
+    name: ачоли
   - translation_iso: spa
     name: idioma acholi
   - translation_iso: zho

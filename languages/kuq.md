@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カリプナ語
     auto: true
+  - translation_iso: kor
+    name: 카리푸나어
+    auto: true
   - translation_iso: por
     name: Dialeto caripuna
+  - translation_iso: rus
+    name: Рондониянский карипуна
   - translation_iso: spa
     name: Karipuna
     auto: true

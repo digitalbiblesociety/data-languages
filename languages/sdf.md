@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ゴーラーニー語
     auto: true
+  - translation_iso: kor
+    name: 사를리어
+    auto: true
   - translation_iso: por
     name: Sarli
     auto: true

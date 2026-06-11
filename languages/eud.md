@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オウデベ語
     auto: true
+  - translation_iso: kor
+    name: 에우데베어
+    auto: true
   - translation_iso: por
     name: Eudeve
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カアンバ語
     auto: true
+  - translation_iso: kor
+    name: 캄바어
+    auto: true
   - translation_iso: por
     name: Kaamba
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マホウ語
     auto: true
+  - translation_iso: kor
+    name: 마우어
+    auto: true
   - translation_iso: por
     name: Mahou
     auto: true

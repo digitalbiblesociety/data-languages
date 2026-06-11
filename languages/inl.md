@@ -21,16 +21,25 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإندونيسية
     auto: true
+  - translation_iso: ben
+    name: ইন্দোনেশীয় ইশারা ভাষা
   - translation_iso: deu
     name: Indonesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes indonésienne
   - translation_iso: hin
     name: इंडोनेशियाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Indonesia
   - translation_iso: jpn
     name: インドネシア手話
+  - translation_iso: kor
+    name: 인도네시아 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais indonésia
+  - translation_iso: rus
+    name: индонезийский жестовый язык
   - translation_iso: spa
     name: Lengua de señas indonesia
     auto: true

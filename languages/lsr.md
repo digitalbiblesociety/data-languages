@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ارووپ
     auto: true
+  - translation_iso: ben
+    name: অরূপ
   - translation_iso: deu
     name: Aruop
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルオップ語
+    auto: true
+  - translation_iso: kor
+    name: 아루오프어
     auto: true
   - translation_iso: por
     name: Aruop

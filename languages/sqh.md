@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: リシャウ語
     auto: true
+  - translation_iso: kor
+    name: 샤우어
+    auto: true
   - translation_iso: por
     name: Shau
     auto: true
+  - translation_iso: rus
+    name: шау
   - translation_iso: spa
     name: Shau
     auto: true

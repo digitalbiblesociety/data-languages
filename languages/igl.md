@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イガラ語
+  - translation_iso: kor
+    name: 이갈라어
+    auto: true
   - translation_iso: por
     name: Língua igala
   - translation_iso: spa

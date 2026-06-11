@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マラウイ・セナ語
     auto: true
+  - translation_iso: kor
+    name: 말라위 세나어
+    auto: true
   - translation_iso: por
     name: Sena do Malawi
     auto: true

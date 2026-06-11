@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: チグメカティトラン・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 치그메카티틀란 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Chigmecatitlán
     auto: true
+  - translation_iso: rus
+    name: Чигмекатитланский миштекский язык
   - translation_iso: spa
     name: Mixteco de Chigmecatitlán
   - translation_iso: zho

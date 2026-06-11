@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ottoman_Turkish"
 translations:
   - translation_iso: ara
     name: العثمانية
+  - translation_iso: ben
+    name: অটোমান তুর্কি
   - translation_iso: deu
     name: Osmanisch
   - translation_iso: fra
     name: turc ottoman
   - translation_iso: hin
     name: ओटोमान तुर्किश
+  - translation_iso: ind
+    name: Turki Osmani
   - translation_iso: jpn
     name: オスマン語
   - translation_iso: kor
     name: 오스만 터키어
   - translation_iso: por
     name: Língua turca otomana
+  - translation_iso: rus
+    name: старотурецкий
   - translation_iso: spa
     name: turco otomano
   - translation_iso: zho

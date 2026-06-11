@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ルンバ・ヤッカ語
     auto: true
+  - translation_iso: kor
+    name: 룸바야카어
+    auto: true
   - translation_iso: por
     name: Lumba-Yakkha
     auto: true

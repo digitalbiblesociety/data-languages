@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マサナ語
     auto: true
+  - translation_iso: kor
+    name: 마사나어
+    auto: true
   - translation_iso: por
     name: Língua massa
   - translation_iso: spa

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カルリ語
     auto: true
+  - translation_iso: kor
+    name: 칼룰리어
+    auto: true
   - translation_iso: por
     name: Kaluli
     auto: true

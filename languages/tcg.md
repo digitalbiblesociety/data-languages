@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तामागारियो
     auto: true
+  - translation_iso: ind
+    name: Tamagario
   - translation_iso: jpn
     name: タマガリオ語
+    auto: true
+  - translation_iso: kor
+    name: 타마가리오어
     auto: true
   - translation_iso: por
     name: Tamagario

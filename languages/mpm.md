@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヨソンドゥア・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 요손두아 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Yosondúa
     auto: true

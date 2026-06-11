@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ザン・グラ語
     auto: true
+  - translation_iso: kor
+    name: 잔굴라어
+    auto: true
   - translation_iso: por
     name: Zan Gula
     auto: true

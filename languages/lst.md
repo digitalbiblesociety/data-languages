@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
+  - translation_iso: kor
+    name: 트리니다드 토바고 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Trinidad e Tobago
     auto: true

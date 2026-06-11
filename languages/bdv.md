@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボド・パルジャ語
     auto: true
+  - translation_iso: kor
+    name: 보도 파르자어
+    auto: true
   - translation_iso: por
     name: Bodo Parja
     auto: true

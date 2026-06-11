@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヨゴ語
+  - translation_iso: kor
+    name: 마요고어
+    auto: true
   - translation_iso: por
     name: Mayogo
     auto: true

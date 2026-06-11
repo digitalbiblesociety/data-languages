@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पश्चिमी माकियान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Makian Barat
   - translation_iso: jpn
     name: 西マキアン語
+  - translation_iso: kor
+    name: 서부 마키안어
+    auto: true
   - translation_iso: por
     name: macuíno ocidental
     auto: true

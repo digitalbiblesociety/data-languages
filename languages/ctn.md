@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: チンタンゲ語
     auto: true
+  - translation_iso: kor
+    name: 친탕어
+    auto: true
   - translation_iso: por
     name: Chhintange
     auto: true
+  - translation_iso: rus
+    name: чинтанг
   - translation_iso: spa
     name: Chhintange
     auto: true

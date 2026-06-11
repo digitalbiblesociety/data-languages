@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スバヌン語
     auto: true
+  - translation_iso: kor
+    name: 콜리부간 수바논어
+    auto: true
   - translation_iso: por
     name: Subanon Kolibugan
     auto: true

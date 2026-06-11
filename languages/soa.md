@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ソン語
+  - translation_iso: kor
+    name: 타이 송어
+    auto: true
   - translation_iso: por
     name: Song Tailandês
     auto: true

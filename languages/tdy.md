@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ताद्यावान
     auto: true
+  - translation_iso: ind
+    name: Tadyawan
   - translation_iso: jpn
     name: タディャワン語
+    auto: true
+  - translation_iso: kor
+    name: 타디아완어
     auto: true
   - translation_iso: por
     name: Tadyawan

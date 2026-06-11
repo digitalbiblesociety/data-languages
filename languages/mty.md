@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナビ語
     auto: true
+  - translation_iso: kor
+    name: 나비어
+    auto: true
   - translation_iso: por
     name: Nabi
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パラウェン語
     auto: true
+  - translation_iso: kor
+    name: 파라웬어
+    auto: true
   - translation_iso: por
     name: Parawen
     auto: true

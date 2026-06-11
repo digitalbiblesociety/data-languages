@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मानसी
     auto: true
+  - translation_iso: ind
+    name: Mansi
   - translation_iso: jpn
     name: マンシ語
   - translation_iso: kor
     name: 만시어
   - translation_iso: por
     name: mansi
+  - translation_iso: rus
+    name: мансийский язык
   - translation_iso: spa
     name: mansi
   - translation_iso: zho

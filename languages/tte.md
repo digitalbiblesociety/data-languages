@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥベトゥベ語
     auto: true
+  - translation_iso: kor
+    name: 브와나브와나어
+    auto: true
   - translation_iso: por
     name: Bwanabwana
     auto: true

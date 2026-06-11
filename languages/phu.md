@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: फुआन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Phuan
   - translation_iso: jpn
     name: プアン語
+  - translation_iso: kor
+    name: 푸안어
+    auto: true
   - translation_iso: por
     name: Phuan
     auto: true
+  - translation_iso: rus
+    name: пхуанский язык
   - translation_iso: spa
     name: Phuan
     auto: true

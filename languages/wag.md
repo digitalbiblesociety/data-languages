@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワエマ語
     auto: true
+  - translation_iso: kor
+    name: 와에마어
+    auto: true
   - translation_iso: por
     name: "Wa'ema"
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: イテネ語
     auto: true
+  - translation_iso: kor
+    name: 이테네어
+    auto: true
   - translation_iso: por
     name: Itene
     auto: true
+  - translation_iso: rus
+    name: Итене
   - translation_iso: spa
     name: idioma itene
   - translation_iso: zho

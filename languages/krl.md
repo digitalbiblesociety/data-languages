@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karelian_language"
 translations:
   - translation_iso: ara
     name: الكاريلية
+  - translation_iso: ben
+    name: কারেলিয়ান
   - translation_iso: deu
     name: Karelisch
   - translation_iso: fra
     name: carélien
   - translation_iso: hin
     name: करेलियन
+  - translation_iso: ind
+    name: Karelia
   - translation_iso: jpn
     name: カレリア語
   - translation_iso: kor
     name: 카렐리야어
   - translation_iso: por
     name: Língua carélia
+  - translation_iso: rus
+    name: карельский
   - translation_iso: spa
     name: carelio
   - translation_iso: zho

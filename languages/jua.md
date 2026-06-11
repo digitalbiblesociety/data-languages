@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジュマ語
     auto: true
+  - translation_iso: kor
+    name: 주마어
+    auto: true
   - translation_iso: por
     name: Dialeto juma
   - translation_iso: spa

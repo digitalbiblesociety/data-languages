@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بونان أابوت
     auto: true
+  - translation_iso: ben
+    name: আপুট
   - translation_iso: deu
     name: Punan Aput
     auto: true
@@ -30,8 +32,13 @@ translations:
   - translation_iso: hin
     name: पुनान अपुत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Punan Aput
   - translation_iso: jpn
     name: プナンアプット語
+    auto: true
+  - translation_iso: kor
+    name: 푸난 아풋어
     auto: true
   - translation_iso: por
     name: Punan Aput

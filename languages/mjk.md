@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マトゥカル語
     auto: true
+  - translation_iso: kor
+    name: 마투카르어
+    auto: true
   - translation_iso: por
     name: Matukar
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: キルワル語
     auto: true
+  - translation_iso: kor
+    name: 키르와르어
+    auto: true
   - translation_iso: por
     name: Khirwar
     auto: true

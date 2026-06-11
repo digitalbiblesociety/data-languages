@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فينيتية
     auto: true
+  - translation_iso: ben
+    name: ভেনেতীয় ভাষা
   - translation_iso: deu
     name: Venetisch
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: वेनेटिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Venetia
   - translation_iso: jpn
     name: ウェネティ語
+  - translation_iso: kor
+    name: 베네티어
+    auto: true
   - translation_iso: por
     name: Língua venética
+  - translation_iso: rus
+    name: венетский язык
   - translation_iso: spa
     name: venético
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イフォ語
+  - translation_iso: kor
+    name: 이포어
+    auto: true
   - translation_iso: por
     name: Ifo
     auto: true

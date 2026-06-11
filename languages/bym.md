@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيجاارا
     auto: true
+  - translation_iso: ben
+    name: বিদ্যারা
   - translation_iso: deu
     name: Bidjara
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビジャラ語
+    auto: true
+  - translation_iso: kor
+    name: 비자라어
     auto: true
   - translation_iso: por
     name: Bidjara

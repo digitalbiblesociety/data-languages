@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أمباي
     auto: true
+  - translation_iso: ben
+    name: আম্বাই
   - translation_iso: deu
     name: Ambai
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: अम्बाई
     auto: true
+  - translation_iso: ind
+    name: Ambai
   - translation_iso: jpn
     name: アンバイ語
     auto: true
+  - translation_iso: kor
+    name: 암바이어
+    auto: true
   - translation_iso: por
     name: Ambai
+  - translation_iso: rus
+    name: амбай
   - translation_iso: spa
     name: Ambai
   - translation_iso: zho

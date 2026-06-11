@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シーバンド語
+  - translation_iso: kor
+    name: 시반디어
+    auto: true
   - translation_iso: por
     name: Sivandi
     auto: true
+  - translation_iso: rus
+    name: сивенди
   - translation_iso: spa
     name: sivandi
   - translation_iso: zho

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: キオキタニ-キエリ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 키오키타니·키에리 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Quioquitani-Quierí
     auto: true
+  - translation_iso: rus
+    name: Киокитани-кьерийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Quioquitani-Quierí
     auto: true

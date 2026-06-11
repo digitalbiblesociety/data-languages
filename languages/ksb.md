@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shambala_language"
 translations:
   - translation_iso: ara
     name: شامبالا
+  - translation_iso: ben
+    name: শাম্বালা
   - translation_iso: deu
     name: Shambala
   - translation_iso: fra
     name: shambala
   - translation_iso: hin
     name: शम्बाला
+  - translation_iso: ind
+    name: Shambala
   - translation_iso: jpn
     name: サンバー語
   - translation_iso: kor
     name: 샴발라어
   - translation_iso: por
     name: shambala
+  - translation_iso: rus
+    name: шамбала
   - translation_iso: spa
     name: shambala
   - translation_iso: zho

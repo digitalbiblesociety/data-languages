@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balti_language"
 translations:
   - translation_iso: ara
     name: البلتية
+  - translation_iso: ben
+    name: বালতি
   - translation_iso: deu
     name: Balti
   - translation_iso: fra
     name: balti
   - translation_iso: hin
     name: बलती
+  - translation_iso: ind
+    name: Balti
   - translation_iso: jpn
     name: バルティー語
   - translation_iso: kor
     name: 발티어
   - translation_iso: por
     name: língua balti
+  - translation_iso: rus
+    name: балти
   - translation_iso: spa
     name: Idioma balti
   - translation_iso: zho

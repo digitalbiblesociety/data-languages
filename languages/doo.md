@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドンゴ語
     auto: true
+  - translation_iso: kor
+    name: 동고어
+    auto: true
   - translation_iso: por
     name: Dongo
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراي
     auto: true
+  - translation_iso: ben
+    name: বড়াই
   - translation_iso: deu
     name: Barai
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バライ語
+    auto: true
+  - translation_iso: kor
+    name: 바라이어
     auto: true
   - translation_iso: por
     name: Língua barai

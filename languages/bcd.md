@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: 北ババル語
     auto: true
+  - translation_iso: kor
+    name: 북부 바바르어
+    auto: true
   - translation_iso: por
     name: Babar do Norte
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कोदी
     auto: true
+  - translation_iso: ind
+    name: Kodhi
   - translation_iso: jpn
     name: コディ語
+    auto: true
+  - translation_iso: kor
+    name: 코디어
     auto: true
   - translation_iso: por
     name: Kodi

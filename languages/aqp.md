@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتاكابا
     auto: true
+  - translation_iso: ben
+    name: আতাকাপা
   - translation_iso: deu
     name: Atakapa
     auto: true
@@ -28,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタカパ語
+  - translation_iso: kor
+    name: 아타카파어
+    auto: true
   - translation_iso: por
     name: Atakapa
     auto: true
+  - translation_iso: rus
+    name: атакапа
   - translation_iso: spa
     name: Idioma atakapa
   - translation_iso: zho

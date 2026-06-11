@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة جامايكا للغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: জামাইকাই ইশারা ভাষা
   - translation_iso: deu
     name: Jamaikanische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     name: जमैका सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ手話
+  - translation_iso: kor
+    name: 자메이카 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Jamaicana
     auto: true

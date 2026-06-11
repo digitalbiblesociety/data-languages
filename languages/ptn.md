@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पातानी
     auto: true
+  - translation_iso: ind
+    name: Patani
   - translation_iso: jpn
     name: パタニ語
+  - translation_iso: kor
+    name: 파타니어
+    auto: true
   - translation_iso: por
     name: Patani
     auto: true

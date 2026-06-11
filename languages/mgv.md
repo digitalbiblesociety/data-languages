@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マテンゴ語
+  - translation_iso: kor
+    name: 마텡고어
+    auto: true
   - translation_iso: por
     name: Matengo
     auto: true

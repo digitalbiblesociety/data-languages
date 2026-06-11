@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウト・マイン語
     auto: true
+  - translation_iso: kor
+    name: 우트마인어
+    auto: true
   - translation_iso: por
     name: "ut-Ma'in"
     auto: true

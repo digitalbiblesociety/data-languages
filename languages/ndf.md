@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナドルヴィア語
+  - translation_iso: kor
+    name: 나드루비아어
+    auto: true
   - translation_iso: por
     name: Nadruviano
     auto: true

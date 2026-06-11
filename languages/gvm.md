@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グルマナ語
     auto: true
+  - translation_iso: kor
+    name: 구르마나어
+    auto: true
   - translation_iso: por
     name: Gurmana
     auto: true

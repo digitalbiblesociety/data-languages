@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラク語
+  - translation_iso: kor
+    name: 이라쿠어
+    auto: true
   - translation_iso: por
     name: Língua iraqw
+  - translation_iso: rus
+    name: иракв
   - translation_iso: spa
     name: iracú
   - translation_iso: zho

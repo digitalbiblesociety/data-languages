@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: न्गाजू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ngaju
   - translation_iso: jpn
     name: ガジュ語
+  - translation_iso: kor
+    name: 응아주어
+    auto: true
   - translation_iso: por
     name: Língua ngaju
+  - translation_iso: rus
+    name: Нгаджу
   - translation_iso: spa
     name: Dayak Ngaju
   - translation_iso: zho

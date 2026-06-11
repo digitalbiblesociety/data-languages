@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: آونجثيم
     auto: true
+  - translation_iso: ben
+    name: আউংথিম
   - translation_iso: deu
     name: Awngthim
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウングティム語
+    auto: true
+  - translation_iso: kor
+    name: 앙팀어
     auto: true
   - translation_iso: por
     name: Awngthim

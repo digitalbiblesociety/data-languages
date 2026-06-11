@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشيلية
     auto: true
+  - translation_iso: ben
+    name: চিলীয় ইশারা ভাষা
   - translation_iso: deu
     name: Chilenische Gebärdensprache
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリ手話
+  - translation_iso: kor
+    name: 칠레 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual Chilena
+  - translation_iso: rus
+    name: чилийский жестовый язык
   - translation_iso: spa
     name: lengua de señas chilena
   - translation_iso: zho

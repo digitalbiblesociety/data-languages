@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウーメング・ナス語
     auto: true
+  - translation_iso: kor
+    name: 우멍 나수어
+    auto: true
   - translation_iso: por
     name: nasu de Wumeng
     auto: true

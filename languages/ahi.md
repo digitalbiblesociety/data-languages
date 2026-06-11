@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティアグバムリン・アイジ語
     auto: true
+  - translation_iso: kor
+    name: 티아그밤린 아이지어
+    auto: true
   - translation_iso: por
     name: Aizi Tiagbamrin
     auto: true

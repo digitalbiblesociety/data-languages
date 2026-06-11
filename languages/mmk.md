@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ムカ・ドラ語
     auto: true
+  - translation_iso: kor
+    name: 무카도라어
+    auto: true
   - translation_iso: por
     name: Língua mukha dora
+  - translation_iso: rus
+    name: Мукха-дора
   - translation_iso: spa
     name: Mukha-Dora
     auto: true

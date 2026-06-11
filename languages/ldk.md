@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: リーラウ語
     auto: true
+  - translation_iso: kor
+    name: 렐라우어
+    auto: true
   - translation_iso: por
     name: Leelau
     auto: true

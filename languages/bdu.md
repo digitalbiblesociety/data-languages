@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロコ語
+  - translation_iso: kor
+    name: 오로코어
+    auto: true
   - translation_iso: por
     name: Oroko
     auto: true

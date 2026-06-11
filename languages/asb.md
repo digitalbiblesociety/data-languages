@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسينيبوين
     auto: true
+  - translation_iso: ben
+    name: আসসিনিবোইন
   - translation_iso: deu
     name: Assiniboine
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: असिनिबोइन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Assiniboine
   - translation_iso: jpn
     name: アッシニボイン語
     auto: true
+  - translation_iso: kor
+    name: 아시니보인어
+    auto: true
   - translation_iso: por
     name: Língua assiniboine
+  - translation_iso: rus
+    name: ассинибойн
   - translation_iso: spa
     name: Assiniboine
     auto: true

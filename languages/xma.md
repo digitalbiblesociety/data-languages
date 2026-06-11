@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ムシュング語
     auto: true
+  - translation_iso: kor
+    name: 무슝굴루어
+    auto: true
   - translation_iso: por
     name: Mushungulu
     auto: true

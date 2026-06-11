@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シリオノ語
+  - translation_iso: kor
+    name: 시리오노어
+    auto: true
   - translation_iso: por
     name: Língua sirionó
+  - translation_iso: rus
+    name: сирионо
   - translation_iso: spa
     name: sirionó
   - translation_iso: zho

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manx_language"
 translations:
   - translation_iso: ara
     name: اللغة المنكية
+  - translation_iso: ben
+    name: ম্যাঙ্কস
   - translation_iso: deu
     name: Manx
   - translation_iso: fra
     name: mannois
   - translation_iso: hin
     name: मैंक्स
+  - translation_iso: ind
+    name: Manx
   - translation_iso: jpn
     name: マン島語
   - translation_iso: kor
     name: 맨어
   - translation_iso: por
     name: Língua manesa
+  - translation_iso: rus
+    name: мэнский
   - translation_iso: spa
     name: manés
   - translation_iso: zho

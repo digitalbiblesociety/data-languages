@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギミ語
     auto: true
+  - translation_iso: kor
+    name: 기미어
+    auto: true
   - translation_iso: por
     name: Gimi (Nova Bretanha Ocidental)
     auto: true

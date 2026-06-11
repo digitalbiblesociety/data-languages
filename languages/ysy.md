@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サニー語
+  - translation_iso: kor
+    name: 사니에어
+    auto: true
   - translation_iso: por
     name: sanie
     auto: true
+  - translation_iso: rus
+    name: Сани (язык)
   - translation_iso: spa
     name: Sanie
     auto: true

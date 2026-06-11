@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/East_Frisian_Low_Saxon"
 translations:
   - translation_iso: ara
     name: الفريزينية الشرقية
+  - translation_iso: ben
+    name: পূর্ব ফ্রিসিয়
   - translation_iso: deu
     name: Ostfriesisches Niederdeutsch
   - translation_iso: fra
     name: bas saxon de Frise orientale
   - translation_iso: hin
     name: पूर्वी फ़्रीसियाई
+  - translation_iso: ind
+    name: Frisia Timur
   - translation_iso: jpn
     name: オストフリース語
   - translation_iso: kor
     name: 동부 프리슬란드어
   - translation_iso: por
     name: frisão oriental
+  - translation_iso: rus
+    name: восточный фризский
   - translation_iso: spa
     name: Bajo alemán de Frisia oriental
   - translation_iso: zho

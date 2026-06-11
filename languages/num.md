@@ -34,6 +34,8 @@ translations:
     name: 니우아포오우어
   - translation_iso: por
     name: "Língua niuafo'ou"
+  - translation_iso: rus
+    name: Ниуафооу
   - translation_iso: spa
     name: "niuafo'ou"
   - translation_iso: zho

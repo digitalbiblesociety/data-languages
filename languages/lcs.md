@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: リサバタ・ヌニアリ語
     auto: true
+  - translation_iso: kor
+    name: 리사바타누니알리어
+    auto: true
   - translation_iso: por
     name: Lisabata-Nuniali
     auto: true

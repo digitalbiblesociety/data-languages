@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: लिकी
     auto: true
+  - translation_iso: ind
+    name: Liki
   - translation_iso: jpn
     name: リキ語
+    auto: true
+  - translation_iso: kor
+    name: 리키어
     auto: true
   - translation_iso: por
     name: Liki
     auto: true
+  - translation_iso: rus
+    name: Лики (язык)
   - translation_iso: spa
     name: Liki
     auto: true

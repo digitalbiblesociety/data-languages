@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シマー語
     auto: true
+  - translation_iso: kor
+    name: 시마어
+    auto: true
   - translation_iso: por
     name: Simaa
     auto: true

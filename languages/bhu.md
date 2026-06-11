@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بهونجيا
     auto: true
+  - translation_iso: ben
+    name: ভুঞ্জিয়া
   - translation_iso: deu
     name: Bhunjia
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブンジア語
+    auto: true
+  - translation_iso: kor
+    name: 분지아어
     auto: true
   - translation_iso: por
     name: Bhunjia

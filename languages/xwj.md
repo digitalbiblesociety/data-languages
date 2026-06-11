@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワジュク語
     auto: true
+  - translation_iso: kor
+    name: 와주크어
+    auto: true
   - translation_iso: por
     name: wajuk
     auto: true

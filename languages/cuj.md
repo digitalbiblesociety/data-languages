@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マシコ・ピロ語
+  - translation_iso: kor
+    name: 마슈코 피로어
+    auto: true
   - translation_iso: por
     name: Mashco Piro
     auto: true
+  - translation_iso: rus
+    name: Машко-пиро
   - translation_iso: spa
     name: mashco piro
   - translation_iso: zho

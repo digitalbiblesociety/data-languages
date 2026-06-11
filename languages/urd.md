@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Urdu"
 translations:
   - translation_iso: ara
     name: الأردية
+  - translation_iso: ben
+    name: উর্দু
   - translation_iso: deu
     name: Urdu
   - translation_iso: fra
     name: ourdou
   - translation_iso: hin
     name: उर्दू
+  - translation_iso: ind
+    name: Urdu
   - translation_iso: jpn
     name: ウルドゥー語
   - translation_iso: kor
     name: 우르두어
   - translation_iso: por
     name: Língua urdu
+  - translation_iso: rus
+    name: урду
   - translation_iso: spa
     name: urdu
   - translation_iso: zho

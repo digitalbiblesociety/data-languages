@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テシェナワ語
+  - translation_iso: kor
+    name: 테셰나와어
+    auto: true
   - translation_iso: por
     name: Teshenawa
     auto: true

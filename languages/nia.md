@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nias_language"
 translations:
   - translation_iso: ara
     name: لغة نياس
+  - translation_iso: ben
+    name: নিয়াস
   - translation_iso: deu
     name: Nias
   - translation_iso: fra
     name: niha
   - translation_iso: hin
     name: नियास
+  - translation_iso: ind
+    name: Nias
   - translation_iso: jpn
     name: ニアス語
   - translation_iso: kor
     name: 니아스어
   - translation_iso: por
     name: Língua nias
+  - translation_iso: rus
+    name: ниас
   - translation_iso: spa
     name: nias
   - translation_iso: zho

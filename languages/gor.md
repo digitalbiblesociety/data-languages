@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gorontalo_language"
 translations:
   - translation_iso: ara
     name: جورونتالو
+  - translation_iso: ben
+    name: গোরোন্তালো
   - translation_iso: deu
     name: Gorontalo
   - translation_iso: fra
     name: gorontalo
   - translation_iso: hin
     name: गोरोंतालोई भाषा
+  - translation_iso: ind
+    name: Gorontalo
   - translation_iso: jpn
     name: ゴロンタロ語
   - translation_iso: kor
     name: 고론탈로어
   - translation_iso: por
     name: Gorontalo
+  - translation_iso: rus
+    name: горонтало
   - translation_iso: spa
     name: Idioma gorontalo
   - translation_iso: zho

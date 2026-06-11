@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モー語
     auto: true
+  - translation_iso: kor
+    name: 모어
+    auto: true
   - translation_iso: por
     name: Moo
     auto: true

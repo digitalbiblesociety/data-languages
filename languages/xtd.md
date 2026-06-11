@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ディウシ・ティランベンゴ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 디우시·틸란통고 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Diuxi-Tilantongo
     auto: true
+  - translation_iso: rus
+    name: Дьюхи-тилантонгский миштекский язык
   - translation_iso: spa
     name: Mixteco de Diuxi-Tilantongo
     auto: true

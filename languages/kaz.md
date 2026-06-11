@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kazakh_language"
 translations:
   - translation_iso: ara
     name: القزاقية
+  - translation_iso: ben
+    name: কাজাখ
   - translation_iso: deu
     name: Kasachisch
   - translation_iso: fra
     name: kazakh
   - translation_iso: hin
     name: कज़ाख़ भाषा
+  - translation_iso: ind
+    name: Kazakh
   - translation_iso: jpn
     name: カザフ語
   - translation_iso: kor
     name: 카자흐어
   - translation_iso: por
     name: língua cazaque
+  - translation_iso: rus
+    name: казахский
   - translation_iso: spa
     name: kazajo
   - translation_iso: zho

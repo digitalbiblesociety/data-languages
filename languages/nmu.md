@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マイドゥ語
+  - translation_iso: kor
+    name: 북동부 마이두어
+    auto: true
   - translation_iso: por
     name: Maidu do Nordeste
     auto: true
+  - translation_iso: rus
+    name: Северо-восточный майду
   - translation_iso: spa
     name: Maidu nororiental
     auto: true

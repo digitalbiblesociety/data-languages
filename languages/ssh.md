@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: शिही अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Shihhi
   - translation_iso: jpn
     name: アラビア語シフフ方言
+  - translation_iso: kor
+    name: 시히 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe shihhi
+  - translation_iso: rus
+    name: диалект арабов-шихух
   - translation_iso: spa
     name: Árabe chíji
   - translation_iso: zho

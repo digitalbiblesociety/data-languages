@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أهواي
     auto: true
+  - translation_iso: ben
+    name: আহওয়াই
   - translation_iso: deu
     name: Ahwai
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフワイ語
+    auto: true
+  - translation_iso: kor
+    name: 아와이어
     auto: true
   - translation_iso: por
     name: Ahwai

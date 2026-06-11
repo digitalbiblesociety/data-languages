@@ -35,6 +35,8 @@ translations:
     name: 치코무셀텍어
   - translation_iso: por
     name: chicomucelteco
+  - translation_iso: rus
+    name: Чикомусельтекский язык
   - translation_iso: spa
     name: chicomuselteco
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: याकान
     auto: true
+  - translation_iso: ind
+    name: bahasa Yakan
   - translation_iso: jpn
     name: ヤカン語
   - translation_iso: kor

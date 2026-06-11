@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurdish_language"
 translations:
   - translation_iso: ara
     name: الكردية
+  - translation_iso: ben
+    name: কুর্দিশ
   - translation_iso: deu
     name: Kurdisch
   - translation_iso: fra
     name: kurde
   - translation_iso: hin
     name: कुर्दी भाषा
+  - translation_iso: ind
+    name: Kurdi
   - translation_iso: jpn
     name: クルド語
   - translation_iso: kor
     name: 쿠르드어
   - translation_iso: por
     name: língua curda
+  - translation_iso: rus
+    name: курдский
   - translation_iso: spa
     name: kurdo
   - translation_iso: zho

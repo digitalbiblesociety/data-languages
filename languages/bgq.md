@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagri_language"
 translations:
   - translation_iso: ara
     name: لغة بجرية
+  - translation_iso: ben
+    name: বাগড়ি ভাষা
   - translation_iso: deu
     name: Bagri
     auto: true
@@ -28,10 +30,17 @@ translations:
     name: bagri
   - translation_iso: hin
     name: बागड़ी भाषा
+  - translation_iso: ind
+    name: bahasa Bagri
   - translation_iso: jpn
     name: バーガル語
+  - translation_iso: kor
+    name: 바그리어
+    auto: true
   - translation_iso: por
     name: Língua bagri
+  - translation_iso: rus
+    name: Багри
   - translation_iso: spa
     name: Bagri
     auto: true

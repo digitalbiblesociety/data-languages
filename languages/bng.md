@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بينجا
     auto: true
+  - translation_iso: ben
+    name: বেঙ্গা
   - translation_iso: deu
     name: Benga
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बेंगा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Benga
   - translation_iso: jpn
     name: ベンガ語
+  - translation_iso: kor
+    name: 벵가어
+    auto: true
   - translation_iso: por
     name: Língua benga
   - translation_iso: spa

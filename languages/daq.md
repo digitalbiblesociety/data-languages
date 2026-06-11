@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダンダミ・マリア語
     auto: true
+  - translation_iso: kor
+    name: 단다미 마리아어
+    auto: true
   - translation_iso: por
     name: Dandami Maria
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤサ語
     auto: true
+  - translation_iso: kor
+    name: 야사어
+    auto: true
   - translation_iso: por
     name: yasa
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タンジジリ語
     auto: true
+  - translation_iso: kor
+    name: 탄지질리어
+    auto: true
   - translation_iso: por
     name: Tanjijili
     auto: true

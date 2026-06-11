@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلغارية
     auto: true
+  - translation_iso: ben
+    name: বুলগেরীয় ইশারা ভাষা
   - translation_iso: deu
     name: Bulgarische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルガリア手話
+  - translation_iso: kor
+    name: 불가리아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais búlgara
+  - translation_iso: rus
+    name: болгарский жестовый язык
   - translation_iso: spa
     name: Lengua de señas búlgara
     auto: true

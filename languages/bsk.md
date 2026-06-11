@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Burushaski"
 translations:
   - translation_iso: ara
     name: بروشسكي
+  - translation_iso: ben
+    name: বুরুশাস্কি
   - translation_iso: deu
     name: Burushaski
   - translation_iso: fra
     name: bourouchaski
   - translation_iso: hin
     name: बरूशसकी
+  - translation_iso: ind
+    name: Burushaski
   - translation_iso: jpn
     name: ブルシャスキー語
   - translation_iso: kor
     name: 부르샤스키어
   - translation_iso: por
     name: língua burushaski
+  - translation_iso: rus
+    name: бурушаски
   - translation_iso: spa
     name: Idioma burushaski
   - translation_iso: zho

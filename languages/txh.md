@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: थ्रेसियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Trakia
   - translation_iso: jpn
     name: トラキア語
   - translation_iso: kor
     name: 트라키아어
   - translation_iso: por
     name: língua trácia
+  - translation_iso: rus
+    name: фракийский язык
   - translation_iso: spa
     name: idioma tracio
   - translation_iso: zho

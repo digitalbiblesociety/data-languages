@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكيو
     auto: true
+  - translation_iso: ben
+    name: আকেউ
   - translation_iso: deu
     name: Akeu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アケウ語
+    auto: true
+  - translation_iso: kor
+    name: 아케우어
     auto: true
   - translation_iso: por
     name: Akeu

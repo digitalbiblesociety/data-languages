@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सोबेई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sobei
   - translation_iso: jpn
     name: ソベイ語
+  - translation_iso: kor
+    name: 소베이어
+    auto: true
   - translation_iso: por
     name: Sobei
     auto: true

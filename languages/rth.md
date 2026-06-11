@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: राताहान
     auto: true
+  - translation_iso: ind
+    name: Ratahan
   - translation_iso: jpn
     name: ラタハン
+  - translation_iso: kor
+    name: 라타한어
+    auto: true
   - translation_iso: por
     name: Ratahan
   - translation_iso: spa

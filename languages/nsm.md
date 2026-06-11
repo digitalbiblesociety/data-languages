@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: سومي ناغا
     auto: true
+  - translation_iso: ben
+    name: সুমী ভাষা
   - translation_iso: deu
     name: Sumi-Naga
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: सुमी भाषा
   - translation_iso: jpn
     name: スミ語
+  - translation_iso: kor
+    name: 수미 나가어
+    auto: true
   - translation_iso: por
     name: Língua sümi
   - translation_iso: spa

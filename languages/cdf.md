@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チル語
     auto: true
+  - translation_iso: kor
+    name: 치루어
+    auto: true
   - translation_iso: por
     name: Chiru
     auto: true

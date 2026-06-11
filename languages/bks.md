@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: उत्तरी सोरसोगानोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sorsogon Utara
   - translation_iso: jpn
     name: 北ソルソガノン語
+    auto: true
+  - translation_iso: kor
+    name: 북부 소르소가논어
     auto: true
   - translation_iso: por
     name: Sorsoganon do Norte

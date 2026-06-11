@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: सिमेउलुए
     auto: true
+  - translation_iso: ind
+    name: Simolol
   - translation_iso: jpn
     name: シムル語
+  - translation_iso: kor
+    name: 시믈루에어
+    auto: true
   - translation_iso: por
     name: Simeulue
     auto: true
+  - translation_iso: rus
+    name: Сималурский язык
   - translation_iso: spa
     name: Simeulue
     auto: true

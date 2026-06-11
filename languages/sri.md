@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: スレーヤ語
     auto: true
+  - translation_iso: kor
+    name: 시리아노어
+    auto: true
   - translation_iso: por
     name: Siriano
     auto: true
+  - translation_iso: rus
+    name: Сириано
   - translation_iso: spa
     name: Siriano
   - translation_iso: zho

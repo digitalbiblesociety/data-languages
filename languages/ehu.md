@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإهويون
     auto: true
+  - translation_iso: ben
+    name: ইহুইউন
   - translation_iso: deu
     name: Ehueun
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフエウン語
+    auto: true
+  - translation_iso: kor
+    name: 에후에운어
     auto: true
   - translation_iso: por
     name: Ehueun

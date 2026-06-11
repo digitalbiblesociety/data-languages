@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルンガス語
     auto: true
+  - translation_iso: kor
+    name: 룽구스어
+    auto: true
   - translation_iso: por
     name: Rungus
     auto: true

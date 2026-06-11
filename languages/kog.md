@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コギ語
+  - translation_iso: kor
+    name: 코기어
+    auto: true
   - translation_iso: por
     name: Cogui
     auto: true
+  - translation_iso: rus
+    name: Коги
   - translation_iso: spa
     name: idioma kogui
   - translation_iso: zho

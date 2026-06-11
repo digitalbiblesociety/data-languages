@@ -33,6 +33,8 @@ translations:
     name: 후터파 독일어
   - translation_iso: por
     name: Alemão de Hutterite
+  - translation_iso: rus
+    name: хуттерский язык
   - translation_iso: spa
     name: Alemán hutterita
     auto: true

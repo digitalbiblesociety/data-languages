@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンダラン語
     auto: true
+  - translation_iso: kor
+    name: 완다랑어
+    auto: true
   - translation_iso: por
     name: Wandarang
     auto: true

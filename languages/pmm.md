@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ポモ語
     auto: true
+  - translation_iso: kor
+    name: 포모어
+    auto: true
   - translation_iso: por
     name: Pomo
     auto: true

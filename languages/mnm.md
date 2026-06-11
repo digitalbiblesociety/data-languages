@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マペナ語
     auto: true
+  - translation_iso: kor
+    name: 마페나어
+    auto: true
   - translation_iso: por
     name: Mapena
     auto: true

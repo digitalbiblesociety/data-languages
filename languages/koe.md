@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كاسيبو بالسي
     auto: true
+  - translation_iso: ben
+    name: বালেসি
   - translation_iso: deu
     name: Kacipo-Balesi
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カチポ・バレシ語
+    auto: true
+  - translation_iso: kor
+    name: 카치포발레시어
     auto: true
   - translation_iso: por
     name: Kacipo-Balesi

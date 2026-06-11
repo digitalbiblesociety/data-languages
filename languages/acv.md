@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشومّاوي
     auto: true
+  - translation_iso: ben
+    name: আছুমাওয়ি
   - translation_iso: deu
     name: Achumawi
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチョマウィ語
+  - translation_iso: kor
+    name: 아추마위어
+    auto: true
   - translation_iso: por
     name: Língua achumawi
+  - translation_iso: rus
+    name: ачумави
   - translation_iso: spa
     name: Achumawi
     auto: true

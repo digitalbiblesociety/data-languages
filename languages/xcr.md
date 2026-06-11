@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: कैरियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Karia
   - translation_iso: jpn
     name: カリア語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Cário
     auto: true
+  - translation_iso: rus
+    name: карийский язык
   - translation_iso: spa
     name: Idioma cario
   - translation_iso: zho

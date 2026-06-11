@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギンメ語
     auto: true
+  - translation_iso: kor
+    name: 김메어
+    auto: true
   - translation_iso: por
     name: Gimme
     auto: true

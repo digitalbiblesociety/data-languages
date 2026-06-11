@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キマラガン語
     auto: true
+  - translation_iso: kor
+    name: 키마라강어
+    auto: true
   - translation_iso: por
     name: Kimaragang
     auto: true

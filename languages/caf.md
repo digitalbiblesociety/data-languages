@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南カリエ語
     auto: true
+  - translation_iso: kor
+    name: 남부 캐리어어
+    auto: true
   - translation_iso: por
     name: Carrier meridional
     auto: true

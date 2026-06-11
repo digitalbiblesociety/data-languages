@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サマ語
+  - translation_iso: kor
+    name: 사마이어
+    auto: true
   - translation_iso: por
     name: Samay
     auto: true

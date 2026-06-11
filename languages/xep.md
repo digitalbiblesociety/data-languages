@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: エピ・オルメック語
     auto: true
+  - translation_iso: kor
+    name: 에피올멕어
+    auto: true
   - translation_iso: por
     name: Epi-Olmeca
     auto: true

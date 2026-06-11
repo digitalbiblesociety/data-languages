@@ -27,10 +27,17 @@ translations:
   - translation_iso: hin
     name: कुमज़ारी
     auto: true
+  - translation_iso: ind
+    name: bahasa Kumzar
   - translation_iso: jpn
     name: クムザール語
+  - translation_iso: kor
+    name: 쿰자리어
+    auto: true
   - translation_iso: por
     name: Língua kumzari
+  - translation_iso: rus
+    name: Кумзари
   - translation_iso: spa
     name: Idioma kumzari
   - translation_iso: zho

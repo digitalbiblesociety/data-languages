@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テケ・ラアリ語
     auto: true
+  - translation_iso: kor
+    name: 테케랄리어
+    auto: true
   - translation_iso: por
     name: Teke-Laali
     auto: true

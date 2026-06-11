@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウィニェ語
     auto: true
+  - translation_iso: kor
+    name: 위녜어
+    auto: true
   - translation_iso: por
     name: Winyé
     auto: true

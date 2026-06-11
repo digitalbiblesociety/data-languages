@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ヌグヌ語
     auto: true
+  - translation_iso: kor
+    name: 누구누어
+    auto: true
   - translation_iso: por
     name: Nugunu (Austrália)
     auto: true

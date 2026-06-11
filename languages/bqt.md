@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بامُكومْبيت
     auto: true
+  - translation_iso: ben
+    name: বামুকুম্বিত
   - translation_iso: deu
     name: Bamukumbit
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バムクムビット語
+    auto: true
+  - translation_iso: kor
+    name: 바무쿰비트어
     auto: true
   - translation_iso: por
     name: Bamukumbit

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أنّدارم
     auto: true
+  - translation_iso: ben
+    name: আন্দারুম
   - translation_iso: deu
     name: Andarum
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンダルム語
+    auto: true
+  - translation_iso: kor
+    name: 안다룸어
     auto: true
   - translation_iso: por
     name: Andarum

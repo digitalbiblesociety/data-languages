@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابانجو
     auto: true
+  - translation_iso: ben
+    name: ব্যাঙ্গো
   - translation_iso: deu
     name: Babango
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ババンゴ語
+    auto: true
+  - translation_iso: kor
+    name: 바방고어
     auto: true
   - translation_iso: por
     name: Babango

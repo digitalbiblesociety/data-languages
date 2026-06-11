@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آي-تشام
     auto: true
+  - translation_iso: ben
+    name: আই-চাম
   - translation_iso: deu
     name: Ai-Cham
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイチャム語
+    auto: true
+  - translation_iso: kor
+    name: 아이참어
     auto: true
   - translation_iso: por
     name: Ai-Cham

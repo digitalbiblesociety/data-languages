@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ディイ語
     auto: true
+  - translation_iso: kor
+    name: 디어
+    auto: true
   - translation_iso: por
     name: Dii
     auto: true

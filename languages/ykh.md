@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: खामनिगन मंगोल
     auto: true
+  - translation_iso: ind
+    name: bahasa Mongol Khamnigan
   - translation_iso: jpn
     name: ハムニガン族
   - translation_iso: kor
     name: 함니간 몽골어
   - translation_iso: por
     name: Língua mongol khamnigan
+  - translation_iso: rus
+    name: хамниганский язык
   - translation_iso: spa
     name: Mongol khamnigan
     auto: true

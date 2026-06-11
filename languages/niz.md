@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニンギル語
     auto: true
+  - translation_iso: kor
+    name: 닝길어
+    auto: true
   - translation_iso: por
     name: Ningil
     auto: true

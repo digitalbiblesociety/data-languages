@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: यारसुन
     auto: true
+  - translation_iso: ind
+    name: Yarsun
   - translation_iso: jpn
     name: ヤルスン語
+    auto: true
+  - translation_iso: kor
+    name: 야르순어
     auto: true
   - translation_iso: por
     name: yarsun

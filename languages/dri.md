@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クレラ語
     auto: true
+  - translation_iso: kor
+    name: 클렐라어
+    auto: true
   - translation_iso: por
     name: "C'Lela"
     auto: true

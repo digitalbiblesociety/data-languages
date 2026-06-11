@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アウ・アラヤ語
     auto: true
+  - translation_iso: kor
+    name: 타이판어
+    auto: true
   - translation_iso: por
     name: Thaypan
     auto: true

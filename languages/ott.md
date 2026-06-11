@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: テモアヤ・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 테모아야 오토미어
+    auto: true
   - translation_iso: por
     name: Otomi Temoaya
+  - translation_iso: rus
+    name: Темоаянский отоми
   - translation_iso: spa
     name: Otomí de Temoaya
   - translation_iso: zho

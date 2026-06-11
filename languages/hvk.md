@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヴェケ語
+  - translation_iso: kor
+    name: 하베케어
+    auto: true
   - translation_iso: por
     name: Haveke
     auto: true

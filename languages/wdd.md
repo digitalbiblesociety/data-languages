@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワンジ語
     auto: true
+  - translation_iso: kor
+    name: 완지어
+    auto: true
   - translation_iso: por
     name: Wandji
     auto: true

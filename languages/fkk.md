@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キルヤ・コンツェル語
     auto: true
+  - translation_iso: kor
+    name: 키리아·콘절어
+    auto: true
   - translation_iso: por
     name: Kirya-Konzəl
     auto: true

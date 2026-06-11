@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タイオフ語
     auto: true
+  - translation_iso: kor
+    name: 사포사어
+    auto: true
   - translation_iso: por
     name: Saposa
     auto: true

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: サザン・オーロン語
     auto: true
+  - translation_iso: kor
+    name: 남부 올로니어
+    auto: true
   - translation_iso: por
     name: Ohlone Meridional
     auto: true
+  - translation_iso: rus
+    name: южно-охлонский язык
   - translation_iso: spa
     name: Ohlone Meridional
     auto: true

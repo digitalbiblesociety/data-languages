@@ -34,6 +34,8 @@ translations:
     name: 와스텍어
   - translation_iso: por
     name: Língua huasteca
+  - translation_iso: rus
+    name: Уастекский язык
   - translation_iso: spa
     name: Téenek
   - translation_iso: zho

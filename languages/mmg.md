@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アンブリム語
+  - translation_iso: kor
+    name: 북부 암브림어
+    auto: true
   - translation_iso: por
     name: ambrym do norte
     auto: true

@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルグル語
+  - translation_iso: kor
+    name: 루구루어
+    auto: true
   - translation_iso: por
     name: Luguru
     auto: true
+  - translation_iso: rus
+    name: Лугуру (язык)
   - translation_iso: spa
     name: Luguru
     auto: true

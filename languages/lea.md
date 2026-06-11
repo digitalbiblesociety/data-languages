@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レガ・シャブンダ語
     auto: true
+  - translation_iso: kor
+    name: 레가샤분다어
+    auto: true
   - translation_iso: por
     name: Lega-Shabunda
     auto: true

@@ -35,6 +35,8 @@ translations:
     name: 하카루어
   - translation_iso: por
     name: Língua jaqaru
+  - translation_iso: rus
+    name: Хакару
   - translation_iso: spa
     name: jacaru
   - translation_iso: zho

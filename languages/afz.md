@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ओबोकुइताई
     auto: true
+  - translation_iso: ind
+    name: Aliki
   - translation_iso: jpn
     name: オボクイタイ語
+  - translation_iso: kor
+    name: 오보쿠이타이어
+    auto: true
   - translation_iso: por
     name: Obokuitai
     auto: true

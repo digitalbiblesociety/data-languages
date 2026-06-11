@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロ語
+  - translation_iso: kor
+    name: 올로어
+    auto: true
   - translation_iso: por
     name: Olo
     auto: true

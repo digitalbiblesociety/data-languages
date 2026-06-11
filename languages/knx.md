@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: केन्दायन
     auto: true
+  - translation_iso: ind
+    name: bahasa Kanayatn
   - translation_iso: jpn
     name: ケンダヤン語
     auto: true
+  - translation_iso: kor
+    name: 켄다얀어
+    auto: true
   - translation_iso: por
     name: Língua kendayan
+  - translation_iso: rus
+    name: кендаян
   - translation_iso: spa
     name: Kendayan
     auto: true

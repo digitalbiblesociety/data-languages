@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ラータ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 라타 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Lahta
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 레위니옹 크리올
   - translation_iso: por
     name: crioulo de Reunião
+  - translation_iso: rus
+    name: реюньонский креольский
   - translation_iso: spa
     name: criollo de Reunión
   - translation_iso: zho

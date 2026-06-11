@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الشيا-شيا
     auto: true
+  - translation_iso: ben
+    name: চিয়া-চিয়া ভাষা
   - translation_iso: deu
     name: Cia-Cia
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: चिया-चिया
     auto: true
+  - translation_iso: ind
+    name: bahasa Cia-Cia
   - translation_iso: jpn
     name: チアチア語
   - translation_iso: kor
     name: 찌아찌아어
   - translation_iso: por
     name: Língua cia-cia
+  - translation_iso: rus
+    name: чиа-чиа
   - translation_iso: spa
     name: Idioma cia-cia
   - translation_iso: zho

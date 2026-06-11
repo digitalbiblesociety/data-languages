@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kirundi"
 translations:
   - translation_iso: ara
     name: الكيروندية
+  - translation_iso: ben
+    name: রুন্দি
   - translation_iso: deu
     name: Kirundi
   - translation_iso: fra
     name: kirundi
   - translation_iso: hin
     name: किरुण्डी भाषा
+  - translation_iso: ind
+    name: Rundi
   - translation_iso: jpn
     name: ルンディ語
   - translation_iso: kor
     name: 키룬디어
   - translation_iso: por
     name: Língua kirundi
+  - translation_iso: rus
+    name: рунди
   - translation_iso: spa
     name: kirundi
   - translation_iso: zho

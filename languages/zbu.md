@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ブ語（バウチ州）
     auto: true
+  - translation_iso: kor
+    name: 부어
+    auto: true
   - translation_iso: por
     name: bu (Estado de Bauchi)
     auto: true
+  - translation_iso: rus
+    name: зарандаский диалект
   - translation_iso: spa
     name: Bu (Estado de Bauchi)
     auto: true

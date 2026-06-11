@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: セントゥハン・チン語
     auto: true
+  - translation_iso: kor
+    name: 센탕 친어
+    auto: true
   - translation_iso: por
     name: Chin Senthang
     auto: true

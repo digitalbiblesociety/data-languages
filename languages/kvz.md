@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: त्साक्वाम्बो
     auto: true
+  - translation_iso: ind
+    name: Tsaukambo
   - translation_iso: jpn
     name: ツァクワンボ語
+    auto: true
+  - translation_iso: kor
+    name: 차쾀보어
     auto: true
   - translation_iso: por
     name: Tsakwambo
     auto: true
+  - translation_iso: rus
+    name: Тсаукамбо
   - translation_iso: spa
     name: Tsakwambo
     auto: true

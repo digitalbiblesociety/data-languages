@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأمبراك
     auto: true
+  - translation_iso: ben
+    name: আমব্রাক
   - translation_iso: deu
     name: Ambrak
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンブラク語
+    auto: true
+  - translation_iso: kor
+    name: 암브라크어
     auto: true
   - translation_iso: por
     name: Ambrak

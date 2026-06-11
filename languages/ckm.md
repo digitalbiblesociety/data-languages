@@ -22,11 +22,18 @@ translations:
   - translation_iso: hin
     name: चकावियन
     auto: true
+  - translation_iso: ind
+    name: Chakavia
   - translation_iso: jpn
     name: チャ方言
+  - translation_iso: kor
+    name: 차카비아어
+    auto: true
   - translation_iso: por
     name: Chacaviano
     auto: true
+  - translation_iso: rus
+    name: чакавское наречие
   - translation_iso: spa
     name: Chakaviano
     auto: true

@@ -34,6 +34,8 @@ translations:
     name: 첼탈어
   - translation_iso: por
     name: Língua tseltal
+  - translation_iso: rus
+    name: Цельтальский язык
   - translation_iso: spa
     name: tseltal
   - translation_iso: zho

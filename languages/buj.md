@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: バサ・グルマナ語
     auto: true
+  - translation_iso: kor
+    name: 바사구르마나어
+    auto: true
   - translation_iso: por
     name: Basa-Gurmana
     auto: true

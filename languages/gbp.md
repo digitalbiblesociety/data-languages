@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: ग्बाया-बोसांगोआ
     auto: true
+  - translation_iso: ind
+    name: Gbaya-Bossangoa
   - translation_iso: jpn
     name: グバヤ＝ボサンゴア語
+  - translation_iso: kor
+    name: 그바야·보상고아어
+    auto: true
   - translation_iso: por
     name: Gbaya-Bossangoa
   - translation_iso: spa

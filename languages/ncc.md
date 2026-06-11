@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ポナム語
     auto: true
+  - translation_iso: kor
+    name: 포남어
+    auto: true
   - translation_iso: por
     name: Ponam
     auto: true

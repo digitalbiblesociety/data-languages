@@ -27,6 +27,8 @@ translations:
     name: kalasha
   - translation_iso: hin
     name: कलश भाषा
+  - translation_iso: ind
+    name: bahasa Kalash
   - translation_iso: jpn
     name: カラーシャ語
   - translation_iso: kor
@@ -34,6 +36,8 @@ translations:
   - translation_iso: por
     name: Kalasha
     auto: true
+  - translation_iso: rus
+    name: калашский язык
   - translation_iso: spa
     name: Kalasha
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: दक्षिणी थाई
     auto: true
+  - translation_iso: ind
+    name: Thai Selatan
   - translation_iso: jpn
     name: 南タイ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Tailandês Meridional
     auto: true
+  - translation_iso: rus
+    name: южнотайский диалект
   - translation_iso: spa
     name: Tailandés meridional
     auto: true

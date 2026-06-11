@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اليوبيك خليج الهادئ
     auto: true
+  - translation_iso: ben
+    name: আলুতিক
   - translation_iso: deu
     name: Alutiiq
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: प्रशांत खाड़ी युपिक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alutiiq
   - translation_iso: jpn
     name: アリュティーク語
   - translation_iso: kor
     name: 알류티크어
   - translation_iso: por
     name: língua alutiiq
+  - translation_iso: rus
+    name: алютикский язык
   - translation_iso: spa
     name: alutiiq
   - translation_iso: zho

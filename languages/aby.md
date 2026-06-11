@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيم ويك
     auto: true
+  - translation_iso: ben
+    name: আনেমে ওয়াকে
   - translation_iso: deu
     name: Aneme Wake
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネメウェイク語
+    auto: true
+  - translation_iso: kor
+    name: 아네메 와케어
     auto: true
   - translation_iso: por
     name: Aneme Wake

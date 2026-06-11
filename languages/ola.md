@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワルングゲ語
     auto: true
+  - translation_iso: kor
+    name: 왈룽게어
+    auto: true
   - translation_iso: por
     name: Walungge
     auto: true

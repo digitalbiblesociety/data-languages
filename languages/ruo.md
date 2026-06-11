@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: إسترو رومانية
     auto: true
+  - translation_iso: ben
+    name: ইস্ট্রো-রোমানীয় ভাষা
   - translation_iso: deu
     name: Istrorumänisch
   - translation_iso: fra
@@ -28,10 +30,17 @@ translations:
   - translation_iso: hin
     name: इस्त्रो रोमानियाई
     auto: true
+  - translation_iso: ind
+    name: Istro-Rumania
   - translation_iso: jpn
     name: イストロ・ルーマニア語
+  - translation_iso: kor
+    name: 이스트로루마니아어
+    auto: true
   - translation_iso: por
     name: língua istrorromena
+  - translation_iso: rus
+    name: истрорумынский язык
   - translation_iso: spa
     name: idioma istrorrumano
   - translation_iso: zho

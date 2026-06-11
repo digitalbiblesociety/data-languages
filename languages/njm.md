@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أنجامي ناجا
     auto: true
+  - translation_iso: ben
+    name: অঙ্গামী ভাষা
   - translation_iso: deu
     name: Angami-Naga
     auto: true
@@ -28,10 +30,17 @@ translations:
     name: angami
   - translation_iso: hin
     name: अंगामी भाषा
+  - translation_iso: ind
+    name: Bahasa Angami
   - translation_iso: jpn
     name: アンガミ語
+  - translation_iso: kor
+    name: 앙가미 나가어
+    auto: true
   - translation_iso: por
     name: Língua angami
+  - translation_iso: rus
+    name: Ангами
   - translation_iso: spa
     name: Naga Angami
     auto: true

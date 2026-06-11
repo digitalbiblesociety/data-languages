@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語
     auto: true
+  - translation_iso: kor
+    name: 코롱고 앙카시 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Corongo Ancash
     auto: true

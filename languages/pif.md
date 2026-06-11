@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピンゲラップ語
+  - translation_iso: kor
+    name: 핑겔라프어
+    auto: true
   - translation_iso: por
     name: Língua pingelapesa
+  - translation_iso: rus
+    name: Пингелапский язык
   - translation_iso: spa
     name: Pingelapés
     auto: true

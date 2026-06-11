@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: サジャウ・ラッティ語
     auto: true
+  - translation_iso: kor
+    name: 사자우 바삽어
+    auto: true
   - translation_iso: por
     name: Sajau Basap
     auto: true
+  - translation_iso: rus
+    name: саджау-басапский язык
   - translation_iso: spa
     name: Sajau Basap
     auto: true

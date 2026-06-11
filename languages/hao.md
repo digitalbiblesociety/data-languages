@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハコ語
     auto: true
+  - translation_iso: kor
+    name: 하쾨어
+    auto: true
   - translation_iso: por
     name: Hakö
     auto: true

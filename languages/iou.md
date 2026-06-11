@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トゥマ・イルム語
     auto: true
+  - translation_iso: kor
+    name: 투마이루무어
+    auto: true
   - translation_iso: por
     name: Tuma-Irumu
     auto: true

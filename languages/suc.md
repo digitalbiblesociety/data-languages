@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 西スバノン語
     auto: true
+  - translation_iso: kor
+    name: 서부 수바논어
+    auto: true
   - translation_iso: por
     name: Língua subanon ocidental
   - translation_iso: spa

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: ناهاري
     auto: true
+  - translation_iso: ben
+    name: নাহারী
   - translation_iso: deu
     name: Nahari
     auto: true
@@ -29,6 +31,9 @@ translations:
     name: नाहारी
   - translation_iso: jpn
     name: ナハリ語
+    auto: true
+  - translation_iso: kor
+    name: 나하리어
     auto: true
   - translation_iso: por
     name: Nahari

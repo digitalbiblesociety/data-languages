@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ibibio_language"
 translations:
   - translation_iso: ara
     name: الإيبيبيو
+  - translation_iso: ben
+    name: ইবিবিও
   - translation_iso: deu
     name: Ibibio
   - translation_iso: fra
     name: ibibio
   - translation_iso: hin
     name: इबिबियो
+  - translation_iso: ind
+    name: Ibibio
   - translation_iso: jpn
     name: イビビオ語
   - translation_iso: kor
     name: 이비비오어
   - translation_iso: por
     name: Língua ibibio
+  - translation_iso: rus
+    name: ибибио
   - translation_iso: spa
     name: Idioma ibibio
   - translation_iso: zho

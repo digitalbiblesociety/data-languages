@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gusii_language"
 translations:
   - translation_iso: ara
     name: الغيزية
+  - translation_iso: ben
+    name: গুসী
   - translation_iso: deu
     name: Gusii
   - translation_iso: fra
     name: gusii
   - translation_iso: hin
     name: गुसी
+  - translation_iso: ind
+    name: Gusii
   - translation_iso: jpn
     name: グシイ語
   - translation_iso: kor
     name: 구시어
   - translation_iso: por
     name: Língua gusii
+  - translation_iso: rus
+    name: гусии
   - translation_iso: spa
     name: gusii
   - translation_iso: zho

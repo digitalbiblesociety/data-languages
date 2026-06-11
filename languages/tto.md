@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タオイ語
     auto: true
+  - translation_iso: kor
+    name: 저지 타오이어
+    auto: true
   - translation_iso: por
     name: "Ta'oih Meridional"
     auto: true

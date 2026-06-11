@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロホルン語
     auto: true
+  - translation_iso: kor
+    name: 로호룽어
+    auto: true
   - translation_iso: por
     name: Lohorung
     auto: true

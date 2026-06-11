@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kyrgyz_language"
 translations:
   - translation_iso: ara
     name: القرغيزية
+  - translation_iso: ben
+    name: কিরগিজ
   - translation_iso: deu
     name: Kirgisisch
   - translation_iso: fra
     name: kirghize
   - translation_iso: hin
     name: किर्गिज़ भाषा
+  - translation_iso: ind
+    name: Kirgiz
   - translation_iso: jpn
     name: キルギス語
   - translation_iso: kor
     name: 키르기스어
   - translation_iso: por
     name: quirguiz
+  - translation_iso: rus
+    name: киргизский
   - translation_iso: spa
     name: kirguís
   - translation_iso: zho

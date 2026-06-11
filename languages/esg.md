@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: الجوندي الأهري
     auto: true
+  - translation_iso: ben
+    name: আহেরি গোণ্ডি
   - translation_iso: deu
     name: Aheri-Gondi
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: अहेरी गोंडी
   - translation_iso: jpn
     name: アヘリ・ゴンディ
+  - translation_iso: kor
+    name: 아헤리 곤드어
+    auto: true
   - translation_iso: por
     name: gondi de Aheri
     auto: true

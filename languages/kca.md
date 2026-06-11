@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: खांती
     auto: true
+  - translation_iso: ind
+    name: bahasa Khanty
   - translation_iso: jpn
     name: ハンティ語
   - translation_iso: kor
     name: 한티어
   - translation_iso: por
     name: ostíaco
+  - translation_iso: rus
+    name: хантыйский язык
   - translation_iso: spa
     name: janti
   - translation_iso: zho

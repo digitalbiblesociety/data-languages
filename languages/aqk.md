@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アニンカ語
     auto: true
+  - translation_iso: kor
+    name: 아닌카어
+    auto: true
   - translation_iso: por
     name: Aninka
     auto: true

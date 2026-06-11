@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_language"
 translations:
   - translation_iso: ara
     name: الألبانية
+  - translation_iso: ben
+    name: আলবেনীয়
   - translation_iso: deu
     name: Albanisch
   - translation_iso: fra
     name: albanais
   - translation_iso: hin
     name: अल्बेनियन भाषा
+  - translation_iso: ind
+    name: Albania
   - translation_iso: jpn
     name: アルバニア語
   - translation_iso: kor
     name: 알바니아어
   - translation_iso: por
     name: língua albanesa
+  - translation_iso: rus
+    name: албанский
   - translation_iso: spa
     name: albanés
   - translation_iso: zho

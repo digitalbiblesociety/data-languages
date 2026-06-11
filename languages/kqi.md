@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイタ語
+  - translation_iso: kor
+    name: 코이타부어
+    auto: true
   - translation_iso: por
     name: Koitabu
     auto: true
+  - translation_iso: rus
+    name: койта
   - translation_iso: spa
     name: Koitabu
     auto: true

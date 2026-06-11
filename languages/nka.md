@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンコヤ語
     auto: true
+  - translation_iso: kor
+    name: 은코야어
+    auto: true
   - translation_iso: por
     name: Nkoya
     auto: true

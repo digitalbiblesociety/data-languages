@@ -30,6 +30,8 @@ translations:
   - translation_iso: hin
     name: कोकोस द्वीप मलय
     auto: true
+  - translation_iso: ind
+    name: Melayu Cocos
   - translation_iso: jpn
     name: ココスマレー語
   - translation_iso: kor
@@ -37,6 +39,8 @@ translations:
   - translation_iso: por
     name: Malaio das Ilhas Cocos
     auto: true
+  - translation_iso: rus
+    name: кокосский малайский
   - translation_iso: spa
     name: Malayo de las Islas Cocos
   - translation_iso: zho

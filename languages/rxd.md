@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブナラ語
     auto: true
+  - translation_iso: kor
+    name: 응아르디어
+    auto: true
   - translation_iso: por
     name: Língua ngardi
   - translation_iso: spa

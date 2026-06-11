@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: कुनिगामी
     auto: true
+  - translation_iso: ind
+    name: Kunigami
   - translation_iso: jpn
     name: 沖縄北部方言
   - translation_iso: kor
     name: 쿠니가미어
   - translation_iso: por
     name: kunigami
+  - translation_iso: rus
+    name: кунигамское наречие
   - translation_iso: spa
     name: kunigami
   - translation_iso: zho

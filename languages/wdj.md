@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワジギニ語
     auto: true
+  - translation_iso: kor
+    name: 와지기니어
+    auto: true
   - translation_iso: por
     name: Wadjiginy
     auto: true

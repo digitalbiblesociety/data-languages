@@ -20,16 +20,25 @@ wikipedia_url: "https://en.wikipedia.org/wiki/New_Zealand_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النيوزيلندية
+  - translation_iso: ben
+    name: নিউ জিল্যান্ড ইশারা ভাষা
   - translation_iso: deu
     name: neuseeländische Gebärdensprache
   - translation_iso: fra
     name: langue des signes néo-zélandaise
   - translation_iso: hin
     name: न्यूज़ीलैण्ड हस्ताक्षर भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Selandia Baru
   - translation_iso: jpn
     name: ニュージーランド手話
+  - translation_iso: kor
+    name: 뉴질랜드 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais da Nova Zelândia
+  - translation_iso: rus
+    name: новозеландский язык жестов
   - translation_iso: spa
     name: lengua de señas neozelandesa
   - translation_iso: zho

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マキャン語
     auto: true
+  - translation_iso: kor
+    name: 마캰 나가어
+    auto: true
   - translation_iso: por
     name: Makyan Naga
     auto: true

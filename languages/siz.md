@@ -29,8 +29,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シワ語
+  - translation_iso: kor
+    name: 시위어
+    auto: true
   - translation_iso: por
     name: Língua siwi
+  - translation_iso: rus
+    name: Сиуа
   - translation_iso: spa
     name: Idioma siwi
   - translation_iso: zho

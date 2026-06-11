@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピニグラ語
     auto: true
+  - translation_iso: kor
+    name: 피니구라어
+    auto: true
   - translation_iso: por
     name: Pinigura
     auto: true

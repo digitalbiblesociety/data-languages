@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノツィ語
+  - translation_iso: kor
+    name: 노치어
+    auto: true
   - translation_iso: por
     name: Notsi
     auto: true

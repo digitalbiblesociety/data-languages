@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シュエパラウン語
     auto: true
+  - translation_iso: kor
+    name: 쉐 팔라웅어
+    auto: true
   - translation_iso: por
     name: Palaung Shwe
     auto: true

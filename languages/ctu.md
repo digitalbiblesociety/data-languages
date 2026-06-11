@@ -34,6 +34,8 @@ translations:
     name: 촐어
   - translation_iso: por
     name: Língua chol
+  - translation_iso: rus
+    name: Чольский язык
   - translation_iso: spa
     name: chol
   - translation_iso: zho

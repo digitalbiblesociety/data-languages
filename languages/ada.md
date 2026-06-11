@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dangme_language"
 translations:
   - translation_iso: ara
     name: الأدانجمية
+  - translation_iso: ben
+    name: অদাগ্মে
   - translation_iso: deu
     name: Dangme
   - translation_iso: fra
     name: adangme
   - translation_iso: hin
     name: अदान्गमे
+  - translation_iso: ind
+    name: Adangme
   - translation_iso: jpn
     name: アダングメ語
   - translation_iso: kor
     name: 당메어
   - translation_iso: por
     name: Língua dangbe
+  - translation_iso: rus
+    name: адангме
   - translation_iso: spa
     name: Lengua Adangme
   - translation_iso: zho

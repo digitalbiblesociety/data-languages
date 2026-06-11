@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغانية
     auto: true
+  - translation_iso: ben
+    name: ঘানাই ইশারা ভাষা
   - translation_iso: deu
     name: Ghanaische Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     name: घाना की सांकेतिक भाषा
   - translation_iso: jpn
     name: ガーナ手話
+  - translation_iso: kor
+    name: 가나 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Gana
   - translation_iso: spa

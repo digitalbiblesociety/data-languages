@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レナペ語
+  - translation_iso: kor
+    name: 우나미어
+    auto: true
   - translation_iso: por
     name: Unami
     auto: true
+  - translation_iso: rus
+    name: унами
   - translation_iso: spa
     name: Unami
   - translation_iso: zho

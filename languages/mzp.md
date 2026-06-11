@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モヴィマ語
+  - translation_iso: kor
+    name: 모비마어
+    auto: true
   - translation_iso: por
     name: Língua movima
+  - translation_iso: rus
+    name: Мовима
   - translation_iso: spa
     name: idioma movima
   - translation_iso: zho

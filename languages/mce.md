@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イトゥンドゥヒア・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 이툰두히아 미스테코어
+    auto: true
   - translation_iso: por
     name: Mixteco de Itundujia
     auto: true

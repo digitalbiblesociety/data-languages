@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コワキ語
     auto: true
+  - translation_iso: kor
+    name: 코와키어
+    auto: true
   - translation_iso: por
     name: Kowaki
     auto: true

@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mozabite_language"
 translations:
   - translation_iso: ara
     name: المزابية
+  - translation_iso: ben
+    name: মোজাবাইট ভাষা
   - translation_iso: deu
     name: Tumzabt
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムザブ語
+  - translation_iso: kor
+    name: 툼자브트어
+    auto: true
   - translation_iso: por
     name: Tumzabt
     auto: true
+  - translation_iso: rus
+    name: Мзаб (язык)
   - translation_iso: spa
     name: Idioma mozabita
   - translation_iso: zho

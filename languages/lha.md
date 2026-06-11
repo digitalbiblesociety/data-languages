@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: लाहा (वियतनाम)
     auto: true
+  - translation_iso: ind
+    name: Laha
   - translation_iso: jpn
     name: ラハ語
+  - translation_iso: kor
+    name: 라하어
+    auto: true
   - translation_iso: por
     name: Laha (Vietnã)
     auto: true
+  - translation_iso: rus
+    name: Лаха (язык)
   - translation_iso: spa
     name: Laha
     auto: true

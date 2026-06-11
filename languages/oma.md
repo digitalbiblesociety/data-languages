@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オマハ語
+  - translation_iso: kor
+    name: 오마하폰카어
+    auto: true
   - translation_iso: por
     name: Língua omaha
+  - translation_iso: rus
+    name: омаха-понка
   - translation_iso: spa
     name: idioma omaha
   - translation_iso: zho

@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: 古クメール語
     auto: true
+  - translation_iso: kor
+    name: 고대 크메르어
+    auto: true
   - translation_iso: por
     name: khmer antigo
     auto: true

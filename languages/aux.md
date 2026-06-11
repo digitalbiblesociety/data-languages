@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أورا
     auto: true
+  - translation_iso: ben
+    name: আউরা
   - translation_iso: deu
     name: Aurá
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アウラ語
     auto: true
+  - translation_iso: kor
+    name: 아우라어
+    auto: true
   - translation_iso: por
     name: Aurá
     auto: true
+  - translation_iso: rus
+    name: аура
   - translation_iso: spa
     name: Aurá
     auto: true

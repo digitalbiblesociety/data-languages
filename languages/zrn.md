@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ゼレンケル語
     auto: true
+  - translation_iso: kor
+    name: 제렌켈어
+    auto: true
   - translation_iso: por
     name: Zerenkel
     auto: true
+  - translation_iso: rus
+    name: Зиренкель
   - translation_iso: spa
     name: Zerenkel
     auto: true

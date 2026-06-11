@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クイバ語
     auto: true
+  - translation_iso: kor
+    name: 쿠이바어
+    auto: true
   - translation_iso: por
     name: Cuiba
     auto: true
+  - translation_iso: rus
+    name: Куиба
   - translation_iso: spa
     name: Cuiba
   - translation_iso: zho

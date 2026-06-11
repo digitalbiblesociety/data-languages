@@ -29,9 +29,14 @@ translations:
   - translation_iso: jpn
     name: ソラノ語
     auto: true
+  - translation_iso: kor
+    name: 솔라노어
+    auto: true
   - translation_iso: por
     name: Solano
     auto: true
+  - translation_iso: rus
+    name: Солано
   - translation_iso: spa
     name: idioma solano
   - translation_iso: zho

@@ -27,10 +27,17 @@ translations:
     name: sumbawa
   - translation_iso: hin
     name: सुम्बावा भाषा
+  - translation_iso: ind
+    name: Sumbawa
   - translation_iso: jpn
     name: スンバワ語
+  - translation_iso: kor
+    name: 숨바와어
+    auto: true
   - translation_iso: por
     name: Língua sumbawa
+  - translation_iso: rus
+    name: сумбава
   - translation_iso: spa
     name: Sumbawa
     auto: true

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ashtiani_language"
 translations:
   - translation_iso: ara
     name: لغة أشتياني
+  - translation_iso: ben
+    name: আশটিয়ানি
   - translation_iso: deu
     name: Ashtiani
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: अश्तियानी
     auto: true
+  - translation_iso: ind
+    name: bahasa Ashtian
   - translation_iso: jpn
     name: アシュティヤーン語
+  - translation_iso: kor
+    name: 아슈티아니어
+    auto: true
   - translation_iso: por
     name: Ashtiani
     auto: true

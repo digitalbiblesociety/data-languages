@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンダ＝ヤンゲレ語
+  - translation_iso: kor
+    name: 반다·양게레어
+    auto: true
   - translation_iso: por
     name: banda-yangere
     auto: true

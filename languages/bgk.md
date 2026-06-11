@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बिट
     auto: true
+  - translation_iso: ind
+    name: Bit
   - translation_iso: jpn
     name: ビット語
+    auto: true
+  - translation_iso: kor
+    name: 비트어
     auto: true
   - translation_iso: por
     name: Bit

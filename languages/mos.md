@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moor%C3%A9"
 translations:
   - translation_iso: ara
     name: مور
+  - translation_iso: ben
+    name: মসি
   - translation_iso: deu
     name: Mòoré
   - translation_iso: fra
     name: mooré
   - translation_iso: hin
     name: मोस्सी
+  - translation_iso: ind
+    name: Mossi
   - translation_iso: jpn
     name: モシ語
   - translation_iso: kor
     name: 모레어
   - translation_iso: por
     name: Língua more
+  - translation_iso: rus
+    name: моси
   - translation_iso: spa
     name: mossi
   - translation_iso: zho

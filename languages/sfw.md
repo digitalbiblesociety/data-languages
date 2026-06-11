@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セフウィ語
+  - translation_iso: kor
+    name: 세위어
+    auto: true
   - translation_iso: por
     name: Sehwi
     auto: true

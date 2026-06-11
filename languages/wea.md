@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェワウ語
     auto: true
+  - translation_iso: kor
+    name: 웨와우어
+    auto: true
   - translation_iso: por
     name: Wewaw
     auto: true

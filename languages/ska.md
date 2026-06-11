@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: スカジット・ニスクワリ語
     auto: true
+  - translation_iso: kor
+    name: 스캐짓어
+    auto: true
   - translation_iso: por
     name: Skagit
   - translation_iso: spa

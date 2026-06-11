@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ノボノブ語
     auto: true
+  - translation_iso: kor
+    name: 노보노브어
+    auto: true
   - translation_iso: por
     name: Língua nobonob
   - translation_iso: spa

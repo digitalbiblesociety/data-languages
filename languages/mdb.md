@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: モリギ語
     auto: true
+  - translation_iso: kor
+    name: 모리기어
+    auto: true
   - translation_iso: por
     name: Morigi
     auto: true
+  - translation_iso: rus
+    name: мориги
   - translation_iso: spa
     name: Morigi
     auto: true

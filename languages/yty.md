@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤタイ語
     auto: true
+  - translation_iso: kor
+    name: 야타이어
+    auto: true
   - translation_iso: por
     name: yatay
     auto: true

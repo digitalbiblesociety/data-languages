@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Okanagan_language"
 translations:
   - translation_iso: ara
     name: الأوكاناغانية
+  - translation_iso: ben
+    name: ওকানাগান
   - translation_iso: deu
     name: Okanagan
   - translation_iso: fra
     name: colville-okanagan
   - translation_iso: hin
     name: ओकानागन भाषा
+  - translation_iso: ind
+    name: Okanagan
   - translation_iso: jpn
     name: オカナゴン語
   - translation_iso: kor
     name: 오카나간어
   - translation_iso: por
     name: Língua okanagan
+  - translation_iso: rus
+    name: оканаган
   - translation_iso: spa
     name: Okanagan
   - translation_iso: zho

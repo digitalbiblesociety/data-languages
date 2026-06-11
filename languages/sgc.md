@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キプシギ語
+  - translation_iso: kor
+    name: 킵시기스어
+    auto: true
   - translation_iso: por
     name: Kipsigis
     auto: true

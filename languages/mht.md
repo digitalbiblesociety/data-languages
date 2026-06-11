@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンダワカ語
+  - translation_iso: kor
+    name: 만다우아카어
+    auto: true
   - translation_iso: por
     name: Língua mandawaka
+  - translation_iso: rus
+    name: Мандавака
   - translation_iso: spa
     name: mandahuaca
   - translation_iso: zho

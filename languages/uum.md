@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أورم
     auto: true
+  - translation_iso: ben
+    name: উরুম ভাষা
   - translation_iso: deu
     name: Urum
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 우룸어
   - translation_iso: por
     name: Língua urum
+  - translation_iso: rus
+    name: урумский язык
   - translation_iso: spa
     name: urrumano
   - translation_iso: zho

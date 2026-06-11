@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: チャチ語
     auto: true
+  - translation_iso: kor
+    name: 차치어
+    auto: true
   - translation_iso: por
     name: Língua Cha’ Palaachi
+  - translation_iso: rus
+    name: Чапалачи
   - translation_iso: spa
     name: "idioma cha'palaachi"
   - translation_iso: zho

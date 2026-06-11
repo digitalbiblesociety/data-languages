@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तौसुग
     auto: true
+  - translation_iso: ind
+    name: bahasa Suluk
   - translation_iso: jpn
     name: タウスグ語
   - translation_iso: kor
     name: 타우수그어
   - translation_iso: por
     name: Língua tausug
+  - translation_iso: rus
+    name: сулу
   - translation_iso: spa
     name: joloano
   - translation_iso: zho

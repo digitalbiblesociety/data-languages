@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グラヴダ語
     auto: true
+  - translation_iso: kor
+    name: 글라브다어
+    auto: true
   - translation_iso: por
     name: Glavda
     auto: true

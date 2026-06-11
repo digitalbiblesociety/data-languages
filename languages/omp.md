@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: اللغة مانيبوري القديمة
     auto: true
+  - translation_iso: ben
+    name: প্রাচীন মৈতৈ
   - translation_iso: deu
     name: Altmanipuri
   - translation_iso: fra
@@ -23,6 +25,9 @@ translations:
     name: प्राचीन मणिपुरी भाषा
   - translation_iso: jpn
     name: 古マニプリ語
+    auto: true
+  - translation_iso: kor
+    name: 고대 마니푸르어
     auto: true
   - translation_iso: por
     name: manipuri antigo

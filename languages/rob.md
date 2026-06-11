@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: ताए
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tae
   - translation_iso: jpn
     name: タエ語
-  - translation_iso: por
-    name: "Tae'"
+  - translation_iso: kor
+    name: 타에어
     auto: true
+  - translation_iso: por
+    name: Tae
+    auto: true
+  - translation_iso: rus
+    name: Таэ
   - translation_iso: spa
     name: Tae
     auto: true

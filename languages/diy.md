@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: दिउवे
     auto: true
+  - translation_iso: ind
+    name: Diuwe
   - translation_iso: jpn
     name: ディウウェ語
+    auto: true
+  - translation_iso: kor
+    name: 디우웨어
     auto: true
   - translation_iso: por
     name: Diuwe

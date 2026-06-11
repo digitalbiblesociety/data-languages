@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フーパ語
     auto: true
+  - translation_iso: kor
+    name: 푸파어
+    auto: true
   - translation_iso: por
     name: phupa
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タジュアソーン語
+  - translation_iso: kor
+    name: 타주아손어
+    auto: true
   - translation_iso: por
     name: Tajuasohn
     auto: true

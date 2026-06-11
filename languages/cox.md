@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ナンティ語
     auto: true
+  - translation_iso: kor
+    name: 난티어
+    auto: true
   - translation_iso: por
     name: pucapucari
+  - translation_iso: rus
+    name: нанти
   - translation_iso: spa
     name: pucapucari
   - translation_iso: zho

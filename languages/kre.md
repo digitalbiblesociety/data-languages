@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナラ語
+  - translation_iso: kor
+    name: 파나라어
+    auto: true
   - translation_iso: por
     name: Língua panará
+  - translation_iso: rus
+    name: Панара
   - translation_iso: spa
     name: Panará
     auto: true

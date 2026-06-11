@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンベ語
+  - translation_iso: kor
+    name: 응곰베어
+    auto: true
   - translation_iso: por
     name: Ngombe (República Democrática do Congo)
     auto: true

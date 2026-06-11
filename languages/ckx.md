@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カカ語
     auto: true
+  - translation_iso: kor
+    name: 차카어
+    auto: true
   - translation_iso: por
     name: Caka
     auto: true
+  - translation_iso: rus
+    name: чака
   - translation_iso: spa
     name: Caka
     auto: true

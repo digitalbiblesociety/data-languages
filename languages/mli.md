@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: मालिम्पुंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Malimpung
   - translation_iso: jpn
     name: マリムプング語
+    auto: true
+  - translation_iso: kor
+    name: 말림풍어
     auto: true
   - translation_iso: por
     name: Malimpung
     auto: true
+  - translation_iso: rus
+    name: малимпунг
   - translation_iso: spa
     name: Malimpung
     auto: true

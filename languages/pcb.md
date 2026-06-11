@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: पेआर
     auto: true
+  - translation_iso: ind
+    name: bahasa Pear
   - translation_iso: jpn
     name: ペアール語
+  - translation_iso: kor
+    name: 페아르어
+    auto: true
   - translation_iso: por
     name: Pear
     auto: true

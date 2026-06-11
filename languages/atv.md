@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة ألتاي الشمالية
     auto: true
+  - translation_iso: ben
+    name: উত্তর আলতাই ভাষা
   - translation_iso: deu
     name: Nordaltaisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 북부 알타이어
   - translation_iso: por
     name: Língua kumandi
+  - translation_iso: rus
+    name: северноалтайский язык
   - translation_iso: spa
     name: Altái septentrional
     auto: true

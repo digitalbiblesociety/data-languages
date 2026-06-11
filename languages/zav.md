@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ヤツァチ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 야차치 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Yatzachi
     auto: true
+  - translation_iso: rus
+    name: Яцачийский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Yatzachi
     auto: true

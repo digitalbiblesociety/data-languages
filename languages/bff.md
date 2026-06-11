@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ボフィ語
     auto: true
+  - translation_iso: kor
+    name: 보피어
+    auto: true
   - translation_iso: por
     name: Bofi
     auto: true
+  - translation_iso: rus
+    name: Бофи
   - translation_iso: spa
     name: Bofi
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة باولي
     auto: true
+  - translation_iso: ben
+    name: বাউলে
   - translation_iso: deu
     name: Baule
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: kor
+    name: 바울레어
+    auto: true
   - translation_iso: por
     name: baoulé
+  - translation_iso: rus
+    name: бауле
   - translation_iso: spa
     name: baoulé
   - translation_iso: zho

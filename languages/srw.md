@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: सेरुआ
     auto: true
+  - translation_iso: ind
+    name: Serua
   - translation_iso: jpn
     name: バハサセルア語
+    auto: true
+  - translation_iso: kor
+    name: 세루아어
     auto: true
   - translation_iso: por
     name: Serua

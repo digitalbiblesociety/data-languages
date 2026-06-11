@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: コホ語
     auto: true
+  - translation_iso: kor
+    name: 코호어
+    auto: true
   - translation_iso: por
     name: Língua koho
+  - translation_iso: rus
+    name: кэхо
   - translation_iso: spa
     name: Koho
     auto: true

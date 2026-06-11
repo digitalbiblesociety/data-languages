@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيريريرينجي
     auto: true
+  - translation_iso: ben
+    name: আয়েররেঞ্জে
   - translation_iso: deu
     name: Ayerrerenge
     auto: true
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイエレレンゲ語
+    auto: true
+  - translation_iso: kor
+    name: 아예레렝게어
     auto: true
   - translation_iso: por
     name: Ayerrerenge

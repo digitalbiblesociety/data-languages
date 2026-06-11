@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lingala"
 translations:
   - translation_iso: ara
     name: لينغالا
+  - translation_iso: ben
+    name: লিঙ্গালা
   - translation_iso: deu
     name: Lingala
   - translation_iso: fra
     name: lingala
   - translation_iso: hin
     name: लिंगाला भाषा
+  - translation_iso: ind
+    name: Lingala
   - translation_iso: jpn
     name: リンガラ語
   - translation_iso: kor
     name: 링갈라어
   - translation_iso: por
     name: Língua lingala
+  - translation_iso: rus
+    name: лингала
   - translation_iso: spa
     name: lingala
   - translation_iso: zho

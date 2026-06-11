@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: チョドリ語
     auto: true
+  - translation_iso: kor
+    name: 초드리어
+    auto: true
   - translation_iso: por
     name: Chodri
     auto: true

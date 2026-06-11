@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: वेस्टफेलियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Westfalia
   - translation_iso: jpn
     name: ヴェストファーレン語
+  - translation_iso: kor
+    name: 베스트팔렌어
+    auto: true
   - translation_iso: por
     name: Westfaliano
+  - translation_iso: rus
+    name: Вестфальский диалект
   - translation_iso: spa
     name: Westfaliano
   - translation_iso: zho

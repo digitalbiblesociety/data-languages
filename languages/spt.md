@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: スピティ語
     auto: true
+  - translation_iso: kor
+    name: 스피티 보티어
+    auto: true
   - translation_iso: por
     name: Spiti Bhoti
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروب-لوكيب
     auto: true
+  - translation_iso: ben
+    name: আরপ-লোকেপ
   - translation_iso: deu
     name: Arop-Lokep
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアッシ語
+  - translation_iso: kor
+    name: 아로프·로케프어
+    auto: true
   - translation_iso: por
     name: Arop-Lokep
     auto: true
+  - translation_iso: rus
+    name: Ароп-локеп
   - translation_iso: spa
     name: Arop-Lokep
     auto: true

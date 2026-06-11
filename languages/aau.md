@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأباوية
     auto: true
+  - translation_iso: ben
+    name: আবাউ
   - translation_iso: deu
     name: Abau
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: अबाउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abau
   - translation_iso: jpn
     name: アバウ語
+  - translation_iso: kor
+    name: 아바우어
+    auto: true
   - translation_iso: por
     name: Abau
     auto: true
+  - translation_iso: rus
+    name: абау
   - translation_iso: spa
     name: Idioma abau
   - translation_iso: zho

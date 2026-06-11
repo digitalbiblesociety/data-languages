@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語
+  - translation_iso: kor
+    name: 토바고 크리올 영어
+    auto: true
   - translation_iso: por
     name: Crioulo inglês de Tobago
   - translation_iso: spa

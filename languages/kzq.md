@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カイケ語
     auto: true
+  - translation_iso: kor
+    name: 카이케어
+    auto: true
   - translation_iso: por
     name: Kaike
     auto: true

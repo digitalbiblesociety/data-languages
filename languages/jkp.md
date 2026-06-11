@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パク・カレン語
     auto: true
+  - translation_iso: kor
+    name: 파쿠 카렌어
+    auto: true
   - translation_iso: por
     name: Karen Paku
     auto: true

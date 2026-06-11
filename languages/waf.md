@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ワコナ語
     auto: true
+  - translation_iso: kor
+    name: 와코나어
+    auto: true
   - translation_iso: por
     name: Wakoná
     auto: true
+  - translation_iso: rus
+    name: Вакона
   - translation_iso: spa
     name: Wakoná
     auto: true

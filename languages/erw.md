@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: एरोक्वानास
     auto: true
+  - translation_iso: ind
+    name: Erokwanas
   - translation_iso: jpn
     name: エロクワナス語
+    auto: true
+  - translation_iso: kor
+    name: 에로콰나스어
     auto: true
   - translation_iso: por
     name: Erokwanas
     auto: true
+  - translation_iso: rus
+    name: Эрокванас
   - translation_iso: spa
     name: Erokwanas
     auto: true

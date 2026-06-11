@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォゴ語
+  - translation_iso: kor
+    name: 초고어
+    auto: true
   - translation_iso: por
     name: Tsogo
     auto: true

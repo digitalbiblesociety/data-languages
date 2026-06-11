@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クルング語
     auto: true
+  - translation_iso: kor
+    name: 쿨룽어
+    auto: true
   - translation_iso: por
     name: Kulung (Nigéria)
     auto: true

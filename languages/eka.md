@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kajuk_language"
 translations:
   - translation_iso: ara
     name: الإكاجك
+  - translation_iso: ben
+    name: ইকাজুক
   - translation_iso: deu
     name: Ekajuk
   - translation_iso: fra
     name: ékajuk
   - translation_iso: hin
     name: एकाजुक
+  - translation_iso: ind
+    name: Ekajuk
   - translation_iso: jpn
     name: エカジュク語
   - translation_iso: kor
     name: 이카죽어
   - translation_iso: por
     name: ekajuk
+  - translation_iso: rus
+    name: экаджук
   - translation_iso: spa
     name: ekajuk
   - translation_iso: zho

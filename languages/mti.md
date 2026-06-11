@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マイワ語
     auto: true
+  - translation_iso: kor
+    name: 마이와어
+    auto: true
   - translation_iso: por
     name: Maiwa (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: Маива
   - translation_iso: spa
     name: Maiwa (Papúa Nueva Guinea)
     auto: true

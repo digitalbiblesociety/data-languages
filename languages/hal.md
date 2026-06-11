@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハラング語
     auto: true
+  - translation_iso: kor
+    name: 할랑어
+    auto: true
   - translation_iso: por
     name: Halang
     auto: true

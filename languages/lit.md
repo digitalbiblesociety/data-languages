@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lithuanian_language"
 translations:
   - translation_iso: ara
     name: اللتوانية
+  - translation_iso: ben
+    name: লিথুয়ানীয়
   - translation_iso: deu
     name: Litauisch
   - translation_iso: fra
     name: lituanien
   - translation_iso: hin
     name: लिथुआनियाई भाषा
+  - translation_iso: ind
+    name: Lituania
   - translation_iso: jpn
     name: リトアニア語
   - translation_iso: kor
     name: 리투아니아어
   - translation_iso: por
     name: língua lituana
+  - translation_iso: rus
+    name: литовский
   - translation_iso: spa
     name: lituano
   - translation_iso: zho

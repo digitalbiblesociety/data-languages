@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ヨロキソチトル・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 욜로소치틀 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Yoloxóchitl
     auto: true
+  - translation_iso: rus
+    name: Йолохочитлский миштекский язык
   - translation_iso: spa
     name: Mixteco de Yoloxochitl
     auto: true

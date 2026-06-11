@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スム語
     auto: true
+  - translation_iso: kor
+    name: 울와어
+    auto: true
   - translation_iso: por
     name: Ulwa
     auto: true

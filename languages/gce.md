@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ガリセ語
     auto: true
+  - translation_iso: kor
+    name: 갈리스어
+    auto: true
   - translation_iso: por
     name: Galice
     auto: true
+  - translation_iso: rus
+    name: Галис-эплгейт
   - translation_iso: spa
     name: galice
   - translation_iso: zho

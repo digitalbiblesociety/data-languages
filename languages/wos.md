@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハンガ・フンディ語
     auto: true
+  - translation_iso: kor
+    name: 항가 훈디어
+    auto: true
   - translation_iso: por
     name: Hanga Hundi
     auto: true

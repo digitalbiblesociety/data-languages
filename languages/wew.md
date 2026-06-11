@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: वेजेवा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Wejewa
   - translation_iso: jpn
     name: ウェジェワ語
+    auto: true
+  - translation_iso: kor
+    name: 웨제와어
     auto: true
   - translation_iso: por
     name: Wejewa

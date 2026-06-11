@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シエ語
+  - translation_iso: kor
+    name: 시에어
+    auto: true
   - translation_iso: por
     name: Sie
     auto: true
+  - translation_iso: rus
+    name: Сие
   - translation_iso: spa
     name: Sie
     auto: true

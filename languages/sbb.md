@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マデグス語
     auto: true
+  - translation_iso: kor
+    name: 심보어
+    auto: true
   - translation_iso: por
     name: Simbo
     auto: true

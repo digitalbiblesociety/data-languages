@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヤンシ語
     auto: true
+  - translation_iso: kor
+    name: 얀시어
+    auto: true
   - translation_iso: por
     name: yansi
     auto: true

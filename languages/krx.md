@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロン語
+  - translation_iso: kor
+    name: 카론어
+    auto: true
   - translation_iso: por
     name: Karon
     auto: true

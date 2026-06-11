@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドンシャンバ・ラロ語
     auto: true
+  - translation_iso: kor
+    name: 둥산바 랄로어
+    auto: true
   - translation_iso: por
     name: lalo de Dongshanba
     auto: true

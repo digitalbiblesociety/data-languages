@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コンパネ語
     auto: true
+  - translation_iso: kor
+    name: 콤파네어
+    auto: true
   - translation_iso: por
     name: Kompane
     auto: true

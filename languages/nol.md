@@ -25,9 +25,14 @@ translations:
   - translation_iso: jpn
     name: ノムラキ語
     auto: true
+  - translation_iso: kor
+    name: 놈라키어
+    auto: true
   - translation_iso: por
     name: Nomlaki
     auto: true
+  - translation_iso: rus
+    name: Номлаки
   - translation_iso: spa
     name: Nomlaki
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クリアス・リバー・カダザン語
     auto: true
+  - translation_iso: kor
+    name: 클리아스강 카다잔어
+    auto: true
   - translation_iso: por
     name: Kadazan do Rio Klias
     auto: true

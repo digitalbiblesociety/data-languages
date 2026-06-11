@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: الإيفاي
     auto: true
+  - translation_iso: ben
+    name: ইফাই
   - translation_iso: deu
     name: Efai
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エファイ語
+    auto: true
+  - translation_iso: kor
+    name: 에파이어
     auto: true
   - translation_iso: por
     name: Efai

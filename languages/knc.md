@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kanuri"
 translations:
   - translation_iso: ara
     name: وسط كانوري
+  - translation_iso: ben
+    name: মধ্য কানুরি
   - translation_iso: deu
     name: Zentral-Kanuri
     auto: true
@@ -29,6 +31,8 @@ translations:
   - translation_iso: hin
     name: मध्य कनुरी
     auto: true
+  - translation_iso: ind
+    name: Kanuri Tengah
   - translation_iso: jpn
     name: 中央カヌリ語
   - translation_iso: kor
@@ -36,6 +40,8 @@ translations:
   - translation_iso: por
     name: canúri central
     auto: true
+  - translation_iso: rus
+    name: центральный канури
   - translation_iso: spa
     name: Kanuri central
     auto: true

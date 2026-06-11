@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: レンジェ語
     auto: true
+  - translation_iso: kor
+    name: 렌제어
+    auto: true
   - translation_iso: por
     name: Língua lenje
   - translation_iso: spa

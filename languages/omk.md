@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オモク語
+  - translation_iso: kor
+    name: 오모크어
+    auto: true
   - translation_iso: por
     name: Omok
     auto: true
+  - translation_iso: rus
+    name: омокский язык
   - translation_iso: spa
     name: Omok
     auto: true

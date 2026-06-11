@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتا
     auto: true
+  - translation_iso: ben
+    name: বাটা
   - translation_iso: deu
     name: Bata
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタ語
+  - translation_iso: kor
+    name: 바타어
+    auto: true
   - translation_iso: por
     name: Bata
     auto: true

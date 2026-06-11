@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マシ語
     auto: true
+  - translation_iso: kor
+    name: 마시어
+    auto: true
   - translation_iso: por
     name: Mashi (Nigéria)
     auto: true

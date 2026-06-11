@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ラスウィ・バレリ語
     auto: true
+  - translation_iso: kor
+    name: 라트위 바렐리어
+    auto: true
   - translation_iso: por
     name: Rathwi Bareli
     auto: true
+  - translation_iso: rus
+    name: Ратви-барели
   - translation_iso: spa
     name: Bareli Rathwi
     auto: true

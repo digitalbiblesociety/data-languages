@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ティドング語
     auto: true
+  - translation_iso: kor
+    name: 셈바쿵 무루트어
+    auto: true
   - translation_iso: por
     name: Murut Sembakung
     auto: true

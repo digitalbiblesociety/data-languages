@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: पिक्टिश
     auto: true
+  - translation_iso: ind
+    name: Pikt
   - translation_iso: jpn
     name: ピクト語
   - translation_iso: kor
     name: 픽트어
   - translation_iso: por
     name: picto
+  - translation_iso: rus
+    name: пиктский язык
   - translation_iso: spa
     name: picto
   - translation_iso: zho

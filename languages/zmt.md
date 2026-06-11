@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: マリンガル語
     auto: true
+  - translation_iso: kor
+    name: 마링가르어
+    auto: true
   - translation_iso: por
     name: Maringarr
     auto: true
+  - translation_iso: rus
+    name: марингарр
   - translation_iso: spa
     name: Maringarr
     auto: true

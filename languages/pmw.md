@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: プレーンズミウォク語
     auto: true
+  - translation_iso: kor
+    name: 평원 미워크어
+    auto: true
   - translation_iso: por
     name: Miwok das Planícies
     auto: true
+  - translation_iso: rus
+    name: равнинный мивокский язык
   - translation_iso: spa
     name: Miwok de las llanuras
     auto: true

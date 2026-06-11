@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: लिंगाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Be
   - translation_iso: jpn
     name: オンベ語
   - translation_iso: kor

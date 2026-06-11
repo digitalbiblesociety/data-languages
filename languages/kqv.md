@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: ओकोलोद
     auto: true
+  - translation_iso: ind
+    name: Bahasa Okolod
   - translation_iso: jpn
     name: オコロド語
+    auto: true
+  - translation_iso: kor
+    name: 오콜로드어
     auto: true
   - translation_iso: por
     name: Okolod

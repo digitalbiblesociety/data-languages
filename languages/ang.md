@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_English"
 translations:
   - translation_iso: ara
     name: الإنجليزية القديمة
+  - translation_iso: ben
+    name: প্রাচীন ইংরেজী
   - translation_iso: deu
     name: Altenglisch
   - translation_iso: fra
     name: vieil anglais
   - translation_iso: hin
     name: ऐंग्लो-सैक्सन भाषा
+  - translation_iso: ind
+    name: Inggris Kuno
   - translation_iso: jpn
     name: 古英語
   - translation_iso: kor
     name: 고대 영어
   - translation_iso: por
     name: inglês antigo
+  - translation_iso: rus
+    name: староанглийский
   - translation_iso: spa
     name: inglés antiguo
   - translation_iso: zho

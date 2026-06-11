@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イアニ語
     auto: true
+  - translation_iso: kor
+    name: 아니어
+    auto: true
   - translation_iso: por
     name: ǁAni
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zulu_language"
 translations:
   - translation_iso: ara
     name: اللغة الزولوية
+  - translation_iso: ben
+    name: জুলু
   - translation_iso: deu
     name: isiZulu
   - translation_iso: fra
     name: zoulou
   - translation_iso: hin
     name: ज़ुलु भाषा
+  - translation_iso: ind
+    name: Zulu
   - translation_iso: jpn
     name: ズールー語
   - translation_iso: kor
     name: 줄루어
   - translation_iso: por
     name: língua zulu
+  - translation_iso: rus
+    name: зулу
   - translation_iso: spa
     name: zulú
   - translation_iso: zho

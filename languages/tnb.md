@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西部トゥネボ語
     auto: true
+  - translation_iso: kor
+    name: 서부 투네보어
+    auto: true
   - translation_iso: por
     name: Tunebo Ocidental
     auto: true

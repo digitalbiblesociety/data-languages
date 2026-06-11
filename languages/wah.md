@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: वातुबेला
     auto: true
+  - translation_iso: ind
+    name: Bahasa Watubela
   - translation_iso: jpn
     name: ワトゥベラ語
+    auto: true
+  - translation_iso: kor
+    name: 와투벨라어
     auto: true
   - translation_iso: por
     name: Watubela

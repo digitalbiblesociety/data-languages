@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: キヌク語
     auto: true
+  - translation_iso: kor
+    name: 키누쿠어
+    auto: true
   - translation_iso: por
     name: Kinuku
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クア・ンシ語
     auto: true
+  - translation_iso: kor
+    name: 쿠안시어
+    auto: true
   - translation_iso: por
     name: kua-nsi
     auto: true

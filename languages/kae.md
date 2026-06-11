@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: केतांगालन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ketagalan
   - translation_iso: jpn
     name: ケタガラン語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Ketangalan
     auto: true
+  - translation_iso: rus
+    name: кетагаланский язык
   - translation_iso: spa
     name: Luilang
   - translation_iso: zho

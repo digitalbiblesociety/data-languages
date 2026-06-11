@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドカ語
     auto: true
+  - translation_iso: kor
+    name: 도카어
+    auto: true
   - translation_iso: por
     name: Doka
     auto: true

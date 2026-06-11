@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナファーンラ語
+  - translation_iso: kor
+    name: 나판라어
+    auto: true
   - translation_iso: por
     name: Nafaanra
     auto: true
+  - translation_iso: rus
+    name: Нафаанра
   - translation_iso: spa
     name: nafaanra
   - translation_iso: zho

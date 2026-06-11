@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: राज़िही
     auto: true
+  - translation_iso: ind
+    name: Bahasa Razihi
   - translation_iso: jpn
     name: ラジフ語
+  - translation_iso: kor
+    name: 라지히어
+    auto: true
   - translation_iso: por
     name: Rāziḥī
     auto: true

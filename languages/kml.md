@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タヌダン・カリンガ語
     auto: true
+  - translation_iso: kor
+    name: 타누단 칼링가어
+    auto: true
   - translation_iso: por
     name: Kalinga de Tanudan
     auto: true

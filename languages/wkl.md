@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: كالانادي
     auto: true
+  - translation_iso: ben
+    name: কালানাদি ভাষা
   - translation_iso: deu
     name: Kalanadi
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: カラナディ語
     auto: true
+  - translation_iso: kor
+    name: 칼라나디어
+    auto: true
   - translation_iso: por
     name: Kalanadi
     auto: true
+  - translation_iso: rus
+    name: Каланади
   - translation_iso: spa
     name: Kalanadi
     auto: true

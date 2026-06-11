@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コモ・カリム語
     auto: true
+  - translation_iso: kor
+    name: 코모 카림어
+    auto: true
   - translation_iso: por
     name: Como Karim
     auto: true

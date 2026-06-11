@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マディ・マディ語
     auto: true
+  - translation_iso: kor
+    name: 마디마디어
+    auto: true
   - translation_iso: por
     name: Madhi Madhi
     auto: true

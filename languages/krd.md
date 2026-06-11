@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カイルイ・ミディキ語
     auto: true
+  - translation_iso: kor
+    name: 카이루이미디키어
+    auto: true
   - translation_iso: por
     name: Kairui-Midiki
     auto: true

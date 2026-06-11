@@ -28,11 +28,16 @@ translations:
     name: gta’
   - translation_iso: hin
     name: गेता भाषा
+  - translation_iso: ind
+    name: bahasa Gtaʼ
   - translation_iso: jpn
     name: ガタ語
     auto: true
+  - translation_iso: kor
+    name: 가타어
+    auto: true
   - translation_iso: por
-    name: "Língua gta'"
+    name: Língua gta
   - translation_iso: spa
     name: Gata
     auto: true

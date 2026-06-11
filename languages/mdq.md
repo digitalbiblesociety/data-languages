@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムボレ語
     auto: true
+  - translation_iso: kor
+    name: 음볼레어
+    auto: true
   - translation_iso: por
     name: Mbole
     auto: true

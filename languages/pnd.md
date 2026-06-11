@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムピンダ語
     auto: true
+  - translation_iso: kor
+    name: 음핀다어
+    auto: true
   - translation_iso: por
     name: Mpinda
     auto: true

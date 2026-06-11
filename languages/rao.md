@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラオ語
+  - translation_iso: kor
+    name: 라오어
+    auto: true
   - translation_iso: por
     name: Rao
     auto: true

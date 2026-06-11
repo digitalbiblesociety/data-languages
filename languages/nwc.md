@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Newar"
 translations:
   - translation_iso: ara
     name: النوارية التقليدية
+  - translation_iso: ben
+    name: প্রাচীন নেওয়ারী
   - translation_iso: deu
     name: klassisches Newari
   - translation_iso: fra
     name: newari classique
   - translation_iso: hin
     name: पारम्परिक नेवारी
+  - translation_iso: ind
+    name: Newari Klasik
   - translation_iso: jpn
     name: 古典ネパール・バサ語
   - translation_iso: kor
     name: 고전 네와르어
   - translation_iso: por
     name: newari clássico
+  - translation_iso: rus
+    name: классический невари
   - translation_iso: spa
     name: newari clásico
   - translation_iso: zho

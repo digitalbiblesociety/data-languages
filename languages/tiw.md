@@ -32,6 +32,8 @@ translations:
     name: 티위어
   - translation_iso: por
     name: Língua tiwi
+  - translation_iso: rus
+    name: Тиви
   - translation_iso: spa
     name: idioma tiví
   - translation_iso: zho

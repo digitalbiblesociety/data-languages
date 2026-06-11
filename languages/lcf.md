@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: लुबू
     auto: true
+  - translation_iso: ind
+    name: Lubu
   - translation_iso: jpn
     name: ルブ語
+    auto: true
+  - translation_iso: kor
+    name: 루부어
     auto: true
   - translation_iso: por
     name: Lubu

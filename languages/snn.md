@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ガンテーヤコカ語
     auto: true
+  - translation_iso: kor
+    name: 시오나어
+    auto: true
   - translation_iso: por
     name: Língua siona
+  - translation_iso: rus
+    name: Сиона
   - translation_iso: spa
     name: Siona
     auto: true

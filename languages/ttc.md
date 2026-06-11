@@ -34,6 +34,8 @@ translations:
     name: 텍티텍어
   - translation_iso: por
     name: Língua tectiteca
+  - translation_iso: rus
+    name: Тектитекский язык
   - translation_iso: spa
     name: tektiteko
   - translation_iso: zho

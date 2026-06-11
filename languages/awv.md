@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: जायर अव्यू
     auto: true
+  - translation_iso: ind
+    name: Awyu Jair
   - translation_iso: jpn
     name: ジェア・アウユ語
+    auto: true
+  - translation_iso: kor
+    name: 자이르 아우유어
     auto: true
   - translation_iso: por
     name: Awyu Jair

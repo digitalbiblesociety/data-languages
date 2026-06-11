@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ギタバル語
     auto: true
+  - translation_iso: kor
+    name: 기타불어
+    auto: true
   - translation_iso: por
     name: Githabul
     auto: true

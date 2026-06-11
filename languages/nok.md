@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌックサック語
+  - translation_iso: kor
+    name: 눅색어
+    auto: true
   - translation_iso: por
     name: Nooksack
     auto: true
+  - translation_iso: rus
+    name: Нуксак
   - translation_iso: spa
     name: Nooksack
   - translation_iso: zho

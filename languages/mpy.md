@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: मापिया
     auto: true
+  - translation_iso: ind
+    name: Mapia
   - translation_iso: jpn
     name: マピア語
+  - translation_iso: kor
+    name: 마피아어
+    auto: true
   - translation_iso: por
     name: Mapia
   - translation_iso: spa

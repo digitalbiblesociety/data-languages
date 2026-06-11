@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتيك
     auto: true
+  - translation_iso: ben
+    name: বাটেক
   - translation_iso: deu
     name: Batek
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बातेक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bateq
   - translation_iso: jpn
     name: バテック語
+    auto: true
+  - translation_iso: kor
+    name: 바테크어
     auto: true
   - translation_iso: por
     name: Batek

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: अभिलेखीय माया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Maya Klasik
   - translation_iso: jpn
     name: 古典マヤ語
   - translation_iso: kor
     name: 고전 마야어
   - translation_iso: por
     name: Língua maia clássica
+  - translation_iso: rus
+    name: Классический язык майя
   - translation_iso: spa
     name: idioma maya clásico
   - translation_iso: zho

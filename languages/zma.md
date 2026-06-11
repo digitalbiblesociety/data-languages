@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンダ語（オーストラリア）
     auto: true
+  - translation_iso: kor
+    name: 만다어
+    auto: true
   - translation_iso: por
     name: manda (Austrália)
     auto: true

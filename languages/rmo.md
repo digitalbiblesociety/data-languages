@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンティー＝ロマ語
+  - translation_iso: kor
+    name: 신테 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Sinte
     auto: true
+  - translation_iso: rus
+    name: синти
   - translation_iso: spa
     name: Romaní Sinti
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムベッサ語
     auto: true
+  - translation_iso: kor
+    name: 음베사어
+    auto: true
   - translation_iso: por
     name: Mbessa
     auto: true

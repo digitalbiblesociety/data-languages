@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهاريا
     auto: true
+  - translation_iso: ben
+    name: ভারিয়া ভাষা
   - translation_iso: deu
     name: Bharia
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: भरीयाटी
   - translation_iso: jpn
     name: バリアティ
+  - translation_iso: kor
+    name: 바리아어
+    auto: true
   - translation_iso: por
     name: Bharia
     auto: true

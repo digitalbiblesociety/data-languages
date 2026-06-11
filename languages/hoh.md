@@ -29,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホビョト語
+  - translation_iso: kor
+    name: 호비오트어
+    auto: true
   - translation_iso: por
     name: Hobyót
     auto: true
+  - translation_iso: rus
+    name: Хобйот
   - translation_iso: spa
     name: Hobyót
     auto: true

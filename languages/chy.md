@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cheyenne_language"
 translations:
   - translation_iso: ara
     name: الشايانية
+  - translation_iso: ben
+    name: চেইয়েন
   - translation_iso: deu
     name: Cheyenne
   - translation_iso: fra
     name: cheyenne
   - translation_iso: hin
     name: शेयेन्न
+  - translation_iso: ind
+    name: Cheyenne
   - translation_iso: jpn
     name: シャイアン語
   - translation_iso: kor
     name: 샤이엔어
   - translation_iso: por
     name: cheyenne
+  - translation_iso: rus
+    name: шайенский
   - translation_iso: spa
     name: cheyene
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フワイ語
     auto: true
+  - translation_iso: kor
+    name: 프와이어
+    auto: true
   - translation_iso: por
     name: Fwâi
     auto: true

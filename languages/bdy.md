@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانديالانج
     auto: true
+  - translation_iso: ben
+    name: বান্দজালাং
   - translation_iso: deu
     name: Bandjalang
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンジャランギック諸語
+  - translation_iso: kor
+    name: 반잘랑어
+    auto: true
   - translation_iso: por
     name: Língua bundjalung
+  - translation_iso: rus
+    name: пантяланг
   - translation_iso: spa
     name: Lenguas yugambeh-bundjalung
   - translation_iso: zho

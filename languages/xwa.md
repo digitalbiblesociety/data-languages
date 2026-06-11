@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: क्वाज़ा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kwaza
   - translation_iso: jpn
     name: クワザ語
     auto: true
+  - translation_iso: kor
+    name: 콰자어
+    auto: true
   - translation_iso: por
     name: Língua kwazá
+  - translation_iso: rus
+    name: куаза
   - translation_iso: spa
     name: idioma kwazá
   - translation_iso: zho

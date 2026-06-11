@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ロンググ語
     auto: true
+  - translation_iso: kor
+    name: 롱구어
+    auto: true
   - translation_iso: por
     name: Longgu
     auto: true
+  - translation_iso: rus
+    name: Лонггу
   - translation_iso: spa
     name: Longgu
     auto: true

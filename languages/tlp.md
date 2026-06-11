@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: フィレメナ・マタ・コアウイトラン・トトナック語
     auto: true
+  - translation_iso: kor
+    name: 필로메나 마타코아우이틀란 토토낙어
+    auto: true
   - translation_iso: por
     name: Totonaco de Filomena Mata-Coahuitlán
     auto: true
+  - translation_iso: rus
+    name: Филомена-мата-коауитланский тотонакский язык
   - translation_iso: spa
     name: Totonaco de Filomena Mata-Coahuitlán
     auto: true

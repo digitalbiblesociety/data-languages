@@ -21,12 +21,16 @@ translations:
   - translation_iso: hin
     name: सिकुलो अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Sisilia
   - translation_iso: jpn
     name: アラビア語シチリア方言
   - translation_iso: kor
     name: 시칠리아 아랍어
   - translation_iso: por
     name: Sículo-árabe
+  - translation_iso: rus
+    name: сицилийско-арабский язык
   - translation_iso: spa
     name: árabe siciliano
   - translation_iso: zho

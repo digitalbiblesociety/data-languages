@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウビ語
+  - translation_iso: kor
+    name: 글리오우비어
+    auto: true
   - translation_iso: por
     name: Glio-Oubi
     auto: true

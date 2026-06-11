@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パイタビェテラ語
     auto: true
+  - translation_iso: kor
+    name: 파이 타비테라어
+    auto: true
   - translation_iso: por
     name: Língua pãi-taviterã
+  - translation_iso: rus
+    name: Пай-тавитера
   - translation_iso: spa
     name: Idioma Paí tavyterá
   - translation_iso: zho

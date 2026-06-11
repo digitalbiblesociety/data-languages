@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुकाट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bukat
   - translation_iso: jpn
     name: ブカット語
+    auto: true
+  - translation_iso: kor
+    name: 부카트어
     auto: true
   - translation_iso: por
     name: Bukat

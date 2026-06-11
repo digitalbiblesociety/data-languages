@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トリセリ語
     auto: true
+  - translation_iso: kor
+    name: 토리첼리어
+    auto: true
   - translation_iso: por
     name: Torricelli
     auto: true

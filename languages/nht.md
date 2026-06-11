@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オメテペク・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 오메테펙 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Ometepec
     auto: true
+  - translation_iso: rus
+    name: Ометепекский науатль
   - translation_iso: spa
     name: Náhuatl de Ometepec
     auto: true

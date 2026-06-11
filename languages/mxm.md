@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メラメラ語
+  - translation_iso: kor
+    name: 메라메라어
+    auto: true
   - translation_iso: por
     name: Meramera
     auto: true

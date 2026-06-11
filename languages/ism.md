@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मासिमासी
     auto: true
+  - translation_iso: ind
+    name: Masimasi
   - translation_iso: jpn
     name: マシマシ語
+    auto: true
+  - translation_iso: kor
+    name: 마시마시어
     auto: true
   - translation_iso: por
     name: Masimasi

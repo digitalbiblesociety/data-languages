@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوري
     auto: true
+  - translation_iso: ben
+    name: আবুরে
   - translation_iso: deu
     name: Abure
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アブレ語
     auto: true
+  - translation_iso: kor
+    name: 아부레어
+    auto: true
   - translation_iso: por
     name: Abure
     auto: true
+  - translation_iso: rus
+    name: абуре
   - translation_iso: spa
     name: Abure
     auto: true

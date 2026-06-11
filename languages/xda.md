@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダルキニユング語
     auto: true
+  - translation_iso: kor
+    name: 다르킨융어
+    auto: true
   - translation_iso: por
     name: Darkinyung
     auto: true

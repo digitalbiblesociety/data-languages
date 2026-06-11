@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニインドロウ語
     auto: true
+  - translation_iso: kor
+    name: 닌드로우어
+    auto: true
   - translation_iso: por
     name: Nyindrou
     auto: true

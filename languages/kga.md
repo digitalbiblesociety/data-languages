@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コヤガ語
     auto: true
+  - translation_iso: kor
+    name: 코야가어
+    auto: true
   - translation_iso: por
     name: Koyaga
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا الكلاسيكية
     auto: true
+  - translation_iso: ben
+    name: ধ্রুপদী কেচুয়া
   - translation_iso: deu
     name: klassisches Quechua
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ケチュア語
+  - translation_iso: kor
+    name: 고전 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua Clássico
     auto: true
+  - translation_iso: rus
+    name: Классический кечуа
   - translation_iso: spa
     name: lengua general quechua
   - translation_iso: zho

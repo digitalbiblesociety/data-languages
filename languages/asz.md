@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أس
     auto: true
+  - translation_iso: ben
+    name: আস
   - translation_iso: deu
     name: As
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: आस
     auto: true
+  - translation_iso: ind
+    name: As
   - translation_iso: jpn
     name: アス語
+    auto: true
+  - translation_iso: kor
+    name: 아스어
     auto: true
   - translation_iso: por
     name: As

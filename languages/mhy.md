@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: माअन्यान
     auto: true
+  - translation_iso: ind
+    name: Maanyan
   - translation_iso: jpn
     name: マアニヤン語
+  - translation_iso: kor
+    name: 마아냔어
+    auto: true
   - translation_iso: por
     name: "Ma'anyan"
     auto: true
+  - translation_iso: rus
+    name: Мааньян
   - translation_iso: spa
     name: "Ma'anyan"
     auto: true

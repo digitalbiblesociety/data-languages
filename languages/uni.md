@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラモ語
     auto: true
+  - translation_iso: kor
+    name: 우니어
+    auto: true
   - translation_iso: por
     name: Uni
     auto: true

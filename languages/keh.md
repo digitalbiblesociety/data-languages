@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キーク語
     auto: true
+  - translation_iso: kor
+    name: 케아크어
+    auto: true
   - translation_iso: por
     name: Keak
     auto: true

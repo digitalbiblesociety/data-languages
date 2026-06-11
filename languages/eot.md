@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ベティ語
     auto: true
+  - translation_iso: kor
+    name: 베티어
+    auto: true
   - translation_iso: por
     name: Beti (Costa do Marfim)
     auto: true

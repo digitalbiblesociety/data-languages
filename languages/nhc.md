@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タバスコ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 타바스코 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Tabasco
     auto: true

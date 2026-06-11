@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الكودا
     auto: true
+  - translation_iso: ben
+    name: কোড়া
   - translation_iso: deu
     name: Koda
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: कोडा
   - translation_iso: jpn
     name: コダ語
+    auto: true
+  - translation_iso: kor
+    name: 코다어
     auto: true
   - translation_iso: por
     name: Koda

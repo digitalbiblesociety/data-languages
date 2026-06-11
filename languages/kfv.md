@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クルムカル語
     auto: true
+  - translation_iso: kor
+    name: 쿠르무카르어
+    auto: true
   - translation_iso: por
     name: Kurmukar
     auto: true

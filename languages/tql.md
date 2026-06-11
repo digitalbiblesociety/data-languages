@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ローリ語
     auto: true
+  - translation_iso: kor
+    name: 레할리어
+    auto: true
   - translation_iso: por
     name: Língua lehali
   - translation_iso: spa

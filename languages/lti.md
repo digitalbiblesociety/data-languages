@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レティ語
     auto: true
+  - translation_iso: kor
+    name: 레티어
+    auto: true
   - translation_iso: por
     name: Leti (Indonésia)
     auto: true

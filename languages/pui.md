@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: プイナベ語
     auto: true
+  - translation_iso: kor
+    name: 푸이나베어
+    auto: true
   - translation_iso: por
     name: Língua puinave
+  - translation_iso: rus
+    name: Пуйнаве
   - translation_iso: spa
     name: idioma puinave
   - translation_iso: zho

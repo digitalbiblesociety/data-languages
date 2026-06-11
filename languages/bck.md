@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブヌバ語
     auto: true
+  - translation_iso: kor
+    name: 부누바어
+    auto: true
   - translation_iso: por
     name: Bunuba
     auto: true

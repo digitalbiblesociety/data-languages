@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・タクルティ語
     auto: true
+  - translation_iso: kor
+    name: 마이·타쿠르티어
+    auto: true
   - translation_iso: por
     name: mayi-thakurti
     auto: true

@@ -21,14 +21,21 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التركية
     auto: true
+  - translation_iso: ben
+    name: তুর্কি ইশারা ভাষা
   - translation_iso: deu
     name: Türkische Gebärdensprache
   - translation_iso: fra
     name: langue des signes turque
   - translation_iso: hin
     name: तुर्की सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Turki
   - translation_iso: jpn
     name: トルコ手話
+  - translation_iso: kor
+    name: 튀르키예 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Turca
     auto: true

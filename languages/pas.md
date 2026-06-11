@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पापासेना
     auto: true
+  - translation_iso: ind
+    name: Papasena
   - translation_iso: jpn
     name: パパセナ語
+    auto: true
+  - translation_iso: kor
+    name: 파파세나어
     auto: true
   - translation_iso: por
     name: Papasena

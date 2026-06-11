@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तेंगारोंग कुताई मलय
     auto: true
+  - translation_iso: ind
+    name: Tenggarong
   - translation_iso: jpn
     name: テンガロン・クタイ・マレー語
+  - translation_iso: kor
+    name: 텡가롱 쿠타이 말레이어
+    auto: true
   - translation_iso: por
     name: Malaio Kutai de Tenggarong
     auto: true

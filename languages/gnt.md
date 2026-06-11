@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グンタイ語
     auto: true
+  - translation_iso: kor
+    name: 군타이어
+    auto: true
   - translation_iso: por
     name: Guntai
     auto: true

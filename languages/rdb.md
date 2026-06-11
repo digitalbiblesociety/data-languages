@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ルドバリ語
     auto: true
+  - translation_iso: kor
+    name: 루드바리어
+    auto: true
   - translation_iso: por
     name: Rudbari
     auto: true

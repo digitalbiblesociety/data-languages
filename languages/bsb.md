@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ब्रुनेई बिसाया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tutong 1
   - translation_iso: jpn
     name: ブルネイ・ビサヤ語
+    auto: true
+  - translation_iso: kor
+    name: 브루나이 비사야어
     auto: true
   - translation_iso: por
     name: Bisaya do Brunei

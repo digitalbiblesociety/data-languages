@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بندا نديلي
     auto: true
+  - translation_iso: ben
+    name: বান্দা-এনদেলে
   - translation_iso: deu
     name: Banda-Ndele
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンダ・ンデレ語
+    auto: true
+  - translation_iso: kor
+    name: 반다·은델레어
     auto: true
   - translation_iso: por
     name: Banda-Ndélé

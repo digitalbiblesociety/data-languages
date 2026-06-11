@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 上部ザクセン語
+  - translation_iso: kor
+    name: 고지 작센어
+    auto: true
   - translation_iso: por
     name: Alto saxão
+  - translation_iso: rus
+    name: Верхнесаксонский диалект
   - translation_iso: spa
     name: Alto sajón
   - translation_iso: zho

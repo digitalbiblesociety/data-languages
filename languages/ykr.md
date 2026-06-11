@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イェコラ語
     auto: true
+  - translation_iso: kor
+    name: 예코라어
+    auto: true
   - translation_iso: por
     name: yekora
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ファタレカ語
     auto: true
+  - translation_iso: kor
+    name: 파탈레카어
+    auto: true
   - translation_iso: por
     name: Fataleka
     auto: true

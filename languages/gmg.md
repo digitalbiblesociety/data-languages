@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マガイイ語
     auto: true
+  - translation_iso: kor
+    name: 마기이어
+    auto: true
   - translation_iso: por
     name: Magɨyi
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ロカア語
     auto: true
+  - translation_iso: kor
+    name: 로카어
+    auto: true
   - translation_iso: por
     name: lokaa
     auto: true

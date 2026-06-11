@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゾウ語
+  - translation_iso: kor
+    name: 조우어
+    auto: true
   - translation_iso: por
     name: Língua zou
   - translation_iso: spa

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤガリア語
+  - translation_iso: kor
+    name: 야가리아어
+    auto: true
   - translation_iso: por
     name: yagaria
     auto: true
+  - translation_iso: rus
+    name: ягариа
   - translation_iso: spa
     name: Yagaria
     auto: true

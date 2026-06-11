@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クウェレ語
     auto: true
+  - translation_iso: kor
+    name: 퀘레어
+    auto: true
   - translation_iso: por
     name: Kwere
     auto: true
+  - translation_iso: rus
+    name: Квере (язык)
   - translation_iso: spa
     name: Kwere
     auto: true

@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: प्यू (पापुआ न्यू गिनी)
     auto: true
+  - translation_iso: ind
+    name: Pyu
   - translation_iso: jpn
     name: ピュー語
+  - translation_iso: kor
+    name: 퓨어
+    auto: true
   - translation_iso: por
     name: Pyu (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: Пью
   - translation_iso: spa
     name: Pyu
     auto: true

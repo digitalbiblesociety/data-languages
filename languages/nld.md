@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_language"
 translations:
   - translation_iso: ara
     name: الهولندية
+  - translation_iso: ben
+    name: ওলন্দাজ
   - translation_iso: deu
     name: Niederländisch
   - translation_iso: fra
     name: néerlandais
   - translation_iso: hin
     name: डच
+  - translation_iso: ind
+    name: Belanda
   - translation_iso: jpn
     name: オランダ語
   - translation_iso: kor
     name: 네덜란드어
   - translation_iso: por
     name: neerlandês
+  - translation_iso: rus
+    name: нидерландский
   - translation_iso: spa
     name: neerlandés
   - translation_iso: zho

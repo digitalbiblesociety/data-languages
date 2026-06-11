@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मानिपा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Manipa
   - translation_iso: jpn
     name: マニパ語
+    auto: true
+  - translation_iso: kor
+    name: 마니파어
     auto: true
   - translation_iso: por
     name: Manipa

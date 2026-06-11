@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 中央アウユ語
     auto: true
+  - translation_iso: kor
+    name: 중부 아우유어
+    auto: true
   - translation_iso: por
     name: Awyu Central
     auto: true

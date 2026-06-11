@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オクペ語
     auto: true
+  - translation_iso: kor
+    name: 남서부 에도 오크페어
+    auto: true
   - translation_iso: por
     name: Okpe (Edo Sudoeste)
     auto: true

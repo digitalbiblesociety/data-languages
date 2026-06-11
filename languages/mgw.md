@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マトゥムビ語
     auto: true
+  - translation_iso: kor
+    name: 마툼비어
+    auto: true
   - translation_iso: por
     name: Matumbi
     auto: true

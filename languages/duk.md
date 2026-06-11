@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウヤジタヤ語
     auto: true
+  - translation_iso: kor
+    name: 우야지타야어
+    auto: true
   - translation_iso: por
     name: Uyajitaya
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मेदुम्बा
     auto: true
+  - translation_iso: ind
+    name: Medumba
   - translation_iso: jpn
     name: メドゥンバ語
   - translation_iso: kor
     name: 메둠바어
   - translation_iso: por
     name: medumba
+  - translation_iso: rus
+    name: медумба
   - translation_iso: spa
     name: medumba
   - translation_iso: zho

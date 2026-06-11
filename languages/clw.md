@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chulym_language"
 translations:
   - translation_iso: ara
     name: لغة التشوليم
+  - translation_iso: ben
+    name: চুলিম ভাষা
   - translation_iso: deu
     name: Tschulymisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: चुलिम
     auto: true
+  - translation_iso: ind
+    name: bahasa Chulym
   - translation_iso: jpn
     name: チュリム語
   - translation_iso: kor
     name: 출림어
   - translation_iso: por
     name: Língua chulym
+  - translation_iso: rus
+    name: чулымский язык
   - translation_iso: spa
     name: Idioma chulym
   - translation_iso: zho

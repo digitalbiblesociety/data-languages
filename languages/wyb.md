@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギヤンバー語
+  - translation_iso: kor
+    name: 왕가이부완·응이얌바어
+    auto: true
   - translation_iso: por
     name: Wangaaybuwan-Ngiyambaa
     auto: true

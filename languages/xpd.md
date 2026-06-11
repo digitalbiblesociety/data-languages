@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語
     auto: true
+  - translation_iso: kor
+    name: 오이스터베이 태즈메이니아어
+    auto: true
   - translation_iso: por
     name: Tasmaniano de Oyster Bay
     auto: true

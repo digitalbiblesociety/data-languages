@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: तोबेलो
     auto: true
+  - translation_iso: ind
+    name: bahasa Tobelo
   - translation_iso: jpn
     name: トベロ語
   - translation_iso: kor
     name: 토벨로어
   - translation_iso: por
     name: Tobelo
+  - translation_iso: rus
+    name: тобело
   - translation_iso: spa
     name: Tobelo
   - translation_iso: zho

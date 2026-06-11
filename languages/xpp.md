@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: プヨ・ペクチェ語
     auto: true
+  - translation_iso: kor
+    name: 부여백제어
+    auto: true
   - translation_iso: por
     name: Puyo-Paekche
     auto: true

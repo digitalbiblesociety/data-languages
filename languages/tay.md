@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atayal_language"
 translations:
   - translation_iso: ara
     name: لغة أتايال
+  - translation_iso: ben
+    name: আতাইয়াল
   - translation_iso: deu
     name: Atayal
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: अतायल
     auto: true
+  - translation_iso: ind
+    name: Atayal
   - translation_iso: jpn
     name: タイヤル語
   - translation_iso: kor
     name: 타이얄어
   - translation_iso: por
     name: Língua atayal
+  - translation_iso: rus
+    name: атаяльский язык
   - translation_iso: spa
     name: lengua atayal
   - translation_iso: zho

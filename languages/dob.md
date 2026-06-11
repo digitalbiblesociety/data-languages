@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドブ語
+  - translation_iso: kor
+    name: 도부어
+    auto: true
   - translation_iso: por
     name: Dobu
     auto: true

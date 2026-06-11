@@ -28,8 +28,13 @@ translations:
     name: brokskat
   - translation_iso: hin
     name: ब्रोकस्कत भाषा
+  - translation_iso: ind
+    name: Brokskat
   - translation_iso: jpn
     name: ブロクスカット語
+    auto: true
+  - translation_iso: kor
+    name: 브로크스카트어
     auto: true
   - translation_iso: por
     name: Brokskat

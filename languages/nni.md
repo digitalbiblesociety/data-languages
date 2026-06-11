@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: उत्तरी नुआउलु
     auto: true
+  - translation_iso: ind
+    name: Nuaulu Utara
   - translation_iso: jpn
     name: 北ヌアウル語
+    auto: true
+  - translation_iso: kor
+    name: 북부 누아울루어
     auto: true
   - translation_iso: por
     name: Nuaulu do Norte

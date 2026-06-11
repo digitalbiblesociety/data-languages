@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイ語
+  - translation_iso: kor
+    name: 코판어
+    auto: true
   - translation_iso: por
     name: Língua cofán
+  - translation_iso: rus
+    name: кофан
   - translation_iso: spa
     name: Idioma cofán
   - translation_iso: zho

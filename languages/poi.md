@@ -36,6 +36,8 @@ translations:
   - translation_iso: por
     name: Popoluca das Terras Altas
     auto: true
+  - translation_iso: rus
+    name: сьерра пополукский язык
   - translation_iso: spa
     name: popoluca de la Sierra
   - translation_iso: zho

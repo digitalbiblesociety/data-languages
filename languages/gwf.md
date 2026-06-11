@@ -30,6 +30,9 @@ translations:
     name: गोवरो भाषा
   - translation_iso: jpn
     name: ゴウロ語
+  - translation_iso: kor
+    name: 고우로어
+    auto: true
   - translation_iso: por
     name: Gowro
     auto: true

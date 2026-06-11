@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوشيري
     auto: true
+  - translation_iso: ben
+    name: আউশিরি
   - translation_iso: deu
     name: Aushiri
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アウシリ語
     auto: true
+  - translation_iso: kor
+    name: 아우시리어
+    auto: true
   - translation_iso: por
     name: Aushiri
     auto: true
+  - translation_iso: rus
+    name: Аушири
   - translation_iso: spa
     name: aushiri
   - translation_iso: zho

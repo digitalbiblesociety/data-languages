@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dalmatian_language"
 translations:
   - translation_iso: ara
     name: الدلماتية
+  - translation_iso: ben
+    name: দালমাসীয় ভাষা
   - translation_iso: deu
     name: Dalmatisch
   - translation_iso: fra
@@ -26,12 +28,16 @@ translations:
   - translation_iso: hin
     name: डाल्मेशियाई
     auto: true
+  - translation_iso: ind
+    name: bahasa Dalmasia
   - translation_iso: jpn
     name: ダルマチア語
   - translation_iso: kor
     name: 달마티아어
   - translation_iso: por
     name: dálmata
+  - translation_iso: rus
+    name: далматинский язык
   - translation_iso: spa
     name: dalmático
   - translation_iso: zho

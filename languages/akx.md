@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كيدي
     auto: true
+  - translation_iso: ben
+    name: আকা-কেদে
   - translation_iso: deu
     name: Aka-Kede
     auto: true
@@ -38,6 +40,8 @@ translations:
   - translation_iso: por
     name: Aka-Kede
     auto: true
+  - translation_iso: rus
+    name: ака-кеде
   - translation_iso: spa
     name: Idioma kede
   - translation_iso: zho

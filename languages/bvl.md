@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوليفية
     auto: true
+  - translation_iso: ben
+    name: বলিভীয় ইশারা ভাষা
   - translation_iso: deu
     name: Bolivianische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボリビア手話
+  - translation_iso: kor
+    name: 볼리비아 수어
+    auto: true
   - translation_iso: por
     name: Língua gestual boliviana
+  - translation_iso: rus
+    name: боливийский жестовый язык
   - translation_iso: spa
     name: lengua de señas bolivianas
   - translation_iso: zho

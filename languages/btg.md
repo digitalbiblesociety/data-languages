@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ語
+  - translation_iso: kor
+    name: 가뇨아 베테어
+    auto: true
   - translation_iso: por
     name: Língua bété
   - translation_iso: spa

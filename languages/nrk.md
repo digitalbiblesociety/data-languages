@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングアルラ語
     auto: true
+  - translation_iso: kor
+    name: 응알라어
+    auto: true
   - translation_iso: por
     name: Ngarla
     auto: true

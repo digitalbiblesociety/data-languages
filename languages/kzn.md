@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ココラ語
     auto: true
+  - translation_iso: kor
+    name: 코콜라어
+    auto: true
   - translation_iso: por
     name: Kokola
     auto: true

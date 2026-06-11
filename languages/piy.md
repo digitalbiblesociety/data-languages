@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ピヤクウォンシ語
     auto: true
+  - translation_iso: kor
+    name: 피야퀀치어
+    auto: true
   - translation_iso: por
     name: Piya-Kwonci
     auto: true
+  - translation_iso: rus
+    name: Пийя-квончи
   - translation_iso: spa
     name: Piya-Kwonci
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヤウ語
+  - translation_iso: kor
+    name: 카요어
+    auto: true
   - translation_iso: por
     name: Kayaw
     auto: true

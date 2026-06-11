@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ホワイトサンズ語
     auto: true
+  - translation_iso: kor
+    name: 화이트샌즈어
+    auto: true
   - translation_iso: por
     name: Whitesands
     auto: true

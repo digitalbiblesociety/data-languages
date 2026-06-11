@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マルギ南語
     auto: true
+  - translation_iso: kor
+    name: 남부 마르기어
+    auto: true
   - translation_iso: por
     name: Marghi do Sul
     auto: true

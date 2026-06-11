@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タウポタ語
+  - translation_iso: kor
+    name: 타우포타어
+    auto: true
   - translation_iso: por
     name: Taupota
     auto: true
+  - translation_iso: rus
+    name: Таупота
   - translation_iso: spa
     name: Taupota
     auto: true

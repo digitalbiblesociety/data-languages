@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: タピラペ語
     auto: true
+  - translation_iso: kor
+    name: 타피라페어
+    auto: true
   - translation_iso: por
     name: Língua tapirapé
+  - translation_iso: rus
+    name: Тапирапе
   - translation_iso: spa
     name: Tapirapé
     auto: true

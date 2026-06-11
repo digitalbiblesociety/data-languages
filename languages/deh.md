@@ -28,12 +28,19 @@ translations:
     auto: true
   - translation_iso: hin
     name: देहवारी भाषा
+  - translation_iso: ind
+    name: bahasa Persia Dehwar
   - translation_iso: jpn
     name: デフワリ語
+    auto: true
+  - translation_iso: kor
+    name: 데흐와리어
     auto: true
   - translation_iso: por
     name: Dehwari
     auto: true
+  - translation_iso: rus
+    name: дэхвари язык
   - translation_iso: spa
     name: Dehwari
     auto: true

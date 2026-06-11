@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Assamese_language"
 translations:
   - translation_iso: ara
     name: الآسامية
+  - translation_iso: ben
+    name: অসমীয়া
   - translation_iso: deu
     name: Assamesisch
   - translation_iso: fra
     name: assamais
   - translation_iso: hin
     name: असमिया
+  - translation_iso: ind
+    name: Assam
   - translation_iso: jpn
     name: アッサム語
   - translation_iso: kor
     name: 아삼어
   - translation_iso: por
     name: língua assamesa
+  - translation_iso: rus
+    name: ассамский
   - translation_iso: spa
     name: idioma asamés
   - translation_iso: zho

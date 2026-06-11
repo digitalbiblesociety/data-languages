@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: ben
+    name: লূউ ভাষা
   - translation_iso: deu
     name: Loo
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロー語
+    auto: true
+  - translation_iso: kor
+    name: 로어
     auto: true
   - translation_iso: por
     name: Loo

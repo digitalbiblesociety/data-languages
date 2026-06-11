@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ديماسا
     auto: true
+  - translation_iso: ben
+    name: ডিমাসা ভাষা
   - translation_iso: deu
     name: Dimasa
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: दिमासा भाषा
   - translation_iso: jpn
     name: ディマサ語
+  - translation_iso: kor
+    name: 디마사어
+    auto: true
   - translation_iso: por
     name: Dimasa
     auto: true
+  - translation_iso: rus
+    name: Димаса
   - translation_iso: spa
     name: idioma dimasa
   - translation_iso: zho

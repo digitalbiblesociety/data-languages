@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابين
     auto: true
+  - translation_iso: ben
+    name: "বাবিনে-উইতসুউইত'এন"
   - translation_iso: deu
     name: "Babine-Witsuwit'en"
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: バビーネ語
     auto: true
+  - translation_iso: kor
+    name: 배빈어
+    auto: true
   - translation_iso: por
     name: "Língua babine–witsuwit'en"
+  - translation_iso: rus
+    name: Бабин-вицувитен
   - translation_iso: spa
     name: babine
   - translation_iso: zho

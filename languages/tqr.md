@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トロナ語
+  - translation_iso: kor
+    name: 토로나어
+    auto: true
   - translation_iso: por
     name: Torona
     auto: true
+  - translation_iso: rus
+    name: Торона
   - translation_iso: spa
     name: Torona
     auto: true

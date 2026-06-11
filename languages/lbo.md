@@ -32,8 +32,11 @@ translations:
   - translation_iso: jpn
     name: ラヴェン語
     auto: true
+  - translation_iso: kor
+    name: 라벤어
+    auto: true
   - translation_iso: por
-    name: "Língua jru'"
+    name: Língua jru
   - translation_iso: spa
     name: Laven
     auto: true

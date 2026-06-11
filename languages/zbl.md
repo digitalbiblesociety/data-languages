@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Blissymbols"
 translations:
   - translation_iso: ara
     name: رموز بليس
+  - translation_iso: ben
+    name: চিত্র ভাষা
   - translation_iso: deu
     name: Bliss-Symbol
   - translation_iso: fra
     name: bliss
   - translation_iso: hin
     name: ब्लिसिम्बॉल्स
+  - translation_iso: ind
+    name: Blissymbol
   - translation_iso: jpn
     name: ブリスシンボル
   - translation_iso: kor
     name: 블리스심볼
   - translation_iso: por
     name: Semantografia
+  - translation_iso: rus
+    name: блиссимволика
   - translation_iso: spa
     name: símbolos Bliss
   - translation_iso: zho

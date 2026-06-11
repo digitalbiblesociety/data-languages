@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゾア語
     auto: true
+  - translation_iso: kor
+    name: 조아어
+    auto: true
   - translation_iso: por
     name: zhoa
     auto: true

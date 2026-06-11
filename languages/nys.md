@@ -34,6 +34,8 @@ translations:
   - translation_iso: por
     name: Nyungar
     auto: true
+  - translation_iso: rus
+    name: ноонгарский язык
   - translation_iso: spa
     name: noongar
   - translation_iso: zho

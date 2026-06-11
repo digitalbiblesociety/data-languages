@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: エーニャ語
     auto: true
+  - translation_iso: kor
+    name: 에냐어
+    auto: true
   - translation_iso: por
     name: Enya
     auto: true

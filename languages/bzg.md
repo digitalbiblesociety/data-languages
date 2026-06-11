@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بابوزا
     auto: true
+  - translation_iso: ben
+    name: বাবুজা
   - translation_iso: deu
     name: Babuza
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: बाबुज़ा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Babuza
   - translation_iso: jpn
     name: バブサ語
+  - translation_iso: kor
+    name: 바부자어
+    auto: true
   - translation_iso: por
     name: Babuza
     auto: true
+  - translation_iso: rus
+    name: бабуза
   - translation_iso: spa
     name: babuza
   - translation_iso: zho

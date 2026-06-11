@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: नागे
     auto: true
+  - translation_iso: ind
+    name: Nage
   - translation_iso: jpn
     name: ナゲ語
     auto: true
+  - translation_iso: kor
+    name: 나게어
+    auto: true
   - translation_iso: por
     name: Nage
+  - translation_iso: rus
+    name: Наге
   - translation_iso: spa
     name: Nage
   - translation_iso: zho

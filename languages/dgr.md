@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dogrib_language"
 translations:
   - translation_iso: ara
     name: الدوجريب
+  - translation_iso: ben
+    name: দোগ্রীব
   - translation_iso: deu
     name: Dogrib
   - translation_iso: fra
     name: tlicho
   - translation_iso: hin
     name: डोग्रिब
+  - translation_iso: ind
+    name: Dogrib
   - translation_iso: jpn
     name: ドグリブ語
   - translation_iso: kor
     name: 도그리브어
   - translation_iso: por
     name: Língua dogrib
+  - translation_iso: rus
+    name: догриб
   - translation_iso: spa
     name: dogrib
   - translation_iso: zho

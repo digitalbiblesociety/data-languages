@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パラカナン語
     auto: true
+  - translation_iso: kor
+    name: 파라카낭어
+    auto: true
   - translation_iso: por
     name: Língua paracanã
   - translation_iso: spa

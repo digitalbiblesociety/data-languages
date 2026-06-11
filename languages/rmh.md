@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: मुर्किम
     auto: true
+  - translation_iso: ind
+    name: Murkim
   - translation_iso: jpn
     name: ムルキム語
     auto: true
+  - translation_iso: kor
+    name: 무르킴어
+    auto: true
   - translation_iso: por
     name: Língua murkim
+  - translation_iso: rus
+    name: Мурким
   - translation_iso: spa
     name: Murkim
     auto: true

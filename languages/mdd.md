@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムブム語
     auto: true
+  - translation_iso: kor
+    name: 음붐어
+    auto: true
   - translation_iso: por
     name: Língua mbum
   - translation_iso: spa

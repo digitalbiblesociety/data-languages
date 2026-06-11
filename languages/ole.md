@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: ओलेखा
     auto: true
+  - translation_iso: ind
+    name: Ole
   - translation_iso: jpn
     name: オレ語
+  - translation_iso: kor
+    name: 올레카어
+    auto: true
   - translation_iso: por
     name: Olekha
     auto: true
+  - translation_iso: rus
+    name: Оле-кха
   - translation_iso: spa
     name: idioma olekha
   - translation_iso: zho

@@ -28,8 +28,13 @@ translations:
     name: rongmei
   - translation_iso: hin
     name: नरूंगमई भाषा
+  - translation_iso: ind
+    name: bahasa Rongmei
   - translation_iso: jpn
     name: ロングメイ・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 롱메이 나가어
     auto: true
   - translation_iso: por
     name: Naga Rongmei

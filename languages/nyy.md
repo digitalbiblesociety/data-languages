@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャキュサ語
+  - translation_iso: kor
+    name: 냐큐사응곤데어
+    auto: true
   - translation_iso: por
     name: Nyakyusa-Ngonde
     auto: true

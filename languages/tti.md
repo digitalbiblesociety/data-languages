@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: तोबाती
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tobati
   - translation_iso: jpn
     name: ヨータファ語
+    auto: true
+  - translation_iso: kor
+    name: 토바티어
     auto: true
   - translation_iso: por
     name: Tobati
     auto: true
+  - translation_iso: rus
+    name: Тобати
   - translation_iso: spa
     name: Tobati
     auto: true

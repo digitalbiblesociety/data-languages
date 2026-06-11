@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ファラ語
     auto: true
+  - translation_iso: kor
+    name: 팔라어
+    auto: true
   - translation_iso: por
     name: phala
     auto: true

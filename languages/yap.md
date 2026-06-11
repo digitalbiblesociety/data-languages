@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yapese_language"
 translations:
   - translation_iso: ara
     name: اليابيز
+  - translation_iso: ben
+    name: ইয়াপেসে
   - translation_iso: deu
     name: Yapesisch
   - translation_iso: fra
     name: yap
   - translation_iso: hin
     name: यापीस
+  - translation_iso: ind
+    name: Yapois
   - translation_iso: jpn
     name: ヤップ語
   - translation_iso: kor
     name: 야프어
   - translation_iso: por
     name: Língua yap
+  - translation_iso: rus
+    name: яп
   - translation_iso: spa
     name: Idioma yapés
   - translation_iso: zho

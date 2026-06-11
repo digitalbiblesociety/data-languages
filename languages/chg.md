@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chagatai_language"
 translations:
   - translation_iso: ara
     name: الجغتائية
+  - translation_iso: ben
+    name: চাগাতাই
   - translation_iso: deu
     name: Tschagataisch
   - translation_iso: fra
     name: tchaghataï
   - translation_iso: hin
     name: चग़ताई भाषा
+  - translation_iso: ind
+    name: Chagatai
   - translation_iso: jpn
     name: チャガタイ語
   - translation_iso: kor
     name: 차가타이어
   - translation_iso: por
     name: Língua chagatai
+  - translation_iso: rus
+    name: чагатайский
   - translation_iso: spa
     name: chagatai
   - translation_iso: zho

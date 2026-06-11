@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアル語
+  - translation_iso: kor
+    name: 시아르라크어
+    auto: true
   - translation_iso: por
     name: Língua siar
   - translation_iso: spa

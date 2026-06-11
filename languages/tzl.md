@@ -32,6 +32,8 @@ translations:
   - translation_iso: por
     name: Talossan
     auto: true
+  - translation_iso: rus
+    name: талосский язык
   - translation_iso: spa
     name: Idioma talosano
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ケラク語
     auto: true
+  - translation_iso: kor
+    name: 케라크어
+    auto: true
   - translation_iso: por
     name: Kerak
     auto: true

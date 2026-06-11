@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トンジョン語
     auto: true
+  - translation_iso: kor
+    name: 톤존어
+    auto: true
   - translation_iso: por
     name: Tonjon
     auto: true

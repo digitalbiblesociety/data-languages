@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビルワ語
     auto: true
+  - translation_iso: kor
+    name: 비르와어
+    auto: true
   - translation_iso: por
     name: Língua birwa
   - translation_iso: spa

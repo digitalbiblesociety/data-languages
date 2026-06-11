@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باان
     auto: true
+  - translation_iso: ben
+    name: বান
   - translation_iso: deu
     name: Baan
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バアン語
+    auto: true
+  - translation_iso: kor
+    name: 반어
     auto: true
   - translation_iso: por
     name: Baan

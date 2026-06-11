@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Low_German"
 translations:
   - translation_iso: ara
     name: الألمانية الدنيا الوسيطة
+  - translation_iso: ben
+    name: মধ্য নিম্ন জার্মান ভাষা
   - translation_iso: deu
     name: Mittelniederdeutsch
   - translation_iso: fra
@@ -27,6 +29,8 @@ translations:
   - translation_iso: hin
     name: मध्य निम्न जर्मन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sachsen Pertengahan
   - translation_iso: jpn
     name: 中世低地ドイツ語
   - translation_iso: kor
@@ -34,6 +38,8 @@ translations:
   - translation_iso: por
     name: baixo-alemão médio
     auto: true
+  - translation_iso: rus
+    name: средненижненемецкий язык
   - translation_iso: spa
     name: bajo alemán medio
   - translation_iso: zho

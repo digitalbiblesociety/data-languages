@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Armenian"
 translations:
   - translation_iso: ara
     name: الأرمنية الغربية
+  - translation_iso: ben
+    name: পশ্চিম আর্মেনীয়
   - translation_iso: deu
     name: Westarmenisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: पश्चिमी अर्मेनियाई
     auto: true
+  - translation_iso: ind
+    name: Armenia Barat
   - translation_iso: jpn
     name: 西アルメニア語
   - translation_iso: kor
     name: 서아르메니아어
   - translation_iso: por
     name: Armênio ocidental
+  - translation_iso: rus
+    name: западноармянский язык
   - translation_iso: spa
     name: armenio occidental
   - translation_iso: zho

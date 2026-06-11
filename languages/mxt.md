@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ジャミルテペック・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 하밀테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Jamiltepec
     auto: true

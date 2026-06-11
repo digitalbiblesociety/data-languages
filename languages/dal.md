@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダハロ語
+  - translation_iso: kor
+    name: 다할로어
+    auto: true
   - translation_iso: por
     name: Língua dahalo
+  - translation_iso: rus
+    name: дахало
   - translation_iso: spa
     name: idioma dahalo
   - translation_iso: zho

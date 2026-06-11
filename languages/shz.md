@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: セナリ語
     auto: true
+  - translation_iso: kor
+    name: 셰나라 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Syenara
     auto: true

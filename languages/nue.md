@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングンドゥ語
     auto: true
+  - translation_iso: kor
+    name: 응군두어
+    auto: true
   - translation_iso: por
     name: Ngundu
     auto: true

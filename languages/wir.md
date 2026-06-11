@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィラフェド語
     auto: true
+  - translation_iso: kor
+    name: 위라페드어
+    auto: true
   - translation_iso: por
     name: Wiraféd
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジインバ語
     auto: true
+  - translation_iso: kor
+    name: 진바어
+    auto: true
   - translation_iso: por
     name: Língua djimba
   - translation_iso: spa

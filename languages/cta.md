@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: タタルテペク・チャティーノ語
     auto: true
+  - translation_iso: kor
+    name: 타탈테펙 차티노어
+    auto: true
   - translation_iso: por
     name: Chatino de Tataltepec
     auto: true
+  - translation_iso: rus
+    name: Татальтепекский чатино
   - translation_iso: spa
     name: chatino de Tataltepec
   - translation_iso: zho

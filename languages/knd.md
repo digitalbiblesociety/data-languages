@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कोंडा
     auto: true
+  - translation_iso: ind
+    name: Konda
   - translation_iso: jpn
     name: コンダ語
+    auto: true
+  - translation_iso: kor
+    name: 콘다어
     auto: true
   - translation_iso: por
     name: Konda

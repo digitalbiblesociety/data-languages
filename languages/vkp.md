@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クリスティ語
     auto: true
+  - translation_iso: kor
+    name: 코를라이 크리올 포르투갈어
+    auto: true
   - translation_iso: por
     name: Crioulo de Korlai
   - translation_iso: spa

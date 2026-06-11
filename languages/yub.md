@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語
+  - translation_iso: kor
+    name: 유감발어
+    auto: true
   - translation_iso: por
     name: Língua yugambal
   - translation_iso: spa

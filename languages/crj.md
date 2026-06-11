@@ -21,18 +21,24 @@ wikidata_id: Q12953464
 translations:
   - translation_iso: ara
     name: الكري الجنوب شرقية
+  - translation_iso: ben
+    name: দক্ষিণ পূর্ব ক্রী
   - translation_iso: deu
     name: Südost-Cree
   - translation_iso: fra
     name: "cri de l’Est, dialecte du Sud"
   - translation_iso: hin
     name: दक्षिण पूर्वी क्री
+  - translation_iso: ind
+    name: East Cree Selatan
   - translation_iso: jpn
     name: 南東クリー語
   - translation_iso: kor
     name: 남동부 크리어
   - translation_iso: por
     name: cree do sudeste
+  - translation_iso: rus
+    name: юго-восточный кри
   - translation_iso: spa
     name: cree suroriental
   - translation_iso: zho

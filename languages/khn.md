@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة خاندسي
     auto: true
+  - translation_iso: ben
+    name: খানদেশি ভাষা
   - translation_iso: deu
     name: Khandesi
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 칸데시어군
   - translation_iso: por
     name: Língua khandeshi
+  - translation_iso: rus
+    name: Кхандеши
   - translation_iso: spa
     name: Lenguas khandeshi
   - translation_iso: zho

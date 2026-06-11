@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: フンジャラ・カイナ・ケ語
     auto: true
+  - translation_iso: kor
+    name: 훈자라카이나케어
+    auto: true
   - translation_iso: por
     name: Hunjara-Kaina Ke
     auto: true

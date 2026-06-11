@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セケ語
+  - translation_iso: kor
+    name: 세케어
+    auto: true
   - translation_iso: por
     name: Língua ske
+  - translation_iso: rus
+    name: язык ске
   - translation_iso: spa
     name: Seke (Vanuatu)
     auto: true

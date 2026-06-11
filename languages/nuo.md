@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: न्गुओन
     auto: true
+  - translation_iso: ind
+    name: bahasa Nguon
   - translation_iso: jpn
     name: ングウォン語
+    auto: true
+  - translation_iso: kor
+    name: 응우온어
     auto: true
   - translation_iso: por
     name: Nguôn
     auto: true
+  - translation_iso: rus
+    name: Нгуонский язык
   - translation_iso: spa
     name: Nguôn
     auto: true

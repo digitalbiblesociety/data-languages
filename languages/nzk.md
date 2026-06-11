@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ンザカラ語
     auto: true
+  - translation_iso: kor
+    name: 은자카라어
+    auto: true
   - translation_iso: por
     name: Nzakara
     auto: true

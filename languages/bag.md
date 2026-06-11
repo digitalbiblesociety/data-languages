@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥキ語
     auto: true
+  - translation_iso: kor
+    name: 투키어
+    auto: true
   - translation_iso: por
     name: Tuki
     auto: true

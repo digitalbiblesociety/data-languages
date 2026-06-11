@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: दक्षिणी पश्तो
     auto: true
+  - translation_iso: ind
+    name: bahasa Pashtun Selatan
   - translation_iso: jpn
     name: 南部パシュトー語
+  - translation_iso: kor
+    name: 남부 파슈토어
+    auto: true
   - translation_iso: por
     name: pachto meridional
     auto: true
+  - translation_iso: rus
+    name: кандагарский диалект языка пушту
   - translation_iso: spa
     name: Pastún meridional
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フトゥナ・アニワ語
+  - translation_iso: kor
+    name: 푸투나·아니와어
+    auto: true
   - translation_iso: por
     name: Língua futuna-aniwa
+  - translation_iso: rus
+    name: Футуна-анива
   - translation_iso: spa
     name: Futuna-Aniwa
     auto: true

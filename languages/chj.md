@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: オヒトラン・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 오히틀란 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Ojitlán
     auto: true
+  - translation_iso: rus
+    name: Охитланский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Ojitlán
   - translation_iso: zho

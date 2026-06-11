@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأكالا سامي
     auto: true
+  - translation_iso: ben
+    name: আক্কালা সামি
   - translation_iso: deu
     name: Akkalasamisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 아칼라 사미어
   - translation_iso: por
     name: sami de Akkala
+  - translation_iso: rus
+    name: бабинский саамский язык
   - translation_iso: spa
     name: sami de Akkala
   - translation_iso: zho

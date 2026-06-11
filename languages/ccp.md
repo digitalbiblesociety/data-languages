@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chakma_language"
 translations:
   - translation_iso: ara
     name: لهجة تشاكما
+  - translation_iso: ben
+    name: চাকমা
   - translation_iso: deu
     name: Chakma
   - translation_iso: fra
     name: changma kodha
   - translation_iso: hin
     name: चाकमा भाषा
+  - translation_iso: ind
+    name: Chakma
   - translation_iso: jpn
     name: チャクマ語
   - translation_iso: kor
     name: 차크마어
   - translation_iso: por
     name: língua chakma
+  - translation_iso: rus
+    name: чакма
   - translation_iso: spa
     name: chakma
   - translation_iso: zho

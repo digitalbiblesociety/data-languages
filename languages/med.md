@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メルパ語
+  - translation_iso: kor
+    name: 멜파어
+    auto: true
   - translation_iso: por
     name: Língua melpa
+  - translation_iso: rus
+    name: Мелпа (язык)
   - translation_iso: spa
     name: Melpa
     auto: true

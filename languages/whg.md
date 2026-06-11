@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北ワギ語
     auto: true
+  - translation_iso: kor
+    name: 북부 와기어
+    auto: true
   - translation_iso: por
     name: Wahgi do Norte
     auto: true

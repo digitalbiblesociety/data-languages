@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Ecuadorian
     auto: true
+  - translation_iso: ben
+    name: ইকুয়েডোরীয় ইশারা ভাষা
   - translation_iso: deu
     name: Ecuadorianische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エクアドル手話
+  - translation_iso: kor
+    name: 에콰도르 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais do Equador
   - translation_iso: spa

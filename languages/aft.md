@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afitti_language"
 translations:
   - translation_iso: ara
     name: شعب افيتي
+  - translation_iso: ben
+    name: আফিত্তি
   - translation_iso: deu
     name: Afitti
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフィティ語
+    auto: true
+  - translation_iso: kor
+    name: 아피티어
     auto: true
   - translation_iso: por
     name: Afitti

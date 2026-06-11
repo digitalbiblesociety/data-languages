@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チュン語
     auto: true
+  - translation_iso: kor
+    name: 사오치어
+    auto: true
   - translation_iso: por
     name: "Sa'och"
     auto: true

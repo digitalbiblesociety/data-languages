@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーグジュ語
+  - translation_iso: kor
+    name: 가가두어
+    auto: true
   - translation_iso: por
     name: Gagadu
     auto: true
+  - translation_iso: rus
+    name: Какутю
   - translation_iso: spa
     name: Gagadu
     auto: true

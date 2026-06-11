@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: kor
+    name: 렐레어
+    auto: true
   - translation_iso: por
     name: Lele (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: Леле (язык ДРК)
   - translation_iso: spa
     name: Lele (República Democrática del Congo)
     auto: true

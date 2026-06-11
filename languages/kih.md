@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キルメリ語
     auto: true
+  - translation_iso: kor
+    name: 킬메리어
+    auto: true
   - translation_iso: por
     name: Kilmeri
     auto: true

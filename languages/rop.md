@@ -34,6 +34,8 @@ translations:
     name: 오스트레일리아 크리올
   - translation_iso: por
     name: Crioulo australiano
+  - translation_iso: rus
+    name: австралийский криольский язык
   - translation_iso: spa
     name: Kriol australiano
   - translation_iso: zho

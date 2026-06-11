@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أدانج
     auto: true
+  - translation_iso: ben
+    name: আদাং
   - translation_iso: deu
     name: Adang
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: अदांग
     auto: true
+  - translation_iso: ind
+    name: Adang
   - translation_iso: jpn
     name: アダン語
+    auto: true
+  - translation_iso: kor
+    name: 아당어
     auto: true
   - translation_iso: por
     name: Adang

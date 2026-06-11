@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: दुसुन विटु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Dusun Witu
   - translation_iso: jpn
     name: ドゥスン・ウィトゥ語
+    auto: true
+  - translation_iso: kor
+    name: 두순 위투어
     auto: true
   - translation_iso: por
     name: Dusun Witu
     auto: true
+  - translation_iso: rus
+    name: Дусун-виту
   - translation_iso: spa
     name: Dusun Witu
     auto: true

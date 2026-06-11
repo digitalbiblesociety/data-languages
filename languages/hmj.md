@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 革家語
+  - translation_iso: kor
+    name: 게어
+    auto: true
   - translation_iso: por
     name: Ge
     auto: true
+  - translation_iso: rus
+    name: Гэ (язык)
   - translation_iso: spa
     name: Ge
     auto: true

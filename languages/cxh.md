@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: チャアリ語
     auto: true
+  - translation_iso: kor
+    name: 차아리어
+    auto: true
   - translation_iso: por
     name: "Cha'ari"
     auto: true
+  - translation_iso: rus
+    name: чаари
   - translation_iso: spa
     name: "Cha'ari"
     auto: true

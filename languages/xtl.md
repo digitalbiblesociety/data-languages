@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ティハルテペク・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 티할테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: Mixteco de Tijaltepec
     auto: true

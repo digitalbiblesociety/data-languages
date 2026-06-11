@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西中部リンバ語
     auto: true
+  - translation_iso: kor
+    name: 중서부 림바어
+    auto: true
   - translation_iso: por
     name: Limba centro-ocidental
     auto: true

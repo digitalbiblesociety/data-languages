@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西グバヤ語
+  - translation_iso: kor
+    name: 남서 그바야어
+    auto: true
   - translation_iso: por
     name: Gbaya do Sudoeste
     auto: true

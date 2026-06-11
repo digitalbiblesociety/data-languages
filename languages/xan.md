@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: シャムタンガ語
     auto: true
+  - translation_iso: kor
+    name: 캄탕가어
+    auto: true
   - translation_iso: por
     name: Língua xamtanga
+  - translation_iso: rus
+    name: Хамтанга
   - translation_iso: spa
     name: Xamtanga
     auto: true

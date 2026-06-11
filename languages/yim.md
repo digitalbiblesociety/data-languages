@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة ييمتشونغرو ناغا
     auto: true
+  - translation_iso: ben
+    name: ইমচুংরু ভাষা
   - translation_iso: deu
     name: Yimchungru Naga
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: イムチュングル・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 임충루 나가어
+    auto: true
   - translation_iso: por
     name: Língua yimchungrü
+  - translation_iso: rus
+    name: Йимчунгер (язык)
   - translation_iso: spa
     name: yimchungrü
   - translation_iso: zho

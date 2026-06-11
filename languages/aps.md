@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروب-سيسانو
     auto: true
+  - translation_iso: ben
+    name: আরপ
   - translation_iso: deu
     name: Arop-Sissano
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロップシッサーノ語
+    auto: true
+  - translation_iso: kor
+    name: 아로프·시사노어
     auto: true
   - translation_iso: por
     name: Arop-Sissano

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガノンガ語
+  - translation_iso: kor
+    name: 가농가어
+    auto: true
   - translation_iso: por
     name: Ghanongga
     auto: true

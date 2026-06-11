@@ -27,6 +27,8 @@ translations:
     name: 크난어
   - translation_iso: por
     name: canaânico
+  - translation_iso: rus
+    name: Еврейско-славянские диалекты
   - translation_iso: spa
     name: cnaánico
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلْهاريْيا
     auto: true
+  - translation_iso: ben
+    name: বেলহারে
   - translation_iso: deu
     name: Belhare
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベルハリヤ語
+    auto: true
+  - translation_iso: kor
+    name: 벨하리야어
     auto: true
   - translation_iso: por
     name: Língua belhare

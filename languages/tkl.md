@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tokelauan_language"
 translations:
   - translation_iso: ara
     name: توكلوية
+  - translation_iso: ben
+    name: টোকেলাউ
   - translation_iso: deu
     name: Tokelauisch
   - translation_iso: fra
     name: tokelau
   - translation_iso: hin
     name: तोकेलाऊ
+  - translation_iso: ind
+    name: Tokelau
   - translation_iso: jpn
     name: トケラウ語
   - translation_iso: kor
     name: 토켈라우어
   - translation_iso: por
     name: língua toquelauana
+  - translation_iso: rus
+    name: токелайский
   - translation_iso: spa
     name: tokelauano
   - translation_iso: zho

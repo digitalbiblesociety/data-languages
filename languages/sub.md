@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スク語
+  - translation_iso: kor
+    name: 수쿠어
+    auto: true
   - translation_iso: por
     name: Suku
     auto: true

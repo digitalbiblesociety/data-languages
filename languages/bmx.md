@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بايماك
     auto: true
+  - translation_iso: ben
+    name: বাইমাক
   - translation_iso: deu
     name: Baimak
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイマク語
+    auto: true
+  - translation_iso: kor
+    name: 바이마크어
     auto: true
   - translation_iso: por
     name: Baimak

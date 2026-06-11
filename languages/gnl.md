@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガングル語
     auto: true
+  - translation_iso: kor
+    name: 강굴루어
+    auto: true
   - translation_iso: por
     name: Gangulu
     auto: true

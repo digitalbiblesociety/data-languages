@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダットン・ワールド・スピードワーズ語
     auto: true
+  - translation_iso: kor
+    name: 더턴 월드 스피드워즈
+    auto: true
   - translation_iso: por
     name: Dutton World Speedwords
     auto: true

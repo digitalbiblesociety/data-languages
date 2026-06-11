@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファイ語
     auto: true
+  - translation_iso: kor
+    name: 파이어
+    auto: true
   - translation_iso: por
     name: Phai
     auto: true

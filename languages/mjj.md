@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マワク語
     auto: true
+  - translation_iso: kor
+    name: 마와크어
+    auto: true
   - translation_iso: por
     name: Mawak
     auto: true

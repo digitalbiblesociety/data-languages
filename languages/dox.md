@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ブッサ語
     auto: true
+  - translation_iso: kor
+    name: 부사어
+    auto: true
   - translation_iso: por
     name: Bussa
     auto: true
+  - translation_iso: rus
+    name: Бусса
   - translation_iso: spa
     name: Bussa
     auto: true

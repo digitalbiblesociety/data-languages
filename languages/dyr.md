@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ディャリム語
     auto: true
+  - translation_iso: kor
+    name: 자림어
+    auto: true
   - translation_iso: por
     name: Dyarim
     auto: true

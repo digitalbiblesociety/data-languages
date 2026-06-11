@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cree_language"
 translations:
   - translation_iso: ara
     name: لغة كري
+  - translation_iso: ben
+    name: ক্রি
   - translation_iso: deu
     name: Cree
   - translation_iso: fra
     name: cri
   - translation_iso: hin
     name: क्री
+  - translation_iso: ind
+    name: Kree
   - translation_iso: jpn
     name: クリー語
   - translation_iso: kor
     name: 크리어
   - translation_iso: por
     name: língua cree
+  - translation_iso: rus
+    name: кри
   - translation_iso: spa
     name: idioma cree
   - translation_iso: zho

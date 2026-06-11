@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ウマナカイナ語
     auto: true
+  - translation_iso: kor
+    name: 우마나카이나어
+    auto: true
   - translation_iso: por
     name: Umanakaina
     auto: true

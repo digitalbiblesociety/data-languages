@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: スビ語
     auto: true
+  - translation_iso: kor
+    name: 수비어
+    auto: true
   - translation_iso: por
     name: Subi
     auto: true

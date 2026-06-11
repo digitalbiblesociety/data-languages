@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ワクデ語
     auto: true
+  - translation_iso: kor
+    name: 왁데어
+    auto: true
   - translation_iso: por
     name: Wakde
     auto: true
+  - translation_iso: rus
+    name: Вакде
   - translation_iso: spa
     name: Wakde
     auto: true

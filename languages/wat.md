@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カニヌワ語
     auto: true
+  - translation_iso: kor
+    name: 카니누와어
+    auto: true
   - translation_iso: por
     name: Kaninuwa
   - translation_iso: spa

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンバ・レコ語
     auto: true
+  - translation_iso: kor
+    name: 삼바 레코어
+    auto: true
   - translation_iso: por
     name: Samba Leko
     auto: true

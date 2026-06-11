@@ -19,18 +19,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ahom_language"
 translations:
   - translation_iso: ara
     name: لغة آهوم
+  - translation_iso: ben
+    name: আহোম ভাষা
   - translation_iso: deu
     name: Ahom
   - translation_iso: fra
     name: ahom
   - translation_iso: hin
     name: अहोम भाषा
+  - translation_iso: ind
+    name: Bahasa Ahom
   - translation_iso: jpn
     name: アホム語
   - translation_iso: kor
     name: 아홈어
   - translation_iso: por
     name: Língua ahom
+  - translation_iso: rus
+    name: ахомский язык
   - translation_iso: spa
     name: ahom
   - translation_iso: zho

@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: 古ハンガリー語
     auto: true
+  - translation_iso: kor
+    name: 고대 헝가리어
+    auto: true
   - translation_iso: por
     name: húngaro antigo
     auto: true
+  - translation_iso: rus
+    name: древневенгерский язык
   - translation_iso: spa
     name: Húngaro antiguo
     auto: true

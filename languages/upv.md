@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウリピブ語
+  - translation_iso: kor
+    name: 우리피브·왈라·라노·아친어
+    auto: true
   - translation_iso: por
     name: Uripiv-Wala-Rano-Atchin
     auto: true
+  - translation_iso: rus
+    name: урипивский язык
   - translation_iso: spa
     name: Idioma uripiv
   - translation_iso: zho

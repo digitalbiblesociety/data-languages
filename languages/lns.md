@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ラムソ語
     auto: true
+  - translation_iso: kor
+    name: 람느소어
+    auto: true
   - translation_iso: por
     name: Língua nso
+  - translation_iso: rus
+    name: ламнсо
   - translation_iso: spa
     name: Lamnso
   - translation_iso: zho

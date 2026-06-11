@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サン・ペドロ・アムズゴス・アムズゴ語
     auto: true
+  - translation_iso: kor
+    name: 산페드로 아무스고스 아무스고어
+    auto: true
   - translation_iso: por
     name: Amuzgo de San Pedro Amuzgos
     auto: true

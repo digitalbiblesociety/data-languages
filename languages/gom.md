@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴア・コンカニ語
+  - translation_iso: kor
+    name: 고아 콘칸어
+    auto: true
   - translation_iso: por
     name: concani de Goa
     auto: true
+  - translation_iso: rus
+    name: гоанский конкани
   - translation_iso: spa
     name: Konkani de Goa
     auto: true

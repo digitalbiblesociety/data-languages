@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サエップ語
     auto: true
+  - translation_iso: kor
+    name: 사엡어
+    auto: true
   - translation_iso: por
     name: Saep
     auto: true

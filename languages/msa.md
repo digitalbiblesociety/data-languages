@@ -15,18 +15,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malay_language"
 translations:
   - translation_iso: ara
     name: الملايوية
+  - translation_iso: ben
+    name: মালয়
   - translation_iso: deu
     name: Malaiisch
   - translation_iso: fra
     name: malais
   - translation_iso: hin
     name: मलय भाषा
+  - translation_iso: ind
+    name: Melayu
   - translation_iso: jpn
     name: マレー語
   - translation_iso: kor
     name: 말레이어
   - translation_iso: por
     name: malaio
+  - translation_iso: rus
+    name: малайский
   - translation_iso: spa
     name: malayo
   - translation_iso: zho

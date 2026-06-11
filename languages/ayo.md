@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيوريو
     auto: true
+  - translation_iso: ben
+    name: আয়োরেও
   - translation_iso: deu
     name: Ayoreo
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヨレオ語
+  - translation_iso: kor
+    name: 아요레오어
+    auto: true
   - translation_iso: por
     name: Ayoreo
     auto: true
+  - translation_iso: rus
+    name: Айорео
   - translation_iso: spa
     name: Idioma ayoreo
   - translation_iso: zho

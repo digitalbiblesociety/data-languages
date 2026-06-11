@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: येई
     auto: true
+  - translation_iso: ind
+    name: Yei
   - translation_iso: jpn
     name: イェイ語
+    auto: true
+  - translation_iso: kor
+    name: 예이어
     auto: true
   - translation_iso: por
     name: Yei

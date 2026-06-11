@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダンビ語
     auto: true
+  - translation_iso: kor
+    name: 담비어
+    auto: true
   - translation_iso: por
     name: Dambi
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ツク語
     auto: true
+  - translation_iso: kor
+    name: 체쿠어
+    auto: true
   - translation_iso: por
     name: Tseku
     auto: true
+  - translation_iso: rus
+    name: Цеку
   - translation_iso: spa
     name: Tseku
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آسوي أويو
     auto: true
+  - translation_iso: ben
+    name: আসুয়ে আওইউ
   - translation_iso: deu
     name: Asue Awyu
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: असुए अव्यु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Awyu Asue
   - translation_iso: jpn
     name: アスエアウユ語
+    auto: true
+  - translation_iso: kor
+    name: 아수에 아우유어
     auto: true
   - translation_iso: por
     name: Awyu Asue

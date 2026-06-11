@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: तालौद
     auto: true
+  - translation_iso: ind
+    name: Bahasa Talaud
   - translation_iso: jpn
     name: タラウド語
+    auto: true
+  - translation_iso: kor
+    name: 탈라우드어
     auto: true
   - translation_iso: por
     name: Talaud

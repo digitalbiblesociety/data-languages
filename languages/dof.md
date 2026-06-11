@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ドム語
     auto: true
+  - translation_iso: kor
+    name: 도무어
+    auto: true
   - translation_iso: por
     name: Domu
     auto: true

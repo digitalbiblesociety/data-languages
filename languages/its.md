@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イツェキリ語
+  - translation_iso: kor
+    name: 이세키리어
+    auto: true
   - translation_iso: por
     name: Língua itsequiri
   - translation_iso: spa

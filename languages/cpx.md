@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: पू-शियान चीनी
     auto: true
+  - translation_iso: ind
+    name: rumpun bahasa Pu–Xian
   - translation_iso: jpn
     name: 莆仙語
   - translation_iso: kor
     name: 보선어
   - translation_iso: por
     name: Língua putian
+  - translation_iso: rus
+    name: Пусяньский язык
   - translation_iso: spa
     name: Pu-Xian
   - translation_iso: zho

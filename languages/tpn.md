@@ -26,12 +26,16 @@ translations:
     name: tupi
   - translation_iso: hin
     name: तूपी भाषा
+  - translation_iso: ind
+    name: Bahasa Tupi
   - translation_iso: jpn
     name: トゥピ語
   - translation_iso: kor
     name: 고대 투피어
   - translation_iso: por
     name: língua tupi
+  - translation_iso: rus
+    name: тупи
   - translation_iso: spa
     name: tupí
   - translation_iso: zho

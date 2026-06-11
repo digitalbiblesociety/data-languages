@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エリップ語
     auto: true
+  - translation_iso: kor
+    name: 엘리프어
+    auto: true
   - translation_iso: por
     name: Elip
     auto: true

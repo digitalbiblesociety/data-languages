@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケイガ語
     auto: true
+  - translation_iso: kor
+    name: 케이가어
+    auto: true
   - translation_iso: por
     name: Língua keiga
   - translation_iso: spa

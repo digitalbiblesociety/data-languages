@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ネマ語
     auto: true
+  - translation_iso: kor
+    name: 네마어
+    auto: true
   - translation_iso: por
     name: Nema
     auto: true

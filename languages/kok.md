@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Konkani_language"
 translations:
   - translation_iso: ara
     name: الكونكانية
+  - translation_iso: ben
+    name: কোঙ্কণী
   - translation_iso: deu
     name: Konkani
   - translation_iso: fra
     name: konkani
   - translation_iso: hin
     name: कोंकणी
+  - translation_iso: ind
+    name: Konkani
   - translation_iso: jpn
     name: コンカニ語
   - translation_iso: kor
     name: 콘칸어
   - translation_iso: por
     name: língua concani
+  - translation_iso: rus
+    name: конкани
   - translation_iso: spa
     name: konkaní
   - translation_iso: zho

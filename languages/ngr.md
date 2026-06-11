@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナング語
+  - translation_iso: kor
+    name: 엥데우어
+    auto: true
   - translation_iso: por
     name: Engdewu
     auto: true
+  - translation_iso: rus
+    name: Нангку
   - translation_iso: spa
     name: Engdewu
     auto: true

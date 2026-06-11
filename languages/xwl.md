@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 西シューラ・ゲベ語
     auto: true
+  - translation_iso: kor
+    name: 서부 크울라 그베어
+    auto: true
   - translation_iso: por
     name: xwla gbe ocidental
     auto: true

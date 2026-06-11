@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ゾオゴッチョ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 소고초 사포텍어
+    auto: true
   - translation_iso: por
     name: Língua zoogocho
+  - translation_iso: rus
+    name: Соогочский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Zoogocho
   - translation_iso: zho

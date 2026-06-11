@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ムサル語
     auto: true
+  - translation_iso: kor
+    name: 무사르어
+    auto: true
   - translation_iso: por
     name: Musar
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジイドゥ語
     auto: true
+  - translation_iso: kor
+    name: 지두어
+    auto: true
   - translation_iso: por
     name: Jiiddu
     auto: true

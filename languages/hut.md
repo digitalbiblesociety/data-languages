@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: フムラ語
     auto: true
+  - translation_iso: kor
+    name: 훔라어
+    auto: true
   - translation_iso: por
     name: Humla
     auto: true

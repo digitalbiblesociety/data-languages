@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة بانكال
     auto: true
+  - translation_iso: ben
+    name: বাঙ্কাল
   - translation_iso: deu
     name: Bankal
     auto: true
@@ -23,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカル語
+    auto: true
+  - translation_iso: kor
+    name: 반칼어
     auto: true
   - translation_iso: por
     name: Bankal

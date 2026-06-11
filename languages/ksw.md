@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スゴー語
+  - translation_iso: kor
+    name: 스가우 카렌어
+    auto: true
   - translation_iso: por
     name: "Karen S'gaw"
     auto: true
+  - translation_iso: rus
+    name: Сго
   - translation_iso: spa
     name: "S'gaw Karen"
   - translation_iso: zho

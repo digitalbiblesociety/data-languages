@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Wamey
     auto: true
+  - translation_iso: rus
+    name: Вамей
   - translation_iso: spa
     name: Wamey
   - translation_iso: zho

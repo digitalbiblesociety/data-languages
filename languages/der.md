@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: ديوري
     auto: true
+  - translation_iso: ben
+    name: দেওরি ভাষা
   - translation_iso: deu
     name: Deori
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: デオリ語
     auto: true
+  - translation_iso: kor
+    name: 데오리어
+    auto: true
   - translation_iso: por
     name: Deori
     auto: true
+  - translation_iso: rus
+    name: Деори
   - translation_iso: spa
     name: idioma deori
   - translation_iso: zho

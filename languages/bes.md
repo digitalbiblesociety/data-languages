@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيسمي
     auto: true
+  - translation_iso: ben
+    name: বেসমে
   - translation_iso: deu
     name: Besme
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベスメ語
+    auto: true
+  - translation_iso: kor
+    name: 베스메어
     auto: true
   - translation_iso: por
     name: Língua besme

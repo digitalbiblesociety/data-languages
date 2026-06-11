@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बुरु (नाइजीरिया)
     auto: true
+  - translation_iso: ind
+    name: Buru
   - translation_iso: jpn
     name: ブル語
+    auto: true
+  - translation_iso: kor
+    name: 부루어
     auto: true
   - translation_iso: por
     name: Buru (Nigéria)

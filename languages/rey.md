@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レイェサノ語
+  - translation_iso: kor
+    name: 레예사노어
+    auto: true
   - translation_iso: por
     name: Reyesano
     auto: true
+  - translation_iso: rus
+    name: Рейесано
   - translation_iso: spa
     name: idioma maropa
   - translation_iso: zho

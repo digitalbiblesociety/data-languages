@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कोपकाका
     auto: true
+  - translation_iso: ind
+    name: Kopka
   - translation_iso: jpn
     name: コプカカ語
+    auto: true
+  - translation_iso: kor
+    name: 코프카카어
     auto: true
   - translation_iso: por
     name: Kopkaka

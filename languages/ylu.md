@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أريبوانغ
     auto: true
+  - translation_iso: ben
+    name: আরিবওয়াং
   - translation_iso: deu
     name: Aribwaung
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリブワウング語
+    auto: true
+  - translation_iso: kor
+    name: 아리브와웅어
     auto: true
   - translation_iso: por
     name: aribwaung

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビタレ語
     auto: true
+  - translation_iso: kor
+    name: 비타레어
+    auto: true
   - translation_iso: por
     name: Bitare
     auto: true

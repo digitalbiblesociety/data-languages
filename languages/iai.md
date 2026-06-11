@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イアイ語
+  - translation_iso: kor
+    name: 이아아이어
+    auto: true
   - translation_iso: por
     name: Língua iaai
+  - translation_iso: rus
+    name: Иааи
   - translation_iso: spa
     name: Idioma iaai
   - translation_iso: zho

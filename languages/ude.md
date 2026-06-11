@@ -35,6 +35,8 @@ translations:
     name: 우데게이어
   - translation_iso: por
     name: Língua udihe
+  - translation_iso: rus
+    name: удэгейский язык
   - translation_iso: spa
     name: udege
   - translation_iso: zho

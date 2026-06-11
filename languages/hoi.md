@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ホリカチャク語
     auto: true
+  - translation_iso: kor
+    name: 홀리카추크어
+    auto: true
   - translation_iso: por
     name: Língua holikachuk
+  - translation_iso: rus
+    name: Холикачук
   - translation_iso: spa
     name: holikachuk
   - translation_iso: zho

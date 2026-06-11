@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ツルマ語
     auto: true
+  - translation_iso: kor
+    name: 루마어
+    auto: true
   - translation_iso: por
     name: Ruma
     auto: true

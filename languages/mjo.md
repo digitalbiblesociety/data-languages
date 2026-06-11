@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة مالانكورافان
     auto: true
+  - translation_iso: ben
+    name: মালানকুরাভান
   - translation_iso: deu
     name: Malankuravan
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マランクラヴァン語
+    auto: true
+  - translation_iso: kor
+    name: 말란쿠라반어
     auto: true
   - translation_iso: por
     name: Malankuravan

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मोलबोग
     auto: true
+  - translation_iso: ind
+    name: Molbog
   - translation_iso: jpn
     name: モルボッグ語
+  - translation_iso: kor
+    name: 몰보그어
+    auto: true
   - translation_iso: por
     name: Língua molbog
   - translation_iso: spa

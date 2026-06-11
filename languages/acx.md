@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: ओमानी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Oman
   - translation_iso: jpn
     name: アラビア語オマーン方言
+  - translation_iso: kor
+    name: 오만 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe omani
+  - translation_iso: rus
+    name: Оманский диалект арабского языка
   - translation_iso: spa
     name: árabe omaní
   - translation_iso: zho

@@ -28,8 +28,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北ピケネ語
+  - translation_iso: kor
+    name: 북부 피케네어
+    auto: true
   - translation_iso: por
     name: Língua piceno setentrional
+  - translation_iso: rus
+    name: Северные пицены
   - translation_iso: spa
     name: Idioma piceno septentrional
   - translation_iso: zho

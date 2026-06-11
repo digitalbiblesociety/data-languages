@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンピダーノ・サルデーニャ語
+  - translation_iso: kor
+    name: 캄피다노 사르데냐어
+    auto: true
   - translation_iso: por
     name: Sardo Campidanês
     auto: true
+  - translation_iso: rus
+    name: кампиданский диалект
   - translation_iso: spa
     name: Sardo campidanés
     auto: true

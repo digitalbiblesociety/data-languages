@@ -31,6 +31,8 @@ translations:
   - translation_iso: por
     name: Laal
     auto: true
+  - translation_iso: rus
+    name: лаал
   - translation_iso: spa
     name: Idioma laal
   - translation_iso: zho

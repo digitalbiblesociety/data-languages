@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लुंदायेह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lundayeh
   - translation_iso: jpn
     name: ルンダイエ語
+    auto: true
+  - translation_iso: kor
+    name: 룬다예어
     auto: true
   - translation_iso: por
     name: Língua lun bawang

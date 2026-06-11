@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タンダガノン語
     auto: true
+  - translation_iso: kor
+    name: 탄다가논어
+    auto: true
   - translation_iso: por
     name: Tandaganon
     auto: true

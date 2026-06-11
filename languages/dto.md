@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トンモ・ソ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 톰모소 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Tommo So
     auto: true

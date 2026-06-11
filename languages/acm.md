@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मेसोपोटामियाई अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Mesopotamia
   - translation_iso: jpn
     name: アラビア語イラク方言
   - translation_iso: kor
     name: 이라크 아랍어
   - translation_iso: por
     name: Árabe iraquiano
+  - translation_iso: rus
+    name: иракский диалект арабского языка
   - translation_iso: spa
     name: árabe mesopotámico
   - translation_iso: zho

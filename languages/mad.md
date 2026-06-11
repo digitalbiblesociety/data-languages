@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Madurese_language"
 translations:
   - translation_iso: ara
     name: مادورية
+  - translation_iso: ben
+    name: মাদুরেজ
   - translation_iso: deu
     name: Madura
   - translation_iso: fra
     name: madourais
   - translation_iso: hin
     name: मादुरी
+  - translation_iso: ind
+    name: Madura
   - translation_iso: jpn
     name: マドゥラ語
   - translation_iso: kor
     name: 마두라어
   - translation_iso: por
     name: Língua maduresa
+  - translation_iso: rus
+    name: мадурский
   - translation_iso: spa
     name: madurés
   - translation_iso: zho

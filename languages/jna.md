@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジャングシュン語
     auto: true
+  - translation_iso: kor
+    name: 장슝어
+    auto: true
   - translation_iso: por
     name: Jangshung
     auto: true

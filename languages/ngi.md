@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギジム語
+  - translation_iso: kor
+    name: 응기짐어
+    auto: true
   - translation_iso: por
     name: Língua ngizim
+  - translation_iso: rus
+    name: Нгизим
   - translation_iso: spa
     name: Ngizim
     auto: true

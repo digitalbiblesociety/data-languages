@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: वोलानी
     auto: true
+  - translation_iso: ind
+    name: Wolani
   - translation_iso: jpn
     name: ウォラニ語
+    auto: true
+  - translation_iso: kor
+    name: 월라니어
     auto: true
   - translation_iso: por
     name: Wolani

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エル・ナヤル・コラ語
     auto: true
+  - translation_iso: kor
+    name: 엘나야르 코라어
+    auto: true
   - translation_iso: por
     name: Cora de El Nayar
     auto: true

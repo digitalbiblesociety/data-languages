@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: アヌフォ語
     auto: true
+  - translation_iso: kor
+    name: 아누포어
+    auto: true
   - translation_iso: por
     name: Língua chakosi
+  - translation_iso: rus
+    name: Ануфо
   - translation_iso: spa
     name: Anufo
     auto: true

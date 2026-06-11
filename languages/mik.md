@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミカスキ語
+  - translation_iso: kor
+    name: 미카수키어
+    auto: true
   - translation_iso: por
     name: Língua mikazuki
+  - translation_iso: rus
+    name: хитчити-микасукский язык
   - translation_iso: spa
     name: idioma hitchiti-mikasuki
   - translation_iso: zho

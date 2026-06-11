@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ローワー・スティエン語
     auto: true
+  - translation_iso: kor
+    name: 부데 스티엥어
+    auto: true
   - translation_iso: por
     name: Stieng Budeh
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パルディ語
     auto: true
+  - translation_iso: kor
+    name: 파르디어
+    auto: true
   - translation_iso: por
     name: Pardhi
     auto: true

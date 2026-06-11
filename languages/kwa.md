@@ -36,6 +36,8 @@ translations:
     name: 다우어
   - translation_iso: por
     name: Língua dâw
+  - translation_iso: rus
+    name: Дав
   - translation_iso: spa
     name: idioma dâw
   - translation_iso: zho

@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCiche%CA%BC_language"
 translations:
   - translation_iso: ara
     name: الكيشية
+  - translation_iso: ben
+    name: কি‘চে
   - translation_iso: deu
     name: Quiché-Sprache
   - translation_iso: fra
     name: quiché
   - translation_iso: hin
     name: किश
+  - translation_iso: ind
+    name: Kʼicheʼ
   - translation_iso: jpn
     name: キチェ語
   - translation_iso: kor
     name: 키체어
   - translation_iso: por
     name: Língua quiché
+  - translation_iso: rus
+    name: киче
   - translation_iso: spa
     name: Idioma quiché
   - translation_iso: zho

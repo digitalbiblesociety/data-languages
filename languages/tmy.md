@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タミ語
     auto: true
+  - translation_iso: kor
+    name: 타미어
+    auto: true
   - translation_iso: por
     name: Língua tami
   - translation_iso: spa

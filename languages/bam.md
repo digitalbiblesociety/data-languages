@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bambara_language"
 translations:
   - translation_iso: ara
     name: البمبرية
+  - translation_iso: ben
+    name: বামবারা
   - translation_iso: deu
     name: Bambara
   - translation_iso: fra
     name: bambara
   - translation_iso: hin
     name: बाम्बारा
+  - translation_iso: ind
+    name: Bambara
   - translation_iso: jpn
     name: バンバラ語
   - translation_iso: kor
     name: 밤바라어
   - translation_iso: por
     name: Língua bambara
+  - translation_iso: rus
+    name: бамбара
   - translation_iso: spa
     name: bambara
   - translation_iso: zho

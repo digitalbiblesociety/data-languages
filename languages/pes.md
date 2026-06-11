@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: ईरानी फ़ारसी
     auto: true
+  - translation_iso: ind
+    name: Persia Iran
   - translation_iso: jpn
     name: 西ペルシア語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: persa iraniano
     auto: true
+  - translation_iso: rus
+    name: западноперсидский язык
   - translation_iso: spa
     name: Persa iraní
     auto: true

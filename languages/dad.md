@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マリク語
     auto: true
+  - translation_iso: kor
+    name: 마리크어
+    auto: true
   - translation_iso: por
     name: Marik
     auto: true
+  - translation_iso: rus
+    name: Марик
   - translation_iso: spa
     name: Marik
   - translation_iso: zho

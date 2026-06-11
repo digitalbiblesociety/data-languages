@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acehnese_language"
 translations:
   - translation_iso: ara
     name: الآتشيهية
+  - translation_iso: ben
+    name: অ্যাচাইনিজ
   - translation_iso: deu
     name: Achinesisch
   - translation_iso: fra
     name: acehnais
   - translation_iso: hin
     name: आचेही भाषा
+  - translation_iso: ind
+    name: Aceh
   - translation_iso: jpn
     name: アチェ語
   - translation_iso: kor
     name: 아체어
   - translation_iso: por
     name: língua achém
+  - translation_iso: rus
+    name: ачехский
   - translation_iso: spa
     name: idioma achenés
   - translation_iso: zho

@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ムンダット語
     auto: true
+  - translation_iso: kor
+    name: 문다트어
+    auto: true
   - translation_iso: por
     name: Mundat
     auto: true
+  - translation_iso: rus
+    name: Мундат
   - translation_iso: spa
     name: mundat
   - translation_iso: zho

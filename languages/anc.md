@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガス語
+  - translation_iso: kor
+    name: 응가스어
+    auto: true
   - translation_iso: por
     name: Ngas
     auto: true
+  - translation_iso: rus
+    name: Ангас
   - translation_iso: spa
     name: Idioma angas
   - translation_iso: zho

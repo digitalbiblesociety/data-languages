@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プラリ語
     auto: true
+  - translation_iso: kor
+    name: 푸라리어
+    auto: true
   - translation_iso: por
     name: Purari
     auto: true

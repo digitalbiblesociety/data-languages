@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤン・ナハン手話
     auto: true
+  - translation_iso: kor
+    name: 얀나응우 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais yan-nhaŋu
     auto: true

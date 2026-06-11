@@ -26,8 +26,13 @@ translations:
   - translation_iso: hin
     name: मोमुना
     auto: true
+  - translation_iso: ind
+    name: Momuna
   - translation_iso: jpn
     name: モムナ語
+    auto: true
+  - translation_iso: kor
+    name: 모무나어
     auto: true
   - translation_iso: por
     name: Momuna

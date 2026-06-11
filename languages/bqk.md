@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باندا-مْبريس
     auto: true
+  - translation_iso: ben
+    name: বান্দা-এমব্রেস
   - translation_iso: deu
     name: Banda-Mbrès
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンダ・ムブレス語
+    auto: true
+  - translation_iso: kor
+    name: 반다음브레스어
     auto: true
   - translation_iso: por
     name: Banda-Mbrès

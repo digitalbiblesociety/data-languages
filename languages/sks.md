@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ピラ語
     auto: true
+  - translation_iso: kor
+    name: 마이아어
+    auto: true
   - translation_iso: por
     name: Maia
     auto: true

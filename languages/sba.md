@@ -20,18 +20,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngambay_language"
 translations:
   - translation_iso: ara
     name: نامبي
+  - translation_iso: ben
+    name: গাম্বে
   - translation_iso: deu
     name: Ngambay
   - translation_iso: fra
     name: ngambay
   - translation_iso: hin
     name: न्गाम्बे
+  - translation_iso: ind
+    name: Ngambai
   - translation_iso: jpn
     name: ンガムバイ語
   - translation_iso: kor
     name: 느감바이어
   - translation_iso: por
     name: ngambay
+  - translation_iso: rus
+    name: нгамбайский
   - translation_iso: spa
     name: Idioma ngambay
   - translation_iso: zho

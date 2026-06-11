@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ラブク・キナバタンガン・カダザン語
     auto: true
+  - translation_iso: kor
+    name: 라부크키나바탕안 카다잔어
+    auto: true
   - translation_iso: por
     name: Kadazan de Labuk-Kinabatangan
     auto: true

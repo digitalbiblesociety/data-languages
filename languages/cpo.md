@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ペエゴ語
     auto: true
+  - translation_iso: kor
+    name: 크페고어
+    auto: true
   - translation_iso: por
     name: Kpeego
     auto: true

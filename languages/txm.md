@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोमिनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tomini
   - translation_iso: jpn
     name: ティアロ語
+    auto: true
+  - translation_iso: kor
+    name: 토미니어
     auto: true
   - translation_iso: por
     name: Tomini

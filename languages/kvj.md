@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プシキエ語
     auto: true
+  - translation_iso: kor
+    name: 프시키에어
+    auto: true
   - translation_iso: por
     name: Psikye
     auto: true

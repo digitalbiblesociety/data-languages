@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンジェレプ語
     auto: true
+  - translation_iso: kor
+    name: 은제레프어
+    auto: true
   - translation_iso: por
     name: Língua njerep
   - translation_iso: spa

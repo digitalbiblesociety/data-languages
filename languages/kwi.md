@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أوا-كوايكر
     auto: true
+  - translation_iso: ben
+    name: আওয়া পিট
   - translation_iso: deu
     name: Awa-Cuaiquer
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アワ・クアイケル語
     auto: true
+  - translation_iso: kor
+    name: 아와쿠아이케르어
+    auto: true
   - translation_iso: por
     name: Língua awa pit
+  - translation_iso: rus
+    name: Ава-пит
   - translation_iso: spa
     name: idioma awá pit
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部恵水フモン語
+  - translation_iso: kor
+    name: 북부 후이수이 몽어
+    auto: true
   - translation_iso: por
     name: Hmong Huishui do Norte
     auto: true

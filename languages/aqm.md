@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتوهوايم
     auto: true
+  - translation_iso: ben
+    name: আতোহওয়াইম
   - translation_iso: deu
     name: Atohwaim
   - translation_iso: fra
@@ -27,12 +29,19 @@ translations:
   - translation_iso: hin
     name: अतोह्वाइम
     auto: true
+  - translation_iso: ind
+    name: Bahasa Amathamit
   - translation_iso: jpn
     name: アトワイム語
+    auto: true
+  - translation_iso: kor
+    name: 아토와임어
     auto: true
   - translation_iso: por
     name: Atohwaim
     auto: true
+  - translation_iso: rus
+    name: атохваимский язык
   - translation_iso: spa
     name: Atohwaim
     auto: true

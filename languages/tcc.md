@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダトガ語
+  - translation_iso: kor
+    name: 다토가어
+    auto: true
   - translation_iso: por
     name: Datooga
     auto: true

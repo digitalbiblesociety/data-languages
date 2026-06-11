@@ -35,6 +35,8 @@ translations:
     name: 마디어
   - translation_iso: por
     name: Língua jamamadi
+  - translation_iso: rus
+    name: Жамамади
   - translation_iso: spa
     name: jamamadí
   - translation_iso: zho

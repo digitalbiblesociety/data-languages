@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: इका
     auto: true
+  - translation_iso: ind
+    name: bahasa Ika
   - translation_iso: jpn
     name: イカ語
+    auto: true
+  - translation_iso: kor
+    name: 이카어
     auto: true
   - translation_iso: por
     name: Ika

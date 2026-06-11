@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワクスカレカ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 우아스칼레카 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Huaxcaleca
     auto: true

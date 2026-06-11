@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バランフ語
     auto: true
+  - translation_iso: kor
+    name: 음발란후어
+    auto: true
   - translation_iso: por
     name: Mbalanhu
     auto: true

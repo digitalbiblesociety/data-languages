@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東ペナン語
     auto: true
+  - translation_iso: kor
+    name: 동부 페난어
+    auto: true
   - translation_iso: por
     name: Penan Oriental
     auto: true

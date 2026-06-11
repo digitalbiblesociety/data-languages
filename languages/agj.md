@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Argobba_language"
 translations:
   - translation_iso: ara
     name: الأرغوبية
+  - translation_iso: ben
+    name: আরগোব্বা
   - translation_iso: deu
     name: Argobba
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルゴッバ語
+  - translation_iso: kor
+    name: 아르고바어
+    auto: true
   - translation_iso: por
     name: Língua argobba
+  - translation_iso: rus
+    name: Аргобба
   - translation_iso: spa
     name: argobba
   - translation_iso: zho

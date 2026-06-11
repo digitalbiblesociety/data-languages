@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: レアラオ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 레알라오 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Lealao
     auto: true
+  - translation_iso: rus
+    name: Леалаонский чинантекский язык
   - translation_iso: spa
     name: chinanteca de Lealao
   - translation_iso: zho

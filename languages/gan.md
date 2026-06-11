@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gan_Chinese"
 translations:
   - translation_iso: ara
     name: كن
+  - translation_iso: ben
+    name: gan
   - translation_iso: deu
     name: Gan
   - translation_iso: fra
@@ -29,12 +31,16 @@ translations:
   - translation_iso: hin
     name: गान चीनी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Gan
   - translation_iso: jpn
     name: 贛語
   - translation_iso: kor
     name: 간어
   - translation_iso: por
     name: chinês gan
+  - translation_iso: rus
+    name: гань
   - translation_iso: spa
     name: chino gan
   - translation_iso: zho

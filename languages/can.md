@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チャンブリ語
     auto: true
+  - translation_iso: kor
+    name: 참브리어
+    auto: true
   - translation_iso: por
     name: Chambri
     auto: true

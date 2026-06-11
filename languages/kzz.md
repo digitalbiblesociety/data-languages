@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कालाब्रा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kalabra
   - translation_iso: jpn
     name: カラブラ語
+    auto: true
+  - translation_iso: kor
+    name: 칼라브라어
     auto: true
   - translation_iso: por
     name: Kalabra

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガヤウング語
+  - translation_iso: kor
+    name: 응아야웅어
+    auto: true
   - translation_iso: por
     name: Ngayawung
     auto: true

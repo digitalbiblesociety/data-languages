@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: オド語
     auto: true
+  - translation_iso: kor
+    name: 오드어
+    auto: true
   - translation_iso: por
     name: Od
     auto: true

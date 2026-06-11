@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミ語
+  - translation_iso: kor
+    name: 카미어
+    auto: true
   - translation_iso: por
     name: Kami (Tanzânia)
     auto: true

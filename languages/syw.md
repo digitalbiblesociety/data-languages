@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: カゲート語
     auto: true
+  - translation_iso: kor
+    name: 카가테어
+    auto: true
   - translation_iso: por
     name: Kagate
     auto: true
+  - translation_iso: rus
+    name: кагате
   - translation_iso: spa
     name: Kagate
     auto: true

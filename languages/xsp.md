@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シロピ語
     auto: true
+  - translation_iso: kor
+    name: 실로피어
+    auto: true
   - translation_iso: por
     name: Silopi
     auto: true

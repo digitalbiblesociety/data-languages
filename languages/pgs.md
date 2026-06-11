@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: パングセン語
     auto: true
+  - translation_iso: kor
+    name: 팡셍어
+    auto: true
   - translation_iso: por
     name: Pangseng
     auto: true
+  - translation_iso: rus
+    name: Пангсенг
   - translation_iso: spa
     name: Pangseng
     auto: true

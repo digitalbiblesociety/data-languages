@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パウナ語
+  - translation_iso: kor
+    name: 파우나카어
+    auto: true
   - translation_iso: por
     name: Língua paunaka
+  - translation_iso: rus
+    name: Паунака
   - translation_iso: spa
     name: idioma paunaka
   - translation_iso: zho

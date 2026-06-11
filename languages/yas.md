@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌグヌ語
+  - translation_iso: kor
+    name: 누구누어
+    auto: true
   - translation_iso: por
     name: nugunu (Camarões)
     auto: true
+  - translation_iso: rus
+    name: гуну
   - translation_iso: spa
     name: Nugunu lengua
   - translation_iso: zho

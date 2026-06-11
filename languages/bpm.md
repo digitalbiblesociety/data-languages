@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビヨム語
     auto: true
+  - translation_iso: kor
+    name: 비욤어
+    auto: true
   - translation_iso: por
     name: Biyom
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コノンゴ語
     auto: true
+  - translation_iso: kor
+    name: 코농고어
+    auto: true
   - translation_iso: por
     name: Konongo
     auto: true

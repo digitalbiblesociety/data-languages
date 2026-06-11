@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ラフル・ロハル語
     auto: true
+  - translation_iso: kor
+    name: 라훌 로하르어
+    auto: true
   - translation_iso: por
     name: Lahul Lohar
     auto: true

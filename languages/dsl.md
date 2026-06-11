@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: دانش ساين لانجويج
     auto: true
+  - translation_iso: ben
+    name: ডেনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Dänische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デンマーク手話
+  - translation_iso: kor
+    name: 덴마크 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais dinamarquesa
+  - translation_iso: rus
+    name: датский жестовый язык
   - translation_iso: spa
     name: Lengua de señas danesa
   - translation_iso: zho

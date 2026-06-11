@@ -33,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中部パシュトー語
+  - translation_iso: kor
+    name: 중부 파슈토어
+    auto: true
   - translation_iso: por
     name: Pashto Central
     auto: true
+  - translation_iso: rus
+    name: центральный пушту
   - translation_iso: spa
     name: Pastún central
     auto: true

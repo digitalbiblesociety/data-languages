@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カラガディ語
     auto: true
+  - translation_iso: kor
+    name: 칼라가디어
+    auto: true
   - translation_iso: por
     name: Kgalagadi
     auto: true

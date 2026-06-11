@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コアリブ語
+  - translation_iso: kor
+    name: 코알리브어
+    auto: true
   - translation_iso: por
     name: Koalib
     auto: true

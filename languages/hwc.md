@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكريولية الهاواية الإنجليزية
     auto: true
+  - translation_iso: ben
+    name: হাওয়াইয়ান ক্রেওল ইংরেজি
   - translation_iso: deu
     name: Hawaii Creole English
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハワイ・クレオール英語
+  - translation_iso: kor
+    name: 하와이 크리올 영어
+    auto: true
   - translation_iso: por
     name: Inglês Crioulo do Havaí
     auto: true

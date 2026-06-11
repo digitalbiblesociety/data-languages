@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: ओर्मू
     auto: true
+  - translation_iso: ind
+    name: Ormu
   - translation_iso: jpn
     name: オルム語
+    auto: true
+  - translation_iso: kor
+    name: 오르무어
     auto: true
   - translation_iso: por
     name: Ormu

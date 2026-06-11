@@ -25,12 +25,16 @@ translations:
   - translation_iso: hin
     name: नुमिडियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Numidia
   - translation_iso: jpn
     name: ヌミディア語
   - translation_iso: kor
     name: 누미디아어
   - translation_iso: por
     name: Líbico
+  - translation_iso: rus
+    name: Нумидийский язык
   - translation_iso: spa
     name: Idioma numidio
   - translation_iso: zho

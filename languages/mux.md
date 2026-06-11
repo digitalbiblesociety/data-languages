@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボ・ウン語
     auto: true
+  - translation_iso: kor
+    name: 보웅어
+    auto: true
   - translation_iso: por
     name: Bo-Ung
     auto: true

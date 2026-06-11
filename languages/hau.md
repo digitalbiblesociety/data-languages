@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hausa_language"
 translations:
   - translation_iso: ara
     name: الهوسية
+  - translation_iso: ben
+    name: হাউসা
   - translation_iso: deu
     name: Hausa
   - translation_iso: fra
     name: haoussa
   - translation_iso: hin
     name: हौसा भाषा
+  - translation_iso: ind
+    name: Hausa
   - translation_iso: jpn
     name: ハウサ語
   - translation_iso: kor
     name: 하우사어
   - translation_iso: por
     name: Língua haúça
+  - translation_iso: rus
+    name: хауса
   - translation_iso: spa
     name: hausa
   - translation_iso: zho

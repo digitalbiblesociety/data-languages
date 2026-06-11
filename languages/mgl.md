@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドゥネ語
+  - translation_iso: kor
+    name: 말레우킬렝게어
+    auto: true
   - translation_iso: por
     name: Maleu-Kilenge
     auto: true

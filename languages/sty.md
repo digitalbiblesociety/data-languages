@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siberian_Tatar_language"
 translations:
   - translation_iso: ara
     name: اللغة التتارية السيبيرية
+  - translation_iso: ben
+    name: সাইবেরীয় তাতার ভাষা
   - translation_iso: deu
     name: Sibirisches Tatarisch
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: साइबेरियाई तातार
     auto: true
+  - translation_iso: ind
+    name: bahasa Tatar Siberia
   - translation_iso: jpn
     name: シビール語
   - translation_iso: kor
     name: 시베리아 타타르어
   - translation_iso: por
     name: Língua tártara da Sibéria
+  - translation_iso: rus
+    name: сибирско-татарский язык
   - translation_iso: spa
     name: tártaro de Siberia
   - translation_iso: zho

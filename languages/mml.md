@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マン・メット語
     auto: true
+  - translation_iso: kor
+    name: 만메트어
+    auto: true
   - translation_iso: por
     name: Man Met
     auto: true

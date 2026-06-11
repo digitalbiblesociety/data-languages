@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: موندارس
     auto: true
+  - translation_iso: ben
+    name: মুন্ডারি ভাষা
   - translation_iso: deu
     name: Mundari
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 문다리어
   - translation_iso: por
     name: língua mundari
+  - translation_iso: rus
+    name: мундари
   - translation_iso: spa
     name: Mundari
     auto: true

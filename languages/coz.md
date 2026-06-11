@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: チョショテク語
     auto: true
+  - translation_iso: kor
+    name: 초초텍어
+    auto: true
   - translation_iso: por
     name: Chochotec
     auto: true
+  - translation_iso: rus
+    name: Чочо (язык)
   - translation_iso: spa
     name: idioma chocho
   - translation_iso: zho

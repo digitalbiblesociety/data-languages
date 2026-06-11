@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: パル語
     auto: true
+  - translation_iso: kor
+    name: 팔어
+    auto: true
   - translation_iso: por
     name: Pal
     auto: true

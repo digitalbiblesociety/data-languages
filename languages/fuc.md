@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: पुलार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pulaar
   - translation_iso: jpn
     name: プラール語
+  - translation_iso: kor
+    name: 풀라르어
+    auto: true
   - translation_iso: por
     name: Língua pulaar
+  - translation_iso: rus
+    name: пулаар
   - translation_iso: spa
     name: Pulaar
     auto: true

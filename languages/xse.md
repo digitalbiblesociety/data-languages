@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सेम्पन
     auto: true
+  - translation_iso: ind
+    name: Sempan
   - translation_iso: jpn
     name: セムパン語
+    auto: true
+  - translation_iso: kor
+    name: 셈판어
     auto: true
   - translation_iso: por
     name: Sempan

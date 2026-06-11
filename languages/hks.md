@@ -29,8 +29,13 @@ translations:
     name: हांगकांग सांकेतिक भाषा
   - translation_iso: jpn
     name: 香港手話
+  - translation_iso: kor
+    name: 홍콩 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais de Hong-Kong
+  - translation_iso: rus
+    name: гонконгский жестовый язык
   - translation_iso: spa
     name: Lengua de señas de Hong Kong
     auto: true

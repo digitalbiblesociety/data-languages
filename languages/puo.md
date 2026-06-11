@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: プオク語
     auto: true
+  - translation_iso: kor
+    name: 푸옥어
+    auto: true
   - translation_iso: por
     name: Puoc
     auto: true
+  - translation_iso: rus
+    name: Ксингмул (язык)
   - translation_iso: spa
     name: Puoc
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بينج
     auto: true
+  - translation_iso: ben
+    name: বেং
   - translation_iso: deu
     name: Beng
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベン語
+    auto: true
+  - translation_iso: kor
+    name: 벵어
     auto: true
   - translation_iso: por
     name: Beng

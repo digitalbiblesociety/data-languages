@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤボング語
     auto: true
+  - translation_iso: kor
+    name: 야봉어
+    auto: true
   - translation_iso: por
     name: yabong
     auto: true

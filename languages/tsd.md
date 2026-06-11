@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: त्साकोनियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tsakonia
   - translation_iso: jpn
     name: ツァコン語
   - translation_iso: kor
     name: 차코니아 방언
   - translation_iso: por
     name: Língua tsaconiana
+  - translation_iso: rus
+    name: цаконский язык
   - translation_iso: spa
     name: tsakonio
   - translation_iso: zho

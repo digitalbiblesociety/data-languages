@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कुरुदु
     auto: true
+  - translation_iso: ind
+    name: Kurudu
   - translation_iso: jpn
     name: クルドゥ語
+    auto: true
+  - translation_iso: kor
+    name: 쿠루두어
     auto: true
   - translation_iso: por
     name: Kurudu

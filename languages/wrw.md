@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ググ・ワッラ語
     auto: true
+  - translation_iso: kor
+    name: 구구 와라어
+    auto: true
   - translation_iso: por
     name: Gugu Warra
     auto: true

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥマ語
+  - translation_iso: kor
+    name: 두마어
+    auto: true
   - translation_iso: por
     name: Duma
     auto: true
+  - translation_iso: rus
+    name: дума
   - translation_iso: spa
     name: Duma
     auto: true

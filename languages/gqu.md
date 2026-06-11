@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: काउ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Qau
   - translation_iso: jpn
     name: カウ語
+    auto: true
+  - translation_iso: kor
+    name: 카우어
     auto: true
   - translation_iso: por
     name: Qau
     auto: true
+  - translation_iso: rus
+    name: Клау (язык)
   - translation_iso: spa
     name: Qau
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジェッバナ語
     auto: true
+  - translation_iso: kor
+    name: 지바나어
+    auto: true
   - translation_iso: por
     name: Djeebbana
     auto: true

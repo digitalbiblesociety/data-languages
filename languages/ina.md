@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Interlingua"
 translations:
   - translation_iso: ara
     name: إنترلنغوا
+  - translation_iso: ben
+    name: ইন্টারলিঙ্গুয়া
   - translation_iso: deu
     name: Interlingua
   - translation_iso: fra
     name: interlingua
   - translation_iso: hin
     name: अन्तरभाषा
+  - translation_iso: ind
+    name: Interlingua
   - translation_iso: jpn
     name: インターリングア
   - translation_iso: kor
     name: 인테르링구아
   - translation_iso: por
     name: Interlíngua
+  - translation_iso: rus
+    name: интерлингва
   - translation_iso: spa
     name: interlingua
   - translation_iso: zho

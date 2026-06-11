@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヤレバ語
     auto: true
+  - translation_iso: kor
+    name: 야레바어
+    auto: true
   - translation_iso: por
     name: yareba
     auto: true

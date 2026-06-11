@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मारेम्गी
     auto: true
+  - translation_iso: ind
+    name: Maremgi
   - translation_iso: jpn
     name: マレムギ語
+    auto: true
+  - translation_iso: kor
+    name: 마렘기어
     auto: true
   - translation_iso: por
     name: Maremgi

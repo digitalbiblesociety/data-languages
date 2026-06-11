@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: मोनी
     auto: true
+  - translation_iso: ind
+    name: bahasa Moni
   - translation_iso: jpn
     name: モニ語
+    auto: true
+  - translation_iso: kor
+    name: 모니어
     auto: true
   - translation_iso: por
     name: Moni
     auto: true
+  - translation_iso: rus
+    name: мони
   - translation_iso: spa
     name: Moni
     auto: true

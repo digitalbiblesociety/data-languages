@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة التركمانية خالج
     auto: true
+  - translation_iso: ben
+    name: খলজ ভাষা
   - translation_iso: deu
     name: Chaladschisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: तुर्की खलज
     auto: true
+  - translation_iso: ind
+    name: Bahasa Khalaj
   - translation_iso: jpn
     name: チュルク・ハラジ語
   - translation_iso: kor
     name: 칼라지어
   - translation_iso: por
     name: Língua khalaj
+  - translation_iso: rus
+    name: халаджский язык
   - translation_iso: spa
     name: Idioma khalaj (túrquico)
   - translation_iso: zho

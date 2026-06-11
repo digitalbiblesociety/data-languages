@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: गोराप
     auto: true
+  - translation_iso: ind
+    name: Gorap
   - translation_iso: jpn
     name: ゴラップ語
+    auto: true
+  - translation_iso: kor
+    name: 고라프어
     auto: true
   - translation_iso: por
     name: Gorap

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アンガル・ヘネン語
     auto: true
+  - translation_iso: kor
+    name: 앙갈 헤넹어
+    auto: true
   - translation_iso: por
     name: Angal Heneng
     auto: true

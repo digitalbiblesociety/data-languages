@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwasio_language"
 translations:
   - translation_iso: ara
     name: كواسيو
+  - translation_iso: ben
+    name: কোয়াসিও
   - translation_iso: deu
     name: Kwasio
   - translation_iso: fra
     name: ngoumba
   - translation_iso: hin
     name: क्वासिओ
+  - translation_iso: ind
+    name: Kwasio
   - translation_iso: jpn
     name: クワシオ語
   - translation_iso: kor
     name: 크와시오어
   - translation_iso: por
     name: kwasio
+  - translation_iso: rus
+    name: квасио
   - translation_iso: spa
     name: kwasio
   - translation_iso: zho

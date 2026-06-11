@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヒジュク語
     auto: true
+  - translation_iso: kor
+    name: 히주크어
+    auto: true
   - translation_iso: por
     name: Hijuk
     auto: true

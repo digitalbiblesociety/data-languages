@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ハイイ語
     auto: true
+  - translation_iso: kor
+    name: 하이옴어
+    auto: true
   - translation_iso: por
     name: Haiǁom
     auto: true
+  - translation_iso: rus
+    name: хайлъомское наречие
   - translation_iso: spa
     name: ǂAakhoe
   - translation_iso: zho

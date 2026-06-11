@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ヌンガリ語
     auto: true
+  - translation_iso: kor
+    name: 눙갈리어
+    auto: true
   - translation_iso: por
     name: Nungali
     auto: true

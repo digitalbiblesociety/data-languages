@@ -29,6 +29,9 @@ translations:
     name: ईरानी सांकेतिक भाषा
   - translation_iso: jpn
     name: ペルシャ手話
+  - translation_iso: kor
+    name: 페르시아 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Persa
     auto: true

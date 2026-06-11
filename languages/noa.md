@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ワウン・メウ語
     auto: true
+  - translation_iso: kor
+    name: 워운 메우어
+    auto: true
   - translation_iso: por
     name: Woun Meu
     auto: true
+  - translation_iso: rus
+    name: Воун-меу
   - translation_iso: spa
     name: idioma wounaan
   - translation_iso: zho

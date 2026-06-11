@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: कोम (कैमरून)
     auto: true
+  - translation_iso: ind
+    name: Kom
   - translation_iso: jpn
     name: コム語
   - translation_iso: kor
     name: 콤어
   - translation_iso: por
     name: Língua kom
+  - translation_iso: rus
+    name: ком
   - translation_iso: spa
     name: kom
   - translation_iso: zho

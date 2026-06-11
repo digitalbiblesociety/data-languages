@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tetun_language"
 translations:
   - translation_iso: ara
     name: التيتومية
+  - translation_iso: ben
+    name: তেতুম
   - translation_iso: deu
     name: Tetum
   - translation_iso: fra
     name: tétoum
   - translation_iso: hin
     name: तेतुम भाषा
+  - translation_iso: ind
+    name: Tetun
   - translation_iso: jpn
     name: テトゥン語
   - translation_iso: kor
     name: 테툼어
   - translation_iso: por
     name: língua tétum
+  - translation_iso: rus
+    name: тетум
   - translation_iso: spa
     name: Idioma tetun
   - translation_iso: zho

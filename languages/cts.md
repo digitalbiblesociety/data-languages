@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語
+  - translation_iso: kor
+    name: 북부 카탄두아네스 비콜어
+    auto: true
   - translation_iso: por
     name: Bikol de Catanduanes Setentrional
     auto: true
+  - translation_iso: rus
+    name: панданский бикольский язык
   - translation_iso: spa
     name: Bikol del Norte de Catanduanes
     auto: true

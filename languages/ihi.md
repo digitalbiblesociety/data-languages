@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: イヒエブベ語
     auto: true
+  - translation_iso: kor
+    name: 이히에베어
+    auto: true
   - translation_iso: por
     name: Ihievbe
     auto: true

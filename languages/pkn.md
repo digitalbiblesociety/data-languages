@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パカンハ語
     auto: true
+  - translation_iso: kor
+    name: 파카나어
+    auto: true
   - translation_iso: por
     name: Pakanha
     auto: true

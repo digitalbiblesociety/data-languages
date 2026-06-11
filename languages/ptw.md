@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペントラッチ語
+  - translation_iso: kor
+    name: 펜틀라치어
+    auto: true
   - translation_iso: por
     name: Pentlatch
     auto: true

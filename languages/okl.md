@@ -29,6 +29,9 @@ translations:
     name: पुरानी केंटिश सांकेतिक भाषा
   - translation_iso: jpn
     name: 古ケント手話
+  - translation_iso: kor
+    name: 옛 켄트 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Antiga de Kent
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: नकाई
     auto: true
+  - translation_iso: ind
+    name: Nakai
   - translation_iso: jpn
     name: ナカイ語
+    auto: true
+  - translation_iso: kor
+    name: 나카이어
     auto: true
   - translation_iso: por
     name: Nakai

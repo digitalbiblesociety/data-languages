@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケンデム語
     auto: true
+  - translation_iso: kor
+    name: 켄뎀어
+    auto: true
   - translation_iso: por
     name: Kendem
     auto: true

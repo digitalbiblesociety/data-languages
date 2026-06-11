@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी लेंबाता
     auto: true
+  - translation_iso: ind
+    name: Lembata Selatan
   - translation_iso: jpn
     name: 南レンバタ語
+  - translation_iso: kor
+    name: 남부 렘바타어
+    auto: true
   - translation_iso: por
     name: Lembata do Sul
     auto: true

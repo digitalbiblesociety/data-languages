@@ -26,12 +26,19 @@ translations:
   - translation_iso: hin
     name: बुर्मेसो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Burmeso
   - translation_iso: jpn
     name: ブルメソ語
+    auto: true
+  - translation_iso: kor
+    name: 부르메소어
     auto: true
   - translation_iso: por
     name: Burmeso
     auto: true
+  - translation_iso: rus
+    name: Бурмесо
   - translation_iso: spa
     name: Idioma burmeso
   - translation_iso: zho

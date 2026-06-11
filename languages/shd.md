@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: クンダルシャー語
     auto: true
+  - translation_iso: kor
+    name: 쿤달 샤히어
+    auto: true
   - translation_iso: por
     name: Kundal Shahi
     auto: true
+  - translation_iso: rus
+    name: кундалшахи
   - translation_iso: spa
     name: Kundal Shahi
     auto: true

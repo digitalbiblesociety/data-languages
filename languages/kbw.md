@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カイエプ語
     auto: true
+  - translation_iso: kor
+    name: 카이에프어
+    auto: true
   - translation_iso: por
     name: Kaiep
     auto: true

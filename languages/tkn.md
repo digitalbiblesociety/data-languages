@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: توكو نو شيما
     auto: true
+  - translation_iso: ben
+    name: টোকুনোশিমা ভাষা
   - translation_iso: deu
     name: Toku-No-Shima
     auto: true
@@ -29,6 +31,8 @@ translations:
   - translation_iso: hin
     name: तोकु-नो-शिमा
     auto: true
+  - translation_iso: ind
+    name: Tokunoshima
   - translation_iso: jpn
     name: 徳之島方言
   - translation_iso: kor

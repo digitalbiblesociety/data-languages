@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ホワイト・ラチ語
     auto: true
+  - translation_iso: kor
+    name: 백라치어
+    auto: true
   - translation_iso: por
     name: Lachi branco
     auto: true

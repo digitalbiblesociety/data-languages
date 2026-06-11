@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィネベゴ語
+  - translation_iso: kor
+    name: 호청크어
+    auto: true
   - translation_iso: por
     name: Língua winnebago
+  - translation_iso: rus
+    name: виннебаго
   - translation_iso: spa
     name: Winnebago
   - translation_iso: zho

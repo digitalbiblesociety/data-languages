@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガジェラワン語
     auto: true
+  - translation_iso: kor
+    name: 가제라왕어
+    auto: true
   - translation_iso: por
     name: Gadjerawang
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ングバカ・マンザ語
     auto: true
+  - translation_iso: kor
+    name: 응바카 만자어
+    auto: true
   - translation_iso: por
     name: Ngbaka Manza
     auto: true

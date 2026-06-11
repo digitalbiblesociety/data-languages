@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: केलोन
     auto: true
+  - translation_iso: ind
+    name: Kelon
   - translation_iso: jpn
     name: ケロン語
+    auto: true
+  - translation_iso: kor
+    name: 켈론어
     auto: true
   - translation_iso: por
     name: Kelon

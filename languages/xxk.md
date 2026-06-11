@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: केओ
     auto: true
+  - translation_iso: ind
+    name: "Ke'o"
   - translation_iso: jpn
     name: ケオ語
+    auto: true
+  - translation_iso: kor
+    name: 케오어
     auto: true
   - translation_iso: por
     name: "Ke'o"

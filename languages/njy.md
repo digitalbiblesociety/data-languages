@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンジェム語
     auto: true
+  - translation_iso: kor
+    name: 은젬어
+    auto: true
   - translation_iso: por
     name: Njyem
     auto: true

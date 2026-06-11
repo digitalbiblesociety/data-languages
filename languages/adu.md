@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة أدوج
     auto: true
+  - translation_iso: ben
+    name: আদুজ
   - translation_iso: deu
     name: Aduge
   - translation_iso: fra
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アドゥゲ語
+    auto: true
+  - translation_iso: kor
+    name: 아두게어
     auto: true
   - translation_iso: por
     name: Aduge

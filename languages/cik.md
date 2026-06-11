@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: チットクリ・キンナウリ語
     auto: true
+  - translation_iso: kor
+    name: 치트쿨리 킨나우리어
+    auto: true
   - translation_iso: por
     name: Kinnauri de Chitkuli
     auto: true

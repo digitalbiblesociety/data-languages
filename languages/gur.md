@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フラフラ語
+  - translation_iso: kor
+    name: 파레파레어
+    auto: true
   - translation_iso: por
     name: Língua frafra
+  - translation_iso: rus
+    name: Фарефаре
   - translation_iso: spa
     name: Frafra
   - translation_iso: zho

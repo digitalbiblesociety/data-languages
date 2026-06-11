@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クニェ語
+  - translation_iso: kor
+    name: 누메어
+    auto: true
   - translation_iso: por
     name: Numèè
     auto: true

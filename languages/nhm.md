@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: モレロス・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 모렐로스 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Morelos
     auto: true
+  - translation_iso: rus
+    name: Морелосский науатль
   - translation_iso: spa
     name: náhuatl morelense
   - translation_iso: zho

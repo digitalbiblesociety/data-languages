@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aleut_language"
 translations:
   - translation_iso: ara
     name: الأليوتية
+  - translation_iso: ben
+    name: আলেউত
   - translation_iso: deu
     name: Aleutisch
   - translation_iso: fra
     name: aléoute
   - translation_iso: hin
     name: अलेउत
+  - translation_iso: ind
+    name: Aleut
   - translation_iso: jpn
     name: アレウト語
   - translation_iso: kor
     name: 알류트어
   - translation_iso: por
     name: língua aleúte
+  - translation_iso: rus
+    name: алеутский
   - translation_iso: spa
     name: aleutiano
   - translation_iso: zho

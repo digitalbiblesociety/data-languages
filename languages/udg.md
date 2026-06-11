@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムドゥガル語
     auto: true
+  - translation_iso: kor
+    name: 무두가어
+    auto: true
   - translation_iso: por
     name: Muduga
     auto: true

@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングベー語
+  - translation_iso: kor
+    name: 응베어
+    auto: true
   - translation_iso: por
     name: Ngbee
     auto: true

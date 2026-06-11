@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イキン・アオホ語
     auto: true
+  - translation_iso: kor
+    name: 이킨아오코어
+    auto: true
   - translation_iso: por
     name: Ikhin-Aokho
     auto: true

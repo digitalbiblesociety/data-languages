@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: उलिथियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ulithi
   - translation_iso: jpn
     name: ウリシ語
+  - translation_iso: kor
+    name: 울리티어
+    auto: true
   - translation_iso: por
     name: Língua Ulithiana
+  - translation_iso: rus
+    name: улитийский язык
   - translation_iso: spa
     name: Idioma ulithiano
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ココ・ヤク語
     auto: true
+  - translation_iso: kor
+    name: 쿠크야크어
+    auto: true
   - translation_iso: por
     name: Língua kuuk yak
   - translation_iso: spa

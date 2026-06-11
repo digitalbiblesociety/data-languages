@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヨッティ語
     auto: true
+  - translation_iso: kor
+    name: 요티어
+    auto: true
   - translation_iso: por
     name: yotti
     auto: true

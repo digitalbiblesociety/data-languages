@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: सेकानी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sekani
   - translation_iso: jpn
     name: セカニ語
+  - translation_iso: kor
+    name: 세카니어
+    auto: true
   - translation_iso: por
     name: Língua sekani
+  - translation_iso: rus
+    name: Секани
   - translation_iso: spa
     name: Sekani
   - translation_iso: zho

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أبينومن
     auto: true
+  - translation_iso: ben
+    name: অভিনম
   - translation_iso: deu
     name: Abinomn
     auto: true
@@ -26,11 +28,18 @@ translations:
   - translation_iso: hin
     name: अबिनोम्न
     auto: true
+  - translation_iso: ind
+    name: Abinomn
   - translation_iso: jpn
     name: アビノムン語
+  - translation_iso: kor
+    name: 아비놈어
+    auto: true
   - translation_iso: por
     name: Abinomn
     auto: true
+  - translation_iso: rus
+    name: абиномн
   - translation_iso: spa
     name: Idioma abinomn
   - translation_iso: zho

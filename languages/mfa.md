@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: पट्टानी मलय
     auto: true
+  - translation_iso: ind
+    name: Pattani
   - translation_iso: jpn
     name: ジャウィ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Malaio de Pattani
     auto: true
+  - translation_iso: rus
+    name: яви
   - translation_iso: spa
     name: Malayo de Pattani
     auto: true

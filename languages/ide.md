@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: イデレ語
     auto: true
+  - translation_iso: kor
+    name: 이데레어
+    auto: true
   - translation_iso: por
     name: Idere
     auto: true

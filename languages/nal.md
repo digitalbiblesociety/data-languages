@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナリク語
+  - translation_iso: kor
+    name: 날리크어
+    auto: true
   - translation_iso: por
     name: Nalik
     auto: true

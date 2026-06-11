@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانجوبانجو
     auto: true
+  - translation_iso: ben
+    name: বাঙ্গুবাঙ্গু
   - translation_iso: deu
     name: Bangubangu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バングバング語
+  - translation_iso: kor
+    name: 방구방구어
+    auto: true
   - translation_iso: por
     name: Bangubangu
     auto: true

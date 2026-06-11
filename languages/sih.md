@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ネレ語
     auto: true
+  - translation_iso: kor
+    name: 지레어
+    auto: true
   - translation_iso: por
     name: Zire
     auto: true

@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: माफ़ा
     auto: true
+  - translation_iso: ind
+    name: Mafa
   - translation_iso: jpn
     name: マファ語
   - translation_iso: kor
     name: 마파어
   - translation_iso: por
     name: Língua mafa
+  - translation_iso: rus
+    name: мафа
   - translation_iso: spa
     name: mafa
   - translation_iso: zho

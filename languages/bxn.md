@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ブルドゥナ語
     auto: true
+  - translation_iso: kor
+    name: 부르두나어
+    auto: true
   - translation_iso: por
     name: Burduna
     auto: true

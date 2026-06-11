@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 北ドン語
     auto: true
+  - translation_iso: kor
+    name: 북부 둥어
+    auto: true
   - translation_iso: por
     name: Dong Setentrional
     auto: true

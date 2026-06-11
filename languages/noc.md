@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヌク語
     auto: true
+  - translation_iso: kor
+    name: 누크어
+    auto: true
   - translation_iso: por
     name: Nuk
     auto: true

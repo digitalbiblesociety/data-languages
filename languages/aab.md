@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة الألوموتسو
     auto: true
+  - translation_iso: ben
+    name: আলুমু
   - translation_iso: deu
     name: Alumu-Tesu
   - translation_iso: fra
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Alumu-Tesu
     auto: true
+  - translation_iso: rus
+    name: Алуму-тесу
   - translation_iso: spa
     name: Alumu-Tesu
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: लानोह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lanoh
   - translation_iso: jpn
     name: ラノ語
+    auto: true
+  - translation_iso: kor
+    name: 라노어
     auto: true
   - translation_iso: por
     name: Lanoh

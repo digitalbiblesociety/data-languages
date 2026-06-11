@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ケンベラノ語
     auto: true
+  - translation_iso: kor
+    name: 켐베라노어
+    auto: true
   - translation_iso: por
     name: Kemberano
     auto: true

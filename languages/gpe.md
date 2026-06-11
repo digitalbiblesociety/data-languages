@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghanaian_Pidgin_English"
 translations:
   - translation_iso: ara
     name: إنجليزية بيدجين الغانية
+  - translation_iso: ben
+    name: ঘানাইয় পিজিন ইংরেজি
   - translation_iso: deu
     name: Ghanaisches Pidgin-Englisch
     auto: true
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーナピジン英語
+  - translation_iso: kor
+    name: 가나 피진 영어
+    auto: true
   - translation_iso: por
     name: pidgin ganês
+  - translation_iso: rus
+    name: ганский пиджин английского
   - translation_iso: spa
     name: pidgin inglés de Ghana
   - translation_iso: zho

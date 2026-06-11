@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: वालक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Walak
   - translation_iso: jpn
     name: ワラック語
+    auto: true
+  - translation_iso: kor
+    name: 왈라크어
     auto: true
   - translation_iso: por
     name: Walak

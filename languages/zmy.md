@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マリイェディ語
     auto: true
+  - translation_iso: kor
+    name: 마리예디어
+    auto: true
   - translation_iso: por
     name: Mariyedi
     auto: true

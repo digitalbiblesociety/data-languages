@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإيجا
     auto: true
+  - translation_iso: ben
+    name: এগা
   - translation_iso: deu
     name: Ega
     auto: true
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エガ語
+  - translation_iso: kor
+    name: 에가어
+    auto: true
   - translation_iso: por
     name: Ega
     auto: true
+  - translation_iso: rus
+    name: Эга (язык)
   - translation_iso: spa
     name: Ega
     auto: true

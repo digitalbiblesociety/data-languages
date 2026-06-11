@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブドゥ語
     auto: true
+  - translation_iso: kor
+    name: 부두어
+    auto: true
   - translation_iso: por
     name: Budu
     auto: true

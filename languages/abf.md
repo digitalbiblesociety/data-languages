@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أبّاي سونجاي
     auto: true
+  - translation_iso: ben
+    name: আবাই সুঙ্গাই
   - translation_iso: deu
     name: Abai Sungai
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバイ・スンガイ語
+    auto: true
+  - translation_iso: kor
+    name: 아바이 숭아이어
     auto: true
   - translation_iso: por
     name: Abai Sungai

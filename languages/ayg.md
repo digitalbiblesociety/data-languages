@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ギニャンガ語
     auto: true
+  - translation_iso: kor
+    name: 기냥가어
+    auto: true
   - translation_iso: por
     name: Ginyanga
     auto: true

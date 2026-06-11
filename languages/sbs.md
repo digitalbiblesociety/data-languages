@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: スビヤ語
     auto: true
+  - translation_iso: kor
+    name: 수비야어
+    auto: true
   - translation_iso: por
     name: Subiya
     auto: true
+  - translation_iso: rus
+    name: субиа
   - translation_iso: spa
     name: Subiya
     auto: true

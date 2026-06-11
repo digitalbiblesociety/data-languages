@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: カンバータ語
     auto: true
+  - translation_iso: kor
+    name: 캄바타어
+    auto: true
   - translation_iso: por
     name: Kambaata
     auto: true
+  - translation_iso: rus
+    name: Камбата
   - translation_iso: spa
     name: Kambaata
     auto: true

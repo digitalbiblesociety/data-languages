@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナグミ語
+  - translation_iso: kor
+    name: 나구미어
+    auto: true
   - translation_iso: por
     name: Nagumi
     auto: true

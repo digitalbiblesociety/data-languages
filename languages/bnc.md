@@ -26,8 +26,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボントック語
+  - translation_iso: kor
+    name: 본토크어
+    auto: true
   - translation_iso: por
     name: Língua bontoc
+  - translation_iso: rus
+    name: бонтокский язык
   - translation_iso: spa
     name: Idioma bontoc
   - translation_iso: zho

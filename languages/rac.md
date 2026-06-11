@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रासावा
     auto: true
+  - translation_iso: ind
+    name: Rasawa
   - translation_iso: jpn
     name: ラサワ語
+    auto: true
+  - translation_iso: kor
+    name: 라사와어
     auto: true
   - translation_iso: por
     name: Rasawa

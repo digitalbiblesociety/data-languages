@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ジェレ語
     auto: true
+  - translation_iso: kor
+    name: 제레어
+    auto: true
   - translation_iso: por
     name: Jere
     auto: true

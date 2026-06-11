@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة يتهوانيان يجن انجواجي
     auto: true
+  - translation_iso: ben
+    name: লিথুয়েনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Litauische Gebärdensprache
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リトアニア手話
+  - translation_iso: kor
+    name: 리투아니아 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais lituana
   - translation_iso: spa

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ランガム語
     auto: true
+  - translation_iso: kor
+    name: 랑암어
+    auto: true
   - translation_iso: por
     name: Langam
     auto: true

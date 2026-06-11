@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レメリグ語
     auto: true
+  - translation_iso: kor
+    name: 레메리그어
+    auto: true
   - translation_iso: por
     name: Língua lemerig
   - translation_iso: spa

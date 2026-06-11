@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カガヤネン語
+  - translation_iso: kor
+    name: 카가야넨어
+    auto: true
   - translation_iso: por
     name: Língua kagayanen
   - translation_iso: spa

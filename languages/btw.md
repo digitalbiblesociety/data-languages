@@ -30,10 +30,17 @@ translations:
   - translation_iso: hin
     name: बुतुआनोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Butuanon
   - translation_iso: jpn
     name: ブトゥアノン語
+  - translation_iso: kor
+    name: 부투아논어
+    auto: true
   - translation_iso: por
     name: Língua butuanon
+  - translation_iso: rus
+    name: бутуанон
   - translation_iso: spa
     name: butuano
   - translation_iso: zho

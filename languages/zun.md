@@ -18,18 +18,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zuni_language"
 translations:
   - translation_iso: ara
     name: الزونية
+  - translation_iso: ben
+    name: জুনি
   - translation_iso: deu
     name: Zuñi
   - translation_iso: fra
     name: zuni
   - translation_iso: hin
     name: ज़ूनी भाषा
+  - translation_iso: ind
+    name: Zuni
   - translation_iso: jpn
     name: ズニ語
   - translation_iso: kor
     name: 주니어
   - translation_iso: por
     name: Língua zuni
+  - translation_iso: rus
+    name: зуньи
   - translation_iso: spa
     name: zuñi
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イラヤ語
     auto: true
+  - translation_iso: kor
+    name: 이라야어
+    auto: true
   - translation_iso: por
     name: Língua Iraya
   - translation_iso: spa

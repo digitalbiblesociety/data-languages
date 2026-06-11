@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キンブ語
     auto: true
+  - translation_iso: kor
+    name: 킴부어
+    auto: true
   - translation_iso: por
     name: Kimbu
     auto: true

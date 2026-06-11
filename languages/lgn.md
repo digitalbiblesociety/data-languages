@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: タポ語
     auto: true
+  - translation_iso: kor
+    name: 타포어
+    auto: true
   - translation_iso: por
     name: Língua opuo
+  - translation_iso: rus
+    name: Опуо
   - translation_iso: spa
     name: "T'apo"
     auto: true

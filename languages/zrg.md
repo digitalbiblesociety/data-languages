@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ミルガン語
     auto: true
+  - translation_iso: kor
+    name: 미르간어
+    auto: true
   - translation_iso: por
     name: Mirgan
     auto: true

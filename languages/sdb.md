@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: शबक
     auto: true
+  - translation_iso: ind
+    name: Dialek Shabaki
   - translation_iso: jpn
     name: シャバク語
+  - translation_iso: kor
+    name: 샤바크어
+    auto: true
   - translation_iso: por
     name: Língua shabaki
   - translation_iso: spa

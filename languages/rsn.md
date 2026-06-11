@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルワンダ手話
+  - translation_iso: kor
+    name: 르완다 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Ruandesa
     auto: true

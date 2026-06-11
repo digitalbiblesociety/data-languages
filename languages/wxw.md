@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワルダンディ語
     auto: true
+  - translation_iso: kor
+    name: 와르단디어
+    auto: true
   - translation_iso: por
     name: Wardandi
     auto: true

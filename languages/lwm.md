@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ラオミアン語
     auto: true
+  - translation_iso: kor
+    name: 라오몐어
+    auto: true
   - translation_iso: por
     name: Laomian
     auto: true

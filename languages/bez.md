@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bena_language"
 translations:
   - translation_iso: ara
     name: بينا
+  - translation_iso: ben
+    name: বেনা
   - translation_iso: deu
     name: Bena
   - translation_iso: fra
     name: bena
   - translation_iso: hin
     name: बेना
+  - translation_iso: ind
+    name: Bena
   - translation_iso: jpn
     name: ベナ語
   - translation_iso: kor
     name: 베나어
   - translation_iso: por
     name: bena
+  - translation_iso: rus
+    name: бена
   - translation_iso: spa
     name: bena
   - translation_iso: zho

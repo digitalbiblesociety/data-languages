@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シアルム語
     auto: true
+  - translation_iso: kor
+    name: 시알룸어
+    auto: true
   - translation_iso: por
     name: Sialum
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マインド語
     auto: true
+  - translation_iso: kor
+    name: 마인도어
+    auto: true
   - translation_iso: por
     name: Maindo
     auto: true

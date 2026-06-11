@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セットラ語
     auto: true
+  - translation_iso: kor
+    name: 세틀라어
+    auto: true
   - translation_iso: por
     name: Settla
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 東南タラウマラ語
     auto: true
+  - translation_iso: kor
+    name: 남동부 타라우마라어
+    auto: true
   - translation_iso: por
     name: Tarahumara do Sudeste
     auto: true

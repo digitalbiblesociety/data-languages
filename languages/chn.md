@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chinook_Jargon"
 translations:
   - translation_iso: ara
     name: الشينوك جارجون
+  - translation_iso: ben
+    name: চিনুক জার্গন
   - translation_iso: deu
     name: Chinook Wawa
   - translation_iso: fra
     name: chinook
   - translation_iso: hin
     name: चिनूक जारगॉन
+  - translation_iso: ind
+    name: Jargon Chinook
   - translation_iso: jpn
     name: チヌーク・ジャーゴン
   - translation_iso: kor
     name: 치누크 자곤
   - translation_iso: por
     name: Jargão chinook
+  - translation_iso: rus
+    name: чинук жаргон
   - translation_iso: spa
     name: jerga chinuk
   - translation_iso: zho

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: गिलकी
     auto: true
+  - translation_iso: ind
+    name: Gilaki
   - translation_iso: jpn
     name: ギラキ語
   - translation_iso: kor
     name: 길란어
   - translation_iso: por
     name: Língua gilaki
+  - translation_iso: rus
+    name: гилякский язык
   - translation_iso: spa
     name: gileki
   - translation_iso: zho

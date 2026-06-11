@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガリングバル語
     auto: true
+  - translation_iso: kor
+    name: 가링발어
+    auto: true
   - translation_iso: por
     name: Garingbal
     auto: true

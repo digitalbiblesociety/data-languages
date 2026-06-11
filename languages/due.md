@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: उमिराय दुमागेत आग्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Umiray Dumaget
   - translation_iso: jpn
     name: ウミレイ・ドゥマゲット・アグタ語
+    auto: true
+  - translation_iso: kor
+    name: 우미라이 두마게트 아그타어
     auto: true
   - translation_iso: por
     name: Língua umiray dumaget agta

@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ティファル語
     auto: true
+  - translation_iso: kor
+    name: 티팔어
+    auto: true
   - translation_iso: por
     name: Tifal
     auto: true
+  - translation_iso: rus
+    name: Тифал
   - translation_iso: spa
     name: Tifal
     auto: true

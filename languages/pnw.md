@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: バンジマ語
     auto: true
+  - translation_iso: kor
+    name: 반지마어
+    auto: true
   - translation_iso: por
     name: Banyjima
     auto: true

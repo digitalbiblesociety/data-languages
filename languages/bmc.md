@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيم
     auto: true
+  - translation_iso: ben
+    name: বিয়েম
   - translation_iso: deu
     name: Biem
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビエム語
+    auto: true
+  - translation_iso: kor
+    name: 비엠어
     auto: true
   - translation_iso: por
     name: Biem

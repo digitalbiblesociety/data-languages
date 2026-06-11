@@ -34,6 +34,8 @@ translations:
     name: 훈스리크어
   - translation_iso: por
     name: hunsriqueano riograndense
+  - translation_iso: rus
+    name: хунсрик
   - translation_iso: spa
     name: Riograndenser Hunsrückisch
   - translation_iso: zho

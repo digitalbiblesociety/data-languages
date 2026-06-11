@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: साहू
     auto: true
+  - translation_iso: ind
+    name: Sahu
   - translation_iso: jpn
     name: サフ語
+  - translation_iso: kor
+    name: 사후어
+    auto: true
   - translation_iso: por
     name: Sahu
+  - translation_iso: rus
+    name: Саху
   - translation_iso: spa
     name: Sahu
   - translation_iso: zho

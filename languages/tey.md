@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トゥリシ語
     auto: true
+  - translation_iso: kor
+    name: 툴리시어
+    auto: true
   - translation_iso: por
     name: Tulishi
     auto: true

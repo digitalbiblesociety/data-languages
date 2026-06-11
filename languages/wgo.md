@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: وايغيو
     auto: true
+  - translation_iso: ben
+    name: আম্বেল
   - translation_iso: deu
     name: Waigeo
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: वैगेओ
     auto: true
+  - translation_iso: ind
+    name: Waigeo
   - translation_iso: jpn
     name: ワイゲオ語
+  - translation_iso: kor
+    name: 와이게오어
+    auto: true
   - translation_iso: por
     name: Língua ambel
   - translation_iso: spa

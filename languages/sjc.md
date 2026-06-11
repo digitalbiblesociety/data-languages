@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: शाओजियांग चीनी
     auto: true
+  - translation_iso: ind
+    name: rumpun bahasa Shao–Jiang
   - translation_iso: jpn
     name: 閩贛語
+  - translation_iso: kor
+    name: 사오장 중국어
+    auto: true
   - translation_iso: por
     name: Chinês Shaojiang
     auto: true
+  - translation_iso: rus
+    name: шаоцзянский язык
   - translation_iso: spa
     name: Min shaojiang
   - translation_iso: zho

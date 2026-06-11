@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラクウェット語
+  - translation_iso: kor
+    name: 마르크웨타어
+    auto: true
   - translation_iso: por
     name: Markweeta
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة جوتية
     auto: true
+  - translation_iso: ben
+    name: ইয়ুটলান্ডীয় উপভাষা
   - translation_iso: deu
     name: Jütisch
   - translation_iso: fra
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: जटलैंडिक
     auto: true
+  - translation_iso: ind
+    name: Jutlandia
   - translation_iso: jpn
     name: ユトランド方言
+  - translation_iso: kor
+    name: 유틀란트어
+    auto: true
   - translation_iso: por
     name: jutlandês
     auto: true
+  - translation_iso: rus
+    name: ютландский диалект
   - translation_iso: spa
     name: Juto
   - translation_iso: zho

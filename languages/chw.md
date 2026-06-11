@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チュワブ語
     auto: true
+  - translation_iso: kor
+    name: 추와부어
+    auto: true
   - translation_iso: por
     name: Língua chuwabo
   - translation_iso: spa

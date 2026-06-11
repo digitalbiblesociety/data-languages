@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: オフォ語
     auto: true
+  - translation_iso: kor
+    name: 오포어
+    auto: true
   - translation_iso: por
     name: Ofo
     auto: true

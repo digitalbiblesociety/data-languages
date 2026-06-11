@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サカトラン・アワカトラン・テペツィントラ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 사카틀란·아우아카틀란·테페친틀라 나와틀어
+    auto: true
   - translation_iso: por
     name: Nahuatl de Zacatlán-Ahuacatlán-Tepetzintla
     auto: true

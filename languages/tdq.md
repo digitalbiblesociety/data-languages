@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティタ語
     auto: true
+  - translation_iso: kor
+    name: 티타어
+    auto: true
   - translation_iso: por
     name: Tita
     auto: true

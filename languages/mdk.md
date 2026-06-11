@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マングトゥ語
     auto: true
+  - translation_iso: kor
+    name: 망부투어
+    auto: true
   - translation_iso: por
     name: Mangbutu
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بينانج
     auto: true
+  - translation_iso: ben
+    name: পেনাং ইশারা ভাষা
   - translation_iso: deu
     name: Penang-Gebärdensprache
   - translation_iso: fra
@@ -28,6 +30,9 @@ translations:
     name: पेनांग सांकेतिक भाषा
   - translation_iso: jpn
     name: ペナン手話
+  - translation_iso: kor
+    name: 피낭 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais de Penang
   - translation_iso: spa

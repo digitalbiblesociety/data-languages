@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: बुकार-सादुंग बिदायुह
     auto: true
+  - translation_iso: ind
+    name: Bidayuh Bukar-Sadong
   - translation_iso: jpn
     name: ブカ語
+    auto: true
+  - translation_iso: kor
+    name: 부카르사둥 비다유어
     auto: true
   - translation_iso: por
     name: Bidayuh Bukar-Sadung
     auto: true
+  - translation_iso: rus
+    name: Букар-садонг
   - translation_iso: spa
     name: Bidayuh bukar-sadung
     auto: true

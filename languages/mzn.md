@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mazanderani_language"
 translations:
   - translation_iso: ara
     name: المازندرانية
+  - translation_iso: ben
+    name: মাজানদেরানি
   - translation_iso: deu
     name: Masanderanisch
   - translation_iso: fra
     name: mazandarani
   - translation_iso: hin
     name: माज़न्देरानी
+  - translation_iso: ind
+    name: Mazanderani
   - translation_iso: jpn
     name: マーザンダラーン語
   - translation_iso: kor
     name: 마잔다란어
   - translation_iso: por
     name: mazandarani
+  - translation_iso: rus
+    name: мазандеранский
   - translation_iso: spa
     name: mazandaraní
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イバリ・テケ語
     auto: true
+  - translation_iso: kor
+    name: 이발리 테케어
+    auto: true
   - translation_iso: por
     name: Teke Ibali
     auto: true

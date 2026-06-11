@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シロイ語
+  - translation_iso: kor
+    name: 시로이어
+    auto: true
   - translation_iso: por
     name: Siroi
     auto: true
+  - translation_iso: rus
+    name: Сирои
   - translation_iso: spa
     name: Siroi
     auto: true

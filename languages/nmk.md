@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナマクラ語
+  - translation_iso: kor
+    name: 나마쿠라어
+    auto: true
   - translation_iso: por
     name: Namakura
     auto: true

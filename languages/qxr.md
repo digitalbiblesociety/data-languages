@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カニャルハイランドキチュア語
     auto: true
+  - translation_iso: kor
+    name: 카냐르 고지 키추아어
+    auto: true
   - translation_iso: por
     name: Quíchua das Terras Altas de Cañar
     auto: true

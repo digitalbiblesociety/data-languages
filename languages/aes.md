@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألسي
     auto: true
+  - translation_iso: ben
+    name: আলসেয়া
   - translation_iso: deu
     name: Alsea
     auto: true
@@ -28,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルシー語
+  - translation_iso: kor
+    name: 알세아어
+    auto: true
   - translation_iso: por
     name: Alsea
     auto: true
+  - translation_iso: rus
+    name: Алсейские языки
   - translation_iso: spa
     name: Lenguas alseanas
   - translation_iso: zho

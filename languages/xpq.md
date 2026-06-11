@@ -22,10 +22,17 @@ translations:
   - translation_iso: hin
     name: मोहेगन-पेक्वोट
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mohegan-Pequot
   - translation_iso: jpn
     name: モヘガン・ペクォート語
+  - translation_iso: kor
+    name: 모히건·피쿼트어
+    auto: true
   - translation_iso: por
     name: Língua mohegan-pequot
+  - translation_iso: rus
+    name: Мохеган-пекот
   - translation_iso: spa
     name: Mohegan-Pequot
   - translation_iso: zho

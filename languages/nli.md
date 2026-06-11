@@ -30,9 +30,14 @@ translations:
     name: नंगलामी भाषा
   - translation_iso: jpn
     name: ナンガラム語
+  - translation_iso: kor
+    name: 그랑갈리어
+    auto: true
   - translation_iso: por
     name: Grangali
     auto: true
+  - translation_iso: rus
+    name: Глангали
   - translation_iso: spa
     name: Grangali
     auto: true

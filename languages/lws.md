@@ -27,9 +27,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラウイ手話
+  - translation_iso: kor
+    name: 말라위 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Malauiana
     auto: true
+  - translation_iso: rus
+    name: малавийский жестовый язык
   - translation_iso: spa
     name: lengua de signos malauí
   - translation_iso: zho

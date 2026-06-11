@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: यहूदी-मोरक्कन अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Yudeo-Maroko
   - translation_iso: jpn
     name: ユダヤ・モロッコ・アラビア語
+  - translation_iso: kor
+    name: 유대 모로코 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe Judeu-Marroquino
     auto: true
+  - translation_iso: rus
+    name: Еврейско-марокканский язык
   - translation_iso: spa
     name: judeo-marroquí
   - translation_iso: zho

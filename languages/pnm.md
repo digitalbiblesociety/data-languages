@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プナンバトゥ1語
     auto: true
+  - translation_iso: kor
+    name: 푸난 바투어
+    auto: true
   - translation_iso: por
     name: Punan Batu 1
     auto: true

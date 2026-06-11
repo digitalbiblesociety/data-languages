@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツィミヘティ・マダガスカル語
+  - translation_iso: kor
+    name: 치미헤티 말라가시어
+    auto: true
   - translation_iso: por
     name: Malgaxe Tsimihety
     auto: true

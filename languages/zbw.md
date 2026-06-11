@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・ベラワン語
     auto: true
+  - translation_iso: kor
+    name: 서부 베라완어
+    auto: true
   - translation_iso: por
     name: berawan ocidental
     auto: true

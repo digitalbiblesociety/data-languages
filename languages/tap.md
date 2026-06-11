@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タアブワ語
     auto: true
+  - translation_iso: kor
+    name: 타브와어
+    auto: true
   - translation_iso: por
     name: Taabwa
     auto: true

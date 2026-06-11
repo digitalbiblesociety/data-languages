@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マラグス語
     auto: true
+  - translation_iso: kor
+    name: 마라구스어
+    auto: true
   - translation_iso: por
     name: Maragus
     auto: true

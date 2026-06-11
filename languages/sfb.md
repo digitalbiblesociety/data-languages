@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلجيكية الفرنكوفونية
     auto: true
+  - translation_iso: ben
+    name: ফরাসি বেলজীয় ইশারা ভাষা
   - translation_iso: deu
     name: französisch-belgische Gebärdensprache
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワロン手話
+  - translation_iso: kor
+    name: 프랑스어권 벨기에 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais da Bélgica Francófona
     auto: true

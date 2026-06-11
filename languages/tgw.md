@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タグワナ・セヌフォ語
     auto: true
+  - translation_iso: kor
+    name: 타과나 세누포어
+    auto: true
   - translation_iso: por
     name: Senufo Tagwana
     auto: true

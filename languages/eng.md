@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/English_language"
 translations:
   - translation_iso: ara
     name: الإنجليزية
+  - translation_iso: ben
+    name: ইংরেজি
   - translation_iso: deu
     name: Englisch
   - translation_iso: fra
     name: anglais
   - translation_iso: hin
     name: अंग्रेज़ी
+  - translation_iso: ind
+    name: Inggris
   - translation_iso: jpn
     name: 英語
   - translation_iso: kor
     name: 영어
   - translation_iso: por
     name: inglês
+  - translation_iso: rus
+    name: английский
   - translation_iso: spa
     name: inglés
   - translation_iso: zho

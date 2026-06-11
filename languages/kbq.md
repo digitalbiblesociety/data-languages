@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマノ語
+  - translation_iso: kor
+    name: 카마노어
+    auto: true
   - translation_iso: por
     name: Kamano
     auto: true
+  - translation_iso: rus
+    name: Камано
   - translation_iso: spa
     name: Kamano
     auto: true

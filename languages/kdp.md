@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カニングドン・ニンデム語
     auto: true
+  - translation_iso: kor
+    name: 카닝돈닌뎀어
+    auto: true
   - translation_iso: por
     name: Kaningdon-Nindem
     auto: true

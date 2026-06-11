@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: هالبي
     auto: true
+  - translation_iso: ben
+    name: হালবি ভাষা
   - translation_iso: deu
     name: Halbi
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ハルビ語
     auto: true
+  - translation_iso: kor
+    name: 할비어
+    auto: true
   - translation_iso: por
     name: Língua halbi
+  - translation_iso: rus
+    name: Халби (язык)
   - translation_iso: spa
     name: Halbi
   - translation_iso: zho

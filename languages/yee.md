@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: yimas
     auto: true
+  - translation_iso: rus
+    name: Йимас
   - translation_iso: spa
     name: Idioma yimas
   - translation_iso: zho

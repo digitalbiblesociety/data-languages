@@ -29,11 +29,17 @@ translations:
   - translation_iso: hin
     name: थाओ
     auto: true
+  - translation_iso: ind
+    name: Bahasa Thao
   - translation_iso: jpn
     name: サオ語
+  - translation_iso: kor
+    name: 사오어
   - translation_iso: por
     name: Thao
     auto: true
+  - translation_iso: rus
+    name: тхао
   - translation_iso: spa
     name: Idioma thao
   - translation_iso: zho

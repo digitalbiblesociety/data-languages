@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイ語
+  - translation_iso: kor
+    name: 코이어
+    auto: true
   - translation_iso: por
     name: Koi
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ムンダ語
     auto: true
+  - translation_iso: kor
+    name: 문다어
+    auto: true
   - translation_iso: por
     name: Munda
     auto: true

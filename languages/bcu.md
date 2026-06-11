@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أواد بينج
     auto: true
+  - translation_iso: ben
+    name: আওয়াদ বিং
   - translation_iso: deu
     name: Awad Bing
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワド・ビング語
+    auto: true
+  - translation_iso: kor
+    name: 아와드 빙어
     auto: true
   - translation_iso: por
     name: Awad Bing

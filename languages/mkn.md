@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कुपांग मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Kupang
   - translation_iso: jpn
     name: クパン・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 쿠팡 말레이어
     auto: true
   - translation_iso: por
     name: malaio de Kupang

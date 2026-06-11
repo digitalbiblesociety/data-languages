@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: यहूदी-इराकी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Yudeo-Irak
   - translation_iso: jpn
     name: ユダヤ・イラク・アラビア語
+  - translation_iso: kor
+    name: 유대 이라크 아랍어
+    auto: true
   - translation_iso: por
     name: árabe judeu-iraquiano
     auto: true
+  - translation_iso: rus
+    name: Еврейско-иракский диалект арабского языка
   - translation_iso: spa
     name: árabe judeo-iraquí
   - translation_iso: zho

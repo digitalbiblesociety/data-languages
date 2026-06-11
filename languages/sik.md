@@ -27,8 +27,13 @@ translations:
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true
+  - translation_iso: kor
+    name: 시키아나어
+    auto: true
   - translation_iso: por
     name: Língua kaxuyana
+  - translation_iso: rus
+    name: Сикиана (язык)
   - translation_iso: spa
     name: Sikiana
     auto: true

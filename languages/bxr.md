@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: रूसी बुर्यात
     auto: true
+  - translation_iso: ind
+    name: Buryat Rusia
   - translation_iso: jpn
     name: ロシアブリヤート語
+  - translation_iso: kor
+    name: 러시아 부랴트어
+    auto: true
   - translation_iso: por
     name: Buriato da Rússia
     auto: true

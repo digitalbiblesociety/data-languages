@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sukuma_language"
 translations:
   - translation_iso: ara
     name: السوكوما
+  - translation_iso: ben
+    name: সুকুমা
   - translation_iso: deu
     name: Sukuma
   - translation_iso: fra
     name: sukuma
   - translation_iso: hin
     name: सुकुमा
+  - translation_iso: ind
+    name: Sukuma
   - translation_iso: jpn
     name: スクマ語
   - translation_iso: kor
     name: 수쿠마어
   - translation_iso: por
     name: Língua sukuma
+  - translation_iso: rus
+    name: сукума
   - translation_iso: spa
     name: sukuma
   - translation_iso: zho

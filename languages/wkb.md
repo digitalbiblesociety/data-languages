@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: كومباران
     auto: true
+  - translation_iso: ben
+    name: কুম্বারান ভাষা
   - translation_iso: deu
     name: Kumbaran
     auto: true
@@ -24,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クンバラン語
+    auto: true
+  - translation_iso: kor
+    name: 쿰바란어
     auto: true
   - translation_iso: por
     name: Kumbaran

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: アボ語
     auto: true
+  - translation_iso: kor
+    name: 우쿠아니·아보·은도니어
+    auto: true
   - translation_iso: por
     name: Ukwuani-Aboh-Ndoni
     auto: true

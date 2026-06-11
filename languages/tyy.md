@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: カドゥン語
     auto: true
+  - translation_iso: kor
+    name: 콴카어
+    auto: true
   - translation_iso: por
     name: Kwanka
     auto: true

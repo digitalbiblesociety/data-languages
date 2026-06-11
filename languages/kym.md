@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: クパティリ語
     auto: true
+  - translation_iso: kor
+    name: 크파틸리어
+    auto: true
   - translation_iso: por
     name: Kpatili
     auto: true

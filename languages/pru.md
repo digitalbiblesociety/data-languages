@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: पुरागी
     auto: true
+  - translation_iso: ind
+    name: Puragi
   - translation_iso: jpn
     name: プラギ語
+    auto: true
+  - translation_iso: kor
+    name: 푸라기어
     auto: true
   - translation_iso: por
     name: Puragi

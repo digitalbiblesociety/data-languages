@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باسا
     auto: true
+  - translation_iso: ben
+    name: বাসা-বেনু
   - translation_iso: deu
     name: Basa
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサ語
+    auto: true
+  - translation_iso: kor
+    name: 바사어
     auto: true
   - translation_iso: por
     name: Basa (Nigéria)

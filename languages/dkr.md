@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クイジャウ語
     auto: true
+  - translation_iso: kor
+    name: 쿠이자우어
+    auto: true
   - translation_iso: por
     name: Kuijau
     auto: true

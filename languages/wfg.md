@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: याफी
     auto: true
+  - translation_iso: ind
+    name: Zorop
   - translation_iso: jpn
     name: ヤフィ語
+    auto: true
+  - translation_iso: kor
+    name: 야피어
     auto: true
   - translation_iso: por
     name: Yafi

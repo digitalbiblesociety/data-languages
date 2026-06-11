@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कायन माहाकाम
     auto: true
+  - translation_iso: ind
+    name: Kayan Mahakam
   - translation_iso: jpn
     name: カヤン・マハカム語
+    auto: true
+  - translation_iso: kor
+    name: 카얀 마하캄어
     auto: true
   - translation_iso: por
     name: Kayan Mahakam

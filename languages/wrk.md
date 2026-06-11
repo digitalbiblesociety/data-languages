@@ -36,6 +36,8 @@ translations:
     name: 가라와어
   - translation_iso: por
     name: Língua garawa
+  - translation_iso: rus
+    name: Каравские языки
   - translation_iso: spa
     name: Garrwa
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語
     auto: true
+  - translation_iso: kor
+    name: 상파울루 카인강어
+    auto: true
   - translation_iso: por
     name: kaingáng de São Paulo
     auto: true

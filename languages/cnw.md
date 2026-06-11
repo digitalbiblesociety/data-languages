@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ンガウン・チン語
     auto: true
+  - translation_iso: kor
+    name: 응온 친어
+    auto: true
   - translation_iso: por
     name: Chin Ngawn
     auto: true

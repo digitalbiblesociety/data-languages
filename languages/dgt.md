@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ンドラングイット語
     auto: true
+  - translation_iso: kor
+    name: 은드랑기트어
+    auto: true
   - translation_iso: por
     name: "Ndra'ngith"
     auto: true

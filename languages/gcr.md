@@ -34,6 +34,8 @@ translations:
     name: 기아나 크리올
   - translation_iso: por
     name: Crioulo da Guiana Francesa
+  - translation_iso: rus
+    name: Гвианский креольский язык
   - translation_iso: spa
     name: Criollo de Guayana Francesa
   - translation_iso: zho

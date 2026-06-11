@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Efik_language"
 translations:
   - translation_iso: ara
     name: الإفيك
+  - translation_iso: ben
+    name: এফিক
   - translation_iso: deu
     name: Efik
   - translation_iso: fra
     name: efik
   - translation_iso: hin
     name: एफिक
+  - translation_iso: ind
+    name: Efik
   - translation_iso: jpn
     name: エフィク語
   - translation_iso: kor
     name: 에피크어
   - translation_iso: por
     name: Língua efik
+  - translation_iso: rus
+    name: эфик
   - translation_iso: spa
     name: Idioma efik
   - translation_iso: zho

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sinhala_language"
 translations:
   - translation_iso: ara
     name: السنهالية
+  - translation_iso: ben
+    name: সিংহলি
   - translation_iso: deu
     name: Singhalesisch
   - translation_iso: fra
     name: singhalais
   - translation_iso: hin
     name: सिंहली भाषा
+  - translation_iso: ind
+    name: Sinhala
   - translation_iso: jpn
     name: シンハラ語
   - translation_iso: kor
     name: 싱할라어
   - translation_iso: por
     name: cingalês
+  - translation_iso: rus
+    name: сингальский
   - translation_iso: spa
     name: cingalés
   - translation_iso: zho

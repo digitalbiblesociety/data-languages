@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانا
     auto: true
+  - translation_iso: ben
+    name: বানা
   - translation_iso: deu
     name: Bana
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バナ語
+    auto: true
+  - translation_iso: kor
+    name: 바나어
     auto: true
   - translation_iso: por
     name: Língua bana

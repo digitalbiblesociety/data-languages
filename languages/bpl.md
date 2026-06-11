@@ -30,12 +30,19 @@ translations:
   - translation_iso: hin
     name: ब्रूम पर्लिंग लगर पिजिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa pijin kapal pengangkut mutiara Broome
   - translation_iso: jpn
     name: ブルーム・パーリング・ラガー・ピジン語
+    auto: true
+  - translation_iso: kor
+    name: 브룸 펄링 러거 피진
     auto: true
   - translation_iso: por
     name: Broome Pearling Lugger Pidgin
     auto: true
+  - translation_iso: rus
+    name: английский пиджин Брума
   - translation_iso: spa
     name: Pidgin Broome Pearling Lugger
   - translation_iso: zho

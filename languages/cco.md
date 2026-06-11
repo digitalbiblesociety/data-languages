@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コマルテペック・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 코말테펙 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Comaltepec
     auto: true

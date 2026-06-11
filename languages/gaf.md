@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゲンデ語
     auto: true
+  - translation_iso: kor
+    name: 겐데어
+    auto: true
   - translation_iso: por
     name: Gende
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コアトラン・ミヘ語
     auto: true
+  - translation_iso: kor
+    name: 코아틀란 미헤어
+    auto: true
   - translation_iso: por
     name: Mixe de Coatlán
     auto: true

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aimaq_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة الإيماقية
+  - translation_iso: ben
+    name: আইমাক
   - translation_iso: deu
     name: Aimaq
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: ऐमाक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Persia Aimak
   - translation_iso: jpn
     name: アイマク語
+  - translation_iso: kor
+    name: 아이마크어
+    auto: true
   - translation_iso: por
     name: Aimaq
     auto: true
+  - translation_iso: rus
+    name: аймакский язык
   - translation_iso: spa
     name: aimak
   - translation_iso: zho

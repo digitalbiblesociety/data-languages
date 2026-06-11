@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ペニョレス・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 페뇰레스 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Peñoles
     auto: true

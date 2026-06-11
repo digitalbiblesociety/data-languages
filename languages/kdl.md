@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ツィキンバ語
     auto: true
+  - translation_iso: kor
+    name: 치킴바어
+    auto: true
   - translation_iso: por
     name: Tsikimba
     auto: true
+  - translation_iso: rus
+    name: Кимба
   - translation_iso: spa
     name: Tsikimba
     auto: true

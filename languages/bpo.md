@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أناسي
     auto: true
+  - translation_iso: ben
+    name: আনাসি
   - translation_iso: deu
     name: Anasi
     auto: true
@@ -23,8 +25,13 @@ translations:
   - translation_iso: hin
     name: अनासी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Anasi
   - translation_iso: jpn
     name: アナシ語
+    auto: true
+  - translation_iso: kor
+    name: 아나시어
     auto: true
   - translation_iso: por
     name: Anasi

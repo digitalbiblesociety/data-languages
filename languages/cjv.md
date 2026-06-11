@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュアヴェ語
+  - translation_iso: kor
+    name: 추아베어
+    auto: true
   - translation_iso: por
     name: Chuave
     auto: true

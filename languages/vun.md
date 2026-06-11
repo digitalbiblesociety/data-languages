@@ -20,18 +20,24 @@ wikidata_id: Q12953261
 translations:
   - translation_iso: ara
     name: الفونجو
+  - translation_iso: ben
+    name: ভুঞ্জো
   - translation_iso: deu
     name: Vunjo
   - translation_iso: fra
     name: vunjo
   - translation_iso: hin
     name: वुंजो
+  - translation_iso: ind
+    name: Vunjo
   - translation_iso: jpn
     name: ヴンジョ語
   - translation_iso: kor
     name: 분조어
   - translation_iso: por
     name: Língua kivunjo
+  - translation_iso: rus
+    name: вунджо
   - translation_iso: spa
     name: vunjo
   - translation_iso: zho

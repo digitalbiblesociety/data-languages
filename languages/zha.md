@@ -16,18 +16,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zhuang_languages"
 translations:
   - translation_iso: ara
     name: التشوانغية
+  - translation_iso: ben
+    name: ঝুয়াং
   - translation_iso: deu
     name: Zhuang
   - translation_iso: fra
     name: zhuang
   - translation_iso: hin
     name: ज़ुआंग
+  - translation_iso: ind
+    name: Zhuang
   - translation_iso: jpn
     name: チワン語
   - translation_iso: kor
     name: 좡어
   - translation_iso: por
     name: Língua zhuang
+  - translation_iso: rus
+    name: чжуань
   - translation_iso: spa
     name: chuang
   - translation_iso: zho

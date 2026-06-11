@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チェピア語
     auto: true
+  - translation_iso: kor
+    name: 체피아어
+    auto: true
   - translation_iso: por
     name: chepya
     auto: true

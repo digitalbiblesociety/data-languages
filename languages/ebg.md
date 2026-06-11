@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エブグ語
     auto: true
+  - translation_iso: kor
+    name: 에부구어
+    auto: true
   - translation_iso: por
     name: Ebughu
     auto: true

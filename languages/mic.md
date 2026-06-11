@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mi%27kmaq_language"
 translations:
   - translation_iso: ara
     name: الميكماكيونية
+  - translation_iso: ben
+    name: মিকম্যাক
   - translation_iso: deu
     name: Micmac-Sprache
   - translation_iso: fra
     name: micmac
   - translation_iso: hin
     name: मिकमैक
+  - translation_iso: ind
+    name: Mikmak
   - translation_iso: jpn
     name: ミクマク語
   - translation_iso: kor
     name: 미크맥어
   - translation_iso: por
     name: miquemaque
+  - translation_iso: rus
+    name: микмак
   - translation_iso: spa
     name: micmac
   - translation_iso: zho

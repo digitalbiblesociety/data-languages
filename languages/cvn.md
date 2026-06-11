@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: バジェ・ナシオナル・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 바예나시오날 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Valle Nacional
     auto: true

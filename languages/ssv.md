@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シャークベイ語
     auto: true
+  - translation_iso: kor
+    name: 샤크 베이어
+    auto: true
   - translation_iso: por
     name: Shark Bay
     auto: true

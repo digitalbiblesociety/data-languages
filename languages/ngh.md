@@ -33,6 +33,8 @@ translations:
     name: 능어
   - translation_iso: por
     name: Língua nǀu
+  - translation_iso: rus
+    name: нǀнг
   - translation_iso: spa
     name: Idioma nǀu
   - translation_iso: zho

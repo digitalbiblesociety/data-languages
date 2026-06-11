@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: तानाक्रॉस
     auto: true
+  - translation_iso: ind
+    name: bahasa Tanacross
   - translation_iso: jpn
     name: タナクロス語
     auto: true
+  - translation_iso: kor
+    name: 태너크로스어
+    auto: true
   - translation_iso: por
     name: Língua tanacross
+  - translation_iso: rus
+    name: Танакросс
   - translation_iso: spa
     name: tanacross
   - translation_iso: zho

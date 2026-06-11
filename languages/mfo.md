@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムベ語
     auto: true
+  - translation_iso: kor
+    name: 음베어
+    auto: true
   - translation_iso: por
     name: Mbe
     auto: true

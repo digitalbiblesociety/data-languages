@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: प्राचीन अरामी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aram Kuno
   - translation_iso: jpn
     name: 古代アラム語
+  - translation_iso: kor
+    name: 고대 아람어
+    auto: true
   - translation_iso: por
     name: aramaico antigo (até 700 a.C.)
     auto: true
+  - translation_iso: rus
+    name: древнеарамейский язык
   - translation_iso: spa
     name: arameo antiguo
   - translation_iso: zho

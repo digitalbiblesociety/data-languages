@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: パニ・バイ語
     auto: true
+  - translation_iso: kor
+    name: 파니 바이어
+    auto: true
   - translation_iso: por
     name: Bai panyi
     auto: true

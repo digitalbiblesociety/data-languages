@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة إديرا أويو
     auto: true
+  - translation_iso: ben
+    name: এদেরা আউইউ
   - translation_iso: deu
     name: Edera-Awyu
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: एदेरा अव्यू
     auto: true
+  - translation_iso: ind
+    name: Awyu Edera
   - translation_iso: jpn
     name: エデラ・アウユ語
+    auto: true
+  - translation_iso: kor
+    name: 에데라 아우유어
     auto: true
   - translation_iso: por
     name: Awyu de Edera

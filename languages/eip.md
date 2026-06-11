@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإيبوميك
     auto: true
+  - translation_iso: ben
+    name: এইপো
   - translation_iso: deu
     name: Eipomek
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: एइपोमेक
     auto: true
+  - translation_iso: ind
+    name: T-Valley
   - translation_iso: jpn
     name: エイポメク語
+    auto: true
+  - translation_iso: kor
+    name: 에이포멕어
     auto: true
   - translation_iso: por
     name: Eipomek

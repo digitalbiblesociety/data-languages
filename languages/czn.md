@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: セントソンテペク・チャティーノ語
     auto: true
+  - translation_iso: kor
+    name: 센손테펙 차티노어
+    auto: true
   - translation_iso: por
     name: Chatino de Zenzontepec
     auto: true
+  - translation_iso: rus
+    name: Сенсонтепекский чатино
   - translation_iso: spa
     name: Chatino de Zenzontepec
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: मुरुई हुइतोतो
     auto: true
+  - translation_iso: ind
+    name: Bahasa Murui Huitoto
   - translation_iso: jpn
     name: ムルイ・ウイトト語
     auto: true
@@ -36,6 +38,8 @@ translations:
     name: 무루이 위토토어
   - translation_iso: por
     name: Língua murui huitoto
+  - translation_iso: rus
+    name: Муруйский уитотский язык
   - translation_iso: spa
     name: murui
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギダル語
+  - translation_iso: kor
+    name: 기다르어
+    auto: true
   - translation_iso: por
     name: Gidar
     auto: true

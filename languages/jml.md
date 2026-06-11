@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة جومل
     auto: true
+  - translation_iso: ben
+    name: জুমলি খাস
   - translation_iso: deu
     name: Jumli
     auto: true
@@ -33,6 +35,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジュムリー語
+  - translation_iso: kor
+    name: 줌리어
+    auto: true
   - translation_iso: por
     name: Jumli
     auto: true

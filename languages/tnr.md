@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: مينيك
     auto: true
+  - translation_iso: ben
+    name: বেদিক
   - translation_iso: deu
     name: Bedik
   - translation_iso: fra

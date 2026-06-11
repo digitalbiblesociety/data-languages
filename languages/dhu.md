@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドゥルガ語
     auto: true
+  - translation_iso: kor
+    name: 두르가어
+    auto: true
   - translation_iso: por
     name: Língua dhurga
   - translation_iso: spa

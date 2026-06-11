@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتورادا
     auto: true
+  - translation_iso: ben
+    name: আতোরাদা
   - translation_iso: deu
     name: Atorada
     auto: true
@@ -32,8 +34,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトラダ語
+  - translation_iso: kor
+    name: 아토라다어
+    auto: true
   - translation_iso: por
     name: Língua atorai
+  - translation_iso: rus
+    name: Аторада
   - translation_iso: spa
     name: Atorada
     auto: true

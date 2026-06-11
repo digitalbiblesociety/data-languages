@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: パノ語
     auto: true
+  - translation_iso: kor
+    name: 파노어
+    auto: true
   - translation_iso: por
     name: Pano
     auto: true

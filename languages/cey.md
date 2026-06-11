@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: إيكاي تشين
     auto: true
+  - translation_iso: ben
+    name: ইকাই
   - translation_iso: deu
     name: Ekai-Chin
     auto: true
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エカイ・チン語
+    auto: true
+  - translation_iso: kor
+    name: 에카이 친어
     auto: true
   - translation_iso: por
     name: Chin Ekai

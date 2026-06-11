@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イェラカイ語
     auto: true
+  - translation_iso: kor
+    name: 예라카이어
+    auto: true
   - translation_iso: por
     name: yerakai
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: कफोआ
     auto: true
+  - translation_iso: ind
+    name: Kafoa
   - translation_iso: jpn
     name: カフォア語
+    auto: true
+  - translation_iso: kor
+    name: 카포아어
     auto: true
   - translation_iso: por
     name: Kafoa

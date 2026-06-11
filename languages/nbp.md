@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンナム語
     auto: true
+  - translation_iso: kor
+    name: 은남어
+    auto: true
   - translation_iso: por
     name: Nnam
     auto: true

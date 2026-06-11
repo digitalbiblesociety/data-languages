@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西マセラ語
+  - translation_iso: kor
+    name: 서부 마셀라어
+    auto: true
   - translation_iso: por
     name: masela ocidental
     auto: true

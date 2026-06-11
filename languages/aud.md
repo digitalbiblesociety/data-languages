@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنوتا
     auto: true
+  - translation_iso: ben
+    name: আনুতা
   - translation_iso: deu
     name: Anutisch
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌータ語
+  - translation_iso: kor
+    name: 아누타어
+    auto: true
   - translation_iso: por
     name: Língua anuta
+  - translation_iso: rus
+    name: Анута
   - translation_iso: spa
     name: Anuta
     auto: true

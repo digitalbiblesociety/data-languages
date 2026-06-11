@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सालास
     auto: true
+  - translation_iso: ind
+    name: Salas
   - translation_iso: jpn
     name: レンカイタヘ語
+    auto: true
+  - translation_iso: kor
+    name: 살라스어
     auto: true
   - translation_iso: por
     name: Salas

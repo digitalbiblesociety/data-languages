@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ジェルング語
     auto: true
+  - translation_iso: kor
+    name: 제룽어
+    auto: true
   - translation_iso: por
     name: Jerung
     auto: true
+  - translation_iso: rus
+    name: Джерунг
   - translation_iso: spa
     name: Jerung
     auto: true

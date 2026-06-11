@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Halkomelem"
 translations:
   - translation_iso: ara
     name: الهالكوميليم
+  - translation_iso: ben
+    name: হাল্কোমেলেম
   - translation_iso: deu
     name: Halkomelem
   - translation_iso: fra
     name: halkomelem
   - translation_iso: hin
     name: हल्कोमेलम
+  - translation_iso: ind
+    name: Halkomelem
   - translation_iso: jpn
     name: ハルコメレム語
   - translation_iso: kor
     name: 할코멜렘어
   - translation_iso: por
     name: Língua halkomelem
+  - translation_iso: rus
+    name: халкомелем
   - translation_iso: spa
     name: halkomelem
   - translation_iso: zho

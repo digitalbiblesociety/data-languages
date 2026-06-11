@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باجلاني
     auto: true
+  - translation_iso: ben
+    name: বাজেলানি
   - translation_iso: deu
     name: Bajelani
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バジェラニ語
+    auto: true
+  - translation_iso: kor
+    name: 바젤라니어
     auto: true
   - translation_iso: por
     name: Bajelani

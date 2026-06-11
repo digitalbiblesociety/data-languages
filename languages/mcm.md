@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: मलक्का क्रियोल पुर्तगाली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kristang
   - translation_iso: jpn
     name: マラッカ・クレオール・ポルトガル語
+  - translation_iso: kor
+    name: 말라카 크리올 포르투갈어
+    auto: true
   - translation_iso: por
     name: Língua cristã
+  - translation_iso: rus
+    name: Малайско-португальский креольский язык
   - translation_iso: spa
     name: Criollo portugués de Malaca
     auto: true

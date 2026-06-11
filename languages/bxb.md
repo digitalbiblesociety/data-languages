@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلاندا بور
     auto: true
+  - translation_iso: ben
+    name: বেলান্দা বোর
   - translation_iso: deu
     name: Belanda Bor
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベランダ・ボル語
+  - translation_iso: kor
+    name: 벨란다 보르어
+    auto: true
   - translation_iso: por
     name: Belanda Bor
     auto: true

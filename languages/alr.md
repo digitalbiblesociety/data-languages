@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألوتور
     auto: true
+  - translation_iso: ben
+    name: আলয়ুতর
   - translation_iso: deu
     name: Aliutorisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अलुटोर
     auto: true
+  - translation_iso: ind
+    name: bahasa Alutor
   - translation_iso: jpn
     name: アリュートル語
   - translation_iso: kor
     name: 알루토르어
   - translation_iso: por
     name: alutor
+  - translation_iso: rus
+    name: алюторский язык
   - translation_iso: spa
     name: alutor
   - translation_iso: zho

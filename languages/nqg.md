@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: ناغو الجنوبية
     auto: true
+  - translation_iso: ben
+    name: এদে নাগো
   - translation_iso: deu
     name: Südliches Nago
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ナゴ語
+    auto: true
+  - translation_iso: kor
+    name: 남부 나고어
     auto: true
   - translation_iso: por
     name: Nago Setentrional

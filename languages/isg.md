@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأيرلندية
     auto: true
+  - translation_iso: ben
+    name: আইরিশ ইশারা ভাষা
   - translation_iso: deu
     name: Irische Gebärdensprache
   - translation_iso: fra
@@ -28,9 +30,14 @@ translations:
     name: आयरिश साइन लैंग्वेज
   - translation_iso: jpn
     name: アイルランド手話
+  - translation_iso: kor
+    name: 아일랜드 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Irlandesa
     auto: true
+  - translation_iso: rus
+    name: ирландский жестовый язык
   - translation_iso: spa
     name: lengua de señas irlandesa
   - translation_iso: zho

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بايكينو
     auto: true
+  - translation_iso: ben
+    name: বাইকেনো
   - translation_iso: deu
     name: Baikeno
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイケノ語
+    auto: true
+  - translation_iso: kor
+    name: 바이케노어
     auto: true
   - translation_iso: por
     name: Baikeno

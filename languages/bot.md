@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: ボンゴ語
     auto: true
+  - translation_iso: kor
+    name: 봉고어
+    auto: true
   - translation_iso: por
     name: Bongo
     auto: true
+  - translation_iso: rus
+    name: Бонго (язык)
   - translation_iso: spa
     name: Bongo
     auto: true

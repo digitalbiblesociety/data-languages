@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イェログ語
     auto: true
+  - translation_iso: kor
+    name: 옐로구어
+    auto: true
   - translation_iso: por
     name: yelogu
     auto: true

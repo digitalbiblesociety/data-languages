@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: コナイ語
     auto: true
+  - translation_iso: kor
+    name: 코나이어
+    auto: true
   - translation_iso: por
     name: Konai
     auto: true
+  - translation_iso: rus
+    name: Конаи
   - translation_iso: spa
     name: Konai
     auto: true

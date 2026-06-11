@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venetian_language"
 translations:
   - translation_iso: ara
     name: الفينيسية
+  - translation_iso: ben
+    name: ভেনেশিয়ান
   - translation_iso: deu
     name: Venetisch
   - translation_iso: fra
     name: vénitien
   - translation_iso: hin
     name: वेनीशियन
+  - translation_iso: ind
+    name: Venesia
   - translation_iso: jpn
     name: ヴェネト語
   - translation_iso: kor
     name: 베네토어
   - translation_iso: por
     name: Língua vêneta
+  - translation_iso: rus
+    name: венецианский
   - translation_iso: spa
     name: véneto
   - translation_iso: zho

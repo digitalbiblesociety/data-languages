@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ミナニバイ語
     auto: true
+  - translation_iso: kor
+    name: 미나니바이어
+    auto: true
   - translation_iso: por
     name: Minanibai
     auto: true

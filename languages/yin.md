@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リアング・ライ語
     auto: true
+  - translation_iso: kor
+    name: 리앙라이어
+    auto: true
   - translation_iso: por
     name: riang lai
     auto: true

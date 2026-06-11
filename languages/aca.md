@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشاغوّا
     auto: true
+  - translation_iso: ben
+    name: আচাওয়া
   - translation_iso: deu
     name: Achagua
     auto: true
@@ -31,8 +33,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチャワ語
+  - translation_iso: kor
+    name: 아차과어
+    auto: true
   - translation_iso: por
     name: Língua achagua
+  - translation_iso: rus
+    name: Ачагуа
   - translation_iso: spa
     name: achagua
   - translation_iso: zho

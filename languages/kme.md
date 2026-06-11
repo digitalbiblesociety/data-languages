@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة باكولي
     auto: true
+  - translation_iso: ben
+    name: বাকোলে
   - translation_iso: deu
     name: Bakole
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バコレ語
+    auto: true
+  - translation_iso: kor
+    name: 바콜레어
     auto: true
   - translation_iso: por
     name: Bakole

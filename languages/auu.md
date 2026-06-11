@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويي
     auto: true
+  - translation_iso: ben
+    name: আউয়ে
   - translation_iso: deu
     name: Auye
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: औये
     auto: true
+  - translation_iso: ind
+    name: Bahasa Auye
   - translation_iso: jpn
     name: アウエ語
+    auto: true
+  - translation_iso: kor
+    name: 아우예어
     auto: true
   - translation_iso: por
     name: Auye

@@ -29,10 +29,17 @@ translations:
   - translation_iso: hin
     name: उत्तरी मेसोपोटामियाई अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Mesopotamia Utara
   - translation_iso: jpn
     name: 北メソポタミア・アラビア語
+  - translation_iso: kor
+    name: 북메소포타미아 아랍어
+    auto: true
   - translation_iso: por
     name: Árabe moslawi
+  - translation_iso: rus
+    name: мосульский диалект арабского языка
   - translation_iso: spa
     name: Árabe mesopotámico septentrional
   - translation_iso: zho

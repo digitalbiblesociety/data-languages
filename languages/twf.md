@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タオス語
+  - translation_iso: kor
+    name: 북부 티와어
+    auto: true
   - translation_iso: por
     name: Língua taos
+  - translation_iso: rus
+    name: Таос
   - translation_iso: spa
     name: dialecto taos
   - translation_iso: zho

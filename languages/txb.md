@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: तोखारी ब
     auto: true
+  - translation_iso: ind
+    name: bahasa Kucha
   - translation_iso: jpn
     name: クチャ語
+  - translation_iso: kor
+    name: 서토하라어
+    auto: true
   - translation_iso: por
     name: Tocário B
     auto: true
+  - translation_iso: rus
+    name: тохарский Б
   - translation_iso: spa
     name: Tocario B
     auto: true

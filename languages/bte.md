@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガモ・ニンギ語
+  - translation_iso: kor
+    name: 가모닝기어
+    auto: true
   - translation_iso: por
     name: Gamo-Ningi
     auto: true

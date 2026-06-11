@@ -34,6 +34,8 @@ translations:
     name: 시파카파어
   - translation_iso: por
     name: Língua sipacapense
+  - translation_iso: rus
+    name: Сипакапенский язык
   - translation_iso: spa
     name: Idioma sipacapense
   - translation_iso: zho

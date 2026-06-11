@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kurdish"
 translations:
   - translation_iso: ara
     name: السورانية
+  - translation_iso: ben
+    name: মধ্য কুর্দিশ
   - translation_iso: deu
     name: Sorani
   - translation_iso: fra
     name: sorani
   - translation_iso: hin
     name: सेंट्रल कुर्दिश
+  - translation_iso: ind
+    name: Kurdi Sorani
   - translation_iso: jpn
     name: ソラニー
   - translation_iso: kor
     name: 중부 쿠르드어
   - translation_iso: por
     name: Língua sorâni
+  - translation_iso: rus
+    name: центральнокурдский
   - translation_iso: spa
     name: sorani
   - translation_iso: zho

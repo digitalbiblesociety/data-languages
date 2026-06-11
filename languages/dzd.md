@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ダザ語
     auto: true
+  - translation_iso: kor
+    name: 다자어
+    auto: true
   - translation_iso: por
     name: Daza
     auto: true
+  - translation_iso: rus
+    name: Даза
   - translation_iso: spa
     name: Daza
     auto: true

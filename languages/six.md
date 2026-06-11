@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガリア語
+  - translation_iso: kor
+    name: 수마우어
+    auto: true
   - translation_iso: por
     name: Sumau
     auto: true

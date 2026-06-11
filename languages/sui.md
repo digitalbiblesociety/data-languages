@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: スキ語
     auto: true
+  - translation_iso: kor
+    name: 수키어
+    auto: true
   - translation_iso: por
     name: Suki
     auto: true
+  - translation_iso: rus
+    name: Суки
   - translation_iso: spa
     name: Suki
     auto: true

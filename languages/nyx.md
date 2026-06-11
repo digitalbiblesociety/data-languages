@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネワン語
+  - translation_iso: kor
+    name: 응아냐이와나어
+    auto: true
   - translation_iso: por
     name: Nganyaywana
     auto: true

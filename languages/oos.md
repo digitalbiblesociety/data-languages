@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: 古オセチア語
     auto: true
+  - translation_iso: kor
+    name: 고대 오세트어
+    auto: true
   - translation_iso: por
     name: osseta antigo
     auto: true
+  - translation_iso: rus
+    name: древнеосетинский язык
   - translation_iso: spa
     name: Osético antiguo
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブルニー島タスマニア語
     auto: true
+  - translation_iso: kor
+    name: 브루니섬 태즈메이니아어
+    auto: true
   - translation_iso: por
     name: Tasmaniano de Bruny Island
     auto: true

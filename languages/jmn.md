@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マクリ・ナガ語
     auto: true
+  - translation_iso: kor
+    name: 마쿠리 나가어
+    auto: true
   - translation_iso: por
     name: Naga Makuri
     auto: true

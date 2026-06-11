@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トアリピ語
+  - translation_iso: kor
+    name: 토아리피어
+    auto: true
   - translation_iso: por
     name: Toaripi
     auto: true
+  - translation_iso: rus
+    name: тоарипийский язык
   - translation_iso: spa
     name: Toaripi
     auto: true

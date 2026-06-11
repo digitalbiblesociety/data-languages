@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コロ語
+  - translation_iso: kor
+    name: 코로어
+    auto: true
   - translation_iso: por
     name: Koro (Papua-Nova Guiné)
     auto: true

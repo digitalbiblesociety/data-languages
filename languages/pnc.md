@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: パンネイ語
     auto: true
+  - translation_iso: kor
+    name: 판네이어
+    auto: true
   - translation_iso: por
     name: Pannei
     auto: true
+  - translation_iso: rus
+    name: Паннеи
   - translation_iso: spa
     name: Pannei
     auto: true

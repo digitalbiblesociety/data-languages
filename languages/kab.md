@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kabyle_language"
 translations:
   - translation_iso: ara
     name: القبائلية
+  - translation_iso: ben
+    name: কাবাইলে
   - translation_iso: deu
     name: Kabylisch
   - translation_iso: fra
     name: kabyle
   - translation_iso: hin
     name: कबाइल
+  - translation_iso: ind
+    name: Kabyle
   - translation_iso: jpn
     name: カビール語
   - translation_iso: kor
     name: 카빌리어
   - translation_iso: por
     name: cabila
+  - translation_iso: rus
+    name: кабильский
   - translation_iso: spa
     name: cabilio
   - translation_iso: zho

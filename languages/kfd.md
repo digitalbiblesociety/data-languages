@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: コッラ・コラガ語
     auto: true
+  - translation_iso: kor
+    name: 코라 코라가어
+    auto: true
   - translation_iso: por
     name: Koraga Korra
     auto: true

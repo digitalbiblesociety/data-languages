@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أندرا-هوس
     auto: true
+  - translation_iso: ben
+    name: আন্দ্রা-হুস
   - translation_iso: deu
     name: Andra-Hus
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンドラフス語
+    auto: true
+  - translation_iso: kor
+    name: 안드라·후스어
     auto: true
   - translation_iso: por
     name: Andra-Hus

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゴーン・ダウ語
     auto: true
+  - translation_iso: kor
+    name: 고네 다우어
+    auto: true
   - translation_iso: por
     name: Gone Dau
     auto: true

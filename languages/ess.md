@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: मध्य साइबेरियाई युपिक
     auto: true
+  - translation_iso: ind
+    name: Yupik Siberia Tengah
   - translation_iso: jpn
     name: シベリア・ユピック語
   - translation_iso: kor
     name: 시베리아 유픽어
   - translation_iso: por
     name: Língua yupik siberiano central
+  - translation_iso: rus
+    name: юитские языки
   - translation_iso: spa
     name: yupik siberiano
   - translation_iso: zho

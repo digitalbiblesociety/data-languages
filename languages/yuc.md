@@ -32,6 +32,8 @@ translations:
     name: 유치어
   - translation_iso: por
     name: Língua yuchi
+  - translation_iso: rus
+    name: Ючи
   - translation_iso: spa
     name: yuchi
   - translation_iso: zho

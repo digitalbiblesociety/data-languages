@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウーディング-ルクアン・イー語
     auto: true
+  - translation_iso: kor
+    name: 우딩·루취안 이어
+    auto: true
   - translation_iso: por
     name: yi de Wuding-Luquan
     auto: true

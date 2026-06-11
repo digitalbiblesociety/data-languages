@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンネル語
+  - translation_iso: kor
+    name: 레넬벨로나어
+    auto: true
   - translation_iso: por
     name: Língua rennellesa
   - translation_iso: spa

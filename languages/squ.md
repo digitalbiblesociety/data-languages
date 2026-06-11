@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スクォミッシ語
+  - translation_iso: kor
+    name: 스쿼미시어
+    auto: true
   - translation_iso: por
     name: Língua squamish
+  - translation_iso: rus
+    name: Сквамиш (язык)
   - translation_iso: spa
     name: Squamish
     auto: true

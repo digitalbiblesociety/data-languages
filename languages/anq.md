@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة جاراوا
     auto: true
+  - translation_iso: ben
+    name: জারোয়া ভাষা
   - translation_iso: deu
     name: Jarawa (Indien)
     auto: true
@@ -34,6 +36,8 @@ translations:
     name: 자라와어
   - translation_iso: por
     name: Língua jarawa
+  - translation_iso: rus
+    name: джарава
   - translation_iso: spa
     name: Idioma järawa
   - translation_iso: zho

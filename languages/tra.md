@@ -30,9 +30,14 @@ translations:
     name: तीराही भाषा
   - translation_iso: jpn
     name: ティラーヒー語
+  - translation_iso: kor
+    name: 티라히어
+    auto: true
   - translation_iso: por
     name: Tirahi
     auto: true
+  - translation_iso: rus
+    name: Тирахи
   - translation_iso: spa
     name: Tirahi
     auto: true

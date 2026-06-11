@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンガラカニ語
     auto: true
+  - translation_iso: kor
+    name: 쿵가라카니어
+    auto: true
   - translation_iso: por
     name: Kungarakany
     auto: true

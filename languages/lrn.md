@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: लोरंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lorang
   - translation_iso: jpn
     name: ロラン語
+    auto: true
+  - translation_iso: kor
+    name: 로랑어
     auto: true
   - translation_iso: por
     name: Lorang

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ロギール語
     auto: true
+  - translation_iso: kor
+    name: 로기르어
+    auto: true
   - translation_iso: por
     name: Logir
     auto: true

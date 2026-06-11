@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Quebec
     auto: true
+  - translation_iso: ben
+    name: কুইবেক ইশারা ভাষা
   - translation_iso: deu
     name: Frankokanadische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: क्यूबेक साइन लैंग्वेज
   - translation_iso: jpn
     name: ケベック手話
+  - translation_iso: kor
+    name: 퀘벡 수어
+    auto: true
   - translation_iso: por
     name: língua de sinais quebequiana
+  - translation_iso: rus
+    name: квебекский жестовый язык
   - translation_iso: spa
     name: lengua de señas quebequesa
   - translation_iso: zho

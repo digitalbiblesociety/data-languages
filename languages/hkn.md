@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メル・カオン語
     auto: true
+  - translation_iso: kor
+    name: 멜카온어
+    auto: true
   - translation_iso: por
     name: Mel-Khaonh
     auto: true

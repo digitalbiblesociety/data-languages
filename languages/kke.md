@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カカベ語
     auto: true
+  - translation_iso: kor
+    name: 카카베어
+    auto: true
   - translation_iso: por
     name: Kakabe
     auto: true

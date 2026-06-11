@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: センゴ語
     auto: true
+  - translation_iso: kor
+    name: 셍고어
+    auto: true
   - translation_iso: por
     name: Sengo
     auto: true

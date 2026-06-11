@@ -34,6 +34,8 @@ translations:
     name: 누비어
   - translation_iso: por
     name: Língua nubi
+  - translation_iso: rus
+    name: Нуби
   - translation_iso: spa
     name: nubi
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 南パスタサキチュア語
     auto: true
+  - translation_iso: kor
+    name: 남부 파스타사 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua de Pastaza Meridional
     auto: true

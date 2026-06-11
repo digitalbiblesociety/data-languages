@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クリナ・パノ語
     auto: true
+  - translation_iso: kor
+    name: 쿨리나 파노어
+    auto: true
   - translation_iso: por
     name: Kulina Pano
     auto: true
+  - translation_iso: rus
+    name: Кулино
   - translation_iso: spa
     name: Kulina Pano
     auto: true

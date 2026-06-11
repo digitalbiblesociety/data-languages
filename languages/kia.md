@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キム語
     auto: true
+  - translation_iso: kor
+    name: 킴어
+    auto: true
   - translation_iso: por
     name: Língua kim
   - translation_iso: spa

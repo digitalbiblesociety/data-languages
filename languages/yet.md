@@ -25,8 +25,13 @@ translations:
   - translation_iso: hin
     name: येतफा
     auto: true
+  - translation_iso: ind
+    name: Biaksi
   - translation_iso: jpn
     name: イェトファ語
+    auto: true
+  - translation_iso: kor
+    name: 예트파어
     auto: true
   - translation_iso: por
     name: yetfa

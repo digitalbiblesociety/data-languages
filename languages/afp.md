@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タペイ語
     auto: true
+  - translation_iso: kor
+    name: 타페이어
+    auto: true
   - translation_iso: por
     name: Tapei
     auto: true

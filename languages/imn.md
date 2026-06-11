@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イモンダ語
     auto: true
+  - translation_iso: kor
+    name: 이몬다어
+    auto: true
   - translation_iso: por
     name: Imonda
     auto: true

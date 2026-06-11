@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: パルシダリ語
     auto: true
+  - translation_iso: kor
+    name: 파르시다리어
+    auto: true
   - translation_iso: por
     name: Parsi-Dari
     auto: true

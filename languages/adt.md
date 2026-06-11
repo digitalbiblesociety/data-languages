@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أدنيماثانها
     auto: true
+  - translation_iso: ben
+    name: আদনিয়ামাথানহা
   - translation_iso: deu
     name: Adnyamathanha
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アドニャマタンハ語
     auto: true
+  - translation_iso: kor
+    name: 아드냐마타나어
+    auto: true
   - translation_iso: por
     name: Adnyamathanha
     auto: true
+  - translation_iso: rus
+    name: Адняматана (язык)
   - translation_iso: spa
     name: idioma adnyamathanha
   - translation_iso: zho

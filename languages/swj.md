@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シラ語
+  - translation_iso: kor
+    name: 시라어
+    auto: true
   - translation_iso: por
     name: Sira
     auto: true

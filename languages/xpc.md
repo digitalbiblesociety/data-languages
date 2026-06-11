@@ -19,6 +19,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pecheneg_language"
 translations:
   - translation_iso: ara
     name: البجنقية
+  - translation_iso: ben
+    name: পেচেনেগ ভাষা
   - translation_iso: deu
     name: Petschenegisch
     auto: true
@@ -27,6 +29,8 @@ translations:
   - translation_iso: hin
     name: पेचनेग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Pecheneg
   - translation_iso: jpn
     name: ペチェネグ語
   - translation_iso: kor
@@ -34,6 +38,8 @@ translations:
   - translation_iso: por
     name: Pecheneg
     auto: true
+  - translation_iso: rus
+    name: печенежский язык
   - translation_iso: spa
     name: pechenego
   - translation_iso: zho

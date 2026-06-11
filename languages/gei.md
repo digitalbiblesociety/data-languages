@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: गेबे
     auto: true
+  - translation_iso: ind
+    name: Gebe
   - translation_iso: jpn
     name: ゲベ語
+    auto: true
+  - translation_iso: kor
+    name: 게베어
     auto: true
   - translation_iso: por
     name: Gebe

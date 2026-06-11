@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بهيلالي
     auto: true
+  - translation_iso: ben
+    name: ভিলালি
   - translation_iso: deu
     name: Bhilali
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ビリアリ語
     auto: true
+  - translation_iso: kor
+    name: 빌랄리어
+    auto: true
   - translation_iso: por
     name: Bhilali
     auto: true
+  - translation_iso: rus
+    name: бхилали
   - translation_iso: spa
     name: Bhilali
     auto: true

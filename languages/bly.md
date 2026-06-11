@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ノートレ語
     auto: true
+  - translation_iso: kor
+    name: 노트레어
+    auto: true
   - translation_iso: por
     name: Notre
     auto: true

@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: カラジャ語
     auto: true
+  - translation_iso: kor
+    name: 카라자어
+    auto: true
   - translation_iso: por
     name: Língua carajá
+  - translation_iso: rus
+    name: Каража
   - translation_iso: spa
     name: idioma karayá
   - translation_iso: zho

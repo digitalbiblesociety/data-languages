@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルワル語
     auto: true
+  - translation_iso: kor
+    name: 르왈루어
+    auto: true
   - translation_iso: por
     name: Lwalu
     auto: true

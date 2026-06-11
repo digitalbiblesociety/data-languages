@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Erzya_language"
 translations:
   - translation_iso: ara
     name: الإرزية
+  - translation_iso: ben
+    name: এরজিয়া
   - translation_iso: deu
     name: Ersjanisch
   - translation_iso: fra
     name: erzya
   - translation_iso: hin
     name: एर्ज़या
+  - translation_iso: ind
+    name: Eryza
   - translation_iso: jpn
     name: エルジャ語
   - translation_iso: kor
     name: 에르자어
   - translation_iso: por
     name: Língua erzya
+  - translation_iso: rus
+    name: эрзянский
   - translation_iso: spa
     name: erzya
   - translation_iso: zho

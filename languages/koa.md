@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コノマラ語
+  - translation_iso: kor
+    name: 코노말라어
+    auto: true
   - translation_iso: por
     name: Konomala
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウドゥ語
     auto: true
+  - translation_iso: kor
+    name: 우두어
+    auto: true
   - translation_iso: por
     name: Wudu
     auto: true

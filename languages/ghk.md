@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ゲコ・カレン語
     auto: true
+  - translation_iso: kor
+    name: 게코 카렌어
+    auto: true
   - translation_iso: por
     name: karen geko
     auto: true

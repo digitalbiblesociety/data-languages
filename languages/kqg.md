@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ケ語
     auto: true
+  - translation_iso: kor
+    name: 케어
+    auto: true
   - translation_iso: por
     name: Khe
     auto: true

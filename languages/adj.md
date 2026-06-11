@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أديوكرو
     auto: true
+  - translation_iso: ben
+    name: অ্যাডজুক্রু
   - translation_iso: deu
     name: Adiukru
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジュクル語
+  - translation_iso: kor
+    name: 아디우크루어
+    auto: true
   - translation_iso: por
     name: Adioukrou
     auto: true
+  - translation_iso: rus
+    name: Аджукру
   - translation_iso: spa
     name: Adioukrou
     auto: true

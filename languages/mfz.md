@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マバアン語
     auto: true
+  - translation_iso: kor
+    name: 마반어
+    auto: true
   - translation_iso: por
     name: Mabaan
     auto: true

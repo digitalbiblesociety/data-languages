@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: माक (चीन)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mak
   - translation_iso: jpn
     name: マク語
+    auto: true
+  - translation_iso: kor
+    name: 마크어
     auto: true
   - translation_iso: por
     name: Mak (China)

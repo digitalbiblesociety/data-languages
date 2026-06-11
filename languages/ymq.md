@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: キラ・ムジ語
     auto: true
+  - translation_iso: kor
+    name: 치라 무지어
+    auto: true
   - translation_iso: por
     name: muji qila
     auto: true

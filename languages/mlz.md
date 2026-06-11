@@ -26,9 +26,14 @@ translations:
   - translation_iso: jpn
     name: マライノン語
     auto: true
+  - translation_iso: kor
+    name: 말라이논어
+    auto: true
   - translation_iso: por
     name: Malaynon
     auto: true
+  - translation_iso: rus
+    name: малайский акланонский
   - translation_iso: spa
     name: aclano de Malay
   - translation_iso: zho

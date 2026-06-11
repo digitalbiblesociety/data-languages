@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョユ語
+  - translation_iso: kor
+    name: 초유어
+    auto: true
   - translation_iso: por
     name: Queyu
     auto: true
+  - translation_iso: rus
+    name: чойо
   - translation_iso: spa
     name: Queyu
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴェムゴ・マバス語
     auto: true
+  - translation_iso: kor
+    name: 벰고마바스어
+    auto: true
   - translation_iso: por
     name: Vemgo-Mabas
     auto: true

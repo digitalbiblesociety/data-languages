@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandarin_Chinese"
 translations:
   - translation_iso: ara
     name: الصينية المندرينية
+  - translation_iso: ben
+    name: ম্যান্ডারিন চীনা ভাষা
   - translation_iso: deu
     name: Mandarin
   - translation_iso: fra
     name: mandarin
   - translation_iso: hin
     name: मन्दारिन भाषा
+  - translation_iso: ind
+    name: Mandarin
   - translation_iso: jpn
     name: 官話
   - translation_iso: kor
     name: 중국 관화
   - translation_iso: por
     name: mandarim
+  - translation_iso: rus
+    name: севернокитайский язык
   - translation_iso: spa
     name: chino mandarín
   - translation_iso: zho

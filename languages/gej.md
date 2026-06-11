@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゲン語
+  - translation_iso: kor
+    name: 겐어
+    auto: true
   - translation_iso: por
     name: Língua gen
+  - translation_iso: rus
+    name: Ген
   - translation_iso: spa
     name: Idioma gen
   - translation_iso: zho

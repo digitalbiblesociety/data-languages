@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 古リトアニア語
     auto: true
+  - translation_iso: kor
+    name: 고대 리투아니아어
+    auto: true
   - translation_iso: por
     name: lituano antigo
     auto: true

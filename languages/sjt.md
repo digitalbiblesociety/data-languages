@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة تير سامي
     auto: true
+  - translation_iso: ben
+    name: তের সামি
   - translation_iso: deu
     name: Tersamisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: तेर सामी
     auto: true
+  - translation_iso: ind
+    name: bahasa Sami Ter
   - translation_iso: jpn
     name: テル・サーミ語
   - translation_iso: kor
     name: 테르 사미어
   - translation_iso: por
     name: sami de Ter
+  - translation_iso: rus
+    name: йоканьгско-саамский язык
   - translation_iso: spa
     name: sami ter
   - translation_iso: zho

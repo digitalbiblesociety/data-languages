@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كورا
     auto: true
+  - translation_iso: ben
+    name: আকা-কোরা
   - translation_iso: deu
     name: Aka-Kora
     auto: true
@@ -29,6 +31,8 @@ translations:
   - translation_iso: hin
     name: अका-कोरा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aka-Kora
   - translation_iso: jpn
     name: アカコラ語
   - translation_iso: kor

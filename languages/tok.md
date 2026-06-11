@@ -17,18 +17,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Toki_Pona"
 translations:
   - translation_iso: ara
     name: توكي بونا
+  - translation_iso: ben
+    name: টোকি পোনা
   - translation_iso: deu
     name: Toki Pona
   - translation_iso: fra
     name: toki pona
   - translation_iso: hin
     name: टोकि पोना
+  - translation_iso: ind
+    name: Toki Pona
   - translation_iso: jpn
     name: トキポナ
   - translation_iso: kor
     name: 도기 보나
   - translation_iso: por
     name: toki pona
+  - translation_iso: rus
+    name: токипона
   - translation_iso: spa
     name: toki pona
   - translation_iso: zho

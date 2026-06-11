@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पास वैली याली
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yali Abenaho
   - translation_iso: jpn
     name: パスバレー・ヤリ語
+    auto: true
+  - translation_iso: kor
+    name: 패스밸리 얄리어
     auto: true
   - translation_iso: por
     name: yali de Pass Valley

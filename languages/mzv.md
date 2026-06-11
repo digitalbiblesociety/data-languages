@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マンザ語
     auto: true
+  - translation_iso: kor
+    name: 만자어
+    auto: true
   - translation_iso: por
     name: Manza
     auto: true

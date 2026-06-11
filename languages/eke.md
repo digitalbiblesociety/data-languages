@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: الإكيت
     auto: true
+  - translation_iso: ben
+    name: একেত
   - translation_iso: deu
     name: Ekit
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エキット語
+    auto: true
+  - translation_iso: kor
+    name: 에키트어
     auto: true
   - translation_iso: por
     name: Ekit

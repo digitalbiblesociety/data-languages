@@ -25,9 +25,14 @@ translations:
   - translation_iso: jpn
     name: ソロテプティック語
     auto: true
+  - translation_iso: kor
+    name: 소로탑틱어
+    auto: true
   - translation_iso: por
     name: Sorotháptico
     auto: true
+  - translation_iso: rus
+    name: соротаптический язык
   - translation_iso: spa
     name: sorotáptico
   - translation_iso: zho

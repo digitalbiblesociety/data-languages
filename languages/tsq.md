@@ -27,8 +27,13 @@ translations:
     auto: true
   - translation_iso: hin
     name: थाई सांकेतिक भाषा
+  - translation_iso: ind
+    name: Bahasa Isyarat Thai
   - translation_iso: jpn
     name: タイ手話
+  - translation_iso: kor
+    name: 태국 수어
+    auto: true
   - translation_iso: por
     name: Língua de sinais tailandesa
   - translation_iso: spa

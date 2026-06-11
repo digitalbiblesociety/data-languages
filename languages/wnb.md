@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ワナンブレ語
     auto: true
+  - translation_iso: kor
+    name: 와남브레어
+    auto: true
   - translation_iso: por
     name: Wanambre
     auto: true

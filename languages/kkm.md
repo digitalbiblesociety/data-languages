@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: キオン語
     auto: true
+  - translation_iso: kor
+    name: 키옹어
+    auto: true
   - translation_iso: por
     name: Kiong
     auto: true

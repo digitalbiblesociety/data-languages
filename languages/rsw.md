@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: リシワ語
     auto: true
+  - translation_iso: kor
+    name: 리시와어
+    auto: true
   - translation_iso: por
     name: Rishiwa
     auto: true

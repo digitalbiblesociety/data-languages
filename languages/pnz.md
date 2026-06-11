@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナ語
+  - translation_iso: kor
+    name: 파나어
+    auto: true
   - translation_iso: por
     name: Pana (República Centro-Africana)
     auto: true
+  - translation_iso: rus
+    name: Пана (язык)
   - translation_iso: spa
     name: pana
   - translation_iso: zho

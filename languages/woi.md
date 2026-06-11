@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कामांग
     auto: true
+  - translation_iso: ind
+    name: Woisika
   - translation_iso: jpn
     name: カマン語
+  - translation_iso: kor
+    name: 카망어
+    auto: true
   - translation_iso: por
     name: Kamang
     auto: true

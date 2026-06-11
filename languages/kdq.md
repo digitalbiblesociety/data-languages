@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كوتش
     auto: true
+  - translation_iso: ben
+    name: কোচ ভাষা
   - translation_iso: deu
     name: Koch
     auto: true
@@ -30,9 +32,14 @@ translations:
     name: कोच भाषा
   - translation_iso: jpn
     name: コーチ語
+  - translation_iso: kor
+    name: 코치어
+    auto: true
   - translation_iso: por
     name: Koch
     auto: true
+  - translation_iso: rus
+    name: Коч
   - translation_iso: spa
     name: idioma koch
   - translation_iso: zho

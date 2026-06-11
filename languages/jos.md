@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨルダン手話
+  - translation_iso: kor
+    name: 요르단 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Jordaniana
     auto: true

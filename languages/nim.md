@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ニランバ語
     auto: true
+  - translation_iso: kor
+    name: 닐람바어
+    auto: true
   - translation_iso: por
     name: Nilamba
     auto: true

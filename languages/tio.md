@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テオプ語
+  - translation_iso: kor
+    name: 테오프어
+    auto: true
   - translation_iso: por
     name: Língua teop
   - translation_iso: spa

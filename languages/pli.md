@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pali"
 translations:
   - translation_iso: ara
     name: بالي
+  - translation_iso: ben
+    name: পালি
   - translation_iso: deu
     name: Pali
   - translation_iso: fra
     name: pali
   - translation_iso: hin
     name: पालि भाषा
+  - translation_iso: ind
+    name: Pali
   - translation_iso: jpn
     name: パーリ語
   - translation_iso: kor
     name: 팔리어
   - translation_iso: por
     name: páli
+  - translation_iso: rus
+    name: пали
   - translation_iso: spa
     name: pali
   - translation_iso: zho

@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カタバン語
+  - translation_iso: kor
+    name: 카타반어
+    auto: true
   - translation_iso: por
     name: Catabânico
     auto: true
+  - translation_iso: rus
+    name: катабанский язык
   - translation_iso: spa
     name: Qatabanita
   - translation_iso: zho

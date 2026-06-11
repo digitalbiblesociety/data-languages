@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يكو
     auto: true
+  - translation_iso: ben
+    name: লেকো ভাষা
   - translation_iso: deu
     name: Leko (Sprache)
   - translation_iso: fra
@@ -25,6 +27,8 @@ translations:
   - translation_iso: hin
     name: लेको
     auto: true
+  - translation_iso: ind
+    name: Bahasa Leco
   - translation_iso: jpn
     name: レコ語
     auto: true
@@ -32,6 +36,8 @@ translations:
     name: 레코어
   - translation_iso: por
     name: Língua leko
+  - translation_iso: rus
+    name: Леко
   - translation_iso: spa
     name: idioma leco
   - translation_iso: zho

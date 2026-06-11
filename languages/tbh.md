@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: धरावल
     auto: true
+  - translation_iso: ind
+    name: Bahasa Tharawal
   - translation_iso: jpn
     name: ダラワル語
+    auto: true
+  - translation_iso: kor
+    name: 다라왈어
     auto: true
   - translation_iso: por
     name: Dharawal

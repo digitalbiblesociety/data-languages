@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرامبا
     auto: true
+  - translation_iso: ben
+    name: আরাম্বা
   - translation_iso: deu
     name: Arammba
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アランバ語
+    auto: true
+  - translation_iso: kor
+    name: 아람바어
     auto: true
   - translation_iso: por
     name: Arammba

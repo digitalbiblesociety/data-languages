@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة إسبانية لوريتو-أوكايالي
     auto: true
+  - translation_iso: ben
+    name: আমাজনীয় স্পেনীয়
   - translation_iso: deu
     name: Loreto-Ucayali Spanish
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: लोरेटो-उकायाली स्पेनिश
     auto: true
+  - translation_iso: ind
+    name: Bahasa Spanyol Amazon
   - translation_iso: jpn
     name: ロレート・ウカヤリスペイン語
     auto: true
+  - translation_iso: kor
+    name: 로레토우카얄리 스페인어
+    auto: true
   - translation_iso: por
     name: Espanhol Amazônico
+  - translation_iso: rus
+    name: Амазонский испанский язык
   - translation_iso: spa
     name: español amazónico
   - translation_iso: zho

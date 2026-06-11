@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: प्राचीन बर्मी
     auto: true
+  - translation_iso: ind
+    name: bahasa Myanmar Kuno
   - translation_iso: jpn
     name: 古ビルマ語
+  - translation_iso: kor
+    name: 고대 버마어
+    auto: true
   - translation_iso: por
     name: birmanês antigo
     auto: true

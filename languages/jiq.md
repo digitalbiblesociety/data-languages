@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴロン語
+  - translation_iso: kor
+    name: 관인차오어
+    auto: true
   - translation_iso: por
     name: Guanyinqiao
     auto: true

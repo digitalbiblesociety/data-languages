@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プリ語
+  - translation_iso: kor
+    name: 북부 투자어
+    auto: true
   - translation_iso: por
     name: Tujia do Norte
     auto: true

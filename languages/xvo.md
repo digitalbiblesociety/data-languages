@@ -21,10 +21,17 @@ translations:
   - translation_iso: hin
     name: वोल्शियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Volski
   - translation_iso: jpn
     name: ウォルスキ語
+  - translation_iso: kor
+    name: 볼스키어
+    auto: true
   - translation_iso: por
     name: Língua volsca
+  - translation_iso: rus
+    name: Вольский язык
   - translation_iso: spa
     name: idioma volsco
   - translation_iso: zho

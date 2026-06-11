@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشي
     auto: true
+  - translation_iso: ben
+    name: আচি ভাষা
   - translation_iso: deu
     name: Achí-Sprache
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अची
     auto: true
+  - translation_iso: ind
+    name: Bahasa Achi
   - translation_iso: jpn
     name: アチ語
   - translation_iso: kor
     name: 아치어
   - translation_iso: por
     name: Língua achi
+  - translation_iso: rus
+    name: Ачи
   - translation_iso: spa
     name: Idioma achí
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マルファクサル語
     auto: true
+  - translation_iso: kor
+    name: 말팍살어
+    auto: true
   - translation_iso: por
     name: Malfaxal
     auto: true

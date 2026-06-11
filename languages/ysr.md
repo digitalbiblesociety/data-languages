@@ -34,6 +34,8 @@ translations:
     name: 시레니크어
   - translation_iso: por
     name: Língua sirenik
+  - translation_iso: rus
+    name: сиреникский язык
   - translation_iso: spa
     name: idioma sirenik
   - translation_iso: zho

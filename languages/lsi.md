@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ラシ語
     auto: true
+  - translation_iso: kor
+    name: 라시어
+    auto: true
   - translation_iso: por
     name: Lashi
     auto: true
+  - translation_iso: rus
+    name: Лачик
   - translation_iso: spa
     name: Lashi
     auto: true

@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: サビーネ語
     auto: true
+  - translation_iso: kor
+    name: 사비니어
+    auto: true
   - translation_iso: por
     name: Sabino
     auto: true

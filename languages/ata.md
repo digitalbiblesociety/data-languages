@@ -28,9 +28,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペレアタ語
+  - translation_iso: kor
+    name: 펠레·아타어
+    auto: true
   - translation_iso: por
     name: Pele-Ata
     auto: true
+  - translation_iso: rus
+    name: ата
   - translation_iso: spa
     name: Idioma pele-ata
   - translation_iso: zho

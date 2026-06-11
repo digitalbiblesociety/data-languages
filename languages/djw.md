@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: जावी
     auto: true
+  - translation_iso: ind
+    name: Dialek Djawi
   - translation_iso: jpn
     name: Jawi語
+  - translation_iso: kor
+    name: 자위어
+    auto: true
   - translation_iso: por
     name: Djawi
     auto: true

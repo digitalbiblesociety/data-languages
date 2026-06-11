@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビ語
     auto: true
+  - translation_iso: kor
+    name: 비어
+    auto: true
   - translation_iso: por
     name: Bih
     auto: true

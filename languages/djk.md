@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・マルーン・クレオール語
     auto: true
+  - translation_iso: kor
+    name: 동부 마룬 크리올어
+    auto: true
   - translation_iso: por
     name: Crioulo Maroon Oriental
     auto: true

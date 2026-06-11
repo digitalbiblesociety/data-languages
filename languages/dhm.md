@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ゼンバ語
     auto: true
+  - translation_iso: kor
+    name: 젬바어
+    auto: true
   - translation_iso: por
     name: Zemba
     auto: true

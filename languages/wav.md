@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ワカ語
     auto: true
+  - translation_iso: kor
+    name: 와카어
+    auto: true
   - translation_iso: por
     name: Waka
     auto: true
+  - translation_iso: rus
+    name: Вака
   - translation_iso: spa
     name: Waka
     auto: true

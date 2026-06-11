@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シカイアナ語
+  - translation_iso: kor
+    name: 시카이아나어
+    auto: true
   - translation_iso: por
     name: Língua sikaiana
+  - translation_iso: rus
+    name: сикаианский язык
   - translation_iso: spa
     name: Sikaiana
     auto: true

@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グアジャ語
+  - translation_iso: kor
+    name: 과자어
+    auto: true
   - translation_iso: por
     name: Língua guajá
+  - translation_iso: rus
+    name: Гуажа
   - translation_iso: spa
     name: Guajá
     auto: true

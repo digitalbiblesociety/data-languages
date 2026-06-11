@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Taita_language"
 translations:
   - translation_iso: ara
     name: تيتا
+  - translation_iso: ben
+    name: তাইতা
   - translation_iso: deu
     name: Taita
   - translation_iso: fra
     name: taita
   - translation_iso: hin
     name: तैता
+  - translation_iso: ind
+    name: Taita
   - translation_iso: jpn
     name: タイタ語
   - translation_iso: kor
     name: 타이타어
   - translation_iso: por
     name: taita
+  - translation_iso: rus
+    name: таита
   - translation_iso: spa
     name: Idioma taita
   - translation_iso: zho

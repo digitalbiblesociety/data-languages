@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツワ語
+  - translation_iso: kor
+    name: 츠와어
+    auto: true
   - translation_iso: por
     name: Língua tswa
   - translation_iso: spa

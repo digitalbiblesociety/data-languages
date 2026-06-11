@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビセニ語
     auto: true
+  - translation_iso: kor
+    name: 비세니어
+    auto: true
   - translation_iso: por
     name: Biseni
     auto: true

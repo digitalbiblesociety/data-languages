@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانتوانون
     auto: true
+  - translation_iso: ben
+    name: বান্টোয়ানন
   - translation_iso: deu
     name: Asi
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बंतोआनोन
     auto: true
+  - translation_iso: ind
+    name: bahasa Banton
   - translation_iso: jpn
     name: バントアノン語
+    auto: true
+  - translation_iso: kor
+    name: 반토아논어
     auto: true
   - translation_iso: por
     name: bantoanon

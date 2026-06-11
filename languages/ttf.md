@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボネク語
     auto: true
+  - translation_iso: kor
+    name: 투오톰브어
+    auto: true
   - translation_iso: por
     name: Tuotomb
     auto: true

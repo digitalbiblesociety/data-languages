@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タル語
     auto: true
+  - translation_iso: kor
+    name: 탈루어
+    auto: true
   - translation_iso: por
     name: talu
     auto: true

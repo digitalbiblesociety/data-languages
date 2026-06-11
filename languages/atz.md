@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرتا
     auto: true
+  - translation_iso: ben
+    name: আর্তা
   - translation_iso: deu
     name: Arta
     auto: true
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: अर्ता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arta
   - translation_iso: jpn
     name: アルタ語
     auto: true
+  - translation_iso: kor
+    name: 아르타어
+    auto: true
   - translation_iso: por
     name: Língua arta
+  - translation_iso: rus
+    name: арта
   - translation_iso: spa
     name: Arta
     auto: true

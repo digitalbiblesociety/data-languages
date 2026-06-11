@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: ओइराता
     auto: true
+  - translation_iso: ind
+    name: Oirata
   - translation_iso: jpn
     name: オイラタ語
+    auto: true
+  - translation_iso: kor
+    name: 오이라타어
     auto: true
   - translation_iso: por
     name: Oirata

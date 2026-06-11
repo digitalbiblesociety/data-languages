@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サパロ語
+  - translation_iso: kor
+    name: 사파로어
+    auto: true
   - translation_iso: por
     name: záparo
+  - translation_iso: rus
+    name: сапаро
   - translation_iso: spa
     name: záparo
   - translation_iso: zho

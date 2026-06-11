@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة يكا
     auto: true
+  - translation_iso: ben
+    name: আকা
   - translation_iso: deu
     name: Yaka
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: kor
+    name: 야카어
+    auto: true
   - translation_iso: por
     name: Yaka (República Centro-Africana)
     auto: true

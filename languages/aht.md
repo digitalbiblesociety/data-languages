@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أهتينا
     auto: true
+  - translation_iso: ben
+    name: আতনা
   - translation_iso: deu
     name: Ahtna
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトナ語
+  - translation_iso: kor
+    name: 아트나어
+    auto: true
   - translation_iso: por
     name: Língua ahtna
+  - translation_iso: rus
+    name: атна
   - translation_iso: spa
     name: idioma ahtna
   - translation_iso: zho

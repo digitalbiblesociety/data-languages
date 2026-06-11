@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タリアナ語
+  - translation_iso: kor
+    name: 타리아나어
+    auto: true
   - translation_iso: por
     name: tariana
+  - translation_iso: rus
+    name: Тариана
   - translation_iso: spa
     name: tariana
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワ語
     auto: true
+  - translation_iso: kor
+    name: 와어
+    auto: true
   - translation_iso: por
     name: Wa
     auto: true

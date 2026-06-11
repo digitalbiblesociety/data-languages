@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ンケム・ンクム語
     auto: true
+  - translation_iso: kor
+    name: 은켐은쿰어
+    auto: true
   - translation_iso: por
     name: Nkem-Nkum
     auto: true
+  - translation_iso: rus
+    name: Нкем-нкум
   - translation_iso: spa
     name: Nkem-Nkum
     auto: true

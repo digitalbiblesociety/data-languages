@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: मंदाइक
     auto: true
+  - translation_iso: ind
+    name: bahasa Manda Baru
   - translation_iso: jpn
     name: 現代マンダ語
+  - translation_iso: kor
+    name: 만다야어
+    auto: true
   - translation_iso: por
     name: língua neomandeia
   - translation_iso: spa

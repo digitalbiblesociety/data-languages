@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カバテイ語
     auto: true
+  - translation_iso: kor
+    name: 카바테이어
+    auto: true
   - translation_iso: por
     name: Kabatei
     auto: true

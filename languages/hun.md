@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hungarian_language"
 translations:
   - translation_iso: ara
     name: المجرية
+  - translation_iso: ben
+    name: হাঙ্গেরীয়
   - translation_iso: deu
     name: Ungarisch
   - translation_iso: fra
     name: hongrois
   - translation_iso: hin
     name: हंगेरियाई भाषा
+  - translation_iso: ind
+    name: Hungaria
   - translation_iso: jpn
     name: ハンガリー語
   - translation_iso: kor
     name: 헝가리어
   - translation_iso: por
     name: húngaro
+  - translation_iso: rus
+    name: венгерский
   - translation_iso: spa
     name: húngaro
   - translation_iso: zho

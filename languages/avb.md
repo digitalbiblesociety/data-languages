@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفاو
     auto: true
+  - translation_iso: ben
+    name: আভাউ
   - translation_iso: deu
     name: Avau
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバウ語
+    auto: true
+  - translation_iso: kor
+    name: 아바우어
     auto: true
   - translation_iso: por
     name: Avau

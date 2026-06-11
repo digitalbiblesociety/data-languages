@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マンドボ・アタス語
     auto: true
+  - translation_iso: kor
+    name: 만도보 아타스어
+    auto: true
   - translation_iso: por
     name: Mandobo Atas
     auto: true

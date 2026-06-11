@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: याहादियान
     auto: true
+  - translation_iso: ind
+    name: Bahasa Yahadian
   - translation_iso: jpn
     name: ヤハディアン語
+    auto: true
+  - translation_iso: kor
+    name: 야하디안어
     auto: true
   - translation_iso: por
     name: Yahadian

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カノウィット・タンジョン・メラナウ語
     auto: true
+  - translation_iso: kor
+    name: 카노윗탄종 멜라나우어
+    auto: true
   - translation_iso: por
     name: Melanau de Kanowit-Tanjong
     auto: true

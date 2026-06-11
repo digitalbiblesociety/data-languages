@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: أكيي
     auto: true
+  - translation_iso: ben
+    name: আকেই
   - translation_iso: deu
     name: Akei
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: タシリキ語
     auto: true
+  - translation_iso: kor
+    name: 아케이어
+    auto: true
   - translation_iso: por
     name: Akei
     auto: true
+  - translation_iso: rus
+    name: Акеи
   - translation_iso: spa
     name: Akei
     auto: true

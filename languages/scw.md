@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シャ語
     auto: true
+  - translation_iso: kor
+    name: 샤어
+    auto: true
   - translation_iso: por
     name: Sha
     auto: true
+  - translation_iso: rus
+    name: Ша (язык)
   - translation_iso: spa
     name: Sha
     auto: true

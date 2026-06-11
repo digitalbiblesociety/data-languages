@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クク語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠어
+    auto: true
   - translation_iso: por
     name: Dialeto kuku
   - translation_iso: spa

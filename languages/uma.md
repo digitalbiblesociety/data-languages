@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コロンビア川サハプティン語
     auto: true
+  - translation_iso: kor
+    name: 유마틸라어
+    auto: true
   - translation_iso: por
     name: Umatilla
     auto: true
+  - translation_iso: rus
+    name: Уматилла
   - translation_iso: spa
     name: Umatilla
     auto: true

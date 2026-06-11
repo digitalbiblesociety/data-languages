@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Frisian_language"
 translations:
   - translation_iso: ara
     name: الفريزية الغربية
+  - translation_iso: ben
+    name: পশ্চিম ফ্রিসিয়ান
   - translation_iso: deu
     name: Westfriesisch
   - translation_iso: fra
     name: frison occidental
   - translation_iso: hin
     name: पश्चिमी फ़्रिसियाई
+  - translation_iso: ind
+    name: Frisia Barat
   - translation_iso: jpn
     name: 西フリジア語
   - translation_iso: kor
     name: 서프리슬란트어
   - translation_iso: por
     name: frísio ocidental
+  - translation_iso: rus
+    name: западнофризский
   - translation_iso: spa
     name: frisón occidental
   - translation_iso: zho

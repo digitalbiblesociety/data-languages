@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: इतेलमेन
     auto: true
+  - translation_iso: ind
+    name: Itelmen
   - translation_iso: jpn
     name: イテリメン語
   - translation_iso: kor
     name: 이텔멘어
   - translation_iso: por
     name: Língua itelmen
+  - translation_iso: rus
+    name: ительменский язык
   - translation_iso: spa
     name: Idioma itelmen
   - translation_iso: zho

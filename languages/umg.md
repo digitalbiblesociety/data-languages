@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: モロバラマ語
     auto: true
+  - translation_iso: kor
+    name: 모로발라마어
+    auto: true
   - translation_iso: por
     name: Morrobalama
     auto: true

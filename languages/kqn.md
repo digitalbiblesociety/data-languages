@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カオンデ語
+  - translation_iso: kor
+    name: 카온데어
+    auto: true
   - translation_iso: por
     name: Kaonde
     auto: true
+  - translation_iso: rus
+    name: каонде
   - translation_iso: spa
     name: Kaonde
     auto: true

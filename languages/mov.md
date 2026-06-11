@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モハベ語
+  - translation_iso: kor
+    name: 모하비어
+    auto: true
   - translation_iso: por
     name: Língua mojave
+  - translation_iso: rus
+    name: Мохаве
   - translation_iso: spa
     name: Mohave
     auto: true

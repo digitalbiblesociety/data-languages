@@ -29,6 +29,8 @@ translations:
   - translation_iso: hin
     name: केई
     auto: true
+  - translation_iso: ind
+    name: Kei
   - translation_iso: jpn
     name: ケイ語
   - translation_iso: kor
@@ -36,6 +38,8 @@ translations:
   - translation_iso: por
     name: Kei
     auto: true
+  - translation_iso: rus
+    name: Кейцы
   - translation_iso: spa
     name: Kei
     auto: true

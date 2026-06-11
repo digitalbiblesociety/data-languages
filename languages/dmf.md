@@ -33,6 +33,8 @@ translations:
   - translation_iso: por
     name: Medefaidrin
     auto: true
+  - translation_iso: rus
+    name: Обэри-Окаимэ
   - translation_iso: spa
     name: Medefaidrin
     auto: true

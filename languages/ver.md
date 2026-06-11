@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: モム・ジャンゴ語
     auto: true
+  - translation_iso: kor
+    name: 몸 장고어
+    auto: true
   - translation_iso: por
     name: Mom Jango
     auto: true
+  - translation_iso: rus
+    name: Мом джанго
   - translation_iso: spa
     name: Vere
   - translation_iso: zho

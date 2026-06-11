@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी सोर्सोगानोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Sorsogon Selatan
   - translation_iso: jpn
     name: ワライソルソゴン語
+    auto: true
+  - translation_iso: kor
+    name: 남부 소르소가논어
     auto: true
   - translation_iso: por
     name: Sorsoganon Meridional

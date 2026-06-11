@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: セケパン語
     auto: true
+  - translation_iso: kor
+    name: 세카판어
+    auto: true
   - translation_iso: por
     name: Sekapan
     auto: true

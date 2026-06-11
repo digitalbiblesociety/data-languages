@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: फ़ाइफ़ी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Faifi
   - translation_iso: jpn
     name: ファイフィ語
+    auto: true
+  - translation_iso: kor
+    name: 파이피어
     auto: true
   - translation_iso: por
     name: Faifi

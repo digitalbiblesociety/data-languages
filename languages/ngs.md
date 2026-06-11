@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: グボコ語
     auto: true
+  - translation_iso: kor
+    name: 그보코어
+    auto: true
   - translation_iso: por
     name: Gvoko
     auto: true

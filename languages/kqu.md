@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: セロア語
     auto: true
+  - translation_iso: kor
+    name: 세로아어
+    auto: true
   - translation_iso: por
     name: Seroa
     auto: true

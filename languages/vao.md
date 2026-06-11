@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヴァオ語
     auto: true
+  - translation_iso: kor
+    name: 바오어
+    auto: true
   - translation_iso: por
     name: Vao
     auto: true

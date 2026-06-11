@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 北ボボ・マダレ語
     auto: true
+  - translation_iso: kor
+    name: 북부 보보 마다레어
+    auto: true
   - translation_iso: por
     name: Bobo Madaré setentrional
     auto: true

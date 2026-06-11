@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブンブ語
     auto: true
+  - translation_iso: kor
+    name: 붐부어
+    auto: true
   - translation_iso: por
     name: Vumbu
     auto: true

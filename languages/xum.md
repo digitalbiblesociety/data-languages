@@ -27,12 +27,16 @@ translations:
   - translation_iso: hin
     name: उम्ब्रियन
     auto: true
+  - translation_iso: ind
+    name: Umbria
   - translation_iso: jpn
     name: ウンブリア語
   - translation_iso: kor
     name: 움브리아어
   - translation_iso: por
     name: umbro
+  - translation_iso: rus
+    name: умбрский язык
   - translation_iso: spa
     name: Idioma umbro
   - translation_iso: zho

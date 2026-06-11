@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तालोकी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Taloki
   - translation_iso: jpn
     name: タロキ語
+    auto: true
+  - translation_iso: kor
+    name: 탈로키어
     auto: true
   - translation_iso: por
     name: Taloki

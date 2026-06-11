@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バロイ語
     auto: true
+  - translation_iso: kor
+    name: 발로이어
+    auto: true
   - translation_iso: por
     name: Baloi
     auto: true

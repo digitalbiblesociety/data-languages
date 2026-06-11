@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في غينيا بيساو
     auto: true
+  - translation_iso: ben
+    name: গিনি-বিসাউ ইশারা ভাষা
   - translation_iso: deu
     name: Guinea-bissauische Gebärdensprache
     auto: true
@@ -27,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニアビサウ手話
+  - translation_iso: kor
+    name: 기니비사우 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais Guineense
   - translation_iso: spa

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語
     auto: true
+  - translation_iso: kor
+    name: 람자뎅사톨라어
+    auto: true
   - translation_iso: por
     name: Lamja-Dengsa-Tola
     auto: true

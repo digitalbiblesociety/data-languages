@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サザン・グレボ語
     auto: true
+  - translation_iso: kor
+    name: 남부 그레보어
+    auto: true
   - translation_iso: por
     name: grebo do sul
     auto: true

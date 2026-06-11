@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: लिडियन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lidia
   - translation_iso: jpn
     name: リディア語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Lídio
     auto: true
+  - translation_iso: rus
+    name: лидийский язык
   - translation_iso: spa
     name: lidio
   - translation_iso: zho

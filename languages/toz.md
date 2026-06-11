@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トー語
     auto: true
+  - translation_iso: kor
+    name: 토어
+    auto: true
   - translation_iso: por
     name: To
     auto: true

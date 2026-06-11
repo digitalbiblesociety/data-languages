@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファス語
     auto: true
+  - translation_iso: kor
+    name: 파수어
+    auto: true
   - translation_iso: por
     name: Fasu
     auto: true

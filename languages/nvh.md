@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナサリアン語
     auto: true
+  - translation_iso: kor
+    name: 나사리안어
+    auto: true
   - translation_iso: por
     name: Nasarian
     auto: true

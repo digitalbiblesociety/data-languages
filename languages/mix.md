@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミステペク・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 믹스테펙 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Mixtepec
     auto: true
+  - translation_iso: rus
+    name: Мистепекский миштекский язык
   - translation_iso: spa
     name: Mixteco de Mixtepec
     auto: true

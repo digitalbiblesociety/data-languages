@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ソウ・ナマ語
     auto: true
+  - translation_iso: kor
+    name: 소우 나마어
+    auto: true
   - translation_iso: por
     name: Sou Nama
     auto: true

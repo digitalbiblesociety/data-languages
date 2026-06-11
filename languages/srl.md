@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: इसिरावा
     auto: true
+  - translation_iso: ind
+    name: Saberi
   - translation_iso: jpn
     name: イスィラワ語
+  - translation_iso: kor
+    name: 이시라와어
+    auto: true
   - translation_iso: por
     name: Isirawa
     auto: true
+  - translation_iso: rus
+    name: Исирава (язык)
   - translation_iso: spa
     name: Idioma isirawa
   - translation_iso: zho

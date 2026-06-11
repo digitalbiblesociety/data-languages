@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باكا
     auto: true
+  - translation_iso: ben
+    name: বাকা
   - translation_iso: deu
     name: Baka
   - translation_iso: fra
@@ -30,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカ語
+  - translation_iso: kor
+    name: 바카어
+    auto: true
   - translation_iso: por
     name: Baka (Camarões)
     auto: true
+  - translation_iso: rus
+    name: бака
   - translation_iso: spa
     name: Baka (Camerún)
     auto: true

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: チュクワ語
     auto: true
+  - translation_iso: kor
+    name: 추콰어
+    auto: true
   - translation_iso: por
     name: Chukwa
     auto: true

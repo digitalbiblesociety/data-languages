@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: コロク語
     auto: true
+  - translation_iso: kor
+    name: 콜록어
+    auto: true
   - translation_iso: por
     name: Kholok
     auto: true
+  - translation_iso: rus
+    name: Кхолок
   - translation_iso: spa
     name: Kholok
     auto: true

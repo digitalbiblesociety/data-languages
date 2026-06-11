@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: रोंगा
     auto: true
+  - translation_iso: ind
+    name: Rongga
   - translation_iso: jpn
     name: ロンガ語
+  - translation_iso: kor
+    name: 롱가어
+    auto: true
   - translation_iso: por
     name: Rongga
   - translation_iso: spa

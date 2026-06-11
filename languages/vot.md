@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Votic_language"
 translations:
   - translation_iso: ara
     name: الفوتية
+  - translation_iso: ben
+    name: ভোটিক
   - translation_iso: deu
     name: Wotisch
   - translation_iso: fra
     name: vote
   - translation_iso: hin
     name: वॉटिक
+  - translation_iso: ind
+    name: Votia
   - translation_iso: jpn
     name: ヴォート語
   - translation_iso: kor
     name: 바트어
   - translation_iso: por
     name: vótico
+  - translation_iso: rus
+    name: водский
   - translation_iso: spa
     name: votio
   - translation_iso: zho

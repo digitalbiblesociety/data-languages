@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: न्याहकुर
     auto: true
+  - translation_iso: ind
+    name: bahasa Nyah Kur
   - translation_iso: jpn
     name: ニャークル語
+  - translation_iso: kor
+    name: 냐쿠르어
+    auto: true
   - translation_iso: por
     name: Língua nyah kur
   - translation_iso: spa

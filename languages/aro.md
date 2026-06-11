@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة أراونا
     auto: true
+  - translation_iso: ben
+    name: আরাওনা ভাষা
   - translation_iso: deu
     name: Araona
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラオナ語
+  - translation_iso: kor
+    name: 아라오나어
+    auto: true
   - translation_iso: por
     name: Araona
     auto: true
+  - translation_iso: rus
+    name: Араона
   - translation_iso: spa
     name: idioma araona
   - translation_iso: zho

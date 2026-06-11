@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヴォットー語
     auto: true
+  - translation_iso: kor
+    name: 비티어
+    auto: true
   - translation_iso: por
     name: Viti
     auto: true

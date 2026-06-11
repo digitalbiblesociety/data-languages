@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: दुसुन देयाह
     auto: true
+  - translation_iso: ind
+    name: Bahasa Deyah
   - translation_iso: jpn
     name: ドゥスン・デヤ語
+    auto: true
+  - translation_iso: kor
+    name: 두순 데야어
     auto: true
   - translation_iso: por
     name: Dusun Deyah
     auto: true
+  - translation_iso: rus
+    name: Дусун-дея
   - translation_iso: spa
     name: Dusun Deyah
     auto: true

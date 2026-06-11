@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أنامبي
     auto: true
+  - translation_iso: ben
+    name: আনাম্বে
   - translation_iso: deu
     name: Anambé von Cairarí
     auto: true
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: カイラリのアナンベ語
     auto: true
+  - translation_iso: kor
+    name: 카이라리 아남베어
+    auto: true
   - translation_iso: por
     name: Língua anambé
+  - translation_iso: rus
+    name: Анамбе
   - translation_iso: spa
     name: Lengua anambé
   - translation_iso: zho

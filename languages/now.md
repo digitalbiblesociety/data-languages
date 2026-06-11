@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ニャンボ語
     auto: true
+  - translation_iso: kor
+    name: 냠보어
+    auto: true
   - translation_iso: por
     name: Nyambo
     auto: true
+  - translation_iso: rus
+    name: ньямбо
   - translation_iso: spa
     name: Nyambo
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّاي
     auto: true
+  - translation_iso: ben
+    name: আন্দাই
   - translation_iso: deu
     name: Andai
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンダイ語
+    auto: true
+  - translation_iso: kor
+    name: 안다이어
     auto: true
   - translation_iso: por
     name: Andai

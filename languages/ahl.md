@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة إيغو
     auto: true
+  - translation_iso: ben
+    name: আহলন
   - translation_iso: deu
     name: Igo
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: イゴ語
     auto: true
+  - translation_iso: kor
+    name: 이고어
+    auto: true
   - translation_iso: por
     name: Igo
     auto: true
+  - translation_iso: rus
+    name: Иго
   - translation_iso: spa
     name: Igo
     auto: true

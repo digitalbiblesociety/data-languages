@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أراووم
     auto: true
+  - translation_iso: ben
+    name: আরাউম
   - translation_iso: deu
     name: Arawum
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラウム語
+    auto: true
+  - translation_iso: kor
+    name: 아라움어
     auto: true
   - translation_iso: por
     name: Arawum

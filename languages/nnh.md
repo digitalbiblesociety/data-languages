@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngiemboon_language"
 translations:
   - translation_iso: ara
     name: لغة النجيمبون
+  - translation_iso: ben
+    name: নগিয়েম্বুন
   - translation_iso: deu
     name: Ngiemboon
   - translation_iso: fra
     name: ngiemboon
   - translation_iso: hin
     name: गैम्बू
+  - translation_iso: ind
+    name: Ngiemboon
   - translation_iso: jpn
     name: ンジエムブーン語
   - translation_iso: kor
     name: 느기엠본어
   - translation_iso: por
     name: ngiemboon
+  - translation_iso: rus
+    name: нгиембунд
   - translation_iso: spa
     name: ngiemboon
   - translation_iso: zho

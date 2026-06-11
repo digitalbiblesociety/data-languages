@@ -28,11 +28,18 @@ translations:
     name: bonda
   - translation_iso: hin
     name: रेमो भाषा
+  - translation_iso: ind
+    name: Bonda
   - translation_iso: jpn
     name: ボンド語
+  - translation_iso: kor
+    name: 본도어
+    auto: true
   - translation_iso: por
     name: Bondo
     auto: true
+  - translation_iso: rus
+    name: Бондо
   - translation_iso: spa
     name: Bondo
     auto: true

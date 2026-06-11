@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: योरोन
     auto: true
+  - translation_iso: ind
+    name: bahasa Yoron
   - translation_iso: jpn
     name: 与論島方言
   - translation_iso: kor
     name: 요론 방언
   - translation_iso: por
     name: Língua yoron
+  - translation_iso: rus
+    name: йоронский язык
   - translation_iso: spa
     name: idioma Yoron
   - translation_iso: zho

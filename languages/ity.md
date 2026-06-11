@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モヤダン・イトネグ語
     auto: true
+  - translation_iso: kor
+    name: 모야단 이트네그어
+    auto: true
   - translation_iso: por
     name: Itneg Moyadan
     auto: true

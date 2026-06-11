@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: न्दुत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Ndut
   - translation_iso: jpn
     name: ンドゥト語
+    auto: true
+  - translation_iso: kor
+    name: 은두트어
     auto: true
   - translation_iso: por
     name: Língua ndut

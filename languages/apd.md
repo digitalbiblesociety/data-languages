@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: सूडानी अरबी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Arab Sudan
   - translation_iso: jpn
     name: アラビア語スーダン方言
   - translation_iso: kor
     name: 수단 아랍어
   - translation_iso: por
     name: Árabe sudanês
+  - translation_iso: rus
+    name: Суданский диалект арабского языка
   - translation_iso: spa
     name: árabe sudanés
   - translation_iso: zho

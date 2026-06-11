@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: マトゥ・チン語
     auto: true
+  - translation_iso: kor
+    name: 마투 친어
+    auto: true
   - translation_iso: por
     name: Chin Matu
     auto: true

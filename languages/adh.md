@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة آدولا
     auto: true
+  - translation_iso: ben
+    name: আধলা
   - translation_iso: deu
     name: Adhola
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アドラ語
+  - translation_iso: kor
+    name: 아돌라어
+    auto: true
   - translation_iso: por
     name: Adhola
     auto: true

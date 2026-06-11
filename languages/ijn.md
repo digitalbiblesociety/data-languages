@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラバリ語
+  - translation_iso: kor
+    name: 칼라바리어
+    auto: true
   - translation_iso: por
     name: Kalabari
     auto: true
+  - translation_iso: rus
+    name: Калабари
   - translation_iso: spa
     name: Kalabari
     auto: true

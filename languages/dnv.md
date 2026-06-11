@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ダヌ語
     auto: true
+  - translation_iso: kor
+    name: 다누어
+    auto: true
   - translation_iso: por
     name: Danu
     auto: true

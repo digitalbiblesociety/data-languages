@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nuosu_language"
 translations:
   - translation_iso: ara
     name: السيتشيون يي
+  - translation_iso: ben
+    name: সিচুয়ান য়ি
   - translation_iso: deu
     name: Nuosu-Sprache
   - translation_iso: fra
     name: nuosu
   - translation_iso: hin
     name: नोसू भाषा
+  - translation_iso: ind
+    name: Sichuan Yi
   - translation_iso: jpn
     name: 四川彝語
   - translation_iso: kor
     name: 눠쑤어
   - translation_iso: por
     name: Língua Nuosu
+  - translation_iso: rus
+    name: носу
   - translation_iso: spa
     name: Idioma nuosu
   - translation_iso: zho

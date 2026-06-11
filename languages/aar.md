@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afar_language"
 translations:
   - translation_iso: ara
     name: العفارية
+  - translation_iso: ben
+    name: আফার
   - translation_iso: deu
     name: Afar
   - translation_iso: fra
     name: afar
   - translation_iso: hin
     name: अफ़ार भाषा
+  - translation_iso: ind
+    name: Afar
   - translation_iso: jpn
     name: アファル語
   - translation_iso: kor
     name: 아파르어
   - translation_iso: por
     name: Língua afar
+  - translation_iso: rus
+    name: афарский
   - translation_iso: spa
     name: idioma afar
   - translation_iso: zho

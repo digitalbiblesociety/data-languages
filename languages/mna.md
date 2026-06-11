@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガップ語
+  - translation_iso: kor
+    name: 음불라어
+    auto: true
   - translation_iso: por
     name: Língua mbula
   - translation_iso: spa

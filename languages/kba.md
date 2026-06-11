@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カラルコ語
     auto: true
+  - translation_iso: kor
+    name: 칼라르코어
+    auto: true
   - translation_iso: por
     name: Kalarko
     auto: true

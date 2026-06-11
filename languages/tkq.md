@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تي
     auto: true
+  - translation_iso: ben
+    name: টি ভাষা
   - translation_iso: deu
     name: Tee
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テー語
+    auto: true
+  - translation_iso: kor
+    name: 테어
     auto: true
   - translation_iso: por
     name: Tee

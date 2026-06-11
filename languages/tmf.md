@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マスコイ語
+  - translation_iso: kor
+    name: 토바 마스코이어
+    auto: true
   - translation_iso: por
     name: Toba-Maskoy
     auto: true
+  - translation_iso: rus
+    name: Тоба-маской
   - translation_iso: spa
     name: Toba-Maskoy
     auto: true

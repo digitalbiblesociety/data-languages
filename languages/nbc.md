@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: تشانج ناجا
     auto: true
+  - translation_iso: ben
+    name: চাং ভাষা
   - translation_iso: deu
     name: Chang-Naga
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: चांग भाषा
   - translation_iso: jpn
     name: チャン・ナガ語
+    auto: true
+  - translation_iso: kor
+    name: 창 나가어
     auto: true
   - translation_iso: por
     name: Língua chang

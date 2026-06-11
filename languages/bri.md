@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バクウェリ語
+  - translation_iso: kor
+    name: 모크프웨어
+    auto: true
   - translation_iso: por
     name: Mokpwe
     auto: true

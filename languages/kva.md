@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باغفالال
     auto: true
+  - translation_iso: ben
+    name: বাগভালাল
   - translation_iso: deu
     name: Bagwalalisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 바그발랄어
   - translation_iso: por
     name: Língua bagvalal
+  - translation_iso: rus
+    name: багвалинский язык
   - translation_iso: spa
     name: Idioma bagvalal
   - translation_iso: zho

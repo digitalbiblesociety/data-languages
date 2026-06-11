@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुरुमाकोक
     auto: true
+  - translation_iso: ind
+    name: Burumakok
   - translation_iso: jpn
     name: ブルマコク語
+    auto: true
+  - translation_iso: kor
+    name: 부루마코크어
     auto: true
   - translation_iso: por
     name: Burumakok

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ダグバ語
     auto: true
+  - translation_iso: kor
+    name: 다그바어
+    auto: true
   - translation_iso: por
     name: Dagba
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カンゴ語
     auto: true
+  - translation_iso: kor
+    name: 캉고어
+    auto: true
   - translation_iso: por
     name: Kango (Distrito de Tshopo)
     auto: true

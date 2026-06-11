@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: アカ語
     auto: true
+  - translation_iso: kor
+    name: 아카어
+    auto: true
   - translation_iso: por
     name: Aka
     auto: true

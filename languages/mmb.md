@@ -24,8 +24,13 @@ translations:
   - translation_iso: hin
     name: मोमिना
     auto: true
+  - translation_iso: ind
+    name: Momina
   - translation_iso: jpn
     name: モミナ語
+    auto: true
+  - translation_iso: kor
+    name: 모미나어
     auto: true
   - translation_iso: por
     name: Momina

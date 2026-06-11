@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: タンガレ語
     auto: true
+  - translation_iso: kor
+    name: 탕갈레어
+    auto: true
   - translation_iso: por
     name: Língua tangale
+  - translation_iso: rus
+    name: Тангале
   - translation_iso: spa
     name: Tangale
     auto: true

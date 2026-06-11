@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al"
 translations:
   - translation_iso: ara
     name: البروفانسية الفرنسية
+  - translation_iso: ben
+    name: ফ্রাঙ্কো-প্রভেন্সাল ভাষা
   - translation_iso: deu
     name: frankoprovenzalische Sprache
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: अर्पितान
     auto: true
+  - translation_iso: ind
+    name: Arpitan
   - translation_iso: jpn
     name: アルピタン語
   - translation_iso: kor
     name: 프랑코프로방스어
   - translation_iso: por
     name: franco-provençal
+  - translation_iso: rus
+    name: франкопровансальский язык
   - translation_iso: spa
     name: franco-provenzal
   - translation_iso: zho

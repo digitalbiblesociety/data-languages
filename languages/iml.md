@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ミルク語
     auto: true
+  - translation_iso: kor
+    name: 밀루크어
+    auto: true
   - translation_iso: por
     name: Miluk
     auto: true

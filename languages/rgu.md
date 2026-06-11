@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: रिंगगौ
     auto: true
+  - translation_iso: ind
+    name: Ringgou
   - translation_iso: jpn
     name: リングゴウ語
+    auto: true
+  - translation_iso: kor
+    name: 링고우어
     auto: true
   - translation_iso: por
     name: Ringgou

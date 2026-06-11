@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كيناوري
     auto: true
+  - translation_iso: ben
+    name: কানোর
   - translation_iso: deu
     name: Kinnauri
     auto: true
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: キンナウリ語
     auto: true
+  - translation_iso: kor
+    name: 킨나우리어
+    auto: true
   - translation_iso: por
     name: Língua kinnauri
+  - translation_iso: rus
+    name: Киннаури
   - translation_iso: spa
     name: Kinnauri
     auto: true

@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Noakhali_language"
 translations:
   - translation_iso: ara
     name: لهجة نواخالوية
+  - translation_iso: ben
+    name: নোয়াখাইল্লা ভাষা
   - translation_iso: deu
     name: Noakhalische Sprache
   - translation_iso: fra
@@ -24,6 +26,9 @@ translations:
     name: नवाखालीय बोली
   - translation_iso: jpn
     name: ノアカリ語
+    auto: true
+  - translation_iso: kor
+    name: 노아칼리어
     auto: true
   - translation_iso: por
     name: Noakhali

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディケルト語
+  - translation_iso: kor
+    name: 티디켈트 타마지트어
+    auto: true
   - translation_iso: por
     name: Tamazight de Tidikelt
     auto: true

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: टेन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Then
   - translation_iso: jpn
     name: テン語
+    auto: true
+  - translation_iso: kor
+    name: 텐어
     auto: true
   - translation_iso: por
     name: "T'en"

@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tangut_language"
 translations:
   - translation_iso: ara
     name: لغة تانغوت
+  - translation_iso: ben
+    name: টাঙ্গুত ভাষা
   - translation_iso: deu
     name: Tangutisch
   - translation_iso: fra
@@ -32,6 +34,8 @@ translations:
     name: 서하어
   - translation_iso: por
     name: tangut
+  - translation_iso: rus
+    name: Тангутский язык
   - translation_iso: spa
     name: tangut
   - translation_iso: zho

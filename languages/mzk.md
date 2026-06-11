@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナイジェリア・マンビラ語
     auto: true
+  - translation_iso: kor
+    name: 나이지리아 맘빌라어
+    auto: true
   - translation_iso: por
     name: Mambila da Nigéria
     auto: true

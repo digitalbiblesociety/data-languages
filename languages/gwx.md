@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: グア語
     auto: true
+  - translation_iso: kor
+    name: 구아어
+    auto: true
   - translation_iso: por
     name: Gua
     auto: true

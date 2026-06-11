@@ -21,6 +21,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bamum_language"
 translations:
   - translation_iso: ara
     name: بامن
+  - translation_iso: ben
+    name: বামুম
   - translation_iso: deu
     name: Bamun
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: बामुन
     auto: true
+  - translation_iso: ind
+    name: Bamun
   - translation_iso: jpn
     name: バムン語
   - translation_iso: kor
     name: 바문어
   - translation_iso: por
     name: Língua bamum
+  - translation_iso: rus
+    name: бамум
   - translation_iso: spa
     name: bamum
   - translation_iso: zho

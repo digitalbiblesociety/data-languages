@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クプラン語
     auto: true
+  - translation_iso: kor
+    name: 크플랑어
+    auto: true
   - translation_iso: por
     name: Kplang
     auto: true

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ウォガムシン語
     auto: true
+  - translation_iso: kor
+    name: 워가무신어
+    auto: true
   - translation_iso: por
     name: Wogamusin
     auto: true

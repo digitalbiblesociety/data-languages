@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_language"
 translations:
   - translation_iso: ara
     name: البورمية
+  - translation_iso: ben
+    name: বর্মি
   - translation_iso: deu
     name: Birmanisch
   - translation_iso: fra
     name: birman
   - translation_iso: hin
     name: बर्मी भाषा
+  - translation_iso: ind
+    name: Burma
   - translation_iso: jpn
     name: ビルマ語
   - translation_iso: kor
     name: 버마어
   - translation_iso: por
     name: birmanês
+  - translation_iso: rus
+    name: бирманский
   - translation_iso: spa
     name: idioma birmano
   - translation_iso: zho

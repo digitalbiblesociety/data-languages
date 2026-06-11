@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワンガンガル語
     auto: true
+  - translation_iso: kor
+    name: 왕카응구루어
+    auto: true
   - translation_iso: por
     name: Wangkangurru
     auto: true

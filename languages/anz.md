@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيم
     auto: true
+  - translation_iso: ben
+    name: আনেম
   - translation_iso: deu
     name: Anem-Sprache
   - translation_iso: fra
@@ -27,9 +29,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネム語
+  - translation_iso: kor
+    name: 아넴어
+    auto: true
   - translation_iso: por
     name: Anem
     auto: true
+  - translation_iso: rus
+    name: Анем
   - translation_iso: spa
     name: Idioma anêm
   - translation_iso: zho

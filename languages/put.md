@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: プトー語
     auto: true
+  - translation_iso: kor
+    name: 푸토어
+    auto: true
   - translation_iso: por
     name: Putoh
     auto: true

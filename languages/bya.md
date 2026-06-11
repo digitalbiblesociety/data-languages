@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बाटक
     auto: true
+  - translation_iso: ind
+    name: Ibatag
   - translation_iso: jpn
     name: バタック語
+    auto: true
+  - translation_iso: kor
+    name: 바탁어
     auto: true
   - translation_iso: por
     name: Batak

@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: हालिया
     auto: true
+  - translation_iso: ind
+    name: Bahasa Halia
   - translation_iso: jpn
     name: ハリア語
+  - translation_iso: kor
+    name: 할리아어
+    auto: true
   - translation_iso: por
     name: Halia
     auto: true

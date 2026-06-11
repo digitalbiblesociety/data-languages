@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: シャラナウア語
     auto: true
+  - translation_iso: kor
+    name: 샤라나와어
+    auto: true
   - translation_iso: por
     name: Sharanahua
     auto: true

@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Macedonian_language"
 translations:
   - translation_iso: ara
     name: المقدونية
+  - translation_iso: ben
+    name: ম্যাসেডোনিয়া
   - translation_iso: deu
     name: Mazedonisch
   - translation_iso: fra
     name: macédonien
   - translation_iso: hin
     name: मेसिडोनियन भाषा
+  - translation_iso: ind
+    name: Makedonia
   - translation_iso: jpn
     name: マケドニア語
   - translation_iso: kor
     name: 마케도니아어
   - translation_iso: por
     name: língua macedônia
+  - translation_iso: rus
+    name: македонский
   - translation_iso: spa
     name: macedonio
   - translation_iso: zho

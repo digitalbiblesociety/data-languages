@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ピサボ語
     auto: true
+  - translation_iso: kor
+    name: 피사보어
+    auto: true
   - translation_iso: por
     name: Pisabo
     auto: true
+  - translation_iso: rus
+    name: Писабо
   - translation_iso: spa
     name: Pisabo
   - translation_iso: zho

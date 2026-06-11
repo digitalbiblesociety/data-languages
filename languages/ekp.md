@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エクペイェ語
     auto: true
+  - translation_iso: kor
+    name: 에크페예어
+    auto: true
   - translation_iso: por
     name: Ekpeye
     auto: true

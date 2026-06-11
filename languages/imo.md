@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イムボング語
     auto: true
+  - translation_iso: kor
+    name: 임봉구어
+    auto: true
   - translation_iso: por
     name: Imbongu
     auto: true

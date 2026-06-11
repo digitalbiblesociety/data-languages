@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أرغوني
     auto: true
+  - translation_iso: ben
+    name: আরগুনী
   - translation_iso: deu
     name: Arguni
   - translation_iso: fra
@@ -27,11 +29,18 @@ translations:
   - translation_iso: hin
     name: अर्गुनी
     auto: true
+  - translation_iso: ind
+    name: Arguni
   - translation_iso: jpn
     name: アルグニ語
     auto: true
+  - translation_iso: kor
+    name: 아르구니어
+    auto: true
   - translation_iso: por
     name: Arguni
+  - translation_iso: rus
+    name: аргуни
   - translation_iso: spa
     name: Arguni
   - translation_iso: zho

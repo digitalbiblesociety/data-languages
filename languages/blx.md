@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: माग-इंदी आयता
     auto: true
+  - translation_iso: ind
+    name: Bahasa Mag-Indi
   - translation_iso: jpn
     name: マグ・インディ・アイタ語
+    auto: true
+  - translation_iso: kor
+    name: 마그인디 아이타어
     auto: true
   - translation_iso: por
     name: Mag-Indi Ayta

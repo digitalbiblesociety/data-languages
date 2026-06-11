@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: インドリ語
     auto: true
+  - translation_iso: kor
+    name: 인드리어
+    auto: true
   - translation_iso: por
     name: Indri
     auto: true

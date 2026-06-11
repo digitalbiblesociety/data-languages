@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語
+  - translation_iso: kor
+    name: 양쿠니차차라어
+    auto: true
   - translation_iso: por
     name: Yankunytjatjara
+  - translation_iso: rus
+    name: Янкуньтятяра
   - translation_iso: spa
     name: Yankunytjatjara
   - translation_iso: zho

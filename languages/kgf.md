@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クベ語
     auto: true
+  - translation_iso: kor
+    name: 쿠베어
+    auto: true
   - translation_iso: por
     name: Kube
     auto: true

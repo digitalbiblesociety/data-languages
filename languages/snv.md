@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: साबान
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Sa'ban"
   - translation_iso: jpn
     name: メラウ語
+    auto: true
+  - translation_iso: kor
+    name: 사반어
     auto: true
   - translation_iso: por
     name: "Sa'ban"

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワボダ語
     auto: true
+  - translation_iso: kor
+    name: 와보다어
+    auto: true
   - translation_iso: por
     name: Waboda
     auto: true

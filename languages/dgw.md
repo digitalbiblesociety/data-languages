@@ -26,9 +26,14 @@ translations:
   - translation_iso: jpn
     name: ダウングワルング語
     auto: true
+  - translation_iso: kor
+    name: 다웅우룽어
+    auto: true
   - translation_iso: por
     name: Daungwurrung
     auto: true
+  - translation_iso: rus
+    name: Таунгвуррунг
   - translation_iso: spa
     name: Idioma taungurung
   - translation_iso: zho

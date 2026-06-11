@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيكوارا
     auto: true
+  - translation_iso: ben
+    name: বেকওয়াররা
   - translation_iso: deu
     name: Bekwarra
   - translation_iso: fra
@@ -31,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: ベクワッラ語
     auto: true
+  - translation_iso: kor
+    name: 베콰라어
+    auto: true
   - translation_iso: por
     name: Língua bekwarra
+  - translation_iso: rus
+    name: Бекварра
   - translation_iso: spa
     name: bekwarra
   - translation_iso: zho

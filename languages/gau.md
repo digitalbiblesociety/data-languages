@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムディリ・ガダバ語
     auto: true
+  - translation_iso: kor
+    name: 무딜리 가다바어
+    auto: true
   - translation_iso: por
     name: gadaba de Mudhili
     auto: true

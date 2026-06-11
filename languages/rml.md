@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: بالتيك رومانية
     auto: true
+  - translation_iso: ben
+    name: বাল্টিক রোমানি
   - translation_iso: deu
     name: Baltisches Romani
     auto: true
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルト・ロマ語
+  - translation_iso: kor
+    name: 발트 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Báltico
     auto: true
+  - translation_iso: rus
+    name: Балтийские диалекты цыганского языка
   - translation_iso: spa
     name: Romaní báltico
     auto: true

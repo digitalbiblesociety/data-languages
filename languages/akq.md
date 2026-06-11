@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة آك
     auto: true
+  - translation_iso: ben
+    name: একে
   - translation_iso: deu
     name: Ak
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アク語
+    auto: true
+  - translation_iso: kor
+    name: 아크어
     auto: true
   - translation_iso: por
     name: Ak

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أمباري دوغون
     auto: true
+  - translation_iso: ben
+    name: আমপারি দোগন
   - translation_iso: deu
     name: Ampari-Dogon
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンパリドゴン語
+    auto: true
+  - translation_iso: kor
+    name: 암파리 도곤어
     auto: true
   - translation_iso: por
     name: Dogon Ampari

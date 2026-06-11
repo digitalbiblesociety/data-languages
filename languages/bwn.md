@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 唔奈方言
+  - translation_iso: kor
+    name: 우나이 부누어
+    auto: true
   - translation_iso: por
     name: Bunu Wunai
     auto: true

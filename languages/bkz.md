@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: बुंगकू
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bungku
   - translation_iso: jpn
     name: ブングク語
+    auto: true
+  - translation_iso: kor
+    name: 붕쿠어
     auto: true
   - translation_iso: por
     name: Língua bungku

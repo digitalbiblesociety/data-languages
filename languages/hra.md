@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: هرانغخول
     auto: true
+  - translation_iso: ben
+    name: হ্রাংখোল ভাষা
   - translation_iso: deu
     name: Hrangkhol
     auto: true
@@ -31,6 +33,9 @@ translations:
     name: हरंगखोल भाषा
   - translation_iso: jpn
     name: フランクホル語
+    auto: true
+  - translation_iso: kor
+    name: 흐랑콜어
     auto: true
   - translation_iso: por
     name: Hrangkhol

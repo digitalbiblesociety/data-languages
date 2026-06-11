@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغواتيمالية
     auto: true
+  - translation_iso: ben
+    name: গুয়েতামালাই ইশারা ভাষা
   - translation_iso: deu
     name: Guatemalanische Gebärdensprache
   - translation_iso: fra
@@ -29,8 +31,13 @@ translations:
     name: ग्वाटेमेले सांकेतिक भाषा
   - translation_iso: jpn
     name: グアテマラ手話
+  - translation_iso: kor
+    name: 과테말라 수어
+    auto: true
   - translation_iso: por
     name: Língua Gestual da Guatemala
+  - translation_iso: rus
+    name: гватемальский жестовый язык
   - translation_iso: spa
     name: lengua de señas guatemalteco
   - translation_iso: zho

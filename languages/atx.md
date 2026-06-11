@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروتاني
     auto: true
+  - translation_iso: ben
+    name: অরুতানি
   - translation_iso: deu
     name: Arutani
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: アルタニ語
     auto: true
+  - translation_iso: kor
+    name: 아루타니어
+    auto: true
   - translation_iso: por
     name: Língua arutani
+  - translation_iso: rus
+    name: Арутани
   - translation_iso: spa
     name: Idioma arutani
   - translation_iso: zho

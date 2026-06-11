@@ -27,8 +27,13 @@ translations:
   - translation_iso: hin
     name: "ते'उन"
     auto: true
+  - translation_iso: ind
+    name: "Te'un"
   - translation_iso: jpn
     name: テウン語
+    auto: true
+  - translation_iso: kor
+    name: 테운어
     auto: true
   - translation_iso: por
     name: "Te'un"

@@ -22,6 +22,8 @@ translations:
   - translation_iso: hin
     name: कारा (कोरिया)
     auto: true
+  - translation_iso: ind
+    name: bahasa Gaya
   - translation_iso: jpn
     name: 伽耶語
   - translation_iso: kor

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クバレ語
     auto: true
+  - translation_iso: kor
+    name: 쿠발레어
+    auto: true
   - translation_iso: por
     name: Kuvale
     auto: true

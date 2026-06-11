@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بالايسانج
     auto: true
+  - translation_iso: ben
+    name: বালেসাং
   - translation_iso: deu
     name: Balaesang
   - translation_iso: fra
@@ -28,11 +30,18 @@ translations:
   - translation_iso: hin
     name: बलाएसांग
     auto: true
+  - translation_iso: ind
+    name: Balaesang
   - translation_iso: jpn
     name: バラエサン語
     auto: true
+  - translation_iso: kor
+    name: 발라에상어
+    auto: true
   - translation_iso: por
     name: Balaesang
+  - translation_iso: rus
+    name: балэсангский язык
   - translation_iso: spa
     name: Balaesang
   - translation_iso: zho

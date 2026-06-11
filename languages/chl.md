@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: カウィラ語
     auto: true
+  - translation_iso: kor
+    name: 카우이야어
+    auto: true
   - translation_iso: por
     name: Língua Ivilyuat
+  - translation_iso: rus
+    name: Кауилья
   - translation_iso: spa
     name: cahuilla
   - translation_iso: zho

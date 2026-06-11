@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: यौर
     auto: true
+  - translation_iso: ind
+    name: Yaur
   - translation_iso: jpn
     name: ヤウル語
+    auto: true
+  - translation_iso: kor
+    name: 야우르어
     auto: true
   - translation_iso: por
     name: Yaur

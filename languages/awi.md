@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيكيوم
     auto: true
+  - translation_iso: ben
+    name: আউইন
   - translation_iso: deu
     name: Aekyom
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アエキヨム語
+    auto: true
+  - translation_iso: kor
+    name: 아에키옴어
     auto: true
   - translation_iso: por
     name: Aekyom

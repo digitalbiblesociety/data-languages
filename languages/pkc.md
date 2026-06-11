@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايكتشي
     auto: true
+  - translation_iso: ben
+    name: বায়েকজে
   - translation_iso: deu
     name: Paekche
     auto: true
@@ -26,6 +28,8 @@ translations:
   - translation_iso: hin
     name: बैक्जे
     auto: true
+  - translation_iso: ind
+    name: Baekje
   - translation_iso: jpn
     name: 百済語
   - translation_iso: kor

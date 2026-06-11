@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: パウマリ語
     auto: true
+  - translation_iso: kor
+    name: 파우마리어
+    auto: true
   - translation_iso: por
     name: Língua paumari
+  - translation_iso: rus
+    name: Паумари
   - translation_iso: spa
     name: paumarí
   - translation_iso: zho

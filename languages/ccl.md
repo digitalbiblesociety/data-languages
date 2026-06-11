@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クッチ・スワヒリ語
     auto: true
+  - translation_iso: kor
+    name: 쿠치 스와힐리어
+    auto: true
   - translation_iso: por
     name: Suaíli Cutchi
     auto: true
+  - translation_iso: rus
+    name: кутчи-суахили
   - translation_iso: spa
     name: Suajili Cutchi
     auto: true

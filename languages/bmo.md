@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بامبالانج
     auto: true
+  - translation_iso: ben
+    name: বামবালাং
   - translation_iso: deu
     name: Bambalang
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンバラン語
+    auto: true
+  - translation_iso: kor
+    name: 밤발랑어
     auto: true
   - translation_iso: por
     name: Bambalang

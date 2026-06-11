@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マンディ語
     auto: true
+  - translation_iso: kor
+    name: 위아루무스어
+    auto: true
   - translation_iso: por
     name: Wiarumus
     auto: true
+  - translation_iso: rus
+    name: Виарумус
   - translation_iso: spa
     name: Wiarumus
     auto: true

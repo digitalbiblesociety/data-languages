@@ -30,8 +30,13 @@ translations:
     name: आओ भाषा
   - translation_iso: jpn
     name: アオ・ナガ語
+  - translation_iso: kor
+    name: 아오 나가어
+    auto: true
   - translation_iso: por
     name: Língua Ao
+  - translation_iso: rus
+    name: ао
   - translation_iso: spa
     name: idioma ao
   - translation_iso: zho

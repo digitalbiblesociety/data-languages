@@ -34,6 +34,8 @@ translations:
     name: 콜리마 유카기르어
   - translation_iso: por
     name: Língua yukaghir de Kolyma
+  - translation_iso: rus
+    name: южноюкагирский язык
   - translation_iso: spa
     name: Yukaghir meridional
     auto: true

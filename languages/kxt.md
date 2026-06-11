@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: コイワット語
     auto: true
+  - translation_iso: kor
+    name: 코이왓어
+    auto: true
   - translation_iso: por
     name: Koiwat
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرها
     auto: true
+  - translation_iso: ben
+    name: আরহা
   - translation_iso: deu
     name: Arhâ
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルハー語
+    auto: true
+  - translation_iso: kor
+    name: 아라어
     auto: true
   - translation_iso: por
     name: Arhâ

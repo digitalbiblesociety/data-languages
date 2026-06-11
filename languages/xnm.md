@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ngumbarl語
+  - translation_iso: kor
+    name: 응움발어
+    auto: true
   - translation_iso: por
     name: Ngumbarl
     auto: true

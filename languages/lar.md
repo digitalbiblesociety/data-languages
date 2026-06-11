@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ラルテ語
     auto: true
+  - translation_iso: kor
+    name: 라르테어
+    auto: true
   - translation_iso: por
     name: Larteh
     auto: true

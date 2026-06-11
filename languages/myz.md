@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 古典マンダイク語
     auto: true
+  - translation_iso: kor
+    name: 고전 만다야어
+    auto: true
   - translation_iso: por
     name: mandaico clássico
   - translation_iso: spa

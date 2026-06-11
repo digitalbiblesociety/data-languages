@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 南トゥシアン語
     auto: true
+  - translation_iso: kor
+    name: 남부 투시안어
+    auto: true
   - translation_iso: por
     name: Toussian Meridional
     auto: true

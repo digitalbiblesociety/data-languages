@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カバ語
     auto: true
+  - translation_iso: kor
+    name: 카바어
+    auto: true
   - translation_iso: por
     name: Kaba
     auto: true

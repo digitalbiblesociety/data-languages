@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: エヌ語
     auto: true
+  - translation_iso: kor
+    name: 에누어
+    auto: true
   - translation_iso: por
     name: Enu
     auto: true

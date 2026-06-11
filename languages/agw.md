@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: カフア語
     auto: true
+  - translation_iso: kor
+    name: 카후아어
+    auto: true
   - translation_iso: por
     name: Língua kahua
   - translation_iso: spa

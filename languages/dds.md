@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ドンノ・ソ・ドゴン語
     auto: true
+  - translation_iso: kor
+    name: 돈노소 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Donno So
     auto: true

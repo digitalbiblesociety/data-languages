@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: कोरोवाई
     auto: true
+  - translation_iso: ind
+    name: Karufo Auf
   - translation_iso: jpn
     name: コロワイ語
     auto: true
+  - translation_iso: kor
+    name: 코로와이어
+    auto: true
   - translation_iso: por
     name: Língua korowai
+  - translation_iso: rus
+    name: Короваи
   - translation_iso: spa
     name: Korowai
     auto: true

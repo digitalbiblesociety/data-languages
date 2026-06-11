@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティラ語
     auto: true
+  - translation_iso: kor
+    name: 티라어
+    auto: true
   - translation_iso: por
     name: Tira
     auto: true

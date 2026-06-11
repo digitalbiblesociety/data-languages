@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: キツァイ語
     auto: true
+  - translation_iso: kor
+    name: 키차이어
+    auto: true
   - translation_iso: por
     name: Kitsai
     auto: true
+  - translation_iso: rus
+    name: Кицайский язык
   - translation_iso: spa
     name: Kitsai
     auto: true

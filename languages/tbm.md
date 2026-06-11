@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タグブ語
     auto: true
+  - translation_iso: kor
+    name: 타그부어
+    auto: true
   - translation_iso: por
     name: Tagbu
     auto: true

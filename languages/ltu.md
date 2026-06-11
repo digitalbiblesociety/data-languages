@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラトゥ語
+  - translation_iso: kor
+    name: 라투어
+    auto: true
   - translation_iso: por
     name: Latu
     auto: true

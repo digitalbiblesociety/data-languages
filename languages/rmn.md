@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: بالكان رومانية
     auto: true
+  - translation_iso: ben
+    name: বালকান রোমানি
   - translation_iso: deu
     name: Balkan-Romani
     auto: true
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルカン方言群
+  - translation_iso: kor
+    name: 발칸 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Balcânico
     auto: true
+  - translation_iso: rus
+    name: Балканские диалекты цыганского языка
   - translation_iso: spa
     name: Romaní balcánico
     auto: true

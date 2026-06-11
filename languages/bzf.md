@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ボイキン語
     auto: true
+  - translation_iso: kor
+    name: 보이킨어
+    auto: true
   - translation_iso: por
     name: Boikin
     auto: true

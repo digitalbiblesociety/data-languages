@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レニマ語
     auto: true
+  - translation_iso: kor
+    name: 레니마어
+    auto: true
   - translation_iso: por
     name: Lenyima
     auto: true

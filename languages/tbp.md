@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ताओर्ता
     auto: true
+  - translation_iso: ind
+    name: Taworta
   - translation_iso: jpn
     name: タウォルタ語
+    auto: true
+  - translation_iso: kor
+    name: 타워르타어
     auto: true
   - translation_iso: por
     name: Taworta

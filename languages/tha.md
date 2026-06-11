@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Thai_language"
 translations:
   - translation_iso: ara
     name: التايلندية
+  - translation_iso: ben
+    name: থাই
   - translation_iso: deu
     name: Thailändisch
   - translation_iso: fra
     name: thaï
   - translation_iso: hin
     name: थाई भाषा
+  - translation_iso: ind
+    name: Thai
   - translation_iso: jpn
     name: タイ語
   - translation_iso: kor
     name: 태국어
   - translation_iso: por
     name: tailandês
+  - translation_iso: rus
+    name: тайский
   - translation_iso: spa
     name: tailandés
   - translation_iso: zho

@@ -21,11 +21,18 @@ translations:
   - translation_iso: hin
     name: मध्ययुगीन अर्मेनियाई
     auto: true
+  - translation_iso: ind
+    name: Bahasa Armenia Pertengahan
   - translation_iso: jpn
     name: 中世アルメニア語
+  - translation_iso: kor
+    name: 중세 아르메니아어
+    auto: true
   - translation_iso: por
     name: Armênio Médio
     auto: true
+  - translation_iso: rus
+    name: среднеармянский язык
   - translation_iso: spa
     name: armenio medio
   - translation_iso: zho

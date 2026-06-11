@@ -31,6 +31,9 @@ translations:
     name: कलकोटी भाषा
   - translation_iso: jpn
     name: カルコート語
+  - translation_iso: kor
+    name: 칼코티어
+    auto: true
   - translation_iso: por
     name: Língua kalkot
   - translation_iso: spa

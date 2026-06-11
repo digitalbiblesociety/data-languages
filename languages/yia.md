@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インガーダ語
+  - translation_iso: kor
+    name: 잉가르다어
+    auto: true
   - translation_iso: por
     name: yinggarda
     auto: true

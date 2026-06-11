@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部パイユート語
+  - translation_iso: kor
+    name: 북부 파이우트어
+    auto: true
   - translation_iso: por
     name: Língua paiúte setentrional
+  - translation_iso: rus
+    name: Северный паюте (язык)
   - translation_iso: spa
     name: paiute septentrional
   - translation_iso: zho

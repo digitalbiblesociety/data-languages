@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サユラ語
+  - translation_iso: kor
+    name: 사율라 포폴루카어
+    auto: true
   - translation_iso: por
     name: Língua sayula popoluca
+  - translation_iso: rus
+    name: саюланский пополукский язык
   - translation_iso: spa
     name: idioma sayulteco
   - translation_iso: zho

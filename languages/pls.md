@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: サンマルコストラコヤルコポポカ語
     auto: true
+  - translation_iso: kor
+    name: 산마르코스 틀라코얄코 포폴로카어
+    auto: true
   - translation_iso: por
     name: Popoloca de San Marcos Tlacoyalco
     auto: true

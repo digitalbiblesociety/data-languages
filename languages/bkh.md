@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バココ語
+  - translation_iso: kor
+    name: 바코코어
+    auto: true
   - translation_iso: por
     name: Bakoko
     auto: true
+  - translation_iso: rus
+    name: Кого (язык)
   - translation_iso: spa
     name: kogo
   - translation_iso: zho

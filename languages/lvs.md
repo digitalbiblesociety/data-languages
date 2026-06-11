@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 標準ラトビア語
     auto: true
+  - translation_iso: kor
+    name: 표준 라트비아어
+    auto: true
   - translation_iso: por
     name: Letão padrão
     auto: true

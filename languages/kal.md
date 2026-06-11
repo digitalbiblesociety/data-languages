@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Greenlandic_language"
 translations:
   - translation_iso: ara
     name: الغرينلاندية
+  - translation_iso: ben
+    name: কালাল্লিসুট
   - translation_iso: deu
     name: Grönländisch
   - translation_iso: fra
     name: groenlandais
   - translation_iso: hin
     name: ग्रीनलैंडिक भाषा
+  - translation_iso: ind
+    name: Kalaallisut
   - translation_iso: jpn
     name: グリーンランド語
   - translation_iso: kor
     name: 그린란드어
   - translation_iso: por
     name: gronelandês
+  - translation_iso: rus
+    name: гренландский
   - translation_iso: spa
     name: groenlandés
   - translation_iso: zho

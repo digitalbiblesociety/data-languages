@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: リモス・カリンガ語
     auto: true
+  - translation_iso: kor
+    name: 리모스 칼링가어
+    auto: true
   - translation_iso: por
     name: Kalinga de Limos
     auto: true

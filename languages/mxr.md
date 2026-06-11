@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: मुरिक (मलेशिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Murik
   - translation_iso: jpn
     name: ムリク語
+    auto: true
+  - translation_iso: kor
+    name: 무리크어
     auto: true
   - translation_iso: por
     name: Murik (Malásia)
     auto: true
+  - translation_iso: rus
+    name: Мурикский язык
   - translation_iso: spa
     name: Murik (Malasia)
     auto: true

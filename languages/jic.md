@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: トル語
     auto: true
+  - translation_iso: kor
+    name: 톨어
+    auto: true
   - translation_iso: por
     name: Tol
     auto: true
+  - translation_iso: rus
+    name: Тольский язык
   - translation_iso: spa
     name: Tol
     auto: true

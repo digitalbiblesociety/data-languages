@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャマサイ方言
+  - translation_iso: kor
+    name: 잠사이 도곤어
+    auto: true
   - translation_iso: por
     name: Dogon Jamsay
     auto: true

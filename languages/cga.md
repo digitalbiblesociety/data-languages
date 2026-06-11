@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: チャングリワ語
     auto: true
+  - translation_iso: kor
+    name: 창리와어
+    auto: true
   - translation_iso: por
     name: Changriwa
     auto: true

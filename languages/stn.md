@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オワ語
+  - translation_iso: kor
+    name: 오와어
+    auto: true
   - translation_iso: por
     name: Owa
     auto: true

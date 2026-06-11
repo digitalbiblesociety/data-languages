@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ナヌバエ語
     auto: true
+  - translation_iso: kor
+    name: 나누바에어
+    auto: true
   - translation_iso: por
     name: Nanubae
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بهالاي
     auto: true
+  - translation_iso: ben
+    name: ভালয়
   - translation_iso: deu
     name: Bhalay
     auto: true
@@ -26,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バハレイ語
+    auto: true
+  - translation_iso: kor
+    name: 발라이어
     auto: true
   - translation_iso: por
     name: Bhalay

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة آوو
     auto: true
+  - translation_iso: ben
+    name: আউ য়ি
   - translation_iso: deu
     name: Awu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウ語
+    auto: true
+  - translation_iso: kor
+    name: 아우어
     auto: true
   - translation_iso: por
     name: awu

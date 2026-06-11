@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: バルバドス語
     auto: true
+  - translation_iso: kor
+    name: 우모티나어
+    auto: true
   - translation_iso: por
     name: Língua umutina
+  - translation_iso: rus
+    name: Умотина
   - translation_iso: spa
     name: Umotina
   - translation_iso: zho

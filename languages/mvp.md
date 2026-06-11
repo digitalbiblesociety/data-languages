@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: दुरी
     auto: true
+  - translation_iso: ind
+    name: Bahasa Duri
   - translation_iso: jpn
     name: ドゥリ語
     auto: true
+  - translation_iso: kor
+    name: 두리어
+    auto: true
   - translation_iso: por
     name: Língua duri
+  - translation_iso: rus
+    name: дури
   - translation_iso: spa
     name: Duri
     auto: true

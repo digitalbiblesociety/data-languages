@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bilen_language"
 translations:
   - translation_iso: ara
     name: البلينية
+  - translation_iso: ben
+    name: ব্লিন
   - translation_iso: deu
     name: Blin
   - translation_iso: fra
     name: bilen
   - translation_iso: hin
     name: ब्लिन
+  - translation_iso: ind
+    name: Blin
   - translation_iso: jpn
     name: ビリン語
   - translation_iso: kor
     name: 브린어
   - translation_iso: por
     name: Língua blin
+  - translation_iso: rus
+    name: билин
   - translation_iso: spa
     name: blin
   - translation_iso: zho

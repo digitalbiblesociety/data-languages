@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: シルムバ語
     auto: true
+  - translation_iso: kor
+    name: 슈와이어
+    auto: true
   - translation_iso: por
     name: Shwai
     auto: true

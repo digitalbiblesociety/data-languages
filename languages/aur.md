@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروك
     auto: true
+  - translation_iso: ben
+    name: আরুক
   - translation_iso: deu
     name: Aruek
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルエク語
+    auto: true
+  - translation_iso: kor
+    name: 아루에크어
     auto: true
   - translation_iso: por
     name: Aruek

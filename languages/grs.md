@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: ग्रेसी
     auto: true
+  - translation_iso: ind
+    name: bahasa Gresi
   - translation_iso: jpn
     name: グレシ語
+    auto: true
+  - translation_iso: kor
+    name: 그레시어
     auto: true
   - translation_iso: por
     name: Gresi

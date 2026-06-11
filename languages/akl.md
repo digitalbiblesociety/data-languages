@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أكلانون
     auto: true
+  - translation_iso: ben
+    name: আকলান
   - translation_iso: deu
     name: Akeanon
   - translation_iso: fra
@@ -27,12 +29,16 @@ translations:
   - translation_iso: hin
     name: अक्लानोन
     auto: true
+  - translation_iso: ind
+    name: bahasa Akean
   - translation_iso: jpn
     name: アクラノン語
   - translation_iso: kor
     name: 아클라논어
   - translation_iso: por
     name: língua aklan
+  - translation_iso: rus
+    name: акланон
   - translation_iso: spa
     name: aclano
   - translation_iso: zho

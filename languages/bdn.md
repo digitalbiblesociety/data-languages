@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالديمو
     auto: true
+  - translation_iso: ben
+    name: বলদেমু
   - translation_iso: deu
     name: Baldemu
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルデム語
+    auto: true
+  - translation_iso: kor
+    name: 발데무어
     auto: true
   - translation_iso: por
     name: Baldemu

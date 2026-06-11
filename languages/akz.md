@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة ألاباما
     auto: true
+  - translation_iso: ben
+    name: আলাবামা
   - translation_iso: deu
     name: Alabama
   - translation_iso: fra
@@ -29,10 +31,17 @@ translations:
   - translation_iso: hin
     name: अलबामा
     auto: true
+  - translation_iso: ind
+    name: Alabama
   - translation_iso: jpn
     name: アラバマ語
+  - translation_iso: kor
+    name: 앨라배마어
+    auto: true
   - translation_iso: por
     name: Língua alabama
+  - translation_iso: rus
+    name: алабамский язык
   - translation_iso: spa
     name: idioma alabama
   - translation_iso: zho

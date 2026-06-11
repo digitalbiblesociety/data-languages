@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ワリ語（スーダン）
     auto: true
+  - translation_iso: kor
+    name: 왈리어
+    auto: true
   - translation_iso: por
     name: Wali (Sudão)
     auto: true

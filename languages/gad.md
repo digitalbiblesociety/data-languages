@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ガッダン語
     auto: true
+  - translation_iso: kor
+    name: 가당어
+    auto: true
   - translation_iso: por
     name: Língua gaddang
   - translation_iso: spa

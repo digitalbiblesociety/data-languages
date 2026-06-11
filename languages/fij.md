@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fijian_language"
 translations:
   - translation_iso: ara
     name: الفيجية
+  - translation_iso: ben
+    name: ফিজিয়ান
   - translation_iso: deu
     name: Fidschi
   - translation_iso: fra
     name: fidjien
   - translation_iso: hin
     name: फ़िजीयाई भाषा
+  - translation_iso: ind
+    name: Fiji
   - translation_iso: jpn
     name: フィジー語
   - translation_iso: kor
     name: 피지어
   - translation_iso: por
     name: Língua fidjiana
+  - translation_iso: rus
+    name: фиджи
   - translation_iso: spa
     name: fiyiano
   - translation_iso: zho

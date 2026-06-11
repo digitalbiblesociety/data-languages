@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: クンジャ語
     auto: true
+  - translation_iso: kor
+    name: 쿤자어
+    auto: true
   - translation_iso: por
     name: Kunja
     auto: true

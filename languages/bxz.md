@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ビナハリ語
     auto: true
+  - translation_iso: kor
+    name: 비나하리어
+    auto: true
   - translation_iso: por
     name: Binahari
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ミニカ・ウイトト語
     auto: true
+  - translation_iso: kor
+    name: 미니카 위토토어
+    auto: true
   - translation_iso: por
     name: Huitoto Minica
     auto: true
+  - translation_iso: rus
+    name: Мыныканский уитотский язык
   - translation_iso: spa
     name: meneca
   - translation_iso: zho

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: レシン・ゲリミ語
     auto: true
+  - translation_iso: kor
+    name: 레싱겔리미어
+    auto: true
   - translation_iso: por
     name: Lesing-Gelimi
     auto: true

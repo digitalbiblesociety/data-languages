@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラウラ語
+  - translation_iso: kor
+    name: 훌라울라어
+    auto: true
   - translation_iso: por
     name: Hulaulá
     auto: true
+  - translation_iso: rus
+    name: южнокурдистанский еврейско-арамейский язык
   - translation_iso: spa
     name: hulaulá
   - translation_iso: zho

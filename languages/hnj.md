@@ -31,6 +31,9 @@ translations:
     name: हमोंग नजुआ
   - translation_iso: jpn
     name: 緑苗語
+  - translation_iso: kor
+    name: 몽 은주아어
+    auto: true
   - translation_iso: por
     name: Hmong Njua
     auto: true

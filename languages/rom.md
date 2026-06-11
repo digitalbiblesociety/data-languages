@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romani_language"
 translations:
   - translation_iso: ara
     name: الرومنية
+  - translation_iso: ben
+    name: রোমানি
   - translation_iso: deu
     name: Romani
   - translation_iso: fra
     name: romani
   - translation_iso: hin
     name: रोमानी भाषा
+  - translation_iso: ind
+    name: Romani
   - translation_iso: jpn
     name: ロマ語
   - translation_iso: kor
     name: 롬어
   - translation_iso: por
     name: Romani
+  - translation_iso: rus
+    name: цыганский
   - translation_iso: spa
     name: romaní
   - translation_iso: zho

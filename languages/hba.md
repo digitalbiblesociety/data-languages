@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ハンバ語
     auto: true
+  - translation_iso: kor
+    name: 함바어
+    auto: true
   - translation_iso: por
     name: Hamba
     auto: true

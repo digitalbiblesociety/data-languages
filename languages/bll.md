@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: بيلوكسي
     auto: true
+  - translation_iso: ben
+    name: বিলোক্সি
   - translation_iso: deu
     name: Biloxi
   - translation_iso: fra
@@ -27,11 +29,18 @@ translations:
   - translation_iso: hin
     name: बिलॉक्सी
     auto: true
+  - translation_iso: ind
+    name: bahasa Biloxi
   - translation_iso: jpn
     name: ビロキシ語
     auto: true
+  - translation_iso: kor
+    name: 빌록시어
+    auto: true
   - translation_iso: por
     name: Língua biloxi
+  - translation_iso: rus
+    name: Билокси (язык)
   - translation_iso: spa
     name: Biloxi
   - translation_iso: zho

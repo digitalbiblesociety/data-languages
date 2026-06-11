@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lillooet_language"
 translations:
   - translation_iso: ara
     name: الليلويتية
+  - translation_iso: ben
+    name: লিল্লুয়েট
   - translation_iso: deu
     name: Lillooet
   - translation_iso: fra
     name: "st'at'imcets"
   - translation_iso: hin
     name: लिलोएट
+  - translation_iso: ind
+    name: Lillooet
   - translation_iso: jpn
     name: リルエット語
   - translation_iso: kor
     name: 릴루엣어
   - translation_iso: por
     name: Língua lillooet
+  - translation_iso: rus
+    name: лиллуэт
   - translation_iso: spa
     name: lillooet
   - translation_iso: zho

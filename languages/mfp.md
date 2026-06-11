@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: मकासर मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Makassar
   - translation_iso: jpn
     name: マカッサル・マレー語
+    auto: true
+  - translation_iso: kor
+    name: 마카사르 말레이어
     auto: true
   - translation_iso: por
     name: Malaio de Makassar

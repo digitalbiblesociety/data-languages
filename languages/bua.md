@@ -14,18 +14,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Buryat_language"
 translations:
   - translation_iso: ara
     name: البورياتية
+  - translation_iso: ben
+    name: বুরিয়াত
   - translation_iso: deu
     name: Burjatisch
   - translation_iso: fra
     name: bouriate
   - translation_iso: hin
     name: बुरियात
+  - translation_iso: ind
+    name: Buriat
   - translation_iso: jpn
     name: ブリヤート語
   - translation_iso: kor
     name: 부랴트어
   - translation_iso: por
     name: Língua buriata
+  - translation_iso: rus
+    name: бурятский
   - translation_iso: spa
     name: buriato
   - translation_iso: zho

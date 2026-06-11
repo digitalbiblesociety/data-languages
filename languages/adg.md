@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أندغيريبينيا
     auto: true
+  - translation_iso: ben
+    name: আন্দেগেরেবিনহা
   - translation_iso: deu
     name: Andegerebinha
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンデゲレビンハ語
+    auto: true
+  - translation_iso: kor
+    name: 안데게레비냐어
     auto: true
   - translation_iso: por
     name: Andegerebinha

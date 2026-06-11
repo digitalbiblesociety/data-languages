@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بيلاري
     auto: true
+  - translation_iso: ben
+    name: বেল্লারি ভাষা
   - translation_iso: deu
     name: Bellari
     auto: true
@@ -30,6 +32,9 @@ translations:
     name: बेल्लारी भाषा
   - translation_iso: jpn
     name: ベラリ語
+  - translation_iso: kor
+    name: 벨라리어
+    auto: true
   - translation_iso: por
     name: Bellari
     auto: true

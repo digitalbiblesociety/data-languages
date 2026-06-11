@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: योंगकोम
     auto: true
+  - translation_iso: ind
+    name: Yonggom
   - translation_iso: jpn
     name: ヨングコム語
+    auto: true
+  - translation_iso: kor
+    name: 용콤어
     auto: true
   - translation_iso: por
     name: yongkom
     auto: true
+  - translation_iso: rus
+    name: Йонгком
   - translation_iso: spa
     name: Yongkom
     auto: true

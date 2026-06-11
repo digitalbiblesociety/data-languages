@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ロ・トガ語
     auto: true
+  - translation_iso: kor
+    name: 로토가어
+    auto: true
   - translation_iso: por
     name: Língua lo-toga
+  - translation_iso: rus
+    name: Ло-тога
   - translation_iso: spa
     name: Lo-Toga
   - translation_iso: zho

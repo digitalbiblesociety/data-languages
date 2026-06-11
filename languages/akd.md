@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أوكپت-إهوم
     auto: true
+  - translation_iso: ben
+    name: আকপেট
   - translation_iso: deu
     name: Ukpet-Ehom
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウクペットエホム語
+    auto: true
+  - translation_iso: kor
+    name: 우크페트·에홈어
     auto: true
   - translation_iso: por
     name: Ukpet-Ehom

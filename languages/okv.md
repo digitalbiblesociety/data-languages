@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロカイヴァ語
+  - translation_iso: kor
+    name: 오로카이바어
+    auto: true
   - translation_iso: por
     name: Orokaiva
     auto: true
+  - translation_iso: rus
+    name: Орокаива
   - translation_iso: spa
     name: Orokaiva
     auto: true

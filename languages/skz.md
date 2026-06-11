@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: सेकार
     auto: true
+  - translation_iso: ind
+    name: Sekar
   - translation_iso: jpn
     name: セカ語
+    auto: true
+  - translation_iso: kor
+    name: 세카르어
     auto: true
   - translation_iso: por
     name: Sekar

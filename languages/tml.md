@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タムニン・チタク語
     auto: true
+  - translation_iso: kor
+    name: 탐님 치탁어
+    auto: true
   - translation_iso: por
     name: Citak Tamnim
     auto: true

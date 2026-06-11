@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: चाडोंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Chadong
   - translation_iso: jpn
     name: チャドン語
+    auto: true
+  - translation_iso: kor
+    name: 차둥어
     auto: true
   - translation_iso: por
     name: Chadong

@@ -22,6 +22,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sassarese_language"
 translations:
   - translation_iso: ara
     name: الساسارية
+  - translation_iso: ben
+    name: সাসরীয় উপভাষা
   - translation_iso: deu
     name: Sassaresisch
   - translation_iso: fra
@@ -29,6 +31,8 @@ translations:
   - translation_iso: hin
     name: सस्सारी सार्डिनियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Sassari
   - translation_iso: jpn
     name: サッサリ・サルデーニャ語
   - translation_iso: kor
@@ -36,6 +40,8 @@ translations:
   - translation_iso: por
     name: Sardo Sassarês
     auto: true
+  - translation_iso: rus
+    name: сассарский язык
   - translation_iso: spa
     name: sasarés
   - translation_iso: zho

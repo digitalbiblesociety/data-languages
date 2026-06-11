@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: イルワナ語
     auto: true
+  - translation_iso: kor
+    name: 일와나어
+    auto: true
   - translation_iso: por
     name: Ilwana
     auto: true

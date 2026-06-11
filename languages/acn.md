@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشانج
     auto: true
+  - translation_iso: ben
+    name: আচাঙ
   - translation_iso: deu
     name: Achang
     auto: true
@@ -35,6 +37,8 @@ translations:
     name: 아창어
   - translation_iso: por
     name: Língua achang
+  - translation_iso: rus
+    name: Ачанский язык
   - translation_iso: spa
     name: Achang
     auto: true

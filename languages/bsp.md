@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: باجا سيتيمو
     auto: true
+  - translation_iso: ben
+    name: বাগা সিতেমু
   - translation_iso: deu
     name: Sitemu
   - translation_iso: fra
@@ -29,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バガ・シテム語
+    auto: true
+  - translation_iso: kor
+    name: 바가 시테무어
     auto: true
   - translation_iso: por
     name: Baga Sitemu

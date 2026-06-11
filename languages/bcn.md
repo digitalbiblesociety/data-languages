@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالي
     auto: true
+  - translation_iso: ben
+    name: বালিনীয়
   - translation_iso: deu
     name: Ibaali
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बाली (नाइजीरिया)
     auto: true
+  - translation_iso: ind
+    name: Bahasa Bali (Adamawa)
   - translation_iso: jpn
     name: バリ語
+    auto: true
+  - translation_iso: kor
+    name: 발리어
     auto: true
   - translation_iso: por
     name: Bali (Nigéria)

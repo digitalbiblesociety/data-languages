@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムリレ語
     auto: true
+  - translation_iso: kor
+    name: 부글레레어
+    auto: true
   - translation_iso: por
     name: Língua buglere
   - translation_iso: spa

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: タヴェアク語
     auto: true
+  - translation_iso: kor
+    name: 남동 암브림어
+    auto: true
   - translation_iso: por
     name: Ambrym Sudeste
     auto: true

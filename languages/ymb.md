@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ヤンベス語
     auto: true
+  - translation_iso: kor
+    name: 얌베스어
+    auto: true
   - translation_iso: por
     name: yambes
     auto: true
+  - translation_iso: rus
+    name: Ямбес
   - translation_iso: spa
     name: Yambes
     auto: true

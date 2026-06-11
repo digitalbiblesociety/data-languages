@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: Mt.イリガ・アグタ語
     auto: true
+  - translation_iso: kor
+    name: 이리가산 아그타어
+    auto: true
   - translation_iso: por
     name: Agta do Monte Iriga
     auto: true

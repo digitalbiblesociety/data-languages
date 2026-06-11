@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Japanese_language"
 translations:
   - translation_iso: ara
     name: اليابانية
+  - translation_iso: ben
+    name: জাপানি
   - translation_iso: deu
     name: Japanisch
   - translation_iso: fra
     name: japonais
   - translation_iso: hin
     name: जापानी
+  - translation_iso: ind
+    name: Jepang
   - translation_iso: jpn
     name: 日本語
   - translation_iso: kor
     name: 일본어
   - translation_iso: por
     name: japonês
+  - translation_iso: rus
+    name: японский
   - translation_iso: spa
     name: japonés
   - translation_iso: zho

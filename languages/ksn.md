@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: कासीगुरानिन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kasiguranin
   - translation_iso: jpn
     name: カシグラニン語
+    auto: true
+  - translation_iso: kor
+    name: 카시구라닌어
     auto: true
   - translation_iso: por
     name: Kasiguranin

@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: لغة أجوسان مانوبو
     auto: true
+  - translation_iso: ben
+    name: আগুসান মানোবো
   - translation_iso: deu
     name: Agusan-Manobo
     auto: true
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アグサン・マノボ語
+  - translation_iso: kor
+    name: 아구산 마노보어
+    auto: true
   - translation_iso: por
     name: manobo de Agusan
     auto: true

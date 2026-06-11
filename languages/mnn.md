@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ムノング語
     auto: true
+  - translation_iso: kor
+    name: 남부 므농어
+    auto: true
   - translation_iso: por
     name: mnong do sul
     auto: true

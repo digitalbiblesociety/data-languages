@@ -24,12 +24,16 @@ translations:
     name: lingua franca nova
   - translation_iso: hin
     name: लिंगुआ फ़्रांका नोवा
+  - translation_iso: ind
+    name: Lingua Franca Nova
   - translation_iso: jpn
     name: リングア・フランカ・ノバ
   - translation_iso: kor
     name: 링구아프랑카노바
   - translation_iso: por
     name: Lingua Franca Nova
+  - translation_iso: rus
+    name: лингва франка нова
   - translation_iso: spa
     name: Lingua Franca Nova
   - translation_iso: zho

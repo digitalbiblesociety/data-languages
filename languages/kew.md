@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・ケワ語
     auto: true
+  - translation_iso: kor
+    name: 서부 케와어
+    auto: true
   - translation_iso: por
     name: Kewa Ocidental
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イクポソ語
     auto: true
+  - translation_iso: kor
+    name: 이크포소어
+    auto: true
   - translation_iso: por
     name: Ikposo
     auto: true

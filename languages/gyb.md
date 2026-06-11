@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ガルス語
     auto: true
+  - translation_iso: kor
+    name: 가루스어
+    auto: true
   - translation_iso: por
     name: Garus
     auto: true

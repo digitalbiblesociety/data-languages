@@ -35,6 +35,8 @@ translations:
     name: 세당어
   - translation_iso: por
     name: Língua sedang
+  - translation_iso: rus
+    name: Седангский язык
   - translation_iso: spa
     name: Sedang
     auto: true

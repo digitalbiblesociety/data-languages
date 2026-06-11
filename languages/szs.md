@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話
+  - translation_iso: kor
+    name: 솔로몬 제도 수어
+    auto: true
   - translation_iso: por
     name: Língua de Sinais das Ilhas Salomão
     auto: true

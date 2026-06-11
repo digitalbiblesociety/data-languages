@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: モイ語
     auto: true
+  - translation_iso: kor
+    name: 모이어
+    auto: true
   - translation_iso: por
     name: Moi (Congo)
     auto: true

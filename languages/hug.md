@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: フアチパエリ語
     auto: true
+  - translation_iso: kor
+    name: 와치파에리어
+    auto: true
   - translation_iso: por
     name: Huachipaeri
     auto: true
+  - translation_iso: rus
+    name: Уачипаэри
   - translation_iso: spa
     name: Huachipaeri
   - translation_iso: zho

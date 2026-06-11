@@ -29,8 +29,13 @@ translations:
     name: सेलिश भाषा
   - translation_iso: jpn
     name: カリスペル語
+  - translation_iso: kor
+    name: 캘리스펠·펜드오레일어
+    auto: true
   - translation_iso: por
     name: Língua salishe
+  - translation_iso: rus
+    name: Калиспел
   - translation_iso: spa
     name: Montana Salish
   - translation_iso: zho

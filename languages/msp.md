@@ -33,8 +33,13 @@ translations:
   - translation_iso: jpn
     name: マリツァウア語
     auto: true
+  - translation_iso: kor
+    name: 마리차우아어
+    auto: true
   - translation_iso: por
     name: Língua manitsauá
+  - translation_iso: rus
+    name: Марицауа
   - translation_iso: spa
     name: Maritsauá
     auto: true

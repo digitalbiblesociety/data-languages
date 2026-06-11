@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西ブル語
     auto: true
+  - translation_iso: kor
+    name: 서부 브루어
+    auto: true
   - translation_iso: por
     name: Bru ocidental
     auto: true

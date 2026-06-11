@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: أويير
     auto: true
+  - translation_iso: ben
+    name: আওয়ির
   - translation_iso: deu
     name: Aweer
   - translation_iso: fra
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: アウェール語
     auto: true
+  - translation_iso: kor
+    name: 아웨르어
+    auto: true
   - translation_iso: por
     name: Aweer
     auto: true
+  - translation_iso: rus
+    name: бони
   - translation_iso: spa
     name: Aweer
     auto: true

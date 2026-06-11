@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥラ語
+  - translation_iso: kor
+    name: 두라어
+    auto: true
   - translation_iso: por
     name: Língua dura
   - translation_iso: spa

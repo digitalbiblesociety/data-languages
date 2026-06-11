@@ -35,8 +35,10 @@ translations:
   - translation_iso: kor
     name: 파나어 (로로어군)
   - translation_iso: por
-    name: "Phana'"
+    name: Phana
     auto: true
+  - translation_iso: rus
+    name: Пхана
   - translation_iso: spa
     name: Phana
     auto: true

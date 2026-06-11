@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ナクウィ語
     auto: true
+  - translation_iso: kor
+    name: 나퀴어
+    auto: true
   - translation_iso: por
     name: Nakwi
     auto: true

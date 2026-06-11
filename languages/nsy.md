@@ -27,11 +27,18 @@ translations:
   - translation_iso: hin
     name: नासाल
     auto: true
+  - translation_iso: ind
+    name: Nasal
   - translation_iso: jpn
     name: ナサル語
     auto: true
+  - translation_iso: kor
+    name: 나살어
+    auto: true
   - translation_iso: por
     name: Nasal
+  - translation_iso: rus
+    name: Насал
   - translation_iso: spa
     name: Nasal
   - translation_iso: zho

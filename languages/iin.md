@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティーン語
     auto: true
+  - translation_iso: kor
+    name: 틴어
+    auto: true
   - translation_iso: por
     name: Thiin
     auto: true

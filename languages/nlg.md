@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゲラ語
+  - translation_iso: kor
+    name: 겔라어
+    auto: true
   - translation_iso: por
     name: Gela
     auto: true

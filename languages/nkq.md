@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ンカミ語
     auto: true
+  - translation_iso: kor
+    name: 은카미어
+    auto: true
   - translation_iso: por
     name: Nkami
     auto: true

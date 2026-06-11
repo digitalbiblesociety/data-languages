@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モケーニ語
+  - translation_iso: kor
+    name: 모케노어
+    auto: true
   - translation_iso: por
     name: língua mochena
+  - translation_iso: rus
+    name: мокенский язык
   - translation_iso: spa
     name: idioma mócheno
   - translation_iso: zho

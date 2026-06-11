@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナイ語
+  - translation_iso: kor
+    name: 나이어
+    auto: true
   - translation_iso: por
     name: Nai
     auto: true

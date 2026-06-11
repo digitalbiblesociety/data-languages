@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ビモバ語
     auto: true
+  - translation_iso: kor
+    name: 비모바어
+    auto: true
   - translation_iso: por
     name: Bimoba
     auto: true

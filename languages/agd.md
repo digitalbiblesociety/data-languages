@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أغارابي
     auto: true
+  - translation_iso: ben
+    name: আগারাবি
   - translation_iso: deu
     name: Agarabi
     auto: true
@@ -32,9 +34,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガラビ語
+  - translation_iso: kor
+    name: 아가라비어
+    auto: true
   - translation_iso: por
     name: Agarabi
     auto: true
+  - translation_iso: rus
+    name: Агараби
   - translation_iso: spa
     name: Agarabi
     auto: true

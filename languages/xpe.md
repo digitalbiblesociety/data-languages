@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リベリア・クペレ語
+  - translation_iso: kor
+    name: 라이베리아 크펠레어
+    auto: true
   - translation_iso: por
     name: Kpelle da Libéria
     auto: true

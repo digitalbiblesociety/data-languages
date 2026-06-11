@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マペ語
     auto: true
+  - translation_iso: kor
+    name: 마페어
+    auto: true
   - translation_iso: por
     name: Mape
     auto: true

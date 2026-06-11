@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ニャム語
     auto: true
+  - translation_iso: kor
+    name: 냠어
+    auto: true
   - translation_iso: por
     name: Nyam
     auto: true
+  - translation_iso: rus
+    name: Ньям
   - translation_iso: spa
     name: Nyam
     auto: true

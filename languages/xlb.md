@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ルーポB語
     auto: true
+  - translation_iso: kor
+    name: 루 베어
+    auto: true
   - translation_iso: por
     name: Loup B
     auto: true

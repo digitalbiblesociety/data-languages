@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامينيام
     auto: true
+  - translation_iso: ben
+    name: বামেনিয়াম
   - translation_iso: deu
     name: Bamenyam
   - translation_iso: fra
@@ -30,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バメニャム語
+    auto: true
+  - translation_iso: kor
+    name: 바메냠어
     auto: true
   - translation_iso: por
     name: Bamenyam

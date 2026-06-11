@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボコト語
+  - translation_iso: kor
+    name: 보코토어
+    auto: true
   - translation_iso: por
     name: Bokoto
     auto: true

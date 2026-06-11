@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bima_language"
 translations:
   - translation_iso: ara
     name: لغة بيما
+  - translation_iso: ben
+    name: বিমা
   - translation_iso: deu
     name: Bima
   - translation_iso: fra
@@ -27,10 +29,17 @@ translations:
   - translation_iso: hin
     name: बीमा
     auto: true
+  - translation_iso: ind
+    name: Bima
   - translation_iso: jpn
     name: ビマ語
+  - translation_iso: kor
+    name: 비마어
+    auto: true
   - translation_iso: por
     name: Língua bima
+  - translation_iso: rus
+    name: Бима
   - translation_iso: spa
     name: Bima
   - translation_iso: zho

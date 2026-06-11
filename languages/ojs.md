@@ -22,18 +22,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oji-Cree_language"
 translations:
   - translation_iso: ara
     name: الأوجي-كري
+  - translation_iso: ben
+    name: ওজি-ক্রী
   - translation_iso: deu
     name: Oji-Cree
   - translation_iso: fra
     name: oji-cri
   - translation_iso: hin
     name: ओजी-क्री
+  - translation_iso: ind
+    name: Oji-Cree
   - translation_iso: jpn
     name: セヴァーン・オジブワ語
   - translation_iso: kor
     name: 오지 크리어
   - translation_iso: por
     name: Língua Oji-Cree
+  - translation_iso: rus
+    name: оджи-кри
   - translation_iso: spa
     name: oji-cree
   - translation_iso: zho

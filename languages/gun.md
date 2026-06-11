@@ -36,6 +36,8 @@ translations:
     name: nujnnjuytg
   - translation_iso: por
     name: Dialeto mbiá
+  - translation_iso: rus
+    name: Мбья-гуарани
   - translation_iso: spa
     name: mbyá
   - translation_iso: zho

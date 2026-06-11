@@ -30,9 +30,14 @@ translations:
   - translation_iso: jpn
     name: マングエ語
     auto: true
+  - translation_iso: kor
+    name: 망게어
+    auto: true
   - translation_iso: por
     name: Mangue
     auto: true
+  - translation_iso: rus
+    name: чоротега
   - translation_iso: spa
     name: chorotega
   - translation_iso: zho

@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أيوكويسكو
     auto: true
+  - translation_iso: ben
+    name: আয়োকেস্কো জাপোটেক
   - translation_iso: deu
     name: Zapotekisch (Ayoquesco)
     auto: true
@@ -33,9 +35,14 @@ translations:
   - translation_iso: jpn
     name: アヨケスコ・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 아요케스코 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Ayoquesco
     auto: true
+  - translation_iso: rus
+    name: Айокескский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Ayoquesco
     auto: true

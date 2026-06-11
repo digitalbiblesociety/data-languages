@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: トゥマク語
     auto: true
+  - translation_iso: kor
+    name: 투마크어
+    auto: true
   - translation_iso: por
     name: Língua tumak
+  - translation_iso: rus
+    name: Тумак (язык)
   - translation_iso: spa
     name: Tumak
     auto: true

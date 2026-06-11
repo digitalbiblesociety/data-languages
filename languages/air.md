@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أيرورّان
     auto: true
+  - translation_iso: ben
+    name: আইরোরান
   - translation_iso: deu
     name: Airoran
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: एयरोरान
     auto: true
+  - translation_iso: ind
+    name: Airoran
   - translation_iso: jpn
     name: アイロラン語
+    auto: true
+  - translation_iso: kor
+    name: 아이로란어
     auto: true
   - translation_iso: por
     name: Airoran

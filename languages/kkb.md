@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: क्वेरिसा
     auto: true
+  - translation_iso: ind
+    name: Kwerisa
   - translation_iso: jpn
     name: クウェリサ語
+    auto: true
+  - translation_iso: kor
+    name: 퀘리사어
     auto: true
   - translation_iso: por
     name: Kwerisa

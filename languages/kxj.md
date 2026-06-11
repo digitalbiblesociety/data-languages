@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クルファ語
     auto: true
+  - translation_iso: kor
+    name: 쿨파어
+    auto: true
   - translation_iso: por
     name: Kulfa
     auto: true
+  - translation_iso: rus
+    name: Кулфа
   - translation_iso: spa
     name: Kulfa
     auto: true

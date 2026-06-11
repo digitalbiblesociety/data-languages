@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: बुसांग कायन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kayan Busang
   - translation_iso: jpn
     name: ブサン・カヤン語
+    auto: true
+  - translation_iso: kor
+    name: 부상 카얀어
     auto: true
   - translation_iso: por
     name: Busang Kayan

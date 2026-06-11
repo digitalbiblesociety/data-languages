@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガサ語
+  - translation_iso: kor
+    name: 응가사어
+    auto: true
   - translation_iso: por
     name: Ngasa
     auto: true

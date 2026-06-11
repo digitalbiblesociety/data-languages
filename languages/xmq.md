@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: クク・マング語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠·망크어
+    auto: true
   - translation_iso: por
     name: Kuku-Mangk
     auto: true

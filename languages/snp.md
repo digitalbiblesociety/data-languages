@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアネ語
+  - translation_iso: kor
+    name: 시아네어
+    auto: true
   - translation_iso: por
     name: Siane
     auto: true

@@ -35,6 +35,8 @@ translations:
   - translation_iso: por
     name: Polari
     auto: true
+  - translation_iso: rus
+    name: полари
   - translation_iso: spa
     name: Polari
   - translation_iso: zho

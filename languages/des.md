@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デサノ語
+  - translation_iso: kor
+    name: 데사노어
+    auto: true
   - translation_iso: por
     name: Língua desana
+  - translation_iso: rus
+    name: Десано
   - translation_iso: spa
     name: idioma desano
   - translation_iso: zho

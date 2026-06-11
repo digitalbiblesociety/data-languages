@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 東ニス語
     auto: true
+  - translation_iso: kor
+    name: 동부 니수어
+    auto: true
   - translation_iso: por
     name: Nisu Oriental
     auto: true

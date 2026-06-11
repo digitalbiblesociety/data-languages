@@ -34,6 +34,8 @@ translations:
     name: 카라타어
   - translation_iso: por
     name: Língua karata
+  - translation_iso: rus
+    name: каратинский язык
   - translation_iso: spa
     name: Karata
     auto: true

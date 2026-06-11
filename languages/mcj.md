@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ムバニップ語
     auto: true
+  - translation_iso: kor
+    name: 음바니프어
+    auto: true
   - translation_iso: por
     name: Mvanip
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マールワーリー語
+  - translation_iso: kor
+    name: 마르와리어
+    auto: true
   - translation_iso: por
     name: marwari (Paquistão)
     auto: true

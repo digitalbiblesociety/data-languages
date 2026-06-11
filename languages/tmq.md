@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥムレオ語
     auto: true
+  - translation_iso: kor
+    name: 툼레오어
+    auto: true
   - translation_iso: por
     name: Tumleo
     auto: true

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マウワケ語
     auto: true
+  - translation_iso: kor
+    name: 마우와케어
+    auto: true
   - translation_iso: por
     name: Mauwake
     auto: true
+  - translation_iso: rus
+    name: Мауваке
   - translation_iso: spa
     name: Mauwake
     auto: true

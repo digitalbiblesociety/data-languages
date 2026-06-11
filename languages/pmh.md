@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة ماهاراشتري براكريت
     auto: true
+  - translation_iso: ben
+    name: মহারাষ্ট্রি প্রাকৃত
   - translation_iso: deu
     name: Maharashtri-Prakrit
     auto: true
@@ -29,6 +31,8 @@ translations:
     auto: true
   - translation_iso: hin
     name: महाराष्ट्री प्राकृत
+  - translation_iso: ind
+    name: Maharashtri Prakrit
   - translation_iso: jpn
     name: マーハーラーシュトリー
   - translation_iso: kor
@@ -36,6 +40,8 @@ translations:
   - translation_iso: por
     name: Prácrito maharastri
     auto: true
+  - translation_iso: rus
+    name: Махараштри
   - translation_iso: spa
     name: Prácrito maharashtri
   - translation_iso: zho

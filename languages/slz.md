@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: माया
     auto: true
+  - translation_iso: ind
+    name: "Ma'ya"
   - translation_iso: jpn
     name: "Ma'ya語"
+  - translation_iso: kor
+    name: 마야어
+    auto: true
   - translation_iso: por
     name: "Ma'ya"
     auto: true

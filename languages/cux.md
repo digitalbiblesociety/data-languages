@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: テペウシラ・クイカテク語
     auto: true
+  - translation_iso: kor
+    name: 테페우실라 쿠이카텍어
+    auto: true
   - translation_iso: por
     name: Cuicateco de Tepeuxila
     auto: true

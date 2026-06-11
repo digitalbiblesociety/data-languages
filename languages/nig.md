@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ングアラクガン語
     auto: true
+  - translation_iso: kor
+    name: 응알라크간어
+    auto: true
   - translation_iso: por
     name: Ngalakgan
     auto: true

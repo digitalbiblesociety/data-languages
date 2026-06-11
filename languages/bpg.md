@@ -29,12 +29,19 @@ translations:
   - translation_iso: hin
     name: बोंग्गो
     auto: true
+  - translation_iso: ind
+    name: Bonggo
   - translation_iso: jpn
     name: ボンッゴ語
+    auto: true
+  - translation_iso: kor
+    name: 봉고어
     auto: true
   - translation_iso: por
     name: Bonggo
     auto: true
+  - translation_iso: rus
+    name: Бонгго
   - translation_iso: spa
     name: Bonggo
     auto: true

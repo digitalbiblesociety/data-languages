@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゲツァーイ語
     auto: true
+  - translation_iso: kor
+    name: 테케차이어
+    auto: true
   - translation_iso: por
     name: Teke-Tsaayi
     auto: true

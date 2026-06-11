@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ヤグア語
     auto: true
+  - translation_iso: kor
+    name: 야과어
+    auto: true
   - translation_iso: por
     name: Língua yagua
+  - translation_iso: rus
+    name: Ягуа
   - translation_iso: spa
     name: idioma yagua
   - translation_iso: zho

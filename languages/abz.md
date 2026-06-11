@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوي
     auto: true
+  - translation_iso: ben
+    name: আবুই
   - translation_iso: deu
     name: Abui
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: अबुई
     auto: true
+  - translation_iso: ind
+    name: Abui
   - translation_iso: jpn
     name: アブイ語
+  - translation_iso: kor
+    name: 아부이어
+    auto: true
   - translation_iso: por
     name: Língua abui
   - translation_iso: spa

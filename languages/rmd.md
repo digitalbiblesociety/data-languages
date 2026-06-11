@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: トラベラーデンマーク語
     auto: true
+  - translation_iso: kor
+    name: 트래블러 덴마크어
+    auto: true
   - translation_iso: por
     name: Dinamarquês dos Viajantes
     auto: true

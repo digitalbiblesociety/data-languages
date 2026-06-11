@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: メスキタル・オトミ語
     auto: true
+  - translation_iso: kor
+    name: 메스키탈 오토미어
+    auto: true
   - translation_iso: por
     name: otomi de Mezquital
     auto: true

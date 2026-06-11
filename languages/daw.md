@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: दावावेन्यो
     auto: true
+  - translation_iso: ind
+    name: bahasa Dabau
   - translation_iso: jpn
     name: ダバウェニョ語
+    auto: true
+  - translation_iso: kor
+    name: 다바웨뇨어
     auto: true
   - translation_iso: por
     name: dabaense

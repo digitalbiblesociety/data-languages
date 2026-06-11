@@ -20,6 +20,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurmali_language"
 translations:
   - translation_iso: ara
     name: لغة كورمالية
+  - translation_iso: ben
+    name: কুড়মালি
   - translation_iso: deu
     name: Kudmali
     auto: true
@@ -29,9 +31,14 @@ translations:
     name: कुङमालि भाखि
   - translation_iso: jpn
     name: クドマリ語
+  - translation_iso: kor
+    name: 쿠드말리어
+    auto: true
   - translation_iso: por
     name: Kudmali
     auto: true
+  - translation_iso: rus
+    name: кудмали
   - translation_iso: spa
     name: kudmali
   - translation_iso: zho

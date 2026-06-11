@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: シンディフイ・ミステク語
     auto: true
+  - translation_iso: kor
+    name: 신디우이 믹스텍어
+    auto: true
   - translation_iso: por
     name: mixteco de Sindihui
     auto: true
+  - translation_iso: rus
+    name: Синдиуйский миштекский язык
   - translation_iso: spa
     name: Mixteco de Sindihui
     auto: true

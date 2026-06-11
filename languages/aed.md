@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرجنتينية
     auto: true
+  - translation_iso: ben
+    name: আর্জেন্টিনীয় ইশারা ভাষা
   - translation_iso: deu
     name: Argentinische Gebärdensprache
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルゼンチン手話
+  - translation_iso: kor
+    name: 아르헨티나 수어
+    auto: true
   - translation_iso: por
     name: língua gestual argentina
+  - translation_iso: rus
+    name: аргентинский жестовый язык
   - translation_iso: spa
     name: lengua de señas argentina
   - translation_iso: zho

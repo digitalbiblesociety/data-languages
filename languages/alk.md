@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة ألاك
     auto: true
+  - translation_iso: ben
+    name: আলাক
   - translation_iso: deu
     name: Alak
     auto: true
@@ -32,6 +34,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラク語
+    auto: true
+  - translation_iso: kor
+    name: 알라크어
     auto: true
   - translation_iso: por
     name: Alak

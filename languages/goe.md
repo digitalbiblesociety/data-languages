@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴングドゥク語
+  - translation_iso: kor
+    name: 공두크어
+    auto: true
   - translation_iso: por
     name: Gongduk
     auto: true
+  - translation_iso: rus
+    name: Гонгду
   - translation_iso: spa
     name: gongduk
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أكروآ
     auto: true
+  - translation_iso: ben
+    name: অ্যাক্রোয়া
   - translation_iso: deu
     name: Acroá
     auto: true
@@ -32,9 +34,14 @@ translations:
   - translation_iso: jpn
     name: アクロア語
     auto: true
+  - translation_iso: kor
+    name: 아크로아어
+    auto: true
   - translation_iso: por
     name: Acroá
     auto: true
+  - translation_iso: rus
+    name: Акроа
   - translation_iso: spa
     name: Acroá
     auto: true

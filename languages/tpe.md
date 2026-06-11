@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: トリプラ語
     auto: true
+  - translation_iso: kor
+    name: 티페라어
+    auto: true
   - translation_iso: por
     name: Tippera
     auto: true

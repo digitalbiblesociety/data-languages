@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أينباي
     auto: true
+  - translation_iso: ben
+    name: আইনবাই
   - translation_iso: deu
     name: Ainbai
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アインバイ語
+    auto: true
+  - translation_iso: kor
+    name: 아인바이어
     auto: true
   - translation_iso: por
     name: Ainbai

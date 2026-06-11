@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: निंगेरुम
     auto: true
+  - translation_iso: ind
+    name: Kasiwa
   - translation_iso: jpn
     name: ニングゲルム語
+    auto: true
+  - translation_iso: kor
+    name: 닝게룸어
     auto: true
   - translation_iso: por
     name: Ninggerum

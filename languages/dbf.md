@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: إيدوبي
     auto: true
+  - translation_iso: ben
+    name: এদোপি
   - translation_iso: deu
     name: Edopi
     auto: true
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: एदोपी
     auto: true
+  - translation_iso: ind
+    name: Dosobou
   - translation_iso: jpn
     name: エドピ語
+    auto: true
+  - translation_iso: kor
+    name: 에도피어
     auto: true
   - translation_iso: por
     name: Edopi

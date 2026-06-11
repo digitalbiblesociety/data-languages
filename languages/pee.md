@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: ताजे
     auto: true
+  - translation_iso: ind
+    name: Petapa
   - translation_iso: jpn
     name: タジェ語
+    auto: true
+  - translation_iso: kor
+    name: 타제어
     auto: true
   - translation_iso: por
     name: Taje

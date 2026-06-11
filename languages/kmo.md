@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クウォマ語
     auto: true
+  - translation_iso: kor
+    name: 쿼마어
+    auto: true
   - translation_iso: por
     name: Kwoma
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クパグア語
     auto: true
+  - translation_iso: kor
+    name: 크파과어
+    auto: true
   - translation_iso: por
     name: Kpagua
     auto: true

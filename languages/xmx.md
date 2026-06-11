@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: मादेन
     auto: true
+  - translation_iso: ind
+    name: Maden
   - translation_iso: jpn
     name: マデン語
+    auto: true
+  - translation_iso: kor
+    name: 마덴어
     auto: true
   - translation_iso: por
     name: Maden

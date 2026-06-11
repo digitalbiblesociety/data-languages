@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤカマ語
+  - translation_iso: kor
+    name: 야카마어
+    auto: true
   - translation_iso: por
     name: yakama
     auto: true

@@ -26,8 +26,13 @@ translations:
   - translation_iso: hin
     name: किमकी
     auto: true
+  - translation_iso: ind
+    name: Aipki
   - translation_iso: jpn
     name: スクバトム語
+    auto: true
+  - translation_iso: kor
+    name: 킴키어
     auto: true
   - translation_iso: por
     name: Kimki

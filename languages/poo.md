@@ -30,8 +30,13 @@ translations:
     name: मध्य पोमो भाषा
   - translation_iso: jpn
     name: 中央ポモ語
+  - translation_iso: kor
+    name: 중부 포모어
+    auto: true
   - translation_iso: por
     name: Língua pomo central
+  - translation_iso: rus
+    name: Центральный помо
   - translation_iso: spa
     name: Central Pomo
   - translation_iso: zho

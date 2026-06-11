@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマン語
+  - translation_iso: kor
+    name: 쿠만어
+    auto: true
   - translation_iso: por
     name: Kuman (Papua-Nova Guiné)
     auto: true
+  - translation_iso: rus
+    name: Куман (язык)
   - translation_iso: spa
     name: Kuman (Papúa Nueva Guinea)
     auto: true

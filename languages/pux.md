@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: プアレ語
     auto: true
+  - translation_iso: kor
+    name: 푸아레어
+    auto: true
   - translation_iso: por
     name: Puare
     auto: true

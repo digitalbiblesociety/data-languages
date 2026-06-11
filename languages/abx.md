@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة إناباكنون
     auto: true
+  - translation_iso: ben
+    name: আবাকনন
   - translation_iso: deu
     name: Inabaknon
     auto: true
@@ -29,11 +31,18 @@ translations:
   - translation_iso: hin
     name: इनाबाक्नोन
     auto: true
+  - translation_iso: ind
+    name: Bahasa Abaknon
   - translation_iso: jpn
     name: イナバクノン語
     auto: true
+  - translation_iso: kor
+    name: 이나바크논어
+    auto: true
   - translation_iso: por
     name: Língua abaknon
+  - translation_iso: rus
+    name: абакнонский язык
   - translation_iso: spa
     name: idioma capuleño
   - translation_iso: zho

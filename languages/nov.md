@@ -24,6 +24,8 @@ translations:
     name: novial
   - translation_iso: hin
     name: नोवियाल
+  - translation_iso: ind
+    name: Bahasa Novial
   - translation_iso: jpn
     name: ノヴィアル
   - translation_iso: kor
@@ -31,6 +33,8 @@ translations:
   - translation_iso: por
     name: Novial
     auto: true
+  - translation_iso: rus
+    name: новиаль
   - translation_iso: spa
     name: novial
   - translation_iso: zho

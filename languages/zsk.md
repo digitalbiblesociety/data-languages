@@ -26,11 +26,18 @@ translations:
   - translation_iso: hin
     name: कास्कियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Kaska
   - translation_iso: jpn
     name: カスキアン語
+  - translation_iso: kor
+    name: 카스카어
+    auto: true
   - translation_iso: por
     name: Kaskean
     auto: true
+  - translation_iso: rus
+    name: Каскейский язык
   - translation_iso: spa
     name: Kaskeo
     auto: true

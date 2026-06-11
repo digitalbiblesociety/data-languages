@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ルミート語
     auto: true
+  - translation_iso: kor
+    name: 르메트어
+    auto: true
   - translation_iso: por
     name: Rmeet
     auto: true

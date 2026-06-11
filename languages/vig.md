@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヴィゲ語
     auto: true
+  - translation_iso: kor
+    name: 비에모어
+    auto: true
   - translation_iso: por
     name: Viemo
     auto: true

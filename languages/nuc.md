@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ヌクイニ語
     auto: true
+  - translation_iso: kor
+    name: 누쿠이니어
+    auto: true
   - translation_iso: por
     name: Nukuiní
+  - translation_iso: rus
+    name: Нукуини
   - translation_iso: spa
     name: Nukuini
     auto: true

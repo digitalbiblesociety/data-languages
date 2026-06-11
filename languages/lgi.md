@@ -28,12 +28,19 @@ translations:
   - translation_iso: hin
     name: लेंगिलु
     auto: true
+  - translation_iso: ind
+    name: Bahasa Lengilo
   - translation_iso: jpn
     name: レンギル語
+    auto: true
+  - translation_iso: kor
+    name: 렝길루어
     auto: true
   - translation_iso: por
     name: Lengilu
     auto: true
+  - translation_iso: rus
+    name: Ленгилу
   - translation_iso: spa
     name: Lengilu
     auto: true

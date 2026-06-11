@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بانْكاجوما
     auto: true
+  - translation_iso: ben
+    name: বাঙ্কা
   - translation_iso: deu
     name: Bankagooma
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカ語
+  - translation_iso: kor
+    name: 방카고마어
+    auto: true
   - translation_iso: por
     name: Bankagooma
     auto: true

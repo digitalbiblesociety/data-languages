@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: बुनक
     auto: true
+  - translation_iso: ind
+    name: bahasa Bunak
   - translation_iso: jpn
     name: ブナク語
+  - translation_iso: kor
+    name: 부나크어
+    auto: true
   - translation_iso: por
     name: Búnaque
+  - translation_iso: rus
+    name: Бунак
   - translation_iso: spa
     name: Bunak
     auto: true

@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: केमतुइक
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kemtuk
   - translation_iso: jpn
     name: ケムトゥイク語
+    auto: true
+  - translation_iso: kor
+    name: 켐투익어
     auto: true
   - translation_iso: por
     name: Kemtuik

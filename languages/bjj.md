@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: كاناوجي
     auto: true
+  - translation_iso: ben
+    name: কনৌজি ভাষা
   - translation_iso: deu
     name: Kanauji
     auto: true
@@ -29,10 +31,17 @@ translations:
     name: kanauji
   - translation_iso: hin
     name: कन्नौजी
+  - translation_iso: ind
+    name: bahasa Kannauj
   - translation_iso: jpn
     name: カナウジ語
+  - translation_iso: kor
+    name: 카나우지어
+    auto: true
   - translation_iso: por
     name: Língua kannauji
+  - translation_iso: rus
+    name: канауджи
   - translation_iso: spa
     name: Kanauji
     auto: true

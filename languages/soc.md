@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ソー語
     auto: true
+  - translation_iso: kor
+    name: 소어
+    auto: true
   - translation_iso: por
     name: So (República Democrática do Congo)
     auto: true
+  - translation_iso: rus
+    name: со
   - translation_iso: spa
     name: So
     auto: true

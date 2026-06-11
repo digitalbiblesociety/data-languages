@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ダウェイ語
     auto: true
+  - translation_iso: kor
+    name: 타보얀어
+    auto: true
   - translation_iso: por
     name: Tavoyan
     auto: true

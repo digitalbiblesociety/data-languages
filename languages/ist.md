@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: إيستريوت
     auto: true
+  - translation_iso: ben
+    name: ইস্ট্রীয় ভাষা
   - translation_iso: deu
     name: Istriotisch
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 이스트리아어
   - translation_iso: por
     name: Língua istriota
+  - translation_iso: rus
+    name: истророманский язык
   - translation_iso: spa
     name: Idioma istriano
   - translation_iso: zho

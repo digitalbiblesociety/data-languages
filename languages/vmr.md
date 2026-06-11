@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: マレンジェ語
     auto: true
+  - translation_iso: kor
+    name: 마렌제어
+    auto: true
   - translation_iso: por
     name: Marenje
     auto: true

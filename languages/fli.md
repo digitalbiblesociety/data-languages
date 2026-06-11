@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ファリ語
     auto: true
+  - translation_iso: kor
+    name: 팔리어
+    auto: true
   - translation_iso: por
     name: Fali
     auto: true

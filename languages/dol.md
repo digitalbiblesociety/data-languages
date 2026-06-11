@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ドソ語
     auto: true
+  - translation_iso: kor
+    name: 도소어
+    auto: true
   - translation_iso: por
     name: Doso
     auto: true
+  - translation_iso: rus
+    name: Досо (язык)
   - translation_iso: spa
     name: Doso
     auto: true

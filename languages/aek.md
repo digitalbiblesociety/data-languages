@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ハエケ語
     auto: true
+  - translation_iso: kor
+    name: 하에케어
+    auto: true
   - translation_iso: por
     name: Língua haeke
   - translation_iso: spa

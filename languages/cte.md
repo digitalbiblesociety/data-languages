@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: テピナパ・チナンテク語
     auto: true
+  - translation_iso: kor
+    name: 테피나파 치난텍어
+    auto: true
   - translation_iso: por
     name: Chinanteco de Tepinapa
     auto: true

@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タイナエ語
     auto: true
+  - translation_iso: kor
+    name: 타이나에어
+    auto: true
   - translation_iso: por
     name: Tainae
     auto: true

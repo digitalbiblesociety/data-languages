@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デナッイア語
+  - translation_iso: kor
+    name: 타나이나어
+    auto: true
   - translation_iso: por
     name: Língua dena’ina
+  - translation_iso: rus
+    name: денаʼина
   - translation_iso: spa
     name: "idioma dena'ina"
   - translation_iso: zho

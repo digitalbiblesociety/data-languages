@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ヨイディク語
     auto: true
+  - translation_iso: kor
+    name: 요이디크어
+    auto: true
   - translation_iso: por
     name: yoidik
     auto: true

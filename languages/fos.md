@@ -28,11 +28,18 @@ translations:
   - translation_iso: hin
     name: सिरया
     auto: true
+  - translation_iso: ind
+    name: bahasa Siraya
   - translation_iso: jpn
     name: シラヤ語
+  - translation_iso: kor
+    name: 시라야어
+    auto: true
   - translation_iso: por
     name: Siraya
     auto: true
+  - translation_iso: rus
+    name: сирайский язык
   - translation_iso: spa
     name: Idioma siraya
   - translation_iso: zho

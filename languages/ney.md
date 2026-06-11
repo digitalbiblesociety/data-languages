@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ネヨ語
     auto: true
+  - translation_iso: kor
+    name: 네요어
+    auto: true
   - translation_iso: por
     name: Língua neyo
   - translation_iso: spa

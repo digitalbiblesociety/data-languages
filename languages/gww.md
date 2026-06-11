@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クイニ語
     auto: true
+  - translation_iso: kor
+    name: 크위니어
+    auto: true
   - translation_iso: por
     name: Kwini
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラニマ語
     auto: true
+  - translation_iso: kor
+    name: 라니마어
+    auto: true
   - translation_iso: por
     name: Lanima
     auto: true

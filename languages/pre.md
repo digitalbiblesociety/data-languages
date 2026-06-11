@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プリンシペ・クレオール語
+  - translation_iso: kor
+    name: 프린시펜세어
+    auto: true
   - translation_iso: por
     name: Principense
+  - translation_iso: rus
+    name: Принсипийское наречие
   - translation_iso: spa
     name: Criollo principense
   - translation_iso: zho

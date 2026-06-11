@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マトゥンガラ語
     auto: true
+  - translation_iso: kor
+    name: 마트응갈라어
+    auto: true
   - translation_iso: por
     name: Matngala
     auto: true

@@ -30,6 +30,8 @@ translations:
   - translation_iso: hin
     name: मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Johor–Riau
   - translation_iso: jpn
     name: マレー語
     auto: true
@@ -38,6 +40,8 @@ translations:
   - translation_iso: por
     name: malaio
     auto: true
+  - translation_iso: rus
+    name: разговорный малайский язык
   - translation_iso: spa
     name: Malayo
     auto: true

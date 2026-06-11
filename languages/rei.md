@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: レリ語
     auto: true
+  - translation_iso: kor
+    name: 렐리어
+    auto: true
   - translation_iso: por
     name: Reli
     auto: true

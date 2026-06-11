@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルマジャリ語
+  - translation_iso: kor
+    name: 왈마자리어
+    auto: true
   - translation_iso: por
     name: Walmajarri
     auto: true

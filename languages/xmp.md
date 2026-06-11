@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クク・ムイン語
     auto: true
+  - translation_iso: kor
+    name: 쿠쿠·무인어
+    auto: true
   - translation_iso: por
     name: "Kuku-Mu'inh"
     auto: true

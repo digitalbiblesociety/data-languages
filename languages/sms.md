@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Skolt_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: السكولت سامي
+  - translation_iso: ben
+    name: স্কোল্ট সামি
   - translation_iso: deu
     name: Skoltsamisch
   - translation_iso: fra
     name: same skolt
   - translation_iso: hin
     name: स्कोल्ट सामी
+  - translation_iso: ind
+    name: Skolt Sami
   - translation_iso: jpn
     name: スコルト・サーミ語
   - translation_iso: kor
     name: 스콜트 사미어
   - translation_iso: por
     name: kíngua sami de Skolt
+  - translation_iso: rus
+    name: колтта-саамский
   - translation_iso: spa
     name: sami skolt
   - translation_iso: zho

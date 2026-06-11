@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: クペニョ語
     auto: true
+  - translation_iso: kor
+    name: 쿠페뇨어
+    auto: true
   - translation_iso: por
     name: Cupeño
     auto: true
+  - translation_iso: rus
+    name: купеньо
   - translation_iso: spa
     name: idioma cupeño
   - translation_iso: zho

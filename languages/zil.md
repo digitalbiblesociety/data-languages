@@ -30,8 +30,13 @@ translations:
   - translation_iso: jpn
     name: ジアロ語
     auto: true
+  - translation_iso: kor
+    name: 지알로어
+    auto: true
   - translation_iso: por
     name: Língua zialo
+  - translation_iso: rus
+    name: Зиало
   - translation_iso: spa
     name: Zialo
     auto: true

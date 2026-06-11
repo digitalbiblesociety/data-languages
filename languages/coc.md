@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ココパ語
+  - translation_iso: kor
+    name: 코코파어
+    auto: true
   - translation_iso: por
     name: cocopah
+  - translation_iso: rus
+    name: Кокопа (язык)
   - translation_iso: spa
     name: cucapá
   - translation_iso: zho

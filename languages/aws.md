@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: दक्षिणी अव्यू
     auto: true
+  - translation_iso: ind
+    name: Awyu selatan
   - translation_iso: jpn
     name: 南アウユ語
+    auto: true
+  - translation_iso: kor
+    name: 남부 아우유어
     auto: true
   - translation_iso: por
     name: Awyu do Sul

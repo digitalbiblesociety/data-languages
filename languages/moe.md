@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Innu_language"
 translations:
   - translation_iso: ara
     name: إينو-ايمون
+  - translation_iso: ben
+    name: ইন্নু-এমুন
   - translation_iso: deu
     name: Innu-Sprache
   - translation_iso: fra
     name: innu-aimun
   - translation_iso: hin
     name: इन्नु-एईमन
+  - translation_iso: ind
+    name: Innu-aimun
   - translation_iso: jpn
     name: モンタニェ語
   - translation_iso: kor
     name: 인누아이문어
   - translation_iso: por
     name: innu-aimun
+  - translation_iso: rus
+    name: инну-аймун
   - translation_iso: spa
     name: innu
   - translation_iso: zho

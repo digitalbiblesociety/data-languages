@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: تاوانج مونبا
     auto: true
+  - translation_iso: ben
+    name: তাবাং ভাষা
   - translation_iso: deu
     name: Takpa
   - translation_iso: fra
@@ -24,6 +26,9 @@ translations:
     name: तवांग भाषा
   - translation_iso: jpn
     name: 東部チベット諸語
+  - translation_iso: kor
+    name: 타왕 몬파어
+    auto: true
   - translation_iso: por
     name: Monpa de Tawang
     auto: true

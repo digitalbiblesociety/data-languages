@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: ブレム語
     auto: true
+  - translation_iso: kor
+    name: 브렘어
+    auto: true
   - translation_iso: por
     name: Brem
     auto: true

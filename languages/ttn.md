@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: तोवेई
     auto: true
+  - translation_iso: ind
+    name: Towei
   - translation_iso: jpn
     name: トウェ語
+    auto: true
+  - translation_iso: kor
+    name: 토웨이어
     auto: true
   - translation_iso: por
     name: Towei

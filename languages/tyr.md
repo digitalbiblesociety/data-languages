@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 赤タイ語
+  - translation_iso: kor
+    name: 타이댕어
+    auto: true
   - translation_iso: por
     name: Tai Daeng
     auto: true
+  - translation_iso: rus
+    name: Красно-тайский язык
   - translation_iso: spa
     name: Tai Daeng
     auto: true

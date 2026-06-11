@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة يپكها
     auto: true
+  - translation_iso: ben
+    name: লেপচা ভাষা
   - translation_iso: deu
     name: Lepcha
   - translation_iso: fra
@@ -34,6 +36,8 @@ translations:
     name: 렙차어
   - translation_iso: por
     name: Língua lepcha
+  - translation_iso: rus
+    name: лепча
   - translation_iso: spa
     name: idioma lepcha
   - translation_iso: zho

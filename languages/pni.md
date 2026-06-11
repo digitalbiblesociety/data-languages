@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوهينج
     auto: true
+  - translation_iso: ben
+    name: আওহেং
   - translation_iso: deu
     name: Aoheng
   - translation_iso: fra
@@ -27,8 +29,13 @@ translations:
   - translation_iso: hin
     name: आओहेंग
     auto: true
+  - translation_iso: ind
+    name: Bahasa Aoheng
   - translation_iso: jpn
     name: アオヘン語
+    auto: true
+  - translation_iso: kor
+    name: 아오헹어
     auto: true
   - translation_iso: por
     name: Aoheng

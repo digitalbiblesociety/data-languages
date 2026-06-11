@@ -34,6 +34,8 @@ translations:
     name: 맘어
   - translation_iso: por
     name: Língua mam
+  - translation_iso: rus
+    name: Мамский язык
   - translation_iso: spa
     name: mam
   - translation_iso: zho

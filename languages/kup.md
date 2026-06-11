@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: クニマイパ語
     auto: true
+  - translation_iso: kor
+    name: 쿠니마이파어
+    auto: true
   - translation_iso: por
     name: Kunimaipa
     auto: true

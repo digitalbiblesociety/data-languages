@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: ギッチサン語
     auto: true
+  - translation_iso: kor
+    name: 기트크산어
+    auto: true
   - translation_iso: por
     name: Língua gitxsan
+  - translation_iso: rus
+    name: Гитксан
   - translation_iso: spa
     name: Gitxsan
     auto: true

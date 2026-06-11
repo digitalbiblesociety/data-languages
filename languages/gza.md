@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ガンザ語
     auto: true
+  - translation_iso: kor
+    name: 간자어
+    auto: true
   - translation_iso: por
     name: Ganza
     auto: true

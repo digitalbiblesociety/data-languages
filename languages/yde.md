@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・デイ語
     auto: true
+  - translation_iso: kor
+    name: 양굼데이어
+    auto: true
   - translation_iso: por
     name: yangum dey
     auto: true

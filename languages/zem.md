@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジーム語
     auto: true
+  - translation_iso: kor
+    name: 짐어
+    auto: true
   - translation_iso: por
     name: zeem
     auto: true

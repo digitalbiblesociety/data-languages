@@ -35,6 +35,8 @@ translations:
     name: 타닥사학어
   - translation_iso: por
     name: Língua tadaksahak
+  - translation_iso: rus
+    name: тадаксахак
   - translation_iso: spa
     name: Tadaksahak
     auto: true

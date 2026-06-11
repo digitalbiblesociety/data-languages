@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムゴン語
+  - translation_iso: kor
+    name: 티무곤 무루트어
+    auto: true
   - translation_iso: por
     name: Murut Timugon
     auto: true
+  - translation_iso: rus
+    name: "тимугон(?)"
   - translation_iso: spa
     name: Murut Timugon
     auto: true

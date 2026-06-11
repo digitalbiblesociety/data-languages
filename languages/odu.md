@@ -20,6 +20,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوديوال
     auto: true
+  - translation_iso: ben
+    name: ওডুয়াল ভাষা
   - translation_iso: deu
     name: Odual
     auto: true
@@ -31,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: オドゥアル語
     auto: true
+  - translation_iso: kor
+    name: 오두알어
+    auto: true
   - translation_iso: por
     name: Odual
     auto: true
+  - translation_iso: rus
+    name: одуал
   - translation_iso: spa
     name: Odual
     auto: true

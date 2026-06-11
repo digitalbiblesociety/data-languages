@@ -31,9 +31,14 @@ translations:
   - translation_iso: jpn
     name: ザイ語
     auto: true
+  - translation_iso: kor
+    name: 자이어
+    auto: true
   - translation_iso: por
     name: Zay
     auto: true
+  - translation_iso: rus
+    name: зай
   - translation_iso: spa
     name: zay
   - translation_iso: zho

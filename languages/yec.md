@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: يينيتشي
     auto: true
+  - translation_iso: ben
+    name: ইয়েনিশ ভাষা
   - translation_iso: deu
     name: Jenisch
   - translation_iso: fra
@@ -28,12 +30,16 @@ translations:
   - translation_iso: hin
     name: येनिशे
     auto: true
+  - translation_iso: ind
+    name: bahasa Yeni
   - translation_iso: jpn
     name: イェニッシュ
   - translation_iso: kor
     name: 예니셰어
   - translation_iso: por
     name: Língua yeniche
+  - translation_iso: rus
+    name: енишский язык
   - translation_iso: spa
     name: Idioma yeniche
   - translation_iso: zho

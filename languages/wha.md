@@ -29,8 +29,13 @@ translations:
   - translation_iso: hin
     name: सोउ उपा
     auto: true
+  - translation_iso: ind
+    name: Bahasa Manusela
   - translation_iso: jpn
     name: ソゥ・ウパア語
+    auto: true
+  - translation_iso: kor
+    name: 소우 우파어
     auto: true
   - translation_iso: por
     name: Sou Upaa

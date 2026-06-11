@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ベシシ語
     auto: true
+  - translation_iso: kor
+    name: 베시시어
+    auto: true
   - translation_iso: por
     name: Besisi
     auto: true

@@ -28,12 +28,16 @@ translations:
   - translation_iso: hin
     name: इत्ज़ा
     auto: true
+  - translation_iso: ind
+    name: "Bahasa Itza'"
   - translation_iso: jpn
     name: イツァ語
   - translation_iso: kor
     name: 이차어
   - translation_iso: por
     name: Língua itzá
+  - translation_iso: rus
+    name: Ица
   - translation_iso: spa
     name: itzá
   - translation_iso: zho

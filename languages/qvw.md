@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ワイラワンカケチュア語
     auto: true
+  - translation_iso: kor
+    name: 우아이야 왕카 케추아어
+    auto: true
   - translation_iso: por
     name: Quíchua Huaylla Wanca
     auto: true

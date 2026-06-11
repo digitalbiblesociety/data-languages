@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケアパラ語
+  - translation_iso: kor
+    name: 케아파라어
+    auto: true
   - translation_iso: por
     name: Keapara
     auto: true

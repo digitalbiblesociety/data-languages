@@ -29,12 +29,16 @@ translations:
   - translation_iso: hin
     name: किनारय-आ
     auto: true
+  - translation_iso: ind
+    name: bahasa Keraya
   - translation_iso: jpn
     name: キナライア語
   - translation_iso: kor
     name: 키나라이아 어
   - translation_iso: por
     name: língua haraia
+  - translation_iso: rus
+    name: карайский язык
   - translation_iso: spa
     name: harayo
   - translation_iso: zho

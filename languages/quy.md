@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أياتشوتشو
     auto: true
+  - translation_iso: ben
+    name: আয়াকুচো কেচুয়া
   - translation_iso: deu
     name: Chanka-Quechua
   - translation_iso: fra
@@ -32,8 +34,13 @@ translations:
   - translation_iso: jpn
     name: アヤクーチョケチュア語
     auto: true
+  - translation_iso: kor
+    name: 아야쿠초 케추아어
+    auto: true
   - translation_iso: por
     name: Língua quíchua Ayacucho
+  - translation_iso: rus
+    name: аякучанский кечуа
   - translation_iso: spa
     name: quechua ayacuchano
   - translation_iso: zho

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: برونكا لغة الإشارة
     auto: true
+  - translation_iso: ben
+    name: ব্রুঙ্কা ইশারা ভাষা
   - translation_iso: deu
     name: Brunca-Gebärdensprache
     auto: true
@@ -26,6 +28,9 @@ translations:
     name: ब्रुंका सांकेतिक भाषा
   - translation_iso: jpn
     name: ブルンカ手話
+    auto: true
+  - translation_iso: kor
+    name: 브룽카 수어
     auto: true
   - translation_iso: por
     name: Língua de Sinais Brunca

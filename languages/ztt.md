@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: テハラパン・サポテク語
     auto: true
+  - translation_iso: kor
+    name: 테할라판 사포텍어
+    auto: true
   - translation_iso: por
     name: zapoteco de Tejalapan
     auto: true
+  - translation_iso: rus
+    name: Техалапанский сапотекский язык
   - translation_iso: spa
     name: Zapoteco de Tejalapan
     auto: true

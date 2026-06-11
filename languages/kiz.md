@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: キシ語
     auto: true
+  - translation_iso: kor
+    name: 키시어
+    auto: true
   - translation_iso: por
     name: Língua kisi
+  - translation_iso: rus
+    name: Киси
   - translation_iso: spa
     name: Kisi
     auto: true

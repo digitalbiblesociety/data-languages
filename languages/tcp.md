@@ -33,6 +33,9 @@ translations:
   - translation_iso: jpn
     name: タウル・チン語
     auto: true
+  - translation_iso: kor
+    name: 타우르 친어
+    auto: true
   - translation_iso: por
     name: Chin Tawr
     auto: true

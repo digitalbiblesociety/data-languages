@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョクウェ語
+  - translation_iso: kor
+    name: 초크웨어
+    auto: true
   - translation_iso: por
     name: chócue
+  - translation_iso: rus
+    name: Чокве
   - translation_iso: spa
     name: Idioma chokwe
   - translation_iso: zho

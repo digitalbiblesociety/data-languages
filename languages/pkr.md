@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوروما أتابادي
     auto: true
+  - translation_iso: ben
+    name: অট্টপদী কুরুম্বা
   - translation_iso: deu
     name: Attapady-Kurumba
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アッタパディクルンバ語
+    auto: true
+  - translation_iso: kor
+    name: 아타파디 쿠룸바어
     auto: true
   - translation_iso: por
     name: Curumba de Attapady

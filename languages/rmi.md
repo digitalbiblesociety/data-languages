@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ロマブレン語
     auto: true
+  - translation_iso: kor
+    name: 로마브렌어
+    auto: true
   - translation_iso: por
     name: Lomavren
     auto: true
+  - translation_iso: rus
+    name: Ломаврен
   - translation_iso: spa
     name: Lomavren
     auto: true

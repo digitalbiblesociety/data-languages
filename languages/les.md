@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフェ語
+  - translation_iso: kor
+    name: 레세어
+    auto: true
   - translation_iso: por
     name: Lese
     auto: true

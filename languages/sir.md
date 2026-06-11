@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: シラワ語
     auto: true
+  - translation_iso: kor
+    name: 시리어
+    auto: true
   - translation_iso: por
     name: Siri
     auto: true
+  - translation_iso: rus
+    name: Сири
   - translation_iso: spa
     name: Siri
     auto: true

@@ -31,8 +31,13 @@ translations:
   - translation_iso: jpn
     name: 南ナンビクワラ語
     auto: true
+  - translation_iso: kor
+    name: 남부 남비콰라어
+    auto: true
   - translation_iso: por
     name: Língua nambiquara
+  - translation_iso: rus
+    name: Намбикварские языки
   - translation_iso: spa
     name: Lenguas nambicuaras
   - translation_iso: zho

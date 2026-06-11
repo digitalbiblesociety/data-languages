@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: فالي بايسا
     auto: true
+  - translation_iso: ben
+    name: বাইসা ফালি
   - translation_iso: deu
     name: Baissa Fali
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイッサ・ファリ語
+    auto: true
+  - translation_iso: kor
+    name: 바이사 팔리어
     auto: true
   - translation_iso: por
     name: fali de Baissa

@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: クエン語
     auto: true
+  - translation_iso: kor
+    name: 쿠엔어
+    auto: true
   - translation_iso: por
     name: Khuen
     auto: true

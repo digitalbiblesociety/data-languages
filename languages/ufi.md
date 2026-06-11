@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウフィム語
     auto: true
+  - translation_iso: kor
+    name: 우핌어
+    auto: true
   - translation_iso: por
     name: Ufim
     auto: true

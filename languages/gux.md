@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルマンチェマ語
+  - translation_iso: kor
+    name: 구르만셰마어
+    auto: true
   - translation_iso: por
     name: Língua gourmanchema
+  - translation_iso: rus
+    name: гурманчема
   - translation_iso: spa
     name: gurma
   - translation_iso: zho

@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シヒン語
+  - translation_iso: kor
+    name: 슈히어
+    auto: true
   - translation_iso: por
     name: Shuhi
     auto: true
+  - translation_iso: rus
+    name: шицинский язык
   - translation_iso: spa
     name: Idioma shixing
   - translation_iso: zho

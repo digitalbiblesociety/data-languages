@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة أخا
     auto: true
+  - translation_iso: ben
+    name: আখা
   - translation_iso: deu
     name: Akha
   - translation_iso: fra
@@ -30,8 +32,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: kor
+    name: 아카어
+    auto: true
   - translation_iso: por
     name: Língua akha
+  - translation_iso: rus
+    name: акха
   - translation_iso: spa
     name: Akha
     auto: true

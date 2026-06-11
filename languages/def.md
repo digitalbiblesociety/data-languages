@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: デズフリ語
     auto: true
+  - translation_iso: kor
+    name: 데즈풀리어
+    auto: true
   - translation_iso: por
     name: Dezfuli
     auto: true

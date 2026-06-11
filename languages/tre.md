@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: पूर्वी तारंगन
     auto: true
+  - translation_iso: ind
+    name: Tarangan Timur
   - translation_iso: jpn
     name: 東タランガン語
+    auto: true
+  - translation_iso: kor
+    name: 동부 타랑안어
     auto: true
   - translation_iso: por
     name: Tarangan Oriental

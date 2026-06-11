@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマ語
+  - translation_iso: kor
+    name: 라마어
+    auto: true
   - translation_iso: por
     name: Língua rama
+  - translation_iso: rus
+    name: рама
   - translation_iso: spa
     name: Idioma rama
   - translation_iso: zho

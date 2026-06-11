@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルンフェ語
+  - translation_iso: kor
+    name: 코롬페어
+    auto: true
   - translation_iso: por
     name: Koromfé
     auto: true
+  - translation_iso: rus
+    name: Коромфе
   - translation_iso: spa
     name: Koromfé
     auto: true

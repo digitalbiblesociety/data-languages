@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كولو باهاري
     auto: true
+  - translation_iso: ben
+    name: কুলুবী ভাষা
   - translation_iso: deu
     name: Kullu Pahari
     auto: true
@@ -29,10 +31,17 @@ translations:
     auto: true
   - translation_iso: hin
     name: कुलुई
+  - translation_iso: ind
+    name: Kullui
   - translation_iso: jpn
     name: クッルー・パハリー語
+  - translation_iso: kor
+    name: 쿨루 파하리어
+    auto: true
   - translation_iso: por
     name: Língua kullui
+  - translation_iso: rus
+    name: куллуи
   - translation_iso: spa
     name: Pahari de Kullu
     auto: true

@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: चित्रलिपि लुवियन
     auto: true
+  - translation_iso: ind
+    name: bahasa Luwia Hieroglif
   - translation_iso: jpn
     name: 象形文字ルウィ語
+  - translation_iso: kor
+    name: 상형문자 루위아어
+    auto: true
   - translation_iso: por
     name: Luvita hieroglífico
+  - translation_iso: rus
+    name: Лувийские иероглифы
   - translation_iso: spa
     name: jeroglífico luvita
   - translation_iso: zho

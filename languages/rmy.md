@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワラキア方言群
+  - translation_iso: kor
+    name: 블라흐 로마니어
+    auto: true
   - translation_iso: por
     name: Romani Vlax
     auto: true
+  - translation_iso: rus
+    name: влашско-цыганский язык
   - translation_iso: spa
     name: Romaní vlax
   - translation_iso: zho

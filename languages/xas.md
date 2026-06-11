@@ -28,6 +28,8 @@ translations:
   - translation_iso: hin
     name: कामास
     auto: true
+  - translation_iso: ind
+    name: Bahasa Kamasi
   - translation_iso: jpn
     name: カマス語
   - translation_iso: kor
@@ -35,6 +37,8 @@ translations:
   - translation_iso: por
     name: Kamas
     auto: true
+  - translation_iso: rus
+    name: камасинский язык
   - translation_iso: spa
     name: kamasiano
   - translation_iso: zho

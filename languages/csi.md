@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: コースト・ミウォク語
     auto: true
+  - translation_iso: kor
+    name: 해안 미워크어
+    auto: true
   - translation_iso: por
     name: Miwok da Costa
     auto: true
+  - translation_iso: rus
+    name: прибрежный мивокский язык
   - translation_iso: spa
     name: Miwok Costero
     auto: true

@@ -30,11 +30,18 @@ translations:
   - translation_iso: hin
     name: मानक मलय
     auto: true
+  - translation_iso: ind
+    name: Bahasa Melayu Baku
   - translation_iso: jpn
     name: 標準マレー語
+  - translation_iso: kor
+    name: 표준 말레이어
+    auto: true
   - translation_iso: por
     name: malaio padrão
     auto: true
+  - translation_iso: rus
+    name: стандартный малайский язык
   - translation_iso: spa
     name: Malayo estándar
     auto: true

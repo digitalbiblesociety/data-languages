@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ガル・ゴニ語
     auto: true
+  - translation_iso: kor
+    name: 구르고니어
+    auto: true
   - translation_iso: por
     name: Gurr-goni
     auto: true
+  - translation_iso: rus
+    name: Курркони (язык)
   - translation_iso: spa
     name: Gurr-goni
     auto: true

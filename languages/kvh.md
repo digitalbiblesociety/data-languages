@@ -28,8 +28,13 @@ translations:
   - translation_iso: hin
     name: कोमोदो
     auto: true
+  - translation_iso: ind
+    name: Komodo
   - translation_iso: jpn
     name: コモド語
+  - translation_iso: kor
+    name: 코모도어
+    auto: true
   - translation_iso: por
     name: Komodo
   - translation_iso: spa

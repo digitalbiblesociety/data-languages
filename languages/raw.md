@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラワン語
+  - translation_iso: kor
+    name: 라왕어
+    auto: true
   - translation_iso: por
     name: Rawang
     auto: true

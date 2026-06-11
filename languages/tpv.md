@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: 北カロリニアン語
     auto: true
+  - translation_iso: kor
+    name: 타나파그어
+    auto: true
   - translation_iso: por
     name: Tanapag
     auto: true

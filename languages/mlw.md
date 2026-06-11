@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: モロコ語
     auto: true
+  - translation_iso: kor
+    name: 몰로코어
+    auto: true
   - translation_iso: por
     name: Língua moloko
+  - translation_iso: rus
+    name: Молоко
   - translation_iso: spa
     name: Moloko
     auto: true

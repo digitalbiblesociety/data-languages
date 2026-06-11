@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: マディ語
     auto: true
+  - translation_iso: kor
+    name: 마디어
+    auto: true
   - translation_iso: por
     name: Madi
     auto: true

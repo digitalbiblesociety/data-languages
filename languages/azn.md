@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: 西ドゥランゴ・ナワトル語
     auto: true
+  - translation_iso: kor
+    name: 서부 두랑고 나와틀어
+    auto: true
   - translation_iso: por
     name: Náuatle de Durango Ocidental
     auto: true

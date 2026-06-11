@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: بارياْن
     auto: true
+  - translation_iso: ben
+    name: বারেইন
   - translation_iso: deu
     name: Barein
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バレイン語
+    auto: true
+  - translation_iso: kor
+    name: 바레인어
     auto: true
   - translation_iso: por
     name: Língua barein

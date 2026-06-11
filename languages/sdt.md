@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: شوديت
     auto: true
+  - translation_iso: ben
+    name: শুয়াদিৎ ভাষা
   - translation_iso: deu
     name: Judenprovenzalisch
   - translation_iso: fra
@@ -29,6 +31,8 @@ translations:
     name: 유대프로방스어
   - translation_iso: por
     name: Língua judeu-provençal
+  - translation_iso: rus
+    name: Еврейско-провансальский диалект
   - translation_iso: spa
     name: Shuadit
   - translation_iso: zho

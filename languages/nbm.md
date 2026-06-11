@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバカ語
+  - translation_iso: kor
+    name: 응바카 마보어
+    auto: true
   - translation_iso: por
     name: "Ngbaka Ma'bo"
     auto: true
+  - translation_iso: rus
+    name: Нгбака ма’бо
   - translation_iso: spa
     name: "Ngbaka Ma'bo"
     auto: true

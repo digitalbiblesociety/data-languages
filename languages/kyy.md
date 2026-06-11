@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カンバイラ語
     auto: true
+  - translation_iso: kor
+    name: 캄바이라어
+    auto: true
   - translation_iso: por
     name: Kambaira
     auto: true

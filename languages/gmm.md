@@ -32,9 +32,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ンボドモ語
+  - translation_iso: kor
+    name: 그바야·음보도모어
+    auto: true
   - translation_iso: por
     name: Gbaya-Mbodomo
     auto: true
+  - translation_iso: rus
+    name: Мбодомо (язык)
   - translation_iso: spa
     name: Gbaya-Mbodomo
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: タキア語
     auto: true
+  - translation_iso: kor
+    name: 타키아어
+    auto: true
   - translation_iso: por
     name: Takia
     auto: true

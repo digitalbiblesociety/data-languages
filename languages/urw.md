@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソップ語
+  - translation_iso: kor
+    name: 소프어
+    auto: true
   - translation_iso: por
     name: Sop
     auto: true

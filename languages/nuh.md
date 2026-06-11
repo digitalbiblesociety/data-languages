@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥンダ語
     auto: true
+  - translation_iso: kor
+    name: 은둔다어
+    auto: true
   - translation_iso: por
     name: Ndunda
     auto: true

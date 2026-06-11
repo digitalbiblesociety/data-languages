@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ウォッコン語
     auto: true
+  - translation_iso: kor
+    name: 워콘어
+    auto: true
   - translation_iso: por
     name: woccon
     auto: true
+  - translation_iso: rus
+    name: уоккон
   - translation_iso: spa
     name: Woccon
     auto: true

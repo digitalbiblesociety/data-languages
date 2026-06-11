@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ブルンゲ語
     auto: true
+  - translation_iso: kor
+    name: 부룽게어
+    auto: true
   - translation_iso: por
     name: Burunge
     auto: true

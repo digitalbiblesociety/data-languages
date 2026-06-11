@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウクリグマ語
     auto: true
+  - translation_iso: kor
+    name: 우쿠리구마어
+    auto: true
   - translation_iso: por
     name: Ukuriguma
     auto: true

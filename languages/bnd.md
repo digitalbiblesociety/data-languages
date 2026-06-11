@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باندا مالوكو
     auto: true
+  - translation_iso: ben
+    name: বান্দা
   - translation_iso: deu
     name: Banda
   - translation_iso: fra
@@ -28,8 +30,13 @@ translations:
   - translation_iso: hin
     name: बांदा मालुकू
     auto: true
+  - translation_iso: ind
+    name: bahasa Banda
   - translation_iso: jpn
     name: バンダ・マルク語
+    auto: true
+  - translation_iso: kor
+    name: 반다 말루쿠어
     auto: true
   - translation_iso: por
     name: Banda

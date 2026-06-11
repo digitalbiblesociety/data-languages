@@ -33,9 +33,14 @@ translations:
   - translation_iso: jpn
     name: ウアレ語
     auto: true
+  - translation_iso: kor
+    name: 우아레어
+    auto: true
   - translation_iso: por
     name: Uare
     auto: true
+  - translation_iso: rus
+    name: Уаре
   - translation_iso: spa
     name: Uare
     auto: true

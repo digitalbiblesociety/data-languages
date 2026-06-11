@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドガ語
     auto: true
+  - translation_iso: kor
+    name: 도가어
+    auto: true
   - translation_iso: por
     name: Doga
     auto: true

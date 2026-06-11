@@ -30,8 +30,13 @@ translations:
   - translation_iso: hin
     name: सुलोद
     auto: true
+  - translation_iso: ind
+    name: bahasa Seled
   - translation_iso: jpn
     name: ブキドノン語
+    auto: true
+  - translation_iso: kor
+    name: 술로드어
     auto: true
   - translation_iso: por
     name: Sulod

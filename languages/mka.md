@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムブレ語
+  - translation_iso: kor
+    name: 음브레어
+    auto: true
   - translation_iso: por
     name: Mbre
     auto: true

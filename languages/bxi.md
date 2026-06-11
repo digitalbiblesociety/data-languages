@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ピルラタパ語
     auto: true
+  - translation_iso: kor
+    name: 피를라타파어
+    auto: true
   - translation_iso: por
     name: Pirlatapa
     auto: true

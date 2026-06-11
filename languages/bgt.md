@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブゴトゥ語
+  - translation_iso: kor
+    name: 부고투어
+    auto: true
   - translation_iso: por
     name: Bughotu
     auto: true

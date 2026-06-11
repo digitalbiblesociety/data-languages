@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ティドング語
     auto: true
+  - translation_iso: kor
+    name: 세루둥 무루트어
+    auto: true
   - translation_iso: por
     name: Murut Serudung
     auto: true

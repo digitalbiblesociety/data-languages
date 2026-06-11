@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハブン語
+  - translation_iso: kor
+    name: 하부어
+    auto: true
   - translation_iso: por
     name: Habu
     auto: true
+  - translation_iso: rus
+    name: Хабун
   - translation_iso: spa
     name: Habun
   - translation_iso: zho

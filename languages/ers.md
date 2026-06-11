@@ -31,8 +31,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルス語
+  - translation_iso: kor
+    name: 얼수어
+    auto: true
   - translation_iso: por
     name: ersu
+  - translation_iso: rus
+    name: эрсу
   - translation_iso: spa
     name: idioma ersu
   - translation_iso: zho

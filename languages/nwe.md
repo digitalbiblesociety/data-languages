@@ -30,9 +30,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングウェ語
+  - translation_iso: kor
+    name: 응궤어
+    auto: true
   - translation_iso: por
     name: Ngwe
     auto: true
+  - translation_iso: rus
+    name: Нгве
   - translation_iso: spa
     name: Ngwe
     auto: true

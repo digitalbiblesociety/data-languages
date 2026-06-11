@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: اللغة ألوو
     auto: true
+  - translation_iso: ben
+    name: আলুও
   - translation_iso: deu
     name: Aluo
     auto: true
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルオ語
+    auto: true
+  - translation_iso: kor
+    name: 아뤄어
     auto: true
   - translation_iso: por
     name: aluo

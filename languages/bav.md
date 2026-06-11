@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ヴェンゴ語
     auto: true
+  - translation_iso: kor
+    name: 벵고어
+    auto: true
   - translation_iso: por
     name: Vengo
     auto: true

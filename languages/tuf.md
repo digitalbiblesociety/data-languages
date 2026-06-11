@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: トゥネボ語
     auto: true
+  - translation_iso: kor
+    name: 중앙 투네보어
+    auto: true
   - translation_iso: por
     name: Tunebo Central
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: لغة كوتا
     auto: true
+  - translation_iso: ben
+    name: কোটা ভাষা
   - translation_iso: deu
     name: Kota (Indien)
     auto: true
@@ -28,11 +30,18 @@ translations:
     name: kota
   - translation_iso: hin
     name: कोटा भाषा
+  - translation_iso: ind
+    name: Bahasa Kota
   - translation_iso: jpn
     name: コータ語
+  - translation_iso: kor
+    name: 코타어
+    auto: true
   - translation_iso: por
     name: Kota (Índia)
     auto: true
+  - translation_iso: rus
+    name: кота
   - translation_iso: spa
     name: kota
   - translation_iso: zho

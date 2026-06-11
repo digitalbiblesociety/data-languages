@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: サキラビア語
     auto: true
+  - translation_iso: kor
+    name: 사키라비아어
+    auto: true
   - translation_iso: por
     name: Língua mequém
+  - translation_iso: rus
+    name: Сакирабиа
   - translation_iso: spa
     name: Sakirabiá
     auto: true

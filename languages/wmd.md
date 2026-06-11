@@ -32,8 +32,13 @@ translations:
   - translation_iso: jpn
     name: ママインデ語
     auto: true
+  - translation_iso: kor
+    name: 마마인데어
+    auto: true
   - translation_iso: por
     name: Mamaindê
+  - translation_iso: rus
+    name: Мамаинде
   - translation_iso: spa
     name: Mamaindé
     auto: true

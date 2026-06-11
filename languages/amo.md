@@ -22,6 +22,8 @@ translations:
   - translation_iso: ara
     name: لغة آمو
     auto: true
+  - translation_iso: ben
+    name: আমো
   - translation_iso: deu
     name: Amo
   - translation_iso: fra
@@ -31,6 +33,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アモ語
+    auto: true
+  - translation_iso: kor
+    name: 아모어
     auto: true
   - translation_iso: por
     name: Amo

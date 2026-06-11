@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ウィン語
     auto: true
+  - translation_iso: kor
+    name: 북부 투시안어
+    auto: true
   - translation_iso: por
     name: Toussian do Norte
     auto: true

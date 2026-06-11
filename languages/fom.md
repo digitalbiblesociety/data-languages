@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: フォマ語
     auto: true
+  - translation_iso: kor
+    name: 포마어
+    auto: true
   - translation_iso: por
     name: Foma
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: ara
     name: باتاك ألاس-كْلويت
     auto: true
+  - translation_iso: ben
+    name: আলাস
   - translation_iso: deu
     name: Batak Alas-Kluet
     auto: true
@@ -29,8 +31,13 @@ translations:
   - translation_iso: hin
     name: बाताक आलास-क्लुएत
     auto: true
+  - translation_iso: ind
+    name: Bahasa Alas-Kluet
   - translation_iso: jpn
     name: バタク・アラス＝クルット語
+  - translation_iso: kor
+    name: 바탁 알라스클루에트어
+    auto: true
   - translation_iso: por
     name: Batak Alas-Kluet
     auto: true

@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: イゲデ語
     auto: true
+  - translation_iso: kor
+    name: 이게데어
+    auto: true
   - translation_iso: por
     name: Igede
     auto: true

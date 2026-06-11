@@ -28,10 +28,17 @@ translations:
   - translation_iso: hin
     name: फोरडाटा
     auto: true
+  - translation_iso: ind
+    name: Fordata
   - translation_iso: jpn
     name: フォルダタ語
+  - translation_iso: kor
+    name: 포르다타어
+    auto: true
   - translation_iso: por
     name: Fordata
+  - translation_iso: rus
+    name: фордата
   - translation_iso: spa
     name: Fordata
   - translation_iso: zho

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンサルバドル・コンゴ語
+  - translation_iso: kor
+    name: 산살바도르 콩고어
+    auto: true
   - translation_iso: por
     name: Congo de San Salvador
     auto: true

@@ -30,8 +30,13 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンドュ語
+  - translation_iso: kor
+    name: 렌두어
+    auto: true
   - translation_iso: por
     name: Língua lendu
+  - translation_iso: rus
+    name: ленду
   - translation_iso: spa
     name: Lendu
   - translation_iso: zho

@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: ボルカ語
     auto: true
+  - translation_iso: kor
+    name: 보루카어
+    auto: true
   - translation_iso: por
     name: Boruca
     auto: true
+  - translation_iso: rus
+    name: Борука (язык)
   - translation_iso: spa
     name: Idioma boruca
   - translation_iso: zho

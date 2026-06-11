@@ -32,6 +32,9 @@ translations:
   - translation_iso: jpn
     name: ファニア語
     auto: true
+  - translation_iso: kor
+    name: 파니아어
+    auto: true
   - translation_iso: por
     name: Fania
     auto: true

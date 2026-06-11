@@ -21,18 +21,24 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luba-Kasai_language"
 translations:
   - translation_iso: ara
     name: لغة تشيلوبا
+  - translation_iso: ben
+    name: লুবা-লুলুয়া
   - translation_iso: deu
     name: Tschiluba
   - translation_iso: fra
     name: luba-kasaï
   - translation_iso: hin
     name: ल्यूबा-लुलुआ
+  - translation_iso: ind
+    name: Luba-Lulua
   - translation_iso: jpn
     name: ルバ語
   - translation_iso: kor
     name: 루바어
   - translation_iso: por
     name: Língua tshiluba
+  - translation_iso: rus
+    name: луба-лулуа
   - translation_iso: spa
     name: chiluba
   - translation_iso: zho

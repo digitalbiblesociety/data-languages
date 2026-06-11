@@ -27,12 +27,19 @@ translations:
   - translation_iso: hin
     name: इबू
     auto: true
+  - translation_iso: ind
+    name: Ibu
   - translation_iso: jpn
     name: イブ語
+    auto: true
+  - translation_iso: kor
+    name: 이부어
     auto: true
   - translation_iso: por
     name: Ibu
     auto: true
+  - translation_iso: rus
+    name: Ибу
   - translation_iso: spa
     name: Ibu
     auto: true

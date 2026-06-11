@@ -31,9 +31,14 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥリ語
+  - translation_iso: kor
+    name: 둘리게이어
+    auto: true
   - translation_iso: por
     name: Duli-Gey
     auto: true
+  - translation_iso: rus
+    name: Дули
   - translation_iso: spa
     name: Duli-Gey
     auto: true

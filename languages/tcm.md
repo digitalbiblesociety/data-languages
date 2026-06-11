@@ -26,8 +26,13 @@ translations:
   - translation_iso: hin
     name: तानामेराह
     auto: true
+  - translation_iso: ind
+    name: Sumeri
   - translation_iso: jpn
     name: タナメラ語
+    auto: true
+  - translation_iso: kor
+    name: 타나메라어
     auto: true
   - translation_iso: por
     name: Tanahmerah

@@ -29,8 +29,13 @@ translations:
   - translation_iso: jpn
     name: アビシラ語
     auto: true
+  - translation_iso: kor
+    name: 아비시라어
+    auto: true
   - translation_iso: por
     name: Língua aiwa
+  - translation_iso: rus
+    name: Абишира
   - translation_iso: spa
     name: tekiraka
   - translation_iso: zho

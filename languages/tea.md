@@ -29,11 +29,18 @@ translations:
   - translation_iso: hin
     name: तेमियार
     auto: true
+  - translation_iso: ind
+    name: Bahasa Temiar
   - translation_iso: jpn
     name: テミアル語
     auto: true
+  - translation_iso: kor
+    name: 테미아르어
+    auto: true
   - translation_iso: por
     name: Língua temiar
+  - translation_iso: rus
+    name: Темиарский язык
   - translation_iso: spa
     name: Temiar
     auto: true

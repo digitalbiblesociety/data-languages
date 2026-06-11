@@ -32,9 +32,14 @@ translations:
   - translation_iso: jpn
     name: マンダ語
     auto: true
+  - translation_iso: kor
+    name: 만다어
+    auto: true
   - translation_iso: por
     name: Manda (Tanzânia)
     auto: true
+  - translation_iso: rus
+    name: манда
   - translation_iso: spa
     name: Manda (Tanzania)
     auto: true
