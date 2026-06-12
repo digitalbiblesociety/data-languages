@@ -21,7 +21,7 @@ translations:
     name: لغة يولنغو الإشارة
     auto: true
   - translation_iso: ben
-    name: য়োলঙু সিগন লাঙুয়াগে
+    name: য়োলঙু ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Yolngu-Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: योलङु सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Yolŋu Sign Language
+    name: Bahasa Isyarat Yolŋu
     auto: true
   - translation_iso: jpn
     name: ヨルング手話
@@ -43,7 +43,7 @@ translations:
     name: língua de sinais yolŋu
     auto: true
   - translation_iso: rus
-    name: йолнгу сигн лангуагейский язык
+    name: йолнгуский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas Yolŋu

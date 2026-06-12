@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: सेलांगोर साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Selangor Sign Language
+    name: Bahasa Isyarat Selangor
     auto: true
   - translation_iso: jpn
     name: セランゴール手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais de Selangor
   - translation_iso: rus
-    name: селангор сигн лангуагейский язык
+    name: селангорский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas de Selangor

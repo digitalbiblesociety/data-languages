@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: العربية الفصحى
   - translation_iso: ben
-    name: আরাবিক
+    name: আরবি
     auto: true
   - translation_iso: deu
     name: Hocharabisch
@@ -31,7 +31,7 @@ translations:
     name: मानक अरबी
     auto: true
   - translation_iso: ind
-    name: Bahasa Arabic
+    name: Bahasa Arab
     auto: true
   - translation_iso: jpn
     name: フスハー
@@ -41,7 +41,7 @@ translations:
     name: Árabe
     auto: true
   - translation_iso: rus
-    name: арабикский язык
+    name: арабский язык
     auto: true
   - translation_iso: spa
     name: Árabe estándar moderno

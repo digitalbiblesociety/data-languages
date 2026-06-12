@@ -23,7 +23,7 @@ translations:
     name: لغة زابوتيك تلاكولولا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন তলাকোলুলা ভাল্লেয় জাপোতেক
+    name: পশ্চিম তলাকোলুলা ভাল্লেয় জাপোতেক
     auto: true
   - translation_iso: deu
     name: Zapotekisch (West-Tlacolula-Tal)
@@ -34,7 +34,7 @@ translations:
     name: पश्चिमी त्लाकोलूला घाटी ज़ापोटेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Tlacolula Valley Zapotec
+    name: Bahasa Tlacolula Valley Zapotec Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語

@@ -30,7 +30,7 @@ translations:
     name: कोस्टा रिकन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Costa Rican Sign Language
+    name: Bahasa Isyarat Costa Rican
     auto: true
   - translation_iso: jpn
     name: コスタリカ手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Costa Rica
   - translation_iso: rus
-    name: коста рикан сигн лангуагейский язык
+    name: коста риканский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas costarricense

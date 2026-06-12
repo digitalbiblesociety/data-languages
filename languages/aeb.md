@@ -23,7 +23,7 @@ translations:
   - translation_iso: ara
     name: اللهجة التونسية
   - translation_iso: ben
-    name: তুনিসিয়ান আরাবিক
+    name: তুনিসিয়ান আরবি
     auto: true
   - translation_iso: deu
     name: Tunesisch-Arabisch

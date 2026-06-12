@@ -22,7 +22,7 @@ translations:
     name: لغة شمال أمبريم
     auto: true
   - translation_iso: ben
-    name: নোরথ আমবরয়ম
+    name: উত্তর আমবরয়ম
     auto: true
   - translation_iso: deu
     name: North Ambrym
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी अम्ब्रिम
     auto: true
   - translation_iso: ind
-    name: Bahasa North Ambrym
+    name: Bahasa Ambrym Utara
     auto: true
   - translation_iso: jpn
     name: 北アンブリム語
@@ -44,7 +44,7 @@ translations:
     name: ambrym do norte
     auto: true
   - translation_iso: rus
-    name: норт амбрймский язык
+    name: северный амбрймский язык
     auto: true
   - translation_iso: spa
     name: Ambrym del Norte

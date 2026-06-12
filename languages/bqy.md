@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: كاتا كولوك
   - translation_iso: ben
-    name: বেংকালা সিগন লাঙুয়াগে
+    name: বেংকালা ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Balinesische Gebärdensprache

@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: एडमोरोब साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Adamorobe Sign Language
+    name: Bahasa Isyarat Adamorobe
     auto: true
   - translation_iso: jpn
     name: アダモロベ手話

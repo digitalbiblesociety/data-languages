@@ -17,7 +17,7 @@ translations:
     name: اللغة الإشارة السنغافورية
     auto: true
   - translation_iso: ben
-    name: সিঙাপোরে সিগন লাঙুয়াগে
+    name: সিঙাপোরে ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Singapurische Gebärdensprache
@@ -38,7 +38,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais de Singapura
   - translation_iso: rus
-    name: сингапоре сигн лангуагейский язык
+    name: сингапорейский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas de Singapur

@@ -22,7 +22,7 @@ translations:
     name: لغة مانينكاكان الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মানিনকাকান
+    name: পশ্চিম মানিনকাকান
     auto: true
   - translation_iso: deu
     name: Western Maninkakan
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी मानिंकाकान
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Maninkakan
+    name: Bahasa Maninkakan Barat
     auto: true
   - translation_iso: jpn
     name: 西部マリンカカン語
@@ -44,7 +44,7 @@ translations:
     name: maninkakan ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн манинкаканский язык
+    name: западный манинкаканский язык
     auto: true
   - translation_iso: spa
     name: Maninkakan Occidental

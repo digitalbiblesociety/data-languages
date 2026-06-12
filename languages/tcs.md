@@ -22,7 +22,7 @@ translations:
     name: كريولية جزر توريس
     auto: true
   - translation_iso: ben
-    name: তোর্রেস সতরাইত করেওলে
+    name: তোর্রেস সতরাইত ক্রেওল
     auto: true
   - translation_iso: deu
     name: Torres Creole
@@ -32,7 +32,7 @@ translations:
     name: टॉरेस जलसंधि क्रियोल
     auto: true
   - translation_iso: ind
-    name: Bahasa Torres Strait Creole
+    name: Bahasa Kreol Torres Strait
     auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール

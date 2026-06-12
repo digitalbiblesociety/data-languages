@@ -33,7 +33,7 @@ translations:
     name: तिमोर पिजिन
     auto: true
   - translation_iso: ind
-    name: Bahasa Timor Pidgin
+    name: Bahasa Pijin Timor
     auto: true
   - translation_iso: jpn
     name: ティモール・ピジン語
@@ -44,7 +44,7 @@ translations:
   - translation_iso: por
     name: Crioulo Português de Bidau
   - translation_iso: rus
-    name: тимор пидгинский язык
+    name: тиморский пиджин
     auto: true
   - translation_iso: spa
     name: portugués criollo de Bidau

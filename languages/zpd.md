@@ -23,7 +23,7 @@ translations:
     name: زابوتيك إيكستلان الجنوبي الشرقي
     auto: true
   - translation_iso: ben
-    name: সোউথেয়াসতেরন ইকসতলান জাপোতেক
+    name: দক্ষিণ-পূর্ব ইকসতলান জাপোতেক
     auto: true
   - translation_iso: deu
     name: Zapotekisch (Südost-Ixtlán)
@@ -34,7 +34,7 @@ translations:
     name: दक्षिणपूर्वी इक्स्तलान सैपोटेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southeastern Ixtlán Zapotec
+    name: Bahasa Ixtlán Zapotec Tenggara
     auto: true
   - translation_iso: jpn
     name: サウスイースタン・イクスラン・サポテク語

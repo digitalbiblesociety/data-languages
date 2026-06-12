@@ -22,7 +22,7 @@ translations:
     name: اللغة يوكاغيز الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন য়ুকাঘির
+    name: উত্তর য়ুকাঘির
     auto: true
   - translation_iso: deu
     name: Tundrajukagirisch
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी युकागिर
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Yukaghir
+    name: Bahasa Yukaghir Utara
     auto: true
   - translation_iso: jpn
     name: ツンドラ・ユカギール語

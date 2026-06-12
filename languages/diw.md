@@ -22,7 +22,7 @@ translations:
     name: نورثويسترن دينكا
     auto: true
   - translation_iso: ben
-    name: নোরথওয়েসতেরন দিনকা
+    name: উত্তর-পশ্চিম দিনকা
     auto: true
   - translation_iso: deu
     name: Nordwest-Dinka
@@ -32,7 +32,7 @@ translations:
     name: उत्तर-पश्चिमी डिंका
     auto: true
   - translation_iso: ind
-    name: Bahasa Northwestern Dinka
+    name: Bahasa Dinka Barat Laut
     auto: true
   - translation_iso: jpn
     name: 北西ディンカ語
@@ -43,7 +43,7 @@ translations:
     name: Dinka Noroeste
     auto: true
   - translation_iso: rus
-    name: нортвестерн динкский язык
+    name: северо-западный динкский язык
     auto: true
   - translation_iso: spa
     name: dinka noroccidental

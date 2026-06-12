@@ -23,7 +23,7 @@ translations:
     name: اللغة أوجيبوا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন ওজিবওয়া
+    name: পূর্ব ওজিবওয়া
     auto: true
   - translation_iso: deu
     name: Ost-Ojibwe
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी ओजिब्वा
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Ojibwa
+    name: Bahasa Ojibwa Timur
     auto: true
   - translation_iso: jpn
     name: 東部オジブワ語

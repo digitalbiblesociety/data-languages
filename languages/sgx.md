@@ -21,7 +21,7 @@ translations:
     name: سييرا ليون لغة الإشارة
     auto: true
   - translation_iso: ben
-    name: সিএর্রা লেওনে সিগন লাঙুয়াগে
+    name: সিএর্রা লেওনে ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Sierraleonische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: सिएरा लियोन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Sierra Leone Sign Language
+    name: Bahasa Isyarat Sierra Leone
     auto: true
   - translation_iso: jpn
     name: シエラレオネ手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Serra Leoa
   - translation_iso: rus
-    name: сиерра леоне сигн лангуагейский язык
+    name: сиерра леонейский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas de Sierra Leona

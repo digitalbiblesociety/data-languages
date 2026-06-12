@@ -22,7 +22,7 @@ translations:
     name: نورذرن أمامي أوشيما
     auto: true
   - translation_iso: ben
-    name: নোরথেরন আমামি-ওশিমা
+    name: উত্তর আমামি-ওশিমা
     auto: true
   - translation_iso: deu
     name: Nord-Amami-Oshima

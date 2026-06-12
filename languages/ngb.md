@@ -21,7 +21,7 @@ translations:
     name: شمال نجباندي
     auto: true
   - translation_iso: ben
-    name: নোরথেরন ংবানদি
+    name: উত্তর ংবানদি
     auto: true
   - translation_iso: deu
     name: Nord-Ngbandi
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी न्गबांडी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Ngbandi
+    name: Bahasa Ngbandi Utara
     auto: true
   - translation_iso: jpn
     name: 北ングバンディ語
@@ -44,7 +44,7 @@ translations:
     name: Ngbandi do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн нгбандийский язык
+    name: северный нгбандийский язык
     auto: true
   - translation_iso: spa
     name: Ngbandi septentrional

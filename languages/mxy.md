@@ -22,7 +22,7 @@ translations:
     name: جنوب شرق نوتشيكستلان ميكستك
     auto: true
   - translation_iso: ben
-    name: সোউথেয়াসতেরন নোচিকসতলান মিকসতেক
+    name: দক্ষিণ-পূর্ব নোচিকসতলান মিকসতেক
     auto: true
   - translation_iso: deu
     name: Südost-Nochixtlán-Mixtekisch
@@ -34,7 +34,7 @@ translations:
     name: दक्षिण-पूर्वी नोचिक्सतलान मिक्सटेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southeastern Nochixtlán Mixtec
+    name: Bahasa Nochixtlán Mixtec Tenggara
     auto: true
   - translation_iso: jpn
     name: サウスイースタン・ノチクストラン・ミステク語

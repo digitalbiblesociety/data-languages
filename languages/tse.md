@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التونسية
   - translation_iso: ben
-    name: তুনিসিয়ান সিগন লাঙুয়াগে
+    name: তুনিসিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Tunesische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: ट्यूनीशियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Tunisian Sign Language
+    name: Bahasa Isyarat Tunisian
     auto: true
   - translation_iso: jpn
     name: チュニジア手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Tunísia
   - translation_iso: rus
-    name: тунисиан сигн лангуагейский язык
+    name: тунисианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas tunecina

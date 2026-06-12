@@ -22,7 +22,7 @@ translations:
     name: مايوك سيرا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন সিএর্রা মিওয়োক
+    name: উত্তর সিএর্রা মিওয়োক
     auto: true
   - translation_iso: deu
     name: Nördliches Sierra-Miwok
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी सिएरा मिवोक
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Sierra Miwok
+    name: Bahasa Sierra Miwok Utara
     auto: true
   - translation_iso: jpn
     name: 北シエラミウォク語

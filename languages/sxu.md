@@ -22,7 +22,7 @@ translations:
     name: الساكسونية العليا
     auto: true
   - translation_iso: ben
-    name: উপ্পের সাকসোন
+    name: ঊর্ধ্ব সাকসোন
     auto: true
   - translation_iso: deu
     name: Sächsisch
@@ -32,7 +32,7 @@ translations:
     name: ऊपरी सैक्सन
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Saxon
+    name: Bahasa Saxon Hulu
     auto: true
   - translation_iso: jpn
     name: 上部ザクセン語

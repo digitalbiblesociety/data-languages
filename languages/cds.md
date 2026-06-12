@@ -20,7 +20,7 @@ translations:
     name: لغة الإشارة التشادية
     auto: true
   - translation_iso: ben
-    name: চাদিয়ান সিগন লাঙুয়াগে
+    name: চাদিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Tschadische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: चाडियन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Chadian Sign Language
+    name: Bahasa Isyarat Chadian
     auto: true
   - translation_iso: jpn
     name: チャド手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais do Chade
   - translation_iso: rus
-    name: чадиан сигн лангуагейский язык
+    name: чадианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas del Chad

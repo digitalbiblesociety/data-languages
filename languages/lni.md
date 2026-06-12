@@ -34,7 +34,7 @@ translations:
     name: दानतानाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Daantanai
+    name: "Bahasa Daantanai'"
     auto: true
   - translation_iso: jpn
     name: ダアンタナイ語

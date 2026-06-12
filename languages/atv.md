@@ -31,7 +31,7 @@ translations:
     name: उत्तरी अल्ताई
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Altai
+    name: Bahasa Altai Utara
     auto: true
   - translation_iso: jpn
     name: 北アルタイ語

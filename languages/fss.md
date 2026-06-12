@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: फिनलैंड-स्वेडिश सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Finland-Swedish Sign Language
+    name: Bahasa Isyarat Finland-Swedish
     auto: true
   - translation_iso: jpn
     name: フィンランド＝スウェーデン手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais Finlandesa-Sueca
     auto: true
   - translation_iso: rus
-    name: финланд-сведиш сигн лангуагейский язык
+    name: финланд-сведишский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas finlandesa-sueca

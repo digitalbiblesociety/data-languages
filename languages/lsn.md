@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة التبتية
     auto: true
   - translation_iso: ben
-    name: তিবেতান সিগন লাঙুয়াগে
+    name: তিবেতান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Tibetische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
   - translation_iso: hin
     name: तिब्बती सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Tibetan Sign Language
+    name: Bahasa Isyarat Tibetan
     auto: true
   - translation_iso: jpn
     name: チベット手話

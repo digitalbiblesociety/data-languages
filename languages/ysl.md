@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة اليوغوسلافية
     auto: true
   - translation_iso: ben
-    name: য়ুগোসলাভিয়ান সিগন লাঙুয়াগে
+    name: য়ুগোসলাভিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Jugoslawische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: यूगोस्लावियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Yugoslavian Sign Language
+    name: Bahasa Isyarat Yugoslavian
     auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話

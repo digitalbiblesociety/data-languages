@@ -23,7 +23,7 @@ translations:
     name: فوتونا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত ফুতুনা
+    name: পূর্ব ফুতুনা
     auto: true
   - translation_iso: deu
     name: Futunisch
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी फुटुना
     auto: true
   - translation_iso: ind
-    name: Bahasa East Futuna
+    name: Bahasa Futuna Timur
     auto: true
   - translation_iso: jpn
     name: フトゥナ語

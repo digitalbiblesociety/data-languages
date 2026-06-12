@@ -21,7 +21,7 @@ translations:
     name: اللغة بامي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পামে
+    name: উত্তর পামে
     auto: true
   - translation_iso: deu
     name: Nord-Pame
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी पामे
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Pame
+    name: Bahasa Pame Utara
     auto: true
   - translation_iso: jpn
     name: 北パメ語
@@ -44,7 +44,7 @@ translations:
     name: Pame Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн памейский язык
+    name: северный памейский язык
     auto: true
   - translation_iso: spa
     name: Pame norteño

@@ -21,7 +21,7 @@ translations:
     name: ويسترن ميهانج
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মেওহাং
+    name: পশ্চিম মেওহাং
     auto: true
   - translation_iso: deu
     name: West-Meohang
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी मेओहांग
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Meohang
+    name: Bahasa Meohang Barat
     auto: true
   - translation_iso: jpn
     name: 西メオハン語
@@ -44,7 +44,7 @@ translations:
     name: Meohang Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн меохангский язык
+    name: западный меохангский язык
     auto: true
   - translation_iso: spa
     name: Meohang occidental

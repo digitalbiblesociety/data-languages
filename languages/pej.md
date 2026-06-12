@@ -22,7 +22,7 @@ translations:
     name: اللغة بومو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পোমো
+    name: উত্তর পোমো
     auto: true
   - translation_iso: deu
     name: Nördliches Pomo
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी पोमो
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Pomo
+    name: Bahasa Pomo Utara
     auto: true
   - translation_iso: jpn
     name: 北ポモ語

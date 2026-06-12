@@ -23,7 +23,7 @@ translations:
     name: الأرومو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন ওরোমো
+    name: পূর্ব ওরোমো
     auto: true
   - translation_iso: deu
     name: Östliches Oromo
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी ओरोमो
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Oromo
+    name: Bahasa Oromo Timur
     auto: true
   - translation_iso: jpn
     name: 東オロモ語
@@ -45,7 +45,7 @@ translations:
     name: Oromo Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн оромоский язык
+    name: восточный оромоский язык
     auto: true
   - translation_iso: spa
     name: Oromo Oriental

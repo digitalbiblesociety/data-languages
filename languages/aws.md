@@ -21,7 +21,7 @@ translations:
     name: اللغة أويو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ আওয়য়ু
+    name: দক্ষিণ আওয়য়ু
     auto: true
   - translation_iso: deu
     name: Süd-Awyu
@@ -43,7 +43,7 @@ translations:
     name: Awyu do Sul
     auto: true
   - translation_iso: rus
-    name: сут авюский язык
+    name: южный авюский язык
     auto: true
   - translation_iso: spa
     name: Awyu del Sur

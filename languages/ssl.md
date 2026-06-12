@@ -21,7 +21,7 @@ translations:
     name: اللغة سيسالا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন সিসালা
+    name: পশ্চিম সিসালা
     auto: true
   - translation_iso: deu
     name: Western Sisaala
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी सिसाला
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Sisaala
+    name: Bahasa Sisaala Barat
     auto: true
   - translation_iso: jpn
     name: シッサーラ語
@@ -44,7 +44,7 @@ translations:
     name: Sisaala Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн сисаалский язык
+    name: западный сисаалский язык
     auto: true
   - translation_iso: spa
     name: Sisaala occidental

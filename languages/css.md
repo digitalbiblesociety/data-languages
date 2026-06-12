@@ -21,7 +21,7 @@ translations:
     name: جنوب أوهلوني
     auto: true
   - translation_iso: ben
-    name: সোউথেরন ওহলোনে
+    name: দক্ষিণ ওহলোনে
     auto: true
   - translation_iso: deu
     name: Südliches Ohlone
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी ओह्लोन
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Ohlone
+    name: Bahasa Ohlone Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・オーロン語

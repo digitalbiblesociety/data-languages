@@ -22,7 +22,7 @@ translations:
     name: اللغة سوبانين الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন সুবানোন
+    name: পশ্চিম সুবানোন
     auto: true
   - translation_iso: deu
     name: Western Subanon
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी सुबानोन
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Subanon
+    name: Bahasa Subanon Barat
     auto: true
   - translation_iso: jpn
     name: 西スバノン語
@@ -44,7 +44,7 @@ translations:
   - translation_iso: por
     name: Língua subanon ocidental
   - translation_iso: rus
-    name: вестерн субанонский язык
+    name: западный субанонский язык
     auto: true
   - translation_iso: spa
     name: Subanen occidental

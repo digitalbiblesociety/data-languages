@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी नागो
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Nago
+    name: Bahasa Nago Selatan
     auto: true
   - translation_iso: jpn
     name: 南ナゴ語
@@ -44,7 +44,7 @@ translations:
     name: Nago Setentrional
     auto: true
   - translation_iso: rus
-    name: сутерн нагоский язык
+    name: южный нагоский язык
     auto: true
   - translation_iso: spa
     name: Nago del Sur

@@ -21,7 +21,7 @@ translations:
     name: نيسو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন নিসু
+    name: দক্ষিণ নিসু
     auto: true
   - translation_iso: deu
     name: Südliches Nisu
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी निसु
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Nisu
+    name: Bahasa Nisu Selatan
     auto: true
   - translation_iso: jpn
     name: 南ニス語
@@ -44,7 +44,7 @@ translations:
     name: Nisu Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн нисуский язык
+    name: южный нисуский язык
     auto: true
   - translation_iso: spa
     name: Nisu Meridional

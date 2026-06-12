@@ -22,7 +22,7 @@ translations:
     name: اللغة كويتشوا كونتشوس الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কোনচুকোস আনকাশ কুএচুয়া
+    name: দক্ষিণ কোনচুকোস আনকাশ কুএচুয়া
     auto: true
   - translation_iso: deu
     name: Süd-Conchucos-Ancash-Quechua
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी कोंचुकोस आंकाश क्वेचुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Conchucos Ancash Quechua
+    name: Bahasa Conchucos Ancash Quechua Selatan
     auto: true
   - translation_iso: jpn
     name: 南コンチュコスアンカシュケチュア語
@@ -45,7 +45,7 @@ translations:
     name: Quíchua de Conchucos Ancash do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн кончукос анкаш квечуский язык
+    name: южный кончукос анкаш квечуский язык
     auto: true
   - translation_iso: spa
     name: "Quechua de los Conchucos del sur, Áncash"

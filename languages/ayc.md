@@ -23,7 +23,7 @@ translations:
     name: اللغة أيمارا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন আয়মারা
+    name: দক্ষিণ আয়মারা
     auto: true
   - translation_iso: deu
     name: Süd-Aymara
@@ -34,7 +34,7 @@ translations:
     name: दक्षिणी आयमारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Aymara
+    name: Bahasa Aymara Selatan
     auto: true
   - translation_iso: jpn
     name: 南アイマラ語
@@ -45,7 +45,7 @@ translations:
     name: Aimará do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн аймарский язык
+    name: южный аймарский язык
     auto: true
   - translation_iso: spa
     name: Aimara Sureño

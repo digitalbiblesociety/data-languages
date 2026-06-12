@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: पाकिसतान इशारा
   - translation_iso: ind
-    name: Bahasa Pakistan Sign Language
+    name: Bahasa Isyarat Pakistan
     auto: true
   - translation_iso: jpn
     name: パキスタン手話

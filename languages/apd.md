@@ -23,7 +23,7 @@ translations:
   - translation_iso: ara
     name: لهجة سودانية
   - translation_iso: ben
-    name: সুদানেসে আরাবিক
+    name: সুদানেসে আরবি
     auto: true
   - translation_iso: deu
     name: Sudanesisch-Arabisch

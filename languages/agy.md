@@ -22,7 +22,7 @@ translations:
     name: لغة ساوثيرن ألتا
     auto: true
   - translation_iso: ben
-    name: সোউথেরন আলতা
+    name: দক্ষিণ আলতা
     auto: true
   - translation_iso: deu
     name: Süd-Alta
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी अल्ता
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Alta
+    name: Bahasa Alta Selatan
     auto: true
   - translation_iso: jpn
     name: 南部アルタ語
@@ -45,7 +45,7 @@ translations:
     name: Alta do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн алтский язык
+    name: южный алтский язык
     auto: true
   - translation_iso: spa
     name: Alta meridional

@@ -27,7 +27,7 @@ translations:
     name: ओचिची
     auto: true
   - translation_iso: ind
-    name: "Bahasa O'chi'chi"
+    name: "Bahasa O'chi'chi'"
     auto: true
   - translation_iso: jpn
     name: オチチ語

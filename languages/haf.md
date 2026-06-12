@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة بهايفونج
     auto: true
   - translation_iso: ben
-    name: হাইফোং সিগন লাঙুয়াগে
+    name: হাইফোং ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Haiphong-Gebärdensprache
@@ -33,7 +33,7 @@ translations:
     name: हाइफोंग सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Haiphong Sign Language
+    name: Bahasa Isyarat Haiphong
     auto: true
   - translation_iso: jpn
     name: ハイフォン手話
@@ -44,7 +44,7 @@ translations:
     name: Língua de Sinais de Haiphong
     auto: true
   - translation_iso: rus
-    name: хаифонг сигн лангуагейский язык
+    name: хаифонгский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Haiphong

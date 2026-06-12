@@ -30,7 +30,7 @@ translations:
     name: डेनिश सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Danish Sign Language
+    name: Bahasa Isyarat Danish
     auto: true
   - translation_iso: jpn
     name: デンマーク手話

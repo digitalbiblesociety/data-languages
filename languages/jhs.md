@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: झनकोट सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Jhankot Sign Language
+    name: Bahasa Isyarat Jhankot
     auto: true
   - translation_iso: jpn
     name: ジャンコット手話

@@ -23,7 +23,7 @@ translations:
     name: بيكول كاتاندوانس الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কাতানদুয়ানেস বিকোল
+    name: দক্ষিণ কাতানদুয়ানেস বিকোল
     auto: true
   - translation_iso: deu
     name: Southern Catanduanes Bikol
@@ -44,7 +44,7 @@ translations:
     name: Bicol de Catanduanes do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн катандуанес бикольский язык
+    name: южный катандуанес бикольский язык
     auto: true
   - translation_iso: spa
     name: Bikol del sur de Catanduanes

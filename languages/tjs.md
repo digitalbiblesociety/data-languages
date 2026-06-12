@@ -21,7 +21,7 @@ translations:
     name: توجيا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন তুজিয়া
+    name: দক্ষিণ তুজিয়া
     auto: true
   - translation_iso: deu
     name: Southern Tujia
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी तुजिया
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Tujia
+    name: Bahasa Tujia Selatan
     auto: true
   - translation_iso: jpn
     name: 南部トゥジア語
@@ -44,7 +44,7 @@ translations:
     name: Tujia do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн туджиский язык
+    name: южный туджиский язык
     auto: true
   - translation_iso: spa
     name: Tujia del Sur

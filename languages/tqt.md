@@ -22,7 +22,7 @@ translations:
     name: توتوناك الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন তোতোনাক
+    name: পশ্চিম তোতোনাক
     auto: true
   - translation_iso: deu
     name: Westliches Totonac
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी तोतोनाक
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Totonac
+    name: Bahasa Totonac Barat
     auto: true
   - translation_iso: jpn
     name: 西トトナク語

@@ -29,7 +29,7 @@ translations:
     name: मिस्र सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Egypt Sign Language
+    name: Bahasa Isyarat Egypt
     auto: true
   - translation_iso: jpn
     name: エジプト手話

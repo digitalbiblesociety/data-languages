@@ -21,7 +21,7 @@ translations:
     name: اللغة بامي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পামে
+    name: দক্ষিণ পামে
     auto: true
   - translation_iso: deu
     name: Süd-Pame
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी पामे
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Pame
+    name: Bahasa Pame Selatan
     auto: true
   - translation_iso: jpn
     name: 南パメ語
@@ -44,7 +44,7 @@ translations:
     name: Pame Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн памейский язык
+    name: южный памейский язык
     auto: true
   - translation_iso: spa
     name: Pame meridional

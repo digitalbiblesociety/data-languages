@@ -21,7 +21,7 @@ translations:
     name: اللغة الإشارة السويسرية الإيطالية
     auto: true
   - translation_iso: ben
-    name: সওয়িস্স-ইতালিয়ান সিগন লাঙুয়াগে
+    name: সওয়িস্স-ইতালিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Lingua dei segni della Svizzera italiana
@@ -31,7 +31,7 @@ translations:
     name: स्विस-इतालवी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Swiss-Italian Sign Language
+    name: Bahasa Isyarat Swiss-Italian
     auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Suíço-Italiana
     auto: true
   - translation_iso: rus
-    name: свисс-италиан сигн лангуагейский язык
+    name: свисс-италианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas Suizo-Italiana

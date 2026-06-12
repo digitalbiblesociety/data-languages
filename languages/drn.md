@@ -22,7 +22,7 @@ translations:
     name: ويست دامار
     auto: true
   - translation_iso: ben
-    name: ওয়েসত দামার
+    name: পশ্চিম দামার
     auto: true
   - translation_iso: deu
     name: West-Damar
@@ -45,7 +45,7 @@ translations:
     name: Damar Ocidental
     auto: true
   - translation_iso: rus
-    name: вест дамарский язык
+    name: западный дамарский язык
     auto: true
   - translation_iso: spa
     name: Damar Occidental

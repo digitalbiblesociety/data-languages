@@ -23,7 +23,7 @@ translations:
     name: اللغة كويتشوا خونين الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ জুনিন কুএচুয়া
+    name: উত্তর জুনিন কুএচুয়া
     auto: true
   - translation_iso: deu
     name: Nord-Junín-Quechua
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी हुनिन क्वेचुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa North Junín Quechua
+    name: Bahasa Junín Quechua Utara
     auto: true
   - translation_iso: jpn
     name: 北フニン語
@@ -46,7 +46,7 @@ translations:
     name: Quíchua de Junín do Norte
     auto: true
   - translation_iso: rus
-    name: норт юнин квечуский язык
+    name: северный юнин квечуский язык
     auto: true
   - translation_iso: spa
     name: Quechua del norte de Junín

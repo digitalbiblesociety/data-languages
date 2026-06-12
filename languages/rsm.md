@@ -21,7 +21,7 @@ translations:
     name: ميريوونج لغة الإشارة
     auto: true
   - translation_iso: ben
-    name: মিরিওয়োং সিগন লাঙুয়াগে
+    name: মিরিওয়োং ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Miriwoong-Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: मिरिवूंग सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Miriwoong Sign Language
+    name: Bahasa Isyarat Miriwoong
     auto: true
   - translation_iso: jpn
     name: ミリウォング手話
@@ -44,7 +44,7 @@ translations:
     name: Língua de Sinais Miriwoong
     auto: true
   - translation_iso: rus
-    name: миривунг сигн лангуагейский язык
+    name: миривунгский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas miriwoong

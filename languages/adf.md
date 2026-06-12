@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة ظفارية
   - translation_iso: ben
-    name: ধোফারি আরাবিক
+    name: ধোফারি আরবি
     auto: true
   - translation_iso: deu
     name: Dhofari-Arabisch

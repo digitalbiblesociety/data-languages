@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: कोनिया सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Amami Koniya Sign Language
+    name: Bahasa Isyarat Amami Koniya
     auto: true
   - translation_iso: jpn
     name: 奄美大島手話
@@ -40,7 +40,7 @@ translations:
     name: Língua de Sinais de Amami Koniya
     auto: true
   - translation_iso: rus
-    name: амами кония сигн лангуагейский язык
+    name: амами конийский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Amami Koniya

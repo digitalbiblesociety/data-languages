@@ -30,7 +30,7 @@ translations:
     name: क्यूबा सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Cuba Sign Language
+    name: Bahasa Isyarat Cuba
     auto: true
   - translation_iso: jpn
     name: キューバ手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Cubana
   - translation_iso: rus
-    name: куба сигн лангуагейский язык
+    name: кубский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas cubana

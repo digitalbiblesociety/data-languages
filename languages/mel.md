@@ -21,7 +21,7 @@ translations:
     name: لغة ميلانو الوسطية
     auto: true
   - translation_iso: ben
-    name: কেনতরাল মেলানাউ
+    name: মধ্য মেলানাউ
     auto: true
   - translation_iso: deu
     name: Central Melanau
@@ -43,7 +43,7 @@ translations:
     name: Melanau central
     auto: true
   - translation_iso: rus
-    name: кентрал меланауский язык
+    name: центральный меланауский язык
     auto: true
   - translation_iso: spa
     name: Melanau Central

@@ -30,7 +30,7 @@ translations:
     name: डोमिनिकन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Dominican Sign Language
+    name: Bahasa Isyarat Dominican
     auto: true
   - translation_iso: jpn
     name: ドミニカ共和国手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais Dominicana
     auto: true
   - translation_iso: rus
-    name: доминикан сигн лангуагейский язык
+    name: доминиканский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas dominicano

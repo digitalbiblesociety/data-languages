@@ -22,7 +22,7 @@ translations:
     name: تاسماني المنتصف الشمالي
     auto: true
   - translation_iso: ben
-    name: নোরথ মিদলানদস তাসমানিয়ানর
+    name: উত্তর মিদলানদস তাসমানিয়ানর
     auto: true
   - translation_iso: deu
     name: North Midlands Tasmanian
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी मिडलैंड्स तस्मानियाई
     auto: true
   - translation_iso: ind
-    name: Bahasa North Midlands Tasmanian\r
+    name: Bahasa Midlands Tasmanian\r Utara
     auto: true
   - translation_iso: jpn
     name: 北ミッドランド・タスマニア語
@@ -45,7 +45,7 @@ translations:
     name: Tasmaniano North Midlands
     auto: true
   - translation_iso: rus
-    name: норт мидландс тасманианрский язык
+    name: северный мидландс тасманианрский язык
     auto: true
   - translation_iso: spa
     name: Tasmanio de las Midlands del Norte

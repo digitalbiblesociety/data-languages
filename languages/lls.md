@@ -30,7 +30,7 @@ translations:
     name: लिथुआनियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Lithuanian Sign Language
+    name: Bahasa Isyarat Lithuanian
     auto: true
   - translation_iso: jpn
     name: リトアニア手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais lituana
   - translation_iso: rus
-    name: литуаниан сигн лангуагейский язык
+    name: литуанианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas lituana

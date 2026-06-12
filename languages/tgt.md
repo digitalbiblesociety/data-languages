@@ -22,7 +22,7 @@ translations:
     name: تاغبانوا الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল তাগবানওয়া
+    name: মধ্য তাগবানওয়া
     auto: true
   - translation_iso: deu
     name: Central Tagbanwa
@@ -33,7 +33,7 @@ translations:
     name: मध्य तागबानवा
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Tagbanwa
+    name: Bahasa Tagbanwa Tengah
     auto: true
   - translation_iso: jpn
     name: タグバヌワ語

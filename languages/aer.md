@@ -21,7 +21,7 @@ translations:
     name: لغة إيسترن أريرنتي
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন আর্রেরনতে
+    name: পূর্ব আর্রেরনতে
     auto: true
   - translation_iso: deu
     name: Ost-Arrernte
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी अरेर्न्ते
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Arrernte
+    name: Bahasa Arrernte Timur
     auto: true
   - translation_iso: jpn
     name: 東部アレレント語

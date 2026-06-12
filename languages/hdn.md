@@ -22,7 +22,7 @@ translations:
     name: نورثإرن هآيدآ
     auto: true
   - translation_iso: ben
-    name: নোরথেরন হাইদা
+    name: উত্তর হাইদা
     auto: true
   - translation_iso: deu
     name: Nord-Haida
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी हाइदा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Haida
+    name: Bahasa Haida Utara
     auto: true
   - translation_iso: jpn
     name: 北部ハイダ語

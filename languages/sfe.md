@@ -21,7 +21,7 @@ translations:
     name: إيسترن سوبانين
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন সুবানেন
+    name: পূর্ব সুবানেন
     auto: true
   - translation_iso: deu
     name: Ost-Subanen
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी सुबानेन
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Subanen
+    name: Bahasa Subanen Timur
     auto: true
   - translation_iso: jpn
     name: スバノン語
@@ -44,7 +44,7 @@ translations:
     name: Subanen Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн субаненский язык
+    name: восточный субаненский язык
     auto: true
   - translation_iso: spa
     name: Subanen Oriental

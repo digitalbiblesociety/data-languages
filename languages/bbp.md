@@ -22,7 +22,7 @@ translations:
     name: اللغة بندا الوسطى الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত কেনতরাল বানদা
+    name: পশ্চিম মধ্য বানদা
     auto: true
   - translation_iso: deu
     name: Westzentral-Banda
@@ -33,7 +33,7 @@ translations:
     name: पश्चिम मध्य बांदा
     auto: true
   - translation_iso: ind
-    name: Bahasa West Central Banda
+    name: Bahasa Banda Barat Tengah
     auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
@@ -44,7 +44,7 @@ translations:
     name: Banda do Centro-Oeste
     auto: true
   - translation_iso: rus
-    name: вест кентрал бандский язык
+    name: западный центральный бандский язык
     auto: true
   - translation_iso: spa
     name: Banda Centro-Occidental

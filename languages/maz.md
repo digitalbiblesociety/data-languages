@@ -23,7 +23,7 @@ translations:
     name: لغة مازاهوا وسطية
     auto: true
   - translation_iso: ben
-    name: কেনতরাল মাজাহুয়া
+    name: মধ্য মাজাহুয়া
     auto: true
   - translation_iso: deu
     name: Mazahua-Sprache
@@ -33,7 +33,7 @@ translations:
     name: मध्य माज़ाहुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Mazahua
+    name: Bahasa Mazahua Tengah
     auto: true
   - translation_iso: jpn
     name: 中央マサウア語

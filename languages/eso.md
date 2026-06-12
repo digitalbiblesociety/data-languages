@@ -31,7 +31,7 @@ translations:
     name: एस्टोनियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Estonian Sign Language
+    name: Bahasa Isyarat Estonian
     auto: true
   - translation_iso: jpn
     name: エストニア手話

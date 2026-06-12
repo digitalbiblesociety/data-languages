@@ -22,7 +22,7 @@ translations:
     name: نورث غيزيغآ
     auto: true
   - translation_iso: ben
-    name: নোরথ গিজিগা
+    name: উত্তর গিজিগা
     auto: true
   - translation_iso: deu
     name: Nördliches Giziga
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी गिज़िगा
     auto: true
   - translation_iso: ind
-    name: Bahasa North Giziga
+    name: Bahasa Giziga Utara
     auto: true
   - translation_iso: jpn
     name: ノース・ギジガ語
@@ -45,7 +45,7 @@ translations:
     name: giziga do norte
     auto: true
   - translation_iso: rus
-    name: норт гизигский язык
+    name: северный гизигский язык
     auto: true
   - translation_iso: spa
     name: Giziga septentrional

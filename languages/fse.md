@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: फिनिश साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Finnish Sign Language
+    name: Bahasa Isyarat Finnish
     auto: true
   - translation_iso: jpn
     name: フィンランド手話

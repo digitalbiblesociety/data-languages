@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: بيكول المركزية
   - translation_iso: ben
-    name: কেনতরাল বিকোল
+    name: মধ্য বিকোল
     auto: true
   - translation_iso: deu
     name: Zentral-Bikol

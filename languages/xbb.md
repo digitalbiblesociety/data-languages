@@ -16,7 +16,7 @@ translations:
     name: لووير بورديكين
     auto: true
   - translation_iso: ben
-    name: লোওয়ের বুরদেকিন
+    name: নিম্ন বুরদেকিন
     auto: true
   - translation_iso: deu
     name: Lower Burdekin
@@ -28,7 +28,7 @@ translations:
     name: निचली बर्डेकिन
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Burdekin
+    name: Bahasa Burdekin Hilir
     auto: true
   - translation_iso: jpn
     name: ロウアー・バーデキン語
@@ -39,7 +39,7 @@ translations:
     name: Burdekin Inferior
     auto: true
   - translation_iso: rus
-    name: ловер бурдекинский язык
+    name: нижний бурдекинский язык
     auto: true
   - translation_iso: spa
     name: Lower Burdekin

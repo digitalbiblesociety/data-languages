@@ -21,7 +21,7 @@ translations:
     name: نوالو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ নুয়াউলু
+    name: দক্ষিণ নুয়াউলু
     auto: true
   - translation_iso: deu
     name: Süd-Nuaulu
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी नुआउलु
     auto: true
   - translation_iso: ind
-    name: Bahasa South Nuaulu
+    name: Bahasa Nuaulu Selatan
     auto: true
   - translation_iso: jpn
     name: 南ヌアウル語
@@ -44,7 +44,7 @@ translations:
     name: Nuaulu do Sul
     auto: true
   - translation_iso: rus
-    name: сут нуаулуский язык
+    name: южный нуаулуский язык
     auto: true
   - translation_iso: spa
     name: Nuaulu del Sur

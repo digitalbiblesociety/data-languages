@@ -17,7 +17,7 @@ translations:
     name: إيسترن نجدا
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন ঙাদা
+    name: পূর্ব ঙাদা
     auto: true
   - translation_iso: deu
     name: Ngada Timur
@@ -37,7 +37,7 @@ translations:
   - translation_iso: por
     name: Ngada Timur
   - translation_iso: rus
-    name: еастерн нгадский язык
+    name: восточный нгадский язык
     auto: true
   - translation_iso: spa
     name: Ngada Timur

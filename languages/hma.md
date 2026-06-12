@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ ماشان الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন মাশান হমোং
+    name: দক্ষিণ মাশান হমোং
     auto: true
   - translation_iso: deu
     name: Südliches Mashan-Hmong
@@ -34,7 +34,7 @@ translations:
     name: दक्षिणी माशान ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Mashan Hmong
+    name: Bahasa Mashan Hmong Selatan
     auto: true
   - translation_iso: jpn
     name: 南部麻山フモン語
@@ -45,7 +45,7 @@ translations:
     name: Hmong Mashan do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн машан хмонгский язык
+    name: южный машан хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Mashan meridional

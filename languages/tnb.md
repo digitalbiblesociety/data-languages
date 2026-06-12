@@ -21,7 +21,7 @@ translations:
     name: توني بو الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন তুনেবো
+    name: পশ্চিম তুনেবো
     auto: true
   - translation_iso: deu
     name: Westliches Tunebo
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी तुनेबो
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Tunebo
+    name: Bahasa Tunebo Barat
     auto: true
   - translation_iso: jpn
     name: 西部トゥネボ語
@@ -44,7 +44,7 @@ translations:
     name: Tunebo Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн тунебоский язык
+    name: западный тунебоский язык
     auto: true
   - translation_iso: spa
     name: Tunebo Occidental

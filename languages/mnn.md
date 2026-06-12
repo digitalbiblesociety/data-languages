@@ -21,7 +21,7 @@ translations:
     name: لغة منونج الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন মনোং
+    name: দক্ষিণ মনোং
     auto: true
   - translation_iso: deu
     name: Southern Mnong
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी म्नोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Mnong
+    name: Bahasa Mnong Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・ムノング語
@@ -45,7 +45,7 @@ translations:
     name: mnong do sul
     auto: true
   - translation_iso: rus
-    name: сутерн мнонгский язык
+    name: южный мнонгский язык
     auto: true
   - translation_iso: spa
     name: Mnong Meridional

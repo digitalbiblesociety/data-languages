@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة بمدينة هو تشي منه
     auto: true
   - translation_iso: ben
-    name: হো চি মিনহ কিতয় সিগন লাঙুয়াগে
+    name: হো চি মিনহ কিতয় ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Ho-Chi-Minh-Stadt-Gebärdensprache
@@ -33,7 +33,7 @@ translations:
     name: हो ची मिन्ह शहर सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Ho Chi Minh City Sign Language
+    name: Bahasa Isyarat Ho Chi Minh City
     auto: true
   - translation_iso: jpn
     name: ホーチミン市手話
@@ -44,7 +44,7 @@ translations:
     name: Língua de Sinais da Cidade de Ho Chi Minh
     auto: true
   - translation_iso: rus
-    name: хо чи минх китй сигн лангуагейский язык
+    name: хо чи минх китйский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Ciudad Ho Chi Minh

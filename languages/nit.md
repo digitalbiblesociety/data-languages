@@ -22,7 +22,7 @@ translations:
     name: جنوب شرق كولامي
     auto: true
   - translation_iso: ben
-    name: সোউথেয়াসতেরন কোলামি
+    name: দক্ষিণ-পূর্ব কোলামি
     auto: true
   - translation_iso: deu
     name: Südöstliches Kolami
@@ -32,7 +32,7 @@ translations:
   - translation_iso: hin
     name: नेईकी भाषा
   - translation_iso: ind
-    name: Bahasa Southeastern Kolami
+    name: Bahasa Kolami Tenggara
     auto: true
   - translation_iso: jpn
     name: ナイキー語

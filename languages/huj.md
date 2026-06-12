@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ غويانغ الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন গুইয়াং হমোং
+    name: উত্তর গুইয়াং হমোং
     auto: true
   - translation_iso: deu
     name: Nördliches Guiyang-Hmong
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी गुइयांग ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Guiyang Hmong
+    name: Bahasa Guiyang Hmong Utara
     auto: true
   - translation_iso: jpn
     name: 北部貴陽フモン語
@@ -44,7 +44,7 @@ translations:
     name: Hmong Guiyang do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн гуиянг хмонгский язык
+    name: северный гуиянг хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Guiyang septentrional

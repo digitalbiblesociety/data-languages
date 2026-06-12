@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الليبية
   - translation_iso: ben
-    name: লিবয়ান সিগন লাঙুয়াগে
+    name: লিবয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Libysche Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: लीबियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Libyan Sign Language
+    name: Bahasa Isyarat Libyan
     auto: true
   - translation_iso: jpn
     name: リビア手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais Líbia
     auto: true
   - translation_iso: rus
-    name: либян сигн лангуагейский язык
+    name: либянский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas libia

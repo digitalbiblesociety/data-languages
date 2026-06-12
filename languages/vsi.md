@@ -20,7 +20,7 @@ translations:
     name: لغة الإشارة مولدوفا
     auto: true
   - translation_iso: ben
-    name: মোলদোভা সিগন লাঙুয়াগে
+    name: মোলদোভা ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Moldavische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: मोल्दोवा सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Moldova Sign Language
+    name: Bahasa Isyarat Moldova
     auto: true
   - translation_iso: jpn
     name: モルドバ手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais da Moldávia
     auto: true
   - translation_iso: rus
-    name: молдова сигн лангуагейский язык
+    name: молдовский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas de Moldavia

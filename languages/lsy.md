@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الموريتانية
     auto: true
   - translation_iso: ben
-    name: মাউরিতিয়ান সিগন লাঙুয়াগে
+    name: মাউরিতিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Mauritianische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: मॉरीशस सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Mauritian Sign Language
+    name: Bahasa Isyarat Mauritian
     auto: true
   - translation_iso: jpn
     name: モーリシャス手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Mauriciana
     auto: true
   - translation_iso: rus
-    name: мауритиан сигн лангуагейский язык
+    name: мауритианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Mauricio

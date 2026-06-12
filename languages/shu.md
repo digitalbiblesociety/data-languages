@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة تشادية
   - translation_iso: ben
-    name: চাদিয়ান আরাবিক
+    name: চাদিয়ান আরবি
     auto: true
   - translation_iso: deu
     name: Tschadisch-Arabisch

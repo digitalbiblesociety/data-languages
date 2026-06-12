@@ -21,7 +21,7 @@ translations:
     name: جنوب كاتانج
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কাতাং
+    name: উত্তর কাতাং
     auto: true
   - translation_iso: deu
     name: Nord-Katang
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी कातांग
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Katang
+    name: Bahasa Katang Utara
     auto: true
   - translation_iso: jpn
     name: 北カタン語
@@ -44,7 +44,7 @@ translations:
     name: Katang do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн катангский язык
+    name: северный катангский язык
     auto: true
   - translation_iso: spa
     name: Katang septentrional

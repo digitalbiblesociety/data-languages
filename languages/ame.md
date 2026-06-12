@@ -33,7 +33,7 @@ translations:
     name: यानेशा
     auto: true
   - translation_iso: ind
-    name: Bahasa Yanesha
+    name: "Bahasa Yanesha'"
     auto: true
   - translation_iso: jpn
     name: アムエシャ語

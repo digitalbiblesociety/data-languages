@@ -23,7 +23,7 @@ translations:
     name: اللغة التايلاندية الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন থাই
+    name: দক্ষিণ থাই
     auto: true
   - translation_iso: deu
     name: Südthailändisch

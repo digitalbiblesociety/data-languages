@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: मय साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Yucatec Maya Sign Language
+    name: Bahasa Isyarat Yucatec Maya
     auto: true
   - translation_iso: jpn
     name: ユカテク・マヤ手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: línguas gestuais maias
   - translation_iso: rus
-    name: юкатек мая сигн лангуагейский язык
+    name: юкатек майский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas maya yucateca

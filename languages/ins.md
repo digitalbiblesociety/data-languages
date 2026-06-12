@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: भारतीय सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Indian Sign Language
+    name: Bahasa Isyarat Indian
     auto: true
   - translation_iso: jpn
     name: インド手話
@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: língua de sinais indiana
   - translation_iso: rus
-    name: индиан сигн лангуагейский язык
+    name: индианский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas india

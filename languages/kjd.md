@@ -21,7 +21,7 @@ translations:
     name: لغة كيواي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কিওয়াই
+    name: দক্ষিণ কিওয়াই
     auto: true
   - translation_iso: deu
     name: Süd-Kiwai
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: दक्षिणी किवाई
   - translation_iso: ind
-    name: Bahasa Southern Kiwai
+    name: Bahasa Kiwai Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・キワイ語
@@ -43,7 +43,7 @@ translations:
     name: Kiwai do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн киваийский язык
+    name: южный киваийский язык
     auto: true
   - translation_iso: spa
     name: Kiwai del Sur

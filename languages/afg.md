@@ -30,7 +30,7 @@ translations:
     name: अफ़ग़ान सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Afghan Sign Language
+    name: Bahasa Isyarat Afghan
     auto: true
   - translation_iso: jpn
     name: アフガン手話

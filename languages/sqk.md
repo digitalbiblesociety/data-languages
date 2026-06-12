@@ -29,7 +29,7 @@ translations:
     name: अल्बानियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Albanian Sign Language
+    name: Bahasa Isyarat Albanian
     auto: true
   - translation_iso: jpn
     name: マルディン手話

@@ -21,7 +21,7 @@ translations:
     name: لغة بومي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পুমি
+    name: উত্তর পুমি
     auto: true
   - translation_iso: deu
     name: Nördliches Pumi
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी पुमी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Pumi
+    name: Bahasa Pumi Utara
     auto: true
   - translation_iso: jpn
     name: 北プミ語
@@ -44,7 +44,7 @@ translations:
     name: Pumi Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн пумийский язык
+    name: северный пумийский язык
     auto: true
   - translation_iso: spa
     name: Pumi septentrional

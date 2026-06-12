@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: يهودية عراقية
   - translation_iso: ben
-    name: জুদেও-ইরাকি আরাবিক
+    name: জুদেও-ইরাকি আরবি
     auto: true
   - translation_iso: deu
     name: Judäo-Irakisches Arabisch

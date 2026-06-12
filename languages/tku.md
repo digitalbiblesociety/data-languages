@@ -22,7 +22,7 @@ translations:
     name: توتوناك نيكاكسا العليا
     auto: true
   - translation_iso: ben
-    name: উপ্পের নেকাকসা তোতোনাক
+    name: ঊর্ধ্ব নেকাকসা তোতোনাক
     auto: true
   - translation_iso: deu
     name: Upper Necaxa Totonac
@@ -33,7 +33,7 @@ translations:
     name: ऊपरी नेकाक्सा टोटोनाक
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Necaxa Totonac
+    name: Bahasa Necaxa Totonac Hulu
     auto: true
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語

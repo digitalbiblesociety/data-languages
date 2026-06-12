@@ -22,7 +22,7 @@ translations:
     name: اللغة أوتومي الجبلية الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন হিঘলানদ ওতোমি
+    name: পূর্ব হিঘলানদ ওতোমি
     auto: true
   - translation_iso: deu
     name: Otomí des östlichen Hochlands
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी हाईलैंड ओटोमी
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Highland Otomi
+    name: Bahasa Highland Otomi Timur
     auto: true
   - translation_iso: jpn
     name: 東部高地オトミ語

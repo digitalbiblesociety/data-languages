@@ -21,7 +21,7 @@ translations:
     name: ساذرن سامو
     auto: true
   - translation_iso: ben
-    name: সোউথেরন সামো
+    name: দক্ষিণ সামো
     auto: true
   - translation_iso: deu
     name: Süd-Samo
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी सामो
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Samo
+    name: Bahasa Samo Selatan
     auto: true
   - translation_iso: jpn
     name: サネ語
@@ -44,7 +44,7 @@ translations:
     name: Samo Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн самоский язык
+    name: южный самоский язык
     auto: true
   - translation_iso: spa
     name: Samo meridional

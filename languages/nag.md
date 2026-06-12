@@ -32,7 +32,7 @@ translations:
   - translation_iso: hin
     name: नागामी भाषा
   - translation_iso: ind
-    name: Bahasa Naga Pidgin
+    name: Bahasa Pijin Naga
     auto: true
   - translation_iso: jpn
     name: Nagameseクレオール語
@@ -43,7 +43,7 @@ translations:
     name: Pidgin Naga
     auto: true
   - translation_iso: rus
-    name: нага пидгинский язык
+    name: нагский пиджин
     auto: true
   - translation_iso: spa
     name: Pidgin naga

@@ -21,7 +21,7 @@ translations:
     name: اللغة سما الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন সামা
+    name: দক্ষিণ সামা
     auto: true
   - translation_iso: deu
     name: Southern Sama
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी सामा
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Sama
+    name: Bahasa Sama Selatan
     auto: true
   - translation_iso: jpn
     name: バジャウ語
@@ -44,7 +44,7 @@ translations:
     name: Sama Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн самский язык
+    name: южный самский язык
     auto: true
   - translation_iso: spa
     name: Sama meridional

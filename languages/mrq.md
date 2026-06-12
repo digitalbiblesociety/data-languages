@@ -22,7 +22,7 @@ translations:
     name: لغة ماركيزان الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ মারকুএসান
+    name: উত্তর মারকুএসান
     auto: true
   - translation_iso: deu
     name: Nordmarquesanisch
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी मार्केसन
     auto: true
   - translation_iso: ind
-    name: Bahasa North Marquesan
+    name: Bahasa Marquesan Utara
     auto: true
   - translation_iso: jpn
     name: 北マルキーズ語
@@ -43,7 +43,7 @@ translations:
     name: marquesano do norte
     auto: true
   - translation_iso: rus
-    name: норт марквесанский язык
+    name: северный марквесанский язык
     auto: true
   - translation_iso: spa
     name: Marquesano del Norte

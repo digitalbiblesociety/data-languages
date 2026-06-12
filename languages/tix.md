@@ -22,7 +22,7 @@ translations:
     name: تيوا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন তিওয়া
+    name: দক্ষিণ তিওয়া
     auto: true
   - translation_iso: deu
     name: Southern Tiwa
@@ -32,7 +32,7 @@ translations:
   - translation_iso: hin
     name: दक्षिणी तिवा भाषा
   - translation_iso: ind
-    name: Bahasa Southern Tiwa
+    name: Bahasa Tiwa Selatan
     auto: true
   - translation_iso: jpn
     name: 南部ティワ語

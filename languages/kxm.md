@@ -23,7 +23,7 @@ translations:
     name: خمير الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন খমের
+    name: উত্তর খমের
     auto: true
   - translation_iso: deu
     name: Nördliches Khmer
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी ख्मेर
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Khmer
+    name: Bahasa Khmer Utara
     auto: true
   - translation_iso: jpn
     name: スリン・クメール語
@@ -44,7 +44,7 @@ translations:
   - translation_iso: por
     name: Dialeto khmer setentrional
   - translation_iso: rus
-    name: нортерн хмерский язык
+    name: северный хмерский язык
     auto: true
   - translation_iso: spa
     name: Jemer del Norte

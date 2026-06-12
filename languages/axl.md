@@ -22,7 +22,7 @@ translations:
     name: اللغة أرندا الجنوبية السفلى
     auto: true
   - translation_iso: ben
-    name: লোওয়ের সোউথেরন আরানদা
+    name: নিম্ন দক্ষিণ আরানদা
     auto: true
   - translation_iso: deu
     name: Untere Süd-Aranda
@@ -33,7 +33,7 @@ translations:
     name: निचली दक्षिणी अरंडा
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Southern Aranda
+    name: Bahasa Aranda Hilir Selatan
     auto: true
   - translation_iso: jpn
     name: 下アレンテ語
@@ -43,7 +43,7 @@ translations:
   - translation_iso: por
     name: Língua arrernte inferior
   - translation_iso: rus
-    name: ловер сутерн арандский язык
+    name: нижний южный арандский язык
     auto: true
   - translation_iso: spa
     name: Aranda Meridional Inferior

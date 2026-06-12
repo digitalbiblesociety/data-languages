@@ -21,7 +21,7 @@ translations:
     name: أبر كينابتانجان
     auto: true
   - translation_iso: ben
-    name: উপ্পের কিনাবাতাঙান
+    name: ঊর্ধ্ব কিনাবাতাঙান
     auto: true
   - translation_iso: deu
     name: Upper Kinabatangan
@@ -33,7 +33,7 @@ translations:
     name: ऊपरी किनाबटंगन
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Kinabatangan
+    name: Bahasa Kinabatangan Hulu
     auto: true
   - translation_iso: jpn
     name: アッパー・キナバタンガン語
@@ -45,7 +45,7 @@ translations:
     name: Kinabatangan Superior
     auto: true
   - translation_iso: rus
-    name: уппер кинабатанганский язык
+    name: верхний кинабатанганский язык
     auto: true
   - translation_iso: spa
     name: Kinabatangan Superior

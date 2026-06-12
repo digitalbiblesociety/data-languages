@@ -21,7 +21,7 @@ translations:
     name: كاتو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কাতু
+    name: পূর্ব কাতু
     auto: true
   - translation_iso: deu
     name: Ost-Katu
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी कातू
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Katu
+    name: Bahasa Katu Timur
     auto: true
   - translation_iso: jpn
     name: 東カトゥ語

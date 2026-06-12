@@ -21,7 +21,7 @@ translations:
     name: نوني الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন নুনি
+    name: দক্ষিণ নুনি
     auto: true
   - translation_iso: deu
     name: Südliches Nuni
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी नुनी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Nuni
+    name: Bahasa Nuni Selatan
     auto: true
   - translation_iso: jpn
     name: 南ヌニ語
@@ -44,7 +44,7 @@ translations:
     name: Nuni do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн нунийский язык
+    name: южный нунийский язык
     auto: true
   - translation_iso: spa
     name: Nuni meridional

@@ -22,7 +22,7 @@ translations:
     name: سينترال هواستيكا ناهواتل
     auto: true
   - translation_iso: ben
-    name: কেনতরাল হুয়াসতেকা নাহুয়াতল
+    name: মধ্য হুয়াসতেকা নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: Zentral-Huasteca-Nahuatl
@@ -33,7 +33,7 @@ translations:
     name: मध्य हुआस्तेका नाहुआत्ल
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Huasteca Nahuatl
+    name: Bahasa Huasteca Nahuatl Tengah
     auto: true
   - translation_iso: jpn
     name: 中央ワステカ・ナワトル語

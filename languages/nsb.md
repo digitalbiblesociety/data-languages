@@ -22,7 +22,7 @@ translations:
     name: نوسوب الأدنى
     auto: true
   - translation_iso: ben
-    name: লোওয়ের নোস্সোবর
+    name: নিম্ন নোস্সোবর
     auto: true
   - translation_iso: deu
     name: Nieder-Nossob
@@ -32,7 +32,7 @@ translations:
     name: निचला नोसोब
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Nossob\r
+    name: Bahasa Nossob\r Hilir
     auto: true
   - translation_iso: jpn
     name: ロウアー・ノッソブ語
@@ -43,7 +43,7 @@ translations:
     name: Nossob Inferior
     auto: true
   - translation_iso: rus
-    name: ловер носсобрский язык
+    name: нижний носсобрский язык
     auto: true
   - translation_iso: spa
     name: Nossob Inferior

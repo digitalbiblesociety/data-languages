@@ -31,7 +31,7 @@ translations:
     name: स्वीडिश सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Swedish Sign Language
+    name: Bahasa Isyarat Swedish
     auto: true
   - translation_iso: jpn
     name: スウェーデン手話

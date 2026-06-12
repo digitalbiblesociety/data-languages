@@ -22,7 +22,7 @@ translations:
     name: لغة كايا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কায়াহ
+    name: পূর্ব কায়াহ
     auto: true
   - translation_iso: deu
     name: Ost-Kayah
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी कायाह
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Kayah
+    name: Bahasa Kayah Timur
     auto: true
   - translation_iso: jpn
     name: 東カヤー語
@@ -45,7 +45,7 @@ translations:
     name: kayah oriental
     auto: true
   - translation_iso: rus
-    name: еастерн каяхский язык
+    name: восточный каяхский язык
     auto: true
   - translation_iso: spa
     name: Kayah Oriental

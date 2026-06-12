@@ -22,7 +22,7 @@ translations:
     name: رينغما ناغا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন রেংমা নাগা
+    name: উত্তর রেংমা নাগা
     auto: true
   - translation_iso: deu
     name: Nördliches Rengma-Naga
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी रेंग्मा नागा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Rengma Naga
+    name: Bahasa Rengma Naga Utara
     auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
@@ -44,7 +44,7 @@ translations:
     name: Naga Rengma do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн ренгма нагский язык
+    name: северный ренгма нагский язык
     auto: true
   - translation_iso: spa
     name: Ntenyi

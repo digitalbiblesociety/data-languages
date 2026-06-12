@@ -22,7 +22,7 @@ translations:
     name: لغة ويسترن أبناكي
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন আবনাকি
+    name: পশ্চিম আবনাকি
     auto: true
   - translation_iso: deu
     name: Westliche Abenaki
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी अब्नाकी
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Abnaki
+    name: Bahasa Abnaki Barat
     auto: true
   - translation_iso: jpn
     name: 西アベナキ語

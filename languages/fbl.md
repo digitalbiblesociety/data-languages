@@ -16,7 +16,7 @@ translations:
     name: البيكول البي الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত আলবায় বিকোল
+    name: পশ্চিম আলবায় বিকোল
     auto: true
   - translation_iso: deu
     name: West-Albay-Bikol
@@ -27,7 +27,7 @@ translations:
     name: पश्चिमी अल्बाय बिकोल
     auto: true
   - translation_iso: ind
-    name: Bahasa West Albay Bikol
+    name: Bahasa Albay Bikol Barat
     auto: true
   - translation_iso: jpn
     name: 西アルバイ・ビコール語
@@ -38,7 +38,7 @@ translations:
     name: bikol do oeste de Albay
     auto: true
   - translation_iso: rus
-    name: вест албай бикольский язык
+    name: западный албай бикольский язык
     auto: true
   - translation_iso: spa
     name: Bikol del oeste de Albay

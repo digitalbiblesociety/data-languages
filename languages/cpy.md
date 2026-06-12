@@ -22,7 +22,7 @@ translations:
     name: جنوب أوكاياليي أشينينكا
     auto: true
   - translation_iso: ben
-    name: সোউথ উকায়ালি আশেনিনকা
+    name: দক্ষিণ উকায়ালি আশেনিনকা
     auto: true
   - translation_iso: deu
     name: Süd-Ucayali-Ashéninka
@@ -34,7 +34,7 @@ translations:
     name: दक्षिण उकायाली अशेनिन्का
     auto: true
   - translation_iso: ind
-    name: Bahasa South Ucayali Ashéninka
+    name: Bahasa Ucayali Ashéninka Selatan
     auto: true
   - translation_iso: jpn
     name: サウス・ウカヤリ・アシェニンカ語
@@ -46,7 +46,7 @@ translations:
     name: Ashéninka do Ucayali do Sul
     auto: true
   - translation_iso: rus
-    name: сут укаяли ашенинкский язык
+    name: южный укаяли ашенинкский язык
     auto: true
   - translation_iso: spa
     name: Ashéninka del Sur del Ucayali

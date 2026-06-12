@@ -22,7 +22,7 @@ translations:
     name: السفلى تشهاليس
     auto: true
   - translation_iso: ben
-    name: লোওয়ের চেহালিস
+    name: নিম্ন চেহালিস
     auto: true
   - translation_iso: deu
     name: Niederchehalis
@@ -33,7 +33,7 @@ translations:
     name: निचली चेहालिस
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Chehalis
+    name: Bahasa Chehalis Hilir
     auto: true
   - translation_iso: jpn
     name: 下チヘリス語

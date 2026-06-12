@@ -23,7 +23,7 @@ translations:
     name: الاش الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন য়িদ্দিশ
+    name: পশ্চিম য়িদ্দিশ
     auto: true
   - translation_iso: deu
     name: Westjiddisch
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी यिडिश
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Yiddish
+    name: Bahasa Yiddish Barat
     auto: true
   - translation_iso: jpn
     name: 西イディッシュ語

@@ -22,7 +22,7 @@ translations:
     name: سووث غيزيغآ
     auto: true
   - translation_iso: ben
-    name: সোউথ গিজিগা
+    name: দক্ষিণ গিজিগা
     auto: true
   - translation_iso: deu
     name: Südliches Giziga
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी गिज़िगा
     auto: true
   - translation_iso: ind
-    name: Bahasa South Giziga
+    name: Bahasa Giziga Selatan
     auto: true
   - translation_iso: jpn
     name: サウス・ギジガ語
@@ -45,7 +45,7 @@ translations:
     name: giziga do sul
     auto: true
   - translation_iso: rus
-    name: сут гизигский язык
+    name: южный гизигский язык
     auto: true
   - translation_iso: spa
     name: Giziga meridional

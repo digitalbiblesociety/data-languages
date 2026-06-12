@@ -22,7 +22,7 @@ translations:
     name: تاسماني الشمالية الشرقية
     auto: true
   - translation_iso: ben
-    name: নোরথেয়াসতেরন তাসমানিয়ানর
+    name: উত্তর-পূর্ব তাসমানিয়ানর
     auto: true
   - translation_iso: deu
     name: Nordosttasmanisch
@@ -33,7 +33,7 @@ translations:
     name: उत्तरपूर्वी तस्मानियाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Northeastern Tasmanian\r
+    name: Bahasa Tasmanian\r Timur Laut
     auto: true
   - translation_iso: jpn
     name: 北東タスマニア語
@@ -45,7 +45,7 @@ translations:
     name: Tasmaniano Nordeste
     auto: true
   - translation_iso: rus
-    name: нортеастерн тасманианрский язык
+    name: северо-восточный тасманианрский язык
     auto: true
   - translation_iso: spa
     name: Tasmanio nororiental

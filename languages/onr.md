@@ -21,7 +21,7 @@ translations:
     name: اللغة وان الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন ওনে
+    name: উত্তর ওনে
     auto: true
   - translation_iso: deu
     name: Northern One
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी वन
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern One
+    name: Bahasa One Utara
     auto: true
   - translation_iso: jpn
     name: 北ワン語
@@ -44,7 +44,7 @@ translations:
     name: One Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн онейский язык
+    name: северный онейский язык
     auto: true
   - translation_iso: spa
     name: One septentrional

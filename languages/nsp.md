@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: नेपाली सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Nepalese Sign Language
+    name: Bahasa Isyarat Nepalese
     auto: true
   - translation_iso: jpn
     name: ネパール手話

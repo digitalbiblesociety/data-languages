@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الزامبية
     auto: true
   - translation_iso: ben
-    name: জামবিয়ান সিগন লাঙুয়াগে
+    name: জামবিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Sambianische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: ज़ाम्बियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Zambian Sign Language
+    name: Bahasa Isyarat Zambian
     auto: true
   - translation_iso: jpn
     name: ザンビア手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Zâmbia
   - translation_iso: rus
-    name: замбиан сигн лангуагейский язык
+    name: замбианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Zambia

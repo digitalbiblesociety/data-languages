@@ -22,7 +22,7 @@ translations:
     name: اللغة أونين بيدجن
     auto: true
   - translation_iso: ben
-    name: ওনিন বাসেদ পিদগিন
+    name: ওনিন বাসেদ পিজিন
     auto: true
   - translation_iso: deu
     name: Onin Based Pidgin
@@ -45,7 +45,7 @@ translations:
     name: Pidgin Baseado em Onin
     auto: true
   - translation_iso: rus
-    name: онин басед пидгинский язык
+    name: онин баседский пиджин
     auto: true
   - translation_iso: spa
     name: Pidgin basado en Onin

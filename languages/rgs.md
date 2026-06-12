@@ -21,7 +21,7 @@ translations:
     name: ساذرن روجلاي
     auto: true
   - translation_iso: ben
-    name: সোউথেরন রোগলাই
+    name: দক্ষিণ রোগলাই
     auto: true
   - translation_iso: deu
     name: Süd-Roglai
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी रोग्लाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Roglai
+    name: Bahasa Roglai Selatan
     auto: true
   - translation_iso: jpn
     name: 南ログライ語
@@ -44,7 +44,7 @@ translations:
     name: Roglai Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн роглаийский язык
+    name: южный роглаийский язык
     auto: true
   - translation_iso: spa
     name: Roglai meridional

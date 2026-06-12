@@ -21,7 +21,7 @@ translations:
     name: الموريا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মুরিয়া
+    name: পূর্ব মুরিয়া
     auto: true
   - translation_iso: deu
     name: Ost-Muria
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी मुरिया
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Muria
+    name: Bahasa Muria Timur
     auto: true
   - translation_iso: jpn
     name: 東ムリア語
@@ -44,7 +44,7 @@ translations:
     name: muria oriental
     auto: true
   - translation_iso: rus
-    name: еастерн муриский язык
+    name: восточный муриский язык
     auto: true
   - translation_iso: spa
     name: Muria Oriental

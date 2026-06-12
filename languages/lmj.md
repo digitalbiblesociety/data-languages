@@ -22,7 +22,7 @@ translations:
     name: لغة يست يمباتا
     auto: true
   - translation_iso: ben
-    name: ওয়েসত লেমবাতা
+    name: পশ্চিম লেমবাতা
     auto: true
   - translation_iso: deu
     name: West-Lembata
@@ -44,7 +44,7 @@ translations:
     name: Lembata ocidental
     auto: true
   - translation_iso: rus
-    name: вест лембатский язык
+    name: западный лембатский язык
     auto: true
   - translation_iso: spa
     name: Lembata occidental

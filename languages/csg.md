@@ -31,7 +31,7 @@ translations:
     name: चिली सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Chilean Sign Language
+    name: Bahasa Isyarat Chilean
     auto: true
   - translation_iso: jpn
     name: チリ手話

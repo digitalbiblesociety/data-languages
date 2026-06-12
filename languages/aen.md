@@ -30,7 +30,7 @@ translations:
     name: अर्मेनियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Armenian Sign Language
+    name: Bahasa Isyarat Armenian
     auto: true
   - translation_iso: jpn
     name: アルメニア手話

@@ -30,7 +30,7 @@ translations:
     name: बल्गेरियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Bulgarian Sign Language
+    name: Bahasa Isyarat Bulgarian
     auto: true
   - translation_iso: jpn
     name: ブルガリア手話

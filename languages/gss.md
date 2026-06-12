@@ -30,7 +30,7 @@ translations:
     name: यूनानी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Greek Sign Language
+    name: Bahasa Isyarat Greek
     auto: true
   - translation_iso: jpn
     name: ギリシャ手話

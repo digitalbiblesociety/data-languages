@@ -30,7 +30,7 @@ translations:
     name: इक्वाडोरियन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Ecuadorian Sign Language
+    name: Bahasa Isyarat Ecuadorian
     auto: true
   - translation_iso: jpn
     name: エクアドル手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais do Equador
   - translation_iso: rus
-    name: екуадориан сигн лангуагейский язык
+    name: екуадорианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Ecuador

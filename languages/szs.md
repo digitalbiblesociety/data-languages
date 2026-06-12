@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة بجزر سليمان
     auto: true
   - translation_iso: ben
-    name: সোলোমোন ইসলানদস সিগন লাঙুয়াগে
+    name: সোলোমোন ইসলানদস ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Solomon Islands Sign Language
@@ -31,7 +31,7 @@ translations:
     name: सोलोमन द्वीप सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Solomon Islands Sign Language
+    name: Bahasa Isyarat Solomon Islands
     auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais das Ilhas Salomão
     auto: true
   - translation_iso: rus
-    name: соломон исландс сигн лангуагейский язык
+    name: соломон исландсский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de las Islas Salomón

@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais Filipina
   - translation_iso: rus
-    name: филиппине сигн лангуагейский язык
+    name: филиппинейский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas filipina

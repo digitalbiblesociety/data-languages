@@ -22,7 +22,7 @@ translations:
     name: ويست جودينو
     auto: true
   - translation_iso: ben
-    name: ওয়েসত গোদেনোউঘ
+    name: পশ্চিম গোদেনোউঘ
     auto: true
   - translation_iso: deu
     name: West-Goodenough
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी गुडइनफ़
     auto: true
   - translation_iso: ind
-    name: Bahasa West Goodenough
+    name: Bahasa Goodenough Barat
     auto: true
   - translation_iso: jpn
     name: ウェスト・グッデナフ語
@@ -45,7 +45,7 @@ translations:
     name: Goodenough Ocidental
     auto: true
   - translation_iso: rus
-    name: вест гуденугхский язык
+    name: западный гуденугхский язык
     auto: true
   - translation_iso: spa
     name: West Goodenough

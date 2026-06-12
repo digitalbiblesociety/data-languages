@@ -21,7 +21,7 @@ translations:
     name: نورثإرن غآلإ
     auto: true
   - translation_iso: ben
-    name: নোরথেরন ঘালে
+    name: উত্তর ঘালে
     auto: true
   - translation_iso: deu
     name: Nördliches Ghale
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी घले
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Ghale
+    name: Bahasa Ghale Utara
     auto: true
   - translation_iso: jpn
     name: ノーザン・ガレ語
@@ -44,7 +44,7 @@ translations:
     name: ghale do norte
     auto: true
   - translation_iso: rus
-    name: нортерн гхалейский язык
+    name: северный гхалейский язык
     auto: true
   - translation_iso: spa
     name: Ghale septentrional

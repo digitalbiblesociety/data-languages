@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: آرامية غربية حديثة
   - translation_iso: ben
-    name: ওয়েসতেরন নেও-আরামাইক
+    name: পশ্চিম নেও-আরামাইক
     auto: true
   - translation_iso: deu
     name: Neuwestaramäisch
@@ -31,7 +31,7 @@ translations:
     name: पश्चिमी नव-अरामी
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Neo-Aramaic
+    name: Bahasa Neo-Aramaic Barat
     auto: true
   - translation_iso: jpn
     name: 現代西アラム語
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua neoaramaica ocidental
   - translation_iso: rus
-    name: вестерн нео-арамаикский язык
+    name: западный нео-арамаикский язык
     auto: true
   - translation_iso: spa
     name: neoarameo occidental

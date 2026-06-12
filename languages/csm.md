@@ -22,7 +22,7 @@ translations:
     name: سييرا المركزية ميووك
     auto: true
   - translation_iso: ben
-    name: কেনতরাল সিএর্রা মিওয়োক
+    name: মধ্য সিএর্রা মিওয়োক
     auto: true
   - translation_iso: deu
     name: Zentrales Sierra-Miwok
@@ -33,7 +33,7 @@ translations:
     name: मध्य सिएरा मिवोक
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Sierra Miwok
+    name: Bahasa Sierra Miwok Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・シエラ・ミウォク語

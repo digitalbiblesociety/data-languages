@@ -21,7 +21,7 @@ translations:
     name: شمال بويبلا ناهواتل
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পুএবলা নাহুয়াতল
+    name: উত্তর পুএবলা নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: Nord-Puebla-Nahuatl
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी पुएब्ला नाहुआत्ल
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Puebla Nahuatl
+    name: Bahasa Puebla Nahuatl Utara
     auto: true
   - translation_iso: jpn
     name: 北プエブラ・ナワトル語
@@ -44,7 +44,7 @@ translations:
     name: Nahuatl de Puebla do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн пуебла нахуатльский язык
+    name: северный пуебла нахуатльский язык
     auto: true
   - translation_iso: spa
     name: náhuatl norte de Puebla

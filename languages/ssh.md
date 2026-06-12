@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: اللهجة الشحية
   - translation_iso: ben
-    name: শিহ্হি আরাবিক
+    name: শিহ্হি আরবি
     auto: true
   - translation_iso: deu
     name: Shihhi Arabic

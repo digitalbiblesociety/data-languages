@@ -23,7 +23,7 @@ translations:
     name: اليوبيك الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল য়ুপিক
+    name: মধ্য য়ুপিক
     auto: true
   - translation_iso: deu
     name: "Yup'ik"
@@ -33,7 +33,7 @@ translations:
     name: मध्य युपिक
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Yupik
+    name: Bahasa Yupik Tengah
     auto: true
   - translation_iso: jpn
     name: 中央アラスカ・ユピック語

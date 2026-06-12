@@ -30,7 +30,7 @@ translations:
     name: स्विस-फ़्रेंच सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Swiss-French Sign Language
+    name: Bahasa Isyarat Swiss-French
     auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais Suíço-Francesa
     auto: true
   - translation_iso: rus
-    name: свисс-френч сигн лангуагейский язык
+    name: свисс-френчский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas franco-suiza

@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة تعزية-عدنية
   - translation_iso: ben
-    name: তাইজ্জি-আদেনি আরাবিক
+    name: তাইজ্জি-আদেনি আরবি
     auto: true
   - translation_iso: deu
     name: "Ta'izzi-Adeni-Arabisch"

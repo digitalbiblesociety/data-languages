@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: कोलंबियाई सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Colombian Sign Language
+    name: Bahasa Isyarat Colombian
     auto: true
   - translation_iso: jpn
     name: コロンビア手話
@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: língua de sinais colombiana
   - translation_iso: rus
-    name: коломбиан сигн лангуагейский язык
+    name: коломбианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas Colombiana

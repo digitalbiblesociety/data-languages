@@ -21,7 +21,7 @@ translations:
     name: اللغة تايرورا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ তাইরোরা
+    name: দক্ষিণ তাইরোরা
     auto: true
   - translation_iso: deu
     name: South Tairora
@@ -32,7 +32,7 @@ translations:
     name: दक्षिण तैरोरा
     auto: true
   - translation_iso: ind
-    name: Bahasa South Tairora
+    name: Bahasa Tairora Selatan
     auto: true
   - translation_iso: jpn
     name: 南タイロラ語
@@ -44,7 +44,7 @@ translations:
     name: Tairora do Sul
     auto: true
   - translation_iso: rus
-    name: сут таирорский язык
+    name: южный таирорский язык
     auto: true
   - translation_iso: spa
     name: Tairora meridional

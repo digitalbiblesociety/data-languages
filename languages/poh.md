@@ -32,7 +32,7 @@ translations:
     name: पोकोमची
     auto: true
   - translation_iso: ind
-    name: Bahasa Poqomchi
+    name: "Bahasa Poqomchi'"
     auto: true
   - translation_iso: jpn
     name: ポコムチ語

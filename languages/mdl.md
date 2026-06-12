@@ -30,7 +30,7 @@ translations:
     name: माल्टा सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Maltese Sign Language
+    name: Bahasa Isyarat Maltese
     auto: true
   - translation_iso: jpn
     name: マルタ手話

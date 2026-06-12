@@ -22,7 +22,7 @@ translations:
     name: بدجن كاميرون
     auto: true
   - translation_iso: ben
-    name: কামেরোন পিদগিন
+    name: কামেরোন পিজিন
     auto: true
   - translation_iso: deu
     name: Kamtok
@@ -32,7 +32,7 @@ translations:
     name: कैमरून पिजिन
     auto: true
   - translation_iso: ind
-    name: Bahasa Cameroon Pidgin
+    name: Bahasa Pijin Cameroon
     auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン

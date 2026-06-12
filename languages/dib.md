@@ -22,7 +22,7 @@ translations:
     name: ساوث سنترال دينكا
     auto: true
   - translation_iso: ben
-    name: সোউথ কেনতরাল দিনকা
+    name: দক্ষিণ মধ্য দিনকা
     auto: true
   - translation_iso: deu
     name: Südzentral-Dinka
@@ -32,7 +32,7 @@ translations:
     name: दक्षिण मध्य डिंका
     auto: true
   - translation_iso: ind
-    name: Bahasa South Central Dinka
+    name: Bahasa Dinka Selatan Tengah
     auto: true
   - translation_iso: jpn
     name: 中南ディンカ語
@@ -43,7 +43,7 @@ translations:
     name: Dinka Centro-Meridional
     auto: true
   - translation_iso: rus
-    name: сут кентрал динкский язык
+    name: южный центральный динкский язык
     auto: true
   - translation_iso: spa
     name: Dinka centro-meridional

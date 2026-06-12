@@ -22,7 +22,7 @@ translations:
     name: اللغة جنوب سييرا ميووك
     auto: true
   - translation_iso: ben
-    name: সোউথেরন সিএর্রা মিওয়োক
+    name: দক্ষিণ সিএর্রা মিওয়োক
     auto: true
   - translation_iso: deu
     name: Süd-Sierra-Miwok
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी सिएरा मिवोक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Sierra Miwok
+    name: Bahasa Sierra Miwok Selatan
     auto: true
   - translation_iso: jpn
     name: ヨセミテ語

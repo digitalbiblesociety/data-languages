@@ -21,7 +21,7 @@ translations:
     name: شمال واتوت
     auto: true
   - translation_iso: ben
-    name: নোরথ ওয়াতুত
+    name: উত্তর ওয়াতুত
     auto: true
   - translation_iso: deu
     name: North Watut
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी वातुत
     auto: true
   - translation_iso: ind
-    name: Bahasa North Watut
+    name: Bahasa Watut Utara
     auto: true
   - translation_iso: jpn
     name: オナンク語
@@ -44,7 +44,7 @@ translations:
     name: Watut Setentrional
     auto: true
   - translation_iso: rus
-    name: норт ватутский язык
+    name: северный ватутский язык
     auto: true
   - translation_iso: spa
     name: Watut del Norte

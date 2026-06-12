@@ -17,7 +17,7 @@ translations:
     name: جنوب غربي بونتوك
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন বোনতোক
+    name: দক্ষিণ-পশ্চিম বোনতোক
     auto: true
   - translation_iso: deu
     name: Südwest-Bontok
@@ -28,7 +28,7 @@ translations:
     name: दक्षिणपश्चिमी बोंतोक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Bontok
+    name: Bahasa Bontok Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西ボントク語
@@ -39,7 +39,7 @@ translations:
     name: Bontok Sudoeste
     auto: true
   - translation_iso: rus
-    name: сутвестерн бонтокский язык
+    name: юго-западный бонтокский язык
     auto: true
   - translation_iso: spa
     name: Bontok suroccidental

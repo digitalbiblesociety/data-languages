@@ -21,7 +21,7 @@ translations:
     name: ميكستيك تلاكسياكو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তলাকসিয়াকো মিকসতেক
+    name: উত্তর তলাকসিয়াকো মিকসতেক
     auto: true
   - translation_iso: deu
     name: Nördliches Tlaxiaco-Mixtekisch
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी त्लाक्सियाको मिक्सटेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tlaxiaco Mixtec
+    name: Bahasa Tlaxiaco Mixtec Utara
     auto: true
   - translation_iso: jpn
     name: 北部トラシアコ・ミステク語
@@ -44,7 +44,7 @@ translations:
     name: mixteco de Tlaxiaco do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн тлаксиако микстекский язык
+    name: северный тлаксиако микстекский язык
     auto: true
   - translation_iso: spa
     name: Mixteco del norte de Tlaxiaco

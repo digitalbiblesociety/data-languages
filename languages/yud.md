@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة يهودية ليبية
   - translation_iso: ben
-    name: জুদেও-তরিপোলিতানিয়ান আরাবিক
+    name: জুদেও-তরিপোলিতানিয়ান আরবি
     auto: true
   - translation_iso: deu
     name: Jüdisch-Tripolitanisches Arabisch

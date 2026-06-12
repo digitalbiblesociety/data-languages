@@ -22,7 +22,7 @@ translations:
     name: داني الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন দানি
+    name: পশ্চিম দানি
     auto: true
   - translation_iso: deu
     name: West-Dani

@@ -22,7 +22,7 @@ translations:
     name: ويستيرن فيجيان
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন ফিজিয়ান
+    name: পশ্চিম ফিজিয়ান
     auto: true
   - translation_iso: deu
     name: West-Fidschianisch
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी फिजियन
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Fijian
+    name: Bahasa Fijian Barat
     auto: true
   - translation_iso: jpn
     name: 西フィジー語

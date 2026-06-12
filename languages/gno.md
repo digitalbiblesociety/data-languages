@@ -23,7 +23,7 @@ translations:
     name: الغوندية الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন গোনদি
+    name: উত্তর গোনদি
     auto: true
   - translation_iso: deu
     name: Nördliches Gondi
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी गोंडी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Gondi
+    name: Bahasa Gondi Utara
     auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
@@ -45,7 +45,7 @@ translations:
     name: gondi do norte
     auto: true
   - translation_iso: rus
-    name: нортерн гондийский язык
+    name: северный гондийский язык
     auto: true
   - translation_iso: spa
     name: Gondi del Norte

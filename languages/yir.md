@@ -21,7 +21,7 @@ translations:
     name: لغة آوو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ আওয়য়ু
+    name: উত্তর আওয়য়ু
     auto: true
   - translation_iso: deu
     name: Nord-Awyu
@@ -43,7 +43,7 @@ translations:
     name: awyu do norte
     auto: true
   - translation_iso: rus
-    name: норт авюский язык
+    name: северный авюский язык
     auto: true
   - translation_iso: spa
     name: Awyu del norte

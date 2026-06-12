@@ -22,7 +22,7 @@ translations:
     name: كارابورو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কারাবোরো
+    name: পূর্ব কারাবোরো
     auto: true
   - translation_iso: deu
     name: Kar
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी काराबोरो
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Karaboro
+    name: Bahasa Karaboro Timur
     auto: true
   - translation_iso: jpn
     name: 東カラボロ語

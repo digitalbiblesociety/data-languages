@@ -21,7 +21,7 @@ translations:
     name: زولا جبي الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কসওয়লা গবে
+    name: পূর্ব কসওয়লা গবে
     auto: true
   - translation_iso: deu
     name: Östliches Xwla Gbe
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी ख्व्ला ग्बे
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Xwla Gbe
+    name: Bahasa Xwla Gbe Timur
     auto: true
   - translation_iso: jpn
     name: 東スウラ・ベ語
@@ -44,7 +44,7 @@ translations:
     name: gbe xwla oriental
     auto: true
   - translation_iso: rus
-    name: еастерн ксвла гбейский язык
+    name: восточный ксвла гбейский язык
     auto: true
   - translation_iso: spa
     name: Xwla Gbe oriental

@@ -21,7 +21,7 @@ translations:
     name: إيسترن مارون كريول
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মারোন করেওলে
+    name: পূর্ব মারোন ক্রেওল
     auto: true
   - translation_iso: deu
     name: Östliches Maroon-Kreol
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी मरून क्रियोल
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Maroon Creole
+    name: Bahasa Kreol Maroon Timur
     auto: true
   - translation_iso: jpn
     name: イースタン・マルーン・クレオール語
@@ -44,7 +44,7 @@ translations:
     name: Crioulo Maroon Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн марун креолейский язык
+    name: восточный марунский креольский язык
     auto: true
   - translation_iso: spa
     name: "idioma de los Aluku, Ndjuka y Paramaka"

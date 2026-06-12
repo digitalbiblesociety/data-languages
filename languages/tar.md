@@ -21,7 +21,7 @@ translations:
     name: تاراهومارا الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল তারাহুমারা
+    name: মধ্য তারাহুমারা
     auto: true
   - translation_iso: deu
     name: Central Tarahumara
@@ -32,7 +32,7 @@ translations:
     name: मध्य तारहुमारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Tarahumara
+    name: Bahasa Tarahumara Tengah
     auto: true
   - translation_iso: jpn
     name: 中央タラウマラ語
@@ -44,7 +44,7 @@ translations:
     name: Tarahumara Central
     auto: true
   - translation_iso: rus
-    name: кентрал тарахумарский язык
+    name: центральный тарахумарский язык
     auto: true
   - translation_iso: spa
     name: Tarahumara central

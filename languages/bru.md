@@ -21,7 +21,7 @@ translations:
     name: برو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন বরু
+    name: পূর্ব বরু
     auto: true
   - translation_iso: deu
     name: Eastern Bru
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी ब्रू
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Bru
+    name: Bahasa Bru Timur
     auto: true
   - translation_iso: jpn
     name: 東ブル語
@@ -44,7 +44,7 @@ translations:
     name: Bru oriental
     auto: true
   - translation_iso: rus
-    name: еастерн бруский язык
+    name: восточный бруский язык
     auto: true
   - translation_iso: spa
     name: Bru oriental

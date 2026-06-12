@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: मध्य निकोबारी भाषाएँ
   - translation_iso: ind
-    name: Bahasa Central Nicobarese
+    name: Bahasa Nicobarese Tengah
     auto: true
   - translation_iso: jpn
     name: 中央ニコバル語
@@ -42,7 +42,7 @@ translations:
     name: Nicobarês Central
     auto: true
   - translation_iso: rus
-    name: кентрал никобаресейский язык
+    name: центральный никобаресейский язык
     auto: true
   - translation_iso: spa
     name: Nicobarés central

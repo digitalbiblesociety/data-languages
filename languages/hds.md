@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: होंडुरन सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Honduras Sign Language
+    name: Bahasa Isyarat Honduras
     auto: true
   - translation_iso: jpn
     name: ホンジュラス手話

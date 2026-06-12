@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ هويشوي الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন হুইশুই হমোং
+    name: পূর্ব হুইশুই হমোং
     auto: true
   - translation_iso: deu
     name: Östliches Huishui-Hmong
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी हुइशुई ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Huishui Hmong
+    name: Bahasa Huishui Hmong Timur
     auto: true
   - translation_iso: jpn
     name: 東部恵水フモン語
@@ -44,7 +44,7 @@ translations:
     name: Hmong Huishui Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн хуишуи хмонгский язык
+    name: восточный хуишуи хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Huishui oriental

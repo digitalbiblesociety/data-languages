@@ -20,7 +20,7 @@ translations:
     name: لغة الإشارة الغينية
     auto: true
   - translation_iso: ben
-    name: গুইনেয়ান সিগন লাঙুয়াগে
+    name: গুইনেয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Guineische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: गिनी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Guinean Sign Language
+    name: Bahasa Isyarat Guinean
     auto: true
   - translation_iso: jpn
     name: ギニア手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais da Guiné
     auto: true
   - translation_iso: rus
-    name: гуинеан сигн лангуагейский язык
+    name: гуинеанский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas guineana

@@ -22,7 +22,7 @@ translations:
     name: كرين الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন করাহন
+    name: পশ্চিম করাহন
     auto: true
   - translation_iso: deu
     name: West-Krahn
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी क्राह्न
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Krahn
+    name: Bahasa Krahn Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタン・クラーン語
@@ -45,7 +45,7 @@ translations:
     name: Krahn ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн крахнский язык
+    name: западный крахнский язык
     auto: true
   - translation_iso: spa
     name: Krahn Occidental

@@ -23,7 +23,7 @@ translations:
     name: لغة ملايو شمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ মোলুক্কান মালায়
+    name: উত্তর মোলুক্কান মালায়
     auto: true
   - translation_iso: deu
     name: Nordmolukken-Malaiisch

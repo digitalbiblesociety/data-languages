@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ ماشان الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মাশান হমোং
+    name: পশ্চিম মাশান হমোং
     auto: true
   - translation_iso: deu
     name: Westliches Mashan-Hmong
@@ -34,7 +34,7 @@ translations:
     name: पश्चिमी माशान ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Mashan Hmong
+    name: Bahasa Mashan Hmong Barat
     auto: true
   - translation_iso: jpn
     name: 西部麻山フモン語
@@ -45,7 +45,7 @@ translations:
     name: Hmong Mashan Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн машан хмонгский язык
+    name: западный машан хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Mashan occidental

@@ -22,7 +22,7 @@ translations:
     name: كاراboro الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন কারাবোরো
+    name: পশ্চিম কারাবোরো
     auto: true
   - translation_iso: deu
     name: Syer-Tenyer
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी काराबोरो
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Karaboro
+    name: Bahasa Karaboro Barat
     auto: true
   - translation_iso: jpn
     name: 西カラボロ語
@@ -43,7 +43,7 @@ translations:
   - translation_iso: por
     name: Língua caraboro ocidental
   - translation_iso: rus
-    name: вестерн карабороский язык
+    name: западный карабороский язык
     auto: true
   - translation_iso: spa
     name: Karaboro Occidental

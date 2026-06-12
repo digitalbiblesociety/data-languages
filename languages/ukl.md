@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الأوكرانية
     auto: true
   - translation_iso: ben
-    name: উকরাইনিয়ান সিগন লাঙুয়াগে
+    name: উকরাইনিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: ukrainische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: यूक्रेनी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Ukrainian Sign Language
+    name: Bahasa Isyarat Ukrainian
     auto: true
   - translation_iso: jpn
     name: ウクライナ手話

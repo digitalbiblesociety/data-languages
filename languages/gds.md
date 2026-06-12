@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغاندروكية
   - translation_iso: ben
-    name: ঘানদরুক সিগন লাঙুয়াগে
+    name: ঘানদরুক ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Ghandruk-Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: घंड्रुक सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Ghandruk Sign Language
+    name: Bahasa Isyarat Ghandruk
     auto: true
   - translation_iso: jpn
     name: ガンドルック手話

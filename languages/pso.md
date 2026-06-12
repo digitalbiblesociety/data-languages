@@ -30,7 +30,7 @@ translations:
     name: पोलिश सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Polish Sign Language
+    name: Bahasa Isyarat Polish
     auto: true
   - translation_iso: jpn
     name: ポーランド手話

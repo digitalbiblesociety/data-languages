@@ -24,7 +24,7 @@ translations:
     name: لغة هندكو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন হিনদকো
+    name: উত্তর হিনদকো
     auto: true
   - translation_iso: deu
     name: Nördliches Hindko
@@ -35,7 +35,7 @@ translations:
     name: उत्तरी हिंदको
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Hindko
+    name: Bahasa Hindko Utara
     auto: true
   - translation_iso: jpn
     name: ノーザン・ヒンドコー語
@@ -47,7 +47,7 @@ translations:
     name: Hindko do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн хиндкоский язык
+    name: северный хиндкоский язык
     auto: true
   - translation_iso: spa
     name: Hindko septentrional

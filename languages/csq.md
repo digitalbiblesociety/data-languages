@@ -30,7 +30,7 @@ translations:
     name: क्रोएशिया सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Croatia Sign Language
+    name: Bahasa Isyarat Croatia
     auto: true
   - translation_iso: jpn
     name: クロアチア手話

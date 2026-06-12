@@ -23,7 +23,7 @@ translations:
     name: الفولفولدية النيجر الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন নিগের ফুলফুলদে
+    name: পশ্চিম নিগের ফুলফুলদে
     auto: true
   - translation_iso: deu
     name: Westniger-Fulfulde
@@ -34,7 +34,7 @@ translations:
     name: पश्चिमी नाइजर फुलफुल्दे
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Niger Fulfulde
+    name: Bahasa Niger Fulfulde Barat
     auto: true
   - translation_iso: jpn
     name: 西部ニジェール・フルフルディ語
@@ -45,7 +45,7 @@ translations:
     name: fulfulde do Níger ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн нигер фулфулдейский язык
+    name: западный нигер фулфулдейский язык
     auto: true
   - translation_iso: spa
     name: Fulfulde del Níger Occidental

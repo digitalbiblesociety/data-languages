@@ -21,7 +21,7 @@ translations:
     name: لغة إيسترن لالو
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন লালু
+    name: পূর্ব লালু
     auto: true
   - translation_iso: deu
     name: Östliches Lalu
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी लालू
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Lalu
+    name: Bahasa Lalu Timur
     auto: true
   - translation_iso: jpn
     name: 東ラル語
@@ -45,7 +45,7 @@ translations:
     name: lalu oriental
     auto: true
   - translation_iso: rus
-    name: еастерн лалуский язык
+    name: восточный лалуский язык
     auto: true
   - translation_iso: spa
     name: Lalu oriental

@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: língua gestual portuguesa
   - translation_iso: rus
-    name: португуесе сигн лангуагейский язык
+    name: португуесейский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas portuguesa

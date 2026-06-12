@@ -27,7 +27,7 @@ translations:
   - translation_iso: hin
     name: अल्जीरियाई यहूदी सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Algerian Jewish Sign Language
+    name: Bahasa Isyarat Algerian Jewish
     auto: true
   - translation_iso: jpn
     name: アルジェリア・ユダヤ・サイン・ランゲージ語
@@ -39,7 +39,7 @@ translations:
     name: Língua de Sinais Judaica Argelina
     auto: true
   - translation_iso: rus
-    name: алгериан евиш сигн лангуагейский язык
+    name: алгериан евишский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas judía argelina

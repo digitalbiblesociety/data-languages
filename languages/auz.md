@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة قشقادریة
   - translation_iso: ben
-    name: উজবেকি আরাবিক
+    name: উজবেকি আরবি
     auto: true
   - translation_iso: deu
     name: Usbekisches Arabisch
@@ -33,7 +33,7 @@ translations:
     name: उज़्बेकी अरबी
     auto: true
   - translation_iso: ind
-    name: Bahasa Uzbeki Arabic
+    name: Bahasa Arab Uzbeki
     auto: true
   - translation_iso: jpn
     name: アラビア語中央アジア方言

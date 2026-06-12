@@ -21,7 +21,7 @@ translations:
     name: اللغة بالاوانو الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল পালাওয়ানো
+    name: মধ্য পালাওয়ানো
     auto: true
   - translation_iso: deu
     name: Zentral-Palawano
@@ -32,7 +32,7 @@ translations:
     name: मध्य पालावानो
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Palawano
+    name: Bahasa Palawano Tengah
     auto: true
   - translation_iso: jpn
     name: 中央パラワーノ語
@@ -44,7 +44,7 @@ translations:
     name: Palawano Central
     auto: true
   - translation_iso: rus
-    name: кентрал палаваноский язык
+    name: центральный палаваноский язык
     auto: true
   - translation_iso: spa
     name: Palawano central

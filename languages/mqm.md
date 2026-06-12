@@ -22,7 +22,7 @@ translations:
     name: لغة ماركيزان الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ মারকুএসান
+    name: দক্ষিণ মারকুএসান
     auto: true
   - translation_iso: deu
     name: Südmarquesanisch
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी मार्केसन
     auto: true
   - translation_iso: ind
-    name: Bahasa South Marquesan
+    name: Bahasa Marquesan Selatan
     auto: true
   - translation_iso: jpn
     name: 南マルキーズ語
@@ -43,7 +43,7 @@ translations:
     name: marquesano do sul
     auto: true
   - translation_iso: rus
-    name: сут марквесанский язык
+    name: южный марквесанский язык
     auto: true
   - translation_iso: spa
     name: Marquesano del Sur

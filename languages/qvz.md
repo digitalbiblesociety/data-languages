@@ -22,7 +22,7 @@ translations:
     name: اللغة كيتشوا باستازا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পাসতাজা কুইচুয়া
+    name: উত্তর পাসতাজা কুইচুয়া
     auto: true
   - translation_iso: deu
     name: Nord-Pastaza-Quichua
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी पास्ताज़ा किचुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Pastaza Quichua
+    name: Bahasa Pastaza Quichua Utara
     auto: true
   - translation_iso: jpn
     name: 北パスタサキチュア語
@@ -45,7 +45,7 @@ translations:
     name: Quíchua de Pastaza Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн пастаза квичуский язык
+    name: северный пастаза квичуский язык
     auto: true
   - translation_iso: spa
     name: Quichua del Pastaza septentrional

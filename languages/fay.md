@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لهجة کوهمرتي
   - translation_iso: ben
-    name: সোউথওয়েসতেরন ফারস
+    name: দক্ষিণ-পশ্চিম ফারস
     auto: true
   - translation_iso: deu
     name: Südwest-Fars
@@ -33,7 +33,7 @@ translations:
     name: दक्षिण-पश्चिमी फ़ार्स
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Fars
+    name: Bahasa Fars Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西ファルス語

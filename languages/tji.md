@@ -21,7 +21,7 @@ translations:
     name: توجيا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তুজিয়া
+    name: উত্তর তুজিয়া
     auto: true
   - translation_iso: deu
     name: Northern Tujia
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तुजिया
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tujia
+    name: Bahasa Tujia Utara
     auto: true
   - translation_iso: jpn
     name: プリ語
@@ -43,7 +43,7 @@ translations:
     name: Tujia do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн туджиский язык
+    name: северный туджиский язык
     auto: true
   - translation_iso: spa
     name: Tujia del Norte

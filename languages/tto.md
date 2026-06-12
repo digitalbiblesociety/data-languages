@@ -21,7 +21,7 @@ translations:
     name: الطاعة السفلى
     auto: true
   - translation_iso: ben
-    name: লোওয়ের তাওইহ
+    name: নিম্ন তাওইহ
     auto: true
   - translation_iso: deu
     name: "Lower Ta'oih"
@@ -32,7 +32,7 @@ translations:
     name: "निचली ता'ओइह"
     auto: true
   - translation_iso: ind
-    name: "Bahasa Lower Ta'oih"
+    name: "Bahasa Ta'oih Hilir"
     auto: true
   - translation_iso: jpn
     name: タオイ語
@@ -44,7 +44,7 @@ translations:
     name: "Ta'oih Meridional"
     auto: true
   - translation_iso: rus
-    name: ловер таоихский язык
+    name: нижний таоихский язык
     auto: true
   - translation_iso: spa
     name: "Ta'oih meridional"

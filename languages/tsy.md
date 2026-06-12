@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة تيبول
     auto: true
   - translation_iso: ben
-    name: তেবুল সিগন লাঙুয়াগে
+    name: তেবুল ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Tebul-Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: टेबुल सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Tebul Sign Language
+    name: Bahasa Isyarat Tebul
     auto: true
   - translation_iso: jpn
     name: テブル手話

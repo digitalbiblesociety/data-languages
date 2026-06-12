@@ -23,7 +23,7 @@ translations:
     name: اللغة هونغشويهي الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন হোংশুইহে ঝুয়াং
+    name: পূর্ব হোংশুইহে ঝুয়াং
     auto: true
   - translation_iso: deu
     name: Ost-Hongshuihe-Zhuang
@@ -35,7 +35,7 @@ translations:
     name: पूर्वी होंगशुईहे ज़ुआंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Hongshuihe Zhuang
+    name: Bahasa Hongshuihe Zhuang Timur
     auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語

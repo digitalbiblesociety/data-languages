@@ -22,7 +22,7 @@ translations:
     name: لغة مايوو الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল মাএওয়ো
+    name: মধ্য মাএওয়ো
     auto: true
   - translation_iso: deu
     name: Zentral-Maewo
@@ -33,7 +33,7 @@ translations:
     name: मध्य माएवो
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Maewo
+    name: Bahasa Maewo Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・マエウォ語
@@ -45,7 +45,7 @@ translations:
     name: maewo central
     auto: true
   - translation_iso: rus
-    name: кентрал маевоский язык
+    name: центральный маевоский язык
     auto: true
   - translation_iso: spa
     name: Maewo Central

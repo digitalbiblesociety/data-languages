@@ -22,7 +22,7 @@ translations:
     name: تانانا العليا
     auto: true
   - translation_iso: ben
-    name: উপ্পের তানানা
+    name: ঊর্ধ্ব তানানা
     auto: true
   - translation_iso: deu
     name: Upper Tanana
@@ -32,7 +32,7 @@ translations:
     name: ऊपरी तानाना
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Tanana
+    name: Bahasa Tanana Hulu
     auto: true
   - translation_iso: jpn
     name: 上部タナナ語

@@ -22,7 +22,7 @@ translations:
     name: اللغة باي الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল বাই
+    name: মধ্য বাই
     auto: true
   - translation_iso: deu
     name: Zentral-Bai
@@ -33,7 +33,7 @@ translations:
     name: मध्य बाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Bai
+    name: Bahasa Bai Tengah
     auto: true
   - translation_iso: jpn
     name: 中央バイ語
@@ -45,7 +45,7 @@ translations:
     name: Bai central
     auto: true
   - translation_iso: rus
-    name: кентрал баийский язык
+    name: центральный баийский язык
     auto: true
   - translation_iso: spa
     name: Bai Central

@@ -30,7 +30,7 @@ translations:
     name: ऑस्ट्रियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Austrian Sign Language
+    name: Bahasa Isyarat Austrian
     auto: true
   - translation_iso: jpn
     name: オーストリア手話

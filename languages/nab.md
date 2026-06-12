@@ -22,7 +22,7 @@ translations:
     name: جنوب نامبيكوارا
     auto: true
   - translation_iso: ben
-    name: সোউথেরন নামবিকুয়ারা
+    name: দক্ষিণ নামবিকুয়ারা
     auto: true
   - translation_iso: deu
     name: Nambikwara
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी नांबिकुआरा
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Nambikuára
+    name: Bahasa Nambikuára Selatan
     auto: true
   - translation_iso: jpn
     name: 南ナンビクワラ語

@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: क्यूबेक साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Quebec Sign Language
+    name: Bahasa Isyarat Quebec
     auto: true
   - translation_iso: jpn
     name: ケベック手話

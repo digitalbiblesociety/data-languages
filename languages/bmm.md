@@ -22,7 +22,7 @@ translations:
     name: بيتسيميسارaka الشمالية ملاجاشي
     auto: true
   - translation_iso: ben
-    name: নোরথেরন বেতসিমিসারাকা মালাগাসয়
+    name: উত্তর বেতসিমিসারাকা মালাগাসয়
     auto: true
   - translation_iso: deu
     name: Northern Betsimisaraka Malagasy
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी बेत्सिमिसारका मलागासी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Betsimisaraka Malagasy
+    name: Bahasa Betsimisaraka Malagasy Utara
     auto: true
   - translation_iso: jpn
     name: 北ベツィミサラカ・マダガスカル語
@@ -44,7 +44,7 @@ translations:
     name: Malgaxe betsimisaraka do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн бецимисарака малагасйский язык
+    name: северный бецимисарака малагасйский язык
     auto: true
   - translation_iso: spa
     name: Malgache del norte de Betsimisaraka

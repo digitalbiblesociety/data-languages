@@ -22,7 +22,7 @@ translations:
     name: إيست دامار
     auto: true
   - translation_iso: ben
-    name: এয়াসত দামার
+    name: পূর্ব দামার
     auto: true
   - translation_iso: deu
     name: Damar Timur
@@ -42,7 +42,7 @@ translations:
   - translation_iso: por
     name: Damar Timur
   - translation_iso: rus
-    name: еаст дамарский язык
+    name: восточный дамарский язык
     auto: true
   - translation_iso: spa
     name: Damar Timur

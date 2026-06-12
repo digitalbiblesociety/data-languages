@@ -23,7 +23,7 @@ translations:
     name: لغة ماري الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মারি
+    name: পূর্ব মারি
     auto: true
   - translation_iso: deu
     name: Wiesenmari
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी मारी
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Mari
+    name: Bahasa Mari Timur
     auto: true
   - translation_iso: jpn
     name: 牧地マリ語

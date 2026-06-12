@@ -22,7 +22,7 @@ translations:
     name: كإنترآل غرإبو
     auto: true
   - translation_iso: ben
-    name: কেনতরাল গরেবো
+    name: মধ্য গরেবো
     auto: true
   - translation_iso: deu
     name: Zentrales Grebo
@@ -33,7 +33,7 @@ translations:
     name: मध्य ग्रेबो
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Grebo
+    name: Bahasa Grebo Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・グレボ語
@@ -45,7 +45,7 @@ translations:
     name: Grebo Central
     auto: true
   - translation_iso: rus
-    name: кентрал гребоский язык
+    name: центральный гребоский язык
     auto: true
   - translation_iso: spa
     name: Grebo Central

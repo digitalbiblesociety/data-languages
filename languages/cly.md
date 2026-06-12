@@ -21,7 +21,7 @@ translations:
     name: الشاتينو الشرقي الأعلى
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন হিঘলানদ চাতিনো
+    name: পূর্ব হিঘলানদ চাতিনো
     auto: true
   - translation_iso: deu
     name: Östliches Hochland-Chatino
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी हाइलैंड चाटिनो
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Highland Chatino
+    name: Bahasa Highland Chatino Timur
     auto: true
   - translation_iso: jpn
     name: イースタン・ハイランド・チャティーノ語
@@ -44,7 +44,7 @@ translations:
     name: Chatino das terras altas orientais
     auto: true
   - translation_iso: rus
-    name: еастерн хигхланд чатиноский язык
+    name: восточный хигхланд чатиноский язык
     auto: true
   - translation_iso: spa
     name: Chatino de las Tierras Altas Orientales

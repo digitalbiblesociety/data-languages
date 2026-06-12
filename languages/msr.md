@@ -30,7 +30,7 @@ translations:
     name: मंगोलियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Mongolian Sign Language
+    name: Bahasa Isyarat Mongolian
     auto: true
   - translation_iso: jpn
     name: モンゴル手話

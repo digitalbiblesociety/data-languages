@@ -21,7 +21,7 @@ translations:
     name: اللغة بينان الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন পেনান
+    name: পূর্ব পেনান
     auto: true
   - translation_iso: deu
     name: Östliches Penan
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी पेनान
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Penan
+    name: Bahasa Penan Timur
     auto: true
   - translation_iso: jpn
     name: 東ペナン語
@@ -44,7 +44,7 @@ translations:
     name: Penan Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн пенанский язык
+    name: восточный пенанский язык
     auto: true
   - translation_iso: spa
     name: Penan oriental

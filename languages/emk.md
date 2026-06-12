@@ -22,7 +22,7 @@ translations:
     name: المانينكاكان الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মানিনকাকান
+    name: পূর্ব মানিনকাকান
     auto: true
   - translation_iso: deu
     name: Ost-Maninkakan
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी मनिंकाकान
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Maninkakan
+    name: Bahasa Maninkakan Timur
     auto: true
   - translation_iso: jpn
     name: 東マニンカカン語
@@ -45,7 +45,7 @@ translations:
     name: maninkakan oriental
     auto: true
   - translation_iso: rus
-    name: еастерн манинкаканский язык
+    name: восточный манинкаканский язык
     auto: true
   - translation_iso: spa
     name: Maninkakán Oriental

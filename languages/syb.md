@@ -21,7 +21,7 @@ translations:
     name: سوبانين الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল সুবানেন
+    name: মধ্য সুবানেন
     auto: true
   - translation_iso: deu
     name: Central Subanen
@@ -32,7 +32,7 @@ translations:
     name: मध्य सुबानेन
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Subanen
+    name: Bahasa Subanen Tengah
     auto: true
   - translation_iso: jpn
     name: 中央スバネン語
@@ -44,7 +44,7 @@ translations:
     name: Subanen Central
     auto: true
   - translation_iso: rus
-    name: кентрал субаненский язык
+    name: центральный субаненский язык
     auto: true
   - translation_iso: spa
     name: Subanen central

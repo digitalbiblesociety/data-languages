@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة البحرية
     auto: true
   - translation_iso: ben
-    name: মারিতিমে সিগন লাঙুয়াগে
+    name: মারিতিমে ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Maritime Sign Language
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: समुद्री सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Maritime Sign Language
+    name: Bahasa Isyarat Maritime
     auto: true
   - translation_iso: jpn
     name: 沿海州手話

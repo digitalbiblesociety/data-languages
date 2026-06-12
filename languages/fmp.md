@@ -32,7 +32,7 @@ translations:
     name: फेफे
     auto: true
   - translation_iso: ind
-    name: "Bahasa Fe'fe"
+    name: "Bahasa Fe'fe'"
     auto: true
   - translation_iso: jpn
     name: フェフェ語

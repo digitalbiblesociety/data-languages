@@ -33,7 +33,7 @@ translations:
     name: फाना
     auto: true
   - translation_iso: ind
-    name: Bahasa Phana
+    name: "Bahasa Phana'"
     auto: true
   - translation_iso: jpn
     name: ファナ語

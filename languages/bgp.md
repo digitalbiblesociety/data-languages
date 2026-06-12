@@ -23,7 +23,7 @@ translations:
     name: بلوشي شرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন বালোচি
+    name: পূর্ব বালোচি
     auto: true
   - translation_iso: deu
     name: Eastern Balochi
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी बलोची
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Balochi
+    name: Bahasa Balochi Timur
     auto: true
   - translation_iso: jpn
     name: 東バローチー語

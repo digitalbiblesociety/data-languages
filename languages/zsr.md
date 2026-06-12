@@ -17,7 +17,7 @@ translations:
     name: زابوتيك رينكون الجنوبي
     auto: true
   - translation_iso: ben
-    name: সোউথেরন রিনকোন জাপোতেক
+    name: দক্ষিণ রিনকোন জাপোতেক
     auto: true
   - translation_iso: deu
     name: Zapotekisch (Süd-Rincón)
@@ -28,7 +28,7 @@ translations:
     name: दक्षिणी रिंकोन ज़ापोटेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Rincon Zapotec
+    name: Bahasa Rincon Zapotec Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・リンコン・サポテク語
@@ -40,7 +40,7 @@ translations:
     name: zapoteco de Rincon do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн ринкон запотекский язык
+    name: южный ринкон запотекский язык
     auto: true
   - translation_iso: spa
     name: Zapoteco del Rincón Sur

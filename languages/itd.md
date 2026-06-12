@@ -22,7 +22,7 @@ translations:
     name: تيدونغ الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন তিদুং
+    name: দক্ষিণ তিদুং
     auto: true
   - translation_iso: deu
     name: Südliches Tidung
@@ -45,7 +45,7 @@ translations:
     name: Tidung do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн тидунгский язык
+    name: южный тидунгский язык
     auto: true
   - translation_iso: spa
     name: Tidung Meridional

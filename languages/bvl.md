@@ -30,7 +30,7 @@ translations:
     name: बोलिवियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Bolivian Sign Language
+    name: Bahasa Isyarat Bolivian
     auto: true
   - translation_iso: jpn
     name: ボリビア手話

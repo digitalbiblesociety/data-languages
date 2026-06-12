@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة عربية قبرصية
   - translation_iso: ben
-    name: কয়পরিওত আরাবিক
+    name: কয়পরিওত আরবি
     auto: true
   - translation_iso: deu
     name: zyprisches Arabisch

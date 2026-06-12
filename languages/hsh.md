@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة المجرية
     auto: true
   - translation_iso: ben
-    name: হুঙারিয়ান সিগন লাঙুয়াগে
+    name: হুঙারিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Ungarische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: हंगेरियन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Hungarian Sign Language
+    name: Bahasa Isyarat Hungarian
     auto: true
   - translation_iso: jpn
     name: ハンガリー手話

@@ -22,7 +22,7 @@ translations:
     name: اللغة أباتشي الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন আপাচে
+    name: পশ্চিম আপাচে
     auto: true
   - translation_iso: deu
     name: Western Apache

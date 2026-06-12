@@ -21,7 +21,7 @@ translations:
     name: لغة لولوبو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন লোলোপো
+    name: দক্ষিণ লোলোপো
     auto: true
   - translation_iso: deu
     name: Süd-Lolopo
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी लोलोपो
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Lolopo
+    name: Bahasa Lolopo Selatan
     auto: true
   - translation_iso: jpn
     name: サザンロロポ語
@@ -44,7 +44,7 @@ translations:
     name: lolopo do sul
     auto: true
   - translation_iso: rus
-    name: сутерн лолопоский язык
+    name: южный лолопоский язык
     auto: true
   - translation_iso: spa
     name: Lolopo meridional

@@ -32,7 +32,7 @@ translations:
     name: उत्तरी उज़्बेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Uzbek
+    name: Bahasa Uzbek Utara
     auto: true
   - translation_iso: jpn
     name: 北ウズベク語

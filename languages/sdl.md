@@ -29,7 +29,7 @@ translations:
     name: सऊदी अरब सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Saudi Arabian Sign Language
+    name: Bahasa Isyarat Saudi Arabian
     auto: true
   - translation_iso: jpn
     name: サウジアラビア手話
@@ -40,7 +40,7 @@ translations:
     name: Língua de Sinais da Arábia Saudita
     auto: true
   - translation_iso: rus
-    name: сауди арабиан сигн лангуагейский язык
+    name: сауди арабианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas saudí

@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة يهودية يمنية عربية
   - translation_iso: ben
-    name: জুদেও-য়েমেনি আরাবিক
+    name: জুদেও-য়েমেনি আরবি
     auto: true
   - translation_iso: deu
     name: Judäo-jemenitisches Arabisch

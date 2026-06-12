@@ -31,7 +31,7 @@ translations:
     name: चियांगमाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Chiangmai Sign Language
+    name: Bahasa Isyarat Chiangmai
     auto: true
   - translation_iso: jpn
     name: 原チェンマイ手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais de Chiangmai
     auto: true
   - translation_iso: rus
-    name: чиангмаи сигн лангуагейский язык
+    name: чиангмаийский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de Señas de Chiangmai

@@ -22,7 +22,7 @@ translations:
     name: اللغة أيمارا الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল আয়মারা
+    name: মধ্য আয়মারা
     auto: true
   - translation_iso: deu
     name: Zentral-Aymara
@@ -33,7 +33,7 @@ translations:
     name: मध्य आयमारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Aymara
+    name: Bahasa Aymara Tengah
     auto: true
   - translation_iso: jpn
     name: 中央アイマラ語
@@ -44,7 +44,7 @@ translations:
     name: Aimará Central
     auto: true
   - translation_iso: rus
-    name: кентрал аймарский язык
+    name: центральный аймарский язык
     auto: true
   - translation_iso: spa
     name: aimara central

@@ -23,7 +23,7 @@ translations:
     name: لغة ووتهيرن وري
     auto: true
   - translation_iso: ben
-    name: সোউথেরন লুরি
+    name: দক্ষিণ লুরি
     auto: true
   - translation_iso: deu
     name: Südliches Lori
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी लुरी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Luri
+    name: Bahasa Luri Selatan
     auto: true
   - translation_iso: jpn
     name: 南ロル語

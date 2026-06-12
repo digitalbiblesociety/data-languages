@@ -21,7 +21,7 @@ translations:
     name: اللغة وان الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন ওনে
+    name: দক্ষিণ ওনে
     auto: true
   - translation_iso: deu
     name: Southern One
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी वन
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern One
+    name: Bahasa One Selatan
     auto: true
   - translation_iso: jpn
     name: 南ワン語
@@ -44,7 +44,7 @@ translations:
     name: One Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн онейский язык
+    name: южный онейский язык
     auto: true
   - translation_iso: spa
     name: One meridional

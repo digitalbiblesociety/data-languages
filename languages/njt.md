@@ -22,7 +22,7 @@ translations:
     name: ندويكا تريو بيدجن
     auto: true
   - translation_iso: ben
-    name: নদয়ুকা-তরিও পিদগিন
+    name: নদয়ুকা-তরিও পিজিন
     auto: true
   - translation_iso: deu
     name: Ndyuka-Trio-Pidgin
@@ -33,7 +33,7 @@ translations:
     name: न्द्युका-त्रियो पिजिन
     auto: true
   - translation_iso: ind
-    name: Bahasa Ndyuka-Trio Pidgin
+    name: Bahasa Pijin Ndyuka-Trio
     auto: true
   - translation_iso: jpn
     name: ンディユカ・トリオ・ピジン語

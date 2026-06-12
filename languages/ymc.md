@@ -21,7 +21,7 @@ translations:
     name: لغة موجي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন মুজি
+    name: দক্ষিণ মুজি
     auto: true
   - translation_iso: deu
     name: Südliches Muji
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी मूजी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Muji
+    name: Bahasa Muji Selatan
     auto: true
   - translation_iso: jpn
     name: 南部ムジ語
@@ -44,7 +44,7 @@ translations:
     name: muji do sul
     auto: true
   - translation_iso: rus
-    name: сутерн муджийский язык
+    name: южный муджийский язык
     auto: true
   - translation_iso: spa
     name: Muji meridional

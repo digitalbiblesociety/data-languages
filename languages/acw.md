@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة حجازية
   - translation_iso: ben
-    name: হিজাজি আরাবিক
+    name: হিজাজি আরবি
     auto: true
   - translation_iso: deu
     name: Hidschasi-Arabisch

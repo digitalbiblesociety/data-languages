@@ -23,7 +23,7 @@ translations:
     name: اللغة باشتو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পাশতো
+    name: দক্ষিণ পাশতো
     auto: true
   - translation_iso: deu
     name: Südpaschtu

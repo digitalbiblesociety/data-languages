@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة النيجيرية
     auto: true
   - translation_iso: ben
-    name: নিগেরিয়ান সিগন লাঙুয়াগে
+    name: নিগেরিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Nigerianische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: नाइजीरियाई सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Nigerian Sign Language
+    name: Bahasa Isyarat Nigerian
     auto: true
   - translation_iso: jpn
     name: ナイジェリア手話

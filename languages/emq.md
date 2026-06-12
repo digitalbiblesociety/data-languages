@@ -21,7 +21,7 @@ translations:
     name: الينياج الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মিনয়াগ
+    name: পূর্ব মিনয়াগ
     auto: true
   - translation_iso: deu
     name: Ost-Minyag
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी मिन्याग
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Minyag
+    name: Bahasa Minyag Timur
     auto: true
   - translation_iso: jpn
     name: 東ミニャン語
@@ -45,7 +45,7 @@ translations:
     name: minyag oriental
     auto: true
   - translation_iso: rus
-    name: еастерн минягский язык
+    name: восточный минягский язык
     auto: true
   - translation_iso: spa
     name: Minyag Oriental

@@ -21,7 +21,7 @@ translations:
     name: تيبيهوان الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তেপেহুয়ান
+    name: উত্তর তেপেহুয়ান
     auto: true
   - translation_iso: deu
     name: Nördliches Tepehuan
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तेपेहुआन
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tepehuan
+    name: Bahasa Tepehuan Utara
     auto: true
   - translation_iso: jpn
     name: 北テペワン語
@@ -44,7 +44,7 @@ translations:
     name: Tepehuan Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн тепехуанский язык
+    name: северный тепехуанский язык
     auto: true
   - translation_iso: spa
     name: Tepehuán del Norte

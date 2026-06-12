@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة بهانوي
     auto: true
   - translation_iso: ben
-    name: হানোই সিগন লাঙুয়াগে
+    name: হানোই ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Hanoi-Gebärdensprache
@@ -33,7 +33,7 @@ translations:
     name: हनोई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Hanoi Sign Language
+    name: Bahasa Isyarat Hanoi
     auto: true
   - translation_iso: jpn
     name: ハノイ手話
@@ -44,7 +44,7 @@ translations:
     name: Língua de Sinais de Hanói
     auto: true
   - translation_iso: rus
-    name: ханои сигн лангуагейский язык
+    name: ханоийский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Hanói

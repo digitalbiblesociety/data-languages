@@ -22,7 +22,7 @@ translations:
     name: لغة ميــاو تشياندونغ الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কিয়ানদোং মিয়াও
+    name: দক্ষিণ কিয়ানদোং মিয়াও
     auto: true
   - translation_iso: deu
     name: Südliches Qiandong-Miao
@@ -34,7 +34,7 @@ translations:
     name: दक्षिणी क्यानडोंग मियाओ
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Qiandong Miao
+    name: Bahasa Qiandong Miao Selatan
     auto: true
   - translation_iso: jpn
     name: 南部黔東苗語
@@ -45,7 +45,7 @@ translations:
     name: Miao Qiandong do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн киандонг миаоский язык
+    name: южный киандонг миаоский язык
     auto: true
   - translation_iso: spa
     name: Miao Qiandong meridional

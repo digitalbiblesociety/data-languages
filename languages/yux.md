@@ -22,7 +22,7 @@ translations:
     name: اللغة يوكاغيز الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন য়ুকাঘির
+    name: দক্ষিণ য়ুকাঘির
     auto: true
   - translation_iso: deu
     name: Kolymajukagirisch
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी युकागिर
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Yukaghir
+    name: Bahasa Yukaghir Selatan
     auto: true
   - translation_iso: jpn
     name: コリマ・ユカギール語

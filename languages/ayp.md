@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: العربية الموصلية
   - translation_iso: ben
-    name: নোরথ মেসোপোতামিয়ান আরাবিক
+    name: উত্তর মেসোপোতামিয়ান আরবি
     auto: true
   - translation_iso: deu
     name: Nordmesopotamisches Arabisch

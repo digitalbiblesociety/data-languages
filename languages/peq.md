@@ -22,7 +22,7 @@ translations:
     name: اللغة بومو الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পোমো
+    name: দক্ষিণ পোমো
     auto: true
   - translation_iso: deu
     name: Südliches Pomo
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी पोमो
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Pomo
+    name: Bahasa Pomo Selatan
     auto: true
   - translation_iso: jpn
     name: 南ポモ語

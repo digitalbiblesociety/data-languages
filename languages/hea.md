@@ -22,7 +22,7 @@ translations:
     name: نورثإرن قيآندونج ميآو
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কিয়ানদোং মিয়াও
+    name: উত্তর কিয়ানদোং মিয়াও
     auto: true
   - translation_iso: deu
     name: Nördliches Qiandong-Miao
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी छ्यान्तोंग मियाओ
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Qiandong Miao
+    name: Bahasa Qiandong Miao Utara
     auto: true
   - translation_iso: jpn
     name: 北部黔東苗語
@@ -44,7 +44,7 @@ translations:
     name: Miao Qiandong do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн киандонг миаоский язык
+    name: северный киандонг миаоский язык
     auto: true
   - translation_iso: spa
     name: Miao Qiandong septentrional

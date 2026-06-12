@@ -21,7 +21,7 @@ translations:
     name: اللغة أرارنتا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন আর্রারনতা
+    name: পশ্চিম আর্রারনতা
     auto: true
   - translation_iso: deu
     name: West-Arrarnta
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी आरार्न्ता
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Arrarnta
+    name: Bahasa Arrarnta Barat
     auto: true
   - translation_iso: jpn
     name: 西部アレント語

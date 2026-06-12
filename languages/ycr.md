@@ -20,7 +20,7 @@ translations:
     name: ييلان كريول
     auto: true
   - translation_iso: ben
-    name: য়িলান করেওলে
+    name: য়িলান ক্রেওল
     auto: true
   - translation_iso: deu
     name: Yilan-Kreolisch
@@ -40,7 +40,7 @@ translations:
     name: crioulo de Yilan
     auto: true
   - translation_iso: rus
-    name: йилан креолейский язык
+    name: йиланский креольский язык
     auto: true
   - translation_iso: spa
     name: Criollo de Yilan

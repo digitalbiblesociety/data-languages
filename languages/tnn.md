@@ -22,7 +22,7 @@ translations:
     name: شمال تانا
     auto: true
   - translation_iso: ben
-    name: নোরথ তান্না
+    name: উত্তর তান্না
     auto: true
   - translation_iso: deu
     name: Nord-Tanna
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी तन्ना
     auto: true
   - translation_iso: ind
-    name: Bahasa North Tanna
+    name: Bahasa Tanna Utara
     auto: true
   - translation_iso: jpn
     name: 北タンナ語
@@ -45,7 +45,7 @@ translations:
     name: Tanna do Norte
     auto: true
   - translation_iso: rus
-    name: норт таннский язык
+    name: северный таннский язык
     auto: true
   - translation_iso: spa
     name: Tanna del Norte

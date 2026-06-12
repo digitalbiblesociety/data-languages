@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة السلوفاكية
     auto: true
   - translation_iso: ben
-    name: সলোভাকিয়ান সিগন লাঙুয়াগে
+    name: সলোভাকিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Slowakische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: स्लोवाक सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Slovakian Sign Language
+    name: Bahasa Isyarat Slovakian
     auto: true
   - translation_iso: jpn
     name: スロバキア手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais eslovaca
   - translation_iso: rus
-    name: словакиан сигн лангуагейский язык
+    name: словакианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas eslovaca

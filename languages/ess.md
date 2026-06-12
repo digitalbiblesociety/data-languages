@@ -22,7 +22,7 @@ translations:
     name: اليوبيك السيبيري الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল সিবেরিয়ান য়ুপিক
+    name: মধ্য সিবেরিয়ান য়ুপিক
     auto: true
   - translation_iso: deu
     name: Zentral-Sibirisch-Yupik

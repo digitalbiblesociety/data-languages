@@ -21,7 +21,7 @@ translations:
     name: الخومي الشرقية تشين
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন খুমি চিন
+    name: পূর্ব খুমি চিন
     auto: true
   - translation_iso: deu
     name: Östliches Khumi-Chin
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी खुमी चिन
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Khumi Chin
+    name: Bahasa Khumi Chin Timur
     auto: true
   - translation_iso: jpn
     name: 東クミ・チン語
@@ -45,7 +45,7 @@ translations:
     name: Chin Khumi oriental
     auto: true
   - translation_iso: rus
-    name: еастерн хуми чинский язык
+    name: восточный хуми чинский язык
     auto: true
   - translation_iso: spa
     name: Chin Khumi Oriental

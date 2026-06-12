@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة عربية يهودية مغربية
   - translation_iso: ben
-    name: জুদেও-মোরোক্কান আরাবিক
+    name: জুদেও-মোরোক্কান আরবি
     auto: true
   - translation_iso: deu
     name: Jüdisch-Marokkanisches Arabisch

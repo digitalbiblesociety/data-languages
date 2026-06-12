@@ -21,7 +21,7 @@ translations:
     name: لغة موريا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মুরিয়া
+    name: পশ্চিম মুরিয়া
     auto: true
   - translation_iso: deu
     name: West-Muria
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी मुरिया
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Muria
+    name: Bahasa Muria Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタン・ムリア語
@@ -44,7 +44,7 @@ translations:
     name: muria ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн муриский язык
+    name: западный муриский язык
     auto: true
   - translation_iso: spa
     name: Muria Occidental

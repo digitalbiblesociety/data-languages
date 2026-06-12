@@ -23,7 +23,7 @@ translations:
     name: جنوب بينغ الصينية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পিং চিনেসের
+    name: দক্ষিণ পিং চিনেসের
     auto: true
   - translation_iso: deu
     name: Südliches Ping-Chinesisch
@@ -35,7 +35,7 @@ translations:
     name: दक्षिणी पिंग चीनी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Ping Chinese\r
+    name: Bahasa Ping Chinese\r Selatan
     auto: true
   - translation_iso: jpn
     name: 桂南平話
@@ -46,7 +46,7 @@ translations:
     name: Chinês ping meridional
     auto: true
   - translation_iso: rus
-    name: сутерн пинг чинесерский язык
+    name: южный пинг чинесерский язык
     auto: true
   - translation_iso: spa
     name: Chino Ping Meridional

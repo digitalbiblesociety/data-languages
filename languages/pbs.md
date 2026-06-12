@@ -21,7 +21,7 @@ translations:
     name: اللغة بامي الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল পামে
+    name: মধ্য পামে
     auto: true
   - translation_iso: deu
     name: Zentral-Pame
@@ -32,7 +32,7 @@ translations:
     name: मध्य पामे
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Pame
+    name: Bahasa Pame Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・パメ語
@@ -44,7 +44,7 @@ translations:
     name: Pame Central
     auto: true
   - translation_iso: rus
-    name: кентрал памейский язык
+    name: центральный памейский язык
     auto: true
   - translation_iso: spa
     name: Pame central

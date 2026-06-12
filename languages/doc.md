@@ -21,7 +21,7 @@ translations:
     name: نورثرن دونج
     auto: true
   - translation_iso: ben
-    name: নোরথেরন দোং
+    name: উত্তর দোং
     auto: true
   - translation_iso: deu
     name: Nord-Dong
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी डोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Dong
+    name: Bahasa Dong Utara
     auto: true
   - translation_iso: jpn
     name: 北ドン語
@@ -44,7 +44,7 @@ translations:
     name: Dong Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн донгский язык
+    name: северный донгский язык
     auto: true
   - translation_iso: spa
     name: Dong Septentrional

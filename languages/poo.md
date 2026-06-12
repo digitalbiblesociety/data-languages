@@ -22,7 +22,7 @@ translations:
     name: اللغة بومو الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল পোমো
+    name: মধ্য পোমো
     auto: true
   - translation_iso: deu
     name: Zentrales Pomo
@@ -32,7 +32,7 @@ translations:
   - translation_iso: hin
     name: मध्य पोमो भाषा
   - translation_iso: ind
-    name: Bahasa Central Pomo
+    name: Bahasa Pomo Tengah
     auto: true
   - translation_iso: jpn
     name: 中央ポモ語

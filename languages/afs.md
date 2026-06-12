@@ -31,7 +31,7 @@ translations:
     name: एफ्रो-सेमिनोल क्रियोल
     auto: true
   - translation_iso: ind
-    name: Bahasa Afro-Seminole Creole
+    name: Bahasa Kreol Afro-Seminole
     auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語

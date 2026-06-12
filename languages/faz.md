@@ -18,7 +18,7 @@ translations:
     name: الفارسية الشمالية الغربية
     auto: true
   - translation_iso: ben
-    name: নোরথওয়েসতেরন ফারস
+    name: উত্তর-পশ্চিম ফারস
     auto: true
   - translation_iso: deu
     name: Nordwest-Fars
@@ -30,7 +30,7 @@ translations:
     name: उत्तर-पश्चिमी फ़ार्स
     auto: true
   - translation_iso: ind
-    name: Bahasa Northwestern Fars
+    name: Bahasa Fars Barat Laut
     auto: true
   - translation_iso: jpn
     name: 北西ファルス語
@@ -42,7 +42,7 @@ translations:
     name: fars do noroeste
     auto: true
   - translation_iso: rus
-    name: нортвестерн фарсский язык
+    name: северо-западный фарсский язык
     auto: true
   - translation_iso: spa
     name: Fars del Noroeste

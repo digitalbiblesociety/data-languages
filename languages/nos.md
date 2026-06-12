@@ -21,7 +21,7 @@ translations:
     name: نيسو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন নিসু
+    name: পূর্ব নিসু
     auto: true
   - translation_iso: deu
     name: Östliches Nisu
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी निसू
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Nisu
+    name: Bahasa Nisu Timur
     auto: true
   - translation_iso: jpn
     name: 東ニス語
@@ -45,7 +45,7 @@ translations:
     name: Nisu Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн нисуский язык
+    name: восточный нисуский язык
     auto: true
   - translation_iso: spa
     name: Nisu Oriental

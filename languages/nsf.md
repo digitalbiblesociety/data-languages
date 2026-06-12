@@ -21,7 +21,7 @@ translations:
     name: نيسو الشمالية الغربية
     auto: true
   - translation_iso: ben
-    name: নোরথওয়েসতেরন নিসু
+    name: উত্তর-পশ্চিম নিসু
     auto: true
   - translation_iso: deu
     name: Nordwestliches Nisu
@@ -32,7 +32,7 @@ translations:
     name: उत्तर-पश्चिमी निसू
     auto: true
   - translation_iso: ind
-    name: Bahasa Northwestern Nisu
+    name: Bahasa Nisu Barat Laut
     auto: true
   - translation_iso: jpn
     name: 北西ニス語
@@ -44,7 +44,7 @@ translations:
     name: Nisu Noroeste
     auto: true
   - translation_iso: rus
-    name: нортвестерн нисуский язык
+    name: северо-западный нисуский язык
     auto: true
   - translation_iso: spa
     name: Nisu Noroccidental

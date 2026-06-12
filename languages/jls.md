@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: जमैका सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Jamaican Sign Language
+    name: Bahasa Isyarat Jamaican
     auto: true
   - translation_iso: jpn
     name: ジャマイカ手話
@@ -40,7 +40,7 @@ translations:
     name: Língua de Sinais Jamaicana
     auto: true
   - translation_iso: rus
-    name: ямаикан сигн лангуагейский язык
+    name: ямаиканский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas jamaicana

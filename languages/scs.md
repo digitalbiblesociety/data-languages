@@ -23,7 +23,7 @@ translations:
     name: نورث سلافي
     auto: true
   - translation_iso: ben
-    name: নোরথ সলাভেয়
+    name: উত্তর সলাভেয়
     auto: true
   - translation_iso: deu
     name: Nordslavey
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी स्लेवी
     auto: true
   - translation_iso: ind
-    name: Bahasa North Slavey
+    name: Bahasa Slavey Utara
     auto: true
   - translation_iso: jpn
     name: 北スレイビー語
@@ -44,7 +44,7 @@ translations:
     name: Slavey Setentrional
     auto: true
   - translation_iso: rus
-    name: норт славейский язык
+    name: северный славейский язык
     auto: true
   - translation_iso: spa
     name: slave septentrional

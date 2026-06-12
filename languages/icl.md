@@ -31,7 +31,7 @@ translations:
     name: आइसलैंडिक सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Icelandic Sign Language
+    name: Bahasa Isyarat Icelandic
     auto: true
   - translation_iso: jpn
     name: アイスランド手話

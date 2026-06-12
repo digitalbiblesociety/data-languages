@@ -21,7 +21,7 @@ translations:
     name: اللغة ناهوتل درانجو الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন দুরাঙো নাহুয়াতল
+    name: পশ্চিম দুরাঙো নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: West-Durango-Nahuatl
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी दुरांगो नाहुआट्ल
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Durango Nahuatl
+    name: Bahasa Durango Nahuatl Barat
     auto: true
   - translation_iso: jpn
     name: 西ドゥランゴ・ナワトル語
@@ -44,7 +44,7 @@ translations:
     name: Náuatle de Durango Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн дуранго нахуатльский язык
+    name: западный дуранго нахуатльский язык
     auto: true
   - translation_iso: spa
     name: Náhuatl del Durango Occidental

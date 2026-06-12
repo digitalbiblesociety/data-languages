@@ -21,7 +21,7 @@ translations:
     name: ناجو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন নাগো
+    name: উত্তর নাগো
     auto: true
   - translation_iso: deu
     name: Manigri-Kambolé
@@ -31,7 +31,7 @@ translations:
     name: उत्तरी नागो
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Nago
+    name: Bahasa Nago Utara
     auto: true
   - translation_iso: jpn
     name: 北ナゴ語
@@ -43,7 +43,7 @@ translations:
     name: Nago do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн нагоский язык
+    name: северный нагоский язык
     auto: true
   - translation_iso: spa
     name: Nago del Norte

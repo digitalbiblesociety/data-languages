@@ -22,7 +22,7 @@ translations:
     name: لغة تشيانج الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কিয়াং
+    name: দক্ষিণ কিয়াং
     auto: true
   - translation_iso: deu
     name: Süd-Qiang
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी छ्यांग
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Qiang
+    name: Bahasa Qiang Selatan
     auto: true
   - translation_iso: jpn
     name: 南部チャン語

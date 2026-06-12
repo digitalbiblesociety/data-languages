@@ -21,7 +21,7 @@ translations:
     name: تارانغان الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত তারাঙান
+    name: পূর্ব তারাঙান
     auto: true
   - translation_iso: deu
     name: Ost-Tarangan
@@ -43,7 +43,7 @@ translations:
     name: Tarangan Oriental
     auto: true
   - translation_iso: rus
-    name: еаст таранганский язык
+    name: восточный таранганский язык
     auto: true
   - translation_iso: spa
     name: Tarangan oriental

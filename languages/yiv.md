@@ -21,7 +21,7 @@ translations:
     name: لغة نيسو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন নিসু
+    name: উত্তর নিসু
     auto: true
   - translation_iso: deu
     name: Nördliches Nisu
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी निसू
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Nisu
+    name: Bahasa Nisu Utara
     auto: true
   - translation_iso: jpn
     name: 北部ニス語
@@ -44,7 +44,7 @@ translations:
     name: nisu do norte
     auto: true
   - translation_iso: rus
-    name: нортерн нисуский язык
+    name: северный нисуский язык
     auto: true
   - translation_iso: spa
     name: Nisu septentrional

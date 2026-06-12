@@ -21,7 +21,7 @@ translations:
     name: لغة لالو الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন লালু
+    name: পশ্চিম লালু
     auto: true
   - translation_iso: deu
     name: West-Lalu
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी लालू
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Lalu
+    name: Bahasa Lalu Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタンラル語
@@ -44,7 +44,7 @@ translations:
     name: lalu ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн лалуский язык
+    name: западный лалуский язык
     auto: true
   - translation_iso: spa
     name: Lalu occidental

@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: वालेंसियन साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Valencian Sign Language
+    name: Bahasa Isyarat Valencian
     auto: true
   - translation_iso: jpn
     name: ヴァレンシア手話

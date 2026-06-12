@@ -22,7 +22,7 @@ translations:
     name: اللغة كويتشوا كونتشوس الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কোনচুকোস আনকাশ কুএচুয়া
+    name: উত্তর কোনচুকোস আনকাশ কুএচুয়া
     auto: true
   - translation_iso: deu
     name: Nord-Conchucos-Ancash-Quechua
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी कोंचुकोस आंकाश क्वेचुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Conchucos Ancash Quechua
+    name: Bahasa Conchucos Ancash Quechua Utara
     auto: true
   - translation_iso: jpn
     name: 北コンチュコスアンカシュケチュア語
@@ -45,7 +45,7 @@ translations:
     name: Quíchua de Conchucos Ancash do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн кончукос анкаш квечуский язык
+    name: северный кончукос анкаш квечуский язык
     auto: true
   - translation_iso: spa
     name: "Quechua de los Conchucos del norte, Áncash"

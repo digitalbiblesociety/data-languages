@@ -22,7 +22,7 @@ translations:
     name: ويسترن هواستيكا ناهواتل
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন হুয়াসতেকা নাহুয়াতল
+    name: পশ্চিম হুয়াসতেকা নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: Westliches Huasteca-Nahuatl
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी हुआस्तेका नाहुआतल
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Huasteca Nahuatl
+    name: Bahasa Huasteca Nahuatl Barat
     auto: true
   - translation_iso: jpn
     name: 西ワステカ・ナワトル語
@@ -45,7 +45,7 @@ translations:
     name: Nahuatl da Huasteca Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн хуастека нахуатльский язык
+    name: западный хуастека нахуатльский язык
     auto: true
   - translation_iso: spa
     name: Náhuatl de la Huasteca occidental

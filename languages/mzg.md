@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة الرهبانية
     auto: true
   - translation_iso: ben
-    name: মোনাসতিক সিগন লাঙুয়াগে
+    name: মোনাসতিক ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: klösterliche Zeichensprache
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Monástica
     auto: true
   - translation_iso: rus
-    name: монастик сигн лангуагейский язык
+    name: монастикский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas monástica

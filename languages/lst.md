@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة في ترينيداد وتوباغو
     auto: true
   - translation_iso: ben
-    name: তরিনিদাদ আনদ তোবাগো সিগন লাঙুয়াগে
+    name: তরিনিদাদ আনদ তোবাগো ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Trinidad-und-Tobago-Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: त्रिनिदाद और टोबैगो सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Trinidad and Tobago Sign Language
+    name: Bahasa Isyarat Trinidad and Tobago
     auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
@@ -43,7 +43,7 @@ translations:
     name: Língua de Sinais de Trinidad e Tobago
     auto: true
   - translation_iso: rus
-    name: тринидад анд тобаго сигн лангуагейский язык
+    name: тринидад анд тобагоский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Trinidad y Tobago

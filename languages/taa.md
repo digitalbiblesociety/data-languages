@@ -22,7 +22,7 @@ translations:
     name: تانانا السفلى
     auto: true
   - translation_iso: ben
-    name: লোওয়ের তানানা
+    name: নিম্ন তানানা
     auto: true
   - translation_iso: deu
     name: Lower Tanana
@@ -32,7 +32,7 @@ translations:
     name: निचली तानाना
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Tanana
+    name: Bahasa Tanana Hilir
     auto: true
   - translation_iso: jpn
     name: タナナ語

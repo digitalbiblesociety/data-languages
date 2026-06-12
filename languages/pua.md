@@ -21,7 +21,7 @@ translations:
     name: لغة بوريبيتشا الجبلية الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন হিঘলানদ পুরেপেচা
+    name: পশ্চিম হিঘলানদ পুরেপেচা
     auto: true
   - translation_iso: deu
     name: Westliches Hochland-Purépecha
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी हाइलैंड पुरेपेचा
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Highland Purepecha
+    name: Bahasa Highland Purepecha Barat
     auto: true
   - translation_iso: jpn
     name: 西高地プレペチャ語
@@ -44,7 +44,7 @@ translations:
     name: Purepecha das Terras Altas Ocidentais
     auto: true
   - translation_iso: rus
-    name: вестерн хигхланд пурепечский язык
+    name: западный хигхланд пурепечский язык
     auto: true
   - translation_iso: spa
     name: Idioma purépecha

@@ -15,7 +15,7 @@ translations:
     name: بهوتاني ساين لانجويج
     auto: true
   - translation_iso: ben
-    name: ভুতানেসে সিগন লাঙুয়াগে
+    name: ভুতানেসে ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Bhutanische Gebärdensprache
@@ -27,7 +27,7 @@ translations:
     name: भूटानी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Bhutanese Sign Language
+    name: Bahasa Isyarat Bhutanese
     auto: true
   - translation_iso: jpn
     name: ブータン手話
@@ -39,7 +39,7 @@ translations:
     name: Língua de Sinais Butanesa
     auto: true
   - translation_iso: rus
-    name: бхутанесе сигн лангуагейский язык
+    name: бхутанесейский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Bután

@@ -21,7 +21,7 @@ translations:
     name: تاراهومارا الجنوبية الشرقية
     auto: true
   - translation_iso: ben
-    name: সোউথেয়াসতেরন তারাহুমারা
+    name: দক্ষিণ-পূর্ব তারাহুমারা
     auto: true
   - translation_iso: deu
     name: Southeastern Tarahumara
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणपूर्वी तारहुमारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Southeastern Tarahumara
+    name: Bahasa Tarahumara Tenggara
     auto: true
   - translation_iso: jpn
     name: 東南タラウマラ語
@@ -44,7 +44,7 @@ translations:
     name: Tarahumara do Sudeste
     auto: true
   - translation_iso: rus
-    name: сутеастерн тарахумарский язык
+    name: юго-восточный тарахумарский язык
     auto: true
   - translation_iso: spa
     name: tarahumara suroriental

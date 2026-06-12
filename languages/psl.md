@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة البورتوريكية
     auto: true
   - translation_iso: ben
-    name: পুএরতো রিকান সিগন লাঙুয়াগে
+    name: পুএরতো রিকান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Puertoricanische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: प्यूर्टो रिको सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Puerto Rican Sign Language
+    name: Bahasa Isyarat Puerto Rican
     auto: true
   - translation_iso: jpn
     name: プエルトリコ手話
@@ -43,7 +43,7 @@ translations:
     name: Língua de Sinais Porto-Riquenha
     auto: true
   - translation_iso: rus
-    name: пуерто рикан сигн лангуагейский язык
+    name: пуерто риканский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas puertorriqueña

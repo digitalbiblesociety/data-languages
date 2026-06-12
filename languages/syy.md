@@ -30,7 +30,7 @@ translations:
     name: अल-सय्यद बेडौइन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Al-Sayyid Bedouin Sign Language
+    name: Bahasa Isyarat Al-Sayyid Bedouin
     auto: true
   - translation_iso: jpn
     name: アル＝サイード・ベドウィン手話

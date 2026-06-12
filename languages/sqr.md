@@ -15,7 +15,7 @@ translations:
   - translation_iso: ara
     name: صقلية عربية
   - translation_iso: ben
-    name: সিকুলো আরাবিক
+    name: সিকুলো আরবি
     auto: true
   - translation_iso: deu
     name: Sizilianisch-Arabisch

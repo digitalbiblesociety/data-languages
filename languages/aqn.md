@@ -22,7 +22,7 @@ translations:
     name: اللغة ألتا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন আলতা
+    name: উত্তর আলতা
     auto: true
   - translation_iso: deu
     name: Nord-Alta
@@ -44,7 +44,7 @@ translations:
     name: Alta do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн алтский язык
+    name: северный алтский язык
     auto: true
   - translation_iso: spa
     name: Alta septentrional

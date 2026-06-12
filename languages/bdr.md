@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: الساحل الغربي باجاو
   - translation_iso: ben
-    name: ওয়েসত কোয়াসত বাজাউ
+    name: পশ্চিম কোয়াসত বাজাউ
     auto: true
   - translation_iso: deu
     name: West Coast Bajau

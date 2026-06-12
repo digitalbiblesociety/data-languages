@@ -22,7 +22,7 @@ translations:
     name: اللغة بابار الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ বাবার
+    name: উত্তর বাবার
     auto: true
   - translation_iso: deu
     name: Nord-Babar
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी बाबार
     auto: true
   - translation_iso: ind
-    name: Bahasa North Babar
+    name: Bahasa Babar Utara
     auto: true
   - translation_iso: jpn
     name: 北ババル語
@@ -46,7 +46,7 @@ translations:
     name: Babar do Norte
     auto: true
   - translation_iso: rus
-    name: норт бабарский язык
+    name: северный бабарский язык
     auto: true
   - translation_iso: spa
     name: Babar Septentrional

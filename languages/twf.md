@@ -22,7 +22,7 @@ translations:
     name: توا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তিওয়া
+    name: উত্তর তিওয়া
     auto: true
   - translation_iso: deu
     name: Taos-Dialekt
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तिवा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tiwa
+    name: Bahasa Tiwa Utara
     auto: true
   - translation_iso: jpn
     name: タオス語

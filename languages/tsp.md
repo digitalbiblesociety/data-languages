@@ -21,7 +21,7 @@ translations:
     name: توسيان الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তোউস্সিয়ান
+    name: উত্তর তোউস্সিয়ান
     auto: true
   - translation_iso: deu
     name: Nördliches Toussian
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तूसियन
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Toussian
+    name: Bahasa Toussian Utara
     auto: true
   - translation_iso: jpn
     name: ウィン語
@@ -44,7 +44,7 @@ translations:
     name: Toussian do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн туссианский язык
+    name: северный туссианский язык
     auto: true
   - translation_iso: spa
     name: Toussian septentrional

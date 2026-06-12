@@ -22,7 +22,7 @@ translations:
     name: نجاتك رجال كريول
     auto: true
   - translation_iso: ben
-    name: ঙাতিক মেনস করেওলে
+    name: ঙাতিক মেনস ক্রেওল
     auto: true
   - translation_iso: deu
     name: Ngatik Men’s Creole
@@ -32,7 +32,7 @@ translations:
     name: न्गाटिक मेन्स क्रियोल
     auto: true
   - translation_iso: ind
-    name: "Bahasa Ngatik Men's Creole"
+    name: "Bahasa Kreol Ngatik Men's"
     auto: true
   - translation_iso: jpn
     name: ギャチック語

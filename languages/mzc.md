@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الملغاشية
     auto: true
   - translation_iso: ben
-    name: মাদাগাসকার সিগন লাঙুয়াগে
+    name: মাদাগাসকার ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Madagassische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: मेडागास्कर सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Madagascar Sign Language
+    name: Bahasa Isyarat Madagascar
     auto: true
   - translation_iso: jpn
     name: マダガスカル手話
@@ -42,7 +42,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Madagáscar
   - translation_iso: rus
-    name: мадагаскар сигн лангуагейский язык
+    name: мадагаскарский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Madagascar

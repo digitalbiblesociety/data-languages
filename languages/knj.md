@@ -31,7 +31,7 @@ translations:
     name: पश्चिमी कांजोबाल
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Kanjobal
+    name: Bahasa Kanjobal Barat
     auto: true
   - translation_iso: jpn
     name: アカテク語

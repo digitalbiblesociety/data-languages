@@ -21,7 +21,7 @@ translations:
     name: الطاعة العليا
     auto: true
   - translation_iso: ben
-    name: উপ্পের তাওইহ
+    name: ঊর্ধ্ব তাওইহ
     auto: true
   - translation_iso: deu
     name: "Upper Ta'oih"
@@ -32,7 +32,7 @@ translations:
     name: "ऊपरी ता'ओइह"
     auto: true
   - translation_iso: ind
-    name: "Bahasa Upper Ta'oih"
+    name: "Bahasa Ta'oih Hulu"
     auto: true
   - translation_iso: jpn
     name: タオイ語
@@ -44,7 +44,7 @@ translations:
     name: "Ta'oih Setentrional"
     auto: true
   - translation_iso: rus
-    name: уппер таоихский язык
+    name: верхний таоихский язык
     auto: true
   - translation_iso: spa
     name: "Ta'oih septentrional"

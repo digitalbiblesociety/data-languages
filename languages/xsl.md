@@ -22,7 +22,7 @@ translations:
     name: ديني كيه
     auto: true
   - translation_iso: ben
-    name: সোউথ সলাভেয়
+    name: দক্ষিণ সলাভেয়
     auto: true
   - translation_iso: deu
     name: Denetaca
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी स्लेवी
     auto: true
   - translation_iso: ind
-    name: Bahasa South Slavey
+    name: Bahasa Slavey Selatan
     auto: true
   - translation_iso: jpn
     name: 南スレイビー語
@@ -43,7 +43,7 @@ translations:
     name: Slavey do Sul
     auto: true
   - translation_iso: rus
-    name: сут славейский язык
+    name: южный славейский язык
     auto: true
   - translation_iso: spa
     name: denetaca

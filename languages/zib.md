@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الزيمبابوية
   - translation_iso: ben
-    name: জিমবাবওয়ে সিগন লাঙুয়াগে
+    name: জিমবাবওয়ে ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Simbabwische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: ज़िम्बाब्वे सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Zimbabwe Sign Language
+    name: Bahasa Isyarat Zimbabwe
     auto: true
   - translation_iso: jpn
     name: ジンバブエ手話

@@ -21,7 +21,7 @@ translations:
     name: نوني الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন নুনি
+    name: উত্তর নুনি
     auto: true
   - translation_iso: deu
     name: Nördliches Nuni
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी नुनी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Nuni
+    name: Bahasa Nuni Utara
     auto: true
   - translation_iso: jpn
     name: 北ヌニ語
@@ -44,7 +44,7 @@ translations:
     name: Nuni Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн нунийский язык
+    name: северный нунийский язык
     auto: true
   - translation_iso: spa
     name: Nuni Septentrional

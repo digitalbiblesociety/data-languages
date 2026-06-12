@@ -20,7 +20,7 @@ translations:
     name: بيسيني الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ পিকেনে
+    name: উত্তর পিকেনে
     auto: true
   - translation_iso: deu
     name: Nordpikenisch
@@ -30,7 +30,7 @@ translations:
     name: उत्तरी पिकेने
     auto: true
   - translation_iso: ind
-    name: Bahasa North Picene
+    name: Bahasa Picene Utara
     auto: true
   - translation_iso: jpn
     name: 北ピケネ語

@@ -19,7 +19,7 @@ translations:
     name: لغة الاويان يجن انجواجي
     auto: true
   - translation_iso: ben
-    name: মালাওয়িয়ান সিগন লাঙুয়াগে
+    name: মালাওয়িয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Malawische Gebärdensprache
@@ -29,7 +29,7 @@ translations:
     name: मलावी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Malawian Sign Language
+    name: Bahasa Isyarat Malawian
     auto: true
   - translation_iso: jpn
     name: マラウイ手話

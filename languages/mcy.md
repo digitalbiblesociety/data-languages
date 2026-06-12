@@ -21,7 +21,7 @@ translations:
     name: لغة ساوث واتوت
     auto: true
   - translation_iso: ben
-    name: সোউথ ওয়াতুত
+    name: দক্ষিণ ওয়াতুত
     auto: true
   - translation_iso: deu
     name: South Watut
@@ -32,7 +32,7 @@ translations:
     name: दक्षिण वातुत
     auto: true
   - translation_iso: ind
-    name: Bahasa South Watut
+    name: Bahasa Watut Selatan
     auto: true
   - translation_iso: jpn
     name: サウス・ワツゥト語
@@ -44,7 +44,7 @@ translations:
     name: Watut do Sul
     auto: true
   - translation_iso: rus
-    name: сут ватутский язык
+    name: южный ватутский язык
     auto: true
   - translation_iso: spa
     name: Watut meridional

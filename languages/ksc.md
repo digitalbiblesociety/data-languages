@@ -21,7 +21,7 @@ translations:
     name: كالينجا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কালিঙা
+    name: দক্ষিণ কালিঙা
     auto: true
   - translation_iso: deu
     name: Süd-Kalinga
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी कलिंगा
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Kalinga
+    name: Bahasa Kalinga Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・カリンガ語
@@ -44,7 +44,7 @@ translations:
     name: Kalinga meridional
     auto: true
   - translation_iso: rus
-    name: сутерн калингский язык
+    name: южный калингский язык
     auto: true
   - translation_iso: spa
     name: Kalinga Meridional

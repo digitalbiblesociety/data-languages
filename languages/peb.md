@@ -22,7 +22,7 @@ translations:
     name: اللغة بومو الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন পোমো
+    name: পূর্ব পোমো
     auto: true
   - translation_iso: deu
     name: Östliches Pomo

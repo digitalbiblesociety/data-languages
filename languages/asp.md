@@ -29,7 +29,7 @@ translations:
     name: अल्जीरियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Algerian Sign Language
+    name: Bahasa Isyarat Algerian
     auto: true
   - translation_iso: jpn
     name: アルジェリア手話

@@ -21,7 +21,7 @@ translations:
     name: تاراهومارا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তারাহুমারা
+    name: উত্তর তারাহুমারা
     auto: true
   - translation_iso: deu
     name: Northern Tarahumara
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तराहुमारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tarahumara
+    name: Bahasa Tarahumara Utara
     auto: true
   - translation_iso: jpn
     name: 北部タラウマラ語
@@ -44,7 +44,7 @@ translations:
     name: Tarahumara do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн тарахумарский язык
+    name: северный тарахумарский язык
     auto: true
   - translation_iso: spa
     name: Tarahumara del Norte

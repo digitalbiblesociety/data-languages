@@ -21,7 +21,7 @@ translations:
     name: باي الجنوبي
     auto: true
   - translation_iso: ben
-    name: সোউথেরন বাই
+    name: দক্ষিণ বাই
     auto: true
   - translation_iso: deu
     name: Southern Bai
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी बाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Bai
+    name: Bahasa Bai Selatan
     auto: true
   - translation_iso: jpn
     name: 南バイ語
@@ -44,7 +44,7 @@ translations:
     name: Bai meridional
     auto: true
   - translation_iso: rus
-    name: сутерн баийский язык
+    name: южный баийский язык
     auto: true
   - translation_iso: spa
     name: Bai del sur

@@ -22,7 +22,7 @@ translations:
     name: الجريبو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন গরেবো
+    name: উত্তর গরেবো
     auto: true
   - translation_iso: deu
     name: Nördliches Grebo
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी ग्रेबो
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Grebo
+    name: Bahasa Grebo Utara
     auto: true
   - translation_iso: jpn
     name: 北グレボ語
@@ -45,7 +45,7 @@ translations:
     name: grebo do norte
     auto: true
   - translation_iso: rus
-    name: нортерн гребоский язык
+    name: северный гребоский язык
     auto: true
   - translation_iso: spa
     name: Grebo septentrional

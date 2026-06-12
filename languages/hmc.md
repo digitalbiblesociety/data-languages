@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ هويشوي الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল হুইশুই হমোং
+    name: মধ্য হুইশুই হমোং
     auto: true
   - translation_iso: deu
     name: Zentrales Huishui-Hmong
@@ -33,7 +33,7 @@ translations:
     name: मध्य हुइशुई ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Huishui Hmong
+    name: Bahasa Huishui Hmong Tengah
     auto: true
   - translation_iso: jpn
     name: 中部恵水フモン語
@@ -44,7 +44,7 @@ translations:
     name: Hmong Huishui Central
     auto: true
   - translation_iso: rus
-    name: кентрал хуишуи хмонгский язык
+    name: центральный хуишуи хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Huishui central

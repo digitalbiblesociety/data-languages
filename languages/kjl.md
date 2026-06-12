@@ -21,7 +21,7 @@ translations:
     name: لغة غرب باربات خام
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন পারবাতে খাম
+    name: পশ্চিম পারবাতে খাম
     auto: true
   - translation_iso: deu
     name: West-Parbate-Kham
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी पर्बते खाम
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Parbate Kham
+    name: Bahasa Parbate Kham Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタン・パルバテ・ハム語
@@ -44,7 +44,7 @@ translations:
     name: Kham Parbate Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн парбате хамский язык
+    name: западный парбате хамский язык
     auto: true
   - translation_iso: spa
     name: Kham Parbate Occidental

@@ -21,7 +21,7 @@ translations:
     name: اللغة الرومانية للإشارة
     auto: true
   - translation_iso: ben
-    name: রোমানিয়ান সিগন লাঙুয়াগে
+    name: রোমানিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Rumänische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: रोमानियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Romanian Sign Language
+    name: Bahasa Isyarat Romanian
     auto: true
   - translation_iso: jpn
     name: ルーマニア手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Romena
     auto: true
   - translation_iso: rus
-    name: романиан сигн лангуагейский язык
+    name: романианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas rumana

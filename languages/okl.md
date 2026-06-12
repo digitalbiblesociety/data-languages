@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لغة إشارة كينتش القديمة
   - translation_iso: ben
-    name: ওলদ কেনতিশ সিগন লাঙুয়াগে
+    name: ওলদ কেনতিশ ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Alt-Kentische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: पुरानी केंटिश सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Old Kentish Sign Language
+    name: Bahasa Isyarat Old Kentish
     auto: true
   - translation_iso: jpn
     name: 古ケント手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Antiga de Kent
     auto: true
   - translation_iso: rus
-    name: олд кентиш сигн лангуагейский язык
+    name: олд кентишский жестовый язык
     auto: true
   - translation_iso: spa
     name: Antiguo lenguaje de señas de Kent

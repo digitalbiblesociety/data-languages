@@ -22,7 +22,7 @@ translations:
     name: سينترال ناهواتل
     auto: true
   - translation_iso: ben
-    name: কেনতরাল নাহুয়াতল
+    name: মধ্য নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: Zentral-Nahuatl
@@ -32,7 +32,7 @@ translations:
     name: मध्य नाहुआतल
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Nahuatl
+    name: Bahasa Nahuatl Tengah
     auto: true
   - translation_iso: jpn
     name: 中央ナワトル語

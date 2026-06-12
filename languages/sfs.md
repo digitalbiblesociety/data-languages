@@ -31,7 +31,7 @@ translations:
     name: दक्षिण अफ़्रीकी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa South African Sign Language
+    name: Bahasa Isyarat African Selatan
     auto: true
   - translation_iso: jpn
     name: 南アフリカ手話

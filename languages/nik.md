@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: दक्षिण निकोबारी भाषा
   - translation_iso: ind
-    name: Bahasa Southern Nicobarese
+    name: Bahasa Nicobarese Selatan
     auto: true
   - translation_iso: jpn
     name: 南ニコバル語
@@ -42,7 +42,7 @@ translations:
     name: Nicobarês do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн никобаресейский язык
+    name: южный никобаресейский язык
     auto: true
   - translation_iso: spa
     name: Nicobaresino meridional

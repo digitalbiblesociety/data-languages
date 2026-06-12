@@ -22,7 +22,7 @@ translations:
     name: بينوكيدنون الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন বিনুকিদনোন
+    name: উত্তর বিনুকিদনোন
     auto: true
   - translation_iso: deu
     name: Karolanisch
@@ -44,7 +44,7 @@ translations:
     name: Binukidnon setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн бинукиднонский язык
+    name: северный бинукиднонский язык
     auto: true
   - translation_iso: spa
     name: idioma carolano

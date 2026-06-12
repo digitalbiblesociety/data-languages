@@ -22,7 +22,7 @@ translations:
     name: ساوثويسترن دينكا
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন দিনকা
+    name: দক্ষিণ-পশ্চিম দিনকা
     auto: true
   - translation_iso: deu
     name: Südwest-Dinka
@@ -32,7 +32,7 @@ translations:
     name: दक्षिण-पश्चिमी डिंका
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Dinka
+    name: Bahasa Dinka Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西ディンカ語
@@ -43,7 +43,7 @@ translations:
     name: Dinka Sudoeste
     auto: true
   - translation_iso: rus
-    name: сутвестерн динкский язык
+    name: юго-западный динкский язык
     auto: true
   - translation_iso: spa
     name: dinka sudoccidental

@@ -22,7 +22,7 @@ translations:
     name: ديار أسمات الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ আসমাত
+    name: উত্তর আসমাত
     auto: true
   - translation_iso: deu
     name: Nord-Asmat
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी अस्मात
     auto: true
   - translation_iso: ind
-    name: Bahasa North Asmat
+    name: Bahasa Asmat Utara
     auto: true
   - translation_iso: jpn
     name: 北アスマット語
@@ -45,7 +45,7 @@ translations:
     name: Asmat do Norte
     auto: true
   - translation_iso: rus
-    name: норт асматский язык
+    name: северный асматский язык
     auto: true
   - translation_iso: spa
     name: Asmat septentrional

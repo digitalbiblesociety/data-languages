@@ -21,7 +21,7 @@ translations:
     name: اللغة بوبو مادوري الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন বোবো মাদারে
+    name: উত্তর বোবো মাদারে
     auto: true
   - translation_iso: deu
     name: Boboda
@@ -31,7 +31,7 @@ translations:
     name: उत्तरी बोबो मादारे
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Bobo Madaré
+    name: Bahasa Bobo Madaré Utara
     auto: true
   - translation_iso: jpn
     name: 北ボボ・マダレ語
@@ -43,7 +43,7 @@ translations:
     name: Bobo Madaré setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн бобо мадарейский язык
+    name: северный бобо мадарейский язык
     auto: true
   - translation_iso: spa
     name: Bobo Madaré Septentrional

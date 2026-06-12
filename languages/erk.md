@@ -22,7 +22,7 @@ translations:
     name: الإفاتي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ এফাতে
+    name: দক্ষিণ এফাতে
     auto: true
   - translation_iso: deu
     name: Süd-Efate
@@ -33,7 +33,7 @@ translations:
     name: दक्षिण एफाते
     auto: true
   - translation_iso: ind
-    name: Bahasa South Efate
+    name: Bahasa Efate Selatan
     auto: true
   - translation_iso: jpn
     name: 南エファテ語
@@ -43,7 +43,7 @@ translations:
     name: efate do sul
     auto: true
   - translation_iso: rus
-    name: сут ефатейский язык
+    name: южный ефатейский язык
     auto: true
   - translation_iso: spa
     name: Idioma nafsan

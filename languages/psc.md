@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة الفارسية
     auto: true
   - translation_iso: ben
-    name: পেরসিয়ান সিগন লাঙুয়াগে
+    name: পেরসিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Iranische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: ईरानी सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Persian Sign Language
+    name: Bahasa Isyarat Persian
     auto: true
   - translation_iso: jpn
     name: ペルシャ手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Persa
     auto: true
   - translation_iso: rus
-    name: персиан сигн лангуагейский язык
+    name: персианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas persa

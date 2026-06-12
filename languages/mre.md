@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في مارثا فينيارد
   - translation_iso: ben
-    name: মারথাস ভিনেয়ারদ সিগন লাঙুয়াগে
+    name: মারথাস ভিনেয়ারদ ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Martha’s Vineyards Gebärdensprache
@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: मार्था की वाइनयार्ड साइन भाषा
   - translation_iso: ind
-    name: "Bahasa Martha's Vineyard Sign Language"
+    name: "Bahasa Isyarat Martha's Vineyard"
     auto: true
   - translation_iso: jpn
     name: マーサズ・ヴィンヤード手話

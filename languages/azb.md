@@ -31,7 +31,7 @@ translations:
     name: दक्षिणी अज़रबैजानी
     auto: true
   - translation_iso: ind
-    name: Bahasa South Azerbaijani
+    name: Bahasa Azerbaijani Selatan
     auto: true
   - translation_iso: jpn
     name: 南アゼルバイジャン語

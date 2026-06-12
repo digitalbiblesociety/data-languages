@@ -21,7 +21,7 @@ translations:
     name: لغة ووته ينترال اندا
     auto: true
   - translation_iso: ben
-    name: সোউথ কেনতরাল বানদা
+    name: দক্ষিণ মধ্য বানদা
     auto: true
   - translation_iso: deu
     name: Südzentral-Banda
@@ -31,7 +31,7 @@ translations:
     name: दक्षिण मध्य बांदा
     auto: true
   - translation_iso: ind
-    name: Bahasa South Central Banda
+    name: Bahasa Banda Selatan Tengah
     auto: true
   - translation_iso: jpn
     name: サウス・セントラル・バンダ語

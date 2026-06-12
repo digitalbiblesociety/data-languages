@@ -22,7 +22,7 @@ translations:
     name: كايا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন কায়াহ
+    name: পশ্চিম কায়াহ
     auto: true
   - translation_iso: deu
     name: West-Kayah
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी कायाह
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Kayah
+    name: Bahasa Kayah Barat
     auto: true
   - translation_iso: jpn
     name: 西カヤ語
@@ -45,7 +45,7 @@ translations:
     name: Kayah ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн каяхский язык
+    name: западный каяхский язык
     auto: true
   - translation_iso: spa
     name: Kayah Occidental

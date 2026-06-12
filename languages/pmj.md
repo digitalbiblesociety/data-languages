@@ -21,7 +21,7 @@ translations:
     name: لغة بومي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পুমি
+    name: দক্ষিণ পুমি
     auto: true
   - translation_iso: deu
     name: Südliches Pumi
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी पुमी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Pumi
+    name: Bahasa Pumi Selatan
     auto: true
   - translation_iso: jpn
     name: 南プミ語
@@ -44,7 +44,7 @@ translations:
     name: Pumi Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн пумийский язык
+    name: южный пумийский язык
     auto: true
   - translation_iso: spa
     name: Pumi meridional

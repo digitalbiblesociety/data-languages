@@ -22,7 +22,7 @@ translations:
     name: لغة موفو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ মোফু
+    name: উত্তর মোফু
     auto: true
   - translation_iso: deu
     name: North Mofu
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी मोफू
     auto: true
   - translation_iso: ind
-    name: Bahasa North Mofu
+    name: Bahasa Mofu Utara
     auto: true
   - translation_iso: jpn
     name: 北モフ語
@@ -45,7 +45,7 @@ translations:
     name: Mofu do Norte
     auto: true
   - translation_iso: rus
-    name: норт мофуский язык
+    name: северный мофуский язык
     auto: true
   - translation_iso: spa
     name: mofu septentrional

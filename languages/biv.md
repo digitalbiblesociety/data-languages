@@ -22,7 +22,7 @@ translations:
     name: بيريفور الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন বিরিফোর
+    name: দক্ষিণ বিরিফোর
     auto: true
   - translation_iso: deu
     name: Southern Birifor
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी बिरिफोर
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Birifor
+    name: Bahasa Birifor Selatan
     auto: true
   - translation_iso: jpn
     name: 南ビリフォル語
@@ -45,7 +45,7 @@ translations:
     name: Birifor meridional
     auto: true
   - translation_iso: rus
-    name: сутерн бирифорский язык
+    name: южный бирифорский язык
     auto: true
   - translation_iso: spa
     name: Birifor del sur

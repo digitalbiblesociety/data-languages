@@ -21,7 +21,7 @@ translations:
     name: اللغة سوبانين الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন সুবানেন
+    name: উত্তর সুবানেন
     auto: true
   - translation_iso: deu
     name: Northern Subanen
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी सुबानेन
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Subanen
+    name: Bahasa Subanen Utara
     auto: true
   - translation_iso: jpn
     name: スバノン語
@@ -44,7 +44,7 @@ translations:
     name: Subanen Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн субаненский язык
+    name: северный субаненский язык
     auto: true
   - translation_iso: spa
     name: Subanen septentrional

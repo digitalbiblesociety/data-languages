@@ -27,7 +27,7 @@ translations:
   - translation_iso: hin
     name: ब्रुंका सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Brunca Sign Language
+    name: Bahasa Isyarat Brunca
     auto: true
   - translation_iso: jpn
     name: ブルンカ手話
@@ -39,7 +39,7 @@ translations:
     name: Língua de Sinais Brunca
     auto: true
   - translation_iso: rus
-    name: брунка сигн лангуагейский язык
+    name: брункский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas brunca

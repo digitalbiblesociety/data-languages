@@ -22,7 +22,7 @@ translations:
     name: الشيانغ الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কিয়াং
+    name: উত্তর কিয়াং
     auto: true
   - translation_iso: deu
     name: Nördliches Qiang
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी चियांग
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Qiang
+    name: Bahasa Qiang Utara
     auto: true
   - translation_iso: jpn
     name: 北部チャン語

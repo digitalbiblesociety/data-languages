@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة لبابوا غينيا الجديدة
   - translation_iso: ben
-    name: পাপুয়া নেওয় গুইনেয়ান সিগন লাঙুয়াগে
+    name: পাপুয়া নেওয় গুইনেয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Papua-Neuguinea-Gebärdensprache
@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: पापुआ न्यू गिनी सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Papua New Guinean Sign Language
+    name: Bahasa Isyarat Papua New Guinean
     auto: true
   - translation_iso: jpn
     name: パプア・ニューギニア手話
@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais da Papua-Nova Guiné
   - translation_iso: rus
-    name: папуа нев гуинеан сигн лангуагейский язык
+    name: папуа нев гуинеанский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de signos de Papúa Nueva Guinea

@@ -22,7 +22,7 @@ translations:
     name: أسمات الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল আসমাত
+    name: মধ্য আসমাত
     auto: true
   - translation_iso: deu
     name: Zentrales Asmat
@@ -33,7 +33,7 @@ translations:
     name: मध्य अस्मात
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Asmat
+    name: Bahasa Asmat Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・アスマット語
@@ -45,7 +45,7 @@ translations:
     name: Asmat central
     auto: true
   - translation_iso: rus
-    name: кентрал асматский язык
+    name: центральный асматский язык
     auto: true
   - translation_iso: spa
     name: Asmat Central

@@ -22,7 +22,7 @@ translations:
     name: كوسكوكويم العليا
     auto: true
   - translation_iso: ben
-    name: উপ্পের কুসকোকওয়িম
+    name: ঊর্ধ্ব কুসকোকওয়িম
     auto: true
   - translation_iso: deu
     name: Upper Kuskokwim
@@ -32,7 +32,7 @@ translations:
     name: ऊपरी कुस्कोक्विम
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Kuskokwim
+    name: Bahasa Kuskokwim Hulu
     auto: true
   - translation_iso: jpn
     name: アッパー・クスコクウィム語

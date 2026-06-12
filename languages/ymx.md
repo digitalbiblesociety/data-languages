@@ -21,7 +21,7 @@ translations:
     name: لغة موجي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন মুজি
+    name: উত্তর মুজি
     auto: true
   - translation_iso: deu
     name: nördliches Muji
@@ -31,7 +31,7 @@ translations:
     name: उत्तरी मूजी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Muji
+    name: Bahasa Muji Utara
     auto: true
   - translation_iso: jpn
     name: 北部ムジ語
@@ -43,7 +43,7 @@ translations:
     name: muji do norte
     auto: true
   - translation_iso: rus
-    name: нортерн муджийский язык
+    name: северный муджийский язык
     auto: true
   - translation_iso: spa
     name: Muji septentrional

@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لغة إشارة الإنويت
   - translation_iso: ben
-    name: ইনুইত সিগন লাঙুয়াগে
+    name: ইনুইত ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Inuit-Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: इनुइट सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Inuit Sign Language
+    name: Bahasa Isyarat Inuit
     auto: true
   - translation_iso: jpn
     name: イヌイット手話

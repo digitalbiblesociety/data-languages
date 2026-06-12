@@ -21,7 +21,7 @@ translations:
     name: إيها بيسد بيدجن
     auto: true
   - translation_iso: ben
-    name: ইহা বাসেদ পিদগিন
+    name: ইহা বাসেদ পিজিন
     auto: true
   - translation_iso: deu
     name: Iha-basiertes Pidgin
@@ -43,7 +43,7 @@ translations:
     name: Pidgin Baseado no Iha
     auto: true
   - translation_iso: rus
-    name: иха басед пидгинский язык
+    name: иха баседский пиджин
     auto: true
   - translation_iso: spa
     name: Pidgin basado en Iha

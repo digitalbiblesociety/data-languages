@@ -21,7 +21,7 @@ translations:
     name: جنوب نجباندي
     auto: true
   - translation_iso: ben
-    name: সোউথেরন ংবানদি
+    name: দক্ষিণ ংবানদি
     auto: true
   - translation_iso: deu
     name: Süd-Ngbandi
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी न्गबांडी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Ngbandi
+    name: Bahasa Ngbandi Selatan
     auto: true
   - translation_iso: jpn
     name: 南ングバンディ語
@@ -44,7 +44,7 @@ translations:
     name: Ngbandi do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн нгбандийский язык
+    name: южный нгбандийский язык
     auto: true
   - translation_iso: spa
     name: Ngbandi meridional

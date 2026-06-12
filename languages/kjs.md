@@ -21,7 +21,7 @@ translations:
     name: لغة كيوا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত কেওয়া
+    name: পূর্ব কেওয়া
     auto: true
   - translation_iso: deu
     name: Ost-Kewa
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी केवा
     auto: true
   - translation_iso: ind
-    name: Bahasa East Kewa
+    name: Bahasa Kewa Timur
     auto: true
   - translation_iso: jpn
     name: イースト・ケワ語
@@ -45,7 +45,7 @@ translations:
     name: Kewa Oriental
     auto: true
   - translation_iso: rus
-    name: еаст кевский язык
+    name: восточный кевский язык
     auto: true
   - translation_iso: spa
     name: Kewa Oriental

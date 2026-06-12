@@ -22,7 +22,7 @@ translations:
     name: لاوا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন লাওয়া
+    name: পশ্চিম লাওয়া
     auto: true
   - translation_iso: deu
     name: West-Lawa
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी लावा
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Lawa
+    name: Bahasa Lawa Barat
     auto: true
   - translation_iso: jpn
     name: 西ラワ語
@@ -45,7 +45,7 @@ translations:
     name: Lawa ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн лавский язык
+    name: западный лавский язык
     auto: true
   - translation_iso: spa
     name: Lawa Occidental

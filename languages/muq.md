@@ -22,7 +22,7 @@ translations:
     name: لغة ميـاو شيانغشي الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কসিয়াংকসি মিয়াও
+    name: পূর্ব কসিয়াংকসি মিয়াও
     auto: true
   - translation_iso: deu
     name: Ost-Xiangxi-Miao
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी श्यांगशी मियाओ
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Xiangxi Miao
+    name: Bahasa Xiangxi Miao Timur
     auto: true
   - translation_iso: jpn
     name: 東部湘西苗語
@@ -45,7 +45,7 @@ translations:
     name: miao xiangxi oriental
     auto: true
   - translation_iso: rus
-    name: еастерн ксиангкси миаоский язык
+    name: восточный ксиангкси миаоский язык
     auto: true
   - translation_iso: spa
     name: Miao del Xiangxi Oriental

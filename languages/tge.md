@@ -21,7 +21,7 @@ translations:
     name: تامانغ غوركها الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন গোরখা তামাং
+    name: পূর্ব গোরখা তামাং
     auto: true
   - translation_iso: deu
     name: Eastern Gorkha Tamang
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी गोरखा तामाङ
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Gorkha Tamang
+    name: Bahasa Gorkha Tamang Timur
     auto: true
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語
@@ -44,7 +44,7 @@ translations:
     name: Tamang de Gorkha Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн горха тамангский язык
+    name: восточный горха тамангский язык
     auto: true
   - translation_iso: spa
     name: Tamang Gorkha oriental

@@ -22,7 +22,7 @@ translations:
     name: اللغة الإشارة الأوروغوايانية
     auto: true
   - translation_iso: ben
-    name: উরুগুয়ায়ান সিগন লাঙুয়াগে
+    name: উরুগুয়ায়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Uruguayische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: उरुग्वे सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Uruguayan Sign Language
+    name: Bahasa Isyarat Uruguayan
     auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
@@ -42,7 +42,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais do Uruguai
   - translation_iso: rus
-    name: уругуаян сигн лангуагейский язык
+    name: уругуаянский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas uruguaya

@@ -21,7 +21,7 @@ translations:
     name: كانكاناي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কানকানায়
+    name: উত্তর কানকানায়
     auto: true
   - translation_iso: deu
     name: Nord-Kankanay
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी कंकनाय
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Kankanay
+    name: Bahasa Kankanay Utara
     auto: true
   - translation_iso: jpn
     name: 北部カンカナイ語
@@ -44,7 +44,7 @@ translations:
     name: Kankanay do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн канканайский язык
+    name: северный канканайский язык
     auto: true
   - translation_iso: spa
     name: Kankanay septentrional

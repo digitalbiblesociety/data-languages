@@ -18,7 +18,7 @@ translations:
     name: بريبري لغة الإشارة
     auto: true
   - translation_iso: ben
-    name: বরিবরি সিগন লাঙুয়াগে
+    name: বরিবরি ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Bribri-Gebärdensprache
@@ -27,7 +27,7 @@ translations:
   - translation_iso: hin
     name: ब्रिब्री सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Bribri Sign Language
+    name: Bahasa Isyarat Bribri
     auto: true
   - translation_iso: jpn
     name: ブリブリ手話

@@ -23,7 +23,7 @@ translations:
     name: يديش الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন য়িদ্দিশ
+    name: পূর্ব য়িদ্দিশ
     auto: true
   - translation_iso: deu
     name: Ostjiddisch
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी यिडिश
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Yiddish
+    name: Bahasa Yiddish Timur
     auto: true
   - translation_iso: jpn
     name: 東イディッシュ語

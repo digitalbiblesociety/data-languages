@@ -23,7 +23,7 @@ translations:
     name: اللغة باشتو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পাশতো
+    name: উত্তর পাশতো
     auto: true
   - translation_iso: deu
     name: Nordpaschtu

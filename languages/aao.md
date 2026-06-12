@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة صحراوية
   - translation_iso: ben
-    name: আলগেরিয়ান সাহারান আরাবিক
+    name: আলগেরিয়ান সাহারান আরবি
     auto: true
   - translation_iso: deu
     name: Sahara-Arabisch

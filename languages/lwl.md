@@ -22,7 +22,7 @@ translations:
     name: لغة ياستيرن اوا
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন লাওয়া
+    name: পূর্ব লাওয়া
     auto: true
   - translation_iso: deu
     name: Eastern Lawa
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी लावा
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Lawa
+    name: Bahasa Lawa Timur
     auto: true
   - translation_iso: jpn
     name: 東ラワ語
@@ -45,7 +45,7 @@ translations:
     name: Lawa oriental
     auto: true
   - translation_iso: rus
-    name: еастерн лавский язык
+    name: восточный лавский язык
     auto: true
   - translation_iso: spa
     name: Lawa oriental

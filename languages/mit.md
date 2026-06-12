@@ -22,7 +22,7 @@ translations:
     name: لغة مازاتك بويبلا الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন পুএবলা মিকসতেক
+    name: দক্ষিণ পুএবলা মিকসতেক
     auto: true
   - translation_iso: deu
     name: Southern Puebla Mixtec
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी प्वेब्ला मिश्तेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Puebla Mixtec
+    name: Bahasa Puebla Mixtec Selatan
     auto: true
   - translation_iso: jpn
     name: 南プエブラ・ミステク語

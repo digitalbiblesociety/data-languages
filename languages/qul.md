@@ -23,7 +23,7 @@ translations:
     name: اللغة كويتشوا بوليفيا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ বোলিভিয়ান কুএচুয়া
+    name: উত্তর বোলিভিয়ান কুএচুয়া
     auto: true
   - translation_iso: deu
     name: nordbolivianisches Quechua
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी बोलिवियाई क्वेचुआ
     auto: true
   - translation_iso: ind
-    name: Bahasa North Bolivian Quechua
+    name: Bahasa Bolivian Quechua Utara
     auto: true
   - translation_iso: jpn
     name: 北ボリビアンケチュア語

@@ -22,7 +22,7 @@ translations:
     name: نورثرن داجارا
     auto: true
   - translation_iso: ben
-    name: নোরথেরন দাগারা
+    name: উত্তর দাগারা
     auto: true
   - translation_iso: deu
     name: Nord-Dagara
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी दगारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Dagara
+    name: Bahasa Dagara Utara
     auto: true
   - translation_iso: jpn
     name: ノーザン・ダガラ語
@@ -46,7 +46,7 @@ translations:
     name: Dagara Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн дагарский язык
+    name: северный дагарский язык
     auto: true
   - translation_iso: spa
     name: Dagara del Norte

@@ -22,7 +22,7 @@ translations:
     name: لغة بينوكدنون الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন বিনুকিদনোন
+    name: দক্ষিণ বিনুকিদনোন
     auto: true
   - translation_iso: deu
     name: Süd-Binukidnon
@@ -45,7 +45,7 @@ translations:
     name: binukidnon do sul
     auto: true
   - translation_iso: rus
-    name: сутерн бинукиднонский язык
+    name: южный бинукиднонский язык
     auto: true
   - translation_iso: spa
     name: Binukidnon del Sur

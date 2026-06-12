@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لغة إشارة السهول للهنود الحمر
   - translation_iso: ben
-    name: পলাইনস ইনদিয়ান সিগন লাঙুয়াগে
+    name: পলাইনস ইনদিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Gebärdensprache der Prärie-Indianer
@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: मैदान भारतीय सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Plains Indian Sign Language
+    name: Bahasa Isyarat Plains Indian
     auto: true
   - translation_iso: jpn
     name: 平原インディアン手話

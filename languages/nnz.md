@@ -32,7 +32,7 @@ translations:
     name: न्दान्दा
     auto: true
   - translation_iso: ind
-    name: "Bahasa Nda'nda"
+    name: "Bahasa Nda'nda'"
     auto: true
   - translation_iso: jpn
     name: ンダンダ語

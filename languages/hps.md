@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: हवाई सांकेतिक भाषा
   - translation_iso: ind
-    name: "Bahasa Hawai'i Sign Language"
+    name: "Bahasa Isyarat Hawai'i"
     auto: true
   - translation_iso: jpn
     name: ハワイ・ピジン手話

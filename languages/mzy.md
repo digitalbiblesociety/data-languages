@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الموزمبيقية
     auto: true
   - translation_iso: ben
-    name: মোজামবিকান সিগন লাঙুয়াগে
+    name: মোজামবিকান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Mosambikanische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: मोज़ाम्बिक सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Mozambican Sign Language
+    name: Bahasa Isyarat Mozambican
     auto: true
   - translation_iso: jpn
     name: モザンビーク手話

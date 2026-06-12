@@ -22,7 +22,7 @@ translations:
     name: لغة ورته يفاتي
     auto: true
   - translation_iso: ben
-    name: নোরথ এফাতে
+    name: উত্তর এফাতে
     auto: true
   - translation_iso: deu
     name: Nord-Efate
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी एफाते
     auto: true
   - translation_iso: ind
-    name: Bahasa North Efate
+    name: Bahasa Efate Utara
     auto: true
   - translation_iso: jpn
     name: グナ語
@@ -42,7 +42,7 @@ translations:
     name: Efate do Norte
     auto: true
   - translation_iso: rus
-    name: норт ефатейский язык
+    name: северный ефатейский язык
     auto: true
   - translation_iso: spa
     name: Efate del norte

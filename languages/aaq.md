@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: آبيناكي الشرقي
   - translation_iso: ben
-    name: এয়াসতেরন আবনাকি
+    name: পূর্ব আবনাকি
     auto: true
   - translation_iso: deu
     name: Östliche Abenaki
@@ -31,7 +31,7 @@ translations:
     name: पूर्वी अब्नाकी
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Abnaki
+    name: Bahasa Abnaki Timur
     auto: true
   - translation_iso: jpn
     name: 東アベナキ語

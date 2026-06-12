@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: اللهجة العمانية
   - translation_iso: ben
-    name: ওমানি আরাবিক
+    name: ওমানি আরবি
     auto: true
   - translation_iso: deu
     name: Omanisches Arabisch

@@ -22,7 +22,7 @@ translations:
     name: ويست أويفيان
     auto: true
   - translation_iso: ben
-    name: ওয়েসত উভেয়ান
+    name: পশ্চিম উভেয়ান
     auto: true
   - translation_iso: deu
     name: Westuveanisch
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी उवेआन
     auto: true
   - translation_iso: ind
-    name: Bahasa West Uvean
+    name: Bahasa Uvean Barat
     auto: true
   - translation_iso: jpn
     name: 西ウベア語

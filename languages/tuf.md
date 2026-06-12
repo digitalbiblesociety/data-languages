@@ -21,7 +21,7 @@ translations:
     name: توني بو المركزية
     auto: true
   - translation_iso: ben
-    name: কেনতরাল তুনেবো
+    name: মধ্য তুনেবো
     auto: true
   - translation_iso: deu
     name: Zentrales Tunebo
@@ -32,7 +32,7 @@ translations:
     name: मध्य तुनेबो
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Tunebo
+    name: Bahasa Tunebo Tengah
     auto: true
   - translation_iso: jpn
     name: トゥネボ語
@@ -44,7 +44,7 @@ translations:
     name: Tunebo Central
     auto: true
   - translation_iso: rus
-    name: кентрал тунебоский язык
+    name: центральный тунебоский язык
     auto: true
   - translation_iso: spa
     name: Tunebo central

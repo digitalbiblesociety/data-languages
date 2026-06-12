@@ -21,7 +21,7 @@ translations:
     name: نورته واهغي
     auto: true
   - translation_iso: ben
-    name: নোরথ ওয়াহগি
+    name: উত্তর ওয়াহগি
     auto: true
   - translation_iso: deu
     name: Nord-Wahgi
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी वाहगी
     auto: true
   - translation_iso: ind
-    name: Bahasa North Wahgi
+    name: Bahasa Wahgi Utara
     auto: true
   - translation_iso: jpn
     name: 北ワギ語
@@ -44,7 +44,7 @@ translations:
     name: Wahgi do Norte
     auto: true
   - translation_iso: rus
-    name: норт вахгийский язык
+    name: северный вахгийский язык
     auto: true
   - translation_iso: spa
     name: Wahgi del Norte

@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة التايلندية
     auto: true
   - translation_iso: ben
-    name: থাই সিগন লাঙুয়াগে
+    name: থাই ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Thailändische Gebärdensprache
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais tailandesa
   - translation_iso: rus
-    name: таи сигн лангуагейский язык
+    name: таийский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas tailandesa

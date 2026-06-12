@@ -21,7 +21,7 @@ translations:
     name: موي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ মুয়ু
+    name: উত্তর মুয়ু
     auto: true
   - translation_iso: deu
     name: Nord-Muyu
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी मुयु
     auto: true
   - translation_iso: ind
-    name: Bahasa North Muyu
+    name: Bahasa Muyu Utara
     auto: true
   - translation_iso: jpn
     name: 北ムユ語
@@ -44,7 +44,7 @@ translations:
     name: Muyu setentrional
     auto: true
   - translation_iso: rus
-    name: норт муюский язык
+    name: северный муюский язык
     auto: true
   - translation_iso: spa
     name: Muyu Septentrional

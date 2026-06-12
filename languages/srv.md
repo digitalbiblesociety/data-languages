@@ -22,7 +22,7 @@ translations:
     name: اللغة جنوب سورسوجانون
     auto: true
   - translation_iso: ben
-    name: সোউথেরন সোরসোগানোন
+    name: দক্ষিণ সোরসোগানোন
     auto: true
   - translation_iso: deu
     name: Southern Sorsoganon
@@ -44,7 +44,7 @@ translations:
     name: Sorsoganon Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн сорсоганонский язык
+    name: южный сорсоганонский язык
     auto: true
   - translation_iso: spa
     name: Sorsoganón meridional

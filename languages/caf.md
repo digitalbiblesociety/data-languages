@@ -22,7 +22,7 @@ translations:
     name: كاريير جنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কার্রিএর
+    name: দক্ষিণ কার্রিএর
     auto: true
   - translation_iso: deu
     name: Südliches Carrier
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी कैरियर
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Carrier
+    name: Bahasa Carrier Selatan
     auto: true
   - translation_iso: jpn
     name: 南カリエ語
@@ -45,7 +45,7 @@ translations:
     name: Carrier meridional
     auto: true
   - translation_iso: rus
-    name: сутерн карриерский язык
+    name: южный карриерский язык
     auto: true
   - translation_iso: spa
     name: Carrier Meridional

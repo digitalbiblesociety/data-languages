@@ -22,7 +22,7 @@ translations:
     name: اللغة خليج الجنوب الغربي
     auto: true
   - translation_iso: ben
-    name: সোউথ ওয়েসত বায়
+    name: দক্ষিণ পশ্চিম বায়
     auto: true
   - translation_iso: deu
     name: South West Bay
@@ -33,7 +33,7 @@ translations:
     name: साउथ वेस्ट बे
     auto: true
   - translation_iso: ind
-    name: Bahasa South West Bay
+    name: Bahasa Bay Selatan Barat
     auto: true
   - translation_iso: jpn
     name: シエシップ語
@@ -45,7 +45,7 @@ translations:
     name: South West Bay
     auto: true
   - translation_iso: rus
-    name: сут вест байский язык
+    name: южный западный байский язык
     auto: true
   - translation_iso: spa
     name: South West Bay

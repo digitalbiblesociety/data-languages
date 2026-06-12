@@ -22,7 +22,7 @@ translations:
     name: سووثإرن غرإبو
     auto: true
   - translation_iso: ben
-    name: সোউথেরন গরেবো
+    name: দক্ষিণ গরেবো
     auto: true
   - translation_iso: deu
     name: Südliches Grebo
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी ग्रेबो
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Grebo
+    name: Bahasa Grebo Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・グレボ語
@@ -45,7 +45,7 @@ translations:
     name: grebo do sul
     auto: true
   - translation_iso: rus
-    name: сутерн гребоский язык
+    name: южный гребоский язык
     auto: true
   - translation_iso: spa
     name: Grebo del Sur

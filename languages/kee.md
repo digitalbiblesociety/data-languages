@@ -21,7 +21,7 @@ translations:
     name: لغة كيريس الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কেরেস
+    name: পূর্ব কেরেস
     auto: true
   - translation_iso: deu
     name: Ost-Keres
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी केरेस
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Keres
+    name: Bahasa Keres Timur
     auto: true
   - translation_iso: jpn
     name: イースタン・ケレス語
@@ -44,7 +44,7 @@ translations:
     name: queres oriental
     auto: true
   - translation_iso: rus
-    name: еастерн кересский язык
+    name: восточный кересский язык
     auto: true
   - translation_iso: spa
     name: queresano oriental

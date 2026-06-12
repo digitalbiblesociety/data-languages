@@ -21,7 +21,7 @@ translations:
     name: اللغة تيبيهوان الجنوب الشرقية
     auto: true
   - translation_iso: ben
-    name: সোউথেয়াসতেরন তেপেহুয়ান
+    name: দক্ষিণ-পূর্ব তেপেহুয়ান
     auto: true
   - translation_iso: deu
     name: Southeastern Tepehuan
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणपूर्वी तेपेहुआन
     auto: true
   - translation_iso: ind
-    name: Bahasa Southeastern Tepehuan
+    name: Bahasa Tepehuan Tenggara
     auto: true
   - translation_iso: jpn
     name: 南東テペフアン語
@@ -44,7 +44,7 @@ translations:
     name: Tepehuán do Sudeste
     auto: true
   - translation_iso: rus
-    name: сутеастерн тепехуанский язык
+    name: юго-восточный тепехуанский язык
     auto: true
   - translation_iso: spa
     name: Tepehuano sureño

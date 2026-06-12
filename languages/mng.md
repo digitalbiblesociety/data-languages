@@ -22,7 +22,7 @@ translations:
     name: لغة منونج الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মনোং
+    name: পূর্ব মনোং
     auto: true
   - translation_iso: deu
     name: Eastern Mnong
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी म्नोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Mnong
+    name: Bahasa Mnong Timur
     auto: true
   - translation_iso: jpn
     name: イースタン・ムノング語
@@ -46,7 +46,7 @@ translations:
     name: mnong oriental
     auto: true
   - translation_iso: rus
-    name: еастерн мнонгский язык
+    name: восточный мнонгский язык
     auto: true
   - translation_iso: spa
     name: Mnong Oriental

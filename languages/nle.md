@@ -22,7 +22,7 @@ translations:
     name: نييالا الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত নয়ালা
+    name: পূর্ব নয়ালা
     auto: true
   - translation_iso: deu
     name: Ost-Nyala
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी न्याला
     auto: true
   - translation_iso: ind
-    name: Bahasa East Nyala
+    name: Bahasa Nyala Timur
     auto: true
   - translation_iso: jpn
     name: 東ニャラ語
@@ -45,7 +45,7 @@ translations:
     name: Nyala Oriental
     auto: true
   - translation_iso: rus
-    name: еаст нялский язык
+    name: восточный нялский язык
     auto: true
   - translation_iso: spa
     name: Nyala oriental

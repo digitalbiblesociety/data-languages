@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ غويانغ الجنوبية الغربية
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন গুইয়াং হমোং
+    name: দক্ষিণ-পশ্চিম গুইয়াং হমোং
     auto: true
   - translation_iso: deu
     name: Südwestliches Guiyang-Hmong
@@ -33,7 +33,7 @@ translations:
     name: दक्षिण-पश्चिमी गुइयांग ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Guiyang Hmong
+    name: Bahasa Guiyang Hmong Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西部貴陽フモン語
@@ -44,7 +44,7 @@ translations:
     name: Hmong Guiyang do Sudoeste
     auto: true
   - translation_iso: rus
-    name: сутвестерн гуиянг хмонгский язык
+    name: юго-западный гуиянг хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Guiyang suroccidental

@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة صعيدية
   - translation_iso: ben
-    name: সাইদি আরাবিক
+    name: সাইদি আরবি
     auto: true
   - translation_iso: deu
     name: Ṣaʿīdī-Arabisch

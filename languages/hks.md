@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة بهونغ كونغ
     auto: true
   - translation_iso: ben
-    name: হোং কোং সিগন লাঙুয়াগে
+    name: হোং কোং ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Hongkong-Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: हांगकांग सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Hong Kong Sign Language
+    name: Bahasa Isyarat Hong Kong
     auto: true
   - translation_iso: jpn
     name: 香港手話

@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: बामको सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Bamako Sign Language
+    name: Bahasa Isyarat Bamako
     auto: true
   - translation_iso: jpn
     name: バマコ手話

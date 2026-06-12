@@ -21,7 +21,7 @@ translations:
     name: الشاتينو الغربي الأعلى
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন হিঘলানদ চাতিনো
+    name: পশ্চিম হিঘলানদ চাতিনো
     auto: true
   - translation_iso: deu
     name: Westliches Hochland-Chatino
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी उच्चभूमि चातीनो
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Highland Chatino
+    name: Bahasa Highland Chatino Barat
     auto: true
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語
@@ -44,7 +44,7 @@ translations:
     name: Chatino das Terras Altas Ocidentais
     auto: true
   - translation_iso: rus
-    name: вестерн хигхланд чатиноский язык
+    name: западный хигхланд чатиноский язык
     auto: true
   - translation_iso: spa
     name: Chatino central

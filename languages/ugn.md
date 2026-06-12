@@ -21,7 +21,7 @@ translations:
     name: اللغة الإشارة الأوغندية
     auto: true
   - translation_iso: ben
-    name: উগানদান সিগন লাঙুয়াগে
+    name: উগানদান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Ugandische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: युगांडा सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Ugandan Sign Language
+    name: Bahasa Isyarat Ugandan
     auto: true
   - translation_iso: jpn
     name: ウガンダ手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais do Uganda
   - translation_iso: rus
-    name: угандан сигн лангуагейский язык
+    name: уганданский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas ugandesa

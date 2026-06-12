@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة حضرمية
   - translation_iso: ben
-    name: হাদরামি আরাবিক
+    name: হাদরামি আরবি
     auto: true
   - translation_iso: deu
     name: Hadrami-Arabisch

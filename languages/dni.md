@@ -21,7 +21,7 @@ translations:
     name: لوور جراند فالي داني
     auto: true
   - translation_iso: ben
-    name: লোওয়ের গরানদ ভাল্লেয় দানি
+    name: নিম্ন গরানদ ভাল্লেয় দানি
     auto: true
   - translation_iso: deu
     name: Lower Grand Valley Dani
@@ -33,7 +33,7 @@ translations:
     name: निचली ग्रैंड वैली दानी
     auto: true
   - translation_iso: ind
-    name: Bahasa Lower Grand Valley Dani
+    name: Bahasa Grand Valley Dani Hilir
     auto: true
   - translation_iso: jpn
     name: ロウアー・グランド・ヴァレー・ダニ語
@@ -45,7 +45,7 @@ translations:
     name: Dani do Baixo Grand Valley
     auto: true
   - translation_iso: rus
-    name: ловер гранд валлей данийский язык
+    name: нижний гранд валлей данийский язык
     auto: true
   - translation_iso: spa
     name: Dani del Bajo Valle Grande

@@ -22,7 +22,7 @@ translations:
     name: اللغة أوكبي
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন এদো ওকপে
+    name: দক্ষিণ-পশ্চিম এদো ওকপে
     auto: true
   - translation_iso: deu
     name: Okpe (Südwest-Edo)
@@ -33,7 +33,7 @@ translations:
     name: ओक्पे
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Edo Okpe
+    name: Bahasa Edo Okpe Barat Daya
     auto: true
   - translation_iso: jpn
     name: オクペ語
@@ -45,7 +45,7 @@ translations:
     name: Okpe (Edo Sudoeste)
     auto: true
   - translation_iso: rus
-    name: сутвестерн едо окпейский язык
+    name: юго-западный едо окпейский язык
     auto: true
   - translation_iso: spa
     name: Okpe (Edo suroccidental)

@@ -22,7 +22,7 @@ translations:
     name: الأرومية الغربية الوسطى
     auto: true
   - translation_iso: ben
-    name: ওয়েসত কেনতরাল ওরোমো
+    name: পশ্চিম মধ্য ওরোমো
     auto: true
   - translation_iso: deu
     name: West-Central-Oromo
@@ -33,7 +33,7 @@ translations:
     name: पश्चिम मध्य ओरोमो
     auto: true
   - translation_iso: ind
-    name: Bahasa West Central Oromo
+    name: Bahasa Oromo Barat Tengah
     auto: true
   - translation_iso: jpn
     name: 西中央オロモ語
@@ -44,7 +44,7 @@ translations:
     name: oromo centro-ocidental
     auto: true
   - translation_iso: rus
-    name: вест кентрал оромоский язык
+    name: западный центральный оромоский язык
     auto: true
   - translation_iso: spa
     name: Oromo centro-occidental

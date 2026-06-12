@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: لهجة بخارية
   - translation_iso: ben
-    name: তাজিকি আরাবিক
+    name: তাজিকি আরবি
     auto: true
   - translation_iso: deu
     name: tadschikisches Arabisch
@@ -32,7 +32,7 @@ translations:
     name: ताजिकी अरबी
     auto: true
   - translation_iso: ind
-    name: Bahasa Tajiki Arabic
+    name: Bahasa Arab Tajiki
     auto: true
   - translation_iso: jpn
     name: タジキアラビア語

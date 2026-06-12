@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: اللهجة الليبية
   - translation_iso: ben
-    name: লিবয়ান আরাবিক
+    name: লিবয়ান আরবি
     auto: true
   - translation_iso: deu
     name: Libysch-Arabisch

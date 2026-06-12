@@ -21,7 +21,7 @@ translations:
     name: لغة ميانمار الإشارة
     auto: true
   - translation_iso: ben
-    name: ময়ানমার সিগন লাঙুয়াগে
+    name: ময়ানমার ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Myanmarische Gebärdensprache
@@ -42,7 +42,7 @@ translations:
     name: língua de sinais de Mianmar
     auto: true
   - translation_iso: rus
-    name: мянмар сигн лангуагейский язык
+    name: мянмарский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Myanmar

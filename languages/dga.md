@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: لغة داجاري
   - translation_iso: ben
-    name: সোউথেরন দাগারে
+    name: দক্ষিণ দাগারে
     auto: true
   - translation_iso: deu
     name: Dagaare
@@ -31,7 +31,7 @@ translations:
     name: दक्षिणी दगारे
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Dagaare
+    name: Bahasa Dagaare Selatan
     auto: true
   - translation_iso: jpn
     name: ダガリ語

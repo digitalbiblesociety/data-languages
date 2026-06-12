@@ -33,7 +33,7 @@ translations:
     name: काको
     auto: true
   - translation_iso: ind
-    name: Bahasa Kaco
+    name: "Bahasa Kaco'"
     auto: true
   - translation_iso: jpn
     name: カコ語

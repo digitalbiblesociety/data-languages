@@ -21,7 +21,7 @@ translations:
     name: نورثرن أواكاكا ناهواتل
     auto: true
   - translation_iso: ben
-    name: নোরথেরন ওয়াকসাকা নাহুয়াতল
+    name: উত্তর ওয়াকসাকা নাহুয়াতল
     auto: true
   - translation_iso: deu
     name: Nördliches Oaxaca-Nahuatl
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी ओआक्साका नाहुआतल
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Oaxaca Nahuatl
+    name: Bahasa Oaxaca Nahuatl Utara
     auto: true
   - translation_iso: jpn
     name: 北オアハカ・ナワトル語
@@ -44,7 +44,7 @@ translations:
     name: Nahuatl de Oaxaca do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн оаксака нахуатльский язык
+    name: северный оаксака нахуатльский язык
     auto: true
   - translation_iso: spa
     name: Náhuatl del Norte de Oaxaca

@@ -22,7 +22,7 @@ translations:
     name: لغة كراهن الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন করাহন
+    name: পূর্ব করাহন
     auto: true
   - translation_iso: deu
     name: Ost-Krahn
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी क्राह्न
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Krahn
+    name: Bahasa Krahn Timur
     auto: true
   - translation_iso: jpn
     name: イースタン・クラーン語
@@ -45,7 +45,7 @@ translations:
     name: Krahn oriental
     auto: true
   - translation_iso: rus
-    name: еастерн крахнский язык
+    name: восточный крахнский язык
     auto: true
   - translation_iso: spa
     name: Krahn Oriental

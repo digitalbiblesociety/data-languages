@@ -33,7 +33,7 @@ translations:
     name: उत्तरी अज़रबैजानी
     auto: true
   - translation_iso: ind
-    name: Bahasa North Azerbaijani
+    name: Bahasa Azerbaijani Utara
     auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語

@@ -21,7 +21,7 @@ translations:
     name: موي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ মুয়ু
+    name: দক্ষিণ মুয়ু
     auto: true
   - translation_iso: deu
     name: Süd-Muyu
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी मुयु
     auto: true
   - translation_iso: ind
-    name: Bahasa South Muyu
+    name: Bahasa Muyu Selatan
     auto: true
   - translation_iso: jpn
     name: 南ムユ語
@@ -44,7 +44,7 @@ translations:
     name: Muyu meridional
     auto: true
   - translation_iso: rus
-    name: сут муюский язык
+    name: южный муюский язык
     auto: true
   - translation_iso: spa
     name: Muyu Meridional

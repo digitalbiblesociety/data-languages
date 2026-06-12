@@ -21,7 +21,7 @@ translations:
     name: تارانغان الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত তারাঙান
+    name: পশ্চিম তারাঙান
     auto: true
   - translation_iso: deu
     name: Tarangan Barat
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Tarangan Barat
   - translation_iso: rus
-    name: вест таранганский язык
+    name: западный таранганский язык
     auto: true
   - translation_iso: spa
     name: Tarangan Barat

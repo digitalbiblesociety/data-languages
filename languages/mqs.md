@@ -22,7 +22,7 @@ translations:
     name: لغة ماكيان الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত মাকিয়ান
+    name: পশ্চিম মাকিয়ান
     auto: true
   - translation_iso: deu
     name: West-Makian
@@ -43,7 +43,7 @@ translations:
     name: macuíno ocidental
     auto: true
   - translation_iso: rus
-    name: вест макианский язык
+    name: западный макианский язык
     auto: true
   - translation_iso: spa
     name: Makian Occidental

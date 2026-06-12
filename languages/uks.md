@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: कापोर सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Urubú-Kaapor Sign Language
+    name: Bahasa Isyarat Urubú-Kaapor
     auto: true
   - translation_iso: jpn
     name: ウルブ・カァポル手話

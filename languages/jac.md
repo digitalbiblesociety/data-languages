@@ -32,7 +32,7 @@ translations:
     name: पोप्ती
     auto: true
   - translation_iso: ind
-    name: Bahasa Popti
+    name: "Bahasa Popti'"
     auto: true
   - translation_iso: jpn
     name: ハカルテク語

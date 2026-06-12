@@ -21,7 +21,7 @@ translations:
     name: سينترال ماسيلا
     auto: true
   - translation_iso: ben
-    name: কেনতরাল মাসেলা
+    name: মধ্য মাসেলা
     auto: true
   - translation_iso: deu
     name: Zentral-Masela
@@ -32,7 +32,7 @@ translations:
     name: मध्य मासेला
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Masela
+    name: Bahasa Masela Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・マセラ語
@@ -44,7 +44,7 @@ translations:
     name: Masela Central
     auto: true
   - translation_iso: rus
-    name: кентрал маселский язык
+    name: центральный маселский язык
     auto: true
   - translation_iso: spa
     name: Masela Central

@@ -22,7 +22,7 @@ translations:
     name: لغة ساوثيرن أمامي-أوشيما
     auto: true
   - translation_iso: ben
-    name: সোউথেরন আমামি-ওশিমা
+    name: দক্ষিণ আমামি-ওশিমা
     auto: true
   - translation_iso: deu
     name: Süd-Amami-Oshima

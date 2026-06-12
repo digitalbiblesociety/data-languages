@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Jamaican Country Sign Language
+    name: Bahasa Isyarat Jamaican Country
     auto: true
   - translation_iso: jpn
     name: ジャマイカ・カントリー手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Rural Jamaicana
     auto: true
   - translation_iso: rus
-    name: ямаикан кунтрй сигн лангуагейский язык
+    name: ямаикан кунтрйский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas campesina jamaicana

@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: पेनांग सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Penang Sign Language
+    name: Bahasa Isyarat Penang
     auto: true
   - translation_iso: jpn
     name: ペナン手話
@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: Língua de sinais de Penang
   - translation_iso: rus
-    name: пенанг сигн лангуагейский язык
+    name: пенангский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Penang

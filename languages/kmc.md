@@ -22,7 +22,7 @@ translations:
     name: لغة دونج الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন দোং
+    name: দক্ষিণ দোং
     auto: true
   - translation_iso: deu
     name: Dong

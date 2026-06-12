@@ -23,7 +23,7 @@ translations:
     name: شمال بينغ الصينية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন পিং চিনেসের
+    name: উত্তর পিং চিনেসের
     auto: true
   - translation_iso: deu
     name: Nördliches Ping-Chinesisch
@@ -35,7 +35,7 @@ translations:
     name: उत्तरी पिंग चीनी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Ping Chinese\r
+    name: Bahasa Ping Chinese\r Utara
     auto: true
   - translation_iso: jpn
     name: 桂北平話
@@ -46,7 +46,7 @@ translations:
     name: Chinês ping setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн пинг чинесерский язык
+    name: северный пинг чинесерский язык
     auto: true
   - translation_iso: spa
     name: Chino Ping Septentrional

@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: língua de sinais neerlandesa
   - translation_iso: rus
-    name: дуч сигн лангуагейский язык
+    name: дучский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas neerlandesa

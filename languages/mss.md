@@ -21,7 +21,7 @@ translations:
     name: لغة ماسيلا الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত মাসেলা
+    name: পশ্চিম মাসেলা
     auto: true
   - translation_iso: deu
     name: West-Masela
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी मासेला
     auto: true
   - translation_iso: ind
-    name: Bahasa West Masela
+    name: Bahasa Masela Barat
     auto: true
   - translation_iso: jpn
     name: 西マセラ語
@@ -43,7 +43,7 @@ translations:
     name: masela ocidental
     auto: true
   - translation_iso: rus
-    name: вест маселский язык
+    name: западный маселский язык
     auto: true
   - translation_iso: spa
     name: Masela Occidental

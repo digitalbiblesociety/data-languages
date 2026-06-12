@@ -21,7 +21,7 @@ translations:
     name: لغة بيراوان الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল বেরাওয়ান
+    name: মধ্য বেরাওয়ান
     auto: true
   - translation_iso: deu
     name: Zentral-Berawan
@@ -32,7 +32,7 @@ translations:
     name: मध्य बेरावन
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Berawan
+    name: Bahasa Berawan Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・ベラワン語
@@ -44,7 +44,7 @@ translations:
     name: berawan central
     auto: true
   - translation_iso: rus
-    name: кентрал бераванский язык
+    name: центральный бераванский язык
     auto: true
   - translation_iso: spa
     name: Berawan central

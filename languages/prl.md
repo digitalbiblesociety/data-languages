@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: पेरू सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Peruvian Sign Language
+    name: Bahasa Isyarat Peruvian
     auto: true
   - translation_iso: jpn
     name: ペルー手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: língua de sinais peruana
   - translation_iso: rus
-    name: перувиан сигн лангуагейский язык
+    name: перувианский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas peruana

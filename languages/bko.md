@@ -32,7 +32,7 @@ translations:
     name: क्वा
     auto: true
   - translation_iso: ind
-    name: Bahasa Kwa
+    name: "Bahasa Kwa'"
     auto: true
   - translation_iso: jpn
     name: クワ語

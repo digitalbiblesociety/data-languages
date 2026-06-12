@@ -31,7 +31,7 @@ translations:
     name: ऊपरी गिनी क्रिओलो
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Guinea Crioulo
+    name: Bahasa Guinea Crioulo Hulu
     auto: true
   - translation_iso: jpn
     name: ギニアビサウ・クレオール語

@@ -21,7 +21,7 @@ translations:
     name: ويستيرن مينياغ
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মিনয়াগ
+    name: পশ্চিম মিনয়াগ
     auto: true
   - translation_iso: deu
     name: West-Minyag
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी मिन्याग
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Minyag
+    name: Bahasa Minyag Barat
     auto: true
   - translation_iso: jpn
     name: 西ミニャク語
@@ -45,7 +45,7 @@ translations:
     name: Minyag Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн минягский язык
+    name: западный минягский язык
     auto: true
   - translation_iso: spa
     name: Minyag Occidental

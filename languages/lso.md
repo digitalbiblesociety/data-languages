@@ -17,7 +17,7 @@ translations:
     name: لغة الإشارة اللاوية
     auto: true
   - translation_iso: ben
-    name: লাওস সিগন লাঙুয়াগে
+    name: লাওস ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Laotische Gebärdensprache
@@ -37,7 +37,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Laos
   - translation_iso: rus
-    name: лаос сигн лангуагейский язык
+    name: лаосский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Laos

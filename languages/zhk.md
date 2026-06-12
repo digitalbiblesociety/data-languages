@@ -26,7 +26,7 @@ translations:
   - translation_iso: hin
     name: कुर्द सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Kurdish Sign Language
+    name: Bahasa Isyarat Kurdish
     auto: true
   - translation_iso: jpn
     name: クルド手話言語

@@ -21,7 +21,7 @@ translations:
     name: برو الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন বরু
+    name: পশ্চিম বরু
     auto: true
   - translation_iso: deu
     name: Western Bru
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी ब्रू
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Bru
+    name: Bahasa Bru Barat
     auto: true
   - translation_iso: jpn
     name: 西ブル語
@@ -44,7 +44,7 @@ translations:
     name: Bru ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн бруский язык
+    name: западный бруский язык
     auto: true
   - translation_iso: spa
     name: Bru occidental

@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: जुमला सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Jumla Sign Language
+    name: Bahasa Isyarat Jumla
     auto: true
   - translation_iso: jpn
     name: ジュムラ手話

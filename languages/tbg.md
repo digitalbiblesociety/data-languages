@@ -21,7 +21,7 @@ translations:
     name: تايرورا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ তাইরোরা
+    name: উত্তর তাইরোরা
     auto: true
   - translation_iso: deu
     name: North Tairora
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी तायरोरा
     auto: true
   - translation_iso: ind
-    name: Bahasa North Tairora
+    name: Bahasa Tairora Utara
     auto: true
   - translation_iso: jpn
     name: 北タイロラ語
@@ -44,7 +44,7 @@ translations:
     name: Tairora do Norte
     auto: true
   - translation_iso: rus
-    name: норт таирорский язык
+    name: северный таирорский язык
     auto: true
   - translation_iso: spa
     name: Tairora del Norte

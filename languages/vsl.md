@@ -29,7 +29,7 @@ translations:
     name: वेनेज़ुएलाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Venezuelan Sign Language
+    name: Bahasa Isyarat Venezuelan
     auto: true
   - translation_iso: jpn
     name: ベネズエラ手話

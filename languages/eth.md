@@ -30,7 +30,7 @@ translations:
     name: इथियोपियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Ethiopian Sign Language
+    name: Bahasa Isyarat Ethiopian
     auto: true
   - translation_iso: jpn
     name: エチオピア手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Etiópia
   - translation_iso: rus
-    name: етиопиан сигн лангуагейский язык
+    name: етиопианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas etíope

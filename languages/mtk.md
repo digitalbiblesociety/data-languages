@@ -33,7 +33,7 @@ translations:
     name: म्बे
     auto: true
   - translation_iso: ind
-    name: Bahasa Mbe
+    name: "Bahasa Mbe'"
     auto: true
   - translation_iso: jpn
     name: ムベ語

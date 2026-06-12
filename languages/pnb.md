@@ -21,7 +21,7 @@ translations:
   - translation_iso: ara
     name: بنجابية غربية
   - translation_iso: ben
-    name: ওয়েসতেরন পানজাবি
+    name: পশ্চিম পানজাবি
     auto: true
   - translation_iso: deu
     name: Westliches Panjabi
@@ -31,7 +31,7 @@ translations:
     name: पश्चिमी पंजाबी
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Panjabi
+    name: Bahasa Panjabi Barat
     auto: true
   - translation_iso: jpn
     name: 西パンジャーブ語

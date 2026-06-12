@@ -22,7 +22,7 @@ translations:
     name: اللغة أمبي الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত আমবাএ
+    name: পূর্ব আমবাএ
     auto: true
   - translation_iso: deu
     name: Ost-Ambae
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी अम्बाए
     auto: true
   - translation_iso: ind
-    name: Bahasa East Ambae
+    name: Bahasa Ambae Timur
     auto: true
   - translation_iso: jpn
     name: 東アンバエ語
@@ -45,7 +45,7 @@ translations:
     name: Ambae Oriental
     auto: true
   - translation_iso: rus
-    name: еаст амбаейский язык
+    name: восточный амбаейский язык
     auto: true
   - translation_iso: spa
     name: Ambae oriental

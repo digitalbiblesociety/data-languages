@@ -22,7 +22,7 @@ translations:
     name: لغة يوغور الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসত য়ুগুর
+    name: পূর্ব য়ুগুর
     auto: true
   - translation_iso: deu
     name: Ost-Yugurisch

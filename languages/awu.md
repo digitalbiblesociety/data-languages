@@ -21,7 +21,7 @@ translations:
     name: اللغة أويو الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল আওয়য়ু
+    name: মধ্য আওয়য়ু
     auto: true
   - translation_iso: deu
     name: Zentral-Awyu
@@ -32,7 +32,7 @@ translations:
     name: मध्य अव्यू
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Awyu
+    name: Bahasa Awyu Tengah
     auto: true
   - translation_iso: jpn
     name: 中央アウユ語
@@ -44,7 +44,7 @@ translations:
     name: Awyu Central
     auto: true
   - translation_iso: rus
-    name: кентрал авюский язык
+    name: центральный авюский язык
     auto: true
   - translation_iso: spa
     name: Awyu Central

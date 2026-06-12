@@ -21,7 +21,7 @@ translations:
     name: لغة ياست يمبا
     auto: true
   - translation_iso: ben
-    name: এয়াসত লিমবা
+    name: পূর্ব লিমবা
     auto: true
   - translation_iso: deu
     name: Ost-Limba
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी लिंबा
     auto: true
   - translation_iso: ind
-    name: Bahasa East Limba
+    name: Bahasa Limba Timur
     auto: true
   - translation_iso: jpn
     name: 東リンバ語
@@ -44,7 +44,7 @@ translations:
     name: Limba oriental
     auto: true
   - translation_iso: rus
-    name: еаст лимбский язык
+    name: восточный лимбский язык
     auto: true
   - translation_iso: spa
     name: Limba oriental

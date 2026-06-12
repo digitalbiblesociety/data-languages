@@ -21,7 +21,7 @@ translations:
     name: الميوهانج الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন মেওহাং
+    name: পূর্ব মেওহাং
     auto: true
   - translation_iso: deu
     name: Ost-Meohang
@@ -32,7 +32,7 @@ translations:
     name: पूर्वी मेओहांग
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Meohang
+    name: Bahasa Meohang Timur
     auto: true
   - translation_iso: jpn
     name: 東メオハン語
@@ -44,7 +44,7 @@ translations:
     name: meohang oriental
     auto: true
   - translation_iso: rus
-    name: еастерн меохангский язык
+    name: восточный меохангский язык
     auto: true
   - translation_iso: spa
     name: Meohang Oriental

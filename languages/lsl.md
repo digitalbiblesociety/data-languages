@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة اللاتفية
     auto: true
   - translation_iso: ben
-    name: লাতভিয়ান সিগন লাঙুয়াগে
+    name: লাতভিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Lettische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: लातवियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Latvian Sign Language
+    name: Bahasa Isyarat Latvian
     auto: true
   - translation_iso: jpn
     name: ラトビア手話

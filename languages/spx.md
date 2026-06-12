@@ -16,7 +16,7 @@ translations:
     name: اللغة جنوب بيسيني
     auto: true
   - translation_iso: ben
-    name: সোউথ পিকেনে
+    name: দক্ষিণ পিকেনে
     auto: true
   - translation_iso: deu
     name: Südpikenisch

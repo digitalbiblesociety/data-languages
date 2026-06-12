@@ -21,7 +21,7 @@ translations:
     name: غربية كسيلا جيبي
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন কসওয়লা গবে
+    name: পশ্চিম কসওয়লা গবে
     auto: true
   - translation_iso: deu
     name: Westliches Xwla Gbe
@@ -33,7 +33,7 @@ translations:
     name: पश्चिमी ख्वला ग्बे
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Xwla Gbe
+    name: Bahasa Xwla Gbe Barat
     auto: true
   - translation_iso: jpn
     name: 西シューラ・ゲベ語
@@ -45,7 +45,7 @@ translations:
     name: xwla gbe ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн ксвла гбейский язык
+    name: западный ксвла гбейский язык
     auto: true
   - translation_iso: spa
     name: Xwla Gbe occidental

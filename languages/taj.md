@@ -23,7 +23,7 @@ translations:
     name: تامانغ الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন তামাং
+    name: পূর্ব তামাং
     auto: true
   - translation_iso: deu
     name: Eastern Tamang
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी तामाङ
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Tamang
+    name: Bahasa Tamang Timur
     auto: true
   - translation_iso: jpn
     name: 東部タマン語
@@ -46,7 +46,7 @@ translations:
     name: Tamang Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн тамангский язык
+    name: восточный тамангский язык
     auto: true
   - translation_iso: spa
     name: Tamang oriental

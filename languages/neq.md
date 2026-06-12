@@ -21,7 +21,7 @@ translations:
     name: شمال سنترال ميكسي
     auto: true
   - translation_iso: ben
-    name: নোরথ কেনতরাল মিকসে
+    name: উত্তর মধ্য মিকসে
     auto: true
   - translation_iso: deu
     name: Nord-Zentral-Mixe
@@ -32,7 +32,7 @@ translations:
     name: उत्तर मध्य मिक्से
     auto: true
   - translation_iso: ind
-    name: Bahasa North Central Mixe
+    name: Bahasa Mixe Utara Tengah
     auto: true
   - translation_iso: jpn
     name: 北中央ミクセ語
@@ -44,7 +44,7 @@ translations:
     name: Mixe Centro-Norte
     auto: true
   - translation_iso: rus
-    name: норт кентрал миксейский язык
+    name: северный центральный миксейский язык
     auto: true
   - translation_iso: spa
     name: Mixe del centro norte

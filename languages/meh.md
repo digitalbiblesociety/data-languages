@@ -22,7 +22,7 @@ translations:
     name: لغة مازاتك تلاكسياكو الجنوبي الغربي
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন তলাকসিয়াকো মিকসতেক
+    name: দক্ষিণ-পশ্চিম তলাকসিয়াকো মিকসতেক
     auto: true
   - translation_iso: deu
     name: Southwestern Tlaxiaco Mixtec
@@ -34,7 +34,7 @@ translations:
     name: दक्षिण-पश्चिमी त्लाशियाको मिश्तेक
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Tlaxiaco Mixtec
+    name: Bahasa Tlaxiaco Mixtec Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西トラシアコ・ミステク語

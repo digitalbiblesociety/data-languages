@@ -24,7 +24,7 @@ translations:
     name: لغة ماري الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন মারি
+    name: পশ্চিম মারি
     auto: true
   - translation_iso: deu
     name: Bergmari
@@ -34,7 +34,7 @@ translations:
     name: पश्चिमी मारी
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Mari
+    name: Bahasa Mari Barat
     auto: true
   - translation_iso: jpn
     name: 山地マリ語

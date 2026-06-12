@@ -21,7 +21,7 @@ translations:
     name: اللغة سما الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল সামা
+    name: মধ্য সামা
     auto: true
   - translation_iso: deu
     name: Zentral-Sama
@@ -32,7 +32,7 @@ translations:
     name: मध्य सामा
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Sama
+    name: Bahasa Sama Tengah
     auto: true
   - translation_iso: jpn
     name: バジャウ語
@@ -44,7 +44,7 @@ translations:
     name: Sama Central
     auto: true
   - translation_iso: rus
-    name: кентрал самский язык
+    name: центральный самский язык
     auto: true
   - translation_iso: spa
     name: Sama Central

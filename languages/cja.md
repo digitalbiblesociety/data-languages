@@ -23,7 +23,7 @@ translations:
     name: الشام الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন চাম
+    name: পশ্চিম চাম
     auto: true
   - translation_iso: deu
     name: Cham

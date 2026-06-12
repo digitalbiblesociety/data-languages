@@ -21,7 +21,7 @@ translations:
     name: تاوبويد الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসতেরন তাওয়বুইদ
+    name: পশ্চিম তাওয়বুইদ
     auto: true
   - translation_iso: deu
     name: Westliches Tawbuid
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी ताउबुइद
     auto: true
   - translation_iso: ind
-    name: Bahasa Western Tawbuid
+    name: Bahasa Tawbuid Barat
     auto: true
   - translation_iso: jpn
     name: バタンガン・タウブウイド語
@@ -44,7 +44,7 @@ translations:
     name: Tawbuid Ocidental
     auto: true
   - translation_iso: rus
-    name: вестерн тавбуидский язык
+    name: западный тавбуидский язык
     auto: true
   - translation_iso: spa
     name: Tawbuid occidental

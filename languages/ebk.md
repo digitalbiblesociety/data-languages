@@ -17,7 +17,7 @@ translations:
     name: البونتوك الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন বোনতোক
+    name: পূর্ব বোনতোক
     auto: true
   - translation_iso: deu
     name: Ost-Bontok
@@ -28,7 +28,7 @@ translations:
     name: पूर्वी बोंटोक
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Bontok
+    name: Bahasa Bontok Timur
     auto: true
   - translation_iso: jpn
     name: 東ボントク語
@@ -39,7 +39,7 @@ translations:
     name: Bontok Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн бонтокский язык
+    name: восточный бонтокский язык
     auto: true
   - translation_iso: spa
     name: Bontok Oriental

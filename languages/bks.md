@@ -22,7 +22,7 @@ translations:
     name: سورسوجانون الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন সোরসোগানোন
+    name: উত্তর সোরসোগানোন
     auto: true
   - translation_iso: deu
     name: Northern Sorsoganon
@@ -44,7 +44,7 @@ translations:
     name: Sorsoganon do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн сорсоганонский язык
+    name: северный сорсоганонский язык
     auto: true
   - translation_iso: spa
     name: Sorsoganón del norte

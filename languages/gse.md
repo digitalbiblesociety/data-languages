@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: घाना की सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Ghanaian Sign Language
+    name: Bahasa Isyarat Ghanaian
     auto: true
   - translation_iso: jpn
     name: ガーナ手話
@@ -39,7 +39,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais de Gana
   - translation_iso: rus
-    name: гханаиан сигн лангуагейский язык
+    name: гханаианский жестовый язык
     auto: true
   - translation_iso: spa
     name: lenguaje de signos de Ghana

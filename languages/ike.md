@@ -22,7 +22,7 @@ translations:
     name: إينوكتيتوت كندي شرقي
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কানাদিয়ান ইনুকতিতুত
+    name: পূর্ব কানাদিয়ান ইনুকতিতুত
     auto: true
   - translation_iso: deu
     name: Ostkanadisches Inuktitut
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी कनाडाई इनुक्तितुत
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Canadian Inuktitut
+    name: Bahasa Canadian Inuktitut Timur
     auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語

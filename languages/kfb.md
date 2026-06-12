@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: कोलामि भाषा
   - translation_iso: ind
-    name: Bahasa Northwestern Kolami
+    name: Bahasa Kolami Barat Laut
     auto: true
   - translation_iso: jpn
     name: コーラーミー語

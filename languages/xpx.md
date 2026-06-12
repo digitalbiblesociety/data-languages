@@ -22,7 +22,7 @@ translations:
     name: تاسماني الجنوبية الغربية
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন তাসমানিয়ানর
+    name: দক্ষিণ-পশ্চিম তাসমানিয়ানর
     auto: true
   - translation_iso: deu
     name: Südwesttasmanisch
@@ -33,7 +33,7 @@ translations:
     name: दक्षिण-पश्चिमी तस्मानियाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Tasmanian\r
+    name: Bahasa Tasmanian\r Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西タスマニア語
@@ -45,7 +45,7 @@ translations:
     name: Tasmaniano Sudoeste
     auto: true
   - translation_iso: rus
-    name: сутвестерн тасманианрский язык
+    name: юго-западный тасманианрский язык
     auto: true
   - translation_iso: spa
     name: Tasmanio suroccidental

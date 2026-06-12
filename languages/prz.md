@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة بروفيدينسيا
     auto: true
   - translation_iso: ben
-    name: পরোভিদেনকিয়া সিগন লাঙুয়াগে
+    name: পরোভিদেনকিয়া ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Providencia-Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: प्रोविडेंस आइलैंड सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Providencia Sign Language
+    name: Bahasa Isyarat Providencia
     auto: true
   - translation_iso: jpn
     name: プロビデンシア手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Providência
   - translation_iso: rus
-    name: провиденкиа сигн лангуагейский язык
+    name: провиденкиский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Providencia

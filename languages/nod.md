@@ -23,7 +23,7 @@ translations:
     name: التايلاندية الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন থাই
+    name: উত্তর থাই
     auto: true
   - translation_iso: deu
     name: Lanna

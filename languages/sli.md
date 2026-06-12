@@ -23,7 +23,7 @@ translations:
     name: السيليزية السفلى
     auto: true
   - translation_iso: ben
-    name: লোওয়ের সিলেসিয়ান
+    name: নিম্ন সিলেসিয়ান
     auto: true
   - translation_iso: deu
     name: Schlesisch

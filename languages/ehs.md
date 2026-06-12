@@ -20,7 +20,7 @@ translations:
     name: لغة الإشارة Miyakubo
     auto: true
   - translation_iso: ben
-    name: মিয়াকুবো সিগন লাঙুয়াগে
+    name: মিয়াকুবো ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Miyakubo-Gebärdensprache

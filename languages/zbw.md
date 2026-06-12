@@ -21,7 +21,7 @@ translations:
     name: لغة بيراوان الغربية
     auto: true
   - translation_iso: ben
-    name: ওয়েসত বেরাওয়ান
+    name: পশ্চিম বেরাওয়ান
     auto: true
   - translation_iso: deu
     name: West-Berawan
@@ -32,7 +32,7 @@ translations:
     name: पश्चिमी बेरावन
     auto: true
   - translation_iso: ind
-    name: Bahasa West Berawan
+    name: Bahasa Berawan Barat
     auto: true
   - translation_iso: jpn
     name: ウェスト・ベラワン語
@@ -44,7 +44,7 @@ translations:
     name: berawan ocidental
     auto: true
   - translation_iso: rus
-    name: вест бераванский язык
+    name: западный бераванский язык
     auto: true
   - translation_iso: spa
     name: Berawan occidental

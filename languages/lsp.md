@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة البنمية
     auto: true
   - translation_iso: ben
-    name: পানামানিয়ান সিগন লাঙুয়াগে
+    name: পানামানিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Panamaische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: पनामियन सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Panamanian Sign Language
+    name: Bahasa Isyarat Panamanian
     auto: true
   - translation_iso: jpn
     name: パナマ手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Panamenha
     auto: true
   - translation_iso: rus
-    name: панаманиан сигн лангуагейский язык
+    name: панаманианский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas panameñas

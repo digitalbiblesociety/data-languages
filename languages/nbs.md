@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الناميبية
     auto: true
   - translation_iso: ben
-    name: নামিবিয়ান সিগন লাঙুয়াগে
+    name: নামিবিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Namibische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: नामीबियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Namibian Sign Language
+    name: Bahasa Isyarat Namibian
     auto: true
   - translation_iso: jpn
     name: ナミビア手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Namíbia
   - translation_iso: rus
-    name: намибиан сигн лангуагейский язык
+    name: намибианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Namibia

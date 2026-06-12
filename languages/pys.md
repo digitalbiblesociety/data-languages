@@ -21,7 +21,7 @@ translations:
     name: لغة الإشارة الباراجوايية
     auto: true
   - translation_iso: ben
-    name: পারাগুয়ায়ান সিগন লাঙুয়াগে
+    name: পারাগুয়ায়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Paraguayische Gebärdensprache
@@ -31,7 +31,7 @@ translations:
     name: पैराग्वे सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Paraguayan Sign Language
+    name: Bahasa Isyarat Paraguayan
     auto: true
   - translation_iso: jpn
     name: パラグアイ手話
@@ -42,7 +42,7 @@ translations:
     name: Língua de Sinais Paraguaia
     auto: true
   - translation_iso: rus
-    name: парагуаян сигн лангуагейский язык
+    name: парагуаянский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas paraguaya

@@ -21,7 +21,7 @@ translations:
     name: لغة ووتهيرن امپهو
     auto: true
   - translation_iso: ben
-    name: সোউথেরন য়ামফু
+    name: দক্ষিণ য়ামফু
     auto: true
   - translation_iso: deu
     name: Southern Yamphu
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी याम्फु
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Yamphu
+    name: Bahasa Yamphu Selatan
     auto: true
   - translation_iso: jpn
     name: 南ヤンフ語
@@ -44,7 +44,7 @@ translations:
     name: Yamphu do Sul
     auto: true
   - translation_iso: rus
-    name: сутерн ямфуский язык
+    name: южный ямфуский язык
     auto: true
   - translation_iso: spa
     name: Yamphu meridional

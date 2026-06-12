@@ -22,7 +22,7 @@ translations:
   - translation_iso: ara
     name: عربية جوبا
   - translation_iso: ben
-    name: সুদানেসে করেওলে আরাবিক
+    name: সুদানেসে করেওলে আরবি
     auto: true
   - translation_iso: deu
     name: Juba-Arabisch

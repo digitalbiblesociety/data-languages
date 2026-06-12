@@ -31,7 +31,7 @@ translations:
     name: अर्जेंटीनी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Argentine Sign Language
+    name: Bahasa Isyarat Argentine
     auto: true
   - translation_iso: jpn
     name: アルゼンチン手話

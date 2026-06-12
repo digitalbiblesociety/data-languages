@@ -21,7 +21,7 @@ translations:
     name: موغ الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল মনোং
+    name: মধ্য মনোং
     auto: true
   - translation_iso: deu
     name: Zentrales Mnong
@@ -32,7 +32,7 @@ translations:
     name: मध्य म्नोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Mnong
+    name: Bahasa Mnong Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・ムノング語
@@ -44,7 +44,7 @@ translations:
     name: Mnong central
     auto: true
   - translation_iso: rus
-    name: кентрал мнонгский язык
+    name: центральный мнонгский язык
     auto: true
   - translation_iso: spa
     name: Mnong Central

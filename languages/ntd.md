@@ -22,7 +22,7 @@ translations:
     name: تيدونغ الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন তিদুং
+    name: উত্তর তিদুং
     auto: true
   - translation_iso: deu
     name: Nördliches Tidung
@@ -34,7 +34,7 @@ translations:
     name: उत्तरी तिदुंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Tidung
+    name: Bahasa Tidung Utara
     auto: true
   - translation_iso: jpn
     name: 北ティドゥン語
@@ -46,7 +46,7 @@ translations:
     name: Tidung Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн тидунгский язык
+    name: северный тидунгский язык
     auto: true
   - translation_iso: spa
     name: Tidung Septentrional

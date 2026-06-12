@@ -22,7 +22,7 @@ translations:
     name: لغة مهمونغ هويشوي الجنوبية الغربية
     auto: true
   - translation_iso: ben
-    name: সোউথওয়েসতেরন হুইশুই হমোং
+    name: দক্ষিণ-পশ্চিম হুইশুই হমোং
     auto: true
   - translation_iso: deu
     name: Südwestliches Huishui-Hmong
@@ -33,7 +33,7 @@ translations:
     name: दक्षिण-पश्चिमी हुइशुई ह्मोंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Southwestern Huishui Hmong
+    name: Bahasa Huishui Hmong Barat Daya
     auto: true
   - translation_iso: jpn
     name: 南西部恵水フモン語
@@ -44,7 +44,7 @@ translations:
     name: Hmong Huishui do Sudoeste
     auto: true
   - translation_iso: rus
-    name: сутвестерн хуишуи хмонгский язык
+    name: юго-западный хуишуи хмонгский язык
     auto: true
   - translation_iso: spa
     name: Hmong Huishui suroccidental

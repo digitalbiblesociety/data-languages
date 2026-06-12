@@ -22,7 +22,7 @@ translations:
     name: لغة ووته يمباتا
     auto: true
   - translation_iso: ben
-    name: সোউথ লেমবাতা
+    name: দক্ষিণ লেমবাতা
     auto: true
   - translation_iso: deu
     name: Süd-Lembata
@@ -44,7 +44,7 @@ translations:
     name: Lembata do Sul
     auto: true
   - translation_iso: rus
-    name: сут лембатский язык
+    name: южный лембатский язык
     auto: true
   - translation_iso: spa
     name: Lembata del sur

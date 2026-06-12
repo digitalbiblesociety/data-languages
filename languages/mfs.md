@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: मैक्सिकन सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Mexican Sign Language
+    name: Bahasa Isyarat Mexican
     auto: true
   - translation_iso: jpn
     name: メキシコ手話

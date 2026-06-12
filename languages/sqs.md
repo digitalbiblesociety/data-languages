@@ -30,7 +30,7 @@ translations:
     name: श्रीलंकाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Sri Lankan Sign Language
+    name: Bahasa Isyarat Sri Lankan
     auto: true
   - translation_iso: jpn
     name: スリランカ手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais do Sri Lanka
   - translation_iso: rus
-    name: сри ланкан сигн лангуагейский язык
+    name: сри ланканский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Sri Lanka

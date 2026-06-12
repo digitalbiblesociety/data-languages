@@ -23,7 +23,7 @@ translations:
     name: تاي الشمالية الشرقية
     auto: true
   - translation_iso: ben
-    name: নোরথেয়াসতেরন থাই
+    name: উত্তর-পূর্ব থাই
     auto: true
   - translation_iso: deu
     name: Isaan

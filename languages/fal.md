@@ -21,7 +21,7 @@ translations:
     name: فالي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথ ফালি
+    name: দক্ষিণ ফালি
     auto: true
   - translation_iso: deu
     name: Süd-Fali
@@ -33,7 +33,7 @@ translations:
     name: दक्षिणी फाली
     auto: true
   - translation_iso: ind
-    name: Bahasa South Fali
+    name: Bahasa Fali Selatan
     auto: true
   - translation_iso: jpn
     name: 南ファリ語
@@ -45,7 +45,7 @@ translations:
     name: fali do sul
     auto: true
   - translation_iso: rus
-    name: сут фалийский язык
+    name: южный фалийский язык
     auto: true
   - translation_iso: spa
     name: Fali del Sur

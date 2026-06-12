@@ -22,7 +22,7 @@ translations:
     name: اللغة هونغشويهي الوسطى
     auto: true
   - translation_iso: ben
-    name: কেনতরাল হোংশুইহে ঝুয়াং
+    name: মধ্য হোংশুইহে ঝুয়াং
     auto: true
   - translation_iso: deu
     name: Zentral-Hongshuihe-Zhuang
@@ -33,7 +33,7 @@ translations:
     name: मध्य होंगशुईहे ज़ुआंग
     auto: true
   - translation_iso: ind
-    name: Bahasa Central Hongshuihe Zhuang
+    name: Bahasa Hongshuihe Zhuang Tengah
     auto: true
   - translation_iso: jpn
     name: セントラル・ホンシュイ河・ズアン語
@@ -45,7 +45,7 @@ translations:
     name: zhuang de Hongshuihe central
     auto: true
   - translation_iso: rus
-    name: кентрал хонгшуихе жуангский язык
+    name: центральный хонгшуихе жуангский язык
     auto: true
   - translation_iso: spa
     name: Zhuang central del Hongshuihe

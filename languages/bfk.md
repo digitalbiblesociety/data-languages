@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: बान खोर सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Ban Khor Sign Language
+    name: Bahasa Isyarat Ban Khor
     auto: true
   - translation_iso: jpn
     name: バンコール手話

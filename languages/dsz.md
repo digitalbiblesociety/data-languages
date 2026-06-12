@@ -20,7 +20,7 @@ translations:
     name: ماردين ساين لانجويج
     auto: true
   - translation_iso: ben
-    name: মারদিন সিগন লাঙুয়াগে
+    name: মারদিন ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Mardin-Gebärdensprache
@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: मार्डिन सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Mardin Sign Language
+    name: Bahasa Isyarat Mardin
     auto: true
   - translation_iso: jpn
     name: マルディン手話

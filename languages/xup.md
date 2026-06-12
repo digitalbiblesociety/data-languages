@@ -22,7 +22,7 @@ translations:
     name: أبر أمبكوا
     auto: true
   - translation_iso: ben
-    name: উপ্পের উমপকুয়া
+    name: ঊর্ধ্ব উমপকুয়া
     auto: true
   - translation_iso: deu
     name: Umpqua
@@ -32,7 +32,7 @@ translations:
     name: ऊपरी उम्पक्वा
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Umpqua
+    name: Bahasa Umpqua Hulu
     auto: true
   - translation_iso: jpn
     name: アッパー・ウムプクア語
@@ -44,7 +44,7 @@ translations:
     name: umpqua superior
     auto: true
   - translation_iso: rus
-    name: уппер умпквский язык
+    name: верхний умпквский язык
     auto: true
   - translation_iso: spa
     name: alto Umpqua

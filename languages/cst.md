@@ -21,7 +21,7 @@ translations:
     name: أوهلوني الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন ওহলোনে
+    name: উত্তর ওহলোনে
     auto: true
   - translation_iso: deu
     name: Nördliches Ohlone
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी ओह्लोन
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Ohlone
+    name: Bahasa Ohlone Utara
     auto: true
   - translation_iso: jpn
     name: ノーザン・オーロン語

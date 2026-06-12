@@ -22,7 +22,7 @@ translations:
     name: لغة ميــاو تشياندونغ الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন কিয়ানদোং মিয়াও
+    name: পূর্ব কিয়ানদোং মিয়াও
     auto: true
   - translation_iso: deu
     name: Östliches Qiandong-Miao
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी क्यानडोंग मियाओ
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Qiandong Miao
+    name: Bahasa Qiandong Miao Timur
     auto: true
   - translation_iso: jpn
     name: 東部黔東苗語
@@ -45,7 +45,7 @@ translations:
     name: Miao Qiandong Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн киандонг миаоский язык
+    name: восточный киандонг миаоский язык
     auto: true
   - translation_iso: spa
     name: Miao Qiandong oriental

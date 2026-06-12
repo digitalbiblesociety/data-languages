@@ -21,7 +21,7 @@ translations:
     name: كيسي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন কিসি
+    name: দক্ষিণ কিসি
     auto: true
   - translation_iso: deu
     name: Süd-Kisi
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी किसी
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Kisi
+    name: Bahasa Kisi Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・キシ語
@@ -44,7 +44,7 @@ translations:
     name: Kissi meridional
     auto: true
   - translation_iso: rus
-    name: сутерн кисийский язык
+    name: южный кисийский язык
     auto: true
   - translation_iso: spa
     name: Kisi Meridional

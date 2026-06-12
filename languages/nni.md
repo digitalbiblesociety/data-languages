@@ -21,7 +21,7 @@ translations:
     name: نوالو الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথ নুয়াউলু
+    name: উত্তর নুয়াউলু
     auto: true
   - translation_iso: deu
     name: Nord-Nuaulu
@@ -43,7 +43,7 @@ translations:
     name: Nuaulu do Norte
     auto: true
   - translation_iso: rus
-    name: норт нуаулуский язык
+    name: северный нуаулуский язык
     auto: true
   - translation_iso: spa
     name: Nuaulu septentrional

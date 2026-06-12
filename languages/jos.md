@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأردنية
   - translation_iso: ben
-    name: জোরদানিয়ান সিগন লাঙুয়াগে
+    name: জোরদানিয়ান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Jordanische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: जॉर्डनियन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Jordanian Sign Language
+    name: Bahasa Isyarat Jordanian
     auto: true
   - translation_iso: jpn
     name: ヨルダン手話
@@ -41,7 +41,7 @@ translations:
     name: Língua de Sinais Jordaniana
     auto: true
   - translation_iso: rus
-    name: йорданиан сигн лангуагейский язык
+    name: йорданианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas jordana

@@ -21,7 +21,7 @@ translations:
     name: أبر جراند فالي داني
     auto: true
   - translation_iso: ben
-    name: উপ্পের গরানদ ভাল্লেয় দানি
+    name: ঊর্ধ্ব গরানদ ভাল্লেয় দানি
     auto: true
   - translation_iso: deu
     name: Upper Grand Valley Dani
@@ -33,7 +33,7 @@ translations:
     name: ऊपरी ग्रैंड वैली दानी
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Grand Valley Dani
+    name: Bahasa Grand Valley Dani Hulu
     auto: true
   - translation_iso: jpn
     name: アッパー・グランド・ヴァレー・ダニ語
@@ -45,7 +45,7 @@ translations:
     name: Dani do Alto Grand Valley
     auto: true
   - translation_iso: rus
-    name: уппер гранд валлей данийский язык
+    name: верхний гранд валлей данийский язык
     auto: true
   - translation_iso: spa
     name: Dani del Alto Valle Grande

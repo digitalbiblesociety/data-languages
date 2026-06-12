@@ -21,7 +21,7 @@ translations:
     name: "اللغة ما'دي الجنوبية"
     auto: true
   - translation_iso: ben
-    name: সোউথেরন মাদি
+    name: দক্ষিণ মাদি
     auto: true
   - translation_iso: deu
     name: "Southern Ma'di"
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी मादी
     auto: true
   - translation_iso: ind
-    name: "Bahasa Southern Ma'di"
+    name: "Bahasa Ma'di Selatan"
     auto: true
   - translation_iso: jpn
     name: サザン・マディ語
@@ -44,7 +44,7 @@ translations:
     name: "Ma'di Meridional"
     auto: true
   - translation_iso: rus
-    name: сутерн мадийский язык
+    name: южный мадийский язык
     auto: true
   - translation_iso: spa
     name: "Ma'di meridional"

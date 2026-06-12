@@ -22,7 +22,7 @@ translations:
     name: لغة إيسترن أسيپا
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন আকিপা
+    name: পূর্ব আকিপা
     auto: true
   - translation_iso: deu
     name: Ost-Acipa
@@ -33,7 +33,7 @@ translations:
     name: पूर्वी अचिपा
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Acipa
+    name: Bahasa Acipa Timur
     auto: true
   - translation_iso: jpn
     name: 東部アシパ語
@@ -45,7 +45,7 @@ translations:
     name: Acipa Oriental
     auto: true
   - translation_iso: rus
-    name: еастерн акипский язык
+    name: восточный акипский язык
     auto: true
   - translation_iso: spa
     name: acipa oriental

@@ -21,7 +21,7 @@ translations:
     name: نورذرن روجلاي
     auto: true
   - translation_iso: ben
-    name: নোরথেরন রোগলাই
+    name: উত্তর রোগলাই
     auto: true
   - translation_iso: deu
     name: Nord-Roglai
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी रोग्लाई
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Roglai
+    name: Bahasa Roglai Utara
     auto: true
   - translation_iso: jpn
     name: 北ログライ語
@@ -44,7 +44,7 @@ translations:
     name: Roglai Setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн роглаийский язык
+    name: северный роглаийский язык
     auto: true
   - translation_iso: spa
     name: Roglai septentrional

@@ -20,7 +20,7 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المغربية
   - translation_iso: ben
-    name: মোরোক্কান সিগন লাঙুয়াগে
+    name: মোরোক্কান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Marokkanische Gebärdensprache
@@ -30,7 +30,7 @@ translations:
     name: मोरक्कन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Moroccan Sign Language
+    name: Bahasa Isyarat Moroccan
     auto: true
   - translation_iso: jpn
     name: モロッコ手話

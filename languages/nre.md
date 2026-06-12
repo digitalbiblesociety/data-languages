@@ -31,7 +31,7 @@ translations:
   - translation_iso: hin
     name: रेंगमा भाषा
   - translation_iso: ind
-    name: Bahasa Southern Rengma Naga
+    name: Bahasa Rengma Naga Selatan
     auto: true
   - translation_iso: jpn
     name: 南レングマ・ナガ語
@@ -42,7 +42,7 @@ translations:
     name: Naga Rengma Meridional
     auto: true
   - translation_iso: rus
-    name: сутерн ренгма нагский язык
+    name: южный ренгма нагский язык
     auto: true
   - translation_iso: spa
     name: Rengma

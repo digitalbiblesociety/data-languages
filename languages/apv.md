@@ -32,7 +32,7 @@ translations:
     name: उत्तरी नाम्बिकवारा
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Nambikwara
+    name: Bahasa Nambikwara Utara
     auto: true
   - translation_iso: jpn
     name: 北部ナンビクワラ語
@@ -44,7 +44,7 @@ translations:
     name: Nambikwara do Norte
     auto: true
   - translation_iso: rus
-    name: нортерн намбикварский язык
+    name: северный намбикварский язык
     auto: true
   - translation_iso: spa
     name: Nambikwara septentrional

@@ -23,7 +23,7 @@ translations:
     name: اللغة بالوتشي الجنوبية
     auto: true
   - translation_iso: ben
-    name: সোউথেরন বালোচি
+    name: দক্ষিণ বালোচি
     auto: true
   - translation_iso: deu
     name: Süd-Belutschisch

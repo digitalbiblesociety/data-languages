@@ -22,7 +22,7 @@ translations:
     name: لغة الإشارة Salvadoran
     auto: true
   - translation_iso: ben
-    name: সালভাদোরান সিগন লাঙুয়াগে
+    name: সালভাদোরান ইশারা ভাষা
     auto: true
   - translation_iso: deu
     name: Salvadorische Gebärdensprache
@@ -32,7 +32,7 @@ translations:
     name: साल्वाडोरी सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Salvadoran Sign Language
+    name: Bahasa Isyarat Salvadoran
     auto: true
   - translation_iso: jpn
     name: サルバドル手話
@@ -43,7 +43,7 @@ translations:
     name: Língua de Sinais Salvadorenha
     auto: true
   - translation_iso: rus
-    name: салвадоран сигн лангуагейский язык
+    name: салвадоранский жестовый язык
     auto: true
   - translation_iso: spa
     name: lengua de señas salvadoreñas

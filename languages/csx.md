@@ -39,7 +39,7 @@ translations:
     name: Língua de Sinais Cambojana
     auto: true
   - translation_iso: rus
-    name: камбодиан сигн лангуагейский язык
+    name: камбодианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lenguaje de signos camboyano

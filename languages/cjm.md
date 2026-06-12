@@ -23,7 +23,7 @@ translations:
     name: الشام الشرقية
     auto: true
   - translation_iso: ben
-    name: এয়াসতেরন চাম
+    name: পূর্ব চাম
     auto: true
   - translation_iso: deu
     name: Östliches Cham
@@ -34,7 +34,7 @@ translations:
     name: पूर्वी चाम
     auto: true
   - translation_iso: ind
-    name: Bahasa Eastern Cham
+    name: Bahasa Cham Timur
     auto: true
   - translation_iso: jpn
     name: チャム語

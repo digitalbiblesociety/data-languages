@@ -30,7 +30,7 @@ translations:
   - translation_iso: hin
     name: हौसा सांकेतिक भाषा
   - translation_iso: ind
-    name: Bahasa Hausa Sign Language
+    name: Bahasa Isyarat Hausa
     auto: true
   - translation_iso: jpn
     name: ハウサ手話
@@ -40,7 +40,7 @@ translations:
   - translation_iso: por
     name: Língua Gestual Hausa
   - translation_iso: rus
-    name: хауса сигн лангуагейский язык
+    name: хаусский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas hausa

@@ -32,7 +32,7 @@ translations:
     name: लामन्सो
     auto: true
   - translation_iso: ind
-    name: Bahasa Lamnso
+    name: "Bahasa Lamnso'"
     auto: true
   - translation_iso: jpn
     name: ラムソ語

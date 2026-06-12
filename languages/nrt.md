@@ -22,7 +22,7 @@ translations:
     name: كالابويا الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কালাপুয়া
+    name: উত্তর কালাপুয়া
     auto: true
   - translation_iso: deu
     name: Nördliches Kalapuya
@@ -33,7 +33,7 @@ translations:
     name: उत्तरी कलापुया
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Kalapuya
+    name: Bahasa Kalapuya Utara
     auto: true
   - translation_iso: jpn
     name: 北カラプヤ語

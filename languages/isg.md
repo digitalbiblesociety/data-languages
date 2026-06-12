@@ -29,7 +29,7 @@ translations:
   - translation_iso: hin
     name: आयरिश साइन लैंग्वेज
   - translation_iso: ind
-    name: Bahasa Irish Sign Language
+    name: Bahasa Isyarat Irish
     auto: true
   - translation_iso: jpn
     name: アイルランド手話

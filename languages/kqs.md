@@ -21,7 +21,7 @@ translations:
     name: لغة كيسي الشمالية
     auto: true
   - translation_iso: ben
-    name: নোরথেরন কিস্সি
+    name: উত্তর কিস্সি
     auto: true
   - translation_iso: deu
     name: Nord-Kissi
@@ -32,7 +32,7 @@ translations:
     name: उत्तरी किस्सी
     auto: true
   - translation_iso: ind
-    name: Bahasa Northern Kissi
+    name: Bahasa Kissi Utara
     auto: true
   - translation_iso: jpn
     name: ノーザン・キッシ語
@@ -44,7 +44,7 @@ translations:
     name: Kissi setentrional
     auto: true
   - translation_iso: rus
-    name: нортерн киссийский язык
+    name: северный киссийский язык
     auto: true
   - translation_iso: spa
     name: Kissi Septentrional

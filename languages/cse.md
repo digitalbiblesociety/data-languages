@@ -30,7 +30,7 @@ translations:
     name: चेक सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Czech Sign Language
+    name: Bahasa Isyarat Czech
     auto: true
   - translation_iso: jpn
     name: チェコ手話

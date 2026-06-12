@@ -31,7 +31,7 @@ translations:
     name: नॉर्वेजियन सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Norwegian Sign Language
+    name: Bahasa Isyarat Norwegian
     auto: true
   - translation_iso: jpn
     name: ノルウェー手話

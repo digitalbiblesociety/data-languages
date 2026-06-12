@@ -22,7 +22,7 @@ translations:
     name: الأعلى تشهاليس
     auto: true
   - translation_iso: ben
-    name: উপ্পের চেহালিস
+    name: ঊর্ধ্ব চেহালিস
     auto: true
   - translation_iso: deu
     name: Oberchehalis
@@ -33,7 +33,7 @@ translations:
     name: ऊपरी चेहालिस
     auto: true
   - translation_iso: ind
-    name: Bahasa Upper Chehalis
+    name: Bahasa Chehalis Hulu
     auto: true
   - translation_iso: jpn
     name: 上チヘリス語

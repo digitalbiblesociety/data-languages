@@ -21,7 +21,7 @@ translations:
     name: سووثإرن غآلإ
     auto: true
   - translation_iso: ben
-    name: সোউথেরন ঘালে
+    name: দক্ষিণ ঘালে
     auto: true
   - translation_iso: deu
     name: Südliches Ghale
@@ -32,7 +32,7 @@ translations:
     name: दक्षिणी घले
     auto: true
   - translation_iso: ind
-    name: Bahasa Southern Ghale
+    name: Bahasa Ghale Selatan
     auto: true
   - translation_iso: jpn
     name: サザン・ガレ語
@@ -44,7 +44,7 @@ translations:
     name: ghale do sul
     auto: true
   - translation_iso: rus
-    name: сутерн гхалейский язык
+    name: южный гхалейский язык
     auto: true
   - translation_iso: spa
     name: Ghale meridional

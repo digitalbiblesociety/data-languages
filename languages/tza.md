@@ -31,7 +31,7 @@ translations:
     name: तंजानियाई सांकेतिक भाषा
     auto: true
   - translation_iso: ind
-    name: Bahasa Tanzanian Sign Language
+    name: Bahasa Isyarat Tanzanian
     auto: true
   - translation_iso: jpn
     name: タンザニア手話
@@ -41,7 +41,7 @@ translations:
   - translation_iso: por
     name: Língua de Sinais da Tanzânia
   - translation_iso: rus
-    name: танзаниан сигн лангуагейский язык
+    name: танзанианский жестовый язык
     auto: true
   - translation_iso: spa
     name: Lengua de señas de Tanzania
