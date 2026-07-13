@@ -2,10 +2,12 @@
 iso: mxa
 name: Northwest Oaxaca Mixtec
 autonym: Mixteco de Yucuná
-alt_names: [Central Baja Mixtec, "Mixtec, Northwest Oaxaca", Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Silacayoapan Mixtec]
+alt_names: [Central Baja Mixtec, "Mixtec, Northwest Oaxaca", Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Silacayoapan Mixtec, "Tu'un davi"]
 population: 5430
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixtec languages of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西北瓦哈卡米克斯特克语
     auto: true
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

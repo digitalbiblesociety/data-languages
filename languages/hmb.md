@@ -6,11 +6,14 @@ alt_names: [Hombori Songhay, Songai, Songay, Songay Senni, Songhai, Songhay, "So
 population: 25000
 country_id: ML
 country_name: Mali
+location: Burkina Faso
+area: Songhay language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.29481
 longitude: -1.69301
+language_map_img: Songhay_languages.svg
 glottocode: humb1243
 glottolog_family_id: song1307
 glottolog_family_name: Songhay

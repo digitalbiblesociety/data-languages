@@ -2,10 +2,12 @@
 iso: nyi
 name: Ama
 autonym: Ama
-alt_names: [Ama-nosa, Inyimang, Nyima, Nyiman, Nyimang, nOsa]
+alt_names: [Ama-nosa, Inyimang, Nyima, Nyiman, Nyimang, nOsa, Nyuwing]
 population: 158000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilo-Saharan language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living

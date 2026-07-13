@@ -3,10 +3,12 @@ iso: zpu
 macrolanguage_id: zap
 name: Yalálag Zapotec
 autonym: "Zapotec, Yalálag"
-alt_names: [Cajonos Zapotec, Northern Sapoteko, Villalta (non-preferred), Yalalag Zapotec, Zapotec, dill xhon]
+alt_names: [Cajonos Zapotec, Northern Sapoteko, Villalta (non-preferred), Yalalag Zapotec, Zapotec, dill xhon, Yalálag, Zapoteco de Yalálag]
 population: 3500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

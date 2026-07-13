@@ -2,10 +2,12 @@
 iso: pug
 name: Phuie
 autonym: Phuie
-alt_names: [Buguli, Buguri, Phuien, Pougouli, Puguli, Pwa, Pwe, Pwie, Pwien, Pwo]
+alt_names: [Buguli, Buguri, Phuien, Pougouli, Puguli, Pwa, Pwe, Pwie, Pwien, Pwo, Phuó]
 population: 14300
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

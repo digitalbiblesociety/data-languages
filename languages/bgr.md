@@ -2,10 +2,12 @@
 iso: bgr
 name: Bawm Chin
 autonym: Banjogi
-alt_names: [Bawm, Bawn, Bawng, Bom, Chin, Chin (Bawm), Chin (Central), Chin bom, "Chin, Bawm", "Chin,Bawm"]
+alt_names: [Bawm, Bawn, Bawng, Bom, Chin, Chin (Bawm), Chin (Central), Chin bom, "Chin, Bawm", "Chin,Bawm", Boam, Laisaw, Laizo, Langkay]
 population: 15140
 country_id: IN
 country_name: India
+location: Bangladesh
+area: "Sino-Tibetan language spoken in Bangladesh, India, Myanmar"
 status_id: 6b
 scope: individual
 language_type: living

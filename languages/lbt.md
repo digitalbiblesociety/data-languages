@@ -2,10 +2,12 @@
 iso: lbt
 name: Lachi
 autonym: Cù Te
-alt_names: [Cu-Tê, I To, Ku Te, La Chi, Laji, Lají, Lati, Lipulio, Tai Lati, Y Mia, Y Poong, Y Pí, Y Póng, Y To]
+alt_names: [Cu-Tê, I To, Ku Te, La Chi, Laji, Lají, Lati, Lipulio, Tai Lati, Y Mia, Y Poong, Y Pí, Y Póng, Y To, Lachí, Mia, Y]
 population: 1450
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Kra language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

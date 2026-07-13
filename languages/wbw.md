@@ -2,9 +2,12 @@
 iso: wbw
 name: Woi
 autonym: "Wo'oi"
+alt_names: [Wo’oi]
 population: 1300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ulu Indau]
 population: null
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Chowie, Djaoi, Djau, Dyao, Dyawi, Ewanji, Ewenu, Ewenyoon, Ewenyun, 
 population: null
 country_id: AU
 country_name: Australia
+area: Nearly extinct dialect of the Bardi language of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct

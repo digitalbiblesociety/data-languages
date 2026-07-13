@@ -2,10 +2,12 @@
 iso: njo
 name: Ao Naga
 autonym: Central Naga
-alt_names: [Ao, Ao Group, Aoeg, Aorr, Aó, Cholimi, Dupdoria, Hatiggorīa, Hatigoria, Mongsen, Mongsen Ao language, Naga, "Naga, Ao", "Naga,Ao", Northern Naga, Nowgong, Paimi, Uri]
+alt_names: [Ao, Ao Group, Aoeg, Aorr, Aó, Cholimi, Dupdoria, Hatiggorīa, Hatigoria, Mongsen, Mongsen Ao language, Naga, "Naga, Ao", "Naga,Ao", Northern Naga, Nowgong, Paimi, Uri, Changki, Chongli, Chungli, Dordar, Longla, Mongsen Khari, Yacham]
 population: 260000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tibeto-Burman language spoken by the Ao of Nagaland in northeast India
 status_id: "4"
 scope: individual
 language_type: living

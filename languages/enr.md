@@ -6,6 +6,8 @@ alt_names: [Emem, Imimkal, Kiamerop]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language of West New Guinea
 status_id: 6b
 scope: individual
 language_type: living

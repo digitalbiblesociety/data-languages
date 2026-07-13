@@ -2,10 +2,12 @@
 iso: mic
 name: "Mi'kmaq"
 autonym: "Mi'kmawi'simk"
-alt_names: ["Mi'gmaq", "Mi'gmaw", "Mi'kmag", "Mi'kmaw", Micmac, Micmac (Canada), Micmac (Massachusetts), Micmac (Massachussets), Miigmao, Mikmakeg, Mikmaq simi, Míkmaq language, Restigouche, Микмак]
+alt_names: ["Mi'gmaq", "Mi'gmaw", "Mi'kmag", "Mi'kmaw", Micmac, Micmac (Canada), Micmac (Massachusetts), Micmac (Massachussets), Miigmao, Mikmakeg, Mikmaq simi, Míkmaq language, Restigouche, Микмак, Mi’gmaq, Mi’kmaq, Lꞌnuiꞌsimk, Miꞌgmaq, Miꞌgmaw, Miꞌgmawiꞌsimg, Miꞌkmaq, Miꞌkmaw, Míkmawísimk, Northern Micmac, Southern Micmac]
 population: 1500
 country_id: CA
 country_name: Canada
+location: Canada
+area: Eastern Algonquian language of Canada and the US
 status_id: 6b
 scope: individual
 language_type: living

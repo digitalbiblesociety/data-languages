@@ -2,10 +2,12 @@
 iso: cby
 name: Carabayo
 autonym: Aroje
-alt_names: ["\"Amazonas Macusa\"", Amazonas Macusa (pejorative)]
+alt_names: ["\"Amazonas Macusa\"", Amazonas Macusa (pejorative), “Amazonas Macusa”, Amazonas Macusa]
 population: 150
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Unclassified language of Colombia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: lbe
 name: Lak
 autonym: лакку маз (lakːu maz)
-alt_names: [Kazikumukhtsy, Laco, Lakeg, Laki, Lakça, Лакку маз]
+alt_names: [Kazikumukhtsy, Laco, Lakeg, Laki, Lakça, Лакку маз, Arakul, Ashtikulin, Balkar-Tsalakan, Balxar-Calakan, Kayalin-Mashikin, Kumkh, Kumux, Lakh, Pervotsovkrin, Shali, Shandi, Vicxin, Vikhlin, Vitskhin, Vixlin]
 population: 156300
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 42.13275
 longitude: 47.0809
+language_map_img: 500px-Northeast_Caucasian_languages.webp
 scripts: [Cyrl]
 glottocode: lakk1252
 glottolog_family_id: nakh1245

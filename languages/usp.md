@@ -6,6 +6,8 @@ alt_names: [Uspantec, Uspanteeks, Uspantek language, Uspantekisk, Uspanteko, Usp
 population: 5130
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language of Guatemala
 status_id: "5"
 scope: individual
 language_type: living

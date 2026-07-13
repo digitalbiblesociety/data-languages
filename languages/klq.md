@@ -6,6 +6,8 @@ alt_names: [Dumu, Kai-Iri, Kibiri, Miyak, Rumuwa, Tumu]
 population: 3870
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

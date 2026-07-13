@@ -2,15 +2,18 @@
 iso: kog
 name: Cogui
 autonym: Kággaba
-alt_names: [Cagaba, Coghui, Coqui, Cágaba, Kagaba, Kaggaba, Kogi, Kogui, Kágaba, Káugian, Köggaba]
+alt_names: [Cagaba, Coghui, Coqui, Cágaba, Kagaba, Kaggaba, Kogi, Kogui, Kágaba, Káugian, Köggaba, Kawgian]
 population: 9910
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chibchan language spoken in Colombia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.94849
 longitude: -73.80426
+language_map_img: Lingua_kogui.webp
 glottocode: cogu1240
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

@@ -3,10 +3,12 @@ iso: zca
 macrolanguage_id: zap
 name: Coatecas Altas Zapotec
 autonym: (San Juan Coatecas Altas)
-alt_names: [Amatec Zapotec, Amatlán Zapotec, Central Sapoteko, Zapotec, "Zapotec, Coatecas Altas", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Coatecas Altas, Zapotèque de San Felipe Tejalapan]
+alt_names: [Amatec Zapotec, Amatlán Zapotec, Central Sapoteko, Zapotec, "Zapotec, Coatecas Altas", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Coatecas Altas, Zapotèque de San Felipe Tejalapan, Coatecas Altas]
 population: 4880
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

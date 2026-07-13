@@ -6,6 +6,8 @@ alt_names: [Gyirong, Kyirong]
 population: 4790
 country_id: CN
 country_name: China
+location: China
+area: Tibetic language spoken in Tibet
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 克雍语
     auto: true
 ---
+Kyirong is a language from the subgroup of Tibetic languages spoken in the Gyirong County of the Shigatse prefecture, of the Tibetan Autonomous Region.

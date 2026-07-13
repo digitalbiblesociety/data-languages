@@ -2,10 +2,12 @@
 iso: lmy
 name: Lamboya
 autonym: bahasa Lamboya
-alt_names: [Indonesia, Laboya]
+alt_names: [Indonesia, Laboya, Nggaura]
 population: 25000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

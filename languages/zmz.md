@@ -2,10 +2,12 @@
 iso: zmz
 name: Mbandja
 autonym: Mbandza
-alt_names: [Banja, Mbanja, Mbanza]
+alt_names: [Banja, Mbanja, Mbanza, Gbado, Kala]
 population: 367400
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Banda language spoken in central Africa
 status_id: "5"
 scope: individual
 language_type: living

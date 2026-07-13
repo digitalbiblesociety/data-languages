@@ -2,10 +2,12 @@
 iso: mbl
 name: Maxakalí
 autonym: "(Tikmũ'ũn) Yĩy'ax"
-alt_names: [Caposho, Capoxo, Cumanasho, Kapoxó, Kumanasho, Machacali, Macuni, Makoní, Mashakali, Mashakalí, Maxacalí, Maxacari, Maxakali, Menacho, Momaxo, Monachobm, Monaxo, Monocho, Monosho, Monoxó]
+alt_names: [Caposho, Capoxo, Cumanasho, Kapoxó, Kumanasho, Machacali, Macuni, Makoní, Mashakali, Mashakalí, Maxacalí, Maxacari, Maxakali, Menacho, Momaxo, Monachobm, Monaxo, Monocho, Monosho, Monoxó, Kumanuxú, Monacó, Tikmuún, Tikmũꞌũn Yĩyꞌax]
 population: 1270
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Macro-Jê language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Hin, Hoen, "Hu'n", Hun, Nha Heun, Nia Hoen, Niahon, Nyah Heuny, Nyah
 population: null
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.10343
 longitude: 106.54295
+language_map_img: 500px-Nyaheun_language.webp
 glottocode: nyah1249
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

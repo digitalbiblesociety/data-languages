@@ -6,6 +6,8 @@ alt_names: [Buozaang, Buyang, Buyang Zhuang, "Buyang, Langnian", Eastern Buyang,
 population: 300
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra-Dai language spoken in China
 status_id: 8a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 郎念布央语
 ---
+Buyang is a Kra language spoken in Guangnan and Funing counties, Yunnan Province, China by the Buyang people. It is important to the reconstruction of the hypothetical macrofamily Austro-Tai as it retains the disyllabic roots characteristic of Austronesian languages. Examples are "to die", "eye", "head", and "eight".

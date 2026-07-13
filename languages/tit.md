@@ -6,11 +6,13 @@ alt_names: [Timigua, Tiniguan, Tiniwa]
 population: 1
 country_id: CO
 country_name: Colombia
+area: Endangered language of Colombia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 2.716
 longitude: -73.768
+language_map_img: Tinigua.webp
 glottocode: tini1245
 wikidata_id: Q3029805
 wikipedia_url: "https://en.wikipedia.org/wiki/Tinigua_language"

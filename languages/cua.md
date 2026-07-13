@@ -6,11 +6,14 @@ alt_names: [Bong Miew, Kor, Traw]
 population: 12000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Mon–Khmer language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 15.16883
 longitude: 108.43092
+language_map_img: 500px-Cua_Language.webp
 glottocode: cuaa1241
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

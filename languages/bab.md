@@ -2,10 +2,11 @@
 iso: bab
 name: "Bainouk-Gunyuño"
 autonym: " Nyun"
-alt_names: [Bagnoun, Bainuk, Banhum, Banyuk, Banyum, Banyun, Banyung, Baïnounk Gujaher, Elomay, Elunay]
+alt_names: [Bagnoun, Bainuk, Banhum, Banyuk, Banyum, Banyun, Banyung, Baïnounk Gujaher, Elomay, Elunay, Guñuun]
 population: 8860
 country_id: GW
 country_name: "Guinea-Bissau"
+area: Senegambian dialect cluster of West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -50,3 +51,4 @@ translations:
     name: 拜努克-古尼翁语
     auto: true
 ---
+Banyun (Banyum), Nyun, or Bainouk, is a Senegambian language group of around 8 closely related languages in Senegal and Guinea-Bissau.

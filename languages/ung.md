@@ -6,6 +6,8 @@ alt_names: [Andedja, Andidja, Angarinjin, Arawari, Arkarin-jindja, Engariñín, 
 population: 59
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language of northern Western Australia
 status_id: "7"
 scope: individual
 language_type: living

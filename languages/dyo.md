@@ -2,10 +2,12 @@
 iso: dyo
 name: "Jola-Fonyi"
 autonym: kujóolay
-alt_names: [Diola, Diola Fogny, Diola-Fogny, Dyola, Fogny, Jola, Jola-Fogny, Jóola, Kujamataak, Kújoolaak Kati Fooñi]
+alt_names: [Diola, Diola Fogny, Diola-Fogny, Dyola, Fogny, Jola, Jola-Fogny, Jóola, Kujamataak, Kújoolaak Kati Fooñi, Jóola-Fóoñi, Kújoolaak kati Fóoñi, Yola, Buluf, Joola-Fogny, Kalounaye, Kombo, Kújoolaak kati Kúfooñaak, Narang, kújoolaay]
 population: 457000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Jola language spoken in West Africa
 status_id: "4"
 scope: individual
 language_type: living

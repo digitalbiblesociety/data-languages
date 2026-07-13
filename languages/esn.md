@@ -2,10 +2,11 @@
 iso: esn
 name: Salvadoran Sign Language
 autonym: El Salvadoran Sign Language
-alt_names: [LESSA]
+alt_names: [LESSA, LESA]
 population: 26000
 country_id: SV
 country_name: El Salvador
+area: Sign language used in El Salvador
 status_id: "4"
 scope: individual
 language_type: living

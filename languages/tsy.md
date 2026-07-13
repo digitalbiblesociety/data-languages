@@ -5,6 +5,7 @@ autonym: null
 population: 500
 country_id: ML
 country_name: Mali
+area: Deaf sign language of Mali
 status_id: 6a
 scope: individual
 language_type: living

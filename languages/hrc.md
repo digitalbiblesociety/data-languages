@@ -5,6 +5,7 @@ autonym: Tanga
 population: 9033
 country_id: PG
 country_name: Papua New Guinea
+area: Oceanic language of New Ireland
 status_id: 6a
 scope: individual
 language_type: living

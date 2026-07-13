@@ -2,10 +2,12 @@
 iso: nas
 name: Naasioi
 autonym: null
-alt_names: [Aunge, Kieta, Kieta Talk, Nasioi, Nasioyeg]
+alt_names: [Aunge, Kieta, Kieta Talk, Nasioi, Nasioyeg, Guava, Kongara, "Kongarana'", Orami, Pakia-Sideronsi, Pirung]
 population: 22000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

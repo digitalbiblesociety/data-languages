@@ -6,6 +6,8 @@ alt_names: [Bonny, Ubani, Ịjọ]
 population: 60000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ijo language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 伊巴尼语
     auto: true
 ---
+Kalabari is an Ijo language of Nigeria spoken in Rivers State and Bayelsa State by the Awome people. Its three dialects are mutually intelligible. The Kalabari dialect is one of the best-documented varieties of Ijo, and as such is frequently used as the prime example of Ijo in linguistic literature.

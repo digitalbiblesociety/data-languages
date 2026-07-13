@@ -2,10 +2,12 @@
 iso: mpd
 name: Machinere
 autonym: Piro
-alt_names: [Manchinere, Manchineri, Manitenere, Manitenerí, Manitenére, Mashineri, Maxineri, Maxineri (Brésil), Maxineri (État plurinational de Bolivie), Maxinéri]
+alt_names: [Manchinere, Manchineri, Manitenere, Manitenerí, Manitenére, Mashineri, Maxineri, Maxineri (Brésil), Maxineri (État plurinational de Bolivie), Maxinéri, Machineri, Manitené]
 population: 953
 country_id: BR
 country_name: Brazil
+location: Bolivia
+area: Maipurean language spoken in Peru
 status_id: "7"
 scope: individual
 language_type: living

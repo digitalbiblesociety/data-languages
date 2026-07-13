@@ -2,15 +2,18 @@
 iso: kip
 name: Sheshi Kham
 autonym: Kham language
-alt_names: [Kham, "Kham, Sheshi", "Kham,Sheshi", Khamkura, Khams, Proto-Kham, Sheshi]
+alt_names: [Kham, "Kham, Sheshi", "Kham,Sheshi", Khamkura, Khams, Proto-Kham, Sheshi, Jangkoti, Tapnanggi]
 population: 20000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan language of western Nepal.
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 27.94373
 longitude: 82.64667
+language_map_img: 500px-Map_of_Magar_Kham.webp
 glottocode: shes1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
@@ -74,3 +77,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Magar Kham, also known as Kham, Kham Magar, and Khamkura, is the Sino-Tibetan language variety of the Northern Magar people of Nepal. The language is situated in the upper elevations of Baglung, East Rukum, and Rolpa districts. Based on census data taken in 2021, the total population of Magar Kham is estimated to be about 91,753 speakers.

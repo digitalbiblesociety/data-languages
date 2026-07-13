@@ -2,15 +2,18 @@
 iso: kam
 name: Kamba
 autonym: Kikamba
-alt_names: [Kamba, Kamba language, Kekamba]
+alt_names: [Kamba, Kamba language, Kekamba, Akamba, Kiikamba, Machakos, Masaku, Mumoni, North Kitui, South Kitui]
 population: 4660000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -1.60827
 longitude: 37.95319
+language_map_img: kam.webp
 scripts: [Latn]
 glottocode: kamb1297
 glottolog_family_id: atla1278

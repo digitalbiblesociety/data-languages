@@ -6,6 +6,8 @@ alt_names: [Gesa, Geser, Goram, Goran, Gorom, Gorong, Seram, Seran, Seran Laut]
 population: 36500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

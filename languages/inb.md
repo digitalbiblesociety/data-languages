@@ -2,15 +2,18 @@
 iso: inb
 name: Inga
 autonym: Ingano
-alt_names: [Colombia, Colombia Quechua, Highland Inga, Inga Kichwa, Inga-Kichwa, Ingo, Quichua inga]
+alt_names: [Colombia, Colombia Quechua, Highland Inga, Inga Kichwa, Inga-Kichwa, Ingo, Quichua inga, Aponte Inga, San Andrés Inga, Santiago Inga]
 population: 22000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Kichwa dialect of Columbia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 1.00313
 longitude: -76.86062
+language_map_img: Inga_kichwa.webp
 glottocode: inga1252
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan

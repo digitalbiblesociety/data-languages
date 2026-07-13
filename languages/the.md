@@ -2,15 +2,18 @@
 iso: the
 name: Chitwania Tharu
 autonym: (polyphyletic)
-alt_names: [Chitawan Tharu, Chituan Tharu, "Tharu, Chitwania"]
+alt_names: [Chitawan Tharu, Chituan Tharu, "Tharu, Chitwania", Chitoniya Tharu, Nawalparasi Tharu, Central Tharu, Chhetriya Tharu, Chitwan Tharu, Madhya Chhetriya, Madhya Ksetriya Tharu, Tharu]
 population: 285000
 country_id: NP
 country_name: Nepal
+location: "India, Map 3"
+area: Indo-Aryan language group of Nepal and India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.58247
 longitude: 84.40825
+language_map_img: 500px-Tharu_Area.webp
 glottocode: chit1274
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -74,3 +77,4 @@ rolv_dialects:
     country_id: NP
     location: "Nepal, Bagmati, Narayani, Chitwan"
 ---
+The Tharu or Tharuhat languages are any of the Indo-Aryan languages spoken by the Tharu people of the Terai region in Nepal, and neighboring regions of Uttarakhand, Uttar Pradesh and Bihar in India.

@@ -6,6 +6,8 @@ alt_names: [Ouala, Ouara, Samoe, Wára]
 population: 4500
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina
 status_id: 6b
 scope: individual
 language_type: living

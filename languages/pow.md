@@ -2,10 +2,12 @@
 iso: pow
 name: San Felipe Otlaltepec Popoloca
 autonym: "Popoloca, San Felipe Otlaltepec"
-alt_names: [Chocho-Popoloka, Popoloc occidental, Popoloca, Popoloca de San Felipe Otlaltepec, Popoloca del Poniente, Popoloca occidental, Western Popoloca, Western Popoloka]
+alt_names: [Chocho-Popoloka, Popoloc occidental, Popoloca, Popoloca de San Felipe Otlaltepec, Popoloca del Poniente, Popoloca occidental, Western Popoloca, Western Popoloka, San Felipe Otlaltepec, Huejonapan, Ngiba, Popoloca de Otlaltepec, Santa María Nativitas]
 population: 3000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Oto-Manguean language spoken in Mexico
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,5 @@ translations:
     name: 圣费利佩奥特拉特佩克波波卡语
     auto: true
 ---
+Western Popoloca is an indigenous language of Puebla state, Mexico. There are two principal varieties, sometimes counted as distinct languages,Santa Inés Ahuatempan Popoloca 
+San Felipe Otlaltepec Popoloca

@@ -6,6 +6,8 @@ alt_names: [Ngwané, Wane]
 population: 2100
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

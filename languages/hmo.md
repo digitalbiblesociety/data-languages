@@ -3,10 +3,11 @@ iso: hmo
 iso639_1: ho
 name: Hiri Motu
 autonym: Police Motu
-alt_names: [Hiri, Hirimotoueg, "Motu, Hiri", Pidgin Motu, Хири моту, Хири-моту, 히리 모투]
+alt_names: [Hiri, Hirimotoueg, "Motu, Hiri", Pidgin Motu, Хири моту, Хири-моту, 히리 모투, Austronesian Hiri Motu, Papuan Hiri Motu]
 population: 120000
 country_id: PG
 country_name: Papua New Guinea
+area: Austronesian language of Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living

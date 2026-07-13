@@ -2,10 +2,12 @@
 iso: hgm
 name: Haiǁom
 autonym: Haiǁom–ǂĀkhoe
-alt_names: ["\"Saan\"", "\"San\"", Hai.n//um, Hai//om, Haiom, "Hai||om"]
+alt_names: ["\"Saan\"", "\"San\"", Hai.n//um, Hai//om, Haiom, "Hai||om", “Saan”, “San”, Saan]
 population: 18400
 country_id: NA
 country_name: Namibia
+location: Namibia
+area: Khoekhoe dialect
 status_id: 6a
 scope: individual
 language_type: living

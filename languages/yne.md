@@ -2,12 +2,16 @@
 iso: yne
 name: "Lang'e"
 autonym: "La'u"
+alt_names: [La’u]
 population: 2000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+glottocode: lang1333
 wikidata_id: Q6485577
 wikipedia_url: "https://en.wikipedia.org/wiki/Lang%27e_language"
 translations:

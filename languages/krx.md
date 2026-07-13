@@ -2,10 +2,12 @@
 iso: krx
 name: Karon
 autonym: "Jola-Karone"
-alt_names: [Karone, Karoneg]
+alt_names: [Karone, Karoneg, Kaloon, Kalorn, Karoninka, Kuloonaay]
 population: 22400
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Endangered Jola language of West Africa
 status_id: 6a
 scope: individual
 language_type: living

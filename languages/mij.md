@@ -6,6 +6,8 @@ alt_names: [Mijong, Mungbam]
 population: 2000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living

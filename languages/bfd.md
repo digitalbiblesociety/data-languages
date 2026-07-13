@@ -2,10 +2,12 @@
 iso: bfd
 name: Bafut
 autonym: Fut
-alt_names: [Befe, Bufe, Fu]
+alt_names: [Befe, Bufe, Fu, Afughe, Bɨfɨɨ̀]
 population: 100000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: gue
 name: Gurindji
 autonym: " Kuurrinjtji"
-alt_names: [Coorinji, Corringi, Garundji, Goarango, Guirindji, Gurindgi, Gurindzi, Gurinji, Gurrinji, Guurindji, Kartangarurru, Koorangie, Kooringee, Korindji, Kurintji, Kwarandji, Kwaranjee, Malngin, Manoo, Manu, Tjial, Wadshara, Wandjira, Wanyjirra, We arr ung, We-arr-ung, Wurlayi]
+alt_names: [Coorinji, Corringi, Garundji, Goarango, Guirindji, Gurindgi, Gurindzi, Gurinji, Gurrinji, Guurindji, Kartangarurru, Koorangie, Kooringee, Korindji, Kurintji, Kwarandji, Kwaranjee, Malngin, Manoo, Manu, Tjial, Wadshara, Wandjira, Wanyjirra, We arr ung, We-arr-ung, Wurlayi, Wandjirra]
 population: 410
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "7"
 scope: individual
 language_type: living

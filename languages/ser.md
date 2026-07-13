@@ -6,11 +6,13 @@ alt_names: [Kitanemuk, "Maara'yam püvüravk", Serran]
 population: null
 country_id: US
 country_name: United States
+area: Uto-Aztecan language of southern California
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 33.94787
 longitude: -116.77196
+language_map_img: Serran_languages_map.svg
 glottocode: serr1255
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

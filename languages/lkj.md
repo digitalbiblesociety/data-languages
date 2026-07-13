@@ -6,6 +6,8 @@ alt_names: [Millikin]
 population: 3500
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Ibanic language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Gberi, Gweri, Moda, Muda]
 population: 600
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language spoken in South Sudan
 status_id: "7"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 莫达语
     auto: true
 ---
+Morokodo is a dialect continuum of Central Sudanic languages spoken in South Sudan.

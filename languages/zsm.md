@@ -3,15 +3,17 @@ iso: zsm
 macrolanguage_id: msa
 name: Standard Malay
 autonym: Bahasa Malaysia
-alt_names: [Formal Malay, Malaiisch, Malay, "Malay, Standard", Malayisch, Malayu, Melayu, Melayu Baku]
+alt_names: [Formal Malay, Malaiisch, Malay, "Malay, Standard", Malayisch, Malayu, Melayu, Melayu Baku, Bahasa Malayu]
 population: 16100000
 country_id: MY
 country_name: Malaysia
+area: Official language of Malaysia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 3.088957
 longitude: 101.698608
+language_map_img: Malay_language_Spoken_Area_Map_v1.webp
 glottocode: stan1306
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -52,3 +54,4 @@ translations:
     name: 标准马来语
     auto: true
 ---
+Malaysian Malay or Malaysian – endonymically known as Standard Malay or simply Malay – is a standardized form of the Malay language used in Malaysia and also used in Singapore and Brunei. Malaysian Malay is standardized from the Johor–Riau dialect of Malay, particularly a branch spoken in the state of Johor south of the Malay Peninsula. It is spoken by much of the Malaysian population, although most learn a vernacular Malay dialect or another native language first.

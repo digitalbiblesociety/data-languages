@@ -6,11 +6,13 @@ alt_names: [Italian, Italian (Turinese), Phì-âi-mùng-thi̍t-ngî, Piamontés,
 population: 700000
 country_id: IT
 country_name: Italy
+area: Gallo-Italic language spoken in Italy
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 45.46333
 longitude: 8.32366
+language_map_img: 500px-Piedmontese_Language_distribution.webp
 scripts: [Latn]
 glottocode: piem1238
 glottolog_family_id: indo1319

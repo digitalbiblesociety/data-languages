@@ -6,6 +6,8 @@ alt_names: [Kru, Tajuoso, Tajuosohn]
 population: 9600
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Jiddu, Jiiddu hizkuntza]
 population: 23000
 country_id: SO
 country_name: Somalia
+location: Somalia
+area: Afro-Asiatic language of Somalia
 status_id: 6a
 scope: individual
 language_type: living

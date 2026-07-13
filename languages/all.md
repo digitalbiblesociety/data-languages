@@ -2,10 +2,11 @@
 iso: all
 name: Allar
 autonym: "അള്ളാർ,ചാത്തൻ"
-alt_names: [Alan, Alanmar, Alar, Allan, Chatans]
+alt_names: [Alan, Alanmar, Alar, Allan, Chatans, Aalan]
 population: 350
 country_id: IN
 country_name: India
+area: Dravidian language of India
 status_id: null
 scope: individual
 language_type: living

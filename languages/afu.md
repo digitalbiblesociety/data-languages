@@ -2,10 +2,12 @@
 iso: afu
 name: Awutu
 autonym: Efutu
-alt_names: [Guang]
+alt_names: [Guang, Senya]
 population: 129000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

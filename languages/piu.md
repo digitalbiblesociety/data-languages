@@ -6,11 +6,14 @@ alt_names: ["'Wan-ka'winan", "'Wanka'winan", Aluridja, Bindaboo, Bindabu, Bindib
 population: 1100
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -23.29628
 longitude: 130.64348
+language_map_img: 500px-Pintupi_country.webp
 glottocode: pint1250
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

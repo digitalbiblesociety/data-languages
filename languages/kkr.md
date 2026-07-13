@@ -6,6 +6,8 @@ alt_names: [Bogghom, Boghom, Boghorom, Bohom, Bokiyim, Borrom, Burma, Burom, Bur
 population: 3050
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic languages of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

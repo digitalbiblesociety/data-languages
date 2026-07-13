@@ -6,6 +6,8 @@ alt_names: [Dintere, Iwoer, Iworo]
 population: 6900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Ok language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

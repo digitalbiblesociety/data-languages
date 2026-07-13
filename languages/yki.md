@@ -2,10 +2,12 @@
 iso: yki
 name: Yoke
 autonym: Pauwi
-alt_names: [Jauke, Pauwi I, Pauwi II, Yauke, Yoki]
+alt_names: [Jauke, Pauwi I, Pauwi II, Yauke, Yoki, Bitovondo]
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language of Papua, Indonesia, of uncertain affiliation"
 status_id: 6b
 scope: individual
 language_type: living

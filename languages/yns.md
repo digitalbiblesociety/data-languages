@@ -2,10 +2,12 @@
 iso: yns
 name: Yansi
 autonym: Eyansi
-alt_names: [Eyanzi, Kiyanzi, Yans, Yanzi]
+alt_names: [Eyanzi, Kiyanzi, Yans, Yanzi, East Yansi, Iyansi, Mbiem, West Yansi, Yeei, Yey]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living

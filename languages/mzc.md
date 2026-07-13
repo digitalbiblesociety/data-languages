@@ -5,6 +5,7 @@ autonym: Norsk tegnspråk
 population: 135000
 country_id: MG
 country_name: Madagascar
+area: Sign language used in Madagascar
 status_id: 6a
 scope: individual
 language_type: living

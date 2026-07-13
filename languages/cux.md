@@ -2,15 +2,18 @@
 iso: cux
 name: Tepeuxila Cuicatec
 autonym: "Cuicatec, Tepeuxila"
-alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
+alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila, Tepeuxila, Cuicatec de Concepción Pápalo, Santa María Pápalo Cuicatec, Cuicateco del centro, Dbaku, Dibaku, Santa María Pápalo]
 population: 8680
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Oto-Manguean language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.75598
 longitude: -96.78797
+language_map_img: Cuicatec_map.svg
 glottocode: tepe1280
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean

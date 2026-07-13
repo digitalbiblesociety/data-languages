@@ -6,6 +6,8 @@ alt_names: [Malek, Menandon, Minendon, Monanda, Monandu, Umbrak-Aiku]
 population: 730
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli dialects of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 扬古姆-蒙语
     auto: true
 ---
+Yangum is a Torricelli dialect cluster of Papua New Guinea. Gel is nearly extinct. The principal variety is Mon, which is also known as Aiku, Malek, Menandon ~ Minendon; these names have been used for all Yangum varieties plus the closely related Ambrak.

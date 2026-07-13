@@ -2,10 +2,11 @@
 iso: xul
 name: Ngunawal
 autonym: Gundungurra
-alt_names: [Nunukul]
+alt_names: [Nunukul, Gurungada]
 population: 80
 country_id: AU
 country_name: Australia
+area: "Extinct Pama–Nyungan language of New South Wales and ACT, Australia"
 status_id: "10"
 scope: individual
 language_type: extinct

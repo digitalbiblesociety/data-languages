@@ -2,15 +2,18 @@
 iso: tdd
 name: Tai Nüa
 autonym: ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ
-alt_names: [Chinese Shan, Chinese Tai, Dai Kong, Dai Na, Dai Nuea, Dehong, Dehong Dai, Paiyi, Tai Dehong, Tai Le, Tai Man, Tai Mao, Tai Neua, Tai Nua, Tai Nue, Tai Nuea, Tai Nü, Tai-Kong, Tai-Le, Tainuá, Tay Nüa, Tayok, Thai Chè, Thai Khè, Twelve Districts Shan, Yunannese Shan, "Yunnan Shant'ou"]
+alt_names: [Chinese Shan, Chinese Tai, Dai Kong, Dai Na, Dai Nuea, Dehong, Dehong Dai, Paiyi, Tai Dehong, Tai Le, Tai Man, Tai Mao, Tai Neua, Tai Nua, Tai Nue, Tai Nuea, Tai Nü, Tai-Kong, Tai-Le, Tainuá, Tay Nüa, Tayok, Thai Chè, Thai Khè, Twelve Districts Shan, Yunannese Shan, "Yunnan Shant'ou", Yunnan Shant’ou, Daide, Debao, Ka, La, Mang Shi, Mangshi, Meng Mao, Menggeng, Ruili, Sai, Shan, Tai Ka, Tai Kong, Tai Pong, Tai nö, Tai taü, Taile, Taita, Thaineau, Ya, Yongren, You]
 population: 726100
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra–Dai language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 21.783673
 longitude: 99.722045
+language_map_img: 500px-Tai_nuea_language.webp
 scripts: [Tale]
 glottocode: tain1252
 glottolog_family_id: taik1256

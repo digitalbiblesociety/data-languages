@@ -2,10 +2,12 @@
 iso: spl
 name: Selepet
 autonym: null
-alt_names: [Selepe]
+alt_names: [Selepe, North Selepet, South Selepet]
 population: 7240
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

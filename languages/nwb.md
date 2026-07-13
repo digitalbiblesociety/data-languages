@@ -2,10 +2,12 @@
 iso: nwb
 name: Nyabwa
 autonym: Nyaboa
-alt_names: [Niaboua, Nyabwa-Nyédébwa]
+alt_names: [Niaboua, Nyabwa-Nyédébwa, Kouzii, Kouzié, Niédéboua, Nyabobɔgo, Nyabobɔgʋ, Nyedebwa]
 population: 72000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

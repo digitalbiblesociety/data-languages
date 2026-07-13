@@ -2,10 +2,12 @@
 iso: gbv
 name: Gbanu
 autonym: Banu
-alt_names: ["'Bokoto", Gbanou, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
+alt_names: ["'Bokoto", Gbanou, Gbaya, Gbeya, Kara, Southern Gbaya, Suma, Bagili, Baguili, Bidikili, Budigri, Gbagili, Gbagiri]
 population: 95000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language of the Central African Republic
 status_id: "5"
 scope: individual
 language_type: living

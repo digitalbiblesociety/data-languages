@@ -2,15 +2,18 @@
 iso: mak
 name: Makasar
 autonym: Bahasa Makassar
-alt_names: [Goa, Macassar, Macassarese, Makassa, Makassaarsche, Makassar, Makassar-Bugis, Makassar-Sprache, Makassarese, Makassarese language, Makassarisch, Makassariska, Mangasara, Mengkasara, Taena, Tena]
+alt_names: [Goa, Macassar, Macassarese, Makassa, Makassaarsche, Makassar, Makassar-Bugis, Makassar-Sprache, Makassarese, Makassarese language, Makassarisch, Makassariska, Mangasara, Mengkasara, Taena, Tena, Basa Mangkásara, Gowa, Jeneponto, Lakiung, Maros-Pangkep, Turatea]
 population: 1710000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language of South Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -5.65551
 longitude: 119.8381
+language_map_img: Makassarese_and_Makassaric_locator_map.svg
 scripts: [Bugi, Latn]
 glottocode: maka1311
 glottolog_family_id: aust1307

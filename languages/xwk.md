@@ -2,9 +2,11 @@
 iso: xwk
 name: Wangkumara
 autonym: Palpakunu
+alt_names: [Wangumarra]
 population: null
 country_id: AU
 country_name: Australia
+area: Indigenous language of Australia
 status_id: 8a
 scope: individual
 language_type: extinct

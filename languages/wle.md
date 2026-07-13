@@ -6,6 +6,8 @@ alt_names: [Olane, Walane, Welene, Weleni, Wäläne]
 population: null
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Semitic language spoken by Silt’e people in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 沃拉内语
     auto: true
 ---
+Siltʼe is an Ethiopian Semitic language spoken in South Ethiopia. A member of the Afroasiatic family, its speakers are the Siltʼe, who mainly inhabit the Siltʼe Zone in the Southern Nations, Nationalities, and Peoples' Region. Speakers of the Wolane dialect mainly inhabit the Kokir Gedebano district of Gurage Zone, as well as the neighbouring Seden Sodo district of the Oromia Region. Some have also settled in urban areas in other parts of the country, especially Addis Ababa.

@@ -3,15 +3,17 @@ iso: esg
 macrolanguage_id: gon
 name: Aheri Gondi
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
-alt_names: [Aheri, "Gondi, Aheri"]
+alt_names: [Aheri, "Gondi, Aheri", Bhamragarh, Etapally Gondi, Koyam, Raj Gond, Sironcha]
 population: 2980000
 country_id: IN
 country_name: India
+area: Dravidian language spoken in India
 status_id: null
 scope: individual
 language_type: living
 latitude: 19.4163
 longitude: 80.0058
+language_map_img: Gondi_language_map.svg
 glottocode: aher1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian

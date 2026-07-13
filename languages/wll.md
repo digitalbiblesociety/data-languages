@@ -6,6 +6,8 @@ alt_names: [Ajang, Nubian (Hill), Walarishe, Wali]
 population: 9000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nubian language of Sudan
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ntk
 name: "Ikoma-Nata-Isenye"
 autonym: "Ikoma-Nata-Isenye"
-alt_names: [Egiikɔma, Ekinata, Ikinata, Ikoma, Nata]
+alt_names: [Egiikɔma, Ekinata, Ikinata, Ikoma, Nata, Kiikoma, Eghiikoma, Egiikoma, Ikisenyi, Isenye, Isenyi, Issenye, Kiisenye, Kiissenye, Kinata, Kinatta, Koma, Natta]
 population: 34700
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

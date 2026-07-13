@@ -6,6 +6,7 @@ alt_names: ["Kentish Sign Language, Old", Old Kent Sign Language]
 population: null
 country_id: GB
 country_name: United Kingdom
+area: "Former sign language of Kent, England, UK"
 status_id: null
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Ometepec",
 population: 430
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Central Nahuatl language of Mexico
 status_id: "7"
 scope: individual
 language_type: living

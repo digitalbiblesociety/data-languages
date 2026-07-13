@@ -6,6 +6,7 @@ alt_names: [Lur, Lurí, Lúr]
 population: 22000
 country_id: NG
 country_name: Nigeria
+area: Afro-Asiatic language of Nigeria
 status_id: "10"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Allar, "Gadaba, Pottangi Ollar", Gadba, Hallari, Hollar Gadbas, Kond
 population: 15000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Central Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

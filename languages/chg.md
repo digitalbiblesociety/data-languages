@@ -6,6 +6,7 @@ alt_names: [Chaghatai, Chaghatay, Jagatai, Tchagataieg, Tchaghataï, Teke, Tekke
 population: null
 country_id: TM
 country_name: Turkmenistan
+area: Extinct Karluk Turkic language of Central Asia
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,11 +6,14 @@ alt_names: [Seshelt, Shashishalhem, She shashishalhem, She shashishalhem (Sechel
 population: 550
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Salishan language of the Shishalh of British Columbia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 49.47575
 longitude: -123.76474
+language_map_img: 500px-Sechelt01.webp
 glottocode: sech1246
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

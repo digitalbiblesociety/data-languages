@@ -2,15 +2,18 @@
 iso: knj
 name: Western Kanjobal
 autonym: Acateco
-alt_names: [Acatec, Acateeks, Acatèque (Guatemala), Acatèque (Mexique), Akatek language, Akatekisk, Akateko, Canjobalés occidental (México), Conob, Kanjobal, Kanjobal (Western), Kanjobal de San Miguel Acatán, "Kanjobal, Western", Qanjobal, San Miguel Acatán Kanjobal, Western, "Western Q'anjob'al"]
+alt_names: [Acatec, Acateeks, Acatèque (Guatemala), Acatèque (Mexique), Akatek language, Akatekisk, Akateko, Canjobalés occidental (México), Conob, Kanjobal, Kanjobal (Western), Kanjobal de San Miguel Acatán, "Kanjobal, Western", Qanjobal, San Miguel Acatán Kanjobal, Western, "Western Q'anjob'al", Western Q’anjob’al, Akateco, "K'anjob'al", "Kuti'", "Q'anjob'al"]
 population: 66930
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Mexico and Guatemala
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 15.593205
 longitude: -91.842115
+language_map_img: Huehuetenango_in_Guatemala.svg
 glottocode: west2635
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

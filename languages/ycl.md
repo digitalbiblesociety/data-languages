@@ -2,10 +2,12 @@
 iso: ycl
 name: Lolopo
 autonym: Central Yi
-alt_names: [Lolo, Lolopho, Yi, "Yi, Central"]
+alt_names: [Lolo, Lolopho, Yi, "Yi, Central", Bai Yi, Elo, Gaoshanzu, Hei Yi, Lulupu, Luolu, Nanhua Lolopo, Shuangbai Lolopo, "Yao'an Lolopo"]
 population: 380000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

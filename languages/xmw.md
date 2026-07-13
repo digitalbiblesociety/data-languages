@@ -7,6 +7,8 @@ alt_names: ["Malagasy, Tsimihety", Tsimihety]
 population: 1615000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西米赫蒂马尔加什语
     auto: true
 ---
+Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

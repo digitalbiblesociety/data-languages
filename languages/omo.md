@@ -6,6 +6,8 @@ alt_names: [Osum]
 population: 1170
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Madang language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

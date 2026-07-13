@@ -6,6 +6,8 @@ alt_names: [Biniguru, Binnigoora, Binnigora, Binniguru, Pinikura, Pinikurra, Pin
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language of the Pilbara region in Western Australia
 status_id: 8b
 scope: individual
 language_type: living

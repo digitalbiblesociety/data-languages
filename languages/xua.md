@@ -6,6 +6,8 @@ alt_names: [Alu, Hal Kurumba, Kurumba, "Kurumba, Alu", Pal Kurumba]
 population: 2500
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living

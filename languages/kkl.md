@@ -2,10 +2,12 @@
 iso: kkl
 name: Kosarek Yale
 autonym: Kosarek Yale
-alt_names: [In-lom, Kosarek, Wanam, Yale (Kosarek), "Yale, Kosarek", Yale-Kosarek]
+alt_names: [In-lom, Kosarek, Wanam, Yale (Kosarek), "Yale, Kosarek", Yale-Kosarek, Mek Kosarek, Gilika, Kilika, Tiple, Yale, Yale yubu, Yali, Yali Kosarek]
 population: 2300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Highland Papua
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: anr
 name: Andh
 autonym: Andha
+alt_names: [Andhi]
 population: 100000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language of India
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 19.47335
 longitude: 77.71561
+glottocode: andh1242
 wikidata_id: Q4754314
 wikipedia_url: "https://en.wikipedia.org/wiki/Andh_language"
 translations:

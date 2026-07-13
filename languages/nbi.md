@@ -2,10 +2,12 @@
 iso: nbi
 name: Mao Naga
 autonym: Sopvoma
-alt_names: [Emela, Maikel, Mao, Memi, Māo Naga, Naga, Naga (Mao), "Naga, Mao", "Naga,Mao", Sopfomo, Spowama]
+alt_names: [Emela, Maikel, Mao, Memi, Māo Naga, Naga, Naga (Mao), "Naga, Mao", "Naga,Mao", Sopfomo, Spowama, Imemai, Southern Angami, Paomata, Sopwama]
 population: 972000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Manipur"
 ---
+Mao, also known as Sopvoma, is a Sino-Tibetan language of the Angami–Pochuri linguistic sub-branch. It is spoken primarily in Senapati district, northwestern Manipur and in Nagaland, India. It is similar to Tenyidie.

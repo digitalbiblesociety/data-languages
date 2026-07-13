@@ -6,6 +6,8 @@ alt_names: [Cocomaricopa, Pee Posh, Piipaash, Piipash]
 population: 160
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Native American language of Arizona, US"
 status_id: "7"
 scope: individual
 language_type: living

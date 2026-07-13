@@ -3,15 +3,18 @@ iso: sun
 iso639_1: su
 name: Sundanese
 autonym: ᮘᮞ ᮞᮥᮔ᮪ᮓ
-alt_names: [Luenga sondanesa, Priangan, Soendanees, Sunda, Sunda simi, Sundaisch, Sundanais, Sundanesisk, Sundanesiska, Sundic, Swndaneg, soundanais, سۇندا تىلى]
+alt_names: [Luenga sondanesa, Priangan, Soendanees, Sunda, Sunda simi, Sundaisch, Sundanais, Sundanesisk, Sundanesiska, Sundic, Swndaneg, soundanais, سۇندا تىلى, Basa Gumung, Basa Sunda, Bogor, Cirebon, Krawang, Pringan]
 population: 32400000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.89708
 longitude: 107.10636
+language_map_img: sun.svg
 scripts: [Latn, Sund]
 glottocode: sund1252
 glottolog_family_id: aust1307

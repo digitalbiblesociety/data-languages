@@ -2,10 +2,12 @@
 iso: ame
 name: "Yanesha'"
 autonym: Yaneshac̈h
-alt_names: [Amage, Amagues, Amaje, Amajo, Amoesha, Amoishe, Amueixa, Amuese, Amuesha, Amuetamo, Amuexa, Lorenzo, Omage, Yanesha]
+alt_names: [Amage, Amagues, Amaje, Amajo, Amoesha, Amoishe, Amueixa, Amuese, Amuesha, Amuetamo, Amuexa, Lorenzo, Omage, Yanesha, Amueshua, Yaneshaꞌ]
 population: 7520
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Dei, Dewoi, Dey]
 population: 8100
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: 6a
 scope: individual
 language_type: living

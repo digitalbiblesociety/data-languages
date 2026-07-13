@@ -6,11 +6,14 @@ alt_names: [Jeithi, Northern Language, Unambal, Woonambal, Wumnabal, Wunambul, W
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -14.83473
 longitude: 125.72002
+language_map_img: Worrorran_map.svg
 glottocode: wuna1249
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran

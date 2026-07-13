@@ -2,10 +2,11 @@
 iso: ayd
 name: Ayabadhu
 autonym: Badhu
-alt_names: [Abadja, Ai ebadu, Aiabadu, Aiebadu, Aiyabotho, Aiyaboto, Ajabadha, Ajabatha, Ajibyrdu, Apatya, Ayapathu, Badja, Baldya, Balfja, Jabuda, Kikahiabilo, Koka Ai ebadu, Koka Ai-ebadu, Koka aiebadu, Koka-aiebadu, Koko Aiebadu, Koko Badja, Koko Baldya, Koko Baltja, Koko-Badja, Koko-Baldya, Koko-Baltjayiahjaba]
+alt_names: [Abadja, Ai ebadu, Aiabadu, Aiebadu, Aiyabotho, Aiyaboto, Ajabadha, Ajabatha, Ajibyrdu, Apatya, Ayapathu, Badja, Baldya, Balfja, Jabuda, Kikahiabilo, Koka Ai ebadu, Koka Ai-ebadu, Koka aiebadu, Koka-aiebadu, Koko Aiebadu, Koko Badja, Koko Baldya, Koko Baltja, Koko-Badja, Koko-Baldya, Koko-Baltjayiahjaba, Jintjingga, Yintjinggu]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

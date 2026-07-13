@@ -2,14 +2,18 @@
 iso: irr
 name: Ir
 autonym: Ta Oi
+alt_names: [In, Yir, Yiir]
 population: 4420
 country_id: LA
 country_name: Laos
+location: Laos
+area: Southeast Asian dialect chain
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.71875
 longitude: 106.56415
+glottocode: irrr1240
 wikidata_id: Q3071880
 translations:
   - translation_iso: ara
@@ -47,3 +51,4 @@ translations:
     name: 伊尔语
     auto: true
 ---
+Ta'Oi is a dialect continuum within the Katuic branch of the Austroasiatic language family, spoken amongst the Ta Oi people in the Salavan and Sekong provinces in Laos and the municipality of Huế in Vietnam.

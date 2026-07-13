@@ -7,11 +7,14 @@ alt_names: [Afrikaanca, Afrikaans leid, Afrikaansk, Afrikaneg, Afrikans simi, Af
 population: 7331800
 country_id: ZA
 country_name: South Africa
+location: Botswana
+area: West Germanic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -22
 longitude: 30
+language_map_img: afr.webp
 scripts: [Latn]
 glottocode: afri1274
 glottolog_family_id: indo1319

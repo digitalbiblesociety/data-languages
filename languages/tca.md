@@ -6,11 +6,14 @@ alt_names: [Magüta, Tikouneg, Tikuna, Tikuna simi, Tucuna, Tukuna, Tukúna, Т�
 population: 48580
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Ticuna–Yuri language spoken in Amazon Basin
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -3.66289
 longitude: -69.87233
+language_map_img: 500px-Ticuna.webp
 glottocode: ticu1245
 glottolog_family_id: ticu1244
 glottolog_family_name: Ticuna-Yuri

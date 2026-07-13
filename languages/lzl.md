@@ -2,10 +2,12 @@
 iso: lzl
 name: Litzlitz
 autonym: Naman
-alt_names: [Litzlitz-Visele, Mallicolo]
+alt_names: [Litzlitz-Visele, Mallicolo, Lagalag, Lolnarrong, Netensal]
 population: 15
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living

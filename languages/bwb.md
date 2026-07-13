@@ -6,6 +6,8 @@ alt_names: [Fidji-Inseln, Namosi]
 population: 1630
 country_id: FJ
 country_name: Fiji
+location: Fiji
+area: Oceanic language of Fiji
 status_id: 6a
 scope: individual
 language_type: living

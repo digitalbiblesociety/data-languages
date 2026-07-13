@@ -2,10 +2,12 @@
 iso: sqa
 name: "Shama-Sambuga"
 autonym: Tushama
-alt_names: [Bushama]
+alt_names: [Bushama, Gurage Chaha, Sambuga, Shama, Ushama]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

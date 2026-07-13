@@ -6,11 +6,14 @@ alt_names: [Frisian, Greuniengs, Grinslânsk, Gronengesch, Groningen, Groningois
 population: 262000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: Friso-Saxon dialect group
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 53.28422
 longitude: 6.698
+language_map_img: Gronings_kaart.webp
 scripts: [Latn]
 glottocode: gron1242
 glottolog_family_id: indo1319

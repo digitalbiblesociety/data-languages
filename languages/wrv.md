@@ -6,6 +6,8 @@ alt_names: [Ari-Waruna]
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Gogodala-Suki family
 status_id: 6a
 scope: individual
 language_type: living

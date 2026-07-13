@@ -6,6 +6,7 @@ alt_names: [Menye]
 population: 25000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
 status_id: "5"
 scope: individual
 language_type: living

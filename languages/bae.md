@@ -6,6 +6,7 @@ alt_names: [Arihini, Bale, Balé, Barauana, Barauna, Barawana, Bare, Cunipusana,
 population: 240
 country_id: VE
 country_name: Venezuela
+area: Arawakan language of Venezuela and Brazil
 status_id: 8b
 scope: individual
 language_type: extinct

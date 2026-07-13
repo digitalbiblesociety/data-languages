@@ -2,10 +2,12 @@
 iso: ver
 name: Mom Jango
 autonym: Mom Jango
-alt_names: [Kobo, Vere, Verre, Were]
+alt_names: [Kobo, Vere, Verre, Were, Bai, Gweri, Momi, Wombi, Ziri]
 population: 110520
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Duru language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Dialek Kölsch, Dialekt koloński, Francique ripuaire -limbourgeois,
 population: 250000
 country_id: DE
 country_name: Germany
+area: German dialect
 status_id: 6a
 scope: individual
 language_type: living

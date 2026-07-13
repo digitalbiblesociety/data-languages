@@ -6,6 +6,8 @@ alt_names: [Kajaman-Sekapan, Kejaman]
 population: 500
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: "Austronesian language spoken in Sarawak, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

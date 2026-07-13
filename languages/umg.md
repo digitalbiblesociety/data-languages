@@ -6,6 +6,7 @@ alt_names: [Ajarumbal, Aradal, Baka, Banjigam, Barungguan, Barunguan, Bungkol, B
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

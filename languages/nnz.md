@@ -2,10 +2,12 @@
 iso: nnz
 name: "Nda'nda'"
 autonym: "Bamileke-Nda'nda'"
-alt_names: [Bamileke-Nda’nda’, Bangwa]
+alt_names: [Bamileke-Nda’nda’, Bangwa, "Bamileke-Nda'nda'"]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bamileke language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

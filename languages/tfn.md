@@ -6,11 +6,14 @@ alt_names: ["Dena'ina", Dena’ina, Dena’ina language, "K'naia-khotana", Kinay
 population: 900
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Athabaskan language spoken in the cook inlet
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 60.47124
 longitude: -150.75926
+language_map_img: 500px-Early_Indian_Languages_Alaska.webp
 glottocode: tana1289
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

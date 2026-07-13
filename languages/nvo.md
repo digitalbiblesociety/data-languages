@@ -2,9 +2,11 @@
 iso: nvo
 name: Nyokon
 autonym: "Nyo'o"
+alt_names: [Fung]
 population: 3900
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living

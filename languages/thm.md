@@ -6,6 +6,8 @@ alt_names: [Ahao, Ahlao, Ka Tawng Luang, Kha, Kha Tong Luang, Kha Tong Luong, Ph
 population: 2520
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Austroasiatic language spoken in Laos and Thailand
 status_id: 6b
 scope: individual
 language_type: living

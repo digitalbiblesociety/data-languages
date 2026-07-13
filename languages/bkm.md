@@ -2,10 +2,12 @@
 iso: bkm
 name: Kom
 autonym: Itaŋikom
-alt_names: [Bamekon, Bikom, Itangikom, Kom, Kom language, Kong, Nkom]
+alt_names: [Bamekon, Bikom, Itangikom, Kom, Kom language, Kong, Nkom, Itangimbesa, Mbesa, Mbizenaku]
 population: 230000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "4"
 scope: individual
 language_type: living

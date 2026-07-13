@@ -5,6 +5,7 @@ autonym: Lengua de Señas de Ecuador
 population: 50000
 country_id: EC
 country_name: Ecuador
+area: Deaf sign language of Ecuador
 status_id: "5"
 scope: individual
 language_type: living

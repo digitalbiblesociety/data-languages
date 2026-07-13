@@ -2,10 +2,12 @@
 iso: mnv
 name: "Rennell-Bellona"
 autonym: "Rennell-Bellona"
-alt_names: [Ren(n)ellese, Rennell, Rennell-Belona, Rennellese, Rennellese-Bellonese]
+alt_names: [Ren(n)ellese, Rennell, Rennell-Belona, Rennellese, Rennellese-Bellonese, Bellona, Bellonese, Mugaba, Mugiki, Munggava, Mungiki, Te hegeunga a Mugaba ma Mugiki]
 population: 4390
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living

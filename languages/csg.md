@@ -6,6 +6,7 @@ alt_names: [LENSE, LSCh, Lenguaje Chileno de Signos, Lenguaje de Señas, Lenguaj
 population: 21000
 country_id: CL
 country_name: Chile
+area: Deaf sign language of Chile
 status_id: "5"
 scope: individual
 language_type: living

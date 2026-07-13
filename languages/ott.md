@@ -6,6 +6,8 @@ alt_names: [Othomí, Otomi, "Otomi, Temoaya", Otomí, Otomí de Mezquital, Otom�
 population: 37000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Language from Mexico
 status_id: "7"
 scope: individual
 language_type: living

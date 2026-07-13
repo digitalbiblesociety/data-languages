@@ -2,15 +2,18 @@
 iso: xsu
 name: Sanumá
 autonym: Kohoroxitari
-alt_names: [Chirichano, Guaika, Samatali, Samatari, Samatli, Sanema, Sanemá, Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari]
+alt_names: [Chirichano, Guaika, Samatali, Samatari, Samatli, Sanema, Sanemá, Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari, Auaris, Caura, Cobari, Cobariwa, Ervato-Ventuari, Kobali, Sanöma, Tsanɨma, Yanoma]
 population: 3500
 country_id: VE
 country_name: Venezuela
+location: Northwestern Brazil
+area: Language of Venezuela and Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 1.31875
 longitude: -67.64978
+language_map_img: Yanomaman.svg
 glottocode: sanu1240
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic

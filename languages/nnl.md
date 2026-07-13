@@ -6,6 +6,8 @@ alt_names: [Naga, "Naga, Northern Rengma", "Naga,NorthernRengma", Ntenyi, Ntenyi
 population: 13000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Angami–Pochuri languages of Nagaland, India"
 status_id: "5"
 scope: individual
 language_type: living

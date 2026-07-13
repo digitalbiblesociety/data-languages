@@ -6,11 +6,14 @@ alt_names: [Setswapong]
 population: 2000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Sotho-Tswana language spoken in South Africa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -23.40552
 longitude: 27.42009
+language_map_img: South_Africa_2011_Northern_Sotho_speakers_proportion_map.svg
 glottocode: tswa1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

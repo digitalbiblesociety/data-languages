@@ -5,6 +5,7 @@ autonym: Wenske
 population: null
 country_id: DE
 country_name: Germany
+area: Revitalized Slavic language
 status_id: null
 scope: individual
 language_type: extinct

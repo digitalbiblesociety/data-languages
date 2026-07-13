@@ -6,6 +6,8 @@ alt_names: [Admiralitäts-inseln, Kuruti, Kuruti-Pare, Ndrugul]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

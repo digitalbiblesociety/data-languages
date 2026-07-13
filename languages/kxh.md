@@ -2,10 +2,12 @@
 iso: kxh
 name: Karo
 autonym: Cherre
-alt_names: ["\"etc.\"", Amar, Hamar-Koke, Hamer-Bana-Kara, Karo, Karo language, Kere, Kerre]
+alt_names: ["\"etc.\"", Amar, Hamar-Koke, Hamer-Bana-Kara, Karo, Karo language, Kere, Kerre, Kara]
 population: 1000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: South Omotic language spoken in southwestern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

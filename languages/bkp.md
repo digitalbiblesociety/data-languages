@@ -6,6 +6,8 @@ alt_names: [Boko, Iboko]
 population: 21000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -57,3 +59,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Bala is a Bantu language of the Democratic Republic of the Congo. According to Maho (2009), it includes Boko.

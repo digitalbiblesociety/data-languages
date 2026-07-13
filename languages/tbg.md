@@ -2,10 +2,12 @@
 iso: tbg
 name: North Tairora
 autonym: Tairora (Arau)
-alt_names: [Northern Tairora, Tairora, "Tairora, North"]
+alt_names: [Northern Tairora, Tairora, "Tairora, North", North, Aantantara, Andandara, Arau-Barosia, Arau-Varosia, Arokaara, Arokara, "Sai'ora", Saiqora]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Eastern Highlands"
 ---
+Tairoa (Tairora) is a Kainantu language spoken in Papua New Guinea.

@@ -6,6 +6,8 @@ alt_names: [Shixing, Sichín, Xumi, 史興話]
 population: 1200
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language of southwest China
 status_id: 6b
 scope: individual
 language_type: living

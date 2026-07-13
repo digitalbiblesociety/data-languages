@@ -2,10 +2,12 @@
 iso: jmn
 name: Makuri Naga
 autonym: Makury Naga
-alt_names: ["Naga, Makuri", "Naga,Makuri", Shaera]
+alt_names: ["Naga, Makuri", "Naga,Makuri", Shaera, Makury]
 population: 4000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Naga language spoken in India and Myanmar
 status_id: 6a
 scope: individual
 language_type: living

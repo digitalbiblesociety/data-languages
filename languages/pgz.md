@@ -5,6 +5,7 @@ autonym: PNGSL
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+area: Official language of Papua New Guinea
 status_id: null
 scope: individual
 language_type: living

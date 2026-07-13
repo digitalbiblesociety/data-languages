@@ -6,6 +6,8 @@ alt_names: [Cathlamet, Chinook (Upper), Columbia Chinook, Kathlamet, Upper Chino
 population: null
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Extinct Native American language formerly spoken in Oregon and Washington
 status_id: 8b
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Samrai, Samray, Samre, Western Pear]
 population: 4100
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language of Cambodia
 status_id: 8a
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: toh
 name: Gitonga
 autonym: "Tonga-Inhambane"
-alt_names: [Bitonga, Inhambane, Shengwe, Tonga]
+alt_names: [Bitonga, Inhambane, Shengwe, Tonga, Cinyambe, Gisewi, Gitonga Gy Khogani, Guitonga, Nyambe, Sewi]
 population: 327000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

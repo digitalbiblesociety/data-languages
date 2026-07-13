@@ -2,10 +2,12 @@
 iso: tcy
 name: Tulu
 autonym: ತುಳು
-alt_names: [Tal, Tallu, Thalu, Thulu, Tilu, Touloueg, Tullu, Tuluva Bhasa, Tulú, Tuḷu, Тулу, तुळु, துளு, తుళు, തുളു]
+alt_names: [Tal, Tallu, Thalu, Thulu, Tilu, Touloueg, Tullu, Tuluva Bhasa, Tulú, Tuḷu, Тулу, तुळु, துளு, తుళు, തുളു, Bantwal, Belthangadi, Brahmin Tulu, Common Tulu, Kasaragod, Kerala, Mangalore, Manjeswara, Northeast Tulu, Northwest Tulu, Puttur, South Central Tulu, Southeast Tulu, Southwest Tulu, Sullia Subrahmanya, Udipi]
 population: 1850000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of Tulu Nadu region
 status_id: "5"
 scope: individual
 language_type: living

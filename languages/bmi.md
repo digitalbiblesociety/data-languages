@@ -6,6 +6,8 @@ alt_names: [Baghirmi, Bagirmieg, Bagrima, Bagrimi, Bagrimma, Baguirme, Baguirmi,
 population: 44800
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Nilo-Saharan language of Chad and Nigeria
 status_id: "3"
 scope: individual
 language_type: living

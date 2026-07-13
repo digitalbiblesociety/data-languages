@@ -6,6 +6,8 @@ alt_names: [Bwissi, Kitalinga, Lubwisi, Lubwissi, Mawissi, Olubwisi, Talinga, Ta
 population: 131900
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

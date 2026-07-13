@@ -6,6 +6,8 @@ alt_names: [Manam, Skofro, Wembi, Yeti]
 population: 500
 country_id: PG
 country_name: Papua New Guinea
+location: "Indonesia, Eastern Papua"
+area: "Language of Papua New Guinea and Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

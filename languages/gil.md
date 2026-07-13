@@ -2,15 +2,18 @@
 iso: gil
 name: Gilbertese
 autonym: Kiribati
-alt_names: [Fidji-Inseln, Gilbert-Inseln, Gilbertin, Gilbertès, Gilbertês, I-Kiribati, Ikiribati, Kiribateg, Kiribatese, Kiribati simi, Kiribatisch, Kiribatisk, Kiribatiska, Кирибати]
+alt_names: [Fidji-Inseln, Gilbert-Inseln, Gilbertin, Gilbertès, Gilbertês, I-Kiribati, Ikiribati, Kiribateg, Kiribatese, Kiribati simi, Kiribatisch, Kiribatisk, Kiribatiska, Кирибати, Banaban, Nui, Nuian]
 population: 118620
 country_id: KI
 country_name: Kiribati
+location: Solomon Islands
+area: Austronesian language spoken in Kiribati
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 0.64049
 longitude: 173.219604
+language_map_img: Micronesian_languages.en.webp
 scripts: [Latn]
 glottocode: gilb1244
 glottolog_family_id: aust1307

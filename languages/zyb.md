@@ -7,11 +7,14 @@ alt_names: [Chuang, Wu-ming, Yongbei, Yungpei, Zhuang, Zhuang (Northern), "Zhuan
 population: 1980000
 country_id: CN
 country_name: China
+location: Southern China
+area: Zhuang variety of China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.68182
 longitude: 107.18368
+language_map_img: 500px-Yongbei.webp
 glottocode: yong1276
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

@@ -6,11 +6,13 @@ alt_names: [Pukina, Pukina simi, Puquinaeg, Пукина]
 population: null
 country_id: CA
 country_name: Canada
+area: Extinct language of South America
 status_id: null
 scope: individual
 language_type: extinct
 latitude: -15.8992
 longitude: -69.96108
+language_map_img: 500px-Pukina_Map.webp
 glottocode: puqu1242
 wikidata_id: Q1207739
 wikipedia_url: "https://en.wikipedia.org/wiki/Puquina_language"

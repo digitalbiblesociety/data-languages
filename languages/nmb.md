@@ -2,10 +2,12 @@
 iso: nmb
 name: Big Nambas
 autonym: "V'ənen Taut"
-alt_names: [Mallicolo, Nambas (Big), "Nambas, Big", "V'ënen Taut"]
+alt_names: [Mallicolo, Nambas (Big), "Nambas, Big", "V'ënen Taut", V’ënen Taut, Vꞌënen Taut]
 population: 3350
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

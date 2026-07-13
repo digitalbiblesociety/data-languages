@@ -6,6 +6,8 @@ alt_names: [Emba, Kiemba, Kihemba, Kiluba-Hemba, Luba-Hemba]
 population: 181000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: bgp
 macrolanguage_id: bal
 name: Eastern Balochi
 autonym: بلۏچی  Balòci
-alt_names: [Balochi, "Balochi, Eastern", Baluchi, Balutschi]
+alt_names: [Balochi, "Balochi, Eastern", Baluchi, Balutschi, Baloci, Baluci, Eastern Hill Balochi]
 population: 2930800
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Western Iranian language
 status_id: "4"
 scope: individual
 language_type: living

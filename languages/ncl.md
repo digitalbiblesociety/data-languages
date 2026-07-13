@@ -2,10 +2,12 @@
 iso: ncl
 name: Michoacán Nahuatl
 autonym: Pómaro Nahuatl
-alt_names: [Mexicano, Michoacan Aztec, Michoacan Nahuatl, Michoacán Aztec, Nahual de Michoacán, Nahuatl, Nahuatl (Michoacán), "Nahuatl, Michoacán", Nawa, Western Nawa]
+alt_names: [Mexicano, Michoacan Aztec, Michoacan Nahuatl, Michoacán Aztec, Nahual de Michoacán, Nahuatl, Nahuatl (Michoacán), "Nahuatl, Michoacán", Nawa, Western Nawa, Michoacán, Gente natural, Nahuatl de Michoacán]
 population: 3000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Nahuatl variety of Mexico
 status_id: 6b
 scope: individual
 language_type: living

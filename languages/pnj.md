@@ -2,12 +2,15 @@
 iso: pnj
 name: Pinjarup
 autonym: Noongar
+alt_names: [Bangoula]
 population: null
 country_id: AU
 country_name: Australia
+area: Southwestern Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: Noongar_regions_map.svg
 wikidata_id: Q33103591
 translations:
   - translation_iso: ara
@@ -46,3 +49,4 @@ translations:
     name: 平贾鲁普语
     auto: true
 ---
+Noongar, also Nyungar, is an Australian Aboriginal language or dialect continuum, spoken by some members of the Noongar community and others. It is taught actively in Australia, including at schools, universities and through public broadcasting. The country of the Noongar people is the southwest corner of Western Australia. Within that region, many Noongar words have been adopted into Australian English, particularly names of plants and animals.

@@ -6,11 +6,14 @@ alt_names: [Lekwungen, Lkungen, Lummi, Malchosen, North Straits Salish languages
 population: 3020
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Salishan dialect continuum
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 48.722045
 longitude: -123.03716
+language_map_img: North_Straits_Salish_map.svg
 glottocode: stra1244
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

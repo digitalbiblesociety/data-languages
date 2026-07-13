@@ -2,15 +2,18 @@
 iso: khb
 name: Lü
 autonym: ᦅᧄᦺᦑ
-alt_names: [Dai, Dai Le, Duon, Lu, Lue, "Lue, Ly", Ly, Người Lự, "Pai'i'", Pai-I, Shui-Pai-I, Sipsongpanna Dai, Tai Lu, Tai Lü, Tai Lü language, Xishuangbanna Dai]
+alt_names: [Dai, Dai Le, Duon, Lu, Lue, "Lue, Ly", Ly, Người Lự, "Pai'i'", Pai-I, Shui-Pai-I, Sipsongpanna Dai, Tai Lu, Tai Lü, Tai Lü language, Xishuangbanna Dai, Pai’i’, Jinghong, Muang Yong, Nhuon, Pai-Yi, Shu-Ai-I, Tai Lue, Thai Lu, Yong]
 population: 554600
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Southwestern Tai language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 21.032106
 longitude: 101.281582
+language_map_img: 500px-Tai_Lue.webp
 scripts: [Talu]
 glottocode: luuu1242
 glottolog_family_id: taik1256

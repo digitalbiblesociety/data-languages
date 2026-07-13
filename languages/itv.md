@@ -2,15 +2,18 @@
 iso: itv
 name: Itawit
 autonym: Itawes
-alt_names: [Itawis, Tawit]
+alt_names: [Itawis, Tawit, Malaueg, Malaweg]
 population: 253000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.73286
 longitude: 121.5796
+language_map_img: 500px-Itawit_language_map.webp
 glottocode: itaw1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

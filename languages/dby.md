@@ -6,6 +6,8 @@ alt_names: [Dibiasu, Pikiwa]
 population: 1950
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

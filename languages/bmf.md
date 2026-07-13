@@ -6,6 +6,7 @@ alt_names: [Bom, Bome, Bomo, Bum]
 population: 5580
 country_id: SL
 country_name: Sierra Leone
+area: Endangered language of Sierra Leone
 status_id: 6b
 scope: individual
 language_type: living

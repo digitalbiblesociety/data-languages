@@ -6,6 +6,8 @@ alt_names: [Alu, Mono, Mono Alu]
 population: 2266
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living

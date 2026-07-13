@@ -2,10 +2,12 @@
 iso: ngn
 name: Ngwo
 autonym: Ngwɔ
-alt_names: [Ngwaw]
+alt_names: [Ngwaw, Bako, Banya, Basa, Bassa, Ekperi, Engwo, Ikweri, Konda, Miguhni, Nguni, Ngunu, Okorobi, Zang]
 population: 22000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

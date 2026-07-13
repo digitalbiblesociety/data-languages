@@ -3,10 +3,12 @@ iso: khk
 macrolanguage_id: mon
 name: Halh Mongolian
 autonym: монгол хэлᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ
-alt_names: [Central Mongolian, Halh, Khalkha, Khalkha Mongolian, Khalkha-Mongolisch, Mongol, Mongolian, Mongolian (Halh), "Mongolian, Halh", Xalxa]
+alt_names: [Central Mongolian, Halh, Khalkha, Khalkha Mongolian, Khalkha-Mongolisch, Mongol, Mongolian, Mongolian (Halh), "Mongolian, Halh", Xalxa, Darhad, Dariganga, Darkhad, Darkhat, Halha, Kalkh, Khotogoit, Outer Mongolian, Sartul, Tsongol, Ujumuchin, Urat]
 population: 2704000
 country_id: MN
 country_name: Mongolia
+location: Central Russia
+area: De facto standard dialect of Mongolian
 status_id: "1"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mcu
 name: Cameroon Mambila
 autonym: Mambila
-alt_names: [Bang, Bea, Ble, Juli, Lagubi, Mambere, "Mambila, Cameroon", Mambilla, Nor, Tagbo, Tongbo, Torbi]
+alt_names: [Bang, Bea, Ble, Juli, Lagubi, Mambere, "Mambila, Cameroon", Mambilla, Nor, Tagbo, Tongbo, Torbi, Cameroon, Ju Ba, Ju Naare, Langa, Mambila de Gembu, Sunu Torbi]
 population: 30000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Mambiloid language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
@@ -98,3 +100,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Adamaoua"
 ---
+Mambila is a dialect chain stretching across Nigeria and Cameroon. It is one of the Mambiloid languages, a branch of Benue–Congo.

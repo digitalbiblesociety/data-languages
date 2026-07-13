@@ -2,6 +2,7 @@
 iso: pyx
 name: Pyu
 autonym: 20x20px
+alt_names: [Pyu (Myanmar)]
 population: null
 country_id: MM
 country_name: Myanmar

@@ -2,10 +2,12 @@
 iso: asa
 name: Asu
 autonym: Kipare
-alt_names: [Asas, Asu, Asu/ Pare, Athu, Casu, Chasu, Chiasu, Kow, Pare, Zigula]
+alt_names: [Asas, Asu, Asu/ Pare, Athu, Casu, Chasu, Chiasu, Kow, Pare, Zigula, Ashu, Chasu-Pare, Gonja, Kiathu, Mbaga, Pare-Asu]
 population: 530000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Northeast Coast Bantu language of Tanzania
 status_id: 6a
 scope: individual
 language_type: living

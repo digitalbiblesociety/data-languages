@@ -2,6 +2,7 @@
 iso: zra
 name: Kara
 autonym: "Kaya, Karak, Kara"
+alt_names: [Kara (Korea)]
 population: null
 country_id: KR
 country_name: South Korea

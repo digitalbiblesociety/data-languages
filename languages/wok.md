@@ -6,6 +6,8 @@ alt_names: [Boko, Gobeyo, Longa, Longbo, Lonto, Woko]
 population: 2400
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Atlantic–Congo language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

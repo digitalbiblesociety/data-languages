@@ -10,6 +10,7 @@ scope: individual
 language_type: living
 latitude: 25.08332
 longitude: 97.08332
+glottocode: lopi1243
 wikidata_id: Q12952740
 translations:
   - translation_iso: ara
@@ -48,3 +49,4 @@ translations:
     name: 洛皮语
     auto: true
 ---
+Listed below are lesser-known ethnolinguistic groups that speak Loloish languages. Most of these groups speak languages of uncertain affiliation within Loloish, and are under-documented or undocumented.

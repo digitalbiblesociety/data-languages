@@ -2,10 +2,12 @@
 iso: oke
 name: Southwestern Edo Okpe
 autonym: null
-alt_names: [Nigeria, Okpe]
+alt_names: [Nigeria, Okpe, Okpe (Southwestern Edo)]
 population: 25400
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Edoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

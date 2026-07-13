@@ -6,6 +6,7 @@ alt_names: [Jute méridional, Jutlandic, Jutlandish, Jutlands, Juto, Juto meridi
 population: null
 country_id: DK
 country_name: Denmark
+area: "German-Danish border area, south Jutland. Also in Germany."
 status_id: 6a
 scope: individual
 language_type: historical

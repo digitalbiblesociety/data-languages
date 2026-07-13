@@ -2,10 +2,12 @@
 iso: oaa
 name: Orok
 autonym: Uilta
-alt_names: [Orokisk, Ujlta, Ulta, уйльта, ульта]
+alt_names: [Orokisk, Ujlta, Ulta, уйльта, ульта, Oroc]
 population: 346
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Tungusic language of Russia
 status_id: 8b
 scope: individual
 language_type: living

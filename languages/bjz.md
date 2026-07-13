@@ -2,9 +2,12 @@
 iso: bjz
 name: Baruga
 autonym: Bareji
+alt_names: [Mado, Tafota Baruga]
 population: 2230
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

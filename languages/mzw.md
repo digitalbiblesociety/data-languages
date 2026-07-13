@@ -2,10 +2,12 @@
 iso: mzw
 name: Deg
 autonym: Mo
-alt_names: [Aculo, Buro, Buru, Degha, Dɛ, Janela, Mmfo]
+alt_names: [Aculo, Buro, Buru, Degha, Dɛ, Janela, Mmfo, Dɛg, Boe, Longoro, Mangum]
 population: 44000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

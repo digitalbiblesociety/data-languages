@@ -2,10 +2,12 @@
 iso: kmq
 name: Kwama
 autonym: Afan Mao
-alt_names: [Amam, Gogwama, Goma, Gwama, Koma of Asosa, Mao, Nokanoka, North Koma, Qewama, "T'wa Kwama", Takwama]
+alt_names: [Amam, Gogwama, Goma, Gwama, Koma of Asosa, Mao, Nokanoka, North Koma, Qewama, "T'wa Kwama", Takwama, T’wa Kwama, Guwama, Highland Gwama, Kewama, Kuro, Kuwama, Kwoma, Lowland Gwama, "T'wa Sit Shwala", Ttwa Gwama]
 population: 15000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Koman language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

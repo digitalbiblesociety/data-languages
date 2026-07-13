@@ -6,6 +6,8 @@ alt_names: [桑孔話]
 population: 1500
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish Language
 status_id: 6b
 scope: individual
 language_type: living

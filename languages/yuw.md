@@ -2,10 +2,12 @@
 iso: yuw
 name: Yau
 autonym: Uruwa
-alt_names: [Yau]
+alt_names: [Yau, Nungon, Nuon, Yano, Yanu, Yaö]
 population: 2380
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

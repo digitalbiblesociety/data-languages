@@ -5,6 +5,7 @@ autonym: Ararandeūara
 population: null
 country_id: BR
 country_name: Brazil
+area: Endangered Tupian language of Brazil
 status_id: null
 scope: individual
 language_type: extinct

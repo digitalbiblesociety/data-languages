@@ -6,6 +6,8 @@ alt_names: [Criollo angolar, Ngola, Portuguese-based Creoles, São Tomé]
 population: 5000
 country_id: ST
 country_name: "Sao Tome & Principe"
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Portuguese-based creole of São Tomé and Príncipe
 status_id: 6a
 scope: individual
 language_type: living

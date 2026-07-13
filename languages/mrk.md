@@ -2,10 +2,12 @@
 iso: mrk
 name: Hmwaveke
 autonym: Ceta
-alt_names: [Faa Ceta, Moaveke, Neukaledonien]
+alt_names: [Faa Ceta, Moaveke, Neukaledonien, ’Moaveke]
 population: 300
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

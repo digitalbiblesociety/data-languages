@@ -6,6 +6,8 @@ alt_names: [Admiralitäts-inseln, Ninigo]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Western Admiralty Islands language
 status_id: "4"
 scope: individual
 language_type: living

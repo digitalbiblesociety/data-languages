@@ -6,6 +6,8 @@ alt_names: [Tai Tac, Tay Tac]
 population: null
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Southwestern Tai language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living

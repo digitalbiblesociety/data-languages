@@ -2,10 +2,12 @@
 iso: mlv
 name: Motlav
 autonym: Motlav
-alt_names: [Banks-Inseln, Motalava, Mwotlap, Valuwa, Volow, Мвотлап]
+alt_names: [Banks-Inseln, Motalava, Mwotlap, Valuwa, Volow, Мвотлап, Dagmel]
 population: 2200
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living

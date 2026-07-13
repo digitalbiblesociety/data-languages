@@ -2,10 +2,12 @@
 iso: kqc
 name: "Doromu-Koki"
 autonym: "Doromu-Koki"
-alt_names: [Doram, Doromu]
+alt_names: [Doram, Doromu, Dorom, Koki, Kokila, ꞌOrigo]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Manubaran language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

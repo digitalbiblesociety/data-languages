@@ -6,6 +6,7 @@ alt_names: ["Hawai'i Pidgin Sign Language", "Hawai'i Sign Language", Hawaii Pidg
 population: 6000
 country_id: US
 country_name: United States
+area: Indigenous sign language used in Hawaii
 status_id: 8b
 scope: individual
 language_type: living

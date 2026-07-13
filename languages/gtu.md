@@ -2,12 +2,16 @@
 iso: gtu
 name: "Aghu-Tharnggala"
 autonym: Gogo Mini
+alt_names: [Aghu Tharnggala]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
+latitude: -15
+longitude: 144
 wikidata_id: Q16825981
 wikipedia_url: "https://en.wikipedia.org/wiki/Aghu_Tharrnggala_language"
 translations:

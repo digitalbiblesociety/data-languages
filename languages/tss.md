@@ -6,6 +6,7 @@ alt_names: [Taiwanese Sign Language, Taiwanese Sign Language (Ziran Shouyu)]
 population: 24000
 country_id: TW
 country_name: Taiwan
+area: Sign language used in Taiwan
 status_id: "4"
 scope: individual
 language_type: living

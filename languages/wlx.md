@@ -2,10 +2,12 @@
 iso: wlx
 name: Wali
 autonym: Ala
-alt_names: [Ouala, Waali, Wala, Wali]
+alt_names: [Ouala, Waali, Wala, Wali, "'Bulengee", "'Dolimi", Cherii, Fufula, Waalii, Yeri Waali]
 population: 70000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

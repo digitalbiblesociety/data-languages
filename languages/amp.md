@@ -2,10 +2,12 @@
 iso: amp
 name: Alamblak
 autonym: null
-alt_names: [Alamblakeg, Arambak]
+alt_names: [Alamblakeg, Arambak, Karawari, Kuvenmas]
 population: 1530
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: "Language of East Sepik Province, Papua New Guinea"
 status_id: "5"
 scope: individual
 language_type: living

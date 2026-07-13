@@ -2,10 +2,12 @@
 iso: cta
 name: Tataltepec Chatino
 autonym: Lowland Chatino
-alt_names: [Chatino, Chatino (Tataltepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Tataltepec", Tatalpepec Chatino]
+alt_names: [Chatino, Chatino (Tataltepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Tataltepec", Tatalpepec Chatino, Tataltepec, Chatino Occidental Bajo, Chatino de la Costa, Chaꞌ jnaꞌa]
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotecan language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

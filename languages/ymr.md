@@ -5,6 +5,8 @@ autonym: Malayar
 population: 7760
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Mukha Dhora, Nooka Dora, Nuka-Dora, Reddi, Reddi-Dora, Riddi]
 population: 29700
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian languages spoken in India
 status_id: 6a
 scope: individual
 language_type: living

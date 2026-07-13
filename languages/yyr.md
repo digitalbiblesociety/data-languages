@@ -5,9 +5,11 @@ autonym: null
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: extinct
+glottocode: yiry1247
 translations:
   - translation_iso: ara
     name: لغة يير يورونت
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: AU
     location: Australia
 ---
+Yir-Yoront was a Paman language spoken in two settlements, Kowanyama and Pormpuraaw on the southwestern part of the Cape York Peninsula, Queensland in Australia, by the Yir-Yoront people. In 1991 only 15 speakers remained, with the rest of the Yir-Yoront people speaking English or even Kuuk Thaayorre as many speakers of Yir-Yoront apparently are using Kuuk Thaayorre in daily conversation. At present it is thought to be extinct. There are two sister dialects, Yir-Yoront proper and Yirrk-Thangalkl, which are very close. The shared name Yir is sometimes used for both taken together.

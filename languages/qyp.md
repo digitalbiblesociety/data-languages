@@ -10,6 +10,7 @@ scope: individual
 language_type: extinct
 latitude: 41.2021
 longitude: -73.3798
+language_map_img: 500px-Tribal_Territories_Southern_New_England.webp
 glottocode: wamp1250
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

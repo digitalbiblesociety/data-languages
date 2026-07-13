@@ -6,6 +6,8 @@ alt_names: [Jirial, Ziral]
 population: 7070
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Tibetic language
 status_id: 6b
 scope: individual
 language_type: living

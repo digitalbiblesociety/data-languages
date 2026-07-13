@@ -2,10 +2,12 @@
 iso: pbi
 name: Parkwa
 autonym: Podoko
-alt_names: [Gwadi Parekwa, Kudala, Padogo, Padoko, Padokwa, Paduko, Parekwa, Pawdawkwa, Podogo, Podokwo]
+alt_names: [Gwadi Parekwa, Kudala, Padogo, Padoko, Padokwa, Paduko, Parekwa, Pawdawkwa, Podogo, Podokwo, Gwaɗi Parǝkwa, Podokwa]
 population: 30000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

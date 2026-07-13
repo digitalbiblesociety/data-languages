@@ -6,11 +6,13 @@ alt_names: [Austro-Bavarian language, Baiersch, Bairisch, Bairische Dialekte, Ba
 population: 14100000
 country_id: AT
 country_name: Austria
+area: Group of German varieties spoken in Bavaria and Austria
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 47.923164
 longitude: 13.246026
+language_map_img: bar.webp
 scripts: [Latn]
 glottocode: bava1246
 glottolog_family_id: indo1319

@@ -2,10 +2,12 @@
 iso: ala
 name: Alago
 autonym: Idoma Noku
-alt_names: [Arago, Aragu, Argo, Idoma Nokwu]
+alt_names: [Arago, Aragu, Argo, Idoma Nokwu, Agwatashi, Akpanaja, Aloshi, Ana, Assaikio, Doma, Ibi, Keana]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Idomoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

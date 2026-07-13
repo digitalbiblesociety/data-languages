@@ -3,15 +3,18 @@ iso: nya
 iso639_1: ny
 name: Nyanja
 autonym: Nyanja
-alt_names: [Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Tchitcheweg, Čeva, Ниянджа, Ньянджа]
+alt_names: [Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Tchitcheweg, Čeva, Ниянджа, Ньянджа, Angoni, Cheva, Chingoni, Chinjanja, Chipeta, Cicewa, Cimanganja, Cingoni, Cinianja, Cinyanja, Cipeta, Kunda, Malawi, Manganja, Marave, Maravi, Ngoni, Nyanja-Chewa, Nyasa, Nyasa-Cewa, Peta, Sheva, Waganga]
 population: 14381000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language of Southern and East Africa
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -14.80472
 longitude: 32.810775
+language_map_img: Chewa_map.svg
 scripts: [Latn]
 glottocode: nyan1308
 glottolog_family_id: atla1278

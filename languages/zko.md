@@ -6,11 +6,13 @@ alt_names: [Kot, Kotte, Kotteg, Kottisk]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Yeniseian language of Siberia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 55
 longitude: 94
+language_map_img: Yeniseian_languages_map.svg
 glottocode: kott1239
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian

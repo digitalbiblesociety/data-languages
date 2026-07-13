@@ -6,6 +6,8 @@ alt_names: [Darfur-Nubian, Meidob Nubian, Midob Nubian, Midobi, Nubian (Meidob),
 population: 85000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nubian language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living

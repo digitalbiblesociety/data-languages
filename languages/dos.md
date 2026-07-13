@@ -2,10 +2,12 @@
 iso: dos
 name: Dogosé
 autonym: Doghose
-alt_names: [Doghosie, Doghosié, Doghosye, Dogose, Dokhobe, Dokhosié, Dorhossié, Dorhosye, Doro Doghosié, Dorobé, Dorosie, Dorossé, Dɔɣɔse]
+alt_names: [Doghosie, Doghosié, Doghosye, Dogose, Dokhobe, Dokhosié, Dorhossié, Dorhosye, Doro Doghosié, Dorobé, Dorosie, Dorossé, Dɔɣɔse, Dɔgɔsɛ/Khɩsɛ, Gbeyãse, Gbogorose, Klamaasise, Lutise, Mesise, Sukurase]
 population: 20000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: tga
 name: Sagalla
 autonym: Kisagala
-alt_names: [Kisagalla, Sagala, Saghala, Teri]
+alt_names: [Kisagalla, Sagala, Saghala, Teri, Dambi, Gimba, Kishamba, Mugange, kiSaghala]
 population: 100000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: tyx
 name: "Teke-Tyee"
 autonym: West Teke
+alt_names: [Kwe, Tee, Tyee]
 population: 14400
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +54,4 @@ translations:
     name: 特克-蒂伊语
     auto: true
 ---
+West Teke is a Bantu language spoken in the Republic of Congo and Gabon.

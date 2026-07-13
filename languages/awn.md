@@ -2,10 +2,12 @@
 iso: awn
 name: Awngi
 autonym: Agau
-alt_names: [Agaw, Agew, Agow, Angwi Agaw, Aongieg, Awawar, Awi, Awiya, Awngi hizkuntza, Damot, Hawiya, Kwollanyoch]
+alt_names: [Agaw, Agew, Agow, Angwi Agaw, Aongieg, Awawar, Awi, Awiya, Awngi hizkuntza, Damot, Hawiya, Kwollanyoch, Agew-Awi, Awgni, Awija, Awŋi, Dega, Kunfäl, Kwolla, Northern Awngi]
 population: 489000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushitic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nlx
 name: Nahali
 autonym: Nahali
-alt_names: [Kalteg, Kalto, Kalto language, Nahal, Nahale, Nahalí, Nihali, Нихали]
+alt_names: [Kalteg, Kalto, Kalto language, Nahal, Nahale, Nahalí, Nihali, Нихали, Nahalia]
 population: 15000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: udm
 name: Udmurt
 autonym: удмурт кыл udmurt kyl
-alt_names: [Ari, Oedmoerts, Oudmourte, Oudmourteg, Ud-murt, Udmurtagiella, Udmurtisk, Udmurtiska, Udmurty, Udmurtça, Votiaco, Votiak, Votjakisch, Votyak, Wotiaki, Wotjakisch, udmurt kyl, votskij, Удмурт теле, Удмуртонь кель, удмурт кыл]
+alt_names: [Ari, Oedmoerts, Oudmourte, Oudmourteg, Ud-murt, Udmurtagiella, Udmurtisk, Udmurtiska, Udmurty, Udmurtça, Votiaco, Votiak, Votjakisch, Votyak, Wotiaki, Wotjakisch, udmurt kyl, votskij, Удмурт теле, Удмуртонь кель, удмурт кыл, Besermyan, North Udmurt, South Udmurt, Southwestern Udmurt]
 population: 335700
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Uralic language
 status_id: "5"
 scope: individual
 language_type: living

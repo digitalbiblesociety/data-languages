@@ -6,6 +6,8 @@ alt_names: [Black Lolo, Flowery Lolo, Lolo, Red Mantsi]
 population: 1100
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Lolo-Burmese language of China and Vietnam
 status_id: 6a
 scope: individual
 language_type: living

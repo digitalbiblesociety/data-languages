@@ -3,10 +3,12 @@ iso: zty
 macrolanguage_id: zap
 name: Yatee Zapotec
 autonym: Lachirioag Zapotec
-alt_names: [Northern Sapoteko, Zapotec, "Zapotec, Yatee", Zapoteco de Yatee]
+alt_names: [Northern Sapoteko, Zapotec, "Zapotec, Yatee", Zapoteco de Yatee, Zapoteco, Yatée, Lachiruaj Zapotec, San Cristóbal Lachiruaj Zapotec]
 population: 5000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

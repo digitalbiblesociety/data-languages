@@ -2,10 +2,12 @@
 iso: xer
 name: Xerénte
 autonym: Sherenté
-alt_names: [Sherente, Xerente, Xerenti]
+alt_names: [Sherente, Xerente, Xerenti, Acuen, Akwen, Akwẽ, Akwẽ-Xerente]
 population: 2570
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Akuwẽ language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

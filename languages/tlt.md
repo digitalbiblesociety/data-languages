@@ -6,6 +6,8 @@ alt_names: [Taluti, Tehoru, Teluti, Tihoru, Wolu]
 population: 17000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Maluku"
 ---
+Sepa–Teluti is an Austronesian language of Seram Island in eastern Indonesia.

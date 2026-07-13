@@ -7,11 +7,14 @@ alt_names: [Filipino, Fiteny Tagalog, Pagsasao a Tagalog, Tagal, Tagala, Tagala 
 population: 23600000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 14.06
 longitude: 121.74695
+language_map_img: tgl.webp
 glottocode: taga1270
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

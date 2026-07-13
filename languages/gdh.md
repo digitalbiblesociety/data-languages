@@ -6,6 +6,7 @@ alt_names: [Gadjarawang, Gadyerong, Gadyerrong, Gajirrabeng, Gajirrabeng languag
 population: 10
 country_id: AU
 country_name: Australia
+area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

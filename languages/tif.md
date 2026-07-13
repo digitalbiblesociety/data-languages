@@ -2,9 +2,12 @@
 iso: tif
 name: Tifal
 autonym: Tifalmin
+alt_names: [Asbalmin]
 population: 3600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Ok language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: yle
 name: Yele
 autonym: Yélî Dnye
-alt_names: [Rossel, Rossel Island, Yela, Yeleg, Yelejong, Yeletnye, Yelidnye, Yelî Dnye]
+alt_names: [Rossel, Rossel Island, Yela, Yeleg, Yelejong, Yeletnye, Yelidnye, Yelî Dnye, Yele Rossel, Abaletti, Bou, Daminyu, Jaru, Jinjo, Wulanga]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Unclassified language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

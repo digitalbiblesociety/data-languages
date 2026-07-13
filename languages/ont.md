@@ -5,11 +5,13 @@ autonym: Ontena
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -6.45912
 longitude: 145.76529
+glottocode: onte1239
 wikidata_id: Q3352827
 wikipedia_url: "https://en.wikipedia.org/wiki/Ontenu_language"
 translations:

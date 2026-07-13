@@ -6,11 +6,14 @@ alt_names: [Ong Komi, "Wo'rora", Worora, Wororra, Worrara, Worrora, Wurara, Wuro
 population: 7
 country_id: AU
 country_name: Australia
+location: Australia
+area: Aboriginal Australian language of northern Western Australia
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: -15.612781
 longitude: 124.881218
+language_map_img: Worrorran_map.svg
 glottocode: worr1237
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran

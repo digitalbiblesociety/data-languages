@@ -6,6 +6,7 @@ alt_names: [Karranga, Moodburra, Mootburra, Mudbara, Mudbarra, Mudbera, Mudbra, 
 population: 92
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Dusun, Sugut", Kadayan, Sugut, Sugut Kadazan, Tanggal, Tilau-Ilau]
 population: 12200
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: MY
     location: Malaysia
 ---
+Kimaragang (Marigang), Tobilung, and Rungus are varieties of a single Austronesian language of Sabah, Malaysia. The three varieties share moderate mutual intelligibility. Children are not learning it well in some areas.

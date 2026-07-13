@@ -2,10 +2,11 @@
 iso: mmo
 name: Mangga Buang
 autonym: Mangga Buang
-alt_names: ["Buang, Mangga", Kaidemui, Manga Buang]
+alt_names: ["Buang, Mangga", Kaidemui, Manga Buang, Kwasang, Lagis]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
 status_id: "5"
 scope: individual
 language_type: living

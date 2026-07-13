@@ -6,6 +6,7 @@ alt_names: [Guarasu, Guarasugwe, Guarayu-Ta, Paucerne, Pauserna-Guarasugwé]
 population: 2017
 country_id: BO
 country_name: Bolivia
+area: Moribund Tupian language of Bolivia and Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

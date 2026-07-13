@@ -6,6 +6,8 @@ alt_names: [Kunant, Kunante, Mansoanca, Maswanka, Sua]
 population: 20730
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Niger–Congo language spoken in Guinea-Bissau
 status_id: 6a
 scope: individual
 language_type: living

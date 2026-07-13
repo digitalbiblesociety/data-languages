@@ -6,11 +6,14 @@ alt_names: [E Mnong, E. Mnong, Mnong (Eastern), "Mnong, Eastern", Nong, Penong, 
 population: 30000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 12.39385
 longitude: 108.35351
+language_map_img: 500px-Mnong_language.webp
 glottocode: east2333
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

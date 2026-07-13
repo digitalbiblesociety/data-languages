@@ -2,15 +2,18 @@
 iso: vec
 name: Venetian
 autonym: " vèneto"
-alt_names: [Lengoa Veneta, Luenga veneciana, Other Italian Lects, Veneciano, Venedikçe, Veneeshish, Venesiaans, Venet, Veneteg, Venetiaans, Venetiansk, Venetianska, Veneto, Veneziera, Venèt, Vènet, Vénitien, Vî-nî-sṳ̂-ngî, Łéngua vèneta, ונטית, ۋېنىسىيە تىلى]
+alt_names: [Lengoa Veneta, Luenga veneciana, Other Italian Lects, Veneciano, Venedikçe, Veneeshish, Venesiaans, Venet, Veneteg, Venetiaans, Venetiansk, Venetianska, Veneto, Veneziera, Venèt, Vènet, Vénitien, Vî-nî-sṳ̂-ngî, Łéngua vèneta, ונטית, ۋېنىسىيە تىلى, Talian]
 population: 7852500
 country_id: IT
 country_name: Italy
+location: Southern Brazil
+area: "Romance language of Veneto, northeast Italy"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 45.40985
 longitude: 13.034455
+language_map_img: vec.webp
 scripts: [Latn]
 glottocode: vene1258
 glottolog_family_id: indo1319

@@ -7,11 +7,14 @@ alt_names: [Arabic, Arabic (Eastern), Arabic (North Yemen), Arabic (Northern Yem
 population: 11400000
 country_id: YE
 country_name: Yemen
+location: Yemen
+area: Form of Yemeni Arabic spoken in Sanaa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.65517
 longitude: 44.84118
+language_map_img: Sanaani_Arabic.svg
 glottocode: sana1295
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

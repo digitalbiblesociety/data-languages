@@ -2,10 +2,12 @@
 iso: bps
 name: Sarangani Blaan
 autonym: null
-alt_names: [Balud, Bilaan, Blaan, "Blaan, Sarangani", Tumanao]
+alt_names: [Balud, Bilaan, Blaan, "Blaan, Sarangani", Tumanao, Sarangani]
 population: 90800
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language of the southern Philippines
 status_id: "4"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 萨兰加尼布兰语
     auto: true
 ---
+Blaan, also known as Bla'an, is an Austronesian language of the southern Philippines spoken by an indigenous ethnic group of the same name who inhabited many areas of Soccksargen and Davao Occidental.

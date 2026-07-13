@@ -2,10 +2,12 @@
 iso: krn
 name: Sapo
 autonym: Sarpo
-alt_names: [Southern Krahn]
+alt_names: [Southern Krahn, Juarzon, Kabade, Karbardae, Nimpo, Nomopo, Putu, Senkon, Sinkon, Waya, Wedjah]
 population: 66700
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language spoken in Liberia
 status_id: "5"
 scope: individual
 language_type: living

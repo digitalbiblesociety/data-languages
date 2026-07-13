@@ -6,6 +6,8 @@ alt_names: [Miltú]
 population: 270
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: 8a
 scope: individual
 language_type: living

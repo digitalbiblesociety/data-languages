@@ -6,6 +6,7 @@ alt_names: [Mbuku]
 population: 47000
 country_id: CG
 country_name: Congo
+location: Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: tzm
 name: Central Atlas Tamazight
 autonym: Tamaziɣt
-alt_names: [Ayt Ndhir, Berber, Berber (Ayt Ayache Middle Atlas), Berber (Ayt Ndhir Middle Atlas), Berber (Ayt Seghrouchen Middle Atlas), Berber (Middle Atlas), Central Morocco Tamazight, Central Shilha, Centralnoatlaski tamazight, Middle Atlas Berber, Oum Jeniba, Oum Jeniba Tamazight, Shilha, Tamazight, Tamazight del Marruecos Central, Tamazight du Maroc central, "Tamazight, Central Atlas", Tamazigteg]
+alt_names: [Ayt Ndhir, Berber, Berber (Ayt Ayache Middle Atlas), Berber (Ayt Ndhir Middle Atlas), Berber (Ayt Seghrouchen Middle Atlas), Berber (Middle Atlas), Central Morocco Tamazight, Central Shilha, Centralnoatlaski tamazight, Middle Atlas Berber, Oum Jeniba, Oum Jeniba Tamazight, Shilha, Tamazight, Tamazight del Marruecos Central, Tamazight du Maroc central, "Tamazight, Central Atlas", Tamazigteg, Central Atlas, Moroccan Amazigh, Tachelhit, Tmazight, Tmaziɣt]
 population: 4740000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Berber language of central Morocco
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 32.741545
 longitude: -2.40872
+language_map_img: Central_Atlas_Tamazight_-_EN.webp
 scripts: [Latn, Tfng]
 glottocode: cent2194
 glottolog_family_id: afro1255

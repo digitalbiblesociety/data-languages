@@ -5,6 +5,7 @@ autonym: null
 population: 50000
 country_id: CD
 country_name: DR Congo
+area: Bantu language spoken in the Democratic Republic of the Congo
 status_id: null
 scope: individual
 language_type: living

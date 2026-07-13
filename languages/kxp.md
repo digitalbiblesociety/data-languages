@@ -2,10 +2,12 @@
 iso: kxp
 name: Wadiyara Koli
 autonym: Wadaria
-alt_names: ["Koli, Wadiyara", Wadhiara]
+alt_names: ["Koli, Wadiyara", Wadhiara, Hasoria Bhil, Hasoria Koli, Mayvasi Koli, Mewasi, Nairya Koli, Rardro Bhil, Tharadari Bhil, Tharadari Koli, Wadiyara, Wadiyari]
 population: 583000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language of India and Pakistan
 status_id: 6a
 scope: individual
 language_type: living

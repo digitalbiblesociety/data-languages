@@ -2,10 +2,12 @@
 iso: adl
 name: Galo
 autonym: Galo
-alt_names: [Abor, Adi, Adi-Gallong, Adi-Galo, Gallong, Galong]
+alt_names: [Abor, Adi, Adi-Gallong, Adi-Galo, Gallong, Galong, Karka, Lare, Pugo]
 population: 29200
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

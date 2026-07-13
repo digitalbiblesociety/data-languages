@@ -6,6 +6,8 @@ alt_names: [Carina, Southern Quechua, Tahuantisuyo]
 population: 110
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Pano–Tacanan language spoken in Bolivia
 status_id: 6b
 scope: individual
 language_type: living

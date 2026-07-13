@@ -2,15 +2,18 @@
 iso: ivv
 name: Ivatan
 autonym: Ibatan
-alt_names: [Ivatanen, Philippines, Southern]
+alt_names: [Ivatanen, Philippines, Southern, Basco Ivatan, Chirin nu Ibatan, Itbayat, Itbayaten, Southern Ivatan]
 population: 35000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Batanic language of the Ivatan people of the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 20.38479
 longitude: 121.97521
+language_map_img: 500px-The_Batanic_languages.webp
 glottocode: ivat1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

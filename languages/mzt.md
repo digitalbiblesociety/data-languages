@@ -6,6 +6,8 @@ alt_names: [Mitil]
 population: 400
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 8a
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: urd
 iso639_1: ur
 name: Urdu
 autonym: اُردُو
-alt_names: [An Urdais, Fiteny urdu, Hindustani, Islami, Oerdoe, Ordo, Ourdou, Ourdoueg, Undri, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdú, Urudu, Wrdw, Забони урду, Урду, אורדו, أردو, ئوردو تىلى, اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, উর্দু ঠার, உருது, ಉರ್ದೂ, ഉർദു]
+alt_names: [An Urdais, Fiteny urdu, Hindustani, Islami, Oerdoe, Ordo, Ourdou, Ourdoueg, Undri, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdú, Urudu, Wrdw, Забони урду, Урду, אורדו, أردو, ئوردو تىلى, اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, উর্দু ঠার, உருது, ಉರ್ದೂ, ഉർദു, Bihari, Dakani, Dakhini, Dakkhini, Deccan, Desia, Mirgan, Modern Standard Urdu, Pinjari, Rekhta, Rekhti]
 population: 68600000
 country_id: PK
 country_name: Pakistan
+location: Bangladesh
+area: Language spoken in South Asia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 25
 longitude: 67
+language_map_img: urd.webp
 scripts: [Arab]
 glottocode: urdu1245
 glottolog_family_id: indo1319

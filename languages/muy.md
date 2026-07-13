@@ -2,10 +2,12 @@
 iso: muy
 name: Muyang
 autonym: null
-alt_names: [Mouyenge, Mouyengue, Muyenge, Myau, Myenge]
+alt_names: [Mouyenge, Mouyengue, Muyenge, Myau, Myenge, ma Muyaŋ]
 population: 30000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

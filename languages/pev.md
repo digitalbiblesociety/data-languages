@@ -6,6 +6,7 @@ alt_names: [Pemono]
 population: null
 country_id: VE
 country_name: Venezuela
+area: Extinct language of Venezuela
 status_id: "10"
 scope: individual
 language_type: living

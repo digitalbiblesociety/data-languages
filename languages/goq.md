@@ -5,11 +5,14 @@ autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: Languages descended from Low Malay
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 2.13058
 longitude: 128.26063
+language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp
 glottocode: gora1261
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

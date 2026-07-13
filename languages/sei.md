@@ -6,11 +6,14 @@ alt_names: [Serian, Serieg, Σέρι, Сери]
 population: 750
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Native American language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 28.98767
 longitude: -112.38366
+language_map_img: 500px-Seri_within_Mexico.webp
 scripts: [Latn]
 glottocode: seri1257
 wikidata_id: Q36583

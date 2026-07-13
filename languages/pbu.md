@@ -3,15 +3,18 @@ iso: pbu
 macrolanguage_id: pus
 name: Northern Pashto
 autonym: Yusufzai
-alt_names: [Afghan, Eastern Afghan, "Pakh'to", Pakhto, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Northern", Pashtu, Passtoo, Pushto, Pusto, Yusufzai Pashto]
+alt_names: [Afghan, Eastern Afghan, "Pakh'to", Pakhto, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Northern", Pashtu, Passtoo, Pushto, Pusto, Yusufzai Pashto, Eastern Afghan Pashto, Ghilzai, Jalalabad Pashto, Khogyani, Nangarhari Pashto, Ningraharian Pashto, Northeastern Pashto, Northwestern Pakhto, Pakhtoon, Pakhtun, Pashtoon, Sharqi, Yousafzai Pashto]
 population: 20900000
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Variety of the Pashto language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 34
 longitude: 71.33
+language_map_img: pbu.webp
 glottocode: nort2646
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

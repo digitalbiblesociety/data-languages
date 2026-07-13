@@ -2,10 +2,12 @@
 iso: cpb
 name: "Ucayali-Yurúa Ashéninka"
 autonym: Campa
-alt_names: [Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Ucayali-Yurúa", Cogapacorí, Nanti, Ucayali, Ucayali Ashéninca, Ucayali-Yurua Asheninka]
+alt_names: [Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Ucayali-Yurúa", Cogapacorí, Nanti, Ucayali, Ucayali Ashéninca, Ucayali-Yurua Asheninka, Ashéninka, Ucayali-yurúa, Kampa]
 population: 7000
 country_id: PE
 country_name: Peru
+location: Western Central Brazil
+area: Arawakan language of southern Peru and Brazil
 status_id: "5"
 scope: individual
 language_type: living

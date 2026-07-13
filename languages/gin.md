@@ -6,11 +6,14 @@ alt_names: [Ginukh, Ginukhtsy, Ginux, Guang, "Hinouc'heg", Hinuj, Hinuq, Hinux, 
 population: 550
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 42.45022
 longitude: 45.80638
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: hinu1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

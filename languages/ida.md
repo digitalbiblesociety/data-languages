@@ -3,10 +3,12 @@ iso: ida
 macrolanguage_id: luy
 name: "Idakho-Isukha-Tiriki"
 autonym: Luidakho
-alt_names: [Kenya, Luidakho-Luisukha-Lutirichi]
+alt_names: [Kenya, Luidakho-Luisukha-Lutirichi, Lukakamega, Idakho, Idaxo, Idaxo-Isuxa-Tiriki, Isukha, Isuxa, Itakho, Itoxo, Lwisukha, Tiriki]
 population: 156000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kenyan languages
 status_id: "5"
 scope: individual
 language_type: living

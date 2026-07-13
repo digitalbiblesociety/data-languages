@@ -6,6 +6,8 @@ alt_names: [//Gana, //Ganakhwe, /Khessakoe, "?gana", G//ana, G//anakhwe, Gana, G
 population: 2000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Khoe dialect cluster of Botswana
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Belep, Neukaledonien, Nyelyâu, Nyelâyu, Yalayu, Yâlayu]
 population: 1520
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Südliche Salomons-Inseln]
 population: 1890
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Southeast Solomonic language of Guadalcanal
 status_id: 6a
 scope: individual
 language_type: living

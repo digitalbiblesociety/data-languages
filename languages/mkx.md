@@ -6,6 +6,8 @@ alt_names: [Cinamiguin, Kamigin, "Manobo, Cinamiguin", "Manobo, Kinamiging"]
 population: 12800
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Manobo language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living

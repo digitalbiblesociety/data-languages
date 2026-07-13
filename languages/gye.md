@@ -6,6 +6,8 @@ alt_names: [Gemawa, Gyam, Gyemawa]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: "Kainji language of Bauchi State, Nigeria"
 status_id: 8b
 scope: individual
 language_type: living

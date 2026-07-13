@@ -2,10 +2,12 @@
 iso: cdr
 name: "Cinda-Regi-Tiyal"
 autonym: ‘Yara
-alt_names: [Kamuku]
+alt_names: [Kamuku, "'Yara", Cinda, Jinda, Kuki, Kuru, Majinda, Makangara, Maruba, Regi, Tegina, Tiyal, Tiyar, "Tu'yara", Tucipu, Ucinda, tuRegi, uKuru]
 population: 45000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language complex spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

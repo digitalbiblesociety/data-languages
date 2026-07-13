@@ -7,6 +7,8 @@ alt_names: [Eastern Sapoteko, San Agustin Mixtepec Zapotec, San Agustín Mixtepe
 population: 59
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 8b
 scope: individual
 language_type: living

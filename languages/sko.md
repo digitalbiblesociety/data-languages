@@ -6,6 +6,8 @@ alt_names: [Pewaneang, Pohoneang, Seko]
 population: 2500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Subgroup of the Austronesian language family
 status_id: 6a
 scope: individual
 language_type: living

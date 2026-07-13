@@ -6,11 +6,13 @@ alt_names: [Pentlatc, Puntlatch, pənƛʼáč]
 population: 2023
 country_id: CA
 country_name: Canada
+area: Salishan language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 49.19362
 longitude: -124.68918
+language_map_img: 500px-Pentlatch.webp
 glottocode: pent1242
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

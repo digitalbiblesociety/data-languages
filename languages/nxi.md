@@ -2,10 +2,12 @@
 iso: nxi
 name: Nindi
 autonym: Kinindi
-alt_names: [Tanzania]
+alt_names: [Tanzania, Manundi]
 population: 100
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: "7"
 scope: individual
 language_type: living

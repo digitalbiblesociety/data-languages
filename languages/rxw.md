@@ -6,6 +6,7 @@ alt_names: [Garuwali]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 卡鲁瓦利语
     auto: true
 ---
+Mithaka is an extinct Australian Aboriginal language in the Barcoo Shire of Western Queensland spoken by the Mitaka people.

@@ -3,10 +3,12 @@ iso: qul
 macrolanguage_id: que
 name: North Bolivian Quechua
 autonym: North La Paz Quechua
-alt_names: [Bolivia Quechua, Bolivian Quechua, Boliviano, Northern Bolivian Quechua, Quechua (Bolivian), Quechua boliviano meridional, Quechua boliviano septentrional, Quechua bolivien du nord, Quechua bolivien du sud, "Quechua, North Bolivian"]
+alt_names: [Bolivia Quechua, Bolivian Quechua, Boliviano, Northern Bolivian Quechua, Quechua (Bolivian), Quechua boliviano meridional, Quechua boliviano septentrional, Quechua bolivien du nord, Quechua bolivien du sud, "Quechua, North Bolivian", Quechua, North Bolivian, Apolo, Charazani, Chuma]
 population: 116000
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Dialect of Southern Quechua
 status_id: "2"
 scope: individual
 language_type: living

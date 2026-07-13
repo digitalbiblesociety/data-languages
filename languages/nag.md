@@ -2,10 +2,12 @@
 iso: nag
 name: Naga Pidgin
 autonym: Naga Pidgin
-alt_names: [Bodo, Kachari Bengali, Naga Creole Assamese, Naga-Assamese, Nagamese]
+alt_names: [Bodo, Kachari Bengali, Naga Creole Assamese, Naga-Assamese, Nagamese, Nagamiz]
 population: 30000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Assamese-derived creole language spoken in Nagaland, India"
 status_id: "3"
 scope: individual
 language_type: living

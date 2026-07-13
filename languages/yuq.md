@@ -6,6 +6,8 @@ alt_names: [Bia, Yuki, Yuquí, Yúki, mbiá]
 population: 120
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Tupí–Guaraní language of eastern Bolivia
 status_id: "7"
 scope: individual
 language_type: living

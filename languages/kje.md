@@ -2,10 +2,12 @@
 iso: kje
 name: Kisar
 autonym: Loikera
-alt_names: [Kisser, Meher, Yotowawa]
+alt_names: [Kisser, Meher, Yotowawa, Bahasa Meher]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

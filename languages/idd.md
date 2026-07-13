@@ -2,10 +2,12 @@
 iso: idd
 name: Ede Idaca
 autonym: Idaaca
-alt_names: [Idaasa, Idaca, Idáìtsà]
+alt_names: [Idaasa, Idaca, Idáìtsà, Idaasha, Idaatcha]
 population: 170000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 埃德伊达卡语
     auto: true
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

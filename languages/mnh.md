@@ -2,10 +2,12 @@
 iso: mnh
 name: Mono
 autonym: Amono
-alt_names: [Mono, Mono language]
+alt_names: [Mono, Mono language, Bili, Bubanda, Galaba, Kaga, Mpaka]
 population: 65000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Banda language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living

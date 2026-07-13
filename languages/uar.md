@@ -2,9 +2,12 @@
 iso: uar
 name: Tairuma
 autonym: Uaripi
+alt_names: [Kerema]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Eleman language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

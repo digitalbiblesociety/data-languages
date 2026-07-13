@@ -2,10 +2,12 @@
 iso: kbd
 name: Kabardian
 autonym: "Kabardino-CherkessEast Circassian"
-alt_names: [Beslenei, Circassian (East), East Circassian, Kabarde, Kabarde-tcherkesse, Kabardeyce, Kabardino-Cherkes, Kabardisch, Kabardo-Cherkes, Kabardo-Cherkessian, Kabardái, Kabardí, Upper Circassian, Zimanên çerkezî, kabardien, קברדינית]
+alt_names: [Beslenei, Circassian (East), East Circassian, Kabarde, Kabarde-tcherkesse, Kabardeyce, Kabardino-Cherkes, Kabardisch, Kabardo-Cherkes, Kabardo-Cherkessian, Kabardái, Kabardí, Upper Circassian, Zimanên çerkezî, kabardien, קברדינית, Kabard, Kabardo-Cherkess, Адыгэбзэ, Baksan, Beslenej, Cherkes, Eastern Adyghe, Eastern Circassian, Greater Kabardian, Highland Adyghe, Kabardin, Kuban, Lesser Kabardian, Malka, Mozdok, Upper Adyghe]
 population: 1890000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northwest Caucasian language natively spoken by Circassians
 status_id: "5"
 scope: individual
 language_type: living

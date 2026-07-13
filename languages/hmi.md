@@ -3,10 +3,12 @@ iso: hmi
 macrolanguage_id: hmn
 name: Northern Huishui Hmong
 autonym: Mhong
-alt_names: [Hmo, Hmong, "Hmong, Northern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Huishui", Northern Huishui Miao]
+alt_names: [Hmo, Hmong, "Hmong, Northern Huishui", Hmung, Hsiung, Hunan Miao, Miao, "Miao, Northern Huishui", Northern Huishui Miao, Huishui (Northern) Miao]
 population: 70000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Miao language of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 北惠水苗语
     auto: true
 ---
+Huishui Miao, a.k.a. Huishui Hmong, is a Miao language of China. It is named after Huishui County, Guizhou, though not all varieties are spoken there. The endonym is Mhong, though it shares this with Gejia and it is simply a variant spelling of Hmong.

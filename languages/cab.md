@@ -2,10 +2,12 @@
 iso: cab
 name: Garifuna
 autonym: Karif
-alt_names: ["\"Moreno\"", Black Carib, Caribe, Central American Carib, Garfuna, Garifuna simi, Garífuna, Island Carib]
+alt_names: ["\"Moreno\"", Black Carib, Caribe, Central American Carib, Garfuna, Garifuna simi, Garífuna, Island Carib, Eastern Garifuna, Moreno, Western Garifuna]
 population: 174300
 country_id: HN
 country_name: Honduras
+location: Belize
+area: Arawakan language of Central America
 status_id: "5"
 scope: individual
 language_type: living

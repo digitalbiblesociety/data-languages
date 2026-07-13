@@ -6,6 +6,8 @@ alt_names: [Leelalwarra, Leelawarra, Maarra, Mala, Mara]
 population: 5
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

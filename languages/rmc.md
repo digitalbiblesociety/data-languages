@@ -3,15 +3,18 @@ iso: rmc
 macrolanguage_id: rom
 name: Carpathian Romani
 autonym: Central Romani
-alt_names: [Bashaldo, Carpathian, Cigány, European Romany, Hungarian-Slovak Romani, Romani, "Romani, Carpathian", Romany, Romaní, Romungro, Zigeuner]
+alt_names: [Bashaldo, Carpathian, Cigány, European Romany, Hungarian-Slovak Romani, Romani, "Romani, Carpathian", Romany, Romaní, Romungro, Zigeuner, Romaňi čhib pal o vichodno Slovensko, Bergitka, Burgenland Romani, East Slovak, East Slovak Romani, Galician, Gurvari, Karpacki Roma, Moravian Romani, Prekmurski Romani, Roman, Romanes, Servika Romani, South Polish Romani, Sárvika Romá, Transylvanian, Ungrike Romá, Vend Romani, Veršend Romani, West Slovak Romani]
 population: 157110
 country_id: SK
 country_name: Slovakia
+location: Ukraine
+area: Group of dialects of the Romani language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 48.196788
 longitude: 20.312905
+language_map_img: Romany_dialects_Central.svg
 glottocode: carp1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

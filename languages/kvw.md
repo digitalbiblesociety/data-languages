@@ -2,15 +2,18 @@
 iso: kvw
 name: Wersing
 autonym: Kolana
-alt_names: [Kolana-Wersin, Warsina, Wersin]
+alt_names: [Kolana-Wersin, Warsina, Wersin, Langkuru, Mademang, Maneta, Pureman]
 population: 3700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language of Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.33936
 longitude: 124.93246
+language_map_img: 500px-Alor-pantar_map_color.webp
 glottocode: wers1238
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

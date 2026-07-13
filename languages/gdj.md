@@ -6,6 +6,8 @@ alt_names: [Araba, Areba, Cudjeral, Curjur, Gilbert River tribe, Goom gharra, Gu
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

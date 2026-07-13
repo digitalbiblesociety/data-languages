@@ -6,6 +6,8 @@ alt_names: [Akana, Djiramo, Djiramö, Gamu, Junggor, Kamor, Madngela, Malack mal
 population: 10
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Aboriginal language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living

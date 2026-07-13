@@ -2,9 +2,11 @@
 iso: gdt
 name: Kungardutyi
 autonym: Palpakunu
+alt_names: [Gungadidji]
 population: null
 country_id: AU
 country_name: Australia
+area: Indigenous language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct

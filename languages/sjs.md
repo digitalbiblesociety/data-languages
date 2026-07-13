@@ -2,15 +2,17 @@
 iso: sjs
 name: Senhaja De Srair
 autonym: " Tasenhajit"
-alt_names: [Sanhaja de Srair, Sanhāja of Srair, Senhajiya]
+alt_names: [Sanhaja de Srair, Sanhāja of Srair, Senhajiya, Sanhaja of Srair, Sinhaja Srir]
 population: 50000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
 status_id: 6a
 scope: individual
 language_type: extinct
 latitude: 34.99924
 longitude: -4.51293
+language_map_img: 500px-Sanhaja_de_Srayr_-_Localization_map.webp
 glottocode: senh1238
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

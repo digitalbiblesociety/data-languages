@@ -6,6 +6,8 @@ alt_names: [Na-Meo, Viet Nam]
 population: 1200
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Hmongic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

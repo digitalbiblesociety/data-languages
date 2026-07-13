@@ -2,10 +2,11 @@
 iso: nrf
 name: Jèrriais
 autonym: Normaund
-alt_names: [Guernésiais]
+alt_names: [Guernésiais, Augeron, Cauchois, Cotentinais, Dgernesiais, Guernsey French, Jersey French, Jersey Norman, Normand, Serquiais]
 population: 100000
 country_id: JE
 country_name: Channel Islands
+area: "Variety of Norman spoken in Jersey, in the Channel Islands"
 status_id: null
 scope: individual
 language_type: living

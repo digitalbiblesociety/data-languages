@@ -2,15 +2,18 @@
 iso: tzh
 name: Tzeltal
 autonym: Batsʼil Kʼop
-alt_names: [Aguacatenango, Aguacatenango dialect, "B'atz'il k'op", Bachajón, Cancuc, Chanal, Highland Tzeltal, Tenango, Tenejapa, Tseltal, Tseltal simi, "Tzeltal, Oxchuc", Tzendal, Tzéndal]
+alt_names: [Aguacatenango, Aguacatenango dialect, "B'atz'il k'op", Bachajón, Cancuc, Chanal, Highland Tzeltal, Tenango, Tenejapa, Tseltal, Tseltal simi, "Tzeltal, Oxchuc", Tzendal, Tzéndal, Oxchuc, Amatenango del Valle, Bachajon Tzeltal, Batsꞌil kꞌop, Chanal Cancuc, Lowland Tzeltal, Oxchuc Tzeltal, Tenejapa Tzeltal, Tsendal, Tzeltal de Amatenango del Valle, Tzeltal de Ocosingo, Tzeltal de Ocozingo, Tzeltal de Oxchuc, Tzeltal del Norte, Tzeltal del Sur, Tzeltal del occidente, Tzeltal del oriente]
 population: 557000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mayan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.63841
 longitude: -92.27861
+language_map_img: Mayan_Language_Map.svg
 glottocode: tzel1254
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

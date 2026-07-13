@@ -2,15 +2,18 @@
 iso: cof
 name: Colorado
 autonym: Colorado
-alt_names: [Campaz, Colima, Tsachila, Tsafiki, Tsafiqui, Tsa’fiki, Tsáchela, Tsáfiki]
+alt_names: [Campaz, Colima, Tsachila, Tsafiki, Tsafiqui, Tsa’fiki, Tsáchela, Tsáfiki, Tsachela, Tsáfiqui]
 population: 2300
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Barbacoan language spoken in Ecuador
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -0.21181
 longitude: -79.23468
+language_map_img: Barbacoan_languages.webp
 glottocode: colo1256
 glottolog_family_id: barb1265
 glottolog_family_name: Barbacoan

@@ -2,14 +2,17 @@
 iso: bvv
 name: Baniva
 autonym: Baniwa
+alt_names: [Abane, Avani, Ayane]
 population: null
 country_id: VE
 country_name: Venezuela
+area: Extinct Arawakan language of Venezuela
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 5.26123
 longitude: -67.56327
+glottocode: bani1254
 wikidata_id: Q3515198
 wikipedia_url: "https://en.wikipedia.org/wiki/Avane_language"
 translations:

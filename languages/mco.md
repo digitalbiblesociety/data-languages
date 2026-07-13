@@ -2,10 +2,12 @@
 iso: mco
 name: Coatlán Mixe
 autonym: Lowland Mixe
-alt_names: [Coatlan, Coatlan Mixe, Coatlán, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mije, Mixe, Mixe (Coatlan), Mixe (Coatlán), Mixe (San José El Paraiso), Mixe del Istmo, "Mixe, Coatlán", "Mixe, Coatlín", Oaxaca Mije, San José El Paraíso, Southeastern Mixe]
+alt_names: [Coatlan, Coatlan Mixe, Coatlán, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mije, Mixe, Mixe (Coatlan), Mixe (Coatlán), Mixe (San José El Paraiso), Mixe del Istmo, "Mixe, Coatlán", "Mixe, Coatlín", Oaxaca Mije, San José El Paraíso, Southeastern Mixe, Ayuk, Camotlán Mixe, Mixe Camotlán, Mixe Sur, Mixe Suroeste]
 population: 5000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Isthmus Mixe, called Lowland Mixe in Wichmann (1995), is a Mixe language spoken in Mexico. It is spoken in the villages of Coatlán San José el Paraíso, Mazatlán, Guichicovi, and Camotlán, Oaxaca.

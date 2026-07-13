@@ -2,10 +2,12 @@
 iso: cal
 name: Carolinian
 autonym: Refaluwasch
-alt_names: [Carolinien, Karoliini, Karolinian, Saipan Carolinian, Southern Carolinian]
+alt_names: [Carolinien, Karoliini, Karolinian, Saipan Carolinian, Southern Carolinian, Gupallao]
 population: 3000
 country_id: MP
 country_name: Northern Mariana Islands
+location: Guam and Northern Mariana Islands
+area: Austronesian language of the Northern Mariana Islands
 status_id: "4"
 scope: individual
 language_type: living

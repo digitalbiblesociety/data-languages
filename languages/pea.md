@@ -6,11 +6,13 @@ alt_names: [Baba Indonesian, Chinese Indonesian, "Indonesian, Peranakan", Perana
 population: 20000
 country_id: ID
 country_name: Indonesia
+area: Languages descended from Low Malay
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -7.982
 longitude: 112.61857
+language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp
 glottocode: pera1256
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -6,6 +6,7 @@ alt_names: [Pakistan]
 population: 25400
 country_id: PK
 country_name: Pakistan
+area: Marwari Rajasthani language
 status_id: 6a
 scope: individual
 language_type: living

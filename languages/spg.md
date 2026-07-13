@@ -5,6 +5,8 @@ autonym: Sihan
 population: 50
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Kajang language spoken in Malaysia and Brunei
 status_id: "7"
 scope: individual
 language_type: living

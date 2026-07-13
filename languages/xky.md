@@ -2,10 +2,12 @@
 iso: xky
 name: "Uma' Lasan"
 autonym: Kanyay
-alt_names: [Kenja, "Kenyah, Western", Kindjin, Kinjin, Western Kenya]
+alt_names: [Kenja, "Kenyah, Western", Kindjin, Kinjin, Western Kenya, Western Kenyah]
 population: 1250
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Kayan language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living

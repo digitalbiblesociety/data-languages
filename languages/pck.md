@@ -2,10 +2,12 @@
 iso: pck
 name: Paite Chin
 autonym: Zomi
-alt_names: [Chin, Chin (Paite), Chin paite, "Chin, Paite", "Chin,Paite", Haithe, Oarte, Paite, Paithe, Parte, Vuite, Zoukam]
+alt_names: [Chin, Chin (Paite), Chin paite, "Chin, Paite", "Chin,Paite", Haithe, Oarte, Paite, Paithe, Parte, Vuite, Zoukam, Bukpi, Bukpui, Dapzal, Dapzar, Dim, Dimpi, Lamzang, Lousau, Saizang, Sihzang, Teizang, Telzang, Tuichiap]
 population: 79500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India and Myanmar
 status_id: "4"
 scope: individual
 language_type: living

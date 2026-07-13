@@ -2,10 +2,12 @@
 iso: nxg
 name: "Ngad'a"
 autonym: Bahasa Ngada
-alt_names: [Badjava, Bajava, Bajawa, "Nad'a", "Nga'da", Ngada, Ngadha, Ngadha language, Rokka]
+alt_names: [Badjava, Bajava, Bajawa, "Nad'a", "Nga'da", Ngada, Ngadha, Ngadha language, Rokka, Nad’a, Nga’da, Central Ngada, NgadꞌA, South Ngada]
 population: 60000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: "Language in East Nusa Tenggara, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

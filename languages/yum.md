@@ -6,6 +6,8 @@ alt_names: [Cuchan, Kechan, Kwtsaan, Kwtsan, Quecl, Yuma Proper]
 population: 150
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Yuman language spoken in California and Arizona
 status_id: "7"
 scope: individual
 language_type: living

@@ -3,10 +3,11 @@ iso: epo
 iso639_1: eo
 name: Esperanto
 autonym: esperanto
-alt_names: [Eo, Esperanteg, Esperanto leid, Esperanto simi, Esperanto tili, Espéranto, Inesperanto, Kiesperanto, Kiseperanto, Quốc tế ngữ, Sperantapük, Speranto, Sprantais, Sè-kài-gí, Sí-Speranto, esperantos, Èsperanto, Εσπεράντο, Єспєра́нто, Есперанто, Забони эсперанто, Эсперанта, Эсперанто, Эсперанто теле, Эспэранта, Էսպերանտո, אספרנטו, עספעראנטא, إسبرنتو, إسبيرانتو, ئېسپېرانتو, اسپرانتو, اسپرانٹو, एस्पेरांतो, एस्पेरान्तो, ਏਸਪੇਰਾਨਤੋ, எஸ்பெராண்டோ, ಎಸ್ಪೆರಾಂಟೊ, എസ്പെരാന്തോ, ესპერანტო, ኤስፔራንቶ, ᐃᓯᐱᕋᓐᑐ/isipirantu, ‘Ōlelo Ekepelānako, エスペラント, 에스페란토]
+alt_names: [Eo, Esperanteg, Esperanto leid, Esperanto simi, Esperanto tili, Espéranto, Inesperanto, Kiesperanto, Kiseperanto, Quốc tế ngữ, Sperantapük, Speranto, Sprantais, Sè-kài-gí, Sí-Speranto, esperantos, Èsperanto, Εσπεράντο, Єспєра́нто, Есперанто, Забони эсперанто, Эсперанта, Эсперанто, Эсперанто теле, Эспэранта, Էսպերանտո, אספרנטו, עספעראנטא, إسبرنتو, إسبيرانتو, ئېسپېرانتو, اسپرانتو, اسپرانٹو, एस्पेरांतो, एस्पेरान्तो, ਏਸਪੇਰਾਨਤੋ, எஸ்பெராண்டோ, ಎಸ್ಪೆರಾಂಟೊ, എസ്പെരാന്തോ, ესპერანტო, ኤስፔራንቶ, ᐃᓯᐱᕋᓐᑐ/isipirantu, ‘Ōlelo Ekepelānako, エスペラント, 에스페란토, La Lingvo Internacia, Lingvo Internacia]
 population: 1000
 country_id: PL
 country_name: Poland
+area: International auxiliary language
 status_id: 6a
 scope: individual
 language_type: constructed

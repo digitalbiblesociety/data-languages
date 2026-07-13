@@ -3,15 +3,18 @@ iso: lug
 iso639_1: lg
 name: Ganda
 autonym: Ganda
-alt_names: [Ganda simi, Gandaeg, Luganda, Луганда, לוגנדה]
+alt_names: [Ganda simi, Gandaeg, Luganda, Луганда, לוגנדה, Baganda, Diopa, Kooki, Ludiopa, Luvuma, LùGáànda, Olukooki, Olusese, Sese, Vuma]
 population: 5614750
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language of Uganda
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 0.66884
 longitude: 32.15153
+language_map_img: lug.webp
 scripts: [Latn]
 glottocode: gand1255
 glottolog_family_id: atla1278

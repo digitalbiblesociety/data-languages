@@ -2,10 +2,11 @@
 iso: piw
 name: Pimbwe
 autonym: Cipimbwe
-alt_names: [Ichipimbwe, Kipimbwe]
+alt_names: [Ichipimbwe, Kipimbwe, Icipimbwe]
 population: 12000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living

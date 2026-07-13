@@ -2,15 +2,18 @@
 iso: pao
 name: Northern Paiute
 autonym: "Paiute, Northern"
-alt_names: [Bannock, N Paiute, N. Paiute, North Paiute, Northern, Paiute, Paiute (Northern), Paiute du Nord, Paiute du nord  (Nevada), Paiute du nord (Idaho), Paiute du nord (Oregon), Paviotso, Paviotso-Bannock-Snake, Payuté septentrional (Oregon)]
+alt_names: [Bannock, N Paiute, N. Paiute, North Paiute, Northern, Paiute, Paiute (Northern), Paiute du Nord, Paiute du nord  (Nevada), Paiute du nord (Idaho), Paiute du nord (Oregon), Paviotso, Paviotso-Bannock-Snake, Payuté septentrional (Oregon), Mcdermitt, North Northern Paiute, South Northern Paiute, Yerington-Schurz]
 population: 700
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Numic language spoken in western US
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 40.0799
 longitude: -119.53609
+language_map_img: Northern_Paiute_Mono_map.svg
 glottocode: nort2954
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

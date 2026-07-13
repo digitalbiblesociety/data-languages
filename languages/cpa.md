@@ -2,10 +2,12 @@
 iso: cpa
 name: Palantla Chinantec
 autonym: Tlatepuzco Chinantec
-alt_names: [Central Chinantec, Chiltepec Chinantec, Chinantec, Chinantec (Palantla), "Chinantec, Palantla", Chinanteco, Chinanteco (Palantla), Chinanteco Central, Chinanteco de Santiago Tlatepusco, Chinanteko, Lealao Chinantec, Palantla, Palantla Chinanteko, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii"]
+alt_names: [Central Chinantec, Chiltepec Chinantec, Chinantec, Chinantec (Palantla), "Chinantec, Palantla", Chinanteco, Chinanteco (Palantla), Chinanteco Central, Chinanteco de Santiago Tlatepusco, Chinanteko, Lealao Chinantec, Palantla, Palantla Chinanteko, Usila Chinantec, Valle Nacional Chinantec, jajme dzä mii, "jmiih kia' dzä mii", Chinanteco de San Pedro Tlatepuzco, Jmiih kiaꞌ dzä mii]
 population: 1500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantecan language of Mexico
 status_id: 6a
 scope: individual
 language_type: living

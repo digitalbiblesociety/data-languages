@@ -6,6 +6,8 @@ alt_names: [Brokpa, Dakpa, Damilo, Dap, Drokpakay, Jobikha, Mera Sagtengpa, Mera
 population: 2000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Tibetic language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Aluridja, Bedengo, Bidong, Bidungo, Boonara, Bunara, Gogada, Gogadja
 population: 580
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Australian Aboriginal languages
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -20.3321
 longitude: 127.66587
+language_map_img: 500px-Wati_languages.webp
 glottocode: kuka1246
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -53,3 +56,4 @@ translations:
     name: 库卡查语
     auto: true
 ---
+The Western Desert language, or Wati, is a dialect cluster of Australian Aboriginal languages in the Pama–Nyungan family.

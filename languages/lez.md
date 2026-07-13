@@ -2,15 +2,18 @@
 iso: lez
 name: Lezghian
 autonym: "лезги чӏал lezgi č'al"
-alt_names: [Curali, Kiurinsty, Kiurinty, Lesguià, Lezghi, Lezgi, Lezgian, Lezgian language, Lezgice, Lezgieg, Lezgin, Lezgisch, Lezguien, Lezguio, lezghien]
+alt_names: [Curali, Kiurinsty, Kiurinty, Lesguià, Lezghi, Lezgi, Lezgian, Lezgian language, Lezgice, Lezgieg, Lezgin, Lezgisch, Lezguien, Lezguio, lezghien, Akhty, Dashagyl-Filfil, Doquzpara, Fiy, Gelkhen, Giliar, Güne, Jaba, Kiuri, Kiurintsy, Kuba, Quba, Qurah, Qurush, Samur, Yarki]
 population: 623700
 country_id: RU
 country_name: Russia
+location: Azerbaijan
+area: Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 41.51572
 longitude: 47.89507
+language_map_img: 500px-Idioma_lezgin.webp
 scripts: [Aghb, Cyrl]
 glottocode: lezg1247
 glottolog_family_id: nakh1245

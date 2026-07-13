@@ -2,10 +2,12 @@
 iso: mps
 name: Dadibi
 autonym: null
-alt_names: [Daribi, Karimui, Mikaru]
+alt_names: [Daribi, Karimui, Mikaru, Erave]
 population: 12580
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Language of eastern Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

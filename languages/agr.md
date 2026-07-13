@@ -2,15 +2,18 @@
 iso: agr
 name: Aguaruna
 autonym: Awajún
-alt_names: [Aents, Aguajun, Ahuajun, Awahun, Awahun simi, Awajun, Awaruna]
+alt_names: [Aents, Aguajun, Ahuajun, Awahun, Awahun simi, Awajun, Awaruna, Awajunt]
 population: 53400
 country_id: PE
 country_name: Peru
+location: Peru
+area: Chicham language of Peru
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -5.30044
 longitude: -77.92179
+language_map_img: 500px-Aguaruna_map.webp
 glottocode: agua1253
 glottolog_family_id: jiva1245
 glottolog_family_name: Chicham

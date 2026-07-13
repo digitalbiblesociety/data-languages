@@ -6,6 +6,7 @@ alt_names: [Amanajo, Amanajé, Amanaye, Amanayé language area, Amanyé, Anambé
 population: null
 country_id: BR
 country_name: Brazil
+area: Endangered Tupian language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

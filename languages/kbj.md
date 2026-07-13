@@ -6,6 +6,8 @@ alt_names: [Carí, Kare]
 population: 1000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in Central Africa
 status_id: 8b
 scope: individual
 language_type: living

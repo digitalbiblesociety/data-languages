@@ -6,6 +6,8 @@ alt_names: [Sepa]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesia language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

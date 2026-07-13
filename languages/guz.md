@@ -6,6 +6,8 @@ alt_names: [Guzii, Kisii, Kosova]
 population: 2701470
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in western Kenya
 status_id: "5"
 scope: individual
 language_type: living

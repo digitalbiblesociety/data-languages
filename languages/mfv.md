@@ -2,10 +2,12 @@
 iso: mfv
 name: Mandjak
 autonym: Kanyop
-alt_names: [Kenyop, Majak, Mandjaque, Mandyak, Manjaca, Manjack, Manjaco, Manjaku, Manjanku, Manjiak, Manyako, Mendyako, Ndjak, Ndyak, Sarar, Schadal]
+alt_names: [Kenyop, Majak, Mandjaque, Mandyak, Manjaca, Manjack, Manjaco, Manjaku, Manjanku, Manjiak, Manyako, Mendyako, Ndjak, Ndyak, Sarar, Schadal, Babok, Baraa, Bok, Churo, Cur, Kabok, Kalkus, Likes-Utsia, Lund, Manjaaku, Manjacu, Manjak, Pecixe, Pulhilh, Sara, Siis, Teixeira Pinto, Tsaam, Tsaamo, Ubok, Ulund, Yu]
 population: 407700
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Bak language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

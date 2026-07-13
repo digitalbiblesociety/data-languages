@@ -3,10 +3,12 @@ iso: coa
 macrolanguage_id: msa
 name: Cocos Islands Malay
 autonym: Basa Pulu Cocos/Basa Pulu Keling
-alt_names: [Cocos, Kokos, Kukus, "Malay, Cocos Islands"]
+alt_names: [Cocos, Kokos, Kukus, "Malay, Cocos Islands", Dusun Lotud AGE All ages DOM Home, market, Suang Lotud, village meetings]
 population: 4000
 country_id: AU
 country_name: Australia
+location: Australia
+area: Malay based-creole
 status_id: 6b
 scope: individual
 language_type: living

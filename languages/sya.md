@@ -2,9 +2,12 @@
 iso: sya
 name: Siang
 autonym: Ot Siang
+alt_names: [Murung 2]
 population: 60000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: lmh
 name: Lambichhong
 autonym: Lambicchong
+alt_names: [Lambichong, Lambitshong]
 population: 500
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language spoken in Nepal and India
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 27.05426
 longitude: 87.21677
+glottocode: lamb1277
 wikidata_id: Q6481472
 wikipedia_url: "https://en.wikipedia.org/wiki/Lambichhong_language"
 translations:

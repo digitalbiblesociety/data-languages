@@ -6,6 +6,8 @@ alt_names: [Vadval]
 population: 1010
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

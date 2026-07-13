@@ -2,15 +2,18 @@
 iso: pag
 name: Pangasinan
 autonym: Pangasinense
-alt_names: [Pagsasao a Pangasinan, Pangasinense nga yinaknan, Philippines, Salitan Pangasinan]
+alt_names: [Pagsasao a Pangasinan, Pangasinense nga yinaknan, Philippines, Salitan Pangasinan, Pangalatok]
 population: 1243660
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 15.93774
 longitude: 120.36519
+language_map_img: 500px-Pangasinan_language_maximum_extent.webp
 scripts: [Latn]
 glottocode: pang1290
 glottolog_family_id: aust1307

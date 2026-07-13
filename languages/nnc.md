@@ -2,10 +2,12 @@
 iso: nnc
 name: Nancere
 autonym: Nangjere
-alt_names: [East Chadic A.2, Lele Group, Nancere Group, Nanchere, Nangcere, Nangire, Nanjeri, Nantcere]
+alt_names: [East Chadic A.2, Lele Group, Nancere Group, Nanchere, Nangcere, Nangire, Nanjeri, Nantcere, Nangtchere, Bolo, Kwale, Mire, Nancere du Centre]
 population: 144000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: qub
 macrolanguage_id: que
 name: Huallaga Huánuco Quechua
 autonym: Alto Huallaga
-alt_names: [Alto Marañón, Eastern Huánuco Quechua, Huallaga Huanuco Quechua, Huallaga Quechua, Huánuco, Huánuco Kechua, "Quechua, Huallaga Huánuco", Upper Huallaga Quechua]
+alt_names: [Alto Marañón, Eastern Huánuco Quechua, Huallaga Huanuco Quechua, Huallaga Quechua, Huánuco, Huánuco Kechua, "Quechua, Huallaga Huánuco", Upper Huallaga Quechua, Huallaga, Quechua, Quechua Huallaguino, Quechua de Huánuco, Quechua de Llacón, Quechua de Matihuaca, Runa shimi]
 population: 23900
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua dialect of Peru
 status_id: "5"
 scope: individual
 language_type: living

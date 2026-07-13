@@ -2,10 +2,12 @@
 iso: giz
 name: South Giziga
 autonym: Gisiga
-alt_names: [Gisiga-South, Gisika, Giziga, "Giziga, South", Giziga-South, Guiziga, North and Giziga, South, South Gisiga]
+alt_names: [Gisiga-South, Gisika, Giziga, "Giziga, South", Giziga-South, Guiziga, North and Giziga, South, South Gisiga, Giziga de Midjivin, Giziga de Moutouroua, South Guiziga, Loulou, Marva, Mi Mijivin, Muturami, Muturua, Muturwa, Rum]
 population: 60000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

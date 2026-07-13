@@ -6,11 +6,13 @@ alt_names: [Ashochimi, Napa, Wapoeg, Ваппо]
 population: 1994
 country_id: US
 country_name: United States
+area: Extinct language of North America
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 38.25
 longitude: -122.49999
+language_map_img: Wappo_map.svg
 glottocode: wapp1239
 glottolog_family_id: yuki1242
 glottolog_family_name: Yuki-Wappo

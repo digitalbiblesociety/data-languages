@@ -2,10 +2,12 @@
 iso: knp
 name: Kwanja
 autonym: Konja
-alt_names: [Kondja]
+alt_names: [Kondja, Ndung, Ndungani, Ndǔŋ, Njang, Njanga, Sun, Sundani, Súndànɨ́, Twendi]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Mambiloid language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

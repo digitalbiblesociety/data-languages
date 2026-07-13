@@ -2,15 +2,17 @@
 iso: fur
 name: Friulian
 autonym: furlan
-alt_names: [Ffriŵleg, Frioels, Friolan, Frioulan, Friouleg, Frioulian, Friulaans, Friulano, Friuliera, Friulisch, Friulisk, Friuliska, Friúl, Friülès, Furlanek, Furlańsko godka, Fut-liù-li-ngî, Fôrlan, Lenghe furlane, Priulian, Ֆրիուլիերեն, פורלן, ፍሪዩልያን]
+alt_names: [Ffriŵleg, Frioels, Friolan, Frioulan, Friouleg, Frioulian, Friulaans, Friulano, Friuliera, Friulisch, Friulisk, Friuliska, Friúl, Friülès, Furlanek, Furlańsko godka, Fut-liù-li-ngî, Fôrlan, Lenghe furlane, Priulian, Ֆրիուլիերեն, פורלן, ፍሪዩልያን, Carnico, East Central Friulian, Marilenghe, Western Friulian]
 population: 600000
 country_id: IT
 country_name: Italy
+area: "Gallo-Romance language of Friuli, northeast Italy"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 46.14732
 longitude: 13.04927
+language_map_img: 500px-Friulian_Language_distribution.webp
 scripts: [Latn]
 glottocode: friu1240
 glottolog_family_id: indo1319

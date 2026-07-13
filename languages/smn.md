@@ -2,15 +2,18 @@
 iso: smn
 name: Inari Sami
 autonym: anarâškielâ or aanaarsämikielâ
-alt_names: ["\"", "\"Finnish Lapp\"", "\"Inari Lappish", "\"Lapp\"", Anar, Anárašgiella, Eastern, Eastern Saami, Enare-Lappisch, Enaresamisk, Enaresamiska, Inari, "Inari \"Lappish\"", Inari Lapp, Inari Lappish, Inari Saami, Inari dialect, Inari-Lappisch, Inari-Samisch, Inariera, Lapp, Lappic, Lappisch, Lappish, "Luenga sami d'Inari", Ostlappisch, Saam, Saame, Saami, Saami inari, "Saami, Inari", Saamí de Inari, "Same d'Inari", Sami inari, "Sami, Inari", Samic, Samieg Inari, Sámi, anarâškielâ, east dialect, inarinsaame, lapon, lappisk, lopary, lpInari, ostlappischer Dialekt, sabme, same-, "sami d'Inari", sāme-giellâ]
+alt_names: ["\"", "\"Finnish Lapp\"", "\"Inari Lappish", "\"Lapp\"", Anar, Anárašgiella, Eastern, Eastern Saami, Enare-Lappisch, Enaresamisk, Enaresamiska, Inari, "Inari \"Lappish\"", Inari Lapp, Inari Lappish, Inari Saami, Inari dialect, Inari-Lappisch, Inari-Samisch, Inariera, Lapp, Lappic, Lappisch, Lappish, "Luenga sami d'Inari", Ostlappisch, Saam, Saame, Saami, Saami inari, "Saami, Inari", Saamí de Inari, "Same d'Inari", Sami inari, "Sami, Inari", Samic, Samieg Inari, Sámi, anarâškielâ, east dialect, inarinsaame, lapon, lappisk, lopary, lpInari, ostlappischer Dialekt, sabme, same-, "sami d'Inari", sāme-giellâ, “Finnish Lapp”, “Inari Lappish”, “Lapp”, Aanaar Saami Anarâškielâ]
 population: 300
 country_id: FI
 country_name: Finland
+location: "Denmark, Finland, Norway and Sweden"
+area: Endangered Uralic language of Finland
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 69.42289
 longitude: 27.86583
+language_map_img: Inari-SamiLanguageLocatorMap.svg
 scripts: [Latn]
 glottocode: inar1241
 glottolog_family_id: ural1272

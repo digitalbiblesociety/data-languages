@@ -6,11 +6,13 @@ alt_names: [Ku-itc (Kuitsh), Siuslawan, Umpqua, Umpqua (Lower)]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 42.51107
 longitude: -124.3786
+language_map_img: 500px-Siuslaw_lang.webp
 glottocode: sius1254
 wikidata_id: Q2315424
 wikipedia_url: "https://en.wikipedia.org/wiki/Siuslaw_language"

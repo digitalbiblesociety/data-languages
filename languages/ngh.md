@@ -2,10 +2,11 @@
 iso: ngh
 name: Nǁng
 autonym: Nǀuu
-alt_names: [/Nusan, "=|Khomani", Khomani, N/u, "N|u", "N|uu", "N||ng", ǂKhomani]
+alt_names: [/Nusan, "=|Khomani", Khomani, N/u, "N|u", "N|uu", "N||ng", ǂKhomani, ‡Khomani, Ng’uki, Nghuki]
 population: 500
 country_id: ZA
 country_name: South Africa
+area: Endangered Tuu language of South Africa
 status_id: 8b
 scope: individual
 language_type: living

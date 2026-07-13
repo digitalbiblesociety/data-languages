@@ -6,6 +6,8 @@ alt_names: [Damraw]
 population: 100
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Endangered language spoken in Chad
 status_id: "7"
 scope: individual
 language_type: living

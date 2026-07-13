@@ -2,10 +2,12 @@
 iso: kwk
 name: Kwakiutl
 autonym: Kwagiutl
-alt_names: ["Kwak'wala", "Kwakw'ala", "Kwakwaka'wakw", Kwakwala, Kwak̓wala, Southern Kwakiutl, Квакиутль]
+alt_names: ["Kwak'wala", "Kwakw'ala", "Kwakwaka'wakw", Kwakwala, Kwak̓wala, Southern Kwakiutl, Квакиутль, Kwak’wala, Gwawaenuk]
 population: 190
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Wakashan language
 status_id: "7"
 scope: individual
 language_type: living

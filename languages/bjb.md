@@ -6,11 +6,13 @@ alt_names: [Arkaba tura, Arkaba-tura, "Ba:Nggala", "Ba:njgala", Bahanga la, Baha
 population: null
 country_id: AU
 country_name: Australia
+area: Revived Aboriginal language of South Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -33.30362
 longitude: 136.0792
+language_map_img: 500px-Wirangu_Map.webp
 glottocode: bang1339
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

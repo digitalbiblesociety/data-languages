@@ -6,6 +6,7 @@ alt_names: [LSU]
 population: 7000
 country_id: UY
 country_name: Uruguay
+area: Official deaf sign language of Uruguay
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: dox
 name: Bussa
 autonym: Mossiya
-alt_names: [Busa, Bussa hizkuntza, "D'oopace", "D'opaasunte", Dobase, Gobeze, Goraze, Gowase, Gowaze, Lohu, Mashelle, Mashile, Masholle, Mosiye, Mossittaata, Mossiye, Musiye, Muusiye, North Bussa, Orase]
+alt_names: [Busa, Bussa hizkuntza, "D'oopace", "D'opaasunte", Dobase, Gobeze, Goraze, Gowase, Gowaze, Lohu, Mashelle, Mashile, Masholle, Mosiye, Mossittaata, Mossiye, Musiye, Muusiye, North Bussa, Orase, D’oopace, D’opaasunte, Buusa, Mashola, Mosittacha, Mosittata]
 population: 4955
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Cushtic language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

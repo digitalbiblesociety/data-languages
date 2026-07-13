@@ -6,6 +6,7 @@ alt_names: [Catabaga]
 population: null
 country_id: PH
 country_name: Philippines
+area: "Luzon, Bondoc Peninsula."
 status_id: "10"
 scope: individual
 language_type: extinct

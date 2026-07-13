@@ -2,9 +2,12 @@
 iso: txs
 name: Tonsea
 autonym: "Tonsea'"
+alt_names: ["Tonsea'", Tonsea’, Airmadidi, Kalabat Atas, Kauditan, Likupang, Maumbi]
 population: 670
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: hnd
 macrolanguage_id: lah
 name: Southern Hindko
 autonym: ہندکو
-alt_names: [Hindko, Hindko language, "Hindko, Southern", Lahnda, Northeastern Lahnda]
+alt_names: [Hindko, Hindko language, "Hindko, Southern", Lahnda, Northeastern Lahnda, Attock Hindko, Attock-Haripur Hindko, Kohat Hindko, Kohati, Peshawar Hindko, Peshawari, Rural Peshawar Hindko]
 population: 1170000
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: "4"
 scope: individual
 language_type: living

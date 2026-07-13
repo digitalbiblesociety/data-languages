@@ -2,15 +2,17 @@
 iso: pdc
 name: Pennsylvania German
 autonym: Pennsylvania Dutch
-alt_names: [Alamaneg Pennsylvania, Alemany de Pennsilvània, Alemán de Pensilvania, Alemão da Pensilvânia, "German, Pennsylvania", Germana din Pennsylvania, Pennsilfaanisch, Pennsilfaanisch Deitsch, Pennsilvaniese Duits, Pennsylvania Deitsh, Pennsylvania-Duits, Pennsylvaniadeutsch, Pennsylvaniadüütsch, Pennsylvaniako aleman, Pennsylvaniansaksa, Pennsylvaniatysk, Pennsylvaniatyska, Pennsylvanish, Pennsylvaynek, Pensilvangermana dialekto, Pensilvanijski njemački, Pensilvanya Almancası, Tedesco della Pennsylvania, Tudesch dela Pennsylvania, Пенсильванско-немецкий диалект, Пенсильвансько-німецький діалект, پېنسىلۋانىيە نېمىس تىلى]
+alt_names: [Alamaneg Pennsylvania, Alemany de Pennsilvània, Alemán de Pensilvania, Alemão da Pensilvânia, "German, Pennsylvania", Germana din Pennsylvania, Pennsilfaanisch, Pennsilfaanisch Deitsch, Pennsilvaniese Duits, Pennsylvania Deitsh, Pennsylvania-Duits, Pennsylvaniadeutsch, Pennsylvaniadüütsch, Pennsylvaniako aleman, Pennsylvaniansaksa, Pennsylvaniatysk, Pennsylvaniatyska, Pennsylvanish, Pennsylvaynek, Pensilvangermana dialekto, Pensilvanijski njemački, Pensilvanya Almancası, Tedesco della Pennsylvania, Tudesch dela Pennsylvania, Пенсильванско-немецкий диалект, Пенсильвансько-німецький діалект, پېنسىلۋانىيە نېمىس تىلى, Die Mudderschprooch, Pennsilfaani-Deitsch, Pennsylfaanisch Deitsch, Pennsylvaanisch Deitsch, Pennsylvanisch-Deitsch]
 population: 148000
 country_id: US
 country_name: United States
+area: Variety of West Central German
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 47.33412
 longitude: -87.80644
+language_map_img: Pennsylvania_Dutch_map_distribution.svg
 scripts: [Latn]
 glottocode: penn1240
 glottolog_family_id: indo1319

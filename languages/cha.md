@@ -3,15 +3,18 @@ iso: cha
 iso639_1: ch
 name: Chamorro
 autonym: "Finu' Chamoru"
-alt_names: [CHamoru, "Fino' Chamoru", Tchamoroueg, Tjamoro, Чаморро]
+alt_names: [CHamoru, "Fino' Chamoru", Tchamoroueg, Tjamoro, Чаморро, Chamorru, Rotanese Chamorro]
 population: 64300
 country_id: GU
 country_name: Guam
+location: Guam and Northern Mariana Islands
+area: Austronesian language of the Mariana Islands
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 14.330665
 longitude: 145.275795
+language_map_img: 500px-Mariana_Islands.webp
 scripts: [Latn]
 glottocode: cham1312
 glottolog_family_id: aust1307

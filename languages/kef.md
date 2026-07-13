@@ -2,15 +2,18 @@
 iso: kef
 name: Kpessi
 autonym: Èʋegbe
-alt_names: [Kpesi, Kpétsi]
+alt_names: [Kpesi, Kpétsi, Kpetchi]
 population: 4000
 country_id: TG
 country_name: Togo
+location: Togo
+area: "Language of Ghana, Togo, and Benin"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 8.05471
 longitude: 1.21078
+language_map_img: 500px-Gbe_languages.webp
 glottocode: kpes1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -52,3 +55,4 @@ translations:
     name: 克佩西语
     auto: true
 ---
+Ewe or Togolese is a language spoken by approximately 5 million people in West Africa, mainly in Ghana and Togo. Ewe is part of a group of related languages commonly called the Gbe languages. The other major Gbe language is Fon, which is mainly spoken in Benin. Like many African languages, Ewe is tonal as well as a possible member of the Niger-Congo family.

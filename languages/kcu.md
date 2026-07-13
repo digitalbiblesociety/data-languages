@@ -6,6 +6,8 @@ alt_names: [Kami, Wakami]
 population: 16400
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: "7"
 scope: individual
 language_type: living

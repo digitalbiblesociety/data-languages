@@ -2,15 +2,18 @@
 iso: hrx
 name: Hunsrik
 autonym: Hunsrik
-alt_names: [Hunsriker, Rio Grand Hunsriker, Riograndenser Hunsrückisch, Riograndeser Hunsrückisch]
+alt_names: [Hunsriker, Rio Grand Hunsriker, Riograndenser Hunsrückisch, Riograndeser Hunsrückisch, Hunsrück, Katharinensisch]
 population: 5000000
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Germanic language spoken in South America
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -29.3255
 longitude: -51.7219
+language_map_img: hrx.webp
 glottocode: riog1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

@@ -2,10 +2,12 @@
 iso: pbn
 name: Kpasam
 autonym: Nyesam
-alt_names: ["'Balo", Kpasham, Nyisam, Passam]
+alt_names: ["'Balo", Kpasham, Nyisam, Passam, ’Balo, Balo]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Yendang language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

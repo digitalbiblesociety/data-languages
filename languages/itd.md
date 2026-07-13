@@ -2,10 +2,11 @@
 iso: itd
 name: Southern Tidung
 autonym: Southern Tidung
-alt_names: ["Tidung, Southern"]
+alt_names: ["Tidung, Southern", Camucones, Nonukan, Nunukan, Penchangan, Sadalir, Salalir, Saralir, Sedalir, Selalir, Sesajap, Sesayap, Sibuku, Tarakan, Tedong, Terakan, Tidoeng, Tidong, Tidung, Tiran, Tirones, Tiroon, Zedong]
 population: 27000
 country_id: ID
 country_name: Indonesia
+area: Sabahan language of Kalimantan (Indonesian Borneo)
 status_id: null
 scope: individual
 language_type: living

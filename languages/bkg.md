@@ -2,14 +2,18 @@
 iso: bkg
 name: Buraka
 autonym: Bolaka
+alt_names: [Boraka, Bouraka]
 population: 2500
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Ubangian language of the CAR and DR Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 4.42283
 longitude: 20.71609
+glottocode: bura1269
 wikidata_id: Q35066
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 布拉卡语
     auto: true
 ---
+Gbanziri (Gbanzili) is a Ubangian language of the Central African Republic and Democratic Republic of the Congo.

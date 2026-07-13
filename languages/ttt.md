@@ -2,15 +2,18 @@
 iso: ttt
 name: Muslim Tat
 autonym: zuhun tati
-alt_names: [(Tati), Mussulman Tati, Tat, Tat (Muslim), Tat language, "Tat, Muslim", Tateg, Tati, Tatí musulmán, зуун тати, Թաթերեն]
+alt_names: [(Tati), Mussulman Tati, Tat, Tat (Muslim), Tat language, "Tat, Muslim", Tateg, Tati, Tatí musulmán, зуун тати, Թաթերեն, Absheron, Aruskush-Daqqushchu, Balakhani, Devechi, Khyzy, Lahyj, Malham, Musulman Tats, Northern Tats, Qonaqkend, Quba, Qyzyl Qazma, Surakhani]
 population: 18000
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Southwestern Iranian language of Azerbaijan and Russia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 38.87186
 longitude: 49.33837
+language_map_img: 500px-Tat-language-area.webp
 scripts: [Arab, Cyrl, Latn]
 glottocode: musl1236
 glottolog_family_id: indo1319

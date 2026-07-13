@@ -6,11 +6,14 @@ alt_names: [Apache, Apache de Kiowa, Apache des Plaines, "Apache, Kiowa", Kiowa,
 population: 1000
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: North American aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 34.90771
 longitude: -98.24612
+language_map_img: Southern_Athabaskan_languages.svg
 glottocode: kiow1264
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

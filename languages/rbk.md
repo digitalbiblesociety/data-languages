@@ -3,13 +3,16 @@ iso: rbk
 macrolanguage_id: bnc
 name: Northern Bontok
 autonym: Finallig
-alt_names: ["Bontok, Northern"]
+alt_names: ["Bontok, Northern", Bontoc, Northern Bontoc, Sadanga]
 population: null
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: 8a
 scope: individual
 language_type: living
+language_map_img: 500px-Bontok_language_map.webp
 wikidata_id: Q63311016
 translations:
   - translation_iso: ara
@@ -53,3 +56,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Mountain Province"
 ---
+Bontoc (Bontok) is a macrolanguage native to the indigenous Bontoc people of the Mountain Province, in the northern part of the Philippines.

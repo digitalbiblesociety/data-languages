@@ -3,9 +3,12 @@ iso: lko
 macrolanguage_id: luy
 name: Khayo
 autonym: Olukhayo
+alt_names: [Xaayo]
 population: null
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language of Kenya
 status_id: "4"
 scope: individual
 language_type: living

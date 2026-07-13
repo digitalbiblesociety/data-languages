@@ -2,10 +2,12 @@
 iso: bqj
 name: Bandial
 autonym: Banjaal
-alt_names: [Bandal, Banjal]
+alt_names: [Bandal, Banjal, Eegima, Eegimaa, Affiniam, Elun, Endungo, Gubanjalay, Hulon, Jóola Banjal, Kujireray, Kuluunaay]
 population: 15700
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Jola language of the Casamance region of Senegal
 status_id: "5"
 scope: individual
 language_type: living

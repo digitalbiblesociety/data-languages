@@ -6,11 +6,14 @@ alt_names: [Belbali, Korandjeg, Korandjé, Tabelbala, lbəlbaliyya, البلبا
 population: 3000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Songhay language of Algeria
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 29.49571
 longitude: -2.48113
+language_map_img: Songhay_languages.svg
 glottocode: kora1291
 glottolog_family_id: song1307
 glottolog_family_name: Songhay

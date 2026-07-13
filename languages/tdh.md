@@ -2,10 +2,12 @@
 iso: tdh
 name: Thulung
 autonym: Tholong Lo
-alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ]
+alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ, Central Thulung, Deusa Lwa, Eastern Thulung, Jubu Lwa, Lokhim Lwa, Mukli Lwa, Necha Lwa, Northern Thulung, Southern Thulung]
 population: 20700
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Sino-Tibetan language of Nepal and India
 status_id: "5"
 scope: individual
 language_type: living

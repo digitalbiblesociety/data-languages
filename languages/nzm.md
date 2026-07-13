@@ -2,10 +2,12 @@
 iso: nzm
 name: Zeme Naga
 autonym: Zeliang
-alt_names: [Arung, Empeo, Empui, Jeme, Kacha, Kachcha, Kachcha Naga, Kachcha Nagas, Kutcha, Mezama, Naga, Naga (Kachcha), Naga (Zeme), "Naga, Zeme", "Naga,Zeme", Sangrima, Sengima, Western, Western Kuki, Zeliangrong, Zeme, Zeme Group, Zemi]
+alt_names: [Arung, Empeo, Empui, Jeme, Kacha, Kachcha, Kachcha Naga, Kachcha Nagas, Kutcha, Mezama, Naga, Naga (Kachcha), Naga (Zeme), "Naga, Zeme", "Naga,Zeme", Sangrima, Sengima, Western, Western Kuki, Zeliangrong, Zeme, Zeme Group, Zemi, Njauna, Paren]
 population: 114000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language of Northeast India
 status_id: "5"
 scope: individual
 language_type: living

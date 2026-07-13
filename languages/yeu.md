@@ -2,10 +2,12 @@
 iso: yeu
 name: Yerukula
 autonym: ஏறுகள
-alt_names: [Erukala, Eruku Bhasha, Korava, Korchi, Kurru, Kurru Bhasha, Kurutha, Yarukula, Yerkula, Yerukala, Yerukala-Korava, Yerukla, Yerukula-Bhasha]
+alt_names: [Erukala, Eruku Bhasha, Korava, Korchi, Kurru, Kurru Bhasha, Kurutha, Yarukula, Yerkula, Yerukala, Yerukala-Korava, Yerukla, Yerukula-Bhasha, Parikala, Sankara-Yerukala]
 population: 68500
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Dravidian language of South India
 status_id: "5"
 scope: individual
 language_type: living

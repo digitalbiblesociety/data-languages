@@ -6,11 +6,14 @@ alt_names: [Guichión, Guichong, 貴瓊]
 population: 1000
 country_id: CN
 country_name: China
+location: China
+area: Qiangic language of Sichuan and Tibet
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 30.48028
 longitude: 102.12754
+language_map_img: 500px-Guiqiong_map.webp
 glottocode: guiq1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

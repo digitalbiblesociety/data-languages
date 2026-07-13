@@ -3,10 +3,12 @@ iso: ztq
 macrolanguage_id: zap
 name: "Quioquitani-Quierí Zapotec"
 autonym: (Santa Catarina Quioquitani)
-alt_names: [Eastern Sapoteko, Quioquitani-Quieri Zapotec, Zapotec, "Zapotec, Quioquitani-Quierí", Zapoteco de Petapa, Zapoteco de Quioquitani Y Quierí, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
+alt_names: [Eastern Sapoteko, Quioquitani-Quieri Zapotec, Zapotec, "Zapotec, Quioquitani-Quierí", Zapoteco de Petapa, Zapoteco de Quioquitani Y Quierí, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Quioquitani-Quierí, Quioquitani and Quierí Zapotec, Zapoteco de Quierí, Zapoteco de San Pedro Leapi, tiits së]
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

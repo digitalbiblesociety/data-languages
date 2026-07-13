@@ -2,15 +2,18 @@
 iso: kjh
 name: Khakas
 autonym: Хакас тілі
-alt_names: [Abakan Tatar, Abakan Tatars, Abakan Turks, Abakan-Tataren, Abaqan, "C'hakaseg", Chakas, Hakas Türkçesi, Hakasça, Jacaso, Kamacintzi, Khakasisk, Khakasse, Khakhas, Khakhass, Khakàs, Kischtim, Sagaijer, South Siberian Turkic, Turc kamasse, Xakas, Xakas tįlį, Yenisei Tatar, Yenisei Tatars, Yenisei Turks]
+alt_names: [Abakan Tatar, Abakan Tatars, Abakan Turks, Abakan-Tataren, Abaqan, "C'hakaseg", Chakas, Hakas Türkçesi, Hakasça, Jacaso, Kamacintzi, Khakasisk, Khakasse, Khakhas, Khakhass, Khakàs, Kischtim, Sagaijer, South Siberian Turkic, Turc kamasse, Xakas, Xakas tįlį, Yenisei Tatar, Yenisei Tatars, Yenisei Turks, Hakass, Yenisei, Yennisej Tatar, Beltir, "Fuyu Ka'erkezi", Fuyü Gïrgïs, Hakasi, Kaca, Kacha, Kachin, Kamass, Kamassian, Khaas, Khyzyzl, Koibal, Kyzyl, Manchurian Kirghiz, Sagai, Sagaj, Saghai, Shor, Xaas, Xoibal, Xyzyl]
 population: 42610
 country_id: RU
 country_name: Russia
+location: China
+area: Northeastern Turkic language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 50.73933
 longitude: 107.169385
+language_map_img: 500px-Khakas_Ethno-Language.webp
 scripts: [Cyrl]
 glottocode: khak1248
 glottolog_family_id: turk1311

@@ -6,6 +6,8 @@ alt_names: [Kikusu, Kongola, Kutsu, Lokutsu]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in the DR Congo
 status_id: 6a
 scope: individual
 language_type: living

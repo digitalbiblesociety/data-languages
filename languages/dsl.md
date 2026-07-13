@@ -5,6 +5,7 @@ autonym: Dansk tegnsprog
 population: 5000
 country_id: DK
 country_name: Denmark
+area: Sign language used in Denmark
 status_id: "5"
 scope: individual
 language_type: living

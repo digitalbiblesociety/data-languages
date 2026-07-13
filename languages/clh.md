@@ -6,6 +6,8 @@ alt_names: [Chiliso, Dardu, Galos]
 population: 2300
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: "Dardic language spoken in eastern Kohistan, Pakistan"
 status_id: 6a
 scope: individual
 language_type: living

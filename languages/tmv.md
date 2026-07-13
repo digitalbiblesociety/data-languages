@@ -6,6 +6,8 @@ alt_names: [Litembo, Motembo, Motembo-Kunda-Buja, Tembo]
 population: 5000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 特姆博语
     auto: true
 ---
+Budza or Buja is a Bantu language of the Democratic Republic of the Congo.

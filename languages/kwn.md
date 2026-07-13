@@ -2,10 +2,12 @@
 iso: kwn
 name: Kwangali
 autonym: Rukwangali
-alt_names: [Cuangar, Kwangare, Kwangari, Sikwangali]
+alt_names: [Cuangar, Kwangare, Kwangari, Sikwangali, Rukwangari, Sambio, Sambiu, Sambyu, Shambyu, Shisambyu, Vakwángali]
 population: 192000
 country_id: NA
 country_name: Namibia
+location: Angola
+area: Bantu language spoken in Namibia and Angola
 status_id: "4"
 scope: individual
 language_type: living

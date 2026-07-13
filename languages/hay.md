@@ -2,10 +2,12 @@
 iso: hay
 name: Haya
 autonym: Ziba
-alt_names: [Ekihaya, Hayum, Kihaya, Ruhaya]
+alt_names: [Ekihaya, Hayum, Kihaya, Ruhaya, Bugabo, Bugabu, Bukara, Bumbira, Edangabo, Ekiziba, Ganda-Kiaka, Hamba, Hangiro, Hanja, Ihangiro, Kiamutwara, Kianja, Kihanja, Kisiba, Kiziba, Kjamtwara, Kjanja, Kyamutwara, Luhaya, Luziba, Misenyi, Missenyi, Mwani, Nabuddu, Naziba, Nyakisisa, OluHaya, Oruhaya, Ruziba, Siba, Yoza, olu-Haya]
 population: 1940000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: "5"
 scope: individual
 language_type: living

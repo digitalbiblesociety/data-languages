@@ -6,6 +6,8 @@ alt_names: [Matepi, Mbay Doba, Mongo]
 population: 96000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Central Sudanic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

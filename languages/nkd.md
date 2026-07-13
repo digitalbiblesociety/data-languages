@@ -6,6 +6,8 @@ alt_names: [Koirng, Kolren, Kwoireng, Liangmai, Liangmei, Liyang, Liyangmai, Lye
 population: 1056
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

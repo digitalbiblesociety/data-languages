@@ -6,6 +6,7 @@ alt_names: [Kalabakan Murut, Tawau Murut, Tidung]
 population: 2230
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
 status_id: 6b
 scope: individual
 language_type: living

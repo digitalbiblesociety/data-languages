@@ -2,15 +2,18 @@
 iso: mcf
 name: Matsés
 autonym: Mayoruna
-alt_names: [Magirona, Majoruna, Majoruna-Matsés, Majuruna, Matis, Matse, Matses, Matseseg, Maxirona, Maxuruna, Mayiruna, Mayoruna-Matsés, Mayuzuna, 𐌼𐌰𐍄𐍃𐌴𐍃𐌰𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Magirona, Majoruna, Majoruna-Matsés, Majuruna, Matis, Matse, Matses, Matseseg, Maxirona, Maxuruna, Mayiruna, Mayoruna-Matsés, Mayuzuna, 𐌼𐌰𐍄𐍃𐌴𐍃𐌰𐍂𐌰𐌶𐌳𐌰, Matses-Mayoruna]
 population: 6500
 country_id: PE
 country_name: Peru
+location: Western Central Brazil
+area: Indigenous language on Brazil–Peru border
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -5.739145
 longitude: -72.628105
+language_map_img: 500px-Matses.webp
 glottocode: mats1244
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan

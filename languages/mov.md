@@ -6,6 +6,8 @@ alt_names: [Amaquaqua, Jamajab, Mojave, Mojave language, River Yuman, Upriver Yu
 population: 200
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Native language of the Mohave people along the Colorado River, United States"
 status_id: 8a
 scope: individual
 language_type: living

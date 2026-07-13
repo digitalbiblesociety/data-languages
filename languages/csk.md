@@ -2,10 +2,12 @@
 iso: csk
 name: "Jola-Kasa"
 autonym: "Jóola-Kaasa"
-alt_names: [Casa, Diola-Kasa, Jola-kassa, Jóola-Kasa, Kasa]
+alt_names: [Casa, Diola-Kasa, Jola-kassa, Jóola-Kasa, Kasa, Bácuki, Jola Kasa, Ayun, Bliss, Esulalu, Esuulaalur, Fluvial, Huluf, Jóola Kaasa, Mlomp South, Niomoun, Oussouye, Selek, kújoolowaay-kaasa]
 population: 45100
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Jola language spoken in Senegal and Gambia
 status_id: "5"
 scope: individual
 language_type: living

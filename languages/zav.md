@@ -3,15 +3,18 @@ iso: zav
 macrolanguage_id: zap
 name: Yatzachi Zapotec
 autonym: "Dižə'əxon"
-alt_names: [Cajonos Zapotec, Eastern Sapoteko, Rincón, Sapoteko, Sierra de Villa Alta, Villalta (non-preferred), Yalálog, Zapotec, Zapotec (Yatzachi), "Zapotec, Yatzachi", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, dill xhon]
+alt_names: [Cajonos Zapotec, Eastern Sapoteko, Rincón, Sapoteko, Sierra de Villa Alta, Villalta (non-preferred), Yalálog, Zapotec, Zapotec (Yatzachi), "Zapotec, Yatzachi", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, dill xhon, Villa Alta Zapotec, Yatzachi, Zapoteco de Yatzachi, Zapoteco, Diosənꞌ, Diozənꞌ, Dižəꞌəxon, Zapoteco de Villa Alta]
 population: 2500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Oto-Manguean of Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.1869
 longitude: -96.28398
+language_map_img: 500px-Zapotecan_Languages.webp
 glottocode: yatz1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean

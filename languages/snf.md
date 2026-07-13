@@ -2,10 +2,12 @@
 iso: snf
 name: Noon
 autonym: Non
-alt_names: [None, Noono, Serer-Non, Serer-Noon]
+alt_names: [None, Noono, Serer-Non, Serer-Noon, Serer, Cangin, Padee, Saawii]
 population: 32900
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Cangin language spoken in Senegal
 status_id: "5"
 scope: individual
 language_type: living

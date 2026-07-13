@@ -2,10 +2,12 @@
 iso: cfm
 name: Falam Chin
 autonym: Lai
-alt_names: [Chin, "Chin, Falam", "Chin,Falam", Falam, Fallam, Halam, Hallam, Hallam Chin, Tipura, Zahao, ဖလမ်းချင်း]
+alt_names: [Chin, "Chin, Falam", "Chin,Falam", Falam, Fallam, Halam, Hallam, Hallam Chin, Tipura, Zahao, ဖလမ်းချင်း, Bawngcher, Bondcher, Bongcher, Bongshi, Chari Chong, Chorei, Gunte, Halam Chin, Hlawnceu, Kaipang, Kaipeng, Kalai, Keipang, Khualshim, Khualsim, Koloi, Kwelshin, Laiso, Laizao, Laizo, Laizo-Shimhrin, Lente, Lyen-Lyem, Lyente, Molsom, Mursum, Rupini, Shunkla, Sim, Sunkhla, Taishon, Taisun, Tapong, Tashom, Tashon, Yahow, Za-How, Zahau, Zahau-Shimhrin, Zahnyiet, Zanniat, Zanniet]
 population: 107900
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Language spoken in Burma
 status_id: "5"
 scope: individual
 language_type: living

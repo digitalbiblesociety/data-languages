@@ -6,6 +6,8 @@ alt_names: [Ambuela, Ambuella, Mbuela, Mbwera, Shimbwera]
 population: 222000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Zambia
 status_id: "5"
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: ZM
     location: Zambia
 ---
+Luchazi is a Bantu language of Angola and Zambia. Luchazi is the principal language of the Ngangela people. Ngangela is a term coined by the Vimbundu traders and missionaries in 18th century to describe the tribes occupying the area of eastern-central Angola.

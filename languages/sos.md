@@ -6,6 +6,8 @@ alt_names: [Sambla, Samogho, Southern Samo]
 population: 12000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Western Mande language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

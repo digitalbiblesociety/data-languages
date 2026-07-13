@@ -5,6 +5,7 @@ autonym: Chipia
 population: 2000
 country_id: LA
 country_name: Laos
+area: Southern Loloish language of northern Laos
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bfs
 name: Southern Bai
 autonym: 白语 Báiyǔ
-alt_names: [Bai, "Bai, Southern", "Bai,Southern"]
+alt_names: [Bai, "Bai, Southern", "Bai,Southern", Dali, Xiangyun]
 population: 680000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Sino-Tibetan language of Yunnan, southwestern China"
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan, Dali Bai"
 ---
+Bai is a Sino-Tibetan language spoken in China, primarily in Yunnan Province, by the Bai people. The language has over a million speakers and is divided into three or four main dialects. Bai syllables are always open, with a rich set of vowels and eight tones. The tones are divided into two groups with modal and non-modal phonation. There is a small amount of traditional literature written with Chinese characters, Bowen (僰文), as well as a number of recent publications printed with a recently standardized system of romanisation using the Latin alphabet.

@@ -2,10 +2,12 @@
 iso: nsx
 name: Nsongo
 autonym: Nsongo
-alt_names: [Songo, Sungu]
+alt_names: [Songo, Sungu, Kimbundu]
 population: 50000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola
 status_id: "5"
 scope: individual
 language_type: living

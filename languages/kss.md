@@ -2,10 +2,12 @@
 iso: kss
 name: Southern Kisi
 autonym: Gisi
-alt_names: [Gissi, Gizi, Kisi, "Kisi, Southern", Kissi, Kissien, Southern dialect]
+alt_names: [Gissi, Gizi, Kisi, "Kisi, Southern", Kissi, Kissien, Southern dialect, Luangkori, Tengia, Warn]
 population: 318000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Mel language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: LR
     location: Liberia
 ---
+Kissi is a Mel language of West Africa, There are two dialects, northern and southern, and both are tonal languages. The northern dialect (kisiduei) is spoken in Guinea and in Sierra Leone. The southern dialect (kpekeduei) is spoken in Liberia and Sierra Leone. The two dialects are notably different, but are closely related.

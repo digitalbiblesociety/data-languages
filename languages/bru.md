@@ -2,10 +2,12 @@
 iso: bru
 name: Eastern Bru
 autonym: Bruu
-alt_names: [Baroo, Brou, Bru, "Bru, Eastern", Bru/Vankieu, Eastern, Leu, Leung, "Moi-Cà-lò'", Muong Leong, Quang Tri Bru, Quàngtri Vân Kiêu, Tri, Van Kieu]
+alt_names: [Baroo, Brou, Bru, "Bru, Eastern", Bru/Vankieu, Eastern, Leu, Leung, "Moi-Cà-lò'", Muong Leong, Quang Tri Bru, Quàngtri Vân Kiêu, Tri, Van Kieu, Brũ, Bru Tri, Bru Eastern, Bru Van Kieu, Chali, Kaleu, Leun, Mangkong, So Tri, So Trii]
 population: 112400
 country_id: LA
 country_name: Laos
+location: Laos
+area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: VN
     location: Vietnam
 ---
+Bruu is a Mon–Khmer dialect continuum spoken by the Bru people of mainland Southeast Asia. Sô and Khua are dialects.

@@ -6,6 +6,8 @@ alt_names: [Poumeg, Puma Kala, Puma La, Puma Pima, Pumaish, Пума]
 population: 4310
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: eip
 name: Eipomek
 autonym: Lik
-alt_names: [Eipo, Eipo-mek, T-Valley]
+alt_names: [Eipo, Eipo-mek, T-Valley, Bahasa Lik, Eipa]
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Mek language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

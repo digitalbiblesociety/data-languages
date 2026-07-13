@@ -6,6 +6,8 @@ alt_names: [Fidji-Inseln]
 population: 1630
 country_id: FJ
 country_name: Fiji
+location: Fiji
+area: East Fijian language
 status_id: 6a
 scope: individual
 language_type: living

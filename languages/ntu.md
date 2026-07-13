@@ -2,10 +2,12 @@
 iso: ntu
 name: Natügu
 autonym: Natügu
-alt_names: [Lödäi, Nambakaengö, Natqgu, Natugu, Northern Santa Cruz, Santa Cruz]
+alt_names: [Lödäi, Nambakaengö, Natqgu, Natugu, Northern Santa Cruz, Santa Cruz, Bënwë, Deni, Londai, Malo, Ndeni, Nea, Nooli]
 population: 4280
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

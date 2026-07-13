@@ -6,6 +6,8 @@ alt_names: [Ko, Lakka]
 population: 20250
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Mbum language
 status_id: "5"
 scope: individual
 language_type: living

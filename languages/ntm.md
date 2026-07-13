@@ -2,10 +2,12 @@
 iso: ntm
 name: Nateni
 autonym: null
-alt_names: [Natimba, Tayari]
+alt_names: [Natimba, Tayari, Kuntemba, Kunteni, Natemba, Naàteǹni, Okoma, Okoni, Tayaba]
 population: 102000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Language of Benin
 status_id: "5"
 scope: individual
 language_type: living

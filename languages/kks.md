@@ -6,6 +6,8 @@ alt_names: [Kirfi, Kirifawa, Kirifi]
 population: 14000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

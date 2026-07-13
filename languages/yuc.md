@@ -6,11 +6,14 @@ alt_names: [Uchean, Youtchieg, Ючи]
 population: 1500
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Language of the Yuchi people in the southeastern United States
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 35.96146
 longitude: -95.03933
+language_map_img: 500px-Yuchi_lang.webp
 glottocode: yuch1247
 wikidata_id: Q34204
 wikipedia_url: "https://en.wikipedia.org/wiki/Yuchi_language"

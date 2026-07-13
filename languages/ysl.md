@@ -2,9 +2,11 @@
 iso: ysl
 name: Yugoslavian Sign Language
 autonym: Bosnian / Kosovar Sign Language
+alt_names: [Slovenian Sign Language]
 population: 25000
 country_id: RS
 country_name: Serbia
+area: Sign language used in the former Yugoslavia
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Chyanam, Johari, Kyonam, Rangas language, Sankiyā, Saukas, Saukiya 
 population: null
 country_id: IN
 country_name: India
+area: Extinct Sino-Tibetan language of India
 status_id: "9"
 scope: individual
 language_type: extinct

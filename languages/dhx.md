@@ -2,9 +2,11 @@
 iso: dhx
 name: Dhungaloo
 autonym: (unconfirmed)
+alt_names: [Dungaloo]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: living

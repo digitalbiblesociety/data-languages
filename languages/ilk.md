@@ -2,15 +2,18 @@
 iso: ilk
 name: Ilongot
 autonym: Bugkalut
-alt_names: [Bukalot, Lingotes]
+alt_names: [Bukalot, Lingotes, Abaca, Abaka, Bogkalot, Egongot, Ibalao, Ibilao, Italon, Iyongut]
 population: 5710
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Phnes
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.37846
 longitude: 121.54727
+language_map_img: 500px-Ilongot_language_map.webp
 glottocode: ilon1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

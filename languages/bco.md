@@ -2,14 +2,17 @@
 iso: bco
 name: Kaluli
 autonym: Bosavi
+alt_names: [Kugenesi, Ologo, Walulu]
 population: 3100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.45932
 longitude: 142.78806
+language_map_img: Bosavi_languages.svg
 glottocode: kalu1248
 glottolog_family_id: bosa1245
 glottolog_family_name: Bosavi

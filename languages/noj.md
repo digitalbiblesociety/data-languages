@@ -5,6 +5,8 @@ autonym: Nononota
 population: 2
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Witotoan language of Colombia and Peru
 status_id: 8b
 scope: individual
 language_type: living

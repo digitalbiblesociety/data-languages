@@ -7,11 +7,13 @@ alt_names: [Dorerin Naoero, Naoeroeg, Naurisk, Nauriska, Nauruaans, Nauruan, Nau
 population: 9300
 country_id: NR
 country_name: Nauru
+area: Austronesian language spoken in Nauru
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -0.52957
 longitude: 166.92216
+language_map_img: Micronesian_languages.en.webp
 scripts: [Latn]
 glottocode: naur1243
 glottolog_family_id: aust1307

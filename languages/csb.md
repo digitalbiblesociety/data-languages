@@ -2,10 +2,11 @@
 iso: csb
 name: Kashubian
 autonym: kaszëbsczi
-alt_names: [Cachubu, Caixubi, Cashob, Cashubian, Cassubian, Eslovincio, Kachoube, Kachoubeg, Kaschubiske Sproake, Kaschuubsch, Kashubiera, Kasjoebies, Kasjoebisch, Kasjubisk, Kasjubiska, Kassúbíska, Kaszubski, Kaszubsko godka, Kaszëbsczi jãzëk, Kaşub tili, Kašubi, Kašubska rěc, Slovince, Slovincian, Кашоу́бьскъ ѩꙁꙑ́къ, Кашуб йылме]
+alt_names: [Cachubu, Caixubi, Cashob, Cashubian, Cassubian, Eslovincio, Kachoube, Kachoubeg, Kaschubiske Sproake, Kaschuubsch, Kashubiera, Kasjoebies, Kasjoebisch, Kasjubisk, Kasjubiska, Kassúbíska, Kaszubski, Kaszubsko godka, Kaszëbsczi jãzëk, Kaşub tili, Kašubi, Kašubska rěc, Slovince, Slovincian, Кашоу́бьскъ ѩꙁꙑ́къ, Кашуб йылме, Kashubian Proper]
 population: 107000
 country_id: PL
 country_name: Poland
+area: West Slavic language
 status_id: 8a
 scope: individual
 language_type: living

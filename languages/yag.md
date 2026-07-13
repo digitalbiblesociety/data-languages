@@ -6,6 +6,7 @@ alt_names: [Háusi Kúta, Jagan, Tequenica, Yagan, Yaghan, Yaghan language, Yag�
 population: 70
 country_id: CL
 country_name: Chile
+area: Extinct language of Tierra del Fuego
 status_id: 8b
 scope: individual
 language_type: living

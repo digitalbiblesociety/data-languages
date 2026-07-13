@@ -2,10 +2,12 @@
 iso: cng
 name: Northern Qiang
 autonym: Rrmearr
-alt_names: ["Ch'iang", Northern, Qiang, "Qiang, Northern", "Qiang,Northern", Southern, Tchiangeg an norzh]
+alt_names: ["Ch'iang", Northern, Qiang, "Qiang, Northern", "Qiang,Northern", Southern, Tchiangeg an norzh, Ch’iang]
 population: 11000
 country_id: CN
 country_name: China
+location: China
+area: Qiangic language spoken in Tibet and China
 status_id: "7"
 scope: individual
 language_type: living

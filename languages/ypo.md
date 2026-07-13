@@ -6,6 +6,8 @@ alt_names: [Bola, "Phola, Alo", "Phola,Alo"]
 population: null
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish dialect cluster of China
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 阿罗-佛拉语
     auto: true
 ---
+Phola, or Upriver Phula, is a dialect cluster of the Loloish languages spoken by the Phula people of China.

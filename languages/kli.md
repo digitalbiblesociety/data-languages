@@ -2,10 +2,11 @@
 iso: kli
 name: Kalumpang
 autonym: Galumpang
-alt_names: [Azarbaydjanian, "Ma'ki", Maki, Makki, Mangki, Mangkir, Nordost-Celebes]
+alt_names: [Azarbaydjanian, "Ma'ki", Maki, Makki, Mangki, Mangkir, Nordost-Celebes, Ma’ki, Bone Hau, "E'da", Karataun, "Ta'da"]
 population: 12000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
 status_id: 6a
 scope: individual
 language_type: living

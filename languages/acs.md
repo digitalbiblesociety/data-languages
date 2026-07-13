@@ -6,6 +6,7 @@ alt_names: [Acroa, Acroamirim, Akroá, Koroá]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

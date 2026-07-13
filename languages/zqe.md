@@ -3,10 +3,12 @@ iso: zqe
 macrolanguage_id: zha
 name: Qiubei Zhuang
 autonym: Buyue
-alt_names: [Chiupei, Chuang, Qiubei, Zhuang, Zhuang (Northern), "Zhuang, Qiubei"]
+alt_names: [Chiupei, Chuang, Qiubei, Zhuang, Zhuang (Northern), "Zhuang, Qiubei", Bau i, Bui, Buyi, Northern Zhuang, Qiubei Sha]
 population: 150000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Tai language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 丘北壮语
     auto: true
 ---
+Yei Zhuang is a Northern Tai language complex spoken in Wenshan Prefecture, Yunnan, China. Its speakers are also known as the Sha (沙族), a subgroup of the Zhuang.

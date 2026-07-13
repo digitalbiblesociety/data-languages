@@ -6,6 +6,7 @@ alt_names: [Marquesan, "Marquesan, South", Marquesas, South]
 population: 2100
 country_id: PF
 country_name: French Polynesia
+area: Polynesian language spoken in the Marquesas of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living

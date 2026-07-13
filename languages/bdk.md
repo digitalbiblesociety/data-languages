@@ -6,11 +6,14 @@ alt_names: [Boudoukh, Budug, Budugh, Budugi, Buduj, Buduk, Budux, Bukukhi, budad
 population: 1000
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Language belonging to the Lezgic group of the Northeast Caucasian language family
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 41.22722
 longitude: 48.33533
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: budu1248
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

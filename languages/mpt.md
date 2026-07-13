@@ -2,10 +2,12 @@
 iso: mpt
 name: Mian
 autonym: Mian Weng
-alt_names: [Mianmin, Miyanmin]
+alt_names: [Mianmin, Miyanmin, Upper August River, Usage]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

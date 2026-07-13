@@ -2,10 +2,12 @@
 iso: wan
 name: Wan
 autonym: Nwa
-alt_names: [Van]
+alt_names: [Van, Kemu, Miamu]
 population: 22000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

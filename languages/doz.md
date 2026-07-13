@@ -6,6 +6,8 @@ alt_names: [Dorzé, Geresé]
 population: 20800
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afroasiatic language spoken by Dorze people in southern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

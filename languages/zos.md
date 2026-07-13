@@ -2,10 +2,12 @@
 iso: zos
 name: Francisco León Zoque
 autonym: "Zoque, Francisco León"
-alt_names: [Chiapas Soke, Francisco Leon, Francisco Leon Zoque, Francisco León, Magdalena, North Zoque, Santa Magdalena Zoque, Soke, Sokean, Zoque, Zoque (Francisco Lain), Zoque (Francisco León), Zoque de Francisco León]
+alt_names: [Chiapas Soke, Francisco Leon, Francisco Leon Zoque, Francisco León, Magdalena, North Zoque, Santa Magdalena Zoque, Soke, Sokean, Zoque, Zoque (Francisco Lain), Zoque (Francisco León), Zoque de Francisco León, Chapultenango, San Pedro Yaspac, Zoque de Chapultenango, Zoque de Santa Magdalena]
 population: 20000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zoquean dialects of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Chiapas"
 ---
+Chiapas Zoque is a dialect cluster of Zoquean languages indigenous to southern Mexico. The three varieties with ISO codes, Francisco León, Copainalá, and Rayón, are named after the towns they are spoken in, though residents of Francisco León were relocated after their town was buried in the eruption of El Chichón Volcano in 1982. Francisco León and Copainalá are 83% mutually intelligible according to Ethnologue.

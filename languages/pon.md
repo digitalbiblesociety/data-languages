@@ -2,10 +2,12 @@
 iso: pon
 name: Pohnpeian
 autonym: Mahsen en Pohnpei / Lokaiahn Pohnpei
-alt_names: [Pohnopeian, Pohnpei, Ponape, Ponape Proper, Ponapean, Ponapisk]
+alt_names: [Pohnopeian, Pohnpei, Ponape, Ponape Proper, Ponapean, Ponapisk, Kiti, Sapwuahfik]
 population: 32530
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Austronesian language spoken on Pohnpei island in Micronesia
 status_id: "2"
 scope: individual
 language_type: living

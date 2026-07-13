@@ -6,6 +6,8 @@ alt_names: [Vigué, Vigye]
 population: 8000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bbt
 name: Mburku
 autonym: Barke
-alt_names: [Barko, Burkanawa, Kanawa, Kariya Wuufu, Lipkawa, Mburkanci, Wudufu]
+alt_names: [Barko, Burkanawa, Kanawa, Kariya Wuufu, Lipkawa, Mburkanci, Wudufu, Kariya, Wuufu]
 population: 12000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

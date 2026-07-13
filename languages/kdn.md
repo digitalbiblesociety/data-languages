@@ -2,10 +2,12 @@
 iso: kdn
 name: Kunda
 autonym: Cikunda
-alt_names: [Chicunda, Chikunda]
+alt_names: [Chicunda, Chikunda, Achikunda]
 population: 162760
 country_id: ZW
 country_name: Zimbabwe
+location: Mozambique
+area: Bantu language of Zimbabwe and Zambia
 status_id: "5"
 scope: individual
 language_type: living

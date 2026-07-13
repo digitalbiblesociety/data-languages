@@ -2,15 +2,18 @@
 iso: ibb
 name: Ibibio
 autonym: (Ibibio proper)
-alt_names: [Atabaskamál, Nigeria, Ибибио]
+alt_names: [Atabaskamál, Nigeria, Ибибио, Central Ibibio, Enyong, Itak, Nsit]
 population: 5939000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Native language of the Ibibio People
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 5.15279
 longitude: 7.86688
+language_map_img: ibb.webp
 scripts: [Latn]
 glottocode: ibib1240
 glottolog_family_id: atla1278

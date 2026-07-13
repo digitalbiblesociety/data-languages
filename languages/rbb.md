@@ -2,10 +2,12 @@
 iso: rbb
 name: Rumai Palaung
 autonym: " Ta'ang"
-alt_names: [Humai, Palaung, Palaung Rumai, "Palaung, Rumai", Rumai, Ruomai, Shan States Palaung]
+alt_names: [Humai, Palaung, Palaung Rumai, "Palaung, Rumai", Rumai, Ruomai, Shan States Palaung, Ngwe Palong, Rumai Humai, Shan Rumai, Silver Palaung, Ta’ang, Ta’ang Rumai, Tai Rumai, Ngwe Palaung, Si]
 population: 162100
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Mon–Khmer dialect cluster spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 鲁迈帕劳语
     auto: true
 ---
+Palaung or Ta'ang, also known as De'ang, is an Austroasiatic dialect cluster spoken by over half a million people in Burma and neighboring countries. The Palaung people are divided into Palé (Ruching), Rumai, and Shwe, and each of whom have their own language. The Riang languages are reported to be unintelligible or only understood with great difficulty by native speakers of the other Palaung languages.

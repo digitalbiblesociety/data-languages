@@ -6,6 +6,8 @@ alt_names: [Moba, Moor]
 population: 200000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language spoken in West Africa
 status_id: 6b
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: plt
 macrolanguage_id: mlg
 name: Plateau Malagasy
 autonym: malagasy
-alt_names: [Malagasi, "Malagasy, Plateau"]
+alt_names: [Malagasi, "Malagasy, Plateau", Official Malagasy, Standard Malagasy, Ambaniandro, Betsileo, Bezanozano, Borizany, Fiteny Malagasy, Hova, Malagasy fiteny, Malgache, Merina, Plateau, Sihanaka, Tanala, Teny ofisialy, Teny ofisiealy, Vakinankaritra, Zafimaniry]
 population: 7646100
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -19.59065
 longitude: 47.12111
+language_map_img: plt.svg
 glottocode: plat1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -84,3 +87,4 @@ rolv_dialects:
     country_id: MG
     location: Madagascar
 ---
+Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

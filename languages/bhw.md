@@ -2,10 +2,12 @@
 iso: bhw
 name: Biak
 autonym: "Biak-Numfor"
-alt_names: [Biaco, Mafoor, Mafoorsch, Mefoor, Myfoorsch, Noefoor, Noefoorsch, Nufoor, Numfor, Village X]
+alt_names: [Biaco, Mafoor, Mafoorsch, Mefoor, Myfoorsch, Noefoor, Noefoorsch, Nufoor, Numfor, Village X, Ariom, Bahasa Biak, "Bo'o", Bosnik, Dwar, Fairi, Jenures, Jobi, Kamer, Korido, Korim, Mandusir, Mapia, Mios Num, Mofu, Mokmer, Monoarfu, Opif, Padoa, Penasifu, Rumberpon, Samberi, Sampori, Sor, Sorendidori, Sorido, Sundei, Wadibu, Wardo, Wari, Warsa, Wós Kovedi, Wós Vyak, Yobi]
 population: 70000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

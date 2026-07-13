@@ -2,15 +2,18 @@
 iso: alq
 name: Algonquin
 autonym: Anicinâbemowin
-alt_names: [Algonkeg, Algonkin, Algonkinska]
+alt_names: [Algonkeg, Algonkin, Algonkinska, Anicinàbemowin, Anishinaabemowin, Anishinàbemiwin, Nipissing, Northern Algonquin, Southern Algonquin]
 population: 2430
 country_id: CA
 country_name: Canada
+location: Canada
+area: Distinct Algonquian-Ojibwe language of Ontario and Quebec
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 47.38755
 longitude: -77.52577
+language_map_img: Anishinaabe-Anishinini_Distribution_Map.svg
 glottocode: algo1255
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

@@ -6,6 +6,8 @@ alt_names: ["Gbe, Western Xwla", Phla, Xwla-Gbe]
 population: null
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 西克斯拉-格贝语
     auto: true
 ---
+Phla (Kpla), also spelled Xwla, is a Gbe language of Benin and Togo.

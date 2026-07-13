@@ -6,6 +6,8 @@ alt_names: [Aissano, Siau, Sinano, Sisano]
 population: 3530
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

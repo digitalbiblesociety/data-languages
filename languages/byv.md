@@ -2,10 +2,12 @@
 iso: byv
 name: Medumba
 autonym: Bangangte
-alt_names: [Bagangte, Bamileke-Medumba]
+alt_names: [Bagangte, Bamileke-Medumba, Batongtou]
 population: 210000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Grassfields language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

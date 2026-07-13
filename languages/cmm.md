@@ -5,6 +5,7 @@ autonym: Mihshikamiia
 population: null
 country_id: US
 country_name: United States
+area: Ethnic group
 status_id: null
 scope: individual
 language_type: extinct

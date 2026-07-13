@@ -6,6 +6,7 @@ alt_names: [Auré, Aurê-aurá]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of Brazil
 status_id: null
 scope: individual
 language_type: extinct

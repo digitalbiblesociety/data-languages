@@ -6,11 +6,13 @@ alt_names: [Black Carib, Caberne, Cabre, Calino, Calinya, Calinyaku, Callinago, 
 population: null
 country_id: DM
 country_name: Dominica
+area: Arawakan language historically spoken in the Lesser Antilles
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 14.290585
 longitude: -61.239505
+language_map_img: Languages_of_the_Caribbean.webp
 glottocode: isla1278
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

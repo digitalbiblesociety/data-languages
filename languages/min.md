@@ -3,15 +3,18 @@ iso: min
 macrolanguage_id: msa
 name: Minangkabau
 autonym: باسو مينڠكابا
-alt_names: [Minang, Minangkabauera, Minangkabaus, Padang, Минангкабау]
+alt_names: [Minang, Minangkabauera, Minangkabaus, Padang, Минангкабау, Agam, Aneuk Jamee, Batu Sangkar-Pariangan, Jamee, Kerinci-Minangkabau, Muko-Muko, Orang Mamak, Pajokumbuh, Pancuang Soal, Penghulu, Si Junjung, Singkarak, Tanah, Ulu]
 population: 4240000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language, spoken by the Minangkabau of West Sumatra"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 4.17
 longitude: 96.25
+language_map_img: min.webp
 scripts: [Latn]
 glottocode: mina1268
 glottolog_family_id: aust1307

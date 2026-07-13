@@ -6,6 +6,8 @@ alt_names: [Nasa simi, Nasaeg, Paes, Paez, Paez (cons need fixing) is Maddieson 
 population: 243000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Indigenous language of Colombia
 status_id: 6b
 scope: individual
 language_type: living

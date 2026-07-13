@@ -2,10 +2,12 @@
 iso: dtm
 name: Tomo Kan Dogon
 autonym: Kan Dogon
-alt_names: [Dogon, "Dogon, Tomo Kan", Tomo-Kan]
+alt_names: [Dogon, "Dogon, Tomo Kan", Tomo-Kan, Aa, Aa Bara, Basara, Bongu, Nienne, Tanwan Bara, Tie Bara, Tienwan Ganda]
 population: 133000
 country_id: ML
 country_name: Mali
+location: Burkina Faso
+area: Dialect group
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,6 @@ translations:
     name: 托莫坎多贡语
     auto: true
 ---
+The Dogon dialects of the western plains below the Bandiagara Escarpment in Mali are mutually intelligible. They are sometimes called the Kan Dogon because they use the word kan for varieties of speech. The dialects are:Tomo kã
+Teŋu kã
+Togo kã

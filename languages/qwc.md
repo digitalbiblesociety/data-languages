@@ -7,6 +7,7 @@ alt_names: [Imperial Kechua, "Quechua, Classical"]
 population: null
 country_id: BO
 country_name: Bolivia
+area: Central Peru.
 status_id: "10"
 scope: individual
 language_type: historical

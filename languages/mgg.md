@@ -2,10 +2,12 @@
 iso: mgg
 name: Mpumpong
 autonym: Mpumpoŋ
-alt_names: [Bombo, Mbombo, Mpompo, Mpongmpong, Mpopo, Pongpong]
+alt_names: [Bombo, Mbombo, Mpompo, Mpongmpong, Mpopo, Pongpong, Baagato, Bageto, Bangantu, Boman, Konabem, Konabembe, Kunabeeb, Kunabembe, Mbobyeng, Mboman, Medjime, Medzime, Mendzime, Menzime, Mezime, Mpomam, Mpompon, Mpumpoo, Nkonabeeb, Nkumabem, Northern Bangantu, Pobyeng]
 population: 45000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

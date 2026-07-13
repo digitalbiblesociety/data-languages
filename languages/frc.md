@@ -2,10 +2,12 @@
 iso: frc
 name: Cajun French
 autonym: français louisianais
-alt_names: [Acadian, Acadien, Cadien, Cajan, Cajun, Cajun Frantsöösk, Cajun-Frans, Francese cajun, Français Acadien, Français Louisiane, Français cadien, "French, Cajun", Louisiana French]
+alt_names: [Acadian, Acadien, Cadien, Cajan, Cajun, Cajun Frantsöösk, Cajun-Frans, Francese cajun, Français Acadien, Français Louisiane, Français cadien, "French, Cajun", Louisiana French, Big Woods French, Marsh French, Prairie French]
 population: 21300
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: "French variety spoken in Louisiana, United States"
 status_id: "7"
 scope: individual
 language_type: living
@@ -43,3 +45,4 @@ translations:
   - translation_iso: zho
     name: 卡郡法語
 ---
+Louisiana French includes the dialects and varieties of the French language spoken traditionally by French Louisianians in colonial Lower Louisiana. As of today Louisiana French is primarily used in the state of Louisiana, specifically in its southern parishes.

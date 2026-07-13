@@ -3,15 +3,18 @@ iso: knc
 macrolanguage_id: kau
 name: Central Kanuri
 autonym: Kànùrí
-alt_names: ["\"Baribari\"", "\"Beriberi\"", Aga, Beriberi, Bornouan, Bornouans, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Central", Kole, Kolere, Sirata, Yerwa Kanuri]
+alt_names: ["\"Baribari\"", "\"Beriberi\"", Aga, Beriberi, Bornouan, Bornouans, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Central", Kole, Kolere, Sirata, Yerwa Kanuri, Central, Borno]
 population: 7925500
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Dialect of the Kanuri language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 11.886274
 longitude: 16.391838
+language_map_img: knc.webp
 glottocode: cent2050
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

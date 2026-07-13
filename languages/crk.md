@@ -3,10 +3,12 @@ iso: crk
 macrolanguage_id: cre
 name: Plains Cree
 autonym: ᓀᐦᐃᔭᐍᐏᐣ / Nēhiyawēwin
-alt_names: [Clisteno de las llanuras, Cree, Cree (Plains), Cree des plaines, "Cree, Plains", "Kreeg ar c'hompezennoù", Nēhiyawēwin, Prærie-cree-språket, Western Cree, ᓀᐦᐃᔭᐍᐏᐣ]
+alt_names: [Clisteno de las llanuras, Cree, Cree (Plains), Cree des plaines, "Cree, Plains", "Kreeg ar c'hompezennoù", Nēhiyawēwin, Prærie-cree-språket, Western Cree, ᓀᐦᐃᔭᐍᐏᐣ, Plains, Cri des plaines, Nehiyaw, Northern Alberta Cree, Western York Cree]
 population: 3170
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language spoken in North America
 status_id: "5"
 scope: individual
 language_type: living

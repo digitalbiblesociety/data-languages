@@ -2,10 +2,12 @@
 iso: aau
 name: Abau
 autonym: null
-alt_names: [Abaoeg, Djarok, Green River]
+alt_names: [Abaoeg, Djarok, Green River, Central Abau, Downriver Abau, Downriver border Abau, Oriyai, Upriver Abau]
 population: 7500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

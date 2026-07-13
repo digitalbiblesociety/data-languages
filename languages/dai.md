@@ -6,6 +6,8 @@ alt_names: [Dayeg]
 population: 49900
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language spoken in southern Chad
 status_id: "5"
 scope: individual
 language_type: living

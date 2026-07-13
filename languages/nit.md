@@ -2,10 +2,12 @@
 iso: nit
 name: Southeastern Kolami
 autonym: Southeastern Kolami
-alt_names: [Kolami, "Kolami, Southeastern", Kōlāmì, Naiki, Naikī, Naiquí, Southeastern]
+alt_names: [Kolami, "Kolami, Southeastern", Kōlāmì, Naiki, Naikī, Naiquí, Southeastern, Asifabad, Metla-Kinwat, Utnur]
 population: 10000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

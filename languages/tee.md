@@ -6,6 +6,8 @@ alt_names: [Huehuetla, Huehuetla Mecapalapa Tepewa, Tepehua, Tepehua de Hidalgo,
 population: 3000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Tepehua language of Mexico
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: kxr
 name: Koro
 autonym: Koro
+alt_names: [Koro (Papua New Guinea)]
 population: 400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: East Manus language
 status_id: 6a
 scope: individual
 language_type: living

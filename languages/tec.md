@@ -3,10 +3,12 @@ iso: tec
 macrolanguage_id: kln
 name: Terik
 autonym: Nyang’ori
-alt_names: ["Nyang'ori"]
+alt_names: ["Nyang'ori", Central Teke]
 population: 120000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kalenjin language of Kenya
 status_id: "5"
 scope: individual
 language_type: living

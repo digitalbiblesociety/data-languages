@@ -2,10 +2,12 @@
 iso: bcn
 name: Bali
 autonym: Ị̀báalí
-alt_names: [Abaali, Bali, Bali language, Bibaali, Ibaali, Maya]
+alt_names: [Abaali, Bali, Bali language, Bibaali, Ibaali, Maya, Ekpali]
 population: 2000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Niger–Congo language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: cpc
 name: Ajyíninka Apurucayali
 autonym: Ajyéninka
-alt_names: ["\"Apurucayali Campa\"", "\"Axininka Campa\"", "\"Campa\"", Ajyininka Apurucayali, Apurucayali, Ashaninca, Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninca Apurucayali, Ashéninga, Atiri, Axininca language, Campa, Cogapacorí, Nanti]
+alt_names: ["\"Apurucayali Campa\"", "\"Axininka Campa\"", "\"Campa\"", Ajyininka Apurucayali, Apurucayali, Ashaninca, Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninca Apurucayali, Ashéninga, Atiri, Axininca language, Campa, Cogapacorí, Nanti, “Axininka Campa”, “Campa”, Apurucayali Campa, Axininka Campa]
 population: 4000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Kaibi
 population: 2320
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

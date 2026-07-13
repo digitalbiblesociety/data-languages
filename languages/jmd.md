@@ -2,10 +2,12 @@
 iso: jmd
 name: Yamdena
 autonym: Jamden
-alt_names: [Jamdena]
+alt_names: [Jamdena, North Yamdena, Nus Bab, Nus Das, South Yamdena, Tanempar Liriny, Tanemprar lirin]
 population: 25000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

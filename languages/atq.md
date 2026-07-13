@@ -2,9 +2,12 @@
 iso: atq
 name: "Aralle-Tabulahan"
 autonym: Ahalle
+alt_names: [Aralle, Mambi, Tabulahan]
 population: 29300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

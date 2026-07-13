@@ -6,6 +6,8 @@ alt_names: [Laopán, Lolo, Xá Phó, Yi]
 population: 300
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Loloish language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

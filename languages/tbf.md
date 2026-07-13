@@ -2,10 +2,12 @@
 iso: tbf
 name: Mandara
 autonym: Tabar
-alt_names: [Madara, Neu-Mecklenburg, Wandala]
+alt_names: [Madara, Neu-Mecklenburg, Wandala, Simberi, Tatau]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

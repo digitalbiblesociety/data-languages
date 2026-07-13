@@ -7,6 +7,8 @@ alt_names: ["Bicolano, Northern Catanduanes", Bikol, "Bikol, Northern Catanduane
 population: 77500
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bikol language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [So, Tepeth]
 population: 21534
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Moribund Kuliak language spoken in Uganda
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 2.58367
 longitude: 34.75954
+language_map_img: Soo_language.webp
 glottocode: sooo1256
 glottolog_family_id: kuli1252
 glottolog_family_name: Kuliak

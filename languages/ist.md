@@ -6,6 +6,7 @@ alt_names: [Istriano, Istriera, Istriote, Istriotisch, Istriotiska, İstriotça]
 population: 1000
 country_id: HR
 country_name: Croatia
+area: Romance language spoken in Croatia
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: pwm
 name: Molbog
 autonym: Balabak
-alt_names: [Molbog Palawan]
+alt_names: [Molbog Palawan, Balabac Island, Banggi Island, Southern Palawan]
 population: 13360
 country_id: PH
 country_name: Philippines
+location: Malaysia - Sabah
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

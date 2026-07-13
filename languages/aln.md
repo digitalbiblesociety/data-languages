@@ -3,15 +3,18 @@ iso: aln
 macrolanguage_id: sqi
 name: Gheg Albanian
 autonym: gegnisht
-alt_names: [Albanesisch, Albanian, "Albanian, Gheg", Albanés guego, Arber, Arbresh, Arnaut, Dialectul Gheg, Geg, Gegisch, Gegiska, Gegë, Gheg, Guegue, Guègue, Shgip, Shqipēri, Shquipni, Škip, Γκεγκική διάλεκτος, Геги, Гегский диалект албанского языка, ゲグ方言]
+alt_names: [Albanesisch, Albanian, "Albanian, Gheg", Albanés guego, Arber, Arbresh, Arnaut, Dialectul Gheg, Geg, Gegisch, Gegiska, Gegë, Gheg, Guegue, Guègue, Shgip, Shqipēri, Shquipni, Škip, Γκεγκική διάλεκτος, Геги, Гегский диалект албанского языка, ゲグ方言, Gegnisht-Shqyp, Shopni, Shqip, Shqyp]
 population: 3901900
 country_id: AL
 country_name: Albania
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: One of two major varieties of the Albanian language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 42.316993
 longitude: 21.383683
+language_map_img: Albanian_language_map_en.svg
 scripts: [Latn]
 glottocode: gheg1238
 glottolog_family_id: indo1319

@@ -2,10 +2,12 @@
 iso: tug
 name: Tunia
 autonym: Tounia
-alt_names: [Tun, Tunya]
+alt_names: [Tun, Tunya, Perim]
 population: 2260
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

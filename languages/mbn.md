@@ -6,6 +6,8 @@ alt_names: [Agualinda Guahibo, Jitnu, Macaguan, Macaguane]
 population: 1010
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Guahiban language of Colombia
 status_id: 6b
 scope: individual
 language_type: living

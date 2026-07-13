@@ -6,11 +6,13 @@ alt_names: [Chumasha Proper, La Purisima, Purisimeno, Purismeño, Purísima, San
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Chumashan language of California, USA"
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 34.686637
 longitude: -120.430985
+language_map_img: Chumashan_Language_Map.svg
 glottocode: puri1259
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan

@@ -2,15 +2,17 @@
 iso: tcs
 name: Torres Strait Creole
 autonym: Yumplatok
-alt_names: [Ap-Ne-Ap, Blaik, Cape York Creole, Creole, "Creole, Torres Strait", Lockhart Creole, Torres Strait Broken, Torres Strait Islander language, Torres Strait Islander people, Torres Strait Pidgin, West Torres, Yumblatok]
+alt_names: [Ap-Ne-Ap, Blaik, Cape York Creole, Creole, "Creole, Torres Strait", Lockhart Creole, Torres Strait Broken, Torres Strait Islander language, Torres Strait Islander people, Torres Strait Pidgin, West Torres, Yumblatok, Ailan Tok, Big Thap, Blaiman, Broken, Pizin, Tores Streit Yumplatok, Torres Strait Pidgin English]
 population: 6170
 country_id: AU
 country_name: Australia
+area: English-based creole language spoken in parts of the Torres Strait Islands and nearby land
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -11.066
 longitude: 142.692
+language_map_img: 500px-Torres_Strait_Islander_Languages_used_at_home.webp
 glottocode: torr1261
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

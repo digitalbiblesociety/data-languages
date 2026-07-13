@@ -2,10 +2,12 @@
 iso: vut
 name: Vute
 autonym: null
-alt_names: ["'Abotee", "'Abwetee", Baboute, Babute, Bamboute, Boute, Bubure, Bule, Bute, Buti, Foute, Luvure, Mbute, Mbutere, Mfuti, Nbule, Pute, Voute, Voutere, Vutere, Wetere, Woute, Wute]
+alt_names: ["'Abotee", "'Abwetee", Baboute, Babute, Bamboute, Boute, Bubure, Bule, Bute, Buti, Foute, Luvure, Mbute, Mbutere, Mfuti, Nbule, Pute, Voute, Voutere, Vutere, Wetere, Woute, Wute, ’Abotee, ’Abwetee, Bute Bamnyo, Fute, Kumbere, Nduvum, Ngoro, Nudoo, Nugane, Nujum, Vute Mbanjo, Vute de Banyo, Vute de Doume, Vute de Linte, Vute de Mbandjok, Vute de Ngorro, Vute de Sangbe, Vute de Tibati, Vute de Yangba, nyindi vɨtèé]
 population: 21000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Mambiloid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

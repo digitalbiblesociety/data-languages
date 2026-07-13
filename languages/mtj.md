@@ -6,6 +6,8 @@ alt_names: [Meninggo, Meningo, Meyah, Sabena]
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Meax language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

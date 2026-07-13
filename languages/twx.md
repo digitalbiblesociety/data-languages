@@ -6,6 +6,8 @@ alt_names: [Chiute, Ciute, Teve, Vateve, Wateve]
 population: 365000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Shona language of Zimbabwe and Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 特威语
     auto: true
 ---
+Manyika is a language largely spoken by the Manyika tribe in the eastern part of Zimbabwe and across the border in Mozambique. It includes dialects ChiBocha, ChiUngwe, and ChiManyika, from which the broad Manyika language gets its name.

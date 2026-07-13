@@ -2,10 +2,12 @@
 iso: naf
 name: Nabak
 autonym: null
-alt_names: [Naba, Wain]
+alt_names: [Naba, Wain, Napa]
 population: 16000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

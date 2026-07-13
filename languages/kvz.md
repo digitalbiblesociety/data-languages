@@ -6,6 +6,8 @@ alt_names: [Kotogut, Kotogüt, Kotogأƒآ¼t, Tsaukambo, Tsokwambo]
 population: 780
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language in South Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

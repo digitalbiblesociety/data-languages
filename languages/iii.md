@@ -3,15 +3,18 @@ iso: iii
 iso639_1: ii
 name: Sichuan Yi
 autonym: Northern Yi
-alt_names: [Liangshan Nosu, Liangshan Yi, Lolo, Nosu, Nuosu, Nuosu language, Yi, "Yi, Sichuan", Yi-språken, Yieg, yi de Sichuan, Носу]
+alt_names: [Liangshan Nosu, Liangshan Yi, Lolo, Nosu, Nuosu, Nuosu language, Yi, "Yi, Sichuan", Yi-språken, Yieg, yi de Sichuan, Носу, Black Yi, Nosu Yi, ꆈꌠꉙ, ꈝꐯꍏꇩꉙ, Adu, Northern Shypnra, Southern Shypnra, Suodi, Suondi, Yynuo]
 population: 2000000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Prestige language of China's Yi people"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 28.19474
 longitude: 102.12119
+language_map_img: 500px-Nuosu_Language.webp
 scripts: [Latn, Yiii]
 glottocode: sich1238
 glottolog_family_id: sino1245

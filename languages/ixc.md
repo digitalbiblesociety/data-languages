@@ -6,6 +6,8 @@ alt_names: [Iskateko, Ixatèque, Ixcateco, Ixcatèque]
 population: 120
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: 8b
 scope: individual
 language_type: living

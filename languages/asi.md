@@ -2,10 +2,12 @@
 iso: asi
 name: Buruwai
 autonym: Sabakor
-alt_names: [Asianara, Asienara, Karufa, Madidwana]
+alt_names: [Asianara, Asienara, Karufa, Madidwana, Sebakoor]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Asmat–Kamoro language spoken in New Guinea
 status_id: "7"
 scope: individual
 language_type: living

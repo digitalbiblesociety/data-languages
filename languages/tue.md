@@ -2,15 +2,18 @@
 iso: tue
 name: Tuyuca
 autonym: Docapúaraye
-alt_names: [Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasano, Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Borá-Tuyuka, Dochkafuara, Tejuca, Tuiúcas, Tuyuka, Tuyúka]
+alt_names: [Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasano, Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Borá-Tuyuka, Dochkafuara, Tejuca, Tuiúcas, Tuyuka, Tuyúka, Doka-Poara, Dokapuara, Doxká-Poárá, Tsola, Tuiuca, Utapinõmakãphõná]
 population: 1440
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Eastern Tucanoan language of Colombia and Brazil
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.39441
 longitude: -70.043515
+language_map_img: Tuyuka.webp
 glottocode: tuyu1244
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

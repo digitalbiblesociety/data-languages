@@ -2,10 +2,12 @@
 iso: aom
 name: Ömie
 autonym: Aomie
-alt_names: [Omie, Upper Managalasi]
+alt_names: [Omie, Upper Managalasi, Asapa, Gora-Bomahouji, Ihuaje, Juvaje, Zuwadza]
 population: 1190
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Baraic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

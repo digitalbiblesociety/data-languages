@@ -2,10 +2,12 @@
 iso: xat
 name: Katawixi
 autonym: Catauichi
-alt_names: [Catahuichí, Catauichí, Catauisi, Catauixi, Catawishi, Catawixi, Hewadie, Katawishi, Katawishí, Katawixí, Quatausi]
+alt_names: [Catahuichí, Catauichí, Catauisi, Catauixi, Catawishi, Catawixi, Hewadie, Katawishi, Katawishí, Katawixí, Quatausi, Jacareúba]
 population: 10
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Katukinian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

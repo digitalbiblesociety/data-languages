@@ -6,6 +6,8 @@ alt_names: [Badda, Balda, Mouktele, Muktile]
 population: 18000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

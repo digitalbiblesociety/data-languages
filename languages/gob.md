@@ -6,11 +6,14 @@ alt_names: [Pepojivi, Rio Arauca Guahibo, Yamarero]
 population: 240
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Language spoken in Colombia and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 6.90948
 longitude: -71.00362
+language_map_img: Guahibo.webp
 glottocode: play1240
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan

@@ -2,10 +2,12 @@
 iso: mrg
 name: Mising
 autonym: Mising–Padam–Minyong
-alt_names: [Hill Miri, Miri, Mishing, Plains Miri, Takam]
+alt_names: [Hill Miri, Miri, Mishing, Plains Miri, Takam, Miching, Missing]
 population: 630000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

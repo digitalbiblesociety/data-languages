@@ -6,6 +6,8 @@ alt_names: ["Ba:rhmu", Balbang, "Bar?m", Baram, Baramu, Barhamu, "Bhra:mu", Bhra
 population: 2000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Endangered Newaric language of Nepal
 status_id: 8b
 scope: individual
 language_type: living

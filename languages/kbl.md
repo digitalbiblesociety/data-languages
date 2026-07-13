@@ -2,10 +2,12 @@
 iso: kbl
 name: Kanembu
 autonym: Kanambu
-alt_names: [Bornu, Kaidi-Kanembu, Kanembou, Kanemhu, Kanuri]
+alt_names: [Bornu, Kaidi-Kanembu, Kanembou, Kanemhu, Kanuri, Karkawu, Mando, Nguri]
 population: 877200
 country_id: TD
 country_name: Chad
+location: Chad
+area: Nilo-Saharan language of Chad
 status_id: "3"
 scope: individual
 language_type: living

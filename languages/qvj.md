@@ -7,11 +7,14 @@ alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Caña
 population: 30500
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Quechuan language of Ecuador and Colombia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -3.69352
 longitude: -79.29151
+language_map_img: KichwaQ.svg
 glottocode: loja1235
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 洛哈高地基楚亚语
     auto: true
 ---
+Kichwa is a Quechuan language that includes all Quechua varieties of Ecuador and Colombia (Inga), as well as extensions into Peru. It has an estimated half million speakers.

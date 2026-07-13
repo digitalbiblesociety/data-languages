@@ -2,10 +2,12 @@
 iso: ngz
 name: Ngungwel
 autonym: Eboo
-alt_names: [Engungwel, Ngangoulou, Ngungulu, Northeastern Teke]
+alt_names: [Engungwel, Ngangoulou, Ngungulu, Northeastern Teke, Mpu, Mpumpu, Mpumpum, Ngangulu]
 population: 45000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Teke language of Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: CG
     location: "Congo, Republic of the"
 ---
+Central Teke is a member of the Teke languages dialect continuum of the Congolese plateau. Central Teke dialects are Ngungwel and Mpu (Mpumpum), Boo, and Nzikou (Njyunjyu/Ndzindziu). They are spoken in the Malebo Pool region of the Republic of Congo, with an unknown number of Boo speakers in DRC.

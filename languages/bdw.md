@@ -5,6 +5,8 @@ autonym: Patimuni
 population: 1100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

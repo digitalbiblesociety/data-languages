@@ -2,10 +2,12 @@
 iso: loq
 name: Lobala
 autonym: Lobala
-alt_names: [Democratic Republic of the Congo]
+alt_names: [Democratic Republic of the Congo, Iboko, Likoka, Poko, South Lobala, Tanda]
 population: 60000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

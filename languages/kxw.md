@@ -5,6 +5,8 @@ autonym: Mirapmin
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Trans–New Guinea language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

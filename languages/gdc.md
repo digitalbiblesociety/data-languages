@@ -6,6 +6,7 @@ alt_names: [Gugu-Badhun, Koko Padun, Koko Patun, Koko-Patun, Kokopatun, Patun]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 古古巴顿语
     auto: true
 ---
+Warrongo is an Australian Aboriginal language, one of the dozen languages of the Maric branch of the Pama–Nyungan family. It was formerly spoken by the Warrongo people in the area around Townsville, Queensland, Australia. Its last native speaker was Alf Palmer, who died in 1981. One of the notable feature of the language is its syntactic ergativity.

@@ -6,6 +6,8 @@ alt_names: [Arho, Neukaledonien]
 population: 10
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 8b
 scope: individual
 language_type: living

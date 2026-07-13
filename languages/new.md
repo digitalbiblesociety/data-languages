@@ -2,10 +2,12 @@
 iso: new
 name: Newari
 autonym: Nepal Bhasa
-alt_names: ["\"Newari\"", "Bhasa, Nepal", Dolakha, Dolakha Newari, Kathmandu Newari, Kathmandu dialect, Nepalbhasa, Nepâlbhâshâ, Nevarí, Newar, Newarish, Niwari simi, Nēwāri, Pahri, Νεβάρι, נפאל בהאסה, নেপাল ভাশা, ନେପାଲ ଭାଷା, நேபால் பாசா, ኔፓል ባሳ]
+alt_names: ["\"Newari\"", "Bhasa, Nepal", Dolakha, Dolakha Newari, Kathmandu Newari, Kathmandu dialect, Nepalbhasa, Nepâlbhâshâ, Nevarí, Newar, Newarish, Niwari simi, Nēwāri, Pahri, Νεβάρι, נפאל בהאסה, নেপাল ভাশা, ନେପାଲ ଭାଷା, நேபால் பாசா, ኔፓል ባሳ, “Newari”, Newal Bhaye, नेपाल भाषा, Badikhel Pahari, Baglung, Balami, Bhaktapur, Citlang, Dolkhali, Gamal, Gopali, Kathmandu-Patan-Kirtipur, Newa Bhaye, Newaah Bhaae, Newaah Bhaaye, Newah, Pihi, Pyang Gaon, Sindhupalchok Pahari, Totali]
 population: 861000
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Sino-Tibetan language of central-eastern Nepal
 status_id: "3"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Democratic Republic of the Congo]
 population: 12000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Language spoken by the Mbaka people of CAR and Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 吉利玛语
     auto: true
 ---
+The Mbaka or Bwaka language, Ngbaka Ma'bo is a major Ubangian language spoken by the Mbaka people of CAR and Congo.

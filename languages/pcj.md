@@ -6,6 +6,8 @@ alt_names: [Gadaba, Gorum Sama, Gorumo, Pareng, Parenga Parja, Parengi, Parengi 
 population: 12646
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Endangered Munda language of India
 status_id: 8b
 scope: individual
 language_type: living

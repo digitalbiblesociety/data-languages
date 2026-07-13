@@ -6,6 +6,7 @@ alt_names: [Chimakum]
 population: null
 country_id: US
 country_name: United States
+area: Native American language once sopken in Washington (state)
 status_id: null
 scope: individual
 language_type: extinct

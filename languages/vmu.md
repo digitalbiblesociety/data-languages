@@ -6,6 +6,7 @@ alt_names: [Djankun, Gugu Muluridyi, Jungkurara, Kokanodna, Koko moloroiji, Koko
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 穆卢里迪语
     auto: true
 ---
+Guugu Yalandji, also spelt Kuku-Yalanji, is an Australian Aboriginal language of Queensland. It is the traditional language of the Kuku Yalanji people.

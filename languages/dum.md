@@ -2,7 +2,7 @@
 iso: dum
 name: Middle Dutch
 autonym: "dietsc, duutsch"
-alt_names: ["Dutch, Middle (ca. 1050-1350)", "Dutch, Middle (ca.1050-1350)", Middelnederlands, Middle Dutch, Mittelniederländisch, Miðhollenska, Olandese medio, néerlandais moyen (ca. 1050-1350)]
+alt_names: ["Dutch, Middle (ca. 1050-1350)", "Dutch, Middle (ca.1050-1350)", Middelnederlands, Middle Dutch, Mittelniederländisch, Miðhollenska, Olandese medio, néerlandais moyen (ca. 1050-1350), Middle Dutch (ca. 1050-1350)]
 population: null
 country_id: NL
 country_name: Netherlands

@@ -7,6 +7,7 @@ alt_names: [Ayoquezco, Ayoquezco Zapotec, Central Sapoteko, Western Ejutla Zapot
 population: 880
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 4400
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

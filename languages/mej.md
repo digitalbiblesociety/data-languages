@@ -6,6 +6,8 @@ alt_names: [Mansibaber, Meah, Meax, Mejach, Mejah, Meyach]
 population: 14800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: West Papuan language of Indonesia
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Pepeha]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+area: Extinct unclassified Papuan language
 status_id: "10"
 scope: individual
 language_type: extinct

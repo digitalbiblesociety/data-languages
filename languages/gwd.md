@@ -2,10 +2,12 @@
 iso: gwd
 name: Gawwada
 autonym: Gauwada
-alt_names: [Dullay, Dullay (Gollango), Gawata, Gawwada hizkuntza, Gobeze, Golango, Gowase, "Kawwad'a", Kawwada, Orase, W. Bussa, Welango]
+alt_names: [Dullay, Dullay (Gollango), Gawata, Gawwada hizkuntza, Gobeze, Golango, Gowase, "Kawwad'a", Kawwada, Orase, W. Bussa, Welango, Kawwad’a, Gawwada Ale, Dabosse, Debase, Dihina, Dobase, Gargarte, Gorroze, Harse, Kollanko, Kꞌarkꞌarte, Qawko, Tihinte, Werizoid, Wollango, Worase]
 population: 84300
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic language of southern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

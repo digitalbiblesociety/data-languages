@@ -6,6 +6,8 @@ alt_names: [Anesu, Canala, Haraneu, Kanala, Neukaledonien, Xaracii, Xaracuu]
 population: 3780
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

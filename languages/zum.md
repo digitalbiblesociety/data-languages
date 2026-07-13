@@ -6,6 +6,8 @@ alt_names: [Kamzáree, Komzari, Komzāri, Koumzareg, Kumzāri, Kûmzarî, Luenga
 population: 1700
 country_id: OM
 country_name: Oman
+location: Oman
+area: Southwestern Iranian language of Oman and United Arab Emirates
 status_id: 8a
 scope: individual
 language_type: living

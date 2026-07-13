@@ -6,6 +6,7 @@ alt_names: [Bakoroka, Cuanhoca, Cuepe, Curoca, Koroka, Kuadí, Makoroko, Mucoroc
 population: null
 country_id: AO
 country_name: Angola
+area: Extinct Khoisan language of Angola
 status_id: "10"
 scope: individual
 language_type: extinct

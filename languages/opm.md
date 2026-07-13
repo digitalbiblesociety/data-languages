@@ -6,11 +6,14 @@ alt_names: [Nalu]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -5.20797
 longitude: 142.17666
+language_map_img: Oksapmin_language.svg
 glottocode: oksa1245
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea

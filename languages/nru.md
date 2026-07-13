@@ -2,15 +2,18 @@
 iso: nru
 name: Narua
 autonym: Na
-alt_names: [Yongning Na]
+alt_names: [Yongning Na, Eastern Naxi]
 population: 47000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.8
 longitude: 100.9
+language_map_img: 500px-Naxi_language.webp
 glottocode: yong1270
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

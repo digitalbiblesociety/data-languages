@@ -6,6 +6,8 @@ alt_names: [Dong, "Dong, Southern", Gam, Kam, Tong, Tung, Tung-Chia]
 population: 1000000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Kam–Sui language of China's Dong people"
 status_id: 6a
 scope: individual
 language_type: living

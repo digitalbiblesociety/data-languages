@@ -2,9 +2,11 @@
 iso: jls
 name: Jamaican Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [JSL]
 population: 7500
 country_id: JM
 country_name: Jamaica
+area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living

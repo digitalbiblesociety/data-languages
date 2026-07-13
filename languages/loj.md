@@ -6,6 +6,8 @@ alt_names: [Admiralitäts-inseln, Baluan-Lou-Pam]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Southeast Admiralty Islands language
 status_id: 6a
 scope: individual
 language_type: living

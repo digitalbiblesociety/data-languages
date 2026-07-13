@@ -3,15 +3,18 @@ iso: ukr
 iso639_1: uk
 name: Ukrainian
 autonym: "українська моваukrayins'ka mova"
-alt_names: [An Úcráinis, Kiukraine, Little Russian, Oekraïens, Oekraïns, Ookraanish, Ucranianu, Ucraïnian, Ucraïnès, Ukrain tili, Ukrainagiella, Ukraineg, Ukrainera, Ukrainiana linguo, Ukrainien, Ukrainsche Spraak, Ukrainsk, Ukrainska, Ukrainska rěc, Ukrajińsko godka, Ukranian, Ukranya simi, Ukrayina-gí, Ukraynaca, Ukraynek, Ùcrainis, Úkraínska, Ūcræȝnisc sprǣc, Забони украинӣ, Оукра́иньскъ ѩꙁꙑ́къ, Украин йылме, Украин тыла, Украинань кель, Украинонь кяль, Ուկրաիներեն, אוקראיניש, אוקראינית, ئۇكرائىن تىلى, اوكرانى]
+alt_names: [An Úcráinis, Kiukraine, Little Russian, Oekraïens, Oekraïns, Ookraanish, Ucranianu, Ucraïnian, Ucraïnès, Ukrain tili, Ukrainagiella, Ukraineg, Ukrainera, Ukrainiana linguo, Ukrainien, Ukrainsche Spraak, Ukrainsk, Ukrainska, Ukrainska rěc, Ukrajińsko godka, Ukranian, Ukranya simi, Ukrayina-gí, Ukraynaca, Ukraynek, Ùcrainis, Úkraínska, Ūcræȝnisc sprǣc, Забони украинӣ, Оукра́иньскъ ѩꙁꙑ́къ, Украин йылме, Украин тыла, Украинань кель, Украинонь кяль, Ուկրաիներեն, אוקראיניש, אוקראינית, ئۇكرائىن تىلى, اوكرانى, українська, East Ukrainian, Northwest Ukrainian, Southwest Ukrainian, Ucrainean, Ukraiński, Ukrán]
 population: 27300000
 country_id: UA
 country_name: Ukraine
+location: Ukraine
+area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 48.175842
 longitude: 24.395786
+language_map_img: ukr.webp
 scripts: [Cyrl]
 glottocode: ukra1253
 glottolog_family_id: indo1319

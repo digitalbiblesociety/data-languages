@@ -3,10 +3,12 @@ iso: kua
 iso639_1: kj
 name: Kuanyama
 autonym: Oshikwanyama
-alt_names: [Cuanhama, Cuañama, Humba, Kwancama, Kwanjama, Kwanyama, Kwanyamaeg, Ochikwanyama, Otjiwambo, Ovambo, Owambo, Oxikuanyama, Кваньяма]
+alt_names: [Cuanhama, Cuañama, Humba, Kwancama, Kwanjama, Kwanyama, Kwanyamaeg, Ochikwanyama, Otjiwambo, Ovambo, Owambo, Oxikuanyama, Кваньяма, Kuanjama, Oshikuanjama, Mbadja, Oshiwambo, Wambo]
 population: 1308000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Dialect in Namibia
 status_id: "3"
 scope: individual
 language_type: living

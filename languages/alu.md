@@ -2,10 +2,12 @@
 iso: alu
 name: "'Are'are"
 autonym: Areare
-alt_names: [Südliche Salomons-Inseln, ʻAreʻare]
+alt_names: [Südliche Salomons-Inseln, ʻAreʻare, Marau, Marau Sound, ꞌAreꞌare]
 population: 17900
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language of the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

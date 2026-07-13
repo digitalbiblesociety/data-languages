@@ -2,10 +2,12 @@
 iso: tdc
 name: "Emberá-Tadó"
 autonym: Chamí Emberá
-alt_names: [Embená Tadó, Embera-Tado, Sia pedee, Southern Emberá, Tado, Tadó]
+alt_names: [Embená Tadó, Embera-Tado, Sia pedee, Southern Emberá, Tado, Tadó, Cholo, Êpêra, Embena, Embera, Embera Tadó, Epena, Katío, Ẽpẽra Pedeade]
 population: 1000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Emberá language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 埃姆贝拉-塔多语
     auto: true
 ---
+Chamí Emberá a.k.a. Chami is an Embera language of Colombia.

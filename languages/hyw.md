@@ -2,10 +2,12 @@
 iso: hyw
 name: Western Armenian
 autonym: արեւմտահայերէն
-alt_names: ["Armenian, Western"]
+alt_names: ["Armenian, Western", հայերէն]
 population: 1395240
 country_id: TR
 country_name: Turkey
+location: Armenia
+area: Major dialect group and standard form of Armenian
 status_id: null
 scope: individual
 language_type: living

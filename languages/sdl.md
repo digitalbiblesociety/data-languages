@@ -5,6 +5,7 @@ autonym: لغة الإشارة السعودية
 population: 100000
 country_id: SA
 country_name: Saudi Arabia
+area: Deaf sign language of Saudi Arabia
 status_id: 6a
 scope: individual
 language_type: living

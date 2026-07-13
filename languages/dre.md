@@ -2,10 +2,12 @@
 iso: dre
 name: Dolpo
 autonym: "Ü-Tsang"
-alt_names: ["D'ölpo", Dolpa Tibetan, Dolpike, Phoke Dolpa]
+alt_names: ["D'ölpo", Dolpa Tibetan, Dolpike, Phoke Dolpa, Dolkha, Dhol-wa, Dolpali]
 population: 5000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Most spoken and standard of the Tibetic languages
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: NP
     location: "Nepal, Rapti, Pokhara"
 ---
+Central Tibetan language, also known as or Ü-Tsang dialect, Dbus Tibetan, or Ü Tibetan, is the most widely spoken Tibetic language and the basis of Standard Tibetan.

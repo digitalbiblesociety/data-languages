@@ -5,9 +5,11 @@ autonym: Zemgalian
 population: null
 country_id: LV
 country_name: Latvia
+area: Extinct Baltic language of Semigallia
 status_id: null
 scope: individual
 language_type: extinct
+language_map_img: Baltic_Tribes_c_1200.svg
 wikidata_id: Q47631
 wikipedia_url: "https://en.wikipedia.org/wiki/Semigallian_language"
 translations:

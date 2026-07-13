@@ -6,11 +6,13 @@ alt_names: [Pomo, Pomo du Sud, Pomo meridional, "Pomo, Southern", Russian River,
 population: null
 country_id: US
 country_name: United States
+area: "Pomoan languages of California, US"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 38.76429
 longitude: -122.54519
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: sout2984
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

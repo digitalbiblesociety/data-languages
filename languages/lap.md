@@ -2,10 +2,12 @@
 iso: lap
 name: Laka
 autonym: Kabba Laka
-alt_names: [Laka]
+alt_names: [Laka, Bémour, Goula, Mang, Maïngao, Paï]
 population: 57150
 country_id: TD
 country_name: Chad
+location: Central African Republic
+area: Sara language of Chad
 status_id: "5"
 scope: individual
 language_type: living

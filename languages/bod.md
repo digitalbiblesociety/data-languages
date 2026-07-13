@@ -3,10 +3,12 @@ iso: bod
 iso639_1: bo
 name: Tibetan
 autonym: བོད་སྐད་
-alt_names: [Bhokha, Bhotanta, Bhotia, Bhōṭiā of Tibet, Bod Skad, Central Tibetan, Dbus, Dbusgtsang, Dzad, Huniyā, Jad, Kazi, Lama, Lhasa dialect, Phoke, Pohbetian, Poke, Shalgno, Spiti, Spitian, Tebilian, Tibate, "Tibetan, Central", U, Wei, Weizang, Zang, Zang Wen, tibétain]
+alt_names: [Bhokha, Bhotanta, Bhotia, Bhōṭiā of Tibet, Bod Skad, Central Tibetan, Dbus, Dbusgtsang, Dzad, Huniyā, Jad, Kazi, Lama, Lhasa dialect, Phoke, Pohbetian, Poke, Shalgno, Spiti, Spitian, Tebilian, Tibate, "Tibetan, Central", U, Wei, Weizang, Zang, Zang Wen, tibétain, སྲོལ་རྒྱུན་གྱི།, Aba, Anshuenkuan Nyarong, Batang, Bod, Central, Dartsemdo, Deqing Zang, Diaspora Tibetan, Dru, Gtsang, Hanniu, Kongbo, Lhasa, Lhasa Tibetan, Mngahris, Nganshuenkuan, Ngari, Panakha-Panags, Paurong, Skad, Tatsienlu, Tsang, Utsang]
 population: 1186020
 country_id: CN
 country_name: China
+location: China
+area: "Official dialect of Tibetan, spoken in Lhasa"
 status_id: "2"
 scope: individual
 language_type: living

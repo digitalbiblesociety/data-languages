@@ -5,11 +5,14 @@ autonym: Nyong
 population: 12600
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Southwestern Tai language of Thailand
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 18.38726
 longitude: 98.97646
+language_map_img: 500px-Yong_language.webp
 glottocode: yong1277
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

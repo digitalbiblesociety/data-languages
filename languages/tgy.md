@@ -5,6 +5,7 @@ autonym: Togoy
 population: null
 country_id: SS
 country_name: South Sudan
+area: Extinct Ubangian language of South Sudan
 status_id: "10"
 scope: individual
 language_type: extinct

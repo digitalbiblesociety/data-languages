@@ -2,10 +2,12 @@
 iso: jio
 name: Jiamao
 autonym: Sai 塞
-alt_names: [Kamau, Tai]
+alt_names: [Kamau, Tai, Gevou, Ku vou]
 population: 52300
 country_id: CN
 country_name: China
+location: Southern China
+area: "Language of Hainan, China"
 status_id: 6a
 scope: individual
 language_type: living

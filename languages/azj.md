@@ -3,15 +3,18 @@ iso: azj
 macrolanguage_id: aze
 name: North Azerbaijani
 autonym: " آذربایجان دیلی"
-alt_names: [Aderbeidjanisch, Azarbaydjanian, Azerbaijani, "Azerbaijani, North", Azerbaijanian, Azerbaydzhani, Azeri Turk, North Azeri language, Turkler]
+alt_names: [Aderbeidjanisch, Azarbaydjanian, Azerbaijani, "Azerbaijani, North", Azerbaijanian, Azerbaydzhani, Azeri Turk, North Azeri language, Turkler, Azerbaijan, Azərbaycan dili, Airym, Azeri, Azərbaycanca, Baku, Borcala, Derbend, Derbent, Erevan, Ganja, Karabakh, Karapapak, Kazakh, Kirovabad, Kuba, Kutkasen, Kyzylbash, Lenkaran, Lenkoran, Mugaly, Nakhchivan, Nakhichevan, Nukha, Ordubad, Qabala, Qazakh, Quba, Qyzylbash, Saliany, Salyan, Semakha, Shamakhi, Shusha, Susa, Terekeme, Yerevan, Zakataly, Zaqatala]
 population: 9220600
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Turkic language of the Oghuz sub-branch
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 40.977675
 longitude: 46.473698
+language_map_img: azj.svg
 glottocode: nort2697
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

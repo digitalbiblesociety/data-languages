@@ -2,10 +2,12 @@
 iso: bzy
 name: Obanliku
 autonym: Banliku
-alt_names: [Abanliku, Gayi]
+alt_names: [Abanliku, Gayi, Abanglekuo, Basang, Bebi, Bishiri, Bisu, Busi]
 population: 65000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Bendi language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

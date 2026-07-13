@@ -6,11 +6,14 @@ alt_names: [Soi, Sonaha, Sonahaa, Sunah, Sunha]
 population: 14700
 country_id: NP
 country_name: Nepal
+location: Western Nepal
+area: Indo-Aryan language group of Nepal and India
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 28.77817
 longitude: 81.21849
+language_map_img: 500px-Tharu_Area.webp
 glottocode: sonh1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

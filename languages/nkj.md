@@ -6,6 +6,8 @@ alt_names: ["Na'i", Nagai, Na’ai, Na’i]
 population: 700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Ok language of West Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

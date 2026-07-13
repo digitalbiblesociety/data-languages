@@ -6,6 +6,8 @@ alt_names: [Bhotte, Ghale, "Ghale, Kutang", "Ghale,Kutang", Kutang Ghale]
 population: 1300
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Endangered Tibeto-Burman language of Nepal
 status_id: 6a
 scope: individual
 language_type: living

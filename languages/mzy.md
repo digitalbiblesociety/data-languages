@@ -2,9 +2,11 @@
 iso: mzy
 name: Mozambican Sign Language
 autonym: null
+alt_names: [Língua de Sinais de Moçambique, MZSL]
 population: 150000
 country_id: MZ
 country_name: Mozambique
+area: Deaf sign language of Mozambique
 status_id: 6a
 scope: individual
 language_type: living

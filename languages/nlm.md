@@ -5,6 +5,7 @@ autonym: null
 population: 500
 country_id: PK
 country_name: Pakistan
+area: Indo-Aryan language of northern Pakistan
 status_id: null
 scope: individual
 language_type: living

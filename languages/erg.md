@@ -2,15 +2,18 @@
 iso: erg
 name: Sie
 autonym: Erromangan
-alt_names: [Eromanga, Erramanga, Erromanga, Erromango, Sye]
+alt_names: [Eromanga, Erramanga, Erromanga, Erromango, Sye, Enyau, Potnariven, Sorung, Yoku, nam Eromaga]
 population: 1900
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -18.81812
 longitude: 169.16608
+language_map_img: 500px-Erromangomap.webp
 glottocode: siee1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

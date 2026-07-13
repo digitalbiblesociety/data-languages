@@ -2,15 +2,18 @@
 iso: maz
 name: Central Mazahua
 autonym: Jñatjo (mmc)Jñatrjo (maz)
-alt_names: [Masawa, Mazahua, Mazahua Central, "Mazahua, Central"]
+alt_names: [Masawa, Mazahua, Mazahua Central, "Mazahua, Central", Central, Atlacomulco-Temascalcingo, Jnatrjo, Mazahua de Atlacomulco-Temascalcingo, Mazahua de Sta. María Citendejé-Banos, Mazahua de oriente, San Miguel Tenoxtitlán, Santa María Citendejé-Banos]
 population: 147000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Oto-Pamean language of central Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 19.73569
 longitude: -100.01831
+language_map_img: 500px-Mazahua_language.webp
 scripts: [Latn]
 glottocode: cent2144
 glottolog_family_id: otom1299

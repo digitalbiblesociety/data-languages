@@ -6,6 +6,7 @@ alt_names: [Malaysia, Sabum]
 population: null
 country_id: MY
 country_name: Malaysia
+area: Austroasiatic language spoken in Malaysia
 status_id: "9"
 scope: individual
 language_type: living

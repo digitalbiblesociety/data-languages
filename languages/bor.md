@@ -6,6 +6,8 @@ alt_names: [Boe, Bororo, Bororo proper, Borro, Eastern Bororo, Western Bororo]
 population: 1392
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Language native to Brazil
 status_id: 6b
 scope: individual
 language_type: living

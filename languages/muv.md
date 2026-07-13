@@ -2,10 +2,12 @@
 iso: muv
 name: Muthuvan
 autonym: முதுவன்
-alt_names: [Mudavan, Mudugar, Muduvan, Muduvar, Mutuvar]
+alt_names: [Mudavan, Mudugar, Muduvan, Muduvar, Mutuvar, Muduva, Eastern Muthuvan, Malayalam Muthuvan, Nattu Muthuvan, Paanti naattu peeccu, Pandi Muthuvan, Tamil Muthuvan, Western Muthuvan]
 population: 16800
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living

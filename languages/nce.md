@@ -6,6 +6,8 @@ alt_names: [Nagatiman, Yade, Yadë, Yaleg, Yalë, Yalë language, Yare, YarÃ«,
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

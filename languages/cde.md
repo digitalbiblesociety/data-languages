@@ -2,10 +2,12 @@
 iso: cde
 name: Chenchu
 autonym: Chenchucoolam
-alt_names: [Chenchwar, Chenswar, Choncharu, Thenchoueg]
+alt_names: [Chenchwar, Chenswar, Choncharu, Thenchoueg, Chensulu]
 population: 26000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living

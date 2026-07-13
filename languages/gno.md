@@ -3,15 +3,18 @@ iso: gno
 macrolanguage_id: gon
 name: Northern Gondi
 autonym: गोंडी (खौइ़तौल़ु)
-alt_names: [Gaudi, Ghond, Godi, Gondi, Gondi (Raj), "Gondi, Northern", Gondiva, Gondu, Gondwadi, Gonḍi, Goondile, Goudi, Goudwal, Gônd, Gōṇḍī]
+alt_names: [Gaudi, Ghond, Godi, Gondi, Gondi (Raj), "Gondi, Northern", Gondiva, Gondu, Gondwadi, Gonḍi, Goondile, Goudi, Goudwal, Gônd, Gōṇḍī, Amravati, Betul, Bhandara, Chhindwara, Mandla, Nagpur, Seoni, Yavatmal]
 population: 2910000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 18.16323
 longitude: 81.38421
+language_map_img: Gondi_language_map.svg
 glottocode: nort2702
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian

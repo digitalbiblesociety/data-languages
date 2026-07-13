@@ -2,10 +2,12 @@
 iso: nlg
 name: Gela
 autonym: Nggela
-alt_names: [Florida Islands, Südliche Salomons-Inseln]
+alt_names: [Florida Islands, Südliche Salomons-Inseln, Big Nggela, Central Gela, Mboko ni mbeti, Nggela Pile, Nggela Sule, Sandfly, Small Nggela]
 population: 11900
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

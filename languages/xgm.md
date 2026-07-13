@@ -6,11 +6,13 @@ alt_names: [Baiali, Bayali, Bieli, Biyali, Byellee, Byellel, Charumbul, Darambal
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -23.307
 longitude: 150.593
+language_map_img: 500px-Tribes_around_Gladstone1.webp
 glottocode: dhar1248
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

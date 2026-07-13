@@ -2,10 +2,12 @@
 iso: xon
 name: Konkomba
 autonym: Likpakpaln
-alt_names: [Kom Komba, Kpankpam, Kpəkpam]
+alt_names: [Kom Komba, Kpankpam, Kpəkpam, Likoonli, Bikpakpam, Komba, Kpankpamba, Lichabool, Ligbeln, Likonl, Likpakpaanl, Limonkpel, Linafiel, Liquan, Nalong]
 population: 915700
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gurma language of Ghana and Togo
 status_id: "5"
 scope: individual
 language_type: living

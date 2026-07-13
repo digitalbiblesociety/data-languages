@@ -6,6 +6,8 @@ alt_names: [Bangdel Tûm, Bangdile, Mathsereng, Nacchhering, Nacering Ra, Nacher
 population: 3550
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kiranti language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living

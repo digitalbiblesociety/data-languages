@@ -6,6 +6,8 @@ alt_names: [Kakolo]
 population: 15000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 2"
+area: Manding language of Mali
 status_id: 6b
 scope: individual
 language_type: living
@@ -89,3 +91,4 @@ rolv_dialects:
     country_id: ML
     location: "Mali, Kayes"
 ---
+Kita Maninkakan, or Central Malinke, is a Manding language spoken by about a million people in Mali, where it is a national language. About 10% are ethnically Fula.

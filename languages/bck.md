@@ -6,6 +6,8 @@ alt_names: [Booneba, Booneba Bunaba, Boonooba, Bunaba, Bunapa, Buniba, Bunuban, 
 population: 160
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal language of Australia
 status_id: 8a
 scope: individual
 language_type: living

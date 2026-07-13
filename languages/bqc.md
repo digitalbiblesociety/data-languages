@@ -2,10 +2,12 @@
 iso: bqc
 name: Boko
 autonym: Bokonya
-alt_names: [Bokko, Boko, Boo, Busa, Busa-Boko]
+alt_names: [Bokko, Boko, Boo, Busa, Busa-Boko, Illo Busa, Boꞌo]
 population: 150000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Mande language spoken in Benin and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

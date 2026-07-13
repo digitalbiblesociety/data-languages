@@ -3,10 +3,12 @@ iso: swv
 macrolanguage_id: mwr
 name: Shekhawati
 autonym: शेखावाटी
-alt_names: [Marwari, Rajasthani, Shekhawati-Marwari]
+alt_names: [Marwari, Rajasthani, Shekhawati-Marwari, Jhunjhunu-Churu, Sikar]
 population: 3000000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: "Indo-Aryan language of Rajasthan, India"
 status_id: "5"
 scope: individual
 language_type: living

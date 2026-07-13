@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 1200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language of New Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: vnk
 name: Vano
 autonym: Alavana
-alt_names: [Lovono, Vanikolo, Vanikoro]
+alt_names: [Lovono, Vanikolo, Vanikoro, Alavano]
 population: null
 country_id: SB
 country_name: Solomon Islands
+area: Endangered Oceanic language of the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

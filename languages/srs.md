@@ -2,10 +2,12 @@
 iso: srs
 name: Sarsi
 autonym: Sarcee
-alt_names: [Tsutina, "Tsuu T'ina", "Tsuut'ina", Tsuut’ina language]
+alt_names: [Tsutina, "Tsuu T'ina", "Tsuut'ina", Tsuut’ina language, Tsuu T’ina]
 population: 600
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: Endangered Athabaskan language spoken in Alberta
 status_id: 8b
 scope: individual
 language_type: living

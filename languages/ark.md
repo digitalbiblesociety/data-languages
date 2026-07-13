@@ -6,6 +6,8 @@ alt_names: [Aricapu, Aricapú, Arikapu, Mashubi]
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Yabutian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

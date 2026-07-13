@@ -2,10 +2,12 @@
 iso: hoe
 name: Horom
 autonym: Horom
-alt_names: ["\"Kaleri\"", Kaleri]
+alt_names: ["\"Kaleri\"", Kaleri, “Kaleri”]
 population: 1500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: dso
 name: Desiya
 autonym: ଓଡ଼ିଆ
+alt_names: [Deshia, Desia, Desiya Oriya, Koraput Oriya]
 population: 227000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language variety of India
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 18.965
 longitude: 82.646
+glottocode: desi1235
 wikidata_id: Q12629755
 wikipedia_url: "https://en.wikipedia.org/wiki/Desia_language"
 translations:

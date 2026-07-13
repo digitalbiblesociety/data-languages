@@ -6,6 +6,8 @@ alt_names: [Lèngua Öñge, Ong, Onge, Онге]
 population: 110
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Ongan language of Little Andaman Island
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Mikifore, Mixifore]
 population: 3600
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in Guinea
 status_id: 6a
 scope: individual
 language_type: living

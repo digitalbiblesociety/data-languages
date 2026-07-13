@@ -6,6 +6,7 @@ alt_names: [Isländskt teckenspråk]
 population: 275
 country_id: IS
 country_name: Iceland
+area: Deaf sign language of Iceland
 status_id: "5"
 scope: individual
 language_type: living

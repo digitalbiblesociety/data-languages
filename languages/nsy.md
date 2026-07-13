@@ -5,6 +5,8 @@ autonym: bahasa Nasal
 population: 6000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken on Sumatra
 status_id: 6a
 scope: individual
 language_type: living

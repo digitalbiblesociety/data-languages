@@ -2,13 +2,15 @@
 iso: dwk
 name: Dawik Kui
 autonym: କୁଈ
-alt_names: ["Kui, Dawik"]
+alt_names: ["Kui, Dawik", Davik Kui]
 population: 941000
 country_id: IN
 country_name: India
+area: Dravidian language spoken in Eastern India
 status_id: null
 scope: individual
 language_type: living
+language_map_img: Languages_of_Odisha.webp
 wikidata_id: Q111360885
 wikipedia_url: "https://en.wikipedia.org/wiki/Dawik_Kui_language"
 translations:

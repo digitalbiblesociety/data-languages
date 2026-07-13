@@ -2,10 +2,12 @@
 iso: mam
 name: Mam
 autonym: Qyool Mam
-alt_names: [Huehuetenango Mam, Mam simi, "Mam, Northern", "Qyo:l"]
+alt_names: [Huehuetenango Mam, Mam simi, "Mam, Northern", "Qyo:l", Comitancillo, Huehuetenango, Todos Santos (Cuchumatan), "B'anax Mam", Central Mam, Comitancillo Mam, Kyol, La Democracia Mam, Mam Marquense, Mam Norteño, Mam Occidental, Mam Quetzalteco, Mam Sur-Oriental, Mam Sureño, Mam de la Frontera, Mam de la Sierra, Mam del Norte, Mam del Soconusco, Mam del Sur, Comitancillo (central) Mam, Northern Mam, Southern Mam, Tajumulco Mam, Todos Santos Mam, "Mam: Huehuetenango", Mame, Ostuncalco Mam, Quetzaltenango Mam, Qyol, Qyol Mam, Qyool, San Juan Ostuncalco Mam, San Marcos Comitancillas Mam, San Marcos Comitancillo Mam, South Eastern Mam, Tacana Mam, Tacanec, Tacaneco, Tiló, Todos Santos Cuchumatán Mam, Tutuapa Mam, Western Mam]
 population: 602400
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Guatemala and Mexico
 status_id: "4"
 scope: individual
 language_type: living

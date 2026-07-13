@@ -2,10 +2,12 @@
 iso: gej
 name: Gen
 autonym: Mina
-alt_names: [Ge, Gebe, Gen-Gbe, Geneg, Guin, Mina-Gen, Popo]
+alt_names: [Ge, Gebe, Gen-Gbe, Geneg, Guin, Mina-Gen, Popo, Agoi, Anexo, Gegbe, Gliji]
 population: 590000
 country_id: TG
 country_name: Togo
+location: Benin
+area: Gbe language of Togo
 status_id: "3"
 scope: individual
 language_type: living

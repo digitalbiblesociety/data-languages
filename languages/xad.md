@@ -6,11 +6,13 @@ alt_names: [Adaes, Adahi, Adaise, Adaize, Adaizi, Adees, Adái]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 31.631402
 longitude: -92.005921
+language_map_img: 500px-Adai_language_map_with_modern_borders.webp
 glottocode: adai1235
 wikidata_id: Q346744
 wikipedia_url: "https://en.wikipedia.org/wiki/Adai_language"

@@ -6,11 +6,14 @@ alt_names: [Mokcha, Mokcheg, Moksa kiil, Mokscha-Mordwinisch, Mokscha-Mundart, M
 population: 253000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Uralic language spoken in Russia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 54.18546
 longitude: 42.67277
+language_map_img: 500px-3-Mordvin.webp
 scripts: [Cyrl]
 glottocode: moks1248
 glottolog_family_id: ural1272

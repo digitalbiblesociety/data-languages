@@ -2,10 +2,12 @@
 iso: bem
 name: Bemba
 autonym: Chibemba
-alt_names: [Bemba, Bemba language, Bemba simi, Chiwemba, Ichibemba, Wemba, Бемба]
+alt_names: [Bemba, Bemba language, Bemba simi, Chiwemba, Ichibemba, Wemba, Бемба, Chishinga, Cibemba, Icibemba, Kabende, Lembue, Lomotua, Lomotwa, Luapula, Lunda, Mukulu, Ngoma, Ngꞌumbo, Nwesi, Shila, Town Bemba, Twa of Bangweulu, Unga]
 population: 4110000
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
+area: Bantu language of northeastern Zambia
 status_id: "2"
 scope: individual
 language_type: living

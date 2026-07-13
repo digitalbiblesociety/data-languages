@@ -2,15 +2,18 @@
 iso: rej
 name: Rejang
 autonym: Baso Jang  Baso Hejang
-alt_names: [Djang, Djang Bele Tebo, Jang, Redjang, Rejang-Lebong]
+alt_names: [Djang, Djang Bele Tebo, Jang, Redjang, Rejang-Lebong, Red Jang, Rejang Lebong, Curup, Kebanagung, Kepahiang, Lebong, Musi, Pasisir, Rawas]
 population: 350000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -3.33056
 longitude: 102.43359
+language_map_img: 500px-Rejang_language.webp
 scripts: [Latn, Rjng]
 glottocode: reja1240
 glottolog_family_id: aust1307

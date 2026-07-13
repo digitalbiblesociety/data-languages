@@ -6,11 +6,14 @@ alt_names: [Batak (Toba), Batta, Toba Batak language, Toba batak]
 population: 2000000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in North Sumatra province in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 2.35498
 longitude: 99.17614
+language_map_img: 500px-Batak_languages.webp
 scripts: [Batk, Latn]
 glottocode: bata1289
 glottolog_family_id: aust1307

@@ -6,6 +6,8 @@ alt_names: [Lesu, Shansu, "勒寺帕 [ɬɛɾ55 sɿ55 pha21]", "勒寺潑 [ɬɛɾ
 population: 15000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

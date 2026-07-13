@@ -2,15 +2,18 @@
 iso: nie
 name: Niellim
 autonym: lwaà
-alt_names: [Lua, Mjillem, Nielim, Niellimeg, Nyilem]
+alt_names: [Lua, Mjillem, Nielim, Niellimeg, Nyilem, Cini, Cuni, Niou, Tchini]
 population: 1000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bua language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.70362
 longitude: 17.81346
+language_map_img: 500px-Niellim-closeup.webp
 glottocode: niel1243
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

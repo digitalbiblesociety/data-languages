@@ -6,11 +6,14 @@ alt_names: ["A'randa", Aldolanga, Aldolinga, Aranda, Aranda (Western), Arandic, 
 population: 440
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Central Australia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -24.05052
 longitude: 133.24621
+language_map_img: 500px-Arandic_languages.webp
 glottocode: west2441
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -52,3 +55,4 @@ translations:
     name: 西阿瑞伦特语
     auto: true
 ---
+Arrernte or Aranda, or sometimes referred to as Upper Arrernte, is a dialect cluster in the Arandic language group spoken in parts of the Northern Territory, Australia, by the Arrernte people. Other spelling variations are Arunta or Arrarnta, and all of the dialects have multiple other names.

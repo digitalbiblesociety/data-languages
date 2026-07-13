@@ -2,10 +2,12 @@
 iso: wnc
 name: Wantoat
 autonym: Taap
-alt_names: [Bam, Yagawak]
+alt_names: [Bam, Yagawak, Central Wantoat, Kandomin, Leron, Wapu]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language spoken in Papua New Guinea
 status_id: 8a
 scope: individual
 language_type: living

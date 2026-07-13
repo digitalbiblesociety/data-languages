@@ -2,10 +2,12 @@
 iso: kgp
 name: Kaingang
 autonym: kanhgág
-alt_names: [Bugre, Caingang, Coroado, Coroados, Kaingan, Kaingang simi, Kaingng, Kaingán, Southern, Southern Jean, Southern Jê]
+alt_names: [Bugre, Caingang, Coroado, Coroados, Kaingan, Kaingang simi, Kaingng, Kaingán, Southern, Southern Jean, Southern Jê, Caingangue, Central Kaingang, Paraná Kaingang, Southeast Kaingang, Southwest Kaingang]
 population: 18500
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Southern Je language of southern Brazil
 status_id: 6b
 scope: individual
 language_type: living

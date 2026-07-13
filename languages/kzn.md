@@ -6,6 +6,8 @@ alt_names: [Kokhola]
 population: 482000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 科科拉语
     auto: true
 ---
+Makhuwa or Mozambican is the primary Bantu language of northern Mozambique. It is spoken by roughly 5.8 million Makua people, who live north of the Zambezi River, particularly in Nampula Province, which is virtually entirely ethnically Makua. It is the most widely spoken indigenous language of Mozambique.

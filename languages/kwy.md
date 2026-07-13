@@ -3,15 +3,18 @@ iso: kwy
 macrolanguage_id: kon
 name: San Salvador Kongo
 autonym: Kikongo
-alt_names: [Cimbala-Cizali, Congo, Kikoongo, Kisikongo, "Kongo, San Salvador"]
+alt_names: [Cimbala-Cizali, Congo, Kikoongo, Kisikongo, "Kongo, San Salvador", Iwoyo]
 population: 537000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of west-central Africa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -5.33539
 longitude: 13.35865
+language_map_img: 500px-LanguageMap-Kikongo-Kituba.webp
 glottocode: sans1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -64,3 +67,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Kongo or Kikongo is one of the Bantu languages spoken by the Kongo people living in the Democratic Republic of the Congo (DRC), the Republic of the Congo, Gabon, and Angola. It is a tonal language. The vast majority of present-day speakers live in Africa. There are roughly seven million native speakers of Kongo in the above-named countries. An estimated five million more speakers use it as a second language.

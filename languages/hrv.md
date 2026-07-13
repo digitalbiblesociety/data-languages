@@ -4,15 +4,19 @@ iso639_1: hr
 macrolanguage_id: hbs
 name: Croatian
 autonym: hrvatski
+alt_names: [Burgenland Croatian, Chakavski, Ijekavski, Kaykavski, Serbian, Serbo-Croatian, Shtokavski]
 population: 5488390
 country_id: HR
 country_name: Croatia
+area: South Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 45.200602
 longitude: 16.826005
+language_map_img: hrv.webp
 scripts: [Latn]
+glottocode: croa1245
 wikidata_id: Q6654
 wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_language"
 translations:

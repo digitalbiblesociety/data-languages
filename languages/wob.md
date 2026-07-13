@@ -2,10 +2,12 @@
 iso: wob
 name: Wè Northern
 autonym: Northern Wèè
-alt_names: [Ouobe, Wobe, Wobé, Wèè]
+alt_names: [Ouobe, Wobe, Wobé, Wèè, Gbéan, Péomé, Sémien, Tao, Northern We, Wɛɛ]
 population: 265000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

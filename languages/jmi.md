@@ -6,6 +6,8 @@ alt_names: [Jimi, Jimi language]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Afro-Asiatic language of Nigeria
 status_id: "7"
 scope: individual
 language_type: living

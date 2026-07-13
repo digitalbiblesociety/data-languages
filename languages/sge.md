@@ -2,10 +2,12 @@
 iso: sge
 name: Segai
 autonym: Punan Kelai
-alt_names: [Indonesia]
+alt_names: [Indonesia, Called Segayi by the Berau, "Ga'ay", Ga’ay by the Kenyah and Kayan]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

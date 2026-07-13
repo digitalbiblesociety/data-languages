@@ -6,6 +6,7 @@ alt_names: [Aramaic, Didaneg, Galihalu, Jewish Azerbaijani Neo-Aramaic, Lakhlokh
 population: 4230
 country_id: IL
 country_name: Israel
+area: Neo-Aramaic dialect of Jews in Urmia
 status_id: "7"
 scope: individual
 language_type: living

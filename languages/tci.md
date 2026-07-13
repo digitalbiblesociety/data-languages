@@ -2,10 +2,12 @@
 iso: tci
 name: Wára
 autonym: Wára
-alt_names: [Ara, Kamindjo, Rouku, Semariji, Tjokwai, Tokwasa, Upper Morehead, Vara, Yumbar]
+alt_names: [Ara, Kamindjo, Rouku, Semariji, Tjokwai, Tokwasa, Upper Morehead, Vara, Yumbar, Wärä, Wëra]
 population: 700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

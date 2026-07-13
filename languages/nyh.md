@@ -6,6 +6,8 @@ alt_names: ["Dja:ba", Negena, Nigena, Niggene, Njigana, Njigena, Njikena, Njikin
 population: 61
 country_id: AU
 country_name: Australia
+location: Australia
+area: Nyulnyulan language spoken in Australia
 status_id: "7"
 scope: individual
 language_type: living

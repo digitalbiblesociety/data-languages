@@ -2,10 +2,12 @@
 iso: uur
 name: Ura
 autonym: null
-alt_names: [Arau, Aryau, Erromango, Ura]
+alt_names: [Arau, Aryau, Erromango, Ura, Ura (Vanuatu)]
 population: null
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living

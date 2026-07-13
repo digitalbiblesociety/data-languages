@@ -50,3 +50,4 @@ translations:
     name: 古康沃尔语
     auto: true
 ---
+Cornish is a Celtic language of the Brittonic subgroup that is native to the Cornish people and their homeland, Cornwall. Along with Welsh and Breton, Cornish descends from Common Brittonic, a language once spoken widely across Great Britain. For much of the medieval period Cornish was the main language of Cornwall, until it was gradually pushed westwards by the spread of English. Cornish remained a common community language in parts of Cornwall until the mid-18th century, and there is some evidence for traditional speakers persisting into the 19th century.

@@ -6,6 +6,8 @@ alt_names: [Ayikiben, Balaabe, Balaaben, Boritsũ, Gohum, Nyikobe, Nyikuben, Ooh
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Plateau language spoken in Nigeria
 status_id: "3"
 scope: individual
 language_type: living

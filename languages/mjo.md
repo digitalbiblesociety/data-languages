@@ -6,6 +6,8 @@ alt_names: [Mala Koravanm, Malaikuravan, Malakkuravan, Male Kuravan]
 population: 18600
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of southern India
 status_id: 6a
 scope: individual
 language_type: living

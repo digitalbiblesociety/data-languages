@@ -2,15 +2,18 @@
 iso: tpl
 name: "Tlacoapa Me'phaa"
 autonym: Me̱ꞌpha̱a̱
-alt_names: [Guerrero, "Me'pa", "Me'phaa", "Me'phaa, Tlacoapa", Mínguíín, Tlacoapa Tlapanec, Tlapanec, "Tlapanec, Tlacoapa", Tlapaneco, Tlapaneco de Tlacoapa, Tlapaneco-Sutiaba, Tlapaneko, Tlappanec]
+alt_names: [Guerrero, "Me'pa", "Me'phaa", "Me'phaa, Tlacoapa", Mínguíín, Tlacoapa Tlapanec, Tlapanec, "Tlapanec, Tlacoapa", Tlapaneco, Tlapaneco de Tlacoapa, Tlapaneco-Sutiaba, Tlapaneko, Tlappanec, Mi’phàà Minuíí Mi’pa, Mephaa, Meꞌphaa, Meꞌphaa de Tlacoapa, Tlacoapa Meꞌphaa, Miphaa, Miꞌpha̱a̱ Míŋuíí, Tenamazapa, Tlacoapa, Tlapaneco del Centro]
 population: 18000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Oto-Mangue language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.32616
 longitude: -98.80129
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: tlac1237
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -54,3 +57,4 @@ translations:
     name: 特拉科亚梅法语
     auto: true
 ---
+Tlapanec, or Meꞌphaa, is an indigenous Mexican language spoken by more than 98,000 Tlapanec people in the state of Guerrero. Like other Oto-Manguean languages, it is tonal and has complex inflectional morphology. The ethnic group themselves refer to their ethnic identity and language as Me̱ꞌpha̱a̱.

@@ -6,6 +6,7 @@ alt_names: [Barbareno, Barbareno Chumash, Chumash, Chumash (Barbareno), Chumash 
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language
 status_id: 8b
 scope: individual
 language_type: extinct

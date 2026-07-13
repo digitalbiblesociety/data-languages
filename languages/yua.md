@@ -2,15 +2,18 @@
 iso: yua
 name: Yucateco
 autonym: Maya
-alt_names: [Iucateque, Jukatek, Jurí, "Ma:ya", "Maayat'aan", Maya simi, Maya yucatèque, "Maya, Yucatec", "Maya, Yucatán", Mayathan, Peninsular Maya, Yucatec, Yucatec Maya, Yucatec Maya language, Yucatec language, Yucatec(o) Proper, Yucateeks Maya, Yucatekisk maya, Yucatán Maya, Yucatèque, Yukatek, Yukateko, Yukateko Proper, Yuri, Yurí, mayaʼ tʼàan, máayaʼ tʼáan, Мајатан]
+alt_names: [Iucateque, Jukatek, Jurí, "Ma:ya", "Maayat'aan", Maya simi, Maya yucatèque, "Maya, Yucatec", "Maya, Yucatán", Mayathan, Peninsular Maya, Yucatec, Yucatec Maya, Yucatec Maya language, Yucatec language, Yucatec(o) Proper, Yucateeks Maya, Yucatekisk maya, Yucatán Maya, Yucatèque, Yukatek, Yukateko, Yukateko Proper, Yuri, Yurí, mayaʼ tʼàan, máayaʼ tʼáan, Мајатан, Maaya, "Maaya t'aan", Maayáa, Maya Peninsular, Maya de Yucateco, Yucantán Maya]
 population: 887520
 country_id: MX
 country_name: Mexico
+location: Belize
+area: Mayan language spoken in Mexico and Belize
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 18.775675
 longitude: -88.95673
+language_map_img: Yucatec_map.svg
 scripts: [Latn]
 glottocode: yuca1254
 glottolog_family_id: maya1287

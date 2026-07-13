@@ -2,10 +2,12 @@
 iso: tpt
 name: Tlachichilco Tepehua
 autonym: West Tepehua
-alt_names: [Tepehua, Tepehua de Tlachichilco, "Tepehua, Tlachichilco", Tepehuano de Tlachichilco, Tepewa, Tlachichilco, Tlachichilco Tepewa, TlachichilcoTepewa]
+alt_names: [Tepehua, Tepehua de Tlachichilco, "Tepehua, Tlachichilco", Tepehuano de Tlachichilco, Tepewa, Tlachichilco, Tlachichilco Tepewa, TlachichilcoTepewa, Tepehua de Veracruz]
 population: 3000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Tepehua language of Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

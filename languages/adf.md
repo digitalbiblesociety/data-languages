@@ -7,11 +7,14 @@ alt_names: [Arabic, "Arabic, Dhofari", "Arabic, Dhofari Spoken", Dhofari arapski
 population: 125000
 country_id: OM
 country_name: Oman
+location: Oman
+area: Arabic variety of Oman
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.07958
 longitude: 54.48936
+language_map_img: Dhofari_Arabic.svg
 glottocode: dhof1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

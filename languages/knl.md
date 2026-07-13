@@ -6,6 +6,8 @@ alt_names: [Dayak, Kaninjal, Kaninjal Dayak]
 population: 32000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Malayic language spoken on Borneo
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: aap
 name: Pará Arára
 autonym: Pará Arára
-alt_names: [Ajujure, Arara, Arara do Para, Arara do Pará, Arara du Pará, Arara-Parirí, Arára de Pará, "Arára, Pará", Para Arara, Pariri, Parirí]
+alt_names: [Ajujure, Arara, Arara do Para, Arara do Pará, Arara du Pará, Arara-Parirí, Arára de Pará, "Arára, Pará", Para Arara, Pariri, Parirí, Arára Bravos]
 population: 200
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Cariban language spoken in Brazil
 status_id: 6a
 scope: individual
 language_type: living

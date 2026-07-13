@@ -6,11 +6,14 @@ alt_names: [Chong of Mương Kratt, Chong of Trat, Lao Song Dam, Song, Thai Song
 population: 32300
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Tai language of Thailand
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 13.2136
 longitude: 99.86509
+language_map_img: 500px-Tai_dam_language.webp
 glottocode: thai1259
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

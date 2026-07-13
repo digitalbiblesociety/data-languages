@@ -2,10 +2,12 @@
 iso: ysn
 name: Sani
 autonym: Southeastern Yi
-alt_names: [Lolo, Yi, "Yi, Sani"]
+alt_names: [Lolo, Yi, "Yi, Sani", Gni Ni, Northern Sani, Southern Sani]
 population: 100000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

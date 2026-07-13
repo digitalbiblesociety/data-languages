@@ -2,7 +2,7 @@
 iso: nwc
 name: Classical Newari
 autonym: पुलाङु नेपाल भास
-alt_names: [Classical Nepal Bhasa, "Nepal Bhasa, Classical", "Newari, Classical", "Newari, Old", Old Newari]
+alt_names: [Classical Nepal Bhasa, "Nepal Bhasa, Classical", "Newari, Classical", "Newari, Old", Old Newari, पुलाङु नेपाल भाय्]
 population: null
 country_id: NP
 country_name: Nepal

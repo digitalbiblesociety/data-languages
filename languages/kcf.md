@@ -2,10 +2,12 @@
 iso: kcf
 name: Ukaan
 autonym: "AIKA (Ayanran-Ishe-Kakumo-Auga)"
-alt_names: [Anyaran, Auga, Ikan, Kakumo]
+alt_names: [Anyaran, Auga, Ikan, Kakumo, Aika]
 population: 18000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Proposed Branch of the Volta-Niger Languages
 status_id: 6a
 scope: individual
 language_type: living

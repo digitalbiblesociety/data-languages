@@ -2,10 +2,12 @@
 iso: prx
 name: Purik
 autonym: Purigi
-alt_names: [Bhōṭiā of Purik, Burig, Burigskat, Purig, Purigskad, Purik Bhotia, Purki, Tibetan (Western)]
+alt_names: [Bhōṭiā of Purik, Burig, Burigskat, Purig, Purigskad, Purik Bhotia, Purki, Tibetan (Western), Purig-pa, Purkhi]
 population: 93500
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Tibetic language spoken in India and Pakistan
 status_id: "5"
 scope: individual
 language_type: living

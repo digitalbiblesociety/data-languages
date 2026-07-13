@@ -7,11 +7,13 @@ alt_names: [Central Min, "Chinese, Min Zhong", "Chinese,MinZhong", Min, Min Dial
 population: 3620000
 country_id: CN
 country_name: China
+location: Southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 26.06861
 longitude: 117.37571
+language_map_img: Min_dialect_map.svg
 glottocode: minz1235
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

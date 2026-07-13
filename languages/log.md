@@ -2,9 +2,12 @@
 iso: log
 name: Logo
 autonym: Logoti
+alt_names: [Bagela, Bari, Bari-Logo, Bariti, Bhagira, Doka, Lolya, Northern Logo, Obelebha, Obileba, Obilebha, Ogamaru, Ogambi]
 population: 210000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo
 status_id: "5"
 scope: individual
 language_type: living

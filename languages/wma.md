@@ -2,10 +2,11 @@
 iso: wma
 name: Mawa
 autonym: null
-alt_names: [Mawa, Nigeria]
+alt_names: [Mawa, Nigeria, Mawa (Nigeria)]
 population: null
 country_id: NG
 country_name: Nigeria
+area: "Bauchi state, Toro LGA, possibly Mara village."
 status_id: "10"
 scope: individual
 language_type: extinct

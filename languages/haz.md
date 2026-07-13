@@ -2,10 +2,12 @@
 iso: haz
 name: Hazaragi
 autonym: هزارگی
-alt_names: [Azargi, Hazara, Hazarageg, Hazaras, "Hezare'I", Hezareh, گویش هزارگی]
+alt_names: [Azargi, Hazara, Hazarageg, Hazaras, "Hezare'I", Hezareh, گویش هزارگی, Hazaraghi]
 population: 3628900
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Persian dialect spoken by the Hazara people
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,11 +5,13 @@ autonym: Injinoo
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -12.06792
 longitude: 142.13487
+glottocode: urad1239
 wikidata_id: Q3915680
 wikipedia_url: "https://en.wikipedia.org/wiki/Uradhi_language"
 translations:

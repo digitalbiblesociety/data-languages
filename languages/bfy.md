@@ -2,15 +2,18 @@
 iso: bfy
 name: Bagheli
 autonym: बघेली
-alt_names: [Bagelkhandi, Bhugelkhud, Gangai, Kawathi, Kenat, Kevat Boli, Kevati, Kewani, Kewat, Kewati, Kewot, Mandal, Mannadi, Riwai]
+alt_names: [Bagelkhandi, Bhugelkhud, Gangai, Kawathi, Kenat, Kevat Boli, Kevati, Kewani, Kewat, Kewati, Kewot, Mandal, Mannadi, Riwai, Godwani Kawathi, Kumhari, Godwani, Rewa]
 population: 2680000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 24.683745
 longitude: 87.49944
+language_map_img: India_Bagelkhand_locator_map.svg
 scripts: [Deva]
 glottocode: bagh1251
 glottolog_family_id: indo1319

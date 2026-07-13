@@ -7,6 +7,8 @@ alt_names: [Malay (Ulu Muar), Minangkabau, Orang Negeri, Ulu Muar Malay]
 population: 508000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austronesian language
 status_id: 6b
 scope: individual
 language_type: living

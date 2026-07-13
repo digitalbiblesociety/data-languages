@@ -5,6 +5,7 @@ autonym: Southern Maric
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -52,3 +53,4 @@ translations:
     name: 扬季巴拉语
     auto: true
 ---
+Bidjara, also spelt Bidyara or Pitjara, is an Australian Aboriginal language. In 1980, it was spoken by 20 elders in Queensland between the towns of Tambo and Augathella, or the Warrego and Langlo Rivers. There are many dialects of the language, including Gayiri and Gunggari. Some of them are being revitalised and are being taught in local schools in the region. The various dialects are not all confirmed or agreed by linguists.

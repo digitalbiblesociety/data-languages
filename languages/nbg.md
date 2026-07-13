@@ -6,6 +6,7 @@ alt_names: [Gonḍi, Gōṇḍī, Nagarchi]
 population: null
 country_id: IN
 country_name: India
+area: Dravidian language spoken in India
 status_id: "10"
 scope: individual
 language_type: living

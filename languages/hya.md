@@ -6,6 +6,8 @@ alt_names: [Hyaeg, Za]
 population: 940
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: keh
 name: Keak
 autonym: Kwaruwikwundi
-alt_names: [Gaikunti, Kwongai, Sawos, Sepik Plains, Tshuosh, Tshwosh]
+alt_names: [Gaikunti, Kwongai, Sawos, Sepik Plains, Tshuosh, Tshwosh, Mevembet]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Ndu language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

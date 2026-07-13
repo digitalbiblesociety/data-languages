@@ -2,10 +2,12 @@
 iso: klu
 name: Klao
 autonym: Kru
-alt_names: [Klaoh, Klau, Krawi, Kroo]
+alt_names: [Klaoh, Klau, Krawi, Kroo, Central Klaoh, Eastern Klaoh, West Central Klaoh, Western Klaoh]
 population: 400000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language spoken in Liberia
 status_id: "5"
 scope: individual
 language_type: living

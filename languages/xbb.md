@@ -6,9 +6,11 @@ alt_names: ["Burdekin, Lower"]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct unclassified languages of Australia
 status_id: null
 scope: individual
 language_type: extinct
+language_map_img: 500px-Lower_Burdekin_languages.webp
 wikidata_id: Q6693353
 wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Burdekin_languages"
 translations:

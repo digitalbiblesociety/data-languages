@@ -7,6 +7,8 @@ alt_names: [Eastern Sapoteko, Eastern Zapotec, Petapa, Transyautepecan Zapotec, 
 population: 220
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zapotecan language of the isthmus of Mexico
 status_id: 6b
 scope: individual
 language_type: living

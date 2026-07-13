@@ -2,14 +2,18 @@
 iso: bvy
 name: Baybayanon
 autonym: Utudnon
+alt_names: [Leyte]
 population: 10000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bisayan language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.6956
 longitude: 124.8086
+language_map_img: 500px-Baybay_language_map.webp
 glottocode: bayb1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

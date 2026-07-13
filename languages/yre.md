@@ -2,10 +2,12 @@
 iso: yre
 name: Yaouré
 autonym: null
-alt_names: [Yaoure, Yaure, Yohowré, Youré]
+alt_names: [Yaoure, Yaure, Yohowré, Youré, Bhoo, Klan, Taan, Yaan, Yoo, Yɔwlɛ]
 population: 40000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

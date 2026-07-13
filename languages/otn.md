@@ -2,10 +2,11 @@
 iso: otn
 name: Tenango Otomi
 autonym: Highland Otomi
-alt_names: [Othomí, Otomi, "Otomi, Tenango", Otomí, Otomí de Mezquital, Otomí de Tenango, Otomí de la Sierra, Otomí del valle de Mezquital]
+alt_names: [Othomí, Otomi, "Otomi, Tenango", Otomí, Otomí de Mezquital, Otomí de Tenango, Otomí de la Sierra, Otomí del valle de Mezquital, Tenango, Ñųhų]
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 特南戈奥托米语
     auto: true
 ---
+Sierra Otomi a.k.a. Highland Otomi is a dialect cluster of the Otomi language spoken in Mexico by ca. 70,000 people in the highlands of Eastern Hidalgo, Western Veracruz and Northern Puebla. The speakers themselves call the language Yųhų or Ñųhų. Lastra 2001 classifies it as an Eastern Otomi language together with Ixtenco Otomi, Tilapa Otomi, and Acazulco Otomi. The three varieties of Sierra Otomi—Eastern Highland, Texcatepec, and Tenango—are above 70% lexically similar; the Eastern Highland dialects are above 80%, and will be considered here.

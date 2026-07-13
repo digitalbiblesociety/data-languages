@@ -6,6 +6,8 @@ alt_names: [East Angal, North Mendi]
 population: 18600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Engan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -65,3 +67,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Southern Highlands"
 ---
+Angal, or Mendi, is an Engan language complex of the Southern Highlands province of Papua New Guinea.

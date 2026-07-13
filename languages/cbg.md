@@ -6,11 +6,14 @@ alt_names: [Chamila, Chimile, Ette Ennaka, Ette Taara, San Jorge, Shimizya, Simi
 population: 2000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chibchan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 10.19016
 longitude: -74.25585
+language_map_img: Chimila.webp
 glottocode: chim1309
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

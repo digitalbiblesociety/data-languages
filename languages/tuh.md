@@ -6,6 +6,8 @@ alt_names: [Butam, Neu-Pommern, Taulil-butam]
 population: 800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: East New Britain language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

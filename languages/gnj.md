@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: VU
 country_name: Vanuatu
+area: Mande language of Ivory Coast
 status_id: null
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 恩根语
     auto: true
 ---
+Ngen, or Shark Bay, is one of the East Santo languages group of languages. It is spoken on Espiritu Santo in Vanuatu. It has about 450 speakers. It is close geographically and linguistically to the now dormant Lorediakarkar.

@@ -6,11 +6,13 @@ alt_names: [Munichi, Munichino, Otanabe, Otanave, Otonabe, Paranapura]
 population: 2023
 country_id: PE
 country_name: Peru
+area: Extinct language of Peru
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -5.80546
 longitude: -76.28113
+language_map_img: 500px-Muniche_language.webp
 glottocode: muni1258
 wikidata_id: Q3915654
 wikipedia_url: "https://en.wikipedia.org/wiki/Muniche_language"

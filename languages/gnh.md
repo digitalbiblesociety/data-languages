@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 16328
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Endangered Kainji dialect cluster of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

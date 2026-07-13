@@ -2,10 +2,12 @@
 iso: bmo
 name: Bambalang
 autonym: Chrambo
-alt_names: [Bambolang, Mboyakum, Tshirambo]
+alt_names: [Bambolang, Mboyakum, Tshirambo, Chirambo, Mbawyakum]
 population: 29000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

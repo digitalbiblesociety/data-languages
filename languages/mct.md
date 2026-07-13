@@ -2,14 +2,18 @@
 iso: mct
 name: Mengisa
 autonym: Mangisa
+alt_names: [Mengisa-Njowe]
 population: 20000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 4.5932
 longitude: 11.39465
+glottocode: meng1263
 wikidata_id: Q35917
 wikipedia_url: "https://en.wikipedia.org/wiki/Mengisa_language"
 translations:

@@ -2,15 +2,18 @@
 iso: ken
 name: Kenyang
 autonym: Nyang
-alt_names: [Banjangi, Banyang, Banyangi, Bayangi, "Lower Kenyang, Upper Kenyang", Manyang]
+alt_names: [Banjangi, Banyang, Banyangi, Bayangi, "Lower Kenyang, Upper Kenyang", Manyang, Bakoni, Bas-Kenyang, Haut-Kenyang, Kicwe, Kitwii, Kɛnyaŋ, Lower Kenyang, Manyeman, Manyemen, Northern Balong, Twii, Upper Balong, Upper Kenyang]
 population: 65000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Mamfe language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 5.58288
 longitude: 9.55918
+language_map_img: Map_of_the_Mamfe_languages.webp
 scripts: [Latn]
 glottocode: keny1279
 glottolog_family_id: atla1278

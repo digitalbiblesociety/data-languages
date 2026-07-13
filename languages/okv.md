@@ -2,10 +2,12 @@
 iso: okv
 name: Orokaiva
 autonym: Orokaivic
-alt_names: [Ehija, Etija, Kaiva, Ke, Orakaiva]
+alt_names: [Ehija, Etija, Kaiva, Ke, Orakaiva, Harava, Ifane, Ihane, Kokoda, Sohe, Sose]
 population: 35000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Binanderean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

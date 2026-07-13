@@ -3,15 +3,18 @@ iso: dan
 iso639_1: da
 name: Danish
 autonym: dansk
-alt_names: [An Danmhairgis, Central Danish, Dan simi, Dan tili, Danca, Daneg, Danek, Daniana linguo, Daniera, Danois, Danouès, Danska, Danvargish, Danès, Danés, Deens, Deensk, Denisc sprǣc, Dens leid, Dánskkagiella, Dänisch, Dänisk, Däänsche Spraak, IsiDenishi, Kidenmark, Lèngoa daneïse, Qallunaatut, Sjaelland, Tok Denmak, Łéngua danéxe, Данмудн келн, Данонь кяль, Датчан йылме, Забони даниягӣ, Դանիերեն, דנית, دانىش تىلى]
+alt_names: [An Danmhairgis, Central Danish, Dan simi, Dan tili, Danca, Daneg, Danek, Daniana linguo, Daniera, Danois, Danouès, Danska, Danvargish, Danès, Danés, Deens, Deensk, Denisc sprǣc, Dens leid, Dánskkagiella, Dänisch, Dänisk, Däänsche Spraak, IsiDenishi, Kidenmark, Lèngoa daneïse, Qallunaatut, Sjaelland, Tok Denmak, Łéngua danéxe, Данмудн келн, Данонь кяль, Датчан йылме, Забони даниягӣ, Դանիերեն, דנית, دانىش تىلى, Danske, Rigsdansk, Bornholmian, Bornholmsk, Eastern Danish, Insular Danish, Island Danish, Jutish, Jutlandic, Jutlandish, Jysk, Southern Jutish, Sønderjysk, Western Danish]
 population: 5618130
 country_id: DK
 country_name: Denmark
+location: "Denmark, Finland, Norway and Sweden"
+area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 54.8655
 longitude: 9.36284
+language_map_img: dan.webp
 scripts: [Latn]
 glottocode: dani1285
 glottolog_family_id: indo1319

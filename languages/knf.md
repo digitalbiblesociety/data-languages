@@ -2,10 +2,12 @@
 iso: knf
 name: Mankanya
 autonym: "Mancanha, Mancagne, Mankaañ"
-alt_names: [Bola, Mancagne, Mancang, Mancanha, Mancaña, Mankan, Mankanha, Mankanyeg]
+alt_names: [Bola, Mancagne, Mancang, Mancanha, Mancaña, Mankan, Mankanha, Mankanyeg, Mankaañ, Uhula, Uwoh]
 population: 96460
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: "Bak language of Guinea-Bissau, Senegal and The Gambia"
 status_id: "5"
 scope: individual
 language_type: living

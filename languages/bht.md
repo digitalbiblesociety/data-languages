@@ -2,10 +2,12 @@
 iso: bht
 name: Bhattiyali
 autonym: Bhateali
-alt_names: [Bhatiali Pahari, Bhatiyali]
+alt_names: [Bhatiali Pahari, Bhatiyali, Pahari]
 population: 24000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Western Pahari language of northern India
 status_id: 6a
 scope: individual
 language_type: living

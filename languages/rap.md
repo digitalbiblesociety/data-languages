@@ -6,6 +6,8 @@ alt_names: [Easter Island, Lhéngua rapa nui, Pascuense, Rapa Nui, Rapa Nui lang
 population: 2200
 country_id: CL
 country_name: Chile
+location: Argentina and Chile
+area: Polynesian language of Rapa Nui (Easter Island)
 status_id: 6b
 scope: individual
 language_type: living

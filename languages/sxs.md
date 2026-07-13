@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 12500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: "Edoid language of Edo State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living

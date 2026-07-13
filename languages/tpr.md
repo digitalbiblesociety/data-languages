@@ -6,6 +6,8 @@ alt_names: [Tupari]
 population: 300
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language of northwestern Brazil
 status_id: 8a
 scope: individual
 language_type: living

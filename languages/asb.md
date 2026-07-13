@@ -6,6 +6,8 @@ alt_names: [Asiniboineg, Asinibóin (Estados Unidos), Assinaboin, Assiniboin, Es
 population: 250
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: Dakotan language spoken in North America
 status_id: 8a
 scope: individual
 language_type: living

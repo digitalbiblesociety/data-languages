@@ -2,10 +2,11 @@
 iso: mid
 name: Mandaic
 autonym: Mandɔyí
-alt_names: ["Manda:yi", Mandaean, Mandeo, Mandi, Mandéen, Modern Mandaic, Neo-Mandaic, "Sabe'in", Sabean, Subbi]
+alt_names: ["Manda:yi", Mandaean, Mandeo, Mandi, Mandéen, Modern Mandaic, Neo-Mandaic, "Sabe'in", Sabean, Subbi, Sabe’in]
 population: 23000
 country_id: IQ
 country_name: Iraq
+area: Modern Mandaean language from West Asia
 status_id: "7"
 scope: individual
 language_type: living

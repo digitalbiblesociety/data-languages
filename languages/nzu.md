@@ -2,14 +2,18 @@
 iso: nzu
 name: "Teke-Nzikou"
 autonym: Eboo
+alt_names: [Njiunjiu, Njyunjyu]
 population: null
 country_id: CG
 country_name: Congo
+location: Congo
+area: Teke language of Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -2.65261
 longitude: 15.2047
+glottocode: teke1279
 wikidata_id: Q36606
 translations:
   - translation_iso: ara
@@ -47,3 +51,4 @@ translations:
     name: 特克-恩齐库语
     auto: true
 ---
+Central Teke is a member of the Teke languages dialect continuum of the Congolese plateau. Central Teke dialects are Ngungwel and Mpu (Mpumpum), Boo, and Nzikou (Njyunjyu/Ndzindziu). They are spoken in the Malebo Pool region of the Republic of Congo, with an unknown number of Boo speakers in DRC.

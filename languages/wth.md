@@ -6,11 +6,13 @@ alt_names: [Wada wurrung, Wadawio, Waddorow, Wadhaurung, Wadjawuru, Wadourer, Wa
 population: null
 country_id: AU
 country_name: Australia
+area: "Australian language of Victoria, Australia"
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -37.68777565
 longitude: 144.1013148
+language_map_img: Kulin_Map.webp
 glottocode: wath1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

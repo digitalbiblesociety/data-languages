@@ -3,10 +3,12 @@ iso: zad
 macrolanguage_id: zap
 name: Cajonos Zapotec
 autonym: "Zapoteco, Yaganiza"
-alt_names: [Rincón, Sierra de Villa Alta, Southern Sapoteko, Southern Villa Alta Zapotec, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Cajonos", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro Cajonos, "Zapotèque d'Asunción Tlacolulita", dill xhon]
+alt_names: [Rincón, Sierra de Villa Alta, Southern Sapoteko, Southern Villa Alta Zapotec, Villalta (non-preferred), Yalálog, Zapotec, "Zapotec, Cajonos", Zapoteco de Asunción Tlacolulita, Zapoteco de San Pedro Cajonos, "Zapotèque d'Asunción Tlacolulita", dill xhon, Cajonos, Zapoteco, Yaganiza, San Mateo Zapotec, Xagacía Zapotec, Yaganiza Zapotec, didza-xhon]
 population: 5000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

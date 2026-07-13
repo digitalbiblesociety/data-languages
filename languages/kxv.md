@@ -2,10 +2,12 @@
 iso: kxv
 name: Kuvi
 autonym: Kuwi
-alt_names: [Jatapu, Khondh, Khondi, Kond, Kouvi, Kuvi Kond, Kuvinga]
+alt_names: [Jatapu, Khondh, Khondi, Kond, Kouvi, Kuvi Kond, Kuvinga, Dongria Khond, Odisha Kuvi, Laxmipur, Rayagada]
 population: 176000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

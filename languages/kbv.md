@@ -6,6 +6,8 @@ alt_names: [Dera, Dla, Duka-Ekor, Kamberataro, Kamberatoro, Komberatoro, Manggua
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Senagi language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

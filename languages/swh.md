@@ -7,11 +7,14 @@ alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Su
 population: 16335000
 country_id: TZ
 country_name: Tanzania
+location: Kenya
+area: Bantu language spoken mainly in East Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -8.256053
 longitude: 37.624033
+language_map_img: Maeneo_penye_wasemaji_wa_Kiswahili.webp
 glottocode: swah1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

@@ -6,6 +6,8 @@ alt_names: [Ayta, Ayta de Bataan, Ayta du Bataan, "Ayta, Bataan", "Ayta, Magbuku
 population: 1000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living

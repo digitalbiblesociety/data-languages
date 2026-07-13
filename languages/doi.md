@@ -2,6 +2,7 @@
 iso: doi
 name: Dogri
 autonym: null
+alt_names: [Dogri (macrolanguage)]
 population: 3720000
 country_id: IN
 country_name: India
@@ -36,3 +37,4 @@ translations:
   - translation_iso: zho
     name: 多格拉语
 ---
+Dogri is an Indo-Aryan language of the Western Pahari group, primarily spoken by the Dogra people native to the Jammu Division of India's Jammu and Kashmir; with smaller groups of speakers in the adjoining regions of the Indian states of Himachal Pradesh and Punjab, as well as Pakistan-administered Azad Kashmir and the Pakistani province of Punjab.

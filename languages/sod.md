@@ -2,10 +2,12 @@
 iso: sod
 name: Songoora
 autonym: North Binja
-alt_names: [Binja, Kesongola, Songola, Sonγai]
+alt_names: [Binja, Kesongola, Songola, Sonγai, Gengele, Kegengele]
 population: 1300
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

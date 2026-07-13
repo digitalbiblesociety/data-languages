@@ -2,9 +2,12 @@
 iso: vrs
 name: Varisi
 autonym: Varese
+alt_names: [Ghone]
 population: 5160
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

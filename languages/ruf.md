@@ -2,10 +2,11 @@
 iso: ruf
 name: Luguru
 autonym: Ikiruguru
-alt_names: [Guru, Kiluguru, Kiruguru, Lugulu, Ruguru]
+alt_names: [Guru, Kiluguru, Kiruguru, Lugulu, Ruguru, Lughuru, Cilugulu]
 population: 404000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living

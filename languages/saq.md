@@ -2,10 +2,12 @@
 iso: saq
 name: Samburu
 autonym: " ɔl Maa"
-alt_names: [Burkeneji, E Lokop, Lokop, Nkutuk, Sambouroueg, Sambur, Sampur]
+alt_names: [Burkeneji, E Lokop, Lokop, Nkutuk, Sambouroueg, Sambur, Sampur, Chamus, Ilcamus, Ilchamus, Njemps]
 population: 366000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Dialect of the Maa language
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Lamassa, Lambom, Siar]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living

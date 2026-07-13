@@ -6,6 +6,8 @@ alt_names: [Crongo, Kadumodi, Korongo, Kurungu, Nuba, Tabanya]
 population: 21700
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: "Kadu language of Kordofan, Sudan"
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: cjm
 name: Eastern Cham
 autonym: Bhamam
-alt_names: [Bình Thuân, Cham, Cham (East), Cham (Eastern), "Cham de l'est", "Cham, Eastern", Chamo oriental, Chiem, Chiem ThÃ nh, Phan Rang Cham, Tjam]
+alt_names: [Bình Thuân, Cham, Cham (East), Cham (Eastern), "Cham de l'est", "Cham, Eastern", Chamo oriental, Chiem, Chiem ThÃ nh, Phan Rang Cham, Tjam, Chiem Thành]
 population: 72900
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language of Vietnam and Cambodia
 status_id: 6b
 scope: individual
 language_type: living

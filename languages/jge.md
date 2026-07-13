@@ -5,11 +5,13 @@ autonym: ყივრული Kivruli
 population: 85000
 country_id: IL
 country_name: Israel
+area: Georgian dialect spoken by Georgian Jews
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 31.5
 longitude: 34.75
+glottocode: jude1258
 wikidata_id: Q35737
 wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Georgian"
 translations:

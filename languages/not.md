@@ -2,10 +2,12 @@
 iso: not
 name: Nomatsiguenga
 autonym: inato
-alt_names: ["\"Nomatsiguenga Campa\"", Atiri, Campa, Machinguenga, "Nomachiguenga: Atiri", Nomatsigenga, Nomatsiguenga Campa]
+alt_names: ["\"Nomatsiguenga Campa\"", Atiri, Campa, Machinguenga, "Nomachiguenga: Atiri", Nomatsigenga, Nomatsiguenga Campa, “Nomatsiguenga Campa”, Inaꞌo, Inthome, Intsome]
 population: 8020
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

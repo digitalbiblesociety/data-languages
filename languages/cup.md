@@ -6,6 +6,7 @@ alt_names: [Agua Caliente, Cupeno]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Uto-Aztecan language of California
 status_id: "9"
 scope: individual
 language_type: extinct

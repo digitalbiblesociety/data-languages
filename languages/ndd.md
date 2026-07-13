@@ -2,15 +2,18 @@
 iso: ndd
 name: "Nde-Nsele-Nta"
 autonym: Nde
-alt_names: [Nigeria]
+alt_names: [Nigeria, Afunatam, Atam, Befon, Ekamtulufu, Mbenkpe, Mbofon, Nsele, Nselle, Nta, Udom]
 population: 12000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 6.17426
 longitude: 8.49836
+language_map_img: Map_of_the_Ekoid_languages.webp
 glottocode: nden1250
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

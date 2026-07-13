@@ -2,10 +2,12 @@
 iso: mxq
 name: Juquila Mixe
 autonym: Central Mixe
-alt_names: [Cacalotepec, Juquila, Midland Mije, Mije, Mixe, "Mixe, Juquila", Oaxaca Mije, South Central Mixe, South Midland Mixe]
+alt_names: [Cacalotepec, Juquila, Midland Mije, Mije, Mixe, "Mixe, Juquila", Oaxaca Mije, South Central Mixe, South Midland Mixe, Ayuk, Mixe de Ocotepec, Ocotepec Mixe]
 population: 8000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -69,3 +71,5 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Mixe"
 ---
+Midland a.k.a. Central Mixe is a Mixe language spoken in Mexico. According to Wichmann (1995), there are two groups of dialects:NorthJaltepec, Puxmetecán, Atitlán, Matamoros, Cotzocón
+SouthJuquila, Cacalotepec

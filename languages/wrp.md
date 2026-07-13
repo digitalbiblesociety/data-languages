@@ -2,10 +2,12 @@
 iso: wrp
 name: Waropen
 autonym: Aropen
-alt_names: [Wonti, Worpen]
+alt_names: [Wonti, Worpen, Ambumi, Napan, Waropen Kai]
 population: 6000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language
 status_id: "7"
 scope: individual
 language_type: living

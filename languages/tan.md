@@ -2,15 +2,18 @@
 iso: tan
 name: Tangale
 autonym: Tangle
-alt_names: [Tanagale]
+alt_names: [Tanagale, Biliri, Kaltungo, Tangale East, Tangale West]
 population: 258000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.75444
 longitude: 11.32278
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
 glottocode: nucl1696
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

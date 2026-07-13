@@ -2,10 +2,12 @@
 iso: sbc
 name: Kele
 autonym: "Gele'"
-alt_names: [Admiralitäts-inseln, Ere-Lele-Gele-Kuruti, Gele, Kele, Kele language]
+alt_names: [Admiralitäts-inseln, Ere-Lele-Gele-Kuruti, Gele, Kele, Kele language, "Gele'", Gele’]
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Manus language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

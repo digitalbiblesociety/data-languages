@@ -6,11 +6,13 @@ alt_names: ["Fars, Northwestern"]
 population: 7500
 country_id: IR
 country_name: Iran
+area: Scattered in isolated pockets of Fars Province.
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 29.643
 longitude: 52.925
+glottocode: nort2640
 wikidata_id: Q7060307
 wikipedia_url: "https://en.wikipedia.org/wiki/Northwestern_Fars_language"
 translations:

@@ -6,6 +6,7 @@ alt_names: [Tonga]
 population: null
 country_id: TO
 country_name: Tonga
+area: Polynesian language spoken in Tonga
 status_id: null
 scope: individual
 language_type: extinct

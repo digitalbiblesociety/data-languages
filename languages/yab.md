@@ -6,11 +6,14 @@ alt_names: ["\"Maku\"", Kariana, Macu, Macú, Maku, Makú-Yahup, Sapé, Yahup, Y
 population: 360
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Naduhup language of Colombia and Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.2485
 longitude: -69.80793
+language_map_img: Lingua_hup.webp
 glottocode: yuhu1238
 glottolog_family_id: nada1235
 glottolog_family_name: Naduhup
@@ -51,3 +54,4 @@ translations:
     name: 尤胡普语
     auto: true
 ---
+The Hup language is one of the four Naduhup languages. It is spoken by the Hupda indigenous Amazonian peoples who live on the border between Colombia and the Brazilian state of Amazonas. There are approximately 1500 speakers of the Hup language. As of 2005, according to the American linguist Patience Epps, Hup is not seriously endangered since, although the actual number of speakers is few, all Hupda children learn Hup as their first language.

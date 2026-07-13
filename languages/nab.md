@@ -2,10 +2,12 @@
 iso: nab
 name: Southern Nambikuára
 autonym: " Nambiquara"
-alt_names: [Kithãulhú, Lenguas nambicuaras, Mamaindê, Nambikuara, Nambikuára, Nambikuára meridional, "Nambikuára, Southern", Nambikwara, Nambikwara du Sud, Nambikwara language, Nambikwara-Sprachen, Nambiwara, S. Nambiquara, Southern Nambikuara, Southern Nambikuaran language area, Southern Nambikwara, Southern Nambiquara]
+alt_names: [Kithãulhú, Lenguas nambicuaras, Mamaindê, Nambikuara, Nambikuára, Nambikuára meridional, "Nambikuára, Southern", Nambikwara, Nambikwara du Sud, Nambikwara language, Nambikwara-Sprachen, Nambiwara, S. Nambiquara, Southern Nambikuara, Southern Nambikuaran language area, Southern Nambikwara, Southern Nambiquara, Alaketesu, Anunsu, Southern, Alatesu, Galera, Hahaintesu, Halotesu, Khithaulhu, Kitãulhu, Manduka, Nambicuara, Nambikwara do Sul, Sarare, Saxwentesu, Serra Azul, Waikisu, Wakalitesu, Wasusu, ki³thãu³lhu²]
 population: 720
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Indigenous language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living

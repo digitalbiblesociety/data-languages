@@ -2,10 +2,12 @@
 iso: tul
 name: Tula
 autonym: Kotule
-alt_names: [Kutule]
+alt_names: [Kutule, Baule, Ki̱tule, Yili]
 population: 50000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Savanna language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

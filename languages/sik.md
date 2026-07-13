@@ -2,14 +2,18 @@
 iso: sik
 name: Sikiana
 autonym: Kaxuiâna (Katxúyana)
+alt_names: [Chikena, Chiquena, Chiquiana, Shikiana, Sikiâna, Sikïiyana, Xikiyana, Xikujana]
 population: 12
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Carib language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 3.01294
 longitude: -57.92215
+glottocode: siki1239
 wikidata_id: Q12953626
 wikipedia_url: "https://en.wikipedia.org/wiki/Sikiana_language"
 translations:

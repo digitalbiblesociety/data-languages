@@ -2,10 +2,12 @@
 iso: zim
 name: Mesme
 autonym: Zime
-alt_names: [Djime, Djiwe]
+alt_names: [Djime, Djiwe, Bero, Zamre, Zime of Kélo]
 population: 20100
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

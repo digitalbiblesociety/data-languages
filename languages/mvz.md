@@ -2,10 +2,12 @@
 iso: mvz
 name: Mesqan
 autonym: Masqan
-alt_names: [Meskan, Misqan, Mäsqan, Mäsqän]
+alt_names: [Meskan, Misqan, Mäsqan, Mäsqän, Meqa]
 population: 25000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Semitic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

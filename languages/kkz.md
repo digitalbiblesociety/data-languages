@@ -6,6 +6,8 @@ alt_names: [Caska, "Danezāgé' (Kaska)", Eastern Nahane, Kaska Dena, Nahane, Na
 population: 400
 country_id: CA
 country_name: Canada
+location: Canada
+area: Northern Athabaskan language of the Kaska Dena people
 status_id: "7"
 scope: individual
 language_type: living

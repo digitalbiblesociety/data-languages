@@ -2,10 +2,12 @@
 iso: pny
 name: Pinyin
 autonym: Bapinyi
-alt_names: [Pelimpo]
+alt_names: [Pelimpo, Menka, Àshwəŋnə̀ Pìnyinə]
 population: 24600
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

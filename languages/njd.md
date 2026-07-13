@@ -2,14 +2,18 @@
 iso: njd
 name: Ndonde Hamba
 autonym: Chi(ni)makonde
+alt_names: [Chindonde, Chindonde Hamba, Kimawanda, Kindonde Hamba, Mawanda, Ndomde, Ndonde, Ishiwanda, Kidonde, Wanda]
 population: 10000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in East Africa
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -10.55838
 longitude: 38.12529
+glottocode: ndon1252
 wikidata_id: Q6983793
 wikipedia_url: "https://en.wikipedia.org/wiki/Ndonde_language"
 translations:

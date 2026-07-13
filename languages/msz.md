@@ -6,6 +6,7 @@ alt_names: [Momole, Mumare]
 population: 650
 country_id: PG
 country_name: Papua New Guinea
+area: Papuan language
 status_id: "9"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: ["Amami-Oshima, Northern", Amami-Osima, Northern Amami-Osima, Norther
 population: 10000
 country_id: JP
 country_name: Japan
+location: Japan
+area: Ryukyuan language spoken in Japan
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 28.20991
 longitude: 129.45346
+language_map_img: Northern_Amami_Oshima_linguistic_sameness.svg
 glottocode: nort2935
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic

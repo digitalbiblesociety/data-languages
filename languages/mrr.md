@@ -2,10 +2,12 @@
 iso: mrr
 name: Maria
 autonym: Madiya
-alt_names: [Abujmaria, Gondi (Muria), Gonḍi, Gōṇḍī, Hill Maria, Madi, Madia, Maria, Maria language, Modh, Modi]
+alt_names: [Abujmaria, Gondi (Muria), Gonḍi, Gōṇḍī, Hill Maria, Madi, Madia, Maria, Maria language, Modh, Modi, Abujhmadia, Abujhmaria, Abujmar Maria, Abujmariya, Adewada, Bhamani, Bhamani Maria, Etapally Maria]
 population: 165000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

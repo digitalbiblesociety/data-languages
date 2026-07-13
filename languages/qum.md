@@ -6,6 +6,8 @@ alt_names: [Sipacapa, Sipacapa Quiché, Sipacapansk, Sipacapeno, Sipacaperse, Si
 population: 12000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in western Guatemala
 status_id: 6b
 scope: individual
 language_type: living

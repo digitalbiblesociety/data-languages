@@ -6,6 +6,8 @@ alt_names: [Yale-Nipsan, Yali]
 population: 2500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Highland Papua
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: nod
 name: Northern Thai
 autonym: " Kam Mueangคำเมือง"
-alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ]
+alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ, “Yuan”, Kam Mu’ang, Khon, Khon Meang, Mu’ang, Mung, Tai Yon, Tai Yuan, Bandu, Kam Mueang, Kam Muꞌang, Khon Mueang, Khonmuang, Lannatai, Mueang, Muꞌang, Nan, Tai Wang]
 population: 6000000
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Thai language related to standard Thai and Lao
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 18.857495
 longitude: 100.20739
+language_map_img: nod.webp
 scripts: [Lana]
 glottocode: nort2740
 glottolog_family_id: taik1256

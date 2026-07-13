@@ -3,15 +3,18 @@ iso: bxu
 macrolanguage_id: bua
 name: China Buriat
 autonym: Buriat
-alt_names: [Bargu, Bargu Buriat, "Buriat, China", Buriat-Mongolian, Burjatisch, Buryat, Menggu, New Barghut, New Bargut, Northeastern Mongolian, Northern Mongolian, Xin Baerhu]
+alt_names: [Bargu, Bargu Buriat, "Buriat, China", Buriat-Mongolian, Burjatisch, Buryat, Menggu, New Barghut, New Bargut, Northeastern Mongolian, Northern Mongolian, Xin Baerhu, "Ba'erhu-Buliyate", Ba’erhu-Buliyate]
 population: 14000
 country_id: CN
 country_name: China
+location: China
+area: Mongolic language of Buryatia (Russia) and neighbouring areas
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 48.75926
 longitude: 117.7863
+language_map_img: 500px-Idioma_buriato.webp
 glottocode: chin1476
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
@@ -77,3 +80,4 @@ rolv_dialects:
     country_id: RU
     location: Russia
 ---
+Buryat or Buriat, known in foreign sources as the Bargu-Buryat dialect of Mongolian, and in pre-1956 Soviet sources as Buryat-Mongolian, is a variety of the Mongolic languages spoken by the Buryats and Bargas that is classified either as a language or major dialect group of Mongolian.

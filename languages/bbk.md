@@ -2,15 +2,18 @@
 iso: bbk
 name: Babanki
 autonym: Finge
-alt_names: [Kedjom, Kejeng, Kejom, Kidzem, Kidzom]
+alt_names: [Kedjom, Kejeng, Kejom, Kidzem, Kidzom, "Ga'a-Kejom", Nga-Kejom]
 population: 39000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 5.97863
 longitude: 10.28692
+language_map_img: Map_of_the_Grassfields_languages.webp
 glottocode: baba1266
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

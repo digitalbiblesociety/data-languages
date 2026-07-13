@@ -5,6 +5,8 @@ autonym: Esimbowe
 population: 2690
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language spoken in Zambia
 status_id: 6a
 scope: individual
 language_type: living

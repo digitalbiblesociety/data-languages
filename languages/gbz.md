@@ -2,10 +2,11 @@
 iso: gbz
 name: Zoroastrian Dari
 autonym: Gabri
-alt_names: ["\"Gabar\"", "\"Gabri\"", "\"Yazdi\"", Behdinan dialect, Dari, "Dari, Zoroastrian", Darí, Yazdi, Zoroastrian, Дари]
+alt_names: ["\"Gabar\"", "\"Gabri\"", "\"Yazdi\"", Behdinan dialect, Dari, "Dari, Zoroastrian", Darí, Yazdi, Zoroastrian, Дари, “Gabar”, “Gabri”, “Yazdi”, Gabar]
 population: 11500
 country_id: IR
 country_name: Iran
+area: Northwestern Iranian ethnolect
 status_id: "7"
 scope: individual
 language_type: living

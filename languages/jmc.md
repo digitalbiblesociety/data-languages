@@ -2,10 +2,12 @@
 iso: jmc
 name: Machame
 autonym: West Chaga
-alt_names: [Chaga, Chagga, Kimashami, Machambe]
+alt_names: [Chaga, Chagga, Kimashami, Machambe, Kimachame, Bosho, Hai, Ki-Mashami, Macame, Madjame, Masama, Masdama, Mashami, "Ng'uni", Shira, Siha]
 population: 195000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania spoken by the Chaga people
 status_id: "5"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ rolv_dialects:
     country_id: TZ
     location: Tanzania
 ---
+West Kilimanjaro, or West Chaga, is a Bantu language of Tanzania spoken by the Chaga people.

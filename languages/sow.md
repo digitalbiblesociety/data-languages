@@ -6,6 +6,8 @@ alt_names: [Punda-Umeda, Pundina, Waina-Sowanda, Wanja, Wanya, Wina]
 population: 1180
 country_id: PG
 country_name: Papua New Guinea
+location: "Indonesia, Eastern Papua"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

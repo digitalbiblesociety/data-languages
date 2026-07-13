@@ -6,6 +6,7 @@ alt_names: ["Algonquian, Carolina", Carolina Algonquin]
 population: null
 country_id: US
 country_name: United States
+area: Eastern-Algonquian language
 status_id: null
 scope: individual
 language_type: extinct

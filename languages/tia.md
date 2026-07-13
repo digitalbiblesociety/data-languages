@@ -6,6 +6,8 @@ alt_names: [Tamazight, "Tamazight, Tidikelt", Tidikelt, Tidikelt Berber]
 population: 9000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Zenati Berber language of Algeria
 status_id: 8b
 scope: individual
 language_type: living

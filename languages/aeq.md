@@ -5,6 +5,8 @@ autonym: آیر
 population: 150
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: 6b
 scope: individual
 language_type: living

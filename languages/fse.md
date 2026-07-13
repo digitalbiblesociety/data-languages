@@ -6,6 +6,7 @@ alt_names: [Viittomakieli]
 population: 5000
 country_id: FI
 country_name: Finland
+area: Sign language most commonly used in Finland
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: tgp
 name: Tangoa
 autonym: Mara Tatagoa
-alt_names: [Movono, Santo]
+alt_names: [Movono, Santo, South Santo]
 population: 800
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -15.56432
 longitude: 166.95814
+language_map_img: 500px-Vanuatu_-_Espiritu_Santo.webp
 glottocode: tang1347
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

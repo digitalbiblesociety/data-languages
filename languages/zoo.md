@@ -7,6 +7,8 @@ alt_names: [Asuncion Mixtepec Zapotec, Central Sapoteko, Central Zapotec, Northe
 population: 100
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: 8b
 scope: individual
 language_type: living

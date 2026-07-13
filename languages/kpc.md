@@ -2,15 +2,18 @@
 iso: kpc
 name: Curripaco
 autonym: Baniwa
-alt_names: ["\"curripaco (Colombia", "\"kurripako (Colombie", Curipaco, Curripako, Ipeka-Kurripako, Koripako, Korispaso, Kuripaco, Kurripaco, Kurripako, Pacu, Paiorience, Payualiene, "République bolivarienne du Venezuela)\"", "Venezuela)\""]
+alt_names: ["\"curripaco (Colombia", "\"kurripako (Colombie", Curipaco, Curripako, Ipeka-Kurripako, Koripako, Korispaso, Kuripaco, Kurripaco, Kurripako, Pacu, Paiorience, Payualiene, "République bolivarienne du Venezuela)\"", "Venezuela)\"", Karrupaku, Waquenia, Baniva del Isana, Baniva-Kurripako, Cadauapuritana, Coripaco, Cumata, Curripaco-Baniva, Enhen, Ipeca, Ipeka-Tapuia, Karupaka, Korripako, Kuripako, Kúrrim, Paku-Tapuya, Palioariene, Pato Tapuia, Pato-Tapuya, Payuliene, Unhun, Veliperi, Wakuénai, Waliperi, Yaverete-Tapuya, Âja-Kurri, Êje-Kjénim, Ôjo-Kjárru]
 population: 12540
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Arawakan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.69618
 longitude: -67.50277
+language_map_img: 500px-Baniwa.webp
 glottocode: curr1243
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

@@ -3,10 +3,12 @@ iso: zpv
 macrolanguage_id: zap
 name: Chichicapan Zapotec
 autonym: (San Baltazar Chichicápam)
-alt_names: [Central Sapoteko, Central Valley Zapotec, Central Valley Zapotec dialect continuum, Eastern OcotlÃ¡n Zapotec, Ocotec, Quiatoni Zapotec, Tlacolula Valley Zapotec, Zapotec, "Zapotec, Chichicapan", Zapoteco de San Baltazar Chichicapan, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan]
+alt_names: [Central Sapoteko, Central Valley Zapotec, Central Valley Zapotec dialect continuum, Eastern OcotlÃ¡n Zapotec, Ocotec, Quiatoni Zapotec, Tlacolula Valley Zapotec, Zapotec, "Zapotec, Chichicapan", Zapoteco de San Baltazar Chichicapan, Zapoteco de San Felipe Tejalápam, Zapotèque de San Felipe Tejalapan, Eastern Ocotlán Zapotec, Chichicapan, Zapoteco, San Baltazar Chichicapan, Chichicapam Zapotec, Zapoteco de San Baltazar, Zapoteco del Este de Ocotlán]
 population: 2720
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

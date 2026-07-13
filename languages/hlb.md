@@ -2,15 +2,18 @@
 iso: hlb
 name: Halbi
 autonym: ହଲବୀ
-alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Mahari, Mehari]
+alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Mahari, Mehari, Adkuri, Bhunjia, Chandari, Gachikolo, Govari of Balaghat, Holva, Kawari, Kunbi, Mahara, Muri, Muria, Sundi]
 population: 766000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language spoken in India
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 20.30812
 longitude: 81.37417
+language_map_img: 500px-Halbi_map.webp
 glottocode: halb1244
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

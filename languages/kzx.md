@@ -6,6 +6,7 @@ alt_names: [Seruawan]
 population: null
 country_id: ID
 country_name: Indonesia
+area: "Extinct language formerly spoken in Maluku, Indonesia"
 status_id: "9"
 scope: individual
 language_type: extinct

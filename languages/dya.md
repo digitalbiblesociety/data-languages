@@ -2,10 +2,12 @@
 iso: dya
 name: Dyan
 autonym: Dan
-alt_names: [Dian, Dya, Dyane, Dyanu]
+alt_names: [Dian, Dya, Dyane, Dyanu, Zanga]
 population: 14100
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

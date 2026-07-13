@@ -2,9 +2,12 @@
 iso: shd
 name: Kundal Shahi
 autonym: کنڈل شاہی
+alt_names: [Rawri]
 population: 3371
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language of Pakistan
 status_id: "7"
 scope: individual
 language_type: living

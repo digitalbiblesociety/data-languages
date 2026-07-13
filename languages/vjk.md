@@ -5,6 +5,7 @@ autonym: बज्जिका‎
 population: 33000000
 country_id: IN
 country_name: India
+area: Bihari language of India and Nepal
 status_id: null
 scope: individual
 language_type: living

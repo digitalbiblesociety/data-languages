@@ -6,6 +6,8 @@ alt_names: [Banks-Inseln, Karen]
 population: 34
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Papuan language of Papua New Guinea
 status_id: 8a
 scope: individual
 language_type: living

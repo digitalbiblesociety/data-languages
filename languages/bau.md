@@ -2,10 +2,12 @@
 iso: bau
 name: Bada
 autonym: "Bada'"
-alt_names: [Bada, Badanchi, Badawa, Bat, Garaka, Jar, Jarawan Kogi, Kanna, Mbada, Mbadawa, Mbat, Plains Jarawa, River Jarawa]
+alt_names: [Bada, Badanchi, Badawa, Bat, Garaka, Jar, Jarawan Kogi, Kanna, Mbada, Mbadawa, Mbat, Plains Jarawa, River Jarawa, "Bada'"]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Plateau"
 ---
+Jarawa is the most populous of the Jarawan languages of northern Nigeria. It is a dialect cluster consisting of many varieties.

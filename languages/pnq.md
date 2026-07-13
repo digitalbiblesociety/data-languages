@@ -6,6 +6,8 @@ alt_names: [Pana]
 population: 5000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso and Mali
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Lutkuhwar, Munyaní, Yidga, Yidgeg, Yudga, Yudgha]
 population: 6150
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Pamiri language spoken in Pakistan
 status_id: 6b
 scope: individual
 language_type: living

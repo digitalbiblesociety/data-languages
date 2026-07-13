@@ -2,10 +2,12 @@
 iso: mrq
 name: North Marquesan
 autonym: ʻEo ʻenana / ʻEo ʻenata
-alt_names: [Marquesan, "Marquesan, North", Marquesas]
+alt_names: [Marquesan, "Marquesan, North", Marquesas, "Eo 'Enana"]
 population: 3400
 country_id: PF
 country_name: French Polynesia
+location: French Polynesia
+area: Polynesian language spoken in the Marquesas of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living

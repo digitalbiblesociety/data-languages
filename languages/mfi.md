@@ -2,10 +2,12 @@
 iso: mfi
 name: Wandala
 autonym: Mandara
-alt_names: [Gamergu, Malgwa, Mandara Montagnard, Ndara]
+alt_names: [Gamergu, Malgwa, Mandara Montagnard, Ndara, Duwe, Gamargu, Gamergou, Gwanje, Jampalam, Kamburwama, Kirawa, Kirdi-Mora, Malgo, Masfeima, Mazagwa, Mora Brousse, Mora Massif, Mura, Ziogba]
 population: 43500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: nut
 name: Nung
 autonym: "Bu-Nong"
-alt_names: [Highland Nung, Lungchow, Nong, Nung, Nung (in Vietnam), Nung Fan Slihng, Tai Nung, Tay, Tày Nùng, Zhuang (Southern)]
+alt_names: [Highland Nung, Lungchow, Nong, Nung, Nung (in Vietnam), Nung Fan Slihng, Tai Nung, Tay, Tày Nùng, Zhuang (Southern), Giang, Guiren, Khen Lài, Nùng An, Nùng Cháo, Nùng Fan Slihng, Nùng Inh, Nùng Lòi, Nùng Phan Slình, Nùng Qúy Rin, Xuòng]
 population: 969000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Tai language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 20.8965
 longitude: 104.28585
+language_map_img: 500px-Nung.webp
 glottocode: nung1283
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

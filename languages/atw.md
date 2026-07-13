@@ -6,6 +6,7 @@ alt_names: [Hat Creek]
 population: 1350
 country_id: US
 country_name: United States
+area: Extinct Palaihnihan language
 status_id: "9"
 scope: individual
 language_type: living

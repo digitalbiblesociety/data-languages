@@ -6,6 +6,8 @@ alt_names: [Oirateg]
 population: 1220
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Timor–Alor–Pantar language
 status_id: "7"
 scope: individual
 language_type: living

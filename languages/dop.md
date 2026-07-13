@@ -2,10 +2,12 @@
 iso: dop
 name: Lukpa
 autonym: Lokpa
-alt_names: [Dompago, Legba, Logba, Lugba]
+alt_names: [Dompago, Legba, Logba, Lugba, Yoa-Lokpa]
 population: 157900
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language spoken in Benin and Togo
 status_id: "5"
 scope: individual
 language_type: living

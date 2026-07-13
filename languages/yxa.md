@@ -5,6 +5,7 @@ autonym: Maiawali
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +47,4 @@ translations:
     name: 玛亚瓦利语
     auto: true
 ---
+Pitta Pitta is an extinct Australian Aboriginal language. It was spoken around Boulia, Queensland.

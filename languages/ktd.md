@@ -6,11 +6,14 @@ alt_names: [Aluna, Cocotah, Cookutta, Geebera, Gogada, Gogoda, Gugada, Gugadja, 
 population: 16
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Australian Aboriginal languages
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -31.20523
 longitude: 136.81262
+language_map_img: 500px-Wati_languages.webp
 glottocode: koka1244
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

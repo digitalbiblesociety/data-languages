@@ -3,10 +3,12 @@ iso: bgn
 macrolanguage_id: bal
 name: Western Balochi
 autonym: بلۏچی  Balòci
-alt_names: ["Balochi, Western", Baloci, Baluchi, Baluci, Balutschi]
+alt_names: ["Balochi, Western", Baloci, Baluchi, Baluci, Balutschi, Lashari, Rakhshani, Raxshani, Sarawani, Yarahmadza]
 population: 2249850
 country_id: PK
 country_name: Pakistan
+location: Afghanistan
+area: Western Iranian language
 status_id: "4"
 scope: individual
 language_type: living

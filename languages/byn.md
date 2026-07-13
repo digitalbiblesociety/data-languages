@@ -2,10 +2,12 @@
 iso: byn
 name: Bilin
 autonym: ብሊና
-alt_names: [Agaw, Balen, Belen, Beleni, Bilayn, Bilein, Bilen, Bilen hizkuntza, Bileno, Blin, Blin language, Bogo, Bogos, North Agaw, Билин]
+alt_names: [Agaw, Balen, Belen, Beleni, Bilayn, Bilein, Bilen, Bilen hizkuntza, Bileno, Blin, Blin language, Bogo, Bogos, North Agaw, Билин, Bilene, Senhit, "T'aqwur"]
 population: 116000
 country_id: ER
 country_name: Eritrea
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushitic language spoken in Eritrea
 status_id: "5"
 scope: individual
 language_type: living

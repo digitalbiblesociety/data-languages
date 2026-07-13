@@ -2,10 +2,12 @@
 iso: int
 name: Intha
 autonym: Inntha
-alt_names: ["Inle, Intha"]
+alt_names: ["Inle, Intha", Insa, Naung Ma]
 population: 90000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Burmish dialect group
 status_id: 6a
 scope: individual
 language_type: living

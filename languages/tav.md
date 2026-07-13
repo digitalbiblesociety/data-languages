@@ -2,15 +2,18 @@
 iso: tav
 name: Tatuyo
 autonym: Wa’ikhana
-alt_names: [Carapana (Brésil), Carapana (Colombia), Carapana (Colombie), Carapana-Tapuya, Carapano, Juna, Karapano, Karapaná, Mextã, Mochda, Moxdoa, Oa, Pamoa, Tatu-tapuya, Tatutapuyo]
+alt_names: [Carapana (Brésil), Carapana (Colombia), Carapana (Colombie), Carapana-Tapuya, Carapano, Juna, Karapano, Karapaná, Mextã, Mochda, Moxdoa, Oa, Pamoa, Tatu-tapuya, Tatutapuyo, Sina, Sura, Tatuyo ye, Waꞌikhana, jʉna ye]
 population: 330
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Tucanoan language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.55582
 longitude: -70.53265
+language_map_img: Tatuyo.webp
 glottocode: tatu1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

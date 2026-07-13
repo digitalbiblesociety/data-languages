@@ -3,15 +3,17 @@ iso: src
 macrolanguage_id: srd
 name: Logudorese Sardinian
 autonym: sardu logudoresulogudoresu
-alt_names: [Central Sardinian, Logodurese Sardinian, Logoudorien, Logudorese, Logudorès, Sard, Sardarese, Sardinian, "Sardinian, Logudorese", Sardo logudorese, Sardo logudorés, Sardu logudoresu, Sardu lugudurese, 劳古多罗方言]
+alt_names: [Central Sardinian, Logodurese Sardinian, Logoudorien, Logudorese, Logudorès, Sard, Sardarese, Sardinian, "Sardinian, Logudorese", Sardo logudorese, Sardo logudorés, Sardu logudoresu, Sardu lugudurese, 劳古多罗方言, Barbaricino, Northern Logudorese, Nuorese, Southwestern Logudorese]
 population: 500000
 country_id: IT
 country_name: Italy
+area: Written standard of the Sardinian language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 40.49001
 longitude: 9.09957
+language_map_img: 500px-Sardinia_Language_Map.webp
 glottocode: logu1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

@@ -2,10 +2,12 @@
 iso: nmo
 name: Moyon Naga
 autonym: Moyon Naga
-alt_names: [Mayol, Mayon Naga, Moyon, "Naga, Moyon", "Naga,Moyon"]
+alt_names: [Mayol, Mayon Naga, Moyon, "Naga, Moyon", "Naga,Moyon", Bujuurchong]
 population: 3700
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language
 status_id: "5"
 scope: individual
 language_type: living

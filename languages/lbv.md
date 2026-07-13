@@ -6,6 +6,7 @@ alt_names: [Neu-Mecklenburg]
 population: 1310
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
 status_id: "5"
 scope: individual
 language_type: living

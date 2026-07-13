@@ -6,6 +6,8 @@ alt_names: ["Lobu, Tampias", Malaysia]
 population: 1800
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 坦皮亚斯洛布语
     auto: true
 ---
+Kinabatangan is a language of Sabah, Malaysia.

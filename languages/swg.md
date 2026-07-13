@@ -6,11 +6,13 @@ alt_names: [Dialetto svevo, Schwabisk, Schwaebisch, Schw√§bische Dialekte, Schw√
 population: 819000
 country_id: DE
 country_name: Germany
+area: Dialect group of Alemannic German
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 49.38788
 longitude: 7.12775
+language_map_img: Alemannic-Dialects-Map-English.svg
 scripts: [Latn]
 glottocode: swab1242
 glottolog_family_id: indo1319

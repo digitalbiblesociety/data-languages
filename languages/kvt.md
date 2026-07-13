@@ -2,15 +2,18 @@
 iso: kvt
 name: Lahta Karen
 autonym: Kangan
-alt_names: ["Karen, Lahta", Lahta]
+alt_names: ["Karen, Lahta", Lahta, Khahta, Peu, Taru, Tarulakhi, Kayan Lahta, Yan Wohta]
 population: 9550
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 20.17968
 longitude: 97.37906
+glottocode: laht1236
 wikidata_id: Q12952582
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahta_language"
 translations:

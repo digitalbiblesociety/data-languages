@@ -6,6 +6,8 @@ alt_names: [Nyimwomeg, Nyingwom, Nyiwom, Yimwom, 𐌽𐌾𐌹𐌼𐍅𐍉𐌼�
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Niger-Congo language of eastern Nigeria
 status_id: 6a
 scope: individual
 language_type: living

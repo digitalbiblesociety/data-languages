@@ -2,14 +2,17 @@
 iso: bpo
 name: Anasi
 autonym: "Nisa-Anasi"
+alt_names: [Bapu]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.73908
 longitude: 137.71617
+glottocode: anas1239
 wikidata_id: Q11207813
 translations:
   - translation_iso: ara
@@ -46,3 +49,4 @@ translations:
     name: 阿纳西语
     auto: true
 ---
+Nisa and Anasi (Bapu), are dialects of a Papuan language of the Indonesian province of Papua, on the eastern shore of Cenderawasih Bay in Sawai District, Mamberamo Raya Regency. Language use is vigorous.

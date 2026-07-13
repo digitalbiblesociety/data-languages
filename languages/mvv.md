@@ -2,10 +2,12 @@
 iso: mvv
 name: Tagal Murut
 autonym: bahasa Murut Tahol
-alt_names: ["Murut, Tagal", Semambu, Semembu, Sumambu, Sumambu-Tagal, Sumambuq]
+alt_names: ["Murut, Tagal", Semambu, Semembu, Sumambu, Sumambu-Tagal, Sumambuq, Alumbis, Arundum, Bol Murut, Bole Murut, Lagunan Murut, Loembis, Lumbis, Maligan, Mauligan, Meligan, North Borneo Murut, Pensiangan, Pensiangan Murut, Pentjangan, Rundum, Sabah Murut, Sadalir, Salalir, Sapulot Murut, Sapulut Murut, Saralir, Sedálir, Tagal, Taggal, Tagol, Tagul, Tahol, Tawan, Telekoson, Tolokoson, Tomani, Tumaniq]
 population: 22000
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living

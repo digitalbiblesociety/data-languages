@@ -2,9 +2,12 @@
 iso: kij
 name: Kilivila
 autonym: Kiriwina
+alt_names: [Kitava, Sinaketa, Vakuta]
 population: 40000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

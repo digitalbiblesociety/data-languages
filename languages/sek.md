@@ -6,6 +6,8 @@ alt_names: [Sekaní, "Tsek'ehne", "Tsek'ene", "Tsek'hene", "Tθek'ehne"]
 population: 600
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Athabaskan language spoken in British Columbia
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: ypm
 name: Phuma
 autonym: Bokha
+alt_names: [Black Muji, Hei Muji, Muji, Paotlo, Phula, Phuli, Shaoji Phula, Sifter Basket Phula]
 population: 8000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language cluster of China
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +55,4 @@ translations:
     name: 普玛语
     auto: true
 ---
+Muji or Muzi is a Loloish language cluster spoken by the Phula people of China. It is one of several such languages to go by the name Muji. Muji varieties are Northern Muji, Qila Muji, Southern Muji, and Bokha–Phuma.

@@ -2,10 +2,12 @@
 iso: kck
 name: Kalanga
 autonym: Ikalanga
-alt_names: [Bakaa, Chikalanga, Kalaka, Kalana, Kanana, Makalaka, Sekalaka, Sekalaña, Tjikalanga, Wakalanga, Western Shona]
+alt_names: [Bakaa, Chikalanga, Kalaka, Kalana, Kanana, Makalaka, Sekalaka, Sekalaña, Tjikalanga, Wakalanga, Western Shona, Abanyai, Banyai, Humbe, Jawunda, Kalagan, Lemba, Lembethu, Lilima, Limima, Nyai, Nyayi, Peri, Pfumbi, Remba, Rembethu, Romwe, Rozvi, Talahundra, Twamamba, Wanyai, Xwamamba]
 population: 338000
 country_id: ZW
 country_name: Zimbabwe
+location: Botswana
+area: Bantu language of Zimbabwe and Botswana
 status_id: "4"
 scope: individual
 language_type: living

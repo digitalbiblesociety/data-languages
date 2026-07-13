@@ -2,10 +2,12 @@
 iso: mim
 name: Alacatlatzala Mixtec
 autonym: "Mixteco, Alacatlatzala"
-alt_names: [Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Highland Guerrero Mixteco, Metlatónoc Mixtec, Mixtec, Mixtec (Alacatlatzala), "Mixtec, Alacatlatzala", Mixteco (Alacatlatzala), Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, Northern Misteko, Northern Mixteco, "To'on Savi", To’on Savi, Yoloxóchitl Mixtec]
+alt_names: [Alcozauca Mixtec, Central Misteko, Guerrero Mixtec, Highland Guerrero Mixtec, Highland Guerrero Mixteco, Metlatónoc Mixtec, Mixtec, Mixtec (Alacatlatzala), "Mixtec, Alacatlatzala", Mixteco (Alacatlatzala), Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de Xochapa, Mixteco de Yoloxóchitl, Northern Misteko, Northern Mixteco, "To'on Savi", To’on Savi, Yoloxóchitl Mixtec, Mixteco, Alacatlatzala, Atlamajalcingo del Monte, Cahuatache Tototepec, Cuatzoquitengo, Potoichan Mixtec, Mixteco de Potoichan, Mixteco de la Sierra de Guerrero, Ocuapa, Plan de Guadalupe, Potoichán, Toꞌon Savi]
 population: 30000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mixtec languages of Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -88,3 +90,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Guerrero"
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

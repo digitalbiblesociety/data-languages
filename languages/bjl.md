@@ -2,10 +2,12 @@
 iso: bjl
 name: Bulu
 autonym: null
-alt_names: [Bulu]
+alt_names: [Bulu, Bulu (Papua New Guinea)]
 population: 910
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,12 +3,14 @@ iso: mlg
 iso639_1: mg
 name: Malagasy
 autonym: مَلَغَسِ
+alt_names: [Betsilio, Betsileo Malagasy, Sihanaka Malagasy, Sihanaka]
 population: 25000000
 country_id: MG
 country_name: Madagascar
 status_id: null
 scope: macrolanguage
 language_type: living
+language_map_img: mlg.svg
 scripts: [Latn]
 wikidata_id: Q7930
 wikipedia_url: "https://en.wikipedia.org/wiki/Malagasy_language"

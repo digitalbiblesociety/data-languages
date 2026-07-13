@@ -2,10 +2,12 @@
 iso: xmd
 name: Mbudum
 autonym: Mbədam
-alt_names: [Cameroon, Mbedam, Mbedam language]
+alt_names: [Cameroon, Mbedam, Mbedam language, Boudoum, Hedi Mbudum, Ma Mbudum, Mboudoum, Membeng]
 population: 6000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

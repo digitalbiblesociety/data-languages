@@ -6,6 +6,8 @@ alt_names: [Jatgali, Jatki]
 population: 25600
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language spoken on Iranian Plateau
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: sdj
 name: Suundi
 autonym: Kisuundi
-alt_names: [Suundi de Kimongo]
+alt_names: [Suundi de Kimongo, Kissoundi]
 population: 216000
 country_id: CG
 country_name: Congo
+location: Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: ["Bhil, Sindhi", Pakistan]
 population: 56500
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language native to Sindh
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 24.54084
 longitude: 69.00076
+language_map_img: Sindhi-speakers_by_Pakistani_District_-_2017_Census.webp
 glottocode: sind1270
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

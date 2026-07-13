@@ -2,10 +2,12 @@
 iso: pdo
 name: Padoe
 autonym: Alalao
-alt_names: [Mori, Padoé, South Mori]
+alt_names: [Mori, Padoé, South Mori, Central Padoe, Pado-e, Western Padoe]
 population: 6000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

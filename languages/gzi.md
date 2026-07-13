@@ -5,6 +5,7 @@ autonym: گەازى ئگڤەڕم
 population: 7030
 country_id: IR
 country_name: Iran
+area: Central Iranian language of Iran
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Marengar, Marenggar, "Mari'ngar", Maringa, Maringar, Marri Ngarr, Ma
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 马里恩格语
     auto: true
 ---
+The Maringarr language is a moribund Australian Aboriginal language spoken by the Marri Ngarr along the northwest coast of the Northern Territory.

@@ -6,11 +6,14 @@ alt_names: ["A:rwu:r", Abedal, Abiddul, Arwur, Auwur, Awoy, Awur, Gaagudju, Gaag
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Extinct indigenous language of Australia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -12.51761
 longitude: 132.64324
+language_map_img: Arnhem_Land_languages.webp
 glottocode: gaga1251
 wikidata_id: Q35677
 wikipedia_url: "https://en.wikipedia.org/wiki/Gaagudju_language"

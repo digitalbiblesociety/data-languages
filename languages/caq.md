@@ -6,6 +6,8 @@ alt_names: [Car, Car Nikobar, Car language, Kar Nicobar-Chowra, Kareg Inizi Niko
 population: 37000
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: "Austroasiatic language spoken in the Nicobar Islands, India"
 status_id: "3"
 scope: individual
 language_type: living

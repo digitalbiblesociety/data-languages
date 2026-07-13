@@ -6,11 +6,13 @@ alt_names: [Fidji-Inseln, Rotuman bhasa, Rotuman-Fijian, Rotumano, Rotuna, Rutum
 population: 2500
 country_id: FJ
 country_name: Fiji
+location: Fiji
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -12.50082
 longitude: 177.06614
+language_map_img: 500px-Ethnic_Map_of_Fiji.webp
 scripts: [Latn]
 glottocode: rotu1241
 glottolog_family_id: aust1307

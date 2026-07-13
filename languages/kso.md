@@ -2,14 +2,19 @@
 iso: kso
 name: Kofa
 autonym: Gbwata
+alt_names: [Kota]
 population: 1100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Afro-Asiatic language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.76068
 longitude: 12.87572
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
+glottocode: kofa1236
 wikidata_id: Q56278
 wikipedia_url: "https://en.wikipedia.org/wiki/Kofa_language"
 translations:

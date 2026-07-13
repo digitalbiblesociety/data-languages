@@ -3,15 +3,18 @@ iso: ewe
 iso639_1: ee
 name: Ewe
 autonym: Èʋegbe
-alt_names: [Anló, Atjüló, Ebwe, Efe, Ehwe, Eibe, Eue, Eve, Eweeg, Eʋegbe, Fiteny eve, Gbe, Gbi, Krepe, Krepi, Popo, Vhe, éwé, Эве, ევე]
+alt_names: [Anló, Atjüló, Ebwe, Efe, Ehwe, Eibe, Eue, Eve, Eweeg, Eʋegbe, Fiteny eve, Gbe, Gbi, Krepe, Krepi, Popo, Vhe, éwé, Эве, ევე, Ewe (Ghana), Adan, Agu, Anglo, Anlo, Aveno, Awlan, Awuna, Be, Gbin, Ho, Hudu, Kotafoa, Kpelen, Togo, Vlin, Vo]
 population: 4965300
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: "Language of Ghana, Togo, and Benin"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 6.46061
 longitude: 0.814975
+language_map_img: ewe.webp
 scripts: [Latn]
 glottocode: ewee1241
 glottolog_family_id: atla1278

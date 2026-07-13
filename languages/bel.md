@@ -3,10 +3,11 @@ iso: bel
 iso639_1: be
 name: Belarusian
 autonym: беларуская мова biełaruskaja mova
-alt_names: [An Bhealarúisis, Bealaruisis, Belarooshish, Belarusan, Belarussek, Belorussian, Beyaz Rusça, Bielorrusiera, Bielorruso, Bielorrusu, Bielorusiana linguo, Bielorussian, Bielorús, Bilurusu simi, Bièlorusso, Biélorusse, Byelorussian, Běłoruska rěc, Hviterussisk, Kibelarus, Vitryska, White Russian, White Ruthenian, Wit-Russies, Wit-Russisch, Witrussisch, "Wittruss'sch", Белорузонь кель, Белорус йылме, Бѣлороу́сьскъ ѩꙁꙑ́къ, Забони Беларусӣ, בלארוסית, בעלארוסיש, بېلورۇس تىل]
+alt_names: [An Bhealarúisis, Bealaruisis, Belarooshish, Belarusan, Belarussek, Belorussian, Beyaz Rusça, Bielorrusiera, Bielorruso, Bielorrusu, Bielorusiana linguo, Bielorussian, Bielorús, Bilurusu simi, Bièlorusso, Biélorusse, Byelorussian, Běłoruska rěc, Hviterussisk, Kibelarus, Vitryska, White Russian, White Ruthenian, Wit-Russies, Wit-Russisch, Witrussisch, "Wittruss'sch", Белорузонь кель, Белорус йылме, Бѣлороу́сьскъ ѩꙁꙑ́къ, Забони Беларусӣ, בלארוסית, בעלארוסיש, بېلورۇس تىل, беларуская, Central Belarusian, Grodnen-Baranovich, Northeast Belarusian, Podlachian, Polots, Pudlaśka mova, Slutska-Mazyrski, Slutsko-Mozyr, Southwest Belarusian, Viteb-Mogilev]
 population: 2637920
 country_id: BY
 country_name: Belarus
+area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Gbanzili 4th division, Mondu, Mountou, Mundo, Mundu]
 population: 25800
 country_id: SS
 country_name: South Sudan
+location: Northern Democratic Republic of Congo
+area: Ubangian language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

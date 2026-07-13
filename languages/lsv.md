@@ -5,6 +5,7 @@ autonym: null
 population: 62
 country_id: PE
 country_name: Peru
+area: Deaf sign language of Peru
 status_id: null
 scope: individual
 language_type: living

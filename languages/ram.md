@@ -2,10 +2,12 @@
 iso: ram
 name: Canela
 autonym: Kanela
-alt_names: [Canela apaniekra, Canela ramkokomekra, Canela rankokamekra, Canela-Krahô, Krahó, Krenjé, Pukobyé, Timbira]
+alt_names: [Canela apaniekra, Canela ramkokomekra, Canela rankokamekra, Canela-Krahô, Krahó, Krenjé, Pukobyé, Timbira, Apânhecra, Apâniekra, Apânjekra, Apânyekra, Canela Apanyekrá, Canela Ramkokamekrá, Kanela Apanyekra, Kanela-Ramkokamekrá, Ramkokamekra]
 population: 2500
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Canela-Krahô dialect of Brazil
 status_id: "4"
 scope: individual
 language_type: living

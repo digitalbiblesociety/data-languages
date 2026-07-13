@@ -2,10 +2,12 @@
 iso: mlr
 name: Vame
 autonym: Pəlasla
-alt_names: [Hurza, Hurza-Vame, Maslava, Ndreme, Pelasla]
+alt_names: [Hurza, Hurza-Vame, Maslava, Ndreme, Pelasla, Hurzo, Pǝlasla]
 population: 8500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afroasiatic language
 status_id: "5"
 scope: individual
 language_type: living

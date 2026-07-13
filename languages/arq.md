@@ -3,15 +3,18 @@ iso: arq
 macrolanguage_id: ara
 name: Algerian Arabic
 autonym: دارجة
-alt_names: [Algerian, Algerian Colloquial, Algerisk arabiska, Alžirski arapski, Arabe algérien, Arabeg Aljeria, Arabic, "Arabic, Algerian", "Arabic, Algerian Spoken", Árabe argelino, Алжирский диалект арабского языка, لهجة جزائرية]
+alt_names: [Algerian, Algerian Colloquial, Algerisk arabiska, Alžirski arapski, Arabe algérien, Arabeg Aljeria, Arabic, "Arabic, Algerian", "Arabic, Algerian Spoken", Árabe argelino, Алжирский диалект арабского языка, لهجة جزائرية, Algerian Spoken, Algiers, Constantine, Darija, Darja, Dziria, Oran]
 population: 29400000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Maghrebi dialect of the Arabic language spoken in Algeria
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 35.42078
 longitude: 3.23033
+language_map_img: arq.webp
 scripts: [Arab]
 glottocode: alge1239
 glottolog_family_id: afro1255

@@ -2,10 +2,12 @@
 iso: prt
 name: Phai
 autonym: Phai
-alt_names: [East Pua Pray, Kha, Kha Phay, "Lua'", Phay, Prai, Pray, Pray 1, Pray 2, Thung Chan Pray]
+alt_names: [East Pua Pray, Kha, Kha Phay, "Lua'", Phay, Prai, Pray, Pray 1, Pray 2, Thung Chan Pray, Thin, Lao Prai, Lua Prai, Luaꞌ]
 population: 20000
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Austroasiatic language spoken in Thailand and Laos
 status_id: 6a
 scope: individual
 language_type: living

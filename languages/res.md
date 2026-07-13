@@ -2,10 +2,12 @@
 iso: res
 name: Reshe
 autonym: Tsureshe
-alt_names: [Bareshe, Gunga, Gunganchi, Gungawa, Tsureja, Yaurawa]
+alt_names: [Bareshe, Gunga, Gunganchi, Gungawa, Tsureja, Yaurawa, Bapalame, Birami, Cirami, Eastern Reshe, Gunganci, Tsujijimi, Tsupalame, Western Reshe]
 population: 44000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji languages of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

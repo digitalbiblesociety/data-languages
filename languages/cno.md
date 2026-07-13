@@ -5,11 +5,14 @@ autonym: Kha Kior
 population: 1000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 20.64417
 longitude: 100.90354
+glottocode: cona1234
 wikidata_id: Q3440883
 wikipedia_url: "https://en.wikipedia.org/wiki/Con_language"
 translations:

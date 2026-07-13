@@ -6,6 +6,8 @@ alt_names: [Nangabuya, Ningburia, Nuggaboju, Nugubuyu, Nun-guboiyu, Nungabuya, N
 population: 280
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Apiaka, Apiake]
 population: 190
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Extinct Tupi language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

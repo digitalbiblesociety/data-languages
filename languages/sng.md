@@ -2,10 +2,12 @@
 iso: sng
 name: Sanga
 autonym: Kisanga
-alt_names: [Luba-Garenganze, Luba-Sanga, Sanga, Southern Luba]
+alt_names: [Luba-Garenganze, Luba-Sanga, Sanga, Southern Luba, Garengaze, Kiluba]
 population: 431000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living

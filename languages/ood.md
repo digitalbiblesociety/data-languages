@@ -2,10 +2,12 @@
 iso: ood
 name: "Tohono O'odham"
 autonym: "ʼOʼodham ha-ñeʼokĭ"
-alt_names: [Hanan Pima simi, Nebome, Nebomi, Nevome, Nevomi, Névome, "O'odham", "O'odham (Akimel)", "O'odham (Mexique)", "O'odham (Tohono)", "O'odham language", "O'othham", Odameg, Papago, Papago (Tohono), Papago-Pima, Pima, Pima-Papago, Pima-Pápago, "Pima-Pápago, Névome", Sobaipuri, Tepiman, Upper Piman, Оодхам]
+alt_names: [Hanan Pima simi, Nebome, Nebomi, Nevome, Nevomi, Névome, "O'odham", "O'odham (Akimel)", "O'odham (Mexique)", "O'odham (Tohono)", "O'odham language", "O'othham", Odameg, Papago, Papago (Tohono), Papago-Pima, Pima, Pima-Papago, Pima-Pápago, "Pima-Pápago, Névome", Sobaipuri, Tepiman, Upper Piman, Оодхам, O’odham, O’othham, Akimel O, O, Tohono O, Tohono Oꞌodham]
 population: 14110
 country_id: US
 country_name: United States
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico and US
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Nagu]
 population: 210
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language spoken in Solomon Islands
 status_id: "7"
 scope: individual
 language_type: living

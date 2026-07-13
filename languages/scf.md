@@ -6,11 +6,13 @@ alt_names: ["Creole French, San Miguel"]
 population: null
 country_id: PA
 country_name: Panama
+area: French-based creole spoken in Saint Lucia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 8.32601
 longitude: -81.25639
+glottocode: sanm1305
 wikidata_id: Q12953094
 wikipedia_url: "https://en.wikipedia.org/wiki/San_Miguel_Creole"
 translations:

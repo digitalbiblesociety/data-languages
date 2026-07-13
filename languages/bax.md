@@ -6,6 +6,8 @@ alt_names: [Bamoum, Bamoun, Bamum, Bamum language, Shupamem, Shupamon, Баму�
 population: 420000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Benue–Congo language spoken in Cameroon
 status_id: "3"
 scope: individual
 language_type: living

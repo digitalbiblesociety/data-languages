@@ -2,9 +2,12 @@
 iso: tte
 name: Bwanabwana
 autonym: Tubetube
+alt_names: [Tubetube (Bwanabwana), Anagusa, Kitai, Koyagaugau, Kwalaiwa, Naluwaluwali, Ole, Tewatewa, Wale, Ware, Wari]
 population: 2400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

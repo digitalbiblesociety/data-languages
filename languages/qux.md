@@ -7,11 +7,14 @@ alt_names: [Huangascar-Topara-Yauyos Quechua, Huangascar-Topará, Quechua, Quech
 population: 6500
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua dialect cluster
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -13.11443
 longitude: -75.76589
+language_map_img: page1-500px-YauyosQuechua.pdf.webp
 glottocode: yauy1235
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan

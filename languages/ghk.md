@@ -2,10 +2,12 @@
 iso: ghk
 name: Geko Karen
 autonym: Gaikho
-alt_names: ["Gek'o", Gekho, Ghekhol, Ghekhu, Gheko, "Karen, Geko", "Karen,Geko", Kekaungdu, Kekhong, Keku, Padaung]
+alt_names: ["Gek'o", Gekho, Ghekhol, Ghekhu, Gheko, "Karen, Geko", "Karen,Geko", Kekaungdu, Kekhong, Keku, Padaung, Gek’o, Geker, Htideh, Kakhau, Kayan, Kayan Kakhau, Thaidai, Yathu Gekho]
 population: 9500
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

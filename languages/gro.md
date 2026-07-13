@@ -6,6 +6,8 @@ alt_names: [Gromeg, Tromawa, Tromowa, Ґрома]
 population: 12800
 country_id: CN
 country_name: China
+location: China
+area: "Tibetic language spoken in China, Bhutan and India"
 status_id: 6a
 scope: individual
 language_type: living

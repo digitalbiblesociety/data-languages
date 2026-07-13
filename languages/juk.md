@@ -2,10 +2,12 @@
 iso: juk
 name: Wapan
 autonym: Jukun
-alt_names: [Jinkum, Jukon, Juku, Juku Junkun, Jukum, Jukun Wapan, Jukun Wukari, Wakari, Wapã, Wukari, Wukari Jukun]
+alt_names: [Jinkum, Jukon, Juku, Juku Junkun, Jukum, Jukun Wapan, Jukun Wukari, Wakari, Wapã, Wukari, Wukari Jukun, Wukan]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: "Jukunoid language of Nigeria, also called Wukari or Kororofa"
 status_id: "5"
 scope: individual
 language_type: living

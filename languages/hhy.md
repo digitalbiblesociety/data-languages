@@ -2,9 +2,12 @@
 iso: hhy
 name: Hoyahoya
 autonym: Hoyahoya
+alt_names: [Hoiahoia]
 population: 95
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

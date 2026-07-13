@@ -6,6 +6,8 @@ alt_names: [Bokharan, Bokharian, Bokharic, "Bouc'horeg", Boukharique, Bukharan, 
 population: 60000
 country_id: IL
 country_name: Israel
+location: Turkmenistan and Uzbekistan
+area: Jewish dialect based on the Persian language
 status_id: "7"
 scope: individual
 language_type: living

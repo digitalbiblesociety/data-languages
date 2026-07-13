@@ -6,6 +6,7 @@ alt_names: [Beke]
 population: 1000
 country_id: CD
 country_name: DR Congo
+area: Bantu language of DR Congo
 status_id: 8a
 scope: individual
 language_type: living

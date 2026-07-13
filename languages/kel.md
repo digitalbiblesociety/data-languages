@@ -2,14 +2,17 @@
 iso: kel
 name: Kela
 autonym: Yela
+alt_names: [Ikela, Lemba, Okela]
 population: 180000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.39085
 longitude: 24.00506
+glottocode: kela1254
 wikidata_id: Q6385426
 translations:
   - translation_iso: ara
@@ -64,3 +67,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of, Kasai-Oriental"
 ---
+Kela, or Lemba, and Yela are a Bantu language of the Democratic Republic of the Congo spoken by several hundred thousand people in the Kasai-Oriental, where the spoken dialect is "Kela", and Équateur Province, where the spoken dialect is "Yela".

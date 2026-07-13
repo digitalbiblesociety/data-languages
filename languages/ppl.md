@@ -6,6 +6,8 @@ alt_names: [Nahuat, Nahuate, Nawat, Nicarao, Náhuat, Náwat]
 population: 11100
 country_id: SV
 country_name: El Salvador
+location: El Salvador and Honduras
+area: Nahuan language of El Salvador and Nicaragua
 status_id: 8b
 scope: individual
 language_type: living

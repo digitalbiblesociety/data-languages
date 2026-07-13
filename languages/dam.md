@@ -6,6 +6,8 @@ alt_names: ["Tidama'un"]
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Nigerian language
 status_id: "9"
 scope: individual
 language_type: living

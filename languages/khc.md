@@ -6,6 +6,8 @@ alt_names: [Tukang Besi, Wakatobi]
 population: 120000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language of the Tukangbesi Islands of southeast Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Sulawesi Tenggara (Southeast)"
 ---
+Tukang Besi, or known in Indonesia by the terms Pulo or Wakatobi, is an Austronesian language spoken in the Tukangbesi Islands in southeast Sulawesi in Indonesia by a quarter million speakers. A Tukang Besi pidgin is used in the area.

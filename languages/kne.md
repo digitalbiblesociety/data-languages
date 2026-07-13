@@ -2,15 +2,18 @@
 iso: kne
 name: Kankanaey
 autonym: "Kankana-ey"
-alt_names: [Central Kankanaey, Kankanai, Kankanay]
+alt_names: [Central Kankanaey, Kankanai, Kankanay, Bakun-Kibungan, Guinzadan, Kapangan, Mankayan-Buguias]
 population: 261000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.8548
 longitude: 120.68924
+language_map_img: 500px-Greater_Kankanaey_language_map.webp
 glottocode: kank1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

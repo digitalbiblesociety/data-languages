@@ -6,6 +6,8 @@ alt_names: [Beduba, Iroquois, Yeresiam, Yerisiam]
 population: 70
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

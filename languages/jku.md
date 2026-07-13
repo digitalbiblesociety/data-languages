@@ -2,10 +2,12 @@
 iso: jku
 name: Labir
 autonym: Jaku
-alt_names: [Jakanci, Jakun]
+alt_names: [Jakanci, Jakun, Labur]
 population: 13000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language spoken in Nigeria
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mzm
 name: Mumuye
 autonym: Yoro
-alt_names: [Group 5, Zing]
+alt_names: [Group 5, Zing, Bajama, Dong, Gnoore, Gola, Gongla, Jalingo, Jeng, Kasaa, Kugong, Kwaji, Lankaviri, Mang, Meeka, Nyaaja, Saawa, Sagbee, Shaari, Yaa, Yakoko, Zinna]
 population: 745000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Adamawa language of northeastern Nigeria
 status_id: "5"
 scope: individual
 language_type: living

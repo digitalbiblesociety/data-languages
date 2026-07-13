@@ -3,15 +3,18 @@ iso: jav
 iso639_1: jv
 name: Javanese
 autonym: ꦧꦱꦗꦮباسا جاوا
-alt_names: [Banyumasan, Banyumasan language, Djawa, Java, Javanic, Javanisch, Jawa, Kawi, javanais, ባኙማሳን]
+alt_names: [Banyumasan, Banyumasan language, Djawa, Java, Javanic, Javanisch, Jawa, Kawi, javanais, ባኙማሳን, Banten, Banyumas, Cheribon, Cirebon, Indramayu, Malang-Pasuruan, Manuk, Pasisir, Sawlaw, Solo, Surabaya, Surakarta, Tegal, Tembung, Tjirebon]
 population: 68300000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Austronesian language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: -0.572307
 longitude: 110.884843
+language_map_img: jav.webp
 scripts: [Java, Latn]
 glottocode: java1254
 glottolog_family_id: aust1307

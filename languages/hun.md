@@ -3,15 +3,18 @@ iso: hun
 iso639_1: hu
 name: Hungarian
 autonym: magyar nyelv
-alt_names: [Csángó, Hongaars, Hongaarsk, Hongarès, Hongrois, Hongrois csángó, Hongrwès, Hungareg, Hungarek, Hungarian leid, Hungariana linguo, Hungariera, Hwngareg, Húngaru, Kihungaria, Macar tili, Macarca, Madźarsko godka, Magyar, Magyar-gí, Magyarisch, Neuungarisch, Ongrés, Tok Hangari, Ungaarish, Ungairis, Ungari kiil, Ungarisch, Ungarische Tzeckler, Ungarsk, Ungerska, Ungverska, Ungáiris, Ungárgiella, Unriya simi, "mad'ar", vengr, vengri, Венгер кыл, Венгеронь кяль, Веҥгр йылме, Мадьяронь кель, Հունգարերեն, אונגאריש, הונגרית, ماجار تىلى]
+alt_names: [Csángó, Hongaars, Hongaarsk, Hongarès, Hongrois, Hongrois csángó, Hongrwès, Hungareg, Hungarek, Hungarian leid, Hungariana linguo, Hungariera, Hwngareg, Húngaru, Kihungaria, Macar tili, Macarca, Madźarsko godka, Magyar, Magyar-gí, Magyarisch, Neuungarisch, Ongrés, Tok Hangari, Ungaarish, Ungairis, Ungari kiil, Ungarisch, Ungarische Tzeckler, Ungarsk, Ungerska, Ungverska, Ungáiris, Ungárgiella, Unriya simi, "mad'ar", vengr, vengri, Венгер кыл, Венгеронь кяль, Веҥгр йылме, Мадьяронь кель, Հունգարերեն, אונגאריש, הונגרית, ماجار تىلى, Central Transdanubian, Madžarski, Maghiar, Maďarský, Mađarski, Mezoségi, Northeastern Hungarian, Oberwart, Palóc, Southern Great Plains, Southern Transdanubian, Székely, Tisza–Körös, Western Transdanubian]
 population: 12600000
 country_id: HU
 country_name: Hungary
+location: Ukraine
+area: Uralic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 46.906859
 longitude: 19.655527
+language_map_img: hun.webp
 scripts: [Latn]
 glottocode: hung1274
 glottolog_family_id: ural1272

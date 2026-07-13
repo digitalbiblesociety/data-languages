@@ -2,10 +2,12 @@
 iso: mmy
 name: Migaama
 autonym: Dionkor
-alt_names: [Djonkor, Djonkor Abou Telfane, Dyongor, Jongor, Jonkor, Jonkor of Abu Telfan, Migama]
+alt_names: [Djonkor, Djonkor Abou Telfane, Dyongor, Jongor, Jonkor, Jonkor of Abu Telfan, Migama, Djonkor Abou, Telfane, Dambiya, Doga, Gamiya, Ndambiya]
 population: 2000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

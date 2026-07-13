@@ -6,6 +6,7 @@ alt_names: [Azerbaijani, "C'halajeg", Chaladsch, Halaçça, Jalái, Khaladj, Kha
 population: 53900
 country_id: IR
 country_name: Iran
+area: Turkic language spoken in western Iran
 status_id: 6a
 scope: individual
 language_type: living

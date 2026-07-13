@@ -6,6 +6,7 @@ alt_names: [Dardu, Katarkalai, Votapurí, Wotapuri, Wotapūrī-Katāqalāī]
 population: null
 country_id: AF
 country_name: Afghanistan
+area: Extinct Indo-Aryan language of Afghanistan
 status_id: "10"
 scope: individual
 language_type: extinct

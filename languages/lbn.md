@@ -2,10 +2,12 @@
 iso: lbn
 name: Rmeet
 autonym: Rmeet
-alt_names: [Kamet, Kha, Kha Lamet, Kha-Lamet, Khamed, Khamet, Lamet, Le-Met, Lemet]
+alt_names: [Kamet, Kha, Kha Lamet, Kha-Lamet, Khamed, Khamet, Lamet, Le-Met, Lemet, Lamed, Lower Lamet, Upper Lamet]
 population: 16700
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ching, Mak, Mo, Mo-Hua, Mochiahua, Mohua, Mojiahua, 吳家話, 莫�
 population: 10000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Kra–Dai language spoken in Guizhou, China"
 status_id: "7"
 scope: individual
 language_type: living

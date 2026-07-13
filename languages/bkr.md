@@ -2,10 +2,12 @@
 iso: bkr
 name: Bakumpai
 autonym: Bakambai
-alt_names: [Bara-Jida]
+alt_names: [Bara-Jida, Mangkatip, Mengkatip, Oloh Mengkatip]
 population: 100000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: "3"
 scope: individual
 language_type: living

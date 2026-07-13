@@ -2,15 +2,18 @@
 iso: bjj
 name: Kanauji
 autonym: कन्नौजी
-alt_names: [Bhakha, Braj, Braj Kanauji, Kanaudji, Kannauji]
+alt_names: [Bhakha, Braj, Braj Kanauji, Kanaudji, Kannauji, Dehati, Hindi, Kanauji Proper, Tirhari, Transitional Kanauji]
 population: 6000000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: "Language spoken in Uttar Pradesh, india"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 27.1074
 longitude: 79.2883
+language_map_img: bjj.webp
 scripts: [Deva]
 glottocode: kana1281
 glottolog_family_id: indo1319

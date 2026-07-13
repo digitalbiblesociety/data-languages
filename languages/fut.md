@@ -2,10 +2,12 @@
 iso: fut
 name: "Futuna-Aniwa"
 autonym: Erronan
-alt_names: [Aniwa, Futua, Futuna, W. Futuna-Aniwa, West Futuna-Aniwa, Western Futuna]
+alt_names: [Aniwa, Futua, Futuna, W. Futuna-Aniwa, West Futuna-Aniwa, Western Futuna, Anewa, Fotuna, West Futuna]
 population: 1500
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Polynesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

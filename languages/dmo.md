@@ -2,10 +2,12 @@
 iso: dmo
 name: Kemedzung
 autonym: Dumbo
-alt_names: [Dzumbo, Kemezung, Kemezung language, Kumaju]
+alt_names: [Dzumbo, Kemezung, Kemezung language, Kumaju, Diábékwálé, Kwe, Kwei, Kémézuñ, Kɨmədzuŋ]
 population: 4500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

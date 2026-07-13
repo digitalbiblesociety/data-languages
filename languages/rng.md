@@ -2,10 +2,12 @@
 iso: rng
 name: Ronga
 autonym: Gironga
-alt_names: [Shironga, Xironga]
+alt_names: [Shironga, Xironga, Kalanga, Konde, Putru, Rhonga, Xirhonga]
 population: 618000
 country_id: MZ
 country_name: Mozambique
+location: "Lesotho, South Africa and Swaziland"
+area: Bantu language spoken in southern Africa
 status_id: "5"
 scope: individual
 language_type: living

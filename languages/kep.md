@@ -6,6 +6,8 @@ alt_names: [Kaikai, Kokadi]
 population: 23000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living

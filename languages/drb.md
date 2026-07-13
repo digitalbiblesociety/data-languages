@@ -2,10 +2,12 @@
 iso: drb
 name: Dair
 autonym: Thaminyi
-alt_names: [Daier, Nubian (Hill)]
+alt_names: [Daier, Nubian (Hill), Dabab]
 population: 1000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Moribund Nubian language of Sudan
 status_id: 8a
 scope: individual
 language_type: living

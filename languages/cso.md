@@ -2,10 +2,11 @@
 iso: cso
 name: Sochiapam Chinantec
 autonym: "Chinantec, Sochiapam"
-alt_names: [Chinantec, Chinantec (Sochiapan), "Chinantec, Sochiapan", Chinanteco, Chinanteco (Sochiapan), Chinanteco del oeste, Chinanteko, Sochiapan Chinantec, Sochiapám Chinantec, Western Chinantec, jujma]
+alt_names: [Chinantec, Chinantec (Sochiapan), "Chinantec, Sochiapan", Chinanteco, Chinanteco (Sochiapan), Chinanteco del oeste, Chinanteko, Sochiapan Chinantec, Sochiapám Chinantec, Western Chinantec, jujma, Sochiapam, Jaú jm_, Jmiih kiaꞌ dzä jiiꞌ]
 population: 5800
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
 status_id: "5"
 scope: individual
 language_type: living

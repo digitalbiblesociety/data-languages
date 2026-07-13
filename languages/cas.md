@@ -6,6 +6,8 @@ alt_names: [Aparono, Chiman, Chimane, Chimané, Chumano, Moseten, Moseten-Chiman
 population: 7300
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Language of the western Bolivian lowlands
 status_id: "5"
 scope: individual
 language_type: living

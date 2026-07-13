@@ -2,10 +2,12 @@
 iso: cul
 name: Culina
 autonym: Corina
-alt_names: [Culinha, Culino, Culiña, Cuniba, Curina, Kollina, Korina, Koulineg, Kulina, Kulino, Kulyna, Kulína, Kurina, Madiha, Madihá, Madija, Кулина]
+alt_names: [Culinha, Culino, Culiña, Cuniba, Curina, Kollina, Korina, Koulineg, Kulina, Kulino, Kulyna, Kulína, Kurina, Madiha, Madihá, Madija, Кулина, Kulina (Brazil)]
 population: 3420
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Arawan language of Brazil and Peru
 status_id: 6b
 scope: individual
 language_type: living

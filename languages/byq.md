@@ -6,11 +6,13 @@ alt_names: [Basayeg, Kawanuwan]
 population: null
 country_id: TW
 country_name: Taiwan
+area: Extinct Formosan language of northern Taiwan
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 25.00456
 longitude: 121.85705
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: basa1287
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -2,10 +2,12 @@
 iso: bri
 name: Mokpwe
 autonym: Mokpwe
-alt_names: [Bakpwe, Bakueri, Bakwedi, Bakwele, Bakweri, Bekwiri, Kwedi, Kweli, Kwili, Kwiri, Mokpe, Ujuwa, Vakweli, Vambeng]
+alt_names: [Bakpwe, Bakueri, Bakwedi, Bakwele, Bakweri, Bekwiri, Kwedi, Kweli, Kwili, Kwiri, Mokpe, Ujuwa, Vakweli, Vambeng, Bakwiri, Kpe]
 population: 20000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

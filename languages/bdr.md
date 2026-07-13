@@ -6,6 +6,8 @@ alt_names: ["Bajau, West Coast", Land Bajaw, West Coast Bajao]
 population: 10700
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Austronesian language family of Borneo and the Philippines
 status_id: 6b
 scope: individual
 language_type: living

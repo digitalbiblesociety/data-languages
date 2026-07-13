@@ -6,11 +6,14 @@ alt_names: ["\"Beliche\"", Beliche, Chedungun, Chesumun, Huilche, Huiliche, Mapu
 population: 2000
 country_id: CL
 country_name: Chile
+location: Argentina and Chile
+area: Araucanian language of Chile
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -40.06939
 longitude: -72.76697
+language_map_img: 500px-Huilliche.webp
 glottocode: huil1244
 glottolog_family_id: arau1255
 glottolog_family_name: Araucanian

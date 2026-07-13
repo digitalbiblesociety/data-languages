@@ -3,10 +3,11 @@ iso: abk
 iso639_1: ab
 name: Abkhazian
 autonym: Abkhazian
-alt_names: ["Abc'hazeg", Abchaseg, Abchazisch, Abchaziska, Abhazca, Abjaso, Abkasíska, Abkhasisk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, An Abcáisis, אבחזית]
+alt_names: ["Abc'hazeg", Abchaseg, Abchazisch, Abchaziska, Abhazca, Abjaso, Abkasíska, Abkhasisk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, An Abcáisis, אבחזית, Abzhui, Bzyb, Samurzakan]
 population: 194710
 country_id: GE
 country_name: Georgia
+area: Northwest Caucasian language of Abkhazia
 status_id: "2"
 scope: individual
 language_type: living

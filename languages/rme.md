@@ -2,10 +2,11 @@
 iso: rme
 name: Angloromani
 autonym: Pogadi Chib
-alt_names: [Anglo-Romany, English Romani, European Romany, "Posh 'N' Posh", Romani English, Romanichal, Romanis]
+alt_names: [Anglo-Romany, English Romani, European Romany, "Posh 'N' Posh", Romani English, Romanichal, Romanis, Posh ‘N’ Posh, Anglo-Romani, Gypsy Jib, Para-Romani, Romanes, Romani, Romani Mixed Dialect, Romano Lavo, Romany, Rummaness]
 population: 99200
 country_id: GB
 country_name: United Kingdom
+area: Para-Romani dialect spoken by the Romanichal
 status_id: 6a
 scope: individual
 language_type: living

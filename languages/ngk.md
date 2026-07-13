@@ -6,6 +6,8 @@ alt_names: [Bouin, Boun, "Bu:wan", Buan, Buin, Buwan, "Dalabon ?Gundangbon", Dan
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Arawete, Asuriní, Asuriní do Coatinema, Asuriní do Xingú, Awaet�
 population: 290
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupian language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

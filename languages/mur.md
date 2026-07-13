@@ -2,10 +2,12 @@
 iso: mur
 name: Murle
 autonym: Murleye
-alt_names: [Adkibba, Agiba, Ajibba, Beir, Merule, Mourle, Murele, Murelei, Murule, Omo-Murle]
+alt_names: [Adkibba, Agiba, Ajibba, Beir, Merule, Mourle, Murele, Murelei, Murule, Omo-Murle, Murlɛ]
 population: 196000
 country_id: SS
 country_name: South Sudan
+location: Southwestern Ethiopia
+area: Surmic Language of South Sudan and Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

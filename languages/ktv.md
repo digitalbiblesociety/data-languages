@@ -6,6 +6,8 @@ alt_names: [Attouat, Kantu, Kao, Katu, "Katu, Eastern", Khat, Kontu, Nguôn Ta, 
 population: 62000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Katuic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: VN
     location: "Vietnam, South Central Coast, Quang Nam"
 ---
+Phuong, or High Katu, is a Katuic language (Mon-Khmer) of Vietnam.

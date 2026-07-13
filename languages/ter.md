@@ -6,6 +6,8 @@ alt_names: [Chané, Etelena, Guaná, Kinikinao, Terena, Terena simi]
 population: 15800
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Arawakan language of Brazil
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: jac
 name: "Popti'"
 autonym: Poptiʼ
-alt_names: [Eastern, Jacaltec, Jacalteco, Jacalteeks, Jakalteco, Jakaltek, Jakaltek language, Jakaltekisk, Jakalteko, "Jakalteko, Eastern", Poptí]
+alt_names: [Eastern, Jacaltec, Jacalteco, Jacalteeks, Jakalteco, Jakaltek, Jakaltek language, Jakaltekisk, Jakalteko, "Jakalteko, Eastern", Poptí, Eastern Jacalteco, Jacalteco Occidental, Jacalteco Oriental, Eastern Jakalteko, Jacalteco del Oeste, Eastern Jakalteko (Poptiꞌ), Jakalteko del Oeste, Western Jakalteko, "Jakalteko-Popti'", Poniente, "Popti' Oriental", Western Jacaltec, Western Jacalteco]
 population: 33130
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Guatemala
 status_id: "5"
 scope: individual
 language_type: living

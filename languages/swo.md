@@ -6,6 +6,8 @@ alt_names: [Katukina Shanenawa, Shenenawa]
 population: 360
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Panoan language of western Amazonia
 status_id: 8b
 scope: individual
 language_type: living

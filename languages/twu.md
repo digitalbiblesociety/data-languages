@@ -2,10 +2,12 @@
 iso: twu
 name: Termanu
 autonym: "Pa'da"
-alt_names: [Central Rote, Rote, Rote Tengah, Roti, Rotinese, Rottinese]
+alt_names: [Central Rote, Rote, Rote Tengah, Roti, Rotinese, Rottinese, Pa’da, Bokai, Keka-Talae, Korbaffo, Korbafo, "Pa'da Kona", Southern Termanu]
 population: 30000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

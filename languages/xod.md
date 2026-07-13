@@ -6,6 +6,8 @@ alt_names: [Komudago, Nebes, Oderago, Samalek, Tarof]
 population: 3700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language
 status_id: 6b
 scope: individual
 language_type: living

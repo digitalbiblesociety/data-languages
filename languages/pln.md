@@ -6,6 +6,8 @@ alt_names: [Criollo palenquero, Créole de Palenque, Palenkero, Palenque]
 population: 3500
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Spanish-based creole language spoken in Colombia
 status_id: 8a
 scope: individual
 language_type: living

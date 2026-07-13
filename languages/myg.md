@@ -6,6 +6,8 @@ alt_names: [Banta, Bantakpa, Kisam, Menta, Tinta]
 population: 5300
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southwest Grassfields language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living

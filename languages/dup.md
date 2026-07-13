@@ -3,10 +3,12 @@ iso: dup
 macrolanguage_id: msa
 name: Duano
 autonym: Desin Dolak
-alt_names: ["Desin Dola'", "Duano'", Orang Kuala]
+alt_names: ["Desin Dola'", "Duano'", Orang Kuala, Desin Duano, Duano’, Orang Laut]
 population: 15000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Malayic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living

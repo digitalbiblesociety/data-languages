@@ -2,14 +2,17 @@
 iso: bso
 name: Buso
 autonym: Buso
+alt_names: [Bousso, Busso, Dam de Bousso]
 population: 17000
 country_id: TD
 country_name: Chad
+area: Chadic language spoken in Chad
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 12.50084
 longitude: 17.60109
+glottocode: buso1242
 wikidata_id: Q3441370
 wikipedia_url: "https://en.wikipedia.org/wiki/Buso_language"
 translations:

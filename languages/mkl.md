@@ -2,10 +2,12 @@
 iso: mkl
 name: Mokole
 autonym: Èdè Mɔ̄kɔ́lé
-alt_names: [Féri, Mokollé, Mokwale, Monkole]
+alt_names: [Féri, Mokollé, Mokwale, Monkole, Ede-Mɔkɔle, Mɔ̄kɔ́lé]
 population: 35900
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Yoruboid language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living

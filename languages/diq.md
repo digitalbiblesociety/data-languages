@@ -3,10 +3,11 @@ iso: diq
 macrolanguage_id: zza
 name: Dimli
 autonym: Dimili
-alt_names: [Dimlī, Southern Zaza, Zaza, Zazaki]
+alt_names: [Dimlī, Southern Zaza, Zaza, Zazaki, Central Zazaki, Dumbeli, Dumbuli, Eastern Zazaki, Hazo, Hazzu, Kori, Moti, Motki, Sivereki, Zazaca, Southern Zazaki]
 population: 1280000
 country_id: TR
 country_name: Turkey
+area: Northwestern Iranian language spoken in Turkey
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bts
 name: Batak Simalungun
 autonym: Sahap Simalungun
-alt_names: [Simelungan, Timur]
+alt_names: [Simelungan, Timur, Batak, Simalungun, Simalungun Batak]
 population: 1200000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

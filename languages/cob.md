@@ -2,15 +2,17 @@
 iso: cob
 name: Chicomuceltec
 autonym: Chikomuselteko
-alt_names: ["Cac'chiquel Mam", Cakchiquel Mam, Chicomuceltekisk, Chicomukeltec, Chicomulcelteco, Cotoque, Kotoke]
+alt_names: ["Cac'chiquel Mam", Cakchiquel Mam, Chicomuceltekisk, Chicomukeltec, Chicomulcelteco, Cotoque, Kotoke, Cac’chiquel Mam]
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Mayan language of southeastern Mexico
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 15.60783
 longitude: -91.286885
+language_map_img: 500px-HuastecRoute.webp
 glottocode: chic1271
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

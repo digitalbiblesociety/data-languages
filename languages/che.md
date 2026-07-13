@@ -3,15 +3,18 @@ iso: che
 iso639_1: ce
 name: Chechen
 autonym: нохчийн моттnoxçiyn mott
-alt_names: [Checheno, Chechèn, Galancho, Nokchiin Muott, Nokhchiin, Tchetcheneg, Tchétchène, Tjetjensk, Tjetjenska, Tsjetsjeens, Tsjetsjensk, Txetxè, Téténska, Çeçence, Çeçenî, Нохчийн мотт, "צ'צ'נית"]
+alt_names: [Checheno, Chechèn, Galancho, Nokchiin Muott, Nokhchiin, Tchetcheneg, Tchétchène, Tjetjensk, Tjetjenska, Tsjetsjeens, Tsjetsjensk, Txetxè, Téténska, Çeçence, Çeçenî, Нохчийн мотт, "צ'צ'נית", Akkin, Aux, Cheberloi, Itumkala, Kistin, Melkhin, Nokhchi, Ploskost, Shatoi]
 population: 1526650
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Northeast Caucasian language of Chechnya, Russia"
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 43.5
 longitude: 45.5
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 scripts: [Cyrl]
 glottocode: chec1245
 glottolog_family_id: nakh1245

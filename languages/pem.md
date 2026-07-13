@@ -2,10 +2,12 @@
 iso: pem
 name: Phende
 autonym: Giphende
-alt_names: [Gipende, Kipende, Pende, Pindi, Pinji]
+alt_names: [Gipende, Kipende, Pende, Pindi, Pinji, Pheende]
 population: 420000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in the DR Congo
 status_id: 6a
 scope: individual
 language_type: living

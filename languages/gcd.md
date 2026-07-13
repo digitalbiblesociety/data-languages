@@ -6,11 +6,13 @@ alt_names: [Engarilla, Eugoola, Ganggalidda, Ganggalita, Iukala, Jakula, Jogula,
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: -17.54458
 longitude: 139.42637
+language_map_img: 500px-Wellesley_Islands_locator_map.webp
 glottocode: gang1267
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic

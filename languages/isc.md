@@ -6,6 +6,8 @@ alt_names: [Iscobakebo, Iscobaquebu, Iskonawa]
 population: 82
 country_id: PE
 country_name: Peru
+location: Peru
+area: Indigenous American language
 status_id: 8b
 scope: individual
 language_type: living

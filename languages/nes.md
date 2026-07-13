@@ -2,10 +2,12 @@
 iso: nes
 name: Bhoti Kinnauri
 autonym: Bhotea of Upper Kinnauri
-alt_names: [Bhōṭiā of Upper Kanawar, Bod-Skad, Bud-Kat, Kanāwri, "Kinnauri, Bhoti", "Kinnauri,Bhoti", Mnyam, Mnyamskad, Myamkat, Myamskad, Nyamkad, Nyamkat, Nyamskad, Sangs-Rgyas, Sangyas]
+alt_names: [Bhōṭiā of Upper Kanawar, Bod-Skad, Bud-Kat, Kanāwri, "Kinnauri, Bhoti", "Kinnauri,Bhoti", Mnyam, Mnyamskad, Myamkat, Myamskad, Nyamkad, Nyamkat, Nyamskad, Sangs-Rgyas, Sangyas, Puh]
 population: 6790
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Tibetic language of India
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Himachal Pradesh"
 ---
+Bhoti Kinnauri is a Tibetic language spoken in the Lahaul and Spiti region of Himachal Pradesh, India. It forms a closely knit group with other Lahuli–Spiti languages, and is fairly close to Standard Tibetan.

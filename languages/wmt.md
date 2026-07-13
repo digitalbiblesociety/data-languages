@@ -2,10 +2,12 @@
 iso: wmt
 name: Walmajarri
 autonym: Pililuna
-alt_names: [Bililuna dialect, Djiwalinj, Djiwalinja, Dju alin, Djualin, Djuwali, Djuwarliny Walmatjari, Jiwarliny, Juwaliny, Ngadjukura, Ngainan, Nganang, Pitangu, Tjiwali, Tjiwalindja, Tjiwaling, Tjiwaliny, Tjiwarlin, Tjiwarliny, Tjiwarliñ, Tjuwalinj, Walmad jeri, Walmadere, Walmadjari, Walmadjeri, Walmadyari, Walmadyeri, Walmaharri, Walmaharry, Walmajai, Walmajari, Walmajeri, Walmajiri, Walmatjari, Walmatjarri, Walmatjeri, Walmatjiri, Walmeri, Wanaeka, Waneiga, Wanmadjari, Wariari Pundur, Warinari Pundur, Warmala, Wolmadjari, Wolmaharry, Wolmaijari, Wolmatjeri, Wolmera, Wolmeri, Wulumarai, Wulumari]
+alt_names: [Bililuna dialect, Djiwalinj, Djiwalinja, Dju alin, Djualin, Djuwali, Djuwarliny Walmatjari, Jiwarliny, Juwaliny, Ngadjukura, Ngainan, Nganang, Pitangu, Tjiwali, Tjiwalindja, Tjiwaling, Tjiwaliny, Tjiwarlin, Tjiwarliny, Tjiwarliñ, Tjuwalinj, Walmad jeri, Walmadere, Walmadjari, Walmadjeri, Walmadyari, Walmadyeri, Walmaharri, Walmaharry, Walmajai, Walmajari, Walmajeri, Walmajiri, Walmatjari, Walmatjarri, Walmatjeri, Walmatjiri, Walmeri, Wanaeka, Waneiga, Wanmadjari, Wariari Pundur, Warinari Pundur, Warmala, Wolmadjari, Wolmaharry, Wolmaijari, Wolmatjeri, Wolmera, Wolmeri, Wulumarai, Wulumari, Djuwarliny]
 population: 280
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: "4"
 scope: individual
 language_type: living

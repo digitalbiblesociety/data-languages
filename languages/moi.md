@@ -2,10 +2,12 @@
 iso: moi
 name: Mboi
 autonym: Gena
-alt_names: [Mboire, Mboyi]
+alt_names: [Mboire, Mboyi, Banga, Handa]
 population: 19000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Adamawa language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

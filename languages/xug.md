@@ -6,11 +6,14 @@ alt_names: [Kounigameg, Ryukyuan, 国頭方言]
 population: 5000
 country_id: JP
 country_name: Japan
+location: Japan
+area: Northern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 26.5911
 longitude: 128.06803
+language_map_img: Boundaries_of_the_Okinawan_Languages.svg
 glottocode: kuni1268
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic

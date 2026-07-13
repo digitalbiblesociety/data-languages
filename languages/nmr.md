@@ -6,6 +6,7 @@ alt_names: [Bari, Group 12, Niamniam, Nimbari-Kebi, Nyam-Nyam du Mayo-Kebi, Nyam
 population: null
 country_id: CM
 country_name: Cameroon
+area: Extinct Leko–Nimbari language of Cameroon
 status_id: "9"
 scope: individual
 language_type: extinct

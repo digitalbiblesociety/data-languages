@@ -6,6 +6,8 @@ alt_names: [Basa, Koromba]
 population: 2000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

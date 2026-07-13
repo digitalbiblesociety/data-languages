@@ -2,10 +2,12 @@
 iso: gbr
 name: Gbagyi
 autonym: East Gwari
-alt_names: [Gbagye, Gwari, Gwari Matai, Ibagyi]
+alt_names: [Gbagye, Gwari, Gwari Matai, Ibagyi, Diko, Genge, Gyange, Gyengyen, Kaduna, Karu, Kuta, Louome, Ngenge, Tawari, Vwezhi]
 population: 1230000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Language in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
@@ -94,3 +96,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Niger"
 ---
+Gwari is a Nupoid language spoken by the Gbagyi people, which make up over a million people in Nigeria. There are two principal varieties, Gbari and Gbagyi, which have some difficulty in communication; sociolinguistically they are distinct languages.

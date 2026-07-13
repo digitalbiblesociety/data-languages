@@ -3,10 +3,12 @@ iso: qve
 macrolanguage_id: que
 name: Eastern Apurímac Quechua
 autonym: Qosqo runasimi
-alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ\u00admac", "Quechua, Eastern Apurímac"]
+alt_names: [East Apurimac Quechua, Eastern Apurimac Quechua, "Quechua, Eastern ApurÃ­mac", "Quechua, Eastern Apurímac", Apurímac Quechua, Quechua del Este de Apurímac, Quechua, Eastern Apurímac, Este de Apurímac, Abancay, Antabamba, Cotabambas, Runa Simi]
 population: 200000
 country_id: PE
 country_name: Peru
+location: Peru
+area: "Southern Quechua dialect of Cuzco, Peru"
 status_id: "4"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: PE
     location: Peru
 ---
+Cusco Quechua is a dialect of Southern Quechua spoken in Cusco and the Department of Cusco of Peru.

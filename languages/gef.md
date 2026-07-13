@@ -6,6 +6,8 @@ alt_names: [Gerai]
 population: 2000
 country_id: GR
 country_name: Greece
+location: "Asia, Southeast"
+area: "Language spoken in Kalimantan, Indonesia"
 status_id: null
 scope: individual
 language_type: living

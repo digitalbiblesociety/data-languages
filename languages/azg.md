@@ -2,15 +2,18 @@
 iso: azg
 name: San Pedro Amuzgos Amuzgo
 autonym: Amuzgoan
-alt_names: [Amusgo, Amuzgo, Amuzgo de San Pedro Amuzgos, "Amuzgo, San Pedro Amuzgos", Azmugo, Oaxaca Amuzgo]
+alt_names: [Amusgo, Amuzgo, Amuzgo de San Pedro Amuzgos, "Amuzgo, San Pedro Amuzgos", Azmugo, Oaxaca Amuzgo, San Pedro Amuzgos, Amuzgo Bajo del Este, Jnꞌoon, Jñonꞌndaa, Ñonda]
 population: 5200
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Oto-Manguean language spoken in Mexico
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 16.51976
 longitude: -98.04643
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: sanp1260
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -52,3 +55,4 @@ translations:
   - translation_iso: zho
     name: 聖彼德羅阿穆茲戈語
 ---
+Amuzgo is an Oto-Manguean language spoken in the Costa Chica region of the Mexican states of Guerrero and Oaxaca by about 60,000 speakers. Like other Oto-Manguean languages, Amuzgo is a tonal language. From syntactical point of view Amuzgo can be considered as an active language. The name Amuzgo is claimed to be a Nahuatl exonym but its meaning is shrouded in controversy; multiple proposals have been made, including 'moss-in'.

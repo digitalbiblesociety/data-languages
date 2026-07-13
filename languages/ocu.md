@@ -6,11 +6,14 @@ alt_names: [Atzinca, Atzingo, Atzinteco, Matlatzinca, Matlatzinca (Atzingo), "Ma
 population: 642
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Moribund Oto-Manguean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 19.38715
 longitude: -99.92388
+language_map_img: 500px-Matlatzinca_languages.webp
 glottocode: atzi1235
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean

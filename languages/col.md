@@ -2,10 +2,12 @@
 iso: col
 name: "Columbia-Wenatchi"
 autonym: "Columbia-Wenatchi"
-alt_names: [Chelan, Columbia, Columbian, Columbiano, Middle Columbia Cluster, Moses Columbia, Moses Columbian, Moses-Colombia Salish, Moses-Columbia, Moses-Columbian, Nxaʔamxcín, Wenatchee, Wenatchi-Columbia]
+alt_names: [Chelan, Columbia, Columbian, Columbiano, Middle Columbia Cluster, Moses Columbia, Moses Columbian, Moses-Colombia Salish, Moses-Columbia, Moses-Columbian, Nxaʔamxcín, Wenatchee, Wenatchi-Columbia, Moses-Colombia, Nxa’amxcin, Wenatchi]
 population: 500
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Indigenous language of the United States
 status_id: 8a
 scope: individual
 language_type: living

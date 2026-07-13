@@ -6,6 +6,8 @@ alt_names: [Lemoi, Moi]
 population: 3020
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo and DRC
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 莫伊语（刚果）
     auto: true
 ---
+The Bangi language, or Bobangi, is a relative and main lexical source of Lingala spoken in central Africa. Dialects of the language are spoken on both sides of the Ubangi and the Congo rivers.

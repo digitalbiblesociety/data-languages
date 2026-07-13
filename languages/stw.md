@@ -6,6 +6,8 @@ alt_names: [Satawal, Satawalés]
 population: 460
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Micronesian language
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kqs
 name: Northern Kissi
 autonym: Gizi
-alt_names: [Kisi, Kisie, Kissi, "Kissi, Northern", Kissien]
+alt_names: [Kisi, Kisie, Kissi, "Kissi, Northern", Kissien, Kama, Liaro, Teng, Tung]
 population: 562000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mel language spoken in West Africa
 status_id: "4"
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: GN
     location: Guinea
 ---
+Kissi is a Mel language of West Africa, There are two dialects, northern and southern, and both are tonal languages. The northern dialect (kisiduei) is spoken in Guinea and in Sierra Leone. The southern dialect (kpekeduei) is spoken in Liberia and Sierra Leone. The two dialects are notably different, but are closely related.

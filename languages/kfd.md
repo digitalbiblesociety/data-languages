@@ -6,6 +6,8 @@ alt_names: [Koraga, Koraga language, "Koraga, Korra", Koragar, Koragara, Korangi
 population: 14000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in India
 status_id: 6b
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Karnataka"
 ---
+Koraga is a Dravidian language spoken by the Koraga people, a Scheduled tribe people of Dakshina Kannada, Karnataka, and Kerala in South West India. The dialect spoken by the Koraga tribe in Kerala, Mudu Koraga, is divergent enough to not be intelligible with Korra Koraga. Glottolog consider them as different languages.

@@ -2,10 +2,11 @@
 iso: inl
 name: Indonesian Sign Language
 autonym: Bahasa Isyarat Indonesia
-alt_names: [Jakarta Sign Language]
+alt_names: [Jakarta Sign Language, BISINDO, ISL]
 population: 810000
 country_id: ID
 country_name: Indonesia
+area: Sign language group of Indonesia
 status_id: 6a
 scope: individual
 language_type: living

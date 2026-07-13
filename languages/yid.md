@@ -3,6 +3,7 @@ iso: yid
 iso639_1: yi
 name: Yiddish
 autonym: יודישע
+alt_names: [ייִדיש]
 population: 1000000
 country_id: IL
 country_name: Israel

@@ -2,10 +2,11 @@
 iso: tsm
 name: Turkish Sign Language
 autonym: Türk İşaret Dili
-alt_names: [Türkische Gebärdensprache]
+alt_names: [Türkische Gebärdensprache, Tid]
 population: 250000
 country_id: TR
 country_name: Turkey
+area: Deaf sign language of Turkey
 status_id: 6a
 scope: individual
 language_type: living

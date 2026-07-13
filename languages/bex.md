@@ -2,10 +2,12 @@
 iso: bex
 name: Jur Modo
 autonym: Jur
-alt_names: [Jur Mödö, Modo, Morokodo, Mödö]
+alt_names: [Jur Mödö, Modo, Morokodo, Mödö, Lori, Modo Lali, Wetu, Wira]
 population: 180000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

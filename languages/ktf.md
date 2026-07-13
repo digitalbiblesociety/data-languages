@@ -6,6 +6,8 @@ alt_names: [Kikwami, Kwame]
 population: 400
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of, Kivu"
 ---
+Lega is a Bantu language, or dialect cluster, of the Democratic Republic of the Congo. There are two major varieties, Shabunda Lega, Mwenga Lega. Mwenga Lega, with about 10% of speakers, finds Shabunda difficult to understand.

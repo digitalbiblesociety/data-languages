@@ -2,10 +2,12 @@
 iso: xog
 name: Soga
 autonym: Lusoga
-alt_names: [Olusoga, Sogaeg, Sogum]
+alt_names: [Olusoga, Sogaeg, Sogum, Diope, Gabula, Gweri, Kigulu, Kono, Lamogi, Lamoogi, Ludiope, Lugabula, Lugweri, Lukigulu, Lukono, Lulamogi, Lulamoogi, Lunholo, Lusiginyi, Lusiki, Lutembe, Lutenga, Luuka, Nholo, Siginyi, Siki, Tembé, Tenga]
 population: 2960000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken in Uganda
 status_id: "4"
 scope: individual
 language_type: living

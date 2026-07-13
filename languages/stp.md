@@ -2,10 +2,12 @@
 iso: stp
 name: Southeastern Tepehuan
 autonym: "O'otham"
-alt_names: [SE Tepehuan, South Tepehuane, South-east Tepewan, Southeast Tepehuan, Southern Tepehuan, Southern Tepewan, Tepahue (Southeastern), Tepeguana, Tepehuan (Southeast), Tepehuan (Southeastern), Tepehuan du Sud-Est, "Tepehuan, Southeastern", Tepehuano, Tepehuán (Sureste), Tepehuán del Sureste, Tepehuán language, Tepewan simi, Tepiman]
+alt_names: [SE Tepehuan, South Tepehuane, South-east Tepewan, Southeast Tepehuan, Southern Tepehuan, Southern Tepewan, Tepahue (Southeastern), Tepeguana, Tepehuan (Southeast), Tepehuan (Southeastern), Tepehuan du Sud-Est, "Tepehuan, Southeastern", Tepehuano, Tepehuán (Sureste), Tepehuán del Sureste, Tepehuán language, Tepewan simi, Tepiman, Tepehuán, Sureste, Oꞌdam, Tepehuan de Durango]
 population: 10600
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 东南特佩万语
     auto: true
 ---
+Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers.

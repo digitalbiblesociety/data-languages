@@ -6,6 +6,7 @@ alt_names: [Línguas gestuais maias, Mayan sign languages]
 population: 500
 country_id: MX
 country_name: Mexico
+area: Sign language used by Mayan communities in Mexico and Guatemala
 status_id: 6a
 scope: individual
 language_type: living

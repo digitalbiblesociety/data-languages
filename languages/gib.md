@@ -6,11 +6,13 @@ alt_names: [Gembanawa, Gimbanawa, Jega]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Chadic language spoken in West Africa
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 12.584
 longitude: 8.615
+language_map_img: 500px-Hausa_language_map.webp
 glottocode: giba1240
 glottolog_family_id: pidg1258
 glottolog_family_name: Pidgin
@@ -53,3 +55,4 @@ translations:
     name: 吉巴纳瓦语
     auto: true
 ---
+Hausa is a Chadic language spoken primarily by the Hausa people in Niger and in the northern parts of Nigeria, Ghana, Cameroon, Benin and Togo and the southern parts of Chad. It is also spoken by a significant minority in Ivory Coast and a small number of speakers in Sudan.

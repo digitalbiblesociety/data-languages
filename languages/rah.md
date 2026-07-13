@@ -2,15 +2,18 @@
 iso: rah
 name: Rabha
 autonym: Rába katha
-alt_names: [Rava]
+alt_names: [Rava, Maitaria, Maitoria, Maituri, Rangdania, Rongdani]
 population: 374000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Sino-Tibetan language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 25.82476
 longitude: 91.16887
+language_map_img: 500px-Rabha_Map.webp
 glottocode: rabh1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

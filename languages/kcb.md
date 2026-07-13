@@ -5,11 +5,14 @@ autonym: Kawatsa
 population: 12
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Endangered Angan language of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -6.96411
 longitude: 146.20897
+language_map_img: kcb.webp
 glottocode: kawa1276
 glottolog_family_id: anga1289
 glottolog_family_name: Angan

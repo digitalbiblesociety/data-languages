@@ -44,3 +44,4 @@ translations:
     name: 中布里顿语
     auto: true
 ---
+Breton is a Southwestern Brittonic language of the Celtic language group spoken in Brittany, part of modern-day France. It is the only Celtic language still in use on the European mainland.

@@ -6,6 +6,7 @@ alt_names: [Nuristani, Parun, Paruni, Prasun, Prasuní, Pārūnī, Vasi vari, Va
 population: 8000
 country_id: AF
 country_name: Afghanistan
+area: Indo-Iranian language spoken in Afghanistan
 status_id: null
 scope: individual
 language_type: living

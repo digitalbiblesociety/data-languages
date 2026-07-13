@@ -2,10 +2,12 @@
 iso: chp
 name: Chipewyan
 autonym: Denesuline
-alt_names: [Dene, "Dene Soun'line", Dene Suline, Dene Suline language, Dene Suline simi, Dené, Dëne Súline, Dënesųłiné, Montagnais, Sluacus-tinneh, Чипевиан]
+alt_names: [Dene, "Dene Soun'line", Dene Suline, Dene Suline language, Dene Suline simi, Dené, Dëne Súline, Dënesųłiné, Montagnais, Sluacus-tinneh, Чипевиан, “Chipewyan”, Dënesųłıné, Yellowknife]
 population: 10700
 country_id: CA
 country_name: Canada
+location: Canada
+area: Athabaskan language spoken in northwestern Canada
 status_id: 6b
 scope: individual
 language_type: living

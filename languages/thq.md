@@ -2,10 +2,12 @@
 iso: thq
 name: Kochila Tharu
 autonym: Saptariya Tharu
-alt_names: ["Nepal, India", "Tharu, Kochila"]
+alt_names: ["Nepal, India", "Tharu, Kochila", Bara, Dhanusa, Kochila, Mahottari, Mid-Eastern Tharu, Morang, Morangia, Parsa, Rautahat, Saptari, Sarlahi, Siraha, Sunsari, Tharu, Madhya-Purbiya Tharu, Udayapur]
 population: 258000
 country_id: NP
 country_name: Nepal
+location: "India, Map 3"
+area: Indo-Aryan language of Nepal
 status_id: "5"
 scope: individual
 language_type: living

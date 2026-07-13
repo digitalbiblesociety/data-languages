@@ -2,10 +2,12 @@
 iso: nyy
 name: "Nyakyusa-Ngonde"
 autonym: Ngonde
-alt_names: [Ikingonde, Ikinyakyusa, Kinyakyusa, Konde, Kukwe, Mombe, Nkhonde, Nkonde, Nyakusa, Nyekyosa, Nyikyusa, Sochile, Sokile, Sokili]
+alt_names: [Ikingonde, Ikinyakyusa, Kinyakyusa, Konde, Kukwe, Mombe, Nkhonde, Nkonde, Nyakusa, Nyekyosa, Nyikyusa, Sochile, Sokile, Sokili, Cisociri, Ikinyikiusa, Ikinyikyusa, IkyaNgonde, Kaaselya, Kinyakyusa-Ngonde, Kɨnyakyʉsa, Lungulu, Mwamba, Ngumba, Nyakyusa, Salya, Selya, Seria, Sokelo, Sukwa, kiNyakyʉsa]
 population: 1359000
 country_id: TZ
 country_name: Tanzania
+location: Malawi
+area: Bantu language spoken in East Africa
 status_id: "5"
 scope: individual
 language_type: living

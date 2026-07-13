@@ -6,11 +6,14 @@ alt_names: [Macusa, Maczsa, Makusa, Nukak, Nukak Maku, Nukak language, Nukak-mak
 population: 400
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Endangered indigenous language of Colombia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 2.65939
 longitude: -71.46289
+language_map_img: Nukak.webp
 glottocode: nuka1242
 glottolog_family_id: kaku1242
 glottolog_family_name: Kakua-Nukak

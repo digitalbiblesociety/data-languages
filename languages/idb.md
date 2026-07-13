@@ -5,6 +5,7 @@ autonym: Língua da Casa
 population: 4940
 country_id: IN
 country_name: India
+area: Creole languages of India
 status_id: null
 scope: individual
 language_type: living

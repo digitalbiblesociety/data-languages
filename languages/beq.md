@@ -2,10 +2,12 @@
 iso: beq
 name: Beembe
 autonym: Kibeembe
-alt_names: [Bembe]
+alt_names: [Bembe, Keenge, Kikeenge, Kinkeenge, Kiyari, Yari]
 population: 100000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo Brazzaville
 status_id: "5"
 scope: individual
 language_type: living

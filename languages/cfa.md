@@ -2,9 +2,12 @@
 iso: cfa
 name: "Dijim-Bwilim"
 autonym: Cham
+alt_names: [Bwilim, Cam, Dijim, Dijim (Cham), Dikaka, Fitilai, Mona, Mwana, Mwano, Mwomo, Mwona]
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Waja language spoken in Eastern Nigeria
 status_id: "5"
 scope: individual
 language_type: living

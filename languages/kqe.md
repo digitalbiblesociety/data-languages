@@ -2,10 +2,12 @@
 iso: kqe
 name: Kalagan
 autonym: Kagan
-alt_names: [Philippines]
+alt_names: [Philippines, Eastern Kalagan, Isamal, Kaagan, Kinalagan, Lupon, Minuslim, Minuslim Kalagan, Western Kalagan]
 population: 48900
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian dialect cluster
 status_id: "5"
 scope: individual
 language_type: living
@@ -84,3 +86,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao, Davao Region"
 ---
+Kalagan is an Austronesian dialect cluster of the Davao Region of Mindanao in the Philippines. It is also spoken in a few parts of Caraga, also in Mindanao.

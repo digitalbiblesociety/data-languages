@@ -6,6 +6,8 @@ alt_names: [Babinemo, Gahom, Inaru, Wogu, Yigai]
 population: 550
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Sepik language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

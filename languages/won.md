@@ -2,10 +2,12 @@
 iso: won
 name: Wongo
 autonym: Tukongo
-alt_names: [Bakong, Gongo, Ndjembe, Tukkongo]
+alt_names: [Bakong, Gongo, Ndjembe, Tukkongo, Kiwongo, Tukungo]
 population: 12700
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living

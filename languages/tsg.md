@@ -2,15 +2,18 @@
 iso: tsg
 name: Tausug
 autonym: بَهَسَ سُوگ
-alt_names: [Bisaya, Joloano Sulu, Jolohano, Moro Joloano, Sinug Tausug, Sooloo, Sulu, Suluk, Tausog, Tausūg-ngî, Taw Sug, Tinausug]
+alt_names: [Bisaya, Joloano Sulu, Jolohano, Moro Joloano, Sinug Tausug, Sooloo, Sulu, Suluk, Tausog, Tausūg-ngî, Taw Sug, Tinausug, Bahasa Sug, Sinug, Joloano, Pamung Sug, Sug, Taosug]
 population: 946000
 country_id: PH
 country_name: Philippines
+location: Malaysia - Sabah
+area: Austronesian language of the Tausug people
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 5.122357
 longitude: 118.879693
+language_map_img: 500px-Tausug_language_map.webp
 scripts: [Latn]
 glottocode: taus1251
 glottolog_family_id: aust1307

@@ -6,11 +6,14 @@ alt_names: [Bai Ma]
 population: 11000
 country_id: CN
 country_name: China
+location: China
+area: Endangered Sino-Tibetan language of west-central China
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 33.10014
 longitude: 103.9524
+language_map_img: 500px-Baima_map.webp
 glottocode: baim1244
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

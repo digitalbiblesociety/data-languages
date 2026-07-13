@@ -2,10 +2,12 @@
 iso: mhi
 name: "Ma'di"
 autonym: "Ma'diti"
-alt_names: ["Ma'adi", Madi, Madi language]
+alt_names: ["Ma'adi", Madi, Madi language, Ma’adi, Ma’diti, Adjumani, Burulo, Lokai, "Ma'aditi", "Ma'di Ti", Moyo, Oyuwi, Pandikeri]
 population: 326000
 country_id: UG
 country_name: Uganda
+location: South Sudan
+area: Central Sudanic language
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: fli
 name: Fali
 autonym: Fali of Mubi
-alt_names: [Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim]
+alt_names: [Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim, Bagira, Bahuli, Bween, Bwin, Fali North, Huli, Madzara, Madzarin, Muchella, Ura Madzarin, Urahuli, Urambween, Uroovin, Uvin, Vin]
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic dialect cluster spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

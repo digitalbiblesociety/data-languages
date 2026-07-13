@@ -6,6 +6,8 @@ alt_names: [Chana, Channali, Chinal, Dagi, Harijan, Shipi]
 population: 750
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Unclassified language of India
 status_id: 6a
 scope: individual
 language_type: living

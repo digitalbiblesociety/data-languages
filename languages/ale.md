@@ -6,11 +6,14 @@ alt_names: ["\"aleut (occidental, îles du Commandeur)\"", "\"aleutiano (occiden
 population: 155
 country_id: US
 country_name: United States
+location: Eastern Russia
+area: Language of the Eskimo–Aleut language family
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 52.12283
 longitude: -174.29013
+language_map_img: Aleut_map.svg
 scripts: [Latn]
 glottocode: aleu1260
 glottolog_family_id: eski1264

@@ -2,10 +2,12 @@
 iso: ppi
 name: Paipai
 autonym: "Akwa'ala"
-alt_names: [Cuñeil, "Pai'pai", Paipái]
+alt_names: [Cuñeil, "Pai'pai", Paipái, Akwa’ala]
 population: 300
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Yuman language spoken in Mexico
 status_id: 8a
 scope: individual
 language_type: living

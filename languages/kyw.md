@@ -2,15 +2,18 @@
 iso: kyw
 name: Kudmali
 autonym: Panchpargania
-alt_names: [Bedia, Dharua, Kurmali, Kurmali Thar, Kurumali]
+alt_names: [Bedia, Dharua, Kurmali, Kurmali Thar, Kurumali, Khotta]
 population: 370230
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Indo-Aryan language spoken in eastern India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 25.92
 longitude: 87.33
+language_map_img: Kudmali_language_region.webp
 glottocode: kudm1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

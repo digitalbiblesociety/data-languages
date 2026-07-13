@@ -2,10 +2,12 @@
 iso: mji
 name: Kim Mun
 autonym: Chasan Yao
-alt_names: ["\"Man Lan-Tien\"", Coc Mun, Dao Ao Dai, Dao Lam Dinh, Dao Quan Trang, Dao Thanh Y, Gem Mun, Great Tunic Yao, Hainan Miao, Jim Mun, Jinmen, Kem Mun, Kimmun, Lan Ten, Lan Tin, Lanten, Lantin, Lowland Yao, Man, Man Lan-Tien, Man Lantien, Men, Mien, Mun, Red Trouser Yao, Shanzi Yao, Yao]
+alt_names: ["\"Man Lan-Tien\"", Coc Mun, Dao Ao Dai, Dao Lam Dinh, Dao Quan Trang, Dao Thanh Y, Gem Mun, Great Tunic Yao, Hainan Miao, Jim Mun, Jinmen, Kem Mun, Kimmun, Lan Ten, Lan Tin, Lanten, Lantin, Lowland Yao, Man, Man Lan-Tien, Man Lantien, Men, Mien, Mun, Red Trouser Yao, Shanzi Yao, Yao, Dao Ho, Kem di mun, San Chi]
 population: 374500
 country_id: CN
 country_name: China
+location: Southern China
+area: Mienic language of Asia
 status_id: 6a
 scope: individual
 language_type: living

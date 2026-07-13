@@ -2,10 +2,12 @@
 iso: tqt
 name: Western Totonac
 autonym: Ozomatlán Totonac
-alt_names: [Totonac, "Totonac, Ozumatlán", "Totonac, Western", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Ozumatlán, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
+alt_names: [Totonac, "Totonac, Ozumatlán", "Totonac, Western", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Ozumatlán, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Totonaco de Ozomatlán, Totonaco norte de Huauchinango, Xinulajgsipij tutunaku, Totonaco de Ozumatlán, Totonaco de Xinolatépetl, Totonaco de Xinulajgsípij, Totonaco del cerro Xinolatépetl, Ozomatlán Totonaco]
 population: 1610
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Totonac language of central Mexico
 status_id: 6b
 scope: individual
 language_type: living

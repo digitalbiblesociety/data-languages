@@ -2,10 +2,12 @@
 iso: mef
 name: Megam
 autonym: Lyngam
-alt_names: [Migam]
+alt_names: [Migam, Negam]
 population: 6870
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language spoken in Bangladesh
 status_id: 6a
 scope: individual
 language_type: living

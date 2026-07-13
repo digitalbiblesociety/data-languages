@@ -2,10 +2,12 @@
 iso: yam
 name: Yamba
 autonym: Bebaroe
-alt_names: ["\"Kaka\"", Boenga Ko Muzok, Kakayamba, Mbem, Mbubem, "Swe'nga"]
+alt_names: ["\"Kaka\"", Boenga Ko Muzok, Kakayamba, Mbem, Mbubem, "Swe'nga", “Kaka”, Boenga Ko, Muzok, Swe’nga, Bom, Fam, Gamfe, Gom, Gwembe, Kwak, Mfe, Ngung, Nkot, Ntim, Ntong, Nwa, Rom, Saam, Sih, Sweꞌnga, Yang]
 population: 80000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Eastern Grassfields language of Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Coeur d’Alene, Cordaleno, "Cœur d'Alène", Skitswish, "Snchitsu'u
 population: 800
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Endangered Salishan language of the US
 status_id: 8b
 scope: individual
 language_type: living

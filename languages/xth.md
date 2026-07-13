@@ -2,12 +2,15 @@
 iso: xth
 name: Yitha Yitha
 autonym: Lower Darling–Lower Lachlan
+alt_names: [Eetha-eetha]
 population: 10
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct
+language_map_img: Aboriginal_Tribes_of_Riverena.webp
 wikidata_id: Q8053879
 wikipedia_url: "https://en.wikipedia.org/wiki/Yitha_Yitha_language"
 translations:

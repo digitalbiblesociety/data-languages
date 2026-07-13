@@ -6,11 +6,13 @@ alt_names: [Eskimo (Sirenik), Old Sirenik, Old Sirinek, Sirenik, Sirenik Eskimo,
 population: 2010
 country_id: RU
 country_name: Russia
+area: Extinct Eskimo–Aleut language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 64.5192
 longitude: -173.925
+language_map_img: Asian_Siberian_Yupik_Eskimo_map.svg
 glottocode: sire1246
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut

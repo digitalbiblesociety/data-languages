@@ -6,11 +6,14 @@ alt_names: [Belbellah, Bella Bella, Háiɫzaqvḷa (Heiltsuk), Heilchuco, Heilt
 population: 1200
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Northern Wakashan language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 51.70454
 longitude: -127.22139
+language_map_img: Wakashan_map.svg
 glottocode: heil1246
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan

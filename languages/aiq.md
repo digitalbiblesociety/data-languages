@@ -6,6 +6,8 @@ alt_names: [Aimakeg, Aimaq dialect, Aímagíska, Barbari, Berberi, Chahar-Aimaq,
 population: 1000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Persian dialect of the Aimaq people of northwest Afghanistan
 status_id: 6a
 scope: individual
 language_type: living

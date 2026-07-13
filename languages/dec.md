@@ -2,10 +2,12 @@
 iso: dec
 name: Dagik
 autonym: Dengebu
-alt_names: [Buram, Dagig, Masakin, Masakin Dagig, Masakin Gusar, Reikha]
+alt_names: [Buram, Dagig, Masakin, Masakin Dagig, Masakin Gusar, Reikha, Thakik]
 population: 61000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Talodi language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living

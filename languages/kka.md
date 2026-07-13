@@ -6,6 +6,8 @@ alt_names: [Adyaktye, Akanda]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Nupoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

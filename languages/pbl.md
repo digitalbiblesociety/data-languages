@@ -6,6 +6,8 @@ alt_names: [Lemak, Mak, Panya, Panyam, Zo]
 population: 5690
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Adamawa language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

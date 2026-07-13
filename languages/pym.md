@@ -2,10 +2,12 @@
 iso: pym
 name: Fyam
 autonym: Pyem
-alt_names: [Fem, Fyem, Genawa, Gyem, Gyema, Paiem, Pem]
+alt_names: [Fem, Fyem, Genawa, Gyem, Gyema, Paiem, Pem, Pyam]
 population: 31000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Plateau language spoken in Nigeria
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mqt
 name: Mok
 autonym: Amok
-alt_names: [Angku, Hsen-Hsum, Man Met, Manmi, Manmit, Mojo, Moxo, Tai Loi, Yā-āng Lawa, i-Mok, Āng-kú]
+alt_names: [Angku, Hsen-Hsum, Man Met, Manmi, Manmit, Mojo, Moxo, Tai Loi, Yā-āng Lawa, i-Mok, Āng-kú, Muak, Muak Sa-aak]
 population: 4700
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Austroasiatic language spoken in Myanmar and Thailand
 status_id: 8b
 scope: individual
 language_type: living

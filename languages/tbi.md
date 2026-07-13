@@ -2,10 +2,11 @@
 iso: tbi
 name: Gaam
 autonym: Ingessana
-alt_names: ["Gaam, Tabi", Ingassana, Kamanidi, Mamedja, Mamidza, Metabi, Muntabi, Tabi, Tabi (Ingessana)]
+alt_names: ["Gaam, Tabi", Ingassana, Kamanidi, Mamedja, Mamidza, Metabi, Muntabi, Tabi, Tabi (Ingessana), Gaahmg]
 population: 104000
 country_id: SD
 country_name: Sudan
+location: Sudan
 status_id: 6a
 scope: individual
 language_type: living

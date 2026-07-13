@@ -2,10 +2,12 @@
 iso: mha
 name: Manda
 autonym: null
-alt_names: [Manda, Manḍa]
+alt_names: [Manda, Manḍa, Manda (India)]
 population: 4040
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: "Dravidian language of Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living

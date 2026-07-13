@@ -6,6 +6,8 @@ alt_names: [Guba, Lawmeh]
 population: 1600
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language
 status_id: 6b
 scope: individual
 language_type: living

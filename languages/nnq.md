@@ -2,10 +2,11 @@
 iso: nnq
 name: Ngindo
 autonym: Kingindo
-alt_names: [Magingo, Njindo]
+alt_names: [Magingo, Njindo, Cingindo, Gindo, Njinjo]
 population: 171000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Hua, Move dialect]
 population: 21100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.32432
 longitude: 145.38785
+language_map_img: 500px-Papua_new_guinea_eastern_highlands_province.webp
 glottocode: yaga1260
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea

@@ -2,10 +2,11 @@
 iso: mgw
 name: Matumbi
 autonym: Kimatuumbi
-alt_names: [Kimatumbi, Matuumbi]
+alt_names: [Kimatumbi, Matuumbi, Kuchi]
 population: 227000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living

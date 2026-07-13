@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: MY
 country_name: Malaysia
+area: Extinct language of Malaysia
 status_id: null
 scope: individual
 language_type: extinct

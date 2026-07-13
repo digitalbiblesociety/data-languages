@@ -3,10 +3,12 @@ iso: mmr
 macrolanguage_id: hmn
 name: Western Xiangxi Miao
 autonym: Xiangxi Miao
-alt_names: [Blue Miao, Ghao-Xong, Green Miao, "Hmong, Western Xiangxi", Hsianghsi Miao, Huayuan Miao, Meo Do, "Miao, Western Xiangxi", Red Meo, Red Miao, West Hunan Miao, Western West-Hunan Miao, Western Xiangsi Miao, White Miao]
+alt_names: [Blue Miao, Ghao-Xong, Green Miao, "Hmong, Western Xiangxi", Hsianghsi Miao, Huayuan Miao, Meo Do, "Miao, Western Xiangxi", Red Meo, Red Miao, West Hunan Miao, Western West-Hunan Miao, Western Xiangsi Miao, White Miao, Eastern Miao, Northern Miao, Western Ghao-Xong]
 population: 820000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Hmongic language of south-central China
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 西部次方言
 ---
+The Xong language is the northernmost Hmongic language, spoken in south-central China by around 0.9 million people. It is called Xiangxi Miaoyu in Chinese, as well as Eastern Miao (东部苗语). In Western sources, it has been called Meo, Red Miao, and North Hmongic. An official alphabet was adopted in 1956.

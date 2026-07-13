@@ -2,9 +2,12 @@
 iso: kpf
 name: Komba
 autonym: Neng Den
+alt_names: [Border Komba, Central Komba, East Komba, West Central Komba, West Komba]
 population: 15000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

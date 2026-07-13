@@ -2,15 +2,18 @@
 iso: pcc
 name: Bouyei
 autonym: Giay (Yay)
-alt_names: [Bo-I, Bui, Buyei, Buyi, Buyui, Chung-Chia, Dioi, Giây, Nhang, Pu-I, Pu-Jui, Pui, Pujai, Puyi, Puyoi, Shuihu, Tujia, Yay, Zhongjia]
+alt_names: [Bo-I, Bui, Buyei, Buyi, Buyui, Chung-Chia, Dioi, Giây, Nhang, Pu-I, Pu-Jui, Pui, Pujai, Puyi, Puyoi, Shuihu, Tujia, Yay, Zhongjia, Giay, Bo-Y, Bouyei 1, Bouyei 2, Bouyei 3, Bouyei Anshun, Central Guizhou, Chang Chá, Chung Cha, Cùi Chu, Dang, Giai, Giang, Nhaang, Niang, Nyang, Pau Thin, Pu-Nam, Pú Nà, Qiannan, Qianxi, Qianzhong, Sa, Southern Guizhou, Trong Ggia, Tu-Dìn, Tu-Dí, Western Guizhou, Xa Chung Chá, Yai, Yang]
 population: 2664440
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Northern Tai language of Southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 24.84839
 longitude: 106.18729
+language_map_img: 500px-Bouyei.webp
 glottocode: bouy1240
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

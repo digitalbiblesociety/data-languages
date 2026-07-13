@@ -2,10 +2,12 @@
 iso: gde
 name: Gude
 autonym: Cheke
-alt_names: [Goude, Mapodi, Mapuda, Mocigin, Motchekin, Mubi, Mudaye, Shede, Tchade, Tcheke]
+alt_names: [Goude, Mapodi, Mapuda, Mocigin, Motchekin, Mubi, Mudaye, Shede, Tchade, Tcheke, Guɗe]
 population: 88000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Chadic language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

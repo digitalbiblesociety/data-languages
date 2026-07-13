@@ -2,14 +2,18 @@
 iso: sgd
 name: Surigaonon
 autonym: Tandaganon
+alt_names: [Jaun-Jaun]
 population: 500000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language of the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9
 longitude: 126
+language_map_img: 500px-Surigaonon_language_map.webp
 glottocode: suri1273
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

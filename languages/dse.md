@@ -6,6 +6,7 @@ alt_names: [NGT, Nederlandse Gebarentaal, SLN, Sign Language of the Netherlands]
 population: 17300
 country_id: NL
 country_name: Netherlands
+area: Predominant deaf sign language of the Netherlands
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: Magi
 population: 50
 country_id: PG
 country_name: Papua New Guinea
+area: "Papuan language of Madang Province, PNG"
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: ["Malaysia, Indonesia"]
 population: 1240
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
 status_id: 6b
 scope: individual
 language_type: living

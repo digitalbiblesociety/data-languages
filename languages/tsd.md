@@ -6,6 +6,8 @@ alt_names: [Gresianeg Tsakonia, Tsaconia, Tsakonia, Tsakoniano, Tsakonien, Tsako
 population: 2000
 country_id: GR
 country_name: Greece
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: Modern Hellenic language
 status_id: 8a
 scope: individual
 language_type: living

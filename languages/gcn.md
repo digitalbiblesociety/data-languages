@@ -6,6 +6,8 @@ alt_names: [Baredji]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Northern"
 ---
+Korafe is a Papuan language spoken in Oro Province, in the "tail" of Papua New Guinea. It is part of the Binanderean family of the Trans–New Guinea phylum of languages. Korafe or could also be called Kailikaili, Kaire, Korafe, Korafi, Korape, and Kwarafe is a language spoken in the Oro Province more specifically in the Tufi District, and Cape Nelson Headlands.

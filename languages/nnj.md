@@ -6,6 +6,8 @@ alt_names: [Donyiro, Idongiro, Inyangatom, Ngiangatom]
 population: 24300
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Nilotic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

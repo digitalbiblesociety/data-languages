@@ -6,11 +6,14 @@ alt_names: [Dákwänjē, Dän kʼè, Dän kʼè (Southern Tutchone), Dä
 population: 1400
 country_id: CA
 country_name: Canada
+location: Canada
+area: Athabaskan language spoken in the Yukon
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 60.78227
 longitude: -136.57324
+language_map_img: Tutchone_map.svg
 glottocode: sout2957
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

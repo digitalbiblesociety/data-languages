@@ -6,6 +6,7 @@ alt_names: [Lingbe, Majuu, Mangbele]
 population: null
 country_id: CD
 country_name: DR Congo
+area: Extinct Bantu language of DR Congo
 status_id: "10"
 scope: individual
 language_type: extinct

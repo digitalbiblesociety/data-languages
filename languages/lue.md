@@ -2,10 +2,12 @@
 iso: lue
 name: Luvale
 autonym: Chiluvale
-alt_names: [Lovale, Lubale, Luena, Lwena, Lwena (Luvale)]
+alt_names: [Lovale, Lubale, Luena, Lwena, Lwena (Luvale), Balovale]
 population: 475000
 country_id: ZM
 country_name: Zambia
+location: Angola
+area: Bantu language of Angola and Zambia
 status_id: "2"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: pyu
 name: Puyuma
 autonym: Pinuyumayan
-alt_names: [Kadas, Panapanayan, Pelam, Pilam, Piyuma, Proto-Puyuma, Pyuma, Pî-nàm-ngî, Tipun]
+alt_names: [Kadas, Panapanayan, Pelam, Pilam, Piyuma, Proto-Puyuma, Pyuma, Pî-nàm-ngî, Tipun, Katipol, Nanwang]
 population: 8487
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 22.64302
 longitude: 120.99631
+language_map_img: 500px-Formosan_languages_2009.webp
 glottocode: puyu1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

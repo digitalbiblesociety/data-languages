@@ -2,15 +2,18 @@
 iso: mkz
 name: Makasae
 autonym: "Ma'asae"
-alt_names: [Macassai, Makasai, Makassai]
+alt_names: [Macassai, Makasai, Makassai, Ma’asae]
 population: 145000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.65843
 longitude: 126.50732
+language_map_img: 500px-Makasae.webp
 glottocode: maka1316
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

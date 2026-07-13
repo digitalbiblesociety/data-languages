@@ -2,10 +2,12 @@
 iso: gux
 name: Gourmanchéma
 autonym: Gulimancema
-alt_names: [Goulmacema, Gourma, Gourmanch(ma), Gourmanchema, Gourmantche, Gulmancema, Gurma, Gurma (Gourma, Gurma (Togo), Migulimancema]
+alt_names: [Goulmacema, Gourma, Gourmanch(ma), Gourmanchema, Gourmantche, Gulmancema, Gurma, Gurma (Gourma, Gurma (Togo), Migulimancema, Central Gourmanchema, Goulimancema, Goulmancema, Northern Gourmanchema, Southern Gourmanchema]
 population: 1109300
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

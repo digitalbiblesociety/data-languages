@@ -2,10 +2,12 @@
 iso: qxs
 name: Southern Qiang
 autonym: "Ch'iang"
-alt_names: [Northern, Qiang, "Qiang, Southern", "Qiang,Southern", Southern, Tchiangeg ar su]
+alt_names: [Northern, Qiang, "Qiang, Southern", "Qiang,Southern", Southern, Tchiangeg ar su, Ch’iang, Dajishan, Daqishan, Heihu, Jiaochang, Longxi, Mianchi, Rrmea, Sanlong, Taoping]
 population: 81300
 country_id: CN
 country_name: China
+location: China
+area: Qiangic Sino-Tibetan language
 status_id: "7"
 scope: individual
 language_type: living

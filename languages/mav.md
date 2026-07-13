@@ -2,10 +2,12 @@
 iso: mav
 name: "Sateré-Mawé"
 autonym: Sataré
-alt_names: [Andira, Andirá, Arapium, Mabue, Maragua, Maue, Maué, Mawé, Mawé-Sateré, Satere-Mawe, Sateré]
+alt_names: [Andira, Andirá, Arapium, Mabue, Maragua, Maue, Maué, Mawé, Mawé-Sateré, Satere-Mawe, Sateré, Sataré-Maué, Satere Mawe]
 population: 6220
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living

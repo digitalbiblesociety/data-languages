@@ -6,6 +6,8 @@ alt_names: ["Roglai, Cacgia"]
 population: 3000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卡其亚罗格莱语
     auto: true
 ---
+The Roglai language is a Chamic language of southern Vietnam, spoken by the Raglai people.

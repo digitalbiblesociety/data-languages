@@ -2,10 +2,12 @@
 iso: kti
 name: North Muyu
 autonym: Kati
-alt_names: [Kataut, Kati Ninanti, Kati-Ninanti, Muyu, "Muyu, North", Niinati, Ninatie, North Kati, North Moejoe, Northern Kati, Upper Muju, Yonggom, Yongkom, Yongom]
+alt_names: [Kataut, Kati Ninanti, Kati-Ninanti, Muyu, "Muyu, North", Niinati, Ninatie, North Kati, North Moejoe, Northern Kati, Upper Muju, Yonggom, Yongkom, Yongom, Moejoe, North]
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Ok language of Western New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: GN
     location: "Guinea, Dalaba"
 ---
+Muyu, Moyu, is one of the Ok languages of South Papua, Indonesia.

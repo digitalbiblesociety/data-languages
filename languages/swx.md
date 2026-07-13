@@ -6,6 +6,8 @@ alt_names: [Indios do Coxodoá, Mndios do Coxodoá, Sorowahá, Suruaha, Suruuarr
 population: 130
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Arawan language spoken in Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

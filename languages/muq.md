@@ -3,10 +3,12 @@ iso: muq
 macrolanguage_id: hmn
 name: Eastern Xiangxi Miao
 autonym: Xiangxi Miao
-alt_names: [Eastern West-Hunan Miao, Ghao-Xong, "Hmong, Eastern Xiangxi", Hsianghsi Miao, Meo Do, "Miao, Eastern Xiangxi", Red Meo, Red Miao]
+alt_names: [Eastern West-Hunan Miao, Ghao-Xong, "Hmong, Eastern Xiangxi", Hsianghsi Miao, Meo Do, "Miao, Eastern Xiangxi", Red Meo, Red Miao, Eastern Ghao-Xong, Eastern Miao, Northern Miao]
 population: 80000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmongic language of south-central China
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
   - translation_iso: zho
     name: 东部次方言
 ---
+The Xong language is the northernmost Hmongic language, spoken in south-central China by around 0.9 million people. It is called Xiangxi Miaoyu in Chinese, as well as Eastern Miao (东部苗语). In Western sources, it has been called Meo, Red Miao, and North Hmongic. An official alphabet was adopted in 1956.

@@ -5,6 +5,7 @@ autonym: Tubare
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Uto-Aztecan language of Mexico
 status_id: "10"
 scope: individual
 language_type: extinct

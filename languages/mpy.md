@@ -5,6 +5,7 @@ autonym: Mapian
 population: null
 country_id: ID
 country_name: Indonesia
+area: "Extinct language in Mapia Island, West Papua"
 status_id: "10"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: hnn
 name: Hanunoo
 autonym: "Hanunó'o"
-alt_names: [Hanonoo, Hanunóo]
+alt_names: [Hanonoo, Hanunóo, Binli, Bulalakawnon, Gubat, Gubatnon, Hanunoo-Mangyan, Kagankan, Mangyan, Sorsogonon, Waigan, Wawan, minaŋyan]
 population: 25100
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: hin
 iso639_1: hi
 name: Hindi
 autonym: "हिंदी "
-alt_names: [An Hiondúis, Fiteny hindi, High Hindi, Hindeg, Hindi linguo, Hindi simi, Hindi-gí, Hindigiella, Hindjan, Hindustani, Hindí, Hinndi, Hintçe, Indi, Khadi Boli, Khari Boli, Kihindi, Literary Hindi, Nagari Hindi, Standard Hindi, Гіндзі, Гінді, Забони ҳиндӣ, Хинди, Хіндзі, הינדי, ھىندى تىلى, ہندی, ހިންދީ, हिन्दी, हिन्दीकानी छीब, হিন্দী ঠার, இந்தி, ಹಿಂದಿ, ഹിന്ദി, རྒྱ་གར་སྐད།, ᐦᐃᓐᑏ/hintii]
+alt_names: [An Hiondúis, Fiteny hindi, High Hindi, Hindeg, Hindi linguo, Hindi simi, Hindi-gí, Hindigiella, Hindjan, Hindustani, Hindí, Hinndi, Hintçe, Indi, Khadi Boli, Khari Boli, Kihindi, Literary Hindi, Nagari Hindi, Standard Hindi, Гіндзі, Гінді, Забони ҳиндӣ, Хинди, Хіндзі, הינדי, ھىندى تىلى, ہندی, ހިންދީ, हिन्दी, हिन्दीकानी छीब, হিন্দী ঠার, இந்தி, ಹಿಂದಿ, ഹിന്ദി, རྒྱ་གར་སྐད།, ᐦᐃᓐᑏ/hintii, Dakhini, Dehlavi, Hindi-Urdu, Kauravi, Khari, Khariboli, Modern Standard Hindi, Vernacular Hindustani]
 population: 341000000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Standardised variety of Hindustani used in India
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 25
 longitude: 77
+language_map_img: hin.webp
 scripts: [Deva, Latn, Mahj]
 glottocode: hind1269
 glottolog_family_id: indo1319

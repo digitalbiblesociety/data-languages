@@ -2,10 +2,12 @@
 iso: une
 name: Uneme
 autonym: uneme nnekua
-alt_names: [Ileme, Ineme, Uleme]
+alt_names: [Ileme, Ineme, Uleme, South Uneme]
 population: 19800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

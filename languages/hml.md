@@ -3,10 +3,12 @@ iso: hml
 macrolanguage_id: hmn
 name: Luopohe Hmong
 autonym: "A-Hmyo"
-alt_names: ["Hmong, Luopohe", Luobohe Miao, Luopohe Miao, "Miao, Luopohe", Xijia Miao, Ximahe Miao]
+alt_names: ["Hmong, Luopohe", Luobohe Miao, Luopohe Miao, "Miao, Luopohe", Xijia Miao, Ximahe Miao, Lobohe Miao, Luobo River Miao, Luobohe Hmong, Xi]
 population: 61000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Hmongic language spoken in Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living

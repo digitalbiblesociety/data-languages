@@ -6,6 +6,8 @@ alt_names: [Curuaia, Kuruaia, Kuruaya]
 population: 115
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Moribund Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

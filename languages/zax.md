@@ -3,10 +3,12 @@ iso: zax
 macrolanguage_id: zap
 name: Xadani Zapotec
 autonym: (Santa María Xadani)
-alt_names: [Southern Sapoteko, Zapotec, "Zapotec, Xadani", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Southern Sapoteko, Zapotec, "Zapotec, Xadani", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita", Eastern Pochutla Zapotec, Zapoteco de Santa María Xadani]
 population: 340
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

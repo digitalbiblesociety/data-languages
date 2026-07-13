@@ -6,11 +6,13 @@ alt_names: [Karagas, Matoreg, Matorigiella, Matorish, Motor, Sayan Samoyed, Saya
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Samoyedic language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 53.43493
 longitude: 102.8561
+language_map_img: 500px-Kamas.webp
 glottocode: mato1250
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

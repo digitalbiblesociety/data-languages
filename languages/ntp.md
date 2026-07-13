@@ -2,10 +2,12 @@
 iso: ntp
 name: Northern Tepehuan
 autonym: "O'otham"
-alt_names: [N Tepehuan, N. Tepehuan, North Tepehuane, Northern Tepehuán, Northern Tepewan, Tepahue (Northern), Tepeguana, Tepehuan (Northern), "Tepehuan, Northern", Tepehuán (Norte), Tepehuán del Norte, Tepiman]
+alt_names: [N Tepehuan, N. Tepehuan, North Tepehuane, Northern Tepehuán, Northern Tepewan, Tepahue (Northern), Tepeguana, Tepehuan (Northern), "Tepehuan, Northern", Tepehuán (Norte), Tepehuán del Norte, Tepiman, Tepehuan, Northern, Oꞌotham]
 population: 9570
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Chihuahua"
 ---
+Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers.

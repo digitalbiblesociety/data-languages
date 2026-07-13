@@ -2,10 +2,12 @@
 iso: pce
 name: Ruching Palaung
 autonym: "De'ang"
-alt_names: [Bulai, Bulei, Darang, Di-Ang, Dlang, Ngwe Palaung, Palaung, "Palaung, Pale", "Palaung, Ruching", Palaungo pale, Palay, Pale, Pale Palaung, Pulei, Rumai, Silver Palaung, "Southern Ta'ang", Southern Ta-Ang]
+alt_names: [Bulai, Bulei, Darang, Di-Ang, Dlang, Ngwe Palaung, Palaung, "Palaung, Pale", "Palaung, Ruching", Palaungo pale, Palay, Pale, Pale Palaung, Pulei, Rumai, Silver Palaung, "Southern Ta'ang", Southern Ta-Ang, "Da'ang", Da’ang, Daꞌang, Raojin, Ruching, Rulai, Southern Palaung, Southern Taꞌang, Ta-Ang]
 population: 273300
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Mon–Khmer dialect cluster spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -84,3 +86,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+Palaung or Ta'ang, also known as De'ang, is an Austroasiatic dialect cluster spoken by over half a million people in Burma and neighboring countries. The Palaung people are divided into Palé (Ruching), Rumai, and Shwe, and each of whom have their own language. The Riang languages are reported to be unintelligible or only understood with great difficulty by native speakers of the other Palaung languages.

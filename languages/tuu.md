@@ -6,6 +6,7 @@ alt_names: [Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Upper Coquille]
 population: 2006
 country_id: US
 country_name: United States
+area: Native American language spoken in Oregon
 status_id: "10"
 scope: individual
 language_type: living

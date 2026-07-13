@@ -6,6 +6,7 @@ autonym: Orang Laut
 population: 1407
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
 status_id: 6b
 scope: individual
 language_type: living

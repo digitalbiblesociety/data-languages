@@ -2,10 +2,12 @@
 iso: bzq
 name: Buli
 autonym: null
-alt_names: [Buli]
+alt_names: [Buli, Buli (Indonesia)]
 population: 2520
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

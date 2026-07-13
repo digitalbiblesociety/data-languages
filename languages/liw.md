@@ -3,10 +3,12 @@ iso: liw
 macrolanguage_id: msa
 name: Col
 autonym: Base Lembak
-alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot]
+alt_names: [Co, Cor, Cul, Dot, Kol, Kor, Lembak, Linggau, Sindang, Yot, Beliti, Lembak Delapan, Lubuk Linggau, Sindang Kelingi]
 population: 145000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

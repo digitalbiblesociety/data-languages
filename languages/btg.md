@@ -2,10 +2,12 @@
 iso: btg
 name: Gagnoa Bété
 autonym: Beteic
-alt_names: [Bete, Bété, "Bété, Gagnoa", Eastern Bété, Gagnoa Bete, Gagnoua-Bété, Shyen]
+alt_names: [Bete, Bété, "Bété, Gagnoa", Eastern Bété, Gagnoa Bete, Gagnoua-Bété, Shyen, Badie, Gbadi, Gbadie, Kpakolo, Nekedi, Niabre, Zadie, Zebie]
 population: 150000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Language cluster of Kru languages spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
@@ -82,3 +84,10 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+The Bété languages are a language cluster of Kru languages spoken in central-western Ivory Coast. There are many dialects but they can be grouped as follows:Western
+Bété of Gagnoa
+Kouya
+Eastern
+Bété of Guiberoua
+Bété of Daloa
+Godié

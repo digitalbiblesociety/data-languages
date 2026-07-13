@@ -2,15 +2,18 @@
 iso: olo
 name: Livvi
 autonym: livvi
-alt_names: [Aunus, Livvi Karelian, Livvikovian, Livvin Kielie, Livvisch, Lívõnkél, Olonec, Olonecian, Olonets, Olonetsian, Olonetsiano, Olonetsien, Olonetzisch, Southern Karelian, Southern Olonetsian, Südwest-Karelisch, livviki, livvikovskij, livvikovskij dialekt, liygi]
+alt_names: [Aunus, Livvi Karelian, Livvikovian, Livvin Kielie, Livvisch, Lívõnkél, Olonec, Olonecian, Olonets, Olonetsian, Olonetsiano, Olonetsien, Olonetzisch, Southern Karelian, Southern Olonetsian, Südwest-Karelisch, livviki, livvikovskij, livvikovskij dialekt, liygi, Karelian, Livvikovskij Jazyk, Karel, Livvin kieli]
 population: 30770
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Karelian dialect spoken in Russia and Finland
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 61.656535
 longitude: 29.072645
+language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp
 glottocode: livv1243
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

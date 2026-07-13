@@ -5,11 +5,14 @@ autonym: Iyaka
 population: 300
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Angola and DRC
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -4.61444
 longitude: 16.72588
+glottocode: lonz1238
 wikidata_id: Q11002185
 translations:
   - translation_iso: ara
@@ -48,3 +51,5 @@ translations:
     name: 龙佐语
     auto: true
 ---
+Yaka, also spelled Iaca
+and Iyaka, is a Bantu language spoken in the Democratic Republic of the Congo and Angola. There are two dialects, Yaka proper, which comprises 99% of speakers, and Ngoongo. The alleged varieties Pelende and Lonzo are political rather than ethnolinguistic entities.

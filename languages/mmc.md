@@ -2,15 +2,18 @@
 iso: mmc
 name: Michoacán Mazahua
 autonym: Jñatjo (mmc)Jñatrjo (maz)
-alt_names: [Masawa, Mazahua, "Mazahua, Michoacán", Michoacan Mazahua]
+alt_names: [Masawa, Mazahua, "Mazahua, Michoacán", Michoacan Mazahua, Mazahua de occidente]
 population: 17500
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Oto-Pamean language of central Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 19.72387
 longitude: -100.29339
+language_map_img: 500px-Mazahua_language.webp
 glottocode: mich1246
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -53,3 +56,4 @@ translations:
     name: 米却阿肯玛萨瓦语
     auto: true
 ---
+The Mazahua language is an Oto-Pamean language spoken in the central states of Mexico by the ethnic group that is widely known as the Mazahua but calls itself the Hñatho. It is a Mesoamerican language and has many of the traits of the Mesoamerican Linguistic Area. In 2003, along with some 62 other indigenous languages, it was recognised by a statutory law of Mexico as an official language in the Federal District and the other administrative divisions in which it is spoken, and on an equal footing with Spanish. The largest concentration of Mazahua is found in the municipality of San Felipe del Progreso, State of México, near Toluca.

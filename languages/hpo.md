@@ -6,6 +6,8 @@ alt_names: [Hpun, Megyaw, Phon, Phun, Phön, Samong]
 population: null
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Burmish language
 status_id: 8b
 scope: individual
 language_type: extinct

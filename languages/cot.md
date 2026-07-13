@@ -2,10 +2,12 @@
 iso: cot
 name: Caquinte
 autonym: Poyenisati
-alt_names: ["\"Cachomashiri\"", Atiri, Campa, Caquinte Campa, Caquinté, Kakinte, Poyenisate]
+alt_names: ["\"Cachomashiri\"", Atiri, Campa, Caquinte Campa, Caquinté, Kakinte, Poyenisate, “Cachomashiri”, Aguenquetsatsare]
 population: 300
 country_id: PE
 country_name: Peru
+location: Peru
+area: Endangered Arawakan language of Peru
 status_id: "5"
 scope: individual
 language_type: living

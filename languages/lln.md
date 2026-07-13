@@ -2,10 +2,12 @@
 iso: lln
 name: Lele
 autonym: null
-alt_names: [Chad, Lele]
+alt_names: [Chad, Lele, Lele (Chad)]
 population: 26000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living

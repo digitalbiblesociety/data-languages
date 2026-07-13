@@ -2,10 +2,12 @@
 iso: crq
 name: "Iyo'wujwa Chorote"
 autonym: Chorote
-alt_names: [Choropi, Chorote iyojwa’ja, "Chorote, Iyo'wujwa", Choroti, "Choroti iyojwa'ja", Chorotí, Iyo’wujwa, Manjui, Manjuy, Yofúaha]
+alt_names: [Choropi, Chorote iyojwa’ja, "Chorote, Iyo'wujwa", Choroti, "Choroti iyojwa'ja", Chorotí, Iyo’wujwa, Manjui, Manjuy, Yofúaha, Iyo’wujwa Chorote, Iyoꞌwujwa Chorote, "I'no'", Inkijwas, Iyowujwa, Yofuáha, Yojwaja, Yowúwa]
 population: 1500
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Matacoan language of South America
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Ba:d", "Ba:di", Baada, Baard, Baardi, Bad, Badi, Bard, Barda, Board
 population: 380
 country_id: AU
 country_name: Australia
+location: Australia
+area: Endangered Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

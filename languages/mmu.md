@@ -2,10 +2,12 @@
 iso: mmu
 name: Mmaala
 autonym: Benyi
-alt_names: [Mmala, Nuasue]
+alt_names: [Mmala, Nuasue, Central Yambassa, Kedia, Nuenie, Nukitia, Numaala, Numala, Yambassa]
 population: 5300
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 玛阿拉语
     auto: true
 ---
+Central Yambasa or Nuasua (Nuaswa) is a Southern Bantoid language of Cameroon.

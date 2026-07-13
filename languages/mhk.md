@@ -2,10 +2,12 @@
 iso: mhk
 name: Mungaka
 autonym: Bali
-alt_names: [Li, "Munga'ka", "Nga'ka", Ngaaka]
+alt_names: [Li, "Munga'ka", "Nga'ka", Ngaaka, Munga’ka, Nga’ka, Bali Nyonga, Bandeng, Bati, Nde, Ti]
 population: 50100
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

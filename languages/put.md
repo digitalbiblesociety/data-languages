@@ -2,14 +2,18 @@
 iso: put
 name: Putoh
 autonym: Lundayeh
+alt_names: [Putuk]
 population: 6000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 3.42467
 longitude: 116.44253
+glottocode: puto1237
 wikidata_id: Q12953832
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 普托语
     auto: true
 ---
+Buri' Tau also called the Lun Bawang language, Lundayeh language and Putoh is the language spoken by the Lun Bawangs in northern Borneo. It belongs to the Malayo-Polynesian family.

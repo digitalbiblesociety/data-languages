@@ -2,15 +2,18 @@
 iso: ify
 name: "Keley-I Kallahan"
 autonym: Kallahan
-alt_names: [Antipolo Ifugao, Hanalulo, "Kallahan, Keley-I", Keley-I, Keley-I Kalanguya, Keleyqiq Ifugao]
+alt_names: [Antipolo Ifugao, Hanalulo, "Kallahan, Keley-I", Keley-I, Keley-I Kalanguya, Keleyqiq Ifugao, Bayninan, Ya-Tuka]
 population: 8000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 16.70985
 longitude: 121.03484
+language_map_img: 500px-Kallahan_language_map.webp
 glottocode: kele1259
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -64,3 +67,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Ifugao"
 ---
+Kalanguya, also called Kallahan, is a dialect cluster spoken by the Kalanguya people of northern Luzon, Philippines. The Kalanguya language is closely related to Ibaloi, Karao, and Iwak and is distantly related with Pangasinan and Ilongot. The Kalanguya language is part of the Southern Cordilleran languages of the Northern Luzon languages, which in turn is part of the Malayo-Polynesian languages.

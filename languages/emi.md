@@ -2,10 +2,12 @@
 iso: emi
 name: "Mussau-Emira"
 autonym: null
-alt_names: [Emira, Emira-Mussau, Musao, Musau-Emira, Mussau]
+alt_names: [Emira, Emira-Mussau, Musao, Musau-Emira, Mussau, Eastern Mussau, Emirau, Southern Mussau, Western Mussau]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language of northeast Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

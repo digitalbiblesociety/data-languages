@@ -3,15 +3,18 @@ iso: kas
 iso639_1: ks
 name: Kashmiri
 autonym: " كٲشُر"
-alt_names: [Caixmirí, Cashmeeree, Cashmiri, Dardu, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kašmīrī, Keshur, Keshuri, Kēšur, Кашмири, كأشُر, كشميرى, کشمیری, कश्मीरी, ಕಾಶ್ಮೀರಿ]
+alt_names: [Caixmirí, Cashmeeree, Cashmiri, Dardu, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kašmīrī, Keshur, Keshuri, Kēšur, Кашмири, كأشُر, كشميرى, کشمیری, कश्मीरी, ಕಾಶ್ಮೀರಿ, Koshur, کٲشُر, Bakawali, Bunjwali, Kashtawari, Kashtwari, Kathiawari, Kishtwari, Kistwali, Miraski, Poguli, Rambani, Riasi, Shah-Mansuri, Siraji of Doda, Siraji-Kashmiri, Standard Kashmiri, Zayoli, Zirak-Boli]
 population: 7132800
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language spoken in Kashmir
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 34.166825
 longitude: 74.330455
+language_map_img: kas.webp
 scripts: [Arab, Deva]
 glottocode: kash1277
 glottolog_family_id: indo1319

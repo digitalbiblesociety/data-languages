@@ -5,6 +5,8 @@ autonym: "Te taranga paka-Anuta"
 population: 270
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian Outlier language
 status_id: 8a
 scope: individual
 language_type: living

@@ -5,11 +5,14 @@ autonym: Ca Tua
 population: 3000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.89712
 longitude: 108.29295
+language_map_img: 500px-Katua_language.webp
 glottocode: katu1273
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

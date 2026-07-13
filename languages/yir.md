@@ -6,6 +6,8 @@ alt_names: ["Awyu, North", Djair, Dyair, Jair, Yair]
 population: 1500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Papuan language of Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 北阿乌语
     auto: true
 ---
+North Awyu is a Papuan language of Papua, Indonesia. Its exact position within the Awyu languages is unclear due to lack of data.

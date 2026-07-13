@@ -6,6 +6,8 @@ alt_names: [Adowen, Charmong, Chau an, Chau-an, Chauan, Djauun, Djauwung, Djauwu
 population: 15
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: ute
 name: "Ute-Southern Paiute"
 autonym: Southern Paiute
-alt_names: ["\"ute (Colorado, Ute des montagnes)\"", "\"ute (Colorado, Ute méridional)\"", Chemehuevi, Colorado River Numic language, Outeg, Pai Ute, Paiute, Paiute (Southern), Paiute du sud, Paviotso, S. Paiute, South Paiute, Southern, Ute, Ute (Utah), Ute-Chemehuevi, Uté (Utah)]
+alt_names: ["\"ute (Colorado, Ute des montagnes)\"", "\"ute (Colorado, Ute méridional)\"", Chemehuevi, Colorado River Numic language, Outeg, Pai Ute, Paiute, Paiute (Southern), Paiute du sud, Paviotso, S. Paiute, South Paiute, Southern, Ute, Ute (Utah), Ute-Chemehuevi, Uté (Utah), Colorado River Numic]
 population: 1900
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Dialect chain of the Numic branch of the Uto-Aztecan language family
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 40.09648
 longitude: -110.3055
+language_map_img: Colorado_River_Numic_map.svg
 glottocode: utes1238
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

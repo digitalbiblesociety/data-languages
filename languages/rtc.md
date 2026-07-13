@@ -2,10 +2,12 @@
 iso: rtc
 name: Rungtu Chin
 autonym: Taungtha
-alt_names: ["Chin, Rungtu"]
+alt_names: ["Chin, Rungtu", Thaungtha]
 population: 4000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language of Burma
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Banar, Maya, Saki, Suaro, Turutap, Yakiba]
 population: 3712
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Croisilles language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

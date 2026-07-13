@@ -6,11 +6,13 @@ alt_names: [Cuyo, Guenaken, Gününa Küne, Gününa Yajich, Gününa-Küne, Nor
 population: null
 country_id: AR
 country_name: Argentina
+area: Extinct language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -36.63757
 longitude: -62.94127
+language_map_img: Puelche_language_map.svg
 glottocode: puel1244
 wikidata_id: Q33660
 wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%BCn%C3%BCna_K%C3%BCne_language"

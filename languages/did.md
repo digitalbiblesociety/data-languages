@@ -2,10 +2,12 @@
 iso: did
 name: Didinga
 autonym: Lango
-alt_names: ["'Di'dinga", Toi, Xaroxa]
+alt_names: ["'Di'dinga", Toi, Xaroxa, ’Di’dinga]
 population: 100000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

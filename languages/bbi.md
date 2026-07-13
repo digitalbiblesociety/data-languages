@@ -6,6 +6,8 @@ alt_names: [Bankon, Barumbi, Lambi, Lombe, Lombi, Nkon, Rambi, Rombi, Rombi lang
 population: 3000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living

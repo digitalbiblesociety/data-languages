@@ -6,11 +6,14 @@ alt_names: [Murmi, Tamang, "Tamang, Eastern Gorkha", "Tamang,EasternGorkha"]
 population: 3980
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan dialect cluster
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 28.22132
 longitude: 84.94506
+language_map_img: 500px-Nepal_ethnic_groups.webp
 glottocode: east2346
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
@@ -53,3 +56,4 @@ translations:
     name: 东高卡塔芒语
     auto: true
 ---
+Tamang is a term used to collectively refer to a Sino-Tibetian language cluster spoken mainly in Nepal, Sikkim, West Bengal (Darjeeling) and North-Eastern India. It comprises Eastern Tamang, Northwestern Tamang, Southwestern Tamang, Eastern Gorkha Tamang, and Western Tamang. Lexical similarity between Eastern Tamang and other Tamang languages varies between 81% and 63%. For comparison, the lexical similarity between Spanish and Portuguese is estimated at 89%.

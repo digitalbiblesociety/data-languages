@@ -6,6 +6,8 @@ alt_names: [Columbia River, Sahaptin, Southern, Tenaino]
 population: 1000
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Sahaptian language in the United States
 status_id: "7"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 特尼诺语
     auto: true
 ---
+Sahaptin, also called Ichishkiin, is one of the two-language Sahaptian branch of the Plateau Penutian family spoken in a section of the northwestern plateau along the Columbia River and its tributaries in southern Washington, northern Oregon, and southwestern Idaho, in the United States; the other language is Nez Perce (Niimi'ipuutímt).

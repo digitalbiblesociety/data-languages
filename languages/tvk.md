@@ -2,10 +2,12 @@
 iso: tvk
 name: Southeast Ambrym
 autonym: Taveak
-alt_names: [Ambrym (Southeast), "Ambrym, Southeast", South-East Ambrym, Vatlongos]
+alt_names: [Ambrym (Southeast), "Ambrym, Southeast", South-East Ambrym, Vatlongos, Endu, Penapo, Taviak, Toak]
 population: 2000
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

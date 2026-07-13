@@ -5,11 +5,14 @@ autonym: "Nɨwɨ'abigidɨ"
 population: 150
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Uto-Aztecan language spoken in California
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 36.05383
 longitude: -118.67889
+language_map_img: Southern_Numic.svg
 glottocode: kawa1283
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

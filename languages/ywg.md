@@ -6,6 +6,7 @@ alt_names: [Inawangga, Inawongga, Ngalawonga, Ngalawongga, Ngarla-warngga, Ngaun
 population: 12
 country_id: AU
 country_name: Australia
+area: Extinct language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

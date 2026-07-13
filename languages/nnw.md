@@ -2,10 +2,12 @@
 iso: nnw
 name: Southern Nuni
 autonym: Nunuma
-alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, "Nuni, Southern", Nuruma]
+alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, "Nuni, Southern", Nuruma, Southern, Basinyari, Bwana, Gori, Micari, Nʋnɩ, Sankura, Sundoni, Yatini]
 population: 147000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language continuum of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南努尼语
     auto: true
 ---
+Nuni is the Gur language continuum of the Nuna people of Burkina Faso. The northern and southern varieties are not mutually intelligible.

@@ -6,6 +6,8 @@ alt_names: [Chekiri, Irhobo, Iselema-Otu, Ishekiri, Iwere, Jekri, Selemo, Shekir
 population: 893000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Branch of the Yoruboid group of languages
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Central Marsela, Marsela-South Babar, "Masela, Central"]
 population: 511
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language of Maluku, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 中马塞拉语
     auto: true
 ---
+Masela (Marsela) is the language of Marsela Island in southern Maluku, Indonesia. Regional varieties are distinct; Ethnologue counts it as three languages.

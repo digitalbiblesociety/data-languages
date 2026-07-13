@@ -6,6 +6,7 @@ alt_names: [LESHO]
 population: 40000
 country_id: HN
 country_name: Honduras
+area: Deaf sign language of Honduras
 status_id: "5"
 scope: individual
 language_type: living

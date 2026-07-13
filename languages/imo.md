@@ -2,10 +2,12 @@
 iso: imo
 name: Imbongu
 autonym: Kakoli
-alt_names: [Imbo Ungu]
+alt_names: [Imbo Ungu, Au, Aua, Awa, Ibo Ugu, Imbo Ungo, Imbonggo]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Hagen language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 伊蒙邦古语
     auto: true
 ---
+Kaugel (Gawigl) is one of the languages spoken in the Southern Highlands province of Papua New Guinea. Native speakers call the area on the Southern Highlands side of the Kaugel River from the Western Highlands province home.

@@ -6,6 +6,8 @@ alt_names: [Babuyan, Bataco, Battak, Tinitianes]
 population: 2041
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "7"
 scope: individual
 language_type: living

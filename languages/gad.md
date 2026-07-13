@@ -6,11 +6,14 @@ alt_names: [Pagsasao nga Gaddang]
 population: 30300
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 16.54683
 longitude: 121.17735
+language_map_img: 500px-Gaddang_language_map.webp
 glottocode: gadd1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

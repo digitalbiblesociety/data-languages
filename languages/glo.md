@@ -6,6 +6,8 @@ alt_names: [Galambi, Galembi]
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

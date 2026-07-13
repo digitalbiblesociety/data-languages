@@ -2,10 +2,12 @@
 iso: kms
 name: Kamasau
 autonym: null
-alt_names: [Komasau, Komassau, Sagi, Wand Tuan]
+alt_names: [Komasau, Komassau, Sagi, Wand Tuan, Ghini, Hagi, Segi]
 population: 960
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Torricelli language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

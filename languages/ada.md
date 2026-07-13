@@ -2,10 +2,12 @@
 iso: ada
 name: Adangme
 autonym: Dangbe
-alt_names: [Adangmeg, Dangme]
+alt_names: [Adangmeg, Dangme, Ada, Adaŋgbi, Gbugbla, Krobo, Ningo, Osu, Shai]
 population: 1020000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Kwa language of Ghana
 status_id: "4"
 scope: individual
 language_type: living

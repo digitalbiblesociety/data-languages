@@ -2,10 +2,12 @@
 iso: daq
 name: Dandami Maria
 autonym: Madiya
-alt_names: [Bison Horn Maria, Dandami Madiya, Dhuru, Gondi (Maṛia), Gonḍi, Gōṇḍī, Maria Gond, "Maria, Dandami"]
+alt_names: [Bison Horn Maria, Dandami Madiya, Dhuru, Gondi (Maṛia), Gonḍi, Gōṇḍī, Maria Gond, "Maria, Dandami", Bastar Koya]
 population: 200000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -65,3 +67,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Chhattisgarh"
 ---
+Madiya or Maria is a Dravidian language spoken in India. It may be regarded as a dialect of Gondi, but is suspected to be mutually unintelligible with most other Gondi varieties.

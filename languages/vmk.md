@@ -2,10 +2,12 @@
 iso: vmk
 name: "Makhuwa-Shirima"
 autonym: Emakuana
-alt_names: [Chirima, Eshirima, Makhuwa-Exirima, Makhuwa-Niassa, Makhuwa-Xirima, Shirima, West Makua, Xirima]
+alt_names: [Chirima, Eshirima, Makhuwa-Exirima, Makhuwa-Niassa, Makhuwa-Xirima, Shirima, West Makua, Xirima, Echirima, Emakhua Eshirima, Emakhua Exirima, Emakhuwa Echirima]
 population: 729000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

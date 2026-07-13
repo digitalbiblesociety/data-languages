@@ -2,15 +2,18 @@
 iso: snn
 name: Siona
 autonym: Gantëya coca
-alt_names: [Kakawahe, Macaguaje, Pioche, Pioche-Sioni, Piohé, Pioje, Pioje-Sioni, Piojé, Piojé-Sioni, Pioxe, Secoya, Sioni]
+alt_names: [Kakawahe, Macaguaje, Pioche, Pioche-Sioni, Piohé, Pioje, Pioje-Sioni, Piojé, Piojé-Sioni, Pioxe, Secoya, Sioni, Ceona, Ganteya, Ganteyabain, Kanú, Koka, Zeona, Baicoca, Kokakañú, Pai Coca, Siona-Secoya]
 population: 300
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Tucanoan language spoken in South America
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 0.31733
 longitude: -76.02367
+language_map_img: Siona.webp
 glottocode: sion1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

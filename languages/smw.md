@@ -6,11 +6,14 @@ alt_names: [Semawa, Sumbawarese]
 population: 300000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.71919
 longitude: 117.47199
+language_map_img: Sumbawa_language_distribution.svg
 glottocode: sumb1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

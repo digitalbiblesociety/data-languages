@@ -6,6 +6,8 @@ alt_names: [Azora, Chikobo, Chokobo, Cikobu, Cokobanci, Cokobo, Zora]
 population: 1500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

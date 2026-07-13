@@ -3,10 +3,12 @@ iso: aao
 macrolanguage_id: ara
 name: Algerian Saharan Arabic
 autonym: Saharan Arabic
-alt_names: [Arabe saharien, Arabic, "Arabic, Algerian Saharan", "Arabic, Algerian Saharan Spoken", Bedouin Saharan Dialects, Saharski arapski, Tamanghasset Arabic, Tamanrasset Arabic, Árabe sahariano]
+alt_names: [Arabe saharien, Arabic, "Arabic, Algerian Saharan", "Arabic, Algerian Saharan Spoken", Bedouin Saharan Dialects, Saharski arapski, Tamanghasset Arabic, Tamanrasset Arabic, Árabe sahariano, North African Arabic]
 population: 243000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Arabic variety spoken predominantly in the Algerian Sahara
 status_id: 6a
 scope: individual
 language_type: living

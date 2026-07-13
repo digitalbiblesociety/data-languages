@@ -2,10 +2,12 @@
 iso: cbi
 name: Chachi
 autonym: Chaʼpalaa
-alt_names: [Cayapa, "Cha' Palaachi", "Cha'palaa", "Cha'palaachi", Chapalaa, Cha’palaachi, Kayapa, Nigua]
+alt_names: [Cayapa, "Cha' Palaachi", "Cha'palaa", "Cha'palaachi", Chapalaa, Cha’palaachi, Kayapa, Nigua, Cha’ Palaachi, Chachilla]
 population: 5870
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Barbacoan language of Ecuador
 status_id: 6b
 scope: individual
 language_type: living

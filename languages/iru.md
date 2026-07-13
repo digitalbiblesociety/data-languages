@@ -2,10 +2,12 @@
 iso: iru
 name: Irula
 autonym: இருளா
-alt_names: [Eravallan, Erukala, Irava, Irulan, Irular, Irular Mozhi, Irulavan, Iruliga, Iruligar, Iruḷa, Kad Chensu, Korava]
+alt_names: [Eravallan, Erukala, Irava, Irulan, Irular, Irular Mozhi, Irulavan, Iruliga, Iruligar, Iruḷa, Kad Chensu, Korava, Attapady Irula, Irula Pallar, Irula Urali, Kasaba, Kasava, Kasuba, Malanadu, Mele Nadu Irula, Northern Irula, Southern Irula, Urali Irula, Vettakada, Vette Kada Irula, Walayar Irula]
 population: 200000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

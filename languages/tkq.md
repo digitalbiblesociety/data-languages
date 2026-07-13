@@ -6,6 +6,8 @@ alt_names: [Kana, Khana]
 population: 425000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ogoni language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

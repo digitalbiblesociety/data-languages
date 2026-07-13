@@ -3,10 +3,12 @@ iso: fuq
 macrolanguage_id: ful
 name: "Central-Eastern Niger Fulfulde"
 autonym: Fulani
-alt_names: [Fula, Fulah-Idiome, Fulbe, "Fulfulde, Central-Eastern Niger", Peul, Peulh]
+alt_names: [Fula, Fulah-Idiome, Fulbe, "Fulfulde, Central-Eastern Niger", Peul, Peulh, Fulfulde, Central Eastern Niger, Central-Eastern Niger, Central Eastern Niger Fulfulde, Wodaabe]
 population: 813000
 country_id: NE
 country_name: Niger
+location: Niger
+area: Variety of the Fula language
 status_id: "5"
 scope: individual
 language_type: living

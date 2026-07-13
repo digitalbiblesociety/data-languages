@@ -5,6 +5,7 @@ autonym: null
 population: 4
 country_id: PG
 country_name: Papua New Guinea
+area: Extinct language formerly spoken in Papua New Guinea
 status_id: "10"
 scope: individual
 language_type: extinct

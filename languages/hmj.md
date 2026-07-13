@@ -3,10 +3,12 @@ iso: hmj
 macrolanguage_id: hmn
 name: Ge
 autonym: " Zhong'an River Miao"
-alt_names: [Abefang, Beba-Befang, Befang, Bifang, "Chong'anjiang Miao", Gejia, Hmo, Hmong, "Hmong, Chonganjiang", Hmung, Hsiung, Hunan Miao, Miao]
+alt_names: [Abefang, Beba-Befang, Befang, Bifang, "Chong'anjiang Miao", Gejia, Hmo, Hmong, "Hmong, Chonganjiang", Hmung, Hsiung, Hunan Miao, Miao, Chonganjiang Miao, Ge Jia, Ge-Mong, Gedang, Gedong, Gedou, Gedou Miao, Gedoudiu, Gedu, Gho-mhon, Keh Deo]
 population: 60000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Hmongic language of Guizhou, China"
 status_id: 6b
 scope: individual
 language_type: living

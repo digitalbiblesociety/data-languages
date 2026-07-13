@@ -2,9 +2,12 @@
 iso: zil
 name: Zialo
 autonym: Ziolo
+alt_names: [Shialu]
 population: 25000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language of Guinea
 status_id: 6a
 scope: individual
 language_type: living

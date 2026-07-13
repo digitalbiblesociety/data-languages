@@ -2,9 +2,11 @@
 iso: jos
 name: Jordanian Sign Language
 autonym: "Syro-Palestinian Sign Language"
+alt_names: [LIU, Lughat il-Ishaarah il-Urduniah, Lughat il-Ishaarah il-Urduniyyah]
 population: 30000
 country_id: JO
 country_name: Jordan
+area: Sign language of the Levant
 status_id: "5"
 scope: individual
 language_type: living

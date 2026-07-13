@@ -2,10 +2,12 @@
 iso: jbu
 name: Jukun Takum
 autonym: Jukun Takum
-alt_names: [Diyi, Diyu, Jukun, Njikum, Takum]
+alt_names: [Diyi, Diyu, Jukun, Njikum, Takum, Akpanzhi, Donga]
 population: 2440
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Jukunoid language of Cameroon and Nigeria
 status_id: "3"
 scope: individual
 language_type: living

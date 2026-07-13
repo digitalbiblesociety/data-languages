@@ -2,10 +2,11 @@
 iso: woy
 name: Weyto
 autonym: (of Lake Tana)
-alt_names: [Wayto, "Weyt'o"]
+alt_names: [Wayto, "Weyt'o", Weyt’o]
 population: null
 country_id: ET
 country_name: Ethiopia
+area: Speculative extinct language of Ethiopia
 status_id: "9"
 scope: individual
 language_type: extinct

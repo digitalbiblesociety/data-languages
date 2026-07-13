@@ -2,10 +2,12 @@
 iso: ets
 name: Yekhee
 autonym: AfenmaiKukuruku (outdated)
-alt_names: ["\"Kukuruku\"", Afenmai, Etsako, Etsako (Yekhee), Etsakor, Iyekhee, Kukuruku, Sako]
+alt_names: ["\"Kukuruku\"", Afenmai, Etsako, Etsako (Yekhee), Etsakor, Iyekhee, Kukuruku, Sako, “Kukuruku”, Auchi, Avianwu, Aviele, Ekperi, Fugar, Ivhiadaobi, South Ibie, South Ivbie, Uwepa-Uwano, Uzairue, Weppa Wano]
 population: 486000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

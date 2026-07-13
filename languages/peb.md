@@ -6,11 +6,13 @@ alt_names: [Clear Lake, E Pomo, E. Pomo, East Pomo, Eastern, Eastern Pomoan Subf
 population: null
 country_id: US
 country_name: United States
+area: Pomoan language
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 38.56467
 longitude: -122.58582
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: east2545
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

@@ -6,11 +6,13 @@ alt_names: [Cabaran, Kabalan, Kabaran, Kamalan, Kavalano, Kavanan, Kavarauan, Kb
 population: 200
 country_id: TW
 country_name: Taiwan
+area: East Formosan language of Taiwan
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 24.69475
 longitude: 121.64463
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: kava1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -5,6 +5,7 @@ autonym: ZSL
 population: 14400
 country_id: ZM
 country_name: Zambia
+area: Deaf sign language of Zambia
 status_id: "4"
 scope: individual
 language_type: living

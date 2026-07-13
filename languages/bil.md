@@ -6,6 +6,8 @@ alt_names: [Bili, Billanchi, Kunbille]
 population: 42000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Bantu languages of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

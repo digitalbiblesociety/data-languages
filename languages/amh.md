@@ -3,15 +3,18 @@ iso: amh
 iso639_1: am
 name: Amharic
 autonym: አማበአማረኛ ርኛ
-alt_names: [Abyssinian, Amarigna, Amarinya, Amharisch, Ethiopian, amharique]
+alt_names: [Abyssinian, Amarigna, Amarinya, Amharisch, Ethiopian, amharique, አማርኛ, Amhara, Beta Israel]
 population: 21900000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Semitic language of Ethiopia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 11.708182
 longitude: 39.543456
+language_map_img: amh.webp
 scripts: [Ethi]
 glottocode: amha1245
 glottolog_family_id: afro1255

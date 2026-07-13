@@ -7,6 +7,8 @@ alt_names: ["Chinese, Northern Ping", Northern Ping Chinese, Northern Pinghua, "
 population: 1760000
 country_id: CN
 country_name: China
+location: "Asia, East"
+area: Branch of Chinese spoken in Guangxi
 status_id: null
 scope: individual
 language_type: living

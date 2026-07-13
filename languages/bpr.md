@@ -2,10 +2,12 @@
 iso: bpr
 name: Blaan
 autonym: Bilaan
-alt_names: [Baraan, Bilanes, Biraan, "Blaan, Koronadal", Koronadal Bilaan, Koronadal Blaan, Tagalagad]
+alt_names: [Baraan, Bilanes, Biraan, "Blaan, Koronadal", Koronadal Bilaan, Koronadal Blaan, Tagalagad, Koronadal, Koronadal B]
 population: 150000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language of the southern Philippines
 status_id: "4"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 布兰语
     auto: true
 ---
+Blaan, also known as Bla'an, is an Austronesian language of the southern Philippines spoken by an indigenous ethnic group of the same name who inhabited many areas of Soccksargen and Davao Occidental.

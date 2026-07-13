@@ -6,6 +6,7 @@ alt_names: [Istriorrumanu, Istro, Istro-Roemeens, Istro-Romanian, Istro-Romanian
 population: 560
 country_id: HR
 country_name: Croatia
+area: Romance language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living

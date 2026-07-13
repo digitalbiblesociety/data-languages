@@ -3,10 +3,12 @@ iso: wbr
 macrolanguage_id: raj
 name: Wagdi
 autonym: Bhilodi
-alt_names: [Bhili, Mina Bhil, Vagadi, Vagari, Vagdi, Vaged, Vageri, Vagi, Wagadi, Wagari, Waghari, Wagholi, Wagri]
+alt_names: [Bhili, Mina Bhil, Vagadi, Vagari, Vagdi, Vaged, Vageri, Vagi, Wagadi, Wagari, Waghari, Wagholi, Wagri, Adivasi Wagdi, Kherwara, Rewadi, Sagwara]
 population: 3390000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Bhil language of India
 status_id: "3"
 scope: individual
 language_type: living

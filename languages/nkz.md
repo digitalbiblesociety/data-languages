@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Ibibio-Efik language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 恩卡里语
     auto: true
 ---
+Ibuoro is an Ibibio-Efik language of Nigeria. Its dialects are Ibuoro proper, Ito, Itu Mbon Uzo and Nkari.

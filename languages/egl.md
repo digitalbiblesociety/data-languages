@@ -2,9 +2,11 @@
 iso: egl
 name: Emilian
 autonym: emigliàn
+alt_names: [Bolognese]
 population: 1300000
 country_id: IT
 country_name: Italy
+area: "Unstandardized language spoken in Emilia, Italy"
 status_id: "9"
 scope: individual
 language_type: living

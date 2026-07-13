@@ -2,10 +2,12 @@
 iso: nak
 name: Nakanai
 autonym: Lakalai
-alt_names: [Bileki, Nakonai]
+alt_names: [Bileki, Nakonai, Auka, Babata, Losa, Loso, Mamuga, Maututu, Muku, Tarobi, Ubae, Vele, Vere]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Language in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

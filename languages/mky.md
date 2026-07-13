@@ -6,6 +6,8 @@ alt_names: [E Makian, E. Makian, Makian (East), Makian Timur, "Makian, East", Ta
 population: 18000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

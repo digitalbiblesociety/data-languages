@@ -2,15 +2,18 @@
 iso: krj
 name: "Kinaray-A"
 autonym: "Kinaray-a"
-alt_names: [Antiqueño, Ati, Bisaya, Hamtiknon, Hinaray-A, Karay-A, Kinaray-a-ngî, Kiniray-A, Panayano, Sulud]
+alt_names: [Antiqueño, Ati, Bisaya, Hamtiknon, Hinaray-A, Karay-A, Kinaray-a-ngî, Kiniray-A, Panayano, Sulud, Anini-y, Binisaya nga Karay-a, Bisaya nga Kinaray-a, Gimaras, Guimaras Island, Hamtik, Hamtikanon, Hiniraya, Lambunao, Miag-Ao, Pandan, Pototan]
 population: 601000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Visayan language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 10.81307
 longitude: 122.2969
+language_map_img: 500px-Kinaray-a_language_map.webp
 scripts: [Latn]
 glottocode: kina1250
 glottolog_family_id: aust1307

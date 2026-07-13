@@ -2,10 +2,12 @@
 iso: mwm
 name: Sar
 autonym: Madjingay
-alt_names: [Sara, Sara Madjingay]
+alt_names: [Sara, Sara Madjingay, Madja Ngai, Madjingaye, Majingai, Majinngay, Majngany, Nar, "No", Sara Madjingaye]
 population: 183000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Central Sudanic language spoken in Chad
 status_id: "3"
 scope: individual
 language_type: living

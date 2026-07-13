@@ -2,10 +2,11 @@
 iso: otm
 name: Eastern Highland Otomi
 autonym: Highland Otomi
-alt_names: [Eastern Otomi, Othomí, Otomi, Otomi (Sierra Oriental), "Otomi, Eastern Highland", Otomí, Otomí (Sierra), Otomí de Huehuetla, Otomí de Mezquital, Otomí de la Sierra, Otomí del Oriente, Otomí del valle de Mezquital, Sierra, Sierra Oriental Otomi, Yuhu]
+alt_names: [Eastern Otomi, Othomí, Otomi, Otomi (Sierra Oriental), "Otomi, Eastern Highland", Otomí, Otomí (Sierra), Otomí de Huehuetla, Otomí de Mezquital, Otomí de la Sierra, Otomí del Oriente, Otomí del valle de Mezquital, Sierra, Sierra Oriental Otomi, Yuhu, Eastern Highland, Otomí de la Huasteca, Otomí de la Sierra Madre Oriental, Otomí de la Sierra Oriental, Otomí sierra oriente, East Highland Otomí, Sierra Otomi]
 population: 49300
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nwi
 name: Southwest Tanna
 autonym: Nawal
-alt_names: [Tanna (South-west), Tanna (Southwest), "Tanna, Southwest"]
+alt_names: [Tanna (South-west), Tanna (Southwest), "Tanna, Southwest", Nafe, Naha, Narpaimene, Nivhaar, Nowai, Nvhal, Siporo, Vaha, Yahurmene]
 population: 4500
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

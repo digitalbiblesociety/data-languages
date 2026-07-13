@@ -3,15 +3,17 @@ iso: zai
 macrolanguage_id: zap
 name: Isthmus Zapotec
 autonym: Juchitán Zapotec
-alt_names: [Eastern Sapoteko, Isthmus, Landengte-Zapoteeks, Sapoteko, Zapotec, Zapotec (Isthmus), "Zapotec, Isthmus", Zapoteco (Istmo), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco del Istmo, Zapoteco mixtepeco, Zapotekeg Isthmus, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
+alt_names: [Eastern Sapoteko, Isthmus, Landengte-Zapoteeks, Sapoteko, Zapotec, Zapotec (Isthmus), "Zapotec, Isthmus", Zapoteco (Istmo), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco del Istmo, Zapoteco mixtepeco, Zapotekeg Isthmus, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, San Blas Atempa Zapotec, diidxazá]
 population: 85000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.45479
 longitude: -94.84438
+language_map_img: 500px-IsthmusZapotecLocation.webp
 glottocode: isth1244
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean

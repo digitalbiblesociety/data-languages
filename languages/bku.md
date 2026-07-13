@@ -2,10 +2,12 @@
 iso: bku
 name: Buhid
 autonym: ᝊᝓᝑᝒ
-alt_names: [Bangon, Batangan, Bukil]
+alt_names: [Bangon, Batangan, Bukil, Buhid-Mangyan]
 population: 11600
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Philippines
 status_id: "5"
 scope: individual
 language_type: living

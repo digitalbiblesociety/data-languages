@@ -2,10 +2,12 @@
 iso: noz
 name: Nayi
 autonym: Nao
-alt_names: ["Na'o", Naya, Nayí]
+alt_names: ["Na'o", Naya, Nayí, Na’o]
 population: 1137
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: syc
 name: Classical Syriac
 autonym: ܠܫܢܐ ܣܘܪܝܝܐ
-alt_names: [Ancient Syriac, Gammelsyrisk, Lishana Atiga, Siricis, Sirieg, Siríaco, Suryaya, Suryoyo, Syriac, Syriac language, "Syriac, Classical", Syriaque, Syrisch, Syriska, Süryanice, syriaque classique, סורית, سيريانى, സുറിയാനി]
+alt_names: [Ancient Syriac, Gammelsyrisk, Lishana Atiga, Siricis, Sirieg, Siríaco, Suryaya, Suryoyo, Syriac, Syriac language, "Syriac, Classical", Syriaque, Syrisch, Syriska, Süryanice, syriaque classique, סורית, سيريانى, സുറിയാനി, Eastern Syriac, Western Syriac]
 population: 575000
 country_id: TR
 country_name: Turkey
+area: Dialect of Middle Aramaic
 status_id: "9"
 scope: individual
 language_type: historical

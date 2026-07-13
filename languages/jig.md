@@ -6,6 +6,8 @@ alt_names: [Chingalee, Chingalli, Chunguloo, Djingali, Djinggili, Djingila, Djin
 population: 23
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Endangered Mirndi language spoken in Australia
 status_id: 8a
 scope: individual
 language_type: living

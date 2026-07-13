@@ -6,6 +6,8 @@ alt_names: [Eklep, Kaul, Moewehafen]
 population: 3700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 艾克莱普语
     auto: true
 ---
+West Arawe is an Austronesian dialect chain of West New Britain, Papua New Guinea. The principal varieties are Apalik, Gimi, Aiklep, and Arawe proper (Solong).

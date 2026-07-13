@@ -5,6 +5,7 @@ autonym: null
 population: 3
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal sign language
 status_id: null
 scope: individual
 language_type: living

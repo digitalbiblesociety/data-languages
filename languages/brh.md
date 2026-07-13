@@ -2,10 +2,12 @@
 iso: brh
 name: Brahui
 autonym: براهوئی
-alt_names: [Birahui, Birahuí, Brahoui, Brahudi, Brahuidi, Brahuigi, Brahuiki, Brahweg, Brahúí, Kur Galli, Брауи, براہوی, బ్రహుయి]
+alt_names: [Birahui, Birahuí, Brahoui, Brahudi, Brahuidi, Brahuigi, Brahuiki, Brahweg, Brahúí, Kur Galli, Брауи, براہوی, బ్రహుయి, Barahui, Biravi, Jhalawan, Jharawan, Kalat, Kurd Gali, Sarawan]
 population: 2864800
 country_id: PK
 country_name: Pakistan
+location: Afghanistan
+area: Dravidian language spoken in West and Central Asia
 status_id: "5"
 scope: individual
 language_type: living

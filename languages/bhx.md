@@ -5,11 +5,14 @@ autonym: null
 population: 8670
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.2665
 longitude: 77.82676
+glottocode: bhal1245
 wikidata_id: Q8840773
 translations:
   - translation_iso: ara

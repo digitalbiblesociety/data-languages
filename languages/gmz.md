@@ -2,9 +2,11 @@
 iso: gmz
 name: Mgbolizhia
 autonym: Mgbolizhia
+alt_names: [Mgbo, Ngbo]
 population: 190000
 country_id: NG
 country_name: Nigeria
+area: Igboid language spoken by the Mgbo people in Ebonyi state in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

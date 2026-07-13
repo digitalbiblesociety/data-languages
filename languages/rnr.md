@@ -2,9 +2,11 @@
 iso: rnr
 name: Nari Nari
 autonym: Eastern Central Murray
+alt_names: [Narinari]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

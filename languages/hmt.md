@@ -2,10 +2,12 @@
 iso: hmt
 name: Hamtai
 autonym: Hamday
-alt_names: ["\"Kukukuku\"", Kamea, Kapau, Kukukuku, Watut]
+alt_names: ["\"Kukukuku\"", Kamea, Kapau, Kukukuku, Watut, “Kukukuku”, Howi, Kaintiba, "Pmasa'a", Wenta]
 population: 66000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Angan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

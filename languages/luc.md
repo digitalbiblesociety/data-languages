@@ -6,6 +6,8 @@ alt_names: [Aringeg]
 population: 495000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Central Sudanic language of Uganda
 status_id: "4"
 scope: individual
 language_type: living

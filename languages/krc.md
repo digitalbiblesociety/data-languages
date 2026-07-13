@@ -2,10 +2,12 @@
 iso: krc
 name: "Karachay-Balkar"
 autonym: "къарачай-малкъар тилтаулу тил"
-alt_names: [Karacaylar, Karachai, Karachaitsy, Karachay, Karachayeg-balkareg, Karachayla, Karaczaj-bałkarsko godka, Karatchaï-balkar, Karatjajbalkariska, Karatschaisch, Karatsjai-Balkarisch, Karatxai-Balkar, Karaçay-Balkarca, Qaraçay-Balqar tili, Qaračay, karatchai balkar]
+alt_names: [Karacaylar, Karachai, Karachaitsy, Karachay, Karachayeg-balkareg, Karachayla, Karaczaj-bałkarsko godka, Karatchaï-balkar, Karatjajbalkariska, Karatschaisch, Karatsjai-Balkarisch, Karatxai-Balkar, Karaçay-Balkarca, Qaraçay-Balqar tili, Qaračay, karatchai balkar, Balkar, Balkarian, Balqar, Karachay-Baksan-Chegem, Malqartil, Qarachaytil, Taulu til]
 population: 311700
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Turkic language of the North Caucasus
 status_id: "4"
 scope: individual
 language_type: living

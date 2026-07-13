@@ -2,10 +2,12 @@
 iso: bft
 name: Balti
 autonym: بلتیསྦལ་འཐུས་
-alt_names: [Balteg, Balti dialect, Baltistani, Baltí, Baltī, Bhotia of Baltistan, Bhōṭiā of Baltistan, Sbalt, Sbalti, Tibetan (Western), بلتی, སྦལ་ཏིའི་སྐད།]
+alt_names: [Balteg, Balti dialect, Baltistani, Baltí, Baltī, Bhotia of Baltistan, Bhōṭiā of Baltistan, Sbalt, Sbalti, Tibetan (Western), بلتی, སྦལ་ཏིའི་སྐད།, Bhoti of Baltistan, Byltae]
 population: 438800
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: "Tibetic language of Baltistan, Pakistan"
 status_id: "5"
 scope: individual
 language_type: living

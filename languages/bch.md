@@ -2,10 +2,12 @@
 iso: bch
 name: Bariai
 autonym: Kabana
-alt_names: ["\"Kabana\"", Barriai]
+alt_names: ["\"Kabana\"", Barriai, “Kabana”]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

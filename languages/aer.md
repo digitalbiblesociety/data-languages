@@ -2,15 +2,18 @@
 iso: aer
 name: Eastern Arrernte
 autonym: Arrernte
-alt_names: ["A'randa", Aldolanga, Aldolinga, Alitera, Aranda, Aranda (Eastern), Aranta, Arinta, Arranda, "Arrernte, Eastern", Arrinda, Arrundta, Arrunta, Arunda, Arunta, Arunta Ulpma, Burrin-gah, E Aranda, E. Arrernte, Eastern, Eastern Aranda, Eastern and Central Arrernte, Herrinda, Ilpma, Jairunda, Lower Aranda, Mparntwe, Mparntwe Arrernte, Oiljpma, Paroola, Pitjapitja, Pitjima, Ulpma, Ur-rundie, Urrundie, Waitjinga, Wonggaranda, Wongkatjeri, Wychinga]
+alt_names: ["A'randa", Aldolanga, Aldolinga, Alitera, Aranda, Aranda (Eastern), Aranta, Arinta, Arranda, "Arrernte, Eastern", Arrinda, Arrundta, Arrunta, Arunda, Arunta, Arunta Ulpma, Burrin-gah, E Aranda, E. Arrernte, Eastern, Eastern Aranda, Eastern and Central Arrernte, Herrinda, Ilpma, Jairunda, Lower Aranda, Mparntwe, Mparntwe Arrernte, Oiljpma, Paroola, Pitjapitja, Pitjima, Ulpma, Ur-rundie, Urrundie, Waitjinga, Wonggaranda, Wongkatjeri, Wychinga, Akarre, Antekerrepenh, Ikngerripenhe, Upper Aranda]
 population: 1910
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Central Australia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -23.35831
 longitude: 135.04638
+language_map_img: 500px-Arandic_languages.webp
 glottocode: east2379
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -73,3 +76,4 @@ rolv_dialects:
     country_id: AU
     location: "Australia, Northern Territory"
 ---
+Arrernte or Aranda, or sometimes referred to as Upper Arrernte, is a dialect cluster in the Arandic language group spoken in parts of the Northern Territory, Australia, by the Arrernte people. Other spelling variations are Arunta or Arrarnta, and all of the dialects have multiple other names.

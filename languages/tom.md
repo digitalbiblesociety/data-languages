@@ -2,10 +2,12 @@
 iso: tom
 name: Tombulu
 autonym: Minahasa
-alt_names: [Minhasa, Tombalu, Tombula, "Tombulu'", Toumbulu]
+alt_names: [Minhasa, Tombalu, Tombula, "Tombulu'", Toumbulu, Tombulu’, Taratara, Tomohon]
 population: 19000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

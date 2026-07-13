@@ -6,6 +6,8 @@ alt_names: [Dafing, Marka-Dafin, Meka]
 population: 185800
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Manding language of West Africa
 status_id: 6a
 scope: individual
 language_type: living

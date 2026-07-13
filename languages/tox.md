@@ -6,6 +6,8 @@ alt_names: [Hatohobei, Hatohobeian, Ramari Hatohobei, Tobi, Tobiaans, Tobiano, T
 population: 150
 country_id: PW
 country_name: Palau
+location: Palau
+area: Micronesian language spoken in Palau
 status_id: 8a
 scope: individual
 language_type: living

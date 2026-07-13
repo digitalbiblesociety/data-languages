@@ -2,10 +2,12 @@
 iso: mfr
 name: Marrithiyel
 autonym: Berringen
-alt_names: ["\"Bringen\"", "\"Brinken\"", Berinken, Berinkin, Berringin, Bringen, Brinkan, Brinken, Brinkin, Magatige, Marathiel, Maridhiel, Maridhiyel, Maridiel, Maridiyal, Maridiyel, Maridjiel, Marithid, Marithiel, Marithiyel, Maritige, Marri Ammu, Marridan, Marrisjefin, Matige, Muringa, Muringata, Muringe, Muritijel, Western Daly language., beringken, commonly adapted into English as Brinkin]
+alt_names: ["\"Bringen\"", "\"Brinken\"", Berinken, Berinkin, Berringin, Bringen, Brinkan, Brinken, Brinkin, Magatige, Marathiel, Maridhiel, Maridhiyel, Maridiel, Maridiyal, Maridiyel, Maridjiel, Marithid, Marithiel, Marithiyel, Maritige, Marri Ammu, Marridan, Marrisjefin, Matige, Muringa, Muringata, Muringe, Muritijel, Western Daly language., beringken, commonly adapted into English as Brinkin, “Bringen”, “Brinken”]
 population: 20
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living

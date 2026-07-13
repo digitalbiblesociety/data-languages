@@ -6,11 +6,14 @@ alt_names: [Dakaka, South Ambrym]
 population: 1200
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -16.26955
 longitude: 168.01304
+language_map_img: Daakaka-region_on_Ambrym_Vanuatu.svg
 glottocode: daka1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

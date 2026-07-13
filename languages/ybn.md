@@ -6,6 +6,7 @@ alt_names: [Yabaana, Yabarana, Yabaána]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Arawakan language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

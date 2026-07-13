@@ -6,6 +6,8 @@ alt_names: [Darang, Darang Deng, Darang Dengyu, "Deng, Darang", Digaro, Digaro M
 population: 44950
 country_id: IN
 country_name: India
+location: Southwestern China
+area: Digarish language spoken in India and China
 status_id: 6a
 scope: individual
 language_type: living

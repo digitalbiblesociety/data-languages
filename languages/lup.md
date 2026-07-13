@@ -2,10 +2,12 @@
 iso: lup
 name: Lumbu
 autonym: Ilumbu
-alt_names: [Baloumbou]
+alt_names: [Baloumbou, Yilumbu]
 population: 19700
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language spoken in Gabon and the Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: cri
 name: Sãotomense
 autonym: forro
-alt_names: [Criollo forro, Saotomense, Saotomesisk, São Tomense, São Tomé, São-tomense]
+alt_names: [Criollo forro, Saotomense, Saotomesisk, São Tomense, São Tomé, São-tomense, Santome]
 population: 55600
 country_id: ST
 country_name: "Sao Tome & Principe"
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Portuguese-based creole of São Tomé and Príncipe
 status_id: 6b
 scope: individual
 language_type: living

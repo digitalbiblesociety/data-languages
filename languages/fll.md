@@ -6,6 +6,8 @@ alt_names: [Fali, "Fali, North"]
 population: 16000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Languages of northern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord"
 ---
+Fali comprises two languages spoken in northern Cameroon. Included in Greenberg's Adamawa languages, it was excluded from that family by Boyd (1989). Roger Blench suspects it may represent one of the earlier lineages to have branched off the Atlantic–Congo stock.

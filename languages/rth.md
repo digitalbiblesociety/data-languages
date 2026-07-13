@@ -6,6 +6,8 @@ alt_names: [Bentenan, Pasan]
 population: 30000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 8b
 scope: individual
 language_type: living

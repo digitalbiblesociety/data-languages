@@ -2,10 +2,12 @@
 iso: auq
 name: Anus
 autonym: Korur
-alt_names: [Koroernoes, Sobei, Анус]
+alt_names: [Koroernoes, Sobei, Анус, Koru]
 population: 320
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Oceanic language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

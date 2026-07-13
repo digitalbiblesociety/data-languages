@@ -6,6 +6,7 @@ alt_names: [Jelnyelv, Magyar]
 population: 11200
 country_id: HU
 country_name: Hungary
+area: Deaf sign language of Hungary
 status_id: 6a
 scope: individual
 language_type: living

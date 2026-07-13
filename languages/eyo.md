@@ -7,6 +7,8 @@ alt_names: [Keyo]
 population: 251000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kalenjin language of Kenya
 status_id: "5"
 scope: individual
 language_type: living

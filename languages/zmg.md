@@ -6,6 +6,8 @@ alt_names: [Madige, Magadige, Magati Gair, Magati Ke, Magati-Ge, Magatige, Marri
 population: 100
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living

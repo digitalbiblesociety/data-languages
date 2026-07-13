@@ -2,10 +2,12 @@
 iso: acu
 name: "Achuar-Shiwiar"
 autonym: Shiwiar
-alt_names: [Achual, Achuale, Achuall, Achuar, Achuar chicham, Achuara, Chiwaro, Hivaro, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuara, Xivaro, Xívaro]
+alt_names: [Achual, Achuale, Achuall, Achuar, Achuar chicham, Achuara, Chiwaro, Hivaro, Huambisa, Huambisa (wampis), Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuara, Xivaro, Xívaro, Achiar chícham, Achuar-Shiviar, Achuar-Shiwiara, Achuare, Achuár chícham, Ashuar, Atchuara, Shiwiar chícham, Áints]
 population: 7940
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Chicham language spoken in Peru and Ecuador
 status_id: "5"
 scope: individual
 language_type: living

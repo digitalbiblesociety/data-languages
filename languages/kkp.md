@@ -6,6 +6,8 @@ alt_names: [(Yirrq-) Kongarrlh, Anavilla, "Ba:bung", Babung, Badedj, Bera, Beran
 population: 18
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living

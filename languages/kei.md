@@ -2,10 +2,12 @@
 iso: kei
 name: Kei
 autonym: Kai
-alt_names: [Kei-Fordata, Keiese, Veveu Evav]
+alt_names: [Kei-Fordata, Keiese, Veveu Evav, Saumlaki]
 population: 4500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

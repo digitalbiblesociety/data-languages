@@ -6,11 +6,13 @@ alt_names: [Italian, Italian (Napolitanian), Italien du sud, Luenga napolitana, 
 population: 5700000
 country_id: IT
 country_name: Italy
+area: Italo-Romance language spoken in Italy
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 39.22883
 longitude: 16.42246
+language_map_img: Neapolitan_languages-it.svg
 scripts: [Latn]
 glottocode: neap1235
 glottolog_family_id: indo1319

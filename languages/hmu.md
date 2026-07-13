@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 1290
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Alor language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 哈玛普语
     auto: true
 ---
+Adang is a Papuan language of the Timor–Alor–Pantar language family spoken on the island of Alor in Indonesia. The language is agglutinative. The Hamap dialect is sometimes treated as a separate language; on the other hand, Kabola, which is sociolinguistically distinct, is sometimes included. Adang, Hamap, and Kabola are considered a dialect chain. Adang is endangered as fewer speakers raise their children in Adang, instead opting for Indonesian.

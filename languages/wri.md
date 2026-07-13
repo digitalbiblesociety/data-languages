@@ -6,11 +6,13 @@ alt_names: [Malgaru, Malygaru, Malykaru, Wadi, Wadiwangga, Wari wonga, Wari-wong
 population: null
 country_id: AU
 country_name: Australia
+area: Partly extinct dialect cluster of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -24.353
 longitude: 116.927
+language_map_img: 500px-Mantharta_languages.webp
 glottocode: wari1262
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -53,3 +55,4 @@ translations:
     name: 瓦里扬加语
     auto: true
 ---
+Mantharta is a dialect cluster of Australian Aboriginal languages spoken in the southern Pilbara region of Western Australia.

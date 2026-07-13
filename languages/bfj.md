@@ -2,10 +2,12 @@
 iso: bfj
 name: Bafanji
 autonym: Bafanji
-alt_names: [Bafangi, Bafanyi, Chuufi, Nchufie]
+alt_names: [Bafangi, Bafanyi, Chuufi, Nchufie, Chufieꞌ]
 population: 17000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

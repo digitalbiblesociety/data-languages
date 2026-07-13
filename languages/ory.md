@@ -3,9 +3,12 @@ iso: ory
 macrolanguage_id: ori
 name: Odia
 autonym: ଓଡ଼ିଆ
+alt_names: [Halbi, Midnapore Odia, Mughalbandi, North Balasore Odia, Northwestern Odia, Odia Proper, Odisha, Odri, Odrum, Oliya, Oriya, Southern Odia, Standard Odia, Uriya, Utkali, Vadiya, Yudhia]
 population: 34500000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indic language
 status_id: "2"
 scope: individual
 language_type: living

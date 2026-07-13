@@ -3,15 +3,18 @@ iso: tur
 iso639_1: tr
 name: Turkish
 autonym: Türkçe
-alt_names: [An Tuircis, Anatolian, Bahsa Tureuki, Durkkagiella, Kituruki, Lìngua turca, Osmanli, Osmanli Turkish, Thú-ngí-khì-ngî, Tinurkiya, Trouk, Turc, Turcu, Turecko godka, Turečtina, Turk tili, Turkeg, Turkek, Turki, Turkiana linguo, Turkiera, Turkish bhasa, Turkish leid, Turkiska, Turks, Turksk, Turku simi, Tyrceg, Tyrkisk, Tyrkneska, Törek tele, Törks, Türk tili, Türkisch, Türkiye-gí, Tırki, Анадолу Түркчөсү, Забони туркӣ, Туркань кяль, Туркойн мотт, Түрк тыла, Төрөк теле, Թուրքերեն, טורקית, توركى, تۈرك تىلى, ܠܫܢܐ ܛܘܪܩܝܐ]
+alt_names: [An Tuircis, Anatolian, Bahsa Tureuki, Durkkagiella, Kituruki, Lìngua turca, Osmanli, Osmanli Turkish, Thú-ngí-khì-ngî, Tinurkiya, Trouk, Turc, Turcu, Turecko godka, Turečtina, Turk tili, Turkeg, Turkek, Turki, Turkiana linguo, Turkiera, Turkish bhasa, Turkish leid, Turkiska, Turks, Turksk, Turku simi, Tyrceg, Tyrkisk, Tyrkneska, Törek tele, Törks, Türk tili, Türkisch, Türkiye-gí, Tırki, Анадолу Түркчөсү, Забони туркӣ, Туркань кяль, Туркойн мотт, Түрк тыла, Төрөк теле, Թուրքերեն, טורקית, توركى, تۈرك تىلى, ܠܫܢܐ ܛܘܪܩܝܐ, Ahiska, Danubian, Dinler, Edirne, Eskisehir, Gaziantep, Istanbul Turkish, Karamanli, Macedonian Turkish, Meskhetian Turkish, Razgrad, Rumelian, Urfa]
 population: 79400000
 country_id: TR
 country_name: Turkey
+location: Cyprus
+area: Turkic language of the Turkish people
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 39.866667
 longitude: 32.866667
+language_map_img: Map_of_Turkish_Language.svg
 scripts: [Arab, Latn]
 glottocode: nucl1301
 glottolog_family_id: turk1311

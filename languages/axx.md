@@ -2,10 +2,12 @@
 iso: axx
 name: Xârâgurè
 autonym: Aragure
-alt_names: ["'Aragure", Haragure, Neukaledonien, Thio, Xaragure]
+alt_names: ["'Aragure", Haragure, Neukaledonien, Thio, Xaragure, ’Aragure]
 population: 570
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

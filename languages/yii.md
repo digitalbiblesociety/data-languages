@@ -6,11 +6,14 @@ alt_names: [Bolambi, Charroogin, Deba, Djumbandji, Eneby, Gerrah, Gijow, Gillah,
 population: 52
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -17.13318
 longitude: 145.87621
+language_map_img: 500px-Yidiny_language.webp
 glottocode: yidi1250
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

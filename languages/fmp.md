@@ -2,10 +2,12 @@
 iso: fmp
 name: "Fe'fe'"
 autonym: " Fotouni"
-alt_names: [Bafang, "Bamileke-Fe'fe'", "Fe'efe'e", "Fe'fe", "Fe?fe?", Feefee, Fefe, Nufi]
+alt_names: [Bafang, "Bamileke-Fe'fe'", "Fe'efe'e", "Fe'fe", "Fe?fe?", Feefee, Fefe, Nufi, Bamileke-Fe’fe’, Fe’efe’e]
 population: 140000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

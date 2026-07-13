@@ -2,10 +2,12 @@
 iso: kkh
 name: Khün
 autonym: ᨴᩱ᩠ᨿᨡᩨ᩠ᨶ
-alt_names: [Gon Shan, Hkun, Khuen, Khun, Khun Shan, Khyn, Kuen, Tai Khun, Tai-Khuen]
+alt_names: [Gon Shan, Hkun, Khuen, Khun, Khun Shan, Khyn, Kuen, Tai Khun, Tai-Khuen, Kang Muang, Muang Lang]
 population: 106880
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Tai language closely related to Thai and Lao
 status_id: "5"
 scope: individual
 language_type: living

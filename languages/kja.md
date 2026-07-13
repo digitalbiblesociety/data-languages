@@ -6,6 +6,8 @@ alt_names: [Kuangsu, Kuangsu-Bonggrang, Kuansu, Kwangsu-Bonggrang, Kwansu-Bonggr
 population: 300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Papua
 status_id: 8b
 scope: individual
 language_type: living

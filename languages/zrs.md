@@ -2,10 +2,12 @@
 iso: zrs
 name: Mairasi
 autonym: Faranyao
-alt_names: [Faranjao, Faranjo, Kaniran, Northeastern Mairasi]
+alt_names: [Faranjao, Faranjo, Kaniran, Northeastern Mairasi, Faranyau]
 population: 3300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

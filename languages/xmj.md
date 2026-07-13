@@ -6,6 +6,8 @@ alt_names: ["Da'a", Daa, Mayera, "Mida'a", Midah]
 population: 500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Chad and Cameroon
 status_id: 6b
 scope: individual
 language_type: living

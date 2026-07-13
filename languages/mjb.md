@@ -5,9 +5,11 @@ autonym: null
 population: 8000
 country_id: TL
 country_name: "Timor-Leste"
+area: Papuan language of East Timor
 status_id: null
 scope: individual
 language_type: living
+language_map_img: 500px-Makalero.webp
 wikidata_id: Q35729
 wikipedia_url: "https://en.wikipedia.org/wiki/Makalero"
 translations:

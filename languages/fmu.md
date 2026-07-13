@@ -2,10 +2,12 @@
 iso: fmu
 name: Far Western Muria
 autonym: Gondi
-alt_names: [Gonḍi, Gōṇḍī, "Muria, Far Western"]
+alt_names: [Gonḍi, Gōṇḍī, "Muria, Far Western", Gaita Koitor, Koitor Boli, Koitori, Far Western, Muria]
 population: 400000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Maharashtra"
 ---
+Muria is a Dravidian language spoken in India. Three varieties have mutual intelligibility. It is sometimes confused with the Madiya language. It is suspected to be mutually unintelligible with northern Gondi dialects.

@@ -6,6 +6,8 @@ alt_names: ["Chin, Senthang", "Chin,Senthang", Hsemtung, Senthang]
 population: 33000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Burma
 status_id: 6b
 scope: individual
 language_type: living

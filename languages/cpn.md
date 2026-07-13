@@ -6,6 +6,8 @@ alt_names: [Chiripong, Guang, Kyerepong, Okere]
 population: 132000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language spoken in Ghana
 status_id: 6a
 scope: individual
 language_type: living

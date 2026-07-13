@@ -6,6 +6,8 @@ alt_names: [Jabsch, Jelmek, Jelmik]
 population: 400
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Bulaka River language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living

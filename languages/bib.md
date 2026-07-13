@@ -2,15 +2,18 @@
 iso: bib
 name: Bissa
 autonym: Bisan
-alt_names: [Bisa]
+alt_names: [Bisa, Baraka, Barka, Bissa-Barka, Boussanse, Busansi, Bɩsa, Eastern Bisa, Gormine, Lebir, Lere, Western Bisa]
 population: 781000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 10.425705
 longitude: -1.673323
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: biss1248
 glottolog_family_id: mand1469
 glottolog_family_name: Mande

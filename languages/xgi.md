@@ -2,9 +2,11 @@
 iso: xgi
 name: Garingbal
 autonym: Eastern Maric
+alt_names: [Kaingbul]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +48,4 @@ translations:
     name: 加林巴尔语
     auto: true
 ---
+Biri is a language traditionally spoken in an area between Mackay and Townsville of Queensland by the Birri Gubba people. Several grammatical descriptions of Biri were written before the language was silenced, but has been undergoing revival by the community for some years.

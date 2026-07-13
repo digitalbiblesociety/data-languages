@@ -6,6 +6,8 @@ alt_names: ["'Bokoto", Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya]
 population: 50000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 苏玛语
     auto: true
 ---
+Gbeya is a Gbaya language of the Central African Republic. Ethnologue reports it may be mutually intelligible with Bozom.

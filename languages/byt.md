@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: SD
 country_name: Sudan
+area: Extinct Saharan language of Sudan
 status_id: "10"
 scope: individual
 language_type: extinct

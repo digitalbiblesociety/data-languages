@@ -5,6 +5,8 @@ autonym: Tanchangya
 population: 21600
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Indigenous language of Bangladesh
 status_id: 6a
 scope: individual
 language_type: living

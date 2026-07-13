@@ -2,15 +2,18 @@
 iso: bgc
 name: Haryanvi
 autonym: हरयाणवी
-alt_names: [Bangaru, Banger, Bangri, Bangru, Chamarwa, Desari, Deswali, Hariani, Harianvi, Hariyani, Haryani, Jati, Jatu, "Хар'янві"]
+alt_names: [Bangaru, Banger, Bangri, Bangru, Chamarwa, Desari, Deswali, Hariani, Harianvi, Hariyani, Haryani, Jati, Jatu, "Хар'янві", हरियाणवी, Bangaru Proper, Khadar]
 population: 9811000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Indo-Aryan language/dialect primarily spoken in Haryana, India"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 29.01658
 longitude: 76.0432
+language_map_img: bgc.webp
 scripts: [Deva]
 glottocode: hary1238
 glottolog_family_id: indo1319

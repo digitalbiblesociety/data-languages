@@ -6,6 +6,8 @@ alt_names: [Angaardi, Angaardie, Angardie, Ingada, Ingadi, Ingarda, Ingarra, Ing
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

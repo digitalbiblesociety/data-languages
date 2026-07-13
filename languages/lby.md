@@ -6,6 +6,8 @@ alt_names: [Bakanambia, Barum Bathama, Korko Lama Lama, Lama-Lama, Lamu-Lamu, La
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

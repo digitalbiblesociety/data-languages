@@ -6,11 +6,14 @@ alt_names: [Apay, "Ch'orti", "Ch'orti'", "Ch'orti' language", "Ch'ortí", Chorti
 population: 16700
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Central America
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 14.81804
 longitude: -89.236325
+language_map_img: Pueblos_Indigenas_antes_de_la_conquista_El_Salvador.svg
 glottocode: chor1273
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

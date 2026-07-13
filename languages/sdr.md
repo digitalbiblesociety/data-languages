@@ -2,10 +2,12 @@
 iso: sdr
 name: Oraon Sadri
 autonym: Nagpuri
-alt_names: [Chotar Nagpuri, Dikkukaji, Sadani, Sadri, "Sadri, Oraon"]
+alt_names: [Chotar Nagpuri, Dikkukaji, Sadani, Sadri, "Sadri, Oraon", Borail Sadri, Mokkan Tila Sadri, Nurpur Sadri, Pahan, Uchai Sadri]
 population: 166000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Eastern Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: BD
     location: "Bangladesh, Khulna"
 ---
+Nagpuri is an Indo-Aryan language spoken in the Indian states of Jharkhand, Chhattisgarh and Odisha. It is primarily spoken in the west and central Chota Nagpur Plateau region.

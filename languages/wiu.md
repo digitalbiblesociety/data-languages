@@ -5,11 +5,14 @@ autonym: Witu
 population: 20000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.35863
 longitude: 144.21446
+language_map_img: Wiru_language.svg
 glottocode: wiru1244
 wikidata_id: Q8027044
 wikipedia_url: "https://en.wikipedia.org/wiki/Wiru_language"

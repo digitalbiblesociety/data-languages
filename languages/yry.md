@@ -5,6 +5,7 @@ autonym: Jeljujendi
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
@@ -46,3 +47,4 @@ translations:
     name: 亚卢亚迪语
     auto: true
 ---
+Ngamini is an extinct Australian Aboriginal language of the Pama–Nyungan family once spoken by the Ngamini and related peoples.

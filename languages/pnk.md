@@ -2,10 +2,11 @@
 iso: pnk
 name: Paunaka
 autonym: Paunaka
-alt_names: [Paiconeca, Pauna-Paicone, Pauna-Paikone, Paunaca]
+alt_names: [Paiconeca, Pauna-Paicone, Pauna-Paikone, Paunaca, Pauna]
 population: 10
 country_id: BO
 country_name: Bolivia
+area: Endangered Arawakan language spoken in Bolivia
 status_id: "9"
 scope: individual
 language_type: living

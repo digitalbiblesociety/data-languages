@@ -6,6 +6,8 @@ alt_names: [Beba-Befang, Biba-Bifang, Bifang, Menchum]
 population: 2980
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

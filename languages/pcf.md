@@ -2,10 +2,12 @@
 iso: pcf
 name: Paliyan
 autonym: പാലിയൻ
-alt_names: [Makkal, Malai Paliyar, Palani, Palaya, Palayan, Paliyar, Palleyan, Palliyar, Poliyar, Seramar]
+alt_names: [Makkal, Malai Paliyar, Palani, Palaya, Palayan, Paliyar, Palleyan, Palliyar, Poliyar, Seramar, Tamil, Hill Pulaya, Karavazhi, Mala Pulayan]
 population: 9520
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Language related to Malayalam
 status_id: 6a
 scope: individual
 language_type: living

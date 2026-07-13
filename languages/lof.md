@@ -5,6 +5,8 @@ autonym: Lukha
 population: 2600
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: "Niger–Congo language of Kordofan, Sudan"
 status_id: 8a
 scope: individual
 language_type: living

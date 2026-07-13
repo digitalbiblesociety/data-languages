@@ -2,10 +2,12 @@
 iso: kno
 name: Kono
 autonym: Kono
-alt_names: [Konnoh, Коно]
+alt_names: [Konnoh, Коно, Central Kono, Fiama, Gbane, Gbane Kando, Gbense, Gorama Kono, Kamara, Kɔnɔ, Lei, Mafindo, Nimi Koro, Nimi Yama, Northern Kono, Penguia, Sando, Soa, Tankoro, Toli]
 population: 272000
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Language of Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: trs
 name: Chicahuaxtla Triqui
 autonym: "Triqui, Chicahuaxtla"
-alt_names: [Chicahuaxtla Trike, Chicahuaxtla Trique, Trike, Triki, Trique, Trique (Chicahuaxtla), Trique (de Chicahuaxtla), Triqui, Triqui de San Andrés Chicahuaxtla]
+alt_names: [Chicahuaxtla Trike, Chicahuaxtla Trique, Trike, Triki, Trique, Trique (Chicahuaxtla), Trique (de Chicahuaxtla), Triqui, Triqui de San Andrés Chicahuaxtla, Chicahuaxtla, Laguna, San José Xochistlá, Santo Domingo del Estado, Triqui Alto, nánj nïꞌïn]
 population: 4060
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Language family
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.16278
 longitude: -97.85471
+language_map_img: Triqui_map.svg
 glottocode: chic1273
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -57,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Tlaxiaco"
 ---
+The Triqui, or Trique, languages are a family of Oto-Manguean spoken by 30,000 Trique people of the Mexican states of Oaxaca and the state of Baja California in 2007. They are also spoken by 5,000 immigrants to the United States. Triqui languages belong to the Mixtecan branch together with the Mixtec languages and Cuicatec.

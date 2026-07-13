@@ -2,10 +2,12 @@
 iso: apr
 name: "Arop-Lokep"
 autonym: null
-alt_names: [Arop-Lukep, Lukep, Moromiranga, Siasi, Siassi, Tolokiwa]
+alt_names: [Arop-Lukep, Lukep, Moromiranga, Siasi, Siassi, Tolokiwa, Arop, Lokep, Lokewe, Poono]
 population: 3020
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Chulim, Chulimo túrcico, Chulym Tatar, Chulym Turkic, Chulym-Turkis
 population: 270
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Northeastern Turkic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 54.32087
 longitude: 89.55414
+language_map_img: 500px-Chulym_region.webp
 glottocode: chul1246
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

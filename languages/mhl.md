@@ -6,6 +6,8 @@ alt_names: [Mawake]
 population: 2390
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: "Papuan language of Madang, Papua New Guinea"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Badara, Badian, Badiara, Badiaranké, Badjara, Badyaranke, Bandjana,
 population: 12730
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Senegambian language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

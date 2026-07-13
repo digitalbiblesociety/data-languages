@@ -2,10 +2,12 @@
 iso: sja
 name: Epena
 autonym: Saija
-alt_names: [Catío, Chamí, Chocó, Cholo, Ember-Saija, Embera, Embera-Saija, Emberá, Emberá (South), Emberá Group, Emberá-Saija, Emperá, Epena Pedee, Epená Saija, Epéna Pedée, Napipí River, Saixa, Saixa-Baudo, Sambú, Sia pedee, Southern Embera, Southern Emberá, Southern Empera, Southern Ępęra]
+alt_names: [Catío, Chamí, Chocó, Cholo, Ember-Saija, Embera, Embera-Saija, Emberá, Emberá (South), Emberá Group, Emberá-Saija, Emperá, Epena Pedee, Epená Saija, Epéna Pedée, Napipí River, Saixa, Saixa-Baudo, Sambú, Sia pedee, Southern Embera, Southern Emberá, Southern Empera, Southern Ępęra, Eperã Pedee (Saija), Southern, Basurudo, Embena, Emberá Chami, Emberá del Sur, Epera Pedede, Epera pedee, Siapedie, Southern Epena, Êpera]
 population: 3500
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chocoan language spoken in Colombia
 status_id: "4"
 scope: individual
 language_type: living

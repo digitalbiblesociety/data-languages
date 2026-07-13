@@ -6,6 +6,8 @@ alt_names: [Bubudong, Budón-budón, Tangkou, To Budo-Budo]
 population: 180
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living

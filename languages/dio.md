@@ -2,10 +2,12 @@
 iso: dio
 name: Dibo
 autonym: Ganagana
-alt_names: [Ganagawa, Shitako, Zhitako. Ganagana, Zitako]
+alt_names: [Ganagawa, Shitako, Zhitako. Ganagana, Zitako, Zhitako]
 population: 204000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Nupoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

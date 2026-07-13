@@ -6,6 +6,8 @@ alt_names: ["Kayan, Rejang", Rejang Kajan]
 population: 3030
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian dialect cluster of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 雷让卡岩语
     auto: true
 ---
+Kayan is a dialect cluster spoken by the Kayan people of Borneo. It is a cluster of closely related dialects with limited mutual intelligibility, and is itself part of the Kayan-Murik group of Austronesian languages.

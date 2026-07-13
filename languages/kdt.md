@@ -2,15 +2,18 @@
 iso: kdt
 name: Kuy
 autonym: Kui
-alt_names: [Cuoi, Dui, Khamen-Boran, Khamenboran, Kuay, Kuayo, Kui Souei, Kuoi, Kuoy, Kuuy, Old Khmer, Soai, Souei, Suai, Suay, Suei, Sui, Suoi]
+alt_names: [Cuoi, Dui, Khamen-Boran, Khamenboran, Kuay, Kuayo, Kui Souei, Kuoi, Kuoy, Kuuy, Old Khmer, Soai, Souei, Suai, Suay, Suei, Sui, Suoi, Antra, Aouei, Chang, Douon, Kouy, Kuay Mla, Kuay Ndroe, Kuay Ndua, Kuay Oe, Kuy Ak, Kuy Anthua, Kuy Antra, "Kuy Ma'ay", Kuy May, Kuy Mlor, Na Nhyang, Nheu, Soay, Soei, Souai, Suai Chang, Xuay, Xuoi]
 population: 456000
 country_id: TH
 country_name: Thailand
+location: Cambodia
+area: Language of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.669807
 longitude: 104.91104
+language_map_img: 500px-Kuy_language.webp
 scripts: [Thai]
 glottocode: kuyy1240
 glottolog_family_id: aust1305

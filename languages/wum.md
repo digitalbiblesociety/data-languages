@@ -2,9 +2,12 @@
 iso: wum
 name: Wumbvu
 autonym: Wumvu
+alt_names: [Aka, Baaka, Babinga, Bambendjele, Bambenga, Beka, Biaka, Pygmy, Wumbu]
 population: 18300
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language spoken in Gabon and the Congo
 status_id: 6a
 scope: individual
 language_type: living

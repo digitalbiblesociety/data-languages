@@ -2,10 +2,12 @@
 iso: bqg
 name: "Bago-Kusuntu"
 autonym: Bago
-alt_names: [Koussountou]
+alt_names: [Koussountou, Kusuntu]
 population: 7500
 country_id: TG
 country_name: Togo
+location: Togo
+area: Gur language of Togo
 status_id: 6a
 scope: individual
 language_type: living

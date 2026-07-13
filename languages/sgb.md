@@ -2,10 +2,12 @@
 iso: sgb
 name: "Mag-antsi Ayta"
 autonym: "Mag-antsi"
-alt_names: ["Ayta, Mag-Anchi", "Ayta, Mag-antsi", Mag-Anchi Sambal]
+alt_names: ["Ayta, Mag-Anchi", "Ayta, Mag-antsi", Mag-Anchi Sambal, Ayta Mag-antsi, Anchi, Antsi, Ayta, Mag-Anchi Ayta]
 population: 8200
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

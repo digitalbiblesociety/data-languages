@@ -6,6 +6,7 @@ alt_names: [Djaba Djaba, Djaber Djaber, Djaberadjaber, Djaberadjabera, Djaberdja
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Nyulnyulan language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct

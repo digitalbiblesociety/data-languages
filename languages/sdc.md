@@ -7,11 +7,13 @@ alt_names: [Northwestern Sardinian, Sardinian, "Sardinian, Sassarese", Sasareseg
 population: 100000
 country_id: IT
 country_name: Italy
+area: Italo-Dalmatian language of Sardinia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 40.74795
 longitude: 8.39332
+language_map_img: 500px-Gallurese.webp
 scripts: [Latn]
 glottocode: sass1235
 glottolog_family_id: indo1319

@@ -6,6 +6,8 @@ alt_names: [Koode, Kwoode, Pia, Pitiko, Piya, Widala, Wurkum]
 population: 2500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

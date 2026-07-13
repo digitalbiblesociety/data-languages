@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: US
 country_name: United States
+area: Extinct Algonquin language of New England
 status_id: null
 scope: individual
 language_type: extinct
@@ -52,3 +53,4 @@ translations:
     name: 路普B语
     auto: true
 ---
+Loup is a term which refers to the Algonquian language varieties spoken in colonial New England as attested in the manuscripts of mid-eighteenth century French missionaries. Loup A was attested in a notebook titled Mots loups, compiled by Jean-Claude Mathevet, a priest who worked among Algonquian peoples, composing of 124 pages. Loup ('Wolf') was a French colonial ethnographic term, and usage was inconsistent. In modern literature, Loup A refers to the varieties described by Mathevet, and Loup B refers to those described by François-Auguste Magon de Terlaye.

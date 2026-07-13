@@ -2,15 +2,18 @@
 iso: sxr
 name: Saaroa
 autonym: "Hla'alua"
-alt_names: ["La'alua", "La'arua", Lha’alua, Pachien, Paichien, Rarua, Saarua, Saroa, Shishaban, Sisyaban]
+alt_names: ["La'alua", "La'arua", Lha’alua, Pachien, Paichien, Rarua, Saarua, Saroa, Shishaban, Sisyaban, La’alua, La’arua]
 population: 300
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 23.2632
 longitude: 120.71074
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: saar1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

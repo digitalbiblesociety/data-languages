@@ -2,10 +2,11 @@
 iso: ozm
 name: Koonzime
 autonym: " Koozime"
-alt_names: [Djimu, Dzimou, Kooncimo, Koozhime, Nzime, Zimu]
+alt_names: [Djimu, Dzimou, Kooncimo, Koozhime, Nzime, Zimu, Badjoue, Badwe, Badwee, Badweꞌe, Bajue, Bajweꞌe, Konzime, Kɔɔnzime, Kɔɔzime]
 population: 40000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
 status_id: "5"
 scope: individual
 language_type: living

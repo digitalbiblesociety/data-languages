@@ -6,6 +6,7 @@ alt_names: [Malaysia]
 population: null
 country_id: MY
 country_name: Malaysia
+area: Extinct language of Malaysian Borneo
 status_id: "10"
 scope: individual
 language_type: extinct

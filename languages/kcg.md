@@ -2,10 +2,12 @@
 iso: kcg
 name: Tyap
 autonym: Katab
-alt_names: [Agolok, Aguro, Agwolok, Agwot, Atyap, Gworok, Kagoro, Kataf]
+alt_names: [Agolok, Aguro, Agwolok, Agwot, Atyap, Gworok, Kagoro, Kataf, Agorok, Aholio, Asholio, Asolio, Atakar, Atakat, Aticherak, Attaka, Attakad, Attakar, Daroro, Fantuan, Fantwam, Kachichere, Kafanchan, Kpashan, Maroa, Maruwa, Sholio, Takat, Techera]
 population: 242000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Dialect cluster of Plateau languages of central Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ekr
 name: Yace
 autonym: Yache
-alt_names: [Ekpari, Iyace, Yatye]
+alt_names: [Ekpari, Iyace, Yatye, Alifokpa, Ijiegu]
 population: 50000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Idomoid language spoken in southeast Nigeria
 status_id: "5"
 scope: individual
 language_type: living

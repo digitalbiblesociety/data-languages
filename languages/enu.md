@@ -5,6 +5,8 @@ autonym: Ximoluo
 population: 30000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

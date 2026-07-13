@@ -2,15 +2,18 @@
 iso: bzd
 name: Bribri
 autonym: Talamanca
-alt_names: [Duit, Katsi, Viceita, Viceyta, Viceíta]
+alt_names: [Duit, Katsi, Viceita, Viceyta, Viceíta, Amubre-Katsi, Coroma, Salitre-Cabagra]
 population: 12800
 country_id: CR
 country_name: Costa Rica
+location: Costa Rica
+area: Chibchan language of southeast Costa Rica
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 9.39794
 longitude: -83.05395
+language_map_img: 500px-Costa-rica_bribri.webp
 glottocode: brib1243
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

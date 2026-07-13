@@ -6,6 +6,8 @@ alt_names: [Beginci]
 population: 7500
 country_id: ZZ
 country_name: Unknown or Invalid Territory
+location: "Asia, Southeast"
+area: "Language spoken in Kalimantan, Indonesia"
 status_id: null
 scope: individual
 language_type: living

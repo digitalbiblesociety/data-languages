@@ -6,6 +6,8 @@ alt_names: [Arapaho-Atsina, Arapahoan, Arapahoan Isolate, Arapahoeg, Arrapahoe, 
 population: 1070
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Plains Algonquian language of North America
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [At-nah, Chusvapo, Secwepemc, Secwepemctsía, Shooswap, səxwəxcín]
 population: 1255
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: Interior Salish language of Canada
 status_id: "7"
 scope: individual
 language_type: living

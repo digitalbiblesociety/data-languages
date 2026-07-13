@@ -6,6 +6,8 @@ alt_names: [Gire, Kire-Puire]
 population: 2420
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Ramu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

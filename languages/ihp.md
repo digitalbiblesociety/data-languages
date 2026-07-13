@@ -5,6 +5,8 @@ autonym: Kapaur
 population: 5500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

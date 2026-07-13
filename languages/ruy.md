@@ -6,6 +6,8 @@ alt_names: [Amala, Mala, Rumaiya, Tumala]
 population: 6630
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

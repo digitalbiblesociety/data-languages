@@ -6,6 +6,7 @@ alt_names: [Afghanistan]
 population: 2100
 country_id: AF
 country_name: Afghanistan
+area: Extinct Persian language of Afghanistan
 status_id: "9"
 scope: individual
 language_type: living

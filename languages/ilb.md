@@ -2,10 +2,12 @@
 iso: ilb
 name: Ila
 autonym: Lundwe
-alt_names: [Chiila, Shukulumbwe, Sukulumbwe]
+alt_names: [Chiila, Shukulumbwe, Sukulumbwe, Lumbu]
 population: 82900
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language spoken in Zambia
 status_id: "5"
 scope: individual
 language_type: living

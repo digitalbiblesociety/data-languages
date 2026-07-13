@@ -2,10 +2,12 @@
 iso: tth
 name: "Upper Ta'oih"
 autonym: Ta Oi
-alt_names: [(Kha)Tahoi, Kantua, Kha Tahoï, Kon-Tu, Kontu, Ta Hoi, "Ta'oih", "Ta'oih, Upper", Ta-Oi, Ta-Oy, Ta-ôih, Tau Oi, Toi-Oi, Tà-Oi, Tă-hoi]
+alt_names: [(Kha)Tahoi, Kantua, Kha Tahoï, Kon-Tu, Kontu, Ta Hoi, "Ta'oih", "Ta'oih, Upper", Ta-Oi, Ta-Oy, Ta-ôih, Tau Oi, Toi-Oi, Tà-Oi, Tă-hoi, Katang, Ta-oiq, Ta’oiq]
 population: 49900
 country_id: LA
 country_name: Laos
+location: Laos
+area: Southeast Asian dialect chain
 status_id: 6a
 scope: individual
 language_type: living
@@ -89,3 +91,4 @@ rolv_dialects:
     country_id: LA
     location: Laos
 ---
+Ta'Oi is a dialect continuum within the Katuic branch of the Austroasiatic language family, spoken amongst the Ta Oi people in the Salavan and Sekong provinces in Laos and the municipality of Huế in Vietnam.

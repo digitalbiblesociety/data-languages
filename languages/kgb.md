@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卡韦语
     auto: true
 ---
+Maʼya is an Austronesian language of the Raja Ampat islands in Southwest Papua, Indonesia. It is part of the South Halmahera–West New Guinea (SHWNG) subgroup and is spoken by about 6,000 people in coastal villages on the islands of Batanta, Misool, Salawati, and Waigeo, on the boundary between Austronesian and Papuan languages.

@@ -2,10 +2,12 @@
 iso: sor
 name: Somrai
 autonym: Sibine
-alt_names: [East Chadic A.1, Shibne, Somrai Group, Somre, Somrei, Soumrai, Soumray, Sounrai, Sumrai]
+alt_names: [East Chadic A.1, Shibne, Somrai Group, Somre, Somrei, Soumrai, Soumray, Sounrai, Sumrai, Somray]
 population: 7410
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: "5"
 scope: individual
 language_type: living

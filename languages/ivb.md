@@ -6,11 +6,14 @@ alt_names: [Babuyan, Ibataan, Ivatan]
 population: 1240
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Batanic language of the Ivatan people of the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 18.93984
 longitude: 121.90888
+language_map_img: 500px-The_Batanic_languages.webp
 glottocode: ibat1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -52,3 +55,4 @@ translations:
     name: 伊巴坦语
     auto: true
 ---
+The Ivatan language, also known as Chirin nu Ivatan, is an Austronesian language spoken in the Batanes Islands of the Philippines.

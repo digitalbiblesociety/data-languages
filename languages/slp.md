@@ -2,10 +2,12 @@
 iso: slp
 name: Lamaholot
 autonym: Solorese
-alt_names: [Solor]
+alt_names: [Solor, Ile Mandiri, Larantuka, Lewolaga, Muhang, Pukaunu, Ritaebang, Taka, Tanjung Bunda, West Lamaholot, West Solor]
 population: 225000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Austonesian language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living

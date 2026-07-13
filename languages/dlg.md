@@ -2,15 +2,18 @@
 iso: dlg
 name: Dolgan
 autonym: Дулҕан
-alt_names: [Dolganca, Dolgane, Dolganeg, Dolgansk, Dolgán, Dulğan, Haka, долган тыла, Һака, һака тыла]
+alt_names: [Dolganca, Dolgane, Dolganeg, Dolgansk, Dolgán, Dulğan, Haka, долган тыла, Һака, һака тыла, Dolgang]
 population: 4870
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Northern Siberian Turkic language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 71.10828
 longitude: 94.29358
+language_map_img: 500px-Yakut_and_Dolgan_languages.webp
 glottocode: dolg1241
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

@@ -6,6 +6,8 @@ alt_names: [Chirumba, Cwaya, Ludumor, Shuway]
 population: 3500
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language of Sudan
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nin
 name: Ninzo
 autonym: Ninzam
-alt_names: [Akiza, Amar Tita, Ancha, Fadan Wate, Gbhu D Amar Randfa, Hate, Incha, Kwasu, Nunzo, Sambe]
+alt_names: [Akiza, Amar Tita, Ancha, Fadan Wate, Gbhu D Amar Randfa, Hate, Incha, Kwasu, Nunzo, Sambe, Gbhu]
 population: 35000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Guba, Gubawa, Mashiki]
 population: 1200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

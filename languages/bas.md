@@ -2,10 +2,12 @@
 iso: bas
 name: Basa
 autonym: Mbene
-alt_names: [Basa, Basa-um, Basaa, Basaa language, Basaeg, Basaá, Bassa]
+alt_names: [Basa, Basa-um, Basaa, Basaa language, Basaeg, Basaá, Bassa, Bicek, Bikyek, Bisaa, Mbele, Mee, Mvele, Northern Mbene, Tupen, Bakem, Basso, Bibeng, Bon, Dibobom, Diboum, Log, Mbang, Mpo, Ndokama, Ndokbele, Ndokpenda, Nyamtam]
 population: 300000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

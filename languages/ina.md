@@ -3,7 +3,7 @@ iso: ina
 iso639_1: ia
 name: Interlingua
 autonym: Interlingua
-alt_names: [Antërlenga, Interlingua de Iala, Interlingva, Interlingvao, Interlíngua, Sí-Nterlingua, Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, ინტერლინგუა, インターリングア, 인테르링구아]
+alt_names: [Antërlenga, Interlingua de Iala, Interlingva, Interlingvao, Interlíngua, Sí-Nterlingua, Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, ინტერლინგუა, インターリングア, 인테르링구아, Interlingua (International Auxiliary Language Association)]
 population: 1500
 country_id: ZZ
 country_name: Unknown or Invalid Territory

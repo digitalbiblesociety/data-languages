@@ -6,6 +6,7 @@ alt_names: [Dhobi, Dhore, Dhori, Dhowari, Doria]
 population: 49100
 country_id: IN
 country_name: India
+location: "India, Map 6"
 status_id: 6a
 scope: individual
 language_type: living

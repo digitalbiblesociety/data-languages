@@ -6,6 +6,7 @@ alt_names: [Basa, Basa-Kontagora]
 population: 30000
 country_id: NG
 country_name: Nigeria
+area: Endangered Kainji language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

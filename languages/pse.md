@@ -3,15 +3,18 @@ iso: pse
 macrolanguage_id: msa
 name: Central Malay
 autonym: Middle Malay
-alt_names: [Bengkulu, Besemah, Enim, Lintang, "Malay, Central", Midden Maleisch, Ogan, Pasemah, Semendo, Serawai]
+alt_names: [Bengkulu, Besemah, Enim, Lintang, "Malay, Central", Midden Maleisch, Ogan, Pasemah, Semendo, Serawai, Benakat, Central, Kikim, Kisam, Lematang Ulu, Malay, "Central: Ogan Malay", "Central: Pasemah Malay", Melayu Tengah, Rambang, Semenda]
 population: 1590000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian spoken language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -3.79673
 longitude: 103.13721
+language_map_img: Barisan_lects.svg
 glottocode: cent2053
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

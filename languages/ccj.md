@@ -6,6 +6,8 @@ alt_names: [Haal, I-Hadja, Kassanga]
 population: 690
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Senegambian language
 status_id: 8b
 scope: individual
 language_type: living

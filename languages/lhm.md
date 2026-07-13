@@ -2,10 +2,12 @@
 iso: lhm
 name: Lhomi
 autonym: "Ü-Tsang"
-alt_names: [Central Tibetan, Kar Bhote, Kath Bhote, Lhoket, Shing Saapa]
+alt_names: [Central Tibetan, Kar Bhote, Kath Bhote, Lhoket, Shing Saapa, Bho Te bhasha]
 population: 5660
 country_id: NP
 country_name: Nepal
+location: China
+area: Most spoken and standard of the Tibetic languages
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卢米语
     auto: true
 ---
+Central Tibetan language, also known as or Ü-Tsang dialect, Dbus Tibetan, or Ü Tibetan, is the most widely spoken Tibetic language and the basis of Standard Tibetan.

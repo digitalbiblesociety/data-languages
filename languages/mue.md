@@ -6,11 +6,14 @@ alt_names: [Ecuador, Медиа-ленгуа]
 population: 1000
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Mixed Kichwa–Spanish language of Ecuador
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.04518
 longitude: -78.53916
+language_map_img: ECU_orthographic.svg
 glottocode: medi1245
 glottolog_family_id: mixe1287
 glottolog_family_name: Mixed Language

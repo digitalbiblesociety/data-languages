@@ -6,6 +6,8 @@ alt_names: [Marityemeri, Moil, Nangikurunggurr, Nangityemeri, "Ngan'gikurunggurr
 population: 220
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Aboriginal language spoken in Australia's Northern Territory"
 status_id: "7"
 scope: individual
 language_type: living

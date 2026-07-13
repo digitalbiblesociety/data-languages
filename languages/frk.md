@@ -2,6 +2,7 @@
 iso: frk
 name: Frankish
 autonym: Old Franconian
+alt_names: [Fränkisch]
 population: null
 country_id: DE
 country_name: Germany
@@ -10,6 +11,7 @@ scope: individual
 language_type: historical
 latitude: 52.89596
 longitude: 9.98388
+glottocode: fran1264
 wikidata_id: Q10860505
 wikipedia_url: "https://en.wikipedia.org/wiki/Frankish_language"
 translations:

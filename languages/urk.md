@@ -3,10 +3,12 @@ iso: urk
 macrolanguage_id: msa
 name: "Urak Lawoi'"
 autonym: อูรัก ลาโว้ย
-alt_names: [Chaw Talay, Chawnam, Lawoi, Lawta, "Orak Lawoi'"]
+alt_names: [Chaw Talay, Chawnam, Lawoi, Lawta, "Orak Lawoi'", Orak Lawoi’, Adang, Phuket Old Peoples, Phuket Young Peoples]
 population: 3000
 country_id: TH
 country_name: Thailand
+location: Southern Thailand
+area: Austronesian language spoken in Thailand
 status_id: 6b
 scope: individual
 language_type: living

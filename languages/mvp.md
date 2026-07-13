@@ -2,10 +2,12 @@
 iso: mvp
 name: Duri
 autonym: Massenrempulu
-alt_names: [Masenrempulu, Nordost-Celebes]
+alt_names: [Masenrempulu, Nordost-Celebes, Baraka, Benteng Alla, Cakke-Kalosi]
 population: 123000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

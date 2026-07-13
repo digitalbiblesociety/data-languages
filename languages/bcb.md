@@ -5,11 +5,14 @@ autonym: Bainouk
 population: 1850
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Senegambian dialect cluster of West Africa
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 12.5053
 longitude: -15.99689
+glottocode: bain1260
 wikidata_id: Q36390
 translations:
   - translation_iso: ara
@@ -44,3 +47,4 @@ translations:
     name: 拜努克-萨米克语
     auto: true
 ---
+Banyun (Banyum), Nyun, or Bainouk, is a Senegambian language group of around 8 closely related languages in Senegal and Guinea-Bissau.

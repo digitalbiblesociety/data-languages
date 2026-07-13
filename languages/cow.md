@@ -6,6 +6,7 @@ alt_names: ["Sƛ'púmš", sƛʼpúlmš]
 population: null
 country_id: US
 country_name: United States
+area: Salishan language of Southwestern Washington
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Maru, Mono]
 population: 300
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Moribund Mbum language in northern Cameroon
 status_id: "7"
 scope: individual
 language_type: living

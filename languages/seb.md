@@ -2,15 +2,18 @@
 iso: seb
 name: Shempire Senoufo
 autonym: Shenpire
-alt_names: ["Senoufo, Shempire"]
+alt_names: ["Senoufo, Shempire", Syempire, Shempire]
 population: 114800
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.48673
 longitude: -6.37129
+language_map_img: 500px-Supyire_language.webp
+glottocode: shem1239
 wikidata_id: Q36325
 wikipedia_url: "https://en.wikipedia.org/wiki/Shempire_language"
 translations:

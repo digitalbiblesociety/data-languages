@@ -6,6 +6,8 @@ alt_names: [Agoma, Gwong, Gyong, Kwong]
 population: 25400
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

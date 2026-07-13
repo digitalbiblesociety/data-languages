@@ -6,6 +6,8 @@ alt_names: [Ahizi, Aizi, "Aizi, Tiagbamrin", Lélémrin, Tiagba]
 population: 9000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

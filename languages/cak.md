@@ -2,10 +2,12 @@
 iso: cak
 name: Kaqchikel
 autonym: Kaqchikel Chʼabʼäl
-alt_names: [Cakchiquel, Central, Kachiquel, Kakchiquel, Kaqchikel simi, "Kaqchikel, Central", Kaqchiquel]
+alt_names: [Cakchiquel, Central, Kachiquel, Kakchiquel, Kaqchikel simi, "Kaqchikel, Central", Kaqchiquel, Acatenango Southwestern Cakchiquel, Cakchiquel Occidental, Cakchiquel Oriental, Cakchiquel Santo Domingo Xenacoj, Cakchiquel Sur Central, Cakchiquel de Santa María de Jesús, Cakchiquel sur de Sacatepéquez, Eastern Cakchiquel, "Kach'ab'al", Kachꞌabꞌal, Kaqchikel Oriental, Kaqchikel Sur Central, Kaqchikel Sur Occidental, Kaqchikel de Santa María de Jesús, Kaqchikel sur de Sacatepéquez, Central Kaqchikel, Eastern Kaqchikel, Santa Maria de Jesus Kaqchikel, Santo Domingo Xenacoj Kaqchikel, South Central Kaqchikel, Southern Kaqchikel, Western Kaqchikel, Yepocapa - Southwestern Kaqchikel, Maya, Northern Cakchiquel, Santa María de Jesús Cakchiquel, Santo Domingo Xenacoj Cakchiquel, South Central Cakchiquel, Southern, Southern Cakchiquel, Western Cakchiquel, Xenacoj, Yepocapa Southwestern Cakchiquel]
 population: 1070000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Guatemala
 status_id: "4"
 scope: individual
 language_type: living

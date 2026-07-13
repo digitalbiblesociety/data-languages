@@ -6,11 +6,14 @@ alt_names: [Balagur, Belagar, Kaera, Pi Abaŋ Hur, Pura, Tarang]
 population: 11000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.31787
 longitude: 124.25117
+language_map_img: 500px-Alor-pantar_map_color.webp
 glottocode: blag1240
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

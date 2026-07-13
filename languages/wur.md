@@ -6,6 +6,7 @@ alt_names: [Auwul warwak, Iji, Iyi, Jalo, Jarle, Limpapiu, Lyi, Urugu, Uruku, Wa
 population: null
 country_id: AU
 country_name: Australia
+area: "Northern Territory, Cobourg Peninsula."
 status_id: "10"
 scope: individual
 language_type: extinct

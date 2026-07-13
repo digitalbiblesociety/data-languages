@@ -2,10 +2,12 @@
 iso: lti
 name: Leti
 autonym: null
-alt_names: [Leti, Leti language, Letti]
+alt_names: [Leti, Leti language, Letti, Leti (Indonesia)]
 population: 7500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

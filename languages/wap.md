@@ -2,10 +2,12 @@
 iso: wap
 name: Wapishana
 autonym: Wapichan
-alt_names: [Aruma, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Upichana, Vapidiana, Wapichana, Wapisana, Wapishiana, Wapishshiana, Wapisiana, Wapitxana, Wapitxano, Wapixana, Wapixiana, Wapixiána]
+alt_names: [Aruma, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Upichana, Vapidiana, Wapichana, Wapisana, Wapishiana, Wapishshiana, Wapisiana, Wapitxana, Wapitxano, Wapixana, Wapixiana, Wapixiána, Amariba, Atorai]
 population: 12500
 country_id: GY
 country_name: Guyana
+location: Northeastern Brazil
+area: Arawakan language spoken in Guyana and Brazil
 status_id: 6b
 scope: individual
 language_type: living

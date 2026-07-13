@@ -3,15 +3,18 @@ iso: ven
 iso639_1: ve
 name: Venda
 autonym: Tshivenḓa
-alt_names: [Cevenda, Chivenda, Tshivenda, Vendeg, Vendum, Венда]
+alt_names: [Cevenda, Chivenda, Tshivenda, Vendeg, Vendum, Венда, Central Venda, East Venda, Guvhu, Ilafuri, Lembetu, Luvenda, Manda, Mbedzi, Phani, Ronga, Southeast Venda, Tavha-Tsindi, Tavhatsindi, West Venda]
 population: 1301400
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Bantu language of South Africa and Zimbabwe
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -22.187955
 longitude: 29.952345
+language_map_img: South_Africa_2011_Venda_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: vend1245
 glottolog_family_id: atla1278

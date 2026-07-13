@@ -6,6 +6,8 @@ alt_names: [Kaokonau, Lakahia, Mimika, Mukamuga, Nafarpi, Nagramadu, Nagramandu,
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Asmat–Kamoro language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living

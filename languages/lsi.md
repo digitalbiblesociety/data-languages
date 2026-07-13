@@ -2,10 +2,12 @@
 iso: lsi
 name: Lashi
 autonym: လရှီ / လချစ်
-alt_names: ["Ac'ye", Acye, Chashan, Chashanhua, Lachi, Lachik, Lachikwaw, Lacid, Lacik, Lashi-Maru, Lasi, "Lech'i", Lechi, Leqi, "Lets'i", Letsi, Maru, "Ngac'ang"]
+alt_names: ["Ac'ye", Acye, Chashan, Chashanhua, Lachi, Lachik, Lachikwaw, Lacid, Lacik, Lashi-Maru, Lasi, "Lech'i", Lechi, Leqi, "Lets'i", Letsi, Maru, "Ngac'ang", Ac’ye, La Chit, Laji, Laqi, Leshi]
 population: 31800
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Sino-Tibetan language spoken in Burma and China
 status_id: "5"
 scope: individual
 language_type: living

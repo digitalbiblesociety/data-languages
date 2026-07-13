@@ -6,11 +6,14 @@ alt_names: [Ngombaru, Ngormbal, Ngumbarl]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct Nyulnyulan language of Australia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: -17.491239
 longitude: 122.230025
+language_map_img: 500px-Traditional_lands_of_Australian_Aboriginal_Tribes_around_Derby.webp
 glottocode: ngum1253
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan

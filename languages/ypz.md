@@ -2,9 +2,12 @@
 iso: ypz
 name: Phuza
 autonym: Phuza
+alt_names: [Hei Phu, Phu’a, Phujitsu, Phula]
 population: 6000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish languages of China
 status_id: 6b
 scope: individual
 language_type: living
@@ -58,3 +61,5 @@ rolv_dialects:
     country_id: CN
     location: China
 ---
+Phupha, or Downriver Phula, is a dialect cluster of Loloish languages spoken by the Phula people of China. There are four principal varieties, which may be considered distinct languages:Phupha, Alugu 
+Phupa, Phuza

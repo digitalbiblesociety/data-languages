@@ -2,10 +2,12 @@
 iso: tew
 name: Tewa
 autonym: Tewa
-alt_names: [Arizona Tewa, Hano, Hopi Tewa, Hopi-Tewa, Rio Grande Tewa, Tano, Tano (First Mesa)]
+alt_names: [Arizona Tewa, Hano, Hopi Tewa, Hopi-Tewa, Rio Grande Tewa, Tano, Tano (First Mesa), Nambe, Pojoaque, San Ildefonso, San Juan, Santa Clara, Tesuque]
 population: 1300
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Tanoan language spoken in NM and AZ
 status_id: 6b
 scope: individual
 language_type: living

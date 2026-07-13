@@ -5,11 +5,14 @@ autonym: Yuna
 population: 20000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -5.41439
 longitude: 142.47498
+language_map_img: Duna-Pogaya_languages.svg
 glottocode: duna1248
 wikidata_id: Q5314039
 wikipedia_url: "https://en.wikipedia.org/wiki/Duna_language"

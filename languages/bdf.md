@@ -5,6 +5,8 @@ autonym: null
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Koiarian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Northern"
 ---
+Mountain Koiari (Koiali) is a language of Oro Province and Central Province, Papua New Guinea. It is not very similar to the other language which shares its name, Grass Koiari. Half of its speakers are monolingual.

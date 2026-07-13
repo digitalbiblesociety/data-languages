@@ -2,10 +2,12 @@
 iso: apn
 name: Apinayé
 autonym: Panhĩ kapẽr
-alt_names: [Apinage, Apinagé, Apinajé, Apinaye]
+alt_names: [Apinage, Apinagé, Apinajé, Apinaye, Afotigé, Aogé, Apinaié, Otogé, Oupinagee, Pinagé, Pinaré, Timbira Ocidentais, Uhitische, Utinsche, Western Timbira]
 population: 1500
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Macro-Jê language spoken by indigenous people of Brazil
 status_id: "5"
 scope: individual
 language_type: living

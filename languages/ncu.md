@@ -2,10 +2,12 @@
 iso: ncu
 name: Chumburung
 autonym: null
-alt_names: [Chumburu, Guang, Kyongborong, Nchimburu, Nchumburu, Nchumburung, Nchummuru]
+alt_names: [Chumburu, Guang, Kyongborong, Nchimburu, Nchumburu, Nchumburung, Nchummuru, Banda, Bejamse, Borae, Chinderi, Gurubi, Kyo̱ŋbo̱ro̱ŋ, Kyo̱ŋbo̱ro̱ŋ-nɔ, Lonto, Northern Chumburung, Southern Chumburung, Yedji, Yeji]
 population: 95000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

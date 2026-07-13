@@ -2,10 +2,12 @@
 iso: tpp
 name: Pisaflores Tepehua
 autonym: North Tepehua
-alt_names: [Pisaflores Tepewa, Tepehua, Tepehua de Pisaflores, "Tepehua, Pisaflores", Tepehuano de Pisa Flores, Tepewa]
+alt_names: [Pisaflores Tepewa, Tepehua, Tepehua de Pisaflores, "Tepehua, Pisaflores", Tepehuano de Pisa Flores, Tepewa, Tepehua de Veracruz]
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Tepehua language of Veracruz, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

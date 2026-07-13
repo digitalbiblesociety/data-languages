@@ -5,6 +5,8 @@ autonym: null
 population: 350
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 卡代语
     auto: true
 ---
+Taliabo (Taliabu) is a Malayo-Polynesian language spoken on the island of the same name in the Moluccas of Indonesia.

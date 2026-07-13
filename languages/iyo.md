@@ -6,6 +6,8 @@ alt_names: [Banagere, Iyon, Messaga, Messaga-Ekol, Messaka, Ugare]
 population: 14000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Tivoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Dolomite, Ladineg, Ladinera, Ladinies, Ladinisch, Ladinish, Ladinisk
 population: 31000
 country_id: IT
 country_name: Italy
+area: Rhaeto-Romance language of northeast Italy
 status_id: 6b
 scope: individual
 language_type: living

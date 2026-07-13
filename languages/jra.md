@@ -2,10 +2,12 @@
 iso: jra
 name: Jarai
 autonym: Chor
-alt_names: [Cho-Rai, Chrai, Djarai, Gia-Rai, Gio-Rai, Jaraï, Jorai, Mthur]
+alt_names: [Cho-Rai, Chrai, Djarai, Gia-Rai, Gio-Rai, Jaraï, Jorai, Mthur, Aráp, Cho Rai, Chuty, Drai, Gia Rai, Gio Rai, Golar, Habau, Hdrung, Ho-Bau, Hodrung, Jhue, Pleikly, Puan, Sesan, To-Buan, Zrai]
 population: 262800
 country_id: VN
 country_name: Vietnam
+location: Cambodia
+area: Chamic language of Vietnam and Cambodia
 status_id: "5"
 scope: individual
 language_type: living

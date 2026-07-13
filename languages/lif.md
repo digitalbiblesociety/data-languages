@@ -2,15 +2,18 @@
 iso: lif
 name: Limbu
 autonym: ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ
-alt_names: [Chang, Limbo, Limboueg, Lumbu, Monpa, Subah, Suffah. Yakthūngbā, Tsong, Yakthung Pan, Yakthungish, Лимбу, Лімбу]
+alt_names: [Chang, Limbo, Limboueg, Lumbu, Monpa, Subah, Suffah. Yakthūngbā, Tsong, Yakthung Pan, Yakthungish, Лимбу, Лімбу, Charkhole, Chatthare, Chaubise, Chhathar, Chhatthare, Limboo, Panthare, Phedappe, Tamorkhole, Taplejunge, Yakthungpan, Yanggrokke, Yanggruppe]
 population: 384800
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Yakthung language of eastern Nepal and India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.270335
 longitude: 87.885935
+language_map_img: 500px-Limbu.map.webp
 scripts: [Deva, Limb]
 glottocode: limb1266
 glottolog_family_id: sino1245

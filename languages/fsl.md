@@ -2,10 +2,11 @@
 iso: fsl
 name: French Sign Language
 autonym: Langue des Signes Française
-alt_names: [FSL, LSF, フランス手話]
+alt_names: [FSL, LSF, フランス手話, Marseille Sign Language, Southern French Sign Language]
 population: 103405
 country_id: FR
 country_name: France
+area: Sign language used predominately in France and French-speaking Switzerland
 status_id: 6a
 scope: individual
 language_type: living

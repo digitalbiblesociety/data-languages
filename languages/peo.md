@@ -2,7 +2,7 @@
 iso: peo
 name: Old Persian
 autonym: 𐎠𐎼𐎹
-alt_names: [Altpersisch, Fornpersiska, Gammelpersisk, Muinaispersia, Old Persian, Old Persian language, Oldpersisk, "Persian, Old (ca. 600-400 B.C.)", "Persian, Old (ca.600-400 B.C.)", Vieux-perse, altperische, "perse, vieux (ca. 600-400 av. J.-C.)", زمانی فارسیی کۆن]
+alt_names: [Altpersisch, Fornpersiska, Gammelpersisk, Muinaispersia, Old Persian, Old Persian language, Oldpersisk, "Persian, Old (ca. 600-400 B.C.)", "Persian, Old (ca.600-400 B.C.)", Vieux-perse, altperische, "perse, vieux (ca. 600-400 av. J.-C.)", زمانی فارسیی کۆن, Old Persian (ca. 600-400 B.C.)]
 population: null
 country_id: IR
 country_name: Iran

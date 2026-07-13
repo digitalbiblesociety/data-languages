@@ -2,10 +2,11 @@
 iso: krw
 name: Western Krahn
 autonym: Krahn
-alt_names: ["Krahn, Western", Kran, Northern Krahn, Western Kran]
+alt_names: ["Krahn, Western", Kran, Northern Krahn, Western Kran, Biai, Gbaeson, Gbaison, Gbarbo, Gbarzon, Gbo, Gbobo, Gborbo, Kpeaply, Peewa, Pewa, Plo]
 population: 113020
 country_id: LR
 country_name: Liberia
+location: "Côte d&#039;Ivoire"
 status_id: "5"
 scope: individual
 language_type: living

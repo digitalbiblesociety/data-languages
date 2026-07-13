@@ -2,10 +2,12 @@
 iso: buu
 name: Budu
 autonym: Bodo
-alt_names: [Ebudu, Kibudu]
+alt_names: [Ebudu, Kibudu, Bafanio, Bafwakoyi, Budu-Koya, Budu-Neta, Budu-Nita, East Bafwangada, Ineta, Isombi, Mahaa, Makoda, Malamba, Timoniko, Wadimbisa, West Bafwangada, Ɨbʉdhʉ]
 population: 180000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Language of the Democratic Republic of the Congo
 status_id: "5"
 scope: individual
 language_type: living

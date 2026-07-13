@@ -2,10 +2,12 @@
 iso: nbv
 name: Ngamambo
 autonym: Bafuchu
-alt_names: [Banja, Mbu, Mungyen, Nga, Ngembo]
+alt_names: [Banja, Mbu, Mungyen, Nga, Ngembo, Moghamo, Ngmambo]
 population: 8000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord-Ouest"
 ---
+Metaʼ is a Grassfields language of Cameroon. The Moghamo variety is perhaps divergent enough to be considered a separate language. Ngamambo is 88% similar lexically to Meta’, and often is considered separate.

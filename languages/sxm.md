@@ -5,11 +5,13 @@ autonym: Northern Chong
 population: 200
 country_id: KH
 country_name: Cambodia
+area: Austroasiatic language of Cambodia
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 13.47899
 longitude: 103.978
+glottocode: samr1245
 wikidata_id: Q6583615
 wikipedia_url: "https://en.wikipedia.org/wiki/Samre_language_of_Pursat"
 translations:

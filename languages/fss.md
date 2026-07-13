@@ -2,15 +2,17 @@
 iso: fss
 name: "Finland-Swedish Sign Language"
 autonym: finlandssvenskt teckenspråk
-alt_names: [Finnish-Swedish Sign Language, Suomenruotsalainen Vittomakieli, suomenruotsalainen viittomakieli]
+alt_names: [Finnish-Swedish Sign Language, Suomenruotsalainen Vittomakieli, suomenruotsalainen viittomakieli, FinSSL]
 population: 150
 country_id: FI
 country_name: Finland
+area: Moribund deaf sign language of Finland
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 62.111
 longitude: 26.328
+language_map_img: Finland-Swedish_Sign_Language.webp
 glottocode: finl1235
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language

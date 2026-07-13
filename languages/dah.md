@@ -2,10 +2,12 @@
 iso: dah
 name: Gwahatike
 autonym: Dahating
-alt_names: [Gwatike]
+alt_names: [Gwatike, Gohing, Gora, Gwaha, Gwahamere, Gwapti]
 population: 1570
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

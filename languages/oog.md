@@ -6,6 +6,8 @@ alt_names: [Hantong, "Hantong'", "Lower Ta'oih", Tong]
 population: 10300
 country_id: LA
 country_name: Laos
+location: Laos
+area: Southeast Asian dialect chain
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 翁语
     auto: true
 ---
+Ta'Oi is a dialect continuum within the Katuic branch of the Austroasiatic language family, spoken amongst the Ta Oi people in the Salavan and Sekong provinces in Laos and the municipality of Huế in Vietnam.

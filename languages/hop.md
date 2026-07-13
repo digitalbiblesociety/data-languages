@@ -2,10 +2,12 @@
 iso: hop
 name: Hopi
 autonym: Hopilàvayi
-alt_names: [Hopi simi, Hopieg, Hopí, Moki, Moqui, Pueblo, Pueblo Shoshonean Subfamily, Tusayan]
+alt_names: [Hopi simi, Hopieg, Hopí, Moki, Moqui, Pueblo, Pueblo Shoshonean Subfamily, Tusayan, First Mesa, Misongnovi, Shipaulovi, Third Mesa]
 population: 6080
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Uto-Aztecan language of Arizona, USA"
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: itz
 name: Itzá
 autonym: " Itzaj"
-alt_names: [Icaiche Maya, Itz, Itza, Itza Maya, "Itza'", "Itza' language", Itzaj Maya, Maya, Maya itzá, Petén Itzá Maya, Yucatec Maya]
+alt_names: [Icaiche Maya, Itz, Itza, Itza Maya, "Itza'", "Itza' language", Itzaj Maya, Maya, Maya itzá, Petén Itzá Maya, Yucatec Maya, Petén Itza’ Maya]
 population: 1800
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language
 status_id: 8b
 scope: individual
 language_type: living

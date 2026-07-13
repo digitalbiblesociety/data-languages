@@ -2,10 +2,12 @@
 iso: bxd
 name: Pela
 autonym: Bola
-alt_names: [Bela, Pala, Pola, Polo, 波拉話]
+alt_names: [Bela, Pala, Pola, Polo, 波拉話, Bula]
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Burmish language of Western Yunnan, China"
 status_id: "7"
 scope: individual
 language_type: living

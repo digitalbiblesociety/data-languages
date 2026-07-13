@@ -6,6 +6,8 @@ alt_names: [Chamtéela, Louisenheg, Luiseno-Juaneno, Luiseño, Luiseño language
 population: null
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Uto-Aztecan language of California
 status_id: 8b
 scope: individual
 language_type: extinct

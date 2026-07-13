@@ -2,10 +2,12 @@
 iso: kvo
 name: Dobel
 autonym: Kobro’or
-alt_names: [Aru, Doibel, "Kobro'or", Kobroor, Sersifar Tannin]
+alt_names: [Aru, Doibel, "Kobro'or", Kobroor, Sersifar Tannin, Northern Dobel, Southeast Dobel, Straits Dobel]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: Austronesian language in Maluku
 status_id: "5"
 scope: individual
 language_type: living

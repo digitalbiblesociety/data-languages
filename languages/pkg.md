@@ -2,10 +2,12 @@
 iso: pkg
 name: "Pak-Tong"
 autonym: "Tong-Pak"
-alt_names: [Admiralitäts-inseln]
+alt_names: [Admiralitäts-inseln, Pak]
 population: 970
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

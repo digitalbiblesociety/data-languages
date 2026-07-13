@@ -3,15 +3,18 @@ iso: qwa
 macrolanguage_id: que
 name: Corongo Ancash Quechua
 autonym: Huaylay
-alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Corongo Ancash"]
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, North Central Kechua, Northern Quechua, "Quechua, Corongo Ancash", Corongo, Corongo Ancash, Quechua Corongo]
 population: 1700
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -8.57647
 longitude: -77.98643
+language_map_img: AnqashQ.svg
 glottocode: coro1247
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -53,3 +56,4 @@ translations:
     name: 科龙戈安卡什克丘亚语
     auto: true
 ---
+Ancash Quechua, also Huaylay or Waylay in linguistic terminology, is a Quechua variety spoken in the Peruvian department of Ancash by approximately 1,000,000 people. Like Wanka Quechua, it belongs to Quechua I.

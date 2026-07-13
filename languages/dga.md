@@ -2,15 +2,17 @@
 iso: dga
 name: Southern Dagaare
 autonym: Dagaare
-alt_names: ["Dagaare, Southern", Dagaari, Dagara, Dagare, Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Southern Dagari]
+alt_names: ["Dagaare, Southern", Dagaari, Dagara, Dagare, Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Southern Dagari, Southern]
 population: 924000
 country_id: GH
 country_name: Ghana
+location: Ghana
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 10.4226
 longitude: -2.52265
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: sout2789
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

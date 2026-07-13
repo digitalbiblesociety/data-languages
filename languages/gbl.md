@@ -6,6 +6,8 @@ alt_names: [Gameti, Gamith, Gamta, Gamti, Gavit]
 population: 139000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Bhil language of India
 status_id: "5"
 scope: individual
 language_type: living

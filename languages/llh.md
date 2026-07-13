@@ -5,6 +5,8 @@ autonym: null
 population: 120
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Endangered Loloish language of China
 status_id: 8b
 scope: individual
 language_type: living

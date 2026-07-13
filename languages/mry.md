@@ -2,10 +2,12 @@
 iso: mry
 name: Mandaya
 autonym: Caraga
-alt_names: [Carraga Mandaya, Karaga Mandaya, Manay Mandayan, "Mandaya, Karaga", Mangaragan Mandaya]
+alt_names: [Carraga Mandaya, Karaga Mandaya, Manay Mandayan, "Mandaya, Karaga", Mangaragan Mandaya, Davawenyo]
 population: 3000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living

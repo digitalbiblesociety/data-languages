@@ -2,15 +2,18 @@
 iso: lva
 name: "Maku'a"
 autonym: " Lóvaia"
-alt_names: [Lovaea, Lovaia]
+alt_names: [Lovaea, Lovaia, Makua]
 population: 1950
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Extinct Austronesian language of East Timor
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -8.40372
 longitude: 127.23865
+language_map_img: 500px-Makuva.webp
 glottocode: maku1277
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

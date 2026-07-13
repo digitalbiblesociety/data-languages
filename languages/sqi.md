@@ -9,6 +9,7 @@ country_name: Albania
 status_id: null
 scope: macrolanguage
 language_type: living
+language_map_img: sqi.svg
 scripts: [Elba, Latn]
 wikidata_id: Q8748
 wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_language"

@@ -6,11 +6,14 @@ alt_names: [Cocama, Cocama Cocamilla, Cocama language, Cocamas, Huallaga, Kokama
 population: 15000
 country_id: PE
 country_name: Peru
+location: Central Brazil
+area: Tupi language spoken in South America
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -4.5
 longitude: -74
+language_map_img: 500px-Cocama.webp
 glottocode: coca1259
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian

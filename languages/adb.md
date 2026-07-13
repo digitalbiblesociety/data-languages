@@ -2,15 +2,18 @@
 iso: adb
 name: Adabe
 autonym: Wetar
-alt_names: [Atauran]
+alt_names: [Atauran, Ataura, Atauro, Atauru, Raklu Un, Raklu-Un, Munaseli Pandai, Rahesuk, Raklungu, Resuk]
 population: 1000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: "Austronesian language of Wetar, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.22674
 longitude: 125.57573
+glottocode: adab1235
 wikidata_id: Q3327339
 wikipedia_url: "https://en.wikipedia.org/wiki/Adabe_language"
 translations:

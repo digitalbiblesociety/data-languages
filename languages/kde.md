@@ -2,10 +2,12 @@
 iso: kde
 name: Makonde
 autonym: Chi(ni)makonde
-alt_names: [Chimakonde, Chinimakonde, Cimakonde, Konde, Maconde, Makonda, Matambwe, Mawiha, Shimakonde]
+alt_names: [Chimakonde, Chinimakonde, Cimakonde, Konde, Maconde, Makonda, Matambwe, Mawiha, Shimakonde, Matambe, Mekwengo, Chimaviha, Cimabiha, Donde, Kimakonde, Kimawiha, Mabiha, Mavia, Maviha, Mawia, Mwalu, Mwambe, Ndonde, Simakonde, Tambwe, Vadonde, Vamakonde, Vamwalu, Vamwambe]
 population: 1995000
 country_id: TZ
 country_name: Tanzania
+location: Mozambique
+area: Bantu language spoken in East Africa
 status_id: "5"
 scope: individual
 language_type: living

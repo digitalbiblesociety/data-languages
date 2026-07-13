@@ -2,10 +2,12 @@
 iso: bzb
 name: Andio
 autonym: Masama
-alt_names: ["Andio'o", "Imbao'o"]
+alt_names: ["Andio'o", "Imbao'o", Andio’o, Imbao’o]
 population: 1700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

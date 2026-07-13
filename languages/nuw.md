@@ -6,6 +6,8 @@ alt_names: [Phonology from Ulithian and grammar and lexicon from Yapese.]
 population: 50
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Oceanic language of Micronesia
 status_id: 8b
 scope: individual
 language_type: living

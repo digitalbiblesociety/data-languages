@@ -6,6 +6,8 @@ alt_names: [West Teke, Yaa, Yaka]
 population: 10000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 亚卡语（刚果）
     auto: true
 ---
+West Teke is a Bantu language spoken in the Republic of Congo and Gabon.

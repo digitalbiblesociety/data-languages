@@ -2,10 +2,12 @@
 iso: keu
 name: Akebu
 autonym: Kebu
-alt_names: [Akebou, Ekpeebhe, Kabu, Kegberike]
+alt_names: [Akebou, Ekpeebhe, Kabu, Kegberike, Gakagba, Ekpeebhibhe, Kébou, Kǝkpǝǝ-kǝ, kekpeerike]
 population: 73000
 country_id: TG
 country_name: Togo
+location: Togo
+area: Ghana–Togo Mountain language
 status_id: 6a
 scope: individual
 language_type: living

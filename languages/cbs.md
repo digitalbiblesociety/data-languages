@@ -2,10 +2,12 @@
 iso: cbs
 name: Cashinahua
 autonym: Kashinawa of the Ibuaçu River
-alt_names: [Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Tuxinawa]
+alt_names: [Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Tuxinawa, Kashinahua, Unicui]
 population: 7420
 country_id: PE
 country_name: Peru
+location: Western Central Brazil
+area: Panoan language of western South America
 status_id: "5"
 scope: individual
 language_type: living

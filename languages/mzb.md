@@ -6,11 +6,14 @@ alt_names: [Berber (Mzab), Ghardaia, Mozabite, Mozabite language, Mzab, Mzab-War
 population: 150000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Berber language spoken in Saharan Algeria
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 32.50135
 longitude: 3.85035
+language_map_img: 500px-Mzab-Wargla_Berberophone_areas.webp
 scripts: [Arab, Latn]
 glottocode: tumz1238
 glottolog_family_id: afro1255

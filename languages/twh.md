@@ -2,10 +2,12 @@
 iso: twh
 name: Tai Dón
 autonym: White Tai
-alt_names: [Tai Blanc, Tai Don, Tai Kao, Tai Lai, Thai Blanc, Thái Tráng, Táy Khao, White Thai]
+alt_names: [Tai Blanc, Tai Don, Tai Kao, Tai Lai, Thai Blanc, Thái Tráng, Táy Khao, White Thai, Bai Dai, Tai Jinping]
 population: 495000
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Tai language spoken in China and Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living

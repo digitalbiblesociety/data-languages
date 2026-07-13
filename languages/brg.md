@@ -6,6 +6,8 @@ alt_names: [Bauré, Chiquimiti]
 population: 631
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Endangered Arawakan language of Bolivia
 status_id: 8a
 scope: individual
 language_type: living

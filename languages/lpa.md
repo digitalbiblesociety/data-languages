@@ -5,6 +5,8 @@ autonym: Havannah Harbour
 population: 400
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living

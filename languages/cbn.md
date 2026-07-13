@@ -2,15 +2,18 @@
 iso: cbn
 name: Nyahkur
 autonym: Chaobon
-alt_names: ["\"Chaobon\"", "\"Chaodon\"", Chaodon, Lawa, Niakuol, Niakuoll, Nyah Kur, Nyakur, Tha Pong, Tha Pong dialect, Ñahkur]
+alt_names: ["\"Chaobon\"", "\"Chaodon\"", Chaodon, Lawa, Niakuol, Niakuoll, Nyah Kur, Nyakur, Tha Pong, Tha Pong dialect, Ñahkur, “Chaobon”, “Chaobun”, “Chaubun”, Chao Dong]
 population: 1500
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Austroasiatic language of Thailand
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 15.89091
 longitude: 101.51465
+language_map_img: 500px-Monic_language.webp
 glottocode: nyah1250
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

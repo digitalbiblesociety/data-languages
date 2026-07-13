@@ -2,10 +2,12 @@
 iso: row
 name: "Dela-Oenale"
 autonym: Western Rote
-alt_names: [Dela, Delha, Oe Nale, Rote, Rote Barat, Roti, Rotinese, Rotti]
+alt_names: [Dela, Delha, Oe Nale, Rote, Rote Barat, Roti, Rotinese, Rotti, Rote Dela]
 population: 7000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Timoric language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

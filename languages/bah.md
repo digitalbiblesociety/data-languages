@@ -6,6 +6,7 @@ alt_names: [Bahamian Creole, Bahamian Dialect, Bahamski kreolski engleski, "Creo
 population: 328000
 country_id: BS
 country_name: Bahamas
+location: Creole Languages of the Northern Caribbean
 status_id: 6a
 scope: individual
 language_type: living

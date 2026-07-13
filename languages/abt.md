@@ -2,10 +2,12 @@
 iso: abt
 name: Ambulas
 autonym: Ambelas
-alt_names: [Abelam, Abulas, Hanga Hundi, Kwasengen, West Wosera]
+alt_names: [Abelam, Abulas, Hanga Hundi, Kwasengen, West Wosera, Ambulas (Maprik), Ambulas (Wosera), Ambulas (Wosara-Kamu), Maprik, Wingei, Wosara-Kamu, Wosera-Kamu, Wosera-Mamu]
 population: 33000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Ndu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

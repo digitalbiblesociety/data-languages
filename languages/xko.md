@@ -2,14 +2,18 @@
 iso: xko
 name: Kiorr
 autonym: Kha Kior
+alt_names: [Col, Con, Saamtaav, Samtao, Samtao 2]
 population: 2360
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.06837
 longitude: 101.21064
+glottocode: kior1239
 wikidata_id: Q6414519
 wikipedia_url: "https://en.wikipedia.org/wiki/Kiorr_language"
 translations:

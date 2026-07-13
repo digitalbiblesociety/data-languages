@@ -2,10 +2,12 @@
 iso: auc
 name: Waorani
 autonym: Huaorani
-alt_names: ["\"Auca\"", Auca, Auishiri, Auixiri, Huao, Huao terero, Huaotededo, Huarani, Sabela, Sabelan, Tuey, Wao, Wao Tededö, Waodani, Warani, सबेला]
+alt_names: ["\"Auca\"", Auca, Auishiri, Auixiri, Huao, Huao terero, Huaotededo, Huarani, Sabela, Sabelan, Tuey, Wao, Wao Tededö, Waodani, Warani, सबेला, “Auca”, Wao Terero, Wao Tiriro, Waodäni, Waodäni Tededö, Waos, Waotededo]
 population: 2420
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Language isolate spoken by the Huaorani people of the Amazon
 status_id: 6b
 scope: individual
 language_type: living

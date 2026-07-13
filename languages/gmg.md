@@ -2,9 +2,11 @@
 iso: gmg
 name: Magɨyi
 autonym: null
+alt_names: [Magiyi]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+area: Papuan language
 status_id: null
 scope: individual
 language_type: living

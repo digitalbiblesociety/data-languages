@@ -3,15 +3,18 @@ iso: swe
 iso639_1: sv
 name: Swedish
 autonym: svenska
-alt_names: [An tSualainnis, Dalécarlien, Escaniano, Gutnisk, IsiSwidishi, Kiswidi, Roodsi kiil, Ruotsi, Ruoŧagiella, Scanien, Schwedisch, Soolynnish, Suainis, Suec, Suecu, Suediana linguo, Suediera, Suedés, Suwiri simi, Suèdouès, Suédois, Svedeg, Svedes, Svensk, Sverige-gí, Swadish leid, Swedeg, Swedek, Swedgbe, Sweeds, Sweedsk, Swêdki, Sænska, Sƿēonisc sprǣc, Västerbotten, Zweeds, İsveç tili, İsveççe, Łéngua svedexe, Забони шведӣ, Свє́ньскъ ѩꙁꙑ́къ, Швед йылме, Швед маз, Шведонь кяль, Шведэнь кель, Շվեդերեն, שבדית, שוועדיש, سونسکا, سويدى, شۋېتسىيە تىلى, ܠܫܢܐ ܣܘܝܕܝܐ, ސުވެޑިޝް, ᏑᏪᏗ, ᔅᕗᓐᔅᑭᑐᑦ]
+alt_names: [An tSualainnis, Dalécarlien, Escaniano, Gutnisk, IsiSwidishi, Kiswidi, Roodsi kiil, Ruotsi, Ruoŧagiella, Scanien, Schwedisch, Soolynnish, Suainis, Suec, Suecu, Suediana linguo, Suediera, Suedés, Suwiri simi, Suèdouès, Suédois, Svedeg, Svedes, Svensk, Sverige-gí, Swadish leid, Swedeg, Swedek, Swedgbe, Sweeds, Sweedsk, Swêdki, Sænska, Sƿēonisc sprǣc, Västerbotten, Zweeds, İsveç tili, İsveççe, Łéngua svedexe, Забони шведӣ, Свє́ньскъ ѩꙁꙑ́къ, Швед йылме, Швед маз, Шведонь кяль, Шведэнь кель, Շվեդերեն, שבדית, שוועדיש, سونسکا, سويدى, شۋېتسىيە تىلى, ܠܫܢܐ ܣܘܝܕܝܐ, ސުވެޑިޝް, ᏑᏪᏗ, ᔅᕗᓐᔅᑭᑐᑦ, Dalecarlian, Eastern Swedish, Elfdalian, Estonian Swedish, Finland Swedish, Gotlandic, Gutamal, Gutnic, Gutniska, Jamska, Norrland, Northern Swedish, Nyland Swedish, Ostrobothnian, Scanian, Skåne, Skånska, Southern Swedish, Southwest Finland Swedish, Standard Swedish, Svea, Sverige, Uusimaa Swedish, Älvdalska, Åland Islands Swedish, Österbotten, Övdalian, Övdalsk]
 population: 13055000
 country_id: SE
 country_name: Sweden
+location: "Denmark, Finland, Norway and Sweden"
+area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 59.800634
 longitude: 17.389526
+language_map_img: swe.svg
 scripts: [Latn]
 glottocode: swed1254
 glottolog_family_id: indo1319

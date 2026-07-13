@@ -2,10 +2,12 @@
 iso: teo
 name: Teso
 autonym: Ateso
-alt_names: [Bakedi, Bakidi, Elgumi, Etossio, Ikumama, Tesoeg, Wamia]
+alt_names: [Bakedi, Bakidi, Elgumi, Etossio, Ikumama, Tesoeg, Wamia, Iteso, Orom, Rom]
 population: 2778000
 country_id: UG
 country_name: Uganda
+location: Kenya
+area: Eastern Nilotic language of Uganda and Kenya
 status_id: "4"
 scope: individual
 language_type: living

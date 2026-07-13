@@ -2,10 +2,12 @@
 iso: txx
 name: Tatana
 autonym: Sabah Bisaya
-alt_names: ["Tatana'", Tatanaq]
+alt_names: ["Tatana'", Tatanaq, Tatana’]
 population: 5500
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

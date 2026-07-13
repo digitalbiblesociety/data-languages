@@ -3,15 +3,18 @@ iso: cmn
 macrolanguage_id: zho
 name: Mandarin Chinese
 autonym: 普通话‎
-alt_names: [Beifang Fangyan, Chinese, Chinese (Kunming), Chinese (Mandarin), "Chinese, Mandarin", "Chinese,Mandarin", Chino mandarín, Guanhua, Guoyu, Guók-ngṳ̄, Hanyu, Hochchinesisch, Hoochchinesisk, Języki mandaryńskie, Kunming, Mandarena ĉina, Mandariinikiina, Mandarijn, Mandarin, Mandarin Supergroup, Mandarin estandard, Mandarin language, Mandarí, Mandarín, Manderinki, Northern Chinese, Pei, Putonghua, Quan thoại, Standard Chinese, Çînî, Мандарин, Северные диалекты китайского языка, מנדרינית, ماندارین, 中国官話, 官話, 官话, 관화]
+alt_names: [Beifang Fangyan, Chinese, Chinese (Kunming), Chinese (Mandarin), "Chinese, Mandarin", "Chinese,Mandarin", Chino mandarín, Guanhua, Guoyu, Guók-ngṳ̄, Hanyu, Hochchinesisch, Hoochchinesisk, Języki mandaryńskie, Kunming, Mandarena ĉina, Mandariinikiina, Mandarijn, Mandarin, Mandarin Supergroup, Mandarin estandard, Mandarin language, Mandarí, Mandarín, Manderinki, Northern Chinese, Pei, Putonghua, Quan thoại, Standard Chinese, Çînî, Мандарин, Северные диалекты китайского языка, מנדרינית, ماندارین, 中国官話, 官話, 官话, 관화, 中文, Beijinghua, Mandarin (simplified) Chinese, Trung quốc]
 population: 918000000
 country_id: CN
 country_name: China
+location: China
+area: Major branch of Chinese languages
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 40.020884
 longitude: 116.228026
+language_map_img: cmn.svg
 glottocode: mand1415
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

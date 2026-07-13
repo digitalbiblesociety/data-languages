@@ -5,6 +5,7 @@ autonym: Ελληνική νοηματική γλώσσα
 population: 11000
 country_id: GR
 country_name: Greece
+area: Sign language of the Greek deaf community
 status_id: 6a
 scope: individual
 language_type: living

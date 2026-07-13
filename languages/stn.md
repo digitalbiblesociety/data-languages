@@ -2,10 +2,12 @@
 iso: stn
 name: Owa
 autonym: Santa Ana
-alt_names: [Anganiwai, Anganiwei, Narihua, Südliche Salomons-Inseln, Wanoni]
+alt_names: [Anganiwai, Anganiwei, Narihua, Südliche Salomons-Inseln, Wanoni, Owa Raha, Owa Riki, Santa Anna, Santa Catalina, Star Harbour, Tawarafa]
 population: 8410
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

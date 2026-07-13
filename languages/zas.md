@@ -3,10 +3,12 @@ iso: zas
 macrolanguage_id: zap
 name: Santo Domingo Albarradas Zapotec
 autonym: Santo Domingo Albarradas Zapotec
-alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Santo Domingo Albarradas", Zapoteco de Santo Domingo Albarradas]
+alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Zapotec, "Zapotec, Santo Domingo Albarradas", Zapoteco de Santo Domingo Albarradas, Santo Domingo Albarradas, Dihidx Bilyáhab, Zapoteco de Albarradas]
 population: 5500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

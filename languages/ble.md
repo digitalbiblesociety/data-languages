@@ -2,10 +2,12 @@
 iso: ble
 name: "Balanta-Kentohe"
 autonym: Alante
-alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Frase]
+alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Frase, Fora, Kantohe, Kentohe, Mane, Naga, Nhacra, Queuthoe]
 population: 369000
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Bak language group of West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -78,3 +80,4 @@ rolv_dialects:
     country_id: GW
     location: Guinea-Bissau
 ---
+Balanta is a group of two closely related Bak languages of West Africa spoken by the Balanta people.

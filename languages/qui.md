@@ -6,6 +6,7 @@ alt_names: [Quile-ute, Quileutés, Quillayute]
 population: 300
 country_id: US
 country_name: United States
+area: "Extinct Chimakuan language of Washington state, US"
 status_id: "9"
 scope: individual
 language_type: living

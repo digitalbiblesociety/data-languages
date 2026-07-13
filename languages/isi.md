@@ -2,15 +2,18 @@
 iso: isi
 name: "Nkem-Nkum"
 autonym: Isibiri
-alt_names: [Nigeria, Nkem]
+alt_names: [Nigeria, Nkem, Adagom, Alladim, Ibil, Igordori, Ikangdangha, Ishiaya, Ishibori, Ishindede, Nkim, Nkim-Nkum, Nkum, Nkum-Iborr, Ogboja]
 population: 16500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Ekoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 6.59158
 longitude: 8.68668
+language_map_img: Map_of_the_Ekoid_languages.webp
 glottocode: nkem1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

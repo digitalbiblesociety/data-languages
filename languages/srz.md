@@ -6,6 +6,7 @@ alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran
+area: Northwestern Iranian language
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 沙赫米尔扎迪语
     auto: true
 ---
+Mazanderani is an Iranian language of the Northwestern branch spoken by the Mazanderani people. As of 2023, there were 1.35 million native speakers. As a member of the Northwestern branch, etymologically speaking, it is rather closely related to Gilaki and also related to Persian, which belongs to the Southwestern branch. Though the Mazani and Persian languages have both influenced each other to a great extent, both are independent languages with different origins in the Iranian plateau.

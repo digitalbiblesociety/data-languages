@@ -2,10 +2,12 @@
 iso: adi
 name: Adi
 autonym: Abo tani
-alt_names: [Abhor, Abor, Abor-Miri, Adi-Bokar, Bengni, "Bengni-Boga'er", "Boga'er", "Boga'er Luoba", Bokar, Lho-Pa, Lhoba, Luoba, Miri, Miśing, Na Bengni]
+alt_names: [Abhor, Abor, Abor-Miri, Adi-Bokar, Bengni, "Bengni-Boga'er", "Boga'er", "Boga'er Luoba", Bokar, Lho-Pa, Lhoba, Luoba, Miri, Miśing, Na Bengni, Boga’er Luoba, Ashing, Bori, Bori-Karko, Karko, Komkar, Milan, Milang, Minyong, Padam, Pailibo, Pangi, Pasi, Ramo, Shimong, Tangam]
 population: 151090
 country_id: IN
 country_name: India
+location: China
+area: Ethnic group of Tibet and Northeast India
 status_id: "5"
 scope: individual
 language_type: living

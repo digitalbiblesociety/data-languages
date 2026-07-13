@@ -6,6 +6,8 @@ alt_names: [Kidie, Tegem]
 population: 600
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Dialect cluster of the Nuba Mountains of southern Sudan
 status_id: 8a
 scope: individual
 language_type: living

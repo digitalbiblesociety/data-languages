@@ -2,10 +2,11 @@
 iso: tyy
 name: Kwanka
 autonym: Kadun
-alt_names: [Boi, Tiya, Tiyaa, Ya]
+alt_names: [Boi, Tiya, Tiyaa, Ya, Ayaa, Boyawa, Kaye]
 population: 20000
 country_id: NG
 country_name: Nigeria
+area: Dialect of Nigeria
 status_id: null
 scope: individual
 language_type: living

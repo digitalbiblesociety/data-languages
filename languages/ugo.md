@@ -2,10 +2,11 @@
 iso: ugo
 name: Ugong
 autonym: Ugong
-alt_names: ["'Ugong", Gong, Kanburi Lawa, Lawa, Ugawng]
+alt_names: ["'Ugong", Gong, Kanburi Lawa, Lawa, Ugawng, ’Ugong]
 population: 500
 country_id: TH
 country_name: Thailand
+area: Tibeto-Burman language of Western Thailand
 status_id: 8a
 scope: individual
 language_type: living

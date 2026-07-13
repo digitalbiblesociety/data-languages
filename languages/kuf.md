@@ -6,6 +6,8 @@ alt_names: [Attouat, High Katu, Kantu, Kao, Katu, "Katu, Western", Khat, Kontu, 
 population: 14700
 country_id: LA
 country_name: Laos
+location: Laos
+area: Katuic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living

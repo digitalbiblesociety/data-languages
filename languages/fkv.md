@@ -6,11 +6,14 @@ alt_names: ["Finnish, Kven", Kveens, Kven, Kven language, Kvensk, Kvenski finski
 population: 6500
 country_id: "NO"
 country_name: Norway
+location: "Denmark, Finland, Norway and Sweden"
+area: Finnic language of northeast Norway
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 69.37724
 longitude: 29.54336
+language_map_img: 500px-Kven_language_map.webp
 glottocode: kven1236
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

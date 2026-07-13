@@ -2,10 +2,11 @@
 iso: lsp
 name: Panamanian Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
-alt_names: [Spanish Sign Language]
+alt_names: [Spanish Sign Language, Lengua de señas panameñas]
 population: 9000
 country_id: PA
 country_name: Panama
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living

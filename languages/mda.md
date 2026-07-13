@@ -6,6 +6,8 @@ alt_names: [Mada, Yidda]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

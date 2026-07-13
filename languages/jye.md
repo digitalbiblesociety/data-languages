@@ -7,6 +7,7 @@ alt_names: [Arabeg yuzev-yemenek, Arabic, "Arabic, Judeo-Yemeni", Judeo-Yemenite
 population: 36300
 country_id: IL
 country_name: Israel
+area: Judeo-Arabic variety of Yemen
 status_id: 6a
 scope: individual
 language_type: living

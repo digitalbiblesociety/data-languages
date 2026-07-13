@@ -6,11 +6,13 @@ alt_names: [Chumash, Chumasha Proper, Chumasho, Cruzeno, Island Chumash, Island 
 population: null
 country_id: US
 country_name: United States
+area: Extinct Shumashan language of California
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 34.046515
 longitude: -119.864044
+language_map_img: Chumashan_Language_Map.svg
 glottocode: cruz1243
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan

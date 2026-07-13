@@ -5,6 +5,7 @@ autonym: "Guli-ballaiuk"
 population: null
 country_id: AU
 country_name: Australia
+area: Endangered Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +47,4 @@ translations:
     name: 沃特约巴卢克语
     auto: true
 ---
+Wergaia or Werrigia is an Australian Aboriginal language in the Wimmera region of north-Western Victoria. The Wergaia language consists of four distinct dialects: Wudjubalug/Wotjobaluk, Djadjala/Djadjali, Buibadjali, Biwadjali. Wergaia is considered a dialect of the Wemba Wemba language, which belongs to the Kulinic branch of Pama–Nyungan.

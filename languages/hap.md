@@ -5,6 +5,8 @@ autonym: Soba
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dani language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

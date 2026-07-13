@@ -2,10 +2,12 @@
 iso: abz
 name: Abui
 autonym: Abui tanga
-alt_names: ["\"Barawahing\"", Barue, Namatalaki]
+alt_names: ["\"Barawahing\"", Barue, Namatalaki, “Barawahing”, Barawahing]
 population: 16000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Alor language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

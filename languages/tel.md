@@ -3,15 +3,18 @@ iso: tel
 iso639_1: te
 name: Telugu
 autonym: తెలుగు
-alt_names: [Andhra, Gentoo, Kui, Kuvi, Tailangi, Telangire, Telegu, Telgi, Telougoueg, Telugu simi, Telúgú, Tengu, Terangi, Tolangan, Télougou, Τελούγκου, Телугу, تېلۇگۇ تىلى, تېلۇگۇچە, ތެލުގޫ, तेलुगु, তেলুগু ঠার, தெலுங்கு, ತೆಲುಗು, തെലുഗു, ტელუგუ]
+alt_names: [Andhra, Gentoo, Kui, Kuvi, Tailangi, Telangire, Telegu, Telgi, Telougoueg, Telugu simi, Telúgú, Tengu, Terangi, Tolangan, Télougou, Τελούγκου, Телугу, تېلۇگۇ تىلى, تېلۇگۇچە, ތެލުގޫ, तेलुगु, তেলুগু ঠার, தெலுங்கு, ತೆಲುಗು, തെലുഗു, ტელუგუ, Berad, Dasari, Dommara, East Godaveri, Golari, Guntur, Kamathi, Komtao, Konda-Reddi, Nellore, Rayalseema, Salewari, Srikakula, Telangana, Vadaga, Vadari, Vishakhapatnam, Yanadi, Yenadi]
 population: 82000000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Language native to South India
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 16.452944
 longitude: 78.702392
+language_map_img: Idioma_telugu.webp
 scripts: [Telu]
 glottocode: telu1262
 glottolog_family_id: drav1251

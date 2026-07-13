@@ -2,15 +2,18 @@
 iso: zun
 name: Zuni
 autonym: Shiwiʼma
-alt_names: [Achiwieg, "Shiwi'ma", Zuñi, Zuñí, Зуни]
+alt_names: [Achiwieg, "Shiwi'ma", Zuñi, Zuñí, Зуни, Ashiwi, Shiwi, Shiwiꞌma]
 population: 9620
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Language indigenous to New Mexico, US"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 35.00561
 longitude: -108.78197
+language_map_img: 500px-Zuni_lang.webp
 scripts: [Latn]
 glottocode: zuni1245
 wikidata_id: Q10188

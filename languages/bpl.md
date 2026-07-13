@@ -6,6 +6,7 @@ alt_names: [Japanese Pidgin English, Koepang Talk, Malay Talk]
 population: 45
 country_id: AU
 country_name: Australia
+area: "Pidgin used the pearling industry in Broome, Western Australia"
 status_id: "9"
 scope: individual
 language_type: living

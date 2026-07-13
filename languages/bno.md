@@ -2,15 +2,18 @@
 iso: bno
 name: Bantoanon
 autonym: Asi
-alt_names: [Asiq, Asímál, Bisaya]
+alt_names: [Asiq, Asímál, Bisaya, Banton, Binisaya, Calatravanhon, Odionganon, Sibale, Sibalenhon, Simaranhon]
 population: 75000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: "Bisayan language spoken in the province of Romblon, Philippines"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.51942
 longitude: 122.03419
+language_map_img: 500px-Bantoanon_Language_Map.webp
 glottocode: bant1288
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

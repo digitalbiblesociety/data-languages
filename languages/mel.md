@@ -2,10 +2,12 @@
 iso: mel
 name: Central Melanau
 autonym: Central Melanau
-alt_names: ["Belana'u", Melanau, Melanau language, "Melanau, Central", Milanau, Milano]
+alt_names: ["Belana'u", Melanau, Melanau language, "Melanau, Central", Milanau, Milano, Belana’u, Balingian, Bruit, Dalad, Dalat, Igan, Muka, Mukah, Mukah-Oya, Oga, Oya, Prehan, Sarikei, Segahan, Segalang, Siteng]
 population: 113280
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Malaysia and Brunei
 status_id: "3"
 scope: individual
 language_type: living
@@ -103,3 +105,4 @@ rolv_dialects:
     country_id: MY
     location: Malaysia
 ---
+Melanau is an Austronesian language spoken in the coastal area of the Rajang delta on northwest Borneo, Sarawak, Malaysia and Brunei. There are several dialects—Mukah-Oya, Balingian, Bruit, Dalat, Lawas, Igan, Sarikei, Segahan, Prehan, Segalang, and Siteng.

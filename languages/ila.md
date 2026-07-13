@@ -2,9 +2,12 @@
 iso: ila
 name: Ile Ape
 autonym: Nusa Tadon
+alt_names: [North Ile Ape, South Ile Ape]
 population: 15000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language in Nusa Tenggara
 status_id: 6b
 scope: individual
 language_type: living

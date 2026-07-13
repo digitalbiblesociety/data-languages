@@ -6,11 +6,14 @@ alt_names: [Ahe, Ananin, Arapaho-Atsina, Atsina, Atsina (gros ventre), Aáni, Fa
 population: 2000
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Extinct Native American language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 48.48341
 longitude: -108.73841
+language_map_img: Gros_Ventre_map.svg
 glottocode: gros1243
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

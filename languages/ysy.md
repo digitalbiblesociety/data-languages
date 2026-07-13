@@ -2,9 +2,12 @@
 iso: ysy
 name: Sanie
 autonym: Bai Lolo
+alt_names: [Bai Yi, Sa’nguie, Sanyie, Shanie, Shaniepu, White Yi]
 population: 8000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 8a
 scope: individual
 language_type: living

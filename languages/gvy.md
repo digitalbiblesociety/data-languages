@@ -6,11 +6,13 @@ alt_names: [Cooyiannie, Gujani, Kijani, Kiyani, Koonarie, Kooteeuna, Kooteeunna,
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal language of South Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -34.739
 longitude: 137.661
+language_map_img: Aboriginal_Tribes_near_Adelaide.webp
 glottocode: guya1249
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -53,3 +55,4 @@ translations:
     name: 古亚尼语
     auto: true
 ---
+The Adnyamathanha language, also known as yura ngarwala natively and Kuyani, also known as Guyani and other variants, are two closely related Australian Aboriginal languages. They are traditional languages of the Adnyamathanha of and the Kuyani peoples, of the Flinders Ranges and to the west of the Flinders respectively, in South Australia.

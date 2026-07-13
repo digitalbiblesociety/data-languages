@@ -2,10 +2,11 @@
 iso: sch
 name: Sakachep
 autonym: Khelma
-alt_names: [Sakechep, Sankechep]
+alt_names: [Sakechep, Sankechep, Sakachepq, Thangkachep]
 population: 25000
 country_id: IN
 country_name: India
+location: "India, Map 5"
 status_id: 6a
 scope: individual
 language_type: living

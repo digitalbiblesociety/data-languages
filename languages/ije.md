@@ -6,6 +6,8 @@ alt_names: [Buseni, Northeast Central Ijo, Ịjọ]
 population: 4800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Coastal language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

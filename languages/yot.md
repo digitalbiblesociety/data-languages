@@ -5,6 +5,8 @@ autonym: Yoti
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Savanna language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 约蒂语
     auto: true
 ---
+Yoti (Yotti) is a member of the Leko–Nimbari group of Savanna languages, spoken in northeastern Nigeria.

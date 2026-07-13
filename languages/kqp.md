@@ -2,10 +2,12 @@
 iso: kqp
 name: Kimré
 autonym: Gabri
-alt_names: [Gabri-Kimré]
+alt_names: [Gabri-Kimré, Gawra, Bordo, Buruwa, Kim-Ruwa, Kimruwa]
 population: 20000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living

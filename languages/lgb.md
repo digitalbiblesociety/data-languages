@@ -6,6 +6,8 @@ alt_names: [Lagu]
 population: null
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Extinct Austronesian language in the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

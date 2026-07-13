@@ -2,10 +2,12 @@
 iso: mkt
 name: Vamale
 autonym: Hmwaeke
-alt_names: [Moaeke, Neukaledonien, Pamale]
+alt_names: [Moaeke, Neukaledonien, Pamale, ’Moaeke]
 population: 150
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

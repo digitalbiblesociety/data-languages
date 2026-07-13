@@ -6,6 +6,8 @@ alt_names: [Denawa, Denwa, Kuba, Kubawa, Kubi]
 population: 6000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

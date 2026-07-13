@@ -5,6 +5,8 @@ autonym: Toromona
 population: 200
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Endangered Tacanan language of Bolivia
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Gurung, Manang, Manangbhot, Manangbolt, Manange, Manangi, Ngyeshang,
 population: 3740
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

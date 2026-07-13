@@ -2,10 +2,12 @@
 iso: mbd
 name: Dibabawon Manobo
 autonym: Debabaon
-alt_names: [Dibabaon, Mandaya, "Manobo, Dibabawon"]
+alt_names: [Dibabaon, Mandaya, "Manobo, Dibabawon", Dibabauon, Dibabawon]
 population: 9060
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 迪巴巴翁曼诺博语
     auto: true
 ---
+Agusan is a Manobo language of northeastern Mindanao in the Philippines.

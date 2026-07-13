@@ -2,10 +2,12 @@
 iso: kdr
 name: Karaim
 autonym: къарай тилиkaraj tili
-alt_names: [Karaimeg, Karaimiska, Karaite, Karayca, Karaïm, Qaray tili, Կարաիմերեն, קראימית]
+alt_names: [Karaimeg, Karaimiska, Karaite, Karayca, Karaïm, Qaray tili, Կարաիմերեն, קראימית, Turkic Karaite]
 population: 84
 country_id: LT
 country_name: Lithuania
+location: "Estonia, Latvia and Lithuania"
+area: Kipchak Turkic language with Hebrew influences
 status_id: 8b
 scope: individual
 language_type: living

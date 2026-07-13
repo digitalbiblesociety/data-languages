@@ -2,10 +2,11 @@
 iso: gwr
 name: Gwere
 autonym: (O)lugwere
-alt_names: [Lugwere, Olugwere]
+alt_names: [Lugwere, Olugwere, Bagwere]
 population: 621000
 country_id: UG
 country_name: Uganda
+location: Uganda
 status_id: "5"
 scope: individual
 language_type: living

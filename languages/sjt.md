@@ -2,15 +2,18 @@
 iso: sjt
 name: Ter Sami
 autonym: saa´mekiil / са̄мькӣлл
-alt_names: ["\"Lapp\"", "\"Ter Lappish\"", Darjjesámegiella, Eastern, Eastern Saami, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Ostlappisch, Russisch-Lappisch, Saam, Saami, Saami ter, "Saami, Ter", Saamí de Ter, Same de Ter, "Sami, Ter", Samieg Ter, Ter Saami, Ter-Lappisch, Ter-Samisch, Tersamisk, Tersamiska, Turjan-Lappi, east dialect, lapon, lappisk, lopary, ostlappischer Dialekt, saa´mekiill, sabme, same-, sāme-giellâ, turjansaame]
+alt_names: ["\"Lapp\"", "\"Ter Lappish\"", Darjjesámegiella, Eastern, Eastern Saami, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Ostlappisch, Russisch-Lappisch, Saam, Saami, Saami ter, "Saami, Ter", Saamí de Ter, Same de Ter, "Sami, Ter", Samieg Ter, Ter Saami, Ter-Lappisch, Ter-Samisch, Tersamisk, Tersamiska, Turjan-Lappi, east dialect, lapon, lappisk, lopary, ostlappischer Dialekt, saa´mekiill, sabme, same-, sāme-giellâ, turjansaame, “Lapp”, “Ter Lappish”]
 population: 100
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Nearly extinct Uralic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 67.24584
 longitude: 38.50607
+language_map_img: Ter-SamiLanguageLocatorMap.svg
 glottocode: ters1235
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

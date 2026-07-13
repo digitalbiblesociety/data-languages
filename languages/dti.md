@@ -6,6 +6,8 @@ alt_names: ["Dogon, Ana Tinga"]
 population: 500
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language of Mali
 status_id: 6b
 scope: individual
 language_type: living

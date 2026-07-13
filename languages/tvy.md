@@ -6,6 +6,7 @@ alt_names: [Bidau Creole Portuguese, "Pidgin, Timor", Portuguese Timor, Timor Cr
 population: null
 country_id: TL
 country_name: "Timor-Leste"
+area: Portuguese-based creole language
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -5,6 +5,8 @@ autonym: Alorese
 population: 25000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living

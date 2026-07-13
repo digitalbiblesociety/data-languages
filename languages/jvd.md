@@ -2,9 +2,11 @@
 iso: jvd
 name: Javindo
 autonym: Krontjong
+alt_names: [“Krontjong”]
 population: 10
 country_id: ID
 country_name: Indonesia
+area: Endangered Dutch Creole language of Java
 status_id: "9"
 scope: individual
 language_type: living

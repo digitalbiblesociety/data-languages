@@ -2,10 +2,12 @@
 iso: raw
 name: Rawang
 autonym: " Rvwang"
-alt_names: ["Ch'opa", Chiutse, Ganung-Rawang, Hkanung, Kanung, Kiutze, Krangku, Lungmi, Nu-tzŭ, Numg, Nung, Nung Rawang, Qiuze, Taron, Zithung]
+alt_names: ["Ch'opa", Chiutse, Ganung-Rawang, Hkanung, Kanung, Kiutze, Krangku, Lungmi, Nu-tzŭ, Numg, Nung, Nung Rawang, Qiuze, Taron, Zithung, Ch’opa, Changgong, Dangraq-Mashang, Daru-Jerwang, Khrangkhu-Thininglong, Kunlang, Kyaikhu, Langdaqgong, Matwang, Northern Lungmi, Renyinchi, Southern Lungmi, Tangsar East, Tangsar West, Thaluq]
 population: 63000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Sino-Tibetan language of India and Burma
 status_id: "5"
 scope: individual
 language_type: living

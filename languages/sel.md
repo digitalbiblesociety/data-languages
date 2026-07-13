@@ -2,15 +2,18 @@
 iso: sel
 name: Selkup
 autonym: Central Selkups
-alt_names: [Ostiaki, Ostjak-Samojedisch, Ostyak Samoyed, Ostyak Samoyedic, Ostyak-Samoyed, Ostyak-Samoyede, "Sel'kup", Selcupo meridional, Selkoeps, Selkoupe, Selkoupe meridional, Selkoupe septentrional, Selkoupeg, Selkup central, Selkupagiella, Selkupisch, Selkupisk, Selkupiska, Selqup, "sel'kupy", selkoup, shöl-qup, śəl-qup]
+alt_names: [Ostiaki, Ostjak-Samojedisch, Ostyak Samoyed, Ostyak Samoyedic, Ostyak-Samoyed, Ostyak-Samoyede, "Sel'kup", Selcupo meridional, Selkoeps, Selkoupe, Selkoupe meridional, Selkoupe septentrional, Selkoupeg, Selkup central, Selkupagiella, Selkupisch, Selkupisk, Selkupiska, Selqup, "sel'kupy", selkoup, shöl-qup, śəl-qup, Chumyl’ Khumyt, Northern Selkups, Shöl Khumyt, Shösh Gulla, Syusugulla]
 population: 1640
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Samoyedic language of Siberia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 59.94093
 longitude: 82.30036
+language_map_img: 500px-Selkup_distribution.webp
 scripts: [Cyrl]
 glottocode: selk1253
 glottolog_family_id: ural1272

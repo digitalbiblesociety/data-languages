@@ -2,10 +2,12 @@
 iso: kue
 name: Kuman
 autonym: Kuman
-alt_names: [Chimbu, Simbu]
+alt_names: [Chimbu, Simbu, Genagane, Genogane, Nagane, Yongomugl]
 population: 115000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living

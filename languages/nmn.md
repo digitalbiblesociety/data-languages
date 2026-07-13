@@ -2,15 +2,18 @@
 iso: nmn
 name: ǃXóõ
 autonym: ǃXóõ
-alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language]
+alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language, "!Khong", "!Kwi", "!Xo'o~", "!Xoo", Auni, East Taa, Kakia, Katia, Kattea, Khatia, Kiǀhazi, Masarwa, Ngǀamani, Ngǀusan, Ngǀuǀei, Ngǀuǀen, Ngǀuǁen, Noosan, Nu-San, Nusan, Nuǁen, Vaalpens, Western ǂHoan, Xatia, ǀAuni, ǀAuo, ǀEikusi, ǀKusi, ǀNuǁen, ǀUǁen, ǁUǁen, ǂHoan]
 population: 4000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Tuu language of southwestern Botswana and eastern Namibia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -24.20022
 longitude: 20.79583
+language_map_img: Khoisan_languages_historical.svg
 glottocode: huaa1248
 glottolog_family_id: tuuu1241
 glottolog_family_name: Tuu

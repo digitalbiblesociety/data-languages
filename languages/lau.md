@@ -2,14 +2,18 @@
 iso: lau
 name: Laba
 autonym: Loda
+alt_names: [Kedi, South Loloda]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 1.66675
 longitude: 127.58349
+glottocode: laba1241
 wikidata_id: Q12952694
 translations:
   - translation_iso: ara
@@ -47,3 +51,4 @@ translations:
     name: 拉巴语
     auto: true
 ---
+Loloda is a North Halmahera language of Indonesia.

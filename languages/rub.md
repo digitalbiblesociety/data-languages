@@ -2,10 +2,12 @@
 iso: rub
 name: Gungu
 autonym: Lugungu
-alt_names: [Rugungu]
+alt_names: [Rugungu, Highland Gungu, Lowland Gungu]
 population: 84000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language of Uganda
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mif
 name: "Mofu-Gudur"
 autonym: Mofou
-alt_names: [Mofou de Goudour, Mofu, Mofu South, Mofu-Sud, Muffo, Muffu]
+alt_names: [Mofou de Goudour, Mofu, Mofu South, Mofu-Sud, Muffo, Muffu, Dimeo, Gudur, Massagal, Massakal, Mey Dimew, Mey Gudal, Mey Mafaw, Mey Mafaw Gudur, Mey Masakal, Mey Məkaŋ, Mey Njeleŋ, Mey Zədem, Mey aŋgwa, Mey ŋga aŋgwa, Mokong, Njeleng, Zidim]
 population: 90000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language of northern Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Cunni, Ganai, Gooni, Gunai, Gunna, Gunnai, Kunnai, Kurnay]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -38.58
 longitude: 146.5
+language_map_img: 500px-Sketch_Map_of_Gippsland_-_Showing_approximately_the_Positions_of_the_Clans_of_the_Kurnai_Tribe.webp
 glottocode: gana1278
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

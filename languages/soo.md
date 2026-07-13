@@ -2,10 +2,12 @@
 iso: soo
 name: Songo
 autonym: Eyansi
-alt_names: [Itsong, Kisongo, Nsong]
+alt_names: [Itsong, Kisongo, Nsong, Ntsuo, Tsong]
 population: 23400
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of the western DR Congo
 status_id: 6a
 scope: individual
 language_type: living

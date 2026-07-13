@@ -6,11 +6,13 @@ alt_names: [Corine, Curang Curang, Curang gurang, Curang-gurang, Curanggurang, G
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -25.3893
 longitude: 151.17468
+language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp
 glottocode: gure1255
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

@@ -5,6 +5,7 @@ autonym: Rabaul Creole German
 population: 100
 country_id: PG
 country_name: Papua New Guinea
+area: German-based creole of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

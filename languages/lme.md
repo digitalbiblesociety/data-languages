@@ -2,10 +2,12 @@
 iso: lme
 name: Pévé
 autonym: Lamé
-alt_names: ["\"Kado\"", "Ka'do", "Ka'do Pevé", Lame, Peve, Zime]
+alt_names: ["\"Kado\"", "Ka'do", "Ka'do Pevé", Lame, Peve, Zime, “Kado”, Ka’do Pevé, Kado, Dari, Doe, Doué]
 population: 35720
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Afro-Asiatic language of Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: clc
 name: Chilcotin
 autonym: Tŝinlhqut’in
-alt_names: [Chilcotín, Tinneh, "Tsilhqot'in", "Tsilhqot'in (Chilcotin)", Tsilhqot’in, Tzilkotin]
+alt_names: [Chilcotín, Tinneh, "Tsilhqot'in", "Tsilhqot'in (Chilcotin)", Tsilhqot’in, Tzilkotin, "Nenqayni Ch'ih", "Tŝinlhqot'in"]
 population: 860
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Northern Athabaskan language spoken in British Columbia
 status_id: "7"
 scope: individual
 language_type: living

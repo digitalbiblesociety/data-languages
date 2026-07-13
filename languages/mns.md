@@ -6,11 +6,14 @@ alt_names: [Mansi du Nord, Mansi du Sud, Mansi occidental, Mansi oriental, Mansi
 population: 12300
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Uralic languages spoken in Russia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 64.41179
 longitude: 61.34397
+language_map_img: 500px-6-Ob_Ugric-languages.webp
 scripts: [Cyrl]
 glottocode: mans1258
 glottolog_family_id: ural1272

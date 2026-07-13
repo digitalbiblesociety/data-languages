@@ -6,6 +6,7 @@ alt_names: [Classical Mandaean, Mandaic, "Mandaic, Classical"]
 population: null
 country_id: IR
 country_name: Iran
+area: Language of the Mandaean religion and community
 status_id: "10"
 scope: individual
 language_type: historical
@@ -51,3 +52,4 @@ translations:
     name: 古代曼底语
     auto: true
 ---
+Mandaic, or more specifically Classical Mandaic, is the liturgical language of Mandaeism and a South Eastern Aramaic variety in use by the Mandaean community, traditionally based in southern parts of Iraq and southwest Iran, for their religious books. Mandaic, or Classical Mandaic, is still used by Mandaean priests in liturgical rites. The modern descendant of Mandaic or Classical Mandaic, known as Neo-Mandaic or Modern Mandaic, is spoken by a small group of Mandaeans around Ahvaz and Khorramshahr in the southern Iranian Khuzestan province.

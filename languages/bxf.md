@@ -6,6 +6,8 @@ alt_names: [Birar]
 population: 2300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Oceanic language of the Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

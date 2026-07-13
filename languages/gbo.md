@@ -3,10 +3,12 @@ iso: gbo
 macrolanguage_id: grb
 name: Northern Grebo
 autonym: Kréébo
-alt_names: [Grebo, "Grebo, Northern"]
+alt_names: [Grebo, "Grebo, Northern", Northern, Chedepo, E Je, Eh Je, Fopo-Bua, Gbeapo, Gbepo, Jedepo, Klepo, Northeastern Grebo, Palipo, Tienpo]
 population: 150000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: "5"
 scope: individual
 language_type: living
@@ -125,3 +127,4 @@ rolv_dialects:
     country_id: LR
     location: Liberia
 ---
+Grebo is a Kru language of Liberia. All of the Grebo languages are referred to as Grebo, though in Ivory Coast, Krumen is the usual name. The Grebo people live in the extreme south-west of Liberia, both on the coast and inland, between the rivers Cavally and Cess.

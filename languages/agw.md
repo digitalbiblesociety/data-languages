@@ -6,6 +6,8 @@ alt_names: [Anganiwei, Chaha, Narihua, Südliche Salomons-Inseln, Wanoni]
 population: 5170
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

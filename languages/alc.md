@@ -6,6 +6,8 @@ alt_names: [Aksánas, Alacalufe, Alakaluf, Central Alacaluf, Halakwalip, Halakwa
 population: 2622
 country_id: CL
 country_name: Chile
+location: Argentina and Chile
+area: Endangered Alacalufan language of Chile
 status_id: 8b
 scope: individual
 language_type: living

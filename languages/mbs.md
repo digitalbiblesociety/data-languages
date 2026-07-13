@@ -2,10 +2,12 @@
 iso: mbs
 name: Sarangani Manobo
 autonym: Sarangani Manobo
-alt_names: ["Manobo, Sarangani", Philippines]
+alt_names: ["Manobo, Sarangani", Philippines, Governor Generoso Manobo, Menobò, Sarangani]
 population: 58000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nyj
 name: Nyanga
 autonym: Kinyanga
-alt_names: [Inyanga]
+alt_names: [Inyanga, Ifuna, Ikumbure, Itiri]
 population: 150000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

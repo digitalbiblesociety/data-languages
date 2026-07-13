@@ -6,6 +6,7 @@ alt_names: [Mesalit]
 population: 29800
 country_id: TD
 country_name: Chad
+area: Maban language in Chad and Sudan
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 马萨拉特语
     auto: true
 ---
+Masalit is a Nilo-Saharan language of the Maban language group spoken by the Masalit people in Ouaddaï Region, Chad and West Darfur, Sudan.

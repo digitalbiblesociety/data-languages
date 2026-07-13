@@ -6,11 +6,14 @@ alt_names: [Kaben, Kabentang, Kibeet, Kibeit]
 population: 18500
 country_id: TD
 country_name: Chad
+location: Chad
+area: Maban language of Chad
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.32054
 longitude: 20.87674
+language_map_img: Runga_-_kibet.svg
 glottocode: kibe1241
 glottolog_family_id: maba1274
 glottolog_family_name: Maban
@@ -63,3 +66,4 @@ rolv_dialects:
     country_id: TD
     location: "Chad, Salamat"
 ---
+Aiki is a Maban language of Chad. It consists of two dialects, Runga and Kibet, which are divergent enough to be considered separate languages. Kibet is spoken in Chad, while Runga (Roungo) is split between Chad and the CAR. Ayki (Aykindang) is a name used in CAR.

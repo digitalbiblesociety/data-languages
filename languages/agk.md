@@ -6,6 +6,8 @@ alt_names: ["Agta d'Isarog", Agta de Isarog, "Agta, Isarog", Bikol]
 population: 1000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Endangered Bikol language of Philippines
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Brancararu, Brancararú, Pancararu, Pancararú, Pancaru, Pancarurú,
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of eastern Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

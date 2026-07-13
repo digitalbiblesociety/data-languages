@@ -2,10 +2,12 @@
 iso: nmq
 name: Nambya
 autonym: Ikalanga
-alt_names: [Chinambya, Najwa, Nambzya, Nanzva, Senajwa, Senambya]
+alt_names: [Chinambya, Najwa, Nambzya, Nanzva, Senajwa, Senambya, Banyai]
 population: 105000
 country_id: ZW
 country_name: Zimbabwe
+location: Botswana
+area: Bantu language of Zimbabwe and Botswana
 status_id: "5"
 scope: individual
 language_type: living

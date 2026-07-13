@@ -6,6 +6,8 @@ alt_names: [Aladian, Allagia, Allagian]
 population: 23000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

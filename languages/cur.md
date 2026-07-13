@@ -6,6 +6,8 @@ alt_names: ["Ch?l?ng", Chholung, ChhÃ»lÃ»ng RÃ»ng, Chhûlûng Rûng, Chill
 population: 1310
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kirati language of Nepal
 status_id: "7"
 scope: individual
 language_type: living

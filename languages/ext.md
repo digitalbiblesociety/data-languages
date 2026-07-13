@@ -2,10 +2,12 @@
 iso: ext
 name: Extremaduran
 autonym: estremeñu
-alt_names: [Cahtúo, Cahtúö, Ehtremeñu, Ekstremaduransk, Estremadurano, Estremadursko godka, Estremenyo, Estrémaduran, Extremaduran dialect, Extremadurera, Extremaduriska, Extremeens, Extremenho, Extremeny, Extremeño, Kiekstremadura, Lhéngua stremenha, Luenga estremeña, Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî]
+alt_names: [Cahtúo, Cahtúö, Ehtremeñu, Ekstremaduransk, Estremadurano, Estremadursko godka, Estremenyo, Estrémaduran, Extremaduran dialect, Extremadurera, Extremaduriska, Extremeens, Extremenho, Extremeny, Extremeño, Kiekstremadura, Lhéngua stremenha, Luenga estremeña, Âi-sṳ̂-thi̍t-lùi-mâ-thu-lâ-ngî, Barranquian]
 population: 201500
 country_id: ES
 country_name: Spain
+location: Portugal and Spain
+area: Romance language spoken in Spain
 status_id: "7"
 scope: individual
 language_type: living

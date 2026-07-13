@@ -2,9 +2,12 @@
 iso: ygp
 name: Gepo
 autonym: Baiyi
+alt_names: [Gepu, Guo, Gupu, Guzu, Jiantouyi, Köpu, Nasu, Pingtouyi, Luquan Naso, Wuding Naisu]
 population: 100000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living

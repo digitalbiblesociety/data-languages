@@ -6,6 +6,8 @@ alt_names: [Bankan Tey, "Dogon, Bankan Tey", Oualo, Walo]
 population: null
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language of Mali
 status_id: 6a
 scope: individual
 language_type: living

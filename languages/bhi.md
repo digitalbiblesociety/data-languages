@@ -2,9 +2,12 @@
 iso: bhi
 name: Bhilali
 autonym: Bhilala
+alt_names: [Bhili, Parya Bhilali]
 population: 753000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Bhil language of India
 status_id: 6a
 scope: individual
 language_type: living

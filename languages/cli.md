@@ -5,6 +5,8 @@ autonym: null
 population: 6000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: 6b
 scope: individual
 language_type: living

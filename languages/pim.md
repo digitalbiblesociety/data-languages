@@ -6,6 +6,7 @@ alt_names: [Powhatan-språket, Virginia Algonquian, Virginia Algonquianealg, Vir
 population: null
 country_id: US
 country_name: United States
+area: Indigenous language of Tidewater Virginia
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: kxf
 name: Manumanaw Karen
 autonym: Kayah
-alt_names: ["Karen, Manumanaw", "Karen,Manumanaw", Mano, Manu, Manumanaw, Manö, Monu]
+alt_names: ["Karen, Manumanaw", "Karen,Manumanaw", Mano, Manu, Manumanaw, Manö, Monu, Kayah-Munu, Doloso, Kawyaw, Kayàw, Manaw, Manu Manaw, Tawkhu]
 population: 10000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karenic dialect continuum
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Karenni or Red Karen, known in Burmese as Kayah, is a Karen dialect continuum spoken by over half a million Kayah people in Burma.

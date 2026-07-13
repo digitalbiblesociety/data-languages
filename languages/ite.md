@@ -6,6 +6,7 @@ alt_names: [Central Chapacuran, Central Chapakuran, Central Chapakúran, Guapore
 population: 90
 country_id: BO
 country_name: Bolivia
+area: Chapacuran language of Bolivia
 status_id: 8a
 scope: individual
 language_type: extinct

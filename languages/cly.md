@@ -2,10 +2,12 @@
 iso: cly
 name: Eastern Highland Chatino
 autonym: Sierra Chatino
-alt_names: [Chatino, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Oriental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Eastern Highland", Lachao-Yolotepec Chatino, Sierra Oriental Chatino]
+alt_names: [Chatino, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Oriental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Eastern Highland", Lachao-Yolotepec Chatino, Sierra Oriental Chatino, Chatino Zona Alta Oriental (Lachao Viejo), "Cha' jna'a", Chatino Oriental Alto, Chatino de Lachao Pueblo Nuevo, Chatino de Sta. María Yolotepec, Yolotepec-Lachao Chatino, Eastern Highland, Lachao Viejo Chatino]
 population: 2000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotecan language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 东高地查蒂诺语
     auto: true
 ---
+Highland Chatino is an indigenous Mesoamerican language, one of the Chatino family of the Oto-Manguean languages. Dialects are rather diverse; neighboring dialects are about 80% mutually intelligible.

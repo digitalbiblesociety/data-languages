@@ -6,6 +6,8 @@ alt_names: [Foi, Iaw, Turu, Urundi, Ururi, Yau]
 population: 1500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Lakes Plain language of West Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

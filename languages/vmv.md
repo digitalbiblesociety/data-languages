@@ -6,11 +6,13 @@ alt_names: [Chico language, Maidu, "Maidu, Valley", Maidú nororiental]
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Maiduan language of California, US"
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 39.80783
 longitude: -121.19078
+language_map_img: 500px-Pre-contact_distribution_of_Maiduan_languages.webp
 glottocode: vall1252
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan

@@ -2,9 +2,12 @@
 iso: tio
 name: Teop
 autonym: Teapu
+alt_names: [Tiop]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Oceanic language spoken on Bougainville
 status_id: "5"
 scope: individual
 language_type: living

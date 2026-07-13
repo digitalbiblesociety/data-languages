@@ -3,15 +3,18 @@ iso: sna
 iso639_1: sn
 name: Shona
 autonym: chiShona
-alt_names: ["\"Swina\"", Central Karanga, Choneg, Karanga, Karanga (Central), Kishona, Shona simi, Shonum, Šona, Шона, شونا تىلى]
+alt_names: ["\"Swina\"", Central Karanga, Choneg, Karanga, Karanga (Central), Kishona, Shona simi, Shonum, Šona, Шона, شونا تىلى, “Swina”, Zezuru, Bazezuru, Bazuzura, Budja, Budya, Chihwesa, Chikaranga, Chizezuru, Goba, Gova, Gowa, Harava, Hera, Hwesa, Korekore, Korikori, Makorekore, Mazizuru, Northern Shona, Shangwe, Shawasha, "Shona: Karanga", Vazezuru, Wakorikori, Wazezuru]
 population: 7237290
 country_id: ZW
 country_name: Zimbabwe
+location: Botswana
+area: "Bantu language of Zimbabwe, Mozambique"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -17.20849
 longitude: 29.75725
+language_map_img: sna.webp
 scripts: [Latn]
 glottocode: shon1251
 glottolog_family_id: atla1278

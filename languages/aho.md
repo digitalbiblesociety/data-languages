@@ -5,6 +5,7 @@ autonym: Tai Ahom
 population: null
 country_id: IN
 country_name: India
+area: Dead Southwestern Tai language of Northeast India
 status_id: "9"
 scope: individual
 language_type: extinct

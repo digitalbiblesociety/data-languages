@@ -6,6 +6,7 @@ alt_names: [Chiwere, Chiwere language, Ioweg-Otoeg, Oto, Otoe]
 population: 33
 country_id: US
 country_name: United States
+area: Siouan language
 status_id: "9"
 scope: individual
 language_type: extinct

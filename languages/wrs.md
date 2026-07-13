@@ -6,6 +6,8 @@ alt_names: [Walsa]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living

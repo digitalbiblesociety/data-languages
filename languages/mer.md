@@ -2,10 +2,12 @@
 iso: mer
 name: Meru
 autonym: Kimîîru
-alt_names: [Kimeru]
+alt_names: [Kimeru, Beik, Igembe, Igoji, Imenti, Mero, Miutini, Tigania]
 population: 1980000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "4"
 scope: individual
 language_type: living

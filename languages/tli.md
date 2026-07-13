@@ -6,11 +6,14 @@ alt_names: [Coluchano (Estados Unidos), Inland Tlingit, Kolosch, Kolosh, Kolusch
 population: 1242
 country_id: US
 country_name: United States
+location: Canada
+area: Na-Dene language of southeast Alaska and western Canada
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 59.444665
 longitude: -135.29031
+language_map_img: 500px-Tlingit-map.webp
 scripts: [Latn]
 glottocode: tlin1245
 glottolog_family_id: atha1245

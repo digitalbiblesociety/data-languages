@@ -3,10 +3,12 @@ iso: lts
 macrolanguage_id: luy
 name: Tachoni
 autonym: Lumasaba
-alt_names: [Lutachoni]
+alt_names: [Lutachoni, Tatsoni, Tachon]
 population: null
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in East Africa
 status_id: "4"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 塔乔尼语
     auto: true
 ---
+Masaba (Lumasaaba), sometimes known as Gisu (Lugisu) after one of its dialects, is a Bantu language spoken by more than two million people in East Africa. The Gisu dialect in eastern Uganda is mutually intelligible with Bukusu, spoken by ethnic Luhya in western Kenya. Masaba is the local name of Mount Elgon and the name of the son of the ancestor of the Gisu tribe. Like other Bantu languages, Lumasaba nouns are divided into several sets of noun classes. These are similar to the genders in Germanic and Romance languages, except that instead of the usual two or three, there are around eighteen different noun classes. The language has a quite complex verb morphology.

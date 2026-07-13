@@ -6,6 +6,8 @@ alt_names: [Kol, Kol language, Kole]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Language isolate of Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

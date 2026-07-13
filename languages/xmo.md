@@ -6,6 +6,8 @@ alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Pa
 population: 100
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 莫雷雷比语
     auto: true
 ---
+Kawahíva is a Tupi–Guarani dialect cluster of Brazil.

@@ -7,6 +7,8 @@ alt_names: [Classical Sanskrit, Fan-vun, Kisanskrit, Sanscrait, Sanscrit, Sanscr
 population: 24800
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Ancient Indo-Aryan language of South Asia
 status_id: "4"
 scope: macrolanguage
 language_type: historical

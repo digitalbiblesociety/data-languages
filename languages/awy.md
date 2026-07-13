@@ -6,6 +6,8 @@ alt_names: ["Awyu, Edera", Ederah, Oser, Siagha, Sjiagha, Syiagha, Yenimu]
 population: 3870
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 埃德拉阿维尤语
     auto: true
 ---
+Edera or Edera River Awyu is a Papuan language of Papua, Indonesia, spoken along the Edera River. It is closely related to Kia River Awyu.

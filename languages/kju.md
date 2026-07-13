@@ -6,11 +6,13 @@ alt_names: [Kashaya Pomo, Kashayn, Kashia, Pomo (Kashaya), Pomo (Southwestern), 
 population: 45
 country_id: US
 country_name: United States
+area: Native American language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 38.542365
 longitude: -123.080292
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: kash1280
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

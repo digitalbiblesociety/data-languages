@@ -2,10 +2,12 @@
 iso: suz
 name: Sunwar
 autonym: "सुनुवार, कोइँच, किराँती-कोइँच, मुखिया"
-alt_names: [Kirānti-Kõints, Koĩc, Kwoico Lo, Mukhiya, Sonowal, Sonowar, Sounwareg, Sunbar, Sunuvār, Sunuwar, Sunuwār, Sunwari, Sunwarish, Сунвар]
+alt_names: [Kirānti-Kõints, Koĩc, Kwoico Lo, Mukhiya, Sonowal, Sonowar, Sounwareg, Sunbar, Sunuvār, Sunuwar, Sunuwār, Sunwari, Sunwarish, Сунвар, Kiranti-Koits, Koyktsa, Koynts Lo, Bhujuwar, Kiranti-Kõits Lo, Kirati-Koits, Koits Lo, Pirthwar, Surel]
 population: 38200
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language of Nepal and India
 status_id: 6b
 scope: individual
 language_type: living

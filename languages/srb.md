@@ -2,10 +2,12 @@
 iso: srb
 name: Sora
 autonym: Savara
-alt_names: [Sabar, Sabara, Saonras, Saora, Saura, Sawaria, Shabari, Soːra, Swara]
+alt_names: [Sabar, Sabara, Saonras, Saora, Saura, Sawaria, Shabari, Soːra, Swara, "9", Soura]
 population: 410000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Munda language spoken in eastern India
 status_id: "5"
 scope: individual
 language_type: living

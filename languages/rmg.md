@@ -6,6 +6,7 @@ alt_names: [Norwegian Traveller, "Norwegian, Traveller", Rodi, Rodi language]
 population: 100
 country_id: "NO"
 country_name: Norway
+area: Para-Romani dialect spoken by the Romanisael
 status_id: 6a
 scope: individual
 language_type: living

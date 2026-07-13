@@ -6,6 +6,8 @@ alt_names: [Mabiri]
 population: null
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Endangered Afro-Asiatic language of Chad
 status_id: 8b
 scope: individual
 language_type: living

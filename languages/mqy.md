@@ -2,15 +2,18 @@
 iso: mqy
 name: Manggarai
 autonym: bahasa Manggarai
-alt_names: [Indonesia]
+alt_names: [Indonesia, Central Manggarai, Eastern Manggarai, Ruteng, West-Central Manggarai, Western Manggarai]
 population: 900000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Austronesian language spoken in Flores, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -8.55748
 longitude: 120.32889
+language_map_img: 500px-Location_East_Nusa_Tenggara_Greater_Manggarai.webp
 glottocode: mang1405
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

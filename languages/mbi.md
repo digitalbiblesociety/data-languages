@@ -2,10 +2,12 @@
 iso: mbi
 name: Ilianen Manobo
 autonym: Ilianen Manobo
-alt_names: [Ilianen, "Manobo, Ilianen"]
+alt_names: [Ilianen, "Manobo, Ilianen", Arakan, Livunganen, Menuvù, Pulangiyan]
 population: 14600
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

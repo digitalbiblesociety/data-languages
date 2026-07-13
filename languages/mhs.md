@@ -2,10 +2,12 @@
 iso: mhs
 name: Buru
 autonym: li fuk Buru
-alt_names: [Boeroe, Buru, Buruese]
+alt_names: [Boeroe, Buru, Buruese, Central Buru, Fogi, Li Emteban, Masarete, Rana, South Buru, Tomahu, Wae Geren, Wae Kabo, Wae Sama, Waesama]
 population: 14258
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

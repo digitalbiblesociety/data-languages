@@ -6,6 +6,8 @@ alt_names: [Arandui, Dardu, Gavar-batí, Gawar-bātī, Gowar-Bati, Gowari, Naris
 population: 8000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Indo-Aryan language spoken in Afghanistan and Pakistan
 status_id: 6b
 scope: individual
 language_type: living

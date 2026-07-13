@@ -2,9 +2,12 @@
 iso: nla
 name: Ngombale
 autonym: "Bamileke-Ngombale"
+alt_names: [Babadjou, Bamessingue, Bassing, Basso, Nchobela]
 population: 53500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bamileke language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

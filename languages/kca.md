@@ -2,15 +2,18 @@
 iso: kca
 name: Khanty
 autonym: ханты ясаӈ hantĭ jasaŋ
-alt_names: ["C'hantieg", Chantiska, Chonti, Ghondi, Hanti, Hantice, Hantigiella, Hanty, Jantí meridional, Khanti, Khanty méridional, Khanty oriental, Khanty septentrional, Obdorsk, Ostiac, Ostiaki, Ostjaaks, Ostjak, Ostjakisch, Ostyak, Ostyak (Northern), Xantisch, Xanty, ostiak, xanti, Хантонь кель, Ханты кыл]
+alt_names: ["C'hantieg", Chantiska, Chonti, Ghondi, Hanti, Hantice, Hantigiella, Hanty, Jantí meridional, Khanti, Khanty méridional, Khanty oriental, Khanty septentrional, Obdorsk, Ostiac, Ostiaki, Ostjaaks, Ostjak, Ostjakisch, Ostyak, Ostyak (Northern), Xantisch, Xanty, ostiak, xanti, Хантонь кель, Ханты кыл, Khant, Eastern Khanti, Northern Khanti, Southern Khanti, Vach, Vasyugan]
 population: 9580
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Uralic language spoken in Russia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 62.43083
 longitude: 66.12177
+language_map_img: 500px-6-Ob_Ugric-languages.webp
 scripts: [Cyrl]
 glottocode: khan1273
 glottolog_family_id: ural1272

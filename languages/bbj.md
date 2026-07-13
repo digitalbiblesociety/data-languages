@@ -2,10 +2,12 @@
 iso: bbj
 name: "Ghomálá'"
 autonym: Ghɔmálá’
-alt_names: [Baloum, Bamileke-Bandjoun, Bandjoun, Banjoun-Baham, Banjun, Batie, "Ghomala'", Ghomálá, Mahum, Mandju]
+alt_names: [Baloum, Bamileke-Bandjoun, Bandjoun, Banjoun-Baham, Banjun, Batie, "Ghomala'", Ghomálá, Mahum, Mandju, Ghomala, Baham, Bamenjou, Dengkwop, "Fu'da", Fusap, "Ghomálá' Central", "Ghomálá' North", "Ghomálá' South", Hom, Jo, Lang, Meka, Monjo, Mugum, Ngemba, Pa, Sa, Te, We, Yogam, "ghᴐmala'"]
 population: 350000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bamileke language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: vkp
 name: Korlai Creole Portuguese
 autonym: Kristi
-alt_names: ["Creole Portuguese, Korlai", Crioulo de Korlai]
+alt_names: ["Creole Portuguese, Korlai", Crioulo de Korlai, Creole Portuguese]
 population: 750
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Portuguese creole of India
 status_id: 6a
 scope: individual
 language_type: living

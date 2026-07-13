@@ -2,10 +2,12 @@
 iso: irk
 name: Iraqw
 autonym: Kángw Iraqw
-alt_names: [Erokh, Iraku, Iraqw hizkuntza, Kiiraqw, Mbulu, Mbulunge]
+alt_names: [Erokh, Iraku, Iraqw hizkuntza, Kiiraqw, Mbulu, Mbulunge, Asa, Iraqu]
 population: 603000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Cushitic language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

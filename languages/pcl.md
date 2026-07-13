@@ -2,10 +2,12 @@
 iso: pcl
 name: Pardhi
 autonym: Bahelia
-alt_names: [Chita Pardhi, Lango Pardhi, Paidia, Paradi, Paria, Phans Pardhi, Takankar, Takia]
+alt_names: [Chita Pardhi, Lango Pardhi, Paidia, Paradi, Paria, Phans Pardhi, Takankar, Takia, Haran Shikari, Neelishikari, Paradhi, Pittala Bhasha, Takari]
 population: 69100
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Bhil languages of India
 status_id: 6a
 scope: individual
 language_type: living

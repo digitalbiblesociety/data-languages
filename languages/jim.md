@@ -2,10 +2,12 @@
 iso: jim
 name: Jimi
 autonym: Jimjimən
-alt_names: ["'Um Falin", Bi-Gimu, Djimi, Jimi, Jimi language, Jimjimen]
+alt_names: ["'Um Falin", Bi-Gimu, Djimi, Jimi, Jimi language, Jimjimen, ’Um Falin]
 population: 3500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

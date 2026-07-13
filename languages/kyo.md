@@ -2,10 +2,12 @@
 iso: kyo
 name: Kelon
 autonym: Klon
-alt_names: [Kalong, Kelong]
+alt_names: [Kalong, Kelong, Klon Bring, Klon Paneia, Kolon]
 population: 6000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

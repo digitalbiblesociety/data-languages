@@ -2,9 +2,11 @@
 iso: cpo
 name: Kpeego
 autonym: Numu
+alt_names: [Noumou]
 population: 2000
 country_id: BF
 country_name: Burkina Faso
+area: Mande language spoken in Ivory Coast
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nsu
 name: Sierra Negra Nahuatl
 autonym: Southeastern Puebla Nahuatl
-alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Sierra Negra", Náhuatl central]
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Sierra Negra", Náhuatl central, Náhuatl de la Sierra Negra, Coyomeapan, Zoquitlán]
 population: 25000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Nahuatl variety of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 内格拉山纳瓦特尔语
     auto: true
 ---
+Tehuacan–Zongolica a.k.a. Southeastern Puebla Nahuatl is a variety of Nahuatl spoken by ethnic Nahua people in southeastern Puebla state (Tehuacan) and southern Veracruz (Zongolica) in Mexico.

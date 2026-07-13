@@ -5,6 +5,7 @@ autonym: null
 population: 12400
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: jdt
 name: "Judeo-Tat"
 autonym: " жугьури"
-alt_names: [Bik, Djouhourieg, Dzhuhuric, Hebrew Tat, Jewish Tat, Judeo-Tatic, Juhuri, Juhuri (Caucase), Juhuri (Israël), Juhuri language, Juwri, cuhuri, cuuri, çuhuri, горско-еврейский, джуури, джухури, "ג'והורי", "ז'אוּהאוּראִ"]
+alt_names: [Bik, Djouhourieg, Dzhuhuric, Hebrew Tat, Jewish Tat, Judeo-Tatic, Juhuri, Juhuri (Caucase), Juhuri (Israël), Juhuri language, Juwri, cuhuri, cuuri, çuhuri, горско-еврейский, джуури, джухури, "ג'והורי", "ז'אוּהאוּראִ", Lahji, Mountain Jewish, Musulman Tats, Tati, Derbend, Juhur, North Tat, South Tat]
 population: 3020
 country_id: RU
 country_name: Russia
+location: Azerbaijan
+area: Persian-derived Jewish language of the eastern Caucasus
 status_id: "4"
 scope: individual
 language_type: living

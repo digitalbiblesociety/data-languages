@@ -7,6 +7,8 @@ alt_names: [Aranese, Aranese Occitan, Aranés, Arnais, Auvergnat, Auverne, Auver
 population: 218310
 country_id: FR
 country_name: France
+location: Andorra and France
+area: Romance language of Western Europe
 status_id: "4"
 scope: individual
 language_type: living

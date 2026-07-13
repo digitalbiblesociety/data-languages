@@ -2,15 +2,18 @@
 iso: mdh
 name: Maguindanaon
 autonym: Magindanaon
-alt_names: [Magindanao, Magindanaw, Maguindanao, Maguindanao language, Maguindanao-ngî, Minagindanaw]
+alt_names: [Magindanao, Magindanaw, Maguindanao, Maguindanao language, Maguindanao-ngî, Minagindanaw, Maguindanaw, Biwangan, Ilud, Laya, Magindanawn, Sibugay, Tagakawanan]
 population: 1000100
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 6.9453
 longitude: 124.50856
+language_map_img: 500px-Maguindanao_language_map.webp
 scripts: [Latn]
 glottocode: magu1243
 glottolog_family_id: aust1307

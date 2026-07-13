@@ -6,6 +6,7 @@ alt_names: [Indonesia]
 population: null
 country_id: ID
 country_name: Indonesia
+area: Papuan language spoken in Indonesia
 status_id: "9"
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 伊哈皮钦语
     auto: true
 ---
+Iha is a Papuan language spoken by the Mbaham-Matta people of the Bomberai Peninsula in West Papua Province, Indonesia. It is the basis of a pidgin used as the local trade language.

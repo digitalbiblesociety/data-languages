@@ -2,10 +2,12 @@
 iso: kpo
 name: Ikposo
 autonym: Ikpɔsɔ
-alt_names: [Akposo, Akposos, Akposso, Ikposso, Kposo, Kposso]
+alt_names: [Akposo, Akposos, Akposso, Ikposso, Kposo, Kposso, Amou Oblou, Badou, Ikponu, Iwi, Litime, Logbo, Uma, Uwi]
 population: 225500
 country_id: TG
 country_name: Togo
+location: Ghana
+area: Kwa language spoken in Togo and Ghana
 status_id: "5"
 scope: individual
 language_type: living

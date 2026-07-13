@@ -6,6 +6,7 @@ alt_names: [Dialekt palatynacki, Francique rhénan, Franconio renano, Palatinate
 population: 1000000
 country_id: DE
 country_name: Germany
+area: West Franconian dialect of German
 status_id: 6a
 scope: individual
 language_type: living

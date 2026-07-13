@@ -6,11 +6,14 @@ alt_names: [Orotche, Orotsjisk, Oroć]
 population: 260
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Endangered language of Far East Russia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 50.32354
 longitude: 137.85131
+language_map_img: Udihe-Oroch-Taz-territorial-groups.webp
 glottocode: oroc1248
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic

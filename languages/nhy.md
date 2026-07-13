@@ -2,10 +2,12 @@
 iso: nhy
 name: Northern Oaxaca Nahuatl
 autonym: Southeastern Puebla Nahuatl
-alt_names: [Mexicano, Nahuatl, "Nahuatl, Northern Oaxaca", Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Oaxaca]
+alt_names: [Mexicano, Nahuatl, "Nahuatl, Northern Oaxaca", Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Oaxaca, Northern Oaxaca, Nahuatl de Oaxaca, nāhuatlahtōlli]
 population: 8130
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Nahuatl variety of Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 北瓦哈卡纳瓦特尔语
     auto: true
 ---
+Tehuacan–Zongolica a.k.a. Southeastern Puebla Nahuatl is a variety of Nahuatl spoken by ethnic Nahua people in southeastern Puebla state (Tehuacan) and southern Veracruz (Zongolica) in Mexico.

@@ -6,6 +6,8 @@ alt_names: [Boruka, Borunca, Borunka, Brunca, Brunka, Brúncajc, Brúnkajk, Burn
 population: 1000
 country_id: CR
 country_name: Costa Rica
+location: Costa Rica
+area: Chibchan language spoken in Costa Rica
 status_id: 8b
 scope: individual
 language_type: living

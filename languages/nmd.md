@@ -2,10 +2,12 @@
 iso: nmd
 name: Ndumu
 autonym: Bandoumou
-alt_names: [Doumbou, Dumbu, Lendumu, Mbere, Mindoumou, Mindumbu, Minduumo, Ndumbo, Ndumbu, Nduumo, Ondoumbo, Ondumbo]
+alt_names: [Doumbou, Dumbu, Lendumu, Mbere, Mindoumou, Mindumbu, Minduumo, Ndumbo, Ndumbu, Nduumo, Ondoumbo, Ondumbo, Epigi, Kajandzo go, Kanandjoho, Kuya, Lindumu, Nyangi, Nyani]
 population: 4310
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living

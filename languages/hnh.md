@@ -2,15 +2,18 @@
 iso: hnh
 name: ǁAni
 autonym: Kxoe
-alt_names: [//Ani, /Anda, "?ani", Ani, Handa-Khwe, Handakwe-Dam, Handá, Handádam, "Khwe-||Ani", "Ts'éxa", "|Anda", "||Ani", "||Anikhwe"]
+alt_names: [//Ani, /Anda, "?ani", Ani, Handa-Khwe, Handakwe-Dam, Handá, Handádam, "Khwe-||Ani", "Ts'éxa", "|Anda", "||Ani", "||Anikhwe", Ts’exa]
 population: 1000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: "Khoe dialect continuum of the Okavango Delta, southwestern Africa"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -19.09658
 longitude: 22.90878
+language_map_img: 500px-Khwelanguage.webp
 glottocode: anii1246
 glottolog_family_id: khoe1240
 glottolog_family_name: Khoe-Kwadi
@@ -53,3 +56,4 @@ translations:
     name: "!阿尼语"
     auto: true
 ---
+Khwe is a dialect continuum of the Khoe branch of the Khoe-Kwadi family of Namibia, Angola, Botswana, South Africa, and parts of Zambia, with some 8,000 speakers.

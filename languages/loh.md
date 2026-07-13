@@ -2,10 +2,12 @@
 iso: loh
 name: Narim
 autonym: Narim
-alt_names: [Laarim, Lariim, Larim, Lariminit, Larimo, Longarim, Nariim]
+alt_names: [Laarim, Lariim, Larim, Lariminit, Larimo, Longarim, Nariim, Boya]
 population: 3620
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Surmic language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living

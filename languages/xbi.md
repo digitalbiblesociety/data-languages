@@ -2,10 +2,12 @@
 iso: xbi
 name: Kombio
 autonym: Kombio Wampukuamp
-alt_names: [Anamagi, Endangen]
+alt_names: [Anamagi, Endangen, Kombio Yanimoi, Akwun, East Kombio, Mwi, North Kombio, South Kombio, Wampukuamp, Wampurun, West-Central Kombio, Yanimoi]
 population: 2970
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language of Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

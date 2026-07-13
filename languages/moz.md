@@ -2,10 +2,12 @@
 iso: moz
 name: Mukulu
 autonym: Mukulu
-alt_names: [Diongor Guera, Djonkor Guera, Dyongor Guera, Gergiko, Jonkor of Guera, Jonkor-Gera, Mokilko, Mokoulou, Mokulu]
+alt_names: [Diongor Guera, Djonkor Guera, Dyongor Guera, Gergiko, Jonkor of Guera, Jonkor-Gera, Mokilko, Mokoulou, Mokulu, Guerguiko, Doliki, Gugiko, Mezimko, Moriko, Seginki]
 population: 12000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language spoken in central Chad
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: lvi
 name: Lavi
 autonym: null
-alt_names: [Lavy, Swoeng]
+alt_names: [Lavy, Swoeng, Lawi, Salwoeng, Saveung]
 population: 500
 country_id: IL
 country_name: Israel
+area: Mon–Khmer language spoken in Laos
 status_id: null
 scope: individual
 language_type: living

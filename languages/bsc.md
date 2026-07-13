@@ -2,10 +2,12 @@
 iso: bsc
 name: Bassari
 autonym: Oniyan
-alt_names: [Ayan, Basari, Basarí, Biyan, Onian, Onëyan, Tenda Basari, Wo]
+alt_names: [Ayan, Basari, Basarí, Biyan, Onian, Onëyan, Tenda Basari, Wo, Ane, Këd, Oxalac, Southern Bassari]
 population: 31200
 country_id: SN
 country_name: Senegal
+location: Guinea and Guinea-Bissau
+area: Senegambian language of Senegal and Guinea
 status_id: "5"
 scope: individual
 language_type: living

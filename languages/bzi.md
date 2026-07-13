@@ -2,10 +2,12 @@
 iso: bzi
 name: Bisu
 autonym: 毕苏语
-alt_names: [Bisú, Laopin, Lawa, Lua, Mbi, Mbisu, Mibisu, Misu, Pin]
+alt_names: [Bisú, Laopin, Lawa, Lua, Mbi, Mbisu, Mibisu, Misu, Pin, บีซู, Laba]
 population: 700
 country_id: TH
 country_name: Thailand
+location: Southwestern China
+area: Loloish language spoken in Thailand and China
 status_id: 6b
 scope: individual
 language_type: living

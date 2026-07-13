@@ -6,6 +6,7 @@ alt_names: [Portugis language, Ternateno, Ternatenyo]
 population: null
 country_id: ID
 country_name: Indonesia
+area: "Extinct creole from the Moluccas, Indonesia"
 status_id: "10"
 scope: individual
 language_type: extinct

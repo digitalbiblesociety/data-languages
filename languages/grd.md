@@ -6,6 +6,8 @@ alt_names: [Gurdu-mbaaru, Gurdung, Guruntum, Guruntum language, Gùrdùŋ, Gùr�
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Chadic language spoken in Nigeria
 status_id: 8a
 scope: individual
 language_type: living

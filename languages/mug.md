@@ -2,10 +2,12 @@
 iso: mug
 name: Musgu
 autonym: Mulwi
-alt_names: [Mouloui, Mousgou, Mousgoum, Mousgoun, Munjuk, Musga, Musgum, Musuk, Muzuk]
+alt_names: [Mouloui, Mousgou, Mousgoum, Mousgoun, Munjuk, Musga, Musgum, Musuk, Muzuk, Beege, Guirvidig, Jafga, Luggoy, Mani-Iling, Maniling, Mousgoum de Guirvidig, Mousgoum de Guirvidik, Mousgoum de Pouss, Mpus, Mulwi-Mogroum, Musgum-Pouss, Ngilemong, Pouss, Pus, Vlum, Vulum]
 population: 164400
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon and Chad
 status_id: "5"
 scope: individual
 language_type: living

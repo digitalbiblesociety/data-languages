@@ -6,6 +6,7 @@ alt_names: [Achipaie, Chipaia, Chipaya, Shipaya, Xipaia, Xipáya, Šipaya]
 population: 595
 country_id: BR
 country_name: Brazil
+area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

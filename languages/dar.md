@@ -2,10 +2,12 @@
 iso: dar
 name: Dargwa
 autonym: дарган мез dargan mez
-alt_names: [Dargi, Dargin, Dargince, Darginisch, Darginski, Dargintsy, Darguà, Dargva, Dargweg, Dargínico, Kaitak, Khiurkilinskii, Komucki, Kubatschin, Даргинские языки]
+alt_names: [Dargi, Dargin, Dargince, Darginisch, Darginski, Dargintsy, Darguà, Dargva, Dargweg, Dargínico, Kaitak, Khiurkilinskii, Komucki, Kubatschin, Даргинские языки, Uslar, дарган мез, Akkhusha, Akusha, Amuq, Amuzgi-Shiri, Aqusha-Urakhi, Chirag, Cudaxar, Dargan Medz, Gapshima, Itsari, Kaitag, Kajtak, Kaytak, Kubachi, Kubachi-Ashty, Kubachin, Kubachintsy, Megeb, Mugi, Muira, Muirin, Qunqi Xuduc, Sanchi, Sanji-Icari, Sirhwa, Sirxin, Tanty, Tsudakhar, Ughbug, Urakha-Akhush, Uraxa-Axusha, Urkarax, Xajdak]
 population: 495300
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living

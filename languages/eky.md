@@ -2,10 +2,12 @@
 iso: eky
 name: Eastern Kayah
 autonym: Kayah
-alt_names: [E Kayah, Eastern, Eastern Kayah Li, Karen (Red), Karenni, Karennyi, Kaya, Kayah Li, Kayah Li (Eastern), "Kayah, Eastern", "Kayah,Eastern", Kayay, Red Karen]
+alt_names: [E Kayah, Eastern, Eastern Kayah Li, Karen (Red), Karenni, Karennyi, Kaya, Kayah Li, Kayah Li (Eastern), "Kayah, Eastern", "Kayah,Eastern", Kayay, Red Karen, Kayeh]
 population: 26000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karenic dialect continuum
 status_id: 6a
 scope: individual
 language_type: living
@@ -70,3 +72,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Karenni or Red Karen, known in Burmese as Kayah, is a Karen dialect continuum spoken by over half a million Kayah people in Burma.

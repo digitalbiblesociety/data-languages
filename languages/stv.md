@@ -2,10 +2,12 @@
 iso: stv
 name: "Silt'e"
 autonym: ስልጥኘ
-alt_names: [East Gurage, Gurage, Selti, "Silt'i", Silte, Silti]
+alt_names: [East Gurage, Gurage, Selti, "Silt'i", Silte, Silti, Enneqor, Inneqor, Ulbarag, Urbareg]
 population: 881000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Semitic language spoken by Silt’e people in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

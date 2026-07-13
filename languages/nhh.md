@@ -5,6 +5,8 @@ autonym: Nahali
 population: 20400
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: mnk
 macrolanguage_id: man
 name: Mandinka
 autonym: Mandingo
-alt_names: [Gambian Mandinka, Mande, Manding, Mandinga, Mandingue, Mandinka-språket, Mandinkeg, Mandinko-kan, Mandinque, Mandé, Socé, Мандинка]
+alt_names: [Gambian Mandinka, Mande, Manding, Mandinga, Mandingue, Mandinka-språket, Mandinkeg, Mandinko-kan, Mandinque, Mandé, Socé, Мандинка, Mandiꞌnka kango]
 population: 1300000
 country_id: SN
 country_name: Senegal
+location: Guinea and Guinea-Bissau
+area: Mande language
 status_id: "5"
 scope: individual
 language_type: living

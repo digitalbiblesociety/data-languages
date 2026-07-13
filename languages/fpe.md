@@ -2,15 +2,18 @@
 iso: fpe
 name: Fernando Po Creole English
 autonym: Fernando Po Creole English
-alt_names: ["Creole English, Fernando Po"]
+alt_names: ["Creole English, Fernando Po", Criollo, Equatorial Guinean Pidgin, Fernandino, Fernando Po Krio, Pidginglis, Pichi, Pichinglis, Pidgin, Pidgin de Guinea Ecuatorial]
 population: 6000
 country_id: GQ
 country_name: Equatorial Guinea
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: "English-based creole of Bioko, Equatorial Guinea"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 3.53638
 longitude: 8.68929
+language_map_img: 500px-Bioko.webp
 glottocode: fern1234
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

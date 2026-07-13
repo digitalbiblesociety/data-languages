@@ -2,14 +2,18 @@
 iso: acb
 name: Áncá
 autonym: Anta
+alt_names: [Bunta]
 population: 300
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Southwest Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 6.66524
 longitude: 11.10872
+glottocode: anca1236
 wikidata_id: Q11130787
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 安卡语
     auto: true
 ---
+Manta is a Grassfields language of Cameroon.

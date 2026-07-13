@@ -2,10 +2,12 @@
 iso: kps
 name: Tehit
 autonym: Kaibus
-alt_names: [Tahit, Tehid, Teminabuan]
+alt_names: [Tahit, Tehid, Teminabuan, Fkar, Imyan, Mbol Fle, Saifi, Sawiat Salmeit, Sfa Riere, Tehit Jit]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: "Bird's Head language spoken in Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

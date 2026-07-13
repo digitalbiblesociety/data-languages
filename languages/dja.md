@@ -5,9 +5,11 @@ autonym: Djadja Wurrung
 population: null
 country_id: AU
 country_name: Australia
+area: Kulin language spoken in Australia
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: Kulin_Map.webp
 wikidata_id: Q5285190
 wikipedia_url: "https://en.wikipedia.org/wiki/Djadjawurrung_language"
 translations:

@@ -2,10 +2,12 @@
 iso: aab
 name: "Alumu-Tesu"
 autonym: Təsu
-alt_names: [Alumu, Arum-Cesu, Arum-Chessu, Arum-Tesu]
+alt_names: [Alumu, Arum-Cesu, Arum-Chessu, Arum-Tesu, Arum, Tesu]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Niger–Congo language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

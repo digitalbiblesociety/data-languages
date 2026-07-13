@@ -2,10 +2,12 @@
 iso: ktp
 name: Kaduo
 autonym: Khatu
-alt_names: [Gazhuo, Kado, Kadu, Khàtù, Khàtù, 卡多話]
+alt_names: [Gazhuo, Kado, Kadu, Khàtù, Khàtù, 卡多話, Kaduo Hani]
 population: 180000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language
 status_id: 6a
 scope: individual
 language_type: living

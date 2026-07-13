@@ -6,11 +6,14 @@ alt_names: [Bisaya, Capisano, Capiseño]
 population: 710000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.41215
 longitude: 122.95359
+language_map_img: 500px-Capiznon_language_map.webp
 scripts: [Latn]
 glottocode: capi1239
 glottolog_family_id: aust1307

@@ -2,10 +2,12 @@
 iso: uks
 name: "Urubú-Kaapor Sign Language"
 autonym: "Urubu(–Ka'apor) Sign Language"
-alt_names: [Kaapor Sign Language, Urubu-Kaapor Sign Language, Urubú Sign Language, Urubú-tegnspråk]
+alt_names: [Kaapor Sign Language, Urubu-Kaapor Sign Language, Urubú Sign Language, Urubú-tegnspråk, “Urubú Sign Language”]
 population: null
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Village sign language used in Brazil
 status_id: 6a
 scope: individual
 language_type: living

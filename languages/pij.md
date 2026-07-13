@@ -5,11 +5,13 @@ autonym: Piajao
 population: null
 country_id: CO
 country_name: Colombia
+area: Extinct language of Colombia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 0.49999
 longitude: -75.33332
+language_map_img: 500px-Nacion_Pijao.webp
 glottocode: pija1235
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable

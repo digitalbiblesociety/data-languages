@@ -2,10 +2,12 @@
 iso: dyu
 name: Dyula
 autonym: Julakan
-alt_names: [Dioula, Dioula language, Diouleg, Diula, Djula, Dyoula, Jula, Диула, Дьюла]
+alt_names: [Dioula, Dioula language, Diouleg, Diula, Djula, Dyoula, Jula, Диула, Дьюла, Dioula Véhiculaire, Jula Kong, Kong Jula, Tagboussikan, Trade Jula]
 population: 2226000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: Burkina Faso
+area: Mande language spoken in West Africa
 status_id: "3"
 scope: individual
 language_type: living

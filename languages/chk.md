@@ -2,10 +2,12 @@
 iso: chk
 name: Chuukese
 autonym: Trukese
-alt_names: [Chuuk, Lagoon Chuukese, Ruk, Truk]
+alt_names: [Chuuk, Lagoon Chuukese, Ruk, Truk, Chuk, East Lagoon, Fayichuck]
 population: 56900
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Austronesian language spoken on the Chuuk islands in Micronesia
 status_id: "2"
 scope: individual
 language_type: living

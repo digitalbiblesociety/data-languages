@@ -2,10 +2,12 @@
 iso: kwi
 name: "Awa-Cuaiquer"
 autonym: Awa Pit
-alt_names: [(Awa-)Coaiquer, Awa, Awa-Kwaiker, Awa-Quaiquer, "Awap'it", Awapit, Awapit simi, Coaiker, Coaiquer, Cuaiquer, Cuqiquer, Koaiker, Kwaiker, Pit, Quaiquer, Ава-пит]
+alt_names: [(Awa-)Coaiquer, Awa, Awa-Kwaiker, Awa-Quaiquer, "Awap'it", Awapit, Awapit simi, Coaiker, Coaiquer, Cuaiquer, Cuqiquer, Koaiker, Kwaiker, Pit, Quaiquer, Ава-пит, auapit, Înkal Awa]
 population: 14100
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Barbacoan language of Colombia and Ecuador
 status_id: 6b
 scope: individual
 language_type: living

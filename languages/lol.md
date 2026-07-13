@@ -2,10 +2,12 @@
 iso: lol
 name: Mongo
 autonym: Nkundu
-alt_names: [Lomongo, Mongo-Nkundu]
+alt_names: [Lomongo, Mongo-Nkundu, Acitu, Bakutu, Belo, Bokote, Bolongo, Booli, Bosaka, Bosanga-Ekonda, Bosanga-Mbole, Bukala, Buli, Ekonda, Ekonda Mongo, Ekota, Emoma, Ikongo, Ipanga, Iyembe, Kala, Konda, Kutu, Lionje, Lokalo-Lomela, Lokonda, Lokwala, Lolo, Longo, Longombe, Lonkundo, Lonkundu, Lwankamba, Lɔmɔngɔ, Mangilongo, Mbole, Mpama, Ngombe-Lomela, Ngome à Múná, Nkengo, Nkole, Nkundo, Nsongo, Ntomba, Ntomba-Bikoro, Ntomba-Inongo, Panga, South Nkundo, Titu, Wangata, Yailima, Yajima, Yalima, Yamongo, Yenge, Yongo]
 population: 400000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of the Democratic Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living

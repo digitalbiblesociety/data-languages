@@ -2,10 +2,12 @@
 iso: bcw
 name: Bana
 autonym: koma kabana
-alt_names: [Banaeg, Baza, Ka-Bana, Koma, Mbana, Mizeran, Parole des Bana]
+alt_names: [Banaeg, Baza, Ka-Bana, Koma, Mbana, Mizeran, Parole des Bana, Gamboura, Gili, Guili, kwəmà ká bàná]
 population: 23000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

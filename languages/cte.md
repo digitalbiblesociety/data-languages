@@ -2,10 +2,12 @@
 iso: cte
 name: Tepinapa Chinantec
 autonym: Chinanteco del sureste medio
-alt_names: [Chinantec, "Chinantec, Tepinapa", Chinanteco, Chinanteko, Middle Southeastern Chinantec, Tepinapa, jujmi (del sureste medio)]
+alt_names: [Chinantec, "Chinantec, Tepinapa", Chinanteco, Chinanteko, Middle Southeastern Chinantec, Tepinapa, jujmi (del sureste medio), Jujmi]
 population: 1500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantecan language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 特皮纳帕奇南特克语
     auto: true
 ---
+Lalana-Tepinapa Chinantec is a Chinantecan language of Mexico, spoken in 30 towns in a remote region along the Oaxaca–Veracruz border. Outlying varieties of Lalana and Tepinapa Chinantec have only marginal intelligibility with each other. A third of speakers are monolingual.

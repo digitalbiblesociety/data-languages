@@ -6,11 +6,13 @@ alt_names: [Pame, "Pame, Southern", Pamean]
 population: null
 country_id: MX
 country_name: Mexico
+area: Oto-Pamean language group of Mexico
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 20.966
 longitude: -99.334
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: sout2999
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -53,3 +55,4 @@ translations:
     name: 南部帕梅语
     auto: true
 ---
+The Pame languages are a group of languages in Mexico that is spoken by around 12,000 Pame people in the state of San Luis Potosí. It belongs to the Oto-Pamean branch of the Oto-Manguean language family.

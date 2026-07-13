@@ -6,6 +6,8 @@ alt_names: [Cen Tuum, Centuum, Jalaa, Jalaa hizkuntza, Jalaa language, Kentumeg,
 population: 200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Extinct language of northeastern Nigeria
 status_id: 8a
 scope: individual
 language_type: living

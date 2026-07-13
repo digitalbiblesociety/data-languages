@@ -6,6 +6,8 @@ alt_names: [Jaru, Oro Wari, Orovín, Orowari, Pacaha-novo, Pacasnovas, Pakaás-n
 population: 5
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Moribund Chapacuran language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

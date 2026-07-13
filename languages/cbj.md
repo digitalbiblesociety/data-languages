@@ -2,10 +2,12 @@
 iso: cbj
 name: Ede Cabe
 autonym: Caabe
-alt_names: [Cabe]
+alt_names: [Cabe, Tchabè]
 population: 3750
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 埃德卡贝语
     auto: true
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

@@ -6,6 +6,8 @@ alt_names: [Jakari, Tabi, Tanahmerah, Tanahmerah 2, Tanahmerah II, Tepera]
 population: 3750
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language of Papua, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living

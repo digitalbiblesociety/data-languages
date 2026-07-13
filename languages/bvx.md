@@ -6,6 +6,8 @@ alt_names: [Babole, Southern Bomitaba]
 population: 4000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo Republic
 status_id: 6b
 scope: individual
 language_type: living

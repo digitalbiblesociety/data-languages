@@ -2,10 +2,12 @@
 iso: pau
 name: Palauan
 autonym: a tekoi er a Belau
-alt_names: [Bauzi, Belauan, Palao, Palauaans, Palauek, Palauiska, Palauès, Paluan, palau, Παλάου]
+alt_names: [Bauzi, Belauan, Palao, Palauaans, Palauek, Palauiska, Palauès, Paluan, palau, Παλάου, Tekoi ra Belau]
 population: 15840
 country_id: PW
 country_name: Palau
+location: Palau
+area: Austronesian language of Palau
 status_id: "2"
 scope: individual
 language_type: living

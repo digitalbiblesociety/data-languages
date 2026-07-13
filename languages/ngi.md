@@ -6,6 +6,8 @@ alt_names: [Ngizimanci, Ngizmawa, "Ngo:djin", Ngojin]
 population: 80000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

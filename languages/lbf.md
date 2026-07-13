@@ -6,6 +6,8 @@ alt_names: [Bhotia of Lahul, Bhōṭiā of Lahul, Gondhla, Gondla, Gōndlā, Lah
 population: 12050
 country_id: IN
 country_name: India
+location: China
+area: Sino-Tibetan language spoken in India and Tibet
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: peg
 name: Pengo
 autonym: Hengo
-alt_names: [Hengo Poraja, Jani, Muddali, Pango, Pango Paraja, Paraja, Pengu, Pengua]
+alt_names: [Hengo Poraja, Jani, Muddali, Pango, Pango Paraja, Paraja, Pengu, Pengua, Awe, Indi]
 population: 350000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

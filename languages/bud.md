@@ -2,10 +2,12 @@
 iso: bud
 name: Ntcham
 autonym: Basari
-alt_names: [Basaal, Basar, Basare, Bassar, Bassari, Natchamba, Ncham, Tobote]
+alt_names: [Basaal, Basar, Basare, Bassar, Bassari, Natchamba, Ncham, Tobote, Bassar Ntcham, Bitaapul, Ceemba, Dipiitil, Ncam, Ntaapum]
 population: 329000
 country_id: TG
 country_name: Togo
+location: Ghana
+area: Gur language spoken in Togo and Ghana
 status_id: "5"
 scope: individual
 language_type: living

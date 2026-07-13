@@ -2,10 +2,12 @@
 iso: gvp
 name: Pará Gavião
 autonym: "Canela-Krahô"
-alt_names: [Bocobu, Canela, Gavião, Gavião de Parã, Gavião du Pará, Gavião pukobiê, "Gavião, Pará", "Gavião, Parã", Kanela, Krahó, Krahô, Krenjé, Krenjê, Kreye, Krikati, Para Gaviao, Parakatêjê, Pará-Maranhão Gavião, Parã, Piokob, Pukobjê, Pukobyé, Pukobyê, Timbira]
+alt_names: [Bocobu, Canela, Gavião, Gavião de Parã, Gavião du Pará, Gavião pukobiê, "Gavião, Pará", "Gavião, Parã", Kanela, Krahó, Krahô, Krenjé, Krenjê, Kreye, Krikati, Para Gaviao, Parakatêjê, Pará-Maranhão Gavião, Parã, Piokob, Pukobjê, Pukobyé, Pukobyê, Timbira, Gavião do Mãe Maria]
 population: 338
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Dialect Cluster spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living

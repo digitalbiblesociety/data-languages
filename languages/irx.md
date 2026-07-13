@@ -2,10 +2,12 @@
 iso: irx
 name: Kamberau
 autonym: Asienara
-alt_names: [Iria, Kamrau]
+alt_names: [Iria, Kamrau, Kamkbrau]
 population: 1570
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

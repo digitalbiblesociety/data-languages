@@ -6,11 +6,13 @@ alt_names: [Andoan, Andoeg, Arabela-Andoa, Gaye, Semigae, Shimigae, Siaviri]
 population: null
 country_id: PE
 country_name: Peru
+area: Extinct Ecuadorian and Peruvian language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -3.29664
 longitude: -76.60558
+language_map_img: 500px-Andoa-Shimigae_language.webp
 glottocode: ando1255
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan

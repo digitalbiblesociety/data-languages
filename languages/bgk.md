@@ -6,6 +6,8 @@ alt_names: [Kha Bit, Khabit, Khbit, Khmin, Pasing, Phsin, Phsing, 布興話]
 population: 1530
 country_id: LA
 country_name: Laos
+location: Southwestern China
+area: Austroasiatic language spoken in Laos and China
 status_id: 6b
 scope: individual
 language_type: living

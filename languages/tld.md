@@ -2,10 +2,12 @@
 iso: tld
 name: Talaud
 autonym: Talaur
-alt_names: [Talaut, Talodda]
+alt_names: [Talaut, Talodda, "Arangka'a", Awit, Beo, Dapalan, Essang, Kaburuang, Karakelang, Karakelong, Lirang, Nenusa-Maingas, Riung, Salebabu, Salibabu, South Karakelong]
 population: 52100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Austronesian language spoken on the Talaud Islands
 status_id: "5"
 scope: individual
 language_type: living

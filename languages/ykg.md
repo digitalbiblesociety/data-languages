@@ -6,11 +6,14 @@ alt_names: [Jukagir, Jukagirisch, Nordjukagiriska, Northern Yukagir, Odul, Tundr
 population: 370
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Yukaghir language of northeastern Russia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 65.38736
 longitude: 151.31794
+language_map_img: Yukaghir_map.svg
 glottocode: nort2745
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir

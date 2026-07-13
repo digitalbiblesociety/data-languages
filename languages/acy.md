@@ -7,11 +7,14 @@ alt_names: [Arabe chypriote, Arabeg Kiprenez, Arabic, Arabic (Eastern), Arabic (
 population: 1300
 country_id: CY
 country_name: Cyprus
+location: Cyprus
+area: Moribund variety of Arabic spoken by the Maronite community of Cyprus
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 35.16744
 longitude: 33.0943
+language_map_img: Map_Arabic_in_the_Levant.webp
 glottocode: cypr1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

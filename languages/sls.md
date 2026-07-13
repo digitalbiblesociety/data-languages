@@ -5,11 +5,13 @@ autonym: Bahasa isyarat Singapura
 population: 3000
 country_id: SG
 country_name: Singapore
+area: Sign Language used in Singapore
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 1.33069
 longitude: 103.86376
+glottocode: sing1237
 wikidata_id: Q7512563
 wikipedia_url: "https://en.wikipedia.org/wiki/Singapore_Sign_Language"
 translations:

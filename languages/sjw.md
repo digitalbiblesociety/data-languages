@@ -2,15 +2,18 @@
 iso: sjw
 name: Shawnee
 autonym: Sawanwa
-alt_names: [Chavanés, Шони]
+alt_names: [Chavanés, Шони, Savannah, Sewanee, Shawano]
 population: 260
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Central Algonquian language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 35.35397
 longitude: -96.76345
+language_map_img: Shawnee_lang.webp
 glottocode: shaw1249
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

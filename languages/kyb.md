@@ -6,11 +6,14 @@ alt_names: ["Kalinga, Butbut"]
 population: 8000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 17.22394
 longitude: 121.09113
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: butb1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

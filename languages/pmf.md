@@ -2,15 +2,18 @@
 iso: pmf
 name: Pamona
 autonym: Bare’e
-alt_names: ["Bare'e", Baree, Poso]
+alt_names: ["Bare'e", Baree, Poso, Aria, Bahasa Taa, Iba, Laiwonu, Rapangkaka, Taa, Tobalo, Tobao, Tobau, Tokondindi, Tomoni, Topada, Topotaa, Wana]
 population: 77900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -1.62663
 longitude: 121.26817
+language_map_img: 500px-Peta_bahasa_Pamona.webp
 glottocode: pamo1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

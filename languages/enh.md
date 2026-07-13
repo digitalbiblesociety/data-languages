@@ -6,11 +6,14 @@ alt_names: [Enec, Enets, Enets de la toundra, "Enets, Tundra", Enzisch, Eńeć, 
 population: 198
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Moribund Samoyedic language spoken by Enets people
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 70.16258
 longitude: 83.7405
+language_map_img: 500px-Enets_current.webp
 glottocode: tund1254
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

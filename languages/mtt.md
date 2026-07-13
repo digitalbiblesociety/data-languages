@@ -2,10 +2,12 @@
 iso: mtt
 name: Mota
 autonym: null
-alt_names: [Banks-Inseln]
+alt_names: [Banks-Inseln, Ira we nao, Ira we tak, Maligo, Veverau]
 population: 750
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

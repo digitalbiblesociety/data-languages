@@ -7,11 +7,14 @@ alt_names: [Bu Dai, Kau Ndae, Khaau Daai, Thu Lao, Tu, Tuliao, Tuzu, Wen-Ma, Wen
 population: 100200
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Tai language spoken in China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 21.83753
 longitude: 107.3622
+language_map_img: 500px-Dai-Zhuang.webp
 glottocode: daiz1235
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

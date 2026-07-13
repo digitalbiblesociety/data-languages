@@ -2,10 +2,12 @@
 iso: skj
 name: Seke
 autonym: null
-alt_names: [Seke]
+alt_names: [Seke, Seke (Nepal)]
 population: 700
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sinto-Tibetan language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living

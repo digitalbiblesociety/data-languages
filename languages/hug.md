@@ -2,15 +2,18 @@
 iso: hug
 name: Huachipaeri
 autonym: Huachipaire
-alt_names: ["\"Mashco\"", Amarakaire, Greachipari, Harakmbet, Harakmbut, Harákmbut, Hate, Huachipairi, Mashco, Toyeri, Toyoneri, Tuyoneri, Wachipairi, Wachipayri, Wachipaéri, Wacipaire]
+alt_names: ["\"Mashco\"", Amarakaire, Greachipari, Harakmbet, Harakmbut, Harákmbut, Hate, Huachipairi, Mashco, Toyeri, Toyoneri, Tuyoneri, Wachipairi, Wachipayri, Wachipaéri, Wacipaire, “Mashco”]
 population: 310
 country_id: PE
 country_name: Peru
+location: Peru
+area: Indigenous language family with two surviving dialects in Peru
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -13.31951
 longitude: -71.22749
+language_map_img: 500px-Harakmbut_languages.webp
 glottocode: huac1244
 glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut

@@ -6,6 +6,8 @@ alt_names: [Angrak, Anskrak, Ansrak, Chu-ng, Khamen Phadong, Sa-och, Sa-ong, Sao
 population: 180
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Endangered Pearic language of Southeast Asia
 status_id: 8b
 scope: individual
 language_type: living

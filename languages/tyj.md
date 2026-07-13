@@ -6,6 +6,8 @@ alt_names: [Tai Yo, Tay Quy Chau, Tay Yo, Tay-Jo]
 population: 300
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Kra–Dai language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

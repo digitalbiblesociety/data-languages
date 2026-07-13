@@ -2,15 +2,18 @@
 iso: poo
 name: Central Pomo
 autonym: "Ballo-Kai-Pomo"
-alt_names: [Cabanapo, Central, "H'hana", Habenapo, Khabenapo, Khana, Kulanapan, Kulanapo, Kábinapek, Oat Valley, Pomo, Pomo (Central), Pomo central, "Pomo, Central", Venaambakaia, Venambakaiia, Yokaia, Yokaya]
+alt_names: [Cabanapo, Central, "H'hana", Habenapo, Khabenapo, Khana, Kulanapan, Kulanapo, Kábinapek, Oat Valley, Pomo, Pomo (Central), Pomo central, "Pomo, Central", Venaambakaia, Venambakaiia, Yokaia, Yokaya, H’hana]
 population: null
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Extinct Pomoan language of California
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 38.90547
 longitude: -123.66393
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: cent2138
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

@@ -6,6 +6,8 @@ alt_names: [Ben, Gan, Ngan, Ngen, Ngin, Nguin]
 population: 17000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

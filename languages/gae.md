@@ -6,6 +6,8 @@ alt_names: [Arequena, Guarekena, Guarenquena, Uerequema, Urequema, Warekana (Ré
 population: 160
 country_id: VE
 country_name: Venezuela
+location: Northwestern Brazil
+area: Arawakan language spoken in Brazil and Venezuela
 status_id: 8a
 scope: individual
 language_type: living

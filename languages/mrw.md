@@ -6,11 +6,14 @@ alt_names: [Maranao-ngî, Maranaw, Minaranaw, Ranao]
 population: 866000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 7.79414
 longitude: 124.17548
+language_map_img: 500px-Maranao_language_map.webp
 glottocode: mara1404
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

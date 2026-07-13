@@ -5,6 +5,7 @@ autonym: Badakhshi
 population: 2825
 country_id: PK
 country_name: Pakistan
+area: Unclassified Indo-Iranian language spoken in Pakistan
 status_id: "9"
 scope: individual
 language_type: living

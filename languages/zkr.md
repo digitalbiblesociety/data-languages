@@ -2,10 +2,12 @@
 iso: zkr
 name: Zakhring
 autonym: Meyor
-alt_names: [Charumba, Zaiwa, Zha, 扎話]
+alt_names: [Charumba, Zaiwa, Zha, 扎話, Eastern Mishmi]
 population: 300
 country_id: CN
 country_name: China
+location: "India, Map 5"
+area: Unclassified language spoken in India
 status_id: "7"
 scope: individual
 language_type: living

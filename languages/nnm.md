@@ -6,6 +6,8 @@ alt_names: [Lujere, Namie, Nemia, Nemie, Watalu, Yellow River]
 population: 300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Sepik language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

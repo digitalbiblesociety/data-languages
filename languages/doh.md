@@ -6,6 +6,8 @@ alt_names: [Dɔ]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Niger–Congo language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

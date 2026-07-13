@@ -5,6 +5,7 @@ autonym: null
 population: 8310
 country_id: NA
 country_name: Namibia
+area: Sign Language
 status_id: 6a
 scope: individual
 language_type: living

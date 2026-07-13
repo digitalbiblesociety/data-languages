@@ -6,11 +6,14 @@ alt_names: [Kerabit]
 population: 1500
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 3.31783
 longitude: 115.42828
+language_map_img: Languages_of_Kalimantan.svg
 glottocode: kela1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

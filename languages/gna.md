@@ -2,10 +2,12 @@
 iso: gna
 name: Kaansa
 autonym: Gan
-alt_names: [Gane, Gã, Kaan, Kaanse, Kan, Kpɔdɔɣo, Kãasa, Padorho]
+alt_names: [Gane, Gã, Kaan, Kaanse, Kan, Kpɔdɔɣo, Kãasa, Padorho, Bodoro, Gbadogo, Kpatogo, Kpatogoso, Padogho, Padoro]
 population: 6000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

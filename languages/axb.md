@@ -6,11 +6,13 @@ alt_names: [Abipone, Abipón, Abipón language, Abipónok, Callaga]
 population: null
 country_id: AR
 country_name: Argentina
+area: Extinct language of Argentina
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -29
 longitude: -61
+language_map_img: Patagonian_lang.webp
 glottocode: abip1241
 glottolog_family_id: guai1249
 glottolog_family_name: Guaicuruan

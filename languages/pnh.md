@@ -6,6 +6,8 @@ alt_names: [Penrhynese, Tongareva]
 population: 600
 country_id: CK
 country_name: Cook Islands
+location: Cook Islands
+area: Northern Cook Islands Māori dialect
 status_id: "7"
 scope: individual
 language_type: living

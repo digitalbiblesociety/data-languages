@@ -5,6 +5,8 @@ autonym: Zirenkel
 population: 2240
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: 6b
 scope: individual
 language_type: living

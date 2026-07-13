@@ -6,11 +6,14 @@ alt_names: [Larëvat, Mallicolo]
 population: 680
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -16.19708
 longitude: 167.38662
+language_map_img: 500px-MalakulaMap.webp
 glottocode: lare1249
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

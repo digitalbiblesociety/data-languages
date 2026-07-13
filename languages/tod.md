@@ -2,10 +2,12 @@
 iso: tod
 name: Toma
 autonym: Looma
-alt_names: [Toa, Toale, Toali, Tooma]
+alt_names: [Toa, Toale, Toali, Tooma, Gizima, Koima, Konokoro, Lulama, Manyaka, Vekema, Weima, Yala]
 population: 261000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "4"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 托玛语
     auto: true
 ---
+Loma is a Mande language spoken by the Loma people of Liberia and Guinea.

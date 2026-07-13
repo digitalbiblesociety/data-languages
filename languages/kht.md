@@ -6,11 +6,14 @@ alt_names: [Hkampti, Hkampti Shan, Kam Ti, Kamti, Kham(p)ti, Khampti, Khampti Sa
 population: 13120
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Kra–Dai language spoken in Myanmar and India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.6653
 longitude: 97.035915
+language_map_img: 500px-Khamti_language.webp
 scripts: [Mymr]
 glottocode: kham1290
 glottolog_family_id: taik1256

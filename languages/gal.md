@@ -6,11 +6,14 @@ alt_names: [Galole, Galoli]
 population: 20080
 country_id: TL
 country_name: "Timor-Leste"
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Timoric language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.61074
 longitude: 125.95904
+language_map_img: 500px-Galoli.webp
 glottocode: galo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

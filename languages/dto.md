@@ -2,10 +2,12 @@
 iso: dto
 name: Tommo So Dogon
 autonym: "Tombo-So"
-alt_names: ["Dogon, Tommo So"]
+alt_names: ["Dogon, Tommo So", Tommo So]
 population: 40000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language of Mali
 status_id: 6a
 scope: individual
 language_type: living

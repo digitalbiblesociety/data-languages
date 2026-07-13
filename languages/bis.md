@@ -6,6 +6,8 @@ autonym: Bichelamar
 population: 12570
 country_id: VU
 country_name: Vanuatu
+location: New Caledonia
+area: English-based creole language of Vanuatu
 status_id: "3"
 scope: individual
 language_type: living

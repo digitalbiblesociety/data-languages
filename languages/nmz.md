@@ -2,10 +2,12 @@
 iso: nmz
 name: Nawdm
 autonym: Losso
-alt_names: [Losu, Naoudem, Naudem, Naudm, Nawdam]
+alt_names: [Losu, Naoudem, Naudem, Naudm, Nawdam, Baga, "Bana'", Central Nawdm, East Nawdm, Koka, Niamtougou, Siou Canton, Tenega, West Nawdm]
 population: 146000
 country_id: TG
 country_name: Togo
+location: Togo
+area: African language
 status_id: "5"
 scope: individual
 language_type: living

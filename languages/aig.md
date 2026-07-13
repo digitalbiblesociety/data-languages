@@ -2,15 +2,18 @@
 iso: aig
 name: Antigua and Barbuda Creole English
 autonym: Antiguan Creole
-alt_names: ["Creole English, Antigua and Barbuda"]
+alt_names: ["Creole English, Antigua and Barbuda", Anguillan Creole English, Kokoy Creole English, Leeward Caribbean Creole, Montserrat Creole English, Creole, Patwa]
 population: 159520
 country_id: AG
 country_name: Antigua and Barbuda
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.55314
 longitude: -61.3156
+language_map_img: Distribution_of_Antiguan_and_Barbudan_Creole.svg
 glottocode: anti1245
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

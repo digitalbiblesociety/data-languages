@@ -2,10 +2,12 @@
 iso: saj
 name: Sahu
 autonym: "Sahu'u"
-alt_names: ["Pa'disua", Palisua, "Sa'u", Sau, Waioli]
+alt_names: ["Pa'disua", Palisua, "Sa'u", Sau, Waioli, Sa’u, Sahu’u, "Tala'i"]
 population: 7500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

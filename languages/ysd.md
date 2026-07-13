@@ -2,10 +2,12 @@
 iso: ysd
 name: Samatao
 autonym: Samatao
-alt_names: [Eastern Samadu, Samaduo, Samataw, Samou, 撒慕, 撒馬多]
+alt_names: [Eastern Samadu, Samaduo, Samataw, Samou, 撒慕, 撒馬多, Samadu]
 population: 400
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Endangered Sino-Tibetan language spoken in China
 status_id: 8a
 scope: individual
 language_type: living

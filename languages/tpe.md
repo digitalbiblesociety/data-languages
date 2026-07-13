@@ -2,15 +2,18 @@
 iso: tpe
 name: Tippera
 autonym: Tripuri
-alt_names: [Tippera-Bengali, Tipperah, Tippurah, Tipra, Tipura, Triperah, Tripura]
+alt_names: [Tippera-Bengali, Tipperah, Tippurah, Tipra, Tipura, Triperah, Tripura, Kok Borok, Anok, Aslong, Dendak, Gabing, Kema, Kewa, Khali, Bangladesh Kok Borok, Naitong, Phatung, Tongpai]
 population: 85000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.58637
 longitude: 92.07473
+language_map_img: 500px-Kokborok.map.webp
 glottocode: tipp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

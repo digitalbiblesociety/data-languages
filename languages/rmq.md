@@ -2,9 +2,11 @@
 iso: rmq
 name: Caló
 autonym: Gitano
+alt_names: [Brazilian Calão, Calão, Caló Romani, Catalonian Caló, Chibi, Setentrional Chibi, Hispanoromani, Iberian Romani, Lusitano-Romani, Portuguese Calão, Romanó, Spanish Caló]
 population: 460000
 country_id: ES
 country_name: Spain
+area: Mixed Iberian-Romani language
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kdh
 name: Tem
 autonym: Kotokoli
-alt_names: [Cotocoli, Temba, Tim, Timu]
+alt_names: [Cotocoli, Temba, Tim, Timu, Tembe]
 population: 390200
 country_id: TG
 country_name: Togo
+location: Togo
+area: "West African language in Togo, Ghana and Benin"
 status_id: "3"
 scope: individual
 language_type: living

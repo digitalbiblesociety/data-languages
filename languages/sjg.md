@@ -2,10 +2,12 @@
 iso: sjg
 name: Assangori
 autonym: Assangori
-alt_names: [Asong, Asongori, Assagori, Assoungor, Asungore, Azangori, Azanguri, Bognak-Asungorung, Erenga, Madungore, Shaale, Soungor, Sungor, Sungor language]
+alt_names: [Asong, Asongori, Assagori, Assoungor, Asungore, Azangori, Azanguri, Bognak-Asungorung, Erenga, Madungore, Shaale, Soungor, Sungor, Sungor language, Goran]
 population: 23500
 country_id: TD
 country_name: Chad
+location: Chad
+area: Nilo-Saharan language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: bgl
 name: Bo
 autonym: Pakatan
+alt_names: [Bo (Laos), Boe, Bor, Kha Bo, Tai Bo, Thay Bo]
 population: 2950
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 18.18657
 longitude: 104.95342
+glottocode: bola1249
 wikidata_id: Q8845514
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 老挝波语
     auto: true
 ---
+Maleng, also known as Pakatan and Bo, is a Vietic language of Laos and Vietnam.

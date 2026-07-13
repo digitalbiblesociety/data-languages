@@ -2,10 +2,12 @@
 iso: gvl
 name: Gulay
 autonym: Pen
-alt_names: [Goulai, Goulaye, Goulei, Gulai, Gulei]
+alt_names: [Goulai, Goulaye, Goulei, Gulai, Gulei, Gouley, Guley, Peni]
 population: 163000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 1630
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living

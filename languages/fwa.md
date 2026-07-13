@@ -6,6 +6,8 @@ alt_names: [Fwai, Fûai, Neukaledonien, Po-Ai, Yehen, Yengen]
 population: 1130
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

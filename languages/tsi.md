@@ -6,11 +6,13 @@ alt_names: [Chimmezyan, Coast, Coast Tsimshian, Hartley Bay dialect, Lower Tsims
 population: 150
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 54.62138
 longitude: -130.496315
+language_map_img: Tsimshianic_map.svg
 scripts: [Latn]
 glottocode: nucl1649
 glottolog_family_id: tsim1258

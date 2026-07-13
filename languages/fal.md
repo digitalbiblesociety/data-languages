@@ -2,10 +2,12 @@
 iso: fal
 name: South Fali
 autonym: null
-alt_names: [Fali, "Fali, South"]
+alt_names: [Fali, "Fali, South", Bele, Fali Kangou, Fali South, Fali du Bele-Fere, Fali-Bele, Fali-Tinguelin, Kaang, Kangou, Kangu, Mango, Ndoudja, Ngoutchoumi, Ram, South, Toro]
 population: 20000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Languages of northern Cameroon
 status_id: "5"
 scope: individual
 language_type: living
@@ -65,3 +67,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord"
 ---
+Fali comprises two languages spoken in northern Cameroon. Included in Greenberg's Adamawa languages, it was excluded from that family by Boyd (1989). Roger Blench suspects it may represent one of the earlier lineages to have branched off the Atlantic–Congo stock.

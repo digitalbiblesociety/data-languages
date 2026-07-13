@@ -2,10 +2,12 @@
 iso: hlt
 name: Matu Chin
 autonym: Matupi Chin
-alt_names: ["Chin, Matu", Lawthve, Matupi, Nga La, NgaLa, Thlan Tan]
+alt_names: ["Chin, Matu", Lawthve, Matupi, Nga La, NgaLa, Thlan Tan, Batu, Changpyang, Ciing, Doem, Haltu, Langle-Tamtlaih, Matu, Ngaleng, Ngatu, Phaneng, Siing, Thlangpang, Thui Phum, Valang, Vuitu]
 population: 40000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in Myanmar and India
 status_id: "5"
 scope: individual
 language_type: living

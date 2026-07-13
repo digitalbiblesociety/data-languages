@@ -6,6 +6,8 @@ alt_names: [Bongiri, Bungili, Bungiri]
 population: 4000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language of the Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living

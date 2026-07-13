@@ -2,15 +2,18 @@
 iso: pmq
 name: Northern Pame
 autonym: Pame del Norte
-alt_names: [Northern, Pame, "Pame, Northern", Pamean, Pamé septentrional, "Xi'iuy"]
+alt_names: [Northern, Pame, "Pame, Northern", Pamean, Pamé septentrional, "Xi'iuy", Xi’iuy, P. de Chichimeca de Alaquines, P. de la Palma, Norte Pame]
 population: 5620
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Oto-Pamean language group of Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 22.09683
 longitude: -99.64342
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: nort2984
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -52,3 +55,4 @@ translations:
     name: 北部帕梅语
     auto: true
 ---
+The Pame languages are a group of languages in Mexico that is spoken by around 12,000 Pame people in the state of San Luis Potosí. It belongs to the Oto-Pamean branch of the Oto-Manguean language family.

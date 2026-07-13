@@ -7,6 +7,8 @@ alt_names: [Eastern Sapoteko, Northwestern Yautepec Zapotec, Zapotec, "Zapotec, 
 population: 310
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

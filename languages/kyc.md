@@ -2,10 +2,12 @@
 iso: kyc
 name: Kyaka
 autonym: null
-alt_names: [Baiyer, Enga, Enga (Kyaka), Enga-Kyaka, Kyaka Enga]
+alt_names: [Baiyer, Enga, Enga (Kyaka), Enga-Kyaka, Kyaka Enga, Kyaka Eŋa, Yaramanda]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Engan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

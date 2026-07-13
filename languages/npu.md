@@ -2,15 +2,18 @@
 iso: npu
 name: Puimei Naga
 autonym: Kabui
-alt_names: ["Naga, Puimei"]
+alt_names: ["Naga, Puimei", Puimei]
 population: 3000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 25.29726
 longitude: 93.73443
+glottocode: puim1234
 wikidata_id: Q7259044
 wikipedia_url: "https://en.wikipedia.org/wiki/Puimei_language"
 translations:

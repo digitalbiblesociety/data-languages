@@ -6,11 +6,14 @@ alt_names: [Yacan]
 population: 130000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 5.50173
 longitude: 119.714645
+language_map_img: 500px-Yakan_language_map.webp
 glottocode: yaka1277
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

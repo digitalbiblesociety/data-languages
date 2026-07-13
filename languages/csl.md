@@ -2,9 +2,11 @@
 iso: csl
 name: Chinese Sign Language
 autonym: 中国手语
+alt_names: [China Coast Pidgin, Zhongguo Shouyu]
 population: 20040000
 country_id: CN
 country_name: China
+area: Official sign language of the PRC
 status_id: "5"
 scope: individual
 language_type: living

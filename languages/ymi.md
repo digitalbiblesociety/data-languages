@@ -6,6 +6,7 @@ alt_names: [Flathead Phulai, Phula, Phulawa, Pingtou Phula]
 population: 2000
 country_id: CN
 country_name: China
+location: Southwestern China
 status_id: "7"
 scope: individual
 language_type: living

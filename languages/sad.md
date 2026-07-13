@@ -2,15 +2,18 @@
 iso: sad
 name: Sandawe
 autonym: Sandaweeki
-alt_names: [Kisandawe, Sandaui, Sandavés, Sandawi, Sandwe, Сандаве]
+alt_names: [Kisandawe, Sandaui, Sandavés, Sandawi, Sandwe, Сандаве, Eastern Sandawe, Kissandaui, Sandawso, Western Sandawe]
 population: 60000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Language isolate of central Tanzania
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -5.26918
 longitude: 35.48081
+language_map_img: Sandawe_map.webp
 scripts: [Latn]
 glottocode: sand1273
 wikidata_id: Q34016

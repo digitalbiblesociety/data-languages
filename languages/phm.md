@@ -6,6 +6,8 @@ alt_names: [Pimbi]
 population: 6000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Zambia and Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 菲姆比语
     auto: true
 ---
+Nsenga, is a Bantu language of Zambia and Mozambique, occupying an area on the plateau that forms the watershed between the Zambezi and Luangwa river systems and Western Malawi land overshadowing Kachebere mountain called Mchinji. The language is part of the Sabi family of languages.

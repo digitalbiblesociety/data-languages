@@ -2,15 +2,18 @@
 iso: ess
 name: Central Siberian Yupik
 autonym: Siberian YupikYuit
-alt_names: [Asiatic Yupik, Bering Strait Yupik, Chaplino, Chaplino-Naukan, Chaplino-Naukanski (East Cape), Chaplinsk, Chaplinski, "Siberian Yup'ik", Siberian Yupik, Siperianjupik, "St. Lawrence Island \"Eskimo\"", St. Lawrence Island Eskimo, St. Lawrence Island Yupik, Yoit, Yuit, Yuk, Yupik (Central Siberian), Yupik (Siberian), Yupik (St. Lawrence Island), Yupik de Sibérie (Chukotka), Yupik de Sibérie (île Saint Laurent), "Yupik, Central Siberian", Yupí siberiano central (isla de San Lorenzo), Юитские языки]
+alt_names: [Asiatic Yupik, Bering Strait Yupik, Chaplino, Chaplino-Naukan, Chaplino-Naukanski (East Cape), Chaplinsk, Chaplinski, "Siberian Yup'ik", Siberian Yupik, Siperianjupik, "St. Lawrence Island \"Eskimo\"", St. Lawrence Island Eskimo, St. Lawrence Island Yupik, Yoit, Yuit, Yuk, Yupik (Central Siberian), Yupik (Siberian), Yupik (St. Lawrence Island), Yupik de Sibérie (Chukotka), Yupik de Sibérie (île Saint Laurent), "Yupik, Central Siberian", Yupí siberiano central (isla de San Lorenzo), Юитские языки, “St. Lawrence Island Eskimo”, Yupik, St. Lawrence Island, Aiwanat, Bering Strait, Central Siberian, Noohalit, Peekit, Saint Lawrence Island, Saint Lawrence Island Eskimo, Saint Lawrence Island Yupik, Sivuqaghmiistun, Wooteelit, Yuitsky]
 population: 1200
 country_id: US
 country_name: United States
+location: Eastern Russia
+area: Endangered Yupik language spoken by the Siberian Yupik people near the Bering Strait
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 63.43083
 longitude: -170.27166
+language_map_img: Asian_Siberian_Yupik_Eskimo_map.svg
 glottocode: cent2128
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut

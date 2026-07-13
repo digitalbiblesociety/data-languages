@@ -2,10 +2,12 @@
 iso: alw
 name: "Alaba-K’abeena"
 autonym: Wanbasana
-alt_names: [Alaba, Alaba hizkuntza, "Alaba-K'abeena language", Alabeg, Allaaba, Halaba]
+alt_names: [Alaba, Alaba hizkuntza, "Alaba-K'abeena language", Alabeg, Allaaba, Halaba, Alaaba, ሀላቢ, "K'abeena", "K'abena", Qebena]
 population: 278000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Highland East Cushitic language of East Africa
 status_id: "4"
 scope: individual
 language_type: living

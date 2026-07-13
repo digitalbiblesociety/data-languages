@@ -6,6 +6,8 @@ alt_names: [(Lower) Tanana, Minto, Nabesna, Tanana, Tanana (Lower), "Tanana, Low
 population: 380
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living

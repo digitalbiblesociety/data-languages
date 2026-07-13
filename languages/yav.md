@@ -2,10 +2,12 @@
 iso: yav
 name: Yangben
 autonym: Central Yambassa
-alt_names: [Nuasue]
+alt_names: [Nuasue, Kalong, Nukalonge, Numende, Nutanga, Yambassa]
 population: 2300
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Centre"
 ---
+Central Yambasa or Nuasua (Nuaswa) is a Southern Bantoid language of Cameroon.

@@ -2,10 +2,12 @@
 iso: arl
 name: Arabela
 autonym: Tapweyokwaka
-alt_names: [Andoa, Arabela-Andoa, Arabeleg, Chiripuno, Chiripunu]
+alt_names: [Andoa, Arabela-Andoa, Arabeleg, Chiripuno, Chiripunu, Tapueyocaca, Tapueyocuaca]
 population: 400
 country_id: PE
 country_name: Peru
+location: Peru
+area: Zaparoan language of Peru
 status_id: 8a
 scope: individual
 language_type: living

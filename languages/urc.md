@@ -6,11 +6,13 @@ alt_names: [Mirarr, Uninganangk, Uningangg, Uningangk, Urningangga, Urningangk, 
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Aboriginal Australian language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -13.47664
 longitude: 133.0231
+language_map_img: Giimbiyu_languages.webp
 glottocode: urni1239
 glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
@@ -53,3 +55,4 @@ translations:
     name: 乌尔宁甘格语
     auto: true
 ---
+Giimbiyu is an extinct Aboriginal Australian language isolate once spoken by the Giimbiyu people of northern Australia.

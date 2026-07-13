@@ -2,9 +2,12 @@
 iso: ded
 name: Dedua
 autonym: null
+alt_names: [Dzeigoc, Fanic]
 population: 3800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: "Language spoken in Morobe Province, Papua New Guinea"
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Natanzí]
 population: 7030
 country_id: IR
 country_name: Iran
+area: Central Iranian language of Iran
 status_id: 6a
 scope: individual
 language_type: living

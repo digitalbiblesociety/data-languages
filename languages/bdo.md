@@ -6,6 +6,8 @@ alt_names: [Tar Murba]
 population: 4500
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language of Chad
 status_id: 6a
 scope: individual
 language_type: living

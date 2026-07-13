@@ -2,10 +2,12 @@
 iso: neb
 name: Toura
 autonym: Ween
-alt_names: [Toura, "Toura (Cote d'Ivoire)", Tura]
+alt_names: [Toura, "Toura (Cote d'Ivoire)", Tura, Boo, Guse, Gwéò, Naò, Wáádú, Wɛɛn, Yiligele]
 population: 67000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

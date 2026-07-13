@@ -6,6 +6,8 @@ alt_names: [Buem, Bwem, Lafana]
 population: 72000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

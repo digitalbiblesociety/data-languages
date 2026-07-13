@@ -6,6 +6,8 @@ alt_names: [Abbey, Abe, Abi]
 population: 268000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

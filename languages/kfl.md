@@ -6,6 +6,8 @@ alt_names: [Cungo]
 population: 1750
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 8a
 scope: individual
 language_type: living

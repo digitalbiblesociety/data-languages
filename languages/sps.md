@@ -2,9 +2,12 @@
 iso: sps
 name: Saposa
 autonym: Taiof
+alt_names: [Fa Saposa]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

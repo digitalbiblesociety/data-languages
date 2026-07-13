@@ -6,6 +6,8 @@ alt_names: [Adawuli, Djalakuru, Eae warge ga, Eae-warge-ga, Eaewandja, Eaewardja
 population: 150
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Iwaidjan language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living

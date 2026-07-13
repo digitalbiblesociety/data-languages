@@ -2,10 +2,12 @@
 iso: lkn
 name: Lakon
 autonym: Vure
-alt_names: [Banks-Inseln, Gaua, Gog, Lakona, Vurē]
+alt_names: [Banks-Inseln, Gaua, Gog, Lakona, Vurē, Qatareu, Togla, Toglatareu]
 population: 700
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "4"
 scope: individual
 language_type: living

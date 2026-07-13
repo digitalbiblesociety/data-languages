@@ -3,10 +3,12 @@ iso: zar
 macrolanguage_id: zap
 name: Rincón Zapotec
 autonym: "Zapotec, Rincón"
-alt_names: [Choapan Zapotec, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincon Zapotec, Rincón, Sierra de Villa Alta, Yalálog, Zapotec, Zapoteco de Choapan, Zapoteco de Yagallo, Zapoteco del Rincón]
+alt_names: [Choapan Zapotec, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincon Zapotec, Rincón, Sierra de Villa Alta, Yalálog, Zapotec, Zapoteco de Choapan, Zapoteco de Yagallo, Zapoteco del Rincón, San Juan Yaeé Zapotec, didzaꞌ xidzaꞌ]
 population: 29200
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Zapotecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living

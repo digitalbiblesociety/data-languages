@@ -2,10 +2,12 @@
 iso: coh
 name: "Chonyi-Dzihana-Kauma"
 autonym: Chonyi
-alt_names: [Chichonyi, Chichonyi-Chidzihana-Chikauma]
+alt_names: [Chichonyi, Chichonyi-Chidzihana-Chikauma, Chidzihana, Conyi, Jibana, Kichonyi]
 population: 309000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya and Tanzania
 status_id: 6a
 scope: individual
 language_type: living

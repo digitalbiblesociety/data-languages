@@ -2,15 +2,18 @@
 iso: sma
 name: Southern Sami
 autonym: åarjelsaemien gïele
-alt_names: ["\"Lapon\"", "\"Lapp\"", "\"Lappic\"", "\"Lappish\"", "\"Lappisk\"", "\"Lopary\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", "\"Røroslappisk\"", "\"Südlappisch\"", Central, Eteläsaame, Lapp, Lapp (Southern), Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lullisámegiella, North Lapp, Northern, Northern dialect area, Norwegian, Norwegisch-Lappisch, Saami, Saami (Central-South), Saami (Southern), Saami méridional, "Saami, South", Saamish Yiass, Saamí meridional, Sabme, Same, Same du Sud, Sami meridional, "Sami, Southern", Samic, Samieg ar su, South Saami, Southern Lapp, Suðursámiskt, Sydsamiska, Sørsamisk, Südlappisch, Sāme-giellâ, Vefsn, Western, Western dialect area, Westlappisch, Zuid-Samisch, lapon, lappisk, lopary, same-, sami du Sud, schwedisch-lappische Dialektgruppe, southwest dialect]
+alt_names: ["\"Lapon\"", "\"Lapp\"", "\"Lappic\"", "\"Lappish\"", "\"Lappisk\"", "\"Lopary\"", "\"Northern Lappish\"", "\"Norwegian Lapp\"", "\"Røroslappisk\"", "\"Südlappisch\"", Central, Eteläsaame, Lapp, Lapp (Southern), Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lullisámegiella, North Lapp, Northern, Northern dialect area, Norwegian, Norwegisch-Lappisch, Saami, Saami (Central-South), Saami (Southern), Saami méridional, "Saami, South", Saamish Yiass, Saamí meridional, Sabme, Same, Same du Sud, Sami meridional, "Sami, Southern", Samic, Samieg ar su, South Saami, Southern Lapp, Suðursámiskt, Sydsamiska, Sørsamisk, Südlappisch, Sāme-giellâ, Vefsn, Western, Western dialect area, Westlappisch, Zuid-Samisch, lapon, lappisk, lopary, same-, sami du Sud, schwedisch-lappische Dialektgruppe, southwest dialect, “Lapp”]
 population: 600
 country_id: SE
 country_name: Sweden
+location: "Denmark, Finland, Norway and Sweden"
+area: Endangered Uralic language of Scandinavia
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 62.880125
 longitude: 13.70062
+language_map_img: Southern-SamiLanguageLocatorMap.svg
 scripts: [Latn]
 glottocode: sout2674
 glottolog_family_id: ural1272

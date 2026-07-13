@@ -6,6 +6,8 @@ alt_names: ["Finnish, Tornedalen", Meankieleg, Meä kiil, Meän Suomi, Meängbe,
 population: 60000
 country_id: SE
 country_name: Sweden
+location: "Denmark, Finland, Norway and Sweden"
+area: Finnic language or Finnish dialect spoken in northern Sweden
 status_id: "2"
 scope: individual
 language_type: living

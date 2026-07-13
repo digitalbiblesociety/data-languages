@@ -6,6 +6,8 @@ alt_names: [Dosobou, Dou, Doufou, Elopi, Foi, Iau, Turu, Urundi, Ururi, Yau]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Lakes Plain language of West Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 埃多皮语
     auto: true
 ---
+Iau or Turu is a Lakes Plain language of West Papua, Indonesia, spoken by about 2,100 people, native speakers of this language are the Turu people (Iau). Most speakers are monolingual, and their number is growing. Other peoples in the western Lakes Plain area speak basic Iau. Iau is heavily tonal, with 11 tones on nouns and 19 simple and compound tones on verbs.

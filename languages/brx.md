@@ -2,15 +2,18 @@
 iso: brx
 name: Bodo
 autonym: Boro language
-alt_names: [Bara, Bodi, Bodo, Bodo language, Bodoeg, Boro, Boroni, Kachari, Mech, Meche, Mechi, Meci, Бодо, ബോഡോ]
+alt_names: [Bara, Bodi, Bodo, Bodo language, Bodoeg, Boro, Boroni, Kachari, Mech, Meche, Mechi, Meci, Бодо, ബോഡോ, Chote, Mache]
 population: 1474380
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Tibeto-Burman language spoken in India
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 26.725455
 longitude: 89.333235
+language_map_img: Bodoland_Territorial_Area_Districts.svg
 scripts: [Deva]
 glottocode: bodo1269
 glottolog_family_id: sino1245

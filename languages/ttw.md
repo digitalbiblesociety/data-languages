@@ -2,10 +2,12 @@
 iso: ttw
 name: Long Wat
 autonym: Long Wat
-alt_names: [Kenyah, "Kenyah, Tutoh", "Lebo' Vo' Kenyah", Long San Kenyah, Tutoh Kenya]
+alt_names: [Kenyah, "Kenyah, Tutoh", "Lebo' Vo' Kenyah", Long San Kenyah, Tutoh Kenya, Tutoh Kenyah]
 population: 600
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Kenyah language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

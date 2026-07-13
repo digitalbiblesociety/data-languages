@@ -2,10 +2,12 @@
 iso: ade
 name: Adele
 autonym: Gidire
-alt_names: [Adelska, Bedere, Bidire, Gadre, Lingau adele]
+alt_names: [Adelska, Bedere, Bidire, Gadre, Lingau adele, Gidere, Lower Adele, Upper Adele]
 population: 37400
 country_id: TG
 country_name: Togo
+location: Ghana
+area: Language of Ghana and Togo
 status_id: "5"
 scope: individual
 language_type: living

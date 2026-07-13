@@ -2,10 +2,12 @@
 iso: xpk
 name: Kulina Pano
 autonym: Kulina Pano
-alt_names: [Culina, Culino, Kulina, Kulina páno, Kulino, "Pano, Kulina"]
+alt_names: [Culina, Culino, Kulina, Kulina páno, Kulino, "Pano, Kulina", Culina Pano]
 population: 32
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Endangered Panoan language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Baukan]
 population: 2760
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Murutic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

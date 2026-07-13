@@ -6,11 +6,14 @@ alt_names: [Boigu, Buibatyalli, East Torres, Errob, Erub, Garamir, Gaurareg, Mae
 population: 220
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Trans-Fly language of the Australian Torres Strait Islands
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -9.59575
 longitude: 143.77282
+language_map_img: 500px-Torres_Strait_Islander_Languages_used_at_home.webp
 glottocode: meri1244
 glottolog_family_id: east2503
 glottolog_family_name: Eastern Trans-Fly

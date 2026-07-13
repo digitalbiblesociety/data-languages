@@ -7,6 +7,8 @@ alt_names: [Hmo, "Hmong, Southwestern Guiyang", Hmung, Hsiung, Hunan Miao, Miao,
 population: 70000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Miao language of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Guizhou"
 ---
+Guiyang Miao, also known as Guiyang Hmong, is a Miao language of China. It is named after Guiyang, Guizhou, though not all varieties are spoken there. The endonym is Hmong, a name it shares with the Hmong language.

@@ -6,6 +6,8 @@ alt_names: [Dialectes de Voh-Koné, Dialectos de Voh-Koné, Neukaledonien]
 population: 300
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 布瓦图语
     auto: true
 ---
+Haveke is a Kanak language of New Caledonia, in the commune of Voh. Bwatoo dialect is distinct.

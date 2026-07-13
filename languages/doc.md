@@ -6,6 +6,8 @@ alt_names: [Dong, "Dong, Northern", Gam, Kam, Kam (Zhanglu), Tong, Tung, Tung-Ch
 population: 2880000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Kam–Sui language of China's Dong people"
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 北侗語
 ---
+The Kam or Gam language, also known as Dong, is a Kam–Sui language spoken by the Dong people. Ethnologue distinguishes three Kam varieties as separate but closely related languages.

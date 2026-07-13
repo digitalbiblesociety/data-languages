@@ -2,10 +2,12 @@
 iso: yaa
 name: Yaminahua
 autonym: Yaminahua
-alt_names: ["\"yaminawa (État plurinational de Bolivie, Pérou)\"", Jaminawá, Morunahua, Shanenawa, Yamanawa, Yaminawa, Yawanawa, Yawanawá, Yuminahua]
+alt_names: ["\"yaminawa (État plurinational de Bolivie, Pérou)\"", Jaminawá, Morunahua, Shanenawa, Yamanawa, Yaminawa, Yawanawa, Yawanawá, Yuminahua, Chitonahua, Foredafa, Horudahua, Horunahua, Iauminawa, Moronahua]
 population: 1951
 country_id: PE
 country_name: Peru
+location: Bolivia
+area: Panoan language of western Amazonia
 status_id: "5"
 scope: individual
 language_type: living

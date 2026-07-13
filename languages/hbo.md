@@ -2,10 +2,11 @@
 iso: hbo
 name: Ancient Hebrew
 autonym: עִבְרִית מִקְרָאִית
-alt_names: [Biblical Hebrew, Classical Hebrew, Hebrew, "Hebrew, Ancient", Old Hebrew]
+alt_names: [Biblical Hebrew, Classical Hebrew, Hebrew, "Hebrew, Ancient", Old Hebrew, עברית]
 population: null
 country_id: IL
 country_name: Israel
+area: Topics referred to by the same term
 status_id: "9"
 scope: individual
 language_type: historical

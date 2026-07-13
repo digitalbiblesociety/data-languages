@@ -6,6 +6,8 @@ alt_names: [Kutubu, Mubi River]
 population: 2800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Kutubuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

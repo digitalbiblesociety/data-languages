@@ -6,6 +6,8 @@ alt_names: [Shamya, Shamyan, Sinya, Symiarta, Taar Shamyan, Zimirra]
 population: 12300
 country_id: TD
 country_name: Chad
+location: Chad
+area: Central Sudanic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

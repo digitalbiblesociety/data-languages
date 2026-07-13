@@ -6,11 +6,13 @@ alt_names: [Iran, Simnani]
 population: 68700
 country_id: IR
 country_name: Iran
+area: Language of the Semnan Province of Iran
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 35.5295
 longitude: 53.2868
+language_map_img: 500px-Caspian_languages.webp
 glottocode: semn1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

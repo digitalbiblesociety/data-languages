@@ -2,9 +2,12 @@
 iso: mlh
 name: Mape
 autonym: null
+alt_names: [Fukac, Naga, Nigac]
 population: 5120
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

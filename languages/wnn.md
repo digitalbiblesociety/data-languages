@@ -5,6 +5,7 @@ autonym: Oonoomurra
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +47,4 @@ translations:
     name: 乌努穆拉语
     auto: true
 ---
+Ngawun is an extinct Mayi language once spoken on the Cape York Peninsula of Queensland, Australia, by the Wunumara and Ngawun peoples. The last speaker of the language was Cherry O'Keefe who died of pneumonia on 24 August 1977.

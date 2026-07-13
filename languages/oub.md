@@ -6,6 +6,8 @@ alt_names: [Oubi, Ubi]
 population: 3500
 country_id: LR
 country_name: Liberia
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

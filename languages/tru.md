@@ -2,15 +2,18 @@
 iso: tru
 name: Turoyo
 autonym: Sūrayṯ
-alt_names: [Surayt, Suryoyo, Syryoyo, Süryani, Touroyo, Touroyoeg, Turani, Туройо, Ṭurōyō]
+alt_names: [Surayt, Suryoyo, Syryoyo, Süryani, Touroyo, Touroyoeg, Turani, Туройо, Ṭurōyō, "'Iwardo", Anhil, Kfarze, Midin, Midyat, Raite]
 population: 104900
 country_id: TR
 country_name: Turkey
+location: Jordan and Syria
+area: Central Neo-Aramaic language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 37.22746
 longitude: 42.145103
+language_map_img: Syriac_Dialects_EN.svg
 scripts: [Latn, Syrc]
 glottocode: turo1239
 glottolog_family_id: afro1255

@@ -6,6 +6,8 @@ alt_names: [Lamen, Lewo]
 population: 850
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

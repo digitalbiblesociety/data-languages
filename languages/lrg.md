@@ -6,6 +6,8 @@ alt_names: [Binnimiginda, Gulumoerrgin, Gunmajerrumba, Laragai, Laragiya, Laragi
 population: 23
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Endangered Darwin language spoken in Australia
 status_id: 8b
 scope: individual
 language_type: extinct

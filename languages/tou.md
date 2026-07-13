@@ -6,6 +6,8 @@ alt_names: [Cuoi, Cuoi Cham, Ho Muong Meridional, Keo]
 population: 75000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Austroasiatic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: VN
     location: Vietnam
 ---
+Cuối, also known as Thổ, is a dialect cluster spoken by around 70,000 people in Vietnam. It is also spoken by a couple thousand people in Laos—mainly in the provinces of Bolikhamsai and Khammouane.

@@ -2,10 +2,12 @@
 iso: lbx
 name: Lawangan
 autonym: Luwangan
-alt_names: [Northeast Barito]
+alt_names: [Northeast Barito, Ajuh, Bakoi, Bantian, Banuwang, Bawo, Bawu, Beloh, Bentian, Benua, Kali, Karau, Lampung, Lawa, Lolang, Mantararen, Njumit, Pasir, Purai, Purung, Taboyan, Tuwang]
 population: 100000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: "3"
 scope: individual
 language_type: living

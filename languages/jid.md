@@ -6,6 +6,8 @@ alt_names: [Ibut, Jida, Jidda-Abu, Nakare]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

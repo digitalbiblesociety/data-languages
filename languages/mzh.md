@@ -2,10 +2,12 @@
 iso: mzh
 name: Wichí Lhamtés Güisnay
 autonym: Wiznay
-alt_names: [Güisnay, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Wichi, Wichi Lhamtes Guisnay, Wichí, Wichí Lhamtés]
+alt_names: [Güisnay, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Wichi, Wichi Lhamtes Guisnay, Wichí, Wichí Lhamtés, “Mataco Güisnay”, “Mataco Pilcomayo”, “Mataco”]
 population: 15000
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Wichí language of Argentina
 status_id: 6b
 scope: individual
 language_type: living

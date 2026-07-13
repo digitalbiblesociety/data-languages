@@ -6,6 +6,8 @@ alt_names: [Djudjá, Jaruna, Jurna, Juruna, Yudja, Yudjá, Yudya, Yuruna, Yurún
 population: 278
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupian language spoken in Brazil
 status_id: 6a
 scope: individual
 language_type: living

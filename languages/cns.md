@@ -2,10 +2,12 @@
 iso: cns
 name: Central Asmat
 autonym: Jas
-alt_names: [Asmat, "Asmat, Central", Manowee, Yas]
+alt_names: [Asmat, "Asmat, Central", Manowee, Yas, Ajam, Ayam, Misman, Simai, Simay]
 population: 7000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of West New Guinea
 status_id: 6b
 scope: individual
 language_type: living

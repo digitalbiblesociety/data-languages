@@ -6,6 +6,7 @@ alt_names: [Galali, Gaḷali, Kalali, Kullali, Kullally, Kullila]
 population: null
 country_id: AU
 country_name: Australia
+area: Awakening Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

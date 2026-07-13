@@ -6,11 +6,13 @@ alt_names: [Nimanboro, Nimanboru, Wadiabulu]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -17.37396
 longitude: 123.22832
+language_map_img: 500px-Traditional_lands_of_Australian_Aboriginal_Tribes_around_Derby.webp
 glottocode: nima1245
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan

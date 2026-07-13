@@ -6,11 +6,13 @@ alt_names: ["Oubic'heg", Oubykh, Pekhi, Ubijé  (Turquía), Ubychiska, Ubyx, Ub�
 population: null
 country_id: TR
 country_name: Turkey
+area: Extinct Northwest Caucasian language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 43.67
 longitude: 39.67
+language_map_img: 500px-Northwest_Caucasian_languages_map.webp
 glottocode: ubyk1235
 glottolog_family_id: abkh1242
 glottolog_family_name: Abkhaz-Adyge

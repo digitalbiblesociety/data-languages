@@ -3,15 +3,18 @@ iso: mfa
 macrolanguage_id: msa
 name: Pattani Malay
 autonym: Baso PattaniBaso Kelaté
-alt_names: ["Malay, Pattani", Thai Islam, Yawi, Yawi language]
+alt_names: ["Malay, Pattani", Thai Islam, Yawi, Yawi language, Jawi, Jawi-Malay, oré Jawi]
 population: 1470000
 country_id: TH
 country_name: Thailand
+location: Southern Thailand
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 6.38148
 longitude: 101.4103
+language_map_img: 500px-Kelantan-Pattani_Malay_spoke_map.webp
 scripts: [Arab]
 glottocode: patt1249
 glottolog_family_id: aust1307

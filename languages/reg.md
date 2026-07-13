@@ -2,10 +2,12 @@
 iso: reg
 name: Kara
 autonym: Regi
-alt_names: [Kara]
+alt_names: [Kara, Kikara]
 population: 115000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: "7"
 scope: individual
 language_type: living

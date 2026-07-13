@@ -5,6 +5,7 @@ autonym: null
 population: 21200
 country_id: TN
 country_name: Tunisia
+area: Deaf sign language of Tunisia
 status_id: 6a
 scope: individual
 language_type: living

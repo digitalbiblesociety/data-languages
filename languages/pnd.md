@@ -5,6 +5,7 @@ autonym: null
 population: 18000
 country_id: AO
 country_name: Angola
+area: Bantu language of Angola
 status_id: null
 scope: individual
 language_type: living

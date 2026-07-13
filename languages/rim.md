@@ -2,10 +2,12 @@
 iso: rim
 name: Nyaturu
 autonym: Nyaturu
-alt_names: [Keremi, Kinyaturu, Kiremi, Kirimi, Limi, Remi, Rimi, Turu]
+alt_names: [Keremi, Kinyaturu, Kiremi, Kirimi, Limi, Remi, Rimi, Turu, Ahi, Cahi, Chahe, Chahi, Ginyamunyinganyi, Girwana, Kilimi, "Nyamunying'anyi", Rwana]
 population: 892000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

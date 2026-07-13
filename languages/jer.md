@@ -2,10 +2,12 @@
 iso: jer
 name: Jere
 autonym: Jeere
-alt_names: [Jera]
+alt_names: [Jera, Anabeze, Anegorom, Anibau, Anorubuna, Anosangobari, Asanga, Azelle, Boze, Buji, Bunu, Eboze, Ezelle, Gesawa, Gurrum, Gus, Gusawa, Gussum, Gusu, Guzawa, Ibunu, Ipanawa, Isanga, Jengre, Jeriyawa, Narabunu, Panawa, Rebina, Ribina, Unupanawa]
 population: 23000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

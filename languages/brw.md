@@ -6,6 +6,8 @@ alt_names: [Belarí]
 population: 1350
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of India
 status_id: "7"
 scope: individual
 language_type: living

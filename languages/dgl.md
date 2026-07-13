@@ -2,10 +2,12 @@
 iso: dgl
 name: Andaandi
 autonym: Andaandi
-alt_names: [Dongolawi]
+alt_names: [Dongolawi, Dongola, Danaagla, Danaqla, Dongola Nubian, Dongolawi Nubian, Dongolese]
 population: 35000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nubian language spoken in northern Sudan
 status_id: 6b
 scope: individual
 language_type: living

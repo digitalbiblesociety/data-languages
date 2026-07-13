@@ -3,10 +3,12 @@ iso: zam
 macrolanguage_id: zap
 name: Miahuatlán Zapotec
 autonym: Cuixtla Zapotec
-alt_names: [Miahuatec, Miahuatlan, Southern Mountain Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Miahuatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de Miahuatlán, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Miahuatec, Miahuatlan, Southern Mountain Zapotec, Southern Sapoteko, Zapotec, "Zapotec, Miahuatlán", Zapoteco de Asunción Tlacolulita, Zapoteco de Miahuatlán, "Zapotèque d'Asunción Tlacolulita", Miahuatlán, Zapoteco de Cuixtla]
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

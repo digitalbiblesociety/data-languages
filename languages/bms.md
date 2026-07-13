@@ -6,11 +6,14 @@ alt_names: [Bla Bla, Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Bilma"]
 population: 20000
 country_id: NE
 country_name: Niger
+location: Niger
+area: "Saharan dialect continuum of Nigeria, Niger, Chad and Cameroon"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 19.10003
 longitude: 13.06649
+language_map_img: Kanuri_languages_map_001.webp
 glottocode: bilm1238
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

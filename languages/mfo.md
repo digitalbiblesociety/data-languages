@@ -2,10 +2,12 @@
 iso: mfo
 name: Mbe
 autonym: Mbe
-alt_names: [Nigeria]
+alt_names: [Nigeria, Ketuen, Western Mbube, Ekumtak, Idum, Odaje]
 population: 14300
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Ekoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

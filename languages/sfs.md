@@ -2,10 +2,11 @@
 iso: sfs
 name: South African Sign Language
 autonym: South African Sign Language
-alt_names: [Sørafrikansk tegnspråk]
+alt_names: [Sørafrikansk tegnspråk, SASL]
 population: 1200
 country_id: ZA
 country_name: South Africa
+area: South African sign language
 status_id: 6a
 scope: individual
 language_type: living

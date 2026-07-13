@@ -6,6 +6,7 @@ alt_names: [Cuba]
 population: null
 country_id: CU
 country_name: Cuba
+area: Ritual lexicon of Cuban Orisa devotees
 status_id: "9"
 scope: individual
 language_type: living

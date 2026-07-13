@@ -5,6 +5,7 @@ autonym: Tətsərret
 population: 2000
 country_id: NE
 country_name: Niger
+area: Western Berber language of Niger
 status_id: null
 scope: individual
 language_type: living

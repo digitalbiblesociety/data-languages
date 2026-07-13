@@ -3,15 +3,18 @@ iso: aec
 macrolanguage_id: ara
 name: Saidi Arabic
 autonym: صعيدى
-alt_names: [Arabic, "Arabic, Sa`idi Spoken", "Arabic, Saidi", "Sa'idi Arabic", "Sa`idi", Saidi arapski, Upper Egypt Arabic, لهجة صعيدية]
+alt_names: [Arabic, "Arabic, Sa`idi Spoken", "Arabic, Saidi", "Sa'idi Arabic", "Sa`idi", Saidi arapski, Upper Egypt Arabic, لهجة صعيدية, "Sa'idi", Sa’idi, اللهجة العامية الصعيدية, Saidi Spoken Arabic, Middle Egypt Arabic, "Sa'idi Spoken"]
 population: 22400000
 country_id: EG
 country_name: Egypt
+location: Egypt and Libya
+area: Variety of Arabic spoken by Upper Egyptians
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 25.41322
 longitude: 30.53016
+language_map_img: aec.webp
 glottocode: said1239
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

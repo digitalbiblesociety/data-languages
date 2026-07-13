@@ -6,6 +6,8 @@ alt_names: [Boyela, Kutu]
 population: 33000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: "Equateur Province, mainly in Bokungu Territory."
 status_id: 6a
 scope: individual
 language_type: living

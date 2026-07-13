@@ -6,6 +6,8 @@ alt_names: [Atihkamekw, Atikamek, Atikamekweg, Attikamek, Attikamekw, Attimewk, 
 population: 5000
 country_id: CA
 country_name: Canada
+location: Canada
+area: "Cree language of southwestern Quebec, Canada"
 status_id: "5"
 scope: individual
 language_type: living

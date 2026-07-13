@@ -6,11 +6,14 @@ alt_names: [Ataiyal, Attayal, Bonotsek, Sediq, Shabogala, Taijyal, Taiyal, Takon
 population: 92100
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 24.52089
 longitude: 121.38819
+language_map_img: Atayal.svg
 glottocode: atay1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

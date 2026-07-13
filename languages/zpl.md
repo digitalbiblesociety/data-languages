@@ -3,10 +3,12 @@ iso: zpl
 macrolanguage_id: zap
 name: Lachixío Zapotec
 autonym: East Sola de Vega Zapotec
-alt_names: [Coyachilla, Coyachilla dialect continuum, Dialu, Eastern Sapoteko, Eastern Sola de Vega Zapotec, Lachixio Zapotec, Solteco, Western Zapotec (non-preferred), Zapotec, "Zapotec, Lachixío", Zapoteco de Lachixío, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Zimatlán, Zimatlán Zapotec]
+alt_names: [Coyachilla, Coyachilla dialect continuum, Dialu, Eastern Sapoteko, Eastern Sola de Vega Zapotec, Lachixio Zapotec, Solteco, Western Zapotec (non-preferred), Zapotec, "Zapotec, Lachixío", Zapoteco de Lachixío, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Zimatlán, Zimatlán Zapotec, Lachixío, San Mateo Mixtepec, San Miguel Mixtepec, Zapoteco del Este de Zimatlán]
 population: 6500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

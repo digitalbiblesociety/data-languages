@@ -2,15 +2,18 @@
 iso: sco
 name: Scots
 autonym: Lowland Scots
-alt_names: ["A' Bheurla Ghallda", Albainis, Baarle Albinagh, Englisc sprǣc, Escocés, Ingles de la Scossia, Lågskotska, Schots, Scots English, Scots leid, Scotsera, Sgoteg, Sjots, Skoska, Skots, Skotsk, Skotskt, écossais, סקוטית]
+alt_names: ["A' Bheurla Ghallda", Albainis, Baarle Albinagh, Englisc sprǣc, Escocés, Ingles de la Scossia, Lågskotska, Schots, Scots English, Scots leid, Scotsera, Sgoteg, Sjots, Skoska, Skots, Skotsk, Skotskt, écossais, סקוטית, Braid Scots, Doric, Lallans, Scotch, Ulster, Ulster-Scots]
 population: 99200
 country_id: GB
 country_name: United Kingdom
+location: Ireland and United Kingdom
+area: West Germanic language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 55.54104
 longitude: -6.00241
+language_map_img: 500px-Scots_speakers_in_the_2011_census.webp
 scripts: [Latn]
 glottocode: scot1243
 glottolog_family_id: indo1319

@@ -2,14 +2,18 @@
 iso: xri
 name: "Krikati-Timbira"
 autonym: "Canela-Krahô"
+alt_names: [Krikati-Gaviao, Krinkati-Gaviao, Gavião Maranhão, Karakati, Krinkati, Krinkati-Timbira, Timbira]
 population: 420
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Pará Gavião dialect of Brazil
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -5.94252
 longitude: -46.75038
+glottocode: krik1239
 wikidata_id: Q3199710
 translations:
   - translation_iso: ara
@@ -59,3 +63,4 @@ rolv_dialects:
     country_id: BR
     location: "Brazil, Maranhão"
 ---
+Krĩkatí is a Timbira dialect of the Northern Jê language group spoken by the Krĩkatí in Terra Indígena Krikati in Maranhão, Brazil. It is very closely related to Pykobjê, and Nimuendajú described Krĩkatí as "completely coincid[ing] with that of the Pukóbye”.

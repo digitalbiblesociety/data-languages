@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 3180
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 库尔语
     auto: true
 ---
+Teor and Kur are two Austronesian language varieties of the Central–Eastern Malayo-Polynesian branch spoken near Kei Island, Indonesia. They are reportedly mutually intelligible.

@@ -2,10 +2,12 @@
 iso: vas
 name: Vasavi
 autonym: Vasavi Bhil
-alt_names: [Vasava, Vasava Bhil, Vasave]
+alt_names: [Vasava, Vasava Bhil, Vasave, Adiwasi Bhil, Ambodia Bhil, Bhilori, Dhogri Bhil, Keski Bhil, Padwi Bhilori, Ambodi, Ambodia, Dehvali, Dhogri, Dogri, Dungri, Khatalia, Kolche, Kot]
 population: 1200000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Western Indo-Aryan language of India
 status_id: "5"
 scope: individual
 language_type: living

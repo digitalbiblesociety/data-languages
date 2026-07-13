@@ -2,10 +2,12 @@
 iso: cox
 name: Nanti
 autonym: Cogapacorill
-alt_names: ["\"Cogapacori\"", "\"Kogapakori\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, Cogapacori, Cogapacorí, Kogapakori]
+alt_names: ["\"Cogapacori\"", "\"Kogapakori\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, Cogapacori, Cogapacorí, Kogapakori, “Cogapacori”, “Kogapakori”]
 population: 480
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language spoken in Peru
 status_id: 6a
 scope: individual
 language_type: living

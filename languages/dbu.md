@@ -6,6 +6,8 @@ alt_names: [Bondu So, Bondum-Dom, Dogon, "Dogon, Bondum Dom", Najamba-Kindige, N
 population: 24700
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language of Mali
 status_id: 6a
 scope: individual
 language_type: living

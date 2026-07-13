@@ -3,10 +3,11 @@ iso: rmo
 macrolanguage_id: rom
 name: Sinte Romani
 autonym: Sintengheri / Romanes
-alt_names: [European Romany, Manouche, Manuche, Romani, Romani (Burgenland), "Romani, Sinte", Romany, Rommanes, Sinte, Sinti, Sintí, Tsigane, Zigeuner, Ziguener]
+alt_names: [European Romany, Manouche, Manuche, Romani, Romani (Burgenland), "Romani, Sinte", Romany, Rommanes, Sinte, Sinti, Sintí, Tsigane, Zigeuner, Ziguener, Abbruzzesi, Eftawagaria, Estracharia, Gadschkene, Kranaria, Krantiki, Lallere, Manush, Manuš, Piedmont Sintí, Piedmontese Sinti, Praistiki, Romanes, Sinti Romani, Sasítka Romá, Serbian Romani, Sintitikes, Sinto-Manush, Slovenian-Croatian, Slovenian-Croatian Romani, Venetian Sinti]
 population: 201300
 country_id: DE
 country_name: Germany
+area: Romani variety of Central and Western Europe
 status_id: "5"
 scope: individual
 language_type: living

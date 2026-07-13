@@ -6,6 +6,8 @@ alt_names: [Belubn, Jarum, Kense, Kensieu, Kensiw, Kinaurí, Kinnauri, Maniq, Ma
 population: 232
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: "5"
 scope: individual
 language_type: living

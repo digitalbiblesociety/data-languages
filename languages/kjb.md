@@ -2,10 +2,12 @@
 iso: kjb
 name: "Q'anjob'al"
 autonym: Kanjobal
-alt_names: [Conob, Eastern, Eastern Kanjobal, Kanhobal, "Kanjobal, Eastern", "Q'anjob'al simi", Qanjobal, Santa Eulalia Kanjobal]
+alt_names: [Conob, Eastern, Eastern Kanjobal, Kanhobal, "Kanjobal, Eastern", "Q'anjob'al simi", Qanjobal, Santa Eulalia Kanjobal, "Eastern Q'anjob'al", Eastern Qanjobal, "K'anjobal"]
 population: 174420
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language of Guatemala and Mexico
 status_id: "5"
 scope: individual
 language_type: living

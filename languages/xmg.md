@@ -2,10 +2,12 @@
 iso: xmg
 name: Mengaka
 autonym: " Bagam"
-alt_names: [Bamileke-Mengaka, Benzing, Ghap, Megaka]
+alt_names: [Bamileke-Mengaka, Benzing, Ghap, Megaka, Bamendjin, Bamendjing, Eghap]
 population: 38500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bamileke language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

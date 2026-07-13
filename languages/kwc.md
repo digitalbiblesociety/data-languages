@@ -6,6 +6,8 @@ alt_names: [Ekwala, Kwala, Likouala]
 population: 79000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language of the Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

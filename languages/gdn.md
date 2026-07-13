@@ -2,10 +2,12 @@
 iso: gdn
 name: Umanakaina
 autonym: Gwedena
-alt_names: [Gvede, Gweda, Gwede, Umanikaina]
+alt_names: [Gvede, Gweda, Gwede, Umanikaina, East Umanakaina, Upper Ugu River]
 population: 2810
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Papuan language of New Guinea
 status_id: "5"
 scope: individual
 language_type: living

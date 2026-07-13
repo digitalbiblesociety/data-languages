@@ -6,6 +6,8 @@ alt_names: [Bunaki, Mekaf, Nkap]
 population: 3000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantoid language spoken in West Africa
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [East Timor, Idate]
 population: 5000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Language of East Timor
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 伊达特语
     auto: true
 ---
+Idalaka is a Malayo-Polynesian dialect chain spoken Idalaka people in East Timor. The name is a portmanteau of Idaté and Lakalai.

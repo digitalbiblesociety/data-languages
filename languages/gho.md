@@ -2,15 +2,18 @@
 iso: gho
 name: Ghomara
 autonym: Shilha
-alt_names: [Ghmara, Ghomara Berber, Ghumāra]
+alt_names: [Ghmara, Ghomara Berber, Ghumāra, Taghumarit, Tamazight]
 population: 10000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Berber language of Morocco
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 34.79792
 longitude: -4.6696
+language_map_img: 500px-Ghomara_Berber_-_Localisation.webp
 glottocode: ghom1257
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

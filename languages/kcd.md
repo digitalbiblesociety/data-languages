@@ -6,6 +6,7 @@ alt_names: [Enkelembu, Kanum, Kanum (Ngkâlmpw), "Kanum, Ngkâlmpw", Kenume, Knw
 population: 150
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 恩格卡尔姆普卡努姆语
     auto: true
 ---
+Ngkolmpu Kanum, or Ngkontar, is part of a dialect chain in the Yam family spoken by the Kanum people of New Guinea. The Ngkâlmpw (Ngkontar) and moribund Bädi varieties have limited mutual intelligibility may be considered distinct languages.

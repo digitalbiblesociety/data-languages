@@ -2,10 +2,12 @@
 iso: jad
 name: Jahanka
 autonym: Diakhanke
-alt_names: [Diakkanke, Dyakanke, Jahanque, Jahonque]
+alt_names: [Diakkanke, Dyakanke, Jahanque, Jahonque, Jaxanka]
 population: 12600
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Manding language of Guinea Bissau and Guinea
 status_id: 6a
 scope: individual
 language_type: living

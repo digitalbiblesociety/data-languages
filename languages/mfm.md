@@ -2,10 +2,12 @@
 iso: mfm
 name: Marghi South
 autonym: null
-alt_names: [Chobba, Hildi, KChobba, Margi]
+alt_names: [Chobba, Hildi, KChobba, Margi, Margi South, Wamdiu]
 population: 166000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

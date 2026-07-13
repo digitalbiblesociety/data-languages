@@ -6,6 +6,8 @@ alt_names: [Air Mati, Airmati, Armati, Kaowerawedj, Koassa, Mataweja, Naibedj, S
 population: 2500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

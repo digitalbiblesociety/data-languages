@@ -2,15 +2,18 @@
 iso: car
 name: Galibi Carib
 autonym: "Kari'nja"
-alt_names: ["\"galibi (Guyane, Suriname)\"", Carib, Carib (Suriname), Carib language, "Carib, Galibi", Caribe, Cariña, Galibi, Galibi (Brésil), Galibi (Guyane Française), Galibi (République bolivarienne du Venezuela), Galibi (Venezuela), Galibi-marworno, Galibí, "Kali'na", Kaliana, Kalihna, Kalinya, "Kari'nya", Karibeg, Kariña simi, Karínya, Maraworno, Marworno, karib]
+alt_names: ["\"galibi (Guyane, Suriname)\"", Carib, Carib (Suriname), Carib language, "Carib, Galibi", Caribe, Cariña, Galibi, Galibi (Brésil), Galibi (Guyane Française), Galibi (République bolivarienne du Venezuela), Galibi (Venezuela), Galibi-marworno, Galibí, "Kali'na", Kaliana, Kalihna, Kalinya, "Kari'nya", Karibeg, Kariña simi, Karínya, Maraworno, Marworno, karib, Aretyry, Eastern Carib, "Kalin'a", "Kara'ibs", "Kari'na", "Kari'na auran", Kariña, Karìna auran, Murato, Myrato, Tabajari, Tyrewuju, Western Carib]
 population: 8558
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Endangered South American Indigenous language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 5.837718
 longitude: -56.832298
+language_map_img: 500px-Kalina.webp
 scripts: [Latn]
 glottocode: gali1262
 glottolog_family_id: cari1283

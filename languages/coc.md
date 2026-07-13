@@ -6,6 +6,8 @@ alt_names: [Cocapa, Cocopah, Cocopah language, Cocopá, Cucapa, Cucapá, Cucapá
 population: 200
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Delta language spoken in Mexico and US
 status_id: "7"
 scope: individual
 language_type: living

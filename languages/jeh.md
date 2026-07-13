@@ -2,15 +2,18 @@
 iso: jeh
 name: Jeh
 autonym: Gie
-alt_names: [Die, Yaeh, Yeh]
+alt_names: [Die, Yaeh, Yeh, Bri-La, Jeh Bri La, Jeh Mang Ram, Yae]
 population: 26700
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language of Vietnam and Laos
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 15.23509
 longitude: 107.7531
+language_map_img: 500px-Jeh_language.webp
 glottocode: jehh1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

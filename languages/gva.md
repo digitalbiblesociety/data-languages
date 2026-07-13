@@ -6,6 +6,8 @@ alt_names: [Cashquiha, Enlhet, Guana, Kashiha, Kashika, Kaskiha, Kaskihá, Vana 
 population: 280
 country_id: PY
 country_name: Paraguay
+location: Paraguay
+area: Language of Paraguay
 status_id: 8a
 scope: individual
 language_type: living

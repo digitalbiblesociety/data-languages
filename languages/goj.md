@@ -5,11 +5,14 @@ autonym: null
 population: 20200
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.50959
 longitude: 77.2647
+glottocode: gowl1242
 wikidata_id: Q12953532
 wikipedia_url: "https://en.wikipedia.org/wiki/Gowlan_language"
 translations:

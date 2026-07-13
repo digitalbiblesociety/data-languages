@@ -6,6 +6,8 @@ alt_names: [Amwi, Lakadong, Waar, War, War language, Wareg, Waːr]
 population: 68000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Austroasiatic language spoken in Bangladesh and India
 status_id: 6a
 scope: individual
 language_type: living

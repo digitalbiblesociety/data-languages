@@ -2,10 +2,12 @@
 iso: bmq
 name: Bomu
 autonym: Western Bobo Wule
-alt_names: [Bobo Oule, Bobo Wule, Bobo-oulé, Boomu, Bore, Western Bobo Oule, Western Bwamu, Western Red Bobo]
+alt_names: [Bobo Oule, Bobo Wule, Bobo-oulé, Boomu, Bore, Western Bobo Oule, Western Bwamu, Western Red Bobo, Bobo, Western Red, Bo, Dahanmu, Dwemu, Mao, Mu Boomu]
 population: 153000
 country_id: ML
 country_name: Mali
+location: Burkina Faso
+area: Gur language spoken in Mali and Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

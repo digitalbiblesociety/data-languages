@@ -6,6 +6,8 @@ alt_names: [Amondawa, Amondáwa, Amundawa, Amundáwa, Diahoi, Diahói, Diarroi, 
 population: 81
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: 6b
 scope: individual
 language_type: living

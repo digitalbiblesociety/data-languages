@@ -6,6 +6,7 @@ alt_names: [Yavitano]
 population: 2000
 country_id: VE
 country_name: Venezuela
+area: Extinct Maipurean language of Venezuela
 status_id: 8b
 scope: individual
 language_type: extinct

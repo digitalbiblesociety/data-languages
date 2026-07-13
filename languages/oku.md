@@ -2,10 +2,12 @@
 iso: oku
 name: Oku
 autonym: Kuɔ
-alt_names: [Bvukoo, Ebkuo, Ekpwo, Kuo, Ukfwo, Uku]
+alt_names: [Bvukoo, Ebkuo, Ekpwo, Kuo, Ukfwo, Uku, Əblam Əbkuo]
 population: 87000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

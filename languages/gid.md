@@ -2,10 +2,12 @@
 iso: gid
 name: Gidar
 autonym: Kaɗa
-alt_names: [Baynawa, Gidder, Guidar, Guider, Kada]
+alt_names: [Baynawa, Gidder, Guidar, Guider, Kada, Zlam, ma Kaɗa]
 population: 65700
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon and Chad
 status_id: "5"
 scope: individual
 language_type: living

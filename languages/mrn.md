@@ -2,10 +2,12 @@
 iso: mrn
 name: Cheke Holo
 autonym: "A'ara"
-alt_names: [Holo, Kubonitu, Maring, Maring (Trans New Guinea), Maringe]
+alt_names: [Holo, Kubonitu, Maring, Maring (Trans New Guinea), Maringe, A’ara, Cheke Tahati, Hogirano, Hograno, Maringhe]
 population: 10800
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "3"
 scope: individual
 language_type: living

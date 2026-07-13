@@ -2,9 +2,12 @@
 iso: tim
 name: Timbe
 autonym: null
+alt_names: [Central Timbe, North Timbe, South Timbe]
 population: 11000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

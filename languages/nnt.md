@@ -6,6 +6,7 @@ alt_names: [Nanticoke-Conoy, Nanticoke-Piscataway]
 population: null
 country_id: US
 country_name: United States
+area: Indigenous language of the eastern US
 status_id: "9"
 scope: individual
 language_type: extinct

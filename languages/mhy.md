@@ -2,10 +2,12 @@
 iso: mhy
 name: "Ma'anyan"
 autonym: "Ma'anjan"
-alt_names: [Dayak, Maanyak Dayak, Maanyan, "South East (Ma'anyan)"]
+alt_names: [Dayak, Maanyak Dayak, Maanyan, "South East (Ma'anyan)", Ma’anjan, Buluh Kuning, Dayak Maꞌanyan, Dusun Balangan, Samihim, Sihong, Siong]
 population: 150000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian East Barito language spoken in central Kalimantan, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

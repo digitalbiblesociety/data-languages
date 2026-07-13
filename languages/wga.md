@@ -6,6 +6,7 @@ alt_names: [Akaja, Arkiya, Lee wakya, Lee-wakya, Leewakya, Leeweakya, Other Aust
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: mnw
 name: Mon
 autonym: ဘာသာ မန်
-alt_names: [Aleng, Moneg, Mun, Môn, Peguan, Peguanisch, Ramañña, Takanoon, Talaing, Taleng]
+alt_names: [Aleng, Moneg, Mun, Môn, Peguan, Peguanisch, Ramañña, Takanoon, Talaing, Taleng, Central Mon, Martaban-Moulmein, Mon Nya, Mon Tang, Mon Te, Mou, Northern Mon, Pegu, Raman, Rman, Rmen, Southern Mon, Teguan, Ye]
 population: 851000
 country_id: MM
 country_name: Myanmar
+location: Southern Myanmar
+area: Austroasiatic language spoken by the Mon in Burma and Thailand
 status_id: "4"
 scope: individual
 language_type: living

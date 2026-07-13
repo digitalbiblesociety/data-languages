@@ -5,6 +5,7 @@ autonym: Bosnian Sign Language
 population: 6500
 country_id: HR
 country_name: Croatia
+area: Deaf sign language of Croatia
 status_id: 6a
 scope: individual
 language_type: living

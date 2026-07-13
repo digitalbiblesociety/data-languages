@@ -6,6 +6,8 @@ alt_names: [Chacobo, Chakobo-Pakawara, Chákobo, Shinabo]
 population: 550
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Panoan language
 status_id: "5"
 scope: individual
 language_type: living

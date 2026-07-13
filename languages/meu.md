@@ -2,10 +2,12 @@
 iso: meu
 name: Motu
 autonym: " True Motu"
-alt_names: [Mona, Pure Motu, Моту]
+alt_names: [Mona, Pure Motu, Моту, Eastern Motu, Western Motu]
 population: 39000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Austronesian language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

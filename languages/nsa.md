@@ -2,10 +2,12 @@
 iso: nsa
 name: Sangtam Naga
 autonym: Thukumi
-alt_names: [Isachanure, Lophomi, "Naga, Sangtam", "Naga,Sangtam", Sangtam, Tukumi]
+alt_names: [Isachanure, Lophomi, "Naga, Sangtam", "Naga,Sangtam", Sangtam, Tukumi, Central Sangtam, Kizare, Northern Sangtam, Phelongre, Photsimi, Pirr, Purr, Southern Sangtam]
 population: 76000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Naga language spoken in northeast India
 status_id: "4"
 scope: individual
 language_type: living

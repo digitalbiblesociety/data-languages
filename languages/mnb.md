@@ -2,10 +2,12 @@
 iso: mnb
 name: Muna
 autonym: Wamba Wuna
-alt_names: [Mounan, Wuna]
+alt_names: [Mounan, Wuna, Burukene, Eastern Muna, Gu, Kadatua, Kapontori, Katobengke, Lakudo, Laompo, Mawasangka, Northern Muna, Siompu, Standard Muna, Tiworo]
 population: 266000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Muna island, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

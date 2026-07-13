@@ -6,6 +6,8 @@ alt_names: [Roglai, "Roglai, Southern", Ríoglai, Southern]
 population: 18000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: VN
     location: "Vietnam, South Central Coast, Binh Thuan"
 ---
+The Roglai language is a Chamic language of southern Vietnam, spoken by the Raglai people.

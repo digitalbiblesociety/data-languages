@@ -2,10 +2,12 @@
 iso: nhr
 name: Naro
 autonym: Nharo
-alt_names: [/Ai San, Gaa, Naron, Nharon, Nhauru, Nhaurun, Qoo, "Ts'ao", "|Aikwe", "||Aikwe", "||Aisan", "||Ai||e", "||Ai||en"]
+alt_names: [/Ai San, Gaa, Naron, Nharon, Nhauru, Nhaurun, Qoo, "Ts'ao", "|Aikwe", "||Aikwe", "||Aisan", "||Ai||e", "||Ai||en", "!Kabbakwe", "Nǀhai-Ntse'e", Nǁhai, Qabekho, Qabekhoe, "Ts'aokhoe", Tsaokhwe, Tsaukwe, ǀAikwe, ǁAikwe, ǁAisan, ǁAiǁe, ǁAiǁen]
 population: 10000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Khoe language of Botswana and Namibia
 status_id: "3"
 scope: individual
 language_type: living

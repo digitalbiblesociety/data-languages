@@ -6,6 +6,8 @@ alt_names: [At-nah, Nikutamú, Nklapmx, "Nlaka'pamux", "Nle'kepmxcín", Nlha7ká
 population: 3000
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Interior Salishan language
 status_id: "7"
 scope: individual
 language_type: living

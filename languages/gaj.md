@@ -2,9 +2,11 @@
 iso: gaj
 name: Gadsup
 autonym: null
+alt_names: [Aiyura, Akuna, Oiyana, Oyana]
 population: 22100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
 status_id: "5"
 scope: individual
 language_type: living

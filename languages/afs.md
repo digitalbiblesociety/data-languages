@@ -2,10 +2,12 @@
 iso: afs
 name: "Afro-Seminole Creole"
 autonym: "Afro-Seminol Criollo"
-alt_names: ["Creole, Afro-Seminole"]
+alt_names: ["Creole, Afro-Seminole", Afro-Seminole, Black Seminole, Seminole]
 population: 200
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Creole spoken in Southern US
 status_id: 8a
 scope: individual
 language_type: living

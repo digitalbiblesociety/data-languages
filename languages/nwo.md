@@ -5,11 +5,13 @@ autonym: Battara
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -33.796611
 longitude: 135.828014
+language_map_img: 500px-Wirangu_Map.webp
 glottocode: nauo1235
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

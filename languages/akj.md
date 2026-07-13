@@ -6,6 +6,7 @@ alt_names: [Andamanés, Grand andamanais, Great Andamanese, Jeru, Lèngua Aka-Je
 population: null
 country_id: IN
 country_name: India
+area: Nearly extinct Great Andamanese language
 status_id: "10"
 scope: individual
 language_type: extinct

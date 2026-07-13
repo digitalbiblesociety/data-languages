@@ -6,6 +6,8 @@ alt_names: [Athpahariya, Athpare, Athpariya, Belhare, Belhare language, Belhariy
 population: 500
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

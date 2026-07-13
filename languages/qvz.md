@@ -3,15 +3,18 @@ iso: qvz
 macrolanguage_id: que
 name: Northern Pastaza Quichua
 autonym: Kichwa Shimi
-alt_names: [Alama, Bobonaza, Bobonaza Quichua, Calderón, Canelo, Canelos Quichua, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Loreto, Napo Quichua, Pastaza Quichua, Puyo Pongo, Quichua, "Quichua, Northern Pastaza", Salasca, Sarayacu Quichua, Tena Quichua, Tigre Quechua]
+alt_names: [Alama, Bobonaza, Bobonaza Quichua, Calderón, Canelo, Canelos Quichua, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Loreto, Napo Quichua, Pastaza Quichua, Puyo Pongo, Quichua, "Quichua, Northern Pastaza", Salasca, Sarayacu Quichua, Tena Quichua, Tigre Quechua, Northern Pastaza, Quichua del Oriente, Runa Shimi]
 population: 10000
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Quechuan language of Ecuador and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -1.88573
 longitude: -76.03888
+language_map_img: KichwaQ.svg
 glottocode: nort2973
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 北帕斯塔萨基楚亚语
     auto: true
 ---
+Kichwa is a Quechuan language that includes all Quechua varieties of Ecuador and Colombia (Inga), as well as extensions into Peru. It has an estimated half million speakers.

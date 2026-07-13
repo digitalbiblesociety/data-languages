@@ -2,10 +2,12 @@
 iso: goa
 name: Guro
 autonym: Kweni
-alt_names: [Gouro, Kwéndré, Lo]
+alt_names: [Gouro, Kwéndré, Lo, Baba, Dalo, Dipa, Golo, Ku]
 population: 500000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

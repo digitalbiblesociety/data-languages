@@ -2,10 +2,12 @@
 iso: mbj
 name: Nadëb
 autonym: Kaburi
-alt_names: [Anodöub, Kabari, Kabori, Kaburí language area, Macú nadeb, Makunadöbö, Makú Nadëb, Nadeb, Nadeb Macu, Nadobo, Nadëb branch, Nadöb, Nadöbo, Xiriwai, Xuriwai]
+alt_names: [Anodöub, Kabari, Kabori, Kaburí language area, Macú nadeb, Makunadöbö, Makú Nadëb, Nadeb, Nadeb Macu, Nadobo, Nadëb branch, Nadöb, Nadöbo, Xiriwai, Xuriwai, Nadöbö, Anodöb, Guariba, Guariba-Tapuyo, Kuyabi, Kuyawi]
 population: 300
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Nadahup language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

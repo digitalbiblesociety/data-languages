@@ -2,10 +2,12 @@
 iso: bla
 name: Blackfoot
 autonym: ᓱᖽᐧᖿ
-alt_names: [Blackfeet, Blackfoot-Sprache, Blackfoot-språket, Mustajalka, "Niitsi'powahsin", Niitsipowahsin, Pied-noir, Pied-noir (Canada), "Pied-noir (États-Unis d'Amérique)", Pies negros (Estados Unidos), Piikani, Pikanieg, Pikanii, Pikuni, Siksika, Siksika Cluster, Блэкфут, อักษรแบล็กฟุต]
+alt_names: [Blackfeet, Blackfoot-Sprache, Blackfoot-språket, Mustajalka, "Niitsi'powahsin", Niitsipowahsin, Pied-noir, Pied-noir (Canada), "Pied-noir (États-Unis d'Amérique)", Pies negros (Estados Unidos), Piikani, Pikanieg, Pikanii, Pikuni, Siksika, Siksika Cluster, Блэкфут, อักษรแบล็กฟุต, Siksiká, Blood, Kainai, Peigan, Pied Noir, Piegan, Siksikaipowahsin]
 population: 2920
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: Algoquian language spoken in North America
 status_id: "7"
 scope: individual
 language_type: living

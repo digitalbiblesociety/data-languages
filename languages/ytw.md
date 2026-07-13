@@ -5,6 +5,8 @@ autonym: Gabutamon
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre languages of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 尤特-瓦姆语
     auto: true
 ---
+Nankinian is one of the Finisterre languages of Papua New Guinea. Nankina Wam, Domung Meh, and Yupno Gen are related varieties.

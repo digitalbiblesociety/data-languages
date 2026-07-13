@@ -2,10 +2,12 @@
 iso: kmo
 name: Kwoma
 autonym: Washkuk
-alt_names: [Kuome, Kwoma Proper]
+alt_names: [Kuome, Kwoma Proper, Nukuma]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Sepik language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

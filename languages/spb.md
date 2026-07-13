@@ -6,6 +6,8 @@ alt_names: [Indonesia, Sepa]
 population: 2600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 塞帕语（印度尼西亚）
     auto: true
 ---
+Sepa–Teluti is an Austronesian language of Seram Island in eastern Indonesia.

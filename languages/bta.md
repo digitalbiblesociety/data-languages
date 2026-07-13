@@ -6,11 +6,14 @@ alt_names: [Bata Group, Batta, Bete, Birsa, Biu-Mandara A.8, Demsa Bata, Dii, Du
 population: 289500
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.68091
 longitude: 12.676965
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
 glottocode: bata1314
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

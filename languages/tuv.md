@@ -2,10 +2,12 @@
 iso: tuv
 name: Turkana
 autonym: "Ng'aturk(w)ana"
-alt_names: [Buma, Bume, Tourkaneg, Turkwana]
+alt_names: [Buma, Bume, Tourkaneg, Turkwana, "Ng'aturkana", Northern Turkana, Southern Turkana]
 population: 1020000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Eastern Nilotic language of Kenya and Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

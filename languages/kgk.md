@@ -2,10 +2,12 @@
 iso: kgk
 name: Kaiwá
 autonym: Kayova
-alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva]
+alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva, Paï-Tavyterã, Tembekuá, Teüi]
 population: 18000
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Tupian language spoken in Argentina and Brazil
 status_id: "5"
 scope: individual
 language_type: living

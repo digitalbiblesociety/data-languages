@@ -6,11 +6,13 @@ alt_names: [Tonkawa hizkuntza, Tonkawan, USA, Тонкава]
 population: null
 country_id: US
 country_name: United States
+area: Native American language
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 30.25
 longitude: -96.75
+language_map_img: 500px-Tonkawa_lang.webp
 glottocode: tonk1249
 wikidata_id: Q2454881
 wikipedia_url: "https://en.wikipedia.org/wiki/Tonkawa_language"

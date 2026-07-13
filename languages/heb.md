@@ -3,15 +3,17 @@ iso: heb
 iso639_1: he
 name: Hebrew
 autonym: Israeli Hebrew
-alt_names: [Ivrit, Modern Hebrew, hébreu]
+alt_names: [Ivrit, Modern Hebrew, hébreu, עברית, Arabized Hebrew, Europeanized Hebrew, General Israeli, Israeli, Oriental Hebrew, Standard Hebrew, Yemenite Hebrew]
 population: 5000000
 country_id: IL
 country_name: Israel
+area: Standard form of the Hebrew language spoken today
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 31.10565
 longitude: 35.01788
+language_map_img: heb.webp
 scripts: [Hebr]
 glottocode: hebr1245
 glottolog_family_id: afro1255

@@ -2,9 +2,11 @@
 iso: svk
 name: Slovakian Sign Language
 autonym: Slovenský posunkový jazyk
+alt_names: [Slovak Republic Sign Language, Slovak Sign Language, Slovnik Posunkovej Reci]
 population: 15000
 country_id: SK
 country_name: Slovakia
+area: Deaf sign language of Slovakia
 status_id: 6a
 scope: individual
 language_type: living

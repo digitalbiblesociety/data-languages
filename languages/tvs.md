@@ -2,10 +2,12 @@
 iso: tvs
 name: Taveta
 autonym: Kitaveta
-alt_names: [Kitubeta, Tubeta]
+alt_names: [Kitubeta, Tubeta, Dabida, Kitubheta]
 population: 24300
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Northeast Coast Bantu languages of Kenya
 status_id: "5"
 scope: individual
 language_type: living

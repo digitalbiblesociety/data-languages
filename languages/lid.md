@@ -2,10 +2,12 @@
 iso: lid
 name: Nyindrou
 autonym: null
-alt_names: [Admiralitäts-inseln, Lindau, Lindrou, Nyada, Salien]
+alt_names: [Admiralitäts-inseln, Lindau, Lindrou, Nyada, Salien, Babon]
 population: 4200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: West Manus language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

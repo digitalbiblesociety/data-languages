@@ -2,10 +2,12 @@
 iso: kbx
 name: Ap Ma
 autonym: Ap Ma
-alt_names: [Ap Ma Botin, Botin, Kambot, Kambot (Keram), Karaube, Keram]
+alt_names: [Ap Ma Botin, Botin, Kambot, Kambot (Keram), Karaube, Keram, Ap-Ma]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Keram language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

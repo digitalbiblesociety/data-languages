@@ -5,6 +5,7 @@ autonym: null
 population: 93000
 country_id: MG
 country_name: Madagascar
+area: Sign language used in Malawi
 status_id: null
 scope: individual
 language_type: living

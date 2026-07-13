@@ -6,6 +6,8 @@ alt_names: [Bendiapa, Beñdiapá, Canamari, Canamarí, Djapá, Dyapá, "Hondiapa
 population: 1650
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Katukinan language spoken in Brazil
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Moi, Mooi, Mosana]
 population: 4600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kib
 name: Koalib
 autonym: Rere
-alt_names: [Abri, Kawalib, Kowalib, Lgalige, Ngirere, Nirere]
+alt_names: [Abri, Kawalib, Kowalib, Lgalige, Ngirere, Nirere, Kandiza Kethi Koalib, Kawaaliib, Kwɐ̀ɐlîp, Ngemere, Nginyukwur, Ngunduna, Nguqwurang]
 population: 100000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living

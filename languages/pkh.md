@@ -6,6 +6,8 @@ alt_names: [Paang, Pang, Pang Khua, Pangkhua, Pankho, Pankhua, Panko, Pankua]
 population: 2500
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Kuki-Chin language spoken in Bangladesh
 status_id: 6a
 scope: individual
 language_type: living

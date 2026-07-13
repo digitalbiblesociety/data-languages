@@ -2,10 +2,12 @@
 iso: shg
 name: Shua
 autonym: Mashuakwe
-alt_names: [Deti, Shua-Khwe, Shwa language, Tshumakwe]
+alt_names: [Deti, Shua-Khwe, Shwa language, Tshumakwe, Cara, Danisa, Danisi, Danisis, Demisa, Ganádi, Madenassa, Madenasse, Madinnisane, Nǀoo, Nǀoo-Khwe, Nǁookhwe, Sesarwa, Shete Tsere, Shuakhwena, Sili, Tcaiti, "Ts'ixa", "Tsh'iti", Tshidi-Khwe, ǀAaye, ǀAis, ǀHais, ǀHaise, ǀKoree-Khoe, ǀOree, ǀOree-Khwe, ǀTaise, ǀXaise, "ǁ'Aiye"]
 population: 100
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Khoe language spoken in Botswana
 status_id: "5"
 scope: individual
 language_type: living

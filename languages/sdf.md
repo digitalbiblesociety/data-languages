@@ -2,14 +2,17 @@
 iso: sdf
 name: Sarli
 autonym: گۆرانی
+alt_names: [Sarliya]
 population: 20000
 country_id: IQ
 country_name: Iraq
+area: Group of Kurdish dialects
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 36.021
 longitude: 43.644
+glottocode: sarl1241
 wikidata_id: Q7424256
 wikipedia_url: "https://en.wikipedia.org/wiki/Sarli_language"
 translations:

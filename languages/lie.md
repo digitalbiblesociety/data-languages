@@ -6,6 +6,8 @@ alt_names: [Bangela]
 population: 8400
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 利基拉语
     auto: true
 ---
+Ngiri is a Bantu language closely related to Lingala.

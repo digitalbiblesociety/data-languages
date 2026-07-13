@@ -2,10 +2,12 @@
 iso: wrk
 name: Garrwa
 autonym: Gaarwa
-alt_names: [Garawa, Garuwa, Grawa, Karawa, Kariwa, Karrawar, Karrwa, Karrwaz, Karwa, Korrawa, Kurrawar, Leearawa, Leearrawa, Wollongorang, Wulungwara]
+alt_names: [Garawa, Garuwa, Grawa, Karawa, Kariwa, Karrawar, Karrwa, Karrwaz, Karwa, Korrawa, Kurrawar, Leearawa, Leearrawa, Wollongorang, Wulungwara, Garrawa, Gunindirri]
 population: 130
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living

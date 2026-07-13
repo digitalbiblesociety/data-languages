@@ -6,6 +6,8 @@ alt_names: [Serudong, Tawau Murut, Tidung]
 population: 350
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Sabahan language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Bura Mabang, Bura-Mabang, Kana Mabang, Maba, Mabaa, Mabak, Mabang, O
 population: 567000
 country_id: TD
 country_name: Chad
+location: Chad
+area: Maban language spoken in Chad and Sudan
 status_id: "3"
 scope: individual
 language_type: living

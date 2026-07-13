@@ -2,10 +2,12 @@
 iso: mva
 name: Manam
 autonym: null
-alt_names: [Manum]
+alt_names: [Manum, Wanami]
 population: 7950
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Kairiru–Manam language
 status_id: "5"
 scope: individual
 language_type: living

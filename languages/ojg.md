@@ -7,6 +7,8 @@ alt_names: [Anishinaabemowin, E Ojibwa, E. Ojibwa, Eastern Ojibwe, Mississauga, 
 population: 25900
 country_id: CA
 country_name: Canada
+location: Canada
+area: Ojibwe language of Canada
 status_id: 6b
 scope: individual
 language_type: living

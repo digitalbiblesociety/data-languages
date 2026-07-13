@@ -2,10 +2,12 @@
 iso: lia
 name: "West-Central Limba"
 autonym: Yimba
-alt_names: [Limba, Yumba]
+alt_names: [Limba, Yumba, Limba West, Central Limba, Gbongogbo, Hulimba ha, Sela, Tamiso, Tonko, West-Central, Western Limba]
 population: 445000
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Niger-Congo language of Sierra Leone and Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: SL
     location: "Sierra Leone, Northern"
 ---
+The Limba language, Hulimba, is a Niger–Congo language of Sierra Leone and Guinea. It is not closely related to other languages and appears to form its own branch of the Atlantic–Congo family. Dialects include Tonko, Sela, Kamuke, Wara-wara, Keleng, Biriwa, and Safroko. The eastern variety, spoken primarily in Guinea, is quite distinct. Limba has a system of noun classes, marked by an old, eroded set of prefixes augmented by a newer set of enclitics.

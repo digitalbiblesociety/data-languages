@@ -5,6 +5,8 @@ autonym: Sirasira
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Oceanic language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 萨拉西拉语
     auto: true
 ---
+Adzera is an Austronesian language spoken by about 30,000 people in Morobe Province, Papua New Guinea.

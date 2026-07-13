@@ -6,6 +6,7 @@ alt_names: [Alt sòrab, Alto sorabo, Alto sorábio, Eastern Sorbian, Górnosorbs
 population: 18000
 country_id: DE
 country_name: Germany
+area: West Slavic language of eastern Germany
 status_id: "4"
 scope: individual
 language_type: living

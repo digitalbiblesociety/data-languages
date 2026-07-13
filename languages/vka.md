@@ -6,6 +6,7 @@ alt_names: [Gariera, Gariyarra, Kaierra, Kariara, Kariera, Kariera-Ngaluma, Kari
 population: null
 country_id: AU
 country_name: Australia
+area: Endangered Ngayarda language of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 卡里亚拉语
     auto: true
 ---
+Ngarluma and Kariyarra are members of a dialect continuum, which is a part of the Ngayarda language group of Western Australia, in the Pama–Nyungan language family. Some sources suggest that an extinct dialect, Jaburara, was a third member of the continuum. However, it is clear that Jaburara had a distinct identity that has been partly obscured by a collapse in the numbers of Jaburara speakers during the late 19th century, and there is some evidence that Jaburara may have instead been a dialect of Martuthunira.

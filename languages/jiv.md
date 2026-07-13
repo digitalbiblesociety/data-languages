@@ -6,6 +6,8 @@ alt_names: ["\"Jívaro\"", Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiw
 population: 42300
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Chicham language spoken in Ecuador
 status_id: "5"
 scope: individual
 language_type: living

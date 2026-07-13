@@ -2,10 +2,12 @@
 iso: ijs
 name: Southeast Ijo
 autonym: Akassa
-alt_names: [Brass Ijo, Ijaw, "Ijo, Southeast", Ịjọ]
+alt_names: [Brass Ijo, Ijaw, "Ijo, Southeast", Ịjọ, Brass-Nembe, Akaha, Ijo, Nembe, Nembe-Akassa, Nimbe, Southeast]
 population: 71500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ijaw language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

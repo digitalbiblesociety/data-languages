@@ -6,6 +6,7 @@ alt_names: [Tati, Tatí]
 population: null
 country_id: IR
 country_name: Iran
+area: Tati language of Iran
 status_id: "7"
 scope: individual
 language_type: living

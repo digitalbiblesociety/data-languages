@@ -3,15 +3,18 @@ iso: ssw
 iso639_1: ss
 name: Swati
 autonym: siSwati
-alt_names: [Isiswazi, Phuthi, Siswazi, Suací, Swasi simi, Swatieg, Swatum, Swazi, Tekela, Tekeza, Thithiza, Yeyeza, Свази, Свати]
+alt_names: [Isiswazi, Phuthi, Siswazi, Suací, Swasi simi, Swatieg, Swatum, Swazi, Tekela, Tekeza, Thithiza, Yeyeza, Свази, Свати, Baca, Hlubi, Ngwane, Sephuthi]
 population: 2314500
 country_id: SZ
 country_name: Eswatini
+location: "Lesotho, South Africa and Swaziland"
+area: Bantu language spoken in Eswatini and South Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -26
 longitude: 31.5
+language_map_img: South_Africa_2011_Swazi_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: swat1243
 glottolog_family_id: atla1278

@@ -5,6 +5,8 @@ autonym: null
 population: 120
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Oceanic language spoken on Bougainville
 status_id: 6b
 scope: individual
 language_type: living

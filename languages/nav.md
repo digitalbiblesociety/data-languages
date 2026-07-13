@@ -3,10 +3,12 @@ iso: nav
 iso639_1: nv
 name: Navajo
 autonym: Diné bizaad
-alt_names: [Diné, Diné simi, "Navac'hoeg", Navachóis, Navaho, Navajóíska, Навахо, נאוואחו]
+alt_names: [Diné, Diné simi, "Navac'hoeg", Navachóis, Navaho, Navajóíska, Навахо, נאוואחו, Naabeehó bizaad]
 population: 300000
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Athabaskan language of Na-Dené stock in the United States
 status_id: 6b
 scope: individual
 language_type: living

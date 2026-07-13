@@ -2,10 +2,12 @@
 iso: dag
 name: Dagbani
 autonym: Dagbanli
-alt_names: [Dagbamba, Dagbane, Dagbaneg, Dagomba]
+alt_names: [Dagbamba, Dagbane, Dagbaneg, Dagomba, Nanumba, Nanuni]
 population: 1160000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Northern Ghana
 status_id: "4"
 scope: individual
 language_type: living

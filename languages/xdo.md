@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: ZM
 country_name: Zambia
+area: Bantu language spoken in Zambia and Angola
 status_id: null
 scope: individual
 language_type: living
@@ -58,3 +59,4 @@ rolv_dialects:
     country_id: ZM
     location: Zambia
 ---
+Mashi (Kamaxi), or Kwandu, is a Bantu language of Zambia and Angola. It was assigned by Guthrie to Bantu group K.30, which Pfouts (2003) established as part of the Kavango–Southwest branch of Bantu. Though not specifically addressed, Mashi may be in that family as well.

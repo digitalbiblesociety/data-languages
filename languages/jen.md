@@ -2,10 +2,12 @@
 iso: jen
 name: Dza
 autonym: Jen
-alt_names: [Janjo, Jenjo]
+alt_names: [Janjo, Jenjo, Dzə, E Idza, Ngwa Idza]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Adamawa language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

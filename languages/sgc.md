@@ -3,10 +3,12 @@ iso: sgc
 macrolanguage_id: kln
 name: Kipsigis
 autonym: Kipsiikis
-alt_names: [Kipsigiseg, Kipsikis]
+alt_names: [Kipsigiseg, Kipsikis, Kipsikiis, Kipsigis Kalenjin]
 population: 1910000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kenyan language
 status_id: "5"
 scope: individual
 language_type: living

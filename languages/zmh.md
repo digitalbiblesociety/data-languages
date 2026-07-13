@@ -6,6 +6,7 @@ alt_names: [Neu-Pommern]
 population: 1988
 country_id: PG
 country_name: Papua New Guinea
+area: Extinct Papuan language
 status_id: "10"
 scope: individual
 language_type: extinct

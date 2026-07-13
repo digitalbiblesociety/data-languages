@@ -2,10 +2,12 @@
 iso: tng
 name: Tobanga
 autonym: Northern Gabri
-alt_names: [Gabri, Gabri-Nord, Gabri-North]
+alt_names: [Gabri, Gabri-Nord, Gabri-North, Deressia, Mande]
 population: 30000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living

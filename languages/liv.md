@@ -2,15 +2,18 @@
 iso: liv
 name: Liv
 autonym: līvõ kēļ
-alt_names: [Liefs, Liivi kiil, Liivigiella, Liivõ Keelj, Lijfs, Livian, Livisch, Livisk, Liviska, Livoneg, Livonia-gí, Livonian, Livonian language, Livonish, Livonià, Livonskt, Livón, Lyfs, kurländisch-livisch, liiv, live, livy, rändalis-, rānda kēl΄, rānda kēļ, ליבונית]
+alt_names: [Liefs, Liivi kiil, Liivigiella, Liivõ Keelj, Lijfs, Livian, Livisch, Livisk, Liviska, Livoneg, Livonia-gí, Livonian, Livonian language, Livonish, Livonià, Livonskt, Livón, Lyfs, kurländisch-livisch, liiv, live, livy, rändalis-, rānda kēl΄, rānda kēļ, ליבונית, Livõ kel, Lívõnkél]
 population: null
 country_id: LV
 country_name: Latvia
+location: "Estonia, Latvia and Lithuania"
+area: Finnic language in western Latvia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 57.56599
 longitude: 22.02622
+language_map_img: 500px-2.7-Livonian.webp
 scripts: [Latn]
 glottocode: livv1244
 glottolog_family_id: ural1272

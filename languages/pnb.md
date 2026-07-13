@@ -3,15 +3,18 @@ iso: pnb
 macrolanguage_id: lah
 name: Western Panjabi
 autonym: ਪੰਜਾਬੀ
-alt_names: [Hindki, Lahanda, Lahnda, Lahndi, Pandschabi, "Panjabi, Western", Standard Lahnda, Western Punjabi]
+alt_names: [Hindki, Lahanda, Lahnda, Lahndi, Pandschabi, "Panjabi, Western", Standard Lahnda, Western Punjabi, Awankari, Bhatneri, Bhatti, Bhatyiana, Central Punjabi, Dhanni, Dhanni Boli, Doabi, Jangli Boli, Jatki, Jhangi, Khushabi, Lahori, Lamochari, Majhi, Panjabi, Panjabi Proper, Punjabi, Punjabi Proper, Punjapi, Sawain, Shahmukhi, Shahpuri, Sohain, Standard Punjabi, Ṭheṭh Punjabi]
 population: 31100000
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Indo-Aryan language native to the Punjab
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 30.09484
 longitude: 75.347425
+language_map_img: pnb.webp
 glottocode: west2386
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -69,3 +72,4 @@ rolv_dialects:
     country_id: PK
     location: "Pakistan, Punjab"
 ---
+Western Punjabi, the variety of Punjabi spoken in Pakistani Punjab, is written in a Perso-Arabic script called Shahmukhi, which differs from the Gurmukhi script used for Eastern Punjabi in India. The language has a deep Sufi poetic tradition, including the works of Bulleh Shah, Waris Shah, and Khwaja Ghulam Farid, and is the most widely spoken native language in Pakistan, although Urdu serves as the country's national language.

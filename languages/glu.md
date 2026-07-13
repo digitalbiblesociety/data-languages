@@ -2,10 +2,12 @@
 iso: glu
 name: Gula
 autonym: Sara Gula
-alt_names: [Goula, Gula, Gula (Gele), Gula (in Central African Republic), Sara Goula]
+alt_names: [Goula, Gula, Gula (Gele), Gula (in Central African Republic), Sara Goula, Bayo]
 population: 10300
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

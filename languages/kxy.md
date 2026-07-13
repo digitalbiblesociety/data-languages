@@ -6,11 +6,14 @@ alt_names: [Cagiuong, Kagiuong, Katang]
 population: 2000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.92273
 longitude: 108.44694
+language_map_img: 500px-Kayong_language.webp
 glottocode: kayo1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

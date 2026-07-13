@@ -6,11 +6,14 @@ alt_names: [Chiranga, Cirnga, Desana-Siriana, Desano (Brésil), Desano (Colombia
 population: 217
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Tucanoan language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.436515
 longitude: -70.184015
+language_map_img: Siriano.webp
 glottocode: siri1274
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

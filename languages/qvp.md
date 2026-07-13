@@ -7,6 +7,8 @@ alt_names: [Pacaraos, Quechua Pacaraos, Quechua de Pacaraos, "Quechua, Pacaraos"
 population: 250
 country_id: PE
 country_name: Peru
+location: Peru
+area: Language in the Quechua family
 status_id: "7"
 scope: individual
 language_type: living

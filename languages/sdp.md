@@ -6,6 +6,8 @@ alt_names: [Ngnok]
 population: 3100
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language spoken in Northeast India
 status_id: 6a
 scope: individual
 language_type: living

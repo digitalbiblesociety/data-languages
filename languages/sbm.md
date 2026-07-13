@@ -6,6 +6,8 @@ alt_names: [Kisagala, Kisagara, Sagara, Southern Kisagala]
 population: 111000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

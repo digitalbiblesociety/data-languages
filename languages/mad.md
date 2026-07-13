@@ -2,15 +2,18 @@
 iso: mad
 name: Madurese
 autonym: " بَهاسَ مَدورا"
-alt_names: [Madhura, Madoerees, Madura, Madura-Bali, Madurais, Maduresisch, Maduresiska, madourais]
+alt_names: [Madhura, Madoerees, Madura, Madura-Bali, Madurais, Maduresisch, Maduresiska, madourais, Basa Mathura, Babean, Bangkalan, Bangkalon, Bawean, Bhebien, Boyanese, Pamekasan, Pamekesan, Sampang, Sapudi, Sumenep]
 population: 13600000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -7
 longitude: 113
+language_map_img: Madurese.svg
 scripts: [Latn]
 glottocode: nucl1460
 glottolog_family_id: aust1307

@@ -2,10 +2,12 @@
 iso: bgi
 name: Giangan
 autonym: Klata
-alt_names: [Atto, Bagaba, Bagobo, Bakhtiari, Clata, Eto, Guanga, Gulanga, Jangan]
+alt_names: [Atto, Bagaba, Bagobo, Bakhtiari, Clata, Eto, Guanga, Gulanga, Jangan, Bagobo-Klata]
 population: 58500
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: trn
 name: Trinitario
 autonym: Mojos
-alt_names: [Moxo, Moxos, Trimitarios]
+alt_names: [Moxo, Moxos, Trimitarios, Javierano, Loretano, Loreto]
 population: 30000
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Arawakan subfamily of northeastern Bolivia
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: gpa
 name: "Gupa-Abawa"
 autonym: null
-alt_names: [Nigeria]
+alt_names: [Nigeria, Abawa, Gupa]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: "Nupoid language of Niger State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living

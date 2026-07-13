@@ -6,6 +6,8 @@ alt_names: [Charrau, Deharu, Djara, Djaro, Dyaru, Jaroo, Jarrau, Jarroo, Jarrou,
 population: 340
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "7"
 scope: individual
 language_type: living

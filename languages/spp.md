@@ -2,15 +2,17 @@
 iso: spp
 name: Supyire Senoufo
 autonym: Supyire Sénoufo
-alt_names: [Kampwo dialect, Senoufo (Supyire), "Senoufo, Supyire", Soupyireg, "Sup'ide", Supide, Suppire, Supyire, Supyire (Kampwo), Supyire language]
+alt_names: [Kampwo dialect, Senoufo (Supyire), "Senoufo, Supyire", Soupyireg, "Sup'ide", Supide, Suppire, Supyire, Supyire (Kampwo), Supyire language, Sup’ide, Fanywohoshin, Kadi, Kampwo, Nyana Nyuni, Senefo, Senoufo, Senufo, Supꞌide]
 population: 350000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 11.63201
 longitude: -5.87709
+language_map_img: 500px-Supyire_language.webp
 glottocode: supy1237
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

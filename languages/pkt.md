@@ -6,6 +6,8 @@ alt_names: [Hareme, Kha, Kri, Krìì, Malang, Malieng, Mã Liềng, Sô Salang]
 population: 1000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos and Vietnam
 status_id: 6b
 scope: individual
 language_type: living

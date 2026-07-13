@@ -2,10 +2,12 @@
 iso: ksz
 name: Kodaku
 autonym: Koraku
-alt_names: [Korku]
+alt_names: [Korku, Korwa]
 population: 15700
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Munda language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 科达库语
     auto: true
 ---
+Korwa, or Kodaku/Koraku (Koɽaku), is an Austroasiatic language spoken in the Indian states of Chhattisgarh and Jharkhand.

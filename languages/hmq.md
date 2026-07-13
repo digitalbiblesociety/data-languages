@@ -3,10 +3,12 @@ iso: hmq
 macrolanguage_id: hmn
 name: Eastern Qiandong Miao
 autonym: Qiandong Miao
-alt_names: [Black Miao, Central Miao, Eastern East-Guizhou Miao, Heh Miao, Hei, "Hmong, Eastern Qiandong", Hmu, Miao, "Miao, Eastern Qiandong"]
+alt_names: [Black Miao, Central Miao, Eastern East-Guizhou Miao, Heh Miao, Hei, "Hmong, Eastern Qiandong", Hmu, Miao, "Miao, Eastern Qiandong", Chientung Miao, Eastern Hmu, Hei Miao, mo˧]
 population: 350000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmongic language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
   - translation_iso: zho
     name: 东部土语
 ---
+The Hmu language, also known as Qiandong Miao, Central Miao (中部苗语), East Hmongic, or Black Miao, is a dialect cluster of Hmongic languages of China. The best studied dialect is that of Yǎnghāo (养蒿) village, Taijiang County, Guizhou Province.

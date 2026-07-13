@@ -2,10 +2,12 @@
 iso: cek
 name: Eastern Khumi Chin
 autonym: Khumi Chin
-alt_names: ["Chin, Eastern Khumi"]
+alt_names: ["Chin, Eastern Khumi", Lemi, Ta-aw, Akelong, Aki Along, Amlai, Asang, Ghu, Kaja, Kajauk, Kasang, Khami, Khenlak, Khongtu, Laungtha, Lemi Chin, Likhaeng, Likhy, Maru, Namboi, Nangbwe, Nideun, Nisay, Nise, Palyng, Paru, Rengcaa, Sangtha, Tahaensae, Taheunso, Tao Cha, Uiphaw]
 population: 12000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Bangladesh and Burma
 status_id: 6a
 scope: individual
 language_type: living
@@ -110,3 +112,4 @@ rolv_dialects:
     country_id: MM
     location: "Myanmar, Western"
 ---
+Khumi, or Khumi Chin, is a Kuki-Chin-Mizo language of Burma, with some speakers across the border in Bangladesh. Khumi shares 75%–87% lexical similarity with Eastern Khumi, and 78-81% similarity with Mro-Khimi. A written script for Khumi was created between 1930–1949 by E.W. Francis.

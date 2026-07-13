@@ -6,6 +6,8 @@ alt_names: [Ulithi, Ulithiano, Ulitiano]
 population: 3000
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Oceanic language spoken in Micronesia
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: xsl
 macrolanguage_id: den
 name: South Slavey
 autonym: "Dene K'e"
-alt_names: ["\"Slave\"", "Acha'otinne", Dene, Dene Tha (ᑌᓀ ᒐ), "Dene Tha'", Dené, Eslavi meridional, Mackenzian, Slave, Slavey, Slavey du sud, "Slavey, South", Slavi]
+alt_names: ["\"Slave\"", "Acha'otinne", Dene, Dene Tha (ᑌᓀ ᒐ), "Dene Tha'", Dené, Eslavi meridional, Mackenzian, Slave, Slavey, Slavey du sud, "Slavey, South", Slavi, “Slave”, “Slavi”, Denetha, Deh Gáh Ghotie Zhatie, Esclave du Sud, South]
 population: 3600
 country_id: CA
 country_name: Canada
+location: Canada
+area: Athabaskan language group spoken in Canada
 status_id: "7"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 南斯拉夫语
     auto: true
 ---
+Slavey is a group of Athabaskan languages and a dialect continuum spoken amongst the Dene peoples of Canada in the Northwest Territories – or central Denendeh – where it also has official status. The languages are primarily written using a modified Latin script, with some using Canadian Aboriginal syllabics. In their own languages, these languages are referred to as: Sahtúgot’įné Yatı̨́, K’ashógot’įne Goxedǝ́ and Shíhgot’įne Yatı̨́ in the North, and Dené Dháh, Dene Yatıé or Dene Zhatıé in the South.

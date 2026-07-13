@@ -6,6 +6,7 @@ alt_names: [Beelia, Beeloo, Derbal, "Gala:gu", Galaagu, Galagu, Galagu/Kalako, I
 population: null
 country_id: AU
 country_name: Australia
+area: Pama–Nyungan language of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct

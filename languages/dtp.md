@@ -2,10 +2,12 @@
 iso: dtp
 name: Kadazan Dusun
 autonym: Boros Dusun
-alt_names: [Central Dusun, Central Dusun language, Central Kadazan, Dusan, Dusum, Dusun, "Dusun, Central", "Dusun, Kadazan", Dusur, Kadasan, Kadayan, Kedayan]
+alt_names: [Central Dusun, Central Dusun language, Central Kadazan, Dusan, Dusum, Dusun, "Dusun, Central", "Dusun, Kadazan", Dusur, Kadasan, Kadayan, Kedayan, Central, Beaufort, Bundu, Coastal Kadazan, Dusun Sinulihan, Idaan, Kadamaian Dusun, Kadazan, "Kadazan Tangaa'", Kadazan-Tagaro, Kadazandusun, Kiulu, Kiundu, Kota Marudu Tinagas, Kuala Monsok Dusun, Kuriyou, Liwan, Luba, Membakut Kadazan, Menggatal, "Pahu'", Panansawa, Papar Kadazan, Penampang Kadazan, Ranau, Sinulihan, Sokid, Tagaro, Taginambur, Talantang, Tambunan, Tambunan Dusun, Tampasok, Tampassuk, Telipok, Tempasok, Tempasuk, Tempasuk Dusun, Tinagas, Tinagas Dusun, Tindal, Tindal Dusun, Tinombunan, Ulu Sugut Dusun]
 population: 556000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Language of Dusun people of Malaysia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,9 +2,11 @@
 iso: xrd
 name: Gundungurra
 autonym: Gundungurra
+alt_names: [Burragorang]
 population: null
 country_id: AU
 country_name: Australia
+area: "Extinct Pama–Nyungan language of New South Wales and ACT, Australia"
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +48,4 @@ translations:
     name: 贡顿古拉语
     auto: true
 ---
+Ngunnawal/Ngunawal and Gundungurra are Australian Aboriginal languages, and the traditional languages of the Ngunnawal and Gandangara. Ngunnawal and Gundungurra are very closely related and the two were most likely highly mutually intelligible. As such they can be considered dialects of a single unnamed language, but this is the technical linguistic usage of these terms and Ngunnawal and Gundungurra peoples prefer to describe their individual varieties as separate languages in their own right.

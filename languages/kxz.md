@@ -2,10 +2,12 @@
 iso: kxz
 name: Kerewo
 autonym: Kerewa
-alt_names: [Kerewa-Goari]
+alt_names: [Kerewa-Goari, Gibario, Goaribari]
 population: 2200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Kiwaian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

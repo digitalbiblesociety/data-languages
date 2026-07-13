@@ -3,15 +3,18 @@ iso: xho
 iso639_1: xh
 name: Xhosa
 autonym: isiXhosa
-alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Fiteny Xhosa, Koosa, Kosum, Xhosa simi, Xhosaeg, Xosa, Xosa-linguo, Коса, Ксоза, Кхоса]
+alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Fiteny Xhosa, Koosa, Kosum, Xhosa simi, Xhosaeg, Xosa, Xosa-linguo, Коса, Ксоза, Кхоса, “Cauzuh”, Cauzuh, Bomwana, Gaika, Gcaleka, Mpondo, Mpondomise, Ndlambe, Pondo, Thembu, Xesibe]
 population: 8183300
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Nguni language of southern South Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -31.03886
 longitude: 28.07686
+language_map_img: South_Africa_2011_Xhosa_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: xhos1239
 glottolog_family_id: atla1278

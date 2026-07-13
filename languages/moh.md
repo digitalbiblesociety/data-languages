@@ -2,15 +2,18 @@
 iso: moh
 name: Mohawk
 autonym: KanienʼkéhaKanyenʼkéha
-alt_names: ["\"mohawk (Akwesasne, St. Regis)\"", Ganienkeh, Kahnawake, Kanatsiohareke, Kanesatake, "Kanien'keha:ka", "Kanien'kehaka", "Kanien'kéha", Kanienʼkéha, Mohaqués (Wahta), Tyendinaga, Wahta]
+alt_names: ["\"mohawk (Akwesasne, St. Regis)\"", Ganienkeh, Kahnawake, Kanatsiohareke, Kanesatake, "Kanien'keha:ka", "Kanien'kehaka", "Kanien'kéha", Kanienʼkéha, Mohaqués (Wahta), Tyendinaga, Wahta, Kanien’kéha, Kanienkehaka]
 population: 2940
 country_id: CA
 country_name: Canada
+location: Canada
+area: Iroquoian language spoken by Mohawks in the United States and Canada
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 45.00064
 longitude: -74.624415
+language_map_img: 500px-Mohawklang.webp
 scripts: [Latn]
 glottocode: moha1258
 glottolog_family_id: iroq1247

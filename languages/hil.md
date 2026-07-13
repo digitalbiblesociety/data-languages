@@ -2,15 +2,18 @@
 iso: hil
 name: Hiligaynon
 autonym: Ilonggo
-alt_names: [Bisaya, Hiligainon, Hiligaynon-ngî, Hiligaïnon, Illogo, Ilongoeg, Pagsasao a Hiligaynon, Tataramon na Hiligaynon, Хилигайнон]
+alt_names: [Bisaya, Hiligainon, Hiligaynon-ngî, Hiligaïnon, Illogo, Ilongoeg, Pagsasao a Hiligaynon, Tataramon na Hiligaynon, Хилигайнон, Kari, Kawayan]
 population: 6246880
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian regional language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 10.40179
 longitude: 122.97428
+language_map_img: hil.webp
 scripts: [Latn]
 glottocode: hili1240
 glottolog_family_id: aust1307

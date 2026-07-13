@@ -2,15 +2,18 @@
 iso: rup
 name: "Macedo-Romanian"
 autonym: rrãmãneshti
-alt_names: [Armina, Armân, Armãneascã, Armãneashti, Armãneshce, Aroemeens, Aromaanish, Aroman-gí, Aromanian, Aromanian language, Aromanisk, Aromanès, Aromunian, Aroumain, Aroumanek, Arrumano, Arumanian, Arumaniera, Arumensk, Arumun, Arumuunsche Spraak, Arumänska, Macedo-Rumanian, Macedorrumanu, Machiduneashti, Other Roumanian Lects, "Romanian, Macedo", "Romanian, Macedo-", Rrămăneashti, Ulahça, Vlach, macédo-roumain]
+alt_names: [Armina, Armân, Armãneascã, Armãneashti, Armãneshce, Aroemeens, Aromaanish, Aroman-gí, Aromanian, Aromanian language, Aromanisk, Aromanès, Aromunian, Aroumain, Aroumanek, Arrumano, Arumanian, Arumaniera, Arumensk, Arumun, Arumuunsche Spraak, Arumänska, Macedo-Rumanian, Macedorrumanu, Machiduneashti, Other Roumanian Lects, "Romanian, Macedo", "Romanian, Macedo-", Rrămăneashti, Ulahça, Vlach, macédo-roumain, Macedo Romanian, Armani, Armini, Arumanisht, Arumenian, Macedo, Macedo Romania, Romanian, Vlav]
 population: 191000
 country_id: GR
 country_name: Greece
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: Romance language of the Balkans
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 42.064593
 longitude: 22.646372
+language_map_img: 500px-South-Balkan-Romance-languages.webp
 scripts: [Latn]
 glottocode: arom1237
 glottolog_family_id: indo1319

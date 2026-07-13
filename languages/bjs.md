@@ -5,6 +5,8 @@ autonym: Barbadian Creole English
 population: 256000
 country_id: BB
 country_name: Barbados
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole of Barbados
 status_id: 6a
 scope: individual
 language_type: living

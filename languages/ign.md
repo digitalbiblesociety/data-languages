@@ -6,6 +6,8 @@ alt_names: [Baure (Ignaciano), Bolivia, Mojeño, Mojo, Moxo]
 population: 2000
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Arawakan subfamily of northeastern Bolivia
 status_id: "5"
 scope: individual
 language_type: living

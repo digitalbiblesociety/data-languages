@@ -2,10 +2,12 @@
 iso: nsm
 name: Sumi Naga
 autonym: Sümi (Naga)
-alt_names: [Naga, Naga (Sumi), "Naga, Sumi", "Naga,Sumi", Sema, Simi, Simí, Sumi, Zumomi]
+alt_names: [Naga, Naga (Sumi), "Naga, Sumi", "Naga,Sumi", Sema, Simi, Simí, Sumi, Zumomi, Dayang, Lazemi, Western Sumi, Zhimomi]
 population: 10800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

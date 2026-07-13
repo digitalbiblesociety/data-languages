@@ -6,6 +6,8 @@ alt_names: [Bohran, "Da:jor", Daiyuri, Dajor, Dayorr, "Dha:yore", "Dha:yorre", G
 population: 210
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Paman language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living

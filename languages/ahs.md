@@ -6,6 +6,8 @@ alt_names: [Ache, Ala, Koro, Koro Makama, Koron Ache, Koron Ala]
 population: 40000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

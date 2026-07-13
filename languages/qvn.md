@@ -3,10 +3,12 @@ iso: qvn
 macrolanguage_id: que
 name: North Junín Quechua
 autonym: Kichwa
-alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Chinchaysuyo, Junin, Junín, Junín Quechua, Junín-Lima Kechua, North Junin Quechua, Northern Quechua, Northern-Junín-Pasco Quechua, Quechua (Junin), Quechua (Junín-Lima), Quechua (Tarma), "Quechua, North Junín", Quehcua de Cajatambo Pasco et du Junín nord, Tarma, Tarma-Junín Quechua, Yaru, Yaru Quechua]
+alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Chinchaysuyo, Junin, Junín, Junín Quechua, Junín-Lima Kechua, North Junin Quechua, Northern Quechua, Northern-Junín-Pasco Quechua, Quechua (Junin), Quechua (Junín-Lima), Quechua (Tarma), "Quechua, North Junín", Quehcua de Cajatambo Pasco et du Junín nord, Tarma, Tarma-Junín Quechua, Yaru, Yaru Quechua, Quechua, North Junín, Tarma Quechua]
 population: 60000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechuan dialect cluster of west-central Peru
 status_id: 6b
 scope: individual
 language_type: living

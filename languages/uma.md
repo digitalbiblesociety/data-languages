@@ -6,6 +6,8 @@ alt_names: [Sahaptin, Sahaptin (Umatilla)]
 population: 120
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Southern Sahaptin language of the US
 status_id: 8a
 scope: individual
 language_type: living

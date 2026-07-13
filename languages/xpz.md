@@ -6,6 +6,8 @@ alt_names: [Bruny Island Tasmanian, "Tasmanian, Bruny Island"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct language of Tasmania
 status_id: null
 scope: individual
 language_type: extinct

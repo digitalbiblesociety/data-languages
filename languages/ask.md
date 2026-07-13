@@ -2,10 +2,12 @@
 iso: ask
 name: Ashkun
 autonym: "Saňu-vīri"
-alt_names: [Ashkund, Ashkuni, Askun, Askunu, Askunu language, Askún, Askúnska, Wamai, Wamayi, Ашкун]
+alt_names: [Ashkund, Ashkuni, Askun, Askunu, Askunu language, Askún, Askúnska, Wamai, Wamayi, Ашкун, Wamais]
 population: 1200
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Nuristani language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living

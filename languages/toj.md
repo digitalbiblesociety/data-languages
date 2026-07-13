@@ -2,10 +2,12 @@
 iso: toj
 name: Tojolabal
 autonym: Tojolꞌabꞌal
-alt_names: [Mexico, "Tojolab'al language", "tojolab'al"]
+alt_names: [Mexico, "Tojolab'al language", "tojolab'al", Chañabal, Comiteco, Tojol-abꞌal]
 population: 55400
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mayan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living

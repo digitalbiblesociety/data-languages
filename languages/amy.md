@@ -6,6 +6,8 @@ alt_names: [Ame, Ami Ami, Amijanal, Amijangal, Arnhem Land, Berringin, Daly Rive
 population: 30
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

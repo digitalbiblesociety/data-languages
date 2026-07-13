@@ -2,10 +2,12 @@
 iso: jgo
 name: Ngomba
 autonym: Nda’a
-alt_names: [Bamileke-Ngomba, "Nda'a", Ndaa]
+alt_names: [Bamileke-Ngomba, "Nda'a", Ndaa, Babete, Bamendjinda, Bamendjo, Bamenkumbo, Bamesso, Bamete, Cú-Mbɔ́ndaa]
 population: 63000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfieldlanguage of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

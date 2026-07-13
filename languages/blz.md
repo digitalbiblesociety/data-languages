@@ -2,10 +2,12 @@
 iso: blz
 name: Balantak
 autonym: Wurung Balantak
-alt_names: [Kosian]
+alt_names: [Kosian, Balanta]
 population: 19500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

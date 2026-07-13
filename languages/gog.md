@@ -2,10 +2,12 @@
 iso: gog
 name: Gogo
 autonym: Cigogo
-alt_names: [Chigogo, Kigogo]
+alt_names: [Chigogo, Kigogo, Central Gogo, Cinyambwa, Citumba, East Gogo, Nyambwa, Nyaugogo, Tumba, Wagogo, West Gogo]
 population: 1080000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

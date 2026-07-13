@@ -6,6 +6,7 @@ alt_names: [Berluppa, Biladaba, Biladapa, Biladepa, Biladhaba, Bilatappa, Billat
 population: null
 country_id: AU
 country_name: Australia
+area: Indigenous language of South Australia
 status_id: "10"
 scope: individual
 language_type: extinct

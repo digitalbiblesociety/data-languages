@@ -5,6 +5,8 @@ autonym: Oubi
 population: 1100
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: East Chadic language in Chad
 status_id: "7"
 scope: individual
 language_type: living

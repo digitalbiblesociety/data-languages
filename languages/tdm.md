@@ -6,6 +6,7 @@ alt_names: [Aroaqui, Taruamá]
 population: null
 country_id: GY
 country_name: Guyana
+area: Divergent language of South America
 status_id: null
 scope: individual
 language_type: living

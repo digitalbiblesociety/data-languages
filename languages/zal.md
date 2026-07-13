@@ -6,6 +6,8 @@ alt_names: [Independent Lolo, Jaojo, Raorou, Raoruo, Rourou, Zaozou]
 population: 2100
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

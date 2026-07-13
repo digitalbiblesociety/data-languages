@@ -2,15 +2,17 @@
 iso: sou
 name: Southern Thai
 autonym: ภาษาไทยถิ่นใต้
-alt_names: [Dambro, Pak Tai, Pak Thai, Paktaieg, Paktay, "Thai, Southern"]
+alt_names: [Dambro, Pak Tai, Pak Thai, Paktaieg, Paktay, "Thai, Southern", Tai Islam, Tai Tak Bai, Tak Bai, Thai Malay]
 population: 4508200
 country_id: TH
 country_name: Thailand
+location: Southern Thailand
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 6.85668
 longitude: 99.7031
+language_map_img: sou.webp
 scripts: [Thai]
 glottocode: sout2746
 glottolog_family_id: taik1256

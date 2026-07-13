@@ -2,15 +2,18 @@
 iso: amr
 name: Aratbuten huaʼa
 autonym: Harákmbut
-alt_names: ["\"Mashco\"", Amaracaeri, Amaracaire, Amarakaeri, Amarakaire, Amarakaéri, Harakambeto, Harakmbet, Hate, "Mashco (\"Mashco\" is a derogatory term.)", Tuyoneri]
+alt_names: ["\"Mashco\"", Amaracaeri, Amaracaire, Amarakaeri, Amarakaire, Amarakaéri, Harakambeto, Harakmbet, Hate, "Mashco (\"Mashco\" is a derogatory term.)", Tuyoneri, “Mashco”, Arakmbut, Arakmbut Háte, Harakmbut, Haté, Kareneri, Kisambaeri, Kochimberi, Küpondirideri, Wakitaneri, Wintaperi, "aratbuten hua'a"]
 population: 1910
 country_id: PE
 country_name: Peru
+location: Peru
+area: Indigenous language family with two surviving dialects in Peru
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -12.49308
 longitude: -70.55333
+language_map_img: 500px-Harakmbut_languages.webp
 glottocode: amar1274
 glottolog_family_id: hara1260
 glottolog_family_name: Harakmbut

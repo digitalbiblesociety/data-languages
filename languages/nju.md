@@ -6,6 +6,8 @@ alt_names: ["Ba:donjunga", Bardojunga, Bardok, Buljigu, Fraser Range tribe, Gala
 population: 10
 country_id: AU
 country_name: Australia
+location: Australia
+area: Endangered Pama–Nyungan language of Australia
 status_id: 8b
 scope: individual
 language_type: living

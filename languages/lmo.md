@@ -6,11 +6,14 @@ alt_names: [Gallo-sicilien, Langobardus sermo, Llombard, Lombard tili, Lombard-g
 population: 3600000
 country_id: IT
 country_name: Italy
+location: Liechtenstein and Switzerland
+area: Gallo-Italic language spoken in the Italian region of Lombardy
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 45.88171
 longitude: 9.395095
+language_map_img: 500px-Lombard_Language_distribution.webp
 scripts: [Latn]
 glottocode: lomb1257
 glottolog_family_id: indo1319

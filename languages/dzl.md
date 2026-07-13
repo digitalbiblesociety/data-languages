@@ -2,10 +2,12 @@
 iso: dzl
 name: Dzalakha
 autonym: "Dzala 'Mat"
-alt_names: [Dzalamat, Yangtsebikha]
+alt_names: [Dzalamat, Yangtsebikha, Dzala]
 population: 22000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Bodish language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

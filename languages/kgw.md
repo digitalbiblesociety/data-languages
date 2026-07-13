@@ -6,6 +6,8 @@ alt_names: [Mari, Meon]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language of West Papua
 status_id: 6a
 scope: individual
 language_type: living

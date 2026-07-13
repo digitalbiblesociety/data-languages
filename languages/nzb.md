@@ -2,15 +2,18 @@
 iso: nzb
 name: Njebi
 autonym: Yinjebi
-alt_names: [Bandzabi, Binzabi, Injebi, Ndjabi, Ndjevi, Njabi, Njevi, Nzebi, Yinzebi]
+alt_names: [Bandzabi, Binzabi, Injebi, Ndjabi, Ndjevi, Njabi, Njevi, Nzebi, Yinzebi, I-Nzèbi, Inzabi, Inzebi, Nzɛbi]
 population: 143000
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language spoken in Gabon and the Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -2.18115
 longitude: 12.706345
+language_map_img: 500px-Carte_pays_nzebi.webp
 glottocode: njeb1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

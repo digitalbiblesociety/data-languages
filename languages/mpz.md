@@ -6,6 +6,8 @@ alt_names: [Mpi-Mi]
 population: 1500
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Loloish language of Thailand
 status_id: "7"
 scope: individual
 language_type: living

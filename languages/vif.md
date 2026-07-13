@@ -2,10 +2,12 @@
 iso: vif
 name: Vili
 autonym: Civili
-alt_names: [Fiot, Fiote, Tsivili]
+alt_names: [Fiot, Fiote, Tsivili, Bavili, Civili ci Loango, Civili ci Moongo, Civili ci Waanda, Civili ci Yombe, Kotchi, Lindji, Tshivili, Woyo]
 population: 11000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living

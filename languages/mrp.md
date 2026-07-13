@@ -6,6 +6,8 @@ alt_names: [Ko, Mores, Moruas]
 population: 150
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Central Santo.
 status_id: 6b
 scope: individual
 language_type: living

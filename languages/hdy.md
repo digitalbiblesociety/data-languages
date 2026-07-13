@@ -2,10 +2,12 @@
 iso: hdy
 name: Hadiyya
 autonym: Adea
-alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya]
+alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya, Hadiyyisa, Leemo, Soro]
 population: 1840000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Cushitic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

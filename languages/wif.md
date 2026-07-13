@@ -6,6 +6,7 @@ alt_names: [Wik-Keyenganh]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 威克-凯扬根语
     auto: true
 ---
+Wik-Me'nh is a Paman language of the Cape York Peninsula of Queensland, Australia.

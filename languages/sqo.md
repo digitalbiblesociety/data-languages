@@ -6,6 +6,7 @@ alt_names: [Iran]
 population: 10000
 country_id: IR
 country_name: Iran
+area: Iranian language spoken in Iran
 status_id: 6a
 scope: individual
 language_type: living

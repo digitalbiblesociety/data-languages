@@ -2,10 +2,12 @@
 iso: toi
 name: Tonga
 autonym: Zambezi
-alt_names: [Chitonga, Plateau Tonga, Tonga, Tonga (in Zambia)]
+alt_names: [Chitonga, Plateau Tonga, Tonga, Tonga (in Zambia), Batonga, Kafue Twa, Leya, Mala, Sanjo, Shanjo, Southern Tonga, Toka, Twa of Kafwe, Valley Tonga, We, iciTonga]
 population: 1530000
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language of Zambia and Zimbabwe
 status_id: "2"
 scope: individual
 language_type: living

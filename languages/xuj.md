@@ -2,10 +2,12 @@
 iso: xuj
 name: Jennu Kurumba
 autonym: "Kurumba, Jennu"
-alt_names: [Jen Kurumba, Jennu Kurumba Nonstandard Kannada, Jennu Nudi, Kattu Nayaka, Naik Kurumba, Naikan, Ten Kurumba]
+alt_names: [Jen Kurumba, Jennu Kurumba Nonstandard Kannada, Jennu Nudi, Kattu Nayaka, Naik Kurumba, Naikan, Ten Kurumba, Kurumba, Jennu, Nonstandard Kannada, Shola Nayakan]
 population: 101000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

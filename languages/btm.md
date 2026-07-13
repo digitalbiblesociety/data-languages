@@ -6,6 +6,8 @@ alt_names: [Batta, Mandailing Batak]
 population: 1100000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

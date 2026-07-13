@@ -2,10 +2,11 @@
 iso: frs
 name: Eastern Frisian
 autonym: East Frisian Low Saxon
-alt_names: ["Frisian, Eastern", Northern Low Saxon]
+alt_names: ["Frisian, Eastern", Northern Low Saxon, Ostfriesisch]
 population: 2000
 country_id: DE
 country_name: Germany
+area: West Low German dialect
 status_id: 8a
 scope: individual
 language_type: living

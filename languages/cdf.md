@@ -6,6 +6,8 @@ alt_names: [Chhori, Riem, "Riemchawng [remcɔŋ]", Tśiru, चीरू‎ (Cīr
 population: 7000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Southern Naga language of Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living

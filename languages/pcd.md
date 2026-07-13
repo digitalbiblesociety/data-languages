@@ -6,6 +6,8 @@ alt_names: [Chtimi, Pecârd, Picardisch, Picardish, Picardo, Picardsch, Picård,
 population: 700000
 country_id: FR
 country_name: France
+location: Andorra and France
+area: Endangered Romance language of northern France and southern Belgium
 status_id: "5"
 scope: individual
 language_type: living

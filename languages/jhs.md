@@ -5,6 +5,8 @@ autonym: झान्कोट साङ्केतिक भाषा
 population: null
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: A Nepalese village sign language
 status_id: 6a
 scope: individual
 language_type: living

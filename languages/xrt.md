@@ -5,6 +5,7 @@ autonym: "Tamique, Hanáma"
 population: null
 country_id: US
 country_name: United States
+area: "Extinct language of Texas, United States"
 status_id: null
 scope: individual
 language_type: extinct

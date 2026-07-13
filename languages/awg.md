@@ -2,9 +2,11 @@
 iso: awg
 name: Anguthimri
 autonym: Anguthimri
+alt_names: [Angadimi]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal dialect of Queensland
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,6 +6,7 @@ alt_names: [Mabale, Mbali]
 population: 42000
 country_id: CD
 country_name: DR Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -79,3 +80,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Ngiri is a Bantu language closely related to Lingala.

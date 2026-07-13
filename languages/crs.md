@@ -2,15 +2,17 @@
 iso: crs
 name: Seselwa Creole French
 autonym: kreol
-alt_names: [Creole, "Creole French, Seselwa", Creolo delle Seychelles, Criollo seychelense, Crioulo de Seychelles, Créole seychellois, French (Seychelles Creole), French Creole, Ilois, Sejšelski kreolski, Seychellenkreol, Seychelles Creole, Seychelles Creole French, Seychellois, Seychellois Creole, Κρεολική Σεσελουά, Сејшелски креолски]
+alt_names: [Creole, "Creole French, Seselwa", Creolo delle Seychelles, Criollo seychelense, Crioulo de Seychelles, Créole seychellois, French (Seychelles Creole), French Creole, Ilois, Sejšelski kreolski, Seychellenkreol, Seychelles Creole, Seychelles Creole French, Seychellois, Seychellois Creole, Κρεολική Σεσελουά, Сејшелски креолски, Sesselwa Creole French, Kreol Seselwa, Seselwa]
 population: 80200
 country_id: SC
 country_name: Seychelles
+area: French-based creole language of the Seychelles
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -4.62314
 longitude: 55.4503
+language_map_img: Location_Seychelles_AU_Africa.svg
 scripts: [Latn]
 glottocode: sese1246
 glottolog_family_id: indo1319

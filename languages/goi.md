@@ -6,6 +6,8 @@ alt_names: [Nomad Dialects, Samo]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Trans–New Guinea language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living

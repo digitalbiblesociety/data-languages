@@ -6,6 +6,8 @@ alt_names: [Larike, Wakasihu]
 population: 12600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

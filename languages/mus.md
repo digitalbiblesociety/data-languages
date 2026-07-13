@@ -6,11 +6,14 @@ alt_names: [Creek-Seminole, Maskoke, Maskoki Proper, Maskoki simi, Muskogee, Mus
 population: 4300
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Indigenous American language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 31
 longitude: -87.5
+language_map_img: Muskogee_USC2000_PHS.svg
 scripts: [Latn]
 glottocode: cree1270
 glottolog_family_id: musk1252

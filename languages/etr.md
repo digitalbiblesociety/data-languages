@@ -2,10 +2,12 @@
 iso: etr
 name: Edolo
 autonym: null
-alt_names: [Beami, Edolo Ado, Etolo, Etoro, Tomu, Toro]
+alt_names: [Beami, Edolo Ado, Etolo, Etoro, Tomu, Toro, Eastern Edolo, Western Edolo]
 population: 1670
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

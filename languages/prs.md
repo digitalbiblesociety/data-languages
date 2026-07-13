@@ -3,15 +3,18 @@ iso: prs
 macrolanguage_id: fas
 name: Dari
 autonym: دری
-alt_names: [Afghan Persian, Badakhshi, Darwazi, Farsi, "Farsi, Eastern", Madaglashti, Neupersisch, Parsi, Persian, "Persian, Afghan", Tajik]
+alt_names: [Afghan Persian, Badakhshi, Darwazi, Farsi, "Farsi, Eastern", Madaglashti, Neupersisch, Parsi, Persian, "Persian, Afghan", Tajik, Eastern Farsi, Tangshew, Tangshuri]
 population: 9446200
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Variety of the Persian language spoken in Afghanistan
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 31.040545
 longitude: 67.359255
+language_map_img: prs.webp
 glottocode: dari1249
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

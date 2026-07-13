@@ -6,6 +6,7 @@ alt_names: [LSP, Lenguaje de Señas Peruanas, Lenguaje de Señas Peruano]
 population: 98000
 country_id: PE
 country_name: Peru
+area: Deaf sign language of Peru
 status_id: "5"
 scope: individual
 language_type: living

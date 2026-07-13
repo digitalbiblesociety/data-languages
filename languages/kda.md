@@ -6,11 +6,13 @@ alt_names: [Bahree, Birbay, Biribi, Birippi, Birpai, Birrapee, Birripai, Birrpay
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -32.48064
 longitude: 152.10658
+language_map_img: 500px-Dharag-Neighbors1.webp
 glottocode: wori1245
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

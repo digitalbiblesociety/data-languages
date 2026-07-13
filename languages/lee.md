@@ -2,10 +2,12 @@
 iso: lee
 name: Lyélé
 autonym: Lele
-alt_names: [Lyele]
+alt_names: [Lyele, Central Lyélé, Gurunsi, Kandéré, Lela, Lyela, Lyæ̀læ, Northern Lyélé, Reo, Southern Lyélé]
 population: 213000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

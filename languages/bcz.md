@@ -2,10 +2,12 @@
 iso: bcz
 name: "Bainouk-Gunyaamolo"
 autonym: Bainouk
-alt_names: [Bagnoun, Bainuk, Bainuko-gunyaamolo, Banhum, Banyuk, Banyum, Banyun, Banyung, Elomay, Elunay, Gunyaamolo, Guñaamolo, Niamone, Ñuñ]
+alt_names: [Bagnoun, Bainuk, Bainuko-gunyaamolo, Banhum, Banyuk, Banyum, Banyun, Banyung, Elomay, Elunay, Gunyaamolo, Guñaamolo, Niamone, Ñuñ, Gujaaxet, Gunyamoolo, Guñuun Ñuñ]
 population: 30000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Senegambian dialect cluster of West Africa
 status_id: 6b
 scope: individual
 language_type: living
@@ -66,3 +68,4 @@ rolv_dialects:
     country_id: SN
     location: Senegal
 ---
+Banyun (Banyum), Nyun, or Bainouk, is a Senegambian language group of around 8 closely related languages in Senegal and Guinea-Bissau.

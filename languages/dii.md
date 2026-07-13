@@ -6,6 +6,8 @@ alt_names: [Bape, Bumbong, Dimbongo, Kaalong, Kalong, Lakaalong, Lambong, Mbong,
 population: 140
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Endangered Bantu language of Cameroon
 status_id: "7"
 scope: individual
 language_type: living

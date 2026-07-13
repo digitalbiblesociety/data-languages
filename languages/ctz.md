@@ -6,6 +6,8 @@ alt_names: [Chatino, Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la 
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotecan language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

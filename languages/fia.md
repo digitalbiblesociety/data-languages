@@ -2,10 +2,12 @@
 iso: fia
 name: Nobiin
 autonym: Mahas
-alt_names: [Fadicca, Fadicha, Fadija, Fedicca, Fedija, Fiadidja, Fiadidja-Mahas, Fiyadikkya, Mahas dialect, Mahas-Fadidja, Mahas-Fiadidja, Mahas-Fiyadikkya, Nile Nubian, Nobineg, Nubi, Nubian, Sukot]
+alt_names: [Fadicca, Fadicha, Fadija, Fedicca, Fedija, Fiadidja, Fiadidja-Mahas, Fiyadikkya, Mahas dialect, Mahas-Fadidja, Mahas-Fiadidja, Mahas-Fiyadikkya, Nile Nubian, Nobineg, Nubi, Nubian, Sukot, Fiyadikka, Mahasi, Mahass]
 population: 546000
 country_id: SD
 country_name: Sudan
+location: Egypt and Libya
+area: Nubian language of northern Sudan and southern Egypt
 status_id: 6a
 scope: individual
 language_type: living

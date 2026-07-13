@@ -2,10 +2,12 @@
 iso: llg
 name: Lole
 autonym: Central Rote
-alt_names: ["Ba'a", Baä, Loleh, Rote, Rote Tengah, Roti, Rotinese]
+alt_names: ["Ba'a", Baä, Loleh, Rote, Rote Tengah, Roti, Rotinese, Ba’a, Rote Lole, North Lole, South Lole]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Central Malayo-Polynesian language of Roti Island
 status_id: 6a
 scope: individual
 language_type: living

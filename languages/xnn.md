@@ -2,15 +2,18 @@
 iso: xnn
 name: Northern Kankanay
 autonym: "Kankana-ey"
-alt_names: ["Kankanay, Northern", Sagada Igorot, Western Bontoc]
+alt_names: ["Kankanay, Northern", Sagada Igorot, Western Bontoc, Kataugnan]
 population: 94100
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.10573
 longitude: 120.78649
+language_map_img: 500px-Greater_Kankanaey_language_map.webp
 glottocode: nort2877
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -53,3 +56,4 @@ translations:
     name: 北坎卡纳语
     auto: true
 ---
+Kankanaey, also spelled Kankana-ey or Kankanaëy, is a South-Central Cordilleran language under the Austronesian family spoken on the island of Luzon in the Philippines primarily by the Kankanaey people. Alternate names for the language include Central Kankanaey, Kankanai, and Kankanay. It is widely used by Cordillerans, alongside Ilocano, specifically people from Mountain Province and people from the northern part of the Benguet Province. Kankanaey has a slight mutual intelligibility with the Ilocano language.

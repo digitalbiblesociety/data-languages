@@ -6,6 +6,7 @@ alt_names: [Ichiwanda, Kiwanda, Vanda, Wandia]
 population: 24000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6b
 scope: individual
 language_type: living

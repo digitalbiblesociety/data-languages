@@ -6,6 +6,8 @@ alt_names: ["'Everard Range Tribe'", "'Everard Range Tribe’", Alinjera, Ankund
 population: 600
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living

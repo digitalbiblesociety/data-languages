@@ -2,10 +2,12 @@
 iso: uuu
 name: U
 autonym: Pouma
-alt_names: [Angku, "P'uman", Puman, Āng-kú]
+alt_names: [Angku, "P'uman", Puman, Āng-kú, "A'erwa", A’erwa, Awa Blang, P’uman, Wa, Wu, Wu Blang]
 population: 30000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Austroasiatic language spoken in Yunnan, China"
 status_id: "7"
 scope: individual
 language_type: living

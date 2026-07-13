@@ -2,10 +2,12 @@
 iso: mix
 name: Mixtepec Mixtec
 autonym: (San Juan Mixtepec)
-alt_names: [Eastern Juxtlahuaca Mixtec, "Mixtec, Mixtepec", Mixteco de Oeste Central, Mixteco de San Juan Mixtepec, Northern Misteko, Northern Mixteco]
+alt_names: [Eastern Juxtlahuaca Mixtec, "Mixtec, Mixtepec", Mixteco de Oeste Central, Mixteco de San Juan Mixtepec, Northern Misteko, Northern Mixteco, Mixteco del Este de Juxtlahuaca]
 population: 2500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixtec language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living

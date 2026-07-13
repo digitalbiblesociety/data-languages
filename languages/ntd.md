@@ -6,6 +6,7 @@ alt_names: ["Tidung, Northern"]
 population: 20000
 country_id: MY
 country_name: Malaysia
+area: Sabahan language
 status_id: null
 scope: individual
 language_type: living

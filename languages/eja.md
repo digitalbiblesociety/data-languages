@@ -2,10 +2,12 @@
 iso: eja
 name: Ejamat
 autonym: "Jola-Felupe"
-alt_names: [Ediamat, Eyamat, Feloup, Felup, Felupe, Floup, Flup, Fulup]
+alt_names: [Ediamat, Eyamat, Feloup, Felup, Felupe, Floup, Flup, Fulup, Djola-Felupe]
 population: 8230
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Jola language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

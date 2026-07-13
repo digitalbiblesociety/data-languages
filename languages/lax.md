@@ -6,11 +6,14 @@ alt_names: [Dowyan, Tigua]
 population: 171000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tibeto-Burman language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 26.06675
 longitude: 92.25834
+language_map_img: 500px-Tiwa.Map.webp
 glottocode: tiwa1253
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

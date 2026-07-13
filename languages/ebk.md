@@ -3,10 +3,12 @@ iso: ebk
 macrolanguage_id: bnc
 name: Eastern Bontok
 autonym: Finallig
-alt_names: ["Bontok, Eastern"]
+alt_names: ["Bontok, Eastern", Eastern Bontoc, Kinajakran, Liniyas, Southern Bontoc]
 population: 6170
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Bontok language of the Philippines
 status_id: "5"
 scope: individual
 language_type: living

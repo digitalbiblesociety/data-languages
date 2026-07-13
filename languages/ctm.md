@@ -6,11 +6,13 @@ alt_names: [Chatimacha, Chetimacha, Chitimacha Cluster, Chitimachan, Shetimacha,
 population: null
 country_id: US
 country_name: United States
+area: "Language isolate of southern Louisiana, US"
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 30.33861
 longitude: -90.91232
+language_map_img: 500px-Chitimacha_lang.webp
 glottocode: chit1248
 wikidata_id: Q1294227
 wikipedia_url: "https://en.wikipedia.org/wiki/Chitimacha_language"

@@ -2,15 +2,18 @@
 iso: kai
 name: Karekare
 autonym: Karai Karai
-alt_names: [Karaikarai, Kerekere, Kerrikerri]
+alt_names: [Karaikarai, Kerekere, Kerrikerri, Birkai, Jalalam, Karai-Karai, Kwarta Mataci, West Karekare]
 population: 366000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Nigerian language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 12.5176
 longitude: 10.87324
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
 glottocode: kare1348
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

@@ -2,10 +2,12 @@
 iso: ogo
 name: Khana
 autonym: Ogoni
-alt_names: [Kana]
+alt_names: [Kana, Babbe, Boúe, Ken-Khana, Norkhana, Nyo-Kana, Yeghe]
 population: 413000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ogoni language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Limba, Yumba]
 population: 4700
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Niger-Congo language of Sierra Leone and Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: GN
     location: Guinea
 ---
+The Limba language, Hulimba, is a Niger–Congo language of Sierra Leone and Guinea. It is not closely related to other languages and appears to form its own branch of the Atlantic–Congo family. Dialects include Tonko, Sela, Kamuke, Wara-wara, Keleng, Biriwa, and Safroko. The eastern variety, spoken primarily in Guinea, is quite distinct. Limba has a system of noun classes, marked by an old, eroded set of prefixes augmented by a newer set of enclitics.

@@ -2,15 +2,18 @@
 iso: var
 name: Huarijio
 autonym: Varihío
-alt_names: [Guarijío, Guarijío del norte, Guarijío du nord, Huarijío, Huaríjo, Maculai, Maculái, Macurawe, Macurái, Varijío, Varohio, Vorijío, Warihío, Warijiyo]
+alt_names: [Guarijío, Guarijío del norte, Guarijío du nord, Huarijío, Huaríjo, Maculai, Maculái, Macurawe, Macurái, Varijío, Varohio, Vorijío, Warihío, Warijiyo, Highland Guarijío, Sonora Huarijío, Lowland Huarijío, Makurawe, Warihó, Warijio]
 population: 1207
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.86854
 longitude: -108.43724
+language_map_img: Chihuahua_Etnias_Autoctonas.webp
 glottocode: huar1255
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

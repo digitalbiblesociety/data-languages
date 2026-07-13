@@ -2,10 +2,12 @@
 iso: bfa
 name: Bari
 autonym: Karo
-alt_names: [Beri, Kuku, Kuku (Bari), Kukú, Kukú (d. of Bari), Nil-Bari]
+alt_names: [Beri, Kuku, Kuku (Bari), Kukú, Kukú (d. of Bari), Nil-Bari, Fadjulu, Fajelu, Fajulu, Liggo, Ligo, Madi, Mandari, Mondari, Mundari, Ngyepu, Nyambara, Nyangbara, Nyangwara, Nyefu, Nyepo, Nyepu, Nypho, Pajulu, Pöjulu]
 population: 766000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Nilotic language spoken in South Sudan and Uganda
 status_id: "3"
 scope: individual
 language_type: living

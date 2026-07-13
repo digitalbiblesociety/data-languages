@@ -6,6 +6,8 @@ alt_names: [Aipki, Biksi, Kimgi, Sukubatong]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Pauwasi language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

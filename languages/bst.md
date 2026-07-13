@@ -2,10 +2,12 @@
 iso: bst
 name: Basketo
 autonym: Baskatta
-alt_names: [Basketto, Mesketo]
+alt_names: [Basketto, Mesketo, Basketo-Dokka, Misketto]
 population: 92600
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

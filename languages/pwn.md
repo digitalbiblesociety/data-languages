@@ -6,11 +6,14 @@ alt_names: [Butanglu, Kadas, Kale-Whan, Kapiangan, Katausan, Kulalao dialect, Li
 population: 103000
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 22.32714
 longitude: 120.80566
+language_map_img: 500px-Formosan_languages_2005.webp
 glottocode: paiw1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

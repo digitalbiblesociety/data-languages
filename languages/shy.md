@@ -2,15 +2,18 @@
 iso: shy
 name: Tachawit
 autonym: Chaouïa
-alt_names: [Aurès (Ait Frah), Awras, Awrās, Berber (Chaouia), Chaoui, Chaouia, Chaouia language, Chawi, Chawiyek, Shaui, Shawia, Shawiya, Tacawit, Xawia, Šavija]
+alt_names: [Aurès (Ait Frah), Awras, Awrās, Berber (Chaouia), Chaoui, Chaouia, Chaouia language, Chawi, Chawiyek, Shaui, Shawia, Shawiya, Tacawit, Xawia, Šavija, Aurès]
 population: 2300000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Zenati Berber language spoken in Algeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 35.18674
 longitude: 6.88901
+language_map_img: 500px-Shawiya_dialects.webp
 glottocode: tach1249
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

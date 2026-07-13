@@ -6,6 +6,8 @@ alt_names: [Ahuaqué, Aoaqui, Aroutanieg, Arutaní, Auake, Auaké, Auaqué, Awak
 population: 5
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Near-extinct indigenous language of Brazil and Venezuela
 status_id: 8b
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Arunamese
 population: null
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Language of Arunachal Pradesh, India"
 status_id: 8b
 scope: individual
 language_type: living

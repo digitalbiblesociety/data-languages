@@ -2,15 +2,18 @@
 iso: kmd
 name: Majukayang Kalinga
 autonym: Kalinga
-alt_names: ["Kalinga, Madukayang", "Kalinga, Majukayang", Majukayong]
+alt_names: ["Kalinga, Madukayang", "Kalinga, Majukayang", Majukayong, Madukayang Kalinga]
 population: 1500
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.17939
 longitude: 121.23579
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: madu1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -59,3 +62,4 @@ rolv_dialects:
     country_id: AU
     location: "Australia, Tasmania, New Norfolk"
 ---
+Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Kalinga people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.

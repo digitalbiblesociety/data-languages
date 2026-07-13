@@ -2,10 +2,12 @@
 iso: ssk
 name: Sunam
 autonym: Central Kinnauri
-alt_names: [Kanāwri, Sangnaur, Sungam, Sungnam, Thebarshad, Thebor, Thebör Skadd]
+alt_names: [Kanāwri, Sangnaur, Sungam, Sungnam, Thebarshad, Thebor, Thebör Skadd, Sunnam]
 population: 560
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language of India
 status_id: 6a
 scope: individual
 language_type: living

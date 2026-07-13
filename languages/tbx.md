@@ -2,10 +2,12 @@
 iso: tbx
 name: Kapin
 autonym: Katumene
-alt_names: [Sambio, Taiak, Tayek]
+alt_names: [Sambio, Taiak, Tayek, Nambei nyon]
 population: 2350
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Oceanic language
 status_id: 6a
 scope: individual
 language_type: living

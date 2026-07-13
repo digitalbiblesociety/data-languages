@@ -2,10 +2,12 @@
 iso: urh
 name: Urhobo
 autonym: Sobo
-alt_names: ["\"Sobo\""]
+alt_names: ["\"Sobo\"", “Sobo”, Agbarho, Agbon, Biotu, Udu, Ujevwe]
 population: 1050000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: South-Western Edoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

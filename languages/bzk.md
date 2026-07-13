@@ -6,6 +6,8 @@ alt_names: ["Creole English, Nicaragua", Miskito Coast Creole (MCC), Nicaraguan 
 population: 18400
 country_id: NI
 country_name: Nicaragua
+location: Nicaragua
+area: English-based creole of Nicaragua
 status_id: "5"
 scope: individual
 language_type: living

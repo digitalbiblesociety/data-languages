@@ -6,6 +6,8 @@ alt_names: [Hoche, Hol-Chih, Olch, Olcha, Olchis, Olča, Oultche, Oultcheg, "Ul'
 population: 730
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Tungusic language of far eastern Russia
 status_id: 8a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Mexicano, Nahuatl, Nahuatl (Pochutla), Pochuteeks, Pochutekisk, Poch
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Nahuan language
 status_id: null
 scope: individual
 language_type: extinct

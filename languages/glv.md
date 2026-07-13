@@ -7,6 +7,7 @@ alt_names: [Gadhelisch, Gaeilge Mhanann, Gaelg, Gailck, Gaèlic manx, Gaèlico m
 population: 1660
 country_id: IM
 country_name: Isle of Man
+area: Goidelic Celtic language of the Isle of Man
 status_id: 8b
 scope: individual
 language_type: living

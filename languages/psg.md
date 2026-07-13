@@ -5,6 +5,7 @@ autonym: Bahasa Isyarat Pulau Pinang
 population: 1000
 country_id: MY
 country_name: Malaysia
+area: Deaf sign language of Malaysia
 status_id: 8a
 scope: individual
 language_type: living

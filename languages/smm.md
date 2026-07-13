@@ -6,6 +6,7 @@ alt_names: [Rishaidep]
 population: 172434
 country_id: NP
 country_name: Nepal
+area: Indo-Aryan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

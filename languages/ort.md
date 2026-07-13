@@ -2,10 +2,12 @@
 iso: ort
 name: Adivasi Oriya
 autonym: ଓଡ଼ିଆ
-alt_names: [Adiwasi Oriya, Kotia Oriya, Kotiya, Oriya, Oriya (Adivasi), Oriya (Kotia), "Oriya, Adivasi", Southern Oriya, Tribal Oriya]
+alt_names: [Adiwasi Oriya, Kotia Oriya, Kotiya, Oriya, Oriya (Adivasi), Oriya (Kotia), "Oriya, Adivasi", Southern Oriya, Tribal Oriya, Adivasi, Desiya, Kotia]
 population: 200000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language variety of India
 status_id: "5"
 scope: individual
 language_type: living
@@ -72,3 +74,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Andhra Pradesh, Vishakapatnam"
 ---
+Desia, also known as Desiya, Kotia, Adivasi Odia, Desia Odia or Koraputia, is an Indo-Aryan language variety of Odia, spoken in Koraput, Nabarangpur, Rayagada, Malkangiri districts Odisha and in the hilly regions of Vishakhapatnam and Vizianagaram districts of Andhra Pradesh. The variant spoken in Koraput is called Koraputia.

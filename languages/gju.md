@@ -3,10 +3,12 @@ iso: gju
 macrolanguage_id: raj
 name: Gujari
 autonym: Gojri
-alt_names: [Gogri, Gojari, Gujar, Gujer, Gujjari, Gujuri, Gujuri Rajasthani, Gurjar, Kashmir Gujuri, Rajasthani Gujuri, كجري]
+alt_names: [Gogri, Gojari, Gujar, Gujer, Gujjari, Gujuri, Gujuri Rajasthani, Gurjar, Kashmir Gujuri, Rajasthani Gujuri, كجري, Hindki, Parimu]
 population: 1696000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Rajasthani language spoken by the Gujars
 status_id: "4"
 scope: individual
 language_type: living

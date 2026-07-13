@@ -5,6 +5,7 @@ autonym: Русский Жестовый Язык
 population: 5000
 country_id: MD
 country_name: Moldova
+area: Sign language of the deaf community in Russia
 status_id: 6a
 scope: individual
 language_type: living
@@ -50,3 +51,4 @@ translations:
     name: 摩尔多瓦手语
     auto: true
 ---
+Russian Sign Language is the sign language used by the Deaf community in Russia, with what is possibly additional presence in Belarus and Tajikistan. It belongs to the French Sign Language family.

@@ -2,10 +2,12 @@
 iso: "yes"
 name: Nyankpa
 autonym: Yeskwa
-alt_names: [Yasgua]
+alt_names: [Yasgua, Nyenkpa, Barde, Bede, Buzi, Ejira, Ejung, Engbe, Gitata, Ogbom, Panda, Tattara]
 population: 13000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

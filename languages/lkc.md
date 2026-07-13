@@ -6,6 +6,8 @@ alt_names: [Lahlu, Lahu, 苦聰話]
 population: 45400
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Loloish language of China and Vietnam
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Louxiur, Otuké, Otuque, Otuqui, Otuqué]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -15.26978
 longitude: -59.69859
+language_map_img: 500px-Jesuit_Missions_of_the_Chiquitos-en.webp
 glottocode: otuk1240
 glottolog_family_id: boro1281
 glottolog_family_name: Bororoan

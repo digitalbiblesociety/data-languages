@@ -45,3 +45,4 @@ translations:
     name: 古立陶宛语
     auto: true
 ---
+Lithuanian is an East Baltic language belonging to the Baltic branch of the Indo-European language family. It is the language of Lithuanians and the official language of Lithuania as well as one of the official languages of the European Union. There are approximately 2.8 million native Lithuanian speakers in Lithuania and about 1.5 million speakers elsewhere. Around half a million inhabitants of Lithuania of non-Lithuanian background speak Lithuanian daily as a second language.

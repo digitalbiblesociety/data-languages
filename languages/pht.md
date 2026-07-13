@@ -6,11 +6,14 @@ alt_names: [Phutai, Phuu Thai, Putai, Puthai]
 population: null
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Southwestern Tai language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.754497
 longitude: 104.684233
+language_map_img: 500px-Phu_Thai_map.webp
 glottocode: phut1244
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

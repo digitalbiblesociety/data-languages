@@ -2,10 +2,12 @@
 iso: cja
 name: Western Cham
 autonym: Cambodian Cham
-alt_names: [Cambodian, Cham, Cham (West), Cham (Western), "Cham de l'ouest", "Cham, Western", Chamo occidental, Chiem, New Cham, Tjam]
+alt_names: [Cambodian, Cham, Cham (West), Cham (Western), "Cham de l'ouest", "Cham, Western", Chamo occidental, Chiem, New Cham, Tjam, Cam, Khmer Islam, Tscham, Tsiam]
 population: 291000
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austronesian language of Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living

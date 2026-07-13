@@ -2,10 +2,12 @@
 iso: rnd
 name: Ruund
 autonym: Chiluwunda
-alt_names: [Chilu Wunda, Lunda Kambove, Lunda-Kamboro, Luunda, Luwunda, Muatiamvua, Northern Lunda, Uruund]
+alt_names: [Chilu Wunda, Lunda Kambove, Lunda-Kamboro, Luunda, Luwunda, Muatiamvua, Northern Lunda, Uruund, Kilunda, Kiluunda, Ru-unda, Ruwund]
 population: 251500
 country_id: CD
 country_name: DR Congo
+location: Angola
+area: Bantu language spoken in DR Congo and Angola
 status_id: "5"
 scope: individual
 language_type: living

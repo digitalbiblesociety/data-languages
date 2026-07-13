@@ -6,11 +6,13 @@ alt_names: [Youkaguire de la toundra, Yucaguiro de la tundra, Yukaghir Omok]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Yukaghir language of northeast Russia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 68.051787
 longitude: 162.958525
+language_map_img: Yukaghir_map.svg
 glottocode: yuka1240
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir

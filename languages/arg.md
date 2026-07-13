@@ -7,6 +7,8 @@ alt_names: [Altoaragonés, An Aragóinis, Aragoiera, Aragoieraz, Aragonais, Arag
 population: 11000
 country_id: ES
 country_name: Spain
+location: Portugal and Spain
+area: "Romance language of northern Aragon, Spain"
 status_id: 6b
 scope: individual
 language_type: living

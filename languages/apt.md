@@ -6,6 +6,8 @@ alt_names: [Apa, Apa Tani, Patan]
 population: 44800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tani language of India
 status_id: 6b
 scope: individual
 language_type: living

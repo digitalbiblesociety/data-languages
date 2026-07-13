@@ -6,6 +6,7 @@ alt_names: ["!Gora", "!Kora", "!Ora", Gorachouqua, Kora, Korana Hottentot, Koran
 population: null
 country_id: ZA
 country_name: South Africa
+area: Khoe language of South Africa
 status_id: "9"
 scope: individual
 language_type: extinct

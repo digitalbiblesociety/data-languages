@@ -3,15 +3,18 @@ iso: chv
 iso639_1: cv
 name: Chuvash
 autonym: CăvašlaÇovaşla
-alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى]
+alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى, Чӑвашла, Anatri, Viryal]
 population: 1079650
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Oghur Turkic language of Volga region
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 55.48701
 longitude: 47.16298
+language_map_img: Chuvash_Turkic_Language_distribution_map.webp
 scripts: [Cyrl]
 glottocode: chuv1255
 glottolog_family_id: turk1311

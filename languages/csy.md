@@ -6,6 +6,8 @@ alt_names: [Chin (North), Chin (Siyin), "Chin, Siyin", "Chin,Siyin", Shi-zang, S
 population: 10700
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language of Burma
 status_id: "5"
 scope: individual
 language_type: living

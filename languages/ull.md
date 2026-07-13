@@ -6,6 +6,7 @@ alt_names: [Katan, Kattalan, Kochuvelan, Ulladan]
 population: 16741
 country_id: IN
 country_name: India
+area: Malayalamoid language of India
 status_id: "9"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Amdangeg, Andang, Andangti, Biltine, Mima, Mime, Mimi, Mimi1, Mimi2,
 population: 41100
 country_id: TD
 country_name: Chad
+location: Chad
+area: Nilo-Saharan language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.75283
 longitude: 20.89123
+language_map_img: Amdang_map.webp
 glottocode: amda1238
 glottolog_family_id: fura1235
 glottolog_family_name: Furan

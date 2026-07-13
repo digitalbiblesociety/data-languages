@@ -2,10 +2,12 @@
 iso: acz
 name: Acheron
 autonym: Aceron
-alt_names: [Achurun, Asheron, Garme]
+alt_names: [Achurun, Asheron, Garme, Eastern Acheron, Gandok, Garong, Gathuk, Western Acheron, Western Garame]
 population: 20000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: "Niger–Congo language of Kordofan, Sudan"
 status_id: "5"
 scope: individual
 language_type: living

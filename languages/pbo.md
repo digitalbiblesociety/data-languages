@@ -6,6 +6,8 @@ alt_names: [Oium, Papei, Pepel]
 population: 173500
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Bak language of Guinea-Bissau
 status_id: "5"
 scope: individual
 language_type: living

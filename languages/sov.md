@@ -2,10 +2,12 @@
 iso: sov
 name: Sonsorol
 autonym: Ramari Dongosaro
-alt_names: [Sonsorol-Tobi, Sonsorolais, Sonsorolese, Sonsorolese language, Сонсорол]
+alt_names: [Sonsorol-Tobi, Sonsorolais, Sonsorolese, Sonsorolese language, Сонсорол, Merir, Pulo Anna]
 population: 600
 country_id: PW
 country_name: Palau
+location: Palau
+area: Micronesian language spoken in Palau
 status_id: 6b
 scope: individual
 language_type: living

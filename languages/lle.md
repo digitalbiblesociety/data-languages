@@ -2,10 +2,12 @@
 iso: lle
 name: Lele
 autonym: "Elu-Kara"
-alt_names: [Admiralitäts-inseln, Hai, Lele, Lele Hai, Manus, Moanus, Usiai]
+alt_names: [Admiralitäts-inseln, Hai, Lele, Lele Hai, Manus, Moanus, Usiai, Sabon]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

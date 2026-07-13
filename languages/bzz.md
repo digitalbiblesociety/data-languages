@@ -6,6 +6,8 @@ alt_names: [Avande, Balegete, Belegete, Evand, Ovand, Ovande, Ovando]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: dno
 name: Ndrulo
 autonym: Northern Lendu
-alt_names: ["Lendu, Northern"]
+alt_names: ["Lendu, Northern", Ddradha, Ddraló, Ndralo]
 population: null
 country_id: CD
 country_name: DR Congo
+area: Central Sudanic language of the DR Congo and Uganda
 status_id: null
 scope: individual
 language_type: living

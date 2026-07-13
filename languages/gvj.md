@@ -6,6 +6,8 @@ alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Avá, Awá Guajá, Ay
 population: 370
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupi–Guarani language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

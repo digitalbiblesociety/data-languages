@@ -2,10 +2,12 @@
 iso: kjg
 name: Khmu
 autonym: "Kmhmu'"
-alt_names: [Cam Mu, Kamhmu, Kammu, Kamu, Kemu, Kha, Kha Cau, Kha Khmu, Khamu, Khamuk, Khmous, "Khmu'", "Khmu?", Khmus, Khomu, Kmhmu, Lao Terng, Luu, Mou, Mun Xen, Northern, Pouteng, Pu Thenh, Tenh, Theng, Thenh, Tsa Khmu, Xa Cau]
+alt_names: [Cam Mu, Kamhmu, Kammu, Kamu, Kemu, Kha, Kha Cau, Kha Khmu, Khamu, Khamuk, Khmous, "Khmu'", "Khmu?", Khmus, Khomu, Kmhmu, Lao Terng, Luu, Mou, Mun Xen, Northern, Pouteng, Pu Thenh, Tenh, Theng, Thenh, Tsa Khmu, Xa Cau, Khmu’, Chaman, Cwaa, Damai, Damailao, Damaile, Eastern Khmu, Hat, Kho Mu, Khroong, Krong, Kroong, Lao Kang, Lii, Luang Prabang, Lyy, Rok, Sayabury, Tmooy, U, Uu, Yuan]
 population: 803650
 country_id: LA
 country_name: Laos
+location: Southwestern China
+area: "Austroasiatic language spoken in Laos, Vietnam, Thailand and China"
 status_id: "5"
 scope: individual
 language_type: living

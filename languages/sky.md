@@ -5,6 +5,8 @@ autonym: Sikayana
 population: 730
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian language
 status_id: "7"
 scope: individual
 language_type: living

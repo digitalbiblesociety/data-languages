@@ -2,10 +2,12 @@
 iso: bsa
 name: Abinomn
 autonym: Foia
-alt_names: ["\"Baso\"", Abinomneg, Avinomen, Foja, Foya, Llingua Abinomn]
+alt_names: ["\"Baso\"", Abinomneg, Avinomen, Foja, Foya, Llingua Abinomn, “Baso”]
 population: 300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Endangered language of Indonesia
 status_id: 6a
 scope: individual
 language_type: living

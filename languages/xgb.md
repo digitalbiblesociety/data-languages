@@ -5,6 +5,7 @@ autonym: Gbĩ
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Extinct Mande language of Ivory Coast
 status_id: null
 scope: individual
 language_type: extinct

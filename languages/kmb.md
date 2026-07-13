@@ -2,10 +2,12 @@
 iso: kmb
 name: Kimbundu
 autonym: North Mbundu
-alt_names: [Dongo, Kimbundo, Kindongo, Loanda Mbundu, Loande, Luanda, Lunda, Mbundu, "N'bundo", Nbundu, Ndongo]
+alt_names: [Dongo, Kimbundo, Kindongo, Loanda Mbundu, Loande, Luanda, Lunda, Mbundu, "N'bundo", Nbundu, Ndongo, N’bundo, Ambaquista, Bambeiro, Ginga, Jinga, Kimbamba, Mbaka, Mbamba, Ngola, Njinga]
 population: 1700160
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language of northwest Angola
 status_id: "3"
 scope: individual
 language_type: living

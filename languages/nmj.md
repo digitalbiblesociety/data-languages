@@ -2,14 +2,18 @@
 iso: nmj
 name: Ngombe
 autonym: Ngombe
+alt_names: [Bagando-Ngombe, Bangando-Ngombe, Ngombe-Kaka]
 population: 1450
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Savannas language spoken in Cameroon
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 3.90658
 longitude: 15.21537
+glottocode: ngom1265
 wikidata_id: Q3913949
 wikipedia_url: "https://en.wikipedia.org/wiki/Ngombe_language_(Central_African_Republic)"
 translations:

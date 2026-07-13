@@ -2,10 +2,12 @@
 iso: ksf
 name: Bafia
 autonym: Bafia
-alt_names: [Bekpak, Rikpa, "Rikpa'", Ripey]
+alt_names: [Bekpak, Rikpa, "Rikpa'", Ripey, Rikpa’, Bape, Kpa]
 population: 60000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

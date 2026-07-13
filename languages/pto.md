@@ -6,6 +6,8 @@ alt_names: [Buré, "Jo'é", Poturujara, Poturú, Putur, Tupí of Cuminapanema, "
 population: 150
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Tupian language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

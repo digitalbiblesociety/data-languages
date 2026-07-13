@@ -6,6 +6,8 @@ alt_names: [Emwae, Mae, Mai, Makatea, Mwae]
 population: 400
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Polynesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

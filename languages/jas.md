@@ -6,6 +6,8 @@ alt_names: ["Javanese, New Caledonian", New Caledonia]
 population: 6750
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language
 status_id: "7"
 scope: individual
 language_type: living

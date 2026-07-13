@@ -2,10 +2,12 @@
 iso: mcd
 name: Sharanahua
 autonym: Yaminahua
-alt_names: [Marinahua, Mastanahua, Parquenahua, Sharanawa]
+alt_names: [Marinahua, Mastanahua, Parquenahua, Sharanawa, Acre Arara, Arara Shawãdawa, Arara do Acre, Chandinahua, Marinawa, Sharanahuan tsain, Shawanauá]
 population: 499
 country_id: PE
 country_name: Peru
+location: Western Central Brazil
+area: Panoan language of western Amazonia
 status_id: "5"
 scope: individual
 language_type: living

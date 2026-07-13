@@ -6,6 +6,8 @@ alt_names: [Chicao, Chikaon, Ikpéng, Tonore, Tunuli, Txicão, Txikao, Txikân, 
 population: 320
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Cariban language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Korochí]
 population: 180
 country_id: IR
 country_name: Iran
+area: Balochi dialect of Iran
 status_id: 8b
 scope: individual
 language_type: living

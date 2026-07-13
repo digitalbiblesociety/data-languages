@@ -2,10 +2,12 @@
 iso: anl
 name: "Anu-Hkongso Chin"
 autonym: "Anu "
-alt_names: [Añú, "Chin, Anu-Hkongso"]
+alt_names: [Añú, "Chin, Anu-Hkongso", Kaungso, Hkongso, Kaungtso, Khaungtso, Khawngso, Khong, Khongso, "No"]
 population: 4000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Myanmar
 status_id: 6b
 scope: individual
 language_type: living

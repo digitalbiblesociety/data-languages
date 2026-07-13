@@ -6,6 +6,8 @@ alt_names: [Fessoa, Lugagon, Neu-Mecklenburg]
 population: 5140
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

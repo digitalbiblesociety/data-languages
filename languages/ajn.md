@@ -2,9 +2,11 @@
 iso: ajn
 name: Andajin
 autonym: Eastern Worrorran
+alt_names: [Andidja]
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal Australian language of northern Western Australia
 status_id: 8b
 scope: individual
 language_type: living
@@ -45,3 +47,4 @@ translations:
     name: 安达金语
     auto: true
 ---
+The Ngarinyin language, also known as Ungarinjin and Eastern Worrorran, is an endangered Australian Aboriginal language of the Kimberley region of Western Australia spoken by the Ngarinyin people.

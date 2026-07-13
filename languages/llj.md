@@ -5,6 +5,7 @@ autonym: Acaxee
 population: 10
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

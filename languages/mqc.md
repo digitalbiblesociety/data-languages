@@ -2,14 +2,18 @@
 iso: mqc
 name: Mangole
 autonym: Mangoli
+alt_names: [Sula Mangoli]
 population: 7280
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.87941
 longitude: 125.82233
+glottocode: mang1408
 wikidata_id: Q6749097
 wikipedia_url: "https://en.wikipedia.org/wiki/Mangole_language"
 translations:

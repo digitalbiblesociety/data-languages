@@ -2,15 +2,18 @@
 iso: nmg
 name: Kwasio
 autonym: " Kola"
-alt_names: [Bisio, Bisiwo, Bissio, Bujeba, Kwassio, Mabea, Mabi, Mgoumba, Mvumbo, Ngoumba, Ngoumbeg, Ngumba, Ngumbum]
+alt_names: [Bisio, Bisiwo, Bissio, Bujeba, Kwassio, Mabea, Mabi, Mgoumba, Mvumbo, Ngoumba, Ngoumbeg, Ngumba, Ngumbum, Bisió, Magbea, Mekuk]
 population: 17500
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language of southern Cameroon and Equatorial Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 2.393545
 longitude: 10.081245
+language_map_img: Gyelimap.svg
 scripts: [Latn]
 glottocode: kwas1243
 glottolog_family_id: atla1278

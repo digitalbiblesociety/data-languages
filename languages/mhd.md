@@ -2,10 +2,12 @@
 iso: mhd
 name: Mbugu
 autonym: Maʼa
-alt_names: ["Inner Ma'á", Kibwyo, Kimbugu, "Ma'a", "Ma'á", Mbougou, Mbugu Inner Mbugu, "Mixed Ma'a/Mbugu", Wa Maathi, "Wama'a"]
+alt_names: ["Inner Ma'á", Kibwyo, Kimbugu, "Ma'a", "Ma'á", Mbougou, Mbugu Inner Mbugu, "Mixed Ma'a/Mbugu", Wa Maathi, "Wama'a", Ma’a, Wama’a, Inner Mbugu, Kibwayo, Kimaa, Mbugu cha kawaida, Mbugu cha ndani, Normal Mbugu, "Wa-Ma'a"]
 population: 32000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: "7"
 scope: individual
 language_type: living

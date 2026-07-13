@@ -6,11 +6,13 @@ alt_names: [Marawari, MarraaWarree, Maruwari, Moorawarree, Moorawarrie, Morewari
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -28.96178
 longitude: 146.54642
+language_map_img: 500px-Muruwari_language.webp
 glottocode: muru1266
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

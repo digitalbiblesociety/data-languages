@@ -6,6 +6,7 @@ alt_names: [Batava Berbicensis, Berbice, Berbice Dutch, Berbice Dutch Creole, Be
 population: null
 country_id: GY
 country_name: Guyana
+area: Extinct Dutch creole spoken Guyana
 status_id: "10"
 scope: individual
 language_type: extinct

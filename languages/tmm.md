@@ -6,11 +6,14 @@ alt_names: [Thanh, Táy Thanh]
 population: 20000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Southwestern Tai language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 19.66003
 longitude: 104.93267
+language_map_img: 500px-Tai_Thanh_language.webp
 glottocode: tait1248
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

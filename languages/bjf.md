@@ -6,6 +6,7 @@ alt_names: [Bijil Neo-Aramaic, Bijil neoaramejski, Central Jewish Neo-Aramaic, D
 population: 20
 country_id: IL
 country_name: Israel
+area: Modern Jewish Aramaic language
 status_id: 8b
 scope: individual
 language_type: living

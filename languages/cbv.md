@@ -2,15 +2,18 @@
 iso: cbv
 name: Cacua
 autonym: Kakua
-alt_names: [Bada, Bará, Báda, Cakua, Kakwa, Kakwa language, Kákwa, Macu de Cubeo, Macu de Desano, Macu de Guanano, Macú-Paraná, Wacara]
+alt_names: [Bada, Bará, Báda, Cakua, Kakwa, Kakwa language, Kákwa, Macu de Cubeo, Macu de Desano, Macu de Guanano, Macú-Paraná, Wacara, Macú-Paraná Cacua, Vaupés Cacua]
 population: 220
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Indigenous language of Colombia and Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.88778
 longitude: -69.56589
+language_map_img: Kakwa.webp
 glottocode: cacu1241
 glottolog_family_id: kaku1242
 glottolog_family_name: Kakua-Nukak

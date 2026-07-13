@@ -6,6 +6,8 @@ alt_names: [Bara, Boro, Bårå, Hill Kachari, Kachāri, Plains Kachari]
 population: 16000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Tibeto-Burman language of Assam, India"
 status_id: 6b
 scope: individual
 language_type: living

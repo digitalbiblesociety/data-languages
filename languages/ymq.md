@@ -6,6 +6,8 @@ alt_names: [Doka, Muji, "Muji, Qila", "Muji,Qila", Mujitsu, Phula, Phutsu, Phuzu
 population: 1500
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language cluster of China
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 基拉-穆吉语
     auto: true
 ---
+Muji or Muzi is a Loloish language cluster spoken by the Phula people of China. It is one of several such languages to go by the name Muji. Muji varieties are Northern Muji, Qila Muji, Southern Muji, and Bokha–Phuma.

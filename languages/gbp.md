@@ -3,10 +3,12 @@ iso: gbp
 macrolanguage_id: gba
 name: "Gbaya-Bossangoa"
 autonym: Gbaya de Bosangoa
-alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa]
+alt_names: [Gbaya, Gbaya of Borro, Gbaya of Bossangoa, Gbaya-Borro, Gbea, Gbeya, Gbeya Bossangoa, Gbeya-Bossangoa, Bossangoa, Gbabana, Gbäyä Bossangoa, Gbɛa, Gbɛya]
 population: 200000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -60,3 +62,4 @@ rolv_dialects:
     country_id: CF
     location: Central African Republic
 ---
+Gbeya is a Gbaya language of the Central African Republic. Ethnologue reports it may be mutually intelligible with Bozom.

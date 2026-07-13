@@ -6,11 +6,14 @@ alt_names: [Duan, Kotua, Quang Tin Katu]
 population: 12800
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.42987
 longitude: 108.0455
+language_map_img: 500px-Takua_language.webp
 glottocode: taku1254
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

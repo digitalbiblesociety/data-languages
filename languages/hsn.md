@@ -3,15 +3,18 @@ iso: hsn
 macrolanguage_id: zho
 name: Xiang Chinese
 autonym: Hunanese
-alt_names: ["Chinese, Xiang", "Chinese,Xiang", Hounaneg, Hsiang, Hunan, Xiang, Xiang Dialect Family, Xiang-kiina, Xiangish, Xiāng]
+alt_names: ["Chinese, Xiang", "Chinese,Xiang", Hounaneg, Hsiang, Hunan, Xiang, Xiang Dialect Family, Xiang-kiina, Xiangish, Xiāng, Changsha, Changyi, Jishou, Jishu, Jixu, Loudi, Luoshao, Shaoyang, Xupu, Yiyang]
 population: 37300000
 country_id: CN
 country_name: China
+location: Southern China
+area: Primary branch of Chinese spoken in southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.66847
 longitude: 111.47112
+language_map_img: hsn.webp
 scripts: [Hans]
 glottocode: xian1251
 glottolog_family_id: sino1245

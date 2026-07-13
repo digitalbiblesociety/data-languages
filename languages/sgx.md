@@ -5,6 +5,7 @@ autonym: Lenguaje de Señas Bolivianas LSB
 population: 39000
 country_id: SL
 country_name: Sierra Leone
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living

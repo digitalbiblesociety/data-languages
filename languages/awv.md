@@ -6,6 +6,8 @@ alt_names: ["Awyu, Jair"]
 population: 2300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living

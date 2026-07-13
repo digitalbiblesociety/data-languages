@@ -2,10 +2,12 @@
 iso: kia
 name: Kim
 autonym: Kim (Garab)
-alt_names: [Group 14, Kosop, Kuasap, Kwasap, Masa]
+alt_names: [Group 14, Kosop, Kuasap, Kwasap, Masa, Djouman, Garab, Garap, Gerep, Jumam, Kilop, Kolobo, Kolop, Éré]
 population: 15400
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Mbum language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

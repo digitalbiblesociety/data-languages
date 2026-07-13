@@ -2,10 +2,12 @@
 iso: alp
 name: Alune
 autonym: bahasa Alune
-alt_names: [Patasiwa Alfoeren, Sapalewa]
+alt_names: [Patasiwa Alfoeren, Sapalewa, Buriah-Weth-Laturake, Central East Alune, Central West Alune, Kairatu, Nikulkan-Murnaten-Wakolo, Niniari-Piru-Riring-Lumoli, North Coastal Alune, Rambatu-Manussa-Rumberu, South Alune]
 population: 17200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Austronesian language of Indonesia
 status_id: "5"
 scope: individual
 language_type: living

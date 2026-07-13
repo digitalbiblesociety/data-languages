@@ -2,10 +2,12 @@
 iso: ole
 name: Olekha
 autonym: " Monkha"
-alt_names: ["'Olekha", Black Mountain, Monpa, Ole Mönpa]
+alt_names: ["'Olekha", Black Mountain, Monpa, Ole Mönpa, Black Mountain Language]
 population: 1000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Sino-Tibetan language of western Bhutan
 status_id: 6b
 scope: individual
 language_type: living

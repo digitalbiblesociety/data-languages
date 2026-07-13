@@ -6,6 +6,8 @@ alt_names: [Jeli, Jeli Kuo, Jeri, Jeri.kuo]
 population: 1500
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in West Africa
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 杰里库奥语
     auto: true
 ---
+Jeri is a cover term for two Mande languages of northwestern Ivory Coast and southwestern Burkina Faso. The two had been thought until recently to be dialects of a single language, but they are now known to be clearly distinct. The Burkina language is Jalkunan, and the Ivory Coast language is Jeri Kuo. Jeri Kuo is spoken by people who traditionally constituted a caste-like minority within an otherwise mostly Senufo-speaking zone. The language is thought to be endangered, with 90% of ethnic Jeri having shifted to regionally dominant languages. The Jalkunan-speaking people of the Blédougou village cluster are not people of caste, although nearby villages of other ethnicities have entire sections populated by blacksmith and leatherworker castes. Jalkunan is being replaced by Jula (Dioula), but it is not immediately threatened by extinction.

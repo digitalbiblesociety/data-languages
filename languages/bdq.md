@@ -2,10 +2,12 @@
 iso: bdq
 name: Bahnar
 autonym: Bana
-alt_names: [Bənhàr, Plei Bong-Mang Yang]
+alt_names: [Bənhàr, Plei Bong-Mang Yang, A-La Cong, Alakong, Bahnar Bonom, Bomam, Gio-Lang, Golar, Jolong, Kontum, Krem, Tolo, Y-Lang]
 population: 228000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living

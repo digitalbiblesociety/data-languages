@@ -2,10 +2,12 @@
 iso: nqg
 name: Southern Nago
 autonym: Ede Nago
-alt_names: [Nago, "Nago, Southern", Nagot, Nagots]
+alt_names: [Nago, "Nago, Southern", Nagot, Nagots, Southern]
 population: 200000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南纳戈语
     auto: true
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

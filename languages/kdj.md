@@ -2,10 +2,12 @@
 iso: kdj
 name: Karamojong
 autonym: Karimojong
-alt_names: [Karimonjong]
+alt_names: [Karimonjong, Akarimojong, Bokora, Dodoth, Jie, Jiye, Matheniko, "N'Karamojong", Napore, "Ng'akaramojong", "Ng'akarimojong", Ngakarimojong, Ngakarimojongo, Pian, a-karamojoŋ, a-karimojoŋ, ŋaKaramojoŋ, ŋaKarimojoŋ]
 population: 691000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Eastern Nilotic language spoken in Uganda
 status_id: "5"
 scope: individual
 language_type: living

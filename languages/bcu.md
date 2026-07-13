@@ -2,10 +2,12 @@
 iso: bcu
 name: Awad Bing
 autonym: Biliau
-alt_names: [Awad Gey, Bing, Samang, Semang, Sengam]
+alt_names: [Awad Gey, Bing, Samang, Semang, Sengam, Amam, Galeg, Suit, Yamai, Yori]
 population: 1450
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ikw
 name: Ikwere
 autonym: null
-alt_names: [Ikwerre, Ikwerre language, Ikwerri]
+alt_names: [Ikwerre, Ikwerre language, Ikwerri, Akpo-Mgbu-Tolu, Aluu, Apani, Egbedna, Elele, Emowhua, Ibaa, Igwuruta, Ipo, Isiokpo, Ndele, Obio-Akpo, Ogbakiri, Omagwna, Omerelu, Omudioga, Rumuji, Ubima]
 population: 619000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ikwerre language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

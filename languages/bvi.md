@@ -2,10 +2,12 @@
 iso: bvi
 name: Belanda Viri
 autonym: Bviri
-alt_names: [Belanda, Biri, Gamba, Gumba, Mbegumba, Mvegumba, Viri]
+alt_names: [Belanda, Biri, Gamba, Gumba, Mbegumba, Mvegumba, Viri, BGamba]
 population: 16000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Ubangian language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living

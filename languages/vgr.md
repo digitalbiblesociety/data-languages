@@ -6,6 +6,7 @@ alt_names: [Salavta, Vaghri Koli]
 population: 10000
 country_id: PK
 country_name: Pakistan
+area: Indic language of Pakistan
 status_id: 6a
 scope: individual
 language_type: living

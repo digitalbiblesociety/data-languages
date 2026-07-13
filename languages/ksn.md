@@ -5,6 +5,8 @@ autonym: Casiguranin
 population: 10000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in Philippines
 status_id: 6a
 scope: individual
 language_type: living

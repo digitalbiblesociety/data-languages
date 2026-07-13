@@ -2,10 +2,12 @@
 iso: bkc
 name: Baka
 autonym: Babinga
-alt_names: ["\"Babinga\"", Baka, "Baka (East Region, Cameroon)", Baka (in Cameroon), Bayaga, Bayaka, Bebayaga, Bebayaka, Bibaya, Pygmee, "Pygmees de L'est", Pygmy-E]
+alt_names: ["\"Babinga\"", Baka, "Baka (East Region, Cameroon)", Baka (in Cameroon), Bayaga, Bayaka, Bebayaga, Bebayaka, Bibaya, Pygmee, "Pygmees de L'est", Pygmy-E, de L’est, Pygmees, Pygmées bakas (Région de lꞌEst du Cameroun)]
 population: 15000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Ubangian dialect cluster spoken by Baka pygmies of Cameroon and Gabon
 status_id: 6a
 scope: individual
 language_type: living

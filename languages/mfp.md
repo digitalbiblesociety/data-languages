@@ -2,15 +2,17 @@
 iso: mfp
 name: Makassar Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
-alt_names: [Indonesia, "Malay, Makassar"]
+alt_names: [Indonesia, "Malay, Makassar", Macassarese Malay]
 population: 950
 country_id: ID
 country_name: Indonesia
+area: Languages descended from Low Malay
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -5.16108
 longitude: 119.40752
+language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp
 glottocode: maka1305
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

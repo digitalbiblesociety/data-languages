@@ -6,6 +6,8 @@ alt_names: [Dahaloeg, Guo Garimani, Sanye]
 population: 400
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Endangered Cushitic language of Kenya
 status_id: "7"
 scope: individual
 language_type: living

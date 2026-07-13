@@ -6,6 +6,8 @@ alt_names: [Acahuara, Pacaguara, Pacawara, Pakaguara, Pakawara]
 population: null
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Panoan language
 status_id: 8a
 scope: individual
 language_type: living

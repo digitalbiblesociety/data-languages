@@ -6,6 +6,8 @@ alt_names: [Ta Sara]
 population: 13600
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Bongo–Bagirmi language of Chad and the CAR
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 萨拉卡巴语
     auto: true
 ---
+Kaba proper is a Bongo–Bagirmi language of Chad and the Central African Republic. It is one of several local languages that go by the names Kaba and Sara. There are three ISO codes, which Ethnologue acknowledges may be the same thing.

@@ -7,11 +7,14 @@ alt_names: [Arabic, "Arabic, Uzbeki", "Arabic, Uzbeki Spoken", Jugari, Kashkadar
 population: 700
 country_id: UZ
 country_name: Uzbekistan
+location: Turkmenistan and Uzbekistan
+area: Endangered Arabic languages of Central Asia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 40.26116
 longitude: 65.38644
+language_map_img: 500px-Central_Asian_Arabic_enclaves.webp
 glottocode: uzbe1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

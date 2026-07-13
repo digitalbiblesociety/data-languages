@@ -6,6 +6,8 @@ alt_names: [Gonḍi, Gōṇḍī, Pradhani]
 population: 347000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Gondi language of India
 status_id: 6b
 scope: individual
 language_type: living

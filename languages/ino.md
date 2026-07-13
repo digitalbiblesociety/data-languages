@@ -2,10 +2,12 @@
 iso: ino
 name: "Inoke-Yate"
 autonym: Yate
-alt_names: [Inoke, Yate Proper, Yatê]
+alt_names: [Inoke, Yate Proper, Yatê, Jate]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

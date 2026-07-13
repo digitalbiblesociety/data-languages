@@ -2,10 +2,11 @@
 iso: pov
 name: Upper Guinea Crioulo
 autonym: " purtuguis’kriolo’"
-alt_names: [Crioulo, Crioulo (Guinea Bissau), Crioulo da Guiné-Bissau, "Crioulo, Upper Guinea", Créole de Guinée-Bissau, Guine Crioulo, Guinea Bissau Crioulo, Guinea-Bissau Creole, Kiryol, Kriol, Kriulo, Portuguese Creole, Portuguese Guinea, Senegal]
+alt_names: [Crioulo, Crioulo (Guinea Bissau), Crioulo da Guiné-Bissau, "Crioulo, Upper Guinea", Créole de Guinée-Bissau, Guine Crioulo, Guinea Bissau Crioulo, Guinea-Bissau Creole, Kiryol, Kriol, Kriulo, Portuguese Creole, Portuguese Guinea, Senegal, Bafatá Creole, Bissau-Bolama Creole, Cacheu-Ziguinchor Creole, Casamançais, Créole afro-portugais de Casamance, Créole casamançais, Guinea-Bissau Kriyol, Kriyol]
 population: 319500
 country_id: GW
 country_name: "Guinea-Bissau"
+area: "Portuguese-based creole of Guinea-Bissau, Senegal and The Gambia"
 status_id: "5"
 scope: individual
 language_type: living

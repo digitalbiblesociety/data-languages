@@ -6,6 +6,7 @@ alt_names: [Muzgum]
 population: null
 country_id: TD
 country_name: Chad
+area: Extinct Biu–Mandara language of Chad
 status_id: "10"
 scope: individual
 language_type: extinct

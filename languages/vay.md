@@ -2,10 +2,12 @@
 iso: vay
 name: Wayu
 autonym: Hayu (हायु)
-alt_names: [Hayu, Vayu, Vāyu, Wayo]
+alt_names: [Hayu, Vayu, Vāyu, Wayo, Bayu]
 population: 1740
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Sino-Tibetan language
 status_id: "7"
 scope: individual
 language_type: living

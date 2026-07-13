@@ -2,15 +2,18 @@
 iso: hvn
 name: Sabu
 autonym: Sabu
-alt_names: [Havunese, Hawu, Savu, Savunese, Sawu, Sawunese]
+alt_names: [Havunese, Hawu, Savu, Savunese, Sawu, Sawunese, Dimu, Havu, Heba, Liae, Lii Hawu, Mehara, Mesara, Raidjua, Raijua, Seba, Timu]
 population: 110000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language of the Savu people in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -10.5522
 longitude: 121.84682
+language_map_img: 500px-Oost-NussaTenggara.webp
 glottocode: sabu1255
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

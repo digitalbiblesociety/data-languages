@@ -2,15 +2,18 @@
 iso: kek
 name: Kekchí
 autonym: Kekchi
-alt_names: ["Cacche'", Cachí (Guatemala), "K'ekchí", Kekch, "Kekchi'", Kekcxioj, "Ketchi'", "Q'eqchi", "Q'eqchi'", "Q'eqchi' language", "Q'eqchí simi", "Qeqchi'", Qeqchí, "Quecchi'", "Q’eqchi' (Belize)", "Q’eqchi' (Guatemala)", Кекчи]
+alt_names: ["Cacche'", Cachí (Guatemala), "K'ekchí", Kekch, "Kekchi'", Kekcxioj, "Ketchi'", "Q'eqchi", "Q'eqchi'", "Q'eqchi' language", "Q'eqchí simi", "Qeqchi'", Qeqchí, "Quecchi'", "Q’eqchi' (Belize)", "Q’eqchi' (Guatemala)", Кекчи, Cacche’, Kekchi’, Ketchi’, Quecchi’]
 population: 1147600
 country_id: GT
 country_name: Guatemala
+location: Belize
+area: Mayan language spoken in Guatemala and Belize
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 15.378797
 longitude: -89.24521
+language_map_img: 500px-Mayan_Language_Map.webp
 glottocode: kekc1242
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

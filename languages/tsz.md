@@ -2,15 +2,18 @@
 iso: tsz
 name: Purepecha
 autonym: Tarascan
-alt_names: [Phorhépecha, Porhé, Purépecha, Tarascan Isolate, Tarasco, Tarasko]
+alt_names: [Phorhépecha, Porhé, Purépecha, Tarascan Isolate, Tarasco, Tarasko, Eastern Lake Purepecha, Cienega de Zacapu, Cuanajo, Eastern or Lake Patzcuaro Purepecha, Ihuatzio, Isla Janitzio, "P'orhe", "P'orhepecha", "P'urhe", "P'urhepecha", Puacuaro, Purepecha (Eastern), Purépecha Oriental del Lago de Pátzcuaro, Purépecha de la Zona Lacustre, San Jerónimo]
 population: 55000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Indigenous language spoken in parts of Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 19.24665
 longitude: -101.6314
+language_map_img: Purepecha_map.svg
 glottocode: pure1242
 glottolog_family_id: tara1323
 glottolog_family_name: Tarascan

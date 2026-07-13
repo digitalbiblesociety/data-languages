@@ -2,10 +2,12 @@
 iso: cae
 name: Lehar
 autonym: Lala
-alt_names: [Laalaa]
+alt_names: [Laalaa, Serer]
 population: 12000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Cangin language spoken in Senegal
 status_id: 6a
 scope: individual
 language_type: living

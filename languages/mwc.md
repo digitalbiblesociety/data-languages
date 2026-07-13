@@ -6,6 +6,8 @@ alt_names: [Doga language]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

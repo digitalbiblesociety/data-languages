@@ -2,10 +2,12 @@
 iso: dka
 name: Dakpakha
 autonym: Tawang Monpa
-alt_names: [Dakpa]
+alt_names: [Dakpa, Drukpa]
 population: 1000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Bodish language spoken in Tibet and Bhutan
 status_id: 6a
 scope: individual
 language_type: living

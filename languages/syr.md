@@ -35,3 +35,4 @@ translations:
   - translation_iso: zho
     name: 叙利亚语
 ---
+The Syriac language, also known natively in its spoken form in early Syriac literature as Edessan, the Mesopotamian language and Aramaic, is an Eastern Middle Aramaic dialect. Classical Syriac is the academic term used to refer to the dialect's literary usage and standardization, distinguishing it from other Aramaic dialects also known as 'Syriac', 'Assyrian', or 'Syrian'. In its West-Syriac tradition, Classical Syriac is often known as leššōnō kṯoḇonōyō or simply kṯoḇonōyō, or kṯowonōyō, while in its East-Syriac tradition, it is known as leššānā ʔatīqā or saprāyā.

@@ -2,9 +2,11 @@
 iso: ukk
 name: "Muak Sa-aak"
 autonym: null
+alt_names: [Doi, Muak Saak, Muak See Aak]
 population: 4500
 country_id: CN
 country_name: China
+area: Angkuic language spoken in Burma and China
 status_id: null
 scope: individual
 language_type: living

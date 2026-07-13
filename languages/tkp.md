@@ -2,10 +2,12 @@
 iso: tkp
 name: Tikopia
 autonym: null
-alt_names: [Solomon Islands]
+alt_names: [Solomon Islands, Fakatikopia]
 population: 3320
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living

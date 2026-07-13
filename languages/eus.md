@@ -3,15 +3,18 @@ iso: eus
 iso639_1: eu
 name: Basque
 autonym: Euskara
-alt_names: [An Bhascais, Basc, Bascais, Bascish, Basgeg, Baskek, Baskiana linguo, Baskies, Baskijsko godka, Baskisch, Baskisk, Baskiska, Baskičtina, Baskneska, Basko, Baskysk, Baskça, Bidasoa Valley, Euskareg, Euskera, Gernica, Hondarribia, Lekeitio, Lenghe basche, Luenga vasca, Northern High Navarrese, Oñati, Roncalese, Sakana, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, central, Łéngua basca, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى]
+alt_names: [An Bhascais, Basc, Bascais, Bascish, Basgeg, Baskek, Baskiana linguo, Baskies, Baskijsko godka, Baskisch, Baskisk, Baskiska, Baskičtina, Baskneska, Basko, Baskysk, Baskça, Bidasoa Valley, Euskareg, Euskera, Gernica, Hondarribia, Lekeitio, Lenghe basche, Luenga vasca, Northern High Navarrese, Oñati, Roncalese, Sakana, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, central, Łéngua basca, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى, Alavan, Alto Navarro Meridional, Arabar euskalkia, Bajo Navarro Occidental, Bajo Navarro Oriental, Benaffarera, Biscayan, Eastern Low Navarrese, Eastern Navarrese, Ekialdeko nafarrera, Euska, Euskerie, Gipuzkera, Gipuzkoan, Guipuzcoan, Guipuzcoano, Hegoaldeko goi nafarrera, High Navarrese, Labourdin, Lapurdiera, Mendebaldeko euskalkia, Middle Basque, Nafar-lapurtera, Navarrese-Labourtan, Navarro-Labourdin, Souletin, Souletino, South High Navarrese, Suberoan, Suletino, Upper Navarran, Vizcaino, Western Basque, Western Low Navarrese, Xiberoera, Zuberera, Zuberoera]
 population: 537860
 country_id: ES
 country_name: Spain
+location: Andorra and France
+area: Language of the Basque people
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 43.27872
 longitude: -1.31622
+language_map_img: Euskalkiak.svg
 scripts: [Latn]
 glottocode: basq1248
 wikidata_id: Q8752

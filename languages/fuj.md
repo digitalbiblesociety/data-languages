@@ -6,6 +6,8 @@ alt_names: [Fungor, Fungur, Kau]
 population: 2680
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language spoken in Sudan
 status_id: 8b
 scope: individual
 language_type: living

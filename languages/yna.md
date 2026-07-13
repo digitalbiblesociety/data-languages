@@ -2,10 +2,12 @@
 iso: yna
 name: Aluo
 autonym: Naluo
-alt_names: [Ala, Gan Yi, Laka, Lila, Yala]
+alt_names: [Ala, Gan Yi, Laka, Lila, Yala, Niluo]
 population: 25000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China
 status_id: "7"
 scope: individual
 language_type: living

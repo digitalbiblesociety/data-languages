@@ -6,11 +6,13 @@ alt_names: [Occaneechi, Saponey, Saponi, Tutelo-Saponi-Monyton]
 population: null
 country_id: US
 country_name: United States
+area: Virginia Siouan language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 37.67
 longitude: -78.75
+language_map_img: 500px-Tutelo-Saponi_lang.webp
 glottocode: tute1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

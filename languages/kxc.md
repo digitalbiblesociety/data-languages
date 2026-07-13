@@ -2,10 +2,12 @@
 iso: kxc
 name: Konso
 autonym: Af Kareti
-alt_names: [Af-Kareti, Conso, Gato, Karate, Kareti, Khonso, Komso]
+alt_names: [Af-Kareti, Conso, Gato, Karate, Kareti, Khonso, Komso, Afa Karatti, Duuro, Fasha, Karatti, Kholme]
 population: 243300
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Cushitic language spoken in southwestern Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

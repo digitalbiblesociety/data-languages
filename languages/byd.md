@@ -2,10 +2,12 @@
 iso: byd
 name: "Benyadu'"
 autonym: Benyadu’
-alt_names: [Balantian, Balantiang, Njadu, Nyadu]
+alt_names: [Balantian, Balantiang, Njadu, Nyadu, Balangin]
 population: 54000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: kab
 name: Kabyle
 autonym: Taqbaylit
-alt_names: [Berberice, Kabilies, Kabyl, Kabylia, Kabylisch, Kabylsk, Tamazight, قبائلی, لهجة قبائلية]
+alt_names: [Berberice, Kabilies, Kabyl, Kabylia, Kabylisch, Kabylsk, Tamazight, قبائلی, لهجة قبائلية, Amazigh, Greater Kabyle, Lesser Kabyle, Tasahlit]
 population: 6819200
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Berber language of northern Algeria
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 36.41025
 longitude: 4.76137
+language_map_img: kab.svg
 scripts: [Latn]
 glottocode: kaby1243
 glottolog_family_id: afro1255

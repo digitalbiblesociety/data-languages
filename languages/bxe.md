@@ -2,10 +2,12 @@
 iso: bxe
 name: Birale
 autonym: Birale
-alt_names: ["\"Shanqilla\"", "'Ongota", Birelle, "Ifa'ongota", Ongota, Ongota language]
+alt_names: ["\"Shanqilla\"", "'Ongota", Birelle, "Ifa'ongota", Ongota, Ongota language, “Birale”, “Birelle”, “Shanqilla”, Ifa]
 population: 12
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Moribund unclassified language of Ethiopia
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Brasiliano, Brasilica, Classical Tupí, Colonial Tupí, Colonial/Cla
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Tupian language native to the indigenous peoples of southeastern Brazil
 status_id: null
 scope: individual
 language_type: extinct

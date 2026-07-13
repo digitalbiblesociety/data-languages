@@ -2,10 +2,12 @@
 iso: bea
 name: Beaver
 autonym: ᑕᓀᖚ ᖚᗀᐥ
-alt_names: [Castor, Dane-Zaa (Beaver), Dane-zaa Záágéʔ, Dunne-za, dʌnneza, ᑕᓀ ᖚ]
+alt_names: [Castor, Dane-Zaa (Beaver), Dane-zaa Záágéʔ, Dunne-za, dʌnneza, ᑕᓀ ᖚ, Dane Zaa, Dane-zaa, Dane-zaa Záágé, Danezaa, Dunneza]
 population: 1560
 country_id: CA
 country_name: Canada
+location: Canada
+area: Athabaskan language of western Canada
 status_id: 8a
 scope: individual
 language_type: living

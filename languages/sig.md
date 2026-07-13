@@ -2,10 +2,12 @@
 iso: sig
 name: Paasaal
 autonym: Southern Sisaala
-alt_names: [Funsile, Pasaale, Pasaale Sisaala]
+alt_names: [Funsile, Pasaale, Pasaale Sisaala, Gilbagala, Pasaali]
 population: 53000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

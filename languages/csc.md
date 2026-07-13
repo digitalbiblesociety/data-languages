@@ -2,10 +2,11 @@
 iso: csc
 name: Catalan Sign Language
 autonym: Llengua de signes catalana
-alt_names: [Kataluna signolingvo]
+alt_names: [Kataluna signolingvo, Catalana, Catalonian Sign Language, Lengua de Señas Catalana, Llengua de Signes, LSC, Signos Catalana, Lengua de Signos Catalana]
 population: 25000
 country_id: ES
 country_name: Spain
+area: Sign language of Catalonia
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Busillu Sisala, Hissala, Isala, Issala, Sisaala, "Sisaala, Western",
 population: 30000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language cluster spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西锡萨拉语
     auto: true
 ---
+Sisaala (Sissala) is a Gur language cluster spoken in northern Ghana near the town of Tumu and in the neighbouring republic of Burkina Faso. Western Sisaala is intermediate between Sisaali and Tumulung Sisaala.

@@ -2,15 +2,18 @@
 iso: byh
 name: Bhujel
 autonym: Bujhyal
-alt_names: [Bujal, Bujhel, Chepang, Gharti, Western Chepang]
+alt_names: [Bujal, Bujhel, Chepang, Gharti, Western Chepang, “Gharti”, Bujheli, Pukhgyal Ngur]
 population: 3900
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Chepangic language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 28.00836
 longitude: 84.50684
+language_map_img: 500px-Tanahun_Gandaki_locator.webp
 glottocode: bujh1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

@@ -6,6 +6,8 @@ alt_names: [Argoba, Argobeg]
 population: 43700
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Semitic language spoken in northeastern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

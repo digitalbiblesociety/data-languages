@@ -6,11 +6,14 @@ alt_names: ["Al'utor", Alioutor, Aliutor, Aljoetoors, Aloutoreg, Alyutor, Alyuto
 population: 100
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: "Chukotkan language of Kamchatka, Russia"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 60.38443
 longitude: 165.65285
+language_map_img: Chukotko-Kamchatkan_map.svg
 glottocode: alut1245
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan

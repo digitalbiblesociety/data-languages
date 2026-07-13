@@ -2,10 +2,12 @@
 iso: lir
 name: Liberian English
 autonym: Liberian Pidgin English
-alt_names: ["English, Liberian"]
+alt_names: ["English, Liberian", Kreyol, Kru Pidgin English]
 population: 113000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: English-based Kolokwa language
 status_id: "3"
 scope: individual
 language_type: living

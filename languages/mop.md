@@ -6,6 +6,8 @@ alt_names: [Maya, Maya Mopán, Maya mopan, Mopan, Mopan Maya, Mopan language, Mo
 population: 12610
 country_id: BZ
 country_name: Belize
+location: Belize
+area: Mayan language spoken in Belize and Guatemala
 status_id: "5"
 scope: individual
 language_type: living

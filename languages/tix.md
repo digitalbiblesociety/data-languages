@@ -2,15 +2,18 @@
 iso: tix
 name: Southern Tiwa
 autonym: "Tiwa, Southern"
-alt_names: [Isleta, Isleta-Sandia, S Tiwa, S. Tiwa, Tiwa, Tiwa (Southern), Tiwa meridional (Sandía), Tiwa méridional (Pueblo Isleta), Tiwa méridional (Pueblo Sandia)]
+alt_names: [Isleta, Isleta-Sandia, S Tiwa, S. Tiwa, Tiwa, Tiwa (Southern), Tiwa meridional (Sandía), Tiwa méridional (Pueblo Isleta), Tiwa méridional (Pueblo Sandia), Southern, Isleta Pueblo, Sandia]
 population: 1600
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: North American aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 34.7873
 longitude: -106.66059
+language_map_img: Pueblo_Tanoan_map.svg
 glottocode: sout2961
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan

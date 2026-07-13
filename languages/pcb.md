@@ -6,11 +6,14 @@ alt_names: [Kompong Thom, Pear of Kompong Thom, Pãr]
 population: 1670
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language of Cambodia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 13.593
 longitude: 105.02774
+language_map_img: 500px-Pear_language.webp
 glottocode: pear1247
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

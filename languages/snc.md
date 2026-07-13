@@ -2,10 +2,12 @@
 iso: snc
 name: Sinaugoro
 autonym: null
-alt_names: [Balawaia, Saroa, Sinagoro]
+alt_names: [Balawaia, Saroa, Sinagoro, Alepa, Babagarupu, Boku, Buaga, Ikega, Ikolu, Kubuli, Kwaibida, Kwaibo, Omene, Oruone, Taboro, Tubulamo, Vora, Wiga]
 population: 18000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

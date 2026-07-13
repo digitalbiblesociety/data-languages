@@ -6,6 +6,8 @@ alt_names: [Bayano, Culmí, Culmí dialect, Pechí, Seco, Taia, Towka]
 population: 2586
 country_id: HN
 country_name: Honduras
+location: El Salvador and Honduras
+area: Chibchan language of Honduras
 status_id: 8a
 scope: individual
 language_type: living

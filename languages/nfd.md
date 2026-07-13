@@ -6,6 +6,8 @@ alt_names: [Hanyeng, Indun, Isakara, Nandu, Ndun, Ningon, Nyeng, Shakara, Tari]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Chopunnish, Nez-percé, Nez-percés, Nimipu, Numipu, Nuumiipuutimt, 
 population: 610
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Sahaptian language traditionally spoken in the Northwestern USA
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 46.30731
 longitude: -116.40787
+language_map_img: 500px-Plateau_Penutian_langs.webp
 glottocode: nezp1238
 glottolog_family_id: saha1239
 glottolog_family_name: Sahaptian

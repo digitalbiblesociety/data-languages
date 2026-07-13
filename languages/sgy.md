@@ -5,6 +5,8 @@ autonym: Dargi
 population: 2200
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Iranian language of Afghanistan and Tajikistan
 status_id: 6a
 scope: individual
 language_type: living

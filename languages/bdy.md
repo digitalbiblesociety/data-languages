@@ -6,11 +6,14 @@ alt_names: [Arakwal, Badjalang, Badjelang, Bandjalong, Bandjerang, Bogganger, Bu
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Language branch spoken in Australia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -28.34583
 longitude: 152.85886
+language_map_img: 500px-Bandjalangic_languages.webp
 glottocode: midd1357
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

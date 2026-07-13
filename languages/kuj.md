@@ -2,10 +2,12 @@
 iso: kuj
 name: Kuria
 autonym: Igikuria
-alt_names: [Ekiguria, Ikikuria, Kikuria, Kurya, Kurye, Tende]
+alt_names: [Ekiguria, Ikikuria, Kikuria, Kurya, Kurye, Tende, Egikuria, Kikuria cha juu, Kikuria cha Mashariki, Bugumbe, Bukira, Bwirege, Ekikuria, Gikuria, Kikoria, Kiroba, Koria, Kulia, Nyabasi, Sweta]
 population: 738000
 country_id: TZ
 country_name: Tanzania
+location: Kenya
+area: Bantu language spoken in Tanzania and Kenya
 status_id: "5"
 scope: individual
 language_type: living

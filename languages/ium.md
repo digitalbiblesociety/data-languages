@@ -2,10 +2,12 @@
 iso: ium
 name: Iu Mien
 autonym: Iu Mienh
-alt_names: ["\"Dong\"", "\"Mán\"", "\"Trai\"", "\"Xá\"", Ban Yao, Dao Do, Dao Thanh Phan, Dìu, Highland Yao, Kim Mien, Man, Mian, Mien, "Mien, Iu", Mjen, Myen, Pan Yao, Red Dao, Red Dao    Pan, Yao, Yao Kimmien, Yao Ogang, Yiu Mien, Youmian, Yu Mien, Яо]
+alt_names: ["\"Dong\"", "\"Mán\"", "\"Trai\"", "\"Xá\"", Ban Yao, Dao Do, Dao Thanh Phan, Dìu, Highland Yao, Kim Mien, Man, Mian, Mien, "Mien, Iu", Mjen, Myen, Pan Yao, Red Dao, Red Dao    Pan, Yao, Yao Kimmien, Yao Ogang, Yiu Mien, Youmian, Yu Mien, Яо, Cham, Chiangrai, Dao Lan Tien, Dao Lo Gang, Deo Tien, Ewmien, Guoshan Yao, Mienh, Quan Chet, Quan Trang, Yao Mienh]
 population: 383000
 country_id: CN
 country_name: China
+location: Southern China
+area: Language spoken by the Iu Mien people in China
 status_id: "5"
 scope: individual
 language_type: living

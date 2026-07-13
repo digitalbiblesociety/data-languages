@@ -6,6 +6,8 @@ alt_names: [Oluta, Oluta Mijean, Oluta Mixean, Oluta Popoluc, Oluteko, Otula Pop
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mixe–Zoquean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living

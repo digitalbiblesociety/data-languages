@@ -2,10 +2,12 @@
 iso: sev
 name: Nyarafolo Senoufo
 autonym: Senari
-alt_names: [Nyarafolo-Niafolo, Nyarofolo, "Senoufo, Nyarafolo"]
+alt_names: [Nyarafolo-Niafolo, Nyarofolo, "Senoufo, Nyarafolo", Niarafolo]
 population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Senugo language spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

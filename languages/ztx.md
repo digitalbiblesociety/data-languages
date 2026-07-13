@@ -7,6 +7,7 @@ alt_names: [Central Sapoteko, Zapotec, "Zapotec, Zaachila", Zapoteco de San Feli
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: tnr
 name: Ménik
 autonym: Ménik
-alt_names: [Bande, Basari du Bandemba, Bedik, Budik, Menik, Tandanke, Tenda, Tendanke]
+alt_names: [Bande, Basari du Bandemba, Bedik, Budik, Menik, Tandanke, Tenda, Tendanke, Münik, Manik, Onik]
 population: 3380
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Senegambian language spoken in Senegal
 status_id: "4"
 scope: individual
 language_type: living

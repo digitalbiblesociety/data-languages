@@ -6,6 +6,8 @@ alt_names: [Arama, Arrama, Boto, Melchora, Voto]
 population: 900
 country_id: NI
 country_name: Nicaragua
+location: Nicaragua
+area: Chibchan language of Nicaragua
 status_id: 8b
 scope: individual
 language_type: living

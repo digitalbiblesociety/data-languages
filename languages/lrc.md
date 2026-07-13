@@ -2,10 +2,11 @@
 iso: lrc
 name: Northern Luri
 autonym: زۊن لٛوْری
-alt_names: ["Bakhtiari, Feyli", Borujerdi dialect, Lori, Luri, Luri (Northern), "Luri, Northern", لهجه بروجردی]
+alt_names: ["Bakhtiari, Feyli", Borujerdi dialect, Lori, Luri, Luri (Northern), "Luri, Northern", لهجه بروجردی, Luristani, Andimeshki, "Bala-Gariva'i", Borujerdi, Cagani, Feyli, Khorramabadi, Luri (Iran), Mahali, Nahavandi, Northern, Rural Mahali, Solasi]
 population: 1820000
 country_id: IR
 country_name: Iran
+area: Iranian language
 status_id: 6a
 scope: individual
 language_type: living

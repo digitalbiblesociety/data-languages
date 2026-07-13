@@ -6,6 +6,8 @@ alt_names: [Ajau, Auyu, Avio, Awju, Awya, "Awyu, Central", Nohon]
 population: 7500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Awyu language spoken in Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Papua"
 ---
+Aghu, or Central Awyu, is a Papuan language of South Papua, Indonesia. It may actually be two languages, depending on one's criteria for a 'language'. The two varieties are: Mappi River Awyu (Aghu) and Pasue River Awyu.

@@ -2,10 +2,12 @@
 iso: gbj
 name: Bodo Gadaba
 autonym: Bodo Gadaba
-alt_names: [Bodo, Bodo-Gadaba, Boi Gadaba, Gadaba, "Gadaba, Bodo", Gadabeg, Gadba, Gadwa, Godwa, Goutob, Gudwa, Gutob, Gutob language, Gutop, Sodia]
+alt_names: [Bodo, Bodo-Gadaba, Boi Gadaba, Gadaba, "Gadaba, Bodo", Gadabeg, Gadba, Gadwa, Godwa, Goutob, Gudwa, Gutob, Gutob language, Gutop, Sodia, Birong Raji, Gutob Gadaba, Kinda Raji, Koraput, Lamtaput]
 population: 8000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Munda language spoken in India
 status_id: 6b
 scope: individual
 language_type: living

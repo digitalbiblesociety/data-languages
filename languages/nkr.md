@@ -6,6 +6,8 @@ alt_names: [Nuguor, Nukoro, Nukuoru]
 population: 125
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Polynesian Outlier language
 status_id: "5"
 scope: individual
 language_type: living

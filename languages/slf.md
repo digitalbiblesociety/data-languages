@@ -6,6 +6,7 @@ alt_names: [LIS-SI]
 population: 200
 country_id: CH
 country_name: Switzerland
+area: Sign language of Italy
 status_id: "5"
 scope: individual
 language_type: living
@@ -51,3 +52,4 @@ translations:
     name: 瑞士-意大利手语
     auto: true
 ---
+Italian Sign Language is the visual language used by deaf people in Italy. Deep analysis of it began in the 1980s, along the lines of William Stokoe's research on American Sign Language in the 1960s. Until the beginning of the 21st century, most studies of Italian Sign Language dealt with its vocabulary. According to the European Union for the Deaf, the majority of the 60,000–90,000 Deaf people in Italy use LIS.

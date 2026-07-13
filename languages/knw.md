@@ -6,6 +6,8 @@ alt_names: ["!Hu", "!Khung", "!Ku", "!Kung", "!Kung, Qxû", "!Xu", "!Xun", "!Xun
 population: 1760
 country_id: NA
 country_name: Namibia
+location: Namibia
+area: ǃKung language of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living

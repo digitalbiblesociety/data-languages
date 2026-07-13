@@ -2,10 +2,12 @@
 iso: tcc
 name: Datooga
 autonym: Datog
-alt_names: ["\"Mangati\"", Datoga, Tatog, Tatoga, Taturu]
+alt_names: ["\"Mangati\"", Datoga, Tatog, Tatoga, Taturu, “Mangati”, Bajuta, Bajuuta, Barabaig, Barabaik, Barabayga, Barabayiiga, Barbaig, Bianjiida, Bisiyeda, Biyanjiida, Buraadiiga, Buradiga, Bureadiga, Daragwajega, Darorajega, Darorajek, Ghumbiega, "Gidang'odiga", Gisamjang, Gisamjanga, Gisamjank, Isimijeega, Isimijega, Kisamajeng, Rootigaanga, Rotigeenga, Rotigenga, Salawajega, Tsimajeega, Utatu]
 population: 161000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Nilotic language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

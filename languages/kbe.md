@@ -6,6 +6,8 @@ alt_names: [Andjingid, Andyingid, Anjungitie, Candju, Cape York Peninsula Langua
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language
 status_id: 8a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: AU
     location: Australia
 ---
+Umpila, also known as Ompeila, Ompela, Oom-billa, or Koko-umpilo, is an Aboriginal Australian language, or dialect cluster, of the Cape York Peninsula in northern Queensland. It is spoken by about 100 Aboriginal people, many of them elderly.

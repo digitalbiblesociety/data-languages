@@ -2,15 +2,18 @@
 iso: lij
 name: Ligurian
 autonym: " zeneize"
-alt_names: [Dialett intemeli, Dialetto intemelio, Dialetto ventimiglioso, Genovese, Intemelio, Intémélien, Italian, Italian (Genoa), Ligur, Ligure, Ligurien, Lìgure, Zenéize]
+alt_names: [Dialett intemeli, Dialetto intemelio, Dialetto ventimiglioso, Genovese, Intemelio, Intémélien, Italian, Italian (Genoa), Ligur, Ligure, Ligurien, Lìgure, Zenéize, Líguru]
 population: 148210
 country_id: IT
 country_name: Italy
+location: Andorra and France
+area: "Gallo-Romance language native to Liguria, northern Italy"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 44.0816
 longitude: 7.90522
+language_map_img: Ligure-Ligurian-map.svg
 scripts: [Latn]
 glottocode: ligu1248
 glottolog_family_id: indo1319

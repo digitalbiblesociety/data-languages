@@ -2,6 +2,7 @@
 iso: xlg
 name: Ancient Ligurian
 autonym: null
+alt_names: [Ligurian (Ancient)]
 population: null
 country_id: IT
 country_name: Italy

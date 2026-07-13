@@ -6,6 +6,8 @@ alt_names: [ToriBara]
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language of Sulawesi, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 巴拉斯语
     auto: true
 ---
+Kaili is an Austronesian dialect cluster of the Celebic branch, and is one of the principal languages of Central Sulawesi. The heartland of the Kaili area is the broad Palu River valley which stretches southward from Central Sulawesi's capital city, Palu. Kaili is also spoken in the mountains which rise on both sides of this valley, and along the coasts of the Makassar Strait and the Gulf of Tomini.

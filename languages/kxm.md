@@ -2,10 +2,12 @@
 iso: kxm
 name: Northern Khmer
 autonym: Surin Khmer
-alt_names: [Cambodian, Kambojanisch, Khmaer, Khmer, Khmer Lue, "Khmer, Northern", Khmɛr, Thailand Khmer]
+alt_names: [Cambodian, Kambojanisch, Khmaer, Khmer, Khmer Lue, "Khmer, Northern", Khmɛr, Thailand Khmer, Buriram, Sisaket, Surin, Upper Khmer]
 population: 90000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Khmer dialect of northeastern Thailand
 status_id: "5"
 scope: individual
 language_type: living

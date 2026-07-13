@@ -6,6 +6,8 @@ alt_names: [Huu River Vân Kiêu, Phuang, Phuong Catang]
 population: 15100
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Katuic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

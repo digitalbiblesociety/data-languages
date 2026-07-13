@@ -2,10 +2,12 @@
 iso: odk
 name: Od
 autonym: Odki
-alt_names: [Oad]
+alt_names: [Oad, Oadki, Odh]
 population: 2076100
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language of India and Pakistan
 status_id: 6a
 scope: individual
 language_type: living

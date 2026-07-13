@@ -6,6 +6,8 @@ alt_names: [Boka]
 population: 17000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Manding language of Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living

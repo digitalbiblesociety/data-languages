@@ -5,11 +5,13 @@ autonym: null
 population: null
 country_id: HR
 country_name: Croatia
+area: Extinct Romance varieties of Dalmatia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 42.70949
 longitude: 18.02377
+language_map_img: 500px-Dubrovacka_republika.webp
 glottocode: dalm1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

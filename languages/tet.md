@@ -2,15 +2,18 @@
 iso: tet
 name: Tetum
 autonym: Tetun Prasa
-alt_names: [Belo, Belu, Fehan, Lia-tetun, Teto, Tettum, Tetu, Tetun, Tetun Belu, Tetung, Tetwm, Tétoum, Tétum, Тетум, Тетун]
+alt_names: [Belo, Belu, Fehan, Lia-tetun, Teto, Tettum, Tetu, Tetun, Tetun Belu, Tetung, Tetwm, Tétoum, Tétum, Тетум, Тетун, Tutun Belu, Belu Selatan, Belu Utara, Eastern Tetun, Foho, Hill Tetun, Lakluta, Lia Fehan, Lia Foho, Natarbora, North Belu, Northern Tetun, Plain Tetun, Plains Tetun, Soibada, South Belu, South Tetun, Southern Tetun, Tasi Feto, Tasi Mane, Tetun Loos, Tetun Los, Tetun Terik, Tetun Therik]
 population: 463500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken on Timor
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -9.112165
 longitude: 125.527665
+language_map_img: 500px-Tetum_Terik.webp
 scripts: [Latn]
 glottocode: tetu1245
 glottolog_family_id: aust1307

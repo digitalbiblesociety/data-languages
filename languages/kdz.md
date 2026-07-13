@@ -6,6 +6,8 @@ alt_names: [Cameroon]
 population: 2980
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Eastern Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord-Ouest"
 ---
+Mfumte (Nfumte) is a Grassfields Bantu language of Cameroon. It is not clear if the four varieties spoken by ethnic Mfumte—Ndaktup, Kwaja, Fum and Mfumte proper—are mutually intelligible or distinct languages; ability to communicate may be either due to inherent intelligibility or to bilingualism, while Fum and Mfumte may simply be the Nigerian and Cameroonian names for the same language.

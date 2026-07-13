@@ -6,6 +6,8 @@ alt_names: [Alaua, Alava, Allaua, Allaura, Allawa, Allowa, Allowiri, Allua, Alow
 population: 12
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

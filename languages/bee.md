@@ -6,6 +6,8 @@ alt_names: [Bhotia, Byangkhopa, Byanshi, Byansi, Byasi, Byāngsī, Jaba, Rang, S
 population: 2830
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: West Himalayish language of India and Nepal
 status_id: 6b
 scope: individual
 language_type: living

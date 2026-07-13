@@ -2,10 +2,11 @@
 iso: yin
 name: Riang Lai
 autonym: Black Riang
-alt_names: [Ranei, Striped Karen, Yinchia, Yinnet]
+alt_names: [Ranei, Striped Karen, Yinchia, Yinnet, Ban Roi, Liang Sek, Red Riang, Riang Saek, Riang Sak, Yang, Yang Lai, Yin Kya, Yinja]
 population: 12000
 country_id: MM
 country_name: Myanmar
+area: Austroasiatic language
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 日昂-莱语
     auto: true
 ---
+Riang is a Palaungic language of Burma and China. Speakers are culturally assimilated with the Karen, but are Palaung by ancestry and their language is unrelated. Riang Lang (Yinnet) and Riang Lai (Yinchia) are sometimes considered distinct languages.

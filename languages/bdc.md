@@ -6,6 +6,8 @@ alt_names: [Baudo, Baudó, Catio, Embera-Baudo, Sia pedee, Southern Emberá]
 population: 5000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chocoan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living

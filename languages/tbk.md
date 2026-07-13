@@ -2,10 +2,12 @@
 iso: tbk
 name: Calamian Tagbanwa
 autonym: ᝦᝲᝨᝪᝯ
-alt_names: [Calamiano, Kalamian, Kalamianon, Karamiananen, "Tagbanwa, Calamian"]
+alt_names: [Calamiano, Kalamian, Kalamianon, Karamiananen, "Tagbanwa, Calamian", Unggoy, Baras, Binatuanen, Binuswanganen, Inawanwaanen, Kalamian Tagbanwa, Kinalamiananen, Kinaramiananen, Lininipaknen, Tinagbanwa, Tinalaanen]
 population: 10000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Mogao]
 population: 700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language in Papua
 status_id: 6b
 scope: individual
 language_type: living

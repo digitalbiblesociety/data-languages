@@ -6,6 +6,8 @@ alt_names: [Combe, Kombe, Kombe language]
 population: 4000
 country_id: GQ
 country_name: Equatorial Guinea
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Equatorial Guinea
 status_id: 6a
 scope: individual
 language_type: living

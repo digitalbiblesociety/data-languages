@@ -2,10 +2,12 @@
 iso: lis
 name: Lisu
 autonym: "ꓡꓲ-ꓢꓴ"
-alt_names: [Central Lisu, Chedi, Cheli, Chung, Khae, Leisu, Leshuoopa, Lesuo, Li, Li-Hsaw, Li-Shaw, "Lip'a", Lis(s)haw, Lis(s)u, Lisaw, Lishu, Liso, Lisoueg, Lissu, Loisu, Lu-Tzu, Lusu, "Lëjengoup'a", "Lëshuoop'a", Southern Lisu, Yao Yen, Yaw Yin, Yaw-Yen, Yawyin, Yeh-Jeh, Yeh-Jen, Yobin, Лису]
+alt_names: [Central Lisu, Chedi, Cheli, Chung, Khae, Leisu, Leshuoopa, Lesuo, Li, Li-Hsaw, Li-Shaw, "Lip'a", Lis(s)haw, Lis(s)u, Lisaw, Lishu, Liso, Lisoueg, Lissu, Loisu, Lu-Tzu, Lusu, "Lëjengoup'a", "Lëshuoop'a", Southern Lisu, Yao Yen, Yaw Yin, Yaw-Yen, Yawyin, Yeh-Jeh, Yeh-Jen, Yobin, Лису, Lip’a, Bai Lisu, Black Lisu, Dechang Lisu, Flowery Lisu, Hei Lisu, Hua Lisu, Hwa Lisu, Lu Shi Lisu, Ninglang Lisu, Northern Lisu, Nujiang Lisu, Shibacha Lisu, Western Lisu, White Lisu]
 population: 942700
 country_id: CN
 country_name: China
+location: Central Myanmar
+area: Tibeto-Burman language
 status_id: "5"
 scope: individual
 language_type: living

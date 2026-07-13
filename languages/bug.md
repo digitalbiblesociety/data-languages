@@ -2,15 +2,18 @@
 iso: bug
 name: Buginese
 autonym: ᨅᨔ ᨕᨘᨁᨗ
-alt_names: [Boegineesche, Boeginezen, Bougieg, Buginees, Buginesisk, Buginesiska, Bugis, Bugui, "De'", Makassar-Bugis, Rappang Buginese, Ugi, bugi, ᨅᨗᨌᨑ ᨕᨘᨁᨗ]
+alt_names: [Boegineesche, Boeginezen, Bougieg, Buginees, Buginesisk, Buginesiska, Bugis, Bugui, "De'", Makassar-Bugis, Rappang Buginese, Ugi, bugi, ᨅᨗᨌᨑ ᨕᨘᨁᨗ, De’, Alitta, Barru, Basa Ugi, Bone, Bua Ponrang, Bulukumba, Camba, Dua Boccoe, Duri, Enna, Enrekang, Kessi, Luwu, Makasar, Malangke-Ussu, Mandar, Mare, Nepo, Palakka, Palattae, Pangkajene, Pangkep, Pare-Pare, Pasangkayu, Pinrang, Pinrang Utara, Sawitto, Sidenrang, Sidrap, Sinjai, Soppeng, Soppeng Riaja, Tanete, To Ugi, Tompo, Ugi Riawa, Wajo, Wara]
 population: 3898800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -0.251495
 longitude: 119.251315
+language_map_img: Bugis-speaking_area.svg
 scripts: [Bugi, Latn]
 glottocode: bugi1244
 glottolog_family_id: aust1307

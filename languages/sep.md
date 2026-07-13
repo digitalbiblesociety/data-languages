@@ -2,10 +2,12 @@
 iso: sep
 name: Sìcìté Sénoufo
 autonym: Sìcìré
-alt_names: [Sicite Senoufo, Sisiteg, Sucite, Sucite language, "Sénoufo, Sìcìté", Sìcìté, Sìpììté, Tagba]
+alt_names: [Sicite Senoufo, Sisiteg, Sucite, Sucite language, "Sénoufo, Sìcìté", Sìcìté, Sìpììté, Tagba, Sěcěté Sénoufo, Sìcijuungé]
 population: 38000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Senufo language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nsh
 name: Ngoshie
 autonym: Ngishe
-alt_names: [Oshie]
+alt_names: [Oshie, Mise]
 population: 9200
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantoid language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living

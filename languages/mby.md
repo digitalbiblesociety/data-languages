@@ -6,6 +6,7 @@ alt_names: [Pakistan]
 population: null
 country_id: PK
 country_name: Pakistan
+area: Indo-Aryan language
 status_id: "7"
 scope: individual
 language_type: living

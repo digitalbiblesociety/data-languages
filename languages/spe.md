@@ -2,10 +2,12 @@
 iso: spe
 name: Sepa
 autonym: null
-alt_names: [Sepa]
+alt_names: [Sepa, Sepa (Papua New Guinea)]
 population: 700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Oceanic language of northeast New Guinea
 status_id: 6b
 scope: individual
 language_type: living

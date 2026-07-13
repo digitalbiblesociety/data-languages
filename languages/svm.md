@@ -2,9 +2,11 @@
 iso: svm
 name: Slavomolisano
 autonym: Molise Croatian
+alt_names: [Croato molisano]
 population: 1000
 country_id: IT
 country_name: Italy
+area: Dialect
 status_id: 8a
 scope: individual
 language_type: living

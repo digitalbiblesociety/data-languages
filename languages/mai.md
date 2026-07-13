@@ -2,15 +2,18 @@
 iso: mai
 name: Maithili
 autonym: मैथिली / মৈথিনী
-alt_names: [Apabhramsa, Bihari, Maitileg, Maitili, Maitli, Maïthili, Methli, Tirahutia, Tirhuti, Tirhutia, Майтхили, Майтхілі, मैथिली, ಮೈಥಿಲಿ, മൈഥിലി, მაიტილი]
+alt_names: [Apabhramsa, Bihari, Maitileg, Maitili, Maitli, Maïthili, Methli, Tirahutia, Tirhuti, Tirhutia, Майтхили, Майтхілі, मैथिली, ಮೈಥಿಲಿ, മൈഥിലി, მაიტილი, Bajjika, Bantar, Barei, Barmeli, Central Colloquial Maithili, Dehati, Deshi, Eastern Maithili, Jolaha, Kawar, Khortha, Khotta, Kisan, Kortha, Kortha Bihari, Kyabrat, Makrana, Musahar, Sotipura, Southern Standard Maithili, Standard Maithili, Tati, Thati, Thenthi, Thetiya, Western Maithili]
 population: 31900000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language spoken in India and Nepal
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 26.381655
 longitude: 86.22114
+language_map_img: mai.webp
 scripts: [Deva, Tirh]
 glottocode: mait1250
 glottolog_family_id: indo1319

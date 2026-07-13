@@ -2,10 +2,11 @@
 iso: niu
 name: Niuean
 autonym: ko e vagahau Niuē
-alt_names: ["\"Niuefekai\"", Niue, Niuéen, niué, Ниуэ]
+alt_names: ["\"Niuefekai\"", Niue, Niuéen, niué, Ниуэ, “Niuefekai”]
 population: 2030
 country_id: NU
 country_name: Niue
+area: Polynesian language of Niue
 status_id: "1"
 scope: individual
 language_type: living

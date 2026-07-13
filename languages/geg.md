@@ -2,14 +2,18 @@
 iso: geg
 name: Gengle
 autonym: Momu
+alt_names: [Wegele, Yagele]
 population: 4000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Adamawa language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 8.8956
 longitude: 11.95269
+glottocode: geng1243
 wikidata_id: Q3438345
 wikipedia_url: "https://en.wikipedia.org/wiki/Gengle_language"
 translations:

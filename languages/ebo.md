@@ -6,6 +6,8 @@ alt_names: [Bamboma, Boma, Boo, Boõ, Central Teke, Eboo Teke, Eboom, Iboo, Teke
 population: 20400
 country_id: CG
 country_name: Congo
+location: Northern Democratic Republic of Congo
+area: Teke language of Congo
 status_id: 6a
 scope: individual
 language_type: living

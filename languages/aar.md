@@ -3,10 +3,12 @@ iso: aar
 iso639_1: aa
 name: Afar
 autonym: Qafar af
-alt_names: ["\"Danakil\"", "\"Denkel\"", Adal, Afaraf, Afareg, Afariko, Danakäli, Qafar, Qafár af, "`Afar Af"]
+alt_names: ["\"Danakil\"", "\"Denkel\"", Adal, Afaraf, Afareg, Afariko, Danakäli, Qafar, Qafár af, "`Afar Af", ’Afar Af, “Danakil”, “Denkel”, Affar, Affarigna, Aussa, "Ba'adu", Baadu, Central Afar, Northern Afar]
 population: 2541000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: "Afro-Asiatic language spoken in Ethiopia, Djibouti and Eritrea"
 status_id: "2"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Toga]
 population: 1050
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of New Guinea
 status_id: "5"
 scope: individual
 language_type: living

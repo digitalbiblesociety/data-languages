@@ -6,6 +6,8 @@ alt_names: [Unangg, Unank, Watut, "Watut, North"]
 population: 460
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 北瓦图特语
     auto: true
 ---
+Watut is a language complex of Austronesian languages spoken in northern Papua New Guinea. Dialects include Maralinan, Silisili, Unank, Maralangko, and Danggal. It is spoken in Watut Rural LLG of Morobe Province.

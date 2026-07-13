@@ -2,10 +2,12 @@
 iso: kwa
 name: Dâw
 autonym: "Kuri-Dou"
-alt_names: [Daw, Dow, Kam, Kaman, Kamarada, Kamá, Kamán, Kamã, Kamã Makú, Makú-Kamarada]
+alt_names: [Daw, Dow, Kam, Kaman, Kamarada, Kamá, Kamán, Kamã, Kamã Makú, Makú-Kamarada, “Kamã”]
 population: 142
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Nadahup language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

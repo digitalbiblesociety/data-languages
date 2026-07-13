@@ -6,6 +6,8 @@ alt_names: [Manjhi, Manjhia]
 population: 174000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: "Munda language of Uttar Pradesh, India"
 status_id: "7"
 scope: individual
 language_type: living

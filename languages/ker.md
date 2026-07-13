@@ -2,10 +2,12 @@
 iso: ker
 name: Kera
 autonym: Tuburi
-alt_names: [East Chadic A.3, Kera Group, Keraeg, Kere]
+alt_names: [East Chadic A.3, Kera Group, Keraeg, Kere, Keera]
 population: 50500
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Chadic language of Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

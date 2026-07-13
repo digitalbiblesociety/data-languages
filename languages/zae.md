@@ -3,10 +3,12 @@ iso: zae
 macrolanguage_id: zap
 name: Yareni Zapotec
 autonym: Etla Zapotec
-alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Western Sapoteko, Western Zapoteco, Zapotec, Zapotec (Juárez), "Zapotec, Yareni", Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
+alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Western Sapoteko, Western Zapoteco, Zapotec, Zapotec (Juárez), "Zapotec, Yareni", Zapoteco ( Juarez Sierra), Zapoteco de Atepec, Western Ixtlán Zapotec, Zapoteco de Santa Ana Yareni, Zapoteco de Teococuilco de Marcos Pérez, Ixtlán Oeste, Yareni, Sta. Ana Yareni Zapotec]
 population: 2900
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec dialect cluster of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 亚雷尼-萨波特克语
     auto: true
 ---
+Ixtlán Zapotec is a Zapotec dialect cluster of Oaxaca, Mexico.

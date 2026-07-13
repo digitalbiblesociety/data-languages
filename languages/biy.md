@@ -2,10 +2,12 @@
 iso: biy
 name: Birhor
 autonym: Bihor
-alt_names: [Birhar, Birhore, Birhɔɽ, Bīrhaṛ, Bīrhaṛ, Mankidi, Mankidia, Mundari, Mundari-Ho]
+alt_names: [Birhar, Birhore, Birhɔɽ, Bīrhaṛ, Bīrhaṛ, Mankidi, Mankidia, Mundari, Mundari-Ho, Birhul, Mankiria]
 population: 1000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Endangered Austroasiatic language of India
 status_id: 6a
 scope: individual
 language_type: living

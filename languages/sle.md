@@ -2,10 +2,12 @@
 iso: sle
 name: Sholaga
 autonym: Soliga
-alt_names: [Kadu Sholigar, Sholanayika, Sholiga, Sholigar, Solaga, Solanayakkans, Soligar]
+alt_names: [Kadu Sholigar, Sholanayika, Sholiga, Sholigar, Solaga, Solanayakkans, Soligar, Sikkiligar, Solagaru mattu, Solega]
 population: 24000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Kannadoid language of India
 status_id: 6a
 scope: individual
 language_type: living

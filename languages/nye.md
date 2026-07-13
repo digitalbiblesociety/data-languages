@@ -5,6 +5,8 @@ autonym: Nhengo
 population: 9380
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Zambia as part of the Luyi language of western Zambia
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: gaz
 macrolanguage_id: orm
 name: West Central Oromo
 autonym: Afaan Oromoo
-alt_names: ["\"Galla\"", Afan Oromo, Galla, Oromiffa, Oromo, Oromo (Mechaa), Oromo (West-Central), Oromo (Western), Oromo Proper, "Oromo, West Central", Oromoo, West-Central]
+alt_names: ["\"Galla\"", Afan Oromo, Galla, Oromiffa, Oromo, Oromo (Mechaa), Oromo (West-Central), Oromo (Western), Oromo Proper, "Oromo, West Central", Oromoo, West-Central, “Galla”, West Central, Central Oromo, Western Oromo]
 population: 30000000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: "Cushitic language of Ethiopia, Kenya, and Somalia"
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 8.81391
 longitude: 36.73647
+language_map_img: Map_of_the_Oromo_language.webp
 glottocode: west2721
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic
@@ -84,3 +87,4 @@ rolv_dialects:
     country_id: ET
     location: Ethiopia
 ---
+Oromo is a Cushitic language of the Afroasiatic family, the most widely spoken language of Ethiopia by native speakers and one of the working languages of the country alongside Amharic. The language has a complex system of agglutination and a tonal accent. Oromo has been written in several scripts; since 1991 the Latin-based Qubee alphabet has been the official script, replacing the earlier Ge'ez-based system. The language is also widely spoken in northern Kenya.

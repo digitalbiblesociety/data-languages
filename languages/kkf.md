@@ -6,6 +6,8 @@ alt_names: [Kalaktang, Monpa, "Monpa, Kalaktang", "Monpa,Kalaktang", Southern Mo
 population: 8000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Eastern language of Bhutan
 status_id: 6a
 scope: individual
 language_type: living

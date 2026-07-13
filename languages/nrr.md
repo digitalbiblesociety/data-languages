@@ -6,11 +6,13 @@ alt_names: [Nora]
 population: null
 country_id: IN
 country_name: India
+area: Endangered Tai language spoken in India
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 27.5088
 longitude: 98.45022
+glottocode: norr1243
 wikidata_id: Q12952967
 translations:
   - translation_iso: ara
@@ -65,3 +67,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Khamyang is a critically endangered Tai language of India, spoken by the Khamyang people. Approximately fifty people speak the language; all reside in the village of Powaimukh, located seven miles downstream of Margherita in the Tinsukia district. It is closely related to the other Tai languages in the Assam region: Aiton, Khamti, Phake, and Turung.

@@ -2,10 +2,12 @@
 iso: sea
 name: Semai
 autonym: Engrok Semai
-alt_names: ["Central \"Sakai\"", Central Sakai, Sakai, Sengoi, Senoi, Zentral Sakai]
+alt_names: ["Central \"Sakai\"", Central Sakai, Sakai, Sengoi, Senoi, Zentral Sakai, “Central Sakai”, Seng’oi, Betau, Bidor, Bil, Cameron, Cameron Highlands, Gopeng, Jalan Pahang, Jelai, Kampar, Lipis, Parit, Perak I, Perak II, Sengꞌoi, Tanjung Malim, Tapah, Telom, Ulu Kampar]
 population: 2000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: "5"
 scope: individual
 language_type: living

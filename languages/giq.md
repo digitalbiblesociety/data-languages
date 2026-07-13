@@ -6,6 +6,8 @@ alt_names: [Cape Draping Gelao, Cờ Lao, Gelao (Vietnam), Gelao vert (Chine), G
 population: 300
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Kra language
 status_id: 8b
 scope: individual
 language_type: living

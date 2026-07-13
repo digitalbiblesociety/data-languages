@@ -2,10 +2,12 @@
 iso: kus
 name: Kusaal
 autonym: Kusasi
-alt_names: [Koussassé, Kusale, Kussassi]
+alt_names: [Koussassé, Kusale, Kussassi, Kusaasi, Agole, Angole, Eastern Kusaal, Kusaas, Toende, Tonde, Western Kusaal]
 population: 549000
 country_id: GH
 country_name: Ghana
+location: Burkina Faso
+area: Gur language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

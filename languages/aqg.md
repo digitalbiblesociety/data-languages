@@ -6,6 +6,8 @@ alt_names: [Akoko language, North Akoko]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Volta–Niger dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

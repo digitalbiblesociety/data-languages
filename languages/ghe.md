@@ -2,10 +2,12 @@
 iso: ghe
 name: Southern Ghale
 autonym: Galle Gurung
-alt_names: [Ghale, "Ghale, Southern", "Ghale,Southern", Gurung, Lila Ke, Ril-Lila, Southern]
+alt_names: [Ghale, "Ghale, Southern", "Ghale,Southern", Gurung, Lila Ke, Ril-Lila, Southern, Lila, Barpak, Kyaura, Laprak]
 population: 2000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Tibeto-Burman language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Ghale is a Tibeto-Burman language of Nepal. It belongs to the group of Ghale languages. The dialects of Ghale have limited intelligibility: (south) Barpak, Kyaura, Laprak, (north) Khorla, Uiya, Jagat, Philim, Nyak

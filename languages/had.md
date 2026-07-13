@@ -6,6 +6,8 @@ alt_names: [Atam, Borai, Hattam, Mansim, Miriei, Moi, Tinam, Uran]
 population: 16000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

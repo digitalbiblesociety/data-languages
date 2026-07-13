@@ -6,6 +6,8 @@ alt_names: [Balai, Lohorong, Lohrung, Lohrung Khap, Lohrung Khate, Lorung, "Loru
 population: 1250
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Sino-Tibetan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南扬普语
     auto: true
 ---
+Lohorung, also spelled Lorung, Lohrung or Loharung, is a Kirati language of eastern Nepal. It has been described by George van Driem.

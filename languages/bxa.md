@@ -6,6 +6,8 @@ alt_names: [Bauro, Mamarego, Marmaregho, Südliche Salomons-Inseln]
 population: 4980
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

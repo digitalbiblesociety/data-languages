@@ -6,6 +6,8 @@ alt_names: [East Sepik Province, Maprik District, east and southeast of Kombio, 
 population: 1080
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language of Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

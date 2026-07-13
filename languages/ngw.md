@@ -6,6 +6,8 @@ alt_names: [Enguaba, Gombi]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Afro-Asiatic language
 status_id: 8a
 scope: individual
 language_type: living

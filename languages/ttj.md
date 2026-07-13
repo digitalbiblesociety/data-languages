@@ -6,6 +6,8 @@ alt_names: [Orutoro, Rutoro, Toro]
 population: 846000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken in Uganda
 status_id: "5"
 scope: individual
 language_type: living

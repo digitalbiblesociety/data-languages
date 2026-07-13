@@ -6,6 +6,7 @@ alt_names: [Ambugula, "Ambuku:la", Corm-bur, Gnormbur, Gnornbur, Gnumbu, Koarnbu
 population: null
 country_id: AU
 country_name: Australia
+area: An Aboriginal Australian language of the Northern Territory
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,14 +2,18 @@
 iso: lur
 name: Laura
 autonym: West Sumbanese
+alt_names: [Laora]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -9.4296
 longitude: 119.19031
+glottocode: laur1249
 wikidata_id: Q2984540
 translations:
   - translation_iso: ara
@@ -52,3 +56,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Nusa Tenggara Timur (East)"
 ---
+Wejewa is an Austronesian language spoken on Sumba, Indonesia.

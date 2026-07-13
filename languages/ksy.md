@@ -6,6 +6,8 @@ alt_names: [India]
 population: 25000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Indic language of India
 status_id: 6a
 scope: individual
 language_type: living

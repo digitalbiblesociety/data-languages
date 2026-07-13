@@ -6,11 +6,14 @@ alt_names: [Skarohreh]
 population: null
 country_id: CA
 country_name: Canada
+location: Canada
+area: Extinct language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 43.130315
 longitude: -79.421375
+language_map_img: Tuscarora_lang.webp
 glottocode: tusc1257
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian

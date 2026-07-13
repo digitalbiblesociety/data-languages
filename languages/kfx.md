@@ -2,10 +2,12 @@
 iso: kfx
 name: Kullu Pahari
 autonym: Kullu
-alt_names: [Kauli, Kullui, Kulu Boli, Kulu Pahari, Kului, Kulvi, Kulwali, Pahari, Pahari Kullu, "Pahari, Kullu", Paharí de Kullu, Phari Kulu, Western Pahari]
+alt_names: [Kauli, Kullui, Kulu Boli, Kulu Pahari, Kului, Kulvi, Kulwali, Pahari, Pahari Kullu, "Pahari, Kullu", Paharí de Kullu, Phari Kulu, Western Pahari, बाह्री सराज़, Inner Seraji, Inner Siragi, Kulvi Inner Seraji, Kulvi Outer Seraji, Kumaoni, Outer Seraji, Saraji, Siragi, Siraji]
 population: 195000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

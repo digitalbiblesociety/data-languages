@@ -2,10 +2,12 @@
 iso: mdt
 name: Mbere
 autonym: " Limbede"
-alt_names: [Ambede, Mbede, Mbédé, Mbété]
+alt_names: [Ambede, Mbede, Mbédé, Mbété, Lembaamba, Limbere, Mbaama, Ngwii, Obamba]
 population: 151500
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo and Gabon
 status_id: 6a
 scope: individual
 language_type: living

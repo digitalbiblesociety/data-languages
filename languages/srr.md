@@ -2,10 +2,12 @@
 iso: srr
 name: Serer
 autonym: Seereer
-alt_names: [Seex, Sereer, Serer-Sin, Serer-Sine, Serereg, Serrer, Sine-Saloum, Sine-Sine, Sérère, Sérère-Sine, Серер]
+alt_names: [Seex, Sereer, Serer-Sin, Serer-Sine, Serereg, Serrer, Sine-Saloum, Sine-Sine, Sérère, Sérère-Sine, Серер, Dyegueme, Fadyut-Palmerin, Gyegem, Niominka, Segum, Sine]
 population: 1712300
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Niger–Congo language spoken in Senegal and Gambia
 status_id: "5"
 scope: individual
 language_type: living

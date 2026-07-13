@@ -6,6 +6,8 @@ alt_names: [Wokeo]
 population: 1620
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Austronesian language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living

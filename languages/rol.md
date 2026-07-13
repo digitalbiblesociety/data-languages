@@ -2,15 +2,18 @@
 iso: rol
 name: Romblomanon
 autonym: Romblon
-alt_names: [Bisaya]
+alt_names: [Bisaya, Basi, "Bisaya'", Ini, Niromblon, Rombloanon, Rumblumãnun, Sibuyanon, Tiyad Ini]
 population: 157000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.40466
 longitude: 122.56031
+language_map_img: 500px-Romblomanon_language_map.webp
 glottocode: romb1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

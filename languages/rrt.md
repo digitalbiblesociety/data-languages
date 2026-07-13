@@ -6,6 +6,7 @@ alt_names: [Adetingiti, Adithinngithigh, Aritinngitigh]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian aboriginal language spoken in Cape York
 status_id: null
 scope: individual
 language_type: extinct

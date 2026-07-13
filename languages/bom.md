@@ -2,10 +2,12 @@
 iso: bom
 name: Berom
 autonym: Birom
-alt_names: ["\"Shosho\"", Aboro, Afango, Beromeg, Berons, Berum, Boro, Boro-Aboro, Cen Berom, Chenberom, Gbang, Kibbo, Kibbun, Kibo, Kibyen]
+alt_names: ["\"Shosho\"", Aboro, Afango, Beromeg, Berons, Berum, Boro, Boro-Aboro, Cen Berom, Chenberom, Gbang, Kibbo, Kibbun, Kibo, Kibyen, “Shosho”, Bachi, Du, Fan, Foron, Gashish, Gyel, Heikpang, Kuru, Lêm Berom, Rim, Riyom, Ropp, Vwang, Zawan]
 population: 1250000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Language spoken by the Berom people of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

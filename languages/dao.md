@@ -2,10 +2,12 @@
 iso: dao
 name: Daai Chin
 autonym: Dai
-alt_names: ["Chin, Daai", "Chin,Daai", Daai, "M'kaang", Nitu]
+alt_names: ["Chin, Daai", "Chin,Daai", Daai, "M'kaang", Nitu, M’kaang, Khyo, Kkhyou]
 population: 37000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language of Myanmar
 status_id: "5"
 scope: individual
 language_type: living

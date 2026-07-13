@@ -2,10 +2,12 @@
 iso: jam
 name: Jamaican Creole English
 autonym: " Jumiekan"
-alt_names: [Bongo Talk, Creole (Jamaican), "Creole English, Jamaican", Creolo giamaicano, Créole jamaïcain, Jamaicaans Patois, Jamaican, Jamaican Creole, Jamaican Patois, Jamajský patois, Patois, Patois jamaiquino, Patwa, Quashie Talk, Siamaiceg, Southwestern Caribbean Creole English, Western Caribbian Creole]
+alt_names: [Bongo Talk, Creole (Jamaican), "Creole English, Jamaican", Creolo giamaicano, Créole jamaïcain, Jamaicaans Patois, Jamaican, Jamaican Creole, Jamaican Patois, Jamajský patois, Patois, Patois jamaiquino, Patwa, Quashie Talk, Siamaiceg, Southwestern Caribbean Creole English, Western Caribbian Creole, Limon Creole English, Panamanian Creole English, Guari Guari, Jamiekan, Jimiekn, Jimiekn Langwij, Jumieka Kruyol, Jumieka Languij, Jumieka Langwij, Jumieka Taak, Limonese Creole, Patwah, Western Caribbean Creole]
 population: 2948000
 country_id: JM
 country_name: Jamaica
+location: Costa Rica
+area: English-based creole language spoken in Jamaica
 status_id: "3"
 scope: individual
 language_type: living

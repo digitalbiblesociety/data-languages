@@ -2,10 +2,12 @@
 iso: aoz
 name: Uab Meto
 autonym: Uab Metô
-alt_names: ["\"Dawan\"", "\"Rawan\"", "\"Timor Dawan\"", Atoni, Dawan (pejorative), Meto, Orang Gunung, Rawan, Timol, Timor, Timor Dawan, Timoreesch, Timoreezen, Timorese, Uab Atoni Pah Meto, Uab Pah Meto]
+alt_names: ["\"Dawan\"", "\"Rawan\"", "\"Timor Dawan\"", Atoni, Dawan (pejorative), Meto, Orang Gunung, Rawan, Timol, Timor, Timor Dawan, Timoreesch, Timoreezen, Timorese, Uab Atoni Pah Meto, Uab Pah Meto, “Dawan”, “Rawan”, “Timor Dawan”, Amabi, Amanatun, Amanuban, Amanuban-Amanatun, Amanubang, Amfoan, "Amfoan-Fatule'u-Amabi", Amfuang, Biboki, Biboki-Insana, "Fatule'u", Insanao, Kusa, Kusa-Manlea, Manea, Manlea, Miomafo, Mollo, Mollo-Miomafo, Timor Dakwan]
 population: 700000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living

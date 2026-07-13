@@ -6,6 +6,8 @@ alt_names: [Iton]
 population: 250000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

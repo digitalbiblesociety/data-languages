@@ -3,10 +3,11 @@ iso: ydd
 macrolanguage_id: yid
 name: Eastern Yiddish
 autonym: ייִדיש
-alt_names: [Central Yiddish, Judeo-German, Yiddish, Yiddish (Bessarabian), Yiddish (Europe), Yiddish (Israel), Yiddish (Israël), Yiddish (Lithuanian), Yiddish (Lodz), "Yiddish, Eastern", d Judeo German]
+alt_names: [Central Yiddish, Judeo-German, Yiddish, Yiddish (Bessarabian), Yiddish (Europe), Yiddish (Israel), Yiddish (Israël), Yiddish (Lithuanian), Yiddish (Lodz), "Yiddish, Eastern", d Judeo German, Eastern, Bessarabian Yiddish, Bessarabian-Romanian, Lithuanian Yiddish, Litvish, Mideastern Yiddish, Northeastern Yiddish, Podolian, Polish Yiddish, Southeastern Yiddish, Volhynian]
 population: 371657
 country_id: UA
 country_name: Ukraine
+area: Varieties of the Yiddish language
 status_id: "4"
 scope: individual
 language_type: living

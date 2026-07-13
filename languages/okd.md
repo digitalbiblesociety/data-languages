@@ -6,6 +6,8 @@ alt_names: [Okordia, Ịjọ]
 population: 3600
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ijaw language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

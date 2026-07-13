@@ -6,6 +6,8 @@ alt_names: [Eshkashimi, Eškāšmī, Ishkashim, Ishkashmi]
 population: 800
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Iranian language primarily spoken in Badakhshan
 status_id: 6b
 scope: individual
 language_type: living

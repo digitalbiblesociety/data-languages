@@ -6,6 +6,8 @@ alt_names: [HCMCSL, NNKHTPHCM, Southern Vietnamese Sign Language, Vietnamese Sig
 population: 45000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Sign language used in southern Vietnam
 status_id: 6a
 scope: individual
 language_type: living

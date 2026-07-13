@@ -2,10 +2,12 @@
 iso: kyq
 name: Kenga
 autonym: null
-alt_names: [Cenge, Kenge]
+alt_names: [Cenge, Kenge, Banala, Banama, Bidjir, Bolong, Taar Cɛŋɛ, Tar Banala, Tar Banama, Tar Bolongo, Tar Cenge]
 population: 40000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language of Chad
 status_id: "5"
 scope: individual
 language_type: living

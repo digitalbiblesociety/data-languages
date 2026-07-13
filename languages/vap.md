@@ -2,10 +2,12 @@
 iso: vap
 name: Vaiphei
 autonym: Bhaipei
-alt_names: [Vaipei, Veiphei]
+alt_names: [Vaipei, Veiphei, Zomi]
 population: 42700
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language on India
 status_id: "5"
 scope: individual
 language_type: living

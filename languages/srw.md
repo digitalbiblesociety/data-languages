@@ -6,6 +6,7 @@ alt_names: [Indonesia]
 population: 2000
 country_id: ID
 country_name: Indonesia
+area: "Extinct Austronesian language of Serua Island, Indonesia"
 status_id: "10"
 scope: individual
 language_type: living

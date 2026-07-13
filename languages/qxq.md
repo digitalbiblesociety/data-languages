@@ -2,10 +2,11 @@
 iso: qxq
 name: "Qashqa'i"
 autonym: " Kashkai"
-alt_names: [Azarbaydjanian, Azerbaijani, Kachkaeg, Kachkaï, Kashkay, Kaşkayca, "Qashqa'ī", Qashqai, Qashqai language, Qashqay, Qašqay, Кашкайское наречие]
+alt_names: [Azarbaydjanian, Azerbaijani, Kachkaeg, Kachkaï, Kashkay, Kaşkayca, "Qashqa'ī", Qashqai, Qashqai language, Qashqay, Qašqay, Кашкайское наречие, Qashqa’I]
 population: 1147600
 country_id: IR
 country_name: Iran
+area: Oghuz Turkic language of southwestern Iran
 status_id: 6a
 scope: individual
 language_type: living

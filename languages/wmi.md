@@ -6,11 +6,13 @@ alt_names: [Agwamin, Ak Waumin, Ak-Waumin, Egwamin, Ewamin, Gwamin, Wailoolo, Wa
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -18.37266
 longitude: 143.94347
+language_map_img: 500px-Traditional_lands_of_the_Australian_aboriginal_tribes_around_Cairns.webp
 glottocode: wami1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

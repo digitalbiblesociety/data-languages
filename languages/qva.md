@@ -3,10 +3,12 @@ iso: qva
 macrolanguage_id: que
 name: "Ambo-Pasco Quechua"
 autonym: Kichwa
-alt_names: [Alto Marañón, Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, "Quechua, Ambo-Pasco", San Rafael-Huariaca Quechua]
+alt_names: [Alto Marañón, Alto Pativilca, Chiquian-Bolognesi and Cajatambo Quechua, "Quechua, Ambo-Pasco", San Rafael-Huariaca Quechua, Quechua Ambo-Pasco]
 population: 18300
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechuan dialect cluster of west-central Peru
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 安博帕斯科克丘亚语
     auto: true
 ---
+Yaru Quechua is a dialect cluster of Quechua, spoken in the Peruvian provinces of Pasco and Daniel Alcides Carrión and neighboring areas in northern Junín and Lima department.

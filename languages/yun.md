@@ -2,10 +2,12 @@
 iso: yun
 name: Bena
 autonym: Yungur
-alt_names: ["\"Lala\"", Bena, Binna, Buna, Ebina, Ebuna, Gbinna, Purra, Yangeru, Yongor]
+alt_names: ["\"Lala\"", Bena, Binna, Buna, Ebina, Ebuna, Gbinna, Purra, Yangeru, Yongor, “Lala”, Ɓə́ná-Yungur]
 population: 95000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Adamawa language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

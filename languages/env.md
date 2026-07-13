@@ -2,10 +2,12 @@
 iso: env
 name: Enwan
 autonym: null
-alt_names: [Enwan, Enwan (Edo State), Nigeria]
+alt_names: [Enwan, Enwan (Edo State), Nigeria, Enwan (Edu State)]
 population: 14000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

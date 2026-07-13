@@ -2,10 +2,12 @@
 iso: ktj
 name: Plapo Krumen
 autonym: Plapo
-alt_names: [Krumen, "Krumen, Plapo"]
+alt_names: [Krumen, "Krumen, Plapo", Kroumen, Kru, Southern Krumen, Southwestern Kroumen]
 population: 100
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru dialect continuum of Ivory Coast and Liberia
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,6 @@ translations:
     name: 普拉波克鲁门语
     auto: true
 ---
+Krumen is a dialect continuum spoken by the Krumen people of Liberia and Ivory Coast. It is a branch of the Grebo languages, a subfamily of the Kru languages and ultimately of the Niger–Congo languages. It had 48,300 speakers in 1993. The main varieties are:Tepo: Tepo, Bapo, Wlopo / Ropo, Dapo, Honpo, Yrepo / Kapo, Glawlo dialects
+Pye: Trepo, Wluwe-Hawlo, Gbowe-Hran, Wlepo, Dugbo, Yrewe / Giriwe / Jrwe [ɟʀwe] / Jrewe, Yapo, Pie dialects
+Plapo

@@ -2,10 +2,12 @@
 iso: lcm
 name: Tungag
 autonym: Lavongai
-alt_names: [Dang, Lavangai, Neu-Mecklenburg, Tungak]
+alt_names: [Dang, Lavangai, Neu-Mecklenburg, Tungak, Toangai]
 population: 16000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: "Austronesian language of New Ireland Province, Papua New Guinea"
 status_id: "4"
 scope: individual
 language_type: living

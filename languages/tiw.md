@@ -6,11 +6,14 @@ alt_names: [Diwi, Nguiu, Ni mara, Ni-mara, Nimara, Tiví, Tiwian, Tiwian Family,
 population: 2040
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Isolate language spoken in Australia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -11.63078
 longitude: 130.94911
+language_map_img: Tiwi_language_area.webp
 glottocode: tiwi1244
 wikidata_id: Q1656014
 wikipedia_url: "https://en.wikipedia.org/wiki/Tiwi_language"

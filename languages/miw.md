@@ -6,6 +6,8 @@ alt_names: [Akoinkake, Akoyi, Angoya, Mahigi, Mai-Hea-Ri, Maiheari, Maihiri, Obi
 population: 800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Angan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

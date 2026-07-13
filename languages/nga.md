@@ -6,6 +6,8 @@ alt_names: ["'Bofi", Ali, Mbaka, Ngbaka Gbaya, Ngbaka Minangende, Ngbaka-Manza, 
 population: 1016650
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Gbaya language of DR Congo
 status_id: "4"
 scope: individual
 language_type: living

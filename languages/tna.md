@@ -6,6 +6,8 @@ alt_names: [Takana, Tupamasa]
 population: 7350
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Western Tacanan language of Bolivia
 status_id: "7"
 scope: individual
 language_type: living

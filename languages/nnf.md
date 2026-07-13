@@ -6,6 +6,7 @@ alt_names: [Sor]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
 status_id: "4"
 scope: individual
 language_type: living

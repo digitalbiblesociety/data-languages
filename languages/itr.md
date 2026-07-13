@@ -6,6 +6,8 @@ alt_names: [Alowiemino, Iyo, Laro, Yinibu]
 population: 480
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Left May language spoken in Papua New Guinea
 status_id: 8a
 scope: individual
 language_type: living

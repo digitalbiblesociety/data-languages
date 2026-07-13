@@ -2,15 +2,18 @@
 iso: bhb
 name: Bhili
 autonym: भीली
-alt_names: [Bhagoria, Bhil, Bhilbari, Bhilboli, Bhilla, Bhilodi, Bileg, Lengotia, Vil, Бхили]
+alt_names: [Bhagoria, Bhil, Bhilbari, Bhilboli, Bhilla, Bhilodi, Bileg, Lengotia, Vil, Бхили, Ahiri, Anarya, Baglani, Bhim, Charani, Habura, Konkani, Kotali, Kotvali, Kotwalia, Labani, Magra Ki Boli, Nahari, Naikdi, Pahadi, Panchali, Patelia, Ranawat, Rani Bhil, Siyalgir, Valvi]
 population: 10400000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Western Indo-Aryan language spoken in west-central India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 20.84998
 longitude: 73.95923
+language_map_img: bhb.webp
 scripts: [Deva]
 glottocode: bhil1251
 glottolog_family_id: indo1319

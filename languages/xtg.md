@@ -52,3 +52,4 @@ translations:
   - translation_iso: zho
     name: 山外高卢语
 ---
+Gaulish is an extinct Celtic language spoken in parts of Continental Europe before and during the period of the Roman Empire. In the narrow sense, Gaulish was the language of the Celts of Gaul. In a wider sense, it also comprises varieties of Celtic that were spoken across much of central Europe, parts of the Balkans, and Anatolia ("Galatian"), which are thought to have been closely related. The more divergent Lepontic of Northern Italy has also sometimes been subsumed under Gaulish.

@@ -6,6 +6,8 @@ alt_names: ["C'hwaneg", Hona, Hwona, Tuftera]
 population: 32000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

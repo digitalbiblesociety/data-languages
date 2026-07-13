@@ -6,11 +6,14 @@ alt_names: [Meglenera, Meglenite, Meglenitic, Megleno, Megleno-Roemeens, Megleno
 population: 3000
 country_id: GR
 country_name: Greece
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: Romance language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 41.11735
 longitude: 22.378175
+language_map_img: 500px-South-Balkan-Romance-languages.webp
 glottocode: megl1237
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

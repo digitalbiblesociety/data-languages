@@ -2,9 +2,12 @@
 iso: end
 name: Ende
 autonym: Endeh
+alt_names: [Djau, "Ja'o", "Nga'o", Ngao, West Ende]
 population: 110000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: "Language on Flores island, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

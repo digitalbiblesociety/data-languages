@@ -6,6 +6,8 @@ alt_names: [Magu, Mvanlip, Mvanon, Mvanöp]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Mambiloid language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

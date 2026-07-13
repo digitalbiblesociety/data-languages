@@ -2,10 +2,12 @@
 iso: vmd
 name: Mudu Koraga
 autonym: ಕೊರಗ
-alt_names: [Koraga, "Koraga, Mudu", "Mu:du", Mudu]
+alt_names: [Koraga, "Koraga, Mudu", "Mu:du", Mudu, Muudu]
 population: null
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in India
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 穆度-科拉加语
     auto: true
 ---
+Koraga is a Dravidian language spoken by the Koraga people, a Scheduled tribe people of Dakshina Kannada, Karnataka, and Kerala in South West India. The dialect spoken by the Koraga tribe in Kerala, Mudu Koraga, is divergent enough to not be intelligible with Korra Koraga. Glottolog consider them as different languages.

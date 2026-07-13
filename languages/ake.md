@@ -2,10 +2,12 @@
 iso: ake
 name: Akawaio
 autonym: Ingarikó
-alt_names: ["\"akawaio (Guyana, Venezuela)\"", "\"akawaio (Guyane, République bolivarienne du Venezuela)\"", Acahuayo, Acawayo, Accawai, Acewaio, Akavajo, Akawai, Akawaieg, Akawayo, Kapon, Kapong, Kapóng, Waicá]
+alt_names: ["\"akawaio (Guyana, Venezuela)\"", "\"akawaio (Guyane, République bolivarienne du Venezuela)\"", Acahuayo, Acawayo, Accawai, Acewaio, Akavajo, Akawai, Akawaieg, Akawayo, Kapon, Kapong, Kapóng, Waicá, Ingariko, Akwaio, Patamona, Waika]
 population: 4500
 country_id: GY
 country_name: Guyana
+location: Northeastern Brazil
+area: Cariban language spoken in Guyana and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
@@ -49,3 +51,4 @@ translations:
     name: 阿卡瓦约语
     auto: true
 ---
+Kapóng is a Cariban language spoken mainly in Guyana, most commonly in the region of the Upper Mazaruni. Though many speakers do not live in villages, there are a number of population centers, notably Kamarang, Jawalla, Waramadong, and Kako. There are two dialects, Akawaio and Patamona.

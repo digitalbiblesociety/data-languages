@@ -6,6 +6,8 @@ alt_names: [Vella Lavella, Vella la Vella]
 population: 9000
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Papuan language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

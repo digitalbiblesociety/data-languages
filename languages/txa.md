@@ -2,10 +2,12 @@
 iso: txa
 name: Tombonuo
 autonym: Lobu
-alt_names: [Paitan, Sungai, Sungei, Tambanua, Tambanuo, Tambanuva, Tambanwas, Tambenua, Tambunwas, Tembenua, Tombonuva, Tombonuwo, Tumbunwha, Tunbumohas]
+alt_names: [Paitan, Sungai, Sungei, Tambanua, Tambanuo, Tambanuva, Tambanwas, Tambenua, Tambunwas, Tembenua, Tombonuva, Tombonuwo, Tumbunwha, Tunbumohas, Kyanga, Lingkabau Sugut, Linkabau, Sugut, Sungoi, Tangar nu Tombonuo]
 population: 10000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

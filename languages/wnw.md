@@ -5,6 +5,7 @@ autonym: Northern Wintun
 population: 5
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in California
 status_id: "9"
 scope: individual
 language_type: living

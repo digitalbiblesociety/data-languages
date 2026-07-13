@@ -6,6 +6,8 @@ alt_names: [Baale, Bale, Kacipo-Bale Suri, "Suri, Kacipo-Bale", Zilmamu]
 population: 10000
 country_id: SS
 country_name: South Sudan
+location: Southwestern Ethiopia
+area: Surmic language spoken in Ethiopia and South Sudan
 status_id: 6a
 scope: individual
 language_type: living

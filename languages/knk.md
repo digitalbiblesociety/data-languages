@@ -2,10 +2,12 @@
 iso: knk
 name: Kuranko
 autonym: null
-alt_names: [Koranko]
+alt_names: [Koranko, Barrawa, Faranah, Fineriya, Mankaliya, Mongo, Ney, Nieni, Sambaya, Sankaran, Sengbe]
 population: 594000
 country_id: SL
 country_name: Sierra Leone
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

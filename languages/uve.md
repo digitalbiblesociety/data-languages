@@ -2,10 +2,12 @@
 iso: uve
 name: West Uvean
 autonym: Fagauvea
-alt_names: [Faga-Uvea, "Uvean, West", Uveano (meridional)]
+alt_names: [Faga-Uvea, "Uvean, West", Uveano (meridional), Faga Uvea]
 population: 1110
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: "Polynesian language of Ouvéa, New Caledonia"
 status_id: 6b
 scope: individual
 language_type: living

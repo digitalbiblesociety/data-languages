@@ -3,10 +3,11 @@ iso: mlt
 iso639_1: mt
 name: Maltese
 autonym: Malti
-alt_names: [An Mháltais, Arabic, Kimalta, Lingwa Maltija, Malta, Malta simi, Malta-gí, Maltaca, Maltais, Maltana linguo, Maltańsko godka, Maltees, Malteesk, Malteg, Maltera, Maltesisk, Maltesiska, Maltish, Maltneska, Maltès, Maltés, bangrmalti, מלטית, مالتا تىلى, مالطى]
+alt_names: [An Mháltais, Arabic, Kimalta, Lingwa Maltija, Malta, Malta simi, Malta-gí, Maltaca, Maltais, Maltana linguo, Maltańsko godka, Maltees, Malteesk, Malteg, Maltera, Maltesisk, Maltesiska, Maltish, Maltneska, Maltès, Maltés, bangrmalti, מלטית, مالتا تىلى, مالطى, Gozo, Port Maltese, Rural Central Maltese, Rural East Maltese, Rural West Maltese, Standard Maltese, Zurrieq]
 population: 533080
 country_id: MT
 country_name: Malta
+area: Semitic language spoken mostly in Malta
 status_id: "1"
 scope: individual
 language_type: living

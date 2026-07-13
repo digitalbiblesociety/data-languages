@@ -2,10 +2,12 @@
 iso: wbl
 name: Wakhi
 autonym: x̌ik zik / Х̌ ик зик
-alt_names: [Guhjali, Khik, Vakhan, Vakí, Wakhani, Wakheg, Wakhigi]
+alt_names: [Guhjali, Khik, Vakhan, Vakí, Wakhani, Wakheg, Wakhigi, Central Wakhi, Eastern Wakhi, Gojal, Ishkoman, Khikwar, Western Wakhi, Xhikwor, X̌ik zik, X̌ikwor, Yarkhun, Yasin]
 population: 52200
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Eastern Iranian language spoken by the Wakhi people
 status_id: 6a
 scope: individual
 language_type: living

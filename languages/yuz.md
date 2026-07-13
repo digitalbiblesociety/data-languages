@@ -2,10 +2,12 @@
 iso: yuz
 name: Yuracare
 autonym: Yura
-alt_names: [Cuchi, Enete, Yourakareg, Yuracar, Yuracaré, Yuracaré language, Yurakare, Yurakaré, Yurucar, Yurujure, Юракаре]
+alt_names: [Cuchi, Enete, Yourakareg, Yuracar, Yuracaré, Yuracaré language, Yurakare, Yurakaré, Yurucar, Yurujure, Юракаре, Mansinyo, Soloto]
 population: 1810
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Indigenous language of Bolivia
 status_id: 6b
 scope: individual
 language_type: living

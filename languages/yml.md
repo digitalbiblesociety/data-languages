@@ -2,10 +2,12 @@
 iso: yml
 name: Iamalele
 autonym: null
-alt_names: [Yamalele]
+alt_names: [Yamalele, Central Yamalele, Didigavu, Gwabegwabe, Masimasi, Southern Yamalele]
 population: 2800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

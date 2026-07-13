@@ -5,6 +5,8 @@ autonym: "Linyanga-le"
 population: 69000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of DR Congo
 status_id: 8a
 scope: individual
 language_type: living

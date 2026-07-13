@@ -3,10 +3,12 @@ iso: bxk
 macrolanguage_id: luy
 name: Bukusu
 autonym: Lubukusu
-alt_names: [Boukousoueg]
+alt_names: [Boukousoueg, Babukusu]
 population: 1227100
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Dialect of the Masaba language
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Baloki, Boleki, Buluki, River Ruki]
 population: 4200
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of DR Congo
 status_id: 6b
 scope: individual
 language_type: living

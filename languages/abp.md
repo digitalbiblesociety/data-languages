@@ -2,10 +2,12 @@
 iso: abp
 name: Abellen Ayta
 autonym: Ayta Abellen
-alt_names: [Abellen language, Abenlen, Aburlin Negrito, Ayta Abenlen Sambal, "Ayta, Abellen", "Ayta, Abenlen", Sambal]
+alt_names: [Abellen language, Abenlen, Aburlin Negrito, Ayta Abenlen Sambal, "Ayta, Abellen", "Ayta, Abenlen", Sambal, Aburlen Negrito, Ayta Abellen Sambal, Ayta, Abellen, Aburlin]
 population: 3000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

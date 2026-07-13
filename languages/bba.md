@@ -2,10 +2,12 @@
 iso: bba
 name: Baatonum
 autonym: baatɔnum
-alt_names: [Baatombu, Baatonu, Baatonun-Kwara, Barba, Barganchi, Bargawa, Bargu, Bariba, Baruba, Batonnum, Batonu, Berba, Bogung, Borgawa, Burgu, Zana]
+alt_names: [Baatombu, Baatonu, Baatonun-Kwara, Barba, Barganchi, Bargawa, Bargu, Bariba, Baruba, Batonnum, Batonu, Berba, Bogung, Borgawa, Burgu, Zana, Baatonun, Borgu]
 population: 1041000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language spoken in West Africa
 status_id: "3"
 scope: individual
 language_type: living

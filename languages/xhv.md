@@ -5,11 +5,14 @@ autonym: Bruu
 population: 3000
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.402005
 longitude: 106.02094
+glottocode: khua1243
 wikidata_id: Q13018510
 translations:
   - translation_iso: ara
@@ -48,3 +51,4 @@ translations:
     name: 库亚语
     auto: true
 ---
+Bruu is a Mon–Khmer dialect continuum spoken by the Bru people of mainland Southeast Asia. Sô and Khua are dialects.

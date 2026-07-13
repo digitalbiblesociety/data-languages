@@ -2,14 +2,18 @@
 iso: abl
 name: Lampung Nyo
 autonym: Cawa Lampung
+alt_names: [Abung, Lampong, Melinting, Sukadana, Tulangbawang]
 population: 180000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -4.43957
 longitude: 105.39652
+language_map_img: Lampungic_isolects.svg
 glottocode: lamp1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

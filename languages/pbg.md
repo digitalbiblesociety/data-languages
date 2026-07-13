@@ -6,6 +6,7 @@ alt_names: [Anun, Anyú, Añú, Añún, Parahujano, Parauhano, Parujano]
 population: 1
 country_id: VE
 country_name: Venezuela
+area: Arawakan language spoken in Venezuela
 status_id: 8b
 scope: individual
 language_type: extinct

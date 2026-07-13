@@ -2,10 +2,12 @@
 iso: gru
 name: Kistane
 autonym: Kəstane
-alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg]
+alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg, Dobbi, Dobi, Goggot, Sodo Gurage]
 population: 255000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Gurage language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

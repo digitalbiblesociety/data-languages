@@ -6,6 +6,7 @@ alt_names: [Hutyéyu, Nehalin, Tilamuco, Tillamooks]
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Salishan language of northwestern Oregon, US"
 status_id: "10"
 scope: individual
 language_type: extinct

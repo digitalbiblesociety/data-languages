@@ -6,6 +6,7 @@ alt_names: [Mama]
 population: 200
 country_id: PG
 country_name: Papua New Guinea
+area: Finisterre language of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

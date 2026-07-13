@@ -6,6 +6,8 @@ alt_names: [Biaksi, Inisine, Yetfa-Biksi]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Pauwasi language spoken in Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living

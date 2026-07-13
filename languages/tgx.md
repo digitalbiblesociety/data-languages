@@ -6,6 +6,8 @@ alt_names: [Tagís]
 population: 400
 country_id: CA
 country_name: Canada
+location: Canada
+area: "Extinct language spoken by the Tagish First Nations people of Yukon Territory, Canada"
 status_id: 8b
 scope: individual
 language_type: living

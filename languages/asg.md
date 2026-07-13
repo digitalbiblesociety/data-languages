@@ -2,10 +2,12 @@
 iso: asg
 name: Cishingini
 autonym: Agwara Kambari
-alt_names: ["\"Maunchi\"", "\"Mawanchi\"", Aschingini, Ashaganna, Ashingini, Chisingini, Kambari, Kamberchi, Kamberri, Yauri]
+alt_names: ["\"Maunchi\"", "\"Mawanchi\"", Aschingini, Ashaganna, Ashingini, Chisingini, Kambari, Kamberchi, Kamberri, Yauri, “Maunchi”, “Mawanchi”, Rofia, Tsishingini]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: kik
 iso639_1: ki
 name: Kikuyu
 autonym: Gĩkũyũ
-alt_names: [Gekoyo, Gigikuyu, Gikouyoueg, Gikuyu, Gikuyu language, Gikuyum, Gėkooijo, Gĩgĩkũyũ, Kikuyu simi, Kíkújú, Кикуйю]
+alt_names: [Gekoyo, Gigikuyu, Gikouyoueg, Gikuyu, Gikuyu language, Gikuyum, Gėkooijo, Gĩgĩkũyũ, Kikuyu simi, Kíkújú, Кикуйю, Gichugu, Karatina, Kiambu, Mathira, Ndia, Northern Gikuyu, Northern Kirinyaga, "Northern Murang'a", Nyeri, Southern Gikuyu, Southern Kirinyaga, "Southern Murang'a"]
 population: 8150000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language in Kenya
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -0.29005
 longitude: 36.71901
+language_map_img: kik.webp
 scripts: [Latn]
 glottocode: kiku1240
 glottolog_family_id: atla1278

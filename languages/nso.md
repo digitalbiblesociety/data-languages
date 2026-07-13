@@ -2,15 +2,18 @@
 iso: nso
 name: Pedi
 autonym: Pedi
-alt_names: [Noord-Sotho, Nord-Sotho, Nordi Sutum, Nordlig sotho, Northern, Northern Sotho, Northern Sotho language, SeSotho do norte, Sepedi, Sesotho sa leboa, Sotho, Sotho (North), Sotho (Northern), Sotho du Nord, "Sotho, Northern", Sothoeg an norzh, Transvaal Sotho, Северный сото]
+alt_names: [Noord-Sotho, Nord-Sotho, Nordi Sutum, Nordlig sotho, Northern, Northern Sotho, Northern Sotho language, SeSotho do norte, Sepedi, Sesotho sa leboa, Sotho, Sotho (North), Sotho (Northern), Sotho du Nord, "Sotho, Northern", Sothoeg an norzh, Transvaal Sotho, Северный сото, Dogwa, Dzwabo, Gananwa, Hananwa, Kgaga, Khaga, Khelobedu, Khutswe, Khutswi, Kone, Koni, Kopa, Kutswe, Kxaxa, Lobedu, Lovedu, Lubedu, Masemola, Masemula, Matlala-Moletshi, Ndebele-Sotho, Pai, Phalaborwa, Phalaburwa, Pulana, Tau, Thabine-Roka-Nareng, Thephalaborwa, Tlokoa, Tlokwa, Tokwa, Tswene, Tsweni, Xananwa]
 population: 4631000
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Sotho-Tswana language spoken in South Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -24.79929
 longitude: 29.47179
+language_map_img: South_Africa_2011_Northern_Sotho_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: pedi1238
 glottolog_family_id: atla1278

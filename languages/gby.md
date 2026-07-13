@@ -2,10 +2,12 @@
 iso: gby
 name: Gbari
 autonym: Gbari Yamma
-alt_names: [Gwari, Gwari Yamma, Nkwa, West Gwari]
+alt_names: [Gwari, Gwari Yamma, Nkwa, West Gwari, Agbawi, Botai, Gayegi, Gbagyi Nkwa, Izem, Jezhu, Kangye, Kong, Kwali, Kwange, Paiko, Wahe, Wake, Wi]
 population: 523000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Language in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

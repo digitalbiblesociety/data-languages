@@ -2,10 +2,12 @@
 iso: mnz
 name: Moni
 autonym: Djonggunu
-alt_names: [Jonggunu, Migani]
+alt_names: [Jonggunu, Migani, Awembak, Awembiak, Megani]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

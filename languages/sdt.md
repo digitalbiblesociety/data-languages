@@ -2,14 +2,17 @@
 iso: sdt
 name: Shuadit
 autonym: Shuadit
+alt_names: [Judeo-Comtadine, Judeo-Provençal, Shuadi]
 population: null
 country_id: FR
 country_name: France
+area: Extinct Occitan dialect
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 44.16916
 longitude: 5.06601
+glottocode: shua1252
 wikidata_id: Q56472
 wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Proven%C3%A7al"
 translations:

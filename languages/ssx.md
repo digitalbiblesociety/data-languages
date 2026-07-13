@@ -2,10 +2,12 @@
 iso: ssx
 name: Samberigi
 autonym: Sau
-alt_names: [Sanaberigi]
+alt_names: [Sanaberigi, Sembeleke, Sanaberig]
 population: 3130
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Engan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

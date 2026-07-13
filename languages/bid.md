@@ -2,10 +2,12 @@
 iso: bid
 name: Bidiyo
 autonym: Bidio
-alt_names: ["'Bidio", "'Bidiyo", Bidiya, Bidiyo-Waana, Bidyo]
+alt_names: ["'Bidio", "'Bidiyo", Bidiya, Bidiyo-Waana, Bidyo, ’Bidio, ’Bidiyo]
 population: 14000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: 6a
 scope: individual
 language_type: living

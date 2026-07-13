@@ -2,10 +2,12 @@
 iso: nhq
 name: Huaxcaleca Nahuatl
 autonym: Southeastern Puebla Nahuatl
-alt_names: [Eastern Nawa, Huaxcaleca Aztec, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Huaxcaleca", Náhuatl de Chichiquila, Náhuatl du Huasteca]
+alt_names: [Eastern Nawa, Huaxcaleca Aztec, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Huaxcaleca", Náhuatl de Chichiquila, Náhuatl du Huasteca, Huaxcaleca]
 population: 7000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Nahuatl variety of Mexico
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 瓦克萨莱卡纳瓦特尔语
     auto: true
 ---
+Tehuacan–Zongolica a.k.a. Southeastern Puebla Nahuatl is a variety of Nahuatl spoken by ethnic Nahua people in southeastern Puebla state (Tehuacan) and southern Veracruz (Zongolica) in Mexico.

@@ -2,10 +2,12 @@
 iso: igb
 name: Ebira
 autonym: Egbira
-alt_names: [Egbura, Ibara, Igbarra, Igbira, Igbirra, Katawa, Kotokori, Kwotto]
+alt_names: [Egbura, Ibara, Igbarra, Igbira, Igbirra, Katawa, Kotokori, Kwotto, Bira, Biri, Egu, Etuno, Hima, Igara, Igu, Ihima, Ika, Koto, Okene, Panda]
 population: 2000000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Niger-Congo language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

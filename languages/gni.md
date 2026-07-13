@@ -6,6 +6,8 @@ alt_names: [Bunuban family, Cowrana, Goonien, Gun ian, Gunan, Guniandi, Gunijan,
 population: 100
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Endangered Aboriginal language of Western Australia
 status_id: 8a
 scope: individual
 language_type: living

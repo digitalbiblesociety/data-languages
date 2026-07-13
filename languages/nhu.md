@@ -2,10 +2,12 @@
 iso: nhu
 name: Noone
 autonym: Nooni
-alt_names: [Kumaju, Noni]
+alt_names: [Kumaju, Noni, Lower Noone, Upper Noone]
 population: 40000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Niger–Congo language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

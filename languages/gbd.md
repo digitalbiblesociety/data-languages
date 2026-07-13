@@ -2,10 +2,12 @@
 iso: gbd
 name: Karajarri
 autonym: Karajarri
-alt_names: [Garad are, Garadare, Garadjara, Garadjari, Garadjari language, Garadjeri, Garadjiri, Garadyari, Garadyaria, "Gard'are", Gardare, Guradjara, Karacheri, Karadhari, Karadjari, Karadjeri, Karatjarri, Karatyarri, Karrajarra, Karrajarri, Kularupulu, Laradjeri, Marrngu, Minala, Murgud, Nadja, Nadjanadja, Nangu, Naudu, Naurdu, Nawudu, Nawurtu, Nawurungainj, Ngangu, Ngawadu]
+alt_names: [Garad are, Garadare, Garadjara, Garadjari, Garadjari language, Garadjeri, Garadjiri, Garadyari, Garadyaria, "Gard'are", Gardare, Guradjara, Karacheri, Karadhari, Karadjari, Karadjeri, Karatjarri, Karatyarri, Karrajarra, Karrajarri, Kularupulu, Laradjeri, Marrngu, Minala, Murgud, Nadja, Nadjanadja, Nangu, Naudu, Naurdu, Nawudu, Nawurtu, Nawurungainj, Ngangu, Ngawadu, Gard’are]
 population: 41
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

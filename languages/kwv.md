@@ -2,10 +2,12 @@
 iso: kwv
 name: Sara Kaba Náà
 autonym: Sara Kaba
-alt_names: [Dana, Kaba Na, Kaba Naa, Kaba Nar, Na, Sara Kaba Naa]
+alt_names: [Dana, Kaba Na, Kaba Naa, Kaba Nar, Na, Sara Kaba Naa, Banga, Dendje, Denje, Dindje, Dinje, Dounje, Dunje, Kaba Dunjo, Mbanga, Naa, Sara Dinjo, Sara Dunjo, Tie, Tiye]
 population: 39000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language of Chad and the CAR
 status_id: "5"
 scope: individual
 language_type: living

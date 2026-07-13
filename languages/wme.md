@@ -2,10 +2,12 @@
 iso: wme
 name: Wambule
 autonym: Chourase
-alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish]
+alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish, Caurasia, Radu Yor, Vambucauras Raduyor, Vambule, Vambule Radu Yor, Vambule Yor]
 population: 1000
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language of Nepal
 status_id: "5"
 scope: individual
 language_type: living

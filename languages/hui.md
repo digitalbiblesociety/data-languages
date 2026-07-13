@@ -6,6 +6,8 @@ alt_names: [Bahuli, Huli-Hulidana, Huri, Urahuli]
 population: 200000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Engan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

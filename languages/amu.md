@@ -2,10 +2,12 @@
 iso: amu
 name: Guerrero Amuzgo
 autonym: Ñomndaa
-alt_names: [Amusgo, Amuzgo, "Amuzgo, Guerrero", Azmugo, Guerrero, Nomndaa]
+alt_names: [Amusgo, Amuzgo, "Amuzgo, Guerrero", Azmugo, Guerrero, Nomndaa, Amuzgo de Guerrero, Amuzgo de Xochistlahuaca, Amuzgo de Zacoalpan, Amuzgo del Norte, Amuzgo del Sur, Huixtepec Amuzgo, Cochoapa, Huehuetonoc, Jñomꞌndaa, Ñonda]
 population: 45900
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Amuzgo language of Mexico
 status_id: "4"
 scope: individual
 language_type: living

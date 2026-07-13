@@ -2,10 +2,12 @@
 iso: lmk
 name: Lamkang
 autonym: Ksen
-alt_names: ["\"Hiroi-Lamgang\"", "\"Lamgang\"", Hiroi-Lamgang, Lamgang, Lamkaang, Lamkang Naga]
+alt_names: ["\"Hiroi-Lamgang\"", "\"Lamgang\"", Hiroi-Lamgang, Lamgang, Lamkaang, Lamkang Naga, “Hiroi-Lamgang”, “Lamgang”]
 population: 10000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Sino-Tibetan language spoken in Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living

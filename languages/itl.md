@@ -2,15 +2,18 @@
 iso: itl
 name: Itelmen
 autonym: Western Kamchadal
-alt_names: ["Itel'men", Itelmeno, Itelmensk, Itelmèn, Itelmène, Itelymem, Itənmən, Kamchadal, Kamchatka, Western Itelmen, Итәнмән’ин крвэӆхатас, итэнмэн]
+alt_names: ["Itel'men", Itelmeno, Itelmensk, Itelmèn, Itelmène, Itelymem, Itənmən, Kamchadal, Kamchatka, Western Itelmen, Итәнмән’ин крвэӆхатас, итэнмэн, Sedanka, Xajrjuzovo]
 population: 3189
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: "Chukotko-Kamchatkan language of Kamchatka Krai, Russia"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 56.77984
 longitude: 156.90623
+language_map_img: Chukotko-Kamchatkan_map.svg
 glottocode: itel1242
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan

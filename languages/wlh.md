@@ -6,11 +6,14 @@ alt_names: [Welaun]
 population: 5580
 country_id: TL
 country_name: "Timor-Leste"
+location: "Asia, Southeast"
+area: Austronesian language
 status_id: null
 scope: individual
 language_type: living
 latitude: -9.097288
 longitude: 125.239513
+language_map_img: 500px-Bekais.webp
 glottocode: wela1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

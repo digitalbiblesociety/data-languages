@@ -2,10 +2,12 @@
 iso: afe
 name: Putukwam
 autonym: Ebe Cluster
-alt_names: [Mbe Afal, Mbube Eastern, Utugwang]
+alt_names: [Mbe Afal, Mbube Eastern, Utugwang, Aferike, Afrike, Irungene, Mbe East, Mgbenege, Ngbenege, Obe, Obe Nrung Ene, Okorotung, Okworogung, Otukwang, Ukworogung, Ukwortung, Upper Mbe, Utugwang-Irungene-Afrike, Utukwang, Utumane]
 population: 12000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Bendi language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

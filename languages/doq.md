@@ -5,6 +5,7 @@ autonym: Lenguaje de Señas Bolivianas LSB
 population: 32000
 country_id: DO
 country_name: Dominican Republic
+area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living

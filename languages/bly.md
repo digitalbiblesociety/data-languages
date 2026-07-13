@@ -6,6 +6,8 @@ alt_names: [Bulba, Burusa, Nootre, Nõtre]
 population: 1500
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language spoken in Benin
 status_id: 6b
 scope: individual
 language_type: living

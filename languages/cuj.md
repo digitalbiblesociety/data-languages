@@ -2,10 +2,12 @@
 iso: cuj
 name: Mashco Piro
 autonym: Cujareño
-alt_names: ["\"Mashco\"", Cujareno, Mashco, Piro, Yine]
+alt_names: ["\"Mashco\"", Cujareno, Mashco, Piro, Yine, “Mashco”]
 population: 60
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of Peru
 status_id: 6b
 scope: individual
 language_type: living

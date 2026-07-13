@@ -6,11 +6,14 @@ alt_names: [Grec pontique, Gresianeg Pontos, Pontic Greek, Ponties, Pontisch, Po
 population: 778000
 country_id: GR
 country_name: Greece
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: Variety of modern Greek
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 37.92
 longitude: 23.67
+language_map_img: Greek_Asia_Minor_dialects.webp
 scripts: [Cyrl, Grek, Latn]
 glottocode: pont1253
 glottolog_family_id: indo1319

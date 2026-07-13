@@ -6,6 +6,8 @@ alt_names: [Ayizo-Gbe, Ayzo, "Gbe, Ayizo"]
 population: 476000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Language group of Benin
 status_id: 6a
 scope: individual
 language_type: living

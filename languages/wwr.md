@@ -6,11 +6,13 @@ alt_names: [Kolaruma, "Wa:rwa", Warrwai, Waruwa, Warwa, Warwai]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -17.09646
 longitude: 123.97143
+language_map_img: 500px-Traditional_lands_of_Australian_Aboriginal_Tribes_around_Derby.webp
 glottocode: warr1258
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan

@@ -5,11 +5,14 @@ autonym: Damai
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Austroasiatic language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.98016
 longitude: 101.15793
+glottocode: kuan1250
 wikidata_id: Q6441084
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuan_language"
 translations:

@@ -5,6 +5,8 @@ autonym: Kiholo
 population: null
 country_id: AO
 country_name: Angola
+location: "Africa, Southern"
+area: Bantu language spoken in Angola and DRC
 status_id: null
 scope: individual
 language_type: living

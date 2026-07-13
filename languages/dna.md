@@ -6,6 +6,8 @@ alt_names: [Dani, "Dani, Upper Grand Valley", Grand Valley Dani, Ndani]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesian New Guinea (Papua)
 status_id: "5"
 scope: individual
 language_type: living
@@ -80,3 +82,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Papua"
 ---
+Grand Valley Dani, or simply Dani, is one of the most populous Papuan languages in Indonesian New Guinea. The Dani people live in the Baliem Valley of the Western Highlands.

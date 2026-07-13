@@ -2,10 +2,12 @@
 iso: loz
 name: Lozi
 autonym: siLozi / Rozi
-alt_names: [Kololo, Rotse, Rotvi, Rozi, Rutse, Silozi, Tozvi]
+alt_names: [Kololo, Rotse, Rotvi, Rozi, Rutse, Silozi, Tozvi, Kolololo]
 population: 734000
 country_id: ZM
 country_name: Zambia
+location: Botswana
+area: Bantu language spoken in southern Africa
 status_id: "4"
 scope: individual
 language_type: living

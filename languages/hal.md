@@ -6,11 +6,14 @@ alt_names: [Alang, Halangeg, Haleng, Halong, Kolong, Salang, Selong]
 population: 13500
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language spoken in Vietnam and Laos
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.78621
 longitude: 107.45652
+language_map_img: 500px-Halang_language_Map.webp
 glottocode: hala1252
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

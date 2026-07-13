@@ -6,6 +6,7 @@ alt_names: [Gudjal, Gudjala, Gugu-Badhun, Koko Patun, Kuritjal, Kutjala, Warrial
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct

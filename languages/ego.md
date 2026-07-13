@@ -6,6 +6,8 @@ alt_names: [Egon, Hill Mada, Mada Dutse, Mada Eggon, Mo Egon]
 population: 254000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Plateau language of central Nigeria
 status_id: 6a
 scope: individual
 language_type: living

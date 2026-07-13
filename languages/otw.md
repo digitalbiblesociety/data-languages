@@ -3,15 +3,18 @@ iso: otw
 macrolanguage_id: oji
 name: Ottawa
 autonym: Nishnaabemwin
-alt_names: [Chippewa, Chippeway, Eastern Ojibwa, Odaawaa, Odawa, Ojibwa, Ojibway, Ojibwe, Oyibua odahua (Isla de Walpole)]
+alt_names: [Chippewa, Chippeway, Eastern Ojibwa, Odaawaa, Odawa, Ojibwa, Ojibway, Ojibwe, Oyibua odahua (Isla de Walpole), Daawaamwin]
 population: 7360
 country_id: CA
 country_name: Canada
+location: Canada
+area: Native American dialect
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 44.598835
 longitude: -83.22595
+language_map_img: 500px-OdaawaaAreas.webp
 glottocode: otta1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

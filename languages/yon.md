@@ -6,6 +6,8 @@ alt_names: [Iongom, Kate, "Kati (in West Papua, Indonesia)", "Northern Kati, Sou
 population: 6000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Ok language spoken in Indonesia and Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

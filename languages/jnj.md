@@ -2,10 +2,12 @@
 iso: jnj
 name: Yemsa
 autonym: Yemsa
-alt_names: ["\"Janjerinya\"", "\"Janjero\"", "\"Janjor\"", "\"Yangaro\"", "\"Zinjero\"", Janjerinya, Janjero, Janjor, Yangaro, Yem, Yemma, Zinjero]
+alt_names: ["\"Janjerinya\"", "\"Janjero\"", "\"Janjor\"", "\"Yangaro\"", "\"Zinjero\"", Janjerinya, Janjero, Janjor, Yangaro, Yem, Yemma, Zinjero, “Janjerinya”, “Janjero”, “Janjor”, “Yangaro”, “Zinjero”, Fuga of Jimma, Toba]
 population: 160000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

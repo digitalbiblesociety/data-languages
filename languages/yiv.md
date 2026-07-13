@@ -2,10 +2,12 @@
 iso: yiv
 name: Northern Nisu
 autonym: Southern Yi
-alt_names: [E-Xin Yi, Lolo, "Nisu, Northern", "Nisu,Northern", Yi, "Yi, Eshan-Xinping"]
+alt_names: [E-Xin Yi, Lolo, "Nisu, Northern", "Nisu,Northern", Yi, "Yi, Eshan-Xinping", Nasu, Nasupho, Nisu, Nisupho]
 population: 160000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language cluster spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+Nisu is a language cluster spoken by half a million Yi people of China. It is one of six Yi languages recognized by the government of China. The Yi script was traditionally used, though few can still read it. According to Lama (2012), Nisu (Nishu) autonyms include, , and.

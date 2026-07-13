@@ -3,10 +3,12 @@ iso: zab
 macrolanguage_id: zap
 name: Western Tlacolula Valley Zapotec
 autonym: Valley Zapotec
-alt_names: [Central Sapoteko, San Juan Guelavia Zapotec, San Juan Guelavía Zapotec, Sapoteko, Western Tlacolula Zapotec, Zapotec, Zapotec (San Lucas Quiaviní), Zapotec (San Lucas), "Zapotec, San Juan Guelavía", "Zapotec, Western Tlacolula Valley", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Guelavía, Zapotèque de San Felipe Tejalapan]
+alt_names: [Central Sapoteko, San Juan Guelavia Zapotec, San Juan Guelavía Zapotec, Sapoteko, Western Tlacolula Zapotec, Zapotec, Zapotec (San Lucas Quiaviní), Zapotec (San Lucas), "Zapotec, San Juan Guelavía", "Zapotec, Western Tlacolula Valley", Zapoteco de San Felipe Tejalápam, Zapoteco de San Juan Guelavía, Zapotèque de San Felipe Tejalapan, Guelavía, San Juan Guelavía, Zapoteco de San Juan, Diiꞌzh Sah, Ditsa, Jalieza Zapotec, San Lucas Quiavini Zapotec, San Lucas Zapotec, San Marcos Tlapazola Zapotec, San Martín Tilcajete Zapotec, Santa Ana del Valle Zapotec, Teotitlán del Valle Zapotec, Tlacolula Valley Zapotec, Western Tlacolula Valley, Zapoteco de Jalieza, Zapoteco de Teotitlán, Zapoteco de Tlacolula occidental, Zapoteco del Oeste de Tlacolula]
 population: 28000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Eotile, Metyibo, Éotilé]
 population: 200
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Tano language of Ivory Coast
 status_id: 8b
 scope: individual
 language_type: living

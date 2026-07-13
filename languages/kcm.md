@@ -6,6 +6,8 @@ alt_names: [Goula, Gula, Gula du Mamoun, Kara, Kara de Soudan, Kara of Sudan, Ya
 population: 13000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Sudanic language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living

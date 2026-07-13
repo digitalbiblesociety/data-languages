@@ -3,10 +3,12 @@ iso: nde
 iso639_1: nd
 name: North Ndebele
 autonym: Zimbabwe Ndebele
-alt_names: [IsiNdebele, "Isinde'bele", Ndebele, "Ndebele, North", Noord-Ndebele, Nordndebele, Northern Ndebele, Northern Ndebele language, Sindebele, Tabele, Tebele, ndébélé du Nord]
+alt_names: [IsiNdebele, "Isinde'bele", Ndebele, "Ndebele, North", Noord-Ndebele, Nordndebele, Northern Ndebele, Northern Ndebele language, Sindebele, Tabele, Tebele, ndébélé du Nord, Isinde’bele, Ndebele of Zimbabwe]
 population: 1642000
 country_id: ZW
 country_name: Zimbabwe
+location: Botswana
+area: Bantu language of Zimbabwe and Botswana
 status_id: "3"
 scope: individual
 language_type: living

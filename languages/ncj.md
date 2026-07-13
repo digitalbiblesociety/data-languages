@@ -2,10 +2,12 @@
 iso: ncj
 name: Northern Puebla Nahuatl
 autonym: masehual tla’tol (ncj)
-alt_names: [Mexicano, N Puebla Nahuatl, N. Puebla Nahuatl, Nahuatl, Nahuatl (North Puebla), Nahuatl (Puebla Norte), "Nahuatl, Northern Puebla", Nawa, North Puebla Aztec, North Puebla Nahuatl, North Puebla Sierra Nahuatl, Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Puebla]
+alt_names: [Mexicano, N Puebla Nahuatl, N. Puebla Nahuatl, Nahuatl, Nahuatl (North Puebla), Nahuatl (Puebla Norte), "Nahuatl, Northern Puebla", Nawa, North Puebla Aztec, North Puebla Nahuatl, North Puebla Sierra Nahuatl, Northern Nahuatl, Northern Nawa, Náhuatl del Norte de Puebla, Northern Puebla, Chiconcuatla Náhuatl]
 population: 60000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Eastern Peripheral variety of the Nahuatl language group
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 北普埃布拉纳瓦特尔语
     auto: true
 ---
+Sierra Puebla Nahuatl is one of the Eastern Peripheral varieties of Nahuatl, spoken by ethnic Nahua people in northwestern Puebla state in Mexico.

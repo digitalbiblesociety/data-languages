@@ -2,10 +2,12 @@
 iso: tlf
 name: Telefol
 autonym: Telefol Weng
-alt_names: [Eripataman, Teleefool, Telefolmin, Telefomin, Telefool]
+alt_names: [Eripataman, Teleefool, Telefolmin, Telefomin, Telefool, Feramin]
 population: 5400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

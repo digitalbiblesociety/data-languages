@@ -5,6 +5,8 @@ autonym: Zambezi
 population: null
 country_id: ZW
 country_name: Zimbabwe
+location: Zimbabwe
+area: Bantu language of Zambia and Zimbabwe
 status_id: 6a
 scope: individual
 language_type: living

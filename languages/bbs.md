@@ -6,6 +6,8 @@ alt_names: [Begbungba, Iyongiyong, Iyoniyong, Uwet]
 population: 4000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Endangered Cross River language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

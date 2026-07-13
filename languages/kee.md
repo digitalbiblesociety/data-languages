@@ -6,11 +6,14 @@ alt_names: [Eastern, Eastern Keresan, Keres, Keres (Eastern), Keres (Santa Ana P
 population: 6880
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Language isolate of New Mexico, United States"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 35.52158
 longitude: -106.45285
+language_map_img: 500px-Keres_langs.webp
 glottocode: east1472
 glottolog_family_id: kere1287
 glottolog_family_name: Keresan
@@ -78,3 +81,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, New Mexico"
 ---
+Keres, also Keresan, is a Native American language, spoken by the Keres Pueblo people in New Mexico. Depending on the analysis, Keres is considered a small language family or a language isolate with several dialects. If it is considered a language isolate, it would be the most widely spoken language isolate within the borders of the United States. The varieties of each of the seven Keres pueblos are mutually intelligible with its closest neighbors. There are significant differences between the Western and Eastern groups, which are sometimes counted as separate languages.

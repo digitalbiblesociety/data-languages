@@ -6,6 +6,8 @@ alt_names: [Biao Mien, Biaoman, Changping, Man, Mien, Min Yao, Sida Min Yao, Yao
 population: 20000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Mienic language of Guangxi, China"
 status_id: 6a
 scope: individual
 language_type: living

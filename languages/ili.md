@@ -2,15 +2,18 @@
 iso: ili
 name: Ili Turki
 autonym: İlı turkeşi
-alt_names: [Ilieg, "T'urk", Tuerke, İli Türk tili]
+alt_names: [Ilieg, "T'urk", Tuerke, İli Türk tili, Ili Turk, T’urk, Tu’erke]
 population: 120
 country_id: CN
 country_name: China
+location: China
+area: Endangered Turkic language in China
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 44.008885
 longitude: 80.49571
+language_map_img: 500px-Ili.webp
 glottocode: ilit1241
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

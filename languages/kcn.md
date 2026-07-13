@@ -6,6 +6,7 @@ alt_names: [Ki-Nubi, Kinúbi, Nubieg, Rután Núbi]
 population: 42000
 country_id: UG
 country_name: Uganda
+area: Sudanese Arabic-based creole language
 status_id: 6a
 scope: individual
 language_type: living

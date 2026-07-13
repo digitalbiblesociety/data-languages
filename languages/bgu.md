@@ -6,6 +6,8 @@ alt_names: [Bungnu, Bungun, Bunu, Gbunhu, Kakaba, Mbogno]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: Southwestern Cameroon
+area: Mambiloid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

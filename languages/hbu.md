@@ -6,11 +6,14 @@ alt_names: [Kairui]
 population: 1260
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Language spoken in central East Timor
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -8.76565
 longitude: 125.96468
+language_map_img: 500px-Habun.webp
 glottocode: habu1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

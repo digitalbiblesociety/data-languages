@@ -2,15 +2,18 @@
 iso: dzg
 name: Dazaga
 autonym: Dazaga
-alt_names: [Dasa, Daza, Dazageg, Dazza, Tebu, Tibbu, Toubou, Tubu]
+alt_names: [Dasa, Daza, Dazageg, Dazza, Tebu, Tibbu, Toubou, Tubu, Azzaga, Gorane, Kashirda, Teda-Daza]
 population: 692400
 country_id: TD
 country_name: Chad
+location: Niger
+area: Saharan language of eastern Niger and northern Chad
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 15.73584
 longitude: 15.851695
+language_map_img: Toubou_map.svg
 glottocode: daza1242
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

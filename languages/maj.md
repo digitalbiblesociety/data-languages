@@ -2,10 +2,12 @@
 iso: maj
 name: Jalapa De Díaz Mazatec
 autonym: "Mazatec, Jalapa de Díaz"
-alt_names: [Jalapa De Diaz Mazatec, Jalapa Masateko, Jalapa Mazatec, Lowland Mazatec, Masateko, Mazatec, Mazateco, Mazateco de San Felipe Jalapa de Díaz, Mazateco del este bajo, Mazatèque de Jalapa, Mazatèque des basses terres]
+alt_names: [Jalapa De Diaz Mazatec, Jalapa Masateko, Jalapa Mazatec, Lowland Mazatec, Masateko, Mazatec, Mazateco, Mazateco de San Felipe Jalapa de Díaz, Mazateco del este bajo, Mazatèque de Jalapa, Mazatèque des basses terres, Jalapa de Díaz, Ntaxjo]
 population: 17500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mazatecan language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

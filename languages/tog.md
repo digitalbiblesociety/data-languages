@@ -6,6 +6,8 @@ alt_names: [Chitonga, Kitonga, Siska, Sisya, Tonga, Western Nyasa]
 population: 382000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in Malawi
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: tgn
 name: Tandaganon
 autonym: Tandaganon
+alt_names: [Naturalis]
 population: null
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language of the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 8.9815
 longitude: 126.186
+language_map_img: 500px-Surigaonon_language_map.webp
 glottocode: tand1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -58,3 +62,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao, Caraga Region"
 ---
+Surigaonon is an Austronesian language spoken by Surigaonon people. As a regional Philippine language, it is spoken in the province of Surigao del Norte, Surigao del Sur, Dinagat Islands, and some portions of Agusan del Norte, especially the towns near Lake Mainit, Agusan del Sur and Davao Oriental. The language, along with Butuanon and Tausug, are the only Visayan languages geographically native to Mindanao.

@@ -6,6 +6,8 @@ alt_names: [Alam, Banara, Dagoi, Dagui, Hatzfeldhafen, Mala, Malala, Pai]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

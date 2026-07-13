@@ -7,11 +7,14 @@ alt_names: [An Fhraincis, Bahsa Peurancih, Bourguignon, Champenois, Dáághahii 
 population: 77200000
 country_id: FR
 country_name: France
+location: Andorra and France
+area: Romance language from France
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 48
 longitude: 2
+language_map_img: Map-Francophone_World.svg
 scripts: [Dupl, Latn]
 glottocode: stan1290
 glottolog_family_id: indo1319

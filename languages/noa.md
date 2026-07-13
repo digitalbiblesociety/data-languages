@@ -6,11 +6,14 @@ alt_names: [Chanco, Chocama, Huaunana, Noanama, Noenama, Nonama, Waumeo, Waumeo 
 population: 10800
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chocoan language of Panama and Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 6.100195
 longitude: -77.445325
+language_map_img: Wounaan.webp
 glottocode: woun1238
 glottolog_family_id: choc1280
 glottolog_family_name: Chocoan

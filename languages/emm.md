@@ -5,6 +5,7 @@ autonym: Xat estok
 population: null
 country_id: MX
 country_name: Mexico
+area: "Extinct Pakawan language of Nuevo León, Mexico"
 status_id: null
 scope: individual
 language_type: extinct

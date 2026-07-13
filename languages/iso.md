@@ -2,10 +2,12 @@
 iso: iso
 name: Isoko
 autonym: Biotu
-alt_names: ["\"Biotu\"", "\"Igabo\"", "\"Sobo\"", Sobo, Uzere dialect]
+alt_names: ["\"Biotu\"", "\"Igabo\"", "\"Sobo\"", Sobo, Uzere dialect, “Biotu”, “Igabo”, “Sobo”, Aviara, Elu, Emede, Enhwe, Ibiede, Igbide, Imiv, Iri, Irri, Itebiege, Iwire, Iyede, Iyede-Ami, Iyowo, Ofagbe, Ole, Oleh, Olomoro, Owe, Owhe, Oyede, Ozoro, Ume, Unogboko, Uti, Uzere]
 population: 647000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Edoid language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

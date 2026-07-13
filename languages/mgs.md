@@ -2,10 +2,12 @@
 iso: mgs
 name: Manda
 autonym: Kimanda
-alt_names: [Kinyasa, Manda, Nyasa]
+alt_names: [Kinyasa, Manda, Nyasa, Manda-Matumba, Matumba]
 population: 22000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6a
 scope: individual
 language_type: living

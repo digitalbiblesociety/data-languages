@@ -2,15 +2,18 @@
 iso: ibg
 name: Ibanag
 autonym: Ybanag
-alt_names: [Ibanag-ngî, Pagsasao nga Ibanag]
+alt_names: [Ibanag-ngî, Pagsasao nga Ibanag, Ibanak, North Ibanag, South Ibanag]
 population: 403000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.42014
 longitude: 121.89093
+language_map_img: 500px-Ibanag_language_map.webp
 glottocode: iban1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

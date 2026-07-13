@@ -4,6 +4,7 @@ iso639_1: nb
 macrolanguage_id: nor
 name: Norwegian Bokmål
 autonym: norsk bokmål
+alt_names: [Norway]
 population: 4000000
 country_id: "NO"
 country_name: Norway
@@ -13,6 +14,7 @@ language_type: living
 latitude: 61.112
 longitude: 8.886
 scripts: [Latn]
+glottocode: norw1259
 wikidata_id: Q25167
 wikipedia_url: "https://en.wikipedia.org/wiki/Bokm%C3%A5l"
 translations:

@@ -6,6 +6,8 @@ alt_names: [Democratic Republic of the Congo]
 population: 8400
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 尼因杜语
     auto: true
 ---
+Nyindu is an endangered Bantu language of the Democratic Republic of the Congo. It is used as a first language by all adults in the Banyindu community, but not by all young people. It is not taught in schools.

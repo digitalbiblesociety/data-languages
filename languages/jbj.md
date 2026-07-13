@@ -2,10 +2,11 @@
 iso: jbj
 name: Arandai
 autonym: Tomu
-alt_names: [Dombano, Jaban, Kampong Baru, Sebyar, Yaban]
+alt_names: [Dombano, Jaban, Kampong Baru, Sebyar, Yaban, Sumuri]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kui, Kui (in Indonesia), Masin-Lak]
 population: 4240
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

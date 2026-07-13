@@ -2,15 +2,18 @@
 iso: sto
 name: Stoney
 autonym: Nakoda
-alt_names: [Alberta Assiniboine, Asinibóin (Estados Unidos), Assiniboin, Assiniboine, Assiniboine (Canada), "Assiniboine (États-Unis d'Amérique)", Dakota, Estoni, Nakon, Stonies, Stony]
+alt_names: [Alberta Assiniboine, Asinibóin (Estados Unidos), Assiniboin, Assiniboine, Assiniboine (Canada), "Assiniboine (États-Unis d'Amérique)", Dakota, Estoni, Nakon, Stonies, Stony, Northern Stoney, Southern Stoney, Ĩyãħé Nakoda]
 population: 2300
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: "Siouan language spoken in Alberta, Canada"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 51.19392
 longitude: -114.98424
+language_map_img: 500px-Stoney_lang.webp
 glottocode: ston1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

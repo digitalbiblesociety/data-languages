@@ -2,10 +2,12 @@
 iso: mwq
 name: Mün Chin
 autonym: Ng’men
-alt_names: ["\"Chinbok\"", "Chin, Mün", "Chin,Mün", Chinbe, Chinbok, Cho, Mindat, Mun, Mun Chin, Mün, "Ng'men", Tśinbok, Yawdwin]
+alt_names: ["\"Chinbok\"", "Chin, Mün", "Chin,Mün", Chinbe, Chinbok, Cho, Mindat, Mun, Mun Chin, Mün, "Ng'men", Tśinbok, Yawdwin, Chin, Cho Chin, Gah, Hletlong, "Hmong-K'cha", Hngiyung, "K'cho", "K'cho Chin", Müün, Ng-Gha, Nitu]
 population: 15000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Myanmar
 status_id: "5"
 scope: individual
 language_type: living

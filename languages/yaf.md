@@ -2,10 +2,12 @@
 iso: yaf
 name: Yaka
 autonym: Iyaka
-alt_names: [Iaca, Iaka, Kiyaka, Yaka]
+alt_names: [Iaca, Iaka, Kiyaka, Yaka, Ngoongo, Yaka (D.R.Congo)]
 population: 900000
 country_id: CD
 country_name: DR Congo
+location: Angola
+area: Bantu language spoken in Angola and DRC
 status_id: 6a
 scope: individual
 language_type: living

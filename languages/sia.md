@@ -6,11 +6,13 @@ alt_names: [Ahkkil, Akkala Saami, Akkala-Lappisch, Akkalansaame, Akkalasamisk, A
 population: 2018
 country_id: RU
 country_name: Russia
+area: Extinct Uralic language from Russia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 67.8625
 longitude: 32.40457
+language_map_img: Akkala-SamiLanguageLocatorMap.svg
 glottocode: akka1237
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

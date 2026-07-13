@@ -2,10 +2,11 @@
 iso: bth
 name: Biatah Bidayuh
 autonym: Bikuab
-alt_names: [Biatah, "Bidayuh, Biatah", Kuap, Quop, Sentah]
+alt_names: [Biatah, "Bidayuh, Biatah", Kuap, Quop, Sentah, Bideyu, Bisitaang, Landu, Lundu, Pueh, Siburan, Sitaang, Stang, Tibia]
 population: 72380
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
 status_id: "5"
 scope: individual
 language_type: living

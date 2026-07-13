@@ -2,10 +2,12 @@
 iso: mxv
 name: Metlatónoc Mixtec
 autonym: null
-alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Centreal Mixteco, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatonoc Mixtec, "Mixtec, Metlatónoc", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de San Rafael, Mixteco de Xochapa, Mixteco de Yoloxóchitl, To’on Savi, Yoloxóchitl Mixtec]
+alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Centreal Mixteco, Guerrero Mixtec, Highland Guerrero Mixtec, Metlatonoc Mixtec, "Mixtec, Metlatónoc", Mixteco de Alacatlatzala, Mixteco de Alocozauca, Mixteco de San Rafael, Mixteco de Xochapa, Mixteco de Yoloxóchitl, To’on Savi, Yoloxóchitl Mixtec, Metlatónoc, Mixtec, Metlatónoc and Cochoapa Mixtec]
 population: 46600
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mixtec languages of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 梅特拉托诺克米克斯特克语
     auto: true
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

@@ -6,6 +6,8 @@ alt_names: [Doan, Duan, Gros Ventre, Gros Ventres, Hinatsa, Hiraca, Minitari, Mi
 population: 1200
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Siouan language of North America
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Democratic Republic of the Congo]
 population: 5100
 country_id: CD
 country_name: DR Congo
+area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 恩贡杜语
     auto: true
 ---
+Central Banda is a dialect continuum of the Banda languages spoken by around one million people, primarily in the Central African Republic. The varieties may be mutually intelligible, especially the Mid-Southern–Gobu–Kpagua–Mono–Ngundu cluster. The other varieties are Bambari, Banda-Banda, Mbrès, Ndélé, and Togbo-Vara Banda.

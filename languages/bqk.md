@@ -6,6 +6,8 @@ alt_names: [Banda-Mbre, Banda-Mbres]
 population: 42500
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: CF
     location: Central African Republic
 ---
+Central Banda is a dialect continuum of the Banda languages spoken by around one million people, primarily in the Central African Republic. The varieties may be mutually intelligible, especially the Mid-Southern–Gobu–Kpagua–Mono–Ngundu cluster. The other varieties are Bambari, Banda-Banda, Mbrès, Ndélé, and Togbo-Vara Banda.

@@ -2,10 +2,12 @@
 iso: ann
 name: Obolo
 autonym: Andoni
-alt_names: [Andone, Andonni]
+alt_names: [Andone, Andonni, Ataba, Ibot Obolo, Ngo, Okoroete, Unyeada]
 population: 250000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Cross River language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

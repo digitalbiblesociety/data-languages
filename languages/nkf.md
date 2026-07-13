@@ -2,10 +2,12 @@
 iso: nkf
 name: Inpui Naga
 autonym: Kabui
-alt_names: ["Naga, Inpui", Puiron]
+alt_names: ["Naga, Inpui", Puiron, Inpui, Kabui Naga, Kapwi, Koboi, Kubai, Naga, Naga Inpui]
 population: 54200
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

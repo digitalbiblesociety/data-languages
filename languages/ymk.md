@@ -6,6 +6,8 @@ alt_names: [Macue, Maraba, Palma]
 population: 22000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language of Tanzania and Mozambique
 status_id: 6a
 scope: individual
 language_type: living

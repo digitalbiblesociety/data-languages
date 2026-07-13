@@ -2,10 +2,12 @@
 iso: bfz
 name: Mahasu Pahari
 autonym: Mahasui
-alt_names: [Baghati, Mahasu, Pahari, "Pahari, Mahasu", Paharí mahasu, Western Pahari]
+alt_names: [Baghati, Mahasu, Pahari, "Pahari, Mahasu", Paharí mahasu, Western Pahari, बग़ल्याणी, Baghlayani, Baghliani, Kiunthali, Lower Mahasu Pahari, Mahasui Pahari, Rampuri, Rohruri, Shimla Siraji, Sodochi, Upper Mahasu Pahari, Upper Mahasuli]
 population: 1000000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Indo-Aryan language of Himachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living

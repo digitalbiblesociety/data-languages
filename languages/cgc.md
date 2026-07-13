@@ -2,10 +2,12 @@
 iso: cgc
 name: Kagayanen
 autonym: null
-alt_names: [Cagayancillo, Cagayano Cillo]
+alt_names: [Cagayancillo, Cagayano Cillo, Cagayano, Kagay-anen, Kinagayanen, Calamian Kagayanen]
 population: 30000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living

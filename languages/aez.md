@@ -5,6 +5,8 @@ autonym: Ajeka
 population: 3400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Binanderean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -61,3 +63,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Northern"
 ---
+Orokaiva is a Papuan language spoken in the "tail" of Papua New Guinea.

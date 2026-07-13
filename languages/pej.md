@@ -6,11 +6,13 @@ alt_names: [N Pomo, N. Pomo, North Pomo, Pomo (Northern), Pomo du Nord, Pomo sep
 population: 1
 country_id: US
 country_name: United States
+area: Endangered Pomoan language of California
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 39.10843
 longitude: -123.20894
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: nort2966
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

@@ -2,10 +2,12 @@
 iso: mdm
 name: Mayogo
 autonym: Kiyogo
-alt_names: [Maigo, Maiko, Majugu, Mayko, Mayugo]
+alt_names: [Maigo, Maiko, Majugu, Mayko, Mayugo, Mabodese, Mabozo, Madimadoko, Madipia, Madjedje, Madyɵgɵ, Magbai]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian language of DR Congo
 status_id: "5"
 scope: individual
 language_type: living

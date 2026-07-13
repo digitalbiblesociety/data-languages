@@ -2,10 +2,12 @@
 iso: ktb
 name: Kambaata
 autonym: Donga
-alt_names: [Kambaata hizkuntza, Kambara, Kambata, Kambatta, Kemata, Kembata]
+alt_names: [Kambaata hizkuntza, Kambara, Kambata, Kambatta, Kemata, Kembata, Kambaatissata, "T'imbaaro", Tambaro, Timbaaro, Timbara, Timbaro, Timebaro]
 population: 743000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Highland East Cushitic language in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

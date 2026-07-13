@@ -2,10 +2,12 @@
 iso: kaf
 name: Katso
 autonym: Kazhuo
-alt_names: [Gazhuo, Khatso, 卡卓, 喀卓, 嘎卓]
+alt_names: [Gazhuo, Khatso, 卡卓, 喀卓, 嘎卓, Gezhuo]
 population: 4000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: "7"
 scope: individual
 language_type: living

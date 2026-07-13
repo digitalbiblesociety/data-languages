@@ -2,14 +2,18 @@
 iso: stl
 name: Stellingwerfs
 autonym: Stellingwarfs
+alt_names: [Stellingwerf]
 population: 5000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: Westphalian dialect spoken in Friesland
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 52.89329
 longitude: 6.09112
+glottocode: stel1238
 wikidata_id: Q506010
 wikipedia_url: "https://en.wikipedia.org/wiki/Stellingwarfs_dialect"
 translations:

@@ -2,10 +2,12 @@
 iso: bao
 name: Waimaha
 autonym: Bará
-alt_names: [Barasano, Barasano (Northern), Bará-Tuyuka, Northern Barasano, Waimaja, Waípinõmakã]
+alt_names: [Barasano, Barasano (Northern), Bará-Tuyuka, Northern Barasano, Waimaja, Waípinõmakã, “Bará”, Barasano del Norte, Barazana, Eastern Waimaha, Pamoa Bara, Waimasa, Waymasa]
 population: 131
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Tucanoan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living

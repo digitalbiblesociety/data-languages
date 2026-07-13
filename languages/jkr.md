@@ -6,6 +6,8 @@ alt_names: [Aka, Angka, Angkae, Gusso, Hrusso, Tenae]
 population: 1500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language
 status_id: 6b
 scope: individual
 language_type: living

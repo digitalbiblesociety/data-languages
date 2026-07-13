@@ -3,16 +3,20 @@ iso: nbl
 iso639_1: nr
 name: South Ndebele
 autonym: Transvaal Ndebele
-alt_names: ["Ndebele, South"]
+alt_names: ["Ndebele, South", Ndzundza, Nrebele, Southern Ndebele, IsiNdebele, Isikhethu, Ndebele]
 population: 1090000
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Language belonging to the Nguni group
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -25.62721
 longitude: 29.04805
+language_map_img: South_Africa_2011_Ndebele_speakers_proportion_map.svg
 scripts: [Latn]
+glottocode: sout2808
 wikidata_id: Q36785
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
 translations:

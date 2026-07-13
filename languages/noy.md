@@ -5,6 +5,7 @@ autonym: Loo
 population: 36
 country_id: TD
 country_name: Chad
+area: Nearly extinct language of Chad
 status_id: 8b
 scope: individual
 language_type: living

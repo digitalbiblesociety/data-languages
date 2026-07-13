@@ -3,10 +3,12 @@ iso: pko
 macrolanguage_id: kln
 name: Pökoot
 autonym: Pakot
-alt_names: [Peukouteg, Pokoot, Pokot, Pökot, Suk]
+alt_names: [Peukouteg, Pokoot, Pokot, Pökot, Suk, East Pokot, West Pokot, "ng'ala Pokot", ngala Pökot]
 population: 883000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Nilotic language spoken in Kenya and Uganda
 status_id: "5"
 scope: individual
 language_type: living

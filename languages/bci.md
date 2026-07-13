@@ -2,15 +2,18 @@
 iso: bci
 name: Baoulé
 autonym: Baule
-alt_names: [Baoleg, Baoule, Baule-Ando, Bawule]
+alt_names: [Baoleg, Baoule, Baule-Ando, Bawule, Ando]
 population: 4645060
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Language in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 5.42509
 longitude: -4.76565
+language_map_img: bci.webp
 scripts: [Latn]
 glottocode: baou1238
 glottolog_family_id: atla1278

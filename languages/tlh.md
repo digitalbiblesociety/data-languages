@@ -5,6 +5,7 @@ autonym: tlhIngan Hol
 population: 9000
 country_id: ZZ
 country_name: Unknown or Invalid Territory
+location: "Qo'noS"
 status_id: null
 scope: individual
 language_type: constructed

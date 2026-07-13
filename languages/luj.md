@@ -2,10 +2,12 @@
 iso: luj
 name: Luna
 autonym: Northern Luba
-alt_names: [Inkongo, Kuba]
+alt_names: [Inkongo, Kuba, Luna-Inkongo]
 population: 50000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

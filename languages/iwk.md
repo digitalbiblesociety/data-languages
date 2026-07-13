@@ -6,11 +6,14 @@ alt_names: [Iwaak]
 population: 3260
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 16.30448
 longitude: 120.78633
+language_map_img: 500px-Iwaak_language_map.webp
 glottocode: iwak1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

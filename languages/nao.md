@@ -6,6 +6,8 @@ alt_names: [Naapaa, Naba, Nawa Sherpa, Sherpa]
 population: 770
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Tibetic language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living

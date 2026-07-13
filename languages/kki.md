@@ -2,10 +2,12 @@
 iso: kki
 name: Kagulu
 autonym: Chikagulu
-alt_names: [Kaguru, Kigaguru, Kigalulu, Kiningo, Northern Sagara, Solwa]
+alt_names: [Kaguru, Kigaguru, Kigalulu, Kiningo, Northern Sagara, Solwa, Chimegi, Cikagulu, Kikagulu, Mangaheri, Mangehele, Megi, Tumba]
 population: 337000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: "5"
 scope: individual
 language_type: living

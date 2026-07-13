@@ -2,10 +2,12 @@
 iso: mrh
 name: Mara Chin
 autonym: Mara (Tlosaih)
-alt_names: [Chin, Chin (Mara), Chin mara, "Chin, Mara", "Chin,Mara", Hawthai, Lakher, Mara, Mara language, Maram, Mira, Sabeu, Tlongsai, Zao]
+alt_names: [Chin, Chin (Mara), Chin mara, "Chin, Mara", "Chin,Mara", Hawthai, Lakher, Mara, Mara language, Maram, Mira, Sabeu, Tlongsai, Zao, Hlawthai, Miram, Tlosai-Siaha]
 population: 62400
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India and Burma
 status_id: "4"
 scope: individual
 language_type: living

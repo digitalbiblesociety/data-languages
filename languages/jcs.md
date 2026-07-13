@@ -6,6 +6,7 @@ alt_names: [Country Sign, Konchri Sain]
 population: 40
 country_id: JM
 country_name: Jamaica
+area: Deaf sign language of Jamaica
 status_id: "7"
 scope: individual
 language_type: living

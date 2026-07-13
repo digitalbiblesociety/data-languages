@@ -6,11 +6,14 @@ alt_names: [Alang, Doan, Duan, Halang, Halang Duan, Haleng, Selong]
 population: 2000
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language spoken in Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.97039
 longitude: 107.860385
+language_map_img: 500px-Duan_language.webp
 glottocode: hala1253
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

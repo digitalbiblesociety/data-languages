@@ -2,10 +2,12 @@
 iso: biv
 name: Southern Birifor
 autonym: Birifo
-alt_names: ["Birifor, Southern", Ghana Birifor]
+alt_names: ["Birifor, Southern", Ghana Birifor, Berfoɔr, Birfoɔr, Birifor, Bɩ rfʊ ɔ r, Lobi]
 population: 187310
 country_id: GH
 country_name: Ghana
+location: "Côte d&#039;Ivoire"
+area: Gur language spoken in Ghana and Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

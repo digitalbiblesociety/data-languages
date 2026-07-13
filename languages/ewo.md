@@ -2,10 +2,12 @@
 iso: ewo
 name: Ewondo
 autonym: Kolo
-alt_names: [Ewundu, Jaunde, Yaounde, Yaunde, éwondo]
+alt_names: [Ewundu, Jaunde, Yaounde, Yaunde, éwondo, Badjia, Bafeuk, Bakja, Bakjo, Bamvele, Bane, Beti, Enoah, Evouzok, Fong, Mbida-Bani, Mvele, Mvete, Mvog-Niengue, Omvang, Yabeka, Yabekanga, Yabekolo, Yangafek, Yebekolo, Yesoum, Yezum]
 population: 578000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "3"
 scope: individual
 language_type: living

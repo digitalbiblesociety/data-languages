@@ -2,10 +2,12 @@
 iso: pre
 name: Principense
 autonym: lunguyê
-alt_names: ["\"Moncó\"", "Lun'gwiye", Príncipense]
+alt_names: ["\"Moncó\"", "Lun'gwiye", Príncipense, “Moncó”, Lun’gwiye]
 population: 1558
 country_id: ST
 country_name: "Sao Tome & Principe"
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Portuguese-based creole of São Tomé and Príncipe
 status_id: 8a
 scope: individual
 language_type: living

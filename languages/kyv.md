@@ -2,14 +2,17 @@
 iso: kyv
 name: Kayort
 autonym: "केवट, कयोर्ट"
+alt_names: [Kewat]
 population: 22000
 country_id: NP
 country_name: Nepal
+area: "Indo-Aryan language spoken in India, Bangladesh, and Nepal"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 26.61787
 longitude: 87.60416
+glottocode: kayo1247
 wikidata_id: Q6380675
 wikipedia_url: "https://en.wikipedia.org/wiki/Kewat_language"
 translations:

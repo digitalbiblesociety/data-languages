@@ -6,6 +6,8 @@ alt_names: [Jo, Samogho]
 population: 10000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
+area: Mande language of Mali and Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,14 +2,18 @@
 iso: act
 name: Achterhoeks
 autonym: Achterhoek
+alt_names: [Aachterhoeks]
 population: 211000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: "Language spoken in Achterhoek, Netherlands"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 52.02104
 longitude: 6.47521
+glottocode: acht1238
 wikidata_id: Q153627
 wikipedia_url: "https://en.wikipedia.org/wiki/Achterhooks"
 translations:

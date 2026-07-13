@@ -2,10 +2,12 @@
 iso: nsn
 name: Nehan
 autonym: Nissan
-alt_names: [Nihan]
+alt_names: [Nihan, Pinipel, Pinipin, Sirouatan, Uanuleik]
 population: 6500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

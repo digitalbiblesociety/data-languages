@@ -6,6 +6,8 @@ alt_names: [Bootpa, But, But Monpa, But Pa, But-pa, Matchopa, Matchopa Nagnoo, M
 population: 1000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language spoken in Northeast India
 status_id: 6a
 scope: individual
 language_type: living

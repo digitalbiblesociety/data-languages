@@ -6,6 +6,8 @@ alt_names: [Enggros, Humboldt Jotafa, Jayapura, Jotafa, Tobwadic, Yautefa]
 population: 350
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Oceanic language spoken in Indonesia
 status_id: 8b
 scope: individual
 language_type: living

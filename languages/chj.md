@@ -2,10 +2,12 @@
 iso: chj
 name: Ojitlán Chinantec
 autonym: Chinantec
-alt_names: [Chehalis, "Chinantec, Ojitlán", Chinanteco, Chinanteco del norte, Chinanteko, Comaltepec, Copalis, Northern Chinantec, Ojitlan, Ojitlan Chinantec, Ojitlán, Ojitlán Chinanteko, "jmiih kia' dzä 'vï ï", jujmi (del norte), "jujmi tsa kö 'w++"]
+alt_names: [Chehalis, "Chinantec, Ojitlán", Chinanteco, Chinanteco del norte, Chinanteko, Comaltepec, Copalis, Northern Chinantec, Ojitlan, Ojitlan Chinantec, Ojitlán, Ojitlán Chinanteko, "jmiih kia' dzä 'vï ï", jujmi (del norte), "jujmi tsa kö 'w++", Comaltepec Chinantec, Jmiih kiaꞌ dzä ‘vï ï, Jujmi]
 population: 2800
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantecan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living

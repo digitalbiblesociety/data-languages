@@ -6,11 +6,14 @@ alt_names: [Cunimía, Hiw, Mítua, Mítus, Wayavero]
 population: 1000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Guahiban language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 2.8969
 longitude: -71.84405
+language_map_img: Guayabero.webp
 glottocode: guay1257
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan

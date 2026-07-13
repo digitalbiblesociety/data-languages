@@ -6,6 +6,8 @@ alt_names: [Kolod, Kolour, Kolur, Okolod Murut]
 population: 3390
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Language of the Murutic family
 status_id: 6a
 scope: individual
 language_type: living

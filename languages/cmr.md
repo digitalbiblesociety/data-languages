@@ -2,10 +2,12 @@
 iso: cmr
 name: "Mro-Khimi Chin"
 autonym: Mro
-alt_names: ["Chin, Mro", "Chin, Mro-Khimi", "Chin,Mro", Mro Chin]
+alt_names: ["Chin, Mro", "Chin, Mro-Khimi", "Chin,Mro", Mro Chin, Awa Khami, Ahraing Khami, Arang, Areung, Aroeng, Hrengna, Khami, Khimi, Khumi Awa, Mro-Khimi, Vakung, Wakun, Wakung, Xata, Xengna]
 population: 200000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Myanmar
 status_id: 6b
 scope: individual
 language_type: living

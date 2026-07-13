@@ -6,6 +6,7 @@ alt_names: [Atfalati, Atfálati, Central Kalapuya, Central Kalapuyan, Kalapuya c
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: "10"
 scope: individual
 language_type: living

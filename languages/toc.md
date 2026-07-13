@@ -2,10 +2,12 @@
 iso: toc
 name: Coyutla Totonac
 autonym: Highland Totonac
-alt_names: [Totonac, "Totonac, Coyutla", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Coyutla, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
+alt_names: [Totonac, "Totonac, Coyutla", Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Coyutla, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Coyutla, Cerro Grande Totonac, Coyutla Totonaco, Tutunakú]
 population: 48100
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Language of Puebla and Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 科尤特拉托托纳克语
     auto: true
 ---
+Sierra Totonac is a native American language complex spoken in Puebla and Veracruz, Mexico. One of the Totonac languages, it is also known as Highland Totonac. The language is best known through the work of the late Herman “Pedro” Aschmann who produced a small dictionary and several academic articles on the language.

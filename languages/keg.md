@@ -6,6 +6,8 @@ alt_names: [Dese, Keiga Girru, Keiga Jirru, Teis-Umm-Danab, Teis-um-Danab]
 population: 1400
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Eastern Sudanic language
 status_id: "7"
 scope: individual
 language_type: living

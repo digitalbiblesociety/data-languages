@@ -6,6 +6,7 @@ alt_names: [Buang, Dengalu, Mumeng, Ptep]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
 status_id: "7"
 scope: individual
 language_type: living
@@ -59,3 +60,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Morobe"
 ---
+Mumeng is a dialect chain of the Austronesian family in Morobe Province, Papua New Guinea. Dambi–Kumalu and Patep–Zenag–Gorakor have a degree of mutual intelligibility. Kapin may belong as well.

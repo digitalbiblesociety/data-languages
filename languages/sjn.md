@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: ZZ
 country_name: Unknown or Invalid Territory
+location: Middle Earth
 status_id: null
 scope: individual
 language_type: constructed

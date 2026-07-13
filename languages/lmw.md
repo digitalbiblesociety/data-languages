@@ -6,6 +6,8 @@ alt_names: [Lake, Miwok, Miwok (Lake), Miwok du lac, "Miwok, Lake", Miwokano del
 population: null
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Language of California, USA"
 status_id: 8b
 scope: individual
 language_type: living

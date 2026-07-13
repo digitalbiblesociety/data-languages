@@ -2,10 +2,12 @@
 iso: kff
 name: Koya
 autonym: Kavor
-alt_names: [Gond (Dorla), Gondi (Dorla), Kaya, Koa, Koi, Koi Gondi, Koitar, Koyato, Koyi, Raj Koya]
+alt_names: [Gond (Dorla), Gondi (Dorla), Kaya, Koa, Koi, Koi Gondi, Koitar, Koyato, Koyi, Raj Koya, Chintoor Koya, Dor Koi, Dora, Dora Koi, Dorla Koitur, Dorla Koya, Dorli, Godavari Koya, Gommu Koya, Gotte Koya, Jaganathapuram Koya, Korla, Malkangiri Koya, Podia Koya]
 population: 455000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: South-Central Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living

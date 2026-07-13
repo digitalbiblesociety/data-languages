@@ -5,9 +5,12 @@ autonym: "Coo-al"
 population: null
 country_id: AU
 country_name: Australia
+area: Language branch spoken in Australia
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: 500px-Bandjalangic_languages.webp
+glottocode: arak1254
 wikidata_id: Q34295800
 translations:
   - translation_iso: ara
@@ -45,3 +48,4 @@ translations:
     name: 阿拉克瓦尔语
     auto: true
 ---
+Yugambeh–Bundjalung, also known as Bandjalangic, is a branch of the Pama–Nyungan language family that is spoken in north-eastern New South Wales and South-East Queensland.

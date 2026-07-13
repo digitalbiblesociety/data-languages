@@ -2,10 +2,12 @@
 iso: zom
 name: Zou
 autonym: " Zomi"
-alt_names: [Jo, Kuki Chin, Zo, Zome, Zomeg, Zorni, ဇိုမီး]
+alt_names: [Jo, Kuki Chin, Zo, Zome, Zomeg, Zorni, ဇိုမီး, Jou, Zau, Yo, Yos, Zohâm, Zokam, Zou Chin, Zoukam]
 population: 87500
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Sino-Tibetan language of Burma and India
 status_id: "5"
 scope: individual
 language_type: living

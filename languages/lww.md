@@ -2,9 +2,12 @@
 iso: lww
 name: Lewo
 autonym: Varsu
+alt_names: [Mate-Nul-Filakara, Tasiko]
 population: 2200
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

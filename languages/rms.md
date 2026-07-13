@@ -2,9 +2,11 @@
 iso: rms
 name: Romanian Sign Language
 autonym: Limba semnelor române
+alt_names: [Limbaj Mimico-Gestual Romanesc, LMGR, LSR, Limbajul Semenelor Romanesc]
 population: 24600
 country_id: RO
 country_name: Romania
+area: Deaf sign language of Romania
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Resigaro]
 population: 1
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of Peru
 status_id: 8b
 scope: individual
 language_type: living

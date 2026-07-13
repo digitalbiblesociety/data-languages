@@ -2,10 +2,12 @@
 iso: kyg
 name: Keyagana
 autonym: null
-alt_names: ["Ke'yagana", Keiagana, Keigana]
+alt_names: ["Ke'yagana", Keiagana, Keigana, Ke’yagana]
 population: 11540
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Goroka language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

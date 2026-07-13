@@ -2,9 +2,12 @@
 iso: mor
 name: Moro
 autonym: Dhimorong
+alt_names: [Nuba Moro, Laiyen, Longorban, Nderre, Nubwa, Thetogovela, Toberelda, Ulba, Umm Dorein, Umm Gabralla, Werria]
 population: 72000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living

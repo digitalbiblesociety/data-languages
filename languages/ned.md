@@ -2,14 +2,17 @@
 iso: ned
 name: "Nde-Gbite"
 autonym: Biti
+alt_names: [Bötö]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Grassfields language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.065
 longitude: 10.47
+glottocode: ndeg1238
 wikidata_id: Q11010279
 translations:
   - translation_iso: ara
@@ -48,3 +51,4 @@ translations:
     name: 恩德-格比特语
     auto: true
 ---
+Viti (Biti) or Vötö (Bötö), also known as Nde-Gbite, is a Narrow Grassfields language of Nigeria, spoken in the village of Antere in Taraba State, half a kilometre from the Cameroonian border. It is not clear how close or distinct it is from other Grassfields varieties.

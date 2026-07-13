@@ -3,10 +3,12 @@ iso: zpg
 macrolanguage_id: zap
 name: Guevea De Humboldt Zapotec
 autonym: Guevea de Humboldt Zapotec
-alt_names: [Eastern Zapotec, Northern Isthmus Zapotec, Northern Sapoteko, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Guevea de Humboldt", Zapoteco de Guevea de Humboldt, Zapoteco de Santa María Petapa]
+alt_names: [Eastern Zapotec, Northern Isthmus Zapotec, Northern Sapoteko, Petapa, Petapa Zapotec, Transyautepecan Zapotec, Transyautepecan Zapotec dialect continuum, Zapotec, "Zapotec, Guevea de Humboldt", Zapoteco de Guevea de Humboldt, Zapoteco de Santa María Petapa, Didz-Guevea]
 population: 4720
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zapotecan language of the isthmus of Mexico
 status_id: "5"
 scope: individual
 language_type: living

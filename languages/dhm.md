@@ -2,10 +2,12 @@
 iso: dhm
 name: Zemba
 autonym: Dhimba
-alt_names: [Chimba, Dimba, Himba, Luzimba, Oluthimba, Otjidhimba, Simba, Tjimba]
+alt_names: [Chimba, Dimba, Himba, Luzimba, Oluthimba, Otjidhimba, Simba, Tjimba, Hakawona, Oludhimba, Oluzimba, Ovazimba, Tchavikwa]
 population: 25000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Namibia
 status_id: "5"
 scope: individual
 language_type: living

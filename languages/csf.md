@@ -2,9 +2,11 @@
 iso: csf
 name: Cuba Sign Language
 autonym: Fingerspelling of LSC
+alt_names: [Cuban Sign Language, LSC, LSCu, Lengua de señas cubanas]
 population: 34000
 country_id: CU
 country_name: Cuba
+area: Deaf sign language of Cuba
 status_id: 6a
 scope: individual
 language_type: living

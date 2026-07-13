@@ -2,10 +2,11 @@
 iso: enx
 name: Enxet
 autonym: Énxet nempeywa
-alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua]
+alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua, Lengua Sur]
 population: 3840
 country_id: PY
 country_name: Paraguay
+area: Mascoian language spoken in Paraguay
 status_id: null
 scope: individual
 language_type: living

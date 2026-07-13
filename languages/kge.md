@@ -2,10 +2,12 @@
 iso: kge
 name: Komering
 autonym: cawa Komering
-alt_names: [Komerin, Kumoring, Njo]
+alt_names: [Komerin, Kumoring, Njo, Downstream Komering, Kayu Agung, Kayu Agung Asli, Upstream Komering]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

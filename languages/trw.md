@@ -2,10 +2,12 @@
 iso: trw
 name: Torwali
 autonym: Turvali
-alt_names: [Dardu, Torvalí, Torwālī]
+alt_names: [Dardu, Torvalí, Torwālī, Bahrain, Chail, Torwalak, Torwali Kohistani]
 population: 114000
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: 6a
 scope: individual
 language_type: living

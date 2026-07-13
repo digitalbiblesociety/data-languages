@@ -2,15 +2,18 @@
 iso: ura
 name: Urarina
 autonym: Itucale
-alt_names: [Itucali, Itukale, Kachá, Oruarina, Shimacu, Shimaku, Simacu, Urariña]
+alt_names: [Itucali, Itukale, Kachá, Oruarina, Shimacu, Shimaku, Simacu, Urariña, Cimarrón, Kacha Edze, Kacha Ere, Oroarina, Oruarinya]
 population: 3000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Isolated language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -4.44006
 longitude: -75.42107
+language_map_img: 500px-Urarina_language.webp
 glottocode: urar1246
 wikidata_id: Q1579560
 wikipedia_url: "https://en.wikipedia.org/wiki/Urarina_language"

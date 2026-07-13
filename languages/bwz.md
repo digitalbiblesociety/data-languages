@@ -6,6 +6,8 @@ alt_names: [Mbwisi, Talinga-bwisi]
 population: 3020
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo Republic
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Fiomi, Goroa, Gorwaa, Kimbulu, Ufiomi, Ufromi]
 population: 113000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Cushitic language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

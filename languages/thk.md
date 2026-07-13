@@ -2,10 +2,12 @@
 iso: thk
 name: Tharaka
 autonym: Kimîîru
-alt_names: [Kitharaka, Saraka, Sharoka]
+alt_names: [Kitharaka, Saraka, Sharoka, Atharaka, Central Tharaka, Gatue, Igoki, North Tharaka, Ntugi, Thagicu]
 population: 220000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: KE
     location: "Kenya, Embu"
 ---
+Meru is a Bantu language spoken by the Meru people (Ameru) who live on the Eastern and Northern slopes of Mount Kenya and on the Nyambene ranges. They settled in this area after centuries of migration from the north.

@@ -2,10 +2,12 @@
 iso: hub
 name: Huambisa
 autonym: null
-alt_names: [Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chiwaro, Hivaro, Huambiseg, Huambiza, Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuar-Huampis, Shuara, Wambisa, Wampis, Xivaro, Xívaro]
+alt_names: [Achual, Achuale, Achuall, Achuar chicham, Achuar-Shiwiar, Achuara, Chiwaro, Hivaro, Huambiseg, Huambiza, Hívaro, Jibaro, Jivaro, Jíbaro, Jívaro, Maina, Shiwiar chicham, Shuar, Shuar chicham, Shuar-Huampis, Shuara, Wambisa, Wampis, Xivaro, Xívaro, Wampís]
 population: 10200
 country_id: PE
 country_name: Peru
+location: Peru
+area: Jivaro language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

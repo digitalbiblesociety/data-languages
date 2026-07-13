@@ -6,11 +6,14 @@ alt_names: [Kiowan, Kiowan Isolate, Kioweg, Quiova]
 population: 20
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: North American aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 34.94026
 longitude: -98.90424
+language_map_img: Kiowa_lang.webp
 glottocode: kiow1266
 glottolog_family_id: kiow1265
 glottolog_family_name: Kiowa-Tanoan

@@ -6,6 +6,8 @@ alt_names: [Macusi, Macussi, Macuxi, Macuxí, Makouchieg, Makuchi, Makushi, Maku
 population: 15930
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Cariban language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living

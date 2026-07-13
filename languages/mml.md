@@ -6,6 +6,8 @@ alt_names: [Angku, Manmi, Manmit, Āng-kú]
 population: 900
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Austroasiatic language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living

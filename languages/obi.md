@@ -6,11 +6,13 @@ alt_names: [Chumasha Proper, Northern Chumash, Obispeno, Obsipeño, San Luis Obi
 population: null
 country_id: US
 country_name: United States
+area: Extinct Chumashan language of California
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 35.28733
 longitude: -120.669251
+language_map_img: Chumashan_Language_Map.svg
 glottocode: obis1242
 glottolog_family_id: chum1262
 glottolog_family_name: Chumashan

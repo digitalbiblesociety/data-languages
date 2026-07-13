@@ -2,10 +2,12 @@
 iso: ktu
 name: Kituba
 autonym: Monokutuba
-alt_names: [Kibulamatadi, Kikongo Commercial, Kikongo Simplifié, Kikongo Ya Leta, Kikongo-Kutuba, Kileta]
+alt_names: [Kibulamatadi, Kikongo Commercial, Kikongo Simplifié, Kikongo Ya Leta, Kikongo-Kutuba, Kileta, Eastern Kituba, Ikeleve, Kikongo, Kikongo-Kituba, Western Kituba]
 population: 4200000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Creole language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -73,3 +75,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Kituba is a widely used lingua franca in Central Africa. It is a creole language based on Kikongo, a Bantu language. It is a national language in Republic of the Congo and Democratic Republic of the Congo.

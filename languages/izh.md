@@ -2,15 +2,18 @@
 iso: izh
 name: Ingrian
 autonym: ižoran keel
-alt_names: [Ijoreg, Ingriano, Ingries, Ingrisch, Ingrish, Ingrisk, Ingriska, Inkeroisgiella, Isurisch, Izhora, Izhorian, Ižorisch, ingrien, inkerioinen, izhor, ižoran keeli, karjala, karjalan keeli, maakeeli, užory, Ижоронь кель, Ингрийн мотт]
+alt_names: [Ijoreg, Ingriano, Ingries, Ingrisch, Ingrish, Ingrisk, Ingriska, Inkeroisgiella, Isurisch, Izhora, Izhorian, Ižorisch, ingrien, inkerioinen, izhor, ižoran keeli, karjala, karjalan keeli, maakeeli, užory, Ижоронь кель, Ингрийн мотт, Ingermanlandian, Inkeroiset]
 population: 360
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Finnic language spoken by the Izhorians of Ingria, Russia"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 59.47403
 longitude: 29.71145
+language_map_img: 500px-2.4a-Ingrian-and-Votic_traditional.webp
 scripts: [Latn]
 glottocode: ingr1248
 glottolog_family_id: ural1272

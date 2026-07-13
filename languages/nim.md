@@ -2,10 +2,12 @@
 iso: nim
 name: Nilamba
 autonym: Nilamba
-alt_names: [Ikinilamba, Ikiniramba, Ilamba, Iramba, Kinilamba, Kiniramba, Nilyamba, Niramba, Nyilamba]
+alt_names: [Ikinilamba, Ikiniramba, Ilamba, Iramba, Kinilamba, Kiniramba, Nilyamba, Niramba, Nyilamba, Iambi, Ilinilamba, Kinaushoola, Kinyiramba, Mbuga, Nyambi, Nyiramba, Ushoola]
 population: 682000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

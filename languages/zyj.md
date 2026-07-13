@@ -7,11 +7,14 @@ alt_names: [Chuang, Youjiang, Yuchiang, Zhuang, Zhuang (Northern), "Zhuang, Youj
 population: 870000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Language spoken in Tiandong County, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.68182
 longitude: 107.18368
+language_map_img: 500px-Youjiang-Zhuang.webp
 glottocode: youj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

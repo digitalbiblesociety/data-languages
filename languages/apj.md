@@ -6,6 +6,8 @@ alt_names: [Apache, Apache (Eastern), Apache (Jicarilla), Apache jicarilla, "Apa
 population: 3100
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Athabaskan language spoken in New Mexico
 status_id: "7"
 scope: individual
 language_type: living

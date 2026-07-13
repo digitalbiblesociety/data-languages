@@ -2,10 +2,12 @@
 iso: mgo
 name: "Meta'"
 autonym: Meta
-alt_names: [Bameta, Batibo, Chubo, Menemo-Mogamo, Metta, Mitaa, Moghamo-Menemo, Muta, Widikum-Tadkon]
+alt_names: [Bameta, Batibo, Chubo, Menemo-Mogamo, Metta, Mitaa, Moghamo-Menemo, Muta, Widikum-Tadkon, Mandinka, Besi, Medig, Menemo, "Mɨta'", Ngyen-Mbo, "Uta'", Zang Tabi]
 population: 83000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

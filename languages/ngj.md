@@ -2,10 +2,12 @@
 iso: ngj
 name: Ngie
 autonym: Angie
-alt_names: [Baminge, Baninge, Mingi, Ngi, Ugie, Ungie]
+alt_names: [Baminge, Baninge, Mingi, Ngi, Ugie, Ungie, Mengum]
 population: 37000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

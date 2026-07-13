@@ -2,10 +2,12 @@
 iso: kqy
 name: Koorete
 autonym: Amaarro
-alt_names: [Amarro, Badditu, Badittu, Baditu, Gidiccho, Koore, Koré, Koyra, Kwera, Nuna]
+alt_names: [Amarro, Badditu, Badittu, Baditu, Gidiccho, Koore, Koré, Koyra, Kwera, Nuna, Haro, Harro, Koori Nuuna, Kore, Middle Koorete, North Koorete, South Koorete]
 population: 157000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

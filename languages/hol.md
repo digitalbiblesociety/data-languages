@@ -6,6 +6,8 @@ alt_names: [Holo, Kiholu]
 population: 28200
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and DRC
 status_id: 6a
 scope: individual
 language_type: living

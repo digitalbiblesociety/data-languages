@@ -2,10 +2,12 @@
 iso: chw
 name: Chuwabu
 autonym: Cuabo
-alt_names: [Chichwabo, Chuabo, Chuwabo, Chwabo, Cicuabo, Cuwabo, Echuabo, Echuwabo, Txuwabo]
+alt_names: [Chichwabo, Chuabo, Chuwabo, Chwabo, Cicuabo, Cuwabo, Echuabo, Echuwabo, Txuwabo, Central Chuwabo, Echuwabu, Ecwabo, Etxuwabo, Karungu, Maindo, Marale, Nyaringa, Xuabo]
 population: 970000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

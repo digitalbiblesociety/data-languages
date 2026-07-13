@@ -2,10 +2,12 @@
 iso: nho
 name: Takuu
 autonym: null
-alt_names: [Mortlock, Taku, Tau, Tauu]
+alt_names: [Mortlock, Taku, Tau, Tauu, Takuu/Nakumanu]
 population: 1750
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea: Index Map"
+area: Polynesian language spoken on Bougainville
 status_id: "5"
 scope: individual
 language_type: living

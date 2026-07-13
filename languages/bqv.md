@@ -6,6 +6,8 @@ alt_names: [Agere, Begbere-Ejar, Koro, Koro Agwe, Koro Makama, Koro Myamya, Miam
 population: 106000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -70,3 +72,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Kaduna"
 ---
+Koro Wachi, natively Tinɔr and Myamya, is a dialect cluster of Plateau languages spoken to the north of Keffi in Nasarawa State Kagarko Local Government Area and Jema'a Local Government of southern Kaduna State in central Nigeria. Koro Wachi forms part of a larger cultural grouping with the Ashe.

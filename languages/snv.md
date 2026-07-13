@@ -2,10 +2,12 @@
 iso: snv
 name: "Sa'ban"
 autonym: Merau
-alt_names: ["Malaysia, Indonesia"]
+alt_names: ["Malaysia, Indonesia", used in Kalimantan, Berau, Braow, Saꞌban]
 population: 1110
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Apo Duat language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living

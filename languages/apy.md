@@ -2,10 +2,12 @@
 iso: apy
 name: Apalaí
 autonym: Aparaí
-alt_names: [Apalai, Apalaieg, Apalajiska razda, Apalay, Aparai]
+alt_names: [Apalai, Apalaieg, Apalajiska razda, Apalay, Aparai, Arakwayu]
 population: 450
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Cariban language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Chaipanec, Chiapaneko]
 population: null
 country_id: MX
 country_name: Mexico
+area: "Oto-Manguean language of Chiapas, Mexico"
 status_id: "9"
 scope: individual
 language_type: living

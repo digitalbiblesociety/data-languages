@@ -6,6 +6,8 @@ alt_names: [Coatzospan Mixtec, "Mixtec, Cuyamecalco", Mixteco de Cañada central
 population: 2600
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

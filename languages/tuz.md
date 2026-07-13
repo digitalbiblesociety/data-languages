@@ -2,10 +2,12 @@
 iso: tuz
 name: Turka
 autonym: Tyurama
-alt_names: [Curama, Tourka, Turuka]
+alt_names: [Curama, Tourka, Turuka, Cuuramã, Tchourama]
 population: 37000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

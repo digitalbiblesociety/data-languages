@@ -2,10 +2,12 @@
 iso: mki
 name: Dhatki
 autonym: Dhati
-alt_names: [Thar]
+alt_names: [Thar, Barage, Central Dhatki, Eastern Dhatki, Malhi, Southern Dhatki, Thari]
 population: 206400
 country_id: PK
 country_name: Pakistan
+location: "India, Map 2"
+area: Indo Aryan language in Indian subcontinent
 status_id: "5"
 scope: individual
 language_type: living

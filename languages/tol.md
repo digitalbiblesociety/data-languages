@@ -6,6 +6,8 @@ alt_names: [Chetco, Chetco-Tolowa, Siletz Dee-ni, Smith River, Smith River Athab
 population: null
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Athabaskan language spoken in Oregon
 status_id: 8b
 scope: individual
 language_type: extinct

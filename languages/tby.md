@@ -2,9 +2,11 @@
 iso: tby
 name: Tabaru
 autonym: Tobaru
+alt_names: [Adu, Nyeku]
 population: 15800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
 status_id: "5"
 scope: individual
 language_type: living

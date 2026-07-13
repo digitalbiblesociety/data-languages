@@ -2,10 +2,12 @@
 iso: wti
 name: Berta
 autonym: Gebeto
-alt_names: [Barta, Beni Shangul, Bertha, Burta, Jebelawi, Wetawit, Yezhoù bertek, Берта]
+alt_names: [Barta, Beni Shangul, Bertha, Burta, Jebelawi, Wetawit, Yezhoù bertek, Берта, Bake, Bela-Shangul, Bela-Shanguru, Beni-Shangul, Dabuso, Fadashi, Fedashe, Funj, Gwami, Mayu, Rotana, Shuru, Undu]
 population: 377000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Nilo-Saharan language spoken by the Berta in Sudan and Ethiopia
 status_id: "3"
 scope: individual
 language_type: living

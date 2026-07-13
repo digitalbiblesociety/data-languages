@@ -2,10 +2,12 @@
 iso: gbi
 name: Galela
 autonym: bahasa Galela
-alt_names: [Indonesia]
+alt_names: [Indonesia, Galelaka, Kadai, Kadina, Morotai, Sopi]
 population: 79000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

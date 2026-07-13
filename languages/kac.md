@@ -2,10 +2,12 @@
 iso: kac
 name: Kachin
 autonym: Kachin
-alt_names: [Chinghpaw, "Chingp'o", Chingpaw, Dashanhua, Hka-Hku, Hkauri, Jili, Jinghpaw, Jinghpo, Jingphaw, Jingpho, Jingpho language, Jingpo, Jinpoeg, Katchin, Khang, Marip, Singhpo, Theinbaw, Ye Jein, Ye Yeh]
+alt_names: [Chinghpaw, "Chingp'o", Chingpaw, Dashanhua, Hka-Hku, Hkauri, Jili, Jinghpaw, Jinghpo, Jingphaw, Jingpho, Jingpho language, Jingpo, Jinpoeg, Katchin, Khang, Marip, Singhpo, Theinbaw, Ye Jein, Ye Yeh, Chingp’o, Aphu, "Autonym: Jinghpaw ga", Jìngphòʔ gà, Phu]
 population: 940000
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Tibeto-Burman language of the Sal branch
 status_id: "3"
 scope: individual
 language_type: living

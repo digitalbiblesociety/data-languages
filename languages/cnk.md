@@ -2,10 +2,12 @@
 iso: cnk
 name: Khumi Chin
 autonym: Khumi Chin
-alt_names: [Chin (Khumi), "Chin, Khumi", "Chin,Khumi", Khami, Khimi, Khumi, Khuni, Khweymi, Ngala]
+alt_names: [Chin (Khumi), "Chin, Khumi", "Chin,Khumi", Khami, Khimi, Khumi, Khuni, Khweymi, Ngala, Common Khumi, Eastern Kaladan, Kaladan, Kaladan Khumi, Kami, Kumi, Pi Chaung, Southern Paletwa, Yangpan, Yindi, Yindu]
 population: 64000
 country_id: MM
 country_name: Myanmar
+location: Bangladesh
+area: Sino-Tibetan language spoken in Bangladesh and Burma
 status_id: "5"
 scope: individual
 language_type: living

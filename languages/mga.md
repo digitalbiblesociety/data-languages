@@ -2,7 +2,7 @@
 iso: mga
 name: Middle Irish
 autonym: Gaoidhealg
-alt_names: ["Irish, Middle (900-1200)"]
+alt_names: ["Irish, Middle (900-1200)", Middle Irish (900-1200)]
 population: null
 country_id: IE
 country_name: Ireland

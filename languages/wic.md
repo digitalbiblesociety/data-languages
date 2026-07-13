@@ -6,11 +6,14 @@ alt_names: [Quivira, Witchita, Witchiteg, Уичита]
 population: null
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Extinct Native American language
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 35.06648
 longitude: -98.18314
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 glottocode: wich1260
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan

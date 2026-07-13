@@ -3,10 +3,12 @@ iso: ton
 iso639_1: to
 name: Tonga
 autonym: "lea faka-Tonga"
-alt_names: [ChiTonga, Tonga, Tonga (Zambia), Tonga language, Tongan, tongan (Îles Tonga)]
+alt_names: [ChiTonga, Tonga, Tonga (Zambia), Tonga language, Tongan, tongan (Îles Tonga), lea fakatonga, Faka Tonga]
 population: 189740
 country_id: TO
 country_name: Tonga
+location: Tonga
+area: Polynesian language
 status_id: "1"
 scope: individual
 language_type: living

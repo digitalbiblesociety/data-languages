@@ -2,10 +2,12 @@
 iso: mxg
 name: Mbangala
 autonym: Bangala
-alt_names: [Cimbangala]
+alt_names: [Cimbangala, Yongo]
 population: 400000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +47,4 @@ translations:
     name: 尼瑞皮语
     auto: true
 ---
+Yandruwandha is an Australian Aboriginal language of the Pama–Nyungan family. Yawarawarga is considered a dialect by Dixon (2002), a closely related language by Bowern (2001). It is also known as Yawarrawarrka, Yawarawarka, Yawarawarga, Yawarawarka, Jauraworka, and Jawarawarka).

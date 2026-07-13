@@ -2,9 +2,11 @@
 iso: eza
 name: Ezaa
 autonym: Ezza
+alt_names: [Eza]
 population: 700000
 country_id: NG
 country_name: Nigeria
+area: "Igboid language spoken in Ebonyi State, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living

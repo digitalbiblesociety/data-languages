@@ -2,10 +2,12 @@
 iso: kbo
 name: Keliko
 autonym: Kaliko
-alt_names: ["Kaliko-Ma'di", "Ma'di", Maditi]
+alt_names: ["Kaliko-Ma'di", "Ma'di", Maditi, Didi, Dogo, Eastern Keliko, Western Keliko]
 population: 42500
 country_id: SS
 country_name: South Sudan
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo and South Sudan
 status_id: "4"
 scope: individual
 language_type: living

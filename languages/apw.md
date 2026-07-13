@@ -2,10 +2,11 @@
 iso: apw
 name: Western Apache
 autonym: "Ndee biyáti' / Nnee biyáti' "
-alt_names: [Apache, Apache (San Carlos), Apache (Western), Apache occidental, "Apache, Western", Arivaipa, Cibecu, Coyotero, Kunti apachi simi, San Carlos Apache, San Carlos Cluster, San Carlos-Southern Tonto, Tonto, W Apache, W. Apache, Western, White River Apache]
+alt_names: [Apache, Apache (San Carlos), Apache (Western), Apache occidental, "Apache, Western", Arivaipa, Cibecu, Coyotero, Kunti apachi simi, San Carlos Apache, San Carlos Cluster, San Carlos-Southern Tonto, Tonto, W Apache, W. Apache, Western, White River Apache, Cibecue, "Ndee biyáti'", "Nnee biyáti'", San Carlos, White Mountain]
 population: 14000
 country_id: US
 country_name: United States
+location: Southwestern United States of America
 status_id: 6b
 scope: individual
 language_type: living

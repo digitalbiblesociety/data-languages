@@ -6,6 +6,7 @@ alt_names: [Barutadura, Eura, Njuguna, Nokunna, Noocoona, Nookoona, Nu guna, Nu-
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

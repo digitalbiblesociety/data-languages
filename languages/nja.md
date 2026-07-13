@@ -2,10 +2,12 @@
 iso: nja
 name: Nzanyi
 autonym: Jeng
-alt_names: [Jenge, Kobochi, Kobotshi, Mzangyim, Njai, Njanyi, Njegn, Njei, Njeing, Njeng, Njeny, Nzangi, Zani, Zany]
+alt_names: [Jenge, Kobochi, Kobotshi, Mzangyim, Njai, Njanyi, Njegn, Njei, Njeing, Njeng, Njeny, Nzangi, Zani, Zany, Dede, Holma, Hoode, Lovi, Magara, Maiha, Mutidi, Nggwoli, Paka, Rogede]
 population: 86000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Chadic language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: shz
 name: Syenara Senoufo
 autonym: Senari
-alt_names: ["Senoufo, Syenara"]
+alt_names: ["Senoufo, Syenara", Senare, Shenara, Syenara]
 population: 155000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
+area: Atlantic–Congo language spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.59538
 longitude: -5.8581
+glottocode: syen1235
 wikidata_id: Q36316
 wikipedia_url: "https://en.wikipedia.org/wiki/Syenara_language"
 translations:

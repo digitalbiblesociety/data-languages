@@ -3,15 +3,18 @@ iso: kng
 macrolanguage_id: kon
 name: Koongo
 autonym: Kikongo
-alt_names: [Cabinda, Congo, Fiote, Kikoongo, Kongo, South-Central Kikongo, West Kongo]
+alt_names: [Cabinda, Congo, Fiote, Kikoongo, Kongo, South-Central Kikongo, West Kongo, Buende, Bwende, Cataract, Central Kongo, Dzamba, East Kongo, Fioti, Ibinda, Kimanyanga, Kindibu, Kisikongo, Kiwoyo, Kiyombe, Kizombo, Kongo-Nseke, Manyanga, Mazinga, Mboka, Ndingi, Ndinzi, Nkanu, Ntandu, Nzamba, Pende, San Salvador Kongo, Santu, Sonde, South East Kongo, South Kongo, Zoombo]
 population: 6236500
 country_id: CD
 country_name: DR Congo
+location: Angola
+area: Bantu language of west-central Africa
 status_id: "2"
 scope: individual
 language_type: living
 latitude: -5.57722
 longitude: 14.477057
+language_map_img: kng.webp
 glottocode: koon1244
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -115,3 +118,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Kongo or Kikongo is one of the Bantu languages spoken by the Kongo people living in the Democratic Republic of the Congo (DRC), the Republic of the Congo, Gabon, and Angola. It is a tonal language. The vast majority of present-day speakers live in Africa. There are roughly seven million native speakers of Kongo in the above-named countries. An estimated five million more speakers use it as a second language.

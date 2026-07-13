@@ -2,9 +2,12 @@
 iso: odu
 name: Odual
 autonym: Saka
+alt_names: [Adibom, Arughunya, Onu Oḍual]
 population: 18000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Central Delta language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

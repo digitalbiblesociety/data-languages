@@ -6,6 +6,8 @@ alt_names: [Kalamse, Kalemsé, Kalenga, Sàmó]
 population: 9570
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

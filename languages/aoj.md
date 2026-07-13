@@ -2,10 +2,12 @@
 iso: aoj
 name: Mufian
 autonym: Southern Arapesh
-alt_names: [Mufwian, Muhian, Muhiang, Souther Arapesh]
+alt_names: [Mufwian, Muhian, Muhiang, Souther Arapesh, Filifita, Balif, Ilahita, Iwam-Nagalemb, Nagipaem, Supari]
 population: 11000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Arapesh language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

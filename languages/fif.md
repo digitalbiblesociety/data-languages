@@ -6,6 +6,8 @@ alt_names: [Faifi]
 population: 50000
 country_id: SA
 country_name: Saudi Arabia
+location: "Asia, Western"
+area: Possible descendant of Old South Arabian
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Central Teke, Fumu, Ifumu, Kiteke, South Central Teke, Teke (South C
 population: 8150
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living

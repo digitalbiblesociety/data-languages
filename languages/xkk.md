@@ -2,10 +2,12 @@
 iso: xkk
 name: "Kaco'"
 autonym: "Kachah'"
-alt_names: [Kachah, "Kacho'", Kachok, Kacok, Kacoq, Kancho, "Kraco'"]
+alt_names: [Kachah, "Kacho'", Kachok, Kacok, Kacoq, Kancho, "Kraco'", "Kachah'", Kachah’]
 population: 3370
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

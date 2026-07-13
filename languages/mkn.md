@@ -2,10 +2,12 @@
 iso: mkn
 name: Kupang Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
-alt_names: [Kupang, "Malay, Kupang"]
+alt_names: [Kupang, "Malay, Kupang", Basa Kupang, Air Mata]
 population: 200000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Malay-based creole language
 status_id: "3"
 scope: individual
 language_type: living

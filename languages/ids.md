@@ -5,11 +5,14 @@ autonym: null
 population: 5690
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.34629
 longitude: 6.2929
+glottocode: ides1238
 wikidata_id: Q3913979
 wikipedia_url: "https://en.wikipedia.org/wiki/Idesa_language"
 translations:

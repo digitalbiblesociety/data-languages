@@ -2,14 +2,17 @@
 iso: rsb
 name: "Romano-Serbian"
 autonym: "Serbo-Romany"
+alt_names: [Tent Gypsy]
 population: 78000
 country_id: RS
 country_name: Serbia
+area: Mixed language spoken in Serbia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 45.25524
 longitude: 20.37623
+glottocode: roma1241
 wikidata_id: Q1268244
 wikipedia_url: "https://en.wikipedia.org/wiki/Romano-Serbian_language"
 translations:

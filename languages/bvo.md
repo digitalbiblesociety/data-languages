@@ -5,6 +5,8 @@ autonym: Bólɡònî
 population: 1800
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bua languages of Chad
 status_id: 6a
 scope: individual
 language_type: living

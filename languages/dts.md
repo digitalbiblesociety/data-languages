@@ -2,10 +2,12 @@
 iso: dts
 name: Toro So Dogon
 autonym: Bomu Tegu
-alt_names: [Dogon, Dogon (Toro So), "Dogon, Toro So", Dogoso, Toro So, Toro So dialect]
+alt_names: [Dogon, Dogon (Toro So), "Dogon, Toro So", Dogoso, Toro So, Toro So dialect, Toroso Dogon, Ibi, Ireli, Sangha, Yorno, Youga]
 population: 50000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon dialect
 status_id: "4"
 scope: individual
 language_type: living
@@ -74,3 +76,5 @@ rolv_dialects:
     country_id: ML
     location: Mali
 ---
+Escarpment Dogon is a continuum of Dogon dialects of the Bandiagara Escarpment, including the standard language. There are three principal dialects:Toro So Tɔrɔ sɔɔ, called Bomu Tegu in the plains languages and also known as Dɔgɔsɔ, is the standard variety of Dogon, which is one of thirteen official languages of Mali.
+Tommo So Tɔmmɔ sɔ, called Tombo so by Bondum Dom speakers, is spoken in a region from Kasa to Bandiagara. It is more linguistically conservative than Toro So.

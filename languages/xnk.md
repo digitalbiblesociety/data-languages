@@ -2,9 +2,11 @@
 iso: xnk
 name: Nganakarti
 autonym: Nanakarti
+alt_names: [Barimaia]
 population: null
 country_id: AU
 country_name: Australia
+area: Indigenous language in Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct

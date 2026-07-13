@@ -2,10 +2,12 @@
 iso: zak
 name: Zanaki
 autonym: Ekizanaki
-alt_names: [Ikizanaki, Kizanaki]
+alt_names: [Ikizanaki, Kizanaki, Ilizanaki]
 population: 97400
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6a
 scope: individual
 language_type: living

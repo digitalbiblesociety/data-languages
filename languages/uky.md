@@ -6,6 +6,7 @@ alt_names: [Kuku Yak, Kuuk Yak]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Paman language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct

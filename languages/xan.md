@@ -2,10 +2,12 @@
 iso: xan
 name: Xamtanga
 autonym: Xamir
-alt_names: [Agawinya, Kamir, Khamir, Khamta, Khamtanga, "Simt'anga", Xamta]
+alt_names: [Agawinya, Kamir, Khamir, Khamta, Khamtanga, "Simt'anga", Xamta, Simt’anga, Agaw]
 population: 213000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Ethiopian language
 status_id: "4"
 scope: individual
 language_type: living

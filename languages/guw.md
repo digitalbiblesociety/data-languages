@@ -2,10 +2,12 @@
 iso: guw
 name: Gun
 autonym: gungbe
-alt_names: [Alada, Alada-Gbe, Aladian, Egun, Goun, Gu, Gugbe, Gun-Alada, Gun-Gbe, Seto-Gbe, Toli-Gbe]
+alt_names: [Alada, Alada-Gbe, Aladian, Egun, Goun, Gu, Gugbe, Gun-Alada, Gun-Gbe, Seto-Gbe, Toli-Gbe, Ajra, Asento, Gbekon, Phela, Savi, Seto, Toli, Weme]
 population: 1139000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

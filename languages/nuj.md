@@ -2,10 +2,12 @@
 iso: nuj
 name: Nyole
 autonym: Lunyole
-alt_names: [Nyule, Nyuli]
+alt_names: [Nyule, Nyuli, Hadyo, LoNyole, Luhadyo, Lumenya, Lusabi, Luwesa, Menya, Sabi, Wesa]
 population: 530000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken in Uganda
 status_id: "5"
 scope: individual
 language_type: living

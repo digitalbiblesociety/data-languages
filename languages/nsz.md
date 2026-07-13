@@ -6,11 +6,13 @@ alt_names: [Maidu (Southern), Neeshenam, Nishinam, Pujuni, S Maidu, S. Maidu, So
 population: null
 country_id: US
 country_name: United States
+area: Endangered Maiduan language of California
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 38.047
 longitude: -120.393
+language_map_img: Nisenan_map.svg
 glottocode: nise1244
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan

@@ -2,10 +2,12 @@
 iso: knx
 name: Kendayan
 autonym: " Salako"
-alt_names: [Baicit, Damea, Dayak, Kenayatn, Kendayan Dayak, Kendayan-Ambawang, Salakau, Selakau, Selako, Silakau]
+alt_names: [Baicit, Damea, Dayak, Kenayatn, Kendayan Dayak, Kendayan-Ambawang, Salakau, Selakau, Selako, Silakau, Ahe, Ambawang, Balangin, Kanayatn, Kendayan (Kanayatn)]
 population: 331700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Malayic Dayak language of Borneo
 status_id: "3"
 scope: individual
 language_type: living

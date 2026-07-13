@@ -2,9 +2,11 @@
 iso: rbp
 name: Barababaraba
 autonym: Baraparapa
+alt_names: [Baraba Baraba]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of Australia
 status_id: 8b
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: bhz
 name: Bada
 autonym: "Bada'"
-alt_names: [Bada]
+alt_names: [Bada, "Bada'", Bada’, Tobada’, Ako, Bádáꞌ, Tobadaꞌ]
 population: 9780
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: ["Konjo, Highland", Konyo]
 population: 68500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -5.26559
 longitude: 119.9278
+language_map_img: South_Sulawesi_languages.svg
 glottocode: high1275
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

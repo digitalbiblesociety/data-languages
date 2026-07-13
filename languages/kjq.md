@@ -6,11 +6,14 @@ alt_names: [Acoma, Acoma-Laguna, Keres, Keres (Western), "Keres, Western", Keres
 population: 1695
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Language isolate of New Mexico, United States"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 34.97325
 longitude: -107.51744
+language_map_img: 500px-Keres_langs.webp
 glottocode: west2632
 glottolog_family_id: kere1287
 glottolog_family_name: Keresan
@@ -57,3 +60,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, New Mexico"
 ---
+Keres, also Keresan, is a Native American language, spoken by the Keres Pueblo people in New Mexico. Depending on the analysis, Keres is considered a small language family or a language isolate with several dialects. If it is considered a language isolate, it would be the most widely spoken language isolate within the borders of the United States. The varieties of each of the seven Keres pueblos are mutually intelligible with its closest neighbors. There are significant differences between the Western and Eastern groups, which are sometimes counted as separate languages.

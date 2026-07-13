@@ -6,6 +6,8 @@ alt_names: [Gura]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

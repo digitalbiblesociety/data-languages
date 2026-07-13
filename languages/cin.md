@@ -6,6 +6,8 @@ alt_names: [Aruá, Cinta-larga, Gavião, Gavião du Rondônia, Zoró]
 population: 1300
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian dialect cluster of Brazil
 status_id: 6a
 scope: individual
 language_type: living

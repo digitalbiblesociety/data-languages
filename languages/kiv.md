@@ -6,6 +6,7 @@ alt_names: [Ikibungu, Yanzi]
 population: 62700
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6b
 scope: individual
 language_type: living

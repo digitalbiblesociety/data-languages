@@ -6,6 +6,7 @@ alt_names: [Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi, Djahui
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Tupi language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 威拉费德语
     auto: true
 ---
+Apiaká is a recently extinct Tupi language of the Apiacá people of the upper Rio Tapajos area of Mato Grosso, Brazil. It has been supplanted by Portuguese, and only 3 people have some knowledge of the language.

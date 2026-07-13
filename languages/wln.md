@@ -7,11 +7,14 @@ alt_names: [An Vallúinis, Fà-liùng-ngî, Valloni, Vallonsk, Vallonska, Valoie
 population: 600000
 country_id: BE
 country_name: Belgium
+location: "Belgium, Luxembourg and Netherlands"
+area: "Gallo-Romance language of Wallonia, Belgium"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 50.22351
 longitude: 5.14509
+language_map_img: 500px-Linguistic_map_of_Wallonia.webp
 scripts: [Latn]
 glottocode: wall1255
 glottolog_family_id: indo1319

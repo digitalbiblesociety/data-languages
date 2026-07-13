@@ -2,15 +2,18 @@
 iso: shb
 name: Ninam
 autonym: Ninam
-alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam]
+alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam, Xirixana, Mukajai, Shirishana, Southern Ninam, Uraricaa-Paragua, Yanomami Ninam]
 population: 1030
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Yanomaman language spoken in Brazil and Venezuela
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 4.038935
 longitude: -62.780115
+language_map_img: Yanomaman.svg
 glottocode: nina1238
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic

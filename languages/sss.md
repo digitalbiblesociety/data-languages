@@ -6,6 +6,8 @@ alt_names: [Bru, Kah So, Kha, Kha So, Makong, Mang Cong, Mang-Koong, Mangkong, M
 population: 233000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -94,3 +96,4 @@ rolv_dialects:
     country_id: LA
     location: Laos
 ---
+Bruu is a Mon–Khmer dialect continuum spoken by the Bru people of mainland Southeast Asia. Sô and Khua are dialects.

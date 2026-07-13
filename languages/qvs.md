@@ -3,10 +3,12 @@ iso: qvs
 macrolanguage_id: que
 name: San Martín Quechua
 autonym: San Martín Quechua
-alt_names: [Canelo, Lama, Lamano, Lamanyo, Lamas Quechua, Lamas-Luritu, Lamas-Quechua, Lamaño, Lamista, Lamista Kichua, Lamista Quechua, Lamisto, Loreto, Motilón, Quechua lamista, "Quechua, San Martín", San Martin Quechua, San Martín, Ucayali]
+alt_names: [Canelo, Lama, Lamano, Lamanyo, Lamas Quechua, Lamas-Luritu, Lamas-Quechua, Lamaño, Lamista, Lamista Kichua, Lamista Quechua, Lamisto, Loreto, Motilón, Quechua lamista, "Quechua, San Martín", San Martin Quechua, San Martín, Ucayali, Quechua, Llakwash Quechua]
 population: 15000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: 6b
 scope: individual
 language_type: living

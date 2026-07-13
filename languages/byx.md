@@ -2,10 +2,12 @@
 iso: byx
 name: Qaqet
 autonym: Baining
-alt_names: [Kakat, Makakat, Maqaqet, Neu-Pommern]
+alt_names: [Kakat, Makakat, Maqaqet, Neu-Pommern, Mali-Baining]
 population: 6350
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Baining language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

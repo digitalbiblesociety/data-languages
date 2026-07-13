@@ -6,6 +6,7 @@ alt_names: [Techenaweg, Teshena]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Afro-Asiatic language of Nigeria
 status_id: null
 scope: individual
 language_type: extinct

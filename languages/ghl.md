@@ -6,6 +6,8 @@ alt_names: [Gulfan, Nubian (Hill), Wunci, Wuncimbe]
 population: 16000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Hill Nubian language of Sudan
 status_id: "7"
 scope: individual
 language_type: living

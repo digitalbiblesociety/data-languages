@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 40000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Ibanic Dayak language of Borneo
 status_id: "5"
 scope: individual
 language_type: living

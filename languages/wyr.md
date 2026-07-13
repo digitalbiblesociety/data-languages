@@ -6,6 +6,8 @@ alt_names: [Ajuru, Ayuru, Ayurú, Huayoró, Uaiora, Uaioró, Wajaru, Wayoro, Way
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tuparian language of Brazil
 status_id: 8a
 scope: individual
 language_type: living

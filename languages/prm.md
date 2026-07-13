@@ -6,11 +6,14 @@ alt_names: [Gibiri, Kibiri-Porome, Kibirieg, Polome, Porome, Porome language]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Language isolate of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -7.45276
 longitude: 144.29554
+language_map_img: Porome_language.svg
 glottocode: kibi1239
 wikidata_id: Q56745
 wikipedia_url: "https://en.wikipedia.org/wiki/Porome_language"

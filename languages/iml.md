@@ -6,11 +6,13 @@ alt_names: [Lower Coquille, Mulluk]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 43.321506
 longitude: -124.258175
+language_map_img: Coosan_map.svg
 glottocode: milu1241
 glottolog_family_id: coos1248
 glottolog_family_name: Coosan

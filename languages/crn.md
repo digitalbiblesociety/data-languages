@@ -2,15 +2,18 @@
 iso: crn
 name: El Nayar Cora
 autonym: naáyarite
-alt_names: [Cora, Cora de el Nayar, Cora language, "Cora, El Nayar", Kora, Náayeri, Pinome]
+alt_names: [Cora, Cora de el Nayar, Cora language, "Cora, El Nayar", Kora, Náayeri, Pinome, El Nayar, Presidio de los Reyes, Presidio de Los Reyes Cora, Naáyeri, closely related to Mesa Del Nayar]
 population: 5370
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken by the Cora people of northern Mexico and western USA
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 22.40993
 longitude: -104.46744
+language_map_img: 500px-Taracahita-Pima.webp
 glottocode: elna1235
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
@@ -82,3 +85,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Nayarit"
 ---
+Cora is an indigenous language of Mexico of the Uto-Aztecan language family, spoken by approximately 30,000 people. It is spoken by the ethnic group that is widely known as the Cora, but who refer to themselves as Naáyarite. The Cora inhabit the northern sierra of the Mexican state Nayarit which is named after its indigenous inhabitants. A significant portion of Cora speakers have formed an expatriate community along the southwestern part of Colorado in the United States. Cora is a Mesoamerican language and shows many of the traits defining the Mesoamerican Linguistic Area. Under the General Law of Linguistic Rights of the Indigenous Peoples, it is recognized as a "national language", along with 62 other indigenous languages and Spanish which have the same "validity" in Mexico.

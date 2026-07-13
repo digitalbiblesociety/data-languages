@@ -2,10 +2,12 @@
 iso: skx
 name: Seko Padang
 autonym: Seko
-alt_names: [Sua Tu Padang, Wono]
+alt_names: [Sua Tu Padang, Wono, "Hono'", Lodang]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

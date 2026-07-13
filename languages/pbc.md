@@ -6,6 +6,8 @@ alt_names: [Eremagok, Ingariko, Kapon, Kapóng, Patamuna]
 population: 4700
 country_id: GY
 country_name: Guyana
+location: Guyana
+area: Cariban language spoken in Guyana and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 帕塔蒙纳语
     auto: true
 ---
+Kapóng is a Cariban language spoken mainly in Guyana, most commonly in the region of the Upper Mazaruni. Though many speakers do not live in villages, there are a number of population centers, notably Kamarang, Jawalla, Waramadong, and Kako. There are two dialects, Akawaio and Patamona.

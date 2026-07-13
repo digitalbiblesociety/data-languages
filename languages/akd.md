@@ -6,6 +6,8 @@ alt_names: [Akpet-Ehom]
 population: 11400
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Upper Cross River dialects of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

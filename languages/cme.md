@@ -2,10 +2,12 @@
 iso: cme
 name: Cerma
 autonym: Gouin
-alt_names: [Guin, Gwe, Gwen, Kirma, Mbouin]
+alt_names: [Guin, Gwe, Gwen, Kirma, Mbouin, Banfora-Sienena, Goin, Gouindougouba, Niangoloko-Diarabakoko, Soubakanedougou]
 population: 53600
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

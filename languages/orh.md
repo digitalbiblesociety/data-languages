@@ -6,6 +6,8 @@ alt_names: [Olunchun, Orochen, Orochon, Orokeneg, Oronchon, Oročon, Ulunchun]
 population: 1200
 country_id: CN
 country_name: China
+location: China
+area: Tungusic language spoken in Inner Mongolia and Heilongjiang
 status_id: 8b
 scope: individual
 language_type: living

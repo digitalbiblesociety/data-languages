@@ -3,10 +3,12 @@ iso: aii
 macrolanguage_id: syr
 name: "Assyrian Neo-Aramaic"
 autonym: Sūreṯ
-alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, ܣܘܪܬ]
+alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, ܣܘܪܬ, ܐܵܬ݂ܘܼܪܵܝܲܐ ܠܸܫܵܢܵܐ, Anhar, Aradhin, Aturaya Swadaya, Baz, Benatha, Central Assyrian, Daudiya, Dez, Gavar, Inishke, Jilu, Lewin, Lower Barwari, Mar Bishu, Nochiya, Northern Assyrian, Qudshanis, Salamas, Sapna, Shamezdin, Sipurghan, Solduz, Swadai, Swadaya, Tal, Tergawar, Tina, Tkhuma, Upper Barwari, Urmi, Urmi Assyrian, Van, Western Assyrian]
 population: 626000
 country_id: IQ
 country_name: Iraq
+location: Iraq
+area: Neo-Aramaic dialect
 status_id: 6b
 scope: individual
 language_type: living

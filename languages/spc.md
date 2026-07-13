@@ -2,10 +2,12 @@
 iso: spc
 name: Sapé
 autonym: Kaliana
-alt_names: [Caliana, Calianá, Cariana, Chirichano, Kariana, Sape, Sape-kaliana]
+alt_names: [Caliana, Calianá, Cariana, Chirichano, Kariana, Sape, Sape-kaliana, Kaliána]
 population: 2019
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Extinct Arutani–Sape language of Venezuela
 status_id: 8b
 scope: individual
 language_type: living

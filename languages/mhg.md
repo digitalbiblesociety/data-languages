@@ -2,15 +2,18 @@
 iso: mhg
 name: Margu
 autonym: Yaako
-alt_names: [Adawuli, Ajokoot, Croker Island, Croker Island language, Djalakuru, Gaari, Garrig, Iwaidja, Iwaidjan, Jaako, Jakajako, Jiwadza, "Ma:go", Mago, Maraura, Marg, Margo, Marlgu, Maroura, Marowera, Marrgu, Marrku, Oitbi, Raffles Bay, Raffles Bay language, Terrutong, Terutong, Uruku, Waimbo, Wurango, Yaakoyaako, Yako]
+alt_names: [Adawuli, Ajokoot, Croker Island, Croker Island language, Djalakuru, Gaari, Garrig, Iwaidja, Iwaidjan, Jaako, Jakajako, Jiwadza, "Ma:go", Mago, Maraura, Marg, Margo, Marlgu, Maroura, Marowera, Marrgu, Marrku, Oitbi, Raffles Bay, Raffles Bay language, Terrutong, Terutong, Uruku, Waimbo, Wurango, Yaakoyaako, Yako, Croker, Island]
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Extinct language of Australia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -11.18231
 longitude: 132.58697
+language_map_img: Marrgu_language.webp
 glottocode: marg1251
 glottolog_family_id: marr1257
 glottolog_family_name: Marrku-Wurrugu

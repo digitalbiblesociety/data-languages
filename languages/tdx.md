@@ -3,10 +3,12 @@ iso: tdx
 macrolanguage_id: mlg
 name: "Tandroy-Mahafaly Malagasy"
 autonym: malagasy
-alt_names: ["Malagasy, Tandroy-Mahafaly", Tandroy]
+alt_names: ["Malagasy, Tandroy-Mahafaly", Tandroy, Antandroy, Mahafaly, Antandroy Malagasy, Tandroy-Mahafaly]
 population: 1300000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 坦德罗伊-马哈法利马达加斯加语
     auto: true
 ---
+Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

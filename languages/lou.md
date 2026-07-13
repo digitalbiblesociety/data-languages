@@ -6,11 +6,14 @@ alt_names: ["Creole, Louisiana", Créole louisianais, Franse, Kourí-viní, Krey
 population: 4800
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: French-based creole in Louisiana
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 30.04118
 longitude: -90.74754
+language_map_img: 500px-Map_of_Creole-Speaking_Parishes_in_Louisiana.webp
 glottocode: loui1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

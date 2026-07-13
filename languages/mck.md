@@ -2,10 +2,12 @@
 iso: mck
 name: Mbunda
 autonym: " Chimbúùnda"
-alt_names: [Chimbunda, Gimbunda, Kimbunda, Mbuunda]
+alt_names: [Chimbunda, Gimbunda, Kimbunda, Mbuunda, Ki-mbunda]
 population: 218000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Zambia
 status_id: "5"
 scope: individual
 language_type: living

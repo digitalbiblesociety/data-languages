@@ -6,6 +6,8 @@ alt_names: [Sho]
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Extinct Kainji language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

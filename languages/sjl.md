@@ -2,10 +2,12 @@
 iso: sjl
 name: Sajalong
 autonym: Dhammai
-alt_names: [Dammai, Hruso A, Miji]
+alt_names: [Dammai, Hruso A, Miji, Namrei]
 population: 6500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language cluster
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 萨亚隆语
     auto: true
 ---
+Miji, also given the dialect names Sajolang and Dhammai, is a dialect cluster traditionally counted as one of the Sino-Tibetan languages that is spoken in Arunachal Pradesh, northeastern India. The varieties are not particularly close, with only half of the vocabulary in common between the languages of East Kameng District and West Kameng District. Previously classified as Sino-Tibetan languages, Miji and the recently discovered Bangru language may instead form a small independent language family.

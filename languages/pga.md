@@ -3,10 +3,11 @@ iso: pga
 macrolanguage_id: ara
 name: Sudanese Creole Arabic
 autonym: Sudanese Creole Arabic
-alt_names: ["Arabic, Sudanese Creole", "Creole Arabic, Sudanese", Juba Arabic, Pidgin Arabic, Southern Sudan Arabic]
+alt_names: ["Arabic, Sudanese Creole", "Creole Arabic, Sudanese", Juba Arabic, Pidgin Arabic, Southern Sudan Arabic, Arabi Juba]
 population: 20000
 country_id: SS
 country_name: South Sudan
+area: Lingua franca spoken in South Sudan
 status_id: "3"
 scope: individual
 language_type: living

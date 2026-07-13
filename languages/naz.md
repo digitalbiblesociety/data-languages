@@ -6,6 +6,8 @@ alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Coatepec",
 population: 1400
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Nahuatl variety of central Mexico
 status_id: "7"
 scope: individual
 language_type: living

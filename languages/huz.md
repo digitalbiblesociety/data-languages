@@ -2,15 +2,18 @@
 iso: huz
 name: Hunzib
 autonym: гьонкьос мыц / honƛʼos mɨc
-alt_names: [Enzeb, Gunzib, Hounzibeg, Khunzal, Khunzaly, Xunzal, honƛʼos mɨc, гьонкьос мыц]
+alt_names: [Enzeb, Gunzib, Hounzibeg, Khunzal, Khunzaly, Xunzal, honƛʼos mɨc, гьонкьос мыц, Ghunzib, Hontl’os myts, Khvanal]
 population: 1840
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language spoken in Dagestan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 42.08076
 longitude: 46.13691
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: hunz1247
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

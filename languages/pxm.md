@@ -2,15 +2,18 @@
 iso: pxm
 name: Quetzaltepec Mixe
 autonym: Central Mixe
-alt_names: ["Mixe, Quetzaltepec"]
+alt_names: ["Mixe, Quetzaltepec", Chuxnabán Mixe, Midland Mixe, Mixe Alto del Sur, Mixe de Chusnabán (Chuxnabán)]
 population: 6700
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 16.92147
 longitude: -95.67269
+glottocode: quet1239
 wikidata_id: Q56199161
 translations:
   - translation_iso: ara
@@ -49,3 +52,5 @@ translations:
     name: 克特萨尔特佩克米克斯语
     auto: true
 ---
+Midland a.k.a. Central Mixe is a Mixe language spoken in Mexico. According to Wichmann (1995), there are two groups of dialects:NorthJaltepec, Puxmetecán, Atitlán, Matamoros, Cotzocón
+SouthJuquila, Cacalotepec

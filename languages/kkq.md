@@ -6,6 +6,8 @@ alt_names: [Kaeku, Kaiko]
 population: 13000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of the Democratic Republic of the Congo
 status_id: 6a
 scope: individual
 language_type: living

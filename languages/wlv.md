@@ -2,10 +2,12 @@
 iso: wlv
 name: Wichí Lhamtés Vejoz
 autonym: Mataco Vejoz
-alt_names: [Aiyo, Hueshuo, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Vejos, Vejoz, Wichi Lhamtes Vejoz, Wichí, Wichí Lhamtés Güisnay]
+alt_names: [Aiyo, Hueshuo, Mataco, Mataco Güisnay, Mataco Pilcomayo, Matako, Pilcomayo Wichí, Vejos, Vejoz, Wichi Lhamtes Vejoz, Wichí, Wichí Lhamtés Güisnay, “Mataco Vejoz”, Bermejo Vejoz, wichi]
 population: 25000
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Mataco-Guaicuru language of Argentina and Bolivia
 status_id: "5"
 scope: individual
 language_type: living

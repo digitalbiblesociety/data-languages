@@ -6,6 +6,7 @@ alt_names: [Cahita, Dohema, Endeve, Heve, Opata-Eudeve, Opatan, Teguima, Ópata]
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Uto-Aztecan languages of Mexico
 status_id: "10"
 scope: individual
 language_type: extinct

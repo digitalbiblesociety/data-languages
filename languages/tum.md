@@ -2,10 +2,12 @@
 iso: tum
 name: Tumbuka
 autonym: Chitumbuka
-alt_names: [Tamboka, Tambuka, Tew, Timbuka, Tombucas, Tumboka, Tumbukum, Тумбука]
+alt_names: [Tamboka, Tambuka, Tew, Timbuka, Tombucas, Tumboka, Tumbukum, Тумбука, Chikamanga, Chipoka, Citumbuka, Fililwa, Filirwa, Fungwe, Henga, Hewa, Hewe, Kamanga, Kandawire, Magodi, Nenya, Ngoni, Nthali, Phoka, Poka, Senga, Wenya, Yombe]
 population: 2316000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Niger-Congo language spoken in Southern and Eastern Africa
 status_id: "4"
 scope: individual
 language_type: living

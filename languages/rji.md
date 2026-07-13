@@ -2,10 +2,12 @@
 iso: rji
 name: Raji
 autonym: Ban Raji
-alt_names: [Rajibar]
+alt_names: [Rajibar, Barh Bandale, Janggali, Naukule, Phaan Bhaasaa, Phaan Boli, Purbiya, Rawati, Rjya]
 population: 2410
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: "Sino-Tibetan language of western Nepal and Uttarakhand, India"
 status_id: 6b
 scope: individual
 language_type: living

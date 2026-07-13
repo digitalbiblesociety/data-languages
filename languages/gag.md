@@ -2,10 +2,11 @@
 iso: gag
 name: Gagauz
 autonym: " Gagauzça"
-alt_names: [Gagaoezisch, Gagaouze, Gagaouzeg, Gagausko godka, Gagauzi, Gagauzisk, Gagauziska, Gagavuzca, Gagaús, Gaugausen, Ğağauz tili, Ғағауҙ теле, גגאוזית]
+alt_names: [Gagaoezisch, Gagaouze, Gagaouzeg, Gagausko godka, Gagauzi, Gagauzisk, Gagauziska, Gagavuzca, Gagaús, Gaugausen, Ğağauz tili, Ғағауҙ теле, גגאוזית, Gaguz, Bulgar Gagauz, Bulgar Gagauzi, Gagauz dili, Maritime Gagauz, Maritime Gagauzi]
 population: 148720
 country_id: MD
 country_name: Moldova
+area: Oghuz Turkic language of Eastern Europe
 status_id: "5"
 scope: individual
 language_type: living

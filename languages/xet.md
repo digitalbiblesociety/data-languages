@@ -6,6 +6,7 @@ alt_names: [Botocudo, Cheta, Chetá, Heta, Notobotocudo, Seta, Setá, Sheta, She
 population: null
 country_id: BR
 country_name: Brazil
+area: Nearly extinct Tupian language of Brazil
 status_id: "9"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Owena, Owenda, Waijara]
 population: 350
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kadir]
 population: 1960
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of Kerala and Tamil Nadu
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bwj
 name: Láá Láá Bwamu
 autonym: Kàdenbà
-alt_names: ["Bwamu, Láá Láá", Laa Laa Bwamu, Yere]
+alt_names: ["Bwamu, Láá Láá", Laa Laa Bwamu, Yere, Buamu Laa, Buamu-laa, Bwamu Laa]
 population: 69200
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

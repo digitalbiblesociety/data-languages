@@ -6,6 +6,8 @@ alt_names: [Rumbala]
 population: 374500
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of the Congo
 status_id: 6a
 scope: individual
 language_type: living

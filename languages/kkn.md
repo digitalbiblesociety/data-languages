@@ -2,14 +2,18 @@
 iso: kkn
 name: Kon Keu
 autonym: Kon Keu
+alt_names: [Kongge]
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Palaungic language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.63694
 longitude: 100.27835
+glottocode: konk1268
 wikidata_id: Q6428686
 wikipedia_url: "https://en.wikipedia.org/wiki/Kon_Keu_language"
 translations:

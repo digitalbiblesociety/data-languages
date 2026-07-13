@@ -6,6 +6,7 @@ alt_names: [Chaima, Chayma, Cumanagota, Cumanogoto, Cumaná, Guaga-Tagare, Kuman
 population: 112
 country_id: VE
 country_name: Venezuela
+area: Endangered Cariban language of Venezuela
 status_id: 8b
 scope: individual
 language_type: extinct

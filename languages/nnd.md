@@ -2,10 +2,12 @@
 iso: nnd
 name: West Ambae
 autonym: Duidui
-alt_names: ["Ambae, West", Opa]
+alt_names: ["Ambae, West", Opa, Duindui, Nduindui, Walaha]
 population: 8700
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

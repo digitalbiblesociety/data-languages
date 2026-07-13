@@ -6,6 +6,7 @@ alt_names: [Apalachi, Yamasee, Yamasi]
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Muskogean language of Florida, USA"
 status_id: null
 scope: individual
 language_type: extinct

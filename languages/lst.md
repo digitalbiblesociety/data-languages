@@ -6,6 +6,7 @@ alt_names: [TSL, TTSL, Trinidad Sign Language]
 population: 1360
 country_id: TT
 country_name: Trinidad and Tobago
+area: Deaf sign language of Trinidad and Tobago
 status_id: 6a
 scope: individual
 language_type: living

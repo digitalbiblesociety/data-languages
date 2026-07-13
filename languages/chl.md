@@ -5,11 +5,14 @@ autonym: Ivilyuat
 population: 6
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Endangered Uto-Aztecan language of California
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 33.53238
 longitude: -116.69146
+language_map_img: Cahuilla_language.webp
 glottocode: cahu1264
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

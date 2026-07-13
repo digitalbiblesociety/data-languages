@@ -2,10 +2,12 @@
 iso: azo
 name: Awing
 autonym: "Mbwe'wi"
-alt_names: [Awi, Bambuluwe]
+alt_names: [Awi, Bambuluwe, Mbwe’wi, Atembuluwe]
 population: 19000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

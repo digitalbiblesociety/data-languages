@@ -7,6 +7,8 @@ alt_names: [Lahnda]
 population: 4000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living

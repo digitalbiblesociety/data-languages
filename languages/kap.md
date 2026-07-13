@@ -2,15 +2,18 @@
 iso: kap
 name: Bezhta
 autonym: бежкьалас миц
-alt_names: [Bechitin, Bejila, Bejteg, Bexita, Bezheta, Bezhita, Bezhti, Kapuch, Kapucha, Kapuchin, Kupuca, bežƛʼalas mic]
+alt_names: [Bechitin, Bejila, Bejteg, Bexita, Bezheta, Bezhita, Bezhti, Kapuch, Kapucha, Kapuchin, Kupuca, bežƛʼalas mic, Bazht’, Bezhituri, Kapuchin-Gunzib, Kapuchuri, Khvanal, Kiburabi, "Bazht'al", "Bezht'alas mits", Bezhta proper, Bezhtin, Khocharkhotin, Tlyadaly]
 population: 6200
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Tsezic language of southwest Dagestan, Russia"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 42.1206
 longitude: 46.03319
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: bezh1248
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

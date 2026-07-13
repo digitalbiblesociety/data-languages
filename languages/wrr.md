@@ -2,15 +2,18 @@
 iso: wrr
 name: Wardaman
 autonym: Yangmanic
-alt_names: [Wadaman, Wadderman, Waderman, Waduman, "Warda'man", Wardeman, Wardman, Warduman, Wartaman, Wordaman]
+alt_names: [Wadaman, Wadderman, Waderman, Waduman, "Warda'man", Wardeman, Wardman, Warduman, Wartaman, Wordaman, Warda’man]
 population: 50
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Language isolate of Australia's Northern Territory"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -15.41548
 longitude: 132.60421
+language_map_img: Yangmanic_languages.webp
 glottocode: ward1246
 glottolog_family_id: yang1287
 glottolog_family_name: Yangmanic

@@ -6,11 +6,14 @@ alt_names: [Akanoini, Hamacore, Ikiteg, Ikito, Ikito-Kawarano, Ikitu, Iquita, Iq
 population: 500
 country_id: PE
 country_name: Peru
+location: Peru
+area: Zaparoan language of Peru
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -3.31233
 longitude: -73.97046
+language_map_img: 500px-Iquito_language.webp
 glottocode: iqui1243
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan

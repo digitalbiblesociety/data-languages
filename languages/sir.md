@@ -5,6 +5,8 @@ autonym: Sirawa
 population: 3800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Endangered Afro-Asiatic language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Arthare-Khesang, Dungmali Pûk, Dungmali-Bantawa, Dūngmālī]
 population: 220
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kirati language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

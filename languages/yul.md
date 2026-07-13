@@ -6,6 +6,8 @@ alt_names: [Youlou, Yulu-Binga dialects]
 population: 4000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Central Sudanic language spoken in Africa
 status_id: 6a
 scope: individual
 language_type: living

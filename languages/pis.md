@@ -2,9 +2,12 @@
 iso: pis
 name: Pijin
 autonym: "Neo-Solomonic"
+alt_names: [Solomons Pidgin]
 population: 564000
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: English-based creole of Solomon Islands
 status_id: "3"
 scope: individual
 language_type: living

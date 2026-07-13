@@ -2,15 +2,18 @@
 iso: iba
 name: Iban
 autonym: Jaku Iban
-alt_names: [Dayak, Sea Dayak]
+alt_names: [Dayak, Sea Dayak, Air Tabun, Banjur, Batang Lupar, Bugau, Dau, Demam, Desa, Iban Sabah, "Kantu'", Ketungau, Lemanak, Maung, "Sebaru'", Sekapat, Seklau, Sesat, Sigarau, Skrang, Ulu Ai, Undup]
 population: 782800
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Brunei, Kalimantan, and Sarawak"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 2.090413
 longitude: 112.934183
+language_map_img: Iban_language_distribution.svg
 scripts: [Latn]
 glottocode: iban1264
 glottolog_family_id: aust1307

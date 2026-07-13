@@ -2,14 +2,18 @@
 iso: mbm
 name: Ombamba
 autonym: Ombamba
+alt_names: [Lembaamba, Mbaama, Mbama, Mbamba]
 population: 15100
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -2.75341
 longitude: 13.61701
+glottocode: omba1241
 wikidata_id: Q36407
 wikipedia_url: "https://en.wikipedia.org/wiki/Mbama_language"
 translations:

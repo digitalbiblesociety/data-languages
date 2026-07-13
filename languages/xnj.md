@@ -2,10 +2,11 @@
 iso: xnj
 name: Chingoni
 autonym: Songea
-alt_names: [Ngoni (Tanzania)]
+alt_names: [Ngoni (Tanzania), Angoni, Kingoni, Kisutu, Ngoni, Sutu, Tanzanian Ngoni]
 population: 311000
 country_id: TZ
 country_name: Tanzania
+area: Bantu language spoken in southeastern Africa
 status_id: null
 scope: individual
 language_type: living

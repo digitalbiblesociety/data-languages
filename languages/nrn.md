@@ -5,6 +5,7 @@ autonym: norn
 population: 1932
 country_id: GB
 country_name: United Kingdom
+area: Extinct Germanic language spoken in the Northern Isles of Scotland
 status_id: null
 scope: individual
 language_type: extinct

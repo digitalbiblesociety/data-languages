@@ -6,6 +6,8 @@ alt_names: [Guang]
 population: 24500
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Guang language of Benin
 status_id: "5"
 scope: individual
 language_type: living

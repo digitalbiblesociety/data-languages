@@ -5,6 +5,8 @@ autonym: Laganyan
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -57,3 +59,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Papua Barat"
 ---
+Maʼya is an Austronesian language of the Raja Ampat islands in Southwest Papua, Indonesia. It is part of the South Halmahera–West New Guinea (SHWNG) subgroup and is spoken by about 6,000 people in coastal villages on the islands of Batanta, Misool, Salawati, and Waigeo, on the boundary between Austronesian and Papuan languages.

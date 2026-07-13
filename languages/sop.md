@@ -2,10 +2,12 @@
 iso: sop
 name: Songe
 autonym: Kalebwe
-alt_names: [Kisonge, Kisongi, Kisongye, Luba-Songi, Lusonge, "North Songye, South Songye", Northeast Luba, Songye, Yembe]
+alt_names: [Kisonge, Kisongi, Kisongye, Luba-Songi, Lusonge, "North Songye, South Songye", Northeast Luba, Songye, Yembe, Eastern Kalebwe, Esambi Kipya, Ikalebwe, Kilombeno Kibya, Mbagani, Western Kalebwe]
 population: 1000000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

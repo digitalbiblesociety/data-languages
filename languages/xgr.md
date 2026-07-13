@@ -5,6 +5,7 @@ autonym: Meakán
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Pakawan language of Texas and Mexico
 status_id: null
 scope: individual
 language_type: extinct

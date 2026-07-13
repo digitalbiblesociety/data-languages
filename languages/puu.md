@@ -2,10 +2,12 @@
 iso: puu
 name: Punu
 autonym: Bapunu
-alt_names: [Ipounou, Ipunu, Pouno, Puno, Yipounou, Yipunu]
+alt_names: [Ipounou, Ipunu, Pouno, Puno, Yipounou, Yipunu, Pounou, yi-punu]
 population: 168500
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language of Gabon and the Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living

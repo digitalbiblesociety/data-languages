@@ -3,15 +3,18 @@ iso: qxn
 macrolanguage_id: que
 name: Northern Conchucos Ancash Quechua
 autonym: " Nunashimi"
-alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Conchucos Quechua, Northern Quechua, "Quechua, Northern Conchucos  Ancash"]
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Conchucos Quechua, Northern Quechua, "Quechua, Northern Conchucos  Ancash", Quechua, Northern Conchucos Ancash]
 population: 250000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -8.97356
 longitude: -77.41462
+language_map_img: AnqashQ.svg
 glottocode: nort2979
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 北孔丘斯安卡什克丘亚语
     auto: true
 ---
+Ancash Quechua, also Huaylay or Waylay in linguistic terminology, is a Quechua variety spoken in the Peruvian department of Ancash by approximately 1,000,000 people. Like Wanka Quechua, it belongs to Quechua I.

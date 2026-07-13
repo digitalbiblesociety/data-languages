@@ -5,6 +5,7 @@ autonym: Wara
 population: 260
 country_id: BF
 country_name: Burkina Faso
+area: Niger–Congo language of Burkina Faso
 status_id: null
 scope: individual
 language_type: living

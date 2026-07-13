@@ -6,6 +6,7 @@ alt_names: [Ruotsalainen viittomakieli, Svensk tegnspråk, Svenska Teckenspråke
 population: 8000
 country_id: SE
 country_name: Sweden
+area: Official sign language of Sweden
 status_id: "4"
 scope: individual
 language_type: living

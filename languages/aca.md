@@ -6,11 +6,14 @@ alt_names: [Achugua, Ajagua, Xagua]
 population: 250
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Arawakan language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 4.38649
 longitude: -72.2005
+language_map_img: Achagua.webp
 glottocode: acha1250
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

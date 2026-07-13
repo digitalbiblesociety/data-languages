@@ -6,6 +6,8 @@ alt_names: [Guajajára, Guazazzara, Tembe, Tenetehara, Tenetehára, Timbé]
 population: 180
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupian language spoken by indigenous peoples in the Brazilian state of Maranhão
 status_id: "7"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 特姆贝语
     auto: true
 ---
+Tenetehára is a Tupi–Guarani language spoken in the state of Maranhão in Brazil. Sociolinguistically, it is two languages, each spoken by the Guajajara and the Tembé people, though these are mutually intelligible. Tembé was spoken by less than a quarter of its ethnic population of 820 in 2000; Guajajara, on the other hand, is more robust, being spoken by two-thirds of its 20,000 people.

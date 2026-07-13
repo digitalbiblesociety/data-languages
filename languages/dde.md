@@ -2,10 +2,12 @@
 iso: dde
 name: Doondo
 autonym: Kibeembe
-alt_names: [Dondo, Kidoondo]
+alt_names: [Dondo, Kidoondo, Boko-Songho, Kimbedi, Kinkeenge, Mfouati]
 population: 30000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo Brazzaville
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 多恩多语
     auto: true
 ---
+Bembe is a Bantu language spoken primarily in the Republic of Congo. It is closely related to Kikongo and forms part of the Kongo language cluster.

@@ -6,6 +6,8 @@ alt_names: [Caning]
 population: 30000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Eastern Sudanic language of Suda
 status_id: 6b
 scope: individual
 language_type: living

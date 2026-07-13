@@ -6,6 +6,8 @@ alt_names: [Turunggare]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: East Geelvink Bay language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

@@ -7,6 +7,7 @@ alt_names: [An Pháilis, Páli, Pálí, Pâli, Pāli, "Sri Lanka, India, Myanmar
 population: null
 country_id: IN
 country_name: India
+area: Indo-European language native to the Indian subcontinent
 status_id: "9"
 scope: individual
 language_type: historical

@@ -6,11 +6,14 @@ alt_names: [Ofutop]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Ekoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 5.92431
 longitude: 8.35425
+language_map_img: Map_of_the_Ekoid_languages.webp
 glottocode: efut1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

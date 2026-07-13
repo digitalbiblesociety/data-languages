@@ -2,10 +2,12 @@
 iso: loe
 name: Saluan
 autonym: Loinang
-alt_names: [Coastal, Loindang, Madi, Mondono, "Saluan, Coastal"]
+alt_names: [Coastal, Loindang, Madi, Mondono, "Saluan, Coastal", “Madi”, "Baloa'", Coastal Saluan, Kintom-Pagimana-Boalemo, "Kohumama'", Lingketeng, Luwuk]
 population: 51900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

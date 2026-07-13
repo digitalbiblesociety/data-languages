@@ -3,15 +3,18 @@ iso: mup
 macrolanguage_id: raj
 name: Malvi
 autonym: Malavi
-alt_names: [Mallow, Malwada, Malwi, Ujjaini]
+alt_names: [Mallow, Malwada, Malwi, Ujjaini, Avanthika, Malvi Proper, Rajawadi, Sondhwadi, Sondwari, Soudhwari, Umadwadi]
 population: 5440000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Dialect of Rajasthani Language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.48797
 longitude: 75.56195
+language_map_img: mup.webp
 glottocode: malv1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

@@ -2,15 +2,18 @@
 iso: ckt
 name: Chukot
 autonym: Ԓыгъоравэтԓьэн йиԓыйиԓ
-alt_names: [Chuchee, Chukcha, Chukchee, Chukchi, Chukchi language, Chukoto, Luoravetlan, Luoravetlansk, "Lyg'oravetl'en jilyjil", Tschuktsche Spraak, Tsjoektsjisch, Txuktxi, tchouktche, Чукчи]
+alt_names: [Chuchee, Chukcha, Chukchee, Chukchi, Chukchi language, Chukoto, Luoravetlan, Luoravetlansk, "Lyg'oravetl'en jilyjil", Tschuktsche Spraak, Tsjoektsjisch, Txuktxi, tchouktche, Чукчи, Лыгъовэтльаелыел, Chaun, Enmylinskij, Enurmin, Nunligranskij, Pevekskij, Uellanskij, Xatyrskij, Yanrakinot]
 population: 15900
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Chukotko-Kamchatkan language of northeast Russia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 68.64356
 longitude: 170.04503
+language_map_img: Chukotko-Kamchatkan_map.svg
 scripts: [Cyrl]
 glottocode: chuk1273
 glottolog_family_id: chuk1271

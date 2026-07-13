@@ -2,10 +2,12 @@
 iso: dbq
 name: Daba
 autonym: Dabba
-alt_names: [Kola]
+alt_names: [Kola, Gamdugun, Nive, Pologozom]
 population: 25000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language of Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

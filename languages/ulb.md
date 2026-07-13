@@ -2,10 +2,12 @@
 iso: ulb
 name: Ulukwumi
 autonym: Olùkùmi
-alt_names: [Nigeria]
+alt_names: [Nigeria, Olukwumi]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Yoruboid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

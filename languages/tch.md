@@ -6,6 +6,8 @@ alt_names: ["Creole English, Turks And Caicos"]
 population: 10700
 country_id: TC
 country_name: Turks and Caicos
+location: Creole Languages of the Northern Caribbean
+area: English-based creole of Turks and Caicos
 status_id: 6b
 scope: individual
 language_type: living

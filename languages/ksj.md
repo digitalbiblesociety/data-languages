@@ -2,10 +2,12 @@
 iso: ksj
 name: Uare
 autonym: Kwale
-alt_names: [Kware]
+alt_names: [Kware, Garia, Garihe]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Kwalean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

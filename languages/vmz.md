@@ -2,10 +2,12 @@
 iso: vmz
 name: Mazatlán Mazatec
 autonym: (Mazatlán Villa de Flores)
-alt_names: [Huautla-Mazatlán Masateko, Masateko, Mazatec, "Mazatec, Mazatlán", Mazateco, Mazateco de MazatlÃ¡n Villa de Flores, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la sierra, Mazatlan Mazatec, Mazatlan de Flores, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres]
+alt_names: [Huautla-Mazatlán Masateko, Masateko, Mazatec, "Mazatec, Mazatlán", Mazateco, Mazateco de MazatlÃ¡n Villa de Flores, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la sierra, Mazatlan Mazatec, Mazatlan de Flores, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres, Mazateco de Mazatlán Villa de Flores, Ienra naxinandana nnandia, Mazateco de Eloxochitlán, Mazateco de Loma Grande, Mazateco del Suroeste, San Antonio Eloxochitlán Mazatec, San Francisco Huehuetlán Mazatec, San Jerónimo Tecóatl Mazatec, San Lorenzo Cuanecuiltitla Mazatec, San Lucas Zoquiapan Mazatec, San Pedro Ocopetatillo Mazatec, Santa Ana Ateixtlahuaca Mazatec, Zoyaltitla]
 population: 12900
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mazatecan language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

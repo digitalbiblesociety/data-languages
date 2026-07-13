@@ -2,15 +2,18 @@
 iso: cbc
 name: Carapana
 autonym: Mõxtã
-alt_names: [Andokero, Andoquero, Carapana-Tapuya, Carapano, Carapanã, Karapana, Karapano, Karapaná, Mextã, Mi tea, Miranya Carapana Tapuya, Mochda, Moxdoa, Muxtea, Tatuyo]
+alt_names: [Andokero, Andoquero, Carapana-Tapuya, Carapano, Carapanã, Karapana, Karapano, Karapaná, Mextã, Mi tea, Miranya Carapana Tapuya, Mochda, Moxdoa, Muxtea, Tatuyo, Muteamasa, Ukopinõpõna]
 population: 600
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Tucanoan language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.06168
 longitude: -69.64652
+language_map_img: Carapana.webp
 glottocode: cara1272
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

@@ -2,9 +2,12 @@
 iso: cdy
 name: Chadong
 autonym: Cha Dong
+alt_names: [Chadonghua, Chadongyu]
 population: 20000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kam–Sui language spoken in South China
 status_id: 6a
 scope: individual
 language_type: living

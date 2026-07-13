@@ -6,6 +6,7 @@ alt_names: [Agavo-queng, Agavotoküeng, Agavotoqueng, Agavotoqüeng]
 population: null
 country_id: BR
 country_name: Brazil
+area: Arawakan language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

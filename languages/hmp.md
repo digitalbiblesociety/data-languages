@@ -7,6 +7,8 @@ alt_names: [Hmo, Hmong, "Hmong, Northern Mashan", Hmung, Hsiung, Hunan Miao, Mia
 population: 35000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Miao language of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
   - translation_iso: zho
     name: 北部土语
 ---
+Mang, or Mashan Miao also known as Mashan Hmong, is a Miao language of China, spoken primarily in Ziyun Miao and Buyei Autonomous County, southwestern Guizhou province, southwest China. The endonym is Mang, similar to other West Hmongic languages such as Mong.

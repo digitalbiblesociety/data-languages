@@ -6,6 +6,8 @@ alt_names: [Defaka-Nkooro, Defakeg]
 population: 200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Endangered language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

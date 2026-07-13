@@ -3,15 +3,18 @@ iso: mar
 iso639_1: mr
 name: Marathi
 autonym: मराठी
-alt_names: [Maharashtra, Maharathi, Malhatee, Marateg, Marathi bhasa, Marathi simi, Marathi-gí, Marathî, Marati, Marthi, Marâthî, Muruthu, marathe, Маратхи, Маратхі, מרטהי, ماراتىچە, مراٹھی, މަރާޓީ, মারাঠি ঠার, મરાઠી, மராத்தி, ಮರಾಠಿ, മറാഠി, მარათჰი]
+alt_names: [Maharashtra, Maharathi, Malhatee, Marateg, Marathi bhasa, Marathi simi, Marathi-gí, Marathî, Marati, Marthi, Marâthî, Muruthu, marathe, Маратхи, Маратхі, מרטהי, ماراتىچە, مراٹھی, މަރާޓީ, মারাঠি ঠার, મરાઠી, மராத்தி, ಮರಾಠಿ, മറാഠി, მარათჰი, Gawdi of Goa, Kasargod, Kosti, Kudali, Nagpuri Marathi]
 population: 83100000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 17.93438
 longitude: 76.66649
+language_map_img: Marathi_speaker_map.svg
 scripts: [Deva, Modi]
 glottocode: mara1378
 glottolog_family_id: indo1319

@@ -6,6 +6,8 @@ alt_names: [Keijar]
 population: 370
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesia
 status_id: "7"
 scope: individual
 language_type: living

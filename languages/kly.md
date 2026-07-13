@@ -6,6 +6,8 @@ alt_names: [Lambego]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Austronesian language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

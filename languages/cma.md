@@ -2,10 +2,12 @@
 iso: cma
 name: Maa
 autonym: Kơho
-alt_names: [Chau-Ma, Chauma, Che Ma, Ma, Ma Krung, Ma Ngan, Ma To, Ma Xop, "Maa'", Maaq]
+alt_names: [Chau-Ma, Chauma, Che Ma, Ma, Ma Krung, Ma Ngan, Ma To, Ma Xop, "Maa'", Maaq, Maa’]
 population: 41400
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 玛语
     auto: true
 ---
+Maasai or Maa is an Eastern Nilotic language spoken in Southern Kenya and Northern Tanzania by the Maasai people, numbering about 1.5 million. It is closely related to the other Maa varieties: Samburu, the language of the Samburu people of central Kenya, Chamus, spoken south and southeast of Lake Baringo ; and Parakuyu of Tanzania. The Maasai, Samburu, il-Chamus and Parakuyu peoples are historically related and all refer to their language as ɔl Maa. Properly speaking, "Maa" refers to the language and the culture and "Maasai" refers to the people "who speak Maa".

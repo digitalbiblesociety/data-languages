@@ -7,6 +7,8 @@ alt_names: ["Malay, North Moluccan", Ternate Malay]
 population: 700000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: Malay-based creole language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living

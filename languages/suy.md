@@ -6,11 +6,14 @@ alt_names: [Kisêdjê, Suiá, Suya]
 population: 330
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Macro-Jê language spoken in Brazil
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -11.51782
 longitude: -53.07426
+language_map_img: 500px-Macro-Ge_languages.webp
 glottocode: suya1243
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je

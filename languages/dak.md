@@ -2,10 +2,12 @@
 iso: dak
 name: Dakota
 autonym: Dakhótiyapi
-alt_names: [Dacota, Dakhota, Santee, Santee-Sisseton, Sioux, Sisseton, Stoney, Wahpeton, siu]
+alt_names: [Dacota, Dakhota, Santee, Santee-Sisseton, Sioux, Sisseton, Stoney, Wahpeton, siu, Nakoda, Nakota, Yankton, Yankton-Yanktonais]
 population: 290
 country_id: US
 country_name: United States
+location: Southern Central Canada
+area: Indigenous language of North America
 status_id: 6b
 scope: individual
 language_type: living

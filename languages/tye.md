@@ -2,10 +2,12 @@
 iso: tye
 name: Kyanga
 autonym: Tyenga
-alt_names: [Cenka, Kenga, Kyenga, Tienga, Tyanga]
+alt_names: [Cenka, Kenga, Kyenga, Tienga, Tyanga, Canga, Changa, Kyangawa, Kã]
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: Benin
+area: Mande language spoken in Nigeria and Benin
 status_id: 6a
 scope: individual
 language_type: living

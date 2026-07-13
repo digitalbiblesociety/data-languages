@@ -2,10 +2,12 @@
 iso: aks
 name: Akaselem
 autonym: Basari
-alt_names: [Akasele, Akassele, Cemba, Chamba, Djamba, Kamba, Kasele, Kiamba, Sama, Tchamba, Tsamba, Tschamba]
+alt_names: [Akasele, Akassele, Cemba, Chamba, Djamba, Kamba, Kasele, Kiamba, Sama, Tchamba, Tsamba, Tschamba, Akaselecɛ, Bikaselebíyáá, Kassele, Àkasìlìmí]
 population: 59200
 country_id: TG
 country_name: Togo
+location: Togo
+area: Gur language spoken in Togo and Ghana
 status_id: 6a
 scope: individual
 language_type: living
@@ -50,3 +52,4 @@ translations:
     name: 阿卡塞莱姆语
     auto: true
 ---
+Ntcham, or Basari, is a language of the Gurma people in Togo and Ghana. Akaselem (Tchamba) is frequently listed as a separate language.

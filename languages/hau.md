@@ -3,15 +3,18 @@ iso: hau
 iso639_1: ha
 name: Hausa
 autonym: " هَرْشَن هَوْسَ"
-alt_names: [Abakwariga, Habe, Haousaeg, Haoussa, Hausa Group, Hausa linguo, Hausawa, Haussa, Hawsa, Hawsa simi, Haúsa, Kado, Mgbakpa, Забони хауса, Хауса, האוסה, هوس, ھاوسا, ჰაუსა]
+alt_names: [Abakwariga, Habe, Haousaeg, Haoussa, Hausa Group, Hausa linguo, Hausawa, Haussa, Hawsa, Hawsa simi, Haúsa, Kado, Mgbakpa, Забони хауса, Хауса, האוסה, هوس, ھاوسا, ჰაუსა, Adarawa, Aderawa, Arewa, Damagaram, Dawra, Gaya, Gobirawa, Hadejiya, Kano, Katagum, Katsina, Kebbawa, Kurfey, Sokoto, Zamfarawa, Zo]
 population: 60000000
 country_id: NG
 country_name: Nigeria
+location: Burkina Faso
+area: Chadic language spoken in West Africa
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 11.151274
 longitude: 8.780399
+language_map_img: hau.webp
 scripts: [Arab, Latn]
 glottocode: haus1257
 glottolog_family_id: afro1255

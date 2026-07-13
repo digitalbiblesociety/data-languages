@@ -2,10 +2,12 @@
 iso: ury
 name: Orya
 autonym: Oria
-alt_names: [Uria, Warpok, Warpu]
+alt_names: [Uria, Warpok, Warpu, Barat, East Orya, Timur, West Orya, Yapsi-Taja]
 population: 1600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: One of Tor-Kwerba languages in Papua
 status_id: 6b
 scope: individual
 language_type: living

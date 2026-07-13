@@ -2,10 +2,12 @@
 iso: avn
 name: Avatime
 autonym: Sia (Siyase)
-alt_names: [Afatime, "Avatime, Siya", Sia, Sideme]
+alt_names: [Afatime, "Avatime, Siya", Sia, Sideme, Si-ya, Siya/Sideme, Siya, Siyase]
 population: 27200
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Kwa language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

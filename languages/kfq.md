@@ -2,15 +2,18 @@
 iso: kfq
 name: Korku
 autonym: Bondeya
-alt_names: [Bopchi, Koraku, Korki, Kuri, Kurku, Kurku-Ruma, Muasi, Muwasi, Ramekhera, West-Untergruppe, Корку]
+alt_names: [Bopchi, Koraku, Korki, Kuri, Kurku, Kurku-Ruma, Muasi, Muwasi, Ramekhera, West-Untergruppe, Корку, Bondoy, Bouriya, Mawasi, Ruma]
 population: 727000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Mundu language spoken in Central India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 21.83579
 longitude: 77.55409
+language_map_img: 500px-Munda-Sprachen.webp
 glottocode: kork1243
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

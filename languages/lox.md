@@ -5,6 +5,7 @@ autonym: bahasa Loun
 population: null
 country_id: ID
 country_name: Indonesia
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: "10"
 scope: individual
 language_type: living

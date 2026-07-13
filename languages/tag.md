@@ -6,6 +6,8 @@ alt_names: [Tagoieg, Tagoy, Tagoí, Tumale, Umāle]
 population: 1100
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Kordofanian language spoken in Sudan
 status_id: 8a
 scope: individual
 language_type: living

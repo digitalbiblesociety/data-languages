@@ -3,15 +3,18 @@ iso: ars
 macrolanguage_id: ara
 name: Najdi Arabic
 autonym: اللهجة النجدية‎
-alt_names: [Arabeg nadjiek, Arabic, "Arabic, Najdi", "Arabic, Najdi Spoken", Bedawi, Najdi arapski, لهجة نجدية]
+alt_names: [Arabeg nadjiek, Arabic, "Arabic, Najdi", "Arabic, Najdi Spoken", Bedawi, Najdi arapski, لهجة نجدية, "'Ajmaan", "'Awaazim", "'Utaiba", Aal Murrah, Al-Qasiim, Najdi Spoken Arabic, Bani Khaalid, Biishah, Central Najdi, Dafiir, Haayil, Hofuf, Levantine Bedawi Arabic, Mutair, Najdi, Najraan, Najran, North Najdi, Rashaayda, Riyadh, Rwala, Shammar, Shammari, South Najdi, Sudair, "Wild 'Ali"]
 population: 18236000
 country_id: SA
 country_name: Saudi Arabia
+location: Iraq
+area: Variety of Arabic spoken in the Najd region of Saudi Arabia
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 30.337142
 longitude: 42.177266
+language_map_img: ars.webp
 scripts: [Arab]
 glottocode: najd1235
 glottolog_family_id: afro1255

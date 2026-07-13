@@ -2,10 +2,12 @@
 iso: att
 name: Pamplona Atta
 autonym: null
-alt_names: ["Atta, Pamplona", Northern Cagayan Negrito]
+alt_names: ["Atta, Pamplona", Northern Cagayan Negrito, Atta]
 population: 1000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 潘普洛纳阿塔语
     auto: true
 ---
+Atta is an Austronesian dialect cluster spoken by the Aeta (Agta) Negritos of the northern Philippines.

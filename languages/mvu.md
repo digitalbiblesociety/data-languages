@@ -5,6 +5,8 @@ autonym: Marba
 population: 7500
 country_id: TD
 country_name: Chad
+location: Chad
+area: Maban language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

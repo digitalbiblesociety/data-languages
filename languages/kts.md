@@ -2,10 +2,12 @@
 iso: kts
 name: South Muyu
 autonym: Kati
-alt_names: [Digoel, Digoeleesch, Digul, Kati Metomka, Kati-Metomka, Lower Muju, Metomka, Moejoe, Muyu, "Muyu, South", Ok Bari, South Kati, South Moejoe, Southern Kati, Yonggom, Yongkom, Yongom]
+alt_names: [Digoel, Digoeleesch, Digul, Kati Metomka, Kati-Metomka, Lower Muju, Metomka, Moejoe, Muyu, "Muyu, South", Ok Bari, South Kati, South Moejoe, Southern Kati, Yonggom, Yongkom, Yongom, South]
 population: 4000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Ok language of Western New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南穆尤语
     auto: true
 ---
+Muyu, Moyu, is one of the Ok languages of South Papua, Indonesia.

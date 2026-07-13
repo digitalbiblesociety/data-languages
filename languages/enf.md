@@ -6,11 +6,14 @@ alt_names: [Bai Enets, Baicha-Dialekt, Bay Enets, Enec, Enets, Enets des forêts
 population: 198
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Moribund Samoyedic language spoken by Enets people
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 69.98287
 longitude: 88.2121
+language_map_img: 500px-Enets_current.webp
 glottocode: fore1265
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

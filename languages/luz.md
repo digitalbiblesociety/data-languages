@@ -2,10 +2,11 @@
 iso: luz
 name: Southern Luri
 autonym: زۊن لٛوْری
-alt_names: [Lor, Lori, Lori-ye Jonubi, Lur, Luri, "Luri, Southern", Ruliy]
+alt_names: [Lor, Lori, Lori-ye Jonubi, Lur, Luri, "Luri, Southern", Ruliy, Boyerahmadi, Kohgiluyeh, Mamasani, Ruliy Luri, Shuli, Yasichi, Yasuji]
 population: 1140000
 country_id: IR
 country_name: Iran
+area: Iranian language
 status_id: 6a
 scope: individual
 language_type: living

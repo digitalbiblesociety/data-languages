@@ -3,10 +3,12 @@ iso: mri
 iso639_1: mi
 name: Maori
 autonym: " Te reo Māori"
-alt_names: [Maorais, Maori de Nouvelle-Zélande, Maorieg, Maoriera, Maorisk, Maorí, Mawori, Mawri simi, Maòri, Māori, Māori language, Māori-gú, Neu-Seeland, New Zealand Maori, Tavas Māori, Маары, Маори, Маоры, Маорі, מאורית, ማዖሪ ቋንቋ]
+alt_names: [Maorais, Maori de Nouvelle-Zélande, Maorieg, Maoriera, Maorisk, Maorí, Mawori, Mawri simi, Maòri, Māori, Māori language, Māori-gú, Neu-Seeland, New Zealand Maori, Tavas Māori, Маары, Маори, Маоры, Маорі, מאורית, ማዖሪ ቋንቋ, Bay of Plenty, Moriori, North Auckland, Rotorua-Taupo, South Island, Taranaki, Wanganui, te reo]
 population: 159700
 country_id: NZ
 country_name: New Zealand
+location: New Zealand
+area: Polynesian language spoken in New Zealand
 status_id: 6b
 scope: individual
 language_type: living

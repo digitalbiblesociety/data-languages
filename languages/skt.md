@@ -2,10 +2,11 @@
 iso: skt
 name: Sakata
 autonym: Kisakata
-alt_names: [Lesa, Odual, Saka]
+alt_names: [Lesa, Odual, Saka, Bai, Batow, Dia, Dja, Djia, Ketu, Kibai, Kibay, Kidjia, Tuku, Wadia]
 population: 75000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

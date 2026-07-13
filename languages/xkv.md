@@ -2,10 +2,12 @@
 iso: xkv
 name: Kgalagadi
 autonym: Kalahari
-alt_names: [Kgalagari, Khalagari, Khalakadi, Kxalaxari, Kxhalaxadi, Kxhxlaxadi, Qalaqarzi, Qhalaxadi, Qhalaxarzi, Sekgalagadi, Shekgalagadi]
+alt_names: [Kgalagari, Khalagari, Khalakadi, Kxalaxari, Kxhalaxadi, Kxhxlaxadi, Qalaqarzi, Qhalaxadi, Qhalaxarzi, Sekgalagadi, Shekgalagadi, Kgalagarhi, Shekgalagari, Bakgalagari, Balaongwe, Boloongwe, Gyegwana, Kenyi, Kgwatheng, Khakhae, Khena, Koma, Ngologa, Pedi, Phaleng, Qhalaxari, Rhiti, Shaga, Shelala, Siwane, Tjhauba]
 population: 65400
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Sotho–Tswana language of southern Botswana
 status_id: 6a
 scope: individual
 language_type: living

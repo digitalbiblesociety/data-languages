@@ -6,11 +6,14 @@ alt_names: [Alta, Alta du nord, Alta septentrional, "Alta, Northern", Baler Negr
 population: 200
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 15.6913
 longitude: 121.45394
+language_map_img: 500px-Northern_Alta_language_map.webp
 glottocode: nort2875
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

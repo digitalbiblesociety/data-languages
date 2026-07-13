@@ -2,14 +2,17 @@
 iso: zrg
 name: Mirgan
 autonym: Panika
+alt_names: [Mirgami, Mirkan, Panka, Batasuna, Jagdal Pur, Kosagumuda, Kotpad, Nabarang Pur, Umerkote]
 population: 60000
 country_id: IN
 country_name: India
+location: "India, Map 7"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.43055
 longitude: 81.33599
+glottocode: mirg1238
 wikidata_id: Q6873206
 wikipedia_url: "https://en.wikipedia.org/wiki/Bhunjia_language_(Halbic)"
 translations:

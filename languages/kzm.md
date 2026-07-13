@@ -6,6 +6,8 @@ alt_names: [Aiso, Atori, Kampung Baru, Mintamani]
 population: 700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language
 status_id: "7"
 scope: individual
 language_type: living

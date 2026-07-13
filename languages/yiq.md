@@ -2,10 +2,12 @@
 iso: yiq
 name: Miqie
 autonym: Michie
-alt_names: [Lolo, Micha, Michal miqie, Minqi, Miqie Yi, Yi, Yi de miqie, "Yi, Miqie", 密岔]
+alt_names: [Lolo, Micha, Michal miqie, Minqi, Miqie Yi, Yi, Yi de miqie, "Yi, Miqie", 密岔, Mielang]
 population: 30000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Sino-Tibetan language of Yunnan, China"
 status_id: "7"
 scope: individual
 language_type: living

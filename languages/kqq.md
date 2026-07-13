@@ -6,6 +6,8 @@ alt_names: [Aimoré, Aranã, Bakuén, Batachoa, Botocudo, Botokudo, Crenaque, Et
 population: 150
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Endangered Macro-Gê language of the Botocudo people of Brazil
 status_id: 8a
 scope: individual
 language_type: living

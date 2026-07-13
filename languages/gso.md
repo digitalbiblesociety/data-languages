@@ -3,10 +3,12 @@ iso: gso
 macrolanguage_id: gba
 name: Southwest Gbaya
 autonym: Southwest Gbaya
-alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest"]
+alt_names: [Gbaya, Gbaya Sud-Ouest, "Gbaya, Southwest", Bianda, Biyanda, Bokare, Bokari, Boli, Bosoko, Bossouka, Budamono, Buli, Gbaya Southwest, Mbakolo, Mbodomo, Mbombeleng, Mbondomo, Mboundja, Mbunza, Mbusuku, Southwest, Toongo, Yangele, Yasua]
 population: 220000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language of the CAR
 status_id: "5"
 scope: individual
 language_type: living

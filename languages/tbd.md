@@ -6,6 +6,8 @@ alt_names: [Lorabada, Lou, Raepa Tati, Raepa-Tati, Takia language, Tati]
 population: 1275
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Language isolate of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: ddg
 name: Fataluku
 autonym: Dagada
-alt_names: [Dagaga, Dagoda, "Dagoda'", Fataloukoueg, Fataluco]
+alt_names: [Dagaga, Dagoda, "Dagoda'", Fataloukoueg, Fataluco, Dagoda’]
 population: 48400
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Papuan language of East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.49464
 longitude: 127.08042
+language_map_img: 500px-Fataluku.webp
 glottocode: fata1247
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

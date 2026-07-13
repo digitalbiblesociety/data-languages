@@ -6,6 +6,8 @@ alt_names: [Ndash, Ndassa]
 population: 4530
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Gabon and the Congo
 status_id: 6a
 scope: individual
 language_type: living

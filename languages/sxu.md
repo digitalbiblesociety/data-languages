@@ -6,11 +6,13 @@ alt_names: [Alto sassone, Hoegsaksisch, Hoogsaksisch, Sachsiska, "Saxon, Upper",
 population: 2000000
 country_id: DE
 country_name: Germany
+area: East Central Deutsch dialect
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 51.152
 longitude: 12.692
+language_map_img: 500px-Mitteldeutsche_Mundarten.webp
 glottocode: uppe1400
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

@@ -2,10 +2,12 @@
 iso: vmj
 name: Ixtayutla Mixtec
 autonym: (Santiago Ixtayutla)
-alt_names: ["Mixtec, Ixtayutla", Mixteco de Santiago Ixtayutla, Northeastern Jamiltepec Mixtec, Northern Misteko, Northern Mixteco]
+alt_names: ["Mixtec, Ixtayutla", Mixteco de Santiago Ixtayutla, Northeastern Jamiltepec Mixtec, Northern Misteko, Northern Mixteco, Mixteco del noreste de Jamiltepec, Tuꞌun savi]
 population: 2800
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

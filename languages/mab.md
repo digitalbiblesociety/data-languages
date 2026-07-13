@@ -6,6 +6,8 @@ alt_names: [Central Nochistlán Mixtec, Diuxi-Tilantongo Mixtec, Eastern Alta Mi
 population: 1800
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixtec language of southern Oaxaca
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 尤坦杜奇混台语
     auto: true
 ---
+Mitlatongo-Yutanduchi Mixtec is a Mixtec language of southern Oaxaca. The two varieties, Mitlatongo and Yutanduchi, are quite distinct, at about 70% intelligibility.

@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 1700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Yapen language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

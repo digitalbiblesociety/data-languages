@@ -6,11 +6,13 @@ alt_names: [Chimu, Chimú, Mochicha, Mochika, Muchic, Muchik, Quingnam, Yunca, Y
 population: 1995
 country_id: PE
 country_name: Peru
+area: "Extinct language formerly spoken on Peru's northwest coast"
 status_id: null
 scope: individual
 language_type: extinct
 latitude: -8.016667
 longitude: -79
+language_map_img: 500px-Mochica_language.webp
 glottocode: moch1259
 wikidata_id: Q1951641
 wikipedia_url: "https://en.wikipedia.org/wiki/Mochica_language"

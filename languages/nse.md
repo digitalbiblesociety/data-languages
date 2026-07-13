@@ -2,10 +2,12 @@
 iso: nse
 name: Nsenga
 autonym: Chinsenga
-alt_names: [Cinsenga, Senga]
+alt_names: [Cinsenga, Senga, Kunda-Nsenga, Mpezeni, Ngoni]
 population: 627100
 country_id: ZM
 country_name: Zambia
+location: Mozambique
+area: Bantu language spoken in Zambia and Mozambique
 status_id: "5"
 scope: individual
 language_type: living

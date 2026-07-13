@@ -2,10 +2,12 @@
 iso: mqu
 name: Mandari
 autonym: Chir
-alt_names: [Kir, Mondari, Mundari, Shir]
+alt_names: [Kir, Mondari, Mundari, Shir, Mundari (South Sudan)]
 population: 70000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living

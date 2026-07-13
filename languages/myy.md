@@ -2,15 +2,18 @@
 iso: myy
 name: Macuna
 autonym: "Macuna-Erulia"
-alt_names: [Baigana, Buhagana, Buhágana, Emoa, Erulia, Ide, Jepa-Matsi, Makuna, Makuna-Erulia, Paneroa, Roea, Suroa, Tabotiro Jejea, Umua, Wahana, Wuhána, Yeba, Yebamasã, Yehpá Majsá, Yepá Maxsã, Yepá-Mahsá]
+alt_names: [Baigana, Buhagana, Buhágana, Emoa, Erulia, Ide, Jepa-Matsi, Makuna, Makuna-Erulia, Paneroa, Roea, Suroa, Tabotiro Jejea, Umua, Wahana, Wuhána, Yeba, Yebamasã, Yehpá Majsá, Yepá Maxsã, Yepá-Mahsá, Yeba-Masã]
 population: 1032
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Tucanoan language of Colombia and Brazil
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -0.14459
 longitude: -70.07494
+language_map_img: Macuna.webp
 glottocode: macu1260
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

@@ -2,10 +2,12 @@
 iso: arx
 name: Aruá
 autonym: Aruá
-alt_names: [Aruashí, Aruaxi, Cinta Larga, Gavião, Gavião du Rondônia, Zoró]
+alt_names: [Aruashí, Aruaxi, Cinta Larga, Gavião, Gavião du Rondônia, Zoró, Aruá (Rodonia State)]
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Nearly extinct Tupian language of Brazil
 status_id: 8a
 scope: individual
 language_type: living

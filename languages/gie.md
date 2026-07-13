@@ -6,6 +6,7 @@ alt_names: [Guébie]
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Kru dialect cluster of Ivory Coast
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Maralinan, Silisili, Watut, "Watut, Middle"]
 population: 1350
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Morobe"
 ---
+Watut is a language complex of Austronesian languages spoken in northern Papua New Guinea. Dialects include Maralinan, Silisili, Unank, Maralangko, and Danggal. It is spoken in Watut Rural LLG of Morobe Province.

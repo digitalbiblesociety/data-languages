@@ -2,10 +2,12 @@
 iso: prk
 name: Parauk
 autonym: Va
-alt_names: [Baraog, Baroke, Paraok, Paruk Wa, Phalok, Praok, Wa]
+alt_names: [Baraog, Baroke, Paraok, Paruk Wa, Phalok, Praok, Wa, Ai Cheung, Ai Swa, Aishuai, Alwa, Ang Krax, Awm Plawk, Banhong, Bible Wa, Buliu, Bulu, Burao, Caong Naong, Cuan, Dazhai, Hom, Ien, Jo Phyu, Kang Seu, Kaung Sang, Kawn Cawng, Kawn Jiem, Kawn Mau, Kawn Poih, Kawn Rao, Kawng Lang, Kha Lax, Khui Ma, Kok Lah, La Dah, La Kong, Lah Kreum, Lhax Tiah, Lung Kua, Man Leen, Man Shiang, Man Teey, Man Teu, Man Ton, Man Tong, Meung, Meung Kun, Meung Mao, Meung Yum, Muik Khaox, Muik Lhang, Muik Lhax, Muik Nghawng, Muik Nu, Muik Raix, Muik Sime, Nawng Plawx, Nom Tum, Pa Tah, Pang Vai, Pang Yang, Panglao, Rho Mawng, Rok Tong, Sau Hin, Savaik, Si Gang Rai, Si Nawk, Si Nga, Si Viex, Sigang, Simung, Standard Wa, Taoh Mie, Toi Lawng, Veng Ngeen, Vui Sai, Yaong Brex, Yaong Khrum, Yaong Krak, Yaong Kua, Yaong Leen, Yaong Lung, Yaong Nong, Yaong O, Yaong Peng, Yaong Raok, Yaong Riex, Yaong Sang, Yaong Soi, Yaong Ting, Ying Phang]
 population: 805700
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Austroasiatic language spoken in Myanmar and China
 status_id: "2"
 scope: individual
 language_type: living
@@ -438,3 +440,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Wa (Va) is an Austroasiatic language spoken by the Wa people of Myanmar and China. There are three distinct varieties, sometimes considered separate languages; their names in Ethnologue are Parauk, the majority and standard form; Vo and Awa, though all may be called Wa, Awa, Va, Vo. David Bradley (1994) estimates there are total of 820,000 Wa speakers.

@@ -2,10 +2,11 @@
 iso: hns
 name: Caribbean Hindustani
 autonym: "Caribbean Hindi-Urdu"
-alt_names: [Aili Gaili, "Hindustani, Caribbean", Trinidad Bhojpuri]
+alt_names: [Aili Gaili, "Hindustani, Caribbean", Trinidad Bhojpuri, Hindustani, Caribbean, Sarnaamie Hiendoestaanie, Caribbean Bharatiya, Caribbean Hindi, Caribbean Urdu, Sarnami Hindi, Sarnami Hindoestani, Sarnami Hindustani]
 population: 298600
 country_id: SR
 country_name: Suriname
+area: Indo-Aryan language spoken in the Caribbean
 status_id: "5"
 scope: individual
 language_type: living

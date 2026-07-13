@@ -5,6 +5,7 @@ autonym: Yeemwoom
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Paman language of Australia
 status_id: "9"
 scope: individual
 language_type: extinct

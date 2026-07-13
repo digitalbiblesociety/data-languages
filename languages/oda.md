@@ -5,11 +5,14 @@ autonym: null
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Cross River language spoken in Nigeria
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 5.20317
 longitude: 8.27253
+glottocode: odut1238
 wikidata_id: Q3915388
 wikipedia_url: "https://en.wikipedia.org/wiki/Odut_language"
 translations:

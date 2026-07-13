@@ -2,10 +2,12 @@
 iso: kle
 name: Kulung
 autonym: kulu riŋ
-alt_names: [Jindā, Khambu, Kholung, Khulung, Khulunge Rai, Kulu Ring, Kulung, Kulung (Tibeto-Burman), Kulungish, Kulungo, Rai]
+alt_names: [Jindā, Khambu, Kholung, Khulung, Khulunge Rai, Kulu Ring, Kulung, Kulung (Tibeto-Burman), Kulungish, Kulungo, Rai, Kulunge, Sotto Ring]
 population: 33200
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Kiranti language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

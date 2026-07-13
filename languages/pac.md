@@ -2,10 +2,12 @@
 iso: pac
 name: Pacoh
 autonym: Bo River Van Kieu
-alt_names: [Bo, Paco, Pokoh, River Vân Kiêu]
+alt_names: [Bo, Paco, Pokoh, River Vân Kiêu, Ba-Hi, Cado, Ganai, "Ka'do", Kado, Kanah, Pa Co, Pahi, Pako, Poko]
 population: 16000
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Katuic language spoken in Laos and Vietnam
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kwf
 name: "Kwara'ae"
 autonym: Fiu
-alt_names: [Südliche Salomons-Inseln]
+alt_names: [Südliche Salomons-Inseln, Kwaraꞌae]
 population: 32400
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

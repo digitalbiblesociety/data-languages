@@ -2,15 +2,18 @@
 iso: whu
 name: Wahau Kayan
 autonym: Kajan
-alt_names: ["Kayan, Wahau"]
+alt_names: ["Kayan, Wahau", Wahau Kajan]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian dialect cluster of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 1.42088
 longitude: 116.6795
+glottocode: waha1239
 wikidata_id: Q12473397
 translations:
   - translation_iso: ara
@@ -49,3 +52,4 @@ translations:
     name: 瓦豪卡扬语
     auto: true
 ---
+Kayan is a dialect cluster spoken by the Kayan people of Borneo. It is a cluster of closely related dialects with limited mutual intelligibility, and is itself part of the Kayan-Murik group of Austronesian languages.

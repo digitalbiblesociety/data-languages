@@ -6,6 +6,7 @@ alt_names: [Agta de Dicamay, "Agta, Dicamay"]
 population: null
 country_id: PH
 country_name: Philippines
+area: Extinct Aeta language of the Philippines
 status_id: "10"
 scope: individual
 language_type: extinct

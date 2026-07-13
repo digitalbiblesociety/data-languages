@@ -2,10 +2,12 @@
 iso: bcp
 name: Bali
 autonym: Dhibali
-alt_names: [Baali, Bali, Kibaali, Kibala, Kibali, Libaali]
+alt_names: [Baali, Bali, Kibaali, Kibala, Kibali, Libaali, Bafwandaka, Bakundumu, Bekeni, Bemili, Dibali, Southeast Bwa]
 population: 42000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: enb
 macrolanguage_id: kln
 name: Markweeta
 autonym: Marakwet
-alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai]
+alt_names: [Endo, Endo-Marakwet, Marakuet, Markweta, Talai, "Cherang'any", Northern Markweeta, Sambirir, Southern Markweeta]
 population: 129000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kalenjin language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living

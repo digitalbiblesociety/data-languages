@@ -6,6 +6,7 @@ alt_names: [Langaj]
 population: null
 country_id: HT
 country_name: Haiti
+area: Collection of loanwords
 status_id: "9"
 scope: individual
 language_type: living

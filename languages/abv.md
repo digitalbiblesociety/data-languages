@@ -7,6 +7,8 @@ alt_names: [Arabeg Bahrein, Arabic, Arabic (Bahrain), Arabic (Eastern), "Arabic,
 population: null
 country_id: BH
 country_name: Bahrain
+location: Oman
+area: Variety of Arabic of Eastern Arabia and Oman
 status_id: "3"
 scope: individual
 language_type: living

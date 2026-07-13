@@ -6,6 +6,8 @@ alt_names: [Uru-Chipaya language area]
 population: 1800
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Uru–Chipaya language of Bolivia
 status_id: "5"
 scope: individual
 language_type: living

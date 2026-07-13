@@ -2,10 +2,12 @@
 iso: vic
 name: Virgin Islands Creole English
 autonym: Netherlands Antilles Creole English
-alt_names: ["Creole English, Virgin Islands"]
+alt_names: ["Creole English, Virgin Islands", Crucian Creole, Vicentian Creole English]
 population: 90900
 country_id: VI
 country_name: Virgin Islands US
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole spoken in the Virgin Islands and the SSS islands
 status_id: 6a
 scope: individual
 language_type: living

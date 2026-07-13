@@ -6,6 +6,8 @@ alt_names: [Mugu, Mugum]
 population: 6500
 country_id: NP
 country_name: Nepal
+location: "India, Map 1"
+area: Sino-Tibetan language of western Nepal.
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: ckb
 macrolanguage_id: kur
 name: "Central Kurdish - Sorani"
 autonym: Central Kurdish
-alt_names: [Eastern Kurdish, Kermanji, Kordi, Korkora, Kurdi, Kurdisch, "Kurdish, Central", Kurdy, Mokri, Mukri, "Sine'i", Sorani, Soranî, Sorání, Sorâni, Southern Kurdish, Wawa, Сорани, سورانی, سۆرانی]
+alt_names: [Eastern Kurdish, Kermanji, Kordi, Korkora, Kurdi, Kurdisch, "Kurdish, Central", Kurdy, Mokri, Mukri, "Sine'i", Sorani, Soranî, Sorání, Sorâni, Southern Kurdish, Wawa, Сорани, سورانی, سۆرانی, Arbili, Bingird, Garmiyani, Hewleri, Kerkuki, Pijdari, Pizhdar, Rewandiz, Sanandaji, Silemani, "Sina'i", Sineyi, Southern Jafi, Suleimani, Surani, Warmawa, Xoshnaw]
 population: 5279300
 country_id: IQ
 country_name: Iraq
+location: Iraq
+area: Variety of Kurdish spoken in Iran and Iraq
 status_id: "2"
 scope: individual
 language_type: living

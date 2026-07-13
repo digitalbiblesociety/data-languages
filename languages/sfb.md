@@ -2,10 +2,11 @@
 iso: sfb
 name: Langue des signes de Belgique Francophone
 autonym: Langue des signes de Belgique francophone (LSFB)
-alt_names: [French Belgian Sign Language, LSFB, North Belgium Sign Language, South Belgium Sign Language]
+alt_names: [French Belgian Sign Language, LSFB, North Belgium Sign Language, South Belgium Sign Language, Langue des Signes Belge Francophone]
 population: 4000
 country_id: BE
 country_name: Belgium
+area: Deaf sign language of Belgium
 status_id: "5"
 scope: individual
 language_type: living

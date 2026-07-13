@@ -6,6 +6,7 @@ alt_names: [Camacán, Kamakán, Kamakán language area/complex]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Macro-Je language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

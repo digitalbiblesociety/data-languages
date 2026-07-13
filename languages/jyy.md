@@ -6,6 +6,8 @@ alt_names: [Yaya]
 population: 2200
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language of Chad
 status_id: "7"
 scope: individual
 language_type: living

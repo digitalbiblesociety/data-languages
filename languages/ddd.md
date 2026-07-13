@@ -6,6 +6,8 @@ alt_names: [Dɔngɔtɔnɔ, Lorwama]
 population: 1000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language of South Sudan
 status_id: 6a
 scope: individual
 language_type: living

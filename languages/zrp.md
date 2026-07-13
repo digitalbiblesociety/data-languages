@@ -2,6 +2,7 @@
 iso: zrp
 name: Zarphatic
 autonym: Zarphatic
+alt_names: [Judeo-French]
 population: null
 country_id: FR
 country_name: France
@@ -10,6 +11,7 @@ scope: individual
 language_type: extinct
 latitude: 45.56274
 longitude: 4.38771
+glottocode: zarp1238
 wikidata_id: Q36994
 wikipedia_url: "https://en.wikipedia.org/wiki/Zarphatic_language"
 translations:

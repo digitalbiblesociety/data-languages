@@ -5,11 +5,14 @@ autonym: "Sarmi-Jayapura Bay"
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Languages
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -2.21222
 longitude: 139.47243
+glottocode: yars1234
 wikidata_id: Q8049590
 wikipedia_url: "https://en.wikipedia.org/wiki/Yarsun_language"
 translations:

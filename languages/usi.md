@@ -2,15 +2,18 @@
 iso: usi
 name: Usui
 autonym: Tripuri
-alt_names: [Unshoi, Unsuiy, Ushoi, Usoi]
+alt_names: [Unshoi, Unsuiy, Ushoi, Usoi, Kau Brung, Tippera, Tripura, Joloi, Kaobrung, Panji]
 population: 22400
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.01305
 longitude: 91.78792
+language_map_img: 500px-Kokborok.map.webp
 glottocode: usui1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

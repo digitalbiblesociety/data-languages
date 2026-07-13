@@ -2,10 +2,12 @@
 iso: ijn
 name: Kalabari
 autonym: Ibani–Kalabari–Kirike
-alt_names: [Ịjọ]
+alt_names: [Ịjọ, Kalaḇari Bibi]
 population: 482000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ijo language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

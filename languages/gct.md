@@ -6,6 +6,7 @@ alt_names: [Aleman Kolonyero, Alemán Coloneiro, "German, Colonia Tovar", Nýlen
 population: 1500
 country_id: VE
 country_name: Venezuela
+area: Alemannic dialect
 status_id: "7"
 scope: individual
 language_type: living

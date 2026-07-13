@@ -2,15 +2,18 @@
 iso: ccp
 name: Chakma
 autonym: " Daingnet"
-alt_names: [Chakama, Changma kodha, Takam, Tsakma]
+alt_names: [Chakama, Changma kodha, Takam, Tsakma, Sakma, Sangma, Changma Vaj]
 population: 378000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Language of India and Bangladesh
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.00148
 longitude: 92.339
+language_map_img: 500px-Chakma.map.webp
 scripts: [Beng, Cakm]
 glottocode: chak1266
 glottolog_family_id: indo1319

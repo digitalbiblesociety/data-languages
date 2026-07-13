@@ -6,6 +6,8 @@ alt_names: [Balese, Lesa, Lesse, Lissi, Mbuti, Walese, Walisi]
 population: 20000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 埃费语
     auto: true
 ---
+Lese is a Central Sudanic language of northeastern Democratic Republic of the Congo, as well as a name for the people who speak this language. The Lese people live in association with the Efé Pygmies and share their language, which is occasionally known as Lissi or Efe.

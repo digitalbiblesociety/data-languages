@@ -6,6 +6,8 @@ alt_names: ["Chaima: Chayma", Chayma, Cumanagoto, Cumaná, Guaga-Tagare, Kumaná
 population: null
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Endangered Cariban language of Venezuela
 status_id: 8b
 scope: individual
 language_type: living

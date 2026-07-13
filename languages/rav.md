@@ -2,10 +2,12 @@
 iso: rav
 name: Sampang
 autonym: Sampang Gun
-alt_names: [Jindā, Rai, Sampange Rai, Sampangish, Sangpang, Sangpang Gun, Sangpang Gîn, Sangpang Kha]
+alt_names: [Jindā, Rai, Sampange Rai, Sampangish, Sangpang, Sangpang Gun, Sangpang Gîn, Sangpang Kha, Khotang, Phali, Sampang Gung, Sampang Kha]
 population: 18300
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Central Kiranti language subgroup
 status_id: 6b
 scope: individual
 language_type: living

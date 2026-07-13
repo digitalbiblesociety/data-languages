@@ -6,6 +6,8 @@ alt_names: [Lanzog, Sanbiau]
 population: 100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Oceanic language
 status_id: "7"
 scope: individual
 language_type: living

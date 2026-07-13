@@ -6,6 +6,8 @@ alt_names: [Kereaka, Keriaka]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: East Papuan language spoken on Bougainville
 status_id: 6a
 scope: individual
 language_type: living

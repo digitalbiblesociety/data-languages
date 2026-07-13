@@ -2,10 +2,12 @@
 iso: nmy
 name: Namuyi
 autonym: Namuyi
-alt_names: [Namuzi, 納木依, 納木義, 納木茲]
+alt_names: [Namuzi, 納木依, 納木義, 納木茲, Naimuci, Naimuzi]
 population: 200
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Language of Sichuan and Tibet
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: kiz
 name: Kisi
 autonym: Kikisi
+alt_names: [Kese]
 population: 11000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

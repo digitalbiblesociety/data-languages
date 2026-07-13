@@ -2,10 +2,12 @@
 iso: whk
 name: Wahau Kenyah
 autonym: "Lebu' Kulit"
-alt_names: [Kenyah, "Kenyah, Wahau", Wahau, Wahau Kenya]
+alt_names: [Kenyah, "Kenyah, Wahau", Wahau, Wahau Kenya, Lebu’ Kulit, Lebuꞌ Kulit, Uma Timai, Umaꞌ Ujok]
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living

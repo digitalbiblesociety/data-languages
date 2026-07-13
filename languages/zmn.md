@@ -2,10 +2,12 @@
 iso: zmn
 name: Mbangwe
 autonym: Mbaŋwe
-alt_names: ["M'bahouin", Mbahouin]
+alt_names: ["M'bahouin", Mbahouin, M’bahouin, Mbaouin]
 population: 3690
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living

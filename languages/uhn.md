@@ -2,15 +2,18 @@
 iso: uhn
 name: Damal
 autonym: Damal
-alt_names: [Amung, Amung Kal, Amungme, Amuy, Enggipiloe, Hamung, Oehoendoeni, Uhunduni, Uhunduní]
+alt_names: [Amung, Amung Kal, Amungme, Amuy, Enggipiloe, Hamung, Oehoendoeni, Uhunduni, Uhunduní, Amongme, Enggipilu]
 population: 14000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -4.17345
 longitude: 137.49561
+language_map_img: Damal_language.svg
 glottocode: dama1272
 wikidata_id: Q4748974
 wikipedia_url: "https://en.wikipedia.org/wiki/Uhunduni_languages"

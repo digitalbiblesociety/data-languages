@@ -3,10 +3,12 @@ iso: thz
 macrolanguage_id: tmh
 name: Tayart Tamajeq
 autonym: Tamajeq
-alt_names: [Amazigh, Tamachek, Tamacheq tahoua, Tamajekeg, "Tamajeq, Tayart", Tamazheq, Tomacheck, Touareg, Tuareg]
+alt_names: [Amazigh, Tamachek, Tamacheq tahoua, Tamajekeg, "Tamajeq, Tayart", Tamazheq, Tomacheck, Touareg, Tuareg, Tanassafarwat, Tayirt]
 population: 250000
 country_id: NE
 country_name: Niger
+location: Niger
+area: Tuareg Berber language of Niger
 status_id: "4"
 scope: individual
 language_type: living

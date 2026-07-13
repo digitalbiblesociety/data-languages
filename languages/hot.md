@@ -2,10 +2,12 @@
 iso: hot
 name: Hote
 autonym: Malê
-alt_names: ["Ho'tei", Hotec, Malei]
+alt_names: ["Ho'tei", Hotec, Malei, Ho’tei, Hotê-Malê, Malei-Hote, Misim, Musim, Ombalei]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

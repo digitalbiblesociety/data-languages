@@ -2,10 +2,12 @@
 iso: khz
 name: Keapara
 autonym: Kalo (Keapara)
-alt_names: [Keopara, Kerepunu]
+alt_names: [Keopara, Kerepunu, Aloma, Aroma, Arona, Babaga, Galoma, Kalo, Kapari, Keapara (Kalo), Lalaura, Maopa, Wanigela]
 population: 19400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

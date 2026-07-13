@@ -2,15 +2,18 @@
 iso: xsb
 name: Sambal
 autonym: Sambali
-alt_names: ["Sambal, Tinà", Tina, Tina Sambal, Tina language, Tinà Sambal]
+alt_names: ["Sambal, Tinà", Tina, Tina Sambal, Tina language, Tinà Sambal, Iba, Masinloc, Santa Cruz]
 population: 70000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 15.5797
 longitude: 120.0948
+language_map_img: 500px-Sambal_language_map.webp
 glottocode: tina1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

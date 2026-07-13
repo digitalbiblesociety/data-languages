@@ -6,6 +6,8 @@ alt_names: [Tamplima, Tampole, Tampolem, Tampolene, Tampolense, Tamprusi, Tampru
 population: 16000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

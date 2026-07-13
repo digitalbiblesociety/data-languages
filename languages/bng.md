@@ -2,10 +2,12 @@
 iso: bng
 name: Benga
 autonym: bɛŋga
-alt_names: [Qaqet]
+alt_names: [Qaqet, Boumba, Ndowe]
 population: 5500
 country_id: GQ
 country_name: Equatorial Guinea
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living

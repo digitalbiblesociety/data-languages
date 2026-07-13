@@ -6,6 +6,8 @@ alt_names: [Central, Muot, Muöt, Nancoury, Nancowry, Nicobarese, Nicobarese (Na
 population: 1400
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Nicobarese language of India
 status_id: "5"
 scope: individual
 language_type: living

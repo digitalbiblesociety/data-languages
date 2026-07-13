@@ -2,9 +2,11 @@
 iso: ygu
 name: Yugul
 autonym: (unattested)
+alt_names: [Jokul]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

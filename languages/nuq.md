@@ -5,11 +5,14 @@ autonym: Tasman
 population: 700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea: Index Map"
+area: Endangered Polynesian language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -4.61878
 longitude: 159.46436
+language_map_img: 500px-Nukumanu_STS099-725-41.webp
 glottocode: nuku1258
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

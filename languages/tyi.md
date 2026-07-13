@@ -6,6 +6,8 @@ alt_names: [Tsaya, Tsaye, Tsayi]
 population: 95900
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu dialect continuum of Central Africa
 status_id: 6b
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: CG
     location: "Congo, Republic of the, Brazzaville"
 ---
+West Teke is a Bantu language spoken in the Republic of Congo and Gabon.

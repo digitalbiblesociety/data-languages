@@ -6,6 +6,7 @@ alt_names: [Altpreussisch, Gammelprøyssisk, Old Prussian, Oudpruisisch, Preussi
 population: 50
 country_id: PL
 country_name: Poland
+area: Extinct Western Baltic language
 status_id: "9"
 scope: individual
 language_type: living

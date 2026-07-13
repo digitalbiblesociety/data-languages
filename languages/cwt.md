@@ -6,6 +6,8 @@ alt_names: [Kwatay]
 population: 8710
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Divergent Jola language spoken in Senegal
 status_id: "5"
 scope: individual
 language_type: living

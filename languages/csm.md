@@ -6,6 +6,8 @@ alt_names: [C Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Division, 
 population: 5000
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Miwok language of California, US"
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: dot
 name: Dass
 autonym: Barawa
-alt_names: [Bandas, Barawa of Dass, Boodli, Dekshi, Dot, Durr-Baraza, Dwat, Lukshi, Wandi, Wangday, Zodi, Zumbul]
+alt_names: [Bandas, Barawa of Dass, Boodli, Dekshi, Dot, Durr-Baraza, Dwat, Lukshi, Wandi, Wangday, Zodi, Zumbul, Boodla, Dott]
 population: 1130
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

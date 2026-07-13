@@ -2,10 +2,12 @@
 iso: otr
 name: Otoro
 autonym: Utoro
-alt_names: [Dhitoro, Kawama, Kawarma, Litoro]
+alt_names: [Dhitoro, Kawama, Kawarma, Litoro, Dogoridi, Dorobe, Dugujur, Dukwara, Ḏuṯuɽu]
 population: 10000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living

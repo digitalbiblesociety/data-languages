@@ -6,6 +6,7 @@ alt_names: [Erromango, Utaha]
 population: null
 country_id: VU
 country_name: Vanuatu
+area: Extinct language from Vanuatu
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,15 +2,18 @@
 iso: duo
 name: Dupaninan Agta
 autonym: Eastern Cagayan Agta
-alt_names: [Agta, Agta de Cagayan oriental, Agta de Cagayán oriental, "Agta, Dupaninan", Dupaninan, Dupaningan Agta]
+alt_names: [Agta, Agta de Cagayan oriental, Agta de Cagayán oriental, "Agta, Dupaninan", Dupaninan, Dupaningan Agta, Barongagunay, Bolos Point, Camonayan, Palaui Island, Peñablanca, Roso, Santa Ana-Gonzaga, Santa Margarita, Southeast Cagayan, Tanglagan, Valley Cove, Yaga]
 population: 1400
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language of the Philippines
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 17.37477
 longitude: 122.18812
+language_map_img: 500px-Dupangingan_Agta_language_map.webp
 glottocode: dupa1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

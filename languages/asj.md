@@ -2,10 +2,12 @@
 iso: asj
 name: Sari
 autonym: Nsari
-alt_names: [Akweto, Pesaa, Sali]
+alt_names: [Akweto, Pesaa, Sali, Saari]
 population: 7000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Eastern Beboid language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Hartevan, Hertevin, Hertevineg, Hertevino]
 population: 1000
 country_id: TR
 country_name: Turkey
+area: Modern Eastern Aramaic or Syriac language
 status_id: 6a
 scope: individual
 language_type: living

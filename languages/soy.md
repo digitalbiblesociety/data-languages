@@ -6,6 +6,8 @@ alt_names: [Bijobe, Biyobe, Kayobe, Kuyobe, Kyobe, Meyobe, Mi yɔbɛ, Sola, Sola
 population: 17160
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language spoken in Benin and Togo
 status_id: "5"
 scope: individual
 language_type: living

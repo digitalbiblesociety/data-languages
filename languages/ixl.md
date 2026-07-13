@@ -2,10 +2,12 @@
 iso: ixl
 name: Ixil
 autonym: "Ixil, San Juan Cotzal"
-alt_names: [Iŝiloj]
+alt_names: [Iŝiloj, San Juan Cotzal, Chajul, Cotzal, Chajul Ixil, Nebaj Ixil, San Juan Cotzal Ixil, Nebaj]
 population: 115000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language of Mexico and Guatemala
 status_id: "4"
 scope: individual
 language_type: living

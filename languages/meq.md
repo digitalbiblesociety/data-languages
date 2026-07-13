@@ -2,10 +2,12 @@
 iso: meq
 name: Merey
 autonym: null
-alt_names: [Mere, Meri, Mofu, Mofu de Meri, Mofu of Meri, Muffo, Muffu]
+alt_names: [Mere, Meri, Mofu, Mofu de Meri, Mofu of Meri, Muffo, Muffu, Mofu de Méri]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of northern Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: ["Kalinga, Limos", Limos-Liwan Kalinga, Northern Kalinga]
 population: 12700
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 17.60813
 longitude: 121.38057
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: limo1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -59,3 +62,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Kalinga, Pinukpuk"
 ---
+Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Kalinga people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.

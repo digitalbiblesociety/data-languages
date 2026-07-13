@@ -6,6 +6,8 @@ alt_names: [Balaesano, Balaisang, Baleasang, Pajo]
 population: 3200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: dgc
 name: Casiguran Dumagat Agta
 autonym: Casiguran Dumagat
-alt_names: [Agta, Agta (Casiguran Dumagat), "Agta, Casiguran Dumagat", Baler Dumagat, Casiguran, Dumagat (Casiguran)]
+alt_names: [Agta, Agta (Casiguran Dumagat), "Agta, Casiguran Dumagat", Baler Dumagat, Casiguran, Dumagat (Casiguran), Agta Casiguran, Casiguran Agta]
 population: 610
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Ichikile, Kirirí-Xokó, Shukuru, Shukurú, Xucuru, Xukuru]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

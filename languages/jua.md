@@ -6,6 +6,8 @@ alt_names: [Arara, Cabahyba, Cauaiua, Cauhib, Cawahib, Diahoi, Diahói, Diarroi,
 population: 300
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: 8b
 scope: individual
 language_type: living

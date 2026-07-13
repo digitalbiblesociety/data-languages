@@ -5,11 +5,14 @@ autonym: Gantëya coca
 population: null
 country_id: EC
 country_name: Ecuador
+area: Tucanoan language spoken in South America
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -0.02668
 longitude: -76.5761
+language_map_img: Siona.webp
+glottocode: tete1252
 wikidata_id: Q7706087
 wikipedia_url: "https://en.wikipedia.org/wiki/Tetet%C3%A9_language"
 translations:

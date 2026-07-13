@@ -2,10 +2,12 @@
 iso: abr
 name: Abron
 autonym: Bron
-alt_names: [Brong, Doma, Gyaman]
+alt_names: [Brong, Doma, Gyaman, Bono]
 population: 1393000
 country_id: GH
 country_name: Ghana
+location: "Côte d&#039;Ivoire"
+area: Dialect of Akan in Ghana
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kyz
 name: Kayabí
 autonym: "Kawaiwete, Caiabi"
-alt_names: [Caiabi, Caiabí, Kajabí, Kawaiwete, Kayabi, Maquiri, Parua, Paruá]
+alt_names: [Caiabi, Caiabí, Kajabí, Kawaiwete, Kayabi, Maquiri, Parua, Paruá, Kaiabí]
 population: 1000
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

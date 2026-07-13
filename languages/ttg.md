@@ -6,6 +6,8 @@ alt_names: [Tutung]
 population: 16600
 country_id: BN
 country_name: Brunei
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Brunei
 status_id: 6b
 scope: individual
 language_type: living

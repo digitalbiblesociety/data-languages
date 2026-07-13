@@ -3,15 +3,18 @@ iso: skr
 macrolanguage_id: lah
 name: Saraiki
 autonym: سرائیکی
-alt_names: [Bahawalpuri, Lahnda, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi]
+alt_names: [Bahawalpuri, Lahnda, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi, Belochki, Bhawalpuri, Central Saraiki, Eastern Saraiki, Jafri, Northern Saraiki, Riasati, Sindh aali Saraiki, Sindhi Saraiki, Southern Saraiki]
 population: 26009000
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Indo-Aryan language spoken in Pakistan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 29.553395
 longitude: 71.905975
+language_map_img: skr.svg
 scripts: [Arab]
 glottocode: sera1259
 glottolog_family_id: indo1319

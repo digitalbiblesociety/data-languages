@@ -3,10 +3,12 @@ iso: hax
 macrolanguage_id: hai
 name: Southern Haida
 autonym: X̱aat Kíl
-alt_names: ["Haida, Southern"]
+alt_names: ["Haida, Southern", Skidegate]
 population: 270
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Endangered language spoken in Canada and Alaska
 status_id: 8a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ rolv_dialects:
     country_id: CA
     location: "Canada, British Columbia"
 ---
+Haida is the language of the Haida people, spoken in the Haida Gwaii archipelago off the coast of western Canada and on Prince of Wales Island in Alaska. An endangered language, Haida currently has 24 native speakers, though revitalization efforts are underway. At the time of the European arrival at Haida Gwaii in 1774, it is estimated that Haida speakers numbered about 15,000. Epidemics soon led to a drastic reduction in the Haida population, which became limited to three villages: Masset, Skidegate, and Hydaburg. Positive attitudes towards assimilation combined with the ban on speaking Haida in residential schools led to a sharp decline in the use of the Haida language among the Haida people, and today almost all ethnic Haida use English to communicate.

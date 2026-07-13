@@ -5,6 +5,8 @@ autonym: null
 population: 10
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Garo dialect of India
 status_id: 8b
 scope: individual
 language_type: living

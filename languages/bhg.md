@@ -2,10 +2,12 @@
 iso: bhg
 name: Binandere
 autonym: null
-alt_names: [Aiga, Ambasi, Binanderan, Binanderean Proper, Ioma Binandere, Tain-Daware, Upper Musa]
+alt_names: [Aiga, Ambasi, Binanderan, Binanderean Proper, Ioma Binandere, Tain-Daware, Upper Musa, Tainya Dawari (Ambasi), Yewa Buie]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

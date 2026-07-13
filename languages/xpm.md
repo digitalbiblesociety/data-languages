@@ -6,11 +6,13 @@ alt_names: [Poumpokole, Poumpokoleg, Pumpokolsk]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Yeniseian language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 58.5
 longitude: 92
+language_map_img: 500px-Pumpokol_language.webp
 glottocode: pump1237
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian

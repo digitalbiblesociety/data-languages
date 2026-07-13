@@ -6,11 +6,14 @@ alt_names: [Jinalug, Khinalough, Khinalug, Khinalug language, Khinalugi, Xinaliq
 population: 1500
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Northeast Caucasian language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41.18014
 longitude: 48.05714
+language_map_img: 500px-Northeast_Caucasian_languages.webp
 glottocode: khin1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

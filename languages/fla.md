@@ -2,10 +2,12 @@
 iso: fla
 name: "Kalispel-Pend d'Oreille"
 autonym: Séliš (fla)Npoqínišcn (spo)
-alt_names: ["\"Flathead\"-Kalispel", Flathead, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Kalispel, Kalispel-Flathead, Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Qalispé, Salish, Salish de Montana, Salish du Montana, Spokane-Kalispel-Flathead, Séliš]
+alt_names: ["\"Flathead\"-Kalispel", Flathead, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokane", Kalispel, Kalispel-Flathead, Montana Salish-Kalispel-Spokane, "Montana Salish-Pend d'Oreille-Spokane", Qalispé, Salish, Salish de Montana, Salish du Montana, Spokane-Kalispel-Flathead, Séliš, “Flathead-Kalispel”, “Kalispel-Flathead”, Flathead-Kalispel]
 population: 6800
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Indigenous language of the United States
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Mattole-Bear River]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Athabaskan language of California
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 40.43208
 longitude: -122.86327
+language_map_img: California-athabaskan.svg
 glottocode: matt1238
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

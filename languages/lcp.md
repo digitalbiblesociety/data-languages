@@ -2,10 +2,12 @@
 iso: lcp
 name: Western Lawa
 autonym: Lava
-alt_names: ["L'wa", "La'wa", Lavua, Lavüa, Lawa, "Lawa, Western", Lua, Luwa, Mae Sariang, Mountain Lawa, Wa, Wa Proper]
+alt_names: ["L'wa", "La'wa", Lavua, Lavüa, Lawa, "Lawa, Western", Lua, Luwa, Mae Sariang, Mountain Lawa, Wa, Wa Proper, “Lua”, L’wa, Mae Hong Son Lawa, Omphai Lawa, La-up, Northern Western Lawa, Omphai]
 population: 8000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Austroasiatic language spoken in Thailand
 status_id: "5"
 scope: individual
 language_type: living
@@ -95,3 +97,4 @@ rolv_dialects:
     country_id: TH
     location: "Thailand, Northern, Mae Hong Son, Maesarieng"
 ---
+Lawa is an Austroasiatic language of Thailand. There are two distinct varieties or dialects of Lawa, considered to be separate languages; their names in the Ethnologue are Eastern Lawa and Western Lawa. They are spoken in Lawa villages in the provinces of Mae Hong Son and Chiang Mai in Northern Thailand.

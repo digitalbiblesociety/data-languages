@@ -2,10 +2,12 @@
 iso: acd
 name: Gikyode
 autonym: Gikyode
-alt_names: [Chode, Guang, Kyode]
+alt_names: [Chode, Guang, Kyode, Achode, Akyode, Gichode]
 population: 10400
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

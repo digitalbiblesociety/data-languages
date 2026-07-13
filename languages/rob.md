@@ -2,10 +2,11 @@
 iso: rob
 name: "Tae'"
 autonym: "Basa Tae'"
-alt_names: [East Toraja, Luwu, Nordost-Celebes, Rongkong, Rongkong Kanandede, Sada, "Sangangalla'", "Tae' Tae'", Taeq, To Rongkong, Toala, Toala-Palili, Toraja Timur, Toware]
+alt_names: [East Toraja, Luwu, Nordost-Celebes, Rongkong, Rongkong Kanandede, Sada, "Sangangalla'", "Tae' Tae'", Taeq, To Rongkong, Toala, Toala-Palili, Toraja Timur, Toware, Sangangalla’, Tae’, Tae’ Tae’, Bone-Bone, Bua, Luwu-Rongkong, Masamba, Northeast Luwu, Rongkong-Luwu, South Luwu, Toraja]
 population: 272000
 country_id: ID
 country_name: Indonesia
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: null
 scope: individual
 language_type: living

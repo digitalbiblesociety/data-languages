@@ -5,11 +5,13 @@ autonym: Laopa
 population: 9550
 country_id: LA
 country_name: Laos
+area: Loloish language spoken in northern Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 20.78087
 longitude: 100.07886
+glottocode: laop1234
 wikidata_id: Q12952711
 wikipedia_url: "https://en.wikipedia.org/wiki/Laopan_language"
 translations:

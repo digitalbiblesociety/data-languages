@@ -7,6 +7,8 @@ alt_names: [Bacan, Batjan, "Malay, Bacanese"]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: Language in North Maluku
 status_id: 8b
 scope: individual
 language_type: living

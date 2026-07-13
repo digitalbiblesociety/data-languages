@@ -6,6 +6,8 @@ alt_names: [Asong, Kha Pai]
 population: 1770
 country_id: LA
 country_name: Laos
+location: Laos
+area: Loloish language of Laos and Vietnam
 status_id: 6b
 scope: individual
 language_type: living

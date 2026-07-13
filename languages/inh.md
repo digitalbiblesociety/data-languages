@@ -2,15 +2,18 @@
 iso: inh
 name: Ingush
 autonym: гӀалгӀай мотт (ghalghaj mott)
-alt_names: [Ghalghay, Ingoesjetisch, Ingouche, Ingoucheg, Ingus, Ingusjisk, Inguso, Ingúix, İnguşça, ГIалгIайн мотт, אינגושית]
+alt_names: [Ghalghay, Ingoesjetisch, Ingouche, Ingoucheg, Ingus, Ingusjisk, Inguso, Ingúix, İnguşça, ГIалгIайн мотт, אינגושית, Galgay, Kisti, Kistin, Ghalghaj, Ingushi]
 population: 326000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 42.95255
 longitude: 44.15799
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 scripts: [Arab, Cyrl, Latn]
 glottocode: ingu1240
 glottolog_family_id: nakh1245

@@ -6,6 +6,7 @@ alt_names: [Bambadion-Dogoso, Bambadion-Dokhosié, Dorhosié-Finng, Dorhosié-No
 population: 9000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living

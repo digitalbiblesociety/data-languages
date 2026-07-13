@@ -2,15 +2,18 @@
 iso: rut
 name: Rutul
 autonym: мыхӀабишды чӀел myxʼabišdy č̣el
-alt_names: [Chal, Mukhad, Mykhanidy, Routoul, Rutal, Rutultsy, Rutuly, myxʼabišdy čʼel, мыхӀабишды чӀел]
+alt_names: [Chal, Mukhad, Mykhanidy, Routoul, Rutal, Rutultsy, Rutuly, myxʼabišdy čʼel, мыхӀабишды чӀел, Asar-Kala, Borch, Borsh-Khnov, Ixrek, Khnov, Knovtsy, Luchek, Muxrek, Myhadbyr, "Myhynnynydy-ch'el", Mykhad, North Rutul, Shinaz, South Rutul, Vrush]
 population: 36400
 country_id: RU
 country_name: Russia
+location: Azerbaijan
+area: Language belonging to the Lezgic group of the Northeast Caucasian language family
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 41.61866
 longitude: 47.32436
+language_map_img: 500px-Caucasus-ethnic_roetoelen.webp
 glottocode: rutu1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

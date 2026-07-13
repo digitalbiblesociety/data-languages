@@ -2,10 +2,12 @@
 iso: bvr
 name: Burarra
 autonym: Anbarra
-alt_names: [Anbara, Bara, Barada, Barara, Barea, Barera, Baurera, Bawera, Birarra, Burada, Burara, Bureda, Burera, Burrara, Gadjalivia, Gidjingale, Gidjingali, Gidjingaliya, Gidjingaliya Gujingalia, Gu-jingaliya, Gudjalayia, Gujalabiya, Gujingalia, Gujingaliya, Gun-Guragone, Gunardba, Gurmadja madja, Jikai, Ku jarlapiyi, Tchikai, Tha ra ra burra, Thar ar ra burra, Toolginburra]
+alt_names: [Anbara, Bara, Barada, Barara, Barea, Barera, Baurera, Bawera, Birarra, Burada, Burara, Bureda, Burera, Burrara, Gadjalivia, Gidjingale, Gidjingali, Gidjingaliya, Gidjingaliya Gujingalia, Gu-jingaliya, Gudjalayia, Gujalabiya, Gujingalia, Gujingaliya, Gun-Guragone, Gunardba, Gurmadja madja, Jikai, Ku jarlapiyi, Tchikai, Tha ra ra burra, Thar ar ra burra, Toolginburra, Gu-jarlabiya, Gu-jingarliya, Gun-narpta, Gun-nartpa]
 population: 1050
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living

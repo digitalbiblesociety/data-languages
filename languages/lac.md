@@ -2,10 +2,12 @@
 iso: lac
 name: Lacandon
 autonym: "Jach-tʼaan "
-alt_names: [Lacandon Maya, Lacandonsk, Lacandón, Lakantún, "Ma:ya"]
+alt_names: [Lacandon Maya, Lacandonsk, Lacandón, Lakantún, "Ma:ya", Jach-tꞌaan, Lacanjá, Najá]
 population: 600
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mayan language spoken of Mexico
 status_id: "5"
 scope: individual
 language_type: living

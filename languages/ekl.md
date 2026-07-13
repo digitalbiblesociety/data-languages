@@ -6,6 +6,8 @@ alt_names: [Kol]
 population: 1660
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Munda language of Bangladesh
 status_id: 6a
 scope: individual
 language_type: living

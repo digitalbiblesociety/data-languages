@@ -2,10 +2,12 @@
 iso: mlk
 name: Ilwana
 autonym: Malakote
-alt_names: [Kiwilwana, “Malakote”]
+alt_names: [Kiwilwana, “Malakote”, Elwana]
 population: 8000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living

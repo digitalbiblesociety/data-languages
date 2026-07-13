@@ -6,6 +6,8 @@ alt_names: [Baga maduri, Baga manduri, Beembe, Ebembe, Ibembe, Kibembe]
 population: 274000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo and Tanzania
 status_id: "5"
 scope: individual
 language_type: living

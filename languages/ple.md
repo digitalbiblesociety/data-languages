@@ -2,10 +2,12 @@
 iso: ple
 name: "Palu'e"
 autonym: "Lu'a"
-alt_names: [Palue, Paluees, Paluqe]
+alt_names: [Palue, Paluees, Paluqe, Lu’a]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Malayo-Polynesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

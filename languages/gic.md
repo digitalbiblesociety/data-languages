@@ -6,6 +6,7 @@ alt_names: [Gaileg, Gayle language, South Africa]
 population: null
 country_id: ZA
 country_name: South Africa
+area: South African gay slang
 status_id: "9"
 scope: individual
 language_type: living

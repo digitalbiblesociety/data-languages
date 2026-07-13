@@ -2,10 +2,12 @@
 iso: yer
 name: Tarok
 autonym: Yergam
-alt_names: [Appa, Yergum]
+alt_names: [Appa, Yergum, Hill Tarok, Igyang, Itarok, Itarok Oga Asa, Izini, Plain Tarok, Selyer, Taroh, Yergem]
 population: 494000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Benue-Congo language spoken in northern Nigeria
 status_id: "5"
 scope: individual
 language_type: living

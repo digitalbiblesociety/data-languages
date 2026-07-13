@@ -2,10 +2,12 @@
 iso: any
 name: Anyin
 autonym: Anyi
-alt_names: [Agni, "Agni'", Anyieg]
+alt_names: [Agni, "Agni'", Anyieg, Abé, Agni Sanvi, Agny, Ano, Anyin Aowin, Anyin Juablin, Anyin Ndenye, Anyin Sannvin, Aowin, Barabo, Bini, Bona, Brissa, Brosa, Djuablin, Indenie, Juablin, Ndenye, Sannvin, Sanvi]
 population: 1506400
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

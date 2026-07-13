@@ -2,9 +2,11 @@
 iso: bqn
 name: Bulgarian Sign Language
 autonym: Български жестомимичен език
+alt_names: [BUSL, Balgarski žestomimičen ezik, BŽE]
 population: 21000
 country_id: BG
 country_name: Bulgaria
+area: Deaf sign language of Bulgaria
 status_id: 6a
 scope: individual
 language_type: living

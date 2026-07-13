@@ -7,6 +7,8 @@ alt_names: [Arabic, "Arabic, Shihhi", "Arabic, Shihhi Spoken", Shihhi, Shihhi ar
 population: 36900
 country_id: AE
 country_name: United Arab Emirates
+location: Oman
+area: Arabic variety spoken in Oman and the UAE
 status_id: 6a
 scope: individual
 language_type: living

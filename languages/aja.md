@@ -6,6 +6,8 @@ alt_names: [Adjeg, "Aja, nilo-sahariana", Ajja]
 population: 200
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language
 status_id: 8b
 scope: individual
 language_type: living

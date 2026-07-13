@@ -2,10 +2,12 @@
 iso: tct
 name: "T'en"
 autonym: Rao
-alt_names: [Rau, Then, Yang Huang, Yanghuang]
+alt_names: [Rau, Then, Yang Huang, Yanghuang, Yang Hwang]
 population: 15000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kam–Sui language spoken by Yanghuang people of China
 status_id: 6b
 scope: individual
 language_type: living

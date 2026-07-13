@@ -6,6 +6,7 @@ alt_names: [Jabal Rāziḥ, Razihi]
 population: 62900
 country_id: YE
 country_name: Yemen
+area: Central Semitic language of Yemen
 status_id: null
 scope: individual
 language_type: living

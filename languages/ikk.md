@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 22800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: An Igboid language spoken by the Ika people of southern Nigeria
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: bsn
 name: "Barasana-Eduria"
 autonym: Taiwano
-alt_names: [Banera yae, Barasana, Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasana language, Barasano, Barasano (Southern), Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Come masa, Comematsa, Edulia, Eduria, Hanera oka, Janera, Makuna-Erulia, Paneroa, S Barasano, S. Barasano, Southern Barasano, Taibano, Taiwaeno, Tuyaca (Brésil), Tuyuca, Tuyuca (Colombia), Tuyuca (Colombie), Yebamasa]
+alt_names: [Banera yae, Barasana, Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasana language, Barasano, Barasano (Southern), Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Come masa, Comematsa, Edulia, Eduria, Hanera oka, Janera, Makuna-Erulia, Paneroa, S Barasano, S. Barasano, Southern Barasano, Taibano, Taiwaeno, Tuyaca (Brésil), Tuyuca, Tuyuca (Colombia), Tuyuca (Colombie), Yebamasa, Eduria-Barasana, Barasano del Sur, Came-Masa, Comea, Erulia, Hadera, Hanera, Janena, Palanoa, Panenoa, Panera, Teiuana, Yepa-Mahsa, Yepa-Matso]
 population: 1890
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Tucanoan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.02193
 longitude: -70.80803
+language_map_img: Barasana.webp
 glottocode: bara1380
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

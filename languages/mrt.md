@@ -2,15 +2,18 @@
 iso: mrt
 name: Marghi Central
 autonym: Marghi
-alt_names: [Margi, Margi Central, Margi language]
+alt_names: [Margi, Margi Central, Margi language, Babal, Dzerngu, Gulak, Gwara, Lassa, Madube, Malgwa, Mulgwe, Wurga]
 population: 226000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: "Chadic language of Nigeria, Cameroon and Chad"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.83854
 longitude: 12.99521
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
 glottocode: marg1265
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

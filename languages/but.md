@@ -2,9 +2,12 @@
 iso: but
 name: Bungain
 autonym: null
+alt_names: [Wunabag]
 population: 3600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Torricelli language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

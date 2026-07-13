@@ -2,10 +2,12 @@
 iso: hao
 name: Hakö
 autonym: Haku
-alt_names: [Hako]
+alt_names: [Hako, Hak�]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: "Austronesian language of Buka Island, Papua New Guinea"
 status_id: 6a
 scope: individual
 language_type: living

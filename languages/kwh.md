@@ -6,6 +6,8 @@ alt_names: [Adi, Aiduma, Kaiwai, Kajumerah, Kayumerah, Koiwai, Kuiwai, Namatota,
 population: 600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesian language of New Guinea
 status_id: 6b
 scope: individual
 language_type: living

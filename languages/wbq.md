@@ -6,6 +6,8 @@ alt_names: [Orh, Vadari, Vadda Beldar, Werders, Wodde]
 population: 198000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Telugu dialect spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living

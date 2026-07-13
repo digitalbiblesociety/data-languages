@@ -2,10 +2,12 @@
 iso: aun
 name: Molmo One
 autonym: Aunalei
-alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo, Northern One, One, "One, Molmo", Onele, Oni, Southern One]
+alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim One, Molmo, Northern One, One, "One, Molmo", Onele, Oni, Southern One, One-Molmo]
 population: 500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli dialect cluster of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Sandaun"
 ---
+One is a Torricelli dialect cluster of West Wapei Rural LLG in Sandaun Province, Papua New Guinea.

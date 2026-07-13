@@ -6,11 +6,13 @@ alt_names: [Darginjang, Darginyung, Darkinjang, Darkinjung, Darkinoong, Darkinun
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -33.11470744
 longitude: 150.4952383
+language_map_img: 500px-Dharag-Neighbors1.webp
 glottocode: hawk1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

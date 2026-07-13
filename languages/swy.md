@@ -6,6 +6,8 @@ alt_names: [Sarouaeg, Sarwa]
 population: 2000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: "7"
 scope: individual
 language_type: living

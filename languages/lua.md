@@ -2,15 +2,18 @@
 iso: lua
 name: "Luba-Lulua"
 autonym: Ciluba
-alt_names: [Bena-Lulua, Luba, Luba simi, Luba-Kasai, Luva, Tchilouba, Tchiluba, Tschiluba, Tshiluba, Tshiluba language, Western Luba, Луба]
+alt_names: [Bena-Lulua, Luba, Luba simi, Luba-Kasai, Luva, Tchilouba, Tchiluba, Tschiluba, Tshiluba, Tshiluba language, Western Luba, Луба, Lulua, Luluwa, West Luba]
 population: 6360000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: "2"
 scope: individual
 language_type: living
 latitude: -5.72717
 longitude: 22.4422
+language_map_img: lua.webp
 scripts: [Latn]
 glottocode: luba1249
 glottolog_family_id: atla1278

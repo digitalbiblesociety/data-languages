@@ -2,10 +2,12 @@
 iso: plg
 name: Pilagá
 autonym: Pilaca
-alt_names: [Pilaga]
+alt_names: [Pilaga, Chaco Pilagá, Sombrero Negro, Toba-Pilagá]
 population: 4000
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Guaicuruan language spoken in Argentina
 status_id: 6b
 scope: individual
 language_type: living

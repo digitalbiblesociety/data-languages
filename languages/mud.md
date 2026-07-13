@@ -6,6 +6,8 @@ alt_names: ["Aleut de l'île Copper", "Aleut, Mednyj", Aleutiano de la isla Copp
 population: 3
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Extinct mixed language of Bering Island
 status_id: 8b
 scope: individual
 language_type: living

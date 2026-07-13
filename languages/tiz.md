@@ -6,11 +6,14 @@ alt_names: [China]
 population: 85000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Tai language of southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.3088
 longitude: 102.58554
+language_map_img: 500px-Tai_Ya_Language.webp
 glottocode: taih1246
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

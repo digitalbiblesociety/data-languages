@@ -2,10 +2,11 @@
 iso: fng
 name: Fanagalo
 autonym: Pidgin Zulu
-alt_names: ["\"Fanakalo\"", "\"Fanekolo\"", "\"Isikula\"", "\"Kitchen Kaffir\"", "\"Mine Kaffir\"", Basic Zulu, Fanakalo, Isilololo, Isipiki, Lololo, Pidgin Bantu, Piki, Silunguboi, Silunguboi., Фанагало]
+alt_names: ["\"Fanakalo\"", "\"Fanekolo\"", "\"Isikula\"", "\"Kitchen Kaffir\"", "\"Mine Kaffir\"", Basic Zulu, Fanakalo, Isilololo, Isipiki, Lololo, Pidgin Bantu, Piki, Silunguboi, Silunguboi., Фанагало, “Fanakalo”, “Fanekolo”, “Isikula”, Chikabanga, Chilapalapa, Cikabanga, Fanagoloi]
 population: 5100
 country_id: ZA
 country_name: South Africa
+area: Zulu-based pidgin of South Africa
 status_id: "3"
 scope: individual
 language_type: living

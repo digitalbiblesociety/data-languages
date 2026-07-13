@@ -6,6 +6,8 @@ alt_names: [Sumup, Terebu, Terepu, Turupu]
 population: 300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Kairiru language
 status_id: 6b
 scope: individual
 language_type: living

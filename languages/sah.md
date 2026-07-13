@@ -2,15 +2,18 @@
 iso: sah
 name: Yakut
 autonym: Sakha tyla
-alt_names: [Iacut, Iakoute, Jakoets, Jakucko godka, Jakut, Jakuti, Jakutisch, Jakutisk, Jakutiska, Northeast Siberian, Saha Türkçesi, Sakha, Sakha language, Saxa tıla, Yakoute, Yakouteg, Yakut Türkçesi, Yakut-Sakha, Yakuto, Yakutça, Саха тыла, Якутонь кель, ياقۇت تىلى]
+alt_names: [Iacut, Iakoute, Jakoets, Jakucko godka, Jakut, Jakuti, Jakutisch, Jakutisk, Jakutiska, Northeast Siberian, Saha Türkçesi, Sakha, Sakha language, Saxa tıla, Yakoute, Yakouteg, Yakut Türkçesi, Yakut-Sakha, Yakuto, Yakutça, Саха тыла, Якутонь кель, ياقۇت تىلى, Сахалыы, Dolgan, Middlekolymskyi, Olemkinskyi, Vilyiskyi]
 population: 478000
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Northern Siberian Turkic language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 61.69744
 longitude: 133.98031
+language_map_img: 500px-Yakut_and_Dolgan_languages.webp
 scripts: [Cyrl]
 glottocode: yaku1245
 glottolog_family_id: turk1311

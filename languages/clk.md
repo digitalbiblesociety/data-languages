@@ -2,10 +2,12 @@
 iso: clk
 name: "Idu-Mishmi"
 autonym: Luoba
-alt_names: ["\"Chulikata\"", "\"Chulikotta\"", Bebejiya, Chulikata, Chulikatta, Chulikātā Mishmi, Ida, Idu, Idu Mishmi, Idu Mishmi Language, "Kera'a", Lho-Pa, Methun, Midhi, Midu, Neda, Yidu Luoba, 珞巴]
+alt_names: ["\"Chulikata\"", "\"Chulikotta\"", Bebejiya, Chulikata, Chulikatta, Chulikātā Mishmi, Ida, Idu, Idu Mishmi, Idu Mishmi Language, "Kera'a", Lho-Pa, Methun, Midhi, Midu, Neda, Yidu Luoba, 珞巴, “Chulikata”, “Chulikotta”, Sulikota]
 population: 11000
 country_id: IN
 country_name: India
+location: Southwestern China
+area: Language spoken in India and Tibet
 status_id: 6a
 scope: individual
 language_type: living

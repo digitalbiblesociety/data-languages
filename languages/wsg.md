@@ -3,15 +3,17 @@ iso: wsg
 macrolanguage_id: gon
 name: Adilabad Gondi
 autonym: "गोण्डि, గోణ్డి, ଗୋଣ୍ଡି, 𑵶𑶓𑶕𑶂𑶋, 𑴎𑴽𑵀𑴘𑴳,"
-alt_names: ["Gondi, Adilabad", Utnoor]
+alt_names: ["Gondi, Adilabad", Utnoor, Gondi, Gunjala Gondi, Koyang, Nirmal, Raj Gond, Rajura, Southern Gondi (Adilabad), Telugu, Telugu Gondi, Utnoor Gondi]
 population: 300000
 country_id: IN
 country_name: India
+area: Dravidian language spoken in India
 status_id: null
 scope: individual
 language_type: living
 latitude: 18.75
 longitude: 80.2
+language_map_img: Gondi_language_map.svg
 glottocode: utno1237
 glottolog_family_id: drav1251
 glottolog_family_name: Dravidian

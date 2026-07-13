@@ -2,10 +2,11 @@
 iso: zaz
 name: Zari
 autonym: Zariwa
-alt_names: [Kopti, Kwapm, Zakshi]
+alt_names: [Kopti, Kwapm, Zakshi, Bibot, Boot, Boto, Zaksa]
 population: 1000
 country_id: NG
 country_name: Nigeria
+area: Extinct Chadic dialect cluster of Nigeria
 status_id: "9"
 scope: individual
 language_type: living

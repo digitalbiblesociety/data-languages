@@ -2,10 +2,12 @@
 iso: aiw
 name: Aari
 autonym: Aarai
-alt_names: [Ara, Ari, Ari-Galila, Aro, Bako, Boko, Luenga aari]
+alt_names: [Ara, Ari, Ari-Galila, Aro, Bako, Boko, Luenga aari, “Shankilla”, “Shankilligna”, “Shankillinya”, Baco, Bio, Biyo, Laydo, Seyki, Shangama, Sido, Ubamer, Wubahamer, Zeddo]
 population: 285000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

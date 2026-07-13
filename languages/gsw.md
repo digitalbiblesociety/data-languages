@@ -2,10 +2,12 @@
 iso: gsw
 name: Swiss German
 autonym: Schwiizerdütsch
-alt_names: [Alemannic, Alemannisch, Alemany suís, Alemán de Suiza, Alsatian, Appenzel, Appenzell, Bern, Bärndütsch, German, German (Appenzell), German (Bern), German (Ostschweiz), German (Swiss Thürgau), German (Thurgau), German (Thürgau Swiss), German (Zurich), "German, Swiss", Schweizerdeutsch, Schweizertysk, Schweizertyska, Schwizzerdüttsch, Schwytzertuetsch, Schwyzerdütsch, Sguizzer Todesch, Suisse allemand, Suíço-alemão, Sveitsertysk, Svizzero tedesco, Sūi-se Tek-gí, Töitschu, Upper Alemannic, Zurich, Zwitserduits, alsacien, alémanique, d Schwyzerdütsch, suisse alémanique, גרמנית שווייצרית]
+alt_names: [Alemannic, Alemannisch, Alemany suís, Alemán de Suiza, Alsatian, Appenzel, Appenzell, Bern, Bärndütsch, German, German (Appenzell), German (Bern), German (Ostschweiz), German (Swiss Thürgau), German (Thurgau), German (Thürgau Swiss), German (Zurich), "German, Swiss", Schweizerdeutsch, Schweizertysk, Schweizertyska, Schwizzerdüttsch, Schwytzertuetsch, Schwyzerdütsch, Sguizzer Todesch, Suisse allemand, Suíço-alemão, Sveitsertysk, Svizzero tedesco, Sūi-se Tek-gí, Töitschu, Upper Alemannic, Zurich, Zwitserduits, alsacien, alémanique, d Schwyzerdütsch, suisse alémanique, גרמנית שווייצרית, Alemanic, Schwiizertüütsch, Schwizerdütsch, Schwizertitsch, Schwizertitsch Mundart, Schwyzerdütschi Sprooch, Swiss]
 population: 6434200
 country_id: CH
 country_name: Switzerland
+location: Andorra and France
+area: Topics referred to by the same term
 status_id: "5"
 scope: individual
 language_type: living

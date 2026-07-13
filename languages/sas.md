@@ -2,14 +2,18 @@
 iso: sas
 name: Sasak
 autonym: Lombok
+alt_names: [Central East Sasak, Central Sasak, Central South Sasak, Central West Sasak, Kuto-Kute, Meno-Mene, Mriak-Mriku, Ngeno-Ngene, Ngeto-Ngete, North Sasak, Northeast Sasak]
 population: 3170000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Language spoken in Lombok, Indonesia"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -8.58349
 longitude: 116.2841
+language_map_img: 500px-Linguistic_map_of_Lombok.webp
 scripts: [Latn]
 glottocode: sasa1249
 glottolog_family_id: aust1307

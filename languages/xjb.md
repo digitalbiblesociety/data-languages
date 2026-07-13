@@ -6,6 +6,7 @@ alt_names: [Cudgingberry, Gan-dowal, Gando Minjang, Gendo, Minjangbal, Minyangba
 population: 208
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

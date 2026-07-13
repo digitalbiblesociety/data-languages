@@ -6,11 +6,13 @@ alt_names: [Central Waica, Central Waicá, Parahuri, Surara, Waica, Waica (Centr
 population: 6000
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 2.48999
 longitude: -62.85224
+language_map_img: Yanomaman.svg
 glottocode: yano1262
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic

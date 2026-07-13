@@ -2,10 +2,12 @@
 iso: ior
 name: Inor
 autonym: Ennemor
-alt_names: [Gurage, Innämor, Inär, Peripheral West Gurage]
+alt_names: [Gurage, Innämor, Inär, Peripheral West Gurage, Endegeny, Enner]
 population: 280000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Semitic language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

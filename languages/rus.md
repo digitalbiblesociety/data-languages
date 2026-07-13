@@ -3,15 +3,18 @@ iso: rus
 iso639_1: ru
 name: Russian
 autonym: русский язык
-alt_names: [Biʼééʼ Łichííʼí bizaad, Eluosi, Errusiera, Fiteny rosy, Great Russian, IsiRashiya, Kirusi, Lang ris, Lō͘-se-a-gí, Ngò-ngî, Olossu, Rinuso, Rinusyan, Rooshish, Roushie leid, Ruiseis, Ruoššagiella, Rus, Rus tili, Rushan, Rusiana linguo, Rusianeg, Rusikani chhib, Ruski, Rusko godka, Ruso, Rusojska rěc, Russ, Russe, Russek, Russesch, Russi bhasa, Russies, Russisc sprǣc, Russisch, Russisk, Russit, Russki, Russo, Russysk, Russ’sche Spraak, Rusu, Rusu simi, Rusça, Rwseg, Ryska, Rúisis, Rússneska, Rüss, Tok Rasia, Urıs tele, Vinne kiil, rukybau, ГІурус мацI, Забони Русӣ, Нуучча тыла, Орсин келн, Оьрус маз, Роу́сьскъ ѩꙁꙑ́къ, Рузонь кель, Рузонь кяль, Руш йылме, Урыҫ теле, Ӟуч кыл, Ռուսերեն, רוסיש, רוסית, روسى, روسی, رۇس تىلى, زمانی ڕووسی, ܠܫܢܐ ܪܘܣܝܐ, ރޫސީ, ཨུ་རུ་སུའི་སྐད།, 俄文, 𐍂𐌿𐍃𐌰𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Biʼééʼ Łichííʼí bizaad, Eluosi, Errusiera, Fiteny rosy, Great Russian, IsiRashiya, Kirusi, Lang ris, Lō͘-se-a-gí, Ngò-ngî, Olossu, Rinuso, Rinusyan, Rooshish, Roushie leid, Ruiseis, Ruoššagiella, Rus, Rus tili, Rushan, Rusiana linguo, Rusianeg, Rusikani chhib, Ruski, Rusko godka, Ruso, Rusojska rěc, Russ, Russe, Russek, Russesch, Russi bhasa, Russies, Russisc sprǣc, Russisch, Russisk, Russit, Russki, Russo, Russysk, Russ’sche Spraak, Rusu, Rusu simi, Rusça, Rwseg, Ryska, Rúisis, Rússneska, Rüss, Tok Rasia, Urıs tele, Vinne kiil, rukybau, ГІурус мацI, Забони Русӣ, Нуучча тыла, Орсин келн, Оьрус маз, Роу́сьскъ ѩꙁꙑ́къ, Рузонь кель, Рузонь кяль, Руш йылме, Урыҫ теле, Ӟуч кыл, Ռուսերեն, רוסיש, רוסית, روسى, روسی, رۇس تىلى, زمانی ڕووسی, ܠܫܢܐ ܪܘܣܝܐ, ރޫސީ, ཨུ་རུ་སུའི་སྐད།, 俄文, 𐍂𐌿𐍃𐌰𐍂𐌰𐌶𐌳𐌰, русский, Central Asian Russian]
 population: 154000000
 country_id: RU
 country_name: Russia
+location: China
+area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 53.919516
 longitude: 72.392575
+language_map_img: Russian_language_status_and_proficiency_in_the_World.svg
 scripts: [Cyrl]
 glottocode: russ1263
 glottolog_family_id: indo1319

@@ -2,10 +2,12 @@
 iso: lhu
 name: Lahu
 autonym: Ladhof
-alt_names: [Kaixien, Lahuna, Laku, Launa, Lohei, Mooso, Moso, Muhso, Muhsur, Museu, Mussar, Musser, Musso, Mussuh, Nakhi, Namen, Nyi, Yezhoù lahouek, Лаху]
+alt_names: [Kaixien, Lahuna, Laku, Launa, Lohei, Mooso, Moso, Muhso, Muhsur, Museu, Mussar, Musser, Musso, Mussuh, Nakhi, Namen, Nyi, Yezhoù lahouek, Лаху, Kucong, Kutsong, Black Lahu, Khucong, Lahu Na, Lahu Nyi, Lahu Phu, Lahu Phung, Lahu Shehleh, Lahunyi, Loheirn, Musseh Daeng, Musser Dam, Mussur, Na, Northern Lahu, Red Lahu, Shehleh, Southern Lahu, White Lahu]
 population: 540850
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in Asia
 status_id: "4"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: bam
 iso639_1: bm
 name: Bambara
 autonym: ߓߡߊߣߊ߲ߞߊ߲
-alt_names: [Bamana, Bamanakan, Bamanankan, Bambara simi, Bambareg, Бамана, بمبارا]
+alt_names: [Bamana, Bamanakan, Bamanankan, Bambara simi, Bambareg, Бамана, بمبارا, Bamako, Bamanan, Bamanaykan, Beledugu, Eastern, Ganadugu, Kombye, Maninkakan, San, Segou, Sikasso, Somono, Standard Bambara, Wassulu, Wassulunka, Wassulunke, Wasulu, Wasulunkakan, Wasuu]
 population: 4183000
 country_id: ML
 country_name: Mali
+location: "Côte d&#039;Ivoire"
+area: Manding language of Mali
 status_id: "4"
 scope: individual
 language_type: living

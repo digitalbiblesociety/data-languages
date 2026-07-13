@@ -2,10 +2,12 @@
 iso: mdj
 name: Mangbetu
 autonym: Nemangbetu
-alt_names: [Amangbetu, Kingbetu, Mambetto, Mangbettu]
+alt_names: [Amangbetu, Kingbetu, Mambetto, Mangbettu, Aberu, Makere, Malele, Mangbɛtʉ, Medje, Meegye, Meje, Nɛ́mangbɛtʉ, Popoi]
 population: 620000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Nilo-Saharan language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living

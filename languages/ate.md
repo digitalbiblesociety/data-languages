@@ -6,6 +6,8 @@ alt_names: [Apris, Atemple, Atemple-Apris, Mand]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Sogeram language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

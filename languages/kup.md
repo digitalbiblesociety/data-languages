@@ -2,9 +2,12 @@
 iso: kup
 name: Kunimaipa
 autonym: null
+alt_names: [Gajila, Gajili, Gazili, Hate, Hazili, Karuama, Kâte]
 population: 8200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Goilalan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

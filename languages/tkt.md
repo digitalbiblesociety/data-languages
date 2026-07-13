@@ -2,10 +2,12 @@
 iso: tkt
 name: Kathoriya Tharu
 autonym: (polyphyletic)
-alt_names: [Kathariya, "Tharu, Kathoriya"]
+alt_names: [Kathariya, "Tharu, Kathoriya", Khatima Tharu, Tharu, Kathariya Tharu]
 population: 106000
 country_id: NP
 country_name: Nepal
+location: "India, Map 3"
+area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living

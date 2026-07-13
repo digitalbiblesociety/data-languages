@@ -6,6 +6,8 @@ alt_names: [Yabin, Yabin-Konda]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

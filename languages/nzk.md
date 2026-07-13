@@ -2,10 +2,12 @@
 iso: nzk
 name: Nzakara
 autonym: Ansakara
-alt_names: ["N'sakara", Sakara, Zakara]
+alt_names: ["N'sakara", Sakara, Zakara, N’sakara]
 population: 50000
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Zande language of Central Africa
 status_id: 6a
 scope: individual
 language_type: living

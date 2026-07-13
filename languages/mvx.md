@@ -5,6 +5,8 @@ autonym: War
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language in Papua
 status_id: 6a
 scope: individual
 language_type: living

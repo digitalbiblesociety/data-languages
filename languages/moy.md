@@ -2,10 +2,12 @@
 iso: moy
 name: Shekkacho
 autonym: Mocha
-alt_names: [Kafa (Mo...a dialect), Kaffa, Kafficho, Kefa-Mocha, Moca, Shakacho, Shekka]
+alt_names: [Kafa (Mo...a dialect), Kaffa, Kafficho, Kefa-Mocha, Moca, Shakacho, Shekka, Shekacho, Shekecho, Shekicho, Shekki-noone, Šakačo, Šekki noono]
 population: 80100
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic Omotic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

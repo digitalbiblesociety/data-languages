@@ -6,6 +6,8 @@ alt_names: [Her, Keerak, Keeraku]
 population: 13200
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Jola language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 克拉克语
     auto: true
 ---
+Jola-Felupe or Ejamat (Ediamat) is a Jola language of the Casamance region of Senegal and neighboring Guinea-Bissau, including around Calequisse (Kaləkis), on the western edge of the Manjak area south of the Cacheu River. A person is called ɸuluɸ or ajamuʂay by speakers of the dialect, and the language is called either ɛlɔp eluɸay or ɛlɔp ɛjamuʂay.

@@ -3,10 +3,12 @@ iso: zao
 macrolanguage_id: zap
 name: Ozolotepec Zapotec
 autonym: "Zapotec, Ozolotepec"
-alt_names: [Southern Sapoteko, Zapotec, Zapoteco de Asunción Tlacolulita, Zapoteco de Ozolotepec, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Southern Sapoteko, Zapotec, Zapoteco de Asunción Tlacolulita, Zapoteco de Ozolotepec, "Zapotèque d'Asunción Tlacolulita", Ozolotepec, Dizte chaan zha Ozolotepec, San Gregorio Ozolotepec Zapotec, San Marcial Ozolotepec Zapotec, diste]
 population: 6500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Zapotec language of Mexico
 status_id: "5"
 scope: individual
 language_type: living

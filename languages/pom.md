@@ -6,11 +6,13 @@ alt_names: [Lower Lake, Pomo, Pomo (Southeastern), Pomo du sud-est, Pomo surorie
 population: null
 country_id: US
 country_name: United States
+area: Endangered Pomoan language of California
 status_id: "10"
 scope: individual
 language_type: living
 latitude: 38.93544
 longitude: -122.5985
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: sout2982
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

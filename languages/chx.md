@@ -2,10 +2,12 @@
 iso: chx
 name: Chantyal
 autonym: Chantel
-alt_names: [Chantyalish, Chentel, Chhantel]
+alt_names: [Chantyalish, Chentel, Chhantel, Chantel Kham, Khamkura]
 population: 2000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

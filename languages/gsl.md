@@ -6,6 +6,8 @@ alt_names: [Gusiilay, Gusilaay, Kusiilaay, Kusilay]
 population: 15400
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Jola language of Senegal
 status_id: 6a
 scope: individual
 language_type: living

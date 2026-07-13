@@ -2,10 +2,12 @@
 iso: gnd
 name: "Zulgo-Gemzek"
 autonym: Zulgo
-alt_names: [Gemjek, Guemshek, Zoulgwaeg]
+alt_names: [Gemjek, Guemshek, Zoulgwaeg, Gaduwa, Gemzek, Guemjek, Guemzek, Mineo, Minew, Zelgwa, Zoulgo, Zulgwa]
 population: 26000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

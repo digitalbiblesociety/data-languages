@@ -6,6 +6,8 @@ alt_names: [Ochekwu]
 population: 70000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Idomoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

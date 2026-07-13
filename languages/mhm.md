@@ -6,6 +6,8 @@ alt_names: [Emakhuwa-Emoniga, Emoniga, Moniga]
 population: 440000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language of Mozambique
 status_id: 6a
 scope: individual
 language_type: living

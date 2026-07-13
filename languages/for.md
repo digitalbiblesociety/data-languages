@@ -2,9 +2,12 @@
 iso: for
 name: Fore
 autonym: null
+alt_names: [North Central Fore, Pamusa, South Fore]
 population: 30190
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu-Goroka language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

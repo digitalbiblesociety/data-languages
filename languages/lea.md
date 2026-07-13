@@ -2,10 +2,12 @@
 iso: lea
 name: "Lega-Shabunda"
 autonym: Igonzabale
-alt_names: [Ileka-Igonzabale, Kilega, Kirega, Lega, Leka-Igonzabale, Rega]
+alt_names: [Ileka-Igonzabale, Kilega, Kirega, Lega, Leka-Igonzabale, Rega, Kigala, Kigyoma, Kinyabanga, Kinyamunsange, Kisede, Lega-Malinga, Liliga, Pangi]
 population: 400000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living
@@ -89,3 +91,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Lega is a Bantu language, or dialect cluster, of the Democratic Republic of the Congo. There are two major varieties, Shabunda Lega, Mwenga Lega. Mwenga Lega, with about 10% of speakers, finds Shabunda difficult to understand.

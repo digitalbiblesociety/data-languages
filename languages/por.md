@@ -7,11 +7,14 @@ alt_names: [IsiPutukezi, Kimputulukesi, Kireno, Lenghe portughese, Lhéngua pert
 population: 221000000
 country_id: PT
 country_name: Portugal
+location: Portugal and Spain
+area: Romance language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 42.03412
 longitude: -4.18815
+language_map_img: Detailed_SVG_map_of_the_Lusophone_world.svg
 scripts: [Latn]
 glottocode: port1283
 glottolog_family_id: indo1319

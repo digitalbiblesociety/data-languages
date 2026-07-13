@@ -6,6 +6,8 @@ alt_names: [Aiwo, Aïwo, Gnivo, Lomlom, Naaude, Nifilole, Nivo, Reef Islands, Re
 population: 8400
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language spoken in Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living

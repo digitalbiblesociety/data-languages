@@ -6,6 +6,7 @@ alt_names: [Mountain, "Ts'ets'aut"]
 population: null
 country_id: CA
 country_name: Canada
+area: Extinct Athabascan language
 status_id: null
 scope: individual
 language_type: extinct

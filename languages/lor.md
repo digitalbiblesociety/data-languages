@@ -6,11 +6,14 @@ alt_names: [Loghon, Lorhon, Loron, Nabe, Teen, Tegesie, Tegesye, Tese, Ténhé]
 population: 6100
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: Burkina Faso
+area: Gur language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 9.84556
 longitude: -3.71183
+language_map_img: Kulango_languages_map.svg
 glottocode: teen1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

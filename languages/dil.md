@@ -6,6 +6,8 @@ alt_names: [Debri, Delen, Dillingo, Nubian (Hill), Warkimbe]
 population: 5300
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Moribund Nubian language of Sudan
 status_id: "7"
 scope: individual
 language_type: living

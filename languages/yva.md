@@ -2,10 +2,12 @@
 iso: yva
 name: Yawa
 autonym: Yava
-alt_names: [Iau, Mantembu, Mora, Turu, Yapanani]
+alt_names: [Iau, Mantembu, Mora, Turu, Yapanani, Central Yawa, East Yawa, North Yawa, South Yawa, Unat, West Yawa, Yawa Unat]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

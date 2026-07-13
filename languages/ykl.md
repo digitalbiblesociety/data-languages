@@ -2,9 +2,12 @@
 iso: ykl
 name: Khlula
 autonym: Alapha
+alt_names: [Black Phula, Black Zokhuo, Hei Phula, Mo, Namupha, Pao, Phulapha, Shaoji Phula, Sifter Basket Phula, Tula, Zokhuo Na]
 population: 21000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language of China
 status_id: 6b
 scope: individual
 language_type: living

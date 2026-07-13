@@ -2,10 +2,12 @@
 iso: bpy
 name: Bishnupriya
 autonym: বিষ্ণুপ্রিয়া মণিপুরী
-alt_names: [Bishnupria Manipuri, Bishnupriya Manipuri, Bishnupriya Manipuri language, Bishnupuriya, Bisna Puriya, Bišnupríja manipurí, Créole bishnupriya manipuri, Manipurí, Бишнуприя-манипури, बिष्णुप्रिया मणिपुरी]
+alt_names: [Bishnupria Manipuri, Bishnupriya Manipuri, Bishnupriya Manipuri language, Bishnupuriya, Bisna Puriya, Bišnupríja manipurí, Créole bishnupriya manipuri, Manipurí, Бишнуприя-манипури, बिष्णुप्रिया मणिपुरी, Bishnupria, Leimanai, Madai Gang, Ningthaunai, Rajar Gang]
 population: 119600
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Indo-Aryan language spoken in India and Bangladesh
 status_id: "4"
 scope: individual
 language_type: living

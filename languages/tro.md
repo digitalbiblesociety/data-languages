@@ -6,6 +6,8 @@ alt_names: [Naga, Naga (Tarao), "Naga, Tarao", "Naga,Tarao", Tarao, Taraotrong, 
 population: 870
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: yso
 name: Nisi
 autonym: mã˥˧ tsi˥˧
-alt_names: [Lolo, Nisi, Yi, "Yi, Southeastern Lolo"]
+alt_names: [Lolo, Nisi, Yi, "Yi, Southeastern Lolo", Nisi (China)]
 population: 36000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language family
 status_id: 6a
 scope: individual
 language_type: living

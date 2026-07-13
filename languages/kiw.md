@@ -2,10 +2,12 @@
 iso: kiw
 name: Northeast Kiwai
 autonym: Gibaio
-alt_names: [Kiwai, "Kiwai, Northeast", Northeastern Kiwai, Urama]
+alt_names: [Kiwai, "Kiwai, Northeast", Northeastern Kiwai, Urama, Anigibi, Arigibi, Era, Era River, Fomomoto, Gope, Kope, Northeast, Urama-Kope]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Gulf"
 ---
+Kiwai is a Papuan language, or languages, of southern Papua New Guinea. Dialects number 1,300 Kope, 700 Gibaio, 1,700 Urama, 700 Arigibi, 3,800 Coast, 1,000 Daru, 4,500 Island, 400 Doumori. Wurm and Hattori (1981) classify Arigibi as a separate language.

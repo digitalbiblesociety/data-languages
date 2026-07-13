@@ -6,6 +6,7 @@ alt_names: [Lensegua]
 population: 50000
 country_id: GT
 country_name: Guatemala
+area: Deaf sign language of Guatemala
 status_id: 6a
 scope: individual
 language_type: living

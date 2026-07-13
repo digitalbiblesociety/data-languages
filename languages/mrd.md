@@ -2,10 +2,12 @@
 iso: mrd
 name: Western Magar
 autonym: " मगर भाषा"
-alt_names: [Magar, Magar (Syangja), Magar (Western), Magar Nuwakot, "Magar, Western", "Magar,Western", Magari, Magarī, Manggar, Mãgari, Syangja Magar]
+alt_names: [Magar, Magar (Syangja), Magar (Western), Magar Nuwakot, "Magar, Western", "Magar,Western", Magari, Magarī, Manggar, Mãgari, Syangja Magar, Mangar, Mangari, Palpa, Syangja]
 population: 789000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: "Sino-Tibetan language of Nepal, Bhutan and India"
 status_id: 6b
 scope: individual
 language_type: living
@@ -66,3 +68,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Magar Dhut is a Sino-Tibetan language spoken mainly in Nepal, southern Bhutan, and in Darjeeling, Assam and Sikkim, India, by the Magar people. It is divided into two groups and further dialect divisions give distinct tribal identity. In Nepal 810,000 people speak the language.

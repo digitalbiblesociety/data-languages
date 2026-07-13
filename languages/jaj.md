@@ -6,6 +6,8 @@ alt_names: [Kilokaka]
 population: 10
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Georgian Subgroup, Hertevince, Hértevin, "Neo-Aramaic, Bohtan", Neo
 population: 1000
 country_id: GE
 country_name: Georgia
+area: Modern Eastern Neo-Aramaic language
 status_id: "7"
 scope: individual
 language_type: living

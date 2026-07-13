@@ -6,11 +6,13 @@ alt_names: [Tepekano, Tepiman]
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct indigenous language of Mexico
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 19.2343
 longitude: -101.72887
+language_map_img: 500px-ChichimecNations.webp
 glottocode: tepe1278
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

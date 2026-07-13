@@ -6,6 +6,8 @@ alt_names: [Anfilo, Anfiloeg, South Mao, Southern Mao]
 population: 1000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Northern Omotic language of Ethiopia
 status_id: 8a
 scope: individual
 language_type: living

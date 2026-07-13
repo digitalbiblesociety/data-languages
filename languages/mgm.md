@@ -2,15 +2,18 @@
 iso: mgm
 name: Mambae
 autonym: Mambai
-alt_names: [Manbae]
+alt_names: [Manbae, Damata, Lolei, Manua]
 population: 230000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Austronesian language in East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -9.19552
 longitude: 125.47531
+language_map_img: 500px-Mambai.webp
 glottocode: mamb1306
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

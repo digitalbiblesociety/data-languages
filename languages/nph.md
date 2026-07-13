@@ -2,10 +2,12 @@
 iso: nph
 name: Phom Naga
 autonym: Assiringia
-alt_names: [Chingmengnu, Chingmengu, Naga, "Naga, Phom", "Naga,Phom", Phom, Phon, Tamlu, Tamlu Naga, Tśingmegnu]
+alt_names: [Chingmengnu, Chingmengu, Naga, "Naga, Phom", "Naga,Phom", Phom, Phon, Tamlu, Tamlu Naga, Tśingmegnu, Yongyasha]
 population: 54400
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

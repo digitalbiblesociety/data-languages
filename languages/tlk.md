@@ -6,6 +6,8 @@ alt_names: [Taluki]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 塔洛基语
     auto: true
 ---
+Kulisusu is an Austronesian language of Southeast Sulawesi, Indonesia. The Kulisusu language is spoken in the northern part of Buton Island. It is part of a dialect chain with two minor languages, Koroni and Taloki.

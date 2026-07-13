@@ -2,10 +2,12 @@
 iso: xnz
 name: Kenzi
 autonym: Mattokki
-alt_names: [Mattoki]
+alt_names: [Mattoki, Kenuz, Kenuzi, Kunuz, Kunuz Nubian, Kunuzi]
 population: 35000
 country_id: EG
 country_name: Egypt
+location: Egypt and Libya
+area: Nubian language spoken in Egypt
 status_id: "7"
 scope: individual
 language_type: living

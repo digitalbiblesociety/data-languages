@@ -2,10 +2,12 @@
 iso: gqa
 name: "Ga'anda"
 autonym: "Ga'andu"
-alt_names: ["Ga'ana", Ganda, Gandaeg, Makwar, Mokar]
+alt_names: ["Ga'ana", Ganda, Gandaeg, Makwar, Mokar, Ga’andu, Gabin, Gaꞌanda, Kaandata, Kaandecha]
 population: 43000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

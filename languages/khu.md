@@ -2,10 +2,12 @@
 iso: khu
 name: Nkhumbi
 autonym: Khumbi
-alt_names: [Humbe, Ngumbi, Nkumbi, Otjingumbi]
+alt_names: [Humbe, Ngumbi, Nkumbi, Otjingumbi, Ocinkumbi, Nkumbi-mulondo]
 population: 637000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola
 status_id: "5"
 scope: individual
 language_type: living

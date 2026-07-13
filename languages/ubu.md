@@ -2,10 +2,12 @@
 iso: ubu
 name: "Umbu-Ungu"
 autonym: Kakoli
-alt_names: [Hagen, Kaugel]
+alt_names: [Hagen, Kaugel, Gawigl, Gawil, Imbo-Ungu, Kauil, Ubu Ugu, Umbongu, Umbu Ungu, Umbu Ungu / Andelale, Umbu Ungu / Kala, Umbu Ungu / No Penge, Andelale, Kala, Mendo-Kala, No Penge, No-Penge]
 population: 32000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Hagen language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Western Highlands"
 ---
+Kaugel (Gawigl) is one of the languages spoken in the Southern Highlands province of Papua New Guinea. Native speakers call the area on the Southern Highlands side of the Kaugel River from the Western Highlands province home.

@@ -2,10 +2,12 @@
 iso: nun
 name: Anong
 autonym: Anong
-alt_names: [Anoong, Anu, Anung, Anung language, Añú, "Fuch'ye", Khanung, Khupang, Kiutze, Kuhpang, Kwingsang, "Kwinp'ang", Lu, Lutze, Lutzu, Nu, Nu-tzŭ, Nung, ရဝမ်]
+alt_names: [Anoong, Anu, Anung, Anung language, Añú, "Fuch'ye", Khanung, Khupang, Kiutze, Kuhpang, Kwingsang, "Kwinp'ang", Lu, Lutze, Lutzu, Nu, Nu-tzŭ, Nung, ရဝမ်, Fuch’ye, Kwinp’ang]
 population: 400
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Sino-Tibetan language spoken in China and Myanmar
 status_id: 8a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Balengue, Molendji]
 population: 1000
 country_id: GQ
 country_name: Equatorial Guinea
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Equatorial Guinea
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 1.3718
 longitude: 9.61289
+language_map_img: 500px-Idioma_balengue.webp
 glottocode: mole1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

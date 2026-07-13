@@ -2,10 +2,12 @@
 iso: baa
 name: Babatana
 autonym: East Choiseul
-alt_names: [Mbambatana]
+alt_names: [Mbambatana, Sisiqa, Avasö, Central-Eastern Choiseul, Katazi, Kuboro, Kumboro, Lömaumbi, Senga, Sengan, Sengga, Seqa, Sisingga]
 population: 7070
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

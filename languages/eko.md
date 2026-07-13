@@ -2,10 +2,12 @@
 iso: eko
 name: Koti
 autonym: Ekoti
-alt_names: [Angoche, Angoxe, Coti]
+alt_names: [Angoche, Angoxe, Coti, Kote, Angoje, Edheidhei, Enatthembo, Esakaji, Esangaje, Esangaji, Etteittei, Sangaje]
 population: 140000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: 6a
 scope: individual
 language_type: living

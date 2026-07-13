@@ -2,10 +2,12 @@
 iso: dtk
 name: Tene Kan Dogon
 autonym: Kan Dogon
-alt_names: [Dogon, "Dogon, Tene Kan", Tene, Tene Kan, Tene Tingi]
+alt_names: [Dogon, "Dogon, Tene Kan", Tene, Tene Kan, Tene Tingi, Togo Kan Dogon, Giwnri Kan, Tengu Kan, Togo Kan, Wolu Kan, Woru Kan]
 population: 127000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dialect group
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,6 @@ rolv_dialects:
     country_id: ML
     location: Mali
 ---
+The Dogon dialects of the western plains below the Bandiagara Escarpment in Mali are mutually intelligible. They are sometimes called the Kan Dogon because they use the word kan for varieties of speech. The dialects are:Tomo kã
+Teŋu kã
+Togo kã

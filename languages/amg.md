@@ -6,6 +6,8 @@ alt_names: ["A'moordiyu", Amarak, Amardak, Amooridiyu, Amurag, Amurdag, Amurdag 
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Iwaidjan language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living

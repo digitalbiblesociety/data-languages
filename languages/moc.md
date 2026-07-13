@@ -6,6 +6,8 @@ alt_names: [Mocobí, Mocovi, Mokovi, Mokoví]
 population: 4530
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Guaicuruan language of Argentina
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Pia, Pitiko, Piya, Wurkum]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language
 status_id: "5"
 scope: individual
 language_type: living

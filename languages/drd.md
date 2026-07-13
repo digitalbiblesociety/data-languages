@@ -6,6 +6,8 @@ alt_names: [Darimiya, Darma, Darma Lwo, Darmani, Darmiyā, Dārmūyā, Sauka, Sa
 population: 1750
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in India
 status_id: 6b
 scope: individual
 language_type: living

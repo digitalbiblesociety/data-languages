@@ -5,11 +5,13 @@ autonym: eyooshiraaw
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Uto-Aztecan language formerly spoken in California, US"
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 34.1
 longitude: -118.11
+language_map_img: Gabrielino_language.webp
 glottocode: tong1329
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

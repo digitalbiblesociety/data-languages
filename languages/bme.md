@@ -6,6 +6,7 @@ alt_names: [Bomasa, Bomassa]
 population: null
 country_id: CF
 country_name: Central African Republic
+area: Ubangian dialect cluster spoken by Baka pygmies of Cameroon and Gabon
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 利马萨语
     auto: true
 ---
+Baka is a dialect cluster of Ubangian languages spoken by the Baka Pygmies of Cameroon and Gabon. Ethnically, the people are closely related to the Aka, collectively known as the Mbenga (Bambenga). However, the languages are not closely related within the Atlantic-Congo family, apart from some vocabulary dealing with the forest economy, which suggests the Aka may have shifted to Bantu, with an estimated 15,000 people having done so.

@@ -6,11 +6,14 @@ alt_names: ["Sango, Riverain"]
 population: 34500
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Ngbandi-based creole of the Central African Republic
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 4.32811
 longitude: 21.17331
+language_map_img: 500px-Central_African_Republic_Democratic_Republic_of_the_Congo_Locator.webp
 glottocode: rive1257
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -53,3 +56,4 @@ translations:
     name: 河滨桑戈语
     auto: true
 ---
+Sango is a major language spoken in Central Africa, especially the Central African Republic, southern Chad and Democratic Republic of the Congo. The primary language of the Sango people, it is an official language in the Central African Republic, where it is used as a lingua franca across the country. Although there are no statistics to quantify people who speak it as a first versus second language, almost all 5,500,000 people in the Central African Republic speak it as of 2025.

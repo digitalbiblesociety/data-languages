@@ -2,10 +2,12 @@
 iso: knu
 name: Kono
 autonym: Kpɛlɛwoo
-alt_names: [Kono, Kpelle]
+alt_names: [Kono, Kpelle, Kono (Guinea), (Kono of Guinea)]
 population: 99300
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 科诺语
     auto: true
 ---
+The Kpelle language is spoken by the Kpelle people of Liberia, Guinea and Ivory Coast and is part of the Mande language family. Guinean Kpelle, spoken by half a million people, is concentrated primarily, but not exclusively, in the southeastern forest regions of Guinea bordering Liberia, Ivory Coast, and Sierra Leone. Half a million Liberians speak Liberian Kpelle, which is taught in Liberian schools.

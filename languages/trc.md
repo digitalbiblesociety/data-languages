@@ -2,10 +2,12 @@
 iso: trc
 name: Copala Triqui
 autonym: xnaꞌánj nu̱ꞌ
-alt_names: [Copala Trike, Copala Trique, Copala-Trique, Trike, Triki, Trique, Trique (Copala), Triqui, Triqui de San Juan Copala, "Triqui, Copala"]
+alt_names: [Copala Trike, Copala Trique, Copala-Trique, Trike, Triki, Trique, Trique (Copala), Triqui, Triqui de San Juan Copala, "Triqui, Copala", Triqui Bajo, Copala, xnaꞌánj nu̲ꞌ a, xnánj nu̲ꞌ a]
 population: 30000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

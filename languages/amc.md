@@ -2,15 +2,18 @@
 iso: amc
 name: Amahuaca
 autonym: Amaguaco
-alt_names: [Amawaka, Amawaka language area, Ameuhaque, Ipitineri, Sayaco]
+alt_names: [Amawaka, Amawaka language area, Ameuhaque, Ipitineri, Sayaco, Amahuaka, Amajuaca, Ipitnere, Yora]
 population: 110
 country_id: PE
 country_name: Peru
+location: Western Central Brazil
+area: Panoan language spoken in Peru and Brazil
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -10.20116
 longitude: -72.320825
+language_map_img: 500px-Amawaca.webp
 glottocode: amah1246
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan

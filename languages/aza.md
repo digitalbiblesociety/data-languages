@@ -2,9 +2,12 @@
 iso: aza
 name: Azha
 autonym: Aji
+alt_names: [A’ndze, A’ntsaozo, Ajiwa, Azan, Black Phula, Cowtail Phula, Golden Phula, Han Phula, Hei Phula, Hua Phula, Hua Yi, Jin Phula, Nimitso, Niuweiba Phula, Phula, Phuphje, Shaoji Phula, Sifter Basket Phula]
 population: 53000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

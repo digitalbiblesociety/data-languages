@@ -6,6 +6,8 @@ alt_names: [Mbay, Mboum, Mbum Nzakambay, Njakambai, Nzak Mbai, Nzak Mbay, Nzaka 
 population: 18500
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Mbum language spoken in Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

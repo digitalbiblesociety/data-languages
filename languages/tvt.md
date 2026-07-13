@@ -6,6 +6,8 @@ alt_names: ["Naga, Tutsa", "Naga,Tutsa", Tutsa]
 population: 25000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

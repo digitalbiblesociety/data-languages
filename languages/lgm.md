@@ -2,10 +2,12 @@
 iso: lgm
 name: "Lega-Mwenga"
 autonym: Ileka Ishile
-alt_names: [Ishile, Kilega, Kirega, Lega, Leka-Shile, Leka-Sile, Rega, Shile]
+alt_names: [Ishile, Kilega, Kirega, Lega, Leka-Shile, Leka-Sile, Rega, Shile, Bilembo-Mango, Ibanda, Isile, Isopo, Iyoko, Lega-Ntara, Lusenge, Mizulo]
 population: 44900
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -84,3 +86,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of"
 ---
+Lega is a Bantu language, or dialect cluster, of the Democratic Republic of the Congo. There are two major varieties, Shabunda Lega, Mwenga Lega. Mwenga Lega, with about 10% of speakers, finds Shabunda difficult to understand.

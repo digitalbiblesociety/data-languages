@@ -2,10 +2,12 @@
 iso: nxk
 name: Koki Naga
 autonym: Koki Naga
-alt_names: ["Naga, Koki"]
+alt_names: ["Naga, Koki", Konke]
 population: 2000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language of Burma
 status_id: 6a
 scope: individual
 language_type: living

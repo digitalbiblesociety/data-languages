@@ -6,6 +6,7 @@ alt_names: [Iran, Taromi, "Taromi, Upper", Upper]
 population: null
 country_id: IR
 country_name: Iran
+area: Northwestern Iranian language
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 上塔罗米语
     auto: true
 ---
+The Tati language is a Northwestern Iranian language spoken by the Tat people of Iran which is closely related to languages such as Talysh, Zaza, Mazandarani and Gilaki. Tati consists of many sub-dialects and its dialects are spoken in sparsely distributed small pockets in northern and northwestern Iran. Tati shares common isogloss and many characteristic words with Talysh and Zaza that are not found in other Iranian languages. Tati, similar to Zaza, has a two-gender, case and ergative system. The language is also referred to as Southern Tati and is considered the present-day Azari, reflecting its affinity with Old Azeri.

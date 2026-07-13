@@ -7,6 +7,8 @@ alt_names: [Coatec Zapotec, Coatlán-Loxicha Zapotec (non-preferred), Northern S
 population: 1500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

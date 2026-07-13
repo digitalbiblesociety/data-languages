@@ -2,15 +2,18 @@
 iso: ero
 name: Horpa
 autonym: Bawang
-alt_names: [Danba, Daofu, Ergong, Hor, Horpa-Shangzhai, Hórsók, Pawang, Western Jiarong]
+alt_names: [Danba, Daofu, Ergong, Hor, Horpa-Shangzhai, Hórsók, Pawang, Western Jiarong, Bopa, Daofuhua, Dawu, Gangli, Huo’er, Rgu, Stau, Western Gyarong]
 population: 15000
 country_id: CN
 country_name: China
+location: China
+area: Rgyalrongic language of China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 31.10258
 longitude: 101.72
+language_map_img: 500px-Horpa_map.webp
 glottocode: horp1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

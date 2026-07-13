@@ -6,6 +6,7 @@ alt_names: [Coa, Coah, Goamulgo, Koa]
 population: null
 country_id: AU
 country_name: Australia
+area: "Australian Aboriginal language of the Koa people, Queensland"
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,6 +6,7 @@ alt_names: [Nusalaut]
 population: 10
 country_id: ID
 country_name: Indonesia
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: null
 scope: individual
 language_type: extinct

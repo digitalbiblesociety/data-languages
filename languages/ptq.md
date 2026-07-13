@@ -6,6 +6,7 @@ alt_names: [Pattapu Bhasha]
 population: 200000
 country_id: IN
 country_name: India
+area: Dravidian language of India
 status_id: null
 scope: individual
 language_type: living

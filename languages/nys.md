@@ -6,11 +6,13 @@ alt_names: [Bremer Bay tribe, Caskcar  Daran for Wudjari, Karkar, Kwaitjman, NOO
 population: 480
 country_id: AU
 country_name: Australia
+area: Southwestern Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -33.11995
 longitude: 118.15081
+language_map_img: Noongar_regions_map.svg
 glottocode: nyun1247
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

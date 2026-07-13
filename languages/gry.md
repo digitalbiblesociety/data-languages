@@ -7,6 +7,8 @@ alt_names: [Grebo, "Grebo, Barclayville", Wedebo Grebo]
 population: 23700
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: 6a
 scope: individual
 language_type: living
@@ -66,3 +68,4 @@ rolv_dialects:
     country_id: LR
     location: Liberia
 ---
+Grebo is a Kru language of Liberia. All of the Grebo languages are referred to as Grebo, though in Ivory Coast, Krumen is the usual name. The Grebo people live in the extreme south-west of Liberia, both on the coast and inland, between the rivers Cavally and Cess.

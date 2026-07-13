@@ -6,6 +6,8 @@ alt_names: ["Agta, Mt. Iriga", Bikol, Lake Buhi West, Mt. Iriga Negrito, San Ram
 population: 1500
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bikol language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living

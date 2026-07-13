@@ -2,15 +2,18 @@
 iso: isd
 name: Isnag
 autonym: Isneg
-alt_names: [Dibagat-Kabugao-Isneg, Maragat]
+alt_names: [Dibagat-Kabugao-Isneg, Maragat, Apayao, Bayag, Calanasan, Daragawan, Dibagat-Kabugao, Karagawan, Talifugu-Ripang, Tawini]
 population: 32600
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 18.21387
 longitude: 121.1599
+language_map_img: 500px-Isnag_language_map.webp
 glottocode: isna1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

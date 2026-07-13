@@ -6,6 +6,8 @@ alt_names: [Deghwari]
 population: 13000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Persian language of Pakistan
 status_id: 6a
 scope: individual
 language_type: living

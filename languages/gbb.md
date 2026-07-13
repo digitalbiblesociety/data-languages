@@ -6,11 +6,14 @@ alt_names: [Gaidij, Kadda kie, Kadda-kie, Kaddakie, Kaiditj, Kaitej, Kaitidji, K
 population: 200
 country_id: AU
 country_name: Australia
+location: Australia
+area: Arandic language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -21.58444
 longitude: 133.60153
+language_map_img: 500px-Languages_of_Central_Australia_-_map.webp
 glottocode: kayt1238
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

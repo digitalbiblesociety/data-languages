@@ -2,15 +2,18 @@
 iso: tkd
 name: Tukudede
 autonym: Tocod
-alt_names: [Tokodede, Tokodé, Tukude]
+alt_names: [Tokodede, Tokodé, Tukude, Keha, Keia]
 population: 55400
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Austronesian language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.6788
 longitude: 125.2828
+language_map_img: 500px-Tokodede.webp
 glottocode: tuku1254
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

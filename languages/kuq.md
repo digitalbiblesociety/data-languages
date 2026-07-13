@@ -2,10 +2,12 @@
 iso: kuq
 name: Karipuna
 autonym: "Ah'e"
-alt_names: [Caripuna, "Diahoi [Jiahui", "Diarroi]", Djahui, Jau-Navo, Juanauo, Kagwahiva, Kari, Karipuna do Guapore, Karipuná de Rondônia, Karipúna do Guaporé, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín/Tenharim/Juma, Tukumanfed]
+alt_names: [Caripuna, "Diahoi [Jiahui", "Diarroi]", Djahui, Jau-Navo, Juanauo, Kagwahiva, Kari, Karipuna do Guapore, Karipuná de Rondônia, Karipúna do Guaporé, Kawahib/Paranawat/Pawaté-Wirafed, Parintintín/Tenharim/Juma, Tukumanfed, Karipuná do Guaporé]
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: "Several languages that may more or less called \"Karipuna\" in different roles"
 status_id: 8a
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: BR
     location: Brazil
 ---
+"Karipuna" or "Caripuná" has been used in Brazil for languages in the Madeira–Guaporé River region of Rondônia and in the Uaçá River region of Amapá.

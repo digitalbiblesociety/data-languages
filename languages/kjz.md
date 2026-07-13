@@ -6,11 +6,14 @@ alt_names: [Bumtang, Bumtangkha, Bumtanp, Bumthang, Bumthapkha, Kebumtamp]
 population: 20000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: East Bodish language of north-central Bhutan
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.64941
 longitude: 90.80367
+language_map_img: Languages_of_Bhutan_with_labels.svg
 glottocode: bumt1240
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

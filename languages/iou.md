@@ -6,6 +6,8 @@ alt_names: [Tuma, Upper Irumu]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

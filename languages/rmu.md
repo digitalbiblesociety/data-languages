@@ -2,10 +2,11 @@
 iso: rmu
 name: Tavringer Romani
 autonym: Tater Language
-alt_names: ["\"Tattare\"", Romani rakripa, "Romani, Tavringer", Rommani, Scandinavisch Romani, Scandoromani language, Skandinavisches Romani, Svensk Rommani, Svensk romani, Traveller Swedish]
+alt_names: ["\"Tattare\"", Romani rakripa, "Romani, Tavringer", Rommani, Scandinavisch Romani, Scandoromani language, Skandinavisches Romani, Svensk Rommani, Svensk romani, Traveller Swedish, “Tattare”, Resande Romani]
 population: 25000
 country_id: SE
 country_name: Sweden
+area: Para-Romani dialect spoken by the Romanisael
 status_id: "9"
 scope: individual
 language_type: living
@@ -55,3 +56,4 @@ translations:
     name: 塔夫林格罗姆语
     auto: true
 ---
+Scandoromani is a Para-Romani dialect spoken by the Romanisael, a subgroup of the Romani people in Norway, and Sweden.

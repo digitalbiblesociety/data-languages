@@ -6,6 +6,8 @@ alt_names: [Masep, Masepo, Potafa]
 population: 25
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Foja Range language spoken in Indonesia
 status_id: 8b
 scope: individual
 language_type: living

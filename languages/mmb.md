@@ -5,11 +5,14 @@ autonym: Somahai
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -4.812
 longitude: 139.8208
+glottocode: momi1242
 wikidata_id: Q6897297
 wikipedia_url: "https://en.wikipedia.org/wiki/Momina_language"
 translations:

@@ -5,6 +5,7 @@ autonym: Bothar
 population: 12
 country_id: PG
 country_name: Papua New Guinea
+area: Papuan language of New Guinea
 status_id: 8b
 scope: individual
 language_type: extinct

@@ -6,6 +6,7 @@ alt_names: [Molala, Molalla, Molele]
 population: null
 country_id: US
 country_name: United States
+area: Extinct language of US Pacific Northwest
 status_id: "10"
 scope: individual
 language_type: extinct

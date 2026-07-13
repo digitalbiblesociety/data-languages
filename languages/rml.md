@@ -3,10 +3,11 @@ iso: rml
 macrolanguage_id: rom
 name: Baltic Romani
 autonym: "Romani, Baltic"
-alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner]
+alt_names: [Baltic, European Romany, Romani, Romani (North Russian), Romany, Zigeuner, Balt Romani, Balt Slavic Romani, Baltic Slavic Romani, Estonian Romani, Latvian Romani, Lettish Romani, Lithuanian Romani, Lotfitko Romani, Lotfitko Romani cib, Lotfítka Romá, North Russian Romani, Polish Romani, Polska Roma, Roma, Rúska Romá, White Russian Romani, Xaladitka, Xaladytka, Xaladytko, Čuxny Romani]
 population: 34010
 country_id: PL
 country_name: Poland
+area: Group of dialects of the Romani language
 status_id: "5"
 scope: individual
 language_type: living

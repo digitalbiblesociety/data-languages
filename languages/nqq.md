@@ -2,10 +2,11 @@
 iso: nqq
 name: "Kyan-Karyaw Naga"
 autonym: Tase
-alt_names: ["Naga, Kyan-Karyaw"]
+alt_names: ["Naga, Kyan-Karyaw", Chen]
 population: null
 country_id: MM
 country_name: Myanmar
+area: Sino-Tibetan language spoken in Burma and India
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +65,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Tangsa, also known as Tase and Tase Naga, is a Sino-Tibetan language or language cluster spoken by the Tangsa people of Burma and north-eastern India. Some varieties, such as Shangge (Shanke), are likely distinct languages. There are about 60,000 speakers in Burma and 40,000 speakers in India. The dialects of Tangsa have disparate levels of lexical similarity, ranging from 35%–97%.

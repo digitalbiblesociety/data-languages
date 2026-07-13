@@ -2,10 +2,12 @@
 iso: gbk
 name: Gaddi
 autonym: 𑚌𑚛𑚊𑚯
-alt_names: [Bharmauri, Bharmauri Bhadi, Gaddyali, Gadi, Gadiali, Pahari Bharmauri, Panchi Brahmauri Rajput]
+alt_names: [Bharmauri, Bharmauri Bhadi, Gaddyali, Gadi, Gadiali, Pahari Bharmauri, Panchi Brahmauri Rajput, गाद्‍दी, Macleod Ganj]
 population: 181000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

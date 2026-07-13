@@ -6,6 +6,7 @@ alt_names: [Arabana/Wangkangurru, Gongaru, Kanguru, Ongkongura, Ongkonguru, Part
 population: 3
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language of South Australia
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,14 +2,19 @@
 iso: xra
 name: Krahô
 autonym: "Canela-Krahô"
+alt_names: [Craô, Kraô]
 population: 2000
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Canela-Krahô dialect of Brazil
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.01172
 longitude: -47.57738
+language_map_img: 500px-Macro-Ge_languages.webp
+glottocode: krah1246
 wikidata_id: Q3199549
 wikipedia_url: "https://en.wikipedia.org/wiki/Krah%C3%B4_dialect"
 translations:

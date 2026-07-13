@@ -6,6 +6,7 @@ alt_names: [Delaware, "Delaware, Pidgin"]
 population: null
 country_id: US
 country_name: United States
+area: Delaware-based pidgin
 status_id: "10"
 scope: individual
 language_type: extinct

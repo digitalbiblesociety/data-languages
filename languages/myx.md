@@ -2,10 +2,12 @@
 iso: myx
 name: Masaaba
 autonym: Lumasaba
-alt_names: [Gisu, Lugisu, Masaba, Masaba language]
+alt_names: [Gisu, Lugisu, Masaba, Masaba language, Lumasaaba, Bagisu, Buuya, Buya, Dadiri, Kisu, Lubuuya, Ludadiri, Lufumbo, Luteza, Luwalasi, Luyobo]
 population: 1650000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken in East Africa
 status_id: "5"
 scope: individual
 language_type: living

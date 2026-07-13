@@ -2,15 +2,18 @@
 iso: luo
 name: Luo
 autonym: Dholuo
-alt_names: [Dolouoeg, Kavirondo, Kavirondo Luo, Kiluo, Luo, Luo-Kavirondo, Nilotic Kavirondo, luo (Kenya et Tanzanie), Долуо]
+alt_names: [Dolouoeg, Kavirondo, Kavirondo Luo, Kiluo, Luo, Luo-Kavirondo, Nilotic Kavirondo, luo (Kenya et Tanzanie), Долуо, Doluo, Kidjaluo]
 population: 5255000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Language of the Luo people found in Kenya and Tanzania
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -0.93296
 longitude: 34.4896
+language_map_img: luo.webp
 scripts: [Latn]
 glottocode: luok1236
 glottolog_family_id: nilo1247

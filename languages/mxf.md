@@ -6,6 +6,8 @@ alt_names: [Goulfei, Goulfey, Gulfe, Gulfei, Kotoko-Gulfei, Malbe, Malgwe, Manda
 population: 6000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon and Chad
 status_id: 6b
 scope: individual
 language_type: living

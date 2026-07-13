@@ -6,11 +6,14 @@ alt_names: [Bisaya, Masbatenyo nga yinaknan, Masbateño, Masbateño language, Mi
 population: 474000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bisayan language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 12.21453
 longitude: 123.63579
+language_map_img: 500px-Masbatenyo_language_map.webp
 glottocode: masb1238
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

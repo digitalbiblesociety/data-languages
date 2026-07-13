@@ -6,6 +6,8 @@ alt_names: [Seme, Siemu, Siémou, Syémou, Sému]
 population: 20000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Kru language of southwest Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

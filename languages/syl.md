@@ -6,11 +6,14 @@ alt_names: [Bengali of Cachar, Sileti, Siloti, Srihattia, Sylheti Bengali, Sylhe
 population: 10300000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Indo-Aryan language spoken in Bangladesh and India
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 24.83724
 longitude: 92.25347
+language_map_img: syl.webp
 scripts: [Beng, Sylo]
 glottocode: sylh1242
 glottolog_family_id: indo1319

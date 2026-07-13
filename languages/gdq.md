@@ -6,11 +6,14 @@ alt_names: [Mahri hizkuntza, Mehreg, Mehrī, Meḥri, Meḥri, Méhri, South Ara
 population: 225900
 country_id: YE
 country_name: Yemen
+location: Oman
+area: Modern South Arabian language of east Yemen and southwest Oman
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 21.426837
 longitude: 51.151197
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: mehr1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

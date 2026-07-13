@@ -7,11 +7,14 @@ alt_names: [Canadian Delaware, Delaware, Munsee Delaware, Ontario Delaware, Unam
 population: 400
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 42.59677
 longitude: -81.91658
+language_map_img: 500px-Lenape_Languages.webp
 glottocode: muns1251
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

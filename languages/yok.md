@@ -6,11 +6,14 @@ alt_names: [Wikchamni, Wikchamni (Yokuts), Yaudanchi, Yaudanchi Yokuts, Yawelman
 population: 2500
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Endangered language of California, US"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 36.31674
 longitude: -119.7214
+language_map_img: 500px-Yokutsan_langs.webp
 glottocode: yoku1256
 glottolog_family_id: yoku1255
 glottolog_family_name: Yokutsan

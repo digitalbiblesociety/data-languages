@@ -3,15 +3,18 @@ iso: ibo
 iso639_1: ig
 name: Igbo
 autonym: Asụsụ Igbo
-alt_names: [Ibo, Ibo-linguo, Igbo simi, Igboeg, Игбо]
+alt_names: [Ibo, Ibo-linguo, Igbo simi, Igboeg, Игбо, Afikpo, Bende, Central Igbo, Ehugbo, Nsuka, Nsukka, Ohafia, Ohuhu, Umuahia, Union Igbo]
 population: 27000000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: "Niger–Congo language of the Igbo people, mainly spoken in Nigeria"
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 4.62705
 longitude: 7.23441
+language_map_img: ibo.webp
 scripts: [Latn]
 glottocode: nucl1417
 glottolog_family_id: atla1278

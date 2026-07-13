@@ -6,6 +6,7 @@ alt_names: [Badu, Bandjanu, Banjanu, Barduwonga, Bawndudjara, Bini, Biniridjara,
 population: null
 country_id: AU
 country_name: Australia
+area: Wati language of Australia
 status_id: null
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bde
 name: Bade
 autonym: Bedde
-alt_names: [Bade Group, Badeg, Badé, Bede, Gidgid, Gusha Bade, West Chadic B.1, Баде]
+alt_names: [Bade Group, Badeg, Badé, Bede, Gidgid, Gusha Bade, West Chadic B.1, Баде, Amshi, Badanci, Bade-Kado, Gabaden, Gashua Bade, Maagwaram, Magwaram, Mazgarwa, Shira, Shirawa, Southern Bade, Western Bade]
 population: 338000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: West Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

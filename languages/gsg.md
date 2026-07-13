@@ -6,6 +6,7 @@ alt_names: [Dgs, Tysk tegnspråk]
 population: 80600
 country_id: DE
 country_name: Germany
+area: Sign language predominantly used in Germany
 status_id: "5"
 scope: individual
 language_type: living

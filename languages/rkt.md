@@ -2,15 +2,18 @@
 iso: rkt
 name: Rangpuri
 autonym: Anchalit Bangla
-alt_names: [Bahe Bangla, Goalparia, Kamta, Kamtapuri, Koch Rajbanshi, Polia, Rajbangsi, Rajbanshi, Rajbansi, Rajbongshi]
+alt_names: [Bahe Bangla, Goalparia, Kamta, Kamtapuri, Koch Rajbanshi, Polia, Rajbangsi, Rajbanshi, Rajbansi, Rajbongshi, India Rajbangsi]
 population: 10801000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: "Indo-Aryan language spoken in India, Bangladesh, and Nepal"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 26.383363
 longitude: 88.4536
+language_map_img: rkt.webp
 scripts: [Beng]
 glottocode: rang1265
 glottolog_family_id: indo1319

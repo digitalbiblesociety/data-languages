@@ -6,6 +6,8 @@ alt_names: [Danaw, Danáu, "Kano'", "Kano' Chon"]
 population: 10000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Austroasiatic language spoken in Burma
 status_id: 6b
 scope: individual
 language_type: living

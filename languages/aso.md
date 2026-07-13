@@ -2,10 +2,12 @@
 iso: aso
 name: Dano
 autonym: Upper Asaro
-alt_names: [Asaro]
+alt_names: [Asaro, Amaizuho, Bohena, Kongi, Lunube Mado]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

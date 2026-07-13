@@ -6,6 +6,8 @@ alt_names: [Bira, Inanwatan, Itigo, Mirabo, Solowat, Suabau]
 population: 1100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language of West Papua
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Tai Sa Pa, Tay Sa Pa]
 population: 300
 country_id: VN
 country_name: Vietnam
+location: Northwestern Viet Nam
+area: Southwestern Tai language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 22.29499
 longitude: 103.80538
+language_map_img: 500px-Tay_sa_pa.webp
 glottocode: tays1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

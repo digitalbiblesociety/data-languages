@@ -6,6 +6,8 @@ alt_names: [Boonan, Bunan, Bunán, Erankad, Gari, Ghara, Keylong Boli, Lahul, La
 population: 4000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language of India
 status_id: 6b
 scope: individual
 language_type: living

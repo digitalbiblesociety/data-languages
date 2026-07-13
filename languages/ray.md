@@ -6,6 +6,8 @@ alt_names: [Old Rapa, Rapan, Rapan language, Rapano]
 population: 520
 country_id: PF
 country_name: French Polynesia
+location: French Polynesia
+area: Language of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living

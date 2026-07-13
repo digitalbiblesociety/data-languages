@@ -4,15 +4,20 @@ iso639_1: sr
 macrolanguage_id: hbs
 name: Serbian
 autonym: српски / srpski
+alt_names: [Montenegrin, srpski, српски, Serbo-Croatian, Shtokavski, Stokavian, Torlakian]
 population: 7730000
 country_id: RS
 country_name: Serbia
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: South Slavic language of the Balkans
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 44.323844
 longitude: 21.919184
+language_map_img: Serbian_language_status_map.svg
 scripts: [Cyrl, Latn]
+glottocode: serb1264
 wikidata_id: Q9299
 wikipedia_url: "https://en.wikipedia.org/wiki/Serbian_language"
 translations:

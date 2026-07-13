@@ -5,6 +5,7 @@ autonym: Zimsign
 population: 73000
 country_id: ZW
 country_name: Zimbabwe
+area: Deaf sign language of Zimbabwe
 status_id: 6a
 scope: individual
 language_type: living

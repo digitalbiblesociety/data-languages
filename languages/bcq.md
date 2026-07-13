@@ -2,10 +2,12 @@
 iso: bcq
 name: Bench
 autonym: Bencnon
-alt_names: ["Benc'", Bencho, Bensho, Dizu, Ghimarra, Gimarra, Gimira, Kaba, She]
+alt_names: ["Benc'", Bencho, Bensho, Dizu, Ghimarra, Gimarra, Gimira, Kaba, She, Benchnon, Benesho, Mer, Mieru, Sce]
 population: 348000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Northern Omotic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

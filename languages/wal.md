@@ -2,10 +2,12 @@
 iso: wal
 name: Wolaytta
 autonym: Wolayttatto Doonaa
-alt_names: [Borodda, Gemu, Gofa, Malo, Ometo, Ualamo, Uba, Uollamo, Walamo, Wallamo, Welaitta, Welamo, Wellamo, Wolaita, Wolaiteg, Wolaitta, Wolamo, Wolataita, Wolayta, Wollamo, Zala]
+alt_names: [Borodda, Gemu, Gofa, Malo, Ometo, Ualamo, Uba, Uollamo, Walamo, Wallamo, Welaitta, Welamo, Wellamo, Wolaita, Wolaiteg, Wolaitta, Wolamo, Wolataita, Wolayta, Wollamo, Zala, Welaita]
 population: 2380000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: zwa
 name: Zay
 autonym: ዛይኘ
-alt_names: [Gelilla, "Lak'i", Laqi, Zai, Zaisé, Zayeg, Zoay, Zway]
+alt_names: [Gelilla, "Lak'i", Laqi, Zai, Zaisé, Zayeg, Zoay, Zway, Lak’i]
 population: 4880
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Afro-Asiatic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

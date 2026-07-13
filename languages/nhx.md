@@ -2,10 +2,12 @@
 iso: nhx
 name: "Isthmus-Mecayapan Nahuatl"
 autonym: "mela'tájto̲l"
-alt_names: [Isthmus, Isthmus Aztec-Mecayapan, Isthumus Nahuatl, Mecayapan, Mecayapan Isthumus Nahuatl, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Isthmus), Nahuatl (Istmo-Mecayapan), Nahuatl (Mecayapan Isthmus), Nahuatl (Mecayapan), "Nahuatl, Isthmus-Mecayapan", Nawa, Náhuat de Mecayapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme"]
+alt_names: [Isthmus, Isthmus Aztec-Mecayapan, Isthumus Nahuatl, Mecayapan, Mecayapan Isthumus Nahuatl, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Isthmus), Nahuatl (Istmo-Mecayapan), Nahuatl (Mecayapan Isthmus), Nahuatl (Mecayapan), "Nahuatl, Isthmus-Mecayapan", Nawa, Náhuat de Mecayapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme", Isthmus-Mecayapan, Tatahuicapan, Isthmus Nahuatl, Mecayapan Isthmus Nahuatl, Nahuatl del Istmo, Isthmus - Mecayapan Nahuatl, Náhuatl Isthmus, Náhuatl de Mecayapan, Náhuatl de Mecayapan y Tatahuicapan, Náhuatl de Veracruz, Isthmus - Tatahuicapan Náhuatl, melaꞌtájto̱l]
 population: 26600
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Nahuatl dialect cluster of Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Veracruz, Tatahuicapan"
 ---
+Isthmus Nahuatl is a Nahuatl dialect cluster spoken by about 30,000 people in Veracruz, Mexico. According to Ethnologue 16, the Cosoleacaque dialect is 84% intelligible with Pajapan, and 83% intelligible with Mecayapan.

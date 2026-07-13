@@ -6,6 +6,8 @@ alt_names: [Djiri, Kirikjir, Lopawa, Lupa]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

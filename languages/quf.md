@@ -3,10 +3,12 @@ iso: quf
 macrolanguage_id: que
 name: Lambayeque Quechua
 autonym: "Inkawasi-Kañaris Runashimi"
-alt_names: [Cañaris Quechua, Cañaris-Incahuasi, Ferreñafe, Ferreñafe Quechua, Incahuasi-Cañaris, Inkawasi-Kañaris, Lambayeque Kechua, "Quechua, Lambayeque"]
+alt_names: [Cañaris Quechua, Cañaris-Incahuasi, Ferreñafe, Ferreñafe Quechua, Incahuasi-Cañaris, Inkawasi-Kañaris, Lambayeque Kechua, "Quechua, Lambayeque", Quechua, Lambayeque, Cañaris, Incahuasi, Linwaras, Quechua Inkawasi, Quechua Inkawasi-Kañaris, Quechua of Incahuasi-Cañaris, Runa Shimi]
 population: 20000
 country_id: PE
 country_name: Peru
+location: Peru
+area: "Quechua variety of Lambayeque, Peru"
 status_id: "5"
 scope: individual
 language_type: living

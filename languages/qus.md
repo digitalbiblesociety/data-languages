@@ -7,11 +7,14 @@ alt_names: [Argentina Quechua, Argentinisches Quechua, Argentino, Arhintinap run
 population: 60000
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Southern Quechua dialect of Argentina
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -27.82096
 longitude: -63.24657
+language_map_img: Quechua_in_Santiago_del_Estero.webp
 glottocode: sant1432
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan

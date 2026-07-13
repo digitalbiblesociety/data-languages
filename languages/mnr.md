@@ -6,11 +6,14 @@ alt_names: [Monache, Mono, Mono (United States), Mono (in United States), Mono (
 population: 103
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Native American language of California
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 37.1935
 longitude: -119.34741
+language_map_img: Mono_map.svg
 glottocode: mono1275
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

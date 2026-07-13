@@ -6,11 +6,14 @@ alt_names: [Bindinini, Bindunda, Mount Margaret, Pindini, Pintiini, Wangada, Wan
 population: 250
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Australian Aboriginal languages
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -29.80596
 longitude: 127.63234
+language_map_img: 500px-Wati_languages.webp
 glottocode: pint1251
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -53,3 +56,4 @@ translations:
     name: 平迪伊尼语
     auto: true
 ---
+The Western Desert language, or Wati, is a dialect cluster of Australian Aboriginal languages in the Pama–Nyungan family.

@@ -6,6 +6,7 @@ alt_names: [Diahoi, Diahói, Diarroi, Djahui, Jiahui, Juma, Karipuna, Kawahib/Pa
 population: null
 country_id: BR
 country_name: Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

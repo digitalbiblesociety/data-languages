@@ -6,6 +6,8 @@ alt_names: [Baja California Yuman, California, Campo, Central-Eastern, Cochimí,
 population: null
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Yuman language spoken in California and Mexico
 status_id: 8a
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, California"
 ---
+Kumeyaay (Kumiai), more precisely known as Central Diegueño or Campo, is the Native American language spoken by the Kumeyaay people of southern San Diego and Imperial counties in California.

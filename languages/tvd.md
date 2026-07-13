@@ -2,10 +2,12 @@
 iso: tvd
 name: Tsuvadi
 autonym: tsɨVaɗi
-alt_names: [Abadi, Avadi, Evadi, Ibeto, Kambari, Kamberi, "Tsuva'di"]
+alt_names: [Abadi, Avadi, Evadi, Ibeto, Kambari, Kamberi, "Tsuva'di", Kakihum, Tsuvadi-Agadi, Tsuvadi-Azozolo]
 population: 130000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

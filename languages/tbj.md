@@ -6,11 +6,14 @@ alt_names: [Neu-Mecklenburg]
 population: 790
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Oceanic language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -2.95505
 longitude: 150.93502
+language_map_img: 500px-New_Ireland_Languages.webp
 glottocode: tian1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

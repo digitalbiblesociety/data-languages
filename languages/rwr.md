@@ -3,15 +3,18 @@ iso: rwr
 macrolanguage_id: mwr
 name: Marwari
 autonym: मारवाड़ी/مارواڑی‎
-alt_names: [Marwari, Rajasthani]
+alt_names: [Marwari, Rajasthani, Marvadi, Marvari, Marwadi, Barmeri, Bikaneri, Jaisalmeri, Jodhpuri, Marrubhasha, Rajsthani, Standard Marwari]
 population: 7855400
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.001997
 longitude: 75.0656
+language_map_img: rwr.webp
 glottocode: marw1260
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -78,3 +81,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Rajasthan"
 ---
+Marwari is a Western Indo-Aryan language belonging to the Indo-Iranian subdivision of the Indo-European languages. Marwari and its closely related varieties like Dhundhari, Shekhawati and Mewari form a part of the broader Rajasthani language family. It is spoken in the Indian state of Rajasthan, as well as the neighbouring states of Gujarat and Haryana, some adjacent areas in eastern parts of Pakistan, and some migrant communities in Nepal. There are two dozen varieties of Marwari.

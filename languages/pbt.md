@@ -3,15 +3,18 @@ iso: pbt
 macrolanguage_id: pus
 name: Southern Pashto
 autonym: Kandahar Pashto
-alt_names: ["\"Afghani\"", Afghan, Kandahari, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Southern", Pashtu, Pushto, Quetta-Kandahar Pashto]
+alt_names: ["\"Afghani\"", Afghan, Kandahari, Pakhtoo, Pakhtu, Paktu, Pashto, "Pashto, Southern", Pashtu, Pushto, Quetta-Kandahar Pashto, Pushtu, Durani, Qandahar Pashto, Quetta Pashto, Southeastern Pashto, Southwestern Pashto]
 population: 10900000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Variety of Pashto language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 37.17
 longitude: 68.25
+language_map_img: pbt.webp
 glottocode: sout2649
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

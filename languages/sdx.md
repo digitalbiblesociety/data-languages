@@ -6,6 +6,8 @@ alt_names: ["Melanau, Sibu", Seduan-Banyok, Sibu, Siduan, Siduani]
 population: 420
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Malaysia and Brunei
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西布梅拉瑙语
     auto: true
 ---
+Melanau is an Austronesian language spoken in the coastal area of the Rajang delta on northwest Borneo, Sarawak, Malaysia and Brunei. There are several dialects—Mukah-Oya, Balingian, Bruit, Dalat, Lawas, Igan, Sarikei, Segahan, Prehan, Segalang, and Siteng.

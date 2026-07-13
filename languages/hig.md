@@ -2,10 +2,12 @@
 iso: hig
 name: Kamwe
 autonym: Higgi
-alt_names: [Higi, Hiji, Kamweg, Vacamwe]
+alt_names: [Higi, Hiji, Kamweg, Vacamwe, Bazza, Dakwa, Futu, Humsi, Kamwǝ, Modi, Nkafa, Sina, Tili Pte]
 population: 577000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic language spoken in Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

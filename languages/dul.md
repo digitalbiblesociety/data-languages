@@ -6,6 +6,7 @@ alt_names: ["Agta de l'île d'Alabat", Agta de la isla Alabat, "Agta, Alabat Isl
 population: 10
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
 status_id: 8b
 scope: individual
 language_type: living

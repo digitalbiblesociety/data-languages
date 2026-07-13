@@ -2,9 +2,12 @@
 iso: duh
 name: Dungra Bhil
 autonym: null
+alt_names: [Dungri Bhil]
 population: 100000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +55,4 @@ translations:
     name: 邓格拉巴尔语
     auto: true
 ---
+Bhilori is a Bhil language of India. There are 100,000 speakers of each of the two varieties, Dungra and Noiri, which are highly intelligible with each other.

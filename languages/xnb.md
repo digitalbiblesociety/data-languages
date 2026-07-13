@@ -6,11 +6,14 @@ alt_names: [Kanakanavu]
 population: 250
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 23.32349
 longitude: 120.88736
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: kana1286
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

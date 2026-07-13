@@ -2,10 +2,12 @@
 iso: akb
 name: Batak Angkola
 autonym: Anakola
-alt_names: [Angkola]
+alt_names: [Angkola, Angkola Batak]
 population: 750000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

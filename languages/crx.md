@@ -2,15 +2,18 @@
 iso: crx
 name: Carrier
 autonym: Dakeł (ᑕᗸᒡ)
-alt_names: [Central, Central Carrier, Dakelh, "Dakelh (Nak'albun/Dzinghubun)", Nagailer, Taculli, Upper Carrier]
+alt_names: [Central, Central Carrier, Dakelh, "Dakelh (Nak'albun/Dzinghubun)", Nagailer, Taculli, Upper Carrier, Dakelhne, Grand Rapids, Middle River, Necoslie, Pinchie, Portage, Porteur, Tachie, Takelne, Takulie]
 population: 9350
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Athabaskan language spoken in British Columbia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 54.37681
 longitude: -124.32759
+language_map_img: Dakelh_map.svg
 glottocode: carr1249
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

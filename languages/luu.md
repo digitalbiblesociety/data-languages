@@ -5,11 +5,14 @@ autonym: Yakkhaba Cea
 population: 1200
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language spoken in Nepal and India
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 27.23201
 longitude: 87.31455
+glottocode: lumb1250
 wikidata_id: Q6703050
 wikipedia_url: "https://en.wikipedia.org/wiki/Lumba-Yakkha_language"
 translations:

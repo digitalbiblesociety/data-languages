@@ -6,6 +6,8 @@ alt_names: [Bulang, Kenen Birang, Kenying, Kenying Bulang, Keyele, Keñele, Kyen
 population: 1250
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Yuat language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

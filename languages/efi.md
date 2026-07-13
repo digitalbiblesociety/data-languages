@@ -6,6 +6,8 @@ alt_names: [Calabar]
 population: 664600
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Language of Nigeria
 status_id: "3"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Girara, Gorovu]
 population: 380
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Finisterre language of Papua New Guinea
 status_id: 8a
 scope: individual
 language_type: living

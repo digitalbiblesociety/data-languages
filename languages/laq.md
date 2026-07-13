@@ -2,10 +2,12 @@
 iso: laq
 name: Qabiao
 autonym: Laqua
-alt_names: [Bendi Lolo, Bubiao, Ka Bao, Ka Beo, Ka Biao, KaBeo, Pen Ti Lolo, Pu Peo, Pu Péo, Pubiao, Pupeo]
+alt_names: [Bendi Lolo, Bubiao, Ka Bao, Ka Beo, Ka Biao, KaBeo, Pen Ti Lolo, Pu Peo, Pu Péo, Pubiao, Pupeo, Lolo, Pen Ti]
 population: 307
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Kra language of the Qabia people of Vietnam and China
 status_id: 6b
 scope: individual
 language_type: living

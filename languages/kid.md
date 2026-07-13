@@ -2,10 +2,11 @@
 iso: kid
 name: Koshin
 autonym: Kaw
-alt_names: [Kosin]
+alt_names: [Kosin, Kusheen Benubcouh, Bejube Ko]
 population: 1000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
 status_id: 6b
 scope: individual
 language_type: living

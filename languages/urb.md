@@ -2,10 +2,12 @@
 iso: urb
 name: "Urubú-Kaapor"
 autonym: Urubu
-alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Caapor, Guajá, "Ka'apor", "Ka'apór", Kaapor, Kaaporté, Manajo, Manaxo, Manaze, Manazo, Urubu-Kaapor, Urubú, "Urubú-Ka'apór"]
+alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambé, Caapor, Guajá, "Ka'apor", "Ka'apór", Kaapor, Kaaporté, Manajo, Manaxo, Manaze, Manazo, Urubu-Kaapor, Urubú, "Urubú-Ka'apór", “Urubú”, Ka’apor, Ka, Kaꞌapor, awa jeꞌẽha]
 population: 800
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupian language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

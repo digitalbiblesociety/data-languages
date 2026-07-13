@@ -6,6 +6,8 @@ alt_names: [Malarkuti]
 population: 150
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Malayalamoid language of India
 status_id: 6b
 scope: individual
 language_type: living

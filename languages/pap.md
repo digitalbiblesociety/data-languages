@@ -6,11 +6,14 @@ alt_names: [An Phaipeamaintis, Curassese, Curaçoleño, Papago, Papiam, Papiamen
 population: 323100
 country_id: CW
 country_name: Curaçao
+location: Creole Languages of the Eastern Caribbean
+area: Creole language in the Dutch Caribbean
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 12.48485
 longitude: -69.93988
+language_map_img: ABCEilandenLocatie.webp
 scripts: [Latn]
 glottocode: papi1253
 glottolog_family_id: indo1319

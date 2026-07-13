@@ -2,9 +2,12 @@
 iso: nko
 name: Nkonya
 autonym: null
+alt_names: [Nkunya]
 population: 20400
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

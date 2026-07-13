@@ -6,6 +6,8 @@ alt_names: [Bere, Bre, Pre, Pre Pisia]
 population: 200
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Endangered Volta-Congo language of Ivory Coast
 status_id: 6b
 scope: individual
 language_type: living

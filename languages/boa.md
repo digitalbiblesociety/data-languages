@@ -2,15 +2,18 @@
 iso: boa
 name: Bora
 autonym: Meamuyna
-alt_names: [Bora Miranya, Bora simi, Bora-Miranya, Boraeg, Boro, Imihita, Miranha, Miranya, Miraña (Brésil), Miraña (Colombia), Miraña (Colombie), Miriña, 𐌱𐍉𐍂𐍉𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Bora Miranya, Bora simi, Bora-Miranya, Boraeg, Boro, Imihita, Miranha, Miranya, Miraña (Brésil), Miraña (Colombia), Miraña (Colombie), Miriña, 𐌱𐍉𐍂𐍉𐍂𐌰𐌶𐌳𐌰, Mirana, Booraa, Miamunaa, Miamunaꞌa, Miranas, Mirãnia, Mïamuna]
 population: 1350
 country_id: PE
 country_name: Peru
+location: Southern Colombia
+area: Indigenous language spoken in Amazon Basin
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -2.91467
 longitude: -68.90929
+language_map_img: Lingua_bora.webp
 glottocode: bora1263
 glottolog_family_id: bora1262
 glottolog_family_name: Boran

@@ -2,15 +2,18 @@
 iso: kdq
 name: Koch
 autonym: Koc
-alt_names: [Kocch, Koce, Kochboli, Konch]
+alt_names: [Kocch, Koce, Kochboli, Konch, Kocha, Chapra, Dasgaya, Harigaya, Margan, Tintekiya, Wanang]
 population: 42400
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Sal (Sino-Tibetan) language spoken in India and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 25.796235
 longitude: 90.25658
+language_map_img: 500px-Koch.map.webp
 glottocode: koch1250
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

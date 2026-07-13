@@ -6,6 +6,8 @@ alt_names: [Ouroumeg, Urum Türkçesi, Urum tili, Urumca, Urumo, урум тыл
 population: 185000
 country_id: GE
 country_name: Georgia
+location: Ukraine
+area: Kipchak Turkic language
 status_id: 6b
 scope: individual
 language_type: living

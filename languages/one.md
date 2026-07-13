@@ -5,6 +5,8 @@ autonym: Onʌyotaʔa꞉ka
 population: 1500
 country_id: CA
 country_name: Canada
+location: Canada
+area: Iroquoian language of Canada and the US
 status_id: "7"
 scope: individual
 language_type: living

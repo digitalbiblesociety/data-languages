@@ -2,10 +2,12 @@
 iso: ctp
 name: Western Highland Chatino
 autonym: Sierra Chatino
-alt_names: ["Cha't-An", Chatino, Chatino (Sierra Occidental), Chatino (Yaitepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Occidental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, Chatino language, "Chatino, Western Highland", Langues chatino, Sierra Occidental Chatino, Tchatineg, Western Highland]
+alt_names: ["Cha't-An", Chatino, Chatino (Sierra Occidental), Chatino (Yaitepec), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la Zona Alta Occidental, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, Chatino language, "Chatino, Western Highland", Langues chatino, Sierra Occidental Chatino, Tchatineg, Western Highland, Cha’t-An, Chatino Central, Chatino de Occidente de la Región Central, Chatino de Panixtlahuaca, Chatino de Yaitepec, Chaꞌ jnaꞌa, Chaꞌt-An, Panixtlahuaca Chatino, San Juan Quiahije Chatino, Yaitepec Chatino]
 population: 16000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotecan language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Juquila"
 ---
+Highland Chatino is an indigenous Mesoamerican language, one of the Chatino family of the Oto-Manguean languages. Dialects are rather diverse; neighboring dialects are about 80% mutually intelligible.

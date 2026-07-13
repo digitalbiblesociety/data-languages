@@ -2,15 +2,18 @@
 iso: clm
 name: Clallam
 autonym: Nəxʷsƛ̓ay̓əmúcən
-alt_names: [Klallam, Klallam language, Klellam, "Na'klallam", "Nəxʷsƛ'áy'əmucən", "S'klallam", nəxʷsƛʼáyʼəmʼucən]
+alt_names: [Klallam, Klallam language, Klellam, "Na'klallam", "Nəxʷsƛ'áy'əmucən", "S'klallam", nəxʷsƛʼáyʼəmʼucən, Na’klallam, S’klallam]
 population: null
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Salishan language of North America
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 48.07068
 longitude: -123.5115
+language_map_img: 500px-Klallam.webp
 glottocode: clal1241
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

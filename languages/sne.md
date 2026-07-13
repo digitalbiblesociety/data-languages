@@ -2,10 +2,12 @@
 iso: sne
 name: Bau Bidayuh
 autonym: Bau
-alt_names: [Bau-Jagoi, "Bidayuh, Bau", Dayak, Jaggoi, Jagoi, Sarawak Dayak]
+alt_names: [Bau-Jagoi, "Bidayuh, Bau", Dayak, Jaggoi, Jagoi, Sarawak Dayak, Bidayuh Jagoi]
 population: 29200
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: "Austronesian language spoken in Sarawak, Malaysia"
 status_id: "5"
 scope: individual
 language_type: living

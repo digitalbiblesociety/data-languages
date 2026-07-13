@@ -6,6 +6,8 @@ alt_names: [Asahyue, Sefwi]
 population: 305000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Ghanaian language
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nrz
 name: Lala
 autonym: Nara
-alt_names: ["Ala'ala", Nala, Pokau]
+alt_names: ["Ala'ala", Nala, Pokau, Ala’ala]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

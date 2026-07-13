@@ -2,10 +2,12 @@
 iso: ata
 name: "Pele-Ata"
 autonym: "Pele-Ata"
-alt_names: [Ata, Ata language, Neu-Pommern, Peleata, Uase, Uasi, Uasilau, Wasi]
+alt_names: [Ata, Ata language, Neu-Pommern, Peleata, Uase, Uasi, Uasilau, Wasi, Pele]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Papuan language spoken on New Britain island
 status_id: "4"
 scope: individual
 language_type: living

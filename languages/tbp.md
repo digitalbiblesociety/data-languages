@@ -6,6 +6,8 @@ alt_names: [Bok, Dabra, Taburta, Taria, Taworta-Aero]
 population: 140
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Highland Papua
 status_id: 6a
 scope: individual
 language_type: living

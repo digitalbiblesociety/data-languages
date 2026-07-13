@@ -6,6 +6,7 @@ alt_names: [Matagalpa language area, Pantasma]
 population: null
 country_id: NI
 country_name: Nicaragua
+area: Extinct Misumalpan language of Nicaragua
 status_id: "9"
 scope: individual
 language_type: extinct

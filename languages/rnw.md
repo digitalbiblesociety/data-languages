@@ -6,6 +6,8 @@ alt_names: [Ichirungwa, Lungwa, Runga]
 population: 18000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: adh
 name: Adhola
 autonym: japadhola
-alt_names: [Dhopadhola, Jopadhola, Jopadhɔla, Ludama]
+alt_names: [Dhopadhola, Jopadhola, Jopadhɔla, Ludama, Badama]
 population: 482000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Dialect of Southern Luo of Uganda
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: esk
 macrolanguage_id: ipk
 name: Northwest Alaska Inupiatun
 autonym: Iñupiatun
-alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Eskimo, Inuit, Inuit de la Península Seward (estrecho de Norton), Inupiaq de la péninsule de Seward  (King Island), Inupiaq de la péninsule de Seward (Grande Diomède), Inupiaq de la péninsule de Seward (Norton Sound), Inupiaq de la péninsule de Seward (Petite Diomède), Inupiat, Inupiatun, "Inupiatun, Northwest Alaska", Northwest Alaska Inupiat, Seward Peninsula Inupiaq, Seward Peninsula Iñupiaq]
+alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Eskimo, Inuit, Inuit de la Península Seward (estrecho de Norton), Inupiaq de la péninsule de Seward  (King Island), Inupiaq de la péninsule de Seward (Grande Diomède), Inupiaq de la péninsule de Seward (Norton Sound), Inupiaq de la péninsule de Seward (Petite Diomède), Inupiat, Inupiatun, "Inupiatun, Northwest Alaska", Northwest Alaska Inupiat, Seward Peninsula Inupiaq, Seward Peninsula Iñupiaq, “Eskimo”, Northwest Alaska, Bering Strait Inupiaq, Diomede Inupiaq, King Island Inupiaq, Qawiaraq, Seward Inupiaq, Wales Inupiaq]
 population: 2420
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Group of dialects of the Inuit language
 status_id: 6b
 scope: individual
 language_type: living
@@ -72,3 +74,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, Alaska"
 ---
+Iñupiaq or Inupiaq, also known as Iñupiat, Inupiat, Iñupiatun or Alaskan Inuit, is an Inuit language, or perhaps group of languages, spoken by the Iñupiat people in northern and northwestern Alaska, as well as a small adjacent part of the Northwest Territories of Canada. The Iñupiat language is a member of the Inuit–Yupik–Unangan language family, and is closely related and, to varying degrees, mutually intelligible with other Inuit languages of Canada and Greenland. There are roughly 2,000 speakers. Iñupiaq is considered to be a threatened language, with most speakers at or above the age of 40. Iñupiaq is an official language of the State of Alaska, along with several other indigenous languages.

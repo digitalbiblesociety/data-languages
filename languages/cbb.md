@@ -2,15 +2,18 @@
 iso: cbb
 name: Cabiyarí
 autonym: Kawillari
-alt_names: [Cabiuarí, Cabiyari, Cabiyari language, Caryari, Cauyari, Cauyarí, Caviyari, Caviyarí, Cuyare, Kabiyari, Kabiyarí, Kauyarí, Kaviyarí, Kawillary]
+alt_names: [Cabiuarí, Cabiyari, Cabiyari language, Caryari, Cauyari, Cauyarí, Caviyari, Caviyarí, Cuyare, Kabiyari, Kabiyarí, Kauyarí, Kaviyarí, Kawillary, Kawiarí, Kawiyarí]
 population: 310
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: South American aboriginal language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 0.16101
 longitude: -71.06216
+language_map_img: Cabiyari.webp
 glottocode: cabi1241
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

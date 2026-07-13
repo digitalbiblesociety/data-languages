@@ -2,10 +2,12 @@
 iso: mir
 name: Isthmus Mixe
 autonym: Lowland Mixe
-alt_names: [Eastern Mixe, Guichicovi, Guichicovi Mixe, Isthmus Sokean, Lowland Mije, Mije, Mixe, Mixe del Istmo, "Mixe, Isthmus", Oaxaca Mije]
+alt_names: [Eastern Mixe, Guichicovi, Guichicovi Mixe, Isthmus Sokean, Lowland Mije, Mije, Mixe, Mixe del Istmo, "Mixe, Isthmus", Oaxaca Mije, Isthmus, Ayuk, Mixe del Este, Mixe del Paso Real, hagunaax, hayuuc]
 population: 22500
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

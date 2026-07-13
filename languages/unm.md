@@ -7,11 +7,13 @@ alt_names: [Lenape, Lenni-Lenape, Oklahoma Delaware, Tla Wilano, Unami Delaware,
 population: null
 country_id: US
 country_name: United States
+area: Language spoken by the Lenape people
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 35.02644
 longitude: -98.32013
+language_map_img: 500px-Lenape_Languages.webp
 glottocode: unam1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

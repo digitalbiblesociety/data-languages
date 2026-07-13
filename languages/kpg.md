@@ -5,6 +5,8 @@ autonym: Kirinit
 population: 1500
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Polynesian language
 status_id: "4"
 scope: individual
 language_type: living

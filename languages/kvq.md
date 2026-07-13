@@ -2,10 +2,12 @@
 iso: kvq
 name: Geba Karen
 autonym: Daneh
-alt_names: [Brè, Bwe, Eastern Bwe, Geba, Gebo, Kaba, "Karen, Geba", "Karen,Geba", Karenbyu, Kayinbyu, White Karen]
+alt_names: [Brè, Bwe, Eastern Bwe, Geba, Gebo, Kaba, "Karen, Geba", "Karen,Geba", Karenbyu, Kayinbyu, White Karen, Gerkho-Geba, Kayinpyu, Kebar, Kono, Koo-ong, Northern Bwe, Sawkeepho, Sawkho, Thamitaik]
 population: 10000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language of Burma
 status_id: 6a
 scope: individual
 language_type: living

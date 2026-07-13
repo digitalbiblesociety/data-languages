@@ -6,6 +6,8 @@ alt_names: [Bara Naga, Jejara Naga, Naga, "Naga, Jejara", "Naga, Para", "Naga,Pa
 population: 2000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Naga language spoken in Burma and India
 status_id: 6a
 scope: individual
 language_type: living

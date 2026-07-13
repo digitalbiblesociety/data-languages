@@ -2,10 +2,12 @@
 iso: kls
 name: Kalasha
 autonym: Kalashamondr
-alt_names: [Calasa, Chitrali, Dardu, Kalacheg, Kalasa, Kalash, Kalash language, Kalashamon]
+alt_names: [Calasa, Chitrali, Dardu, Kalacheg, Kalasa, Kalash, Kalash language, Kalashamon, Kelash]
 population: 5030
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: "Indo-Aryan language spoken in Chitral, Pakistan"
 status_id: 6a
 scope: individual
 language_type: living

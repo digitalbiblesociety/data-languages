@@ -3,10 +3,12 @@ iso: ikt
 macrolanguage_id: iku
 name: Inuinnaqtun
 autonym: Western Canadian Inuktitut
-alt_names: [Canadian Eskimo, Canadian Inuit, Central-Northern, Eskimo, Inuit, Inuktitut (Rankin Inlet), "Inuktitut, Western Canadian", Inupiat, Inuvialuktun, Kangiryuarmiut, Kangiryuarmiut Eskimo, Mackenzie Coast, Natsilingmiutut, Siglitun, Western Canadian Eskimo, Western Canadian Inuit, Western Canadian Inuktun, Инувиалуктун]
+alt_names: [Canadian Eskimo, Canadian Inuit, Central-Northern, Eskimo, Inuit, Inuktitut (Rankin Inlet), "Inuktitut, Western Canadian", Inupiat, Inuvialuktun, Kangiryuarmiut, Kangiryuarmiut Eskimo, Mackenzie Coast, Natsilingmiutut, Siglitun, Western Canadian Eskimo, Western Canadian Inuit, Western Canadian Inuktun, Инувиалуктун, Natsilik, Netsilik, Netsilik Inuit, Siglit, Western Canada Inuktun]
 population: 4000
 country_id: CA
 country_name: Canada
+location: Canada
+area: Inuit language varieties spoken in Canada
 status_id: "2"
 scope: individual
 language_type: living

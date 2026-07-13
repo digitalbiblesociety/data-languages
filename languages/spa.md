@@ -7,11 +7,14 @@ alt_names: [An Spáinnis, Bahsa Seupanyo, Castellano, Castellanu, Castellà, Cas
 population: 480000000
 country_id: ES
 country_name: Spain
+location: Andorra and France
+area: Romance language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 40.441418
 longitude: -1.11788
+language_map_img: Map-Hispanophone_World.svg
 scripts: [Latn]
 glottocode: stan1288
 glottolog_family_id: indo1319

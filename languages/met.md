@@ -2,10 +2,12 @@
 iso: met
 name: Mato
 autonym: Nenaya
-alt_names: [Nengaya, Nineia]
+alt_names: [Nengaya, Nineia, Ramuk, Tabares]
 population: 700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

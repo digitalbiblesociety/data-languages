@@ -2,9 +2,12 @@
 iso: aub
 name: Alugu
 autonym: Phuza
+alt_names: [Muji, Phula, Phupha]
 population: 3500
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish languages of China
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +54,5 @@ translations:
     name: 阿卢古语
     auto: true
 ---
+Phupha, or Downriver Phula, is a dialect cluster of Loloish languages spoken by the Phula people of China. There are four principal varieties, which may be considered distinct languages:Phupha, Alugu 
+Phupa, Phuza

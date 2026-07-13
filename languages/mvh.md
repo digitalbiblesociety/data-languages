@@ -6,6 +6,8 @@ alt_names: [Chad, Mire, Mire language]
 population: 1400
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Diitiidʔaatx̣ (Nitinat), Nitinat]
 population: null
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: "Wakashan language of southern Vancouver Island, British Columbia, Canada"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 48.67
 longitude: -124.75
+language_map_img: Wakashan_map.svg
 glottocode: diti1235
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan

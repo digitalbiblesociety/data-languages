@@ -2,15 +2,18 @@
 iso: kgj
 name: Gamale Kham
 autonym: Kham language
-alt_names: [Gamale, Jamí, Kham, "Kham, Gamale", "Kham,Gamale", Khamkura, Khams, Proto-Kham]
+alt_names: [Gamale, Jamí, Kham, "Kham, Gamale", "Kham,Gamale", Khamkura, Khams, Proto-Kham, Gamal Kham, Kham-Magar, Magar Kham]
 population: 1000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan language of western Nepal.
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 28.41102
 longitude: 82.6749
+language_map_img: 500px-Map_of_Magar_Kham.webp
 glottocode: gama1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
@@ -79,3 +82,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Magar Kham, also known as Kham, Kham Magar, and Khamkura, is the Sino-Tibetan language variety of the Northern Magar people of Nepal. The language is situated in the upper elevations of Baglung, East Rukum, and Rolpa districts. Based on census data taken in 2021, the total population of Magar Kham is estimated to be about 91,753 speakers.

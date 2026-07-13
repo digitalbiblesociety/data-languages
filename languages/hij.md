@@ -5,6 +5,8 @@ autonym: null
 population: 400
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Nearly extinct Bantu language of Cameroon
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: gwa
 name: Mbato
 autonym: Goaa
-alt_names: [Gwa, "M'bato", Mbatto, Mgbato, N-Batto, Ogwia, Potu]
+alt_names: [Gwa, "M'bato", Mbatto, Mgbato, N-Batto, Ogwia, Potu, M’bato]
 population: 25000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language of Ivory Coast and Ghana
 status_id: 6a
 scope: individual
 language_type: living

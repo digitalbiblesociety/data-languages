@@ -6,6 +6,8 @@ alt_names: [Thulishi, Tulesh, Tuleshi]
 population: 2500
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: "Kadu language of Kordofan, Sudan"
 status_id: 6a
 scope: individual
 language_type: living

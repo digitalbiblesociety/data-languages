@@ -5,9 +5,11 @@ autonym: Olelato
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language
 status_id: null
 scope: individual
 language_type: extinct
+language_map_img: 500px-Solano_lang.webp
 glottocode: sanf1266
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable

@@ -2,10 +2,12 @@
 iso: dua
 name: Duala
 autonym: Douala
-alt_names: [Diwala, Dualla, Dwala, Dwela]
+alt_names: [Diwala, Dualla, Dwala, Dwela, Bodiman, Ewodi, Koli, Mongo, Mungo, Mungu, Muungo, Oli, Ouri, Pongo, Sawa, Uli, Wouri, Wuri]
 population: 87700
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken by the Duala and Mungo peoples of Cameroon
 status_id: "3"
 scope: individual
 language_type: living

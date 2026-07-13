@@ -5,11 +5,13 @@ autonym: Tanêksąyaa ade
 population: null
 country_id: US
 country_name: United States
+area: Extinct Siouan language of Southern US
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 31.31999
 longitude: -89.19508
+language_map_img: Biloxi_lang.webp
 glottocode: bilo1248
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

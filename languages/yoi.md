@@ -6,11 +6,14 @@ alt_names: [Dunan (Yonaguni Ryukyuan), Dunan-Munui, Ryukyuan, Saskishima, Saskis
 population: 800
 country_id: JP
 country_name: Japan
+location: Japan
+area: Southern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 24.44997
 longitude: 122.99075
+language_map_img: 500px-Map-yonaguni.webp
 glottocode: yona1241
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic

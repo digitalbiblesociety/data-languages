@@ -2,10 +2,12 @@
 iso: tnn
 name: North Tanna
 autonym: Nɨnakə
-alt_names: ["Tanna, North", Vanuatu]
+alt_names: ["Tanna, North", Vanuatu, East Tanna, Imafin, Nən-naka, West Tanna]
 population: 5000
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

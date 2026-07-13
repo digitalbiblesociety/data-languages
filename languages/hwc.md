@@ -2,10 +2,12 @@
 iso: hwc
 name: "Hawai'i Creole English"
 autonym: Hawaii Creole English
-alt_names: ["Creole English, Hawai'i", "Hawai'i Pidgin"]
+alt_names: ["Creole English, Hawai'i", "Hawai'i Pidgin", Hawai’i Pidgin, HCE, Pidgin, "Hawai'i Creole", Hawaii Pidgin, Hawaiian Creole, Hawaiian Creole English]
 population: 600000
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: English-based creole spoken in Hawaiʻi
 status_id: "5"
 scope: individual
 language_type: living

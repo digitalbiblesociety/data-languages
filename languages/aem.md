@@ -6,6 +6,7 @@ alt_names: [Aremo, Chombrau, Chomrau, Umo]
 population: 100
 country_id: VN
 country_name: Vietnam
+location: Laos
 status_id: 8b
 scope: individual
 language_type: living

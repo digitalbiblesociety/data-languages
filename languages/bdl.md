@@ -2,10 +2,12 @@
 iso: bdl
 name: Indonesian Bajau
 autonym: Bajo
-alt_names: [Badjaw, Badjo, Bajao, Bajau, "Bajau, Indonesian", Bayo, Gaj, Luaan, Lutaos, Lutayaos, Orang Laut, Sama, Sama Bajau, "Turije'ne'"]
+alt_names: [Badjaw, Badjo, Bajao, Bajau, "Bajau, Indonesian", Bayo, Gaj, Luaan, Lutaos, Lutayaos, Orang Laut, Sama, Sama Bajau, "Turije'ne'", Turije’ne’, Baʔong Sama, Indonesian Bajaw, Jampea, Jaya Bakti, Kajoa, Matalaang, Poso, Roti, "Same'", Sulamu, "Taurije'ne'", Togian 1, Togian 2, Wallace]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Austronesian language family of Borneo and the Philippines
 status_id: 6b
 scope: individual
 language_type: living
@@ -106,3 +108,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Sumatera Utara (North)"
 ---
+The Sama–Bajaw languages are a well-established group of languages spoken by the Sama-Bajau peoples of the Philippines, Indonesia, and Malaysia.

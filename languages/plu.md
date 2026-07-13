@@ -2,10 +2,12 @@
 iso: plu
 name: Palikúr
 autonym: Karipuna
-alt_names: [Paikwene, Palicur, Palijur, Palikour, Palikr, Palikur, Palincur, Paricores, Paricuria, Parikurene, Parinkur-lene]
+alt_names: [Paikwene, Palicur, Palijur, Palikour, Palikr, Palikur, Palincur, Paricores, Paricuria, Parikurene, Parinkur-lene, Aukuyene, Aukwayene, Palikuꞌene, Paꞌikwaki]
 population: 1540
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Arawakan language spoken in Brazil and French Guiana
 status_id: "4"
 scope: individual
 language_type: living

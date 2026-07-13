@@ -6,6 +6,8 @@ alt_names: [Esaro, Sailen]
 population: null
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Extinct language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living

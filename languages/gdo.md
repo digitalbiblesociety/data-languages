@@ -2,15 +2,18 @@
 iso: gdo
 name: Ghodoberi
 autonym: ГъибдилIи мицци Ɣibdiƛi micci
-alt_names: [Godobereg, Godoberi, Godoberi language, Godoberin, Godoberí, Ɣibdiƛi micci, гъибдилIи мицци]
+alt_names: [Godobereg, Godoberi, Godoberi language, Godoberin, Godoberí, Ɣibdiƛi micci, гъибдилIи мицци, Zibirkhali]
 population: 2500
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 42.74276
 longitude: 46.22524
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: ghod1238
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

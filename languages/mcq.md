@@ -2,10 +2,12 @@
 iso: mcq
 name: Ese
 autonym: Managalasi
-alt_names: ["\"Managalasi\"", "\"Managulasi\""]
+alt_names: ["\"Managalasi\"", "\"Managulasi\"", Afore, Akabafa, Averi, Chimona, Dea, Jimuni, Karira, Mesari, Minjori, Muaturaina, Nami, Numba, Oko, Wakue]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Baraic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

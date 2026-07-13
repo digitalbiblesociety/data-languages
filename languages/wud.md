@@ -6,6 +6,8 @@ alt_names: [Togo]
 population: 2000
 country_id: TG
 country_name: Togo
+location: Togo
+area: Niger-Congo language spoken in Togo
 status_id: 6a
 scope: individual
 language_type: living

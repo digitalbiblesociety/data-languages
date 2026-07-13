@@ -2,10 +2,12 @@
 iso: gaa
 name: Ga
 autonym: Gã
-alt_names: [Accra, Acra, Akra, Amina, Dangme, Gaeg, Gain]
+alt_names: [Accra, Acra, Akra, Amina, Dangme, Gaeg, Gain, Gamei]
 population: 791700
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Kwa language spoken in Ghana
 status_id: "4"
 scope: individual
 language_type: living

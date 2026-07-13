@@ -5,6 +5,7 @@ autonym: Ngala
 population: null
 country_id: CD
 country_name: DR Congo
+area: Bantu language
 status_id: "3"
 scope: individual
 language_type: living

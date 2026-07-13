@@ -2,10 +2,12 @@
 iso: mog
 name: Mongondow
 autonym: Bolaang Mongondow
-alt_names: ["Bola'ang-Mongodow", Minahassa, Mongodow, Mongondou]
+alt_names: ["Bola'ang-Mongodow", Minahassa, Mongodow, Mongondou, Bolang-Mogondo, Dumoga, Lolayan, Passi]
 population: 117000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Arikaree, Arikari, Arikaris, Ree, Ricara, Ris]
 population: 10
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Arikara Native American language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 40.647304
 longitude: -98.715822
+language_map_img: 500px-Arikara_lang.webp
 glottocode: arik1262
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan

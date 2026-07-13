@@ -5,6 +5,7 @@ autonym: null
 population: 200
 country_id: MT
 country_name: Malta
+area: Deaf sign language of Malta
 status_id: 6a
 scope: individual
 language_type: living

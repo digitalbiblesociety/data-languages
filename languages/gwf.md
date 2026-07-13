@@ -6,6 +6,8 @@ alt_names: [Dardu, Gabaro]
 population: 200
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language of Pakistan
 status_id: 6b
 scope: individual
 language_type: living

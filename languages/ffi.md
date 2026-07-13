@@ -2,12 +2,16 @@
 iso: ffi
 name: Foia Foia
 autonym: Minanibai
+alt_names: [Foiafoia, Foyafoya]
 population: 180
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+glottocode: foia1236
 wikidata_id: Q8564176
 wikipedia_url: "https://en.wikipedia.org/wiki/Foia_Foia_language"
 translations:

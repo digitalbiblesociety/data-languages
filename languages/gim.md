@@ -6,6 +6,8 @@ alt_names: [Gimi, Jimi]
 population: 23180
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

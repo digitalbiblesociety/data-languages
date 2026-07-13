@@ -2,9 +2,12 @@
 iso: bma
 name: Lame
 autonym: "Tu-Gura"
+alt_names: [Agari, Agbiri, Bambara, Bambaro, Bamburo, Bombaro, Bomberawa, Bunberawa, Gura, Mbaru, Rufawa, Rufu, Ruhu, Tugura]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Bantu dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

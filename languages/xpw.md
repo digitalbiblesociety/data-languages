@@ -6,6 +6,8 @@ alt_names: [Peerapper, "Tasmanian, Northwestern"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct Western Tasmanian language of Australia
 status_id: null
 scope: individual
 language_type: extinct

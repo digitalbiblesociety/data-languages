@@ -6,11 +6,14 @@ alt_names: [Hamacore, Ikito-Kawarano, Iquito, Iquito-Cahuarano, Kahouaraneg, Puc
 population: null
 country_id: PE
 country_name: Peru
+location: Peru
+area: Extinct Zaparoan language of Peru
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -3.72665
 longitude: -73.94688
+language_map_img: 500px-Cawarano_language.webp
 glottocode: cahu1268
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan

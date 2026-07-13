@@ -3,9 +3,12 @@ iso: ltg
 macrolanguage_id: lav
 name: Latgalian
 autonym: latgalīšu volūda
+alt_names: [Latgaliešu, Latgališu]
 population: 200000
 country_id: LV
 country_name: Latvia
+location: "Estonia, Latvia and Lithuania"
+area: Eastern Baltic language
 status_id: "4"
 scope: individual
 language_type: living

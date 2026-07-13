@@ -2,10 +2,12 @@
 iso: nto
 name: Ntomba
 autonym: Bolia
-alt_names: [Lomtomba, Lontomba, Luntumba, Ntomba-Bolia, Ntumba]
+alt_names: [Lomtomba, Lontomba, Luntumba, Ntomba-Bolia, Ntumba, Imona, Lotsakani, Mpongo, Nkole, Sakanyi, Saw, Soko]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of, Bandundu"
 ---
+Ntomba and Lia (Bolia) are closely related Bantu languages of the Democratic Republic of the Congo, close enough to be considered dialects of a single Lia-Ntomba language.

@@ -6,11 +6,14 @@ alt_names: [Habyot, Hobi, Hobioto, Hobyot, Hobyót hizkuntza]
 population: 100
 country_id: OM
 country_name: Oman
+location: Oman
+area: Endangered Semitic language of Oman and Yemen
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 17.21605
 longitude: 52.833375
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: hoby1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

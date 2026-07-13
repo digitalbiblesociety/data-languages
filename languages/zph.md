@@ -7,6 +7,8 @@ alt_names: [Central Sapoteko, Totomachapam, Totomachapan, Western Zimatlán Zapo
 population: 1009
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

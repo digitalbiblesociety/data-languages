@@ -2,10 +2,12 @@
 iso: bdu
 name: Oroko
 autonym: Balondo
-alt_names: [Bakundu, Bakundu-Balue, Balundu-Bima, Kundu, Londo, Lue, Lundu, Oroko-East, Oroko-West]
+alt_names: [Bakundu, Bakundu-Balue, Balundu-Bima, Kundu, Londo, Lue, Lundu, Oroko-East, Oroko-West, Babue, Bakoko, Balondo Ba Diko, Balondo Ba Nanga, Balue, Barue, Batanga, Bawo, Bekombo, Bekunde, Bima, Dotanga, Ekombe, Ekumbe, Koko, Lakundu, Lokoko, Lokundu, Lolue, Longolo, Lotanga, Mbonge, Ngolo, Nkundu, Western Kundu]
 population: 106000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu dialect cluster spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

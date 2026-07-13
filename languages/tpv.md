@@ -2,10 +2,12 @@
 iso: tpv
 name: Tanapag
 autonym: Northern Carolinian
-alt_names: [Tallabwog]
+alt_names: [Tallabwog, Talaabog, Talaabwogh]
 population: 4400
 country_id: MP
 country_name: Northern Mariana Islands
+location: Guam and Northern Mariana Islands
+area: Endangered Micronesian language of Saipan
 status_id: "7"
 scope: individual
 language_type: living

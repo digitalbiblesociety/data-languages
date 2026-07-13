@@ -2,10 +2,12 @@
 iso: bwx
 name: "Bu-Nao Bunu"
 autonym: Bunu
-alt_names: [Bunao, Bunu numao, "Bunu, Bu-Nao", Bunú bunao, Po-Nau, Punu]
+alt_names: [Bunao, Bunu numao, "Bunu, Bu-Nao", Bunú bunao, Po-Nau, Punu, Baonuo, Bunuo, Cingsui Longlin, Dongnu, Hong Yao, Hontou Longlin, Nao Khalo, Nao Klao, Naogelao, Nau Klau, Nu Mhou, Numao, Nunu, Pounou, Pu No, Tung Nu, Bunu (Dongnu) Yao]
 population: 258000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmongic language branch spoken in China
 status_id: 6b
 scope: individual
 language_type: living

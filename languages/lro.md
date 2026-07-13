@@ -2,10 +2,12 @@
 iso: lro
 name: Laro
 autonym: Laru
-alt_names: [Aaleira, Ngwullaro, Yillaro]
+alt_names: [Aaleira, Ngwullaro, Yillaro, Al-Leira, Leera, Liira, Yidundili-Yigoromany, Yilaru]
 population: 40000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Atlantic-Congo language
 status_id: "4"
 scope: individual
 language_type: living

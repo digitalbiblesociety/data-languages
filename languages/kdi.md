@@ -6,6 +6,8 @@ alt_names: [Akokolemu, Akum, Ikumama, Kuman, Kumum]
 population: 266000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Southern Luo language
 status_id: 6a
 scope: individual
 language_type: living

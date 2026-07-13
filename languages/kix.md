@@ -2,10 +2,12 @@
 iso: kix
 name: Khiamniungan Naga
 autonym: Aoshedd
-alt_names: [Kalyokengnyu, Khiamngan, Khiamniungan, Khiemnungan, Naga, "Naga, Khiamniungan", "Naga,Khiamniungan", Nokaw, Welam]
+alt_names: [Kalyokengnyu, Khiamngan, Khiamniungan, Khiemnungan, Naga, "Naga, Khiamniungan", "Naga,Khiamniungan", Nokaw, Welam, Makware, Nokhu, Noklak, Para, Ponso, Thang, Tukhemmi, Wolam]
 population: 72000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language
 status_id: "5"
 scope: individual
 language_type: living

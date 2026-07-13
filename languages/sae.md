@@ -2,10 +2,12 @@
 iso: sae
 name: Sabanê
 autonym: Sabanês Sabones
-alt_names: [Sabane, Sabané, Sabanés, Sabanês, Sabones]
+alt_names: [Sabane, Sabané, Sabanés, Sabanês, Sabones, Sowainte]
 population: 3
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Nambikwara language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

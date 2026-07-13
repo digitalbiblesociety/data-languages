@@ -5,6 +5,8 @@ autonym: Chau Pok
 population: 1500
 country_id: TH
 country_name: Thailand
+location: Southern Thailand
+area: Austronesian language spoken in Thailand
 status_id: 6b
 scope: individual
 language_type: living

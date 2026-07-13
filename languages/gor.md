@@ -2,10 +2,12 @@
 iso: gor
 name: Gorontalo
 autonym: Bahasa Hulontalo
-alt_names: [Hulontalo]
+alt_names: [Hulontalo, Gorongtalo, Guarantala, Gunongtello, Holontalo, East Gorontalo, Gorontalo Kota, Kwandang, Limboto, Limbotto, Tilamuta, West Gorontalo]
 population: 505000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Language in northern Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

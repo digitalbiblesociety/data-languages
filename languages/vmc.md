@@ -6,6 +6,8 @@ alt_names: [Ayutla Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero M
 population: 16000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixtec languages of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

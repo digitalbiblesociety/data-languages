@@ -6,6 +6,7 @@ alt_names: [Tushinawa, Tutxinawa, Tuxinaua, Tuxinawa]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Panoan language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

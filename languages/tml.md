@@ -6,6 +6,8 @@ alt_names: [Asmat, Asmat (Flamingo Bay), "Citak, Tamnim", Tamnim]
 population: 290
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 塔明尼姆齐塔克语
     auto: true
 ---
+Citak or Kaunak is the Papuan language of Citak-Mitak district (kecamatan), Mappi Regency, Indonesia. It is called by its speakers Kau Adagum, Citak is an exonym from the Awyu people. Tamnim Citak is a distinct dialect. Diuwe is unverified as a language.

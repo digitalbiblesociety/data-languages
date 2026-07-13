@@ -2,15 +2,18 @@
 iso: niv
 name: Gilyak
 autonym: Gilyak
-alt_names: [Amur, Amur Nivkh, Gelyak, Ghiliak, Ghilyak, Giljakisk, "Gilyak, Nivkh", Giriyaaku, Nivejí (Sajalín), Nivkh, Nivkh (South Sakhalin), Nivkh language, Nivkhe, Nivkhe (Amour), Nivkhe (Sakhaline), Nivkhi, Nivukhi, Nivx, Нивх, Нивхгу диф, Ньиғвӈгун, ניבחית]
+alt_names: [Amur, Amur Nivkh, Gelyak, Ghiliak, Ghilyak, Giljakisk, "Gilyak, Nivkh", Giriyaaku, Nivejí (Sajalín), Nivkh, Nivkh (South Sakhalin), Nivkh language, Nivkhe, Nivkhe (Amour), Nivkhe (Sakhaline), Nivkhi, Nivukhi, Nivx, Нивх, Нивхгу диф, Ньиғвӈгун, ניבחית, East Sakhalin Gilyak, Nivxgu, North Sakhalin Gilyak]
 population: 2000
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Paleosiberian language family
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 52.59001
 longitude: 140.68089
+language_map_img: Nivkh_settlements_2002_map_vector.svg
 glottocode: gily1242
 glottolog_family_id: nivk1234
 glottolog_family_name: Nivkh

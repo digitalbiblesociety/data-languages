@@ -6,6 +6,8 @@ alt_names: [Menraq, "Menri'", Menrik, Menriq]
 population: 160
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

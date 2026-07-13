@@ -6,6 +6,7 @@ alt_names: [Kobai, Kowai, Umboi]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
 status_id: "4"
 scope: individual
 language_type: living

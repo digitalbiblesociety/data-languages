@@ -2,10 +2,12 @@
 iso: bgd
 name: Rathwi Bareli
 autonym: Bareli
-alt_names: [Barel, "Bareli, Rathwi", Pauri, Pawari, Pawri, Rathi, Rathia, Rathwi Pauri]
+alt_names: [Barel, "Bareli, Rathwi", Pauri, Pawari, Pawri, Rathi, Rathia, Rathwi Pauri, Barela, Paura]
 population: 359000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Bhil language of India
 status_id: "5"
 scope: individual
 language_type: living

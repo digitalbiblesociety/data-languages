@@ -2,10 +2,12 @@
 iso: isu
 name: Isu
 autonym: "Idzəŋi Isu, Idzəŋi Usu"
-alt_names: [Cameroon, Isu, "Isu (Northwest Region, Cameroon)"]
+alt_names: [Cameroon, Isu, "Isu (Northwest Region, Cameroon)", Isu (Menchum Division)]
 population: 10400
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

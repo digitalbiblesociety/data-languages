@@ -2,10 +2,12 @@
 iso: bot
 name: Bongo
 autonym: Bungu
-alt_names: [Dor]
+alt_names: [Dor, Bungo, Busere Bongo, Tonj Bongo]
 population: 21000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central sudanic language spoken in South Sudan
 status_id: 6b
 scope: individual
 language_type: living

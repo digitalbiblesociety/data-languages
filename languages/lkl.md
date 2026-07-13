@@ -6,6 +6,8 @@ alt_names: [Laeko, Laeko-Limbuat, Waitalu, Watalu, Watulu]
 population: 518
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

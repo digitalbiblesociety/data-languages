@@ -6,6 +6,8 @@ alt_names: [Baghi, Bghai Karen, Brec, Bræ, Brè, Bwe, Karen (Bwe), "Karen, Bwe"
 population: 15700
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language spoken in Burma
 status_id: 6b
 scope: individual
 language_type: living

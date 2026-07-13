@@ -6,11 +6,14 @@ alt_names: ["Gbe, Maxi", Mahi, Maxi, Maxi-Gbe]
 population: 401000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.57292
 longitude: 1.781805
+language_map_img: 500px-Gbe_languages.webp
 glottocode: maxi1236
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -58,3 +61,4 @@ rolv_dialects:
     country_id: TG
     location: Togo
 ---
+Fon, also known as Dahomean or Beninese, is the language of the Fon people. It belongs to the Gbe group within the larger Atlantic–Congo family. It is primarily spoken in Benin, as well as in Nigeria and Togo by approximately 2.3 million speakers. Like the other Gbe languages, Fon is an isolating language with a SVO basic word order.

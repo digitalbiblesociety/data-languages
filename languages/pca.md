@@ -6,6 +6,8 @@ alt_names: [Chocho-Popoloka, Ngigua, Popoloca, "Popoloca, Santa Inés Ahuatempan
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Oto-Manguean language spoken in Mexico
 status_id: "7"
 scope: individual
 language_type: living
@@ -59,3 +61,5 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Puebla"
 ---
+Western Popoloca is an indigenous language of Puebla state, Mexico. There are two principal varieties, sometimes counted as distinct languages,Santa Inés Ahuatempan Popoloca 
+San Felipe Otlaltepec Popoloca

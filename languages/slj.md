@@ -5,11 +5,14 @@ autonym: tarëno ijomi
 population: 240
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Carib language of Brazil
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 1.74782
 longitude: -56.5107
+glottocode: salu1254
 wikidata_id: Q7406296
 wikipedia_url: "https://en.wikipedia.org/wiki/Salum%C3%A1_language"
 translations:

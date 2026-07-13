@@ -3,6 +3,7 @@ iso: swa
 iso639_1: sw
 name: Swahili
 autonym: كِسْوَحِيلِ
+alt_names: [Kiswahili]
 population: 15437390
 country_id: TZ
 country_name: Tanzania

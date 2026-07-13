@@ -2,10 +2,12 @@
 iso: noi
 name: Noiri
 autonym: null
-alt_names: [Bhilori, Mathwadi]
+alt_names: [Bhilori, Mathwadi, Barutiya, Mathwadi Bhilori]
 population: 100000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Maharashtra"
 ---
+Bhilori is a Bhil language of India. There are 100,000 speakers of each of the two varieties, Dungra and Noiri, which are highly intelligible with each other.

@@ -6,6 +6,8 @@ alt_names: [Bubbure, Bubburè]
 population: 500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 8a
 scope: individual
 language_type: living

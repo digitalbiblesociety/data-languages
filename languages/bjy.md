@@ -6,11 +6,13 @@ alt_names: [Baiali, Bajali, Bayelle, Biele, Bieli, Byelle, Byellee, Byellel, Cha
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -24.97935
 longitude: 151.69855
+language_map_img: 500px-Tribes_around_Gladstone1.webp
 glottocode: baya1257
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

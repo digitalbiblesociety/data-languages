@@ -3,15 +3,18 @@ iso: zgm
 macrolanguage_id: zha
 name: Minz Zhuang
 autonym: Minz
-alt_names: ["Zhuang, Minz"]
+alt_names: ["Zhuang, Minz", Black Zhuang, Bu Xiong, Kon Min, Cuengh, Heiyi Zhuang, Heiyi Zhuang Minz, Min, Sung, Zong, Zong Zhuang]
 population: 2600
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Tai language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.33
 longitude: 105.5
+language_map_img: 500px-Min-Zhuang.webp
 glottocode: minz1236
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

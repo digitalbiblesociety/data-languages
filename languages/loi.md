@@ -6,11 +6,13 @@ alt_names: [Loma, "Loma (Cote d'Ivoire)", Lomapo, Lomasse, Malinke]
 population: 8010
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Gur language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.40172
 longitude: -3.47051
+language_map_img: Kulango_languages_map.svg
 glottocode: loma1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

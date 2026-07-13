@@ -6,6 +6,7 @@ alt_names: [Badi Kanum, Bädi, Enkelembu, Kanum, Kanum (Bädi), "Kanum, Bädi", 
 population: null
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 巴迪·卡努姆语
     auto: true
 ---
+Ngkolmpu Kanum, or Ngkontar, is part of a dialect chain in the Yam family spoken by the Kanum people of New Guinea. The Ngkâlmpw (Ngkontar) and moribund Bädi varieties have limited mutual intelligibility may be considered distinct languages.

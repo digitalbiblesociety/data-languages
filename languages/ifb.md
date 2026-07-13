@@ -2,15 +2,18 @@
 iso: ifb
 name: Batad Ifugao
 autonym: Ayangan Ifugao
-alt_names: [Batad, Ifugao, Ifugao (Batad), Ifugao language, "Ifugao, Ayangan", "Ifugao, Batad", Ifugu]
+alt_names: [Batad, Ifugao, Ifugao (Batad), Ifugao language, "Ifugao, Ayangan", "Ifugao, Batad", Ifugu, Ifugaw, Ducligan Ifugao]
 population: 10100
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.82656
 longitude: 121.23011
+language_map_img: 500px-Ifugao_dialect_cluster_map.webp
 glottocode: bata1298
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -59,3 +62,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Ifugao"
 ---
+Ifugao is a Malayo-Polynesian language spoken in the northern valleys of Ifugao, Philippines. It is a member of the Northern Luzon subfamily and is closely related to the Bontoc, Balangaw, and Kankanaey languages. It is a dialect continuum, and its four main varieties—such as Tuwali—are sometimes considered separate languages.

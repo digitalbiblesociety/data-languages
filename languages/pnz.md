@@ -2,10 +2,12 @@
 iso: pnz
 name: Pana
 autonym: Pani
-alt_names: [Pana]
+alt_names: [Pana, Gonge, Man, Pondo]
 population: 10000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Mbum language of the Central African Republic
 status_id: "5"
 scope: individual
 language_type: living

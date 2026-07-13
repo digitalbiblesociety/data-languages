@@ -6,6 +6,8 @@ alt_names: [Agnagan, Anyanga, Genyanga, Guang]
 population: 12000
 country_id: TG
 country_name: Togo
+location: Togo
+area: Guang language spoken in Togo
 status_id: 6a
 scope: individual
 language_type: living

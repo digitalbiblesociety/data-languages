@@ -2,15 +2,18 @@
 iso: ude
 name: Udihe
 autonym: Удиэ
-alt_names: [Oudihe, Oudiheg, Udege, Udege language, Udegeis, Udegejsk, Udeghe, Udehe, Udeheische, Udekhe]
+alt_names: [Oudihe, Oudiheg, Udege, Udege language, Udegeis, Udegejsk, Udeghe, Udehe, Udeheische, Udekhe, Kiakala]
 population: 1657
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Tungusic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 46.63086
 longitude: 135.67762
+language_map_img: Udihe-Oroch-Taz-territorial-groups.webp
 scripts: [Cyrl]
 glottocode: udih1248
 glottolog_family_id: tung1282

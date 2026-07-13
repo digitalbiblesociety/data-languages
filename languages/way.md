@@ -2,10 +2,12 @@
 iso: way
 name: Wayana
 autonym: Alukuyana
-alt_names: [Northern Wayana, Oayana, Oiana, Ouayana, Oyana, Roucouyenne, Uaiana, Upurui, Upuruí, Urukuyana, Wajana, Wayâna, Wyandot]
+alt_names: [Northern Wayana, Oayana, Oiana, Ouayana, Oyana, Roucouyenne, Uaiana, Upurui, Upuruí, Urukuyana, Wajana, Wayâna, Wyandot, Aparaí, Ayana, Guayana, Rucuyen, Urucena, Urucuiana, Waiana]
 population: 1740
 country_id: SR
 country_name: Suriname
+location: Northeastern Brazil
+area: Cariban language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living

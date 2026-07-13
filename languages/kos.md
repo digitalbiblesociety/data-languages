@@ -2,15 +2,18 @@
 iso: kos
 name: Kosraean
 autonym: Kosrae
-alt_names: [Kosreano, Kusaie, Kusaiean]
+alt_names: [Kosreano, Kusaie, Kusaiean, Lelu-Tafunsak, Malen-Utwe]
 population: 7790
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Oceanic language spoken in Micronesia
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 5.5
 longitude: 163
+language_map_img: Micronesian_languages.en.webp
 scripts: [Latn]
 glottocode: kosr1238
 glottolog_family_id: aust1307

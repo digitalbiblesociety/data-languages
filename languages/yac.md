@@ -2,10 +2,12 @@
 iso: yac
 name: Pass Valley Yali
 autonym: Yalimo
-alt_names: [Abendago, North Ngalik, Pass Valley, Western Yali, Yali, "Yali, Pass Valley", Yaly]
+alt_names: [Abendago, North Ngalik, Pass Valley, Western Yali, Yali, "Yali, Pass Valley", Yaly, Apahapsili, Landikma]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dani language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Papua"
 ---
+Yali is a Papuan language of Indonesian New Guinea. The Yali people live east of the Baliem Valley, in the Western Highlands.

@@ -6,11 +6,14 @@ alt_names: [Dibolug, Dimisi, Dimsisi, Tame]
 population: 1610
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Pahoturi language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.75976
 longitude: 142.30075
+language_map_img: 500px-Map_of_Pahoturi_River_languages.webp
 glottocode: idii1243
 glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi

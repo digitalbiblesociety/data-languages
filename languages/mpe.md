@@ -2,10 +2,12 @@
 iso: mpe
 name: Majang
 autonym: "Ato Majanger-Onk"
-alt_names: [Ajo, Ato Majang, Majanjiro, Masango, Masongo, Mesengo, Ojanjur, Tama]
+alt_names: [Ajo, Ato Majang, Majanjiro, Masango, Masongo, Mesengo, Ojanjur, Tama, Ato Majangerongk, Mejenger, Messengo, Mezhenger]
 population: 30000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Eastern Sudanic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

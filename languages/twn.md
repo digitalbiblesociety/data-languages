@@ -6,6 +6,8 @@ alt_names: [Tiwa (Northern)]
 population: 1000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Mambiloid language of Cameroon
 status_id: 8a
 scope: individual
 language_type: living

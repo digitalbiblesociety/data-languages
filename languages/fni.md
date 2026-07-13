@@ -6,6 +6,8 @@ alt_names: [Eywe, Fagnia, Fana, Fanian, Fanya, Fanyan, Fulfulde (Nigerian), Kobe
 population: 1100
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

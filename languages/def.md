@@ -6,6 +6,7 @@ alt_names: [Dezhfili, Dizfuli]
 population: 340000
 country_id: IR
 country_name: Iran
+area: "Persian dialect of Khuzestan, Iran"
 status_id: 6a
 scope: individual
 language_type: living

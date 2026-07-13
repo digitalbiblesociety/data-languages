@@ -6,6 +6,8 @@ alt_names: [Gangang, Gashish]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Dialect continuum of Plateau languages in Nigeria
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 加南语
     auto: true
 ---
+Izere is a dialect continuum of Plateau languages in Nigeria. According to Blench (2008), it is four languages, though Ethnologue does not distinguish NW and NE Izere. The Cen and Ganang varieties are spoken by only 2000 each. Cen has added Berom noun-class prefixes and consonant alternation to an Izere base.

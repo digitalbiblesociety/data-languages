@@ -6,6 +6,8 @@ alt_names: [Beke, Dagu, Dagu of Darfur, Daju, Daju (Dar Fur), Daju Ferne, "Daju,
 population: 98000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Daju language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Sudan]
 population: 50000
 country_id: SS
 country_name: South Sudan
+area: Central Sudanic language spoken in South Sudan
 status_id: "10"
 scope: individual
 language_type: extinct

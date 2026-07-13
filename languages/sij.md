@@ -6,6 +6,8 @@ alt_names: [Numbani, Sipoma]
 population: 270
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Austronesian language
 status_id: 6b
 scope: individual
 language_type: living

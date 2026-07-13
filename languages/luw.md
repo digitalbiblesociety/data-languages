@@ -2,10 +2,11 @@
 iso: luw
 name: Luo
 autonym: null
-alt_names: [Cameroon, Luo]
+alt_names: [Cameroon, Luo, Luo (Cameroon)]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Endangered language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living

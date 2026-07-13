@@ -51,3 +51,4 @@ translations:
     name: 古匈牙利语
     auto: true
 ---
+Hungarian is a Uralic language of the Ugric group. It has been spoken in the region of modern-day Hungary since the Hungarian conquest of the Carpathian Basin in the late 9th century.

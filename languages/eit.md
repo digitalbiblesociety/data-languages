@@ -6,6 +6,8 @@ alt_names: [Endangen, Indiang]
 population: 500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

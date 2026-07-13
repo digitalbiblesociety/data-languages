@@ -5,6 +5,7 @@ autonym: Essouma
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Extinct language of Ivory Coast
 status_id: null
 scope: individual
 language_type: extinct

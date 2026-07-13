@@ -2,10 +2,12 @@
 iso: rwm
 name: Amba
 autonym: Kwamba
-alt_names: [Amba, Amba people, Hamba, Humu, Kihumu, Kiumu, Ku-Amba, Kuamba, Lubulebule, Lwamba, Ruwenzori Kibira, Rwamba]
+alt_names: [Amba, Amba people, Hamba, Humu, Kihumu, Kiumu, Ku-Amba, Kuamba, Lubulebule, Lwamba, Ruwenzori Kibira, Rwamba, Bulebule, Baamba, Hambo, Kigumu, Kihyanzi, Kusuwa, Kyanzi, Suwa]
 population: 47100
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Bantu language of Uganda and the DRC
 status_id: 6b
 scope: individual
 language_type: living

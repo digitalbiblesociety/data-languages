@@ -2,10 +2,12 @@
 iso: pkb
 name: Pokomo
 autonym: Kipfokomo
-alt_names: [Kipokomo, Lower Pokomo, Malachini, Pfokomo, "Pokomo, Upper", Upper Pokomo]
+alt_names: [Kipokomo, Lower Pokomo, Malachini, Pfokomo, "Pokomo, Upper", Upper Pokomo, Buu I, Buu II, Buu III, Dzunza, Gwano, Kalindi, Kinakomba, Kulesa, Malalulu, Mwina, Ndera, Ndura, Ngatana, Zubaki]
 population: 112000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living

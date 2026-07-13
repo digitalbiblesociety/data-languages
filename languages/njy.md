@@ -6,11 +6,14 @@ alt_names: [Djem, Dzem, Ndjem, Ndjeme, Ndzem, Ngyeme, Njem, Nyem]
 population: 3500
 country_id: CM
 country_name: Cameroon
+location: Congo
+area: Bantu language of Congo and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 2.304825
 longitude: 14.11747
+language_map_img: 500px-Maka-Njem_ethnic_groups.webp
 glottocode: njye1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

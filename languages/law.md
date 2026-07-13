@@ -2,10 +2,12 @@
 iso: law
 name: Lauje
 autonym: Laudje
-alt_names: [Ampibabo-Lauje, Tinombo]
+alt_names: [Ampibabo-Lauje, Tinombo, Ampibabo]
 population: 49800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Celebic language of Sulawesi in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

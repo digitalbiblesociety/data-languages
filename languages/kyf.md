@@ -2,10 +2,12 @@
 iso: kyf
 name: Kouya
 autonym: null
-alt_names: [Kowya, Kuya, Sokya]
+alt_names: [Kowya, Kuya, Sokya, Sokuya, Sɔkɔwɛlɩ]
 population: 10100
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

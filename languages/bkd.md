@@ -6,11 +6,14 @@ alt_names: [Binokid, Binukid Manobo, Bukidnon, Talaandig]
 population: 122000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Manobo language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 8.15933
 longitude: 124.89245
+language_map_img: 500px-Binukid_language_map.webp
 glottocode: binu1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

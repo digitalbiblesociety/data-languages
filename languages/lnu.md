@@ -2,10 +2,12 @@
 iso: lnu
 name: Longuda
 autonym: Nyà Núngúrá
-alt_names: [Group 10, Languda, Longura, Nunguda, Nungura, Nunguraba]
+alt_names: [Group 10, Languda, Longura, Nunguda, Nungura, Nunguraba, Banjiram, Cirimba, Guyuk, Gwandaba, Jessu, Nya Ceriya, Nya Dele, Nya Guyuwa, Nya Gwanda, Nya Tariya, Nyuwar, Plain Nya Guyuwa, Taraba, Turuba]
 population: 99000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Niger–Congo language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

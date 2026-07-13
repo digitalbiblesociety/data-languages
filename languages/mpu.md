@@ -6,6 +6,8 @@ alt_names: [Kurateg, Macurap, Macurape, Macurapi, Makurap, Makurape, Makurápi, 
 population: 110
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living

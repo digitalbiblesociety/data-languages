@@ -6,6 +6,7 @@ alt_names: [Indo-Pakistani Sign Language (Karachi dialect)]
 population: 1080000
 country_id: PK
 country_name: Pakistan
+area: Sign language of the Indian subcontinent
 status_id: "5"
 scope: individual
 language_type: living
@@ -46,3 +47,4 @@ translations:
   - translation_iso: zho
     name: 巴基斯坦手语
 ---
+Indo-Pakistani Sign Language is the predominant sign language in the subcontinent of South Asia, used by at least 15 million deaf signers. As with many sign languages, it is difficult to estimate numbers with any certainty, as the Census of India does not list sign languages and most studies have focused on the north and urban areas. As of 2024, it is the most used sign language in the world, and Ethnologue ranks it as the 149th most spoken language in the world.

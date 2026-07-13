@@ -2,10 +2,12 @@
 iso: vmy
 name: Ayautla Mazatec
 autonym: (San Bartolomé Ayautla)
-alt_names: [Ayautla Soyaltepec Masateko, Masateko, Mazatec, "Mazatec, Ayautla", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec]
+alt_names: [Ayautla Soyaltepec Masateko, Masateko, Mazatec, "Mazatec, Ayautla", Mazateco, Mazateco de Ayautla, Mazateco de Ixcatlán, Mazateco de Soyaltepec, "Mazatèque d'Ayautla", "Mazatèque d'Ixcatlán", Mazatèque de Soyaltepec, Ayautla, Enre naxinanda nguifi, Mazateco del Sureste]
 population: 2800
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mazatecan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living

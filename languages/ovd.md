@@ -5,6 +5,7 @@ autonym: Övdalian
 population: 2000
 country_id: SE
 country_name: Sweden
+area: North Germanic language spoken in Sweden
 status_id: null
 scope: individual
 language_type: living

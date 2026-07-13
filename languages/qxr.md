@@ -3,15 +3,18 @@ iso: qxr
 macrolanguage_id: que
 name: Cañar Highland Quichua
 autonym: Kichwa Shimi
-alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Canar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Cañar Highland", Salasca, Tena Quichua]
+alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Canar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Cañar Highland", Salasca, Tena Quichua, Quichua Cañar Highland, Kichwa, Quichua de la provincia de Cañar, Runa Shimi]
 population: 100000
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Quechuan language of Ecuador and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -2.48314
 longitude: -78.96725
+language_map_img: KichwaQ.svg
 glottocode: cana1262
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 卡尼亚高地基楚亚语
     auto: true
 ---
+Kichwa is a Quechuan language that includes all Quechua varieties of Ecuador and Colombia (Inga), as well as extensions into Peru. It has an estimated half million speakers.

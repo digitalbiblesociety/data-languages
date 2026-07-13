@@ -2,9 +2,11 @@
 iso: xki
 name: Kenyan Sign Language
 autonym: KSL
+alt_names: [KESL, Kisumu, Mombasa, Nairobi]
 population: 600000
 country_id: KE
 country_name: Kenya
+area: Deaf sign language of Kenya and Somalia
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Egwa]
 population: 2500
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language of south-central Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

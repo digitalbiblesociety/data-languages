@@ -6,6 +6,8 @@ alt_names: [Mapayo, Mapoye, Mapoyo-Yavarana, Mapójó, Mopoi, Nepoye, Wanai]
 population: 365
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Extinct language of Venezuela
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: pot
 name: Potawatomi
 autonym: Neshnabémwen
-alt_names: [Bodewadmi, Bodéwadmi, Potahuatomí (Wisconsin), Potawotami, Pottawotomi, Потаватоми]
+alt_names: [Bodewadmi, Bodéwadmi, Potahuatomí (Wisconsin), Potawotami, Pottawotomi, Потаватоми, "Bode'wadmi", Nishnabek, Pottawottomi]
 population: 1300
 country_id: US
 country_name: United States
+location: Canada
+area: Central Algonquian language
 status_id: 8a
 scope: individual
 language_type: living

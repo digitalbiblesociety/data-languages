@@ -2,15 +2,18 @@
 iso: guu
 name: Yanomamö
 autonym: Yąnomamɨ
-alt_names: [Cobari Kobali, Cobariwa, Guaharibo, Guaica, Guaicá, Guajaribo, Shaathari, Shamatari, Shamateri, Shamatri, Yamomame, Yanomaman language area, Yanomame, Yanomami, Yanomamo, Yanomamï, Yanomamɨ, Yanomani]
+alt_names: [Cobari Kobali, Cobariwa, Guaharibo, Guaica, Guaicá, Guajaribo, Shaathari, Shamatari, Shamateri, Shamatri, Yamomame, Yanomaman language area, Yanomame, Yanomami, Yanomamo, Yanomamï, Yanomamɨ, Yanomani, Eastern Yanomami, Ianomami, Padamo-Orinoco, Parima, Western Yanomami, Yanoama, Yanoamae, Yanoamï, Yanomae, Yanomam]
 population: 16200
 country_id: VE
 country_name: Venezuela
+location: Northwestern Brazil
+area: One of several languages spoken by the Yanomami people of Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 1.679675
 longitude: -64.878075
+language_map_img: Yanomaman.svg
 glottocode: yano1261
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic

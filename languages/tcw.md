@@ -6,6 +6,8 @@ alt_names: [Tecpatlan Totonac, Totonac, "Totonac, Tecpatlán", Totonacano de Pat
 population: 540
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Totonac language of central Mexico
 status_id: 6b
 scope: individual
 language_type: living

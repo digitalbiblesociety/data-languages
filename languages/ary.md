@@ -3,15 +3,18 @@ iso: ary
 macrolanguage_id: ara
 name: Moroccan Arabic
 autonym: الدارجة Darija
-alt_names: [Arabe marocain, Arabe marokin, Arabe marroquí, Arabeg Maroko, Arabic, Arabic (Moroccan Spoken), Arabic (Moroccan), Arabic (Western), "Arabic, Moroccan", "Arabic, Moroccan Spoken", Maghrebi Arabic, Maghribi Colloquial Arabic, Marokanski arapski, Marokańska odmiana języka arabskiego, Marokkaans-Arabisch, Marokkanisch-Arabisch, Moroccan, Moroccan Colloquial Arabic, Moroccan Darija, Árabe marroquí, ערבית מרוקאית, لهجة مغربية, مغربى]
+alt_names: [Arabe marocain, Arabe marokin, Arabe marroquí, Arabeg Maroko, Arabic, Arabic (Moroccan Spoken), Arabic (Moroccan), Arabic (Western), "Arabic, Moroccan", "Arabic, Moroccan Spoken", Maghrebi Arabic, Maghribi Colloquial Arabic, Marokanski arapski, Marokańska odmiana języka arabskiego, Marokkaans-Arabisch, Marokkanisch-Arabisch, Moroccan, Moroccan Colloquial Arabic, Moroccan Darija, Árabe marroquí, ערבית מרוקאית, لهجة مغربية, مغربى, Colloquial Arabic, Maghribi, Moroccan Dareja, Moroccan Dereja, الإنجيل بالدارجة المغربية, Fez, Jbala, Jebelia, Jebli, Marrakech, Meknes, Moroccan Spoken, Oujda, Rabat-Casablanca Arabic, Southern Morocco Arabic, Tangier]
 population: 27500000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Vernacular Arabic spoken in Morocco
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 32.5
 longitude: -7.5
+language_map_img: ary.webp
 scripts: [Arab]
 glottocode: moro1292
 glottolog_family_id: afro1255

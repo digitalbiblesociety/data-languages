@@ -2,10 +2,12 @@
 iso: oym
 name: Wayampi
 autonym: Guaiapi
-alt_names: [Aipi, Emérillon, Guayapi, Karipuna, Oiampí, Oiumpian, Oyampi, Oyampí, Oyampík, Oyanpík, Oyapí, Waiampi, Waiãpi, Wajapae, Wajapi, Wajapuku, Wajãpi, Wayampi (Amapari)/Wayampi (Oiapoque), Wayampí, Wayampí language area, Wayapae, Wayapi, Wayãpi]
+alt_names: [Aipi, Emérillon, Guayapi, Karipuna, Oiampí, Oiumpian, Oyampi, Oyampí, Oyampík, Oyanpík, Oyapí, Waiampi, Waiãpi, Wajapae, Wajapi, Wajapuku, Wajãpi, Wayampi (Amapari)/Wayampi (Oiapoque), Wayampí, Wayampí language area, Wayapae, Wayapi, Wayãpi, “Oiampipucu”, “Oyampipuku”, Amapari Wayampi, Jari, Oiyapoque, Oiyapoque Wayampi, Wayãpy]
 population: 1660
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Tupian language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living

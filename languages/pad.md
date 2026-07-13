@@ -2,10 +2,12 @@
 iso: pad
 name: Paumarí
 autonym: Pamoari
-alt_names: [Curucuru, Kurukuru, Palmarí, Pamari, Pamarí, Pammari, Pammarí, Paumari, Paumarieg, Purupuru, Purupurú]
+alt_names: [Curucuru, Kurukuru, Palmarí, Pamari, Pamarí, Pammari, Pammarí, Paumari, Paumarieg, Purupuru, Purupurú, Palmari, Paumarm, Uaiai]
 population: 290
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Arauan language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living

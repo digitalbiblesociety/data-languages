@@ -2,10 +2,12 @@
 iso: vun
 name: Vunjo
 autonym: Central Chaga
-alt_names: [Kivunjo, Kiwunjo, Wunjo, Wunjo language]
+alt_names: [Kivunjo, Kiwunjo, Wunjo, Wunjo language, Kilema, Kiruwa, Kivunjo-Chaga, Lema, Mamba, Marangu, "Morang'u", Mwika]
 population: 14200
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: TZ
     location: Tanzania
 ---
+Central Kilimanjaro, or Central Chaga, is a Bantu language of Tanzania spoken by the Chaga people.

@@ -2,10 +2,12 @@
 iso: lfa
 name: Lefa
 autonym: Balom
-alt_names: [Fak, "Lefa'"]
+alt_names: [Fak, "Lefa'", Lefa’]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

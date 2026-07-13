@@ -3,10 +3,12 @@ iso: dib
 macrolanguage_id: din
 name: South Central Dinka
 autonym: Thuɔŋjäŋ
-alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka]
+alt_names: [Agar, Central Dinka, Dinka, "Dinka, South Central", Mittel-Dinka, Ador, Ajak, Aker, Aliab, Aliap, Chiech, Cic, Ciec, Ciem, Cok, Agar-Bor Dinka, Gauk, Gok, Kwac, South Central, Thany]
 population: 851000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Nilotic dialect cluster spoken by the Dinka people of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
@@ -73,3 +75,4 @@ rolv_dialects:
     country_id: SS
     location: South Sudan
 ---
+Dinka is a Nilotic dialect cluster spoken by the Dinka people, a major ethnic group of South Sudan. There are several main varieties, such as Padang, Rek, Agaar, Ciec, Malual, Aliab, Bor, Hol, Nyarweng, Twic East and Twic Mayardit, which are distinct enough to require separate literary standards. Jaang, Jieng or Muonyjieng is used as a general term to cover all Dinka languages. Recently Akutmɛ̈t Latueŋ Thuɔŋjäŋ has proposed a unified written grammar of Dinka.

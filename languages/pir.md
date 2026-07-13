@@ -2,15 +2,18 @@
 iso: pir
 name: Piratapuyo
 autonym: Wanano
-alt_names: [Anana, Ananas, Guanano, Kotiria, Kótedia, Kótirya, Pira-Tapuya, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uaíana, Uiquina, Urubu-Tapuya, Waikena, Waikhara, Waikina, Waikino, Waina, Wanana, Wanana-Pirá, Wanano-Piratapuyo, Wanâna, Waíana, Yurutí (Brésil), Yurutí (Colombia), Yurutí (Colombie), kotirya (Brésil), kotirya (Colombie), kótedia (Colombia)]
+alt_names: [Anana, Ananas, Guanano, Kotiria, Kótedia, Kótirya, Pira-Tapuya, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uaíana, Uiquina, Urubu-Tapuya, Waikena, Waikhara, Waikina, Waikino, Waina, Wanana, Wanana-Pirá, Wanano-Piratapuyo, Wanâna, Waíana, Yurutí (Brésil), Yurutí (Colombia), Yurutí (Colombie), kotirya (Brésil), kotirya (Colombie), kótedia (Colombia), Pira-Tapuia, Piratapuia, Piratapuya, Waíkana]
 population: 1330
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Tucanoan language spoken in Brazil and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.50714
 longitude: -69.50317
+language_map_img: Wanano.webp
 glottocode: pira1254
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

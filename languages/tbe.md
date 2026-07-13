@@ -6,6 +6,8 @@ alt_names: [Nyisunggu]
 population: 15
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Endangered language of Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

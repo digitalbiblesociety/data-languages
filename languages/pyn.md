@@ -6,6 +6,7 @@ alt_names: [Poianáua, Poyanawa, Poyannawa, Puinahua, Puinaua, Puyanawa]
 population: 403
 country_id: BR
 country_name: Brazil
+area: Panoan language spoken in Brazil
 status_id: "9"
 scope: individual
 language_type: living

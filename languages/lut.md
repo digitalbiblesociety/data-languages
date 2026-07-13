@@ -6,6 +6,8 @@ alt_names: [Dxʷləšúcid, Niskwalli, Puget Salish, Puget Sound Salish, Pugué,
 population: 2000
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Salishan language or dialect continuum of North America
 status_id: 8b
 scope: individual
 language_type: extinct

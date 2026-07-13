@@ -6,6 +6,8 @@ alt_names: [Dgiéh, Giang Ray, Gie-Trieng, Pin, Strieng, Ta-Rieng, Talieng, Tare
 population: 15000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 特林格语
     auto: true
 ---
+Taliang is a Bahnaric language spoken by the Jeh-Tariang people of Laos and Vietnam. It is possibly related to the Stieng language of Vietnam and Cambodia.

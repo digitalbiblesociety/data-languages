@@ -2,10 +2,12 @@
 iso: tsc
 name: Tswa
 autonym: Xitswa
-alt_names: [Kitshwa, Sheetshwa, Shitshwa, Tshwa, Xitshwa]
+alt_names: [Kitshwa, Sheetshwa, Shitshwa, Tshwa, Xitshwa, Dzibi-Dzonga, Dzivi, Dzonga-Dzibi, Hlengwe, Khambana-Makwakwe, Khambani, Lengwe, Lhengwe, Makakwe-Khambana, Makawe-Khambana, Makwakwe-Khambana, Mandla, Ndxhonge, Nhayi, Shilengwe, Xidzivi]
 population: 1020000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in southern Mozambique
 status_id: "5"
 scope: individual
 language_type: living

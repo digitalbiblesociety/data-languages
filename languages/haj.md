@@ -2,10 +2,12 @@
 iso: haj
 name: Hajong
 autonym: হাজং ভাষা Hajong Bhasa
-alt_names: [Haijong, Hazong]
+alt_names: [Haijong, Hazong, Banai, Dalu, Hajang, Hajong Bhasa]
 population: 79800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living

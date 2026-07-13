@@ -6,6 +6,7 @@ alt_names: [Garig/Garig-Ilgar, Ilgar]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Iwaidjan language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct

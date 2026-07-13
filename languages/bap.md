@@ -2,10 +2,12 @@
 iso: bap
 name: Bantawa
 autonym: Bantaba
-alt_names: [Bantawa Dum, Bantawa Rai, Bantawa Yong, Bantawa YÃ¼ng, Bantawa Yüng, Bantawaish, Bantaweg, Bontawa, Kiranti, Rai, Rungchenbung, Rungchengbung, Rungchhenbung, Rungtśhenbung]
+alt_names: [Bantawa Dum, Bantawa Rai, Bantawa Yong, Bantawa YÃ¼ng, Bantawa Yüng, Bantawaish, Bantaweg, Bontawa, Kiranti, Rai, Rungchenbung, Rungchengbung, Rungchhenbung, Rungtśhenbung, Amchoke, An Yüng, Dhankuta, Dilpali, Eastern Bantawa, Hatuwali, Kirat Khambu, Kirat Khambu Rai, Kirawa Yüng, Northern Bantawa, Southern Bantawa, Western Bantawa]
 population: 166600
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Kiranti language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

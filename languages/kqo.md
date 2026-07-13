@@ -2,10 +2,12 @@
 iso: kqo
 name: Eastern Krahn
 autonym: Eastern Krahn
-alt_names: [Eastern Kran, "Krahn, Eastern", Kran]
+alt_names: [Eastern Kran, "Krahn, Eastern", Kran, Chiehn, Eastern, Gorbo, Kanneh, Konobo, Krahn, Tchien, Tchien-Krahn]
 population: 109800
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: "5"
 scope: individual
 language_type: living

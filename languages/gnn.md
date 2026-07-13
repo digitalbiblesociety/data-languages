@@ -2,10 +2,12 @@
 iso: gnn
 name: Gumatj
 autonym: "Dhay'yi"
-alt_names: [Dhuwal, Dhuwala, Go-maid, Gomadj, Gomaidj, Gumadj, Gumadji, Gumaidj, Gumait, Gumaitj, Gumaj, Komait]
+alt_names: [Dhuwal, Dhuwala, Go-maid, Gomadj, Gomaidj, Gumadj, Gumadji, Gumaidj, Gumait, Gumaitj, Gumaj, Komait, Mangalili]
 population: 120
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language of the Yolngu group spoken in the Northern Territory
 status_id: "5"
 scope: individual
 language_type: living
@@ -57,3 +59,4 @@ rolv_dialects:
     country_id: AU
     location: "Australia, Northern Territory, North-East Arnhem land"
 ---
+Dhuwal is one of the Yolŋu languages spoken by Aboriginal Australians in the Northern Territory, Australia. Although all Yolŋu languages are mutually intelligible to some extent, Dhuwal represents a distinct dialect continuum of eight separate varieties.

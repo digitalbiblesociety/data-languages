@@ -2,10 +2,12 @@
 iso: mbb
 name: Western Bukidnon Manobo
 autonym: Western Bukidnon Manobo
-alt_names: [Bukidnon, Manobo (Western Bukidnon), "Manobo, Western Bukidnon", West Bukidnon Manobo, Western Bukidnon]
+alt_names: [Bukidnon, Manobo (Western Bukidnon), "Manobo, Western Bukidnon", West Bukidnon Manobo, Western Bukidnon, Manobo, Ilentungen, Kiriyenteken, Menuvù, Pulangiyen]
 population: 15000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

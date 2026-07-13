@@ -2,10 +2,12 @@
 iso: acn
 name: Achang
 autonym: အာချန်
-alt_names: [Acang, "Ach'ang", Achung, Ahchan, Anchan, Atchangeg, Atsang, Atśang, Chintaw, Chung, Maingtha, MÃ¶nghsa, "Ngac'ang", "Ngac'ang language", Ngacang, Ngachang, Ngatsang, Ngatśang, Ngo Chang, Ngochang, "Tai Sa'", Xiandao, Xiandaohua, Xiantao, 仙島話]
+alt_names: [Acang, "Ach'ang", Achung, Ahchan, Anchan, Atchangeg, Atsang, Atśang, Chintaw, Chung, Maingtha, MÃ¶nghsa, "Ngac'ang", "Ngac'ang language", Ngacang, Ngachang, Ngatsang, Ngatśang, Ngo Chang, Ngochang, "Tai Sa'", Xiandao, Xiandaohua, Xiantao, 仙島話, Ach’ang, Mönghsa, Ngac’ang, Husa, Lianghe, Longchuan, Luxi, Manmaw]
 population: 62700
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Tibeto-Burman language of China and Myanmar
 status_id: "7"
 scope: individual
 language_type: living

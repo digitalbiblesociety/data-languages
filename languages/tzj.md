@@ -2,10 +2,12 @@
 iso: tzj
 name: "Tz'utujil"
 autonym: Tzʼutujiil
-alt_names: [Santiago AtitlÃ¡n Tzutujil, "Tz'utujil, Eastern", Tzutuhil, Tzutujil, Tzutujil Oriental, Tz’utujil, Zutuguilés]
+alt_names: [Santiago AtitlÃ¡n Tzutujil, "Tz'utujil, Eastern", Tzutuhil, Tzutujil, Tzutujil Oriental, Tz’utujil, Zutuguilés, Santiago Atitlán Tzutujil, Oriental, Eastern Tzutujil, Western Tzutujil]
 population: 106000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken by the Tzʼutujil people of Guatemala
 status_id: null
 scope: individual
 language_type: living

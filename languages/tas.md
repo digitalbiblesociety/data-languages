@@ -6,6 +6,7 @@ alt_names: [Annamito French, South Vietnam French, Tay Boy, Tây Bồi, Vietname
 population: null
 country_id: VN
 country_name: Vietnam
+area: French-based pidgin of Vietnam
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: ["'Bofi", Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minangende]
 population: 35000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language of the CAR
 status_id: 6a
 scope: individual
 language_type: living

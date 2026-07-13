@@ -3,10 +3,12 @@ iso: zpq
 macrolanguage_id: zap
 name: Zoogocho Zapotec
 autonym: (San Bartolomé Zoogocho)
-alt_names: [Cajonos Zapotec, Northern Sapoteko, Papabuco, Sapoteko, Villalta (non-preferred), Zapotec, Zapotec (Zoogocho), "Zapotec, Zoogocho", dill xhon]
+alt_names: [Cajonos Zapotec, Northern Sapoteko, Papabuco, Sapoteko, Villalta (non-preferred), Zapotec, Zapotec (Zoogocho), "Zapotec, Zoogocho", dill xhon, Zoogocho, Zapoteco de San Bartolomé Zoogocho, Dizhaꞌ Xhon, Dižaꞌxon, Tabehua, Yalina, Zapoteco de Tabehua, Zapoteco de Yalina]
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

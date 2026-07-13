@@ -2,10 +2,12 @@
 iso: kbh
 name: Camsá
 autonym: Coche
-alt_names: [Cams, Camsa, Camëntsëá, Kame.ntzá, Kamemtxa, Kamsa, Kamse, Kamsá, Kamtsá, Mocoa, Sibundoy, Sibundoy-Gaché]
+alt_names: [Cams, Camsa, Camëntsëá, Kame.ntzá, Kamemtxa, Kamsa, Kamse, Kamsá, Kamtsá, Mocoa, Sibundoy, Sibundoy-Gaché, Camënts̈á, Camëntxá, Kamëntsa]
 population: 4770
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Indigenous language of the Kamëntšá people of Colombia
 status_id: "5"
 scope: individual
 language_type: living

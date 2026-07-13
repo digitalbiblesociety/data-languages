@@ -2,10 +2,12 @@
 iso: yip
 name: Pholo
 autonym: Black Phula
-alt_names: [Pola, "Yi, Poluo"]
+alt_names: [Pola, "Yi, Poluo", Flowery Phula, Phu, Phula]
 population: 30000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language of Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

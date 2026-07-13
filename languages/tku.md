@@ -2,10 +2,12 @@
 iso: tku
 name: Upper Necaxa Totonac
 autonym: "Totonac, Upper Necaxa"
-alt_names: [Totonac, Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla]
+alt_names: [Totonac, Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Upper Necaxa, Patla and Chicontla Totonac, Totonaca, Totonaco del río Necaxa]
 population: 5800
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Totonacan language of central Mexico
 status_id: 6b
 scope: individual
 language_type: living

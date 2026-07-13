@@ -6,6 +6,8 @@ alt_names: [Adiri, Arderi, Dzodinka, Dzodzinka]
 population: 2600
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

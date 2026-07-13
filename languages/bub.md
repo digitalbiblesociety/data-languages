@@ -2,10 +2,12 @@
 iso: bub
 name: Bua
 autonym: Ba
-alt_names: ["'Ba", Boa, Boua, Boueg, Bwa]
+alt_names: ["'Ba", Boa, Boua, Boueg, Bwa, ’Ba]
 population: 7710
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Language of Chad
 status_id: 6a
 scope: individual
 language_type: living

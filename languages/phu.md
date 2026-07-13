@@ -6,11 +6,14 @@ alt_names: [Phu Un]
 population: 307000
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Tai language of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.520725
 longitude: 102.19119
+language_map_img: 500px-Phuan_language.webp
 glottocode: phua1239
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

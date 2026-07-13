@@ -2,15 +2,18 @@
 iso: cbk
 name: Chavacano
 autonym: Chabacano
-alt_names: [Chabakan, Chavacano-ngî, Tataramon na Zamboangueño, Zamboangueño, Чабакано]
+alt_names: [Chabakan, Chavacano-ngî, Tataramon na Zamboangueño, Zamboangueño, Чабакано, Chabakano, Abakay Spanish, Bahra, Cavite Chabacano, Caviteño, Chabacano de Zamboanga, Cotabateño, Cotabato Chavacano, Davao Chavacano, Davaoeño, Davaweño, Davaweño Zamboangueño, Ermitaño, Ermiteño, Español quebrao, Southern Mindinao Creole, Ternate Chabacano, Ternateño, Ternateño Chavacano, Zamboanga Chabacano]
 population: 427000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Spanish-based creole of the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 6.278085
 longitude: 119.376925
+language_map_img: 500px-Chavacano_language_map.webp
 glottocode: chav1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

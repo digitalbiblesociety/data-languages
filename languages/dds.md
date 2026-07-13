@@ -6,6 +6,8 @@ alt_names: ["Dogon, Donno So", Donno So]
 population: 45300
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon dialect
 status_id: "5"
 scope: individual
 language_type: living
@@ -54,3 +56,5 @@ translations:
     name: 多诺索多贡语
     auto: true
 ---
+Escarpment Dogon is a continuum of Dogon dialects of the Bandiagara Escarpment, including the standard language. There are three principal dialects:Toro So Tɔrɔ sɔɔ, called Bomu Tegu in the plains languages and also known as Dɔgɔsɔ, is the standard variety of Dogon, which is one of thirteen official languages of Mali.
+Tommo So Tɔmmɔ sɔ, called Tombo so by Bondum Dom speakers, is spoken in a region from Kasa to Bandiagara. It is more linguistically conservative than Toro So.

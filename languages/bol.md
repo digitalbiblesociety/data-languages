@@ -2,10 +2,12 @@
 iso: bol
 name: Bole
 autonym: Bòò Pìkkà
-alt_names: [Ampika, Bolanchi, Bolawa, Bolewa, Borpika, Daza, Dazawa]
+alt_names: [Ampika, Bolanchi, Bolawa, Bolewa, Borpika, Daza, Dazawa, Anpika, Bara, Bolanci, Fika, Fikankayen, bòo Pìkkà]
 population: 216000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

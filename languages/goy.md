@@ -6,6 +6,7 @@ alt_names: [Gundo]
 population: 30
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,14 +2,19 @@
 iso: bbx
 name: Bubia
 autonym: Bobe
+alt_names: [Bobea, Bota, Ewota, Wovea]
 population: 600
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu or Bantoid language of Equatorial Guinea
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 4.02178
 longitude: 9.22304
+language_map_img: 500px-Lenguas_de_Guinea_Ecuatorial.webp
+glottocode: bubi1249
 wikidata_id: Q34953
 wikipedia_url: "https://en.wikipedia.org/wiki/Wovea_language"
 translations:

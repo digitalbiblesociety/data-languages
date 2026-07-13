@@ -2,9 +2,12 @@
 iso: mti
 name: Maiwa
 autonym: Maiwa
+alt_names: [Gairen, Gwareta, Manigara, Oren, Oren Maiwa]
 population: 1400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Papuan language of New Guinea
 status_id: "5"
 scope: individual
 language_type: living

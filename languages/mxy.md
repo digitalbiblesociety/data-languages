@@ -2,10 +2,12 @@
 iso: mxy
 name: Southeastern Nochixtlán Mixtec
 autonym: (Santo Domingo Nuxaá)
-alt_names: [Central Nochistlán Mixtec, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, Southeastern Nochixtlán", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de Nuxaá, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlan Mixtec, Southern Misteko, Southern Mixteco, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
+alt_names: [Central Nochistlán Mixtec, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixtec, Huitepec Mixtec, Mitlatongo Mixtec, "Mixtec, Southeastern Nochixtlán", Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de Nuxaá, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Peñoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlan Mixtec, Southern Misteko, Southern Mixteco, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec, Santo Domingo Nuxaá Mixtec, San Andrés Nuxiño Mixtec, Santa Inés de Zaragoza Mixtec]
 population: 4075
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

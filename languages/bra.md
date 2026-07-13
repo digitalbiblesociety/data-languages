@@ -2,15 +2,18 @@
 iso: bra
 name: Braj
 autonym: Brij Bhasha
-alt_names: [Antarbedi, Antarvedi, Bijbhasha, Bradjbhakha, Braj Bhakha, Braj Bhasa, Braj Bhasha, Braj-Bhakha, Bri, Briju, Bruj, பிராஜ் பாஷா]
+alt_names: [Antarbedi, Antarvedi, Bijbhasha, Bradjbhakha, Braj Bhakha, Braj Bhasa, Braj Bhasha, Braj-Bhakha, Bri, Briju, Bruj, பிராஜ் பாஷா, Bhadauri, Bhuksa, Daihaati Zabaan, Dangi, Dehaati Zabaan, Jadobafi, Sikarwari, Towargarhi]
 population: 1560000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 26.4758
 longitude: 78.08125
+language_map_img: 500px-Braj_Bhasha_Region.webp
 scripts: [Deva]
 glottocode: braj1242
 glottolog_family_id: indo1319

@@ -2,7 +2,7 @@
 iso: oko
 name: Old Korean
 autonym: 고대 조선어
-alt_names: ["Korean, Old (3rd-9th cent.)"]
+alt_names: ["Korean, Old (3rd-9th cent.)", Old Korean (3rd-9th cent.)]
 population: null
 country_id: KR
 country_name: South Korea

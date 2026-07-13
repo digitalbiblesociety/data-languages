@@ -2,10 +2,11 @@
 iso: zgh
 name: Standard Moroccan Tamazight
 autonym: Moroccan Tamazight
-alt_names: ["Tamazight, Standard Moroccan"]
+alt_names: ["Tamazight, Standard Moroccan", Amazighe standard marocain]
 population: 2700000
 country_id: MA
 country_name: Morocco
+area: Variety of the Berber language used in Morocco
 status_id: "1"
 scope: individual
 language_type: living

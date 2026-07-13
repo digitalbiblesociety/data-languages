@@ -5,6 +5,8 @@ autonym: null
 population: 220
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Oceanic language of northeast New Guinea
 status_id: 6a
 scope: individual
 language_type: living

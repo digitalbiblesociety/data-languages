@@ -2,10 +2,12 @@
 iso: bky
 name: Bokyi
 autonym: Boki
-alt_names: [Byoki, Nfua, Nki, Okii, Osikom, Osukam, Uki, Vaaneroki]
+alt_names: [Byoki, Nfua, Nki, Okii, Osikom, Osukam, Uki, Vaaneroki, Abo, Abu, Bashua, Basua, Baswo, Boje, Bojie, Boorim, East Boki, Eastern Bokyi, Eerwee, Erwan, Irruan, Iruan, Kecwan, Kwakwagom, Nsadop, Oku, Okundi, Osokom, Oyokom, Wula]
 population: 268900
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bendi language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living

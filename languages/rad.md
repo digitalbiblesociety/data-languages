@@ -2,10 +2,12 @@
 iso: rad
 name: Rade
 autonym: klei Êđê
-alt_names: [De, E-De, Edeh, Raday, Radé, Rde, Rhade]
+alt_names: [De, E-De, Edeh, Raday, Radé, Rde, Rhade, A-Dham, Adham, Blo, Kdrao, Kodrao, Kpa, Krung, Mdhur, Ndhur, Rde Kpa, Ê Dê]
 population: 331000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living

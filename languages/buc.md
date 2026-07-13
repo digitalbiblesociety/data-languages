@@ -6,6 +6,8 @@ alt_names: [Antalaotra, Fiteny Antalaotra, Kibuki, Kibushi, Sakalava, Shibushi S
 population: 57100
 country_id: YT
 country_name: Mayotte
+location: "Comoros, Madagascar and Mayotte"
+area: Dialect of Malagasy spoken in Mayotte
 status_id: 6b
 scope: individual
 language_type: living

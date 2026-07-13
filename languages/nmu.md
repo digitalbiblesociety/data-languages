@@ -6,6 +6,8 @@ alt_names: [Maidu, Maidu (Mountain), Maidu (Moutain), Maidu (Northeast), Maidu l
 population: 110
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: "Extinct Maiduan language of northeastern California, US"
 status_id: 8b
 scope: individual
 language_type: living

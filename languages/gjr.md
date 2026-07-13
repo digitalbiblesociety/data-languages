@@ -5,6 +5,7 @@ autonym: null
 population: 25
 country_id: AU
 country_name: Australia
+area: Mixed Gurindji–Kriol language of Australia
 status_id: null
 scope: individual
 language_type: living

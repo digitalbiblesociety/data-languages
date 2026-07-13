@@ -2,9 +2,12 @@
 iso: nif
 name: Nek
 autonym: null
+alt_names: [East Nek, West Nek]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

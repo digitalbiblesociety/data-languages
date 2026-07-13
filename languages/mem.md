@@ -6,6 +6,7 @@ alt_names: [Djawali, Djualin, Djuwali, Djuwalia, Jiwali, Jiwarli, Koalgurdi, Man
 population: 68
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

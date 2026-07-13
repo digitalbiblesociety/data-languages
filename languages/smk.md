@@ -2,10 +2,12 @@
 iso: smk
 name: Bolinao
 autonym: "Binu-Bolinao"
-alt_names: [Binobolinao, Bolinao Sambal, Bolinao Zambal]
+alt_names: [Binobolinao, Bolinao Sambal, Bolinao Zambal, Binubulinao, Bino-Bolinao, Binubolinao, Boliano, Bulinaw, Sambal Bolinao]
 population: 51200
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living

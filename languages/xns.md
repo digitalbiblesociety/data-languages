@@ -2,10 +2,12 @@
 iso: xns
 name: Kanashi
 autonym: Kanasi
-alt_names: [Kanaśi, Kanāshī, Mālāni]
+alt_names: [Kanaśi, Kanāshī, Mālāni, Malani]
 population: 1400
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan of India
 status_id: 6a
 scope: individual
 language_type: living

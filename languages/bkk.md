@@ -6,6 +6,8 @@ alt_names: [Brok-skad, Brokpa of Dah-Hanu, Broskatí, Dardu, Dokskat, Hanu, Kyan
 population: 10000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language spoken in India and Pakistan
 status_id: 6a
 scope: individual
 language_type: living

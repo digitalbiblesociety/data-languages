@@ -6,6 +6,8 @@ alt_names: [Anemeg, Karaiai, Neu-Pommern]
 population: 550
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Papuan language
 status_id: "4"
 scope: individual
 language_type: living

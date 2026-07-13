@@ -6,6 +6,8 @@ alt_names: [Bohura, Luenga pirahã, Mra-Pirah, Mura, Mura-Piraha, Mure-Pirahã, 
 population: 1500
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Muran language
 status_id: 6a
 scope: individual
 language_type: living

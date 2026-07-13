@@ -5,9 +5,11 @@ autonym: "Yotvingian, Jatvingian"
 population: null
 country_id: LT
 country_name: Lithuania
+area: Extinct Western Baltic language
 status_id: null
 scope: individual
 language_type: extinct
+language_map_img: West_Baltic_languages.svg
 wikidata_id: Q35603
 wikipedia_url: "https://en.wikipedia.org/wiki/Sudovian_language"
 translations:

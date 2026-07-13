@@ -6,6 +6,8 @@ alt_names: [Kiwanji, Wanji]
 population: 41800
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

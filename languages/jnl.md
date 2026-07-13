@@ -6,6 +6,8 @@ alt_names: [Ban Rauts, Bhulla, Dzanggali, Dźanggali, Jang(g)alī, Jangali, Jang
 population: 23000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in India
 status_id: "7"
 scope: individual
 language_type: living

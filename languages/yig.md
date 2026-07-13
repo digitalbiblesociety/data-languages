@@ -2,10 +2,12 @@
 iso: yig
 name: Wusa Nasu
 autonym: Eastern Yi
-alt_names: [Lolo, "Nasu, Wusa", "Nasu,Wusa", Southeastern Yi, Yi, "Yi, Guizhou"]
+alt_names: [Lolo, "Nasu, Wusa", "Nasu,Wusa", Southeastern Yi, Yi, "Yi, Guizhou", Bijie, Dafang, Qian Xi, Wusa Nesu]
 population: 700000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China
 status_id: "5"
 scope: individual
 language_type: living
@@ -84,3 +86,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Guizhou"
 ---
+The Nasu language, also known as the Eastern Yi language or Naisu, Luquan Yi, Wuding Yi, Guizhou Yi, Weining Yi, Guangxi Yi or Longlin Yi, is a Loloish language spoken by the Yi people of China. Nasu and Wusa are two of six Yi languages recognized by the Government of China. Unlike most written Yi languages, Nasu uses the Pollard script. A distinct form of the Yi script was traditionally used for Wusa, though few can still read it.

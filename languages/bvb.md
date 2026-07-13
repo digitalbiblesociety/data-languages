@@ -2,15 +2,18 @@
 iso: bvb
 name: Bube
 autonym: Adeeyah
-alt_names: [Adija, Bobe, Boobe, Boombe, Bubi, Ediya, Fernandian]
+alt_names: [Adija, Bobe, Boobe, Boombe, Bubi, Ediya, Fernandian, North Bobe, Southeast Bobe, Southwest Bobe]
 population: 61000
 country_id: GQ
 country_name: Equatorial Guinea
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu or Bantoid language of Equatorial Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 3.53638
 longitude: 8.68929
+language_map_img: 500px-Lenguas_de_Guinea_Ecuatorial.webp
 scripts: [Latn]
 glottocode: bube1242
 glottolog_family_id: atla1278

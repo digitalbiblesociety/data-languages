@@ -6,6 +6,8 @@ alt_names: [Mzieme, Naga, "Naga, Mzieme", "Naga,Mzieme", Zeme]
 population: 29000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language of India
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,9 +2,11 @@
 iso: ukl
 name: Ukrainian Sign Language
 autonym: Українська жестова мова
+alt_names: [USL, Ukrayinska Mova Zhestiv, Ukrayinska Zhestova Mova]
 population: 54500
 country_id: UA
 country_name: Ukraine
+area: Sign language used in Ukraine
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: fuc
 macrolanguage_id: ful
 name: Pulaar
 autonym: Futa Tooro
-alt_names: [Ful(ani), Fula, Fula (Mauritanian), Fula (Senegal), "Fula, Fulani", Fulah-Idiome, Fulani, Fulbe Jeeri, Fulfulde (Mauritanian), Fulfulde Pulaar, Fulfulde-Pulaar, Haalpulaar, Peul, Peulh, Pulaar Fulfulde]
+alt_names: [Ful(ani), Fula, Fula (Mauritanian), Fula (Senegal), "Fula, Fulani", Fulah-Idiome, Fulani, Fulbe Jeeri, Fulfulde (Mauritanian), Fulfulde Pulaar, Fulfulde-Pulaar, Haalpulaar, Peul, Peulh, Pulaar Fulfulde, Fula Forro, Fula Preto, Fula de Gabu, Fulacunda, Fulacunda Pular, Fulakunda, Fulkunda, Futa Toro, Halpulaar, Peuhl, Pular, Pël, Tokilor, Toucouleur, Tukolor, Tukulor]
 population: 5398700
 country_id: SN
 country_name: Senegal
+location: Guinea and Guinea-Bissau
+area: Fula language spoken by Fula and Tukolor peoples
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 13.869355
 longitude: -13.448212
+language_map_img: Fula_language_map.svg
 glottocode: pula1263
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

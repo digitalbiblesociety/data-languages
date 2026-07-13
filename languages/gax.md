@@ -3,15 +3,18 @@ iso: gax
 macrolanguage_id: orm
 name: "Borana-Arsi-Guji Oromo"
 autonym: Borana
-alt_names: ["\"Galla\"", "\"Galligna\"", "\"Gallinya\"", Afan Oromo, Booran, Boraan, Boraana, Boran, Borena, Galla, Oromo, Oromo (Boraana), Oromo Proper, "Oromo, Borana-Arsi-Guji", Southern Oromo]
+alt_names: ["\"Galla\"", "\"Galligna\"", "\"Gallinya\"", Afan Oromo, Booran, Boraan, Boraana, Boran, Borena, Galla, Oromo, Oromo (Boraana), Oromo Proper, "Oromo, Borana-Arsi-Guji", Southern Oromo, “Galla”, “Galligna”, “Gallinya”, Guji Oromo, Afaan Oromoo, Afaani Borana, Arsi, Booranaa, Borana-Arsi-Guji, Guji, Oromiffa, Oromoo]
 population: 8449000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Variety of Oromo spoken by the Borana
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 1.05676
 longitude: 37.88195
+language_map_img: gax.webp
 glottocode: bora1271
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

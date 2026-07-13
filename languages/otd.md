@@ -2,10 +2,12 @@
 iso: otd
 name: Ot Danum
 autonym: Ot Danum
-alt_names: [Dohoi, Malahoi, Uud Danum, Uut Danum]
+alt_names: [Dohoi, Malahoi, Uud Danum, Uut Danum, "Da'an", Dayak Ot Danum, Kadorih, Kuhin, Melawi, Murung 1, Ot Balawan, "Ot Banu'u", Ot Murung 1, Ot Olang, Ot Tuhup, Punan Ratah, Sarawai, Sebaung, "Ulu Ai'"]
 population: 78800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

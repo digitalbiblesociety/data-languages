@@ -6,6 +6,8 @@ alt_names: [Bas-pima du Chihuahua, Lower Piman, Mountain Pima, Mountain Piman, N
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living

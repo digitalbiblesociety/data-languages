@@ -6,6 +6,8 @@ alt_names: [Malaysia]
 population: 120
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: "Punan language of Sarawak, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

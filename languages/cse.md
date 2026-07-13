@@ -2,14 +2,17 @@
 iso: cse
 name: Czech Sign Language
 autonym: Český znakový jazyk
+alt_names: [CZJ]
 population: 10000
 country_id: CZ
 country_name: Czechia
+area: Deaf sign language of Czech Republic
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 50.01201
 longitude: 14.4774
+language_map_img: LocationCzechRepublic.webp
 glottocode: czec1253
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language

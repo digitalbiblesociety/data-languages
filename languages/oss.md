@@ -3,10 +3,12 @@ iso: oss
 iso639_1: os
 name: Ossetian
 autonym: ирон ӕвзаг
-alt_names: [Iron, Iron Ossetian, Iron Ossetic, "Ossetian, Iron", Ossetic, "Ossetic, Iron"]
+alt_names: [Iron, Iron Ossetian, Iron Ossetic, "Ossetian, Iron", Ossetic, "Ossetic, Iron", Ossete, ирон, "Ирон (Ossetic, Digor)", Ирон (Ossetic), Allagir, Digorian, Digoron, Dogor, Kudar, Kurtat, Osetin, South Osetin, Tagaur, Tual]
 population: 601450
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Eastern Iranian language of Ossetia, in the Caucasus"
 status_id: "5"
 scope: individual
 language_type: living

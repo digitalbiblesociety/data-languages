@@ -5,11 +5,14 @@ autonym: Trongsakha
 population: 2200
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: East Bodish language of central Bhutan
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.43007
 longitude: 90.53395
+glottocode: nupb1238
 wikidata_id: Q3695201
 wikipedia_url: "https://en.wikipedia.org/wiki/Nupbi_language"
 translations:

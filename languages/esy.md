@@ -5,6 +5,7 @@ autonym: Bisaya
 population: 550
 country_id: PH
 country_name: Philippines
+area: Artificial auxiliary language of the Philippines
 status_id: null
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: zul
 iso639_1: zu
 name: Zulu
 autonym: isiZulu
-alt_names: [Kingoni, Kizulu, Lala, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu simi, Zuluera, Zulum, Zunda, Зулу, زۇلۇچە]
+alt_names: [Kingoni, Kizulu, Lala, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu simi, Zuluera, Zulum, Zunda, Зулу, زۇلۇچە, Cele, Qwabe, Transvaal Zulu]
 population: 12100000
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Nguni language of eastern South Africa and neighbouring countries
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -25.330502
 longitude: 31.351174
+language_map_img: South_Africa_2011_Zulu_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: zulu1248
 glottolog_family_id: atla1278

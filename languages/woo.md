@@ -6,6 +6,8 @@ alt_names: [Aru, Wamar, Wokam]
 population: 7480
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

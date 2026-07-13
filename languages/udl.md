@@ -6,6 +6,8 @@ alt_names: [Ouldeme, Udlam, Uldeme, Uzam, Uzlam]
 population: 10500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of northern Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: null
 population: 73000
 country_id: LK
 country_name: Sri Lanka
+area: Deaf sign language of Sri Lanka
 status_id: 6a
 scope: individual
 language_type: living

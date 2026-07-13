@@ -2,10 +2,12 @@
 iso: kys
 name: Baram Kayan
 autonym: Kajan
-alt_names: [Baram, Baram Kajan, "Kayan, Baram"]
+alt_names: [Baram, Baram Kajan, "Kayan, Baram", Long Akahsemuka, Long Atip]
 population: 4150
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian dialect cluster of Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: MY
     location: Malaysia
 ---
+Kayan is a dialect cluster spoken by the Kayan people of Borneo. It is a cluster of closely related dialects with limited mutual intelligibility, and is itself part of the Kayan-Murik group of Austronesian languages.

@@ -2,10 +2,12 @@
 iso: mjc
 name: San Juan Colorado Mixtec
 autonym: Jicaltepec Mixtec
-alt_names: [Misteko, Mixtec, Mixtec (San Juan Colorado), "Mixtec, San Juan Colorado", Mixteco (San Juan Colorado), Mixteco de San Juan Colorado, San Juan Colorado, Southern Misteko, Southern Mixteco]
+alt_names: [Misteko, Mixtec, Mixtec (San Juan Colorado), "Mixtec, San Juan Colorado", Mixteco (San Juan Colorado), Mixteco de San Juan Colorado, San Juan Colorado, Southern Misteko, Southern Mixteco, Mixteco de Oaxaca de la Costa Noroeste, Mixteco del Este de Jamiltepec, Tuꞌun sav]
 population: 5580
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 圣胡安科罗拉多混合语
     auto: true
 ---
+Pinotepa Mixtec is a Mixtec language of southern Oaxaca. Ethnologue lists the variety of San Juan Colorado / San Pedro Atoyac as a separate language.

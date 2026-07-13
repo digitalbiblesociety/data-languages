@@ -6,6 +6,8 @@ alt_names: [Gablai, Kaba-Lai, Kabalay, Kabalaye, Keb-Kaye, Lai, Lay]
 population: 17900
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

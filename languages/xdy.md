@@ -2,10 +2,12 @@
 iso: xdy
 name: Malayic Dayak
 autonym: Delang–Kayung–Banana’
-alt_names: [Dayak, "Dayak, Malayic"]
+alt_names: [Dayak, "Dayak, Malayic", Bamayo, Bumayoh, Arut, "Banana'", Belantikan, Delang, Kayong, Kayung, Kerta Mulya, Lamandau, Landau Kantu, Melahui, Mentebah-Suruk, Nibung Terjung, Pangin, Payak, Riam, Sekakai, Semitau, Serawai, Silat, Suhaid, Sukamara, Sukarame, Sungkup, Tamuan, Tapitn, Tebidah, Tomun, Undau]
 population: 520000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken in Borneo
 status_id: 6a
 scope: individual
 language_type: living
@@ -199,3 +201,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Kalimantan Tengah (Central)"
 ---
+Malayic Dayak is a dialect chain of Malayic spoken in West Kalimantan and the western part of Central Kalimantan.

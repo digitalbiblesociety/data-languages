@@ -6,6 +6,8 @@ alt_names: [Romkuin]
 population: 630
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Ramu language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

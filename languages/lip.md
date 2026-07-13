@@ -2,10 +2,12 @@
 iso: lip
 name: Sekpele
 autonym: Sekpele
-alt_names: [Bosele, Likpe, Mu, Sɛkpɛlé]
+alt_names: [Bosele, Likpe, Mu, Sɛkpɛlé, Sekwa]
 population: 23000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Kwa language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Alura, Baj Subgroup, Djamadjong, Djamindjun, Djamindjung/Ngaliwuru, 
 population: 29
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Mirndi language of Australia
 status_id: 8a
 scope: individual
 language_type: living

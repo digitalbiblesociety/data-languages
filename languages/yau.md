@@ -6,6 +6,8 @@ alt_names: [Chicano, Chikano, Hodi, Hodï, Hodï language, Hoti, Hotí, Jodi, Jo
 population: 300
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Unclassified language spoken in Venezuela
 status_id: 6a
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Koro Ija
 population: 4000
 country_id: NG
 country_name: Nigeria
+location: Nigeria
+area: Plateau language of Nigeria
 status_id: null
 scope: individual
 language_type: living

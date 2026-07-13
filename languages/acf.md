@@ -2,10 +2,12 @@
 iso: acf
 name: Saint Lucian Creole French
 autonym: kwéyòl
-alt_names: ["Creole French, Saint Lucian", Créole sainte-lucien, Kwèyòl, Lesser Antillean Creole French, Lesser Antillean Creole French., Lesser Antillies Creole French, Patois, Patwa, Trinidadian Creole French]
+alt_names: ["Creole French, Saint Lucian", Créole sainte-lucien, Kwèyòl, Lesser Antillean Creole French, Lesser Antillean Creole French., Lesser Antillies Creole French, Patois, Patwa, Trinidadian Creole French, Dominican Creole French, Grenadian Creole French, Créole, French Creole, French-lexicon Creole, French-lexified Creole, Kéwòl, Lesser Antillean French Creole, Saint Lucian Creole]
 population: 689000
 country_id: LC
 country_name: Saint Lucia
+location: Creole Languages of the Eastern Caribbean
+area: French-based creole spoken in Saint Lucia
 status_id: "5"
 scope: individual
 language_type: living

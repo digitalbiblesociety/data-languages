@@ -2,10 +2,12 @@
 iso: abq
 name: Abaza
 autonym: абаза бызшва
-alt_names: [Abasínska, Abazaca, Abazeg, Abazijns, Abazin, Abazinska, Abazintsy, Abazí, Ahuwa, Ashuwa, Tapanta, абаза бызшва‎, Աբազերեն]
+alt_names: [Abasínska, Abazaca, Abazeg, Abazijns, Abazin, Abazinska, Abazintsy, Abazí, Ahuwa, Ashuwa, Tapanta, абаза бызшва‎, Աբազերեն, Ashkar, Ashkaraua, Ashxar, Bezshagh]
 population: 51000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northwest Caucasian language
 status_id: "4"
 scope: individual
 language_type: living

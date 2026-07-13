@@ -3,15 +3,18 @@ iso: mya
 iso639_1: my
 name: Burmese
 autonym: Myanmar
-alt_names: [(Colloquial) Burmese, Bama, Bamachaka, Birmaans, Birman, Birmanisk, Birmanu simi, Birmà, Burmaca, Burmeg, Burmesisk, Burmesiska, Búrmíska, Bāmā(-čaka), Myen, بورمى, بىرما تىلى, বর্মী ঠার, འབར་མའི་སྐད།]
+alt_names: [(Colloquial) Burmese, Bama, Bamachaka, Birmaans, Birman, Birmanisk, Birmanu simi, Birmà, Burmaca, Burmeg, Burmesisk, Burmesiska, Búrmíska, Bāmā(-čaka), Myen, بورمى, بىرما تىلى, বর্মী ঠার, འབར་མའི་སྐད།, ဗမာ, Beik, Mandalay Burmese, Merguese, Mergui, Myamasa, Myanma, Yangon Burmese, Yaw]
 population: 32900000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Official language of Myanmar
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 20.792575
 longitude: 93.96649
+language_map_img: Idioma_birmano.webp
 scripts: [Mymr]
 glottocode: nucl1310
 glottolog_family_id: sino1245

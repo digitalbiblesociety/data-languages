@@ -6,6 +6,8 @@ alt_names: [Ryukyuan, Tokunosima]
 population: 5100
 country_id: JP
 country_name: Japan
+location: Japan
+area: Dialect cluster of Northern Ryukyuan
 status_id: "7"
 scope: individual
 language_type: living

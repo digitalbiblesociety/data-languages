@@ -6,6 +6,7 @@ alt_names: [Kimberley Area Languages, Ngulnyul, Niol Niol, Niol-Niol, Njolnjol, 
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Nyulnyulan language of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: cuc
 name: Usila Chinantec
 autonym: "Chinantec, Usila"
-alt_names: [Chinantec, Chinantec (San Felipe Usila), Chinanteco, Chinanteco (Usila), Chinanteco del oeste central alto, Chinanteko, San Felipe Usila, Upper West-Central Chinantec, Usila, Usila Chinanteko, jaú jm, "jmiih kia' dzä jii'"]
+alt_names: [Chinantec, Chinantec (San Felipe Usila), Chinanteco, Chinanteco (Usila), Chinanteco del oeste central alto, Chinanteko, San Felipe Usila, Upper West-Central Chinantec, Usila, Usila Chinanteko, jaú jm, "jmiih kia' dzä jii'", Jaú jm_, Jmiih kiaꞌ dzä jiiꞌ]
 population: 7410
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantec language of Mexico
 status_id: 6a
 scope: individual
 language_type: living

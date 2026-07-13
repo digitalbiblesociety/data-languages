@@ -5,6 +5,8 @@ autonym: Towe
 population: 120
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Western New Guinea
 status_id: 8a
 scope: individual
 language_type: living

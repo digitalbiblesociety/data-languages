@@ -2,10 +2,12 @@
 iso: bjt
 name: "Balanta-Ganja"
 autonym: Alante
-alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Fjaa, Fraase]
+alt_names: [Balanda, Balant, Balanta, Balante, Ballante, Belante, Brassa, Bulanda, Fjaa, Fraase, Blip, Fganja, Fjaalib, Ganja]
 population: 116000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Bak language group of West Africa
 status_id: "4"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: SN
     location: Senegal
 ---
+Balanta is a group of two closely related Bak languages of West Africa spoken by the Balanta people.

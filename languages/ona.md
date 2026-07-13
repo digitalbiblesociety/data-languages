@@ -6,6 +6,7 @@ alt_names: [Aona, Central, Central dialect, Chon, Island Chon language area, Isl
 population: 2014
 country_id: AR
 country_name: Argentina
+area: Chonan language spoken by the Selkʼnam people
 status_id: "10"
 scope: individual
 language_type: living

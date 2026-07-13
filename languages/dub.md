@@ -6,6 +6,8 @@ alt_names: [Dubla, Rathod, Talavia]
 population: 252000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: "Bhil language of Gujarat, India"
 status_id: 6b
 scope: individual
 language_type: living

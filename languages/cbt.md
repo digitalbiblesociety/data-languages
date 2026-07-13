@@ -2,10 +2,12 @@
 iso: cbt
 name: Chayahuita
 autonym: Cahuapana
-alt_names: [Balsapuertino, Balsopuertino, Cahuapa, Chaui, Chawi, Chayabita, Chayawita, Chayawita simi, Chayhuita, Kahuapana, Paranapura, Shawi, Shayabit, Tchayahouiteg, Tsaawí, Tschaahui, Tshaahui]
+alt_names: [Balsapuertino, Balsopuertino, Cahuapa, Chaui, Chawi, Chayabita, Chayawita, Chayawita simi, Chayhuita, Kahuapana, Paranapura, Shawi, Shayabit, Tchayahouiteg, Tsaawí, Tschaahui, Tshaahui, Campo Piyapi, Chahui, Shahui]
 population: 14000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Cahuapanan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

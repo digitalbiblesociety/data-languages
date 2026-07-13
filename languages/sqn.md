@@ -6,11 +6,13 @@ alt_names: [Andaste, Andaste (French), Minqua, Minqua (Netherlands Dutch), Susqu
 population: null
 country_id: US
 country_name: United States
+area: Iroquoian language spoken in eastern US
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 41.169
 longitude: -76.208
+language_map_img: Susquehannock_lang.webp
 glottocode: susq1241
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian

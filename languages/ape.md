@@ -2,10 +2,12 @@
 iso: ape
 name: Bukiyip
 autonym: Mountain Arapesh
-alt_names: [Arapesh, Arapeso montañés, Bukiyúp, Kavu, Kawu]
+alt_names: [Arapesh, Arapeso montañés, Bukiyúp, Kavu, Kawu, Coastal Arapesh]
 population: 16200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Arapesh language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

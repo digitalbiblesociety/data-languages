@@ -3,15 +3,18 @@ iso: ekk
 macrolanguage_id: est
 name: Standard Estonian
 autonym: eesti keel
-alt_names: [Estonian, "Estonian, Standard", estonien]
+alt_names: [Estonian, "Estonian, Standard", estonien, Eesti, Dorpat, Eesti Kirjakeel, Mulgi, Northern Estonian, Reval, Southern Estonian, Standard, Tallinn, Tartu]
 population: 1160020
 country_id: EE
 country_name: Estonia
+location: "Estonia, Latvia and Lithuania"
+area: Finnic language mostly spoken in Estonia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 58.55
 longitude: 25.82
+language_map_img: EU-Estonia.webp
 glottocode: esto1258
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic
@@ -88,3 +91,4 @@ rolv_dialects:
     country_id: EE
     location: Estonia
 ---
+Estonian is a Finnic language and the official language of Estonia. It is written in the Latin script and is the first language of the majority of the country's population; it is also an official language of the European Union. Estonian is spoken natively by about 1.1 million people: 922,000 people in Estonia and 160,000 elsewhere.

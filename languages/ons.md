@@ -2,9 +2,12 @@
 iso: ons
 name: Ono
 autonym: null
+alt_names: [Amugen, Ziwe]
 population: 52
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living

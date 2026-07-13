@@ -2,10 +2,12 @@
 iso: jmx
 name: Western Juxtlahuaca Mixtec
 autonym: Coicoyán Mixtec
-alt_names: [Ayutla Mixtec, Central Juxtlahuaca Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Juxtlahuaca Mixtec, "Mixtec, Western Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec]
+alt_names: [Ayutla Mixtec, Central Juxtlahuaca Mixtec, Central Misteko, Centreal Mixteco, Coastal Guerrero Mixtec, Juxtlahuaca Mixtec, "Mixtec, Western Juxtlahuaca", Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Coicoyán, El Coyul Mixtec / Mixteco de El Coyul, El Jicaral Mixtec / Mixteco de El Jicaral, Lázaro Cárdenas Mixtec / Mixteco de Lázaro Cárdenas, Mixtec, Southern Coicoyán Mixtec, Mixteco de San Juan Piñas, Mixteco de San Martín Peras, San Juan Piñas, San Martín Peras, Southern Coicoyán Mixtec / Mixteco del sur de Coicoyán, Tierra Colorada Mixtec / Mixteco de Tierra Colorada, Tilapa Valley Mixtec / Mixteco del valle de Tilapa, Toꞌon Savi, Western Juxtlahuaca]
 population: 2000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mixtec languages of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

@@ -2,10 +2,12 @@
 iso: prq
 name: Ashéninka Perené
 autonym: Campa
-alt_names: ["\"Perené Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Perene, Asháninca, Ashéninca Perené, Ashéninga, Atiri, Cogapacorí, Nanti, Perené Ashéninka, Upper Perené]
+alt_names: ["\"Perené Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Perene, Asháninca, Ashéninca Perené, Ashéninga, Atiri, Cogapacorí, Nanti, Perené Ashéninka, Upper Perené, “Perené Campa”, Asheninka, Perené, Perené Ashéninca]
 population: 5500
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

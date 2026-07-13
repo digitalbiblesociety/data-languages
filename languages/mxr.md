@@ -2,10 +2,12 @@
 iso: mxr
 name: Murik
 autonym: null
-alt_names: ["Kayan, Murik", Malaysia, Murik]
+alt_names: ["Kayan, Murik", Malaysia, Murik, Murik (Malaysia)]
 population: 1120
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: "Austronesian language spoken in Sarawak, Malaysia"
 status_id: 8a
 scope: individual
 language_type: living

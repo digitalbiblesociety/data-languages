@@ -6,6 +6,8 @@ alt_names: [Ellyria, Koyo, Loirya, Lokoiya, Lokoja, Loquia, Lowoi, Oirya, Owoi, 
 population: 12400
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language of South Sudan
 status_id: 6b
 scope: individual
 language_type: living

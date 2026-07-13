@@ -2,10 +2,12 @@
 iso: myb
 name: Mbay
 autonym: Sara Mbay
-alt_names: [Mbai, Mbay Moissala, Mbaye, Moissala Mbai, Sara Mbai]
+alt_names: [Mbai, Mbay Moissala, Mbaye, Moissala Mbai, Sara Mbai, Bbate, Bédjou, Bédégué, Kan, Mbang, Mbay-Kan, Mougo, Ngoka]
 population: 88300
 country_id: TD
 country_name: Chad
+location: Central African Republic
+area: Central Sudanic language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Inlaod, "Itneg, Inlaod", Tinguian]
 population: 9000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 17.61752
 longitude: 120.65389
+language_map_img: 500px-Itneg_dialect_continuum_map.webp
 glottocode: inla1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -53,3 +56,4 @@ translations:
     name: 因劳德伊特内格语
     auto: true
 ---
+Itneg is a South-Central Cordilleran dialect continuum found in the island of Luzon, Philippines. This language and Ilocano are spoken by the Itneg people in Abra.

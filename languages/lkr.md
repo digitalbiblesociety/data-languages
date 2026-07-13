@@ -2,10 +2,12 @@
 iso: lkr
 name: Päri
 autonym: Lokoro
-alt_names: [Pari]
+alt_names: [Pari, “Lokoro”]
 population: 79000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Luo language spoken in South Sudan
 status_id: "5"
 scope: individual
 language_type: living

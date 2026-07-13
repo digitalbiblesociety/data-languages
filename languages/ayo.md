@@ -2,10 +2,12 @@
 iso: ayo
 name: Ayoreo
 autonym: Ayoré
-alt_names: [Avoreo, Ayoreoeg, Ayuréo, Moro, Morotoco, Pyeta, Pyeta Yovai, Yovai, Zamuco]
+alt_names: [Avoreo, Ayoreoeg, Ayuréo, Moro, Morotoco, Pyeta, Pyeta Yovai, Yovai, Zamuco, Ayero, Ayoweo, Coroino, Garaygosode, Guarañoca, Guidaigosode, Koroino, Poturero, Pyta Jovai, Samococio, Takrat, Totobiegosode, Yanaigua]
 population: 4650
 country_id: PY
 country_name: Paraguay
+location: Bolivia
+area: Language spoken in Paraguay and Bolivia
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,14 +2,17 @@
 iso: kav
 name: Katukína
 autonym: "Katukina-Kanamari"
+alt_names: [Catuquina, Katukina do Jutaí, Pidá-Djapá]
 population: 289
 country_id: BR
 country_name: Brazil
+area: Katukinan language spoken in Brazil
 status_id: "9"
 scope: individual
 language_type: living
 latitude: -8.19121
 longitude: -70.38221
+glottocode: nucl1668
 wikidata_id: Q3450636
 wikipedia_url: "https://en.wikipedia.org/wiki/Katuk%C3%ADna_language"
 translations:

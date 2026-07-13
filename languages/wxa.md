@@ -6,11 +6,14 @@ alt_names: [Vasianhuá, Waxiang, Xianghua]
 population: 300000
 country_id: CN
 country_name: China
+location: Southern China
+area: Variety of Chinese
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 28.64404
 longitude: 110.3618
+language_map_img: 500px-Xiang.webp
 glottocode: waxi1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

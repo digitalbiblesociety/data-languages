@@ -2,10 +2,12 @@
 iso: cto
 name: "Emberá-Catío"
 autonym: "Emberá-Catío"
-alt_names: [Atrato, Catio, Catio-Embera language, Catío, Choco, Cholo, Dabeiba, Dariena, Darién, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Embena, Ember-Cato, Embera (Colombie), Embera (Panama), Embera (Panamá), Embera-Catio, Emberá catío, Emperã, Epera), Eperã Pedea, "Eyabida (Alternate names in Panama:  Catío", Katio, Northern Emberá, Panama Embera]
+alt_names: [Atrato, Catio, Catio-Embera language, Catío, Choco, Cholo, Dabeiba, Dariena, Darién, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Embena, Ember-Cato, Embera (Colombie), Embera (Panama), Embera (Panamá), Embera-Catio, Emberá catío, Emperã, Epera), Eperã Pedea, "Eyabida (Alternate names in Panama:  Catío", Katio, Northern Emberá, Panama Embera, "ẽbẽrã bed'ea / Katío", Eyabida, Catío Emberá, Embera, Emberá-Katío, Epena, Epera, Ẽbẽrã Bed, Ẽ́bẽra Katío, ẽbẽrã bedꞌea–Katío]
 population: 15040
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chocoan language spoken in Colombia and Panama
 status_id: 6a
 scope: individual
 language_type: living

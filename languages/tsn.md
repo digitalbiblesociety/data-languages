@@ -3,15 +3,18 @@ iso: tsn
 iso639_1: tn
 name: Tswana
 autonym: Setswana
-alt_names: [Beetjuans, Chuana, Chwana, Coana, Cuana, Rolon, Sechuana, Sestwana, Setsuana, Tshwana, Tsiwaha, Tsuana, Tswana simi, Tswaneg, Tswanum, Тсвана]
+alt_names: [Beetjuans, Chuana, Chwana, Coana, Cuana, Rolon, Sechuana, Sestwana, Setsuana, Tshwana, Tsiwaha, Tsuana, Tswana simi, Tswaneg, Tswanum, Тсвана, Bechuana, Hurutshe, Kgatla, Kwena, Lete, Mangwato, Melete, Ngwaketse, Ngwato, Ngwatu, Rolong, Secoana, Secwana, Sehurutshe, Tawana, Thlaping, Thlaro, Tlahaping, Tlapi, Tlhaping, Tlharo, Tlokwa]
 population: 5815730
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Bantu language of Botswana and South Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -24.36797
 longitude: 24.75867
+language_map_img: tsn.svg
 scripts: [Latn]
 glottocode: tswa1253
 glottolog_family_id: atla1278

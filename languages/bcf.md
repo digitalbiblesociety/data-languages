@@ -2,10 +2,12 @@
 iso: bcf
 name: Bamu
 autonym: Bamu Kiwai
-alt_names: [Sisiame]
+alt_names: [Sisiame, Gama, Kiwai, Lower Bamu, Middle Bamu, Nuhiro, Upper Bamu]
 population: 6310
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

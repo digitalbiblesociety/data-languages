@@ -2,10 +2,12 @@
 iso: lot
 name: Otuho
 autonym: Lotuko
-alt_names: [Latooka, Lattuka, Latuka, Latuko, Lotoukoeg, Lotuho, Lotuka, Lotuxo, Lowudo, Olotorit, Otuxo]
+alt_names: [Latooka, Lattuka, Latuka, Latuko, Lotoukoeg, Lotuho, Lotuka, Lotuxo, Lowudo, Olotorit, Otuxo, Koriok, Lauda, Logir, Logiri, Logotok, Lomia, Lomya, Lorwama, Loudo, Otuho (Lotuko)]
 population: 312000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

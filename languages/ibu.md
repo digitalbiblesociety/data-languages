@@ -5,6 +5,8 @@ autonym: null
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: 8b
 scope: individual
 language_type: living
@@ -50,3 +52,4 @@ translations:
     name: 伊布语
     auto: true
 ---
+Sahu is a North Halmahera language. Use is vigorous; dialects are Pa’disua (Palisua), Tala’i, Waioli, and Gamkonora. A fifth dialect, Ibu, used to be spoken near the mouth of the Ibu River. Ethnologue considers Waioli and Gamkonora to be separate languages.

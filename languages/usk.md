@@ -6,6 +6,8 @@ alt_names: [Usakade, Usakedet]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Lower Cross River language of Cameroon and Nigeria
 status_id: 6b
 scope: individual
 language_type: living

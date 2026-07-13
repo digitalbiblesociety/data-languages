@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: NG
 country_name: Nigeria
+area: Hausa-based pidgin of Nigeria
 status_id: "9"
 scope: individual
 language_type: living

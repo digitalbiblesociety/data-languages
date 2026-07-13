@@ -6,6 +6,8 @@ alt_names: [Geja, Nguru, Nguu, Wayomba]
 population: 215000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

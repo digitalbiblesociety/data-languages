@@ -2,9 +2,12 @@
 iso: big
 name: Biangai
 autonym: null
+alt_names: [Ngowiye, Yongolei]
 population: 6230
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Goilalan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -62,3 +65,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Morobe"
 ---
+Kunimaipa is a Papuan language of Papua New Guinea. The varieties are divergent, on the verge of being distinct languages, and have separate literary traditions.

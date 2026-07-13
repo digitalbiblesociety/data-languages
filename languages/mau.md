@@ -2,15 +2,18 @@
 iso: mau
 name: Huautla Mazatec
 autonym: En Ngixo
-alt_names: [Highland Mazatec, Huantla de Jimenez, Huautla-Mazatlán Masateko, Masateko, Mazatec, Mazatec (Huautla), "Mazatec, Huautla", Mazateco, Mazateco (Huautla), Mazateco de Huautla de Jimenez, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la Sierra, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres]
+alt_names: [Highland Mazatec, Huantla de Jimenez, Huautla-Mazatlán Masateko, Masateko, Mazatec, Mazatec (Huautla), "Mazatec, Huautla", Mazateco, Mazateco (Huautla), Mazateco de Huautla de Jimenez, Mazateco de Mazatlán, Mazateco de Tecóatl, Mazateco de la Sierra, "Mazatèque d'Eloxochitlán", Mazatèque de Huehuetlán, Mazatèque de Mazatlán, Mazatèque de Tecoatl, Mazatèque des hautes terres, Huautla, Enna, Mazatec of San Jose Tenango, Mazateco de Huatla, Mazateco de Presa Alto, Mazateco de San José Tenango, Mazateco del Centro, Mazateco del Norte, San Mateo, San Miguel]
 population: 22400
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Group of Oto-Manguean languages of southern Mexico
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 18.25558
 longitude: -96.72403
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: huau1238
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -79,3 +82,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+The Mazatecan languages are a group of closely related indigenous languages spoken by some 200,000 people in the area known as the Sierra Mazateca, which is in the northern part of the state of Oaxaca in southern Mexico, as well as in adjacent areas of the states of Puebla and Veracruz.

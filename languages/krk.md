@@ -6,11 +6,13 @@ alt_names: [Kereks]
 population: 2020
 country_id: RU
 country_name: Russia
+area: Extinct Chukotko-Kamchatkan language of northeast Russia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 62.17769
 longitude: 175.06969
+language_map_img: Chukotko-Kamchatkan_map.svg
 glottocode: kere1280
 glottolog_family_id: chuk1271
 glottolog_family_name: Chukotko-Kamchatkan

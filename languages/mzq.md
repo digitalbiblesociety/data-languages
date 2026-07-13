@@ -2,10 +2,12 @@
 iso: mzq
 name: Mori Atas
 autonym: Aikoa
-alt_names: [Upper Mori, West Mori]
+alt_names: [Upper Mori, West Mori, Ajo, Berg-Tomori, Boven-Mori, Impo, "Molio'a", Molongkuni, South Mori, Tambee, Ulu Uwoi, Zuid-Mori]
 population: 14000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

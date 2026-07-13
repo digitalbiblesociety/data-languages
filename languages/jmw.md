@@ -5,6 +5,8 @@ autonym: null
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 莫乌瓦塞语
     auto: true
 ---
+Omati, or Mini, is a Papuan language spoken in the Omati River area of Papua New Guinea. The two varieties, Barikewa and Mouwase, are quite divergent.

@@ -3,10 +3,12 @@ iso: lsm
 macrolanguage_id: luy
 name: Saamia
 autonym: Olusaamia
-alt_names: [Olusamia]
+alt_names: [Olusamia, Luhya, Luluyia, Lusamya-Lugwe, Luyia, Bagwe, Basamia, Gwe, Heehe, Lugwe, Luheehe, Luhehe, Lusaamia, Lusaamya-Lugwe, Saamya, Saamya-Gwe, Samia, Ólusaamya]
 population: 609800
 country_id: UG
 country_name: Uganda
+location: Kenya
+area: Bantu language spoken in Uganda and Kenya
 status_id: "5"
 scope: individual
 language_type: living

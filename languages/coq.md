@@ -6,6 +6,7 @@ alt_names: [Chasta Costa, Mishikhwutmetunee, Tutuni-Chasta Costa-Coquille, Tutut
 population: null
 country_id: US
 country_name: United States
+area: Native American language spoken in Oregon
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -52,3 +53,4 @@ translations:
     name: 科基尔语
     auto: true
 ---
+Tututni, also known as Upper Coquille, (Lower) Rogue River and Nuu-wee-ya, is an Athabaskan language spoken by three Lower Rogue River Athabaskan tribes: the Tututni tribe, the Coquille tribe, and the Chasta Costa tribe, who are part of the Rogue River Indians of southwestern Oregon. In 2006 students at Linfield College participated in a project to "revitalize the language". It is one of the four languages belonging to the Oregon Athabaskan cluster of the Pacific Coast Athabaskan languages.

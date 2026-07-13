@@ -6,6 +6,8 @@ alt_names: [Lufueg, Nigeria]
 population: 3200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Atlantic–Congo language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

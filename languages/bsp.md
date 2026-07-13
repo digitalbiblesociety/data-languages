@@ -2,10 +2,12 @@
 iso: bsp
 name: Baga Sitemu
 autonym: Barka
-alt_names: [Baga, Baga sitemou, Rio Pongo Baga, Sitemuú, Stem Baga, Tchitem, Temne]
+alt_names: [Baga, Baga sitemou, Rio Pongo Baga, Sitemuú, Stem Baga, Tchitem, Temne, Ambai, Baka]
 population: 4000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Temne dialect cluster spoken in Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 巴加西特穆语
     auto: true
 ---
+Baga, or Barka, is a dialect cluster spoken by the Baga people of coastal Guinea. The name derives from the phrase bae raka Slaves trading place and understood by the local as 'people of the seaside' outcast people. Most Baga are bilingual in the Mande language Susu, the official regional language. Two ethnically Baga communities, Sobané and Kaloum, are known to have abandoned their (unattested) language altogether in favour of Susu.

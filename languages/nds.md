@@ -2,15 +2,17 @@
 iso: nds
 name: Low German
 autonym: Low Saxon
-alt_names: [Baixo saxão, Bajo sajón, Bas-saxon, Basso sassone, German (Low), "German, Low", Modern Low German, Nedderdütsch, Neddersassisch, Nedersaksies, Nedersaksisch, Nether-Saxon, Neuniederdeutsch, Niedersaechsisch, Niedersächsisch, Plattdeutsch, Plattdütsch, Saxon (Low), "Saxon, Low", West Low German, "allemand, bas", bas allemand, bas saxon, "saxon, bas", Ала Саксонь]
+alt_names: [Baixo saxão, Bajo sajón, Bas-saxon, Basso sassone, German (Low), "German, Low", Modern Low German, Nedderdütsch, Neddersassisch, Nedersaksies, Nedersaksisch, Nether-Saxon, Neuniederdeutsch, Niedersaechsisch, Niedersächsisch, Plattdeutsch, Plattdütsch, Saxon (Low), "Saxon, Low", West Low German, "allemand, bas", bas allemand, bas saxon, "saxon, bas", Ала Саксонь, Plattdüütsch, East Prussian, Eastphalian, Holsatian, Holsteinisch, Maerkisch-Brandenburgisch, Margravian, Mark-Brandenburg, Mecklenburg-Anterior Pomerania, Mecklenburgisch-Vorpommersch, Märkisch-Brandenburgisch, Niederdeutsch, North Low Saxon, Northern Low Saxon, Ostfaelisch, Ostfälisch, Pomeranian, Brazilian Pomeranian, Pomerano, Pommersch, Sleswickian, Westphalian]
 population: 1000
 country_id: DE
 country_name: Germany
+area: West Germanic language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 50.771
 longitude: 6.092
+language_map_img: Nds_Spraakrebeet_na1945.svg
 scripts: [Latn]
 glottocode: nort2627
 glottolog_family_id: indo1319

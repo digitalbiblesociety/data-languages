@@ -2,14 +2,17 @@
 iso: tgv
 name: "Tingui-Boto"
 autonym: Kiriri
+alt_names: [Carapató, Karapató, Tingui]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Karirian language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -11.58159
 longitude: -37.53797
+glottocode: ting1238
 wikidata_id: Q7808195
 wikipedia_url: "https://en.wikipedia.org/wiki/Tingui-Bot%C3%B3_language"
 translations:

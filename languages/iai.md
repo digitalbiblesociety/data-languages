@@ -6,6 +6,8 @@ alt_names: [Iai, Yai]
 population: 4080
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: "Austronesian language of Ouvéa, New Caledonia"
 status_id: 6a
 scope: individual
 language_type: living

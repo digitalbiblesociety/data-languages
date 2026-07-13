@@ -6,6 +6,8 @@ alt_names: [Pilheni, Taumako, Vaeakau-Taumako]
 population: 1660
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian language of Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living

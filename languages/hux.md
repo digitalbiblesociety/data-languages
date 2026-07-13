@@ -6,6 +6,8 @@ alt_names: [Huitoto (Muinane), Huitoto (Nipode), Huitoto Muinane, Huitoto Nipode
 population: 100
 country_id: PE
 country_name: Peru
+location: Peru
+area: Witotoan language of Peru and Colombia
 status_id: 8a
 scope: individual
 language_type: living

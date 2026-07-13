@@ -2,15 +2,18 @@
 iso: bho
 name: Bhojpuri
 autonym: भोजपुरी
-alt_names: [Bajpuri, Bhodjpouri, Bhodjpuri, Bhojapuri, Bhojpuriya, Bhozpuri, Bihari, Bodjpoureg, Deswali, Hindusthani, Khotla, Piscimas, Бходжпури, Бходжпурі, بوجبوري, போச்புரி, ಭೋಜಪುರಿ, ბოჯპური]
+alt_names: [Bajpuri, Bhodjpouri, Bhodjpuri, Bhojapuri, Bhojpuriya, Bhozpuri, Bihari, Bodjpoureg, Deswali, Hindusthani, Khotla, Piscimas, Бходжпури, Бходжпурі, بوجبوري, போச்புரி, ಭೋಜಪುರಿ, ბოჯპური, Banarsi Boli, Bangar Boli, Basti, Benarsi, Bhojpuri Tharu, Bojpury, Domra, Gorakhpuri, Kashika, Kharwari, Madhesi, Mallika, Mauritian Bhojpuri, Musahari, Northern Standard Bhojpuri, Purbi, Purbi Boli, Sarawaria, Sheikh Boli, Southern Standard Bhojpuri, Western Standard Bhojpuri]
 population: 52200000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indo-Aryan language native to India and Nepal
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 26.458455
 longitude: 84.817115
+language_map_img: bho.webp
 scripts: [Deva]
 glottocode: bhoj1244
 glottolog_family_id: indo1319

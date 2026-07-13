@@ -2,10 +2,12 @@
 iso: ttv
 name: Titan
 autonym: Manus
-alt_names: [Admiralitäts-inseln, "M'bunai", Moanus, Tito]
+alt_names: [Admiralitäts-inseln, "M'bunai", Moanus, Tito, M’bunai]
 population: 3850
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Austronesian language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

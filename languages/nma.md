@@ -2,10 +2,12 @@
 iso: nma
 name: Maram Naga
 autonym: Maram Naga
-alt_names: [Maram, Naga, "Naga, Maram", "Naga,Maram"]
+alt_names: [Maram, Naga, "Naga, Maram", "Naga,Maram", Maram Khullen Circle, Ngatan, T. Khullen, Willong Circle]
 population: 32500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

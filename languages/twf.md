@@ -6,6 +6,8 @@ alt_names: [N. Tiwa, Northern, Picuris, "Picuris, Taos", Taos, Taos language, Ti
 population: 1080
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Northern Tiwa dialect spoken in Taos Pueblo, New Mexico"
 status_id: "7"
 scope: individual
 language_type: living

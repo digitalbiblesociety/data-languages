@@ -2,10 +2,12 @@
 iso: bni
 name: Bangi
 autonym: Bobangi
-alt_names: [Bubangi, Bungi, Dzamba, Lobobangi, Rebu]
+alt_names: [Bubangi, Bungi, Dzamba, Lobobangi, Rebu, Zamba]
 population: 164340
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in Congo and DRC
 status_id: 6a
 scope: individual
 language_type: living

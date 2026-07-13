@@ -2,10 +2,12 @@
 iso: flr
 name: Fuliiru
 autonym: Fulero
-alt_names: [Fuliiru people, Fuliru, Kifulero, Kifuliiru]
+alt_names: [Fuliiru people, Fuliru, Kifulero, Kifuliiru, Fuliiro]
 population: 400000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in the Congo
 status_id: "5"
 scope: individual
 language_type: living

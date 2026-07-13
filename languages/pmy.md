@@ -2,10 +2,11 @@
 iso: pmy
 name: Papuan Malay
 autonym: Irian Malay
-alt_names: [Irianese, Malaiisch, Malay, "Malay, Papuan", Malayisch]
+alt_names: [Irianese, Malaiisch, Malay, "Malay, Papuan", Malayisch, Bahasa Tanah, "Bird's Head Malay", Logat Papua, Melayu Papua, North Papua Malay, Serui Malay, South Coast Malay]
 population: 500000
 country_id: ID
 country_name: Indonesia
+area: Vernacular Malay used in Indonesian New Guinea
 status_id: "3"
 scope: individual
 language_type: living

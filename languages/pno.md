@@ -6,6 +6,7 @@ alt_names: [Huariapano, Manoa, Pana, Pano language area, Pelado, Pánobo, Wariap
 population: null
 country_id: PE
 country_name: Peru
+area: Extinct Panoan language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct

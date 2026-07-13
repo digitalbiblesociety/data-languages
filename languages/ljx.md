@@ -5,11 +5,13 @@ autonym: "Arwur-angkana"
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct unclassified languages of Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -19.836
 longitude: 147.361
+language_map_img: 500px-Lower_Burdekin_languages.webp
 glottocode: yuru1264
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

@@ -2,10 +2,12 @@
 iso: bes
 name: Besme
 autonym: Beseme
-alt_names: ["'Unar", Besemme, Bodor, Hounar, Huner]
+alt_names: ["'Unar", Besemme, Bodor, Hounar, Huner, ’Unar]
 population: 1230
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

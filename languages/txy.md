@@ -7,6 +7,8 @@ alt_names: ["Malagasy, Tanosy"]
 population: 639000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MG
     location: "Madagascar, Fianarantsoa"
 ---
+Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

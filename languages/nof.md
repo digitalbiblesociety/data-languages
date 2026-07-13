@@ -5,6 +5,8 @@ autonym: Kiari
 population: 4645
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Trans–New Guinea language
 status_id: 6a
 scope: individual
 language_type: living

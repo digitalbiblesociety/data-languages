@@ -2,10 +2,12 @@
 iso: ghh
 name: Northern Ghale
 autonym: Lila
-alt_names: [Ghale, "Ghale, Northern", "Ghale,Northern"]
+alt_names: [Ghale, "Ghale, Northern", "Ghale,Northern", Ril-Lila]
 population: 4440
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Tibeto-Burman language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Ghale is a Tibeto-Burman language of Nepal. It belongs to the group of Ghale languages. The dialects of Ghale have limited intelligibility: (south) Barpak, Kyaura, Laprak, (north) Khorla, Uiya, Jagat, Philim, Nyak

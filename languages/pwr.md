@@ -2,10 +2,12 @@
 iso: pwr
 name: Powari
 autonym: बघेली
-alt_names: [India]
+alt_names: [India, Pwari]
 population: 2000000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: 6b
 scope: individual
 language_type: living

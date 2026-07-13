@@ -2,10 +2,12 @@
 iso: aih
 name: "Ai-Cham"
 autonym: Atsam
-alt_names: [Ai-tsam, Jiamuhua, Jinhua]
+alt_names: [Ai-tsam, Jiamuhua, Jinhua, Jin]
 population: 2700
 country_id: CN
 country_name: China
+location: Southern China
+area: "Kam–Sui language of Guizhou, China"
 status_id: 6b
 scope: individual
 language_type: living

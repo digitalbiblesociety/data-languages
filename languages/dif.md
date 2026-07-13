@@ -6,6 +6,7 @@ alt_names: [Dayerrie, Deerie, Dhirari, Diari, Dickeri, Dieyerie, Dieyrie, Dijari
 population: 600
 country_id: AU
 country_name: Australia
+area: Indigenous language of South Australia
 status_id: "9"
 scope: individual
 language_type: extinct

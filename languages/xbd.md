@@ -5,6 +5,7 @@ autonym: Nyawaygi
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Indigenous Australian language
 status_id: "10"
 scope: individual
 language_type: extinct

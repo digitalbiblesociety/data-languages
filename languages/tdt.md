@@ -2,15 +2,18 @@
 iso: tdt
 name: Tetun Dili
 autonym: Tetun Prasa
-alt_names: [Tetum, Tetum Prasa, Tetum Praça, Tetun]
+alt_names: [Tetum, Tetum Prasa, Tetum Praça, Tetun, Dili Tetum, Tetum Dili, Lia-Tetun]
 population: 50000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Austronesian language spoken on Timor
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -8.58405
 longitude: 125.58265
+language_map_img: 500px-Tetum_Terik.webp
 glottocode: tetu1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -56,3 +59,4 @@ rolv_dialects:
     country_id: TL
     location: Timor-Leste
 ---
+Tetun is an Austronesian language spoken on the island of Timor. It is one of the official languages of Timor-Leste and it is also spoken in Belu Regency and Malaka Regency, which form the eastern part of Indonesian West Timor adjoining Timor-Leste.

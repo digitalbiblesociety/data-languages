@@ -2,10 +2,11 @@
 iso: ssr
 name: "Swiss-French Sign Language"
 autonym: Langue des Signes Française
-alt_names: [LSF-SR]
+alt_names: [LSF-SR, Langage Gestuelle]
 population: 1000
 country_id: CH
 country_name: Switzerland
+area: Sign language used predominately in France and French-speaking Switzerland
 status_id: "5"
 scope: individual
 language_type: living
@@ -49,3 +50,4 @@ translations:
   - translation_iso: zho
     name: 瑞士法语手语
 ---
+French Sign Language is the sign language of deaf and hard-of-hearing people in France and in French-speaking parts of Switzerland. According to Ethnologue, it has 100,000 native signers.

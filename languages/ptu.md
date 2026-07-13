@@ -2,10 +2,12 @@
 iso: ptu
 name: Bambam
 autonym: Pitu Ulunna Salu
-alt_names: [Nordost-Celebes, Pitu Ilunna Salo, Pitu Ulunna Salo, Pitu-Ulunna-Salu]
+alt_names: [Nordost-Celebes, Pitu Ilunna Salo, Pitu Ulunna Salo, Pitu-Ulunna-Salu, Bambam Hulu, Basa Bambam, Bumal, Issilitaꞌ, Matangnga, Mehalaan, Pakkau, Pattaeꞌ, Pitu Uluna Salu, Salu Mokanam]
 population: 42100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

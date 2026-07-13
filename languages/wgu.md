@@ -6,11 +6,14 @@ alt_names: [Hilleri, Hillery, Illarie, Julbari Wonnga, Kartawongulta, Naljara, N
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: -32
 longitude: 134
+language_map_img: 500px-Wirangu_Map.webp
 glottocode: wira1265
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

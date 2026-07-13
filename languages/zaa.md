@@ -3,10 +3,12 @@ iso: zaa
 macrolanguage_id: zap
 name: Sierra de Juárez Zapotec
 autonym: "Zapotec, Sierra de Juárez"
-alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Sapoteko, Serrano, Sierra de Juarez, Sierra de Juarez Zapotec, Sierra de Juárez, Zapotec, Zapotec (Juárez), Zapoteco ( Juarez Sierra), Zapoteco de Atepec]
+alt_names: [Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Sapoteko, Serrano, Sierra de Juarez, Sierra de Juarez Zapotec, Sierra de Juárez, Zapotec, Zapotec (Juárez), Zapoteco ( Juarez Sierra), Zapoteco de Atepec, Atepec, Juárez Zapotec, Macuiltianguis Zapotec, Sierra Juárez Zapotec]
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec dialect cluster of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -60,3 +62,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Ixtlán Zapotec is a Zapotec dialect cluster of Oaxaca, Mexico.

@@ -10,6 +10,7 @@ scope: macrolanguage
 language_type: living
 latitude: 17.09386
 longitude: 121.02662
+glottocode: cent2083
 wikidata_id: Q4942634
 wikipedia_url: "https://en.wikipedia.org/wiki/Bontoc_language"
 translations:

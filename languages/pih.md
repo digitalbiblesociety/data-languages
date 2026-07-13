@@ -6,6 +6,7 @@ alt_names: ["Norf'k", Norfolk Language, Norfolkese, Norfuk, Pitcairn English, Pi
 population: 400
 country_id: NF
 country_name: Norfolk Island
+area: Language spoken on Pitcairn Islands
 status_id: 6a
 scope: individual
 language_type: living

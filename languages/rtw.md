@@ -2,10 +2,12 @@
 iso: rtw
 name: Rathawi
 autonym: "Bal-La"
-alt_names: [Kohelia]
+alt_names: [Kohelia, Rathwi]
 population: 451000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Bhil language of India
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 拉塔威语
     auto: true
 ---
+Bhilali is a Bhil language spoken in India. it has two main varieties: Bhilali proper and Rathawi (Rathwi), which are largely mutually intelligible. A third variety, Parya Bhilali, is more distant but is still considered a dialect of the language.

@@ -6,6 +6,7 @@ alt_names: [Dzhudezmo, Haketia, Hakitia, Haquetiya, Judeo Spanish, Judeo-Espagno
 population: 51016
 country_id: IL
 country_name: Israel
+area: Language derived from Medieval Spanish spoken by Sephardic Jews
 status_id: "4"
 scope: individual
 language_type: living

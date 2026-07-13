@@ -2,10 +2,12 @@
 iso: kqw
 name: Kandas
 autonym: null
-alt_names: [King]
+alt_names: [King, Kadas]
 population: 480
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Oceanic language
 status_id: 6a
 scope: individual
 language_type: living

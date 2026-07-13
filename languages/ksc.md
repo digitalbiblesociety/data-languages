@@ -2,15 +2,18 @@
 iso: ksc
 name: Southern Kalinga
 autonym: Madlango Kalinga
-alt_names: ["Kalinga, Southern", Tinglayan Kalinga]
+alt_names: ["Kalinga, Southern", Tinglayan Kalinga, Bangad, Mallango, Sumadel, Tinglayan]
 population: 13000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 17.29358
 longitude: 121.06787
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: sout2908
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -74,3 +77,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon"
 ---
+Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Kalinga people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.

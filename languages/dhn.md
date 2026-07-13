@@ -6,6 +6,8 @@ alt_names: [Dangri, Dangs Bhil, Dhanka, Kakachhu-Ki Boli, Tadavi, Tadvi Bhil]
 population: 203000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Bhil language of India
 status_id: "3"
 scope: individual
 language_type: living

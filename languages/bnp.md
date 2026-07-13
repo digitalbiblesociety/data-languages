@@ -2,10 +2,12 @@
 iso: bnp
 name: Bola
 autonym: Bakovi
-alt_names: [Bola-Bakovi]
+alt_names: [Bola-Bakovi, Garua, Harua, Karua, Mai, Xarua]
 population: 13700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Oceanic language in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

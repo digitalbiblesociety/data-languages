@@ -6,11 +6,14 @@ alt_names: [Bagval, Bagvalaleg, Bagvalin, Bagwalal, Barbalin, Kvanada, Kvanadin]
 population: 6500
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 42.39664
 longitude: 46.1041
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: bagv1239
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

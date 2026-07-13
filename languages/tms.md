@@ -6,6 +6,8 @@ alt_names: [Lomorik, Lomuriki, Tamanik, Yibwa]
 population: null
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Language in the Katla language family
 status_id: 8b
 scope: individual
 language_type: living

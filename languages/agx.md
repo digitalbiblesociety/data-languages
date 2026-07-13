@@ -2,15 +2,18 @@
 iso: agx
 name: Aghul
 autonym: агъул чӀал
-alt_names: [Aghulshuy, Agul, Aguly, "Ağul ç'al"]
+alt_names: [Aghulshuy, Agul, Aguly, "Ağul ç'al", Aghul-ch’al, Agiul Shui, Burkikhan, "Fit'e", Gequn, Keren, Koshan, "Q'ushan", Tsirkhe]
 population: 29300
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeastern Caucasian language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 41.92418
 longitude: 47.58429
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: aghu1253
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

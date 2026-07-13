@@ -6,6 +6,7 @@ autonym: црногорски језик
 population: 232600
 country_id: ME
 country_name: Montenegro
+area: Normative variety of Serbo-Croatian in Montenegro
 status_id: null
 scope: individual
 language_type: living

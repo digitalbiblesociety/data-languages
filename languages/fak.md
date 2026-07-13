@@ -2,10 +2,12 @@
 iso: fak
 name: Fang
 autonym: null
-alt_names: [Cameroon, Fang]
+alt_names: [Cameroon, Fang, Fang (Cameroon)]
 population: 2400
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: African language native to Cameroon
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Cangala, Ngangala]
 population: 22300
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Zambia
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 恩康加拉语
     auto: true
 ---
+Mbunda is a Bantu language of Angola and Zambia. There are several dialects: Katavola, Yauma, Nkangala, Mbalango, Sango, Ciyengele ("Shamuka"), and Ndundu, all of which are closely related. Mbunda was one of six languages selected by the Instituto de Línguas Nacionais for an initial phase to establish spelling rules in 1980 to facilitate teaching in schools and promoting its use.

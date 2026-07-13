@@ -2,10 +2,12 @@
 iso: mqx
 name: Mamuju
 autonym: Mamoedjoe
-alt_names: [Mamoedjoesch, Mamudju, Nordost-Celebes, Udai]
+alt_names: [Mamoedjoesch, Mamudju, Nordost-Celebes, Udai, Padang, Sinyonyoi, Sumare-Rangas]
 population: 62900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

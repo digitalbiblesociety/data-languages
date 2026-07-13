@@ -2,10 +2,12 @@
 iso: suq
 name: Suri
 autonym: Surma
-alt_names: [Chai, Churi, Cirma, Dhuri, Dirma, Eastern Suri, Shuri, Shuro, "Suri, Tirmaga-Chai", Terema, Terna, Tid, Tirima, Tirma, Tirmaga, Tirmaga-Chai Suri, Tirmagi]
+alt_names: [Chai, Churi, Cirma, Dhuri, Dirma, Eastern Suri, Shuri, Shuro, "Suri, Tirmaga-Chai", Terema, Terna, Tid, Tirima, Tirma, Tirmaga, Tirmaga-Chai Suri, Tirmagi, Caci, Cai, Dama, Surichɛn]
 population: 18640
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Surmic language of Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

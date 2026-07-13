@@ -6,6 +6,8 @@ alt_names: [Ayapa, Ayapanec, Ayapanec Zoque, Ayapaneco, Numde Oode, Numdi Oodi, 
 population: 367
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zoquean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: moa
 name: Mwan
 autonym: Mona
-alt_names: [Mouan, Muan, Muana, Mwa]
+alt_names: [Mouan, Muan, Muana, Mwa, Mouna]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

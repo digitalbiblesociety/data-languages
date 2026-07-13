@@ -6,6 +6,8 @@ alt_names: [Atong]
 population: 4200
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living

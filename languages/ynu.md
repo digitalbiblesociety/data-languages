@@ -6,6 +6,7 @@ alt_names: [Jaúna, Yauna, Yayuna]
 population: 95
 country_id: CO
 country_name: Colombia
+area: Extinct Tucanoan language of Colombia
 status_id: "9"
 scope: individual
 language_type: extinct

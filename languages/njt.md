@@ -6,6 +6,7 @@ alt_names: [Suriname]
 population: null
 country_id: SR
 country_name: Suriname
+area: Pre-1960s pidgin language of Suriname
 status_id: "9"
 scope: individual
 language_type: living

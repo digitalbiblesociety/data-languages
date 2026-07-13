@@ -2,15 +2,18 @@
 iso: shp
 name: "Shipibo-Conibo"
 autonym: Shipibo
-alt_names: [Shipibo-Konibo, Shipipu simi, Tschama, Шипибо-конибо]
+alt_names: [Shipibo-Konibo, Shipipu simi, Tschama, Шипибо-конибо, Alto Ucayali, Caliseca, Chama, Coniba, Conibo, Konibo, Manamabobo, Manava, Manoita, Pisquibo, Setebo, Setibo, Shetebo, Shipibo del Madre de Dios, Sinabo, Xipibo, Xitibo]
 population: 22500
 country_id: PE
 country_name: Peru
+location: Peru
+area: Panoan language spoken in Peru and Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -7.17105
 longitude: -74.82192
+language_map_img: 500px-Pizarra_de_inicial_en_Bena_Jema.webp
 glottocode: ship1254
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan

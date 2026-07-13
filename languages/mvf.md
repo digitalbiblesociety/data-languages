@@ -3,15 +3,17 @@ iso: mvf
 macrolanguage_id: mon
 name: Peripheral Mongolian
 autonym: Inner Mongolian
-alt_names: [Khorchin, Khorčin, Menggu, Monggol, Mongol, Mongol (Khamnigan), "Mongolian, Peripheral", Ordos, Ostmongolisch, Southern-Eastern Mongolian]
+alt_names: [Khorchin, Khorčin, Menggu, Monggol, Mongol, Mongol (Khamnigan), "Mongolian, Peripheral", Ordos, Ostmongolisch, Southern-Eastern Mongolian, Bairin, Balin, "Chaha'er", Chahar, Chakhar, "E'erduos", Eastern Tumut, Ejine, Gorlos, Jalait, Jirim, Jo-Uda, Jostu, Kalaqin, "Ke'erqin", Keshikten, Kharachin, Kharchin, Kharchin-Tumut, Mingan, Mongolian, Naiman, Peripheral, Qahar, Shilingol, Tumet, Tumut, Ujumchin, Ujumuchin, Ulanchab, Urat, Uzemchin]
 population: 5980000
 country_id: CN
 country_name: China
+location: China
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 42.420815
 longitude: 110.157135
+language_map_img: mvf.webp
 glottocode: peri1253
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan

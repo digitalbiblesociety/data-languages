@@ -6,6 +6,8 @@ alt_names: [Filomena Mata Totonac, Filomena Mata-Coahuitlan Totonac, Santo Domin
 population: 15100
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Totonac language of Filomeno Mata, Veracruz, eastern Mexico"
 status_id: 6a
 scope: individual
 language_type: living

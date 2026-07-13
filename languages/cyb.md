@@ -6,6 +6,7 @@ alt_names: [Cavuhaba, Cayuvava, Cayuwaba]
 population: null
 country_id: BO
 country_name: Bolivia
+area: Language isolate of Bolivia
 status_id: 8b
 scope: individual
 language_type: extinct

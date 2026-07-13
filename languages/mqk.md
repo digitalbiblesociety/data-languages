@@ -6,6 +6,8 @@ alt_names: ["Manobo, Rajah Kabunsuwan"]
 population: 7570
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 拉惹卡布苏万曼诺博语
     auto: true
 ---
+Agusan is a Manobo language of northeastern Mindanao in the Philippines.

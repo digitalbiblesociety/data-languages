@@ -3,10 +3,12 @@ iso: xmm
 macrolanguage_id: msa
 name: Manado Malay
 autonym: Bahasa Manado
-alt_names: [Malais de Manado, Malay, Malay (Eastern), Malay (Manadonese), "Malay, Manado", Manadonese, Manadonese Malay, Minahasan Malay]
+alt_names: [Malais de Manado, Malay, Malay (Eastern), Malay (Manadonese), "Malay, Manado", Manadonese, Manadonese Malay, Minahasan Malay, Manado]
 population: 1820000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Creole language spoken in Manado
 status_id: "3"
 scope: individual
 language_type: living

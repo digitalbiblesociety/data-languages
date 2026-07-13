@@ -2,9 +2,12 @@
 iso: beb
 name: Bebele
 autonym: Bamvele
+alt_names: [Bembele]
 population: 24000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Dendi, Mbangi, Mongbandi, Mongwandi, Ngbandi, "Ngbandi, Southern", N
 population: 105000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of, Haut-Zaire"
 ---
+The Ngbandi language is a dialect continuum of the Ubangian family spoken by a half-million or so people in the Democratic Republic of Congo and in the Central African Republic. It is primarily spoken by the Ngbandi people, which included the dictator of what was then known as Zaire, Mobutu Sese Seko.

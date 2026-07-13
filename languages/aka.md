@@ -3,15 +3,18 @@ iso: aka
 iso639_1: ak
 name: Akan
 autonym: Akan
-alt_names: [Asante, Fante, Fante Akan, Fanti, Mfantse, Odschi, Otyi, Tuic, Twi, Tšwi]
+alt_names: [Asante, Fante, Fante Akan, Fanti, Mfantse, Odschi, Otyi, Tuic, Twi, Tšwi, Akuapem-Twi, "Akan: Asante", Abura Fanti, Achanti, Agona, Ahafo, "Akan: Akuapem", "Akan: Fante", Akuapem, Akuapim, Akwapem Twi, Akwapi, Akyem, Akyem Bosome, Anomabo Fanti, Asanti, Asen, Ashante Twi, Dankyira, Gomua, Kwahu, Kwawu]
 population: 8327000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Language of Akan lands in Ghana
 status_id: "3"
 scope: macrolanguage
 language_type: living
 latitude: 6.34756
 longitude: -1.33254
+language_map_img: aka.webp
 scripts: [Latn]
 glottocode: akan1250
 glottolog_family_id: atla1278

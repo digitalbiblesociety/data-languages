@@ -2,15 +2,18 @@
 iso: ifk
 name: Tuwali Ifugao
 autonym: Gilipanes
-alt_names: ["Ifugao, Tuwali", Ifugu, Kiangan Ifugao, Quiangan, Tuwali]
+alt_names: ["Ifugao, Tuwali", Ifugu, Kiangan Ifugao, Quiangan, Tuwali, Ifugaw, Hapao Ifugao, Hungduan Ifugao, Ifugao, Lagawe Ifugao]
 population: 30000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 16.66464
 longitude: 121.11348
+language_map_img: Ph_locator_ifugao_kiangan.webp
 glottocode: tuwa1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

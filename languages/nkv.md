@@ -2,9 +2,12 @@
 iso: nkv
 name: Nyika
 autonym: Kinyika
+alt_names: [Chinyika]
 population: 10000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in Tanzania and Zambia
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +55,4 @@ translations:
     name: 尼亚卡语
     auto: true
 ---
+Nyika (Nyiha) is a Bantu language of Tanzania and Zambia.

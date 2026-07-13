@@ -6,6 +6,8 @@ alt_names: [Cree, French Cree, Michifeg, Mitchif, Mitif, Métchif, Plains Cree-F
 population: 730
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Mixed language of the Métis people
 status_id: "7"
 scope: individual
 language_type: living

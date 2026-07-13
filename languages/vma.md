@@ -6,6 +6,8 @@ alt_names: [Jawunmala, Maratunia, Mardadhunira, Mardadhuniya, Mardathon, Mardath
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: extinct

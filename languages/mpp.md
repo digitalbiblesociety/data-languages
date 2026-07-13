@@ -2,10 +2,12 @@
 iso: mpp
 name: Migabac
 autonym: null
-alt_names: ["Migaba'"]
+alt_names: ["Migaba'", Migaba’, Central Migabac, Migabaꞌ, North Migabac, South Migabac]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Yandirika]
 population: 700
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Ubangian language of South Sudan
 status_id: 8a
 scope: individual
 language_type: living

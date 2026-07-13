@@ -2,15 +2,18 @@
 iso: nuk
 name: "Nuu-chah-nulth"
 autonym: Nootka
-alt_names: [Aht, Nootkans, Nutka, Nuuchahnulth, Nuučaan̓uɫ, "Quuquu'aca", "T'aat'aaqsapa", West Coast]
+alt_names: [Aht, Nootkans, Nutka, Nuuchahnulth, Nuučaan̓uɫ, "Quuquu'aca", "T'aat'aaqsapa", West Coast, Ahousaht, Cheklesaht, Ehattesaht, Hesquiaht, Hupacasath, Huu-ay-aht, Kyuquot, Mowachaht, Muchalaht, Nuchatlaht, "Nuučaan'ul", Tla-o-qui-aht, Toquaht, Tseshaht, Uchucklesaht, Ucluelet]
 population: 280
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: "Wakashan language of western Vancouver Island, British Columbia, Canada"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 49.67
 longitude: -126.67
+language_map_img: Wakashan_map.svg
 glottocode: nuuc1236
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan

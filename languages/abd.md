@@ -2,10 +2,12 @@
 iso: abd
 name: Manide
 autonym: Camarines Norte Agta
-alt_names: [Agiyan, Agta, Agta de Camarines Norte, Agta de Camarines-nord, "Agta, Camarines Norte", Camarines Norte]
+alt_names: [Agiyan, Agta, Agta de Camarines Norte, Agta de Camarines-nord, "Agta, Camarines Norte", Camarines Norte, Abiyan]
 population: 150
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living

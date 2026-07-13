@@ -3,15 +3,17 @@ iso: rmn
 macrolanguage_id: rom
 name: Balkan Romani
 autonym: Balkaniko Romanes
-alt_names: [Balkan, Bugurdz, Bugurdzi, Cigány, European Romany, Gypsy, Romani, Romani (Ajia Varvara), Romani (Bugurdzi), "Romani, Balkan", Romany, Zigeuner]
+alt_names: [Balkan, Bugurdz, Bugurdzi, Cigány, European Romany, Gypsy, Romani, Romani (Ajia Varvara), Romani (Bugurdzi), "Romani, Balkan", Romany, Zigeuner, Arabadži, Arli, Arlije, Bugurdži Romani, Chalgijis, Crimean Romani, Drindari, Dzambazi, East Bulgarian Romani, Erli, Greek Romani, Ironworker Romani, Khorakhani, Kitajis, Kosovan Arli, Kosovan Romani, Kovački, Kyrymitika Roma, Paspatian, Pazardžik Kalajdži, Prilep, Prizren, Pyrgos, Rabadži, Roma, Romancilikanes, Romani ćhib, Romano, Rumelian Romani, Sepeči, Sepečides Romani, Serres, Sofia Erli, Tinners Romani, Ursári, Usari, Zargari Romani]
 population: 602840
 country_id: RS
 country_name: Serbia
+area: Romani dialect of the Balkans
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 42.67
 longitude: 21.17
+language_map_img: Romany_dialects_Balkan.svg
 glottocode: balk1252
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

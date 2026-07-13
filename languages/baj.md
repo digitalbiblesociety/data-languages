@@ -6,6 +6,8 @@ alt_names: [Aru]
 population: 4300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: Austronesian language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

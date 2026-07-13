@@ -2,15 +2,18 @@
 iso: dba
 name: Bangime
 autonym: "Baŋgɛri-mɛ"
-alt_names: [Banger-me, Bangeri Me, Bangeri-me, Bangerime, Bangi Me, Baŋgi me, Dogon, "Dogon, Bangeri Me", Dogoso, Donno So Dogon, Dyeni, Dyɛni, Elebo, Noumandan, Numa-Daw, Numadaw, Yeni, Yɛni]
+alt_names: [Banger-me, Bangeri Me, Bangeri-me, Bangerime, Bangi Me, Baŋgi me, Dogon, "Dogon, Bangeri Me", Dogoso, Donno So Dogon, Dyeni, Dyɛni, Elebo, Noumandan, Numa-Daw, Numadaw, Yeni, Yɛni, Bangeri Me Dogon]
 population: 2000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Language isolate of southeastern Mali
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.81163
 longitude: -3.77092
+language_map_img: Map_of_the_Dogon_languages.webp
 glottocode: bang1363
 wikidata_id: Q1982696
 wikipedia_url: "https://en.wikipedia.org/wiki/Bangime_language"

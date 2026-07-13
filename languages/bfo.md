@@ -2,10 +2,12 @@
 iso: bfo
 name: Malba Birifor
 autonym: "Birifor, Northern"
-alt_names: [Birifo, "Birifor, Malba", Malba-Birifor, Northern Birifor]
+alt_names: [Birifo, "Birifor, Malba", Malba-Birifor, Northern Birifor, Birifor, Northern, Birafour, Bɩrfʋɔr, Malba, Ngmalba, Nmalba, Wile]
 population: 108000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language subgroup of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

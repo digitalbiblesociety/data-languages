@@ -6,6 +6,8 @@ alt_names: [Kajeske, Kawa Tadimini, Kujarge, Kujarke, Mini]
 population: 10000
 country_id: TD
 country_name: Chad
+location: Chad
+area: Afro-Asiatic language of eastern Chad
 status_id: 6a
 scope: individual
 language_type: living

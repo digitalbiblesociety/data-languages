@@ -5,6 +5,8 @@ autonym: null
 population: 13000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

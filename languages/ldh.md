@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 3420
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Bantoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Adamawa"
 ---
+Daka is one of two languages spoken by the Chamba people in Nigeria, the other being Chamba Leko.

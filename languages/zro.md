@@ -6,11 +6,13 @@ alt_names: [Kayapi, Sapara simi, Sápara, Sáparo-Konambo, Zaparo, Zaparoeg, Zá
 population: 170
 country_id: EC
 country_name: Ecuador
+area: Language from Ecuador
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -1.99871
 longitude: -76.36398
+language_map_img: 500px-Zaparo_language.webp
 glottocode: zapa1253
 glottolog_family_id: zapa1251
 glottolog_family_name: Zaparoan

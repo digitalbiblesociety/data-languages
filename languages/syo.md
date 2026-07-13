@@ -6,11 +6,14 @@ alt_names: [Kasong, Pear]
 population: 930
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Endangered Pearic language of Cambodia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 11.93601
 longitude: 104.13608
+language_map_img: 500px-Suoy_language.webp
 glottocode: suoy1242
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

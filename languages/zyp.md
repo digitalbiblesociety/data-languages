@@ -2,10 +2,12 @@
 iso: zyp
 name: Zyphe Chin
 autonym: "Chin, Zyphe"
-alt_names: ["Zac'hringeg", Zophei, Zoptei, Zyphe, Zyphe language]
+alt_names: ["Zac'hringeg", Zophei, Zoptei, Zyphe, Zyphe language, Chin, Lower Zyphe, Upper Zyphe, Vawngtu, Zo-pe]
 population: 20000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Kuki-Chin language spoken in Myanmar and India
 status_id: "5"
 scope: individual
 language_type: living

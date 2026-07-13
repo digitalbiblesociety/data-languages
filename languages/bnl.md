@@ -6,6 +6,7 @@ alt_names: [Boni, Boon hizkuntza]
 population: 60
 country_id: SO
 country_name: Somalia
+area: Endangered Cushitic language of Somalia
 status_id: 8b
 scope: individual
 language_type: living

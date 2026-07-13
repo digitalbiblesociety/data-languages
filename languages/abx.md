@@ -2,10 +2,12 @@
 iso: abx
 name: Inabaknon
 autonym: Capul Sinama
-alt_names: [Abaknon, Abaknon Sama, Capul, Capuleño, Kapul, Sama]
+alt_names: [Abaknon, Abaknon Sama, Capul, Capuleño, Kapul, Sama, Sama Abaknon]
 population: 26400
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living

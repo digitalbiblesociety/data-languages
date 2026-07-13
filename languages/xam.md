@@ -2,10 +2,11 @@
 iso: xam
 name: ǀXam
 autonym: "|Kamka!e"
-alt_names: ["!Kham", /Xam]
+alt_names: ["!Kham", /Xam, "|Kham-Ka-!k’e", "|Xam-Ka-!k’e"]
 population: null
 country_id: ZA
 country_name: South Africa
+area: Extinct language of South Africa and Lesotho
 status_id: "10"
 scope: individual
 language_type: extinct

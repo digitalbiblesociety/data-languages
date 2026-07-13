@@ -6,11 +6,13 @@ alt_names: [Ketangalano, Tangalan]
 population: null
 country_id: TW
 country_name: Taiwan
+area: Extinct Austronesian language of Taiwan
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 25.02571
 longitude: 121.42537
+language_map_img: 500px-Formosan_languages_Sagart_2021.webp
 glottocode: keta1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

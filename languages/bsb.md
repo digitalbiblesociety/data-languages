@@ -6,6 +6,8 @@ alt_names: [Basaya, Bekiau, Besaya, Bisaia, Bisaya, Bisaya Bukit, "Bisaya, Brune
 population: 57600
 country_id: BN
 country_name: Brunei
+location: Brunei and Malaysia - Sarawak
+area: Sabahan language spoken in Brunei and Malaysia
 status_id: "5"
 scope: individual
 language_type: living

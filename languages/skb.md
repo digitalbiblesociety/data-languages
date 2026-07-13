@@ -6,6 +6,8 @@ alt_names: [Saekeg, Set, Tai Sek]
 population: 14000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Tai language of Laos and Thailand
 status_id: "7"
 scope: individual
 language_type: living

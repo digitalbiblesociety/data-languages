@@ -6,6 +6,8 @@ alt_names: [Creen-Acarore, Ipewí, Kreen-Akarore, Kreen-Akorore, Kren Akarore, K
 population: 250
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Macro-Je language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

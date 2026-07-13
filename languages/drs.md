@@ -6,6 +6,8 @@ alt_names: [Darassa, Derasa, Derasanya, Deresa, Geddeo, Gedeo hizkuntza]
 population: 1410000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Highland East Cushitic language spoken in south central Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

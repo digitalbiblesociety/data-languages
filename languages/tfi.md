@@ -2,10 +2,12 @@
 iso: tfi
 name: Tofin Gbe
 autonym: Toffi
-alt_names: [Benin, "Gbe, Tofin"]
+alt_names: [Benin, "Gbe, Tofin", Tofi, Tofin, Tofingbe, Tɔfin, Tɔfingbe]
 population: 143000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language spoken in Benin
 status_id: 6a
 scope: individual
 language_type: living

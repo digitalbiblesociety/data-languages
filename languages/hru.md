@@ -2,10 +2,11 @@
 iso: hru
 name: Hruso
 autonym: " Gusso"
-alt_names: [Aka, Aka-Hruso, Angka, Angka(e), Angkae, Hrus(s)o, Hruso B, Hrusso, Tenae, Ĝusso]
+alt_names: [Aka, Aka-Hruso, Angka, Angka(e), Angkae, Hrus(s)o, Hruso B, Hrusso, Tenae, Ĝusso, Bangru, Levai]
 population: 4000
 country_id: IN
 country_name: India
+location: "India, Map 5"
 status_id: 6b
 scope: individual
 language_type: living

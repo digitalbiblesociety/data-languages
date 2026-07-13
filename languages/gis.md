@@ -2,10 +2,12 @@
 iso: gis
 name: North Giziga
 autonym: Dogba
-alt_names: [Gisiga, Gisika, Giziga, Giziga de Maroua, "Giziga, North", Guiziga, Marva, Mi Marva, North and Giziga, South, Tchere]
+alt_names: [Gisiga, Gisika, Giziga, Giziga de Maroua, "Giziga, North", Guiziga, Marva, Mi Marva, North and Giziga, South, Tchere, Giziga de, Maroua]
 population: 20000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

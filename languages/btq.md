@@ -2,10 +2,12 @@
 iso: btq
 name: Batek
 autonym: Bateg
-alt_names: [Bateq, Batok, Kleb, Lebir, Nong, Tomo]
+alt_names: [Bateq, Batok, Kleb, Lebir, Nong, Tomo, "Batek De'", Batek Iga, Batek Nong, Batek Teq, Deq, Teq]
 population: 1000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

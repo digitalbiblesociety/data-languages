@@ -2,10 +2,12 @@
 iso: pls
 name: San Marcos Tlacoyalco Popoloca
 autonym: Popoloca
-alt_names: [Chocho-Popoloka, Northern Popoloca, Northern Popoloka, Popoloca de San Marcos Tlalcoyalco, "Popoloca, San Marcos Tlacoyalco", "Popoloca, San Marcos Tlalcoyalco", San Marcos Tlalcoyalco Popoloca]
+alt_names: [Chocho-Popoloka, Northern Popoloca, Northern Popoloka, Popoloca de San Marcos Tlalcoyalco, "Popoloca, San Marcos Tlacoyalco", "Popoloca, San Marcos Tlalcoyalco", San Marcos Tlalcoyalco Popoloca, Ngigua, Ngiwa, Popoloca del Norte, Popoluca del Norte]
 population: 5000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Oto-Manguean language of Puebla, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 圣马科斯特拉科亚尔科波波卡语
     auto: true
 ---
+Northern Popoloca is an indigenous language of Puebla state, Mexico. The dialects of the two towns where it is spoken, San Luís Temalacayuca and San Marcos Tlacoyalco, are over 90% mutually intelligible.

@@ -6,11 +6,13 @@ alt_names: [Eyak uqautchit, Eyakera, "dAXunhyuuga'", eyaco]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Na-Dené language of US
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 60.4232
 longitude: -144.76186
+language_map_img: 500px-Eyak_lang.webp
 glottocode: eyak1241
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

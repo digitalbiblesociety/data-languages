@@ -2,10 +2,12 @@
 iso: lom
 name: Loma
 autonym: Looma
-alt_names: ["\"Bouze\"", "\"Busy\"", "\"Buzi\"", Buzi, Loghoma, Logoma, Loma, Lorma, Toma]
+alt_names: ["\"Bouze\"", "\"Busy\"", "\"Buzi\"", Buzi, Loghoma, Logoma, Loma, Lorma, Toma, “Bouze”, “Busy”, “Buzi”, Bouze, Bonde, Briama, Bulima, Buluiema, Buluyiema, Bulyama, Bunde, Gbunde, Gizima, Siama, Toa, Wubomai, Wubomei, Ziema]
 population: 299000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

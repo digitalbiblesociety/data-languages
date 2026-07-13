@@ -2,10 +2,12 @@
 iso: tob
 name: Toba
 autonym: Chaco Sur
-alt_names: [Namqom, Qom, Qumlik simi, Toba Qom, Toba Qom language, Toba Sur]
+alt_names: [Namqom, Qom, Qumlik simi, Toba Qom, Toba Qom language, Toba Sur, Emok-Lik, Northern Toba, Qom-Lik, Qomlꞌek, Southeast Toba, Takshika, Toba Sombrero negro, Toba del Oeste, Toba-Pilagá, Toba-Qom]
 population: 31580
 country_id: AR
 country_name: Argentina
+location: Argentina and Chile
+area: Guaicuruan language of northern Argentina
 status_id: 6b
 scope: individual
 language_type: living

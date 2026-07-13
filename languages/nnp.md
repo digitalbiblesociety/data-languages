@@ -2,10 +2,11 @@
 iso: nnp
 name: Wancho Naga
 autonym: Banpara Naga
-alt_names: [Banpara, Joboka, Naga, "Naga, Wancho", "Naga,Wancho", Wancho]
+alt_names: [Banpara, Joboka, Naga, "Naga, Wancho", "Naga,Wancho", Wancho, Jokoba, Bor Muthun, Bor Mutonia, Changnoi, Horu Muthun, Kulung Muthun, Mithan, Naga Wancho]
 population: 59200
 country_id: IN
 country_name: India
+location: "India, Map 5"
 status_id: "5"
 scope: individual
 language_type: living

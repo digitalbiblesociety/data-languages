@@ -2,10 +2,12 @@
 iso: cla
 name: Ron
 autonym: Chala
-alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo]
+alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo, “Chala”, “Challa”, Alis I Ron, Alis I Run, Lis Ma Ron, Lis Ma Run, Maleni, Manguna, Nafunfia, Shagau, Shagawu]
 population: 216000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Chadic language cluster spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

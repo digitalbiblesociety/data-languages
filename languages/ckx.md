@@ -5,6 +5,8 @@ autonym: null
 population: 5000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Tivoid language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living

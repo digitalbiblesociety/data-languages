@@ -3,6 +3,7 @@ iso: fat
 macrolanguage_id: aka
 name: Fanti
 autonym: Fante
+alt_names: [Ghana]
 population: 2800000
 country_id: GH
 country_name: Ghana

@@ -6,6 +6,8 @@ alt_names: ["Mixtec, Tututepec", Mixteco de San Pedro Tututepec, Southern Mistek
 population: 1020
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

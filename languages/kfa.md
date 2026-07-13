@@ -2,10 +2,12 @@
 iso: kfa
 name: Kodava
 autonym: ಕೊಡವ
-alt_names: [Codagú, Coorge, Kadagi, Khurgi, Kodagu, Kodagu/Coorg, Kodava Takk, Kodava Thak, Kodaveg, Kotagu, Koḍagu, Koḍagu-Kuṟumba, Kurja, Kurug, Кодагу]
+alt_names: [Codagú, Coorge, Kadagi, Khurgi, Kodagu, Kodagu/Coorg, Kodava Takk, Kodava Thak, Kodaveg, Kotagu, Koḍagu, Koḍagu-Kuṟumba, Kurja, Kurug, Кодагу, Coorg, Coorgi Kodava]
 population: 114000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

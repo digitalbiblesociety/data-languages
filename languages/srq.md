@@ -6,6 +6,8 @@ alt_names: [Chori, Mbia, Mbia Chee, Mbya, Siriono]
 population: 190
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Tupí–Guaraní language of eastern Bolivia
 status_id: 6b
 scope: individual
 language_type: living

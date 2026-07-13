@@ -2,10 +2,11 @@
 iso: frr
 name: Northern Frisian
 autonym: NuurđfriiskFöhr
-alt_names: [Dialetto frisone settentrionale, Freeshlannish Hwoaie, Friesisch, Frisian, Frisian (North), Frisian (Northern), "Frisian, North", "Frisian, Northern", Frison du nord, Frisó septentrional, Frisón septentrional, Frizeg an norzh, Noardfrysk, Noord-Fries, Noordfrais, Noordfreesch, Noordfries, Nordfriesisch, Nordfrisisk, Nordfrisiska, North Frisian, North Frisian language, Northern, Noudfräisk, frison septentrional]
+alt_names: [Dialetto frisone settentrionale, Freeshlannish Hwoaie, Friesisch, Frisian, Frisian (North), Frisian (Northern), "Frisian, North", "Frisian, Northern", Frison du nord, Frisó septentrional, Frisón septentrional, Frizeg an norzh, Noardfrysk, Noord-Fries, Noordfrais, Noordfreesch, Noordfries, Nordfriesisch, Nordfrisisk, Nordfrisiska, North Frisian, North Frisian language, Northern, Noudfräisk, frison septentrional, Ferring, Fohr-Amrum, Frasch, Freesch, Freesk, Friisk, Fräisch, Helgoland, Mainland Frisian, Mooringa, Mooringer, Sylt, Sölreng]
 population: 10000
 country_id: DE
 country_name: Germany
+area: "Minority language of Germany, spoken mostly by people in North Frisia"
 status_id: "7"
 scope: individual
 language_type: living

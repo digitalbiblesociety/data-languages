@@ -6,6 +6,8 @@ alt_names: [Paiter, Paitér, Surui, Surui Paiter, Suruí de Rondônia, Suruí do
 population: 920
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

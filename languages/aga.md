@@ -6,6 +6,7 @@ alt_names: [Awano, Santa Crucino, Uguano]
 population: null
 country_id: PE
 country_name: Peru
+area: Unclassified language of Peru
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: mcs
 name: Mambai
 autonym: Mambay
-alt_names: [Mamgbay, Mamgbei, Manbai, Mangbai, Mangbaï de Biparé, Mangbei, Momboi, Mongbay]
+alt_names: [Mamgbay, Mamgbei, Manbai, Mangbai, Mangbaï de Biparé, Mangbei, Momboi, Mongbay, dag ti Mambay]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Mbum language spoken in Cameroon and Chad
 status_id: 6a
 scope: individual
 language_type: living

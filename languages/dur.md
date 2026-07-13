@@ -2,10 +2,12 @@
 iso: dur
 name: Dii
 autonym: Duru
-alt_names: [Dourou, Durru, Nyag Dii, Yag Dii, Zaa]
+alt_names: [Dourou, Durru, Nyag Dii, Yag Dii, Zaa, Boow, Goom, Home, "Mambe'", "Mamna'a", Ngbang, Nyok, Saadje, Saakye, Sagzee, Vaazin]
 population: 50000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Dialect cluster of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kwj
 name: Kwanga
 autonym: null
-alt_names: [Gawanga, Kawanga, Mende, Nihamber, Nihamber Sambu, Sambu, Seim, Womsak]
+alt_names: [Gawanga, Kawanga, Mende, Nihamber, Nihamber Sambu, Sambu, Seim, Womsak, Apos, Bongomaise, Bongomamsi, Bongos, Daina, Kambaminchi, Kubiwat, Mangamba, Nambes, Nambi, Tau, Wasambu, Yubanakor]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Sepik language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

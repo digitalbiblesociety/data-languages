@@ -3,10 +3,12 @@ iso: lvs
 macrolanguage_id: lav
 name: Standard Latvian
 autonym: Lettish
-alt_names: ["Latvian, Standard"]
+alt_names: ["Latvian, Standard", Lettisch, Latvian, Latviešu valoda, Latviski, Standard]
 population: 1529720
 country_id: LV
 country_name: Latvia
+location: "Estonia, Latvia and Lithuania"
+area: Baltic language of Latvia
 status_id: "1"
 scope: individual
 language_type: living

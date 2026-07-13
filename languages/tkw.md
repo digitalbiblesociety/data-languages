@@ -6,6 +6,8 @@ alt_names: [Buma, Buma (Solomon Islands), Buma (in Solomon Islands), Puma]
 population: 520
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language spoken in the Solomon Islands
 status_id: "7"
 scope: individual
 language_type: living

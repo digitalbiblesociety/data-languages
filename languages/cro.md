@@ -2,10 +2,12 @@
 iso: cro
 name: Crow
 autonym: Apsáalooke aliláau
-alt_names: [Absaruqe, Absáraca, Apsaalooke, Apsaloka, Apsaroka, Upsaroka]
+alt_names: [Absaruqe, Absáraca, Apsaalooke, Apsaloka, Apsaroka, Upsaroka, Absaroke, Absarokee, Apsaroke]
 population: 4280
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: "Missouri Valley Siouan language of Montana, US"
 status_id: 6b
 scope: individual
 language_type: living

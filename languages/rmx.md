@@ -6,6 +6,8 @@ alt_names: [Lamam]
 population: 250
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: KH
     location: Cambodia
 ---
+Kacoʼ (Kachok) is an Austro-Asiatic language of Vietnam. The two dialects, Kacoʼ and Romam, are quite distinct. Lamam (Lmam) is a clan name found among the Kaco', not a distinct language.

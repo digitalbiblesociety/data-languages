@@ -2,10 +2,11 @@
 iso: ndg
 name: Ndengereko
 autonym: Rufiji
-alt_names: [Kingengereko, Ndengeleko]
+alt_names: [Kingengereko, Ndengeleko, Kindengereko]
 population: 72000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living

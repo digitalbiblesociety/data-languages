@@ -2,10 +2,12 @@
 iso: mtp
 name: Wichí Lhamtés Nocten
 autonym: Weenhayek
-alt_names: [Bolivian Mataco, Mataco, Mataco Güisnay, Mataco Pilcomayo, Mataguayo, Matahuayo, Matako, Nocten, Noctenes, Oktenai, Pilcomayo Wichí, Wennhayek, Wichi Lhamtes Nocten, Wichí, Wichí Lhamtés Güisnay]
+alt_names: [Bolivian Mataco, Mataco, Mataco Güisnay, Mataco Pilcomayo, Mataguayo, Matahuayo, Matako, Nocten, Noctenes, Oktenai, Pilcomayo Wichí, Wennhayek, Wichi Lhamtes Nocten, Wichí, Wichí Lhamtés Güisnay, “Mataco Nocten”, “Mataco”, Bolivian, "'weenhayeklhayhi'", "'weenhayeklhàmet"]
 population: 2030
 country_id: BO
 country_name: Bolivia
+location: Argentina and Chile
+area: Wichí language spoken in Bolivia
 status_id: "5"
 scope: individual
 language_type: living

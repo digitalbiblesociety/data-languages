@@ -2,10 +2,12 @@
 iso: zmb
 name: Zimba
 autonym: South Binja
-alt_names: [Democratic Republic of the Congo]
+alt_names: [Democratic Republic of the Congo, Binja, Kisembombo, Kwange, Kyenyemamba, Mamba, Nyangwe, Nyembombo, Semalinga, Semolo, Semulu, Soe, Sole]
 population: 120000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

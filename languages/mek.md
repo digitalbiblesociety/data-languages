@@ -2,10 +2,12 @@
 iso: mek
 name: Mekeo
 autonym: null
-alt_names: [Kovio, Mekeo-Kovio]
+alt_names: [Kovio, Mekeo-Kovio, East Mekeo, Ninikani, North Mekeo, Northwest Mekeo, West Mekeo]
 population: 20000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

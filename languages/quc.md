@@ -2,10 +2,12 @@
 iso: quc
 name: "K'iche'"
 autonym: Quiché
-alt_names: [Cachabel, Central, Central Quiché, Chiquel, "K'iche', Central", "K'iché simi", Kiché, Quiche, Quiché-Sprache, Киче]
+alt_names: [Cachabel, Central, Central Quiché, Chiquel, "K'iche', Central", "K'iché simi", Kiché, Quiche, Quiché-Sprache, Киче, "Cunén K'iche'", Totonicapán Kiche, Kꞌicheꞌ, Kꞌicheꞌ San Andrés Sajcabajá, Cunén Kꞌicheꞌ, San Andrés Sajcabajá Kꞌicheꞌ, Qatzij, San Andrés Kꞌicheꞌ, Totonicapán]
 population: 1680000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken by the Kʼicheʼ people
 status_id: "4"
 scope: individual
 language_type: living

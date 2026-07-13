@@ -2,10 +2,12 @@
 iso: nyn
 name: Nyankole
 autonym: Runyankore
-alt_names: [Nkole, Nkore, Nyankore, Nyankore language, Runyankole, Ulunyankole, Ulunyankore, nyankolé]
+alt_names: [Nkole, Nkore, Nyankore, Nyankore language, Runyankole, Ulunyankole, Ulunyankore, nyankolé, Runyankore-Rukiga, Hima, Hororo, Olunyankole, Runyaruguru]
 population: 3433000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken by the Nkore and Hema peoples of Southwestern Uganda
 status_id: "4"
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: yue
 macrolanguage_id: zho
 name: Yue Chinese
 autonym: Cantonese
-alt_names: [Cantonese Chinese, "Cantonese, Yue", Chinese, Chinese (Cantonese), "Chinese, Yue", "Chinese,Yue", Yue, Yue Dialect Family, Yuè, Yüeh]
+alt_names: [Cantonese Chinese, "Cantonese, Yue", Chinese, Chinese (Cantonese), "Chinese, Yue", "Chinese,Yue", Yue, Yue Dialect Family, Yuè, Yüeh, Gwong Dung Waa, Yueh, Yuet Yue, Yueyu, 廣東話, Bobai, Cangwu, Chinese Nung, Gaolei, Gaoyang, Guangfu, Guangzhou, Guinan, Ha Xa Phang, Hai Nam, Han, Hoa, Hoisan, Hong Kong Cantonese, Kién, Konghu, Liem Chau, Lowland Nung, Macau Cantonese, Minh Huong, Nung, Phúc, Ping, Qinlian, Quang Dong, Samg Phang, Schleiyip, Seiyap, Shatou, Shiqi, Siyi, Suòng Phóng, Taishan, Tengxian, Toisan, Toishanese, Trièu Chau, Vancouver Cantonese, Wancheng, Yangjiang, Zhongshan]
 population: 73100000
 country_id: CN
 country_name: China
+location: Southern China
+area: Primary branch of Chinese spoken in southern China
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 23
 longitude: 113
+language_map_img: yue.webp
 scripts: [Hans, Hant]
 glottocode: yuec1235
 glottolog_family_id: sino1245

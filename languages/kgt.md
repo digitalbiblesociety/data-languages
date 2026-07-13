@@ -6,6 +6,8 @@ alt_names: [Fur, Kila Yang, Kilayen, Sombe, Sombə, Somieve, Somyewe, Somyiwe, S
 population: 15
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Moribund Mambiloid language of Nigeria and Cameroon
 status_id: 8b
 scope: individual
 language_type: living

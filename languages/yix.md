@@ -6,6 +6,8 @@ alt_names: [Ahi, Axi, Axibo, Lolo, Yi, "Yi, Axi"]
 population: 170000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nst
 name: Tase Naga
 autonym: Tase
-alt_names: [Cham Chang, Chang, Jugli, Lungchang, Naga, "Naga, Tase", "Naga,Tase", Northern Naga, Rangpan, Rangpang, Tangsa, Tangsa/Rangpan, Tasey, Yogli]
+alt_names: [Cham Chang, Chang, Jugli, Lungchang, Naga, "Naga, Tase", "Naga,Tase", Northern Naga, Rangpan, Rangpang, Tangsa, Tangsa/Rangpan, Tasey, Yogli, Haimi, Aasen, Asen, Awla, Awlay, Bongtai, Bote, Butay, Chamchang, Chamkok, Champhang, Changwan, Chawang, Cholim, Chumnyu, Chumsa, Chuyo, Dongai, Donghee, Dongi, Gachung, Gaha, Gakat, Gakhi, Gakhun, Galawn, Galun, Gaman, Gaqchan, Gashan, Gawkchung, Hacheng, Hachi, Hachum, Hakhii, Hakhun, Hakhü, Hakyai, Halum, Haman, Hansin, Hapaw, Hasik, Hatse, Have, Havoy, Hawa, Heimi, Henchin, Hewa, Higsho, Higtsii, Hkalak, Hokuq, Hteinpa, Jöngi, Kaisan, Kaishan, Kawlum, Khalak, Khemsing, Kimsing, Kochong, Kon, Kotlum, Kum Ga, Kumga, Kumka, Kuwa, Kyawan, Kyetsan, Laju, Lakai, Lakki, Lama, Lanchein, Langshin, Lazu Naga, Lochang, Longkhai, Longkhi, Longphi, Lonyung, Lulum, Lumnu, Lungkhi, Lungri, Maihku, Maimong, Maitai, Mawrang, Mawshang, Meitei, Miku, Mitay, Miti, Moklum, Morang, Mosang, Moshang, Mungray, Mungre, Nahen, Nahim, Nahin, Ngaimau, Ngaimong, Ngemu, Nokpa, Nukpa, Ollo Naga, Pangmi, Pangwa, Phong, Pingku, Poerah, Ponthai, Pyengoo, Ranchi, Rangchein, Rangkhu, Ranu, Raqsa, Rara, Rasa, Rera, Riha, Ringkhu, Rongrang, Ronrang, Sanching, Sangche, Sangtai, Sangwal, Sanke, Sansik, Sawkrang, Sechu, Shaekjeng, Shaekyeu, Shangchein, Shangge, Shangthi, Shangti, Shangwal, Shangwan, Shaukra, Shawvel, Shechu, Shecyü, Sheiknyo, Shekyü, Shograng, Shokra, Siknyo, Sikpo, Taipi, Tamko, Tangrim, Tangshang, Tangwa, Tawkay, Tawlum, Thamkok, Thamphang, Tikhak, Toke, Tonglim, Tulim, Tulum, Tutcha, Tutsa, Wakka, Wanga, Wanggu, Wangoo, Yangno, Yasa, Yawngkon, Yongkon, Yongkuk, Yukok]
 population: 986000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in Burma and India
 status_id: "5"
 scope: individual
 language_type: living

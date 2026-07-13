@@ -6,6 +6,8 @@ alt_names: [Pyemmairrener, "Tasmanian, Northeastern"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct language of Tasmania
 status_id: null
 scope: individual
 language_type: extinct

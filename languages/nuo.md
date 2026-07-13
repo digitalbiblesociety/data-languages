@@ -6,11 +6,14 @@ alt_names: [Ngouan, Nguon, Nguồn language]
 population: 20000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Vietic language spoken in Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 17.72429
 longitude: 105.93241
+language_map_img: Location_of_Quang_Binh_within_Vietnam.webp
 glottocode: nguo1239
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

@@ -6,6 +6,8 @@ alt_names: [Pere, Pereba, Wom]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Leko language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

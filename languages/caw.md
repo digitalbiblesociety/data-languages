@@ -6,6 +6,7 @@ alt_names: [Callawaya, Collahuaya, Kallawaya, Machaj-Juyai, Pohena, Кальяу
 population: null
 country_id: BO
 country_name: Bolivia
+area: Endangered Puquina language spoken in Bolivia
 status_id: "9"
 scope: individual
 language_type: living

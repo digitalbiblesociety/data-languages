@@ -6,6 +6,7 @@ alt_names: [Khojki, Lawatiya, Luvatí]
 population: 5000
 country_id: OM
 country_name: Oman
+location: Oman
 status_id: 8a
 scope: individual
 language_type: living

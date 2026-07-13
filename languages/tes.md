@@ -6,6 +6,8 @@ alt_names: [Tenggerese]
 population: 80000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: "Language of the Tenggerese people of East Java, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

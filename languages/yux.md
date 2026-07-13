@@ -2,15 +2,18 @@
 iso: yux
 name: Southern Yukaghir
 autonym: Одул
-alt_names: [Forest Yukaghir, Forest Yukagir, Jukagir, Jukagirisch, Kolym, Kolyma, Kolyma Yukaghir, Odul, Southern Yukagir, Sydjukagiriska, "Youkagireg ar c'hreisteiz", Youkaguire des forêts, Yucaguiro de los bosques, Yukaghir, Yukaghir (Kolyma), Yukaghir (Southern), "Yukaghir, Southern", Yukagir, Одун ажуу]
+alt_names: [Forest Yukaghir, Forest Yukagir, Jukagir, Jukagirisch, Kolym, Kolyma, Kolyma Yukaghir, Odul, Southern Yukagir, Sydjukagiriska, "Youkagireg ar c'hreisteiz", Youkaguire des forêts, Yucaguiro de los bosques, Yukaghir, Yukaghir (Kolyma), Yukaghir (Southern), "Yukaghir, Southern", Yukagir, Одун ажуу, Southern]
 population: 130
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Yukaghir language of northeastern Russia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 64.21804
 longitude: 154.37455
+language_map_img: Yukaghir_map.svg
 glottocode: sout2750
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir

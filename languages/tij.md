@@ -6,6 +6,8 @@ alt_names: [Halesidanda, Tilling, Tilung Blama]
 population: 310
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language of Nepal
 status_id: 8a
 scope: individual
 language_type: living

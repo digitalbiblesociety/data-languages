@@ -2,10 +2,12 @@
 iso: ldb
 name: Dũya
 autonym: Dũya
-alt_names: [Adong, Idun, Lungu, Ungu]
+alt_names: [Adong, Idun, Lungu, Ungu, Jaba Duya, Jaba Lunga]
 population: 78000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

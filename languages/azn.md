@@ -2,10 +2,12 @@
 iso: azn
 name: Western Durango Nahuatl
 autonym: Durango Aztec
-alt_names: ["Nahuatl, Western Durango"]
+alt_names: ["Nahuatl, Western Durango", Meshikan del occidente, Mexicanero del occidente, Nahuat del Occidente en Durango y Nayarit, Western Durango Aztec]
 population: null
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Aztecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西杜兰戈纳瓦特尔语
     auto: true
 ---
+Mexicanero is the Nahuan language spoken by the Mexicanero people of southern Durango and northern Nayarit. It has around 1000 speakers in the remote towns of San Pedro Jícora and San Juan Buenaventura in the Mezquital municipality, Durango, where they coexist with speakers of Low Southern Tepehuán, and some 300 speakers in the Acaponeta municipality of Nayarit. There are significant differences between the varieties of San Pedro Jícora on the one hand and San Agustín Buenaventura and Nayarit on the other. The language is vibrant and spoken by adults and children.

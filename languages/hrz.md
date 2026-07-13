@@ -6,6 +6,7 @@ alt_names: [Harzandi, Iran]
 population: 34900
 country_id: IR
 country_name: Iran
+area: Dialect of the Tati language
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Moaraeri, Moraori, Morari]
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Papua
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -8.5692
 longitude: 140.68788
+language_map_img: Moraori_language.svg
 glottocode: moro1289
 wikidata_id: Q6913275
 wikipedia_url: "https://en.wikipedia.org/wiki/Morori_language"

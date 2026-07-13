@@ -2,10 +2,12 @@
 iso: cac
 name: Chuj
 autonym: Chuj
-alt_names: ["Chuj, San Sebastián Coatán"]
+alt_names: ["Chuj, San Sebastián Coatán", San Mateo Ixtatán, San Sebastián Coatán, Chapai, Chuh, Chuhe, Chuj de San Mateo Ixtatán, Chuj de San Sebastian, Ixtatán Chuj, San Sebastian Chuj, Chuje, Ixtatán, "Koti'", Kotiꞌ]
 population: 61490
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Guatemala and Mexico
 status_id: "5"
 scope: individual
 language_type: living

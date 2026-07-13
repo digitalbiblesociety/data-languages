@@ -2,10 +2,12 @@
 iso: djk
 name: Eastern Maroon Creole
 autonym: Aukan
-alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка]
+alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка, “Djoeka”, “Djuka”, Aloekoe, Aluku, Boni, Businengee Tongo, Djoeka, Ndyuka tongo, Nenge Tongo, Nengee, Nengee Tongo, Okanisi tongo, Pamaka, Paramaccan]
 population: 67300
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: Creole language of Suriname and French Guiana
 status_id: "5"
 scope: individual
 language_type: living
@@ -73,3 +75,4 @@ rolv_dialects:
     country_id: SR
     location: Suriname
 ---
+Ndyuka, also called Aukan, Okanisi, Ndyuka tongo, Aukaans, Businenge Tongo, Eastern Maroon Creole, or Nenge is a creole language of Suriname and French Guiana, spoken by the Ndyuka people. The speakers are one of six Maroon peoples in the Republic of Suriname and one of the Maroon peoples in French Guiana. Most of the 25 to 30 thousand speakers live in the interior of the country, which is a part of the country covered with tropical rainforests. Ethnologue lists two related languages under the name Ndyuka, the other being a dialect of Lutos.

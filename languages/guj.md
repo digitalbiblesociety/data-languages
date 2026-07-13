@@ -3,15 +3,18 @@ iso: guj
 iso639_1: gu
 name: Gujarati
 autonym: ગુજરાતી
-alt_names: [Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gujaratagiella, Gujarati bhasa, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Kigujarati, goudjrati, Гуджарати, Гуджараті, Забони гуҷаратӣ, "גוג'ראטית", گۇجارات تىل, गुजराती, গুজরাটি ঠার, குஜராத்தி, ጉጃራቲ]
+alt_names: [Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gujaratagiella, Gujarati bhasa, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Kigujarati, goudjrati, Гуджарати, Гуджараті, Забони гуҷаратӣ, "גוג'ראטית", گۇجارات تىل, गुजराती, গুজরাটি ঠার, குஜராத்தி, ጉጃራቲ, Ahmedabad Gamadia, Anawla, Bhawnagari, Brathela, Charotari, Eastern Broach Gujarati, Gamadia, Ghisadi, Gohilwadi, Gramya, Holadi, Jhalawadi, Kakari, Kathiyawadi, Kharwa, Mumbai Gujarati, Nagari, Parsi, Patani, Patidari, Patnuli, Saurashtra Standard, Sorathi, Standard Gujarati, Surati, Tarimuki, Vadodari]
 population: 56400000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 22.687012
 longitude: 71.096191
+language_map_img: Gujarati_language_map.svg
 scripts: [Gujr]
 glottocode: guja1252
 glottolog_family_id: indo1319

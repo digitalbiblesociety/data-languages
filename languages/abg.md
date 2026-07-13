@@ -6,6 +6,8 @@ alt_names: [Vaga, Wagama]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu–Goroka language native to Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Nat, Natra]
 population: 1000
 country_id: PK
 country_name: Pakistan
+area: Endangered Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living

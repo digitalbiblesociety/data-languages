@@ -6,11 +6,13 @@ alt_names: [Massachusett, Massachusett-Narragansett, Massachusetts, Natick, Wamp
 population: 400
 country_id: US
 country_name: United States
+area: Indigenous Algonquian language spoken in the Northeastern United States
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 41.70504
 longitude: -73.31478
+language_map_img: 500px-Tribal_Territories_Southern_New_England.webp
 glottocode: wamp1249
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

@@ -2,10 +2,12 @@
 iso: lbj
 name: Ladakhi
 autonym: ལ་དྭགས་ཀྱི་སྐད།
-alt_names: [Bod Buṭun, Budhī, Ladak, Ladakheg, Ladakhī, Ladakse skat, Ladaphi, Ladhakhi, Ladwags, Leh-Kenhat, Mar-yul, Western, Western Tibetan, dialect of Leh, ལ་དྭགས་སྐད།]
+alt_names: [Bod Buṭun, Budhī, Ladak, Ladakheg, Ladakhī, Ladakse skat, Ladaphi, Ladhakhi, Ladwags, Leh-Kenhat, Mar-yul, Western, Western Tibetan, dialect of Leh, ལ་དྭགས་སྐད།, Central Ladakhi, Ladakh, Ladakh Skat, Leh, Lower Ladakhi, Nubra Ladakhi, Sham, Shamma, Shamskat]
 population: 27000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Tibetic language spoken in Ladakh, India"
 status_id: "5"
 scope: individual
 language_type: living

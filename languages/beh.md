@@ -2,10 +2,12 @@
 iso: beh
 name: Biali
 autonym: Bieri
-alt_names: [Berba, Bjerb, Bjeri, Burba]
+alt_names: [Berba, Bjerb, Bjeri, Burba, Bialaba, Byali, Dassari, Gouande, Materi, Pingou, Porga, Tangeta, Tihoun]
 population: 166080
 country_id: BJ
 country_name: Benin
+location: Burkina Faso
+area: Gur language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living

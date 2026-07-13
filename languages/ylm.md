@@ -5,6 +5,8 @@ autonym: Liumi
 population: 29000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Language spoken in western Yunnan province, China"
 status_id: 6a
 scope: individual
 language_type: living

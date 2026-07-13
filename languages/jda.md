@@ -2,10 +2,12 @@
 iso: jda
 name: Jad
 autonym: Dzad
-alt_names: [Bhotia]
+alt_names: [Bhotia, Rongba]
 population: 300
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Tibetic language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

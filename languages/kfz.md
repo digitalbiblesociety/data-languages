@@ -2,10 +2,12 @@
 iso: kfz
 name: Koromfé
 autonym: Fula
-alt_names: [Fulse, Koromfe, Kouroumba, Kuruma, Kurumba, Kurumfe, Kuṟumba, Nyonyose]
+alt_names: [Fulse, Koromfe, Kouroumba, Kuruma, Kurumba, Kurumfe, Kuṟumba, Nyonyose, Eastern Koromfe, Foula, Foulse, Koromba, Kurum-Korey, Tellem, Western Koromfe]
 population: null
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in Burkina Faso and Mali
 status_id: "5"
 scope: individual
 language_type: living

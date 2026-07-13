@@ -5,9 +5,11 @@ autonym: Ongkarango
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal Australian language of northern Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: Worrorran_map.svg
 wikidata_id: Q61999823
 translations:
   - translation_iso: ara
@@ -46,3 +48,4 @@ translations:
     name: 翁加兰古语
     auto: true
 ---
+Worrorra, also written Worora and other variants, and also known as Western Worrorran, is a moribund Australian Aboriginal language of northern Western Australia. It encompasses a number of dialects, which are spoken by a group of people known as the Worrorra people.

@@ -6,6 +6,8 @@ alt_names: [Ron Group B]
 population: 26100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

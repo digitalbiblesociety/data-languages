@@ -6,11 +6,13 @@ alt_names: [Waccon, Wacon]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Catawban language of North Carolina
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 35.379075
 longitude: -77.985987
+language_map_img: 500px-Woccon_lang.webp
 glottocode: wocc1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

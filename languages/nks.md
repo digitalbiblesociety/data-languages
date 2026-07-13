@@ -6,6 +6,8 @@ alt_names: [Asmat, "Asmat, North"]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Asmat language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

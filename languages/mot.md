@@ -6,6 +6,8 @@ alt_names: [Barira, Dobocubi, Dobocubí, Dobokubí, Motiln, Motilon, Motilone, M
 population: 3620
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Language of Colombia and Venezuela
 status_id: 6a
 scope: individual
 language_type: living

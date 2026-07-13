@@ -6,6 +6,8 @@ alt_names: [Kisonde, Soonde]
 population: 96000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu languages spoken in DRC
 status_id: 6a
 scope: individual
 language_type: living

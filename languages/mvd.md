@@ -6,6 +6,8 @@ alt_names: [Mamboro]
 population: 16000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

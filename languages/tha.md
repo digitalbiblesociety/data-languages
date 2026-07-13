@@ -3,15 +3,18 @@ iso: tha
 iso639_1: th
 name: Thai
 autonym: Siamese
-alt_names: [An Téalainnis, Central Tai, Central Thai, Kithai, Standard, Standard Thai, Tai linguo, Tailandès, Tayca, Taílenska, Thaiklang, Thaish, Thay simi, Thaï, Thài-gí, Vahdai, Забони таиландӣ, تايلاندچە, سيامى, থাই ঠার, 泰文]
+alt_names: [An Téalainnis, Central Tai, Central Thai, Kithai, Standard, Standard Thai, Tai linguo, Tailandès, Tayca, Taílenska, Thaiklang, Thaish, Thay simi, Thaï, Thài-gí, Vahdai, Забони таиландӣ, تايلاندچە, سيامى, থাই ঠার, 泰文, ไทย, Bangkok Thai, Khorat Thai, Korat, Siam Nokor, Siam Trang, Thai Klang, Thai Koh Kong, Thai Norkor Raja, Thaikorat]
 population: 20700000
 country_id: TH
 country_name: Thailand
+location: Cambodia
+area: Language spoken by Thai people
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 14.191968
 longitude: 100.671386
+language_map_img: tha.webp
 scripts: [Thai]
 glottocode: thai1261
 glottolog_family_id: taik1256

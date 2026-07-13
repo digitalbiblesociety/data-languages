@@ -2,10 +2,12 @@
 iso: mxt
 name: Jamiltepec Mixtec
 autonym: "Cristobál-Chayuco"
-alt_names: [Central Misteko, Centreal Mixteco, Eastern Jamiltepec-San Cristobal Mixtec, Misteko, Mixtec, Mixtec (Jamiltepec), "Mixtec, Jamiltepec", Mixteco ( Jamiltepec), Mixteco de Jamiltepec, Southern Misteko, Southern Mixteco]
+alt_names: [Central Misteko, Centreal Mixteco, Eastern Jamiltepec-San Cristobal Mixtec, Misteko, Mixtec, Mixtec (Jamiltepec), "Mixtec, Jamiltepec", Mixteco ( Jamiltepec), Mixteco de Jamiltepec, Southern Misteko, Southern Mixteco, Jamiltepec, Mixteco de la Costa Chica de Oaxaca]
 population: 9760
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Sola de Vega"
 ---
+Chayuco-Jamiltepec Mixtec is a Mixtec language of Oaxaca, spoken in the towns of San Agustín Chayuco, Santa Catarina Mechoacán, Santiago Jamiltepec, San Andrés Huaxpaltepec, Santa María Huazolotitlán, Santiago Tetepec, and Santa Elena Comaltepec.

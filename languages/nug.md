@@ -6,6 +6,7 @@ alt_names: [Ilngali, Jilngali, Nungulu]
 population: null
 country_id: AU
 country_name: Australia
+area: "Language of Northern Territory, Australia"
 status_id: "10"
 scope: individual
 language_type: extinct

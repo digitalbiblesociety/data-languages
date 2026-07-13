@@ -2,10 +2,12 @@
 iso: bss
 name: Akoose
 autonym: Ngoe
-alt_names: [Akosi, Bakossi, Bekoose, Koose, Kosi, Nkoosi, Nkosi]
+alt_names: [Akosi, Bakossi, Bekoose, Koose, Kosi, Nkoosi, Nkosi, Akose, Along, Bafaramani, Bakosi, Elong, Elung, Kosse, Kossi, Manenguba, Mouamenam, Mwambong, Mwamenam, Ninong, Nlong, Northern Bakossi, Southern Bakossi, Western Bakossi]
 population: 100000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
@@ -80,3 +82,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Littoral"
 ---
+The Manenguba languages, also known as the Mbo cluster, are a group of closely related Bantu languages spoken on and around the Manenguba mountain range in south-western Cameroon.

@@ -6,6 +6,8 @@ alt_names: [Bonaputa-Mapu, Bonaputa-Mopu, Miani North]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Madang language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, East Sepik"
 ---
+Miani, formerly Tani after a village name, is a Papuan language complex of Madang Province, Papua New Guinea. The northern and southern varieties, Miani and Maiani, are dialects in terms of vocabulary or pronunciation.

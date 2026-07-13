@@ -6,6 +6,8 @@ alt_names: [Bon Goula, Bun, Gula Guera, Poun, Taataal, Êeni]
 population: 1200
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language of Chad
 status_id: 6a
 scope: individual
 language_type: living

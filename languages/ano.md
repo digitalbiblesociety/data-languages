@@ -6,11 +6,14 @@ alt_names: ["\"andoque, 'Gens de la Hache'\"", Andoke, Businka, "Cha'oie", "Cho'
 population: 10000
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Language of Colombia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -0.53751
 longitude: -72.08686
+language_map_img: Andoque.webp
 glottocode: ando1256
 wikidata_id: Q2669225
 wikipedia_url: "https://en.wikipedia.org/wiki/Andoque_language"

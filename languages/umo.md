@@ -6,6 +6,7 @@ alt_names: [Barbado, Umotina, Umutina]
 population: null
 country_id: BR
 country_name: Brazil
+area: Recently extinct language of Brazil
 status_id: 8b
 scope: individual
 language_type: extinct

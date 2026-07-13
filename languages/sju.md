@@ -2,15 +2,18 @@
 iso: sju
 name: Ume Sami
 autonym: ubmejesámiengiälla
-alt_names: ["\"Lapp\"", "\"Ume Lapp\"", Lapp, Lappic, Lappisch, Lappish, Lappish-Swedish, Saami, Saami ume, "Saami, Ume", Saamí de Ume, "Sami, Ume", Samieg Ume, Schwedisch-Lappisch, Southern, Southern Lappish, Southern Saami, Süd-Lappisch (im weiteren Sinne), Ubmejensámien giella, Ubmisámegiella, Ume, Ume Lapp, Ume Lappish, Ume Saami, Ume-Lappisch, Umelappisch, Umesamisk, Umesamiska, Umesámiskt, Uumajansaame, Westlappisch, lapon, lappisk, lopary, sabme, same-, schwedisch-lappische Dialektgruppe, south dialect, sāme-giellâ, westlappischer Dialekt]
+alt_names: ["\"Lapp\"", "\"Ume Lapp\"", Lapp, Lappic, Lappisch, Lappish, Lappish-Swedish, Saami, Saami ume, "Saami, Ume", Saamí de Ume, "Sami, Ume", Samieg Ume, Schwedisch-Lappisch, Southern, Southern Lappish, Southern Saami, Süd-Lappisch (im weiteren Sinne), Ubmejensámien giella, Ubmisámegiella, Ume, Ume Lapp, Ume Lappish, Ume Saami, Ume-Lappisch, Umelappisch, Umesamisk, Umesamiska, Umesámiskt, Uumajansaame, Westlappisch, lapon, lappisk, lopary, sabme, same-, schwedisch-lappische Dialektgruppe, south dialect, sāme-giellâ, westlappischer Dialekt, “Lapp”]
 population: 1000
 country_id: SE
 country_name: Sweden
+location: "Denmark, Finland, Norway and Sweden"
+area: Endangered Uralic language of Scandinavia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 64.63829
 longitude: 18.64604
+language_map_img: Ume-SamiLanguageLocatorMap.svg
 glottocode: umes1235
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

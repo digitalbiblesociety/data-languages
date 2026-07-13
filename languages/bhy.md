@@ -6,6 +6,8 @@ alt_names: [Bili, Ebhele, Ipere, Kipere, Kipili, Pere, Peri, Pili]
 population: 15000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language in the Congo
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Bagando, Bangando, Bangantu, Southern Bangantu, Temne]
 population: 2700
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Savannas language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

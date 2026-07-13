@@ -2,10 +2,12 @@
 iso: agu
 name: Aguacateco
 autonym: "Qa'yol"
-alt_names: [Aguacatec, Aguacateeks, Aguacatekisk, Aguatec Maya, Aguateca, Awakatek, Awakatek language, Awakateko]
+alt_names: [Aguacatec, Aguacateeks, Aguacatekisk, Aguatec Maya, Aguateca, Awakatek, Awakatek language, Awakateko, Chalchitec, Chalchiteko]
 population: 12500
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language of Guatemala
 status_id: "4"
 scope: individual
 language_type: living

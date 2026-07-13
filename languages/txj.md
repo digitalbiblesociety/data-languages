@@ -5,6 +5,7 @@ autonym: Tarjumo
 population: null
 country_id: NG
 country_name: Nigeria
+area: Kanuri liturgical language of Nigeria
 status_id: null
 scope: individual
 language_type: living

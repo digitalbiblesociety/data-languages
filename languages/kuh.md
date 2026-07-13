@@ -2,10 +2,12 @@
 iso: kuh
 name: Kushi
 autonym: " Chong'e"
-alt_names: [Chonge, Chongee, Filiya, Goji, Kushe, Pero, Pipero]
+alt_names: [Chonge, Chongee, Filiya, Goji, Kushe, Pero, Pipero, Chong’e]
 population: 11000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Western Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

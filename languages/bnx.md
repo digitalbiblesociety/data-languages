@@ -2,10 +2,12 @@
 iso: bnx
 name: Bangubangu
 autonym: Bangobango
-alt_names: [Kibangobango, Kibangubangu]
+alt_names: [Kibangobango, Kibangubangu, Hombo, Kasenga, Mikebwe, Nonda, Sanzi]
 population: 246000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu dialect cluster of DR Congo
 status_id: 6a
 scope: individual
 language_type: living

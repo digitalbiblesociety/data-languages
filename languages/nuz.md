@@ -2,10 +2,12 @@
 iso: nuz
 name: Tlamacazapa Nahuatl
 autonym: null
-alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Tlamacazapa", Náhuatl central]
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Tlamacazapa", Náhuatl central, Tlamacazapa]
 population: 1550
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Nahuan language of Mexico
 status_id: 6b
 scope: individual
 language_type: living
@@ -50,3 +52,4 @@ translations:
   - translation_iso: zho
     name: 特拉馬卡薩帕納瓦特爾語
 ---
+The Guerrero Nahuatl language is a Nahuan language spoken by about 125,000 people in Mexico.

@@ -2,15 +2,18 @@
 iso: anv
 name: Denya
 autonym: Anyah
-alt_names: [Agnang, Anyan, Anyang, Eyan, Nyang, Obonya, Takamanda]
+alt_names: [Agnang, Anyan, Anyang, Eyan, Nyang, Obonya, Takamanda, Bajwo, Basho, Bitieku]
 population: 11200
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantoid language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 5.97237
 longitude: 9.39989
+language_map_img: Map_of_the_Mamfe_languages.webp
 glottocode: deny1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

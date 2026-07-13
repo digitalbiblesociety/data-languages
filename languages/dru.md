@@ -2,15 +2,18 @@
 iso: dru
 name: Rukai
 autonym: Drekay
-alt_names: [Banga, Bantalang, Bantaurang, Drukai, Drukay, Dukai, Dyokay, Kadas, Lû-khái-ngî, Rukái, Rutkai, Sarisen, Taloma, Tanan dialect, Tsalisen, Tsarisen]
+alt_names: [Banga, Bantalang, Bantaurang, Drukai, Drukay, Dukai, Dyokay, Kadas, Lû-khái-ngî, Rukái, Rutkai, Sarisen, Taloma, Tanan dialect, Tsalisen, Tsarisen, "'oponoho", Adiri, Budai, Kalramomodhesae, Kinulan, Kongadavane, Kucapungan, Laboan, Labuan, Maga, Mantauran, Talamakao, Tanan, Taromak, Teldrɨka, Tona, Vedrai]
 population: 2000
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Formosan language spoken in Taiwan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 22.77381
 longitude: 120.84424
+language_map_img: 500px-Formosan_languages_2005.webp
 glottocode: ruka1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

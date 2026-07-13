@@ -2,10 +2,12 @@
 iso: tdj
 name: Tajio
 autonym: Kasimbar
-alt_names: [Adjio, "Ta'adjio", Tadjio, Tobada, "Tobada'"]
+alt_names: [Adjio, "Ta'adjio", Tadjio, Tobada, "Tobada'", Ta’adjio, Taꞌadjio]
 population: 12000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

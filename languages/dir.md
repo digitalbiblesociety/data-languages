@@ -6,6 +6,7 @@ alt_names: [Dakka, Dirin, Dirrim]
 population: 9000
 country_id: NG
 country_name: Nigeria
+area: Bantoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 迪里姆语
     auto: true
 ---
+Daka is one of two languages spoken by the Chamba people in Nigeria, the other being Chamba Leko.

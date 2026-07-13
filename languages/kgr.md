@@ -2,10 +2,12 @@
 iso: kgr
 name: Abun
 autonym: A Nden
-alt_names: [Karon, Karon Pantai, Madik, Manif, Yimbun]
+alt_names: [Karon, Karon Pantai, Madik, Manif, Yimbun, Abun Je, Abun Ji, Abun Tat]
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language in New Guinea
 status_id: "5"
 scope: individual
 language_type: living

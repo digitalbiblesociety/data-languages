@@ -2,10 +2,12 @@
 iso: anu
 name: Anuak
 autonym: Anyuak
-alt_names: [Anyua, Anywa, Anywak, Bar, Burjin, Dho Anywaa, Jambo, Miroy, Moojanga, Nuro, Yambo, Yembo]
+alt_names: [Anyua, Anywa, Anywak, Bar, Burjin, Dho Anywaa, Jambo, Miroy, Moojanga, Nuro, Yambo, Yembo, Adoyo, Anyiwak, Anywaa, Coro, Dha Anywaa, Dha Anywak, Lul, Opëno, dho-Anywaa]
 population: 221600
 country_id: SS
 country_name: South Sudan
+location: "Djibouti, Eritrea and Ethiopia"
+area: Luo language spoken by Anuak people in western Ethiopia and South Sudan
 status_id: "5"
 scope: individual
 language_type: living

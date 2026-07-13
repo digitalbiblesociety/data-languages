@@ -6,6 +6,7 @@ alt_names: [Indegegn, Mäsmäs]
 population: null
 country_id: ET
 country_name: Ethiopia
+area: Extinct Semitic language of Ethiopia
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: dsh
 name: Daasanach
 autonym: Daasanech
-alt_names: ["\"Shangilla\"", Daasanach hizkuntza, Daasenech, Dama, Dasenech, Dassanakh, Dathanaic, Dathanaik, Dathanik, Dhaasanac, Gallab, Galuba, Gelab, Geleb, Geleba, Gelebinya, Gelubba, Gheleba, Marille, Merile, Merille, Morille, Reshiat, Russia, Sorbian]
+alt_names: ["\"Shangilla\"", Daasanach hizkuntza, Daasenech, Dama, Dasenech, Dassanakh, Dathanaic, Dathanaik, Dathanik, Dhaasanac, Gallab, Galuba, Gelab, Geleb, Geleba, Gelebinya, Gelubba, Gheleba, Marille, Merile, Merille, Morille, Reshiat, Russia, Sorbian, “Shangilla”, Russian Federation, "Af 'Daasanach"]
 population: 66400
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Lowland East Cushitic language of East Africa
 status_id: "5"
 scope: individual
 language_type: living

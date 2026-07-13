@@ -2,10 +2,12 @@
 iso: aai
 name: "Arifama-Miniafia"
 autonym: Miniafia
-alt_names: [Miniafia-Arifama]
+alt_names: [Miniafia-Arifama, Arifama, Miniafia Oyan]
 population: 3470
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nyf
 name: Giryama
 autonym: Agiryama
-alt_names: [Giriama, Kigiriama, Kigiryama, Kinyika, Nika, Nyika]
+alt_names: [Giriama, Kigiriama, Kigiryama, Kinyika, Nika, Nyika, Chikauma, Chwaka, Kambe, Kauma, Rabai, Ribe, Rihe]
 population: 1160000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya and Tanzania
 status_id: 6a
 scope: individual
 language_type: living

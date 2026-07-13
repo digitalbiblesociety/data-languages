@@ -6,6 +6,8 @@ alt_names: [Dadjo, Dadju, Dagu of Dar Dagu, Dajo, Dajou, Daju Mongo, Daju Oum Ha
 population: 60000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Daju language of Chad
 status_id: 6a
 scope: individual
 language_type: living

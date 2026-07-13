@@ -2,10 +2,12 @@
 iso: tap
 name: Taabwa
 autonym: Ichitaabwa
-alt_names: [Rungu, Tabwa, Zabwa]
+alt_names: [Rungu, Tabwa, Zabwa, Kitabwa, Lungu, Shila, Taabua]
 population: 281600
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of Congo and Zambia
 status_id: "5"
 scope: individual
 language_type: living

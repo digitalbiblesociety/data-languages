@@ -6,11 +6,14 @@ alt_names: [Halkomelén, "Halq'eméylem", Holkomelem, "Hul'q'umi'num'", Hulʻqʻ
 population: 200
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Salishan language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 48.07505
 longitude: -122.02898
+language_map_img: 500px-Halkomelem_lang.webp
 scripts: [Latn]
 glottocode: halk1245
 glottolog_family_id: sali1255

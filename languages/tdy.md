@@ -6,6 +6,8 @@ alt_names: [Pula, Tadianan]
 population: 4150
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living

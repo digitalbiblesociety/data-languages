@@ -2,10 +2,12 @@
 iso: mbt
 name: Matigsalug Manobo
 autonym: "Matig-Salug Manobo"
-alt_names: [Kulamanen, "Manobo, Matigsalug"]
+alt_names: [Kulamanen, "Manobo, Matigsalug", Manobo, Matigsalug, Salug-Tigwa Manobo, Tigwa, Tigwa Manobo]
 population: 50000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

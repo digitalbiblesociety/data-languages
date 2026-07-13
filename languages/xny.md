@@ -6,6 +6,7 @@ alt_names: [Bailgu, Bailko, Bailko-Pandjima, Balgoo, Balgu, Balygu, Boolgoo, Iab
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: ["Nisu, Northwestern"]
 population: null
 country_id: CN
 country_name: China
+area: Loloish language cluster spoken in China
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 西北尼苏语
     auto: true
 ---
+Nisu is a language cluster spoken by half a million Yi people of China. It is one of six Yi languages recognized by the government of China. The Yi script was traditionally used, though few can still read it. According to Lama (2012), Nisu (Nishu) autonyms include, , and.

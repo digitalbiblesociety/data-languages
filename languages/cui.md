@@ -2,15 +2,18 @@
 iso: cui
 name: Cuiba
 autonym: null
-alt_names: [Chiricoa, Cuiba-Wámonae, Cuiva, Hiwi, Kuiva, Maiben]
+alt_names: [Chiricoa, Cuiba-Wámonae, Cuiva, Hiwi, Kuiva, Maiben, Amaruwa, Amorua, Chiripo, Mariposas, Masiguare, Masiware, Mayayero, Mella, Mochuelo-Casanare-Cuiba, Ptamo, Sicuane, Sicuari, Siripu, Tampiwi, Wupiwi, Yarahuuraxi-Capanapara]
 population: 1500
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Guahiban language of Colombia and Venezuela
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 6.19829
 longitude: -69.819705
+language_map_img: Cuiba.webp
 glottocode: cuib1242
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan

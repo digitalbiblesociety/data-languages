@@ -3,15 +3,18 @@ iso: ron
 iso639_1: ro
 name: Romanian
 autonym: "Daco-Romanian"
-alt_names: [An Rómáinis, Balkan Romance, Daco-Rumanian, Errumaniera, Fiteny romana, Kiromania, Moldavan, Moldavian, Moldovan, Roemeens, Roemeensk, Romaanish, Roman tili, Romanès, Romanés, Romániagiella, România-gí, Română, Roumain, Roumaneg, Roumanek, Roumanian, Roumen, Roumin, Rumanian, Rumaniana linguo, Rumano, Rumanu, Rumanya simi, Rumence, Rumensk, Rumunikani chhib, Rumänisch, Rumänska, Rumäänsche Spraak, Rumænsk, Rumǣnisc sprǣc, Rwmaneg, Ròmainis, Rúmenska, moldave, Łéngoa rumena, Румын йылме, Ռումիներեն, רומנית, רומעניש, رومانى, رۇمىنىيە تىلى]
+alt_names: [An Rómáinis, Balkan Romance, Daco-Rumanian, Errumaniera, Fiteny romana, Kiromania, Moldavan, Moldavian, Moldovan, Roemeens, Roemeensk, Romaanish, Roman tili, Romanès, Romanés, Romániagiella, România-gí, Română, Roumain, Roumaneg, Roumanek, Roumanian, Roumen, Roumin, Rumanian, Rumaniana linguo, Rumano, Rumanu, Rumanya simi, Rumence, Rumensk, Rumunikani chhib, Rumänisch, Rumänska, Rumäänsche Spraak, Rumænsk, Rumǣnisc sprǣc, Rwmaneg, Ròmainis, Rúmenska, moldave, Łéngoa rumena, Румын йылме, Ռումիներեն, רומנית, רומעניש, رومانى, رۇمىنىيە تىلى, Banat, Bayash, Boyash Romanian, Chrishana, Limba română, Maramuresh, Muntean, Muntenian, Oltean, Oltenia-Lesser Wallachia, Româneşte, Transylvanian, Walachian]
 population: 24300000
 country_id: RO
 country_name: Romania
+location: Ukraine
+area: Eastern Romance language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 46.391292
 longitude: 24.22557
+language_map_img: Idioma_rumano.webp
 scripts: [Cyrl, Latn]
 glottocode: roma1327
 glottolog_family_id: indo1319

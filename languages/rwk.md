@@ -2,10 +2,12 @@
 iso: rwk
 name: Rwa
 autonym: West Chaga
-alt_names: [Kirwo, Rwo]
+alt_names: [Kirwo, Rwo, Kirwa, Kihai, Kimeru, Mero, Meru]
 population: 90000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania spoken by the Chaga people
 status_id: 6a
 scope: individual
 language_type: living
@@ -49,3 +51,4 @@ rolv_dialects:
     country_id: TZ
     location: Tanzania
 ---
+West Kilimanjaro, or West Chaga, is a Bantu language of Tanzania spoken by the Chaga people.

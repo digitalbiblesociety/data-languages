@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: CM
 country_name: Cameroon
+area: Endangered language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living

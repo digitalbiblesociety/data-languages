@@ -6,11 +6,14 @@ alt_names: [Lokuru, Mbaniata]
 population: 1870
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Language native to the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.58405
 longitude: 157.29578
+language_map_img: Central_Solomons_languages.webp
 glottocode: touo1238
 wikidata_id: Q56750
 wikipedia_url: "https://en.wikipedia.org/wiki/Touo_language"

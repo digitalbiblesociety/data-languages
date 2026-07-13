@@ -2,15 +2,18 @@
 iso: rif
 name: Tarifit
 autonym: Tmaziɣt
-alt_names: [Berber (Rif), Fifia, Luenga rifeña, Northern Shilha, Rif, Rifain, Rifenc, Riff, Rifi, Rifia, Ruafa, Shilha, Tamazight (Ait Rouadi), Tamazight (Arzew), Tamazight (Beni Iznassen), Tamazight (Tunisie), Tamazight (Túnez), Tarifiteg, Tirifie, لهجة تاريفيت]
+alt_names: [Berber (Rif), Fifia, Luenga rifeña, Northern Shilha, Rif, Rifain, Rifenc, Riff, Rifi, Rifia, Ruafa, Shilha, Tamazight (Ait Rouadi), Tamazight (Arzew), Tamazight (Beni Iznassen), Tamazight (Tunisie), Tamazight (Túnez), Tarifiteg, Tirifie, لهجة تاريفيت, Rifeño, Arrif, Arzeu, Ayt Aamart, Ayt Buyahyi, Ayt Ittef, Ayt Mezduy, Ayt Saaid, Ayt Settut, Ayt Tamsaman, Ayt Tfarsit, Ayt Tuzin, Ayt Urishesh, Ayt Waryaghar, Beni Iznassen, Beni Snassen, Ibeqquyen, Icebdanen, Igzennaian, Igzennayen, Iqeraayen, Iznacen, Iznasen, Rif Berber, Rifiya, Tamazight, Tamazight n Arrif, Tarifiyt, Tarifyt Berber, Tmazight]
 population: 4399000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Zenati Berber language of northern Morocco
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 35.328085
 longitude: -1.87354
+language_map_img: Riffian_Language_Map.webp
 scripts: [Latn, Tfng]
 glottocode: tari1263
 glottolog_family_id: afro1255

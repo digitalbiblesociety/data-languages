@@ -2,10 +2,12 @@
 iso: bif
 name: Biafada
 autonym: Beafada
-alt_names: [Bedfola, Biafar, Bidyola, Fada, Ganjoola, Joolaa, Njoola, Yola]
+alt_names: [Bedfola, Biafar, Bidyola, Fada, Ganjoola, Joolaa, Njoola, Yola, Dfola]
 population: 54500
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Senegambian language of Guinea-Bissau
 status_id: 6a
 scope: individual
 language_type: living

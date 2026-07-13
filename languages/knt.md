@@ -6,6 +6,8 @@ alt_names: [Arara-shawanawa, Catuquina, Catuquina del Acre, Kamanawa, Kamannaua,
 population: 315
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Panoan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

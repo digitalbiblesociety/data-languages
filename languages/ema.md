@@ -2,10 +2,12 @@
 iso: ema
 name: "Emai-Iuleha-Ora"
 autonym: Aoma
-alt_names: [Emai, Ivbiosakon, Kunibum]
+alt_names: [Emai, Ivbiosakon, Kunibum, Aokha, Iuleha, Ivhimion, Ora]
 population: 220000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: "Edoid language spoken in Edo, Nigeria"
 status_id: "4"
 scope: individual
 language_type: living

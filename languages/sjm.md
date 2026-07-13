@@ -2,10 +2,12 @@
 iso: sjm
 name: Mapun
 autonym: Bajo
-alt_names: [Bajau Kagayan, Cagayan de Sulu, Cagayano, Cagayanon, Jama Mapun, Kagayan, Orang Cagayan, Sama Mapun]
+alt_names: [Bajau Kagayan, Cagayan de Sulu, Cagayano, Cagayanon, Jama Mapun, Kagayan, Orang Cagayan, Sama Mapun, Cagayan, Cagayanen, Orang, Pellun Mapun]
 population: 58000
 country_id: PH
 country_name: Philippines
+location: Malaysia - Sabah
+area: Austronesian language family of Borneo and the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 马普恩语
     auto: true
 ---
+The Sama–Bajaw languages are a well-established group of languages spoken by the Sama-Bajau peoples of the Philippines, Indonesia, and Malaysia.

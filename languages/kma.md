@@ -2,10 +2,12 @@
 iso: kma
 name: Konni
 autonym: Koma
-alt_names: [Komung, Koni]
+alt_names: [Komung, Koni, Kɔmɩŋ, Kɔnni]
 population: 3800
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

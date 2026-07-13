@@ -2,9 +2,12 @@
 iso: zkn
 name: Kanan
 autonym: Kanan
+alt_names: [Ganaan, Ganan, Ganon, Genan, Kana]
 population: 9000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language spoken in Myanmar
 status_id: 6a
 scope: individual
 language_type: living

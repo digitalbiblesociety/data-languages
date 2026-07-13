@@ -2,9 +2,11 @@
 iso: xyt
 name: "Mayi-Thakurti"
 autonym: Maykulan
+alt_names: [Maidakadi]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +48,4 @@ translations:
     name: 麦伊-塔库尔蒂语
     auto: true
 ---
+Mayi-Kulan is an extinct Mayi language formerly spoken on the Cape York Peninsula of Queensland, Australia.

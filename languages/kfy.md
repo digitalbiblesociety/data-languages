@@ -2,10 +2,12 @@
 iso: kfy
 name: Kumaoni
 autonym: कुमाँऊनी
-alt_names: [Askoti, Bhabari of Rampur, Chaugarkhiya, Cumauní, Danpuriya, Gangola, Johari, Kamaoni, Khasparjiya, Kumaiya Pachhai, Kumaon, Kumau, Kumaun, Kumauni, Kumawani, Kumgoni, Kumman, Kunayaoni, Pashchimi, Phaldakotiya, Rau-Chaubhaisi, Sirali, Soriyali, Кумаоні]
+alt_names: [Askoti, Bhabari of Rampur, Chaugarkhiya, Cumauní, Danpuriya, Gangola, Johari, Kamaoni, Khasparjiya, Kumaiya Pachhai, Kumaon, Kumau, Kumaun, Kumauni, Kumawani, Kumgoni, Kumman, Kunayaoni, Pashchimi, Phaldakotiya, Rau-Chaubhaisi, Sirali, Soriyali, Кумаоні, Central Kumaoni, Northeastern Kumaoni, Southeastern Kumaoni, Western Kumaoni]
 population: 2080000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language of Central Pahari branch spoken in India and Nepal
 status_id: "4"
 scope: individual
 language_type: living

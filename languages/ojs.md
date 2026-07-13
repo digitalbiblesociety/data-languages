@@ -3,15 +3,18 @@ iso: ojs
 macrolanguage_id: oji
 name: Severn Ojibwa
 autonym: " ᐊᓂᔑᓂᓂᒧᐏᐣ"
-alt_names: [Anishininiimowin, Chippeway, Cree, Northern Ojibwa, Oji-Cree, Oji-Cree language, Ojibwa, Ojibwa (Severn), "Ojibwa, Severn", Ojibway, Ojibwe, Ojibweg Severn, Ojicree, Oyi-clisteno, Severn Ojibwe]
+alt_names: [Anishininiimowin, Chippeway, Cree, Northern Ojibwa, Oji-Cree, Oji-Cree language, Ojibwa, Ojibwa (Severn), "Ojibwa, Severn", Ojibway, Ojibwe, Ojibweg Severn, Ojicree, Oyi-clisteno, Severn Ojibwe, Anishinaabemowin]
 population: 12900
 country_id: CA
 country_name: Canada
+location: Canada
+area: Indigenous name for a dialect of the Ojibwe language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 53.9092
 longitude: -89.93311
+language_map_img: Anishinaabe-Anishinini_Distribution_Map.svg
 scripts: [Cans]
 glottocode: seve1240
 glottolog_family_id: algi1248

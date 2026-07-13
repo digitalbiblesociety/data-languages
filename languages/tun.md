@@ -6,11 +6,13 @@ alt_names: [Tonika, Tounikeg, Tunica hizkuntza, Tunixka, Туника]
 population: null
 country_id: US
 country_name: United States
+area: Extinct language isolate of the Mississippi Valley
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 30.98879
 longitude: -92.54026
+language_map_img: 500px-Tunica_lang.webp
 glottocode: tuni1252
 wikidata_id: Q56619
 wikipedia_url: "https://en.wikipedia.org/wiki/Tunica_language"

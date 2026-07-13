@@ -6,11 +6,14 @@ alt_names: ["\"Baluga\"", "\"Kabalat\"", "Alta, Southern", Baluga, Ita, Kaboloan
 population: 1000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 15.18409
 longitude: 121.05413
+language_map_img: 500px-Southern_Alta_language_map.webp
 glottocode: sout2905
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

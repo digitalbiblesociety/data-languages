@@ -6,6 +6,8 @@ alt_names: ["Lolopo, Southern"]
 population: 190000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+Lolopo is a Loloish language spoken by half a million Yi people of China. Chinese speakers call it Central Yi, as the name Lolopo does not exist in Chinese. It is one of the six Yi languages recognized by the government of China.

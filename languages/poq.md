@@ -6,6 +6,8 @@ alt_names: [Popoluca, Popoluca de Texistepec, Popoluca de Texistepeco, "Popoluca
 population: 15779
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mixe–Zoquean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living

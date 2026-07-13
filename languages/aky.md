@@ -6,6 +6,7 @@ alt_names: [Great Andamanese, Kol, Lèngua Aka-Kol]
 population: null
 country_id: IN
 country_name: India
+area: Extinct Great Andamanese language of India
 status_id: "10"
 scope: individual
 language_type: extinct

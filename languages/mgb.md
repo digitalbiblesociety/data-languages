@@ -6,6 +6,8 @@ alt_names: [Abiyi, Ebiri, Mararet, Marariteg, Merarit]
 population: 15376
 country_id: TD
 country_name: Chad
+location: Chad
+area: Language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living

@@ -20,11 +20,14 @@
       "population",
       "country_id",
       "country_name",
+      "location",
+      "area",
       "status_id",
       "scope",
       "language_type",
       "latitude",
       "longitude",
+      "language_map_img",
       "scripts",
       "glottocode",
       "glottolog_family_id",
@@ -82,6 +85,14 @@
       "description": "Primary country name (free text).",
       "type": "string"
     },
+    "location": {
+      "description": "Free-text location where the language is spoken — country/region names, sometimes with a map reference (e.g. 'Nigeria, Map 6'). Migrated from DBS language records.",
+      "type": "string"
+    },
+    "area": {
+      "description": "One-line characterization of the language and where it is spoken (e.g. 'Edoid language spoken in Nigeria'). Migrated from DBS language records.",
+      "type": "string"
+    },
     "status_id": {
       "description": "EGIDS vitality (Expanded Graded Intergenerational Disruption Scale).",
       "type": "string",
@@ -108,6 +119,11 @@
       "type": "number",
       "minimum": -180,
       "maximum": 180
+    },
+    "language_map_img": {
+      "description": "Filename of a language-area map image (e.g. 'deu.webp', 'Map-Francophone_World.svg'), served from https://img.dbs.org/country/languages/{filename}. Migrated from DBS language records.",
+      "type": "string",
+      "minLength": 1
     },
     "scripts": {
       "description": "ISO 15924 codes for the writing systems this language uses (primary + secondary). Populated by tools/sources/cldr.go. Cross-references the sibling `scripts/` repo.",

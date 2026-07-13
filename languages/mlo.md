@@ -6,6 +6,8 @@ alt_names: [Mlomp North, Mlompeg]
 population: 5400
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Bak language of Senegal
 status_id: 6b
 scope: individual
 language_type: living

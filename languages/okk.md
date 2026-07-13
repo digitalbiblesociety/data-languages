@@ -6,6 +6,8 @@ alt_names: [Inebu One, Kabore One, Kuamtim, Kwamtim, Molmo One, Northern One, On
 population: 150
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli dialect cluster of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 夸姆蒂姆翁语
     auto: true
 ---
+One is a Torricelli dialect cluster of West Wapei Rural LLG in Sandaun Province, Papua New Guinea.

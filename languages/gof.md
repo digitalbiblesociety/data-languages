@@ -2,9 +2,12 @@
 iso: gof
 name: Gofa
 autonym: Goffa
+alt_names: [Goofa, Goofatho]
 population: 359000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in southern Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
@@ -52,3 +55,4 @@ translations:
     name: 戈法语
     auto: true
 ---
+Gamo-Gofa-Dawro is an Ometo dialect continuum of the Afroasiatic family spoken in the Dawro, Gamo Gofa and Wolayita Zones of the Southern Nations, Nationalities, and Peoples' Region in Ethiopia. Varieties are spoken by the Gamo, Gofa, Dawro; Blench (2006) and Ethnologue treat these as separate languages. Zala presumably belongs here as well. Dialects of Dawro (Kullo-Konta) are Konta and Kucha. In 1992, Alemayehu Abebe collected a word-list of 322 entries for all three related dialects.

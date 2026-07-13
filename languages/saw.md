@@ -6,6 +6,8 @@ alt_names: [Sawuy]
 population: 3500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Awyu language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ggu
 name: Gagu
 autonym: Gagou
-alt_names: [Gban, Kago, Kagu]
+alt_names: [Gban, Kago, Kagu, Boka, Bokabo, "N'da", Sodua, Touka]
 population: 60000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

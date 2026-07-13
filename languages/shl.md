@@ -6,6 +6,8 @@ alt_names: [Khyen, Khyeng, Sandu, Shandu]
 population: null
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in Burma and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 申杜语
     auto: true
 ---
+Mara is a Kuki-Chin language spoken by Mara people, mostly the Tlosai tribe living in 30 villages of Chhimtuipui district, southern Mizoram, India; 9 villages in Thantlang District, Chin State, Burma; and several more in Matupi District, Chin State, Burma.

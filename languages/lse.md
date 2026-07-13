@@ -5,6 +5,8 @@ autonym: Losengo
 population: 42000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

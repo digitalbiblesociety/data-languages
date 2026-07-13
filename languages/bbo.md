@@ -2,15 +2,18 @@
 iso: bbo
 name: Northern Bobo Madaré
 autonym: Bobo Fing
-alt_names: ["Bobo Madaré, Northern", Konabéré, Northern Bobo Madare]
+alt_names: ["Bobo Madaré, Northern", Konabéré, Northern Bobo Madare, Black Bobo, Bobo, Bobo Fi, Bobo Fign, Bobo Madaré, Northern, Bobo Da, Boboda, Jèrè, Koma, Konakuma, Kukoma, Kure, Kʋnabɩrɩ, San, Sankuma, Sarokama, Tankire, Tankri, Yaba]
 population: 60000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Mande language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 12.41822
 longitude: -4.475375
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: nort2819
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
@@ -88,3 +91,4 @@ rolv_dialects:
     country_id: ML
     location: "Mali, Sikasso"
 ---
+The Bobo language is a Mande language of Burkina Faso and Mali; the western city of Bobo Dioulasso is named partly for the Bobo people. It consists of Northern and Southern dialects. The Northern dialect is also known as Konabéré. Northern and Southern Bobo share only 20%–30% intelligibility according to Ethnologue, and by that standard are considered separate languages.

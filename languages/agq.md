@@ -2,10 +2,12 @@
 iso: agq
 name: Aghem
 autonym: Wum
-alt_names: [Yum]
+alt_names: [Yum, Aghɨ̂m]
 population: 39100
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

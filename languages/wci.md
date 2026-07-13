@@ -6,6 +6,8 @@ alt_names: ["Gbe, Waci", Wachi, Waci, Waci-Gbe, Watyi, Watyu]
 population: 884300
 country_id: TG
 country_name: Togo
+location: Benin
+area: Gbe language of Togo and Benin
 status_id: 6a
 scope: individual
 language_type: living

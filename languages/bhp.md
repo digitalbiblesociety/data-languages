@@ -2,10 +2,12 @@
 iso: bhp
 name: Bima
 autonym: Nggahi Mbojo
-alt_names: [Bimanese, Komodo]
+alt_names: [Bimanese, Komodo, Kolo, Mbojo, Sangar, Sanggar, Toloweri]
 population: 500000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

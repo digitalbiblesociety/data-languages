@@ -6,6 +6,7 @@ alt_names: [KLSL, Kuala Lumpur Sign Language]
 population: 500
 country_id: MY
 country_name: Malaysia
+area: Dialects and descendants of American Sign Language
 status_id: 8a
 scope: individual
 language_type: living

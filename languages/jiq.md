@@ -2,15 +2,18 @@
 iso: jiq
 name: Guanyinqiao
 autonym: Lavrung
-alt_names: [Khroskyabs, Western Jiarong, Zhongzhai, bósʁæi, ཁོ་སྐྱབས།, 绰斯甲]
+alt_names: [Khroskyabs, Western Jiarong, Zhongzhai, bósʁæi, ཁོ་སྐྱབས།, 绰斯甲, Guanyingqiao]
 population: 50000
 country_id: CN
 country_name: China
+location: China
+area: Gyalrongic language of China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 31.56552
 longitude: 101.9276
+language_map_img: 500px-Khroskyabs_map.webp
 glottocode: guan1266
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

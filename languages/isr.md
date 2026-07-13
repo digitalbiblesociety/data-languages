@@ -6,6 +6,7 @@ alt_names: [ISL, שפת הסימנים הישראלית]
 population: 10000
 country_id: IL
 country_name: Israel
+area: "The most commonly used sign language within Israel's deaf community"
 status_id: "5"
 scope: individual
 language_type: living

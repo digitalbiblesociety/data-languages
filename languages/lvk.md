@@ -6,6 +6,8 @@ alt_names: [Lakukaleve, Laumbe, Russell Island]
 population: 1780
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Language of the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living

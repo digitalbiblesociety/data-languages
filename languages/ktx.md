@@ -6,6 +6,8 @@ alt_names: [Cacharari, Kashararí, Kaxarari]
 population: 270
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Panoan language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bep
 name: Besoa
 autonym: Besoa
-alt_names: [Bada, Behoa]
+alt_names: [Bada, Behoa, Ako, Behóá]
 population: 4280
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

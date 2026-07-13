@@ -2,10 +2,12 @@
 iso: nih
 name: Nyiha
 autonym: Ishinyiha
-alt_names: [Kinyiha, Nyiha, Nyika, Nyixa, Shinyiha]
+alt_names: [Kinyiha, Nyiha, Nyika, Nyixa, Shinyiha, Isinyixa, Mbozi, Sumbawanga, Tanzania, Wandya]
 population: 126000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania and Zambia
 status_id: "5"
 scope: individual
 language_type: living

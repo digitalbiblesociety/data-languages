@@ -2,10 +2,12 @@
 iso: gyl
 name: Gayil
 autonym: Galila
-alt_names: [Ari-Galila, Boko]
+alt_names: [Ari-Galila, Boko, Gayi, Gayl, Gelila, Northern Ari]
 population: 55700
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

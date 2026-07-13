@@ -6,6 +6,8 @@ alt_names: [Gallinas, Gallines, Vei, Vy, vaï]
 population: 208800
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Mande language of Liberia and Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living

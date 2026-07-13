@@ -2,15 +2,18 @@
 iso: eve
 name: Even
 autonym: эвэды торэн (evedy toren)
-alt_names: [Eben, Eveens, Eveneg, Evensk, Ewen, Ewenische, Ilqan, Lamut, Lamuti, Lamutische, Northeastern Tungus, Orich, Tungusisabatschi, "eved'i toren", lama-dī, Évène, Эбээн тыла, эвэды торэн]
+alt_names: [Eben, Eveens, Eveneg, Evensk, Ewen, Ewenische, Ilqan, Lamut, Lamuti, Lamutische, Northeastern Tungus, Orich, Tungusisabatschi, "eved'i toren", lama-dī, Évène, Эбээн тыла, эвэды торэн, Arman, Indigirka, Kamchatka, Kolyma-Omolon, Lamunkhin, Okhotsk, Ola, Sakkyryr, Tompon, Upper Kolyma]
 population: 21800
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Tungusic language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 70.6687
 longitude: 130.91417
+language_map_img: Distribution_of_the_Tungusic_languages.svg
 glottocode: even1260
 glottolog_family_id: tung1282
 glottolog_family_name: Tungusic

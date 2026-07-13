@@ -6,6 +6,7 @@ alt_names: [Neukaledonien, Siche, Sirhe, Sishee, Sîshëë, Yirhe, Yirhee, Ziche
 population: 19
 country_id: NC
 country_name: New Caledonia
+area: Extinct Austronesian language of New Caledonia
 status_id: "9"
 scope: individual
 language_type: living

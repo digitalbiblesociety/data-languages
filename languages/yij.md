@@ -2,10 +2,12 @@
 iso: yij
 name: Yindjibarndi
 autonym: Burnugundi
-alt_names: [Binjiebandie, Een ge pan ty, Indjiban, Indjibandi, Indjibandje, Indjibandji, Ingi bandi, Ingi-bandi, Ingibandi, Injibandi, "Jana:ri", Jaurnmalu, "Jind'iparndi", Jindiparndi, Jindjaparndi, Jindjibandi, Jindjibandji, Jindjibanji, Jindjibarndi, Jindjiparndi, Kakardi, Kurama, Kurama-Jindjibandi, Mandanjingu, Mandanjong, Mandanjongo, Mardanjungu, Yanari, Yingiebandie, Yinjibarndi, Yinjtjiparnrti, Yinjtjipartnti, Yinytjiparnti]
+alt_names: [Binjiebandie, Een ge pan ty, Indjiban, Indjibandi, Indjibandje, Indjibandji, Ingi bandi, Ingi-bandi, Ingibandi, Injibandi, "Jana:ri", Jaurnmalu, "Jind'iparndi", Jindiparndi, Jindjaparndi, Jindjibandi, Jindjibandji, Jindjibanji, Jindjibarndi, Jindjiparndi, Kakardi, Kurama, Kurama-Jindjibandi, Mandanjingu, Mandanjong, Mandanjongo, Mardanjungu, Yanari, Yingiebandie, Yinjibarndi, Yinjtjiparnrti, Yinjtjipartnti, Yinytjiparnti, Yindjinbarndi]
 population: 380
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 6a
 scope: individual
 language_type: living

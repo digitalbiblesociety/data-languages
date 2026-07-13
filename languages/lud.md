@@ -2,15 +2,18 @@
 iso: lud
 name: Ludian
 autonym: "lyydin kiel'"
-alt_names: [Lud, Lude, Lude mixed dialect, Ludic, Ludic Karelian, Ludic dialects, Ludio, Luudi, Lyudic, Lyudikovian, Lüdic, Lüdisch, Südost-Karelisch, Südostdialekt des Karelischen, "l'udikovskij dialekt", "l'yyd'ikiel'", ljudy, lyydiäismurteet, "lüd'köi", "lüüdikiel'", lüüdin kiel’]
+alt_names: [Lud, Lude, Lude mixed dialect, Ludic, Ludic Karelian, Ludic dialects, Ludio, Luudi, Lyudic, Lyudikovian, Lüdic, Lüdisch, Südost-Karelisch, Südostdialekt des Karelischen, "l'udikovskij dialekt", "l'yyd'ikiel'", ljudy, lyydiäismurteet, "lüd'köi", "lüüdikiel'", lüüdin kiel’, Lüüdi, Luudikiel]
 population: 10000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Finnic language of southern Karelia, Russia"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 61.85302
 longitude: 33.73461
+language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp
 glottocode: ludi1246
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

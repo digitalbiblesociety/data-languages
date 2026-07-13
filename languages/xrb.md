@@ -2,15 +2,17 @@
 iso: xrb
 name: Eastern Karaboro
 autonym: Karaboro
-alt_names: [Kar, "Karaboro, Eastern", Ker, Kler]
+alt_names: [Kar, "Karaboro, Eastern", Ker, Kler, Eastern, Kai, Kai Yor, Kɛ yur]
 population: 40610
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 10.49875
 longitude: -4.52253
+language_map_img: 500px-Karaboro_languages.webp
 glottocode: east2398
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

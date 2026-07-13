@@ -6,6 +6,8 @@ alt_names: [Ain]
 population: 200
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Kra language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

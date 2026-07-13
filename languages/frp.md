@@ -6,11 +6,14 @@ alt_names: [Arpitaani, Arpitanca, Arpitaneg, Arpitanek, Arpitanish, Arpitanska, 
 population: 227000
 country_id: FR
 country_name: France
+location: Andorra and France
+area: "Gallo-Romance language spoken in France, Italy and Switzerland"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 45.80513
 longitude: 6.48152
+language_map_img: FRP-Map4.webp
 scripts: [Latn]
 glottocode: fran1260
 glottolog_family_id: indo1319

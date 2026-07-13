@@ -6,6 +6,7 @@ alt_names: [Hungaan, Hungana-Saamba, Hunganna, Kihungana]
 population: 400
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
 status_id: 6b
 scope: individual
 language_type: living

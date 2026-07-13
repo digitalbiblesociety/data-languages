@@ -2,10 +2,12 @@
 iso: ndx
 name: Nduga
 autonym: Dauwa
-alt_names: [Dawa, Ndauwa, Ndugwa, Pesecham, Pesechem, Pesegem, Peseghem]
+alt_names: [Dawa, Ndauwa, Ndugwa, Pesecham, Pesechem, Pesegem, Peseghem, Hitadipa Nduga, Sinak Nduga]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dani language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

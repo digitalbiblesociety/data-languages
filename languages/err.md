@@ -6,11 +6,13 @@ alt_names: [Ari, Arra, Ere, Erei, Eri, Rereri]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Aboriginal Australian language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -12.28391
 longitude: 132.86787
+language_map_img: Giimbiyu_languages.webp
 glottocode: erre1238
 glottolog_family_id: giim1238
 glottolog_family_name: Giimbiyu
@@ -53,3 +55,4 @@ translations:
     name: 埃雷语
     auto: true
 ---
+Giimbiyu is an extinct Aboriginal Australian language isolate once spoken by the Giimbiyu people of northern Australia.

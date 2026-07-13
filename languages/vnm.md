@@ -2,10 +2,12 @@
 iso: vnm
 name: Vinmavis
 autonym: Vinmavis
-alt_names: [Lambumbu, Mallicolo, "Neve'ei"]
+alt_names: [Lambumbu, Mallicolo, "Neve'ei", Banggor, Neve’ei, Telag]
 population: 500
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

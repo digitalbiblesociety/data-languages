@@ -5,6 +5,8 @@ autonym: Mogoum
 population: 7000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

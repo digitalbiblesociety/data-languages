@@ -6,6 +6,7 @@ alt_names: ["Karen, Zayein", "Karen,Zayein", Khaungtou, Zayein]
 population: 9300
 country_id: MM
 country_name: Myanmar
+area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 扎耶因卡伦语
     auto: true
 ---
+Lahta, or Zayein, is a Karenic language of Burma.

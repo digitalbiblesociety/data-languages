@@ -6,6 +6,8 @@ alt_names: [Pinchi, Tausiro]
 population: 1
 country_id: PE
 country_name: Peru
+location: Peru
+area: Language isolate of the Peruvian Amazon
 status_id: 8b
 scope: individual
 language_type: living

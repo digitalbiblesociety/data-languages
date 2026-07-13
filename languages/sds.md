@@ -6,11 +6,13 @@ alt_names: [Senedeg]
 population: null
 country_id: TN
 country_name: Tunisia
+area: Extinct East Zenati Berber language of Tunisia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 34.46781
 longitude: 9.43778
+language_map_img: 500px-Tunisia-Zuwara_Berber_Map.webp
 glottocode: sene1271
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

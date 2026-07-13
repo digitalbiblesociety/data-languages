@@ -2,10 +2,12 @@
 iso: cia
 name: "Cia-Cia"
 autonym: Butonese
-alt_names: [Boetoneezen, Buton, Butung, Cia-Cia gú, South Buton, Southern Butung]
+alt_names: [Boetoneezen, Buton, Butung, Cia-Cia gú, South Buton, Southern Butung, Kaesabu, Mambulu-Laporo, Masiri, Sampolawa, Wabula]
 population: 104000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Buton island, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

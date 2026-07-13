@@ -5,6 +5,8 @@ autonym: Idoani
 population: 24700
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: "Edoid language of Ondo State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living

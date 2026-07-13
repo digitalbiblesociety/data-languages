@@ -6,11 +6,13 @@ alt_names: [Cailloux, Willetpoos, Каюсе]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 46.113611
 longitude: -117.940064
+language_map_img: 500px-Cayuse_lang.webp
 glottocode: cayu1241
 wikidata_id: Q2472016
 wikipedia_url: "https://en.wikipedia.org/wiki/Cayuse_language"

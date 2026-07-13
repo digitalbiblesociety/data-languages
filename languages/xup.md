@@ -6,6 +6,7 @@ alt_names: ["Umpqua, Upper"]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: null
 scope: individual
 language_type: extinct

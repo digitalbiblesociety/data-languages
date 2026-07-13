@@ -3,10 +3,12 @@ iso: bjn
 macrolanguage_id: msa
 name: Banjar
 autonym: بهاس بنجر
-alt_names: [Bandjarese, Banjar Malay, Banjarese, Banjaresiska]
+alt_names: [Bandjarese, Banjar Malay, Banjarese, Banjaresiska, Labuhan, Banjar Melau, Benjar, Hulu, Kuala]
 population: 3655000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Native language of Banjarese people
 status_id: "3"
 scope: individual
 language_type: living

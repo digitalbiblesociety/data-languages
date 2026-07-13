@@ -2,10 +2,12 @@
 iso: cut
 name: Teutila Cuicatec
 autonym: "Cuicatec, Teutila"
-alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila]
+alt_names: [Cuica, Cuicatec, Cuicateco, Kwikateko, Teutila, Cuicateco del Norte, Cuicateco del oriente, Dbaku, Duaku, Dubaku]
 population: 3140
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: yan
 name: Mayangna
 autonym: Sumu
-alt_names: [Sumo, Sumo-Mayangna, Ulua, Ulwa, Ulúa, Woolwa]
+alt_names: [Sumo, Sumo-Mayangna, Ulua, Ulwa, Ulúa, Woolwa, Panamaca, Panamahka, Taguasca, Tawahka, Tuahka, Twahka]
 population: 8700
 country_id: NI
 country_name: Nicaragua
+location: Nicaragua
+area: Misumalpan languages of Nicaragua and Honduras
 status_id: "2"
 scope: individual
 language_type: living
@@ -68,3 +70,4 @@ rolv_dialects:
     country_id: NI
     location: Nicaragua
 ---
+Sumo is the collective name for a group of Misumalpan languages spoken in Nicaragua and Honduras. Hale & Salamanca (2001) classify the Sumu languages into a northern Mayangna, composed of the Tawahka and Panamahka dialects, and southern Ulwa. Sumu specialist Ken Hale considered the differences between Ulwa and Mayangna in both vocabulary and morphology to be so considerable that he prefers to speak of Ulwa as a language distinct from the northern Sumu varieties.

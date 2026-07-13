@@ -6,6 +6,8 @@ alt_names: [Minjile]
 population: 35300
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of central Chad
 status_id: 6a
 scope: individual
 language_type: living

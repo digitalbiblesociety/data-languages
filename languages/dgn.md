@@ -6,11 +6,13 @@ alt_names: [Airiman, Dogeman, Tagoman, Togeman, Togiman, Wagiman, Wagoman, Wogba
 population: null
 country_id: AU
 country_name: Australia
+area: "Language isolate of Australia's Northern Territory"
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -15.764
 longitude: 132.379
+language_map_img: Yangmanic_languages.webp
 glottocode: dago1245
 glottolog_family_id: yang1287
 glottolog_family_name: Yangmanic
@@ -53,3 +55,4 @@ translations:
     name: 达戈曼语
     auto: true
 ---
+Wardaman is an Australian Aboriginal language isolate. It is one of the northern non-Pama–Nyungan languages. Dagoman and Yangman were either dialects or closely related languages; as a family, these are called Yangmanic.

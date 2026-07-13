@@ -7,6 +7,7 @@ alt_names: [European Romany, Romani (Welsh), "Romani, Welsh", Romany, Romany (We
 population: null
 country_id: GB
 country_name: United Kingdom
+area: Variety of the Romani language
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bjg
 name: Bidyogo
 autonym: Bijago
-alt_names: [Bibjogo, Bijogo, Bijougot, Bijuga, Budjago, Bugago, Kangaki-Kagbaaga-Kajoko Bidyogo]
+alt_names: [Bibjogo, Bijogo, Bijougot, Bijuga, Budjago, Bugago, Kangaki-Kagbaaga-Kajoko Bidyogo, Anhaki, Anhaqui, Caravela, Formosa, Kagbaaga, Kajoko, Kamona, Karanguna, Kasuga, Kavrama, Orango, Uno]
 population: 36000
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Senegambian language spoken in Guinea-Bissau
 status_id: 6a
 scope: individual
 language_type: living

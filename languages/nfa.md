@@ -2,10 +2,12 @@
 iso: nfa
 name: Dhao
 autonym: Ndao
-alt_names: [Dao, Kahore, Ndaonese, Ndaundau]
+alt_names: [Dao, Kahore, Ndaonese, Ndaundau, Lii Dhao]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken on Ndao island Indonesia
 status_id: "5"
 scope: individual
 language_type: living

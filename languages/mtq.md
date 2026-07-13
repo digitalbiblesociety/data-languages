@@ -2,10 +2,12 @@
 iso: mtq
 name: Muong
 autonym: Thiểng Mường
-alt_names: [Muòng, Viet Nam]
+alt_names: [Muòng, Viet Nam, Ao Tá, Au Tá, Boi Bi, Moi 1, Moi Bi, Mol, Mual, Thang, Wang]
 population: 1270000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

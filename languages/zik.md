@@ -6,6 +6,8 @@ alt_names: [Babwa, Bagwa Zimakani, Dea, Village Z, Zimakaneg]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Boazi language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: abh
 macrolanguage_id: ara
 name: Tajiki Arabic
 autonym: Jugari Arabic
-alt_names: ["Arabe d'Asie centrale", Arabic, "Arabic, Tajiki", "Arabic, Tajiki Spoken", Bukhara Arabic, Buxara Arabic, Central Asian Arabic, Jugari, Tadžički arapski, Tajiji Arabic, Tajiki Spoken, Tajiki Spoken Arabic, Árabe asiático central]
+alt_names: ["Arabe d'Asie centrale", Arabic, "Arabic, Tajiki", "Arabic, Tajiki Spoken", Bukhara Arabic, Buxara Arabic, Central Asian Arabic, Jugari, Tadžički arapski, Tajiji Arabic, Tajiki Spoken, Tajiki Spoken Arabic, Árabe asiático central, Central Asian]
 population: 1000
 country_id: TJ
 country_name: Tajikistan
+location: Afghanistan
+area: Endangered Arabic languages of Central Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 37.217615
 longitude: 67.32671
+language_map_img: 500px-Central_Asian_Arabic_enclaves.webp
 glottocode: taji1248
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

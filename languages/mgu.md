@@ -2,10 +2,12 @@
 iso: mgu
 name: Mailu
 autonym: Magɨ
-alt_names: [Domara, Magi]
+alt_names: [Domara, Magi, Asiaoro, Baibara, Borebo, Darava, Derebai, Geagea, Ilai, Island Mailu]
 population: 8500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Abo, Boren, Bozi, Conehead Phula, Cowtail Phula, Daizhanpho, Digaoph
 population: 36000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 赫勒芬-菲瓦语
     auto: true
 ---
+Phowa is a dialect cluster of Loloish languages spoken by the Phula people of China. There are three principal varieties, Helpho, Ani, and Labo, which may be considered distinct languages. Helpho may be closer to Phukha than it is to Labo and Ani. Usage is decreasing, with about two-thirds of Phowa speaking their language.

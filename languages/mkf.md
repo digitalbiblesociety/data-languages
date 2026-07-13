@@ -2,10 +2,12 @@
 iso: mkf
 name: Miya
 autonym: Miyawa
-alt_names: [Muya]
+alt_names: [Muya, Demshin, Faishang, Federe, Fursum, Gala, Miyanci]
 population: 30000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

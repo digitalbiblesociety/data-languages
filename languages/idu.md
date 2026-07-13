@@ -2,15 +2,18 @@
 iso: idu
 name: Idoma
 autonym: Ìdɔ́mà
-alt_names: [Nigeria]
+alt_names: [Nigeria, Akpoto, Idoma Central, Idoma South, Idoma West, Igumale, Igwaale, Ijigbam, Okpogu, Oturkpo]
 population: 927000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Idomoid language of southeast-central Nigeria
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 7.19139
 longitude: 7.71261
+language_map_img: 500px-Idoma.jpeg
 glottocode: idom1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

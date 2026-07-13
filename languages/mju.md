@@ -5,11 +5,14 @@ autonym: null
 population: 30000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language of India
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 18.2775
 longitude: 83.1908
+glottocode: mann1245
 wikidata_id: Q10576453
 wikipedia_url: "https://en.wikipedia.org/wiki/Manna-Dora_language"
 translations:

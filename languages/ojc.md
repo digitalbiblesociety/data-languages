@@ -3,10 +3,12 @@ iso: ojc
 macrolanguage_id: oji
 name: Central Ojibwa
 autonym: Central Ojibwe
-alt_names: ["Ojibwa, Central"]
+alt_names: ["Ojibwa, Central", Ojibway, Ojibwe]
 population: 8000
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language spoken in Ontario
 status_id: 6b
 scope: individual
 language_type: living

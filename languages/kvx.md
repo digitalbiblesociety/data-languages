@@ -2,10 +2,12 @@
 iso: kvx
 name: Parkari Koli
 autonym: Parkari
-alt_names: ["Koli, Parkari", باركري كولي]
+alt_names: ["Koli, Parkari", باركري كولي, Parkari Kohli]
 population: 358000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: "5"
 scope: individual
 language_type: living

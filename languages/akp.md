@@ -2,10 +2,12 @@
 iso: akp
 name: Siwu
 autonym: Siwusi
-alt_names: [Akpafu, Akpafu-Lolobi, Lolobi-Akpafu]
+alt_names: [Akpafu, Akpafu-Lolobi, Lolobi-Akpafu, Lolobi, Mawu]
 population: 71900
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Kwa language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

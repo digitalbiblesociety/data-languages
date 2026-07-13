@@ -6,6 +6,8 @@ alt_names: [Akaja, Arkiya Dilik, Dilik, Lee wakya, Leewakya, Mangikurungu, Maram
 population: 15
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Marphatan Thakali, Panchgaunle, Tapaang, Thakali Marphatan, Thaksya,
 population: 12973
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sinto-Tibetan language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living

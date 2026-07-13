@@ -6,6 +6,8 @@ alt_names: ["Ba'i", Kepo]
 population: 10600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: "Austronesian language spoken in Flores, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

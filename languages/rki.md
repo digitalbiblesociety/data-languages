@@ -2,15 +2,18 @@
 iso: rki
 name: Rakhine
 autonym: Rakhine
-alt_names: [Arakanese, Arakanese (Marma), Maghī, Mogh, Rakhain, Rakhaing, Rakkhaine, Yakhain]
+alt_names: [Arakanese, Arakanese (Marma), Maghī, Mogh, Rakhain, Rakhaing, Rakkhaine, Yakhain, Akyab, Chaungtha, Chebuda Island, Kyaukphyu, Man Aung, Moghi, Mrauk-U, Rambree, Sittwe, Sitwe, Yanbe, Yanbye, Yangbye, Yangye]
 population: 1000000
 country_id: MM
 country_name: Myanmar
+location: Bangladesh
+area: Sino-Tibetan language spoken in Myanmar
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 21.453137
 longitude: 92.59659
+language_map_img: 500px-Arakanese.Map.webp
 glottocode: rakh1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

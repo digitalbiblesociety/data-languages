@@ -3,15 +3,18 @@ iso: bul
 iso639_1: bg
 name: Bulgarian
 autonym: българскиbălgarski
-alt_names: [An Bhulgáiris, Balgarski, Bulgaars, Bulgaarsk, Bulgar, Bulgarca, Bulgare, Bulgare de Banat, Bulgareg, Bulgarek, Bulgariana linguo, Bulgarie leid, Bulgariera, Bulgarisch, Bulgariska, Bulgaro, Bulgarsk, Bulgarska rěc, Bulgarya simi, Bulgeyrish, Bulgáriagiella, Bwlgareg, Bölgaars, Búlgar, Búlgaro del Bánato, Búlgarska, Búlgaru, Isi-Bulgaria, Kibulgaria, Middle Bulgarian, Old Bulgarian, Pomak, Tok Balgeria, Блъга́рьскъ ѩꙁꙑ́къ, Болгар йылме, Забони булғорӣ, Բուլղարերեն, בולגרית, بۇلغارىيە تىلى]
+alt_names: [An Bhulgáiris, Balgarski, Bulgaars, Bulgaarsk, Bulgar, Bulgarca, Bulgare, Bulgare de Banat, Bulgareg, Bulgarek, Bulgariana linguo, Bulgarie leid, Bulgariera, Bulgarisch, Bulgariska, Bulgaro, Bulgarsk, Bulgarska rěc, Bulgarya simi, Bulgeyrish, Bulgáriagiella, Bwlgareg, Bölgaars, Búlgar, Búlgaro del Bánato, Búlgarska, Búlgaru, Isi-Bulgaria, Kibulgaria, Middle Bulgarian, Old Bulgarian, Pomak, Tok Balgeria, Блъга́рьскъ ѩꙁꙑ́къ, Болгар йылме, Забони булғорӣ, Բուլղարերեն, בולגרית, بۇلغارىيە تىلى, български, Bogomil, Palitiani, Palityan, Pomakci, Pomakika]
 population: 6967000
 country_id: BG
 country_name: Bulgaria
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: South Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 43.364585
 longitude: 25.046987
+language_map_img: bul.webp
 scripts: [Cyrl]
 glottocode: bulg1262
 glottolog_family_id: indo1319

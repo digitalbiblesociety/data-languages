@@ -6,11 +6,13 @@ alt_names: [Cicaque, Eastern Jicaque, Eastern Tol, Hicaque, Ikake, Jicaque, Tagu
 population: 19000
 country_id: HN
 country_name: Honduras
+location: El Salvador and Honduras
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 14.66859
 longitude: -87.03719
+language_map_img: Tolatecan_Languages.webp
 glottocode: toll1241
 glottolog_family_id: jica1245
 glottolog_family_name: Jicaquean

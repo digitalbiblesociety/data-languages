@@ -6,6 +6,8 @@ alt_names: ["Djina?", Djinaŋ, Gunbirrdji, Gunbirri, Jaer-nungo, Jaernungo, "Jan
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language of the Crocodile Islands
 status_id: 8b
 scope: individual
 language_type: living

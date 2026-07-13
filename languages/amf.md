@@ -2,10 +2,12 @@
 iso: amf
 name: "Hamer-Banna"
 autonym: Banna
-alt_names: ["\"etc.\"", Amar, Amarcocche, Amer, Ammar, Bana, Beshada, Cocche, Hamar, Hamar-Koke, Hamer, Hamer-Bana-Kara, Hammer, Hammercoche, Kara Kerre, Karo, Luenga amer-banna]
+alt_names: ["\"etc.\"", Amar, Amarcocche, Amer, Ammar, Bana, Beshada, Cocche, Hamar, Hamar-Koke, Hamer, Hamer-Bana-Kara, Hammer, Hammercoche, Kara Kerre, Karo, Luenga amer-banna, Bena, Hamar-Benna]
 population: 74400
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: South Omotic language spoken primarily by Hamer people in southwestern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

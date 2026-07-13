@@ -2,10 +2,12 @@
 iso: ruu
 name: Lanas Lobu
 autonym: Lobu
-alt_names: ["Lobu, Lanas", Malaysia]
+alt_names: ["Lobu, Lanas", Malaysia, Keningau Lobu]
 population: 2000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: MY
     location: Malaysia
 ---
+Kinabatangan is a language of Sabah, Malaysia.

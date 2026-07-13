@@ -2,10 +2,12 @@
 iso: ktz
 name: Juǀʼhoan
 autonym: South(eastern) ǃXun/Ju
-alt_names: ["!Xo", "!Xu", "!Xu (Ju/'hoan)", Agau, Dobe Kung, "Dzu'oasi", "Ju'hoan", "Ju'oasi", "Ju/'hoan", "Ju/'hoansi", "Ju|'hoan", Juǀʼhoansi, Kung, Kung-Tsumkwe, Qxû, Tsumkwe, Xaixai, Xu, Xun, "Zhu'oasi", Zhu-/Hoa (Si), "Žhu|hõasi"]
+alt_names: ["!Xo", "!Xu", "!Xu (Ju/'hoan)", Agau, Dobe Kung, "Dzu'oasi", "Ju'hoan", "Ju'oasi", "Ju/'hoan", "Ju/'hoansi", "Ju|'hoan", Juǀʼhoansi, Kung, Kung-Tsumkwe, Qxû, Tsumkwe, Xaixai, Xu, Xun, "Zhu'oasi", Zhu-/Hoa (Si), "Žhu|hõasi", Dzu’oasi, Ju’oasi, Xû, Zhu’oasi, Ju/’hoansi, Juǀ’hoan, South-Eastern Ju, Tshumkwe]
 population: 45500
 country_id: NA
 country_name: Namibia
+location: Botswana
+area: "Kx'a language spoken in Southern Africa"
 status_id: "5"
 scope: individual
 language_type: living

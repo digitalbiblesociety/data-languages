@@ -2,9 +2,12 @@
 iso: srm
 name: Saramaccan
 autonym: Saamáka
+alt_names: [Matawai, Matawari, Matoewari, Matuari, Saramacaans, Saramaccaans]
 population: 36700
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: Creole language of Suriname and French Guiana
 status_id: "5"
 scope: individual
 language_type: living

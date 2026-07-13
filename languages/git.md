@@ -6,11 +6,14 @@ alt_names: [Giklsan, Gitksan, Gitksanimx, Gitsanimx̱, Gitsenimx̱, Gitskan, Git
 population: 1330
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Endangered Tsimshianic language of Canada
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 55.09005
 longitude: -128.08043
+language_map_img: Tsimshianic_map.svg
 glottocode: gitx1241
 glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian

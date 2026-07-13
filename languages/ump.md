@@ -6,6 +6,8 @@ alt_names: [Cape York Peninsula Languages, Djindjanagu, Djundjanagu, Koko umpilo
 population: 100
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language
 status_id: "7"
 scope: individual
 language_type: living

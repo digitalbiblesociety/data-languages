@@ -2,10 +2,12 @@
 iso: bmj
 name: "Bote-Darai"
 autonym: null
-alt_names: [Bote-Majhi, Kushar, Majhi]
+alt_names: [Bote-Majhi, Kushar, Majhi, Pakhe-Bote, Bot, Bote, Pani-Bote]
 population: 11000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 勃底語
 ---
+Bote (Bote-Majhi) and Darai are mutually intelligible tribal dialects of Nepal that are close to Danwar Rai and Tharu languages but otherwise unclassified. Its speakers are rapidly shifting to Nepali.

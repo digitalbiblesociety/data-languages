@@ -6,6 +6,8 @@ alt_names: [Duungo, Mali Duun, Samogho, Samogo, Samoro, Western Duun]
 population: 150000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
+area: Language of Mali and Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 杜翁戈玛语
     auto: true
 ---
+Duun is a Mande language of Mali. There are three varieties of Duun, West Duun, or Duungooma and Banka or Bankagooma, in Mali, and East Duun, or Dzùùn(goo), in Burkina Faso. These are clearly distinct but have a reasonable degree of mutual intelligibility with each other.

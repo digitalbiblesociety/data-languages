@@ -2,10 +2,12 @@
 iso: pqa
 name: "Pa'a"
 autonym: Afa
-alt_names: [Afanci, Afawa, "Fa'awa", Foni, Fucaka, Fuuceka, "Pa'anci", "Pa'awa", Paa, Paanci, Pala]
+alt_names: [Afanci, Afawa, "Fa'awa", Foni, Fucaka, Fuuceka, "Pa'anci", "Pa'awa", Paa, Paanci, Pala, Fa’awa, Pa’awa]
 population: 8000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

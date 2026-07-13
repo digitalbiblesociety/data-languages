@@ -6,6 +6,8 @@ alt_names: [Durop, Dyurop, Erorup, Kurop, Ododop]
 population: 10200
 country_id: NG
 country_name: Nigeria
+location: Southwestern Cameroon
+area: Upper Cross River language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

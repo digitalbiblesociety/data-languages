@@ -6,11 +6,14 @@ alt_names: [Agöb]
 population: 1437
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Pahoturi language group of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -9.08521
 longitude: 142.53159
+language_map_img: 500px-Map_of_Pahoturi_River_languages.webp
 glottocode: agob1244
 glottolog_family_id: paho1240
 glottolog_family_name: Pahoturi

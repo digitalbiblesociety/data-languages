@@ -2,10 +2,12 @@
 iso: gwj
 name: ǀGwi
 autonym: Dcui
-alt_names: [/Gwi, G/wi, Gwi, "G|wi", Gǀwi language, "|Gui", "|Gwi", Лъгана-цъгви]
+alt_names: [/Gwi, G/wi, Gwi, "G|wi", Gǀwi language, "|Gui", "|Gwi", Лъгана-цъгви, "G!wikwe", "G|wikhwe", Gcwi, Gǀwi, Gǀwikhwe, Khute]
 population: 2500
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Khoe dialect of Botswana
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Phakey, Phakial, Tai Phakial, Tai phake]
 population: 5000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Kra–Dai language spoken in Assam, India"
 status_id: "4"
 scope: individual
 language_type: living

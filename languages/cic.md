@@ -6,11 +6,14 @@ alt_names: [Chicasa, Chikasa simi, Oklahoma, Tchikasaweg, Чикасо]
 population: 1000
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Muskogean language from the US
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 33.94523
 longitude: -97.13012
+language_map_img: Chickasaw.svg
 scripts: [Latn]
 glottocode: chic1270
 glottolog_family_id: musk1252

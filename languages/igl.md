@@ -2,9 +2,12 @@
 iso: igl
 name: Igala
 autonym: Igara
+alt_names: [Ankpa, Anyugba, Ebu, Ibaji, Idah, Ife, Ogugu]
 population: 1540000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Yoruboid language of Nigeria
 status_id: "4"
 scope: individual
 language_type: living

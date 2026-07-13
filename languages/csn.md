@@ -2,9 +2,11 @@
 iso: csn
 name: Colombian Sign Language
 autonym: Lengua de Señas Colombiana
+alt_names: [LSC, Lengua manual colombiana]
 population: 151000
 country_id: CO
 country_name: Colombia
+area: Deaf sign language of Colombia
 status_id: "5"
 scope: individual
 language_type: living

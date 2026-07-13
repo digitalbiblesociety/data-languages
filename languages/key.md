@@ -6,6 +6,8 @@ alt_names: [Southern Oriya]
 population: 6600
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language spoken in India
 status_id: 6b
 scope: individual
 language_type: living

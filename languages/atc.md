@@ -6,6 +6,7 @@ alt_names: [Astahuaca, Atsawaka-Yamiaka, Yamiaca, Yamiaka]
 population: 20
 country_id: PE
 country_name: Peru
+area: Extinct Panoan language of Peru
 status_id: null
 scope: individual
 language_type: extinct

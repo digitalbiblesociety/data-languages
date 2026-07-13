@@ -3,10 +3,12 @@ iso: qvc
 macrolanguage_id: que
 name: Cajamarca Quechua
 autonym: Kashamarka Runashimi
-alt_names: [Cajamarca, Cajamarca Kechua, Cajamarca-Quechua, Chinchaysuyo, Kashamarka rimay, Northern Quechua, Quechua, Quechua (Cajamarca), Quechua cajamarquino, "Quechua, Cajamarca"]
+alt_names: [Cajamarca, Cajamarca Kechua, Cajamarca-Quechua, Chinchaysuyo, Kashamarka rimay, Northern Quechua, Quechua, Quechua (Cajamarca), Quechua cajamarquino, "Quechua, Cajamarca", Eastern Cajamarca, Kichwa, Kichwa Lingwa, Lingwa, Western Cajamarca]
 population: 30000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: "5"
 scope: individual
 language_type: living

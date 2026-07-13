@@ -6,6 +6,7 @@ alt_names: [Hora, Jora]
 population: null
 country_id: BO
 country_name: Bolivia
+area: Tupí–Guaraní language of eastern Bolivia
 status_id: "10"
 scope: individual
 language_type: extinct

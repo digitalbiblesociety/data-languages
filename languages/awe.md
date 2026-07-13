@@ -6,6 +6,8 @@ alt_names: [Arauine, Arauite, Aueti, Aueto, Auetö, Auiti, Auití, Aweti, Awety,
 population: 140
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Endangered Tupian language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

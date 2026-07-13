@@ -6,6 +6,7 @@ alt_names: [Kansas, Kanza, Kanze, Kaw, Konze, Osage, Osague]
 population: null
 country_id: US
 country_name: United States
+area: Siouan language of the Dhegihan group once spoken by the Kaw people
 status_id: "9"
 scope: individual
 language_type: living

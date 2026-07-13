@@ -5,6 +5,8 @@ autonym: Effiat
 population: 6320
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Ibibio-Efik language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["India, Myanmar"]
 population: 24800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Mizo language of India
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,14 +2,19 @@
 iso: bac
 name: Badui
 autonym: Basa Baduy
+alt_names: [Baduy]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Sundanesic language spoken by Baduy people
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -6.35359
 longitude: 106.17663
+language_map_img: 500px-Aproksimasi_Peta_Baduy.webp
+glottocode: badu1237
 wikidata_id: Q3449885
 wikipedia_url: "https://en.wikipedia.org/wiki/Baduy_language"
 translations:

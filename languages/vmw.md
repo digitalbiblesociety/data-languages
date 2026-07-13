@@ -2,10 +2,12 @@
 iso: vmw
 name: Makhuwa
 autonym: Emakuana
-alt_names: [Central Makhuwa, Emakhuwa, Emakua, Kimakua, Macua, Makhuawa, Makhuwa-Makhuwana, Makhuwwa of Nampula, Makoane, Makua, Maquoua, Макуа]
+alt_names: [Central Makhuwa, Emakhuwa, Emakua, Kimakua, Macua, Makhuawa, Makhuwa-Makhuwana, Makhuwwa of Nampula, Makoane, Makua, Maquoua, Макуа, Central Makua, Emakhuwa-Makhuwana, Emakhuwana, Emathipane, Empamela, Emwaja, Enaharra, Enlai, Enyara, Maharra, Makhuwana, Makuana, Mulai, Nahara, Naharra, Nampamela]
 population: 3973600
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

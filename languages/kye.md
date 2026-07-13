@@ -2,10 +2,12 @@
 iso: kye
 name: Krache
 autonym: Kaakyi
-alt_names: [Guang, Krachi, Krakye]
+alt_names: [Guang, Krachi, Krakye, Kaakye]
 population: 83000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

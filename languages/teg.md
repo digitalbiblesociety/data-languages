@@ -2,10 +2,12 @@
 iso: teg
 name: "Teke-Tege"
 autonym: Tɛgɛ
-alt_names: [Iteghe, Katege, Ketego, Northern Teke, Tege, Teghe, Teke, Teke Alima, Teke Kali]
+alt_names: [Iteghe, Katege, Ketego, Northern Teke, Tege, Teghe, Teke, Teke Alima, Teke Kali, Kateghe, Keteghe, Latege, Nzikini, Tege-Kali]
 population: 15000
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living

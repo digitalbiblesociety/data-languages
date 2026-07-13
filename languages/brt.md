@@ -6,6 +6,8 @@ alt_names: [Yukutare]
 population: 52300
 country_id: NG
 country_name: Nigeria
+location: Southwestern Cameroon
+area: Tivoid language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

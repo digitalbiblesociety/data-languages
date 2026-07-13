@@ -2,10 +2,12 @@
 iso: bha
 name: Bharia
 autonym: भरीयाटी
-alt_names: [Bhar, Bharat, Bhumia, Bhumiya, Paliha]
+alt_names: [Bhar, Bharat, Bhumia, Bhumiya, Paliha, भद्रवाही]
 population: 197000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indic language spoken in the Patalkot Valley of Madhya Pradesh
 status_id: 6a
 scope: individual
 language_type: living

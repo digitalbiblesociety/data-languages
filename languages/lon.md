@@ -2,10 +2,12 @@
 iso: lon
 name: Malawi Lomwe
 autonym: Anguru
-alt_names: ["Lomwe, Malawi", Nguru]
+alt_names: ["Lomwe, Malawi", Nguru, Elhomwe, Lomwe, Malawi, Mihavane, Muhavani]
 population: 3990000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Lomwe language of Malawi
 status_id: 6a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: nle
 macrolanguage_id: luy
 name: East Nyala
 autonym: Luyia
-alt_names: ["Nyala, East"]
+alt_names: ["Nyala, East", East, LuNyala, Nyala, OluNyala, West Nyala]
 population: 227000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living
@@ -60,3 +62,4 @@ rolv_dialects:
     country_id: KE
     location: Kenya
 ---
+Luhya is a Bantu language of western Kenya.

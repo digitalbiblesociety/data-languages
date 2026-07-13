@@ -5,6 +5,8 @@ autonym: null
 population: 50
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Papuan language of Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: div
 iso639_1: dv
 name: Dhivehi
 autonym: Maldivian
-alt_names: [Diveheg, Divehi, Mahl, maldivien, Ντιβέχι, Дхивехи, ديفهي, ދިވެހި, महल्]
+alt_names: [Diveheg, Divehi, Mahl, maldivien, Ντιβέχι, Дхивехи, ديفهي, ދިވެހި, महल्, Divehi Bas, Divehli, Mali, Malikh, Malki, Addu, Dhivehi Bas, Fuvah Mulaku, Huvadu, Maliku Bas, Malé, Minicoy Dialect]
 population: 340500
 country_id: MV
 country_name: Maldives
+location: "India, Map 9"
+area: Indo-Aryan national language of Maldives
 status_id: "1"
 scope: individual
 language_type: living

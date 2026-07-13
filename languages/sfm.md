@@ -7,6 +7,8 @@ alt_names: [Atse, Ghab-Mvb Ghab-Svd, Ghuab-Hmongb Ghuab-Soud, Hsiao Hwa Miao, "M
 population: 84000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Miao language of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: Daung Wurrung
 population: null
 country_id: AU
 country_name: Australia
+area: Pama–Nyungan language spoken in Australia
 status_id: 8b
 scope: individual
 language_type: extinct

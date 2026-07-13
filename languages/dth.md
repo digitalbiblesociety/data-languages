@@ -5,6 +5,7 @@ autonym: Adetingiti
 population: null
 country_id: AU
 country_name: Australia
+area: Australian aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

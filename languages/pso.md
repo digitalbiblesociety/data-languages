@@ -5,6 +5,7 @@ autonym: Polski Język Migowy
 population: 25000
 country_id: PL
 country_name: Poland
+area: Deaf sign language of Poland
 status_id: "5"
 scope: individual
 language_type: living

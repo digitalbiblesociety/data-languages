@@ -3,10 +3,12 @@ iso: orc
 macrolanguage_id: orm
 name: Orma
 autonym: Uardai
-alt_names: [Galla, Wadai, Warday, Wardei]
+alt_names: [Galla, Wadai, Warday, Wardei, Korokoro, Munyo, Munyo Yaya]
 population: 92100
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Variety of the Oromo language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Cachuana-warikyana, Ingarïnyana, Ingarüna, Kachuana, Kahyana, Kash
 population: 12
 country_id: BR
 country_name: Brazil
+area: Carib language
 status_id: "9"
 scope: individual
 language_type: extinct

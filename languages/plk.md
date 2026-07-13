@@ -2,10 +2,12 @@
 iso: plk
 name: Kohistani Shina
 autonym: Kohistani
-alt_names: [Dardu, Kohistyo, Palasi-Kohistani, "Shina, Kohistani"]
+alt_names: [Dardu, Kohistyo, Palasi-Kohistani, "Shina, Kohistani", Jalkot, Jalkoti, Kolai, Koli, Palas, Palasi]
 population: 458000
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language of northern Pakistan
 status_id: 6a
 scope: individual
 language_type: living

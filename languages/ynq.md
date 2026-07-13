@@ -2,9 +2,12 @@
 iso: ynq
 name: Yendang
 autonym: Kuseki
+alt_names: [Nya Korok, Nya Yendang, Nyandang, Yadang, Yandang, Yendam, Yundum]
 population: 50000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Savanna language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

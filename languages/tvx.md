@@ -5,9 +5,11 @@ autonym: Rara ka maka-Taivoan
 population: null
 country_id: TW
 country_name: Taiwan
+area: Formosan language
 status_id: null
 scope: individual
 language_type: extinct
+language_map_img: 500px-Formosan_languages_2008.webp
 wikidata_id: Q1975271
 wikipedia_url: "https://en.wikipedia.org/wiki/Taivoan_language"
 translations:

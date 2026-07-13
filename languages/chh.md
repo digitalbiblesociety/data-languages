@@ -6,6 +6,7 @@ alt_names: [Chinook proper, Chinookan, Coastal Chinook, Kiksht, Lower Chinook, L
 population: null
 country_id: US
 country_name: United States
+area: Native American language formerly spoken in the Pacific Northwest
 status_id: 8b
 scope: individual
 language_type: extinct

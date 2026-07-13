@@ -2,10 +2,12 @@
 iso: iri
 name: Rigwe
 autonym: Irigwe
-alt_names: [Aregwe, Idafan, Iregwe, Kwal, Kwan, Kwoll, Kwolla, Miango, Nkarigwe, Nnerigwe, Nyango]
+alt_names: [Aregwe, Idafan, Iregwe, Kwal, Kwan, Kwoll, Kwolla, Miango, Nkarigwe, Nnerigwe, Nyango, Miyango, Yirigwe]
 population: 40000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

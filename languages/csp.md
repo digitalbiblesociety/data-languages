@@ -7,6 +7,8 @@ alt_names: ["Chinese, Southern Ping", "Pinghua, Southern", Southern Ping Chinese
 population: 2370000
 country_id: CN
 country_name: China
+location: "Asia, East"
+area: Branch of Chinese spoken in Guangxi
 status_id: null
 scope: individual
 language_type: living

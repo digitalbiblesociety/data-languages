@@ -6,6 +6,8 @@ alt_names: [Othomí, Otomi, "Otomi, Tilapa", Otomí, Otomí de Mezquital, Otomí
 population: 400
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Oto-Manguean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living

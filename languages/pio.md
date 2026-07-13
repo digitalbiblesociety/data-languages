@@ -2,15 +2,18 @@
 iso: pio
 name: Piapoco
 autonym: Cháse
-alt_names: [Dzaze, Piapoko, Tsae]
+alt_names: [Dzaze, Piapoko, Tsae, Amarizado, Enegua, Kuipaco, Piapoko Dejá, Tsáçe, Wenewika, Yapoco]
 population: 6680
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Endangered Arawakan language of South America
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 4.37718
 longitude: -68.595285
+language_map_img: Piapoco.webp
 glottocode: piap1246
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

@@ -2,15 +2,18 @@
 iso: kjc
 name: Coastal Konjo
 autonym: Kondjo
-alt_names: [Konjo, "Konjo, Coastal", Makassarese, Tana, Tiro]
+alt_names: [Konjo, "Konjo, Coastal", Makassarese, Tana, Tiro, Ara, Bantaeng, Bira, Black Konjo, Bonthain, Kadjang, Kajang, Konjo Pesisir, Tana Toa, Tana Towa]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -5.41532
 longitude: 120.30398
+language_map_img: South_Sulawesi_languages.svg
 glottocode: coas1295
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

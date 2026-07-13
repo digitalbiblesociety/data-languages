@@ -2,10 +2,12 @@
 iso: huq
 name: Tsat
 autonym: Hainan Cham
-alt_names: [Hui, Huihui, Utsat, Utset, 回輝話]
+alt_names: [Hui, Huihui, Utsat, Utset, 回輝話, Sanya Hui]
 population: 3800
 country_id: CN
 country_name: China
+location: Southern China
+area: "Austronesian language spoken in Hainan, China"
 status_id: 6b
 scope: individual
 language_type: living

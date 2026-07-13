@@ -2,10 +2,12 @@
 iso: bdp
 name: Bende
 autonym: Bende
-alt_names: [Kibende, "Si'bende", Sibhende]
+alt_names: [Kibende, "Si'bende", Sibhende, Si’bende, Babende, Bende-Tongwe, Siꞌbende]
 population: 27000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu languages of Tanzania
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 本德语
     auto: true
 ---
+Tongwe (Sitongwe) and Bende (Sibende) constitute a clade of Bantu languages coded Zone F.10 in Guthrie's classification. According to Nurse & Philippson (2003), they form a valid node. Indeed, at 90% lexical similarity they may be dialects of a single language.

@@ -6,6 +6,8 @@ alt_names: [Abul, Heibán]
 population: 4410
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language spoken in Sudan
 status_id: "7"
 scope: individual
 language_type: living

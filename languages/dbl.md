@@ -6,11 +6,14 @@ alt_names: [Chirbal, Chirpa, Chirpalji, Choolngai, Djalnguy, Djirbal, Djirbaldji
 population: 8
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -17.45162
 longitude: 145.5442
+language_map_img: Djirbalgan_map.webp
 glottocode: dyir1250
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

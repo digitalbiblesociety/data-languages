@@ -3,10 +3,12 @@ iso: esi
 macrolanguage_id: ipk
 name: North Alaskan Inupiatun
 autonym: Iñupiatun
-alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Bering Strait, Eskimo, Inudiatun, Inuit, Inupiaq, "Inupiaq de nord de l'Alaska (North Slope)", "Inupiaq du nord de l'Alaska  (Golfe de Kotzebue)", "Inupiaq du nord de l'Alaska (Canada)", Inupiat, "Inupiatun, North Alaskan", Inuí alaskiano septentrional (zona ártica septentrional), Iñupiaq, North Alaska Inupiaq, North Alaska Iñupiaq, North Alaskan Eskimo, North Alaskan Inupiaq, North Alaskan Inupiat]
+alt_names: ["\"Eskimo\"", Alaskan Inuit, Alaskan Inupiaq, Bering Strait, Eskimo, Inudiatun, Inuit, Inupiaq, "Inupiaq de nord de l'Alaska (North Slope)", "Inupiaq du nord de l'Alaska  (Golfe de Kotzebue)", "Inupiaq du nord de l'Alaska (Canada)", Inupiat, "Inupiatun, North Alaskan", Inuí alaskiano septentrional (zona ártica septentrional), Iñupiaq, North Alaska Inupiaq, North Alaska Iñupiaq, North Alaskan Eskimo, North Alaskan Inupiaq, North Alaskan Inupiat, “Eskimo”, North Alaskan Inuktitut, Anaktuvik Inupiaq, Bulkley Valley, Inuktitut, Inupiak, Inupiatun, Kobuk Inupiaq, Kotzebue Inupiaq, Mackenzie Delta Inupiatun, Mackenzie Inupiatun, Malimiutun Inupiaq, North Alaskan, North Slope Inupiaq, Point Barrow Inupiaq, Uummarmiutun, West Arctic Inupiatun, Western Iñupiaq]
 population: 6420
 country_id: US
 country_name: United States
+location: Canada
+area: Group of dialects of the Inuit language
 status_id: 6b
 scope: individual
 language_type: living
@@ -75,3 +77,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, Alaska"
 ---
+Iñupiaq or Inupiaq, also known as Iñupiat, Inupiat, Iñupiatun or Alaskan Inuit, is an Inuit language, or perhaps group of languages, spoken by the Iñupiat people in northern and northwestern Alaska, as well as a small adjacent part of the Northwest Territories of Canada. The Iñupiat language is a member of the Inuit–Yupik–Unangan language family, and is closely related and, to varying degrees, mutually intelligible with other Inuit languages of Canada and Greenland. There are roughly 2,000 speakers. Iñupiaq is considered to be a threatened language, with most speakers at or above the age of 40. Iñupiaq is an official language of the State of Alaska, along with several other indigenous languages.

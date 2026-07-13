@@ -3,15 +3,18 @@ iso: mnp
 macrolanguage_id: zho
 name: Min Bei Chinese
 autonym: Min Bei
-alt_names: ["Chinese, Min Bei", Northwestern Min Bei]
+alt_names: ["Chinese, Min Bei", Northwestern Min Bei, Min Pei, Northern Min]
 population: 11000000
 country_id: CN
 country_name: China
+location: Southern China
+area: Chinese language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.05
 longitude: 118.32
+language_map_img: Min_dialect_map.svg
 glottocode: minb1236
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

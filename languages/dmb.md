@@ -6,6 +6,7 @@ alt_names: ["Dogon, Mombo", Kolu, Kolu So, Kolu-so, Kolum So, Kolum-so, Mombo, P
 population: 19000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Fidji-Inseln]
 population: 16000
 country_id: FJ
 country_name: Fiji
+location: Fiji
+area: Oceanic language spoken in Fiji
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Sutiaba, Tlapanec, Tlapaneco, Tlapaneco-Sutiaba, Tlapaneko]
 population: null
 country_id: NI
 country_name: Nicaragua
+area: Extinct Oto-Manguean language
 status_id: "9"
 scope: individual
 language_type: extinct

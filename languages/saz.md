@@ -2,10 +2,12 @@
 iso: saz
 name: Saurashtra
 autonym: ꢱꣃꢬꢵꢰ꣄ꢜ꣄ꢬ ꢩꢵꢰꢵ
-alt_names: [Patnuli, Saurashtri, Sourashtra, Sowrashtra]
+alt_names: [Patnuli, Saurashtri, Sourashtra, Sowrashtra, Northern Saurashtra, Palkar, Southern Saurashtra]
 population: 248000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

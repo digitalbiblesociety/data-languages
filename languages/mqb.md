@@ -6,6 +6,8 @@ alt_names: [Mboko, Mbokou, Mboku, Mbuku]
 population: 15000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,14 +3,18 @@ iso: mtr
 macrolanguage_id: mwr
 name: Mewari
 autonym: Mewadi
+alt_names: [Khairari]
 population: 4210000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Rajasthanic Language spoken in Sindh and Rajasthan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 24.57
 longitude: 73.68
+language_map_img: Rajasthani_dialects.webp
 scripts: [Deva]
 glottocode: mewa1249
 glottolog_family_id: indo1319

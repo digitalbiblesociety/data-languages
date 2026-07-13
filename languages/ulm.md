@@ -6,6 +6,8 @@ alt_names: [Botteng-Tappalang, Kado, Nordost-Celebes, Oeloemanda, Tubbi, Ulumand
 population: 18000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Language spoken on Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

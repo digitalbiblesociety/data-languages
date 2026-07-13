@@ -6,6 +6,8 @@ alt_names: [India]
 population: 3000000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: "Marwari dialect of Rajasthan, India"
 status_id: 6b
 scope: individual
 language_type: living

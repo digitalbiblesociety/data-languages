@@ -2,9 +2,12 @@
 iso: anm
 name: Anal
 autonym: Namfau
+alt_names: [Laizo, Mulsom]
 population: 27250
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language
 status_id: "5"
 scope: individual
 language_type: living

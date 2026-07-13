@@ -6,6 +6,8 @@ alt_names: [Nar-Phuish, NarPhu, Narpa, Narpú]
 population: 800
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: "Sino-Tibetan variety spoken in the two villages of Nar and Phu, in Nepal"
 status_id: 6a
 scope: individual
 language_type: living

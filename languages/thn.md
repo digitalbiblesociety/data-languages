@@ -2,9 +2,12 @@
 iso: thn
 name: Thachanadan
 autonym: Moopan
+alt_names: [Thacchanadens, Thachanad Muppans]
 population: 3000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: 6b
 scope: individual
 language_type: living

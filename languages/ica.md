@@ -2,9 +2,12 @@
 iso: ica
 name: Ede Ica
 autonym: Ica
+alt_names: [Ife, Ilodji]
 population: 48800
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -58,3 +61,4 @@ rolv_dialects:
     country_id: TG
     location: Togo
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

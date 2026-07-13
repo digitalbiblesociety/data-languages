@@ -2,9 +2,12 @@
 iso: yph
 name: Phupha
 autonym: Phuza
+alt_names: [Phula, Phupho, Tsapho]
 population: 1300
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish languages of China
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nuf
 name: Nusu
 autonym: null
-alt_names: [Independent Lolo]
+alt_names: [Independent Lolo, Central Nusu, Miangu/Laomudeng, Nang Tsu, No Tso, No Tsu, Northern Nusu, Puluo, Southern Nusu, Tuoping, Wawa, Yuoduoluo]
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Tibeto-Burman language of southwest China and northern Myanmar
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ngen]
 population: 450
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: "Language of the East Santo languages originating on Espiritu Santo, Vanuatu"
 status_id: 6b
 scope: individual
 language_type: living

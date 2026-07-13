@@ -2,10 +2,12 @@
 iso: nrb
 name: Nara
 autonym: Barea
-alt_names: ["\"Barea\"", "\"Baria\"", "\"Barya\"", Barya, Higir, Koyta, Mogareb, Nera, Santora, Нара]
+alt_names: ["\"Barea\"", "\"Baria\"", "\"Barya\"", Barya, Higir, Koyta, Mogareb, Nera, Santora, Нара, “Barea”, “Baria”, “Barya”]
 population: 103000
 country_id: ER
 country_name: Eritrea
+location: "Djibouti, Eritrea and Ethiopia"
+area: Nilo-Saharan language spoken in Eritrea
 status_id: 6a
 scope: individual
 language_type: living

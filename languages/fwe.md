@@ -6,6 +6,8 @@ alt_names: [Namibia]
 population: 10200
 country_id: NA
 country_name: Namibia
+location: Namibia
+area: Bantu language of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living

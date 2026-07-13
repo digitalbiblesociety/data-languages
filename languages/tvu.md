@@ -2,9 +2,12 @@
 iso: tvu
 name: Tunen
 autonym: Tunen
+alt_names: [Banen, Alinga, Banend, Eling, Itundu, Logananga, Mese, Ndogbang, Ndokbiakat, Ndoktuna, Nen, Niguessen, Paningesen, Penin, Penyin, Sese, Toboany, Tufombo, Tuling]
 population: 35000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

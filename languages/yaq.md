@@ -2,10 +2,12 @@
 iso: yaq
 name: Yaqui
 autonym: Yoem Noki
-alt_names: [Cahita, Kahita, Yaki, Yaki simi, Yakieg, Yaqui-Mayo, Yoeme]
+alt_names: [Cahita, Kahita, Yaki, Yaki simi, Yakieg, Yaqui-Mayo, Yoeme, Hiak-nooki, Hiaki]
 population: 20940
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Native American language of the Uto-Aztecan family
 status_id: "5"
 scope: individual
 language_type: living

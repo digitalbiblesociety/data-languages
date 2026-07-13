@@ -2,10 +2,12 @@
 iso: kll
 name: Kagan Kalagan
 autonym: Kaagan
-alt_names: ["Kalagan, Kagan"]
+alt_names: ["Kalagan, Kagan", Kagan]
 population: 6000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian dialect cluster
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卡甘卡拉甘语
     auto: true
 ---
+Kalagan is an Austronesian dialect cluster of the Davao Region of Mindanao in the Philippines. It is also spoken in a few parts of Caraga, also in Mindanao.

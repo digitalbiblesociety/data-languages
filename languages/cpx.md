@@ -3,15 +3,18 @@ iso: cpx
 macrolanguage_id: zho
 name: "Pu-Xian Chinese"
 autonym: 莆仙語/莆仙話/興化話
-alt_names: ["Chinese, Pu-Xian", "Chinese,Pu-Xian", Hingeg, Minish Phuxian, Phû-sien-fa, Puxian, Puxian Min, 莆仙話]
+alt_names: ["Chinese, Pu-Xian", "Chinese,Pu-Xian", Hingeg, Minish Phuxian, Phû-sien-fa, Puxian, Puxian Min, 莆仙話, Henghua]
 population: 3191700
 country_id: CN
 country_name: China
+location: Southern China
+area: Min Chinese language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 25.37
 longitude: 118.68
+language_map_img: Min_dialect_map.svg
 glottocode: puxi1243
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

@@ -2,10 +2,12 @@
 iso: bum
 name: Bulu
 autonym: "Bulu-Bene"
-alt_names: [Boulou, Bulu, Bulu (in Cameroon)]
+alt_names: [Boulou, Bulu, Bulu (in Cameroon), Bene, Yelinda, Yembana, Yengono]
 population: 858000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: "3"
 scope: individual
 language_type: living

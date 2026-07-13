@@ -6,6 +6,7 @@ alt_names: [Scottish Cant, Scottish Traveller Cant, "Scottish, Traveller"]
 population: 4000
 country_id: GB
 country_name: United Kingdom
+area: Variety of the Romani language
 status_id: 6a
 scope: individual
 language_type: living

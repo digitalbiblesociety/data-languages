@@ -2,10 +2,12 @@
 iso: mas
 name: Masai
 autonym: ɔl Maa
-alt_names: [Kimaasai, Lumbwa, Maa, Maasai, Maasai language, Masaieg, Oigob, Sprachen der Wakuafi und Masai, massaï]
+alt_names: [Kimaasai, Lumbwa, Maa, Maasai, Maasai language, Masaieg, Oigob, Sprachen der Wakuafi und Masai, massaï, Arusa, Arusha, Arusha-Chini, Baraguyu, Damat, Il-Arusha, Iloodokilani, Ilparakuyo, Kaputiei, Keekonyokie, Kisongo, Kisonko, Kore, Kuma, Kwavi, L-Aitayiok, L-Arusha, Laitokitok, Larusha, Loitai, Massai, Matapo, Moitanik, Parakuyo, Purko, Rusa, Rusha, Salei, Serenget, Sikirari, Siria, Wuasinkishu]
 population: 1872000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Eastern Nilotic language
 status_id: "5"
 scope: individual
 language_type: living

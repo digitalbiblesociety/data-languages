@@ -2,10 +2,12 @@
 iso: lic
 name: Hlai
 autonym: Li
-alt_names: ["B'lai", "B'li", Bli, Dai, Day, Dli, Hiai, Hlaï, "K'lai", Klai, La, Lai, Le, Loi, "S'lai", Slai]
+alt_names: ["B'lai", "B'li", Bli, Dai, Day, Dli, Hiai, Hlaï, "K'lai", Klai, La, Lai, Le, Loi, "S'lai", Slai, Baisha-Yuanmen, Bendi, Gei, Ha, Has Hlai, Local Li, Luohua-Hayan-Baoxian, Meifu, Moifau, Qi, Tongshi-Qiandui-Baocheng, Zwn]
 population: 667000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kra–Dai language family of China
 status_id: 6a
 scope: individual
 language_type: living

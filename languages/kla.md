@@ -6,6 +6,7 @@ alt_names: [E-ukshikni, Klamath, Lutuami, Lutuamí-modoco, Modoc]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Plateau Penutian language of US
 status_id: "9"
 scope: individual
 language_type: extinct

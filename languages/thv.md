@@ -3,10 +3,12 @@ iso: thv
 macrolanguage_id: tmh
 name: Tahaggart Tamahaq
 autonym: Tamachek
-alt_names: [Berber (Ghat), Djanet, Ganet, Ghadames, Ghat, Tahaggart, "Tamachek'", Tamahakeg, Tamahaq, Tamahaq (Algérie), Tamahaq (Jamahiriya arabe libyenne), Tamahaq (Libia), Tamahaq (Tahaggart), Tamahaq language, "Tamahaq, Tahaggart", Tamashekin, Tamasheq, Tomachek, Touareg, Tourage, Toureg, Tuareg, Tuareg (Ahaggar), Tuareg (Air), Tuareg (Ghat), Tuareg (Tahaggart Tamahaq), Tuareg (Tahaggart)]
+alt_names: [Berber (Ghat), Djanet, Ganet, Ghadames, Ghat, Tahaggart, "Tamachek'", Tamahakeg, Tamahaq, Tamahaq (Algérie), Tamahaq (Jamahiriya arabe libyenne), Tamahaq (Libia), Tamahaq (Tahaggart), Tamahaq language, "Tamahaq, Tahaggart", Tamashekin, Tamasheq, Tomachek, Touareg, Tourage, Toureg, Tuareg, Tuareg (Ahaggar), Tuareg (Air), Tuareg (Ghat), Tuareg (Tahaggart Tamahaq), Tuareg (Tahaggart), Ahaggaren, Ajjer, Hoggar]
 population: 20000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Tuareg language spoken in Algeria
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: tiv
 name: Tiv
 autonym: Tiv
-alt_names: ["\"Munshi\""]
+alt_names: ["\"Munshi\"", “Munshi”, Munshi]
 population: 4300000
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language of Nigeria
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 6.88039
 longitude: 9.26287
+language_map_img: tiv.webp
 scripts: [Latn]
 glottocode: tivv1240
 glottolog_family_id: atla1278

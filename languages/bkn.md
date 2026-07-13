@@ -6,6 +6,8 @@ alt_names: [Bakitan, Beketan, Mangkettan, Manketa, Pakatan]
 population: 570
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Punan language of Malaysia
 status_id: 6b
 scope: individual
 language_type: living

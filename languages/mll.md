@@ -6,6 +6,8 @@ alt_names: [Espiegle Bay, "Espiegle's Bay", Malakula, Mallicolo, Petarmur (Petar
 population: 500
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kamu, Nubama, Nyima]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Savannas language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

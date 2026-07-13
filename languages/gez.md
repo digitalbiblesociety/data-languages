@@ -2,10 +2,11 @@
 iso: gez
 name: Geez
 autonym: ግዕዝ Gəʿəz
-alt_names: [Ancient Ethiopic, Ethiopic, "Ge'ez", "Ge'ez language", "Ge`ez", Geuzeg, "Gi'iz", Giiz, Giz, Gueez, Guiés, Guèze, Геез, Геэз, געז, جعزى, ግዕዝ]
+alt_names: [Ancient Ethiopic, Ethiopic, "Ge'ez", "Ge'ez language", "Ge`ez", Geuzeg, "Gi'iz", Giiz, Giz, Gueez, Guiés, Guèze, Геез, Геэз, געז, جعزى, ግዕዝ, Ge’ez]
 population: null
 country_id: ET
 country_name: Ethiopia
+area: Ancient Semitic language of Eritrea and Ethiopia
 status_id: "9"
 scope: individual
 language_type: historical

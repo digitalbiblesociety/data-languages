@@ -2,15 +2,18 @@
 iso: ses
 name: Koyraboro Senni Songhai
 autonym: East Songhay
-alt_names: [Gao Songhay, Gao dialect, Koroboro Senni, Koyra Senni, Koyra Senni Songhay, Koyraboro Senni, Koyraboro Senni Songhay, Songai, Songay, Songay Senni, Songhai, Songhai (Gao), Songhai (Koyraboro Senni), "Songhai, Koyraboro Senni", Songhay, Songhay (Koyraboro Senni), "Songhay, Koyraboro Senni", Songoi, Songoy, Sonrai, Sonrhai]
+alt_names: [Gao Songhay, Gao dialect, Koroboro Senni, Koyra Senni, Koyra Senni Songhay, Koyraboro Senni, Koyraboro Senni Songhay, Songai, Songay, Songay Senni, Songhai, Songhai (Gao), Songhai (Koyraboro Senni), "Songhai, Koyraboro Senni", Songhay, Songhay (Koyraboro Senni), "Songhay, Koyraboro Senni", Songoi, Songoy, Sonrai, Sonrhai, Fulan Kirya, Gao, Songoy de Gao]
 population: 430000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 1"
+area: Songhay language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 16.96338
 longitude: -0.55187
+language_map_img: Songhay_languages.svg
 scripts: [Latn]
 glottocode: koyr1242
 glottolog_family_id: song1307

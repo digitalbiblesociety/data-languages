@@ -6,6 +6,8 @@ alt_names: [Todeg, Todi, Tuda, Тода]
 population: 1100
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: "Dravidian language of Nilgiri Hills, India"
 status_id: 6a
 scope: individual
 language_type: living

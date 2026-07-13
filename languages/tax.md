@@ -6,6 +6,8 @@ alt_names: [Tamkieg, 𐍄𐌰𐌼𐌺𐌾𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 500
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of central Chad
 status_id: "7"
 scope: individual
 language_type: living

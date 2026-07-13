@@ -6,6 +6,8 @@ alt_names: [Aramaue, Aramo, Erem, Hagahai, Miamia, Pinaye, Wapi]
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Piawi language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

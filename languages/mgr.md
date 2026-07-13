@@ -2,10 +2,12 @@
 iso: mgr
 name: "Mambwe-Lungu"
 autonym: Lungu
-alt_names: [Cimambwe, Mambwe]
+alt_names: [Cimambwe, Mambwe, Adong, Cilungu, Fipa-Mambwe, Ichimambwe, Ichirungu, Icilungu, Icimambwe, Icirungu, Kifipa cha Kimambwe, Kilungu, Kimambwe, Kirungu, Mambe-Lungu, Mambwe-Rungu, Rungu]
 population: 213680
 country_id: ZM
 country_name: Zambia
+location: Tanzania
+area: Bantu language spoken in Tanzania and Zambia
 status_id: "5"
 scope: individual
 language_type: living

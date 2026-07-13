@@ -2,10 +2,12 @@
 iso: lns
 name: "Lamnso'"
 autonym: Lamnsɔ’
-alt_names: [Bansaw, Banso, "Banso'", Lamnso, Lamnsok, Lamso, Nsaw, "Nsho'", Nso, "Nso'", Panso]
+alt_names: [Bansaw, Banso, "Banso'", Lamnso, Lamnsok, Lamso, Nsaw, "Nsho'", Nso, "Nso'", Panso, Banso’, Nsho’, Nso’]
 population: 240000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

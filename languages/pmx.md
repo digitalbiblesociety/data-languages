@@ -2,10 +2,12 @@
 iso: pmx
 name: Poumei Naga
 autonym: Sopvoma
-alt_names: ["Naga, Poumei", "Naga,Poumei", Paumei, Pomai, Pome, Poumei]
+alt_names: ["Naga, Poumei", "Naga,Poumei", Paumei, Pomai, Pome, Poumei, Naga, Poula, Poumai Naga]
 population: 143000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

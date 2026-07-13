@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: AU
 country_name: Australia
+area: Manual encodings of Australian languages
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kolbili, Kolbilla, Kolena, Zoono]
 population: 2500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Language of Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

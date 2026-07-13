@@ -2,15 +2,18 @@
 iso: kun
 name: Kunama
 autonym: Baada
-alt_names: [Baaden, Baaza, Baazayn, Baazen, Bada, Baden, Baza, Bazen, Cunama, Diila]
+alt_names: [Baaden, Baaza, Baazayn, Baazen, Bada, Baden, Baza, Bazen, Cunama, Diila, Aaimasa, Aimara, Aymasa, Barka, Berka, Bitaama, Bitama, Iiliit, Iilit, Iliit, Ilit, Lakatakura-Tika, Marda, Odasa, Setiit, Setit, Sogadas, Sogodas, Sokodasa, Takazze-Setiit, Tigray, Tiika, Tika]
 population: 244430
 country_id: ER
 country_name: Eritrea
+location: "Djibouti, Eritrea and Ethiopia"
+area: Nilo-Saharan language family spoken in Eritrea and Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 14.58789
 longitude: 37.529195
+language_map_img: Kunama.webp
 glottocode: kuna1268
 wikidata_id: Q36041
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunama_language"

@@ -2,12 +2,15 @@
 iso: ilm
 name: Iranun
 autonym: null
+alt_names: [Iranun (Malaysia)]
 population: null
 country_id: MY
 country_name: Malaysia
+area: Malayo-Polynesian language spoken in Southeast Asia
 status_id: null
 scope: individual
 language_type: living
+language_map_img: 500px-Iranun_language_map.webp
 wikidata_id: Q63214927
 translations:
   - translation_iso: ara
@@ -45,3 +48,4 @@ translations:
     name: 伊兰农语（马来西亚）
     auto: true
 ---
+The Iranun language, also known as Iranon or Illanun, is an Austronesian language belonging to the Danao languages spoken in the provinces of Maguindanao del Norte and other part of Lanao del Sur and Lanao del Norte, coastal municipalities of Zamboanga del Sur from Tukuran to Dumalinao, and Cotabato in southern Philippines and the Malaysian state of Sabah. It is the second most spoken language in Maguindanao del Norte after the Maguindanao language.

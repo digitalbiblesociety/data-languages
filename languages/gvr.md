@@ -2,10 +2,12 @@
 iso: gvr
 name: Gurung
 autonym: Tamu Kyi
-alt_names: [Gurnung, Western, Western Gurung]
+alt_names: [Gurnung, Western, Western Gurung, Central dialect of Gurung, Daduwa, Gurung Kura, Central Gurung]
 population: 359000
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Sino-Tibetan language spoken in Nepal and India
 status_id: 6b
 scope: individual
 language_type: living

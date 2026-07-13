@@ -6,6 +6,8 @@ alt_names: [Zwangal]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Endangered Chadic language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

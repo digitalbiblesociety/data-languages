@@ -6,6 +6,8 @@ alt_names: [Ingul, Ngoli, Nguli, Ngulu]
 population: 8400
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language of the DRC
 status_id: 6a
 scope: individual
 language_type: living

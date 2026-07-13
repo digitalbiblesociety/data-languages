@@ -6,6 +6,7 @@ alt_names: [Avia, Gevia, Geviya, Ivéa]
 population: 50
 country_id: GA
 country_name: Gabon
+area: Endangered Bantu language spoken in Gabon
 status_id: null
 scope: individual
 language_type: living

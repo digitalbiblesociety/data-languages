@@ -6,6 +6,8 @@ alt_names: [Colville-Okanagan, Nsilxcín, Nsyilxcen, Nsyilxcn, Nsyilxcən, Nsəl
 population: 400
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Endangered Salish language of North America
 status_id: "7"
 scope: individual
 language_type: living

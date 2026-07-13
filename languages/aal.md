@@ -6,6 +6,8 @@ alt_names: [Afada, Afadeg, Afadeh, Affade, Kotoko, Mandage, Mandagué, Mogari, N
 population: 5000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in eastern Nigeria and northwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living

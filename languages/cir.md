@@ -2,10 +2,12 @@
 iso: cir
 name: Tiri
 autonym: Méa
-alt_names: [Ciri, Grand Couli, Ha-Tiri, Haméa, Neukaledonien, Tinrin, Tîrî]
+alt_names: [Ciri, Grand Couli, Ha-Tiri, Haméa, Neukaledonien, Tinrin, Tîrî, Ciiri]
 population: 260
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Oceanic language of New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

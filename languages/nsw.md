@@ -6,6 +6,8 @@ alt_names: [Vanuatu]
 population: 520
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Oceanic language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living

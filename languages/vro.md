@@ -7,11 +7,14 @@ alt_names: [Dialekt von Võru, Voro, Voru, Vôru, Võro kiil, Võru, Werro]
 population: 80000
 country_id: EE
 country_name: Estonia
+location: "Estonia, Latvia and Lithuania"
+area: Finnic language spoken in South Estonia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 57.85
 longitude: 27
+language_map_img: 500px-South_Estonian_language_area_corrected_2017.webp
 scripts: [Latn]
 glottocode: sout2679
 glottolog_family_id: ural1272

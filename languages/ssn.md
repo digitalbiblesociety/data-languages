@@ -6,6 +6,8 @@ alt_names: [Ariangulu, Langulo, Oromo, Oromo (Waata), Sanya, Waat, Waata Oromo, 
 population: 17400
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Oromo-speaking people of southeast Kenya
 status_id: 6a
 scope: individual
 language_type: living

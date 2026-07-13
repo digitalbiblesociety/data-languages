@@ -2,15 +2,18 @@
 iso: sac
 name: Meskwaki
 autonym: "Meskwaki-Sauk-Kickapoo"
-alt_names: [Fox, Fox-Sauk-Kickapoo, Meskwakie, Mesquakie, Mesquakie-Sauk-Kickapoo, Sac and Fox, Sauk-Fox]
+alt_names: [Fox, Fox-Sauk-Kickapoo, Meskwakie, Mesquakie, Mesquakie-Sauk-Kickapoo, Sac and Fox, Sauk-Fox, Sac, Sauk]
 population: 250
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Algonquian language spoken in US and Mexico
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 40
 longitude: -94
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 glottocode: mesk1242
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

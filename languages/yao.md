@@ -2,10 +2,12 @@
 iso: yao
 name: Yao
 autonym: chiYao
-alt_names: [Achawa, Adsawa, Adsoa, Ajawa, Ayao, Ayawa, Ayo, Chichawa, Ciyao, Djao, Haiao, Hajao, Hiao, Hyao, Jao, Kiyao, Veiao, Wajao]
+alt_names: [Achawa, Adsawa, Adsoa, Ajawa, Ayao, Ayawa, Ayo, Chichawa, Ciyao, Djao, Haiao, Hajao, Hiao, Hyao, Jao, Kiyao, Veiao, Wajao, Chikonono, Chiyawo, Cikonono, Cimakale, Cimassaninga, Ciyaawo, Ciyawo, Kihiau, Kihyao, Machinga, Makale, Mangoche, Mangochi, Massaninga, Tunduru Yao, Yawo, waYao]
 population: 3728000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in southeast Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: suk
 name: Sukuma
 autonym: Kɪsukuma
-alt_names: [Kesukuma, Kisukuma]
+alt_names: [Kesukuma, Kisukuma, East Sukuma, Gina-Ntuzu, Gwe, Jinakiiya, Kemunadakama, Kemunakeeya, Kemunangweeli, Kemunasukuma, Kigwe, Kiiya, Kimuna-Sukuma, Kimunakiiya, Kimunantuzu, Kinaanasa, Kinaanelaa, KisumaaBu, Kiya, Nasa, Nelaa, North Sukuma, Ntuzu, South Sukuma, SumaaBu, West Sukuma]
 population: 8130000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -3.16082
 longitude: 32.87653
+language_map_img: suk.webp
 scripts: [Latn]
 glottocode: suku1261
 glottolog_family_id: atla1278

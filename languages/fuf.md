@@ -3,15 +3,18 @@ iso: fuf
 macrolanguage_id: ful
 name: Pular
 autonym: Fuuta Jalon
-alt_names: [Foula Fouta, Fouta Dyalon, Ful(ani), Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde Jalon, Fullo Fuuta, Futa Fula, Futa Jallon, Jalon]
+alt_names: [Foula Fouta, Fouta Dyalon, Ful(ani), Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde Jalon, Fullo Fuuta, Futa Fula, Futa Jallon, Jalon, Fouta Djallon, Fula Peta, Futa, Kebu Fula, Krio Fula, Poular]
 population: 4740200
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Indigenous language widely spoken in Guinea and surrounding countries
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 12.182612
 longitude: -12.7338
+language_map_img: fuf.webp
 glottocode: pula1262
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

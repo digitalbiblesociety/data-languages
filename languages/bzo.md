@@ -2,14 +2,18 @@
 iso: bzo
 name: Bozaba
 autonym: Budzaba
+alt_names: [Buzaba]
 population: 5500
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 2.07295
 longitude: 18.67837
+glottocode: boza1238
 wikidata_id: Q4952785
 wikipedia_url: "https://en.wikipedia.org/wiki/Bozaba_language"
 translations:

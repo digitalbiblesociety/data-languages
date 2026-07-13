@@ -6,6 +6,8 @@ alt_names: [Augila, Aujila, Auyila, Awdjila, Awdjilaeg, Awgila, Awjila, Awjilah-
 population: 3000
 country_id: LY
 country_name: Libya
+location: Egypt and Libya
+area: Endangered Berber language of Libya
 status_id: 8a
 scope: individual
 language_type: living

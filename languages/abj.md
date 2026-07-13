@@ -6,6 +6,7 @@ alt_names: [Aka-Beada, Aka-Biada, Andamanese, Bea, Beada, Biada, Bogijiab, Bojig
 population: null
 country_id: IN
 country_name: India
+area: Extinct Great Andamanese language of India
 status_id: "10"
 scope: individual
 language_type: extinct

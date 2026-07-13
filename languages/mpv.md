@@ -5,6 +5,8 @@ autonym: Munkip
 population: 670
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: "Language spoken in Morobe Province, Papua New Guinea"
 status_id: 8b
 scope: individual
 language_type: living

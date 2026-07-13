@@ -2,10 +2,12 @@
 iso: mdx
 name: Dizin
 autonym: Dizi
-alt_names: [Dizi-Maji, Dizu, Maji, Sizi, Twoyu]
+alt_names: [Dizi-Maji, Dizu, Maji, Sizi, Twoyu, Dizinog, Dizinya, Majinya, Central Dizin, Diizi-Noog, Diizin, Diizinuog, Eastern Dizin, Western Dizin]
 population: 33900
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in southern Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

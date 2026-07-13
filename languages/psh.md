@@ -6,6 +6,8 @@ alt_names: [Dardu, "Pashai, Southwest", "Pashayi, Southwest", Southwest Pashayi,
 population: 100000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Indo-Aryan language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living
@@ -67,3 +69,4 @@ rolv_dialects:
     country_id: AF
     location: Afghanistan
 ---
+Pashayi is a group of Indo-Aryan languages spoken by the Pashayi people in parts of the Kapisa, Laghman, Nangarhar, Nuristan, Kunar, and Kabul (Surobi) provinces in northeastern Afghanistan.

@@ -6,6 +6,7 @@ alt_names: [DSGS, Deutschschweizerische Gebärdensprache, Natürliche Gebärde]
 population: 6000
 country_id: CH
 country_name: Switzerland
+area: Sign language of Switzerland
 status_id: "5"
 scope: individual
 language_type: living

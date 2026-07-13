@@ -2,10 +2,12 @@
 iso: say
 name: Saya
 autonym: Guus
-alt_names: [Gambar Leere, Kal, Lusa, Sayanci, Sayara, Sayawa, Seiyara, Seiyawa, Seya, Seyawa, Vigzar, Vikzar, "Za:r", Zaar, vik-Zaar]
+alt_names: [Gambar Leere, Kal, Lusa, Sayanci, Sayara, Sayawa, Seiyara, Seiyawa, Seya, Seyawa, Vigzar, Vikzar, "Za:r", Zaar, vik-Zaar, Gambar, Ntumu, Okak, Segiddi, Sigdi, Sigidi, Sugudi]
 population: 300000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Chadic dialect cluster spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

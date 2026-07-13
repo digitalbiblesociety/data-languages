@@ -6,6 +6,7 @@ alt_names: [Bubalia]
 population: null
 country_id: TD
 country_name: Chad
+area: Extinct Bongo–Bagirmi language of Chad
 status_id: "10"
 scope: individual
 language_type: living

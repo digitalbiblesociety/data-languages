@@ -2,10 +2,12 @@
 iso: nnn
 name: Ngete
 autonym: Lame
-alt_names: ["Ka'do Ngueté", "Nge'dé", Nguetté, Ngueté, Zime]
+alt_names: ["Ka'do Ngueté", "Nge'dé", Nguetté, Ngueté, Zime, Ka’do Ngueté, Nge’dé]
 population: 10000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic dialect cluster of Chad
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,6 @@ translations:
     name: 恩格特语
     auto: true
 ---
+Ngeté-Herdé, also known as Lamé, is an Afro-Asiatic dialect cluster of Chad. Varieties are:Dzəpaw, or Lamé
+Ngeté (Nguetté), or Sorga-Ngeté
+Herdé (He’dé), or Heɗe-Rong

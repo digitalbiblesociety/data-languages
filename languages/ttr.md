@@ -2,10 +2,12 @@
 iso: ttr
 name: Tera
 autonym: Nyimalti
-alt_names: [Pidlimdi, Teraeg, Wuyo dialect, Yamaltu]
+alt_names: [Pidlimdi, Teraeg, Wuyo dialect, Yamaltu, Bura Kokura, Ghena, Ghuna, Hina, Hinna, Nimalto, Nyemathi, Nyimatali, Nyimatli]
 population: 101000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Chadic dialect cluster of northeastern Nigeria
 status_id: 6a
 scope: individual
 language_type: living

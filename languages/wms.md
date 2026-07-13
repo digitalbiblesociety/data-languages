@@ -2,10 +2,12 @@
 iso: wms
 name: Wambon
 autonym: null
-alt_names: [Indonesia]
+alt_names: [Indonesia, Kenon, Kenyam]
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dumut language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

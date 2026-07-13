@@ -2,10 +2,12 @@
 iso: dyi
 name: Djimini Senoufo
 autonym: "Senoufo, Djimini"
-alt_names: [Djimini, Dyimini, Gimini, Guimini, Jinmini, Senoufou (Djimini)]
+alt_names: [Djimini, Dyimini, Gimini, Guimini, Jinmini, Senoufou (Djimini), Senoufo, Diamala, Djafolo, Djamala, Dofana, Dyamala, Foolo, Jinmiire, Singala]
 population: 95500
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Niger–Congo language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Khoibu Maring, Khoibu Maring Naga, "Naga, Khoibu", "Naga,Khoibu"]
 population: 25600
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Sino-Tibetan language of Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Budeh, Southern Stieng, Stieng, Stieng Budeh, "Stieng, Budeh"]
 population: null
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.69167
 longitude: 106.69098
+language_map_img: 500px-Stieng_language.webp
 glottocode: bude1236
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
@@ -60,3 +63,4 @@ rolv_dialects:
     country_id: VN
     location: "Vietnam, South East, Binh Phuoc"
 ---
+Stieng is the language of the Stieng people of southern Vietnam and adjacent areas of Cambodia. Along with Chrau and Mnong, Stieng is classified as a language of the South Bahnaric grouping of the Mon–Khmer languages within the Austroasiatic language family. In the Austroasiatic scheme, the Bahnaric languages are often cited as being most closely related to the Khmer language.

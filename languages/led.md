@@ -2,10 +2,12 @@
 iso: led
 name: Lendu
 autonym: Balendru
-alt_names: [Bale, Baledha, Baletha, Batha, Bbadha, Bbaledha, Hema-Nord, Kihema-Nord, Kilendu, N Lendu, N. Lendu, North Lendu]
+alt_names: [Bale, Baledha, Baletha, Batha, Bbadha, Bbaledha, Hema-Nord, Kihema-Nord, Kilendu, N Lendu, N. Lendu, North Lendu, Ddradha, Ddralo, Djadha, Jidha, Njawdha, Njawlo, Pidha, Tadha]
 population: 750000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Nilo-Saharan language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living

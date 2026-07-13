@@ -2,10 +2,12 @@
 iso: gud
 name: Yocoboué Dida
 autonym: null
-alt_names: ["Côte d'Ivoire", "Dida, Yocoboué", Yocoboue Dida]
+alt_names: ["Côte d'Ivoire", "Dida, Yocoboué", Yocoboue Dida, Dida de Yocoboué, Divo, Dída, Gakpa, Goudou, Guitry, Kagoué, Lozoua, Yocoboue, Yokouboué]
 population: 102000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru dialect cluster of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
@@ -65,3 +67,4 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+Dida is a dialect cluster of the Kru family spoken in Ivory Coast.

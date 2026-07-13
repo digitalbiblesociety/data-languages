@@ -6,11 +6,13 @@ alt_names: [Dialetto frisone orientale, East Frisian, Ekialdeko frisiera, Freesh
 population: 5000
 country_id: DE
 country_name: Germany
+area: Dialect of East Frisian
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 53.117
 longitude: 7.721
+language_map_img: Frisian_languages_in_Europe.svg
 scripts: [Latn]
 glottocode: sate1242
 glottolog_family_id: indo1319

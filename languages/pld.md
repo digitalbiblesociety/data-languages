@@ -6,6 +6,7 @@ alt_names: [Palari, Palarie, Parlare, Parlyaree, Polarieg]
 population: null
 country_id: GB
 country_name: United Kingdom
+area: Form of slang
 status_id: "9"
 scope: individual
 language_type: living

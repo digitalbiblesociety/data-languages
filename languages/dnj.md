@@ -2,13 +2,16 @@
 iso: dnj
 name: Dan
 autonym: Yacouba
+alt_names: [Da, Dan Blowo, Dan Gwɛɛtaawʋ, Dan Gwɛɛtaawu, Eastern Dan, Gio, Gio-Dan, Gweetaawu, Gwɛɛtaawu, Western Dan, Ya, Yakuba]
 population: 1568800
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Mande language of West Africa
 status_id: "5"
 scope: individual
 language_type: living
 scripts: [Latn]
+glottocode: west2877
 wikidata_id: Q1158971
 wikipedia_url: "https://en.wikipedia.org/wiki/Dan_language"
 translations:

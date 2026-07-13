@@ -2,10 +2,12 @@
 iso: pdu
 name: Kayan
 autonym: Kayan
-alt_names: [Kayang, Padaung, Padaung Karen]
+alt_names: [Kayang, Padaung, Padaung Karen, Ka-Yun, Kayan Kangan, Kayan Lahwi, Lahwi, Standard Pekon, Yeinbaw, Yinbaw]
 population: 133180
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kayan language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

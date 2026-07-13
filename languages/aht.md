@@ -6,11 +6,14 @@ alt_names: [Ah-tena, Ahtna, Ahtna language, Atna, Copper River, Mednovskiy, Nabe
 population: 500
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 61.70684
 longitude: -144.88894
+language_map_img: 500px-Ahtna_lang.webp
 glottocode: ahte1237
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

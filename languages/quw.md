@@ -3,15 +3,18 @@ iso: quw
 macrolanguage_id: que
 name: Tena Lowland Quichua
 autonym: Kichwa Shimi
-alt_names: [Calderón, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, "Quichua, Tena Lowland", Salasca, Tena Quichua, Yumbo]
+alt_names: [Calderón, Cañar Highland Quichua, Chimborazo, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Highland Ecuadorian Quichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quichua, "Quichua, Tena Lowland", Salasca, Tena Quichua, Yumbo, Napo Kichwa, Quichua de Tena, Quichua del Oriente, Quijo, Quixo, Runa Shimi]
 population: 20000
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Quechuan language of Ecuador and Colombia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -0.76271
 longitude: -77.54039
+language_map_img: KichwaQ.svg
 glottocode: tena1240
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 特纳低地基楚亚语
     auto: true
 ---
+Kichwa is a Quechuan language that includes all Quechua varieties of Ecuador and Colombia (Inga), as well as extensions into Peru. It has an estimated half million speakers.

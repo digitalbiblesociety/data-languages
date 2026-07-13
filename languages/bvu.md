@@ -3,10 +3,12 @@ iso: bvu
 macrolanguage_id: msa
 name: Bukit Malay
 autonym: بهاس بنجر
-alt_names: [Bukit, "Malay, Bukit", Meratus]
+alt_names: [Bukit, "Malay, Bukit", Meratus, Bukat]
 population: 59000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Native language of Banjarese people
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Kalimantan Selatan (South)"
 ---
+Banjarese or simply Banjar, is an Austronesian language of the Malayic branch predominantly spoken by the Banjarese—an indigenous ethnic group native to Banjar regions—in the southeastern Kalimantan of Indonesia. The Banjarese language is the de facto lingua franca for various indigenous communities, especially in South Kalimantan, as well as Central Kalimantan and East Kalimantan in general.

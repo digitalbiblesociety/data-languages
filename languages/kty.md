@@ -2,10 +2,12 @@
 iso: kty
 name: Kango
 autonym: Likango
-alt_names: [Kango]
+alt_names: [Kango, Bomokandi, Uélé]
 population: 5900
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in the Democratic Republic of the Congo
 status_id: 6a
 scope: individual
 language_type: living

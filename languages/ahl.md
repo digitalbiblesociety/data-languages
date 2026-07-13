@@ -2,10 +2,12 @@
 iso: ahl
 name: Igo
 autonym: Igo
-alt_names: [Achlo, Ago, Ahlon, Ahlon-Bogo, Ahlõ, Ahonlan, Anlo]
+alt_names: [Achlo, Ago, Ahlon, Ahlon-Bogo, Ahlõ, Ahonlan, Anlo, Bogo]
 population: 6000
 country_id: TG
 country_name: Togo
+location: Togo
+area: Kwa language spoken in Togo
 status_id: "5"
 scope: individual
 language_type: living

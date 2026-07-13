@@ -3,15 +3,17 @@ iso: smo
 iso639_1: sm
 name: Samoan
 autonym: Gagana faʻa Sāmoa
-alt_names: [Lea fakahaʻamoa, Samoa, Samoaans, Samoaeg, Samoansk, Samoanska, Samoà, Samwa simi, Samöeg, Σαμόα, ‘Ōlelo Sāmoa]
+alt_names: [Lea fakahaʻamoa, Samoa, Samoaans, Samoaeg, Samoansk, Samoanska, Samoà, Samwa simi, Samöeg, Σαμόα, ‘Ōlelo Sāmoa, Gagana Samoa]
 population: 421570
 country_id: WS
 country_name: Samoa
+area: Austronesian language of the Samoan Islands
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -13.92
 longitude: -171.83
+language_map_img: 500px-Sketch_map_Samoa_in_the_Pacific.webp
 scripts: [Latn]
 glottocode: samo1305
 glottolog_family_id: aust1307

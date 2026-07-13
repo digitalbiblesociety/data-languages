@@ -2,10 +2,12 @@
 iso: wau
 name: Waurá
 autonym: Aura
-alt_names: [Mahinacu, Mehinakú, Mehináku, Uara, Uaura, Uaurá, Wauja, Waura, Waurá-Meinaku, Xinguan Group]
+alt_names: [Mahinacu, Mehinakú, Mehináku, Uara, Uaura, Uaurá, Wauja, Waura, Waurá-Meinaku, Xinguan Group, Uará]
 population: 320
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Arawakan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

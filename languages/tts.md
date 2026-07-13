@@ -2,15 +2,18 @@
 iso: tts
 name: Northeastern Thai
 autonym: " Lao Isan"
-alt_names: [Isaan, Isan, Isan language, Isaneg, Issan, Kaleung, "Kha Lu'ng", Kha Lung, Kha-Lɯɱ, Thai Isaan, "Thai, Northeastern"]
+alt_names: [Isaan, Isan, Isan language, Isaneg, Issan, Kaleung, "Kha Lu'ng", Kha Lung, Kha-Lɯɱ, Thai Isaan, "Thai, Northeastern", Central Isan, Esarn, Kalerng, Kaloeng, Korat, Northeastern, Northern Isan, Southern Isan, Thai]
 population: 15000000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Dialects of the Lao language west of the Mekong River
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.32526
 longitude: 102.98638
+language_map_img: tts.webp
 scripts: [Thai]
 glottocode: nort2741
 glottolog_family_id: taik1256

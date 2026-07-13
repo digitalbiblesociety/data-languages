@@ -6,11 +6,14 @@ alt_names: [Albura, Alpira, Alpiri, Boonara, Bunara, Buruwatung, Ilpara, Ilpira,
 population: 2300
 country_id: AU
 country_name: Australia
+location: Australia
+area: Aboriginal Australian language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -20.1008
 longitude: 131.04996
+language_map_img: Warlpiri_map.webp
 scripts: [Latn]
 glottocode: warl1254
 glottolog_family_id: pama1250

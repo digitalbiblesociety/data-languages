@@ -3,6 +3,7 @@ iso: mon
 iso639_1: mn
 name: Mongolian
 autonym: монгол хэл
+alt_names: [монгол]
 population: 3225000
 country_id: MN
 country_name: Mongolia

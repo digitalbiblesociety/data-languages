@@ -2,10 +2,12 @@
 iso: ssc
 name: "Suba-Simbiti"
 autonym: Kisimbiti
-alt_names: [Kisuba]
+alt_names: [Kisuba, Ekekeroobha, Haacha, Hacha, Ikiirëghë, Iregi, Iryege, Kihacha, Kiine, Kiiryege, Kikine, Kikirone, Kine, Kiroba, Kironi, Kiseru, Kisingiri, Kisurwa, Kisweta, Rieri, Ryeri, Simbiti, Surwa, Sweta]
 population: 113000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6a
 scope: individual
 language_type: living

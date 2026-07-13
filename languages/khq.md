@@ -2,15 +2,18 @@
 iso: khq
 name: Koyra Chiini Songhay
 autonym: Songai
-alt_names: [Koyra Chiini, Koyra Chiini dialect, Koyra-Chiini, Songay, Songhai, Songhay, "Songhay, Koyra Chiini", Songhoy, Songoi, Songoy, Sonrai, Sonrhai, Timbuktu Songhoy, West Songhoy]
+alt_names: [Koyra Chiini, Koyra Chiini dialect, Koyra-Chiini, Songay, Songhai, Songhay, "Songhay, Koyra Chiini", Songhoy, Songoi, Songoy, Sonrai, Sonrhai, Timbuktu Songhoy, West Songhoy, Djenné Chiini, Songai Timbuktu, Timbuktu Songhay, Songoy de Tombouctou]
 population: 200000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 1"
+area: Songhay language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 16.19202
 longitude: -3.73962
+language_map_img: Songhay_languages.svg
 scripts: [Latn]
 glottocode: koyr1240
 glottolog_family_id: song1307

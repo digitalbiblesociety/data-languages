@@ -2,10 +2,12 @@
 iso: omw
 name: South Tairora
 autonym: Omwunra Toqura (Aatasara)
-alt_names: [Omwunra-Toqura, Southern Tairora, Tairora, "Tairora, South"]
+alt_names: [Omwunra-Toqura, Southern Tairora, Tairora, "Tairora, South", Aatasaara, Atakara, Baira, Haaviqinra-Oraura, Habina-Oraura, Meauna, Obura-Toꞌokena, Pinata-Konkombira, Vaira-Ntosara, Veqaura, Vinaata-Konkompira]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -84,3 +86,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Eastern Highlands"
 ---
+Tairoa (Tairora) is a Kainantu language spoken in Papua New Guinea.

@@ -5,6 +5,8 @@ autonym: Sourbakhal
 population: 7890
 country_id: TD
 country_name: Chad
+location: Chad
+area: Maban language of Chad
 status_id: 6a
 scope: individual
 language_type: living

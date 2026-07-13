@@ -2,10 +2,12 @@
 iso: dnn
 name: Dzùùngoo
 autonym: Eastern Duun
-alt_names: [Dzuungoo, Kpango, Samogho, Samogo, Samoro]
+alt_names: [Dzuungoo, Kpango, Samogho, Samogo, Samoro, Dzùùn, Kpankagooma, Kpeengo]
 population: 13400
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Language of Mali and Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: BF
     location: Burkina Faso
 ---
+Duun is a Mande language of Mali. There are three varieties of Duun, West Duun, or Duungooma and Banka or Bankagooma, in Mali, and East Duun, or Dzùùn(goo), in Burkina Faso. These are clearly distinct but have a reasonable degree of mutual intelligibility with each other.

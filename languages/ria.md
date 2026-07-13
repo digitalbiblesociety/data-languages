@@ -2,15 +2,18 @@
 iso: ria
 name: Riang
 autonym: Tripuri
-alt_names: [Kau Bru, Reang, Riang, Tipra]
+alt_names: [Kau Bru, Reang, Riang, Tipra, Bru]
 population: 59000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.680315
 longitude: 92.03209
+language_map_img: 500px-Kokborok.map.webp
 scripts: [Latn]
 glottocode: rian1262
 glottolog_family_id: sino1245

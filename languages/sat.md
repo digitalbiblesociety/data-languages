@@ -2,15 +2,18 @@
 iso: sat
 name: Santali
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
-alt_names: [Har, Hor, Sainti, Samtali, Sandal, Sangtal, Santaleg, Santhal, Santhali, Santhiali, Santâlî, "Sat?r", Satar, Sentali, Sonthal, santal, Сантали, संथाली, സന്താലി]
+alt_names: [Har, Hor, Sainti, Samtali, Sandal, Sangtal, Santaleg, Santhal, Santhali, Santhiali, Santâlî, "Sat?r", Satar, Sentali, Sonthal, santal, Сантали, संथाली, സന്താലി, Har Rar, Kamari-Santali, Karmali, Khole, Lohari-Santali, Manjhi, Paharia, Sa]
 population: 7620000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Munda language of South Asia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 25.0317
 longitude: 87.818517
+language_map_img: sat.webp
 scripts: [Beng, Deva, Latn, Olck, Orya]
 glottocode: sant1410
 glottolog_family_id: aust1305

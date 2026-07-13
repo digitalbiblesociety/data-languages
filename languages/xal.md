@@ -2,10 +2,12 @@
 iso: xal
 name: Kalmyk
 autonym: Хальмг келн
-alt_names: [Calmuc, Calmucki, European Oirat, Issyk-Kul Kalmyk, Kalmack, Kalmouk, Kalmoukeg-oirateg, Kalmuck, Kalmuckiska, Kalmuk, Kalmuks, "Kalmyk, Oirat", Kalmyk-Oirat, Kalmykisk, Kalmückisch, Kalmıkça, "Khal:mag", Oirad-Kalmyk, Oirat, Oiratisch, Oirato, Qalmaq, Volga Oirat, Weilate, West Mongolian, Western Mongol, Western Mongolian, Western Mongul, "Xal'maq", Xal‘mg keln, Xinjiang Mongolian, oïrat, Өөрдн келн, قالماق تىلى]
+alt_names: [Calmuc, Calmucki, European Oirat, Issyk-Kul Kalmyk, Kalmack, Kalmouk, Kalmoukeg-oirateg, Kalmuck, Kalmuckiska, Kalmuk, Kalmuks, "Kalmyk, Oirat", Kalmyk-Oirat, Kalmykisk, Kalmückisch, Kalmıkça, "Khal:mag", Oirad-Kalmyk, Oirat, Oiratisch, Oirato, Qalmaq, Volga Oirat, Weilate, West Mongolian, Western Mongol, Western Mongolian, Western Mongul, "Xal'maq", Xal‘mg keln, Xinjiang Mongolian, oïrat, Өөрдн келн, قالماق تىلى, Kalmytskii Jazyk, Khalli, Өөрдин келн, Bayad, Bayit, Buzawa, Derbet, Dorbot, Durbet, Durvud, Dörbet, Dörböd, Eleuth, Elyut, Henan, Hoton, Jakhachin, Khoshut, Khoshuud, Khoton, Kök Nur, Mingat, Myangad, Olot, Oyrat, Qinghai, Torghoud, Torghud, Torghut, Torgut, Torguud, Torguut, "Tu'erhute", Uriankhai, Uuld, Zakhchin, Ööld]
 population: 431800
 country_id: RU
 country_name: Russia
+location: China
+area: "Oirat dialects spoken in Kalmykia, Russia"
 status_id: 6b
 scope: individual
 language_type: living

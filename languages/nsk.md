@@ -2,10 +2,12 @@
 iso: nsk
 name: Naskapi
 autonym: ᓇᔅᑲᐱ
-alt_names: [Cree, Eastern Naskapi, Innu Aimuun, Iyuw Imuun, Mushuaau Innu, Naskapee, Naskapí, Western Naskapi]
+alt_names: [Cree, Eastern Naskapi, Innu Aimuun, Iyuw Imuun, Mushuaau Innu, Naskapee, Naskapí, Western Naskapi, askapi, Innu Aimun, Iyuw Iyimuuun, Kawawachikamach, Mushua Innu, Naaskaapii iyuw iyimuuun, Naskapi Innu, Natuashish]
 population: 1210
 country_id: CA
 country_name: Canada
+location: Canada
+area: Cree language of eastern Canada
 status_id: "5"
 scope: individual
 language_type: living

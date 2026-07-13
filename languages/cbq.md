@@ -6,6 +6,7 @@ alt_names: [Cuba]
 population: 1000
 country_id: NG
 country_name: Nigeria
+area: Kainji language spoken in Nigeria
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Sinja, Subi, Urushubi]
 population: 92400
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living

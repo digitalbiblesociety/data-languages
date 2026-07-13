@@ -6,6 +6,8 @@ alt_names: [Aliki, Babiruwa, Babrua, Babruwa, Barua, Editode Edai, Erai, Eri, Ha
 population: 530
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Lakes Plain language of Irian Jaya, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

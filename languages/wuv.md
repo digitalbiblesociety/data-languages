@@ -2,10 +2,12 @@
 iso: wuv
 name: "Wuvulu-Aua"
 autonym: "Wuvalu-Aua"
-alt_names: [Admiralitäts-inseln, Aua-Viwulu, Viwulu-Aua]
+alt_names: [Admiralitäts-inseln, Aua-Viwulu, Viwulu-Aua, Aua, Wuu, Wuvulu]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

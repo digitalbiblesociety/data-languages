@@ -2,15 +2,18 @@
 iso: ycn
 name: Yucuna
 autonym: Jukuna
-alt_names: [Chucuna, Matapi, Matapí, Yukuna]
+alt_names: [Chucuna, Matapi, Matapí, Yukuna, Yucuna-Matapí]
 population: 770
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Arawakan language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -0.76075
 longitude: -71.00327
+language_map_img: Yucuna.webp
 glottocode: yucu1253
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

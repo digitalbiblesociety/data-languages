@@ -6,6 +6,7 @@ alt_names: [Be, Denawa, Deno, Denwa, Kubawa]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Afro-Asiatic language of Nigeria
 status_id: "9"
 scope: individual
 language_type: extinct

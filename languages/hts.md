@@ -2,15 +2,18 @@
 iso: hts
 name: Hadza
 autonym: Hazane
-alt_names: ["\"Tindiga\"", Hadzabi, Hadzapi, Hatsa, Kangeju, Kindiga, Tindiga, Wakindiga, Хадза]
+alt_names: ["\"Tindiga\"", Hadzabi, Hadzapi, Hatsa, Kangeju, Kindiga, Tindiga, Wakindiga, Хадза, “Tindiga”, Hadzane, Hadzape, Kindega, Kitindiga, Watindiga]
 population: 800
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Language isolate of north-central Tanzania
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -3.83115
 longitude: 35.04583
+language_map_img: Hadza_map.webp
 glottocode: hadz1240
 wikidata_id: Q33411
 wikipedia_url: "https://en.wikipedia.org/wiki/Hadza_language"

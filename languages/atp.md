@@ -6,6 +6,8 @@ alt_names: ["Atta, Pudtol"]
 population: 710
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 普德托尔阿塔语
     auto: true
 ---
+Atta is an Austronesian dialect cluster spoken by the Aeta (Agta) Negritos of the northern Philippines.

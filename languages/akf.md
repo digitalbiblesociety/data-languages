@@ -5,6 +5,8 @@ autonym: Akweya
 population: 26900
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Idomoid language of central Nigeria
 status_id: 6a
 scope: individual
 language_type: living

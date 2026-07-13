@@ -6,6 +6,7 @@ alt_names: [Flemish Sign Language, North Belgium Sign Language, South Belgium Si
 population: 6000
 country_id: BE
 country_name: Belgium
+area: Sign language used in Belgium
 status_id: "5"
 scope: individual
 language_type: living

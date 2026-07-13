@@ -5,11 +5,13 @@ autonym: "C'imariko"
 population: null
 country_id: US
 country_name: United States
+area: "Extinct language isolate of California, US"
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 41
 longitude: -123
+language_map_img: 500px-Chimariko_lang.webp
 glottocode: chim1301
 wikidata_id: Q1294251
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimariko_language"

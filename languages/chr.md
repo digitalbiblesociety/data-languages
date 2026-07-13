@@ -2,15 +2,18 @@
 iso: chr
 name: Cherokee
 autonym: ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ Tsalagi Gawonihisdi
-alt_names: [Ceroke sprǣc, Cherokesisk, Cherokesiska, Iroquois, North Carolina, Rechahecrian, Rickohockan, Southern Iroquoian, Tsalagi, Tsalaki simi, Tslagi, Чероки, ჩეროკი, ᏣᎳᎩ (Cherokee), ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, ᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ]
+alt_names: [Ceroke sprǣc, Cherokesisk, Cherokesiska, Iroquois, North Carolina, Rechahecrian, Rickohockan, Southern Iroquoian, Tsalagi, Tsalaki simi, Tslagi, Чероки, ჩეროკი, ᏣᎳᎩ (Cherokee), ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ, ᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ, Aniyunwiya, Eastern Cherokee, Elati, Keetoowah, Kituhwa, Lower Cherokee, Middle Cherokee, Otali, Overhill Cherokee, Overhill-Middle Cherokee, Underhill Cherokee, Upper Cherokee, Western Cherokee]
 population: 1520
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Iroquoian language spoken by the Cherokee people
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 35.46639
 longitude: -83.16303
+language_map_img: Cherokee_lang.webp
 scripts: [Cher]
 glottocode: cher1273
 glottolog_family_id: iroq1247

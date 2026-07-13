@@ -2,10 +2,12 @@
 iso: unr
 name: Mundari
 autonym: ମୁଣ୍ଡା
-alt_names: [Colh, Horo, Hɔrɔ-ɟagar, Mandari, Mandari language, Mondari, Munari, Munda, Mundari-Ho, Muṇḍārī, Muɳɖari]
+alt_names: [Colh, Horo, Hɔrɔ-ɟagar, Mandari, Mandari language, Mondari, Munari, Munda, Mundari-Ho, Muṇḍārī, Muɳɖari, Bhumij, Bhumij Munda, Bhumij Thar, Bhumji, Hasada, Kera, Kolh, Latar, Naguri, Sadar Bhumij, Santhai, Santhali, Satar]
 population: 1170280
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Munda language spoken in eastern India
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: leb
 name: "Lala-Bisa"
 autonym: "Biza-Lala"
+alt_names: [Ambo, Bambo, Biisa, Bisa, Chilala, Ichibisa, Ichilala, Kambonsenga, Lala, Luano, Swaka, Wisa, Wiza, Wulima]
 population: 353000
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Zambia and DRC
 status_id: "5"
 scope: individual
 language_type: living

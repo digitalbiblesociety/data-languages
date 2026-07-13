@@ -2,10 +2,12 @@
 iso: hix
 name: Hixkaryána
 autonym: null
-alt_names: [An Hixkaryana, Chawiyana, Faruaru, Hichkaryana, Hichkaryaneg, Hishcariana, Hishkariana, Hishkaryana, Hixkariana, Hixkaryana, Hixkaryana language, Kumiyana, Parucutu, Parukoto-Charuma, Sherewyana, Sokaka, Wabui, Waiboi, Xereu, Xerewyana]
+alt_names: [An Hixkaryana, Chawiyana, Faruaru, Hichkaryana, Hichkaryaneg, Hishcariana, Hishkariana, Hishkaryana, Hixkariana, Hixkaryana, Hixkaryana language, Kumiyana, Parucutu, Parukoto-Charuma, Sherewyana, Sokaka, Wabui, Waiboi, Xereu, Xerewyana, Hyxkaryana]
 population: 1200
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Carib language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living

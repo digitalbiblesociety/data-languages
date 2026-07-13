@@ -6,11 +6,13 @@ alt_names: [Chuvants]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Yukaghir language of Siberia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 65.17
 longitude: 167.96
+language_map_img: Yukaghir_map.svg
 glottocode: chuv1256
 glottolog_family_id: yuka1259
 glottolog_family_name: Yukaghir

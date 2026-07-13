@@ -2,10 +2,12 @@
 iso: rab
 name: Camling
 autonym: Rodong
-alt_names: [Camlingish, Chamling, Chamlinge Rai, Chamlingo, Chāmbling, Kiranti, Rai, Rōdōng]
+alt_names: [Camlingish, Chamling, Chamlinge Rai, Chamlingo, Chāmbling, Kiranti, Rai, Rōdōng, Balamtali, Halesi, Ratanchhali]
 population: 12100
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: "Language in Nepal, Bhutan and India"
 status_id: 6b
 scope: individual
 language_type: living

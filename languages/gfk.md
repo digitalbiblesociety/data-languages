@@ -2,10 +2,12 @@
 iso: gfk
 name: Patpatar
 autonym: Gelik
-alt_names: [Pala, Pala (Papua NG), Patpari]
+alt_names: [Pala, Pala (Papua NG), Patpari, Central Patpatar, Hinsaal, Sokarek, Sokirik]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living

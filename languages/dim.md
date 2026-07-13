@@ -2,10 +2,12 @@
 iso: dim
 name: Dime
 autonym: Dima
-alt_names: [Dimme, Dimé]
+alt_names: [Dimme, Dimé, Dim-af, Dim-ap]
 population: 4785
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Endangered Omotic language of Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Grassfields language of Nigeria
 status_id: "10"
 scope: individual
 language_type: extinct

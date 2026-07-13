@@ -6,6 +6,7 @@ alt_names: [Polindara, Totoró]
 population: 4130
 country_id: CO
 country_name: Colombia
+area: Barbacoan language spoken in Colombia
 status_id: "9"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ajz
 name: Amri Karbi
 autonym: Amri Karbi
-alt_names: [Amri, AmriKarbi, "Karbi, Amri"]
+alt_names: [Amri, AmriKarbi, "Karbi, Amri", Lower Amri, Upper Amri]
 population: 125000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

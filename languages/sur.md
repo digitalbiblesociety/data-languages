@@ -2,10 +2,12 @@
 iso: sur
 name: Mwaghavul
 autonym: Sura
-alt_names: [Cakfem-Mushere, Chakfem, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Maghavul, Mupun]
+alt_names: [Cakfem-Mushere, Chakfem, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Maghavul, Mupun, Mapan, Mapun, Panyam]
 population: 150000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Afro-Asiatic language
 status_id: "3"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Mocheno, Mòcheno]
 population: 1000
 country_id: IT
 country_name: Italy
+area: Upper German variety of Italy
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 46.49164
 longitude: 10.8087
+language_map_img: 500px-Language_distribution_Trentino_2011.webp
 scripts: [Latn]
 glottocode: moch1255
 glottolog_family_id: indo1319

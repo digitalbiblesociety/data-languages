@@ -2,9 +2,12 @@
 iso: aou
 name: "A'ou"
 autonym: Kláo
+alt_names: ["|Auo"]
 population: 50
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra language
 status_id: 8b
 scope: individual
 language_type: living

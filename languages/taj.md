@@ -2,10 +2,12 @@
 iso: taj
 name: Eastern Tamang
 autonym: तामाङ
-alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ]
+alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ, Eastern, Central-Eastern Tamang, Ishang, Kath-Bhotiya, Lama Bhote, Outer-Eastern Tamang, Rongba, Sailung Tamang, Sain, Sei, Southwestern Tamang, Tamang Gyoi, Tamang Gyot, Tamang Lengmo, Tamang Tam, Temal Tamang]
 population: 1180000
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Tibeto-Burman language
 status_id: "4"
 scope: individual
 language_type: living

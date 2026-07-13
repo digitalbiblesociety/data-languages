@@ -3,10 +3,12 @@ iso: lkb
 macrolanguage_id: luy
 name: Kabras
 autonym: Luyia
-alt_names: [Lukabaras]
+alt_names: [Lukabaras, Kabarasi]
 population: null
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "4"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卡布拉斯语
     auto: true
 ---
+Luhya is a Bantu language of western Kenya.

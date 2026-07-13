@@ -2,10 +2,12 @@
 iso: mql
 name: Mbelime
 autonym: "M'Bermè"
-alt_names: ["\"Niende\"", "\"Niendi\"", Mbilme, Nyende]
+alt_names: ["\"Niende\"", "\"Niendi\"", Mbilme, Nyende, “Niende”, “Niendi”, Bebelibe, Bèbèdibè, Oubièlo, Ubielo]
 population: 24500
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Eastern Oti-Volta Gur language of Benin
 status_id: "5"
 scope: individual
 language_type: living

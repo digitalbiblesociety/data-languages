@@ -7,11 +7,14 @@ alt_names: [Abinawa, Amazigh, Buzu, Tahoua, Tahoua Tamajeq, Tajag, Tamachek, Tam
 population: 870000
 country_id: NE
 country_name: Niger
+location: "Mali, Map 1"
+area: Tuareg Berber language of Mali and Niger
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 13.98783
 longitude: 4.47692
+language_map_img: Tawellemmet.svg
 glottocode: tawa1286
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

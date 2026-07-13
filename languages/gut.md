@@ -6,6 +6,8 @@ alt_names: [Guatuso, Guetar, Güetar, Maleku, Maleku Jaika, Maléku language, Wa
 population: 1074
 country_id: CR
 country_name: Costa Rica
+location: Costa Rica
+area: Chibchan language spoken in Costa Rica
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: snk
 name: Soninke
 autonym: Sooninkanxanne
-alt_names: [Aswanik, Diawara, Gadyaga, Maraka, Marka, Sarahole, Sarahuli, Sarakole, Sarakule, Sarawule, Serahuli, Silabe, Soninkeg, Soninké, Toubakai, Wakore, Walpre, Сонинке]
+alt_names: [Aswanik, Diawara, Gadyaga, Maraka, Marka, Sarahole, Sarahuli, Sarakole, Sarakule, Sarawule, Serahuli, Silabe, Soninkeg, Soninké, Toubakai, Wakore, Walpre, Сонинке, Aswanek, Serahule, Adjer, Aser, Azer, Ceddo, Cheddo, Gangara, Genger, Geriga, Giriga, Kinbakka, Kinxenna, Kwara, Markaajo, Markakan, Sarakolle, Sarakulle, Sarangkole, Sarangkolle, Saraxuli, Sebbe, Serecole, Soninkanxanne, Sooninke, Wakkore, Wankara]
 population: 2189250
 country_id: ML
 country_name: Mali
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "4"
 scope: individual
 language_type: living

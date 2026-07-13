@@ -2,10 +2,12 @@
 iso: dbj
 name: "Ida'an"
 autonym: Begak
-alt_names: ["Begak-Ida'an", Begak-Idaan, Bulud Upi, Eraans, Idaan, Idahan, Idan, Idayan, Ida’an]
+alt_names: ["Begak-Ida'an", Begak-Idaan, Bulud Upi, Eraans, Idaan, Idahan, Idan, Idayan, Ida’an, Chatino Nopala]
 population: 1500
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6a
 scope: individual
 language_type: living

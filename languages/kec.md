@@ -6,6 +6,8 @@ alt_names: [Demik, Keiga-Al-Kheil, Keiga-Timero, Yega]
 population: 6070
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: "Kadu language of Kordofan, Sudan"
 status_id: "7"
 scope: individual
 language_type: living

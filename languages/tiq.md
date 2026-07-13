@@ -6,6 +6,8 @@ alt_names: [Foro, Kiefo, Tiefo, Tyefo, Tyeforo]
 population: 1000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: 8a
 scope: individual
 language_type: living

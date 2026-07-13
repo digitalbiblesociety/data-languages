@@ -2,15 +2,18 @@
 iso: jup
 name: Hupdë
 autonym: Hupdë
-alt_names: [Hubde, Hup, Hup language, Hupd, Hupda, Hupde, Hupdá Makú, Hupdé macú (Colombia), Jupda, Jupdá Macú, Macú, Macú de Tucano, Makú, Makú-Hupdá, Ubde-Nehern, Ubdé]
+alt_names: [Hubde, Hup, Hup language, Hupd, Hupda, Hupde, Hupdá Makú, Hupdé macú (Colombia), Jupda, Jupdá Macú, Macú, Macú de Tucano, Makú, Makú-Hupdá, Ubde-Nehern, Ubdé, “Hupdá Makú”, “Jupdá Macú”, “Macú de Tucano”, “Makú-Hupdá”, Jupde]
 population: 1210
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Naduhup language of Colombia and Brazil
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.58622
 longitude: -69.835915
+language_map_img: Lingua_hup.webp
 glottocode: hupd1244
 glottolog_family_id: nada1235
 glottolog_family_name: Naduhup

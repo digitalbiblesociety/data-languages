@@ -6,6 +6,8 @@ alt_names: [Budijarra, Gardujarra, Giyajarra, Jigalong, Jindi, Julbaritja, Kabul
 population: 1080
 country_id: AU
 country_name: Australia
+location: Australia
+area: Variety of the Western Desert language
 status_id: "5"
 scope: individual
 language_type: living

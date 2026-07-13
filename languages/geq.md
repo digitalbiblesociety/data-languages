@@ -6,6 +6,8 @@ alt_names: [Gemé, Jeme, Ngba Geme]
 population: 550
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Zande language of the CAR
 status_id: 6b
 scope: individual
 language_type: living

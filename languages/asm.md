@@ -3,15 +3,18 @@ iso: asm
 iso639_1: as
 name: Assamese
 autonym: অসমীয়া
-alt_names: [Asam simi, Asambe, Asameg, Asami, Asamiya, Asamés, Assamais, Assamees, Assameg, Assamesisk, Assamesiska, Assameíska, Assami, Assamès, Fiteny assamey, אסאמית, असमिया, অসমীয়া ঠার, ಅಸ್ಸಾಮಿ, ആസ്സാമീസ്]
+alt_names: [Asam simi, Asambe, Asameg, Asami, Asamiya, Asamés, Assamais, Assamees, Assameg, Assamesisk, Assamesiska, Assameíska, Assami, Assamès, Fiteny assamey, אסאמית, असमिया, অসমীয়া ঠার, ಅಸ್ಸಾಮಿ, ആസ്സാമീസ്, Jharwa, Kamrupi, Mayang, Pidgin, Standard Assamese, Western Assamese, Ôxômiya]
 population: 14800000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language of India
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 26.08763
 longitude: 91.293155
+language_map_img: asm.webp
 scripts: [Beng]
 glottocode: assa1263
 glottolog_family_id: indo1319

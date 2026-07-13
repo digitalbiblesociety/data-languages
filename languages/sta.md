@@ -6,6 +6,7 @@ alt_names: [Kisetla, Kisettla]
 population: null
 country_id: ZM
 country_name: Zambia
+area: Swahili pidgin from Kenya and Zambia
 status_id: "3"
 scope: individual
 language_type: living

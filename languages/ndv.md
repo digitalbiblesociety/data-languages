@@ -5,6 +5,8 @@ autonym: Ndoute
 population: 52000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Cangin language of Senegal
 status_id: "5"
 scope: individual
 language_type: living

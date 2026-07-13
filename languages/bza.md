@@ -2,10 +2,12 @@
 iso: bza
 name: Bandi
 autonym: Bande
-alt_names: [Gbande, Gbandi, Gbunde, Mende-Bandi]
+alt_names: [Gbande, Gbandi, Gbunde, Mende-Bandi, Hasala, Hembeh, Lukasa, Tahamba, Wawana, Wulukoha]
 population: 161000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Mande language of Guinea and Liberia
 status_id: "4"
 scope: individual
 language_type: living

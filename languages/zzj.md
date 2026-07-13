@@ -7,11 +7,14 @@ alt_names: [Ken Tho, Longyin, Longzhou, Nung Chao, Pho Thai, Pu Tho, Southern Zh
 population: 1840000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Various Tai languages used by the Zhuang people of southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.83753
 longitude: 107.3622
+language_map_img: 500px-Zhuang-dialects-map.webp
 glottocode: zuoj1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

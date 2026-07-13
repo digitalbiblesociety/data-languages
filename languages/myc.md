@@ -10,6 +10,7 @@ scope: individual
 language_type: living
 latitude: -1.10038
 longitude: 17.82247
+glottocode: maye1238
 wikidata_id: Q11129517
 translations:
   - translation_iso: ara
@@ -48,3 +49,4 @@ translations:
     name: 玛耶卡语
     auto: true
 ---
+Ngbinda is a poorly documented Congolese Bantu language of uncertain affiliation. Prior to 1975 it had also been spoken in southern Sudan.

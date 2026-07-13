@@ -7,11 +7,14 @@ alt_names: ["Quechua, Santa Ana de Tusi Pasco"]
 population: 10000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechuan dialect cluster of west-central Peru
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -10.33016
 longitude: -76.27527
+glottocode: sant1433
 wikidata_id: Q12953831
 translations:
   - translation_iso: ara
@@ -50,3 +53,4 @@ translations:
     name: 圣塔纳德图西帕斯科克丘亚语
     auto: true
 ---
+Yaru Quechua is a dialect cluster of Quechua, spoken in the Peruvian provinces of Pasco and Daniel Alcides Carrión and neighboring areas in northern Junín and Lima department.

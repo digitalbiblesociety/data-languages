@@ -6,6 +6,7 @@ alt_names: [Sudan]
 population: null
 country_id: SD
 country_name: Sudan
+area: Extinct Niger–Congo language of Sudan
 status_id: 8b
 scope: individual
 language_type: extinct

@@ -3,15 +3,18 @@ iso: pol
 iso639_1: pl
 name: Polish
 autonym: polski
-alt_names: [An Pholainnis, Fiteny poloney, IsiPholisi, Kipoland, Leh tili, Lehçe, Lia-polaku, Lingwa Pollakka, Poalsk, Polacu, Polisc sprǣc, Polnesch, Polnisch, Polonais, Poloneg, Polonek, Poloniana linguo, Poloniera, Polonès, Polonés, Pols, Polsk, Polska, Polskkagiella, Polsko godka, Polynnish, Pools, Poolsch, Poôls, Pulaku simi, Pwyleg, Pòlais, Pòlsczi jãzëk, Pólska, Pô-làn-ngî, Pɔlisigbe, Tok Polan, Łéngua połaca, По́л҄ьскъ ѩꙁꙑ́къ, Полень кяль, Поляк теле, Полӓк йылме, Լեհերեն, פויליש, פולנית, بولاندى, پولەك تىلى, ܠܫܢܐ ܦܘܠܢܕܝܐ, ލަހިސްތާނީ, ཕོ་ལན་སྐད།]
+alt_names: [An Pholainnis, Fiteny poloney, IsiPholisi, Kipoland, Leh tili, Lehçe, Lia-polaku, Lingwa Pollakka, Poalsk, Polacu, Polisc sprǣc, Polnesch, Polnisch, Polonais, Poloneg, Polonek, Poloniana linguo, Poloniera, Polonès, Polonés, Pols, Polsk, Polska, Polskkagiella, Polsko godka, Polynnish, Pools, Poolsch, Poôls, Pulaku simi, Pwyleg, Pòlais, Pòlsczi jãzëk, Pólska, Pô-làn-ngî, Pɔlisigbe, Tok Polan, Łéngua połaca, По́л҄ьскъ ѩꙁꙑ́къ, Полень кяль, Поляк теле, Полӓк йылме, Լեհերեն, פויליש, פולנית, بولاندى, پولەك تىلى, ܠܫܢܐ ܦܘܠܢܕܝܐ, ލަހިސްތާނީ, ཕོ་ལན་སྐད།, Lengyel, Lenku, Masurian, Mazurian, Mazurski, Polština, Upper Silesian]
 population: 39700000
 country_id: PL
 country_name: Poland
+location: Ukraine
+area: West Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 51.843923
 longitude: 18.625487
+language_map_img: Polish_language_map.webp
 scripts: [Latn]
 glottocode: poli1260
 glottolog_family_id: indo1319

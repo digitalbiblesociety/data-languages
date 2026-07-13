@@ -2,10 +2,12 @@
 iso: csv
 name: Sumtu Chin
 autonym: Ahmyo
-alt_names: ["Chin, Sumtu"]
+alt_names: ["Chin, Sumtu", Chang, Cumtu, Hmyo, Settu, Settu Hmyo, Sungtu]
 population: 14000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

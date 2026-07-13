@@ -2,10 +2,12 @@
 iso: med
 name: Melpa
 autonym: null
-alt_names: [Hagen, Medlpa]
+alt_names: [Hagen, Medlpa, Tembagla, Temboka]
 population: 100000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

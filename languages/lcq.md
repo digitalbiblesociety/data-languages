@@ -6,6 +6,7 @@ alt_names: [Indonesia]
 population: 6500
 country_id: ID
 country_name: Indonesia
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: null
 scope: individual
 language_type: living

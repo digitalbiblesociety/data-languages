@@ -2,10 +2,12 @@
 iso: yrn
 name: Yerong
 autonym: "Boux-yaeŋz"
-alt_names: [Daban Yao, Yerón, 六瑤, 土瑤, 央瓊, 耶容布央, 鐵瑤, 雅郎布央]
+alt_names: [Daban Yao, Yerón, 六瑤, 土瑤, 央瓊, 耶容布央, 鐵瑤, 雅郎布央, Ban Yao, Da Ia, Eastern Buyang, Guangxi Buyang, Ia Hrong, Iron Yao, Khyung Buyang, Liu Yao, Napo Buyang, Six Yao, Tie Yao, Tu Yao Indigenous Yao, Yalang, Yang Khyung, Yerong Buyang]
 population: 380
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra-Dai language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
   - translation_iso: zho
     name: 雅郎布央语
 ---
+Buyang is a Kra language spoken in Guangnan and Funing counties, Yunnan Province, China by the Buyang people. It is important to the reconstruction of the hypothetical macrofamily Austro-Tai as it retains the disyllabic roots characteristic of Austronesian languages. Examples are "to die", "eye", "head", and "eight".

@@ -6,6 +6,8 @@ alt_names: [Chillula, Mita, Pekwan, Rikwa, Sugon, Weitspek, Weitspekan, Yurok-sp
 population: null
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Moribund Algic language of California
 status_id: 8b
 scope: individual
 language_type: extinct

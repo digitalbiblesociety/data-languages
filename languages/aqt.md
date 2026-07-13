@@ -6,6 +6,7 @@ alt_names: [Angaite, Enlit, Nempayvvoma]
 population: null
 country_id: PY
 country_name: Paraguay
+area: Mascoian language spoken in Paraguay
 status_id: null
 scope: individual
 language_type: living

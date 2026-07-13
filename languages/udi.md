@@ -2,15 +2,18 @@
 iso: udi
 name: Udi
 autonym: удин муз
-alt_names: [Oudi, Oudieg, Udin, Udinsk, Uti, udin muz]
+alt_names: [Oudi, Oudieg, Udin, Udinsk, Uti, udin muz, Nic, Nidzh, Nij, Nizh, Oghuz, Oktomberi, Vartashen]
 population: 4200
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Northeast Caucasian language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 40.9
 longitude: 47.7236
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: udii1243
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

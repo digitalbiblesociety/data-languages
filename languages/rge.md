@@ -6,6 +6,7 @@ alt_names: [European Romany, Portuguese Calão, Romika]
 population: null
 country_id: GR
 country_name: Greece
+area: Mixed language of Romani people in Greece
 status_id: 8b
 scope: individual
 language_type: living

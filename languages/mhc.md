@@ -2,10 +2,12 @@
 iso: mhc
 name: Mocho
 autonym: Motozintleco
-alt_names: [Cotoque, "Mocho'", Mochó, Motocintlec, Motocintlèque, Motozintlec, Tuzantec]
+alt_names: [Cotoque, "Mocho'", Mochó, Motocintlec, Motocintlèque, Motozintlec, Tuzantec, Motocintleco]
 population: 170
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Endangered Mayan language of Chiapas, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

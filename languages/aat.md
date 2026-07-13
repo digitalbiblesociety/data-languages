@@ -7,6 +7,8 @@ alt_names: [Albanesisch, Albanian, "Albanian, Arvanitika", Arber, Arberichte, Ar
 population: 150000
 country_id: GR
 country_name: Greece
+location: Greece and The Former Yugoslav Republic of Macedonia
+area: "Variety of Albanian traditionally spoken by the Arvanites, a population group in Greece"
 status_id: "7"
 scope: individual
 language_type: living

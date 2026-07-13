@@ -6,6 +6,8 @@ alt_names: [Eastern Teke, Ibali, Kiteke, Teke, "Teke, Ibali", Teke-Ibali]
 population: 202300
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Teke dialect spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living

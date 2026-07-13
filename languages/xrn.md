@@ -6,11 +6,13 @@ alt_names: [Arine, Arineg, Arinsk, Arintzi]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Yeniseian language of Russia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 57
 longitude: 93
+language_map_img: Yeniseian_languages_map.svg
 glottocode: arin1243
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian

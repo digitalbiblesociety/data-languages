@@ -5,6 +5,8 @@ autonym: Jhandoria
 population: 5000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Indic language of Pakistan and India
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Creole French, Karipúna", Crioulo, Karipuna Creole French, "Karipu
 population: 1710
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Creole language of Brazil
 status_id: 6b
 scope: individual
 language_type: living

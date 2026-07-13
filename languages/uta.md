@@ -2,10 +2,12 @@
 iso: uta
 name: Otank
 autonym: Itang
-alt_names: [Otang, Otanga, Utanga, Utange, Utank]
+alt_names: [Otang, Otanga, Utanga, Utange, Utank, Itank]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Tivoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Jug, Jugh, Youge, Yougeg, Yugh, Yugh language, Yughisk]
 population: 134
 country_id: RU
 country_name: Russia
+area: Extinct Yeniseian language of Russia
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 60.87784
 longitude: 89.74791
+language_map_img: Yeniseian_languages_map.svg
 glottocode: yugh1239
 glottolog_family_id: yeni1252
 glottolog_family_name: Yeniseian

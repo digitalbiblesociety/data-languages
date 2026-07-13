@@ -6,6 +6,7 @@ alt_names: [Tora]
 population: 2018
 country_id: BR
 country_name: Brazil
+area: Chapacuran language spoken in Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

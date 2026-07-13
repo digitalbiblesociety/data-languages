@@ -6,11 +6,14 @@ alt_names: [Bounouneg, Bunan, Bunti, Bunum, Bunún, Vonun, Vunum, Vunun, Vunung]
 population: 38000
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Formosan language of Taiwan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.41164
 longitude: 121.02534
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: bunu1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

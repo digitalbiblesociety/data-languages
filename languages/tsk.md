@@ -2,10 +2,11 @@
 iso: tsk
 name: Tseku
 autonym: Tsuku
-alt_names: [sDerong-nJol Tibetan]
+alt_names: [sDerong-nJol Tibetan, Tzuku]
 population: 12600
 country_id: CN
 country_name: China
+area: Tibetic language of Tibet
 status_id: 6a
 scope: individual
 language_type: living

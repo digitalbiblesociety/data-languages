@@ -2,10 +2,12 @@
 iso: kuy
 name: "Kuuku-Ya'u"
 autonym: Northeastern Paman
-alt_names: [Bagadji, Gugu Yau, Guugu YauBagadji, Jao, Kao Kokoyao, Koka yao, Koka-yao, "Koko Ya':o", "Koko Ya:o", Koko Yao, "Koko-Ja'o", KokoYao, Kuku Yao, Kuku Yau, "Kuku-Ya'u", Kuuk Yak, "Kuuku Ya'u", Kuuku Yau, Makadama, Pakadji, "Ya'o", Yao]
+alt_names: [Bagadji, Gugu Yau, Guugu YauBagadji, Jao, Kao Kokoyao, Koka yao, Koka-yao, "Koko Ya':o", "Koko Ya:o", Koko Yao, "Koko-Ja'o", KokoYao, Kuku Yao, Kuku Yau, "Kuku-Ya'u", Kuuk Yak, "Kuuku Ya'u", Kuuku Yau, Makadama, Pakadji, "Ya'o", Yao, Koko-Ja’o, Ya’o]
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 库库-亚乌语
     auto: true
 ---
+Umpila, also known as Ompeila, Ompela, Oom-billa, or Koko-umpilo, is an Aboriginal Australian language, or dialect cluster, of the Cape York Peninsula in northern Queensland. It is spoken by about 100 Aboriginal people, many of them elderly.

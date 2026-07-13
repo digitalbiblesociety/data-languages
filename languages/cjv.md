@@ -2,10 +2,11 @@
 iso: cjv
 name: Chuave
 autonym: null
-alt_names: [Tjuave]
+alt_names: [Tjuave, Elimbari, Gomia, Kebai, Sua]
 population: 25980
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
 status_id: "5"
 scope: individual
 language_type: living

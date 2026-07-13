@@ -2,10 +2,12 @@
 iso: aty
 name: Aneityum
 autonym: Aneiteum
-alt_names: [Aneiteumese, Anejom, Anejom̃, Aneytum, Annatom]
+alt_names: [Aneiteumese, Anejom, Anejom̃, Aneytum, Annatom, Antas Anejom̃, Intas Anejom]
 population: 900
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

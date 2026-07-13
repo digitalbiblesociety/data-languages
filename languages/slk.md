@@ -3,15 +3,17 @@ iso: slk
 iso639_1: sk
 name: Slovak
 autonym: Slovakian
-alt_names: [An tSlóvaicis, Eslovac, Eslovaco oriental, Eslovacu, Eslovakiera, Isluwakya simi, Kislovakia, Slobhacais, Slovackish, Slovaco, Slovakeg, Slovakek, Slovakiana linguo, Slovakimiusut, Slovakisk, Slovakiska, Slovakki, Slovakça, Slovaque, Slovaque oriental, Slovákiagiella, Slowaaks, Slowaaksk, Slowaoks, Slóvakíska, Słowacczi jãzëk, Słowacko godka, Słowakska rěc, Tok Slovakia, Tschechisch-Slovakisch, Забони словакӣ, Карпа́тьскословѣ́ньскъ ѩꙁꙑ́къ, Словак йылме, Սլովակերեն, סלאוואקיש, סלובקית, سلوۋاك تىلى]
+alt_names: [An tSlóvaicis, Eslovac, Eslovaco oriental, Eslovacu, Eslovakiera, Isluwakya simi, Kislovakia, Slobhacais, Slovackish, Slovaco, Slovakeg, Slovakek, Slovakiana linguo, Slovakimiusut, Slovakisk, Slovakiska, Slovakki, Slovakça, Slovaque, Slovaque oriental, Slovákiagiella, Slowaaks, Slowaaksk, Slowaoks, Slóvakíska, Słowacczi jãzëk, Słowacko godka, Słowakska rěc, Tok Slovakia, Tschechisch-Slovakisch, Забони словакӣ, Карпа́тьскословѣ́ньскъ ѩꙁꙑ́къ, Словак йылме, Սլովակերեն, סלאוואקיש, סלובקית, سلوۋاك تىلى, slovenčina, Slovenský Jazyk]
 population: 5193800
 country_id: SK
 country_name: Slovakia
+area: West Slavic language spoken primarily in Slovakia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 48.545705
 longitude: 18.78479
+language_map_img: Idioma_eslovaco.webp
 scripts: [Latn]
 glottocode: slov1269
 glottolog_family_id: indo1319

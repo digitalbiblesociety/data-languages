@@ -2,10 +2,12 @@
 iso: cyo
 name: Cuyonon
 autonym: Cuyo
-alt_names: [Bisaya, Cuyono, Cuyunon, Kuyonon, Kuyunon, Куйонон]
+alt_names: [Bisaya, Cuyono, Cuyunon, Kuyonon, Kuyunon, Куйонон, Visayan]
 population: 278000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

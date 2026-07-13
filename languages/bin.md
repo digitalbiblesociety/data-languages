@@ -6,11 +6,14 @@ alt_names: [Addo, Benin, "Bini, Edo", Edo, Edo language, Edoeg, Oviedo, Ovioba, 
 population: 1931670
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language spoken in Nigeria
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 6.40701
 longitude: 5.70426
+language_map_img: Edo_language.svg
 scripts: [Latn]
 glottocode: bini1246
 glottolog_family_id: atla1278

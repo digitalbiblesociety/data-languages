@@ -6,6 +6,8 @@ alt_names: [Jo Thuri, Shatt, Wada Thuri]
 population: 6600
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Luo language of South Sudan
 status_id: "7"
 scope: individual
 language_type: living

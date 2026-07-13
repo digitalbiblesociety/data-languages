@@ -2,10 +2,12 @@
 iso: mjr
 name: Malavedan
 autonym: Malai Vedan
-alt_names: [Malavetan, Towetan, Vedans]
+alt_names: [Malavetan, Towetan, Vedans, Veda Bhasha, Vettava Bhasha]
 population: 6186
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of Kerala and Tamil Nadu
 status_id: 6b
 scope: individual
 language_type: living

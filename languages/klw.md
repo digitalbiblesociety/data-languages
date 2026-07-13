@@ -2,10 +2,12 @@
 iso: klw
 name: Tado
 autonym: Tado
-alt_names: [Lindu]
+alt_names: [Lindu, Lindoe, Linduan]
 population: 3640
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

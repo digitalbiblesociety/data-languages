@@ -6,11 +6,13 @@ alt_names: [Acatameño, Atacama, Atacamenan, Atakama, Cunza, Kunsa, Likanantaí,
 population: null
 country_id: CL
 country_name: Chile
+area: Extinct language of Chile and Peru
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -23
 longitude: -69
+language_map_img: Kunza_language_map.svg
 glottocode: kunz1244
 wikidata_id: Q2669181
 wikipedia_url: "https://en.wikipedia.org/wiki/Kunza_language"

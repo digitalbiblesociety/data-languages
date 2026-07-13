@@ -2,10 +2,12 @@
 iso: ndc
 name: Ndau
 autonym: Chindau
-alt_names: [Ndzawu, Njao, Sofala, Southeast Shona]
+alt_names: [Ndzawu, Njao, Sofala, Southeast Shona, Abatonga, Atonga, Batoka, Batonga, Changa, Chibabava, Chichanga, Chisenji, Chixanga, Cidanda, Cidondo, Cigova, Cimashanga, Cindanda, Cindau, Danda, Dondo, Garwe, Gova, Mashanga, Ndanda, Senji, Shanga, Tonga, Vadanda, Wadondo, Watande, Watonga, Xanga]
 population: 1530000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Shona dialect of central Mozambique and Zimbabwe
 status_id: "5"
 scope: individual
 language_type: living

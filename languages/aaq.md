@@ -6,6 +6,7 @@ alt_names: [Abenaki, Abenakí oriental, Abnaki, "Abnaki, Eastern", Abénaqui ori
 population: null
 country_id: US
 country_name: United States
+area: Algonquian language
 status_id: "9"
 scope: individual
 language_type: extinct

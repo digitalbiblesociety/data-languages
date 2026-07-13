@@ -6,6 +6,8 @@ alt_names: [Dausame, Dausuami, Ta, Tao-Suamato, Tao-Suame]
 population: 1730
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Minanibai language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

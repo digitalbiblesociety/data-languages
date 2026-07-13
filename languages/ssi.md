@@ -2,10 +2,12 @@
 iso: ssi
 name: Sansi
 autonym: Sansiboli
-alt_names: [Bhilki]
+alt_names: [Bhilki, Sochi]
 population: 80000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Endangered Indo-Aryan language of India
 status_id: "7"
 scope: individual
 language_type: living

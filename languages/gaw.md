@@ -2,10 +2,12 @@
 iso: gaw
 name: Nobonob
 autonym: Garuh
-alt_names: [Butelkud-Guntabak, Nobanob, Nobnob, Nupanob]
+alt_names: [Butelkud-Guntabak, Nobanob, Nobnob, Nupanob, A, Ari, Ati]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Mabuso language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Lolo, Yi, "Yi, Azhe"]
 population: 54000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language of China
 status_id: 6a
 scope: individual
 language_type: living

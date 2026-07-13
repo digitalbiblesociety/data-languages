@@ -2,15 +2,18 @@
 iso: ban
 name: Balinese
 autonym: ᬪᬵᬱᬩᬮᬶ
-alt_names: [Bali, Balinais, Balinees, Balinesisch, Balinesisk, Balinesiska, Balinès, Madura-Bali, बहासा बाली]
+alt_names: [Bali, Balinais, Balinees, Balinesisch, Balinesisk, Balinesiska, Balinès, Madura-Bali, बहासा बाली, Badung, Bali Aga, Basa Bali, Buleleng, Gianyar, Highland Bali, Jembrana, Karangasem, Klungkung, Lowland Bali, Nusa Penida, Tabanan]
 population: 3950000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -8.35714
 longitude: 115.07496
+language_map_img: Balinese_language_distribution.svg
 scripts: [Bali, Latn]
 glottocode: bali1278
 glottolog_family_id: aust1307

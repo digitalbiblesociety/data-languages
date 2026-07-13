@@ -2,10 +2,12 @@
 iso: tbt
 name: Kitembo Tembo
 autonym: Kitembo
-alt_names: [Chitembo, Nyabungu, Tembo]
+alt_names: [Chitembo, Nyabungu, Tembo, Rhinyihinyi]
 population: 150000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living

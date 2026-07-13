@@ -2,10 +2,12 @@
 iso: box
 name: Buamu
 autonym: Eastern Bobo Wule
-alt_names: [Bomu, Bouamou, Bwamu, Eastern Bobo Oule, Red Bobo]
+alt_names: [Bomu, Bouamou, Bwamu, Eastern Bobo Oule, Red Bobo, Bobo, Bomo, Bwaba, Ouarkoye]
 population: 268000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living

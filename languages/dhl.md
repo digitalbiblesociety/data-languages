@@ -6,6 +6,8 @@ alt_names: [Dalaindji, Dalanchi, Dalangi, Dalanjdji, Dalendi, Djalandi, Djalandj
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language of the Pilbara region in Western Australia
 status_id: 8a
 scope: individual
 language_type: living

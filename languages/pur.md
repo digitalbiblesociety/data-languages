@@ -6,11 +6,14 @@ alt_names: [Boruborá, Burubora, Cujubi, Kuyubi, Miguelenho, Migueleno, Pumbora,
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -11.42258
 longitude: -62.43584
+language_map_img: pus.svg
 glottocode: puru1264
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian

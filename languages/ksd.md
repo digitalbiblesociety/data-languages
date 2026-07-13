@@ -2,10 +2,12 @@
 iso: ksd
 name: Kuanua
 autonym: Kuanua
-alt_names: [Blanche Bay, Gunantuna, Neu-Pommern, New Britain Language, Ober-Mengen, Tinata Tuna, Tolai, Tuna, Куануа]
+alt_names: [Blanche Bay, Gunantuna, Neu-Pommern, New Britain Language, Ober-Mengen, Tinata Tuna, Tolai, Tuna, Куануа, Kuanua or Tinata Tuna or Tolai, Kabakada, Kininanggunan, Kokopo, Livuan, Masawa, Matupit, Nodup, Rakunei, Raluana, Rapitok, Rebar, Vanumami, Vunadidir, Watom]
 population: 120000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Spoken by the Tolai people of Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living

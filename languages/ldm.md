@@ -6,6 +6,8 @@ alt_names: [Landouman, Landuma, Temne, Tiapi, Tyapi, Tyop, Tyopi]
 population: 14400
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mel language of western Guinea
 status_id: 6a
 scope: individual
 language_type: living

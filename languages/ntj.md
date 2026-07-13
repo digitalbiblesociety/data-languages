@@ -6,6 +6,8 @@ alt_names: [Engañacharra, "I:nabadanggural", Jabungadja, Jumudjara, Kalgonei, K
 population: 1110
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [La-Oang, Noang, Northern, Ra-Glai, Radlai, Rang Glai, Rayglay, Rogla
 population: 22000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 北方罗格莱语
     auto: true
 ---
+The Roglai language is a Chamic language of southern Vietnam, spoken by the Raglai people.

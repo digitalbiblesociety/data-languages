@@ -2,15 +2,18 @@
 iso: mag
 name: Magahi
 autonym: Magadhi
-alt_names: [Bihari, Magadeg, Magahî, Magaya, Maghai, Maghaya, Maghori, Magi, Magodhi, Megahi, Магахи, Маґадхі, मगही]
+alt_names: [Bihari, Magadeg, Magahî, Magaya, Maghai, Maghaya, Maghori, Magi, Magodhi, Megahi, Магахи, Маґадхі, मगही, Central Magahi, Khortha, Khotta, Northern Magahi, Southern Magahi]
 population: 20700000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Indo-Aryan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 25.09149
 longitude: 85.33354
+language_map_img: mag.webp
 scripts: [Deva]
 glottocode: maga1260
 glottolog_family_id: indo1319

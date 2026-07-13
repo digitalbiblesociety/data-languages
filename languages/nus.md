@@ -2,10 +2,12 @@
 iso: nus
 name: Nuer
 autonym: Thok Naath
-alt_names: [Naadh, Naath, Naath (Nuer), Nouereg, West-Nuer, Нуэр]
+alt_names: [Naadh, Naath, Naath (Nuer), Nouereg, West-Nuer, Нуэр, Abigar, Bul, Cien, Door, Dor, Eastern Jikany, Eastern Nuer, Gawaar, Jagai, Jekaing, Ji, Jikain, Jikany, Kany, Laak, Lau, Leik, Lou, Nuwer, Nyuong, Thiang, Thognaath, Thok Nath, Western Jikany]
 population: 1705160
 country_id: SS
 country_name: South Sudan
+location: "Djibouti, Eritrea and Ethiopia"
+area: Nilotic language spoken in western Ethiopia and South Sudan
 status_id: "4"
 scope: individual
 language_type: living

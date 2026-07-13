@@ -2,10 +2,12 @@
 iso: adz
 name: Adzera
 autonym: null
-alt_names: [Acira, Atsera, Atzera, Azera]
+alt_names: [Acira, Atsera, Atzera, Azera, Amari, Guruf-Ngariawang, Ngariawan, Ngarowapum, Tsumanggorun, Yarus]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

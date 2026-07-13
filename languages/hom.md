@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: SS
 country_name: South Sudan
+area: Extinct South Sudanese Bantu language
 status_id: "10"
 scope: individual
 language_type: extinct

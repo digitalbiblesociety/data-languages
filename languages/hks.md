@@ -6,6 +6,7 @@ alt_names: [Heung Kong Sau Yue]
 population: 20000
 country_id: HK
 country_name: Hong Kong
+area: Deaf sign language of Hong Kong and Macau
 status_id: 6a
 scope: individual
 language_type: living

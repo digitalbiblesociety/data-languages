@@ -2,10 +2,12 @@
 iso: dhg
 name: "Dhangu-Djangu"
 autonym: Djangu
-alt_names: [Dangu, Dhaangu, Dhangu, "Dhangu'mi", Dhaŋu, Gaalpu, Warameri, Waramiri, Yirgala, Yuulngu]
+alt_names: [Dangu, Dhaangu, Dhangu, "Dhangu'mi", Dhaŋu, Gaalpu, Warameri, Waramiri, Yirgala, Yuulngu, Budalpudal, Dhangu’mi, Burada, Buralbural, Buratha, Golumala, Kalbu, Ngaymil, Rirratjingu, Wangurri, War-ramirri, Warramiri, Warumeri, Yolngu-Matha]
 population: 230
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living

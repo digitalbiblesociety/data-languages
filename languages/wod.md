@@ -6,6 +6,8 @@ alt_names: [Woda-Mo, Wodani]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Central Papua
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Asmat, "Asmat, Yaosakor"]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of West New Guinea
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 亚奥萨科尔阿斯马特语
     auto: true
 ---
+Central Asmat is a Papuan language of West New Guinea, spoken by the Asmat people.

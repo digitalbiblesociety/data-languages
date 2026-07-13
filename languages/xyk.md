@@ -2,9 +2,11 @@
 iso: xyk
 name: "Mayi-Kulan"
 autonym: Maykulan
+alt_names: [Maidhagudi]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

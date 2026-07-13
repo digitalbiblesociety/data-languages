@@ -6,6 +6,8 @@ alt_names: [Central Aztec, Central Nawa, Mexicano, Nahua central, Nahuatl, Nahua
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Nahuan language of Mexico
 status_id: 6b
 scope: individual
 language_type: living

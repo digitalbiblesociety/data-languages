@@ -2,10 +2,12 @@
 iso: lag
 name: Langi
 autonym: Kilaangi
-alt_names: [Irangi, Kilangi, Kirangi, Rangi]
+alt_names: [Irangi, Kilangi, Kirangi, Rangi, Busi, Haubi, Kelangi, Kolo, Kondoa, Kɨlaangi, Mondo, Valaangi]
 population: 371000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living

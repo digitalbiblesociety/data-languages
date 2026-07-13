@@ -3,15 +3,18 @@ iso: qxo
 macrolanguage_id: que
 name: Southern Conchucos Ancash Quechua
 autonym: Huaylay
-alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Quechua, "Quechua, Southern Conchucos  Ancash", Southern Conchucos Quechua]
+alt_names: [Ancas, Ancash, Chinchaysuyo, Conchucos, Conchucos Quechua, Conchucu, North Central Kechua, Northern Quechua, "Quechua, Southern Conchucos  Ancash", Southern Conchucos Quechua, Quechua, Southern Conchucos Ancash, Quechua de Conchucos, Quechua del Callejón de Huaylas, Quechua del sur de Conchucos, Quechwa, Runa simi, South Conchucos Quechua, Southern Conchucos]
 population: 250000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -9.30995
 longitude: -76.98537
+language_map_img: AnqashQ.svg
 glottocode: sout2992
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 南孔丘斯安卡什克丘亚语
     auto: true
 ---
+Ancash Quechua, also Huaylay or Waylay in linguistic terminology, is a Quechua variety spoken in the Peruvian department of Ancash by approximately 1,000,000 people. Like Wanka Quechua, it belongs to Quechua I.

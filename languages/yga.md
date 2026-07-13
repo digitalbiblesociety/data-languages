@@ -5,9 +5,11 @@ autonym: Bulali
 population: null
 country_id: AU
 country_name: Australia
+area: Pama–Nyungan language spoken in Australia
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: 500px-Yardli_languages.webp
 wikidata_id: Q49929396
 translations:
   - translation_iso: ara
@@ -46,3 +48,4 @@ translations:
     name: 玛莱扬加帕语
     auto: true
 ---
+Yarli (Yardli) was a dialect cluster of Australian Aboriginal languages spoken in northwestern New South Wales and into Northeastern South Australia individually Malyangapa (Maljangapa), Yardliyawara, and Wadikali. Bowern (2002) notes Karenggapa as part of the area, but there is little data.

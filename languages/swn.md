@@ -6,6 +6,8 @@ alt_names: [Sawkna, Sokna, Сокна]
 population: 5600
 country_id: LY
 country_name: Libya
+location: Egypt and Libya
+area: Extinct Eastern Berber language of Libya
 status_id: 8b
 scope: individual
 language_type: living

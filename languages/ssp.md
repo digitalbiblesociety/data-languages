@@ -2,10 +2,11 @@
 iso: ssp
 name: Spanish Sign Language
 autonym: Lengua de Signos Española
-alt_names: [Mímica]
+alt_names: [Mímica, LSE, Lengua de Señas Española]
 population: 100000
 country_id: ES
 country_name: Spain
+area: Sign language used mainly by deaf people in Spain
 status_id: "5"
 scope: individual
 language_type: living

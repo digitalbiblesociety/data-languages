@@ -2,10 +2,12 @@
 iso: pha
 name: "Pa-Hng"
 autonym: Pateng
-alt_names: [Baheng, Bahengmai, Man Pa Seng, Meo Lai, Pa Hng, Pa Ngng, Pa Then, Pa-heng, Pa-wu, Paheng, Pà Hung, Pà Then, Tóng]
+alt_names: [Baheng, Bahengmai, Man Pa Seng, Meo Lai, Pa Hng, Pa Ngng, Pa Then, Pa-heng, Pa-wu, Paheng, Pà Hung, Pà Then, Tóng, Northern Pa-Hng, Southern Pa-Hng]
 population: 10000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmong–Mien language of China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living

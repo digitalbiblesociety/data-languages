@@ -2,10 +2,12 @@
 iso: kru
 name: Kurukh
 autonym: " Oraon"
-alt_names: [Kurux]
+alt_names: [Kurux, Birhor, Kadukali, Kisan, Koda, Kola, Kora, Kuda, Kunha, Kunhar, Kunna, Kunrukh, Kunuk, Kurka, Morva, Urang, Uraon, Oraoan]
 population: 2083700
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Dravidian language of eastern India
 status_id: "5"
 scope: individual
 language_type: living

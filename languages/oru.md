@@ -6,6 +6,8 @@ alt_names: [Baraki, Baraks, Burki, Logari dialect, Oormuri, Ormari, Ormui, Ormur
 population: 1000
 country_id: PK
 country_name: Pakistan
+location: Afghanistan
+area: Iranian language spoken in Central Asia
 status_id: 6a
 scope: individual
 language_type: living

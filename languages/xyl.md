@@ -6,6 +6,7 @@ alt_names: [Kithāulhú, Mamaindê, Mamande, Nakarothe, Negarotê, Northern Namb
 population: null
 country_id: BR
 country_name: Brazil
+area: Nambikwaran language spoken in Brazil
 status_id: null
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 亚拉卡洛雷语
     auto: true
 ---
+Mamaindê, also known as Northern Nambikwara, is a Nambikwaran language spoken in the Mato Grosso state of Brazil, in the very north of the indigenous reserve, Terra Indígena Vale do Guaporé, between the Pardo and Cabixi Rivers. In the southern part of the reserve, speakers of Sabanê and Southern Nambikwara are found.

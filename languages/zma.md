@@ -2,10 +2,12 @@
 iso: zma
 name: Manda
 autonym: Maranunggu
-alt_names: [Daktjerat, Manda, Manhthe, Manthi Yangal, Mendajangal, Menhthe, Menthajangal, Menthe, Menthe Yangal, Murinwargad, Murrinh Menthe, Murrinh Mentherr, Wagaid, Wagaidj, Wagait, Wagaitj, Wagatsch, Waggait, Waggate, Waggite, Waggote, Waggute, Wagite, Waogatsch, Wargad, Western Daly language., Wodadj, Wogadj, Wogait, Wogaity, Wogatj, Wogaty, Wogite, Worgaid, Worgaidj, Worgait, Worgite]
+alt_names: [Daktjerat, Manda, Manhthe, Manthi Yangal, Mendajangal, Menhthe, Menthajangal, Menthe, Menthe Yangal, Murinwargad, Murrinh Menthe, Murrinh Mentherr, Wagaid, Wagaidj, Wagait, Wagaitj, Wagatsch, Waggait, Waggate, Waggite, Waggote, Waggute, Wagite, Waogatsch, Wargad, Western Daly language., Wodadj, Wogadj, Wogait, Wogaity, Wogatj, Wogaty, Wogite, Worgaid, Worgaidj, Worgait, Worgite, Manda (Australia)]
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 曼达语(澳大利亚)
     auto: true
 ---
+Marranj is an Australian Aboriginal language, a dialect continuum consisting of Maranunggu, Menhthe, and Emmi.

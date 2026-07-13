@@ -2,10 +2,12 @@
 iso: bfw
 name: Bondo
 autonym: Remo
-alt_names: [Bhonda Bhasha, Bonda, Bonda Poroja, Bonda language, Bondo Poroja, Bondo-Poraja, Bunda, Nanga Poroja, Nanqa Poroja, Poraja Katha, Remosum, Remsan, Бондо]
+alt_names: [Bhonda Bhasha, Bonda, Bonda Poroja, Bonda language, Bondo Poroja, Bondo-Poraja, Bunda, Nanga Poroja, Nanqa Poroja, Poraja Katha, Remosum, Remsan, Бондо, Lower Bondo, Upper Bondo]
 population: 3500
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: "Munda language spoken in Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living

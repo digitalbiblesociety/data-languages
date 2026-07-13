@@ -3,15 +3,18 @@ iso: tuk
 iso639_1: tk
 name: Turkmen
 autonym: "تۆرکمن ديلی "
-alt_names: [An Tuircméinis, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeens, Turkmeneg, Turkmenian, Turkmeniska, Turkmenler, Turkmensk, Turkmin simi, Turkmène, Turkoman, Turkomans, Türkmen, Türkmence, Türkmenisch, Забони туркменӣ, تۈركمەن تىلى]
+alt_names: [An Tuircméinis, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeens, Turkmeneg, Turkmenian, Turkmeniska, Turkmenler, Turkmensk, Turkmin simi, Turkmène, Turkoman, Turkomans, Türkmen, Türkmence, Türkmenisch, Забони туркменӣ, تۈركمەن تىلى, türkmençe, Anauli, Arsariy, Bayat, Cawdur, Chavdur, Esari, Esary, Goklan, Goklen, Khasarli, Nerezim, Nohur, Nokhurli, Salyr, Saryq, Shirik, Taka, Teke, Tekke, Iranian Turkmen, Turkmencha, Turkmeni, Turkpen, Türkmen dili, Xatap, Yomud, Yomut, Ärsare]
 population: 7061000
 country_id: TM
 country_name: Turkmenistan
+location: Afghanistan
+area: Turkic language of the Oghuz sub-branch
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 37.087194
 longitude: 59.175736
+language_map_img: tuk.webp
 scripts: [Arab, Cyrl, Latn]
 glottocode: turk1304
 glottolog_family_id: turk1311

@@ -2,15 +2,18 @@
 iso: cbu
 name: "Candoshi-Shapra"
 autonym: "Kandozi-Chapra"
-alt_names: [Candoshi, Candoxi, Candoši, Chapara, Chapra, Kandocheg, Kandoshi, Kandoshi simi, Maina, Murato, Roamaina, Shapra]
+alt_names: [Candoshi, Candoxi, Candoši, Chapara, Chapra, Kandocheg, Kandoshi, Kandoshi simi, Maina, Murato, Roamaina, Shapra, Kandozi, Kandoáshi, Kanduásh]
 population: 3260
 country_id: PE
 country_name: Peru
+location: Peru
+area: Language isolate spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -4.23835
 longitude: -76.93474
+language_map_img: 500px-Candoshi_language.webp
 glottocode: cand1248
 wikidata_id: Q642843
 wikipedia_url: "https://en.wikipedia.org/wiki/Candoshi-Shapra_language"

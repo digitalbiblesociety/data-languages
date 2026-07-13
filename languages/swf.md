@@ -6,6 +6,8 @@ alt_names: [Basiri, Chere, Serre, Shaire, Shere, Sheri, Sili, Siri]
 population: 2500
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian language of DR Congo
 status_id: 8b
 scope: individual
 language_type: living

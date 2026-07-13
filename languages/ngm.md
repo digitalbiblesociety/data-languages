@@ -2,10 +2,12 @@
 iso: ngm
 name: "Ngatik Men's Creole"
 autonym: Ngatikese
-alt_names: ["\"Ngatikese\"", Micronesian Pidgin, "Ngatik Men's Language"]
+alt_names: ["\"Ngatikese\"", Micronesian Pidgin, "Ngatik Men's Language", Ngatikese Men’s Language]
 population: 200
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Ngatikese–English Creole of Micronesia
 status_id: 6b
 scope: individual
 language_type: living

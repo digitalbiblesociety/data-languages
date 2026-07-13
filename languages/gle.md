@@ -3,15 +3,18 @@ iso: gle
 iso639_1: ga
 name: Irish
 autonym: "Standard Irish: Gaeilge"
-alt_names: [An Ghaeilge, Donegal dialect, Erse, Erse leid, Gadhelisch, Gaeilge, Gaelana linguo, Gaelera, Gaelic, Gaelic (Irish), "Gaelic, Irish", Gaelicu Irlandiesu, Gaèlic irlandès, Gaèlico irlandês, Gwyddeleg, Gàidhlig na h-Èireann, Iers, Iers-Gaelies, Iersk, Iiri, Iirragiella, Ilanda simi, Irische Sproch, Irish Gaelic, Iriska, Irlandais, Irlandés, Irsk, Iwerdhonek, Iwerzhoneg, Lenghe irlandese, Munster, Tirlandit, Tok Aialan, Yernish, Írska, Īrisc sprǣc, İrlandaca, Łéngua irlandexe, Забони ирландӣ, Ирландхойн мотт, Эйринмудн келн, איריש, אירית, ئرېلاندىيە تىلى, ايرلاندى, زمانی ئیری]
+alt_names: [An Ghaeilge, Donegal dialect, Erse, Erse leid, Gadhelisch, Gaeilge, Gaelana linguo, Gaelera, Gaelic, Gaelic (Irish), "Gaelic, Irish", Gaelicu Irlandiesu, Gaèlic irlandès, Gaèlico irlandês, Gwyddeleg, Gàidhlig na h-Èireann, Iers, Iers-Gaelies, Iersk, Iiri, Iirragiella, Ilanda simi, Irische Sproch, Irish Gaelic, Iriska, Irlandais, Irlandés, Irsk, Iwerdhonek, Iwerzhoneg, Lenghe irlandese, Munster, Tirlandit, Tok Aialan, Yernish, Írska, Īrisc sprǣc, İrlandaca, Łéngua irlandexe, Забони ирландӣ, Ирландхойн мотт, Эйринмудн келн, איריש, אירית, ئرېلاندىيە تىلى, ايرلاندى, زمانی ئیری, Connacht, Donegal, Gaelic Irish, Munster-Leinster, Northern Irish, Southern Irish, Ulster, Western Irish]
 population: 170290
 country_id: IE
 country_name: Ireland
+location: Ireland and United Kingdom
+area: Celtic language native to Ireland
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 53.21855
 longitude: -7.61509
+language_map_img: 500px-Irish_speakers_in_2011.webp
 scripts: [Latn]
 glottocode: iris1253
 glottolog_family_id: indo1319

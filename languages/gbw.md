@@ -6,11 +6,13 @@ alt_names: [Cabee, Carby, Carby-carbery, Dhapil, Dhipil, Dippil, Dipple, Doon-do
 population: 24
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: living
 latitude: -25.44486229
 longitude: 153.1539929
+language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp
 glottocode: kabi1260
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

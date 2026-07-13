@@ -2,10 +2,12 @@
 iso: txm
 name: Tomini
 autonym: Tialo
-alt_names: [Mouton, Tiadje]
+alt_names: [Mouton, Tiadje, Moutong]
 population: 19700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

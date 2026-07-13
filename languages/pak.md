@@ -2,10 +2,12 @@
 iso: pak
 name: Parakanã
 autonym: Awaeté
-alt_names: [Akuawa, Akwawa, Apiteréwa, Asurí, Mudjetire, Paracana, Paracanã, Parakana, Parakaná, Parakanân, Parocana, Suru do Tocantins]
+alt_names: [Akuawa, Akwawa, Apiteréwa, Asurí, Mudjetire, Paracana, Paracanã, Parakana, Parakaná, Parakanân, Parocana, Suru do Tocantins, Apiterewa]
 population: 900
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupi–Guarani dialect group of Brazil
 status_id: "5"
 scope: individual
 language_type: living

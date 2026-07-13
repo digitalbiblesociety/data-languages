@@ -6,6 +6,8 @@ alt_names: [Jabaal, Miisiirii, Mileere, Tama, Tamok, Tamongobo, Tamot]
 population: 62900
 country_id: TD
 country_name: Chad
+location: Sudan
+area: Nilo-Saharan language spoken in Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living

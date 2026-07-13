@@ -2,9 +2,11 @@
 iso: afg
 name: Afghan Sign Language
 autonym: Jalalabad Sign Language
+alt_names: [Afghan Sign]
 population: 500
 country_id: AF
 country_name: Afghanistan
+area: Deaf sign language of Afghanistan
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Khouen, Khween, Kven, Kween]
 population: 8000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Tai language closely related to Thai and Lao
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 库恩语
     auto: true
 ---
+Khmu is the language of the Khmu people of the northern Laos region. It is also spoken in adjacent areas of Vietnam, Thailand and China. Khmu lends its name to the Khmuic branch of the Austroasiatic language family, the latter of which also includes Khmer and Vietnamese. Within Austroasiatic, Khmu is often cited as being most closely related to the Palaungic and Khasic languages. The name "Khmu" can also be seen romanized as Kmhmu, Khmu', Kammu, or Khamuk in various publications or alternatively referred to by the name of a local dialect.

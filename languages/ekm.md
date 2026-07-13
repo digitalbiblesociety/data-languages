@@ -2,10 +2,12 @@
 iso: ekm
 name: Elip
 autonym: Belibi
-alt_names: [Belip, Libie, Nuasue, Nulibie]
+alt_names: [Belip, Libie, Nuasue, Nulibie, Central Yambassa, Nukanya, Nulamba, Nuyambassa]
 population: 6400
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Centre"
 ---
+Central Yambasa or Nuasua (Nuaswa) is a Southern Bantoid language of Cameroon.

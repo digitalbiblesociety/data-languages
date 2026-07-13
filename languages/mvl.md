@@ -2,10 +2,11 @@
 iso: mvl
 name: Mbara
 autonym: Midjamba
-alt_names: [Ambara, Balgalu, Bargal, Kumbulmara, Mbara, Mitjamba]
+alt_names: [Ambara, Balgalu, Bargal, Kumbulmara, Mbara, Mitjamba, Mbara (Australia)]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

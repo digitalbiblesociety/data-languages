@@ -6,6 +6,8 @@ alt_names: [Cun-Hua, Laiyu, Nadouhua, Natou, Ngao Fon, 那斗話]
 population: 80000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Kra–Dal language of Hainan Island, China"
 status_id: 6a
 scope: individual
 language_type: living

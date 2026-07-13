@@ -2,10 +2,12 @@
 iso: ksp
 name: Kaba
 autonym: Kabba of Gore
-alt_names: [Kaba de Baibokoum, Kaba de Paoua, Kabba, Sara, Sara Kaba, Western Kaba]
+alt_names: [Kaba de Baibokoum, Kaba de Paoua, Kabba, Sara, Sara Kaba, Western Kaba, Kaba de Goré]
 population: 142000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Sara language spoken in central Africa
 status_id: "5"
 scope: individual
 language_type: living

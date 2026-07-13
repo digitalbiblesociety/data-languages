@@ -2,10 +2,11 @@
 iso: sgm
 name: Singa
 autonym: Chula
-alt_names: [Lusinga]
+alt_names: [Lusinga, Logang]
 population: null
 country_id: KE
 country_name: Kenya
+area: Extinct Bantu language of Uganda
 status_id: "10"
 scope: individual
 language_type: extinct

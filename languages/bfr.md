@@ -2,9 +2,12 @@
 iso: bfr
 name: Bazigar
 autonym: Goaar
+alt_names: [Guar]
 population: 58200
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language spoken in India
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: con
 name: Cofán
 autonym: "A'ingae"
-alt_names: ["A'i", "A'ingaé", A’ingaé, Cofan, Colin, Kofan, Kofane, Kofán]
+alt_names: ["A'i", "A'ingaé", A’ingaé, Cofan, Colin, Kofan, Kofane, Kofán, A’i, Aguarico, Santa Rosa]
 population: 1020
 country_id: EC
 country_name: Ecuador
+area: Endangered indigenous language of Ecuador and Colombia
 status_id: null
 scope: individual
 language_type: living

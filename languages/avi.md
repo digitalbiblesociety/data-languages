@@ -6,6 +6,8 @@ alt_names: [Brignan, Brinya, Gbanda, Kwakwa, Lahu]
 population: 21000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Lagoon languages of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

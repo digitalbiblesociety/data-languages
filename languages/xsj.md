@@ -5,11 +5,14 @@ autonym: null
 population: 105000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -2.93387
 longitude: 31.35945
+glottocode: subi1247
 wikidata_id: Q7631298
 wikipedia_url: "https://en.wikipedia.org/wiki/Subi_language"
 translations:

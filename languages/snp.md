@@ -2,10 +2,12 @@
 iso: snp
 name: Siane
 autonym: Siane (Lambau)
-alt_names: [Siani]
+alt_names: [Siani, Siane (Komongu), Alango, Fowe, Kemanimowe, Keto, Kolepa, Komoigaleka, Komongu, Laiya, Lambau, Olumba, Ona, Wando, Yamofowe, Yandime]
 population: 29000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

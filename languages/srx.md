@@ -2,10 +2,12 @@
 iso: srx
 name: Sirmauri
 autonym: Himachali
-alt_names: [Sirmouri, Sirmuri]
+alt_names: [Sirmouri, Sirmuri, Pahari, Dharthi, Giripari, Giriwari]
 population: 400000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Western Pahari language
 status_id: 6a
 scope: individual
 language_type: living

@@ -11,7 +11,9 @@ scope: macrolanguage
 language_type: living
 latitude: 21.662595
 longitude: 86.8563
+language_map_img: ori.svg
 scripts: [Orya]
+glottocode: nucl1284
 wikidata_id: Q7102899
 wikipedia_url: "https://en.wikipedia.org/wiki/Odia_dialects_and_varieties"
 translations:

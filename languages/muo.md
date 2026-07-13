@@ -2,10 +2,12 @@
 iso: muo
 name: Nyong
 autonym: Mumbake
-alt_names: [Chukkol, Daganonga, Daganyonga, Mubako, Ndagam, Nyoking, Nyongnepa, Peti, Samba Bali, Teteka, Yapeli]
+alt_names: [Chukkol, Daganonga, Daganyonga, Mubako, Ndagam, Nyoking, Nyongnepa, Peti, Samba Bali, Teteka, Yapeli, Bali Kumbat]
 population: 39500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Leko language spoken in Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living

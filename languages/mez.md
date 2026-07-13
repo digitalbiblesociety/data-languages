@@ -6,6 +6,8 @@ alt_names: [Menomini, Menominí]
 population: 799
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Algonquian language
 status_id: 8a
 scope: individual
 language_type: living

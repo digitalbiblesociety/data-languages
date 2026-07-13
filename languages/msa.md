@@ -9,6 +9,7 @@ country_name: Malaysia
 status_id: null
 scope: macrolanguage
 language_type: living
+language_map_img: msa.webp
 scripts: [Arab, Latn]
 wikidata_id: Q9237
 wikipedia_url: "https://en.wikipedia.org/wiki/Malay_language"

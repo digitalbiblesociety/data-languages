@@ -2,15 +2,18 @@
 iso: sms
 name: Skolt Sami
 autonym: nuõrttsääʹmǩiõll
-alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Kola, Kola Saami, Kolta, Koltansaame, Koltta, Lappic, Lappisch, Lappish, Lopar, Nuortalašgiella, Ostlappisch, Russian Lapp, Russisch-Lappisch, Saam, Saame, Saami skolt, "Saami, Skolt", Saamí de Skolt, Same, Sami skolt, "Sami, Skolt", Samieg Skolt, Skolt, Skolt Lapp, Skolt Lappish, Skolt Saami, Skolt dialect, Skolt-Lappisch, Skolt-Samisch, Skoltesamisk, Skoltesamiska, Skoltlappisch, Skoltsamiska, east dialect, lapon, lappisk, lopary, lpSkolt, ostlappischer Dialekt, russisch-lappische Gruppe, sabme, same-, sääʹmǩiõll, sāme-giellâ]
+alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Kola, Kola Saami, Kolta, Koltansaame, Koltta, Lappic, Lappisch, Lappish, Lopar, Nuortalašgiella, Ostlappisch, Russian Lapp, Russisch-Lappisch, Saam, Saame, Saami skolt, "Saami, Skolt", Saamí de Skolt, Same, Sami skolt, "Sami, Skolt", Samieg Skolt, Skolt, Skolt Lapp, Skolt Lappish, Skolt Saami, Skolt dialect, Skolt-Lappisch, Skolt-Samisch, Skoltesamisk, Skoltesamiska, Skoltlappisch, Skoltsamiska, east dialect, lapon, lappisk, lopary, lpSkolt, ostlappischer Dialekt, russisch-lappische Gruppe, sabme, same-, sääʹmǩiõll, sāme-giellâ, “Lapp”, Notozer, Saami, Yokan]
 population: 320
 country_id: FI
 country_name: Finland
+location: "Denmark, Finland, Norway and Sweden"
+area: "Uralic, Sámi language"
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 68.832595
 longitude: 29.720375
+language_map_img: Skolt-SamiLanguageLocatorMap.svg
 scripts: [Latn]
 glottocode: skol1241
 glottolog_family_id: ural1272

@@ -3,15 +3,18 @@ iso: vkt
 macrolanguage_id: msa
 name: Tenggarong Kutai Malay
 autonym: Kutai
-alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong]
+alt_names: [Malay, Malay (Tenggarong Kutai), "Malay, Tenggarong Kutai", Tenggarong, Ancalong Kutai, Northern Kutai, Tenggarong Kutai]
 population: 210000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 0.71803
 longitude: 117.64535
+language_map_img: 500px-Kutai_Malay.webp
 glottocode: teng1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -58,3 +61,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Kalimantan Timur (East)"
 ---
+Kutai or Kutainese is a Malayic language spoken by 300,000 to 500,000 people. It is the native language of the Kutai people, the indigenous ethnic group which lives along the Mahakam River in Borneo, especially in East Kalimantan, Indonesia. They are the principal population in the regencies of West Kutai, Kutai Kartanegara, and East Kutai within East Kalimantan province.

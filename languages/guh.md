@@ -2,15 +2,18 @@
 iso: guh
 name: Guahibo
 autonym: Jiwi
-alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo]
+alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo, “Sicuani”, “Sikuani”, Amorua, Hivi, Jive, Jivi, Rio Tomo Guahibo, Tigrero, Vichadeño]
 population: 35000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Language spoken in Colombia and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 5.817355
 longitude: -68.983925
+language_map_img: Guahibo.webp
 glottocode: guah1255
 glottolog_family_id: guah1252
 glottolog_family_name: Guahiboan

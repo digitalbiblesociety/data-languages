@@ -6,6 +6,7 @@ alt_names: [Abigira, Abiquira, Abishira, Agouisiri, Aouchirieg, Auishiri, Avishi
 population: null
 country_id: PE
 country_name: Peru
+area: Extinct Zaparoan language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct

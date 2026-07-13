@@ -3,15 +3,18 @@ iso: ffm
 macrolanguage_id: ful
 name: Maasina Fulfulde
 autonym: Maasinankoore
-alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul]
+alt_names: ["Ful (East Maasina), Ful (West Maasina)", Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde (Maasina), "Fulfulde, Maasina", Maacina, Macina, Peul, Fulfulde, Maasina, Eastern Macina, Toucouleur, Western Macina]
 population: 1523240
 country_id: ML
 country_name: Mali
+location: "Mali, Map 1"
+area: Senegambian language of West and Central Africa
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 11.132407
 longitude: -3.647633
+language_map_img: Fula_language_map.svg
 scripts: [Latn]
 glottocode: maas1239
 glottolog_family_id: atla1278

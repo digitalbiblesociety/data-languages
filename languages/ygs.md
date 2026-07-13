@@ -5,6 +5,7 @@ autonym: Penguin Sign Language
 population: 50
 country_id: AU
 country_name: Australia
+area: Indigenous sign language of Australia
 status_id: null
 scope: individual
 language_type: living

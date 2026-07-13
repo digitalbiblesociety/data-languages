@@ -2,10 +2,12 @@
 iso: tbl
 name: Tboli
 autonym: Tagabili
-alt_names: ["\"Tagabili\"", "T'boli", Tiboli]
+alt_names: ["\"Tagabili\"", "T'boli", Tiboli, “Tagabili”, T’boli, Central Tboli, Southern Tboli, Western Tboli]
 population: 87200
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: coz
 name: Chochotec
 autonym: Chochotec
-alt_names: [Chocho, Chocho Proper, Chocho language, Chocho méridional, Chocho oriental, Chocholtec, Chocholteco, Chochoteco, Chochoteco meridional, Chuchona]
+alt_names: [Chocho, Chocho Proper, Chocho language, Chocho méridional, Chocho oriental, Chocholtec, Chocholteco, Chochoteco, Chochoteco meridional, Chuchona, Chochon, Chochonteco]
 population: 770
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Popolocan language spoken in Mexico
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 17.66601
 longitude: -97.23884
+language_map_img: 500px-Otomanguean_Languages.webp
 glottocode: choc1279
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean

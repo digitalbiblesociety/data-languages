@@ -5,11 +5,14 @@ autonym: Wawoi
 population: 1100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Trans–New Guinea language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -7.28798
 longitude: 142.63931
+language_map_img: Kamula_language.svg
 glottocode: kamu1260
 glottolog_family_id: kamu1264
 glottolog_family_name: Kamula-Elevala

@@ -3,10 +3,12 @@ iso: lbk
 macrolanguage_id: bnc
 name: Central Bontok
 autonym: Finallig
-alt_names: ["Bontok, Central"]
+alt_names: ["Bontok, Central", Bontoc, Bontoc Central, Bontoc Igorot, Central Bontoc, Finontok, Jinallik, Kali, Khinina-ang, Minaligkhong, Sinamoki, Tinokukan]
 population: 19600
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Bontoc language of the Philippines
 status_id: "5"
 scope: individual
 language_type: living

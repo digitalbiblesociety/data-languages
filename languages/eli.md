@@ -5,6 +5,7 @@ autonym: Eliri
 population: 400
 country_id: SD
 country_name: Sudan
+area: Extinct Niger–Congo language of Sudan
 status_id: "10"
 scope: individual
 language_type: extinct

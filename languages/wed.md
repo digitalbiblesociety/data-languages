@@ -2,10 +2,12 @@
 iso: wed
 name: Wedau
 autonym: Wedau (Topura)
-alt_names: [Wedaun, Wedawan]
+alt_names: [Wedaun, Wedawan, Kwamana, Lavora, Topura, Yapoa]
 population: 2700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -68,3 +70,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Milne Bay"
 ---
+Taupota is an Oceanic language of the Milne Bay Province, Papua New Guinea. It appears to be a dialect chain, with southern varieties called Wa'ema and western Wedau.

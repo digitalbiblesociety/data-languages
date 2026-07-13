@@ -2,15 +2,18 @@
 iso: chy
 name: Cheyenne
 autonym: Tsėhésenėstsestȯtse
-alt_names: [Cheyeneg, Cheyenne Isolate, Cheyén (Oklahoma), Tsêhesenêstsestôtse]
+alt_names: [Cheyeneg, Cheyenne Isolate, Cheyén (Oklahoma), Tsêhesenêstsestôtse, Tsitsistas, Tsėhesenėstsestȯtse]
 population: 380
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Algonquian language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 45.53206
 longitude: -106.65888
+language_map_img: Cheyenne_USC2000_PHS.svg
 scripts: [Latn]
 glottocode: chey1247
 glottolog_family_id: algi1248

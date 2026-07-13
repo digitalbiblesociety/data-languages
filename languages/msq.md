@@ -2,10 +2,12 @@
 iso: msq
 name: Caac
 autonym: Moenebeng
-alt_names: [Caawac, Mwelebeng, Neukaledonien]
+alt_names: [Caawac, Mwelebeng, Neukaledonien, Caaac]
 population: 890
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kpq
 name: "Korupun-Sela"
 autonym: Sela
-alt_names: [Kimyal of Korupun, Korapun]
+alt_names: [Kimyal of Korupun, Korapun, Dagi, Deibula, Duram, Gobugdua, Korupun, Sisibna]
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Mek language spoken in Highland Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: dav
 name: Taita
 autonym: Dabida
-alt_names: [Davida, Dawida, Kidabida, Kitaita, Teita]
+alt_names: [Davida, Dawida, Kidabida, Kitaita, Teita, Bura, Chawia, Kasigau, Kidawida, Mbale, Mbololo, Mwanda, Werugha]
 population: 344000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living

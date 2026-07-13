@@ -2,10 +2,12 @@
 iso: sgh
 name: Shughni
 autonym: "Shugnani-Rushani"
-alt_names: [Bartangi, Chugní, Khugni, Roshorvi, Rushan, Rushani, Rushâni, Shighni, Shugnan-Rushan]
+alt_names: [Bartangi, Chugní, Khugni, Roshorvi, Rushan, Rushani, Rushâni, Shighni, Shugnan-Rushan, Bartang, Chuf, Khuf, Khufi, Khughnani, Khughni, Khughnoni, Khugnone, Oroshani, Oroshor, Roshan, Roshani, Shighnani, Shugan, Shughnani, Shughnoni, Shugnan, Shugni]
 population: 80000
 country_id: TJ
 country_name: Tajikistan
+location: Afghanistan
+area: "Pamir language of Tajikistan, Afghanistan, Pakistan and China"
 status_id: 6a
 scope: individual
 language_type: living

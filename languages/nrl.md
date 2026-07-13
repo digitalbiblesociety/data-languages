@@ -6,6 +6,8 @@ alt_names: ["\"Nickol Bay\" tribe", Engarluma, Gnalluma, Gnalooma, Gnalouma, Jab
 population: 11
 country_id: AU
 country_name: Australia
+location: Australia
+area: Endangered Ngayarda language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

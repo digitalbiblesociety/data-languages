@@ -2,10 +2,12 @@
 iso: ahk
 name: Akha
 autonym: "Akha "
-alt_names: [Ahka, Aini, "Ak'a", Aka, Ako, Asong, Ekaw, Hka Ko, Ikaw, Ikor, Kaw, Kha Ko, Khako, Khao Kha Ko, Khao Khao Ikor, Ko, Yani]
+alt_names: [Ahka, Aini, "Ak'a", Aka, Ako, Asong, Ekaw, Hka Ko, Ikaw, Ikor, Kaw, Kha Ko, Khako, Khao Kha Ko, Khao Khao Ikor, Ko, Yani, Aˇka ˇ Jaˇ liˆ, Ak’a, Khao Ikor]
 population: 616600
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Loloish language spoken in Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living

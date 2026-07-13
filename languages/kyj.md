@@ -5,11 +5,14 @@ autonym: Karaw
 population: 1400
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.56551
 longitude: 120.95636
+language_map_img: 500px-Karao_language_map.webp
 glottocode: kara1487
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

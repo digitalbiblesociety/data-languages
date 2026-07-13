@@ -6,6 +6,8 @@ alt_names: [Chocho-Popoloka, Popoloc, Popoloca, Popoloca (San Vicente Coyotepec)
 population: 500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Indigenous language of Puebla state, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

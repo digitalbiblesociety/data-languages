@@ -2,15 +2,18 @@
 iso: trv
 name: Taroko
 autonym: Taroko
-alt_names: [Bu-Hwan, Che-Hwan, Daiya-Ataiyal, Hogo, Iboho, Paran, Saediq, Sazek, Sedek, Sedeq, Sediakk, Sedik, Sediq, Seedek, Seedeq, Seedik, Seediq, Seediq language, Sejiq, Shedekka, Taruku, Tgdaya, Toda, Toroko, Truku, 都達方言]
+alt_names: [Bu-Hwan, Che-Hwan, Daiya-Ataiyal, Hogo, Iboho, Paran, Saediq, Sazek, Sedek, Sedeq, Sediakk, Sedik, Sediq, Seedek, Seedeq, Seedik, Seediq, Seediq language, Sejiq, Shedekka, Taruku, Tgdaya, Toda, Toroko, Truku, 都達方言, Seedakka, "Te'uda", Tekedaya, Teruku, Tkdaya, Tuuda]
 population: 20000
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 23.90324
 longitude: 121.35776
+language_map_img: 500px-Formosan_languages_2008.webp
 scripts: [Latn]
 glottocode: taro1264
 glottolog_family_id: aust1307

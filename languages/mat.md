@@ -6,11 +6,14 @@ alt_names: [Atzinca, "Bot'una", Matlatzinca, Matlatzinca de San Francisco de los
 population: 1167
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Endangered Oto-Manguean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 19.35839
 longitude: -100.05809
+language_map_img: 500px-Matlatzinca_languages.webp
 glottocode: sanf1262
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -52,3 +55,4 @@ translations:
     name: 圣弗朗西斯科马特拉特平卡语
     auto: true
 ---
+Matlatzinca, or more specifically San Francisco Matlatzinca, is an endangered Oto-Manguean language of Western Central Mexico.[3] The name of the language in the language itself is pjiekak'joo.[4] The term "Matlatzinca" comes from Nahuatl, meaning "lords of the net". At one point, the Matlatzinca groups were called "pirindas", meaning "those in the middle".[5]

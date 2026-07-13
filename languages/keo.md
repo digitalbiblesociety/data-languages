@@ -2,10 +2,12 @@
 iso: keo
 name: Kakwa
 autonym: Karo
-alt_names: [Bari Kakwa, Kakua, Kakwak, Kwakwak]
+alt_names: [Bari Kakwa, Kakua, Kakwak, Kwakwak, Kakuwâ]
 population: 351000
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Language of Africa
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [A-ou, A-uo, Cờ Lao, Gelao rojo (Vietnam), Gelao rouge (Chine), Gel
 population: 50
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Kra language
 status_id: 8b
 scope: individual
 language_type: living

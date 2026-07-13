@@ -2,10 +2,12 @@
 iso: cjp
 name: Cabécar
 autonym: Chirripó
-alt_names: [Cabecar, Chiripo, Estrella, Kabékar, Tucurrique]
+alt_names: [Cabecar, Chiripo, Estrella, Kabékar, Tucurrique, Telire, Ujarrás]
 population: 7072
 country_id: CR
 country_name: Costa Rica
+location: Costa Rica
+area: Chibchan language spoken in Costa Rica
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: hno
 macrolanguage_id: lah
 name: Northern Hindko
 autonym: ہندکو
-alt_names: [Hazara Hindko, Hindki, "Hindko, Northern", Kagani, Kaghani, Lahnda, Northeastern Lahnda]
+alt_names: [Hazara Hindko, Hindki, "Hindko, Northern", Kagani, Kaghani, Lahnda, Northeastern Lahnda, Abbottabad Hindko, Galiyat Hindko, Haripur Hindko, Hindko, Mansehra Hindko, Muko-Tuko, Tanoli Hindko]
 population: 3570000
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: "5"
 scope: individual
 language_type: living

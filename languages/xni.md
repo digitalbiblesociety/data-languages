@@ -2,9 +2,11 @@
 iso: xni
 name: Ngarigu
 autonym: Jaitmathang
+alt_names: [Bemeringal]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of Australia
 status_id: 8b
 scope: individual
 language_type: extinct

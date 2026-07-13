@@ -2,10 +2,12 @@
 iso: bag
 name: Tuki
 autonym: Tuki
-alt_names: [Bacenga, Baki, Batchenga, Betsinga, Betzinga, Ki, Oki, Osa Nanga, Sanaga]
+alt_names: [Bacenga, Baki, Batchenga, Betsinga, Betzinga, Ki, Oki, Osa Nanga, Sanaga, Aki, Bakombe, Bambele, Bamvele, Batsingo, Boudjou, Bundum, Bunju, Cangu, Cenga, Chinga, Kombe, Mbele, Mbere, Mvele, Ngoro, Tiki, Tocenga, Tonjo, Tsinga, Tsingo, Tu Ngoro, Tucangu, Tukombe, Tumbele, Tutsingo, Uki, Wakombe]
 population: 26000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

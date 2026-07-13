@@ -6,6 +6,8 @@ alt_names: [Benin, "Gbe, Gbesi"]
 population: 65000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Language group of Benin
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: BJ
     location: Benin
 ---
+The Ayizo languages (Ayizɔ) are Gbe languages spoken in Benin. They are Ayizo, Kotafon, and Gbesi.

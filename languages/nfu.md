@@ -2,9 +2,12 @@
 iso: nfu
 name: Mfumte
 autonym: Nfumte
+alt_names: [Bang, Jui, Koffa (Kofa), Kom, Lus, Manang, Mbah, Mballa, Mbat, Mbibji, Mfɨ́ti, Southern Mfumte]
 population: 24700
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Eastern Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

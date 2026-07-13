@@ -3,10 +3,12 @@ iso: qxu
 macrolanguage_id: que
 name: "Arequipa-La Unión Quechua"
 autonym: Chanka runasimi
-alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión"]
+alt_names: [Arequipa-La Union Quechua, "Quechua, Arequipa-La Unión", Arequipa Quechua, Cotahuasi Quechua, Antabamba, Apurímac, Cotahuasi, Highland Arequipa, Northern Arequipa, Quechua de Arequipa, Quechua de La Unión, Runasimi]
 population: 32000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Dialect of the Southern Quechua language in Peru
 status_id: "5"
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: PE
     location: Peru
 ---
+Ayacucho is a variety of Southern Quechua spoken in the Ayacucho Region, Peru, as well as by immigrants from Ayacucho in Lima. With roughly a million speakers, it is the largest variety of Southern Quechua after Cusco Quechua. The literary standard of Southern Quechua is based on these two closely related Quechua varieties.

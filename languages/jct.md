@@ -6,6 +6,7 @@ alt_names: ["'Kypchak dialects of Uzbek'", Judeo-Crimean Tatar, Judeo-Crimean Tu
 population: 785
 country_id: UA
 country_name: Ukraine
+area: Kipchak Turkic language
 status_id: 8b
 scope: individual
 language_type: living

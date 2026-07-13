@@ -8,6 +8,7 @@ country_name: Jordan
 status_id: null
 scope: individual
 language_type: historical
+glottocode: moab1234
 wikidata_id: Q36385
 wikipedia_url: "https://en.wikipedia.org/wiki/Moabite_language"
 translations:

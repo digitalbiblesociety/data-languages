@@ -6,6 +6,8 @@ alt_names: [Saliba, Saliva]
 population: 1310
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Language of South America
 status_id: "7"
 scope: individual
 language_type: living

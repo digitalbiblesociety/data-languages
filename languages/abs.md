@@ -2,10 +2,12 @@
 iso: abs
 name: Ambonese Malay
 autonym: Ambonese
-alt_names: [Ambong, "Malay, Ambonese", Malayu Ambon]
+alt_names: [Ambong, "Malay, Ambonese", Malayu Ambon, Ambon Malay, Bahasa Ambon, Bahasa Melaju Ambon, Bahasa Melayu Ambon, Dobo Malay, Malayu Ambong, Moluccan (Maluku) Malay]
 population: 250900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Language in Maluku
 status_id: "3"
 scope: individual
 language_type: living

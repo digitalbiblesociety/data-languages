@@ -2,9 +2,12 @@
 iso: bcv
 name: "Shoo-Minda-Nye"
 autonym: manda
+alt_names: [Minda (Lau Habe), Nye (Kunini), Shoo (Banda), Bakula, Banda, Bandawa, Jinleri, Kunini, Minda, Nye, Shoo]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Jukunoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: wbm
 name: Wa
 autonym: Va
-alt_names: [Awa, Baraog, "K'awa", Kawa, Paraok, Parauk, Praok, Vo, Vü, Wa Pwi, Wa-Vü, Wakut, ဝ]
+alt_names: [Awa, Baraog, "K'awa", Kawa, Paraok, Parauk, Praok, Vo, Vü, Wa Pwi, Wa-Vü, Wakut, ဝ, K’awa, Wa Proper, Ban, La, Meung Hom, Pan, Peung Sux, Pinyin, Pun, Vax, Vhax]
 population: 40700
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Austroasiatic language spoken in Myanmar and China
 status_id: "5"
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+Wa (Va) is an Austroasiatic language spoken by the Wa people of Myanmar and China. There are three distinct varieties, sometimes considered separate languages; their names in Ethnologue are Parauk, the majority and standard form; Vo and Awa, though all may be called Wa, Awa, Va, Vo. David Bradley (1994) estimates there are total of 820,000 Wa speakers.

@@ -6,6 +6,7 @@ alt_names: [Guantxera, Guanxe, Guanči, Gwantcheg, Spain, Гуанчские я�
 population: null
 country_id: ES
 country_name: Spain
+area: Extinct language of the Canary Islands
 status_id: null
 scope: individual
 language_type: extinct

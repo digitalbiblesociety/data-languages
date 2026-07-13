@@ -5,11 +5,13 @@ autonym: null
 population: 55000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.11711
 longitude: 23.36337
+glottocode: lali1242
 wikidata_id: Q6480326
 wikipedia_url: "https://en.wikipedia.org/wiki/Lalia_language"
 translations:

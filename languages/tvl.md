@@ -2,10 +2,11 @@
 iso: tvl
 name: Tuvalu
 autonym: Te Ggana Tuuvalu
-alt_names: [Ellice, Ellicean, Nanumea, Tuvaluaans, Tuvaluan, Tuvaluan language, Tuvaluano, Tuvaluanska, Tuvalueg, Tuvaluera, Тувалу]
+alt_names: [Ellice, Ellicean, Nanumea, Tuvaluaans, Tuvaluan, Tuvaluan language, Tuvaluano, Tuvaluanska, Tuvalueg, Tuvaluera, Тувалу, Funafuti, Nanumanga, Niutao, North Tuvaluan, Nukufetau, Nukulaelae, South Tuvaluan, "Te 'gana Tūvalu", Vaitupu]
 population: 14290
 country_id: TV
 country_name: Tuvalu
+area: Polynesian language spoken in Tuvalu
 status_id: "3"
 scope: individual
 language_type: living

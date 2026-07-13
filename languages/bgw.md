@@ -2,10 +2,12 @@
 iso: bgw
 name: Bhatri
 autonym: Basturia
-alt_names: [Bhatra, Bhattra, Bhattri, Bhottada, Bhottara]
+alt_names: [Bhatra, Bhattra, Bhattri, Bhottada, Bhottara, Deshia]
 population: 334000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Eastern Indo-Aryan language of India
 status_id: "3"
 scope: individual
 language_type: living

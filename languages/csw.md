@@ -3,10 +3,12 @@ iso: csw
 macrolanguage_id: cre
 name: Swampy Cree
 autonym: ᓀᐦᐃᓇᐍᐏᐣ / Nêhinawêwin
-alt_names: ["Cree, Swampy", Kreeg ar gwernioù, Myr-cree-språket]
+alt_names: ["Cree, Swampy", Kreeg ar gwernioù, Myr-cree-språket, West Main Cree, West Shore Cree, York Cree]
 population: 4500
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language spoken in Canada
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Ofogoula]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Siouan language of United States
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 30.43
 longitude: -91.75
+language_map_img: Ofo_lang.webp
 glottocode: ofoo1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

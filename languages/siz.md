@@ -6,6 +6,8 @@ alt_names: [Berber, Berber (Siwa), Oasis Berber, Sioua, Siví, Siwa, Siwaeg, Tas
 population: 20000
 country_id: EG
 country_name: Egypt
+location: Egypt and Libya
+area: Eastern Berber language of western Egypt
 status_id: 6a
 scope: individual
 language_type: living

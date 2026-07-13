@@ -6,6 +6,8 @@ alt_names: [Emerenhão, Emerilon, Emérillon, Guaiapi, Guayapi, Karipuna, Melejo
 population: 400
 country_id: GF
 country_name: French Guiana
+location: French Guiana and Suriname
+area: Tupian language spoken in French Guiana
 status_id: 6b
 scope: individual
 language_type: living

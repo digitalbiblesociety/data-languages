@@ -6,6 +6,8 @@ alt_names: [Chikuya, Kikuwa, Koukouya, Kukuya dialect, Kukwa, Southern, Teke, Te
 population: 38800
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

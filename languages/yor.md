@@ -3,15 +3,18 @@ iso: yor
 iso639_1: yo
 name: Yoruba
 autonym: Èdè Yorùbá
-alt_names: [Ede-Yoruba, Ioruba, Joruba, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, يورۇباچە, იორუბა]
+alt_names: [Ede-Yoruba, Ioruba, Joruba, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, يورۇباچە, იორუბა, Akono, Awori, Aworo, Bini, Bunu, Egba, Ekiti, Gbedde, Igbonna, Ijebu, Ijesha, Ikale, Ila, Ilaje, Iworro, Jumu, Ondo, Owe, Oyo, Wo, Yagba, Ào]
 population: 37800000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Language spoken in West Africa
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 7.153455
 longitude: 3.672245
+language_map_img: yor.webp
 scripts: [Latn]
 glottocode: yoru1245
 glottolog_family_id: atla1278

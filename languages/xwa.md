@@ -2,10 +2,12 @@
 iso: xwa
 name: Kwaza
 autonym: Koaiá
-alt_names: [Arara, Koaia, Koayá, Koiyá, Quaiá]
+alt_names: [Arara, Koaia, Koayá, Koiyá, Quaiá, Coaia, Koaya]
 population: 54
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered language spoken in Brazil
 status_id: 8b
 scope: individual
 language_type: living

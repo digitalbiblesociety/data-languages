@@ -6,6 +6,8 @@ alt_names: [Bella-Coola, Bellacoola, Bilcula, Nass, Nuxalk, Nuxálk, Nuxálk lan
 population: 700
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: "Salishan language of British Columbia, Canada"
 status_id: 8b
 scope: individual
 language_type: living

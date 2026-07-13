@@ -2,10 +2,12 @@
 iso: sci
 name: Sri Lankan Creole Malay
 autonym: Java Jati
-alt_names: ["Creole Malay, Sri Lankan", Ja basawa, Java, Java mozhi, Melayu, Sri Lanka Malay, Sri Lanka pe Melayu, Sri Lankan Malay]
+alt_names: ["Creole Malay, Sri Lankan", Ja basawa, Java, Java mozhi, Melayu, Sri Lanka Malay, Sri Lanka pe Melayu, Sri Lankan Malay, Melayu Bahasa]
 population: 57400
 country_id: LK
 country_name: Sri Lanka
+location: Sri Lanka
+area: Sinhala-Tamil creole language of Sri Lanka
 status_id: "4"
 scope: individual
 language_type: living

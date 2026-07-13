@@ -6,6 +6,8 @@ alt_names: [Bachirí, Basharawa, Basherawa, Bashiri, Yankam]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Endangered Plateau language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

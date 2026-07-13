@@ -3,15 +3,18 @@ iso: mrj
 macrolanguage_id: chm
 name: Western Mari
 autonym: Кырык мары йӹлмӹ
-alt_names: [Bergdialekt, Bergtscheremissisch, Bergčeremissisch, Cheremis, Cheremiss, Cheremissian, Gorno-Mariy, High Mari, Hill Cheremis, Hill Cheremiss, Hill Mari, Mari, Mari (High), Mari (Hill), Mari occidental, "Mari, Western", Mari-Hills, Marí occidental, More, Mountain dialect, Szeremissi, Tscheremissisch, Western, Western Cheremis, marij jylme, marijcy, tchérémisse, vuorimari, western group, westliches Mundartgebiet, Čeremissisch, кырык мары]
+alt_names: [Bergdialekt, Bergtscheremissisch, Bergčeremissisch, Cheremis, Cheremiss, Cheremissian, Gorno-Mariy, High Mari, Hill Cheremis, Hill Cheremiss, Hill Mari, Mari, Mari (High), Mari (Hill), Mari occidental, "Mari, Western", Mari-Hills, Marí occidental, More, Mountain dialect, Szeremissi, Tscheremissisch, Western, Western Cheremis, marij jylme, marijcy, tchérémisse, vuorimari, western group, westliches Mundartgebiet, Čeremissisch, кырык мары, Highland Mari, Kozymodemyan, Yaran]
 population: 30000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Uralic language of the Mari El Republic, Russia"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 57.08
 longitude: 58.83
+language_map_img: 500px-Mari_beginning_of_20th_century.webp
 scripts: [Cyrl]
 glottocode: west2392
 glottolog_family_id: ural1272

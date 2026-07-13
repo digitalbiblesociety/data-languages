@@ -6,6 +6,8 @@ alt_names: ["Kurumba, Attapady", Pal Kurumba]
 population: 1370
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living

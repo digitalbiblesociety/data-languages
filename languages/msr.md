@@ -2,9 +2,11 @@
 iso: msr
 name: Mongolian Sign Language
 autonym: Монгол дохионы хэл
+alt_names: [MSL]
 population: 10000
 country_id: MN
 country_name: Mongolia
+area: Deaf sign language of Mongolia
 status_id: 6a
 scope: individual
 language_type: living

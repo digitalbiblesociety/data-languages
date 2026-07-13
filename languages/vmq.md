@@ -6,6 +6,8 @@ alt_names: [Apasco Mixtec, Apasco-Apoala Mixtec, Apoala Mixtec, "Mixtec, Soyalte
 population: 320
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

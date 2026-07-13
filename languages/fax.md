@@ -2,15 +2,18 @@
 iso: fax
 name: Fala
 autonym: A Fala de Xálima
-alt_names: ["\"Chapurreáu\"", A Fala, A Fala do Xãlima, Bakha, Bakhat, Baxa, Extremadurako fala, Faala, Fala da Extremadura, Fala de Estremadura, Fala de Xàlima, Falaansk, Galaico-Extremaduran]
+alt_names: ["\"Chapurreáu\"", A Fala, A Fala do Xãlima, Bakha, Bakhat, Baxa, Extremadurako fala, Faala, Fala da Extremadura, Fala de Estremadura, Fala de Xàlima, Falaansk, Galaico-Extremaduran, “Chapurreáu”]
 population: 10500
 country_id: ES
 country_name: Spain
+location: Portugal and Spain
+area: Ibero-Romance language of western Spain
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 40.16511
 longitude: -6.91452
+language_map_img: 500px-Lenguas_y_dialectos_iberorromances.webp
 glottocode: fala1241
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

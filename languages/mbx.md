@@ -2,10 +2,12 @@
 iso: mbx
 name: Mari
 autonym: null
-alt_names: [Mari]
+alt_names: [Mari, Mari (East Sepik Province)]
 population: 80
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Sepik language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

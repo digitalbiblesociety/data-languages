@@ -6,6 +6,8 @@ alt_names: [Lafit, Lafite, Lofit, Lopid, Loppit]
 population: 117000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language
 status_id: 6a
 scope: individual
 language_type: living

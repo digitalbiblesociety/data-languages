@@ -6,6 +6,8 @@ alt_names: [Fa-C-Aka, Jebel Silak, Jebels Sillok, Sillok]
 population: 300
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Moribund Nilo-Saharan language of Sudan
 status_id: 8a
 scope: individual
 language_type: living

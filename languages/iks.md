@@ -6,6 +6,7 @@ alt_names: [IUR, Inuit Uukturausingit]
 population: 20
 country_id: CA
 country_name: Canada
+area: Indigenous sign language isloate
 status_id: null
 scope: individual
 language_type: living

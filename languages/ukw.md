@@ -2,10 +2,12 @@
 iso: ukw
 name: "Ukwuani-Aboh-Ndoni"
 autonym: Aboh
-alt_names: [Nigeria]
+alt_names: [Nigeria, Abo, Eboh, Kwale, Ndokwa Ukwuani, Ndoni, Ukwali, Ukwani, Ukwuani]
 population: 299000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Igboid language cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

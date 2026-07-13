@@ -6,11 +6,13 @@ alt_names: [Arnhem Land, "Ba:gu", Boola, Caloombooroo, Daly River Region Languag
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal Australian language of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -14.34845
 longitude: 126.9212
+language_map_img: Worrorran_map.svg
 glottocode: miwa1242
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
@@ -53,3 +55,4 @@ translations:
     name: 米瓦语
     auto: true
 ---
+The Wunambal language, also known as Northern Worrorran, Gamberre, or Gambera, is a moribund Australian Aboriginal language of Western Australia. It has several dialects, including Yiiji, Gunin, Miwa, and Wilawila. It is spoken by the Wunambal people.

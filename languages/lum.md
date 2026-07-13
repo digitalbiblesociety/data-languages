@@ -6,6 +6,8 @@ alt_names: [Luimbe, Lwimbe, Lwimbi]
 population: 43900
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language of Angola
 status_id: 6a
 scope: individual
 language_type: living

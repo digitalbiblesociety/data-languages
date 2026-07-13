@@ -2,10 +2,12 @@
 iso: chz
 name: Ozumacín Chinantec
 autonym: "Chinantec, Ozumacín"
-alt_names: [Chinantec, Chinanteco, Chinanteco de Ayotzintepec, Chinanteco del sureste alto, Chinanteko, Juujmii, Ozumacin Chinantec, Upper Southeastern Chinantec, jumi dsa mojai]
+alt_names: [Chinantec, Chinanteco, Chinanteco de Ayotzintepec, Chinanteco del sureste alto, Chinanteko, Juujmii, Ozumacin Chinantec, Upper Southeastern Chinantec, jumi dsa mojai, Ozumacín, Ayotzintepec]
 population: 3140
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Chinantecan language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

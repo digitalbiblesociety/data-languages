@@ -6,6 +6,8 @@ alt_names: ["Chin, Thaiphum"]
 population: 1000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Southern Kuki-Chin language of Burma
 status_id: 6a
 scope: individual
 language_type: living

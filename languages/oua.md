@@ -6,11 +6,14 @@ alt_names: [Berber (Ouargla), Berber (Wargla), Ouargla, Ouargli, Teggargrent, Wa
 population: 5000
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Zenati Berber language spoken in Algeria
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 31.94537
 longitude: 5.28444
+language_map_img: 500px-Mzab-Wargla_Berberophone_areas.webp
 glottocode: taga1278
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

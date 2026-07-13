@@ -2,9 +2,11 @@
 iso: pub
 name: Purum
 autonym: Puram
+alt_names: [Purum Naga]
 population: 300
 country_id: IN
 country_name: India
+area: Kuki-Chin language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

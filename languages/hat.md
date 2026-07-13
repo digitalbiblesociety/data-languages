@@ -3,15 +3,18 @@ iso: hat
 iso639_1: ht
 name: Haitian
 autonym: kreyòl ayisyen
-alt_names: [Aiysyen, Creol, Creole (Haitian), "Creole, Haitian", Creolo haitiano, Crioll haitià, Criollo haitiano, Crioulo haitiano, Créole haïtien, Haitian Creole, Haitian Creole French, Haitian Creole language, Haitiko kreolera, Haitin kreoli, Haitisk, Haitisk kreol, Kreoleg Haiti, Kreyol, Kreyòl, Kreôly haisianina, Western Caribbean Creole, haïtien, ھايتى كرېئول تىلى, हैतियाई क्रियोल, हैतीयन क्रियोल, ჰაიტიური კრეოლი]
+alt_names: [Aiysyen, Creol, Creole (Haitian), "Creole, Haitian", Creolo haitiano, Crioll haitià, Criollo haitiano, Crioulo haitiano, Créole haïtien, Haitian Creole, Haitian Creole French, Haitian Creole language, Haitiko kreolera, Haitin kreoli, Haitisk, Haitisk kreol, Kreoleg Haiti, Kreyol, Kreyòl, Kreôly haisianina, Western Caribbean Creole, haïtien, ھايتى كرېئول تىلى, हैतियाई क्रियोल, हैतीयन क्रियोल, ჰაიტიური კრეოლი, Creole, Ayisyen, Fablas, Plateau Haitian Creole]
 population: 8040000
 country_id: HT
 country_name: Haiti
+location: Creole Languages of the Northern Caribbean
+area: French-based creole language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 19
 longitude: -73.33
+language_map_img: hat.webp
 scripts: [Latn]
 glottocode: hait1244
 glottolog_family_id: indo1319

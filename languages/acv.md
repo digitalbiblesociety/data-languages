@@ -6,6 +6,8 @@ alt_names: ["Achoma'wi", Achoumawieg, Achowawi, Pitt River]
 population: 1000
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Endangered language of California
 status_id: 8b
 scope: individual
 language_type: living

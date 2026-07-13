@@ -6,6 +6,8 @@ alt_names: [Goulburn Islands, Gun marung, Gunmarang, Gunmarung, Iwaidjan, Kunmar
 population: 370
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Language spoken by the Warruwi people of Northern Territory
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: qup
 macrolanguage_id: que
 name: Southern Pastaza Quechua
 autonym: Kichwa Shimi
-alt_names: [Inga, Lowland Kichua, Puyo Pongo, "Quechua, Southern Pastaza"]
+alt_names: [Inga, Lowland Kichua, Puyo Pongo, "Quechua, Southern Pastaza", Quechua, Southern Pastaza, Inka]
 population: 1550
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechuan language of Ecuador and Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -3.32733
 longitude: -76.52697
+language_map_img: KichwaQ.svg
 glottocode: sout2990
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -54,3 +57,4 @@ translations:
     name: 南帕斯塔萨基楚亚语
     auto: true
 ---
+Kichwa is a Quechuan language that includes all Quechua varieties of Ecuador and Colombia (Inga), as well as extensions into Peru. It has an estimated half million speakers.

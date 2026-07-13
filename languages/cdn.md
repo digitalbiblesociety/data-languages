@@ -6,6 +6,8 @@ alt_names: [Bangba Lwo, Bangbani, Chandāngsī, Chanpa Lo, Chaudans Lo, Chaudān
 population: 1830
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in the Indian state of Uttarakhand
 status_id: 6b
 scope: individual
 language_type: living

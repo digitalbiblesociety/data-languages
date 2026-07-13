@@ -2,10 +2,12 @@
 iso: apu
 name: Apurinã
 autonym: Ipurina
-alt_names: [Apurina, Apuriná, Cacharary, Cangaiti, Ipuriná, Ipurinãn, Kangite, Popengare]
+alt_names: [Apurina, Apuriná, Cacharary, Cangaiti, Ipuriná, Ipurinãn, Kangite, Popengare, Ipurinã]
 population: 6990
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Arawakan language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

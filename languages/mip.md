@@ -2,10 +2,12 @@
 iso: mip
 name: "Apasco-Apoala Mixtec"
 autonym: "Apasco-Apoala Mixtec"
-alt_names: [Apasco Mixtec, Apoala Mixtec, "Mixtec, Apasco-Apoala", Mixteco de Chocho, Mixteco de San Bartolo Soyaltepec, Mixteco de Santiago Apoala, Mixteco del noreste bajo, Northeastern Alta Mixtec, Northern Misteko, Northern Mixteco, Northern Nochixtlán Mixtec, Soyaltepec Mixtec]
+alt_names: [Apasco Mixtec, Apoala Mixtec, "Mixtec, Apasco-Apoala", Mixteco de Chocho, Mixteco de San Bartolo Soyaltepec, Mixteco de Santiago Apoala, Mixteco del noreste bajo, Northeastern Alta Mixtec, Northern Misteko, Northern Mixteco, Northern Nochixtlán Mixtec, Soyaltepec Mixtec, Mixteco, Apasco-Apoala, Mixteco del Norte de Nochixtlán, Santa María Apasco]
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

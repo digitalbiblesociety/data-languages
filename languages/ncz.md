@@ -6,11 +6,13 @@ alt_names: ["Na'htchi", Nachez]
 population: 6
 country_id: US
 country_name: United States
+area: Extinct indigenous language of Mississippi and Louisiana
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 31.75
 longitude: -91.33
+language_map_img: 500px-Natchez_lang.webp
 glottocode: natc1249
 wikidata_id: Q3111838
 wikipedia_url: "https://en.wikipedia.org/wiki/Natchez_language"

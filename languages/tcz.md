@@ -2,10 +2,12 @@
 iso: tcz
 name: Thado Chin
 autonym: Kuki
-alt_names: [Chin, Chin (North)/Thado, Chin (Thado), Chin tado, "Chin, Thado", "Chin,Thado", Kuki-Thado, Thaadou Kuki, Thado, Thado-Pao, Thado-Ubiphei, Thadou, Thādo-pao, သာဒိုး ချင်း]
+alt_names: [Chin, Chin (North)/Thado, Chin (Thado), Chin tado, "Chin, Thado", "Chin,Thado", Kuki-Thado, Thaadou Kuki, Thado, Thado-Pao, Thado-Ubiphei, Thadou, Thādo-pao, သာဒိုး ချင်း, Baite, Changsen, Hawkip, Jangshen, Kaokeep, Khongzai, Kipgen, Langiung, Paite, Sairang, Shingsol, Shithlou, Singson, Thadou Kuki, Thangngen]
 population: 346100
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

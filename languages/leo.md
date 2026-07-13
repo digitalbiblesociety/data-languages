@@ -2,10 +2,11 @@
 iso: leo
 name: Leti
 autonym: null
-alt_names: [Cameroon, Leti]
+alt_names: [Cameroon, Leti, Leti (Cameroon)]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Bantu language of Cameroon
 status_id: "9"
 scope: individual
 language_type: living

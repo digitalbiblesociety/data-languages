@@ -2,10 +2,12 @@
 iso: bvm
 name: Bamunka
 autonym: Bamunka
-alt_names: [Bamunkun, Mbika, Muka, Ndop-Bamunka, Niemeng]
+alt_names: [Bamunkun, Mbika, Muka, Ndop-Bamunka, Niemeng, Ngiemekohke, Mekoh]
 population: 31000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantu language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

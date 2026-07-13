@@ -2,9 +2,11 @@
 iso: tjw
 name: Djabwurrung
 autonym: Tjapwurrung
+alt_names: [Chaa wuurong]
 population: 17
 country_id: AU
 country_name: Australia
+area: Extinct Aboriginal Australian language
 status_id: 8b
 scope: individual
 language_type: living

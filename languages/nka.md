@@ -2,9 +2,12 @@
 iso: nka
 name: Nkoya
 autonym: Shinkoya
+alt_names: [Kolwe, Lukolwe, Lushangi, Mashasha, Mbowela, Mbwela, Mbwera, Shasha, Shimbwera]
 population: 36200
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language of Zambia
 status_id: "5"
 scope: individual
 language_type: living

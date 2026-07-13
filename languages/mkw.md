@@ -2,10 +2,12 @@
 iso: mkw
 name: Kituba
 autonym: Monokutuba
-alt_names: [Kikongo/Kituba, Kikoongo, Kituba, Kituba language, Munukutuba, Китуба]
+alt_names: [Kikongo/Kituba, Kikoongo, Kituba, Kituba language, Munukutuba, Китуба, Kikongo-Kituba]
 population: 1750000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Creole language spoken in Central Africa
 status_id: "3"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 基图巴语（刚果）
     auto: true
 ---
+Kituba is a widely used lingua franca in Central Africa. It is a creole language based on Kikongo, a Bantu language. It is a national language in Republic of the Congo and Democratic Republic of the Congo.

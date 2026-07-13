@@ -6,6 +6,7 @@ alt_names: [Kern, Kern River, Tubatulabal]
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Uto-Aztecan language of Kern County, California, US"
 status_id: 8b
 scope: individual
 language_type: extinct

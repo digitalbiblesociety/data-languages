@@ -3,15 +3,18 @@ iso: ltz
 iso639_1: lb
 name: Luxembourgish
 autonym: Lëtzebuergesch
-alt_names: [Francique mosellan, Franconio del Mosela, Frankish, German, Letzburgisch, Letzeburgesch, Lucsambuirgis, Lucsamburgais, Luksembourgeg, Lushaborgek, Lussimbordjwès, Luxemborjesh, Luxembourgeois, Luxembourgsk, Luxemburgeois, Luxemburggagiella, Luxemburgian, Luxemburgisch, Luxemburgish, Luxemburgiska, Luxemburgs, Luxemburguès, Luxemburgués, Luxembörgs, Luxenburgera, Luxnbuagisch, Lúxemborgíska, Lüksemburgca, Moselle Franconian, Platt, Taluksemburgit, Люксембург йылме, Լյուքսեմբուրգերեն, לוקסמבורגית, לוקסעמבורגיש, ليۇكسېمبۇرگ تىلى, 盧森堡話]
+alt_names: [Francique mosellan, Franconio del Mosela, Frankish, German, Letzburgisch, Letzeburgesch, Lucsambuirgis, Lucsamburgais, Luksembourgeg, Lushaborgek, Lussimbordjwès, Luxemborjesh, Luxembourgeois, Luxembourgsk, Luxemburgeois, Luxemburggagiella, Luxemburgian, Luxemburgisch, Luxemburgish, Luxemburgiska, Luxemburgs, Luxemburguès, Luxemburgués, Luxembörgs, Luxenburgera, Luxnbuagisch, Lúxemborgíska, Lüksemburgca, Moselle Franconian, Platt, Taluksemburgit, Люксембург йылме, Լյուքսեմբուրգերեն, לוקסמבורגית, לוקסעמבורגיש, ليۇكسېمبۇرگ تىلى, 盧森堡話, Areler, Eechternoacher, Kliärrwer, Minetter, Miseler, Stater, Veiner, Weelzer]
 population: 427400
 country_id: LU
 country_name: Luxembourg
+location: Andorra and France
+area: Germanic language spoken in Luxembourg
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 49.683948
 longitude: 6.149308
+language_map_img: 500px-Moselfrankisch.webp
 scripts: [Latn]
 glottocode: luxe1241
 glottolog_family_id: indo1319

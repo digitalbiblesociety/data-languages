@@ -2,10 +2,12 @@
 iso: khj
 name: Kuturmi
 autonym: null
-alt_names: [Ada]
+alt_names: [Ada, Aclo, Aklo, Kuturmi East, Kuturmi West, Obiro]
 population: 10500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

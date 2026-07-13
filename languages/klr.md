@@ -2,10 +2,12 @@
 iso: klr
 name: Khaling
 autonym: खालिङ
-alt_names: ["C'halingeg", Jalingo, Kaling, Khael Baat, Khael Bra, Khalinge Rai, Rai]
+alt_names: ["C'halingeg", Jalingo, Kaling, Khael Baat, Khael Bra, Khalinge Rai, Rai, Khaling Kura, Khael Braa]
 population: 14500
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Kiranti language of India
 status_id: "5"
 scope: individual
 language_type: living

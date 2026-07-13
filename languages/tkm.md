@@ -6,11 +6,13 @@ alt_names: [Lowland Takelma, Takelma hizkuntza, Takelman, Takelmeg, Takilma, Tak
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 42.423
 longitude: -123.452
+language_map_img: 500px-Takelman_langs.webp
 glottocode: take1257
 wikidata_id: Q56710
 wikipedia_url: "https://en.wikipedia.org/wiki/Takelma_language"

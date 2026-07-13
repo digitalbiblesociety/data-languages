@@ -6,6 +6,8 @@ alt_names: [Akye, Atche, Atie, Atshe, Attie]
 population: 642000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

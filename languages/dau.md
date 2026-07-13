@@ -6,6 +6,8 @@ alt_names: [Bokor, Bokorike, Bokoruge, Dadjo, Dajou, Daju, Daju (Dar Sila), "Daj
 population: 70100
 country_id: TD
 country_name: Chad
+location: Sudan
+area: Daju language of Chad
 status_id: 6a
 scope: individual
 language_type: living

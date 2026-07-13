@@ -2,14 +2,18 @@
 iso: gok
 name: Gowli
 autonym: Nand
+alt_names: [Khamla, Lingaayat, Ranya]
 population: 35000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Caste in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.77263
 longitude: 77.37332
+glottocode: gowl1241
 wikidata_id: Q12953534
 translations:
   - translation_iso: ara

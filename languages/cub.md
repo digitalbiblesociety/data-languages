@@ -2,15 +2,18 @@
 iso: cub
 name: Cubeo
 autonym: pãmié
-alt_names: [Cubeu, Cuveo, Hahänana, Hehenawa, Kobeua, Kobewa, Kobéwa, Kubeo, Kubewa, Kubwa, Pamiwa, Pamié]
+alt_names: [Cubeu, Cuveo, Hahänana, Hehenawa, Kobeua, Kobewa, Kobéwa, Kubeo, Kubewa, Kubwa, Pamiwa, Pamié, Cobewa, Hipnwa]
 population: 6260
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Language spoken by the Cubeo people
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 1.32382
 longitude: -70.193935
+language_map_img: Cubeo.webp
 glottocode: cube1242
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

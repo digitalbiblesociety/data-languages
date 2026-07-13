@@ -6,6 +6,8 @@ alt_names: ["Creole English, Trinidadian"]
 population: 9600
 country_id: TT
 country_name: Trinidad and Tobago
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole language spoken in Trinidad
 status_id: 6a
 scope: individual
 language_type: living

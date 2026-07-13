@@ -6,6 +6,8 @@ alt_names: [Chinantec, "Chinantec, Tlacoatzintepec", Chinanteco, Chinanteko, Nor
 population: 1720
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantecan language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Cuicatlan"
 ---
+Chiltepec-Tlacoatzintepec Chinantec is a Chinantecan language of Mexico, spoken in northern Oaxaca in the towns of San José Chiltepec, San Juan Bautista Tlacoatzintepec, San Pedro Alianza, Santiago Quetzalapa, and San Juan Zapotitlán. The two principal varieties, Chinantec and Tlacoatzintepec, have marginal mutual intelligibility. They are close to Sochiapan Chinantec.

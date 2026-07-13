@@ -6,6 +6,7 @@ alt_names: ["Katang, Southern"]
 population: null
 country_id: LA
 country_name: Laos
+area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: null
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 南方卡塘语
     auto: true
 ---
+Bruu is a Mon–Khmer dialect continuum spoken by the Bru people of mainland Southeast Asia. Sô and Khua are dialects.

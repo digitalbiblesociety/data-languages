@@ -6,11 +6,14 @@ alt_names: [Northern, Selkirk, Tuchone, Tutchone, Tutchone (Northern), Tutchone 
 population: 1000
 country_id: CA
 country_name: Canada
+location: Canada
+area: Athabaskan language spoken in the Yukon
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 62.82351
 longitude: -136.64414
+language_map_img: Tutchone_map.svg
 glottocode: nort2941
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

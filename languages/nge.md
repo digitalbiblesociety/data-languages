@@ -2,10 +2,12 @@
 iso: nge
 name: Ngemba
 autonym: Ngemba
-alt_names: [Megimba, Mogimba, Mundum, Ngomba, Nguemba]
+alt_names: [Megimba, Mogimba, Mundum, Ngomba, Nguemba, Akum, Alamatu, Alatening, Alatining, Almatson, Anyang, Ba-Ndom, Bagangu, Bambutu, Bamechom, Bamundum 1, Bamundum 2, Bande, Bandeng, Bangwa, Banjong, Bida, Mangkon, Mangkunge, Mankon, Mbotu, Mbrerewi, Mbutu, Mukohn, Mundum 1, Mundum 2, Ngwa, Njong, Nkune, Nsongwa, Shomba, Songwa]
 population: 18800
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Cobiana, Guboy, Uboi]
 population: 1090
 country_id: GW
 country_name: "Guinea-Bissau"
+location: Guinea and Guinea-Bissau
+area: Senegambian language
 status_id: 6a
 scope: individual
 language_type: living

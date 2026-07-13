@@ -2,9 +2,12 @@
 iso: ogc
 name: Ogbah
 autonym: Ogba
+alt_names: [Egnih, Igburu-Usomini, Olu Ọgba]
 population: 317000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Igboid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

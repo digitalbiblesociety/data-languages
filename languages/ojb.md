@@ -3,10 +3,12 @@ iso: ojb
 macrolanguage_id: oji
 name: Northwestern Ojibwa
 autonym: Northern Ojibwa
-alt_names: [Chippeway, Ojibwa, "Ojibwa, Northwestern", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Salteaux, Saulteau, Saulteaux]
+alt_names: [Chippeway, Ojibwa, "Ojibwa, Northwestern", Ojibway, Ojibwe, Ojibwe du nord-ouest, Oyibua noroccidental, Salteaux, Saulteau, Saulteaux, Albany River Ojibwa, Berens River Ojibwa, Lac Seul Ojibwa, Lake of the Woods Ojibwa, Nakawēmowin, Rainy River Ojibwa]
 population: 20000
 country_id: CA
 country_name: Canada
+location: Canada
+area: Ojibwe dialect in Canada
 status_id: "7"
 scope: individual
 language_type: living

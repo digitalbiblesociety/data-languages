@@ -6,6 +6,7 @@ alt_names: [Queets, Queniut, kʷínayɬ]
 population: 2007
 country_id: US
 country_name: United States
+area: Dormant Salishan language of Washington State
 status_id: "9"
 scope: individual
 language_type: extinct

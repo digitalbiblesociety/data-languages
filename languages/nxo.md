@@ -5,6 +5,7 @@ autonym: null
 population: 2000
 country_id: GA
 country_name: Gabon
+area: Bantu language spoken in Gabon
 status_id: null
 scope: individual
 language_type: living

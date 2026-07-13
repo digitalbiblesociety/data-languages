@@ -2,10 +2,11 @@
 iso: sab
 name: Buglere
 autonym: Murire
-alt_names: [Bobota, Bocota, Bocotá, Bofota, Bogota, Bogotá, Bokota, Bokotá, Boncota, Bukueta, Muoy, Nortenyo, Sabanero, Veraguas Sabanero]
+alt_names: [Bobota, Bocota, Bocotá, Bofota, Bogota, Bogotá, Bokota, Bokotá, Boncota, Bukueta, Muoy, Nortenyo, Sabanero, Veraguas Sabanero, Bugle]
 population: 18000
 country_id: PA
 country_name: Panama
+location: Panama
 status_id: "5"
 scope: individual
 language_type: living

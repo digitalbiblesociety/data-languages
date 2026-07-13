@@ -6,11 +6,13 @@ alt_names: [Amberu, Anaiwan, Anaywan, Aneewan, Aniwan, Dariwan, Ee na won, Ee-na
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -29.581
 longitude: 151.313
+language_map_img: 500px-Anaiwan_language.webp
 glottocode: ngan1296
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

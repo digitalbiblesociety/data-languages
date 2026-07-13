@@ -2,10 +2,11 @@
 iso: bzs
 name: Brazilian Sign Language
 autonym: Libras
-alt_names: [Brasiliansk tegnspråk, Brazila signolingvo, Lsb, São Paulo Sign Language]
+alt_names: [Brasiliansk tegnspråk, Brazila signolingvo, Lsb, São Paulo Sign Language, Língua Brasileira de Sinais, Língua de Sinais Brasileira, Língua de Sinais dos Centros Urbanos Brasileiros, SPSL]
 population: 630000
 country_id: BR
 country_name: Brazil
+area: Sign language of Brazil
 status_id: 6a
 scope: individual
 language_type: living

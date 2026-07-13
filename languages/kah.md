@@ -6,6 +6,8 @@ alt_names: [Dam Fer, Fer, Fer language, Fertit, Kara, Kara (in Central African R
 population: 4800
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Central Sudanic language of the CAR
 status_id: 6a
 scope: individual
 language_type: living

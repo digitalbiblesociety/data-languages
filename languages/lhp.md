@@ -6,11 +6,14 @@ alt_names: [Lokpu, Taba-Damey-Bikha]
 population: 2500
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Sino-Tibetan language of southwestern Bhutan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 26.91347
 longitude: 89.30994
+language_map_img: 500px-Lhokpu.webp
 glottocode: lhok1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

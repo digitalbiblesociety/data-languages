@@ -2,10 +2,12 @@
 iso: ymm
 name: Maay
 autonym: "Af- Mai-Mai"
-alt_names: [Af-Maay, Af-Maay Tiri, Af-May, Af-Maymay, May, Rahanween, Rahanweyn]
+alt_names: [Af-Maay, Af-Maay Tiri, Af-May, Af-Maymay, May, Rahanween, Rahanweyn, Af-Helledi, Maay Maay, Mai Mai]
 population: 2608000
 country_id: SO
 country_name: Somalia
+location: Somalia
+area: Somali dialect
 status_id: "5"
 scope: individual
 language_type: living

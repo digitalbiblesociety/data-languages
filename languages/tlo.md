@@ -6,6 +6,8 @@ alt_names: [Ajomang, Gajomang, Jomang, Talodí]
 population: 1500
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Talodi language of Sudan
 status_id: 8b
 scope: individual
 language_type: living

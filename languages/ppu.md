@@ -6,11 +6,13 @@ alt_names: [Hinapavosa, Hoanya, Papola, Papora-Hoanya, Vupuran]
 population: null
 country_id: TW
 country_name: Taiwan
+area: Extinct Formosan language of Taiwan
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 24.32398
 longitude: 120.57694
+language_map_img: 500px-Formosan_languages.webp
 glottocode: papo1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

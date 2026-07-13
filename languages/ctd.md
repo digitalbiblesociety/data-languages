@@ -2,10 +2,12 @@
 iso: ctd
 name: Tedim Chin
 autonym: Zokam
-alt_names: [Chin, Chin (North), Chin (Tedim), Chin (Tiddim), "Chin, Tedim", "Chin,Tedim", Kamhau, Tedim, Tiddim, Tiddim Chin, တီးတိန်ချင်း]
+alt_names: [Chin, Chin (North), Chin (Tedim), Chin (Tiddim), "Chin, Tedim", "Chin,Tedim", Kamhau, Tedim, Tiddim, Tiddim Chin, တီးတိန်ချင်း, Hai-Dim, Kamhao, Kamhow, Sokte, Tidim, Zomi]
 population: 411000
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in Burma and India
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mpg
 name: Marba
 autonym: Marba / Azumeina
-alt_names: ["'Azumeina", Azumeina, Kolong, Kulong, Kulung, Maraba, Marba hizkuntza, Marbaeg]
+alt_names: ["'Azumeina", Azumeina, Kolong, Kulong, Kulung, Maraba, Marba hizkuntza, Marbaeg, ’Azumeina, Banana, Bananna, Kolon, Leou, Lew, Léo, Monogoy]
 population: 271000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

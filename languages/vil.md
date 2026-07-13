@@ -6,6 +6,7 @@ alt_names: [Vilelan]
 population: null
 country_id: AR
 country_name: Argentina
+area: Extinct language of Argentina
 status_id: "10"
 scope: individual
 language_type: living

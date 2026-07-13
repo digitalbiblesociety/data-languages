@@ -2,10 +2,12 @@
 iso: kcx
 name: "Kachama-Ganjule"
 autonym: null
-alt_names: [Gatame, "Gats'ame", "Gats'amé", Gatsama - ganjule - harro, Gatsame, "Get'eme", Gidicho, Harro, Haruro, Kachama, Qechem]
+alt_names: [Gatame, "Gats'ame", "Gats'amé", Gatsama - ganjule - harro, Gatsame, "Get'eme", Gidicho, Harro, Haruro, Kachama, Qechem, Gats’ame, Get’eme]
 population: 1002
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kwm
 name: Kwambi
 autonym: Oshikwambi
-alt_names: [Namibia]
+alt_names: [Namibia, Otjiwambo, Owambo]
 population: 39000
 country_id: NA
 country_name: Namibia
+location: Namibia
+area: Ovambo language of Namibia and Angola
 status_id: "5"
 scope: individual
 language_type: living

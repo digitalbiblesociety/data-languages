@@ -6,6 +6,7 @@ alt_names: ["*Achomi", Achomi, Fars, Lareg, Larestani, Larestani dialects, گو�
 population: 118000
 country_id: IR
 country_name: Iran
+area: Iranian language spoken in the south of Iran
 status_id: 6a
 scope: individual
 language_type: living

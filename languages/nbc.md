@@ -6,6 +6,8 @@ alt_names: [Chang, Changyanguh, Machongrr, Mochumi, Mojung, Naga, "Naga, Chang",
 population: 66900
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

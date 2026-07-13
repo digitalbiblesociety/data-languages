@@ -2,10 +2,12 @@
 iso: fip
 name: Fipa
 autonym: Ichifipa
-alt_names: [Cifipa, Fiba, Icifipa, Kifipa]
+alt_names: [Cifipa, Fiba, Icifipa, Kifipa, Cile, Fipa-Sukuma, Icikandaasi, Icikwa, Icikwaafi, Icinkwaamba, Icintile, Icipeemba, Icisiiwa, Icisukuuma, Kandaasi, Kandasi, Kwa, Kwaafi, Milanzi, Nkwaamba, Northern Fipa, Ntile, Peemba, Siiwa, Southern Fipa, Sukuma, Sukuuma, Yantili]
 population: 713000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

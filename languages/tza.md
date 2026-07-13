@@ -2,10 +2,11 @@
 iso: tza
 name: Tanzanian Sign Language
 autonym: Lugha Ya Alama
-alt_names: [Tanzania Sign Language]
+alt_names: [Tanzania Sign Language, “Lugha Ya Bubu”, Lugha ya Alama ya Tanzania, TZSL]
 population: 290000
 country_id: TZ
 country_name: Tanzania
+area: Sign languages developed in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

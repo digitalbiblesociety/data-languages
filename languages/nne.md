@@ -6,11 +6,13 @@ alt_names: [Angola]
 population: 13100
 country_id: AO
 country_name: Angola
+area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -16.63593
 longitude: 21.19282
+language_map_img: 500px-Distribution_of_Oshiwambo_in_Namibia.webp
 glottocode: ngan1300
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -53,3 +55,4 @@ translations:
     name: 恩甘德耶拉语
     auto: true
 ---
+The Ovambo language or Oshiwambo, also known as the Namibian language, is a dialect cluster spoken by the Ovambo people in southern Angola and northern Namibia, of which the written standards are Kwanyama and Ndonga.

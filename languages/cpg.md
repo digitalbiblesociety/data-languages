@@ -6,6 +6,7 @@ alt_names: [Asia Minor Greek, Capadoci, Cappadocian, Cappadocien, Grec cappadoci
 population: 2800
 country_id: GR
 country_name: Greece
+area: Dialect of modern Greek
 status_id: "9"
 scope: individual
 language_type: extinct

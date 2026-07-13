@@ -2,10 +2,12 @@
 iso: zmx
 name: Bomitaba
 autonym: Bamitaba
-alt_names: [Mbomitaba, Mbomotaba]
+alt_names: [Mbomitaba, Mbomotaba, Leke]
 population: 9600
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in central Africa
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Budijarra, Gardujarra, Giyajarra, Kartudjara, Keiadjara, Mandjildjar
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

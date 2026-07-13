@@ -2,14 +2,19 @@
 iso: krv
 name: Kavet
 autonym: Khvek
+alt_names: [Kowet, Kravet]
 population: 2380
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language spoken in Cambodia and Laos
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.17964
 longitude: 106.58579
+language_map_img: 500px-Brao_language.webp
+glottocode: kave1238
 wikidata_id: Q12953649
 translations:
   - translation_iso: ara
@@ -48,3 +53,4 @@ translations:
     name: 卡韦特语
     auto: true
 ---
+Brao is a Mon–Khmer language of Cambodia, Laos and Vietnam.

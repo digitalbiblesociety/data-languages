@@ -2,10 +2,12 @@
 iso: nki
 name: Thangal Naga
 autonym: Thangal Naga
-alt_names: [Khoirao, Khoirao Naga, Koirao, Kolya, Liyāng, Mayangkhang, Miyang-Khang, Miyāng Khāng, Naga, "Naga, Thangal", "Naga,Thangal", Ngari, Thangal, Thanggal, Tukaimi]
+alt_names: [Khoirao, Khoirao Naga, Koirao, Kolya, Liyāng, Mayangkhang, Miyang-Khang, Miyāng Khāng, Naga, "Naga, Thangal", "Naga,Thangal", Ngari, Thangal, Thanggal, Tukaimi, Thangkhal Haam]
 population: 23600
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language of India
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: jah
 name: Jah Hut
 autonym: Jah Het
-alt_names: [Eastern Sakai, Ost-Sakai]
+alt_names: [Eastern Sakai, Ost-Sakai, Cheres, Kerdau, Ketiar Krau, Krau, Kuala Tembeling, Pulau Guai, Tengganu, Ulu Ceres, Ulu Tembeling]
 population: 2442
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6a
 scope: individual
 language_type: living

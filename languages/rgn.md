@@ -6,11 +6,13 @@ alt_names: [Dialeto romagnol, Dialetto romagnolo, Diałeto romagnoło, Emiliano-
 population: 1100000
 country_id: IT
 country_name: Italy
+area: Romance language spoken in Romagna (Italy) and San Marino
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 44.234895
 longitude: 11.71892
+language_map_img: 500px-Mappa_linguistica_Romagna.webp
 scripts: [Latn]
 glottocode: roma1328
 glottolog_family_id: indo1319

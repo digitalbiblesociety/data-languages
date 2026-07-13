@@ -6,6 +6,8 @@ alt_names: [Chontal, Chontal (Huamelultec Oaxaca), Chontal de Oaxaca (Costa), Ch
 population: 950
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Chontal language of Oaxaca, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

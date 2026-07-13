@@ -6,6 +6,8 @@ alt_names: [Murik, "Murik, Nor", Múrico, Nor-Murik Lakes]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Sepik language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

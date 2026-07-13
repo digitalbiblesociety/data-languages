@@ -2,10 +2,12 @@
 iso: lex
 name: Luang
 autonym: Literi Lagona
-alt_names: [Letri Lgona, Lgona, Wetan]
+alt_names: [Letri Lgona, Lgona, Wetan, Lakor, Leti, Lteri Lgona, Moa, Wetang]
 population: 18000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

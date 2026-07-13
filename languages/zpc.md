@@ -3,10 +3,12 @@ iso: zpc
 macrolanguage_id: zap
 name: Choapan Zapotec
 autonym: "Zapotec, Choapan"
-alt_names: [Eastern Sapoteko, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincón, Rincón Zapotec, Sierra de Villa Alta, Zapotec, Zapoteco de Choapan, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de Yagallo, Zapoteco del Rincón, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
+alt_names: [Eastern Sapoteko, Northern Sapoteko, Northern Villa Alta Zapotec, Nothern Zapoteco, Rincón, Rincón Zapotec, Sierra de Villa Alta, Zapotec, Zapoteco de Choapan, Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de Yagallo, Zapoteco del Rincón, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Choapan, Zapoteco de San Juan Comaltepec, Comaltepec, Comaltepec Zapotec, Zapoteco de Comaltepec]
 population: 12000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: spy
 macrolanguage_id: kln
 name: Sabaot
 autonym: Sebei
-alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut]
+alt_names: ["Bong'om", Kony, Mt. Elgon Maasai, Pok, Sore-Sabaut, “Mt. Elgon Maasai”, Bok, "Bong'omeek", Book, Koony, Mosoop, "Pong'om", Sabiiny, Soomeek, Sābāwōōt]
 population: 296000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kalenjin language spoken in Kenya and Uganda
 status_id: "5"
 scope: individual
 language_type: living

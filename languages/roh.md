@@ -7,6 +7,8 @@ alt_names: [Erromantxera, Grishun, Kirumanj, Lenghe romanze, Reto-Roemaans, Reto
 population: 40000
 country_id: CH
 country_name: Switzerland
+location: Liechtenstein and Switzerland
+area: Gallo-Romance language of Switzerland
 status_id: "4"
 scope: individual
 language_type: living

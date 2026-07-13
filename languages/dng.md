@@ -2,10 +2,12 @@
 iso: dng
 name: Dungan
 autonym: " 回族語言"
-alt_names: [Doungane, Dounganeg, Dunganish, Dungano, Dzhunyan, Huizu, Kwuizwu, Tungan, "Zwn'jan", דונגאן, تۇڭگان تىلى, 回回话]
+alt_names: [Doungane, Dounganeg, Dunganish, Dungano, Dzhunyan, Huizu, Kwuizwu, Tungan, "Zwn'jan", דונגאן, تۇڭگان تىلى, 回回话, Zwn’jan, Хуэйзў йүян, Gansu, Ganzu, Shaanxi, Shensi, Yage]
 population: 108400
 country_id: KG
 country_name: Kyrgyzstan
+location: Kyrgyzstan and Tajikistan
+area: Sinitic language spoken in Central Asia
 status_id: "4"
 scope: individual
 language_type: living

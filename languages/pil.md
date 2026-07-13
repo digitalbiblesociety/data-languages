@@ -2,10 +2,12 @@
 iso: pil
 name: Yom
 autonym: Pila
-alt_names: [Kpilakpila, Pilapila]
+alt_names: [Kpilakpila, Pilapila, Taneka, Tangerem]
 population: 214000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living

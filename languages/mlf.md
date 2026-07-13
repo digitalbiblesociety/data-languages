@@ -2,10 +2,12 @@
 iso: mlf
 name: Mal
 autonym: Thin
-alt_names: ["Ht'in", Htin, Khatin, Madl, "T'in", Tin]
+alt_names: ["Ht'in", Htin, Khatin, Madl, "T'in", Tin, T’in]
 population: 26700
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos and Thailand
 status_id: "5"
 scope: individual
 language_type: living

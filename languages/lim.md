@@ -3,10 +3,12 @@ iso: lim
 iso639_1: li
 name: Limburgan
 autonym: " Limburgic"
-alt_names: [Limbordjwès, Limborgsch, Limbourgeg, Limbourgek, Limbourgeois, Limburchsk, Limburger, Limburgera, Limburgisc, Limburgisch, Limburgish, Limburgiska, Limburgs, Limburgs Plat, Limburgsk, Limburgänapük, Limbuurchsk, Limbörgs, Limbůrjs Platt, Lìm-pó-ngî, לימבורגית]
+alt_names: [Limbordjwès, Limborgsch, Limbourgeg, Limbourgek, Limbourgeois, Limburchsk, Limburger, Limburgera, Limburgisc, Limburgisch, Limburgish, Limburgiska, Limburgs, Limburgs Plat, Limburgsk, Limburgänapük, Limbuurchsk, Limbörgs, Limbůrjs Platt, Lìm-pó-ngî, לימבורגית, Limberger, Limburgian, Lèmburgs, Plat]
 population: 1300000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: South/Eastern branch of Low Franconian spoken in and around Limburg
 status_id: "2"
 scope: individual
 language_type: living

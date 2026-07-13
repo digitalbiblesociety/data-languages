@@ -2,10 +2,12 @@
 iso: kez
 name: Kukele
 autonym: Kukelle
-alt_names: [Bakele, Ukele, Ukelle]
+alt_names: [Bakele, Ukele, Ukelle, Iteeji, Mtezi, Ugbala]
 population: 180000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Upper Cross River language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

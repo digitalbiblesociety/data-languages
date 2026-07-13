@@ -6,6 +6,8 @@ alt_names: [Boven Mbian, Boven-Mbian, "Marind, Bian", Northwest Marind]
 population: 2900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 比安马林德语
     auto: true
 ---
+Marind is a Papuan language spoken in Malind District, Merauke Regency, Indonesia by over ten thousand people. Dialects are Southeast Marind, Gawir, Holifoersch, and Tugeri. Bian Marind, also known as Boven-Mbian, is divergent enough to not be mutually intelligible, and has been assigned a separate ISO code.

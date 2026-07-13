@@ -6,6 +6,8 @@ alt_names: [Tanzania]
 population: 36000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in East Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 马金加语
     auto: true
 ---
+Makonde is the language spoken by the Makonde, an ethnic group in southeast Tanzania and northern Mozambique. Makonde is a central Bantu language closely related to Yao. The Matambwe (Matembwe) and Mabiha (Maviha) dialects are divergent, and may not be Makonde.

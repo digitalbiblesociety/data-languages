@@ -2,10 +2,12 @@
 iso: ngb
 name: Northern Ngbandi
 autonym: Baza
-alt_names: [Dendi, Mbangi, Mongwandi, Ngbandi, "Ngbandi, Northern", Ngwandi, Yakoma (Sango)]
+alt_names: [Dendi, Mbangi, Mongwandi, Ngbandi, "Ngbandi, Northern", Ngwandi, Yakoma (Sango), Ngbandi du Nord]
 population: 250000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian dialect continuum of Central Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 北恩班迪语
 ---
+The Ngbandi language is a dialect continuum of the Ubangian family spoken by a half-million or so people in the Democratic Republic of Congo and in the Central African Republic. It is primarily spoken by the Ngbandi people, which included the dictator of what was then known as Zaire, Mobutu Sese Seko.

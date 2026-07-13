@@ -6,11 +6,13 @@ alt_names: [Timuqua, Tumucua, Тимукуа]
 population: null
 country_id: US
 country_name: United States
+area: Extinct language in U.S. states of Florida and Georgia
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 30.302709
 longitude: -82.313233
+language_map_img: 500px-Timucua_lang.webp
 glottocode: timu1245
 wikidata_id: Q638300
 wikipedia_url: "https://en.wikipedia.org/wiki/Timucua_language"

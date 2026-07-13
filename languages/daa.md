@@ -2,10 +2,12 @@
 iso: daa
 name: Dangaléat
 autonym: Dangla
-alt_names: [Danal, Dangal, Dangaleat, Western]
+alt_names: [Danal, Dangal, Dangaleat, Western, Central Dangaléat, Daŋla, East Dangaléat, Karbo, Korbo, West Dangaléat]
 population: 60000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

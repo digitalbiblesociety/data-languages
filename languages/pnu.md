@@ -6,6 +6,8 @@ alt_names: [Bunu, Bunu jiongnai, "Bunu, Jiongnai", Bunú jiongnai, Chiung-nai, H
 population: 1080
 country_id: CN
 country_name: China
+location: Southern China
+area: "Hmongic language of Guangxi, China"
 status_id: 6b
 scope: individual
 language_type: living

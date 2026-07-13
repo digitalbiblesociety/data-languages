@@ -3,10 +3,11 @@ iso: yhd
 macrolanguage_id: jrb
 name: "Judeo-Iraqi Arabic"
 autonym: Arabi
-alt_names: ["Arabic, Judeo-Iraqi", Judeo-Baghdadi, Judeoirački arapski, يهودية عراقية]
+alt_names: ["Arabic, Judeo-Iraqi", Judeo-Baghdadi, Judeoirački arapski, يهودية عراقية, Iraqi Judeo-Arabic, Jewish Iraqi-Baghdadi Arabic, Yahudic]
 population: 94120
 country_id: IL
 country_name: Israel
+area: Judeo-Arabic variety of Iraqi Jews
 status_id: "7"
 scope: individual
 language_type: living

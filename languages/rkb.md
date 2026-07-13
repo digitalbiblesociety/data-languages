@@ -2,15 +2,18 @@
 iso: rkb
 name: Rikbaktsa
 autonym: erigpaksá
-alt_names: [Aripaktsa, Aripaktsá, Canoeiro, Caoeiro, Eribatsa, Erikbatsa, Erikpatsa, Eripatsa, Rikbaktsá]
+alt_names: [Aripaktsa, Aripaktsá, Canoeiro, Caoeiro, Eribatsa, Erikbatsa, Erikpatsa, Eripatsa, Rikbaktsá, Erigbaagtsá, Erigpactsá, Erigpaktsá, Erikbaktsá, Orelhas de Pau, Rikpakcá, Rikpaktsá]
 population: 910
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Macro-Ge language spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -11.18865
 longitude: -58.19424
+language_map_img: 500px-Rikbaktsa_language.webp
 glottocode: rikb1245
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je

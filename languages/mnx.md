@@ -6,6 +6,8 @@ alt_names: [Mantion, Sogh, Sougb]
 population: 12000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

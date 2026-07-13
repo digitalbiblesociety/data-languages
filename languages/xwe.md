@@ -2,10 +2,12 @@
 iso: xwe
 name: Xwela Gbe
 autonym: Xwela
-alt_names: ["Gbe, Xwela", Houeda, Peda, Phera, Xwela-Gba]
+alt_names: ["Gbe, Xwela", Houeda, Peda, Phera, Xwela-Gba, Xwela-Gbe]
 population: 84700
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language of Benin
 status_id: 6a
 scope: individual
 language_type: living

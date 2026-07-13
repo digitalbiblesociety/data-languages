@@ -2,10 +2,12 @@
 iso: yim
 name: Yimchungru Naga
 autonym: Yachumi
-alt_names: ["Naga, Yimchungru", "Naga,Yimchungru", Tozhuma, Yachimi, Yanchunger, Yatśumi, Yimchunger, Yimchungre, Yimchungru, Yimchungrü, Yimtśurr]
+alt_names: ["Naga, Yimchungru", "Naga,Yimchungru", Tozhuma, Yachimi, Yanchunger, Yatśumi, Yimchunger, Yimchungre, Yimchungru, Yimchungrü, Yimtśurr, Chirr, Minir, Pherrongre, Tikhir, Wai]
 population: 83300
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Koké]
 population: 600
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language of Chad
 status_id: "7"
 scope: individual
 language_type: living

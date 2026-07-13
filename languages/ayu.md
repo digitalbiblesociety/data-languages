@@ -5,6 +5,8 @@ autonym: Aya
 population: 800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

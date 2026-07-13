@@ -2,10 +2,12 @@
 iso: ply
 name: Bolyu
 autonym: Baliu
-alt_names: [Lai, Paliu, Palju, Palyu, Polyu]
+alt_names: [Lai, Paliu, Palju, Palyu, Polyu, Lailai]
 population: 10000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Austroasiatic language spoken in China
 status_id: 8a
 scope: individual
 language_type: living

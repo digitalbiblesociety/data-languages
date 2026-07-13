@@ -6,6 +6,8 @@ alt_names: [Bati, Bati (Cameroonh), Bati de Brousse]
 population: 800
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

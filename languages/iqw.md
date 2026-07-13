@@ -5,6 +5,7 @@ autonym: null
 population: 260000
 country_id: NG
 country_name: Nigeria
+area: "Igboid language spoken in Ebonyi state, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living

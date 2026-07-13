@@ -3,15 +3,18 @@ iso: her
 iso639_1: hz
 name: Herero
 autonym: Otjiherero
-alt_names: [Herereg, Héréro, Ochiherero, Гереро]
+alt_names: [Herereg, Héréro, Ochiherero, Гереро, Central Herero, East Herero, Himba, Mbanderu, Mbandieru, Oluherero, Otjihimba, Otshiherero, Ovaherero, Ovahimba]
 population: 248700
 country_id: NA
 country_name: Namibia
+location: Botswana
+area: Bantu language of Namibia and Botswana
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -21.02312
 longitude: 20.565535
+language_map_img: 500px-Distribution_of_Otjiherero_in_Namibia.webp
 scripts: [Latn]
 glottocode: here1253
 glottolog_family_id: atla1278

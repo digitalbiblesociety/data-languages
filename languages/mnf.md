@@ -2,10 +2,12 @@
 iso: mnf
 name: Mundani
 autonym: null
-alt_names: [Cameroon, Lower Mundani]
+alt_names: [Cameroon, Lower Mundani, Bamumbo, Bamumbu, Bangang, Banti, Bechati, Besali, Folepi, Iguambo, Igumbo, Nko, Nkong, ndɨ̧ Mundàni]
 population: 34000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Karen, Phrae Pwo", "Karen,PhraePwo", Northeastern Pwo Karen, Phrae,
 population: 6000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Karen language spoken in Thailand
 status_id: 6a
 scope: individual
 language_type: living

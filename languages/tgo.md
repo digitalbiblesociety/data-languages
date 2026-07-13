@@ -2,10 +2,12 @@
 iso: tgo
 name: Sudest
 autonym: Tagula
-alt_names: [Sud-Est, "Sud-Est, Tagula", Vanatina, Vanga]
+alt_names: [Sud-Est, "Sud-Est, Tagula", Vanatina, Vanga, Araetha, Central Sudest, Dtelha, Eastern Point, Eastern Sudest, Griffin Point, Jelewaga, Pamela, Rambuso, Rehuwo, Rewa, Vanatinai, Western Sudest]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

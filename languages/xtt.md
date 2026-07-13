@@ -6,6 +6,8 @@ alt_names: [Atatláhuca Mixtec, Chalcatongo Mixtec, Eastern Putla Mixtec, Itundu
 population: 580
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

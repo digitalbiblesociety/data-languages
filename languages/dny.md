@@ -6,6 +6,8 @@ alt_names: [Den, Deni]
 population: 750
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Arawan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

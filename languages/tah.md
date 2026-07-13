@@ -3,10 +3,12 @@ iso: tah
 iso639_1: ty
 name: Tahitian
 autonym: Reo TahitiReo Māꞌohi
-alt_names: [Tahiti, Tahiti simi, Tahitiaans, Tahitieg, Tahitien, Tahitisk, Tahitiska, Tahitià, Tahityan, Tahitïeg, ‘Ōlelo Kahiki]
+alt_names: [Tahiti, Tahiti simi, Tahitiaans, Tahitieg, Tahitien, Tahitisk, Tahitiska, Tahitià, Tahityan, Tahitïeg, ‘Ōlelo Kahiki, Reo Tahiti]
 population: 68610
 country_id: PF
 country_name: French Polynesia
+location: French Polynesia
+area: Language of French Polynesia
 status_id: "1"
 scope: individual
 language_type: living

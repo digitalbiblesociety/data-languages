@@ -2,10 +2,12 @@
 iso: kum
 name: Kumyk
 autonym: къумукъ тил/qumuq til
-alt_names: [Koemuks, Koumyk, Kumuk, Kumuklar, Kumukça, Kumyki, Kumyko, Kumyčtina]
+alt_names: [Koemuks, Koumyk, Kumuk, Kumuklar, Kumukça, Kumyki, Kumyko, Kumyčtina, къумукъ, Buinak, Buinaksk, Khaidak, Khaitag, Khasav-Yurt, Khasavyurt, Podgorniy, Qumuqlar, Terek]
 population: 503000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Kipchak Turkic language
 status_id: "5"
 scope: individual
 language_type: living

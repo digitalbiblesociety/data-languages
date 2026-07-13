@@ -6,6 +6,7 @@ alt_names: [Batem-Da-Kai-Ee, Kai Po-Mo, Kuta, Tlokeang]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Athabaskan language of California
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Derung language, Droungeg, Kiao, Kiu, Kiupa, Kiutze, Melam, Metu, Nu
 population: 14000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language of Southwest China
 status_id: 6a
 scope: individual
 language_type: living

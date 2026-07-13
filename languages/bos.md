@@ -4,15 +4,19 @@ iso639_1: bs
 macrolanguage_id: hbs
 name: Bosnian
 autonym: босански
+alt_names: [bosanski, Ijekavían, Ikavian, Serbo-Croatian]
 population: 3301000
 country_id: BA
 country_name: Bosnia and Herzegovina
+area: Standardized variety of Serbo-Croatian
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 42.93308
 longitude: 17.67044
+language_map_img: 500px-Bosnianlanguagemap.webp
 scripts: [Cyrl, Latn]
+glottocode: bosn1245
 wikidata_id: Q9303
 wikipedia_url: "https://en.wikipedia.org/wiki/Bosnian_language"
 translations:

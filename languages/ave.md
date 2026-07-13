@@ -7,6 +7,7 @@ alt_names: [An Aivéistis, Avesteg, Avesties, Avestique, Avestisch, Avestisk, Av
 population: null
 country_id: IR
 country_name: Iran
+area: Eastern Iranian language used in Zoroastrian scripture
 status_id: "10"
 scope: individual
 language_type: historical

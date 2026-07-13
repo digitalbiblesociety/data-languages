@@ -6,6 +6,8 @@ alt_names: [Chiapas Soke, Northeast Zoque A, Ocotepec, Pantepec, Rayon, Rayon Zo
 population: 10400
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zoquean dialects of Mexico
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 拉永索克语
     auto: true
 ---
+Chiapas Zoque is a dialect cluster of Zoquean languages indigenous to southern Mexico. The three varieties with ISO codes, Francisco León, Copainalá, and Rayón, are named after the towns they are spoken in, though residents of Francisco León were relocated after their town was buried in the eruption of El Chichón Volcano in 1982. Francisco León and Copainalá are 83% mutually intelligible according to Ethnologue.

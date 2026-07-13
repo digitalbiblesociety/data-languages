@@ -5,6 +5,7 @@ autonym: दरा ु भुँ
 population: null
 country_id: NP
 country_name: Nepal
+area: Extinct Sino-Tibetan language of central Nepal
 status_id: "9"
 scope: individual
 language_type: extinct

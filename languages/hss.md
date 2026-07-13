@@ -2,15 +2,18 @@
 iso: hss
 name: Harsusi
 autonym: Harsiyyet
-alt_names: ["Harsi `Aforit", Harsouseg, Harsusi hizkuntza, Hersyet, Ḥarsusi, South Arabian, Ḥarsusi, Ḥarsūsī]
+alt_names: ["Harsi `Aforit", Harsouseg, Harsusi hizkuntza, Hersyet, Ḥarsusi, South Arabian, Ḥarsusi, Ḥarsūsī, "Harsi 'Aforit", Harsi ’Aforit]
 population: 600
 country_id: OM
 country_name: Oman
+location: Oman
+area: Semitic language spoken in Oman
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 19.6511
 longitude: 56.15619
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: hars1241
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

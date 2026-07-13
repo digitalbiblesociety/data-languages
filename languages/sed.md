@@ -2,15 +2,18 @@
 iso: sed
 name: Sedang
 autonym: Cadong
-alt_names: [Hadang, Hdang, Hotea, Hoteang, Həjung, Kmrang, Kəmrang, Rotea, Roteang, Sedang-Sprachen, Sedangeg, Sədang, Tang, Xa Dang, Xodang]
+alt_names: [Hadang, Hdang, Hotea, Hoteang, Həjung, Kmrang, Kəmrang, Rotea, Roteang, Sedang-Sprachen, Sedangeg, Sədang, Tang, Xa Dang, Xodang, Dang, Xa]
 population: 97900
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language of Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.77933
 longitude: 108.02703
+language_map_img: 500px-Sedang_language.webp
 glottocode: seda1262
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

@@ -2,10 +2,12 @@
 iso: koo
 name: Konzo
 autonym: Olhukonzo
-alt_names: [Konjo, Konjo people, Konzot, Lhukonzo, Olukonjo, Olukonzo, Rukonjo]
+alt_names: [Konjo, Konjo people, Konzot, Lhukonzo, Olukonjo, Olukonzo, Rukonjo, Bakonzo, Bayira, Ekisanza, Lusongora, Olhughendera, Rugabo, Rukingwe, Rukonzo, Runyabindi, Runyabutumbi, Rusongora, Sanza]
 population: 893000
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in Central Africa
 status_id: "4"
 scope: individual
 language_type: living

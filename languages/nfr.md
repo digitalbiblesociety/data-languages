@@ -2,15 +2,18 @@
 iso: nfr
 name: Nafaanra
 autonym: Banda
-alt_names: [Dzama, Gambo, Nafaara, Nafana, Nafanreg, Pantera-Fantera]
+alt_names: [Dzama, Gambo, Nafaara, Nafana, Nafanreg, Pantera-Fantera, Banafo, Fantera, Pantera]
 population: 89000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Senufo language of Ghana and Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 8.00522
 longitude: -2.51001
+language_map_img: Nafaanra_language.svg
 glottocode: nafa1258
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

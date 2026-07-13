@@ -2,15 +2,18 @@
 iso: amx
 name: Anmatyerre
 autonym: Arrernte
-alt_names: [Anmatjara, Anmatjera, Anmatjirra, Imatjera, Inmatjera, Janmadjara, Janmatjiri, Nmatjera, Unmatjera, Urmitchee, Yandmadjari, Yanmedjara]
+alt_names: [Anmatjara, Anmatjera, Anmatjirra, Imatjera, Inmatjera, Janmadjara, Janmatjiri, Nmatjera, Unmatjera, Urmitchee, Yandmadjari, Yanmedjara, Anmatyerr, Eastern Anmatyerre, Kalenthelkwe, Kelentheyewelrere, Kelenthwelkere, Western Anmatyerre]
 population: 640
 country_id: AU
 country_name: Australia
+location: Australia
+area: Dialect cluster of Central Australia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -22.28531
 longitude: 133.28584
+language_map_img: 500px-Arandic_languages.webp
 glottocode: anma1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan
@@ -63,3 +66,4 @@ rolv_dialects:
     country_id: AU
     location: "Australia, Northern Territory"
 ---
+Arrernte or Aranda, or sometimes referred to as Upper Arrernte, is a dialect cluster in the Arandic language group spoken in parts of the Northern Territory, Australia, by the Arrernte people. Other spelling variations are Arunta or Arrarnta, and all of the dialects have multiple other names.

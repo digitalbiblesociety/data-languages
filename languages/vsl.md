@@ -5,6 +5,7 @@ autonym: Lengua de Señas Venezolana
 population: 86000
 country_id: VE
 country_name: Venezuela
+area: Deaf sign language of Venezuela
 status_id: 6a
 scope: individual
 language_type: living

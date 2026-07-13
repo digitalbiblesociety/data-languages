@@ -2,15 +2,18 @@
 iso: war
 name: Waray
 autonym: " Samar-Leyte Visayan"
-alt_names: [Binisaya, Bisaya, Pagsasao a Waray, Samar-Leyte, Samaran, Samareño, Sorsogon (Waray), Waray, Waray (Meso-Phillipines), Waray Waray, Waray-Waray, Winaray, Winarayeg, Wáray-Wáray, Wáray-Wáray-ngî]
+alt_names: [Binisaya, Bisaya, Pagsasao a Waray, Samar-Leyte, Samaran, Samareño, Sorsogon (Waray), Waray, Waray (Meso-Phillipines), Waray Waray, Waray-Waray, Winaray, Winarayeg, Wáray-Wáray, Wáray-Wáray-ngî, Northern Samar, Samarenyo]
 population: 2611110
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language primarily spoken in the islands of Samar and Eastern Leyte
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 11.49115
 longitude: 125.01203
+language_map_img: 500px-Waray-Waray_language_map.webp
 scripts: [Latn]
 glottocode: wara1300
 glottolog_family_id: aust1307

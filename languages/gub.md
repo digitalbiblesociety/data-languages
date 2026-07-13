@@ -2,15 +2,19 @@
 iso: gub
 name: Guajajára
 autonym: Guajajara
+alt_names: [Guazazzara, Tenetehar, Tenetehára, Mearim, Pindare, Zutiua]
 population: 19500
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupian language spoken by indigenous peoples in the Brazilian state of Maranhão
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -4.69461
 longitude: -45.70815
 scripts: [Latn]
+glottocode: guaj1255
 wikidata_id: Q57420736
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 瓜雅查拉语
     auto: true
 ---
+Tenetehára is a Tupi–Guarani language spoken in the state of Maranhão in Brazil. Sociolinguistically, it is two languages, each spoken by the Guajajara and the Tembé people, though these are mutually intelligible. Tembé was spoken by less than a quarter of its ethnic population of 820 in 2000; Guajajara, on the other hand, is more robust, being spoken by two-thirds of its 20,000 people.

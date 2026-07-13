@@ -2,10 +2,11 @@
 iso: lsa
 name: Lasgerdi
 autonym: Läsgerdi
-alt_names: [Semnani]
+alt_names: [Semnani, Lasjerdi]
 population: 1000
 country_id: IR
 country_name: Iran
+area: Iranian language
 status_id: 6a
 scope: individual
 language_type: living

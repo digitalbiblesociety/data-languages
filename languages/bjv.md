@@ -2,10 +2,12 @@
 iso: bjv
 name: Bedjond
 autonym: Nangnda
-alt_names: [Bediondo, Bediondo Mbai, Bedjondo, Bédjonde, Mbay Bediondo, Mbay Bejondo]
+alt_names: [Bediondo, Bediondo Mbai, Bedjondo, Bédjonde, Mbay Bediondo, Mbay Bejondo, Bébote, Yom]
 population: 36000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Central Sudanic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: TD
     location: "Chad, Moyen-Chari"
 ---
+Doba is a Central Sudanic language of Chad. It is traditionally considered three languages, because it is spoken by three ethnicities with separate identities, the Bedjond, the Mango, and the Gor. However, all have a high degree of mutual intelligibility, and so by that standard are a single language.

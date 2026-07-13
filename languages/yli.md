@@ -6,6 +6,8 @@ alt_names: [Angguruk, Ngalik, Northern Yali, Yali, "Yali, Angguruk"]
 population: 15000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dani language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 昂古鲁克-亚里语
     auto: true
 ---
+Yali is a Papuan language of Indonesian New Guinea. The Yali people live east of the Baliem Valley, in the Western Highlands.

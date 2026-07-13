@@ -2,10 +2,12 @@
 iso: gum
 name: Guambiano
 autonym: Namrrik
-alt_names: [Guambia, Guambiana, Guambiano-Moguez, Guambino, Guambía, Misak, Moguex, Moguez, Mogés, Mogües, Namdrik, Wam, Wambiano, Wambiano-Mogés]
+alt_names: [Guambia, Guambiana, Guambiano-Moguez, Guambino, Guambía, Misak, Moguex, Moguez, Mogés, Mogües, Namdrik, Wam, Wambiano, Wambiano-Mogés, Coconuco, Guanaca]
 population: 21000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Barbacoan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living

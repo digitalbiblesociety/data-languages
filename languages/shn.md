@@ -2,15 +2,18 @@
 iso: shn
 name: Shan
 autonym: Tai
-alt_names: ["\"Ngeo\"", "\"Ngiao\"", "\"Ngiaw\"", "\"Ngio\"", "\"Ngiow\"", Chaneg, Great Thai, Mau, Sam, Sha, Tai Luang, Tai Shan, Tai Yai, Taishan, Thai Yai, chan]
+alt_names: ["\"Ngeo\"", "\"Ngiao\"", "\"Ngiaw\"", "\"Ngio\"", "\"Ngiow\"", Chaneg, Great Thai, Mau, Sam, Sha, Tai Luang, Tai Shan, Tai Yai, Taishan, Thai Yai, chan, “Ngeo”, “Ngiao”, “Ngiaw”, “Ngio”, “Ngiow”, Burmese Shan, Dehong, Mae Hong Son, Mao Shan, Northern Shan State, Shan Bama, Shan Gyi, Southern Shan State, Tai Khe, Tai Long, Tai Mao, Tai Yay, Tai-Lon, Thai Yay]
 population: 4658000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kra–Dai language of Myanmar
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 21.599497
 longitude: 98.034223
+language_map_img: 500px-Shan_language.webp
 scripts: [Mymr]
 glottocode: shan1277
 glottolog_family_id: taik1256

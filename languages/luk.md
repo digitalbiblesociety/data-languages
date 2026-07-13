@@ -6,6 +6,8 @@ alt_names: [Bhutan]
 population: 700
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

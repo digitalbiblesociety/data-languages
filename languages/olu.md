@@ -2,9 +2,11 @@
 iso: olu
 name: Kuvale
 autonym: null
+alt_names: [Mucubal, Olukuvale]
 population: null
 country_id: AO
 country_name: Angola
+area: Bantu language spoken in Angola
 status_id: null
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: loa
 name: Loloda
 autonym: Loda
-alt_names: [North Loloda]
+alt_names: [North Loloda, Bakun, "Loda'sch", Lolodaka]
 population: 15000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

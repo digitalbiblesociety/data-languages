@@ -12,6 +12,7 @@ language_type: living
 latitude: 59.547817
 longitude: 22.820923
 scripts: [Latn]
+glottocode: esto1258
 wikidata_id: Q9072
 wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_language"
 translations:

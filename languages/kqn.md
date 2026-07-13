@@ -2,10 +2,12 @@
 iso: kqn
 name: Kaonde
 autonym: Kiikaonde
-alt_names: [Chikahonde, Chikaonde, Kawonde, Luba Kaonde]
+alt_names: [Chikahonde, Chikaonde, Kawonde, Luba Kaonde, Kahonde]
 population: 242000
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Central Africa
 status_id: "4"
 scope: individual
 language_type: living

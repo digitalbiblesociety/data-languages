@@ -2,10 +2,12 @@
 iso: aah
 name: "Abu' Arapesh"
 autonym: Ua
-alt_names: ["Abu'", Abu’ Arapesh, "Arapesh, Abu'"]
+alt_names: ["Abu'", Abu’ Arapesh, "Arapesh, Abu'", Abuꞌ Arapesh, Matapau, Ounibisima, Womenika]
 population: 2560
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Arapesh language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

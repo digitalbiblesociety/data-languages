@@ -2,10 +2,12 @@
 iso: kkt
 name: Koi
 autonym: Kohi
-alt_names: ["Koi Bo'o", Koyi, Koyu, "Koyu Bo'"]
+alt_names: ["Koi Bo'o", Koyi, Koyu, "Koyu Bo'", Koi Bo’o, Koyu Bo’]
 population: 2640
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kiranti language spoken in Nepal
 status_id: "5"
 scope: individual
 language_type: living

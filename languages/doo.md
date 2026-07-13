@@ -6,6 +6,8 @@ alt_names: ["'Dongo", Dongo Ko]
 population: 12900
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living

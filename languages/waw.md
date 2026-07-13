@@ -2,10 +2,12 @@
 iso: waw
 name: Waiwai
 autonym: Ouayeone
-alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai]
+alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai, Cachuena, Catauian, Catawian, Karahawyana, Katawian, Katawina, Katuena, Katwena, Parucutu, Parukutu, Tonayana, Tunayana-Waiwai]
 population: 2910
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Cariban language spoken in Brazil and Guyana
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bjo
 name: "Mid-Southern Banda"
 autonym: Banda Central Sud
-alt_names: [Banda, "Banda, Mid-Southern"]
+alt_names: [Banda, "Banda, Mid-Southern", Bayaka, Bendi, Bongo, Dukpu, Ouassa, Wasa, Yacoua, Yakpa, Yakpwa, Yakwa]
 population: 102000
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: CF
     location: Central African Republic
 ---
+Central Banda is a dialect continuum of the Banda languages spoken by around one million people, primarily in the Central African Republic. The varieties may be mutually intelligible, especially the Mid-Southern–Gobu–Kpagua–Mono–Ngundu cluster. The other varieties are Bambari, Banda-Banda, Mbrès, Ndélé, and Togbo-Vara Banda.

@@ -2,15 +2,18 @@
 iso: caf
 name: Southern Carrier
 autonym: Dakeł (ᑕᗸᒡ)
-alt_names: [Carrier, "Carrier, Southern", Lower, Lower Carrier, Southern, Ulgatcho, Ulkatcho]
+alt_names: [Carrier, "Carrier, Southern", Lower, Lower Carrier, Southern, Ulgatcho, Ulkatcho, Cheslatta, Nautley, Prince George, Stellaquo, Stoney Creek]
 population: 2055
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Athabaskan language spoken in British Columbia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 53.17629
 longitude: -124.45243
+language_map_img: Dakelh_map.svg
 glottocode: sout2958
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

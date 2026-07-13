@@ -6,6 +6,8 @@ alt_names: [Liguri, Logori]
 population: 2000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Daju language spoken in Sudan
 status_id: "7"
 scope: individual
 language_type: living

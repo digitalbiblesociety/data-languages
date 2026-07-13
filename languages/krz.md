@@ -6,6 +6,8 @@ alt_names: [Enkelembu, Kanum, "Kanum, Sota", Kenume, Knwne]
 population: 100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Yam language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

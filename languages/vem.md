@@ -6,6 +6,8 @@ alt_names: [Mabas]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Afro-Asiatic language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living

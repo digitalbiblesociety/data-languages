@@ -2,10 +2,12 @@
 iso: bjw
 name: Bakwé
 autonym: null
-alt_names: [Bakwe]
+alt_names: [Bakwe, Dafa, Defa, Deple, Nigagba, Nyinagbi]
 population: 10300
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living

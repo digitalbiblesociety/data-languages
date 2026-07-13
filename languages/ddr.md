@@ -5,6 +5,7 @@ autonym: Victorian Alpine
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: extinct

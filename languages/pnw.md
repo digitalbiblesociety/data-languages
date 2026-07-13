@@ -6,6 +6,8 @@ alt_names: [Bailko-Pandjima, Banjima, Banydyima, Mandanjongo, Mandara, Paanjima,
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

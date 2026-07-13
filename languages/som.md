@@ -3,15 +3,18 @@ iso: som
 iso639_1: so
 name: Somali
 autonym: Af Soomaali
-alt_names: [Af-Maxaad Tiri, Af-Soomaali, Common Somali, Darod, Isa, Isaq, Sab, Somali-Aweer, Somaliana linguo, Somalice, Somalieg, Somaliera, Somalisch, Somaliska, Standard Somali, Sumali simi]
+alt_names: [Af-Maxaad Tiri, Af-Soomaali, Common Somali, Darod, Isa, Isaq, Sab, Somali-Aweer, Somaliana linguo, Somalice, Somalieg, Somaliera, Somalisch, Somaliska, Standard Somali, Sumali simi, Soomaali, Af-Ashraaf, Afka Soomaaliga, Ashraaf, Benaadir, Degodia, Northern Somali, Ogaden, Somalie, Soomaaliga, Uardai, Wadai, Warday, Wardei]
 population: 16200000
 country_id: SO
 country_name: Somalia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushitic language of the Horn of Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 4.778704
 longitude: 45.152856
+language_map_img: som.webp
 scripts: [Arab, Latn, Osma]
 glottocode: soma1255
 glottolog_family_id: afro1255

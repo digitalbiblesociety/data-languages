@@ -2,10 +2,12 @@
 iso: tgw
 name: Tagwana Senoufo
 autonym: Tagbana
-alt_names: ["Senoufo, Tagwana", Tafile, Tafire, Tafiri, Tagbona, Tagouna, Tagwana, Takponi, Takponin]
+alt_names: ["Senoufo, Tagwana", Tafile, Tafire, Tafiri, Tagbona, Tagouna, Tagwana, Takponi, Takponin, Djidanan, Fondebougou, Fourgoula, Gbo, Katiara, Katiola, Niakaramadougou, Niangbo, Niediekaha, Sénoufo, Zoro]
 population: 138000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Senufo language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

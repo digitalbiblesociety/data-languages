@@ -6,6 +6,8 @@ alt_names: [Toicho]
 population: 3800
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language of Sudan
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Asiga, Assiga, Ayiga, Ayigha, Yigha]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Cross River language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

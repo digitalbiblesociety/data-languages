@@ -2,9 +2,12 @@
 iso: ebu
 name: Embu
 autonym: Kiembu
+alt_names: [Kîembu-Kîmbeere, Embo, Kimbeere, Mbeere, Mbere]
 population: 600000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living

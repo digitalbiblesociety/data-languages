@@ -6,11 +6,14 @@ alt_names: [Havasupai, Hualapai, Northern Pai, Pai, Upland, Upland Yuman, Upper 
 population: null
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: "Pai language spoken in Arizona, US"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 35.6302
 longitude: -113.38519
+language_map_img: 500px-Hualapai_havasupai_res.webp
 glottocode: hava1248
 glottolog_family_id: coch1271
 glottolog_family_name: Cochimi-Yuman
@@ -69,3 +72,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, Arizona"
 ---
+Havasupai–Hualapai (Havasupai–Walapai) is a Native American language spoken by the Hualapai and Havasupai peoples of northwestern Arizona. Havasupai–Hualapai belongs to the Pai branch of the Yuman–Cochimí language family, together with its close relative Yavapai and with Paipai, a language spoken in northern Baja California. There are two main dialects of this language: the Havasupai dialect is spoken in the bottom of the Grand Canyon, while the Hualapai dialect is spoken along the southern rim. As of 2010, there were approximately 1500 speakers of Havasupai-Hualapai. UNESCO classifies the Havasupai dialect as endangered and the Hualapai dialect as vulnerable. There are efforts at preserving both dialects through bilingual education programs.

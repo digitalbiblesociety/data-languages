@@ -6,6 +6,8 @@ alt_names: [Ambeno, Ambenu, Baikenu, Biqueno, Oe Cusi, Oecussi, Oekusi, Uab Meto
 population: 81700
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Austronesian language spoken in West Timor
 status_id: 6a
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: TL
     location: "Timor-Leste, Oecussi-Ambeno"
 ---
+Uab Meto or Dawan is an Austronesian language cluster spoken by the Atoni people of the Indonesian region of West Timor, as well as the East Timorese municipality of Oecussi-Ambeno.

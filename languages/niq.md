@@ -3,9 +3,12 @@ iso: niq
 macrolanguage_id: kln
 name: Nandi
 autonym: Naandi
+alt_names: [Cemual, Kalenjin Nandi]
 population: 938000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Kalenjin language of western Kenya
 status_id: "5"
 scope: individual
 language_type: living

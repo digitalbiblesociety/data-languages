@@ -2,10 +2,12 @@
 iso: bbq
 name: Bamali
 autonym: Chopechop
-alt_names: [Babatana, "Choiseul, Central-Eastern", Ngoobechop, Sisiqa]
+alt_names: [Babatana, "Choiseul, Central-Eastern", Ngoobechop, Sisiqa, Chɔpəchɔp]
 population: 10800
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

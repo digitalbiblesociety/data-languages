@@ -6,6 +6,8 @@ alt_names: [Djeoromitxi, Djeoromitxi language, Jabotí, Jeoromitxi, Kipiu, Quipi
 population: 40
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Yabutian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

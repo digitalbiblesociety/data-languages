@@ -5,6 +5,8 @@ autonym: Manjhi
 population: 21800
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Indo-Aryan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

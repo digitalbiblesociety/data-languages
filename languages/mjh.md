@@ -2,10 +2,12 @@
 iso: mjh
 name: Nyasa Mwera
 autonym: Nyasa
-alt_names: [Kinyasa, Mwera, Nyanza]
+alt_names: [Kinyasa, Mwera, Nyanza, Kimwera]
 population: 6000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

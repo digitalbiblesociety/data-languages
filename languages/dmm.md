@@ -5,6 +5,8 @@ autonym: null
 population: null
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Moribund Mbum language in northern Cameroon
 status_id: 8b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 达玛语
     auto: true
 ---
+Mono is a moribund Mbum language spoken by older adults in northern Cameroon.

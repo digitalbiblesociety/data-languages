@@ -6,11 +6,13 @@ alt_names: [Sakiray, Sakiraya]
 population: 958
 country_id: TW
 country_name: Taiwan
+area: East Formosan language of eastern Taiwan
 status_id: null
 scope: individual
 language_type: living
 latitude: 24.026316
 longitude: 121.531394
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: saki1247
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

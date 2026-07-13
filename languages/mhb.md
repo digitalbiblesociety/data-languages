@@ -6,6 +6,8 @@ alt_names: [Mahongüe]
 population: 1000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: 8a
 scope: individual
 language_type: living

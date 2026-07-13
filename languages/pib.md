@@ -2,10 +2,12 @@
 iso: pib
 name: Yine
 autonym: Piro
-alt_names: ["\"Piro\"", "\"Simirinche\"", Arawakan (Piro), Chontaquiro, Contaquiro, Manitereni, Maxineri, Pira, Piro Arawakan, Pirro, Simiranch, Simirinch]
+alt_names: ["\"Piro\"", "\"Simirinche\"", Arawakan (Piro), Chontaquiro, Contaquiro, Manitereni, Maxineri, Pira, Piro Arawakan, Pirro, Simiranch, Simirinch, “Piro”, “Simirinche”, Apurinã, Simirinche, Tokanï, Yinerï]
 population: 3260
 country_id: PE
 country_name: Peru
+location: Peru
+area: Maipurean language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Waangyee, Waanyi, Wainyi, Wanee, Wanji, Wanyee, Wanyu, Wonyee]
 population: 16
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

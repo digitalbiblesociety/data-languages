@@ -6,6 +6,7 @@ alt_names: ["'Ngarrimouro", Arramouro, Bangerang, Boonegatha, Echuca, Gunboweroo
 population: null
 country_id: AU
 country_name: Australia
+area: Pama–Nyungan language of southeastern Australia
 status_id: "9"
 scope: individual
 language_type: living

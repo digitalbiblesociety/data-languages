@@ -5,6 +5,8 @@ autonym: Abuan
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Cross River language of southern Nigeria
 status_id: 6a
 scope: individual
 language_type: living

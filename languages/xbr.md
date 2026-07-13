@@ -2,10 +2,12 @@
 iso: xbr
 name: Kambera
 autonym: East Sumbanese
-alt_names: [East Sumba, Hilu Humba, Humba, Kamberaas, Oost-Sumbaas, Sumba, Sumbanese, Sumbanese (East)]
+alt_names: [East Sumba, Hilu Humba, Humba, Kamberaas, Oost-Sumbaas, Sumba, Sumbanese, Sumbanese (East), Kanatang, Lewa, Mangili-Waijelo, Melolo, Rindi, Southern Sumba, Sumbaasch, Sumbaneesch, Sumbasch, Uma Ratu Nggai, Umbu Ratu Nggai, Wai Jilu, Waidjelu, Waijelo]
 population: 240000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

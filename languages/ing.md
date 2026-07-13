@@ -2,10 +2,12 @@
 iso: ing
 name: "Degexit'an"
 autonym: "Deg Hit'an"
-alt_names: ["\"Ingalik\"", "\"Ingalit\"", Deg Xinag, "Deg Xit'an", Ingalik, Kaiyuh-khotana]
+alt_names: ["\"Ingalik\"", "\"Ingalit\"", Deg Xinag, "Deg Xit'an", Ingalik, Kaiyuh-khotana, “Ingalik”, “Ingalit”, Deg Xit’an]
 population: 280
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living

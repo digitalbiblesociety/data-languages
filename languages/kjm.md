@@ -6,6 +6,8 @@ alt_names: [Bren, Hang, Jang, Khaang, Khang, Khang quang lam, Ksakautenh, Pouten
 population: 3920
 country_id: VN
 country_name: Vietnam
+location: Northwestern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 8a
 scope: individual
 language_type: living

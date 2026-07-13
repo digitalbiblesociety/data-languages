@@ -2,9 +2,11 @@
 iso: tpi
 name: Tok Pisin
 autonym: Tok Pisin
+alt_names: [Melanesian English, Neomelanesian, New Guinea Pidgin English, Pidgin, Pisin]
 population: 125740
 country_id: PG
 country_name: Papua New Guinea
+area: English creole spoken in Papua New Guinea
 status_id: "1"
 scope: individual
 language_type: living

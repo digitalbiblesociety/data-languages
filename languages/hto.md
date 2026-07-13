@@ -2,15 +2,18 @@
 iso: hto
 name: Minica Huitoto
 autonym: Mɨnɨka
-alt_names: ["\"huitoto (Colombia, Perú)\"", "\"huitoto (Colombie, Pérou)\"", Huitoto, Huitoto (Brésil), Huitoto (Minica), Huitoto Meneca, "Huitoto, Minica", Meneca, Meneka, Meneka-Witoto, Minica, Mɨnɨca, Uitoto, Witoto, Witoto (Minica), Witoto Meneca, Witoto minica]
+alt_names: ["\"huitoto (Colombia, Perú)\"", "\"huitoto (Colombie, Pérou)\"", Huitoto, Huitoto (Brésil), Huitoto (Minica), Huitoto Meneca, "Huitoto, Minica", Meneca, Meneka, Meneka-Witoto, Minica, Mɨnɨca, Uitoto, Witoto, Witoto (Minica), Witoto Meneca, Witoto minica, Minika]
 population: 6800
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Indigenous American Huitoto language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -1.54535
 longitude: -73.11066
+language_map_img: MInica.webp
 glottocode: mini1256
 glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan

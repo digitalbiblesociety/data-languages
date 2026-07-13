@@ -2,10 +2,12 @@
 iso: ife
 name: Ifè
 autonym: Ana
-alt_names: [Ana-Ife, Ana-Ifé, Anago, Baate, Ede Ife, Ife]
+alt_names: [Ana-Ife, Ana-Ifé, Anago, Baate, Ede Ife, Ife, Dadja, Djama, Tschetti]
 population: 170600
 country_id: TG
 country_name: Togo
+location: Benin
+area: Niger–Congo language spoken in Togo and Benin
 status_id: "5"
 scope: individual
 language_type: living

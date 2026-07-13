@@ -6,6 +6,8 @@ alt_names: [Kayapulau]
 population: 573
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language of Western Papua
 status_id: 8b
 scope: individual
 language_type: living

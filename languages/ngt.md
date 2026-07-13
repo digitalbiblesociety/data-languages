@@ -2,10 +2,12 @@
 iso: ngt
 name: Kriang
 autonym: Ta Oi
-alt_names: [Dutch Sign Language, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang]
+alt_names: [Dutch Sign Language, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang, Nge’, Griang, Khiang, Khlor, Klor, Kriang Koh, Kriang Tha Taeng, Kuriang, Lor, Ngkriang, Nhae]
 population: 12200
 country_id: LA
 country_name: Laos
+location: Laos
+area: Southeast Asian dialect chain
 status_id: 6a
 scope: individual
 language_type: living
@@ -89,3 +91,4 @@ rolv_dialects:
     country_id: LA
     location: Laos
 ---
+Ta'Oi is a dialect continuum within the Katuic branch of the Austroasiatic language family, spoken amongst the Ta Oi people in the Salavan and Sekong provinces in Laos and the municipality of Huế in Vietnam.

@@ -2,10 +2,12 @@
 iso: lhi
 name: Lahu Shi
 autonym: Ladhof
-alt_names: [Kui, Kur, Kwi, Lahu, Lahu Xi, LahuShi, Lâhū-ši, Shi, Yellow Lahu]
+alt_names: [Kui, Kur, Kwi, Lahu, Lahu Xi, LahuShi, Lâhū-ši, Shi, Yellow Lahu, Bakeo, Banlan, Kui Lung, Kui Sang, Lad hur Si, Lahu Bakeo, Lahu Shi Balan, Lahu Si, Lahu-Xi, Lahu-shi, Lahusi]
 population: 196200
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in Asia
 status_id: "5"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+Lahu is a Tibeto-Burman language spoken by the Lahu people of China, Thailand, Myanmar, Vietnam and Laos. It is widely used in China, both by Lahu people, and by other ethnic minorities in Yunnan, who use it as a lingua franca. However, the language is not widely used nor taught in any schools in Thailand, where many Lahu are refugees and illegal immigrants, having crossed into Thailand from Myanmar.

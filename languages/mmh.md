@@ -6,6 +6,8 @@ alt_names: [Aura, Mahinacu, Mehinaco, Mehinacu, Mehinacú, Mehinaku, Mehinakú, 
 population: 200
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Arawakan language spoken by the Mehinaku people of Brazil
 status_id: 6a
 scope: individual
 language_type: living

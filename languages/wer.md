@@ -2,10 +2,12 @@
 iso: wer
 name: Weri
 autonym: null
-alt_names: [Biaru]
+alt_names: [Biaru, Wele, Weli, Amam, Ken, Wateo]
 population: 6900
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Goilalan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 韦里语
     auto: true
 ---
+Kunimaipa is a Papuan language of Papua New Guinea. The varieties are divergent, on the verge of being distinct languages, and have separate literary traditions.

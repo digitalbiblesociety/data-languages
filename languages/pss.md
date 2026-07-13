@@ -2,10 +2,12 @@
 iso: pss
 name: Kaulong
 autonym: Pasismanua
-alt_names: [Kowlong]
+alt_names: [Kowlong, East Inland Kaulong]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish,
 population: null
 country_id: FI
 country_name: Finland
+area: Extinct Sámi language
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 67.093
 longitude: 27.537
+language_map_img: 500px-Lapinmaat.webp
 glottocode: kemi1239
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

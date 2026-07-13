@@ -3,10 +3,12 @@ iso: kir
 iso639_1: ky
 name: Kirghiz
 autonym: " قىرعىز تئلى"
-alt_names: [Fu-Yu, Fu-Yu Kirghiz, Fu-Yu Kyrgyz, Kara, Kara-Kirgiz, "Ke'erkez", Kirg(h)iz, Kirghizi, Kirgisischen, Kirgisisk, Kirgiz, Kirgizeg, Kirgizera, Kirgizisch, Kirgiziska, Kirgizysk, Kirkis simi, Kyrgyz, Kyrgyz language, Kırgızca, Qazaqisch, Qyrghyz, Qırğız tili, Takirgizit, Забони қирғизӣ, Кыргыз тыла, קירגיזית, قىرغىز تىلى]
+alt_names: [Fu-Yu, Fu-Yu Kirghiz, Fu-Yu Kyrgyz, Kara, Kara-Kirgiz, "Ke'erkez", Kirg(h)iz, Kirghizi, Kirgisischen, Kirgisisk, Kirgiz, Kirgizeg, Kirgizera, Kirgizisch, Kirgiziska, Kirgizysk, Kirkis simi, Kyrgyz, Kyrgyz language, Kırgızca, Qazaqisch, Qyrghyz, Qırğız tili, Takirgizit, Забони қирғизӣ, Кыргыз тыла, קירגיזית, قىرغىز تىلى, кыргызча, Kyrgyz tili, Kyrgyzcha, Northern Kyrgyz, Southern Kyrgyz]
 population: 118000
 country_id: KG
 country_name: Kyrgyzstan
+location: Afghanistan
+area: Kipchak Turkic language of Central Asia
 status_id: "1"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Hi-Marimã, Hi-Merimã, Himarima, Maimã]
 population: 40
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Presumed extinct language of Brazil
 status_id: 6b
 scope: individual
 language_type: living

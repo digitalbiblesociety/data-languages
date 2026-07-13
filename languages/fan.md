@@ -2,15 +2,18 @@
 iso: fan
 name: Fang
 autonym: Pangwe
-alt_names: [Fang, Fang language, Ffangiaid, Pahouin, Pahoun, Pamue, Фанґ]
+alt_names: [Fang, Fang language, Ffangiaid, Pahouin, Pahoun, Pamue, Фанґ, Atsi, Make, Makina, Meke, Mvae, Mvai, Mvan, Mvang, Mvay, Mveny, Ntoumou, Ntum, Ntumu, Nzaman, Ogowe, Okak, Shiwa]
 population: 1061800
 country_id: GQ
 country_name: Equatorial Guinea
+location: Congo
+area: "Bantu language of Equatorial Guinea, northwest Gabon and neighbouring areas"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 1.723965
 longitude: 11.61454
+language_map_img: 500px-Idioma_fang.webp
 scripts: [Latn]
 glottocode: fang1246
 glottolog_family_id: atla1278

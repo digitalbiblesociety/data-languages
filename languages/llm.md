@@ -6,6 +6,7 @@ alt_names: [Indonesia]
 population: 1700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
 status_id: 6b
 scope: individual
 language_type: living

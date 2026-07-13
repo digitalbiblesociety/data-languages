@@ -5,6 +5,7 @@ autonym: Yacouba
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: Mande language of West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -46,3 +47,4 @@ translations:
     name: 克拉-丹语
     auto: true
 ---
+Dan is a Southern Mande language spoken primarily in Ivory Coast and Liberia. There is also a population of about 800 speakers in Guinea. Dan is a tonal language, with 9 to 11 contour and register tones, depending on the dialect.

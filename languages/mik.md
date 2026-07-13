@@ -6,6 +6,8 @@ alt_names: [Hitchiti, Hitchiti-Mikasuki-Sprache, Miccosukee, Mikasoukieg, Mikasu
 population: 290
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Muskogean language spoken in southern US
 status_id: 6b
 scope: individual
 language_type: living

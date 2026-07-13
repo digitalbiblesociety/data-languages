@@ -2,10 +2,12 @@
 iso: tbo
 name: Tawala
 autonym: Kehelala
-alt_names: [Tavara, Tawara]
+alt_names: [Tavara, Tawara, Awaiama, Awalama, Awayama, Basilaki, Bohilai, "Bohira'i", Divinai, Diwinai, Ealeba, East Cape, Gwavili, Gwawili, Huhuna, Keherara, Labe, Lelehudi, Rabe, Sideia, Sideya, Wagawaga, Yaleba]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

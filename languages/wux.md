@@ -6,6 +6,7 @@ alt_names: [Berrigurruk, Berugurruk, Birrigarak, Djeramanga, Djerimanga, Erei, E
 population: 1981
 country_id: AU
 country_name: Australia
+area: Extinct indigenous language of Australia
 status_id: 8b
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: zts
 macrolanguage_id: zap
 name: Tilquiapan Zapotec
 autonym: San Miguel Tilquiápam
-alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tilquiapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Miguel Tilquiapan, Zapotèque de San Felipe Tejalapan]
+alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tilquiapan", Zapoteco de San Felipe Tejalápam, Zapoteco de San Miguel Tilquiapan, Zapotèque de San Felipe Tejalapan, Tilquiapam Zapotec]
 population: 7000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

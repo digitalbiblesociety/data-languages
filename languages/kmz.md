@@ -6,6 +6,7 @@ alt_names: [East/Central Xorasan Turkic, Horasanca, Khorasan Turkic, Khorasani T
 population: 936000
 country_id: IR
 country_name: Iran
+area: Oghuz Turkic language spoken in Iran
 status_id: 6a
 scope: individual
 language_type: living

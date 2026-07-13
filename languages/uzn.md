@@ -3,15 +3,18 @@ iso: uzn
 macrolanguage_id: uzb
 name: Northern Uzbek
 autonym: اۉزبېکچه
-alt_names: [City Özbek, Krymchak, Ouzbek, Ozbek, Tashkent dialect, Usbaki, Usbeki, Uzbec, Uzbek, Uzbek (Northern), "Uzbek, Northern", Özbek, Özbekisch]
+alt_names: [City Özbek, Krymchak, Ouzbek, Ozbek, Tashkent dialect, Usbaki, Usbeki, Uzbec, Uzbek, Uzbek (Northern), "Uzbek, Northern", Özbek, Özbekisch, Andizhan, Fergana, Karluk, Kipchak, Kypchak, "O'zbek", Oghuz, Qarlug, Samarkand, Tashkent]
 population: 25100000
 country_id: UZ
 country_name: Uzbekistan
+location: China
+area: Turkic language of the Karluk sub-branch
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 43.748876
 longitude: 59.230956
+language_map_img: uzn.webp
 glottocode: nort2690
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

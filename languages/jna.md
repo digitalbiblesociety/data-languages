@@ -6,6 +6,8 @@ alt_names: [Central Kinnauri, Jangiam, Jangrami, Kanāwri, Thebarskad, Thebor, T
 population: 1990
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language of India
 status_id: 6a
 scope: individual
 language_type: living

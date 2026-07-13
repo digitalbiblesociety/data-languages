@@ -2,10 +2,12 @@
 iso: buy
 name: Bullom So
 autonym: Bolom
-alt_names: [Bulem, Bullin, Bullom, Bullun, Bulom, Mandenyi, Mandingi, Mani, Mmani, Northern Bullom, Soeg]
+alt_names: [Bulem, Bullin, Bullom, Bullun, Bulom, Mandenyi, Mandingi, Mani, Mmani, Northern Bullom, Soeg, Kafu]
 population: 8350
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Mel language of Sierra Leone and Guinea
 status_id: "5"
 scope: individual
 language_type: living

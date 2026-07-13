@@ -3,15 +3,17 @@ iso: ces
 iso639_1: cs
 name: Czech
 autonym: čeština
-alt_names: [An tSeicis, Bæmisc sprǣc, Cestina, Checu, Chekek, Chekiana linguo, Chex tili, Chiku simi, Chèc, Czech leid, Czesczi jãzëk, Czesko godka, Kicheki, Lenghe ceche, Seacais, Sheckish, Tcheke, Tchekeg, Tch·èco, Tchèque, Tjeckiska, Tjekkisk, Tschechisch-Slovakisch, Tschechische Språch, Tsieceg, Tsjechies, Tsjechisch, Tsjechysk, Tsjeggies, Tsjekkisk, Txec, Txekiera, Tékkneska, Çekçe, Čeahkagiella, Česka rěc, Česko-gí, Забони чехӣ, Чех йылме, Чехонь кяль, Чє́шьскъ ѩꙁꙑ́къ, Չեխերեն, טשעכיש, "צ'כית", تشيكى, چېخ تىلى]
+alt_names: [An tSeicis, Bæmisc sprǣc, Cestina, Checu, Chekek, Chekiana linguo, Chex tili, Chiku simi, Chèc, Czech leid, Czesczi jãzëk, Czesko godka, Kicheki, Lenghe ceche, Seacais, Sheckish, Tcheke, Tchekeg, Tch·èco, Tchèque, Tjeckiska, Tjekkisk, Tschechisch-Slovakisch, Tschechische Språch, Tsieceg, Tsjechies, Tsjechisch, Tsjechysk, Tsjeggies, Tsjekkisk, Txec, Txekiera, Tékkneska, Çekçe, Čeahkagiella, Česka rěc, Česko-gí, Забони чехӣ, Чех йылме, Чехонь кяль, Чє́шьскъ ѩꙁꙑ́къ, Չեխերեն, טשעכיש, "צ'כית", تشيكى, چېخ تىلى, Bohemian, Český, Cehă, Central Bohemian, Czecho-Moravian, Hanak, Lach, Northeast Bohemian, Southwest Bohemian, Texas Czech, Yalach, Český jazyk, Češki]
 population: 10700000
 country_id: CZ
 country_name: Czechia
+area: West Slavic language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 49.873398
 longitude: 15.10437
+language_map_img: ces.webp
 scripts: [Latn]
 glottocode: czec1258
 glottolog_family_id: indo1319

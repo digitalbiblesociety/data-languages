@@ -2,10 +2,12 @@
 iso: bon
 name: Bine
 autonym: Masingara
-alt_names: [Kunini, Oriomo, Pine]
+alt_names: [Kunini, Oriomo, Pine, Boze-Giringarede, Irupi-Drageli, Masingle, Sebe, Sogal, Tate]
 population: 2050
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Trans-Fly language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

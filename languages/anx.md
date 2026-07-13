@@ -2,10 +2,12 @@
 iso: anx
 name: "Andra-Hus"
 autonym: Ahus
-alt_names: [Admiralitäts-inseln, "Ha'us"]
+alt_names: [Admiralitäts-inseln, "Ha'us", Ha’us]
 population: 1310
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 1"
+area: Austronesian language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

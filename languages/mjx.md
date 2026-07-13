@@ -6,11 +6,14 @@ alt_names: [Mahili, Mahle, Mahli]
 population: 29400
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Munda language of South Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 22.1698
 longitude: 86.74451
+language_map_img: 500px-Geographic_distribution_of_Santali_language.webp
 glottocode: maha1291
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

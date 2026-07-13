@@ -6,11 +6,13 @@ alt_names: [Dagaare, Dagaari, Dagara, Dagari, Dagari Dyoula, Dagatri, Dagatsi, J
 population: 21000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.68387
 longitude: -2.48569
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: daga1272
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

@@ -2,15 +2,18 @@
 iso: tuj
 name: Tugutil
 autonym: bahasa Tugutil
-alt_names: [Indonesia]
+alt_names: [Indonesia, Kusuri, Teluk Lili]
 population: 2590
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 0.5806
 longitude: 128.22346
+language_map_img: Halmahera_tobelo.webp
 glottocode: tugu1246
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera

@@ -2,10 +2,12 @@
 iso: toq
 name: Toposa
 autonym: Toposa–Jiye
-alt_names: [Akara, Kare, Kumi, Taposa, Topotha]
+alt_names: [Akara, Kare, Kumi, Taposa, Topotha, Eastern Toposa, Jiye, Western Toposa, ŋatoposa]
 population: 315000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Nilotic language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living

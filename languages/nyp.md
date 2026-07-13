@@ -2,10 +2,11 @@
 iso: nyp
 name: "Nyang'i"
 autonym: Nyangia
-alt_names: [Gyangiya, Ik, Ngangea, Ngapore, Ngiangeya, Niporen, Nipori, Nuangeya, Nyangeya, Nyangi, Nyangiya, Nyuangia, Poren, Upale, Ñangui]
+alt_names: [Gyangiya, Ik, Ngangea, Ngapore, Ngiangeya, Niporen, Nipori, Nuangeya, Nyangeya, Nyangi, Nyangiya, Nyuangia, Poren, Upale, Ñangui, "Nyang'ia", Nyangꞌi]
 population: null
 country_id: UG
 country_name: Uganda
+area: Endangered Kuliak language of Uganda
 status_id: 8b
 scope: individual
 language_type: extinct

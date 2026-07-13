@@ -2,10 +2,11 @@
 iso: jbi
 name: Badjiri
 autonym: Budjari
-alt_names: [Baddyeri, Baderi, Badjedi, Badjeri, Badjidi, Badyidi, Byjerri, Bädjäri, Poidg-erry, Poidgerry]
+alt_names: [Baddyeri, Baderi, Badjedi, Badjeri, Badjidi, Badyidi, Byjerri, Bädjäri, Poidg-erry, Poidgerry, Baddjeri]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Aboriginal Australian language of southern Queensland
 status_id: "10"
 scope: individual
 language_type: extinct

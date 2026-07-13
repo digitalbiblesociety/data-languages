@@ -3,15 +3,18 @@ iso: fub
 macrolanguage_id: ful
 name: Adamawa Fulfulde
 autonym: Fulani
-alt_names: [Adamawa, Adamawa (Fula), Adamawa Fulani, Biira, Boulbe, Domona, Dzemay, Eastern Fulani, Eastern Fulfulde, Fellata, Fillanci, Foulfoulde, Ful, Ful(ani), Fula, Fulah-Idiome, Fulatanchi, Fulbe, Fulfulde, Fulfulde (Adamawa), Fulfulde (Cameroonian), "Fulfulde, Adamawa", Gapelta, Gombe, Nagapelta, Palata, Paldena, Paldida, Pelta Hay, Peul, Peulh, Pladina, Pul, Pule, Pullo, Sanyo, Taareyo, Zaakosa, Zemay]
+alt_names: [Adamawa, Adamawa (Fula), Adamawa Fulani, Biira, Boulbe, Domona, Dzemay, Eastern Fulani, Eastern Fulfulde, Fellata, Fillanci, Foulfoulde, Ful, Ful(ani), Fula, Fulah-Idiome, Fulatanchi, Fulbe, Fulfulde, Fulfulde (Adamawa), Fulfulde (Cameroonian), "Fulfulde, Adamawa", Gapelta, Gombe, Nagapelta, Palata, Paldena, Paldida, Pelta Hay, Peul, Peulh, Pladina, Pul, Pule, Pullo, Sanyo, Taareyo, Zaakosa, Zemay, Bilkire, Bilkire Fulani, Bilkiri, Fula Fulbe, Fulata, Garoua, Kambariire, Maroua, Mbororo, Ngaondéré, Ngaoundéré, Nomadic Fulfulde, Nomadic Fulfulde - Mbororoore]
 population: 13000000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Variety of the Fula language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 8.140326
 longitude: 13.077338
+language_map_img: fub.webp
 glottocode: adam1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

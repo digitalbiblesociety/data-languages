@@ -2,10 +2,12 @@
 iso: ksr
 name: Borong
 autonym: Kosorong
-alt_names: [Naama]
+alt_names: [Naama, Yangeborong]
 population: 2070
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Huon language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

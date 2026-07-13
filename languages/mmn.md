@@ -6,6 +6,8 @@ alt_names: [Minamanwa]
 population: 5150
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

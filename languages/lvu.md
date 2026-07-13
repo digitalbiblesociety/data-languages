@@ -2,10 +2,12 @@
 iso: lvu
 name: Levuka
 autonym: Lembata
-alt_names: [Lewokukun, Lewuka, Painara]
+alt_names: [Lewokukun, Lewuka, Painara, Kalikasa]
 population: 4000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

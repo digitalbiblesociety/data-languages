@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 42000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: Language in North Maluku
 status_id: 6b
 scope: individual
 language_type: living

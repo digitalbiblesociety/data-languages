@@ -2,10 +2,12 @@
 iso: kza
 name: Western Karaboro
 autonym: Western Karaboro
-alt_names: [Karaboro, "Karaboro, Western", Syer-Tenyer, Tenyer]
+alt_names: [Karaboro, "Karaboro, Western", Syer-Tenyer, Tenyer, Syer]
 population: 30200
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Senufo dialects of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living

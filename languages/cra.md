@@ -2,10 +2,12 @@
 iso: cra
 name: Chara
 autonym: Ciara
-alt_names: ["C'ara"]
+alt_names: ["C'ara", "Buch'a", Gimiri Nona]
 population: 5556
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

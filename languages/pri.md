@@ -6,6 +6,8 @@ alt_names: [Ci, Neukaledonien, Paaci, Paici, Pati, Ponerihouen]
 population: 5500
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "5"
 scope: individual
 language_type: living

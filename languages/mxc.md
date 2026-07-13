@@ -2,10 +2,12 @@
 iso: mxc
 name: Manyika
 autonym: Chimanyika
-alt_names: [Bamanyeka, Manika, Wamanyika, Wanyika]
+alt_names: [Bamanyeka, Manika, Wamanyika, Wanyika, Bocha, Boka, Bunji, Bvumba, Domba, Guta, Here, Hungwe, Jindwi, Karombe, Nyamuka, Nyatwe, Unyama]
 population: 551000
 country_id: ZW
 country_name: Zimbabwe
+location: Mozambique
+area: Shona language of Zimbabwe and Mozambique
 status_id: "5"
 scope: individual
 language_type: living

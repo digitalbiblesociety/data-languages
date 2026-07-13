@@ -2,10 +2,12 @@
 iso: cya
 name: Nopala Chatino
 autonym: Sierra Chatino
-alt_names: [Chatino, Chatino (Nopala), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Nopala"]
+alt_names: [Chatino, Chatino (Nopala), Chatino de Zacatepec, Chatino de Zacatepeco, Chatino de la zona baja occidental, Chatino des basses-terres occidentales, "Chatino, Nopala", Chatino Nopala, Chatino Oriental Bajo, Chatino de la Zona Alta Oriental, Tiltepec Chatino, Chaꞌ jnaꞌa]
 population: 8940
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotecan language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 诺帕拉查蒂诺语
     auto: true
 ---
+Highland Chatino is an indigenous Mesoamerican language, one of the Chatino family of the Oto-Manguean languages. Dialects are rather diverse; neighboring dialects are about 80% mutually intelligible.

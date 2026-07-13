@@ -2,10 +2,12 @@
 iso: gqu
 name: Qau
 autonym: Kláo
-alt_names: [Aqaw, Chilao, Gao, Gao Gelao, Gelo, Ilao, Keh-lao, Kehlao, Kelao, Keleo, Khi, Klau, Klo, Lao]
+alt_names: [Aqaw, Chilao, Gao, Gao Gelao, Gelo, Ilao, Keh-lao, Kehlao, Kelao, Keleo, Khi, Klau, Klo, Lao, Aqao]
 population: 2000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra language
 status_id: 6a
 scope: individual
 language_type: living

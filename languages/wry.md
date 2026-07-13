@@ -7,6 +7,8 @@ alt_names: [Ajmeri]
 population: 3900000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 梅瓦里语
     auto: true
 ---
+Marwari is a Western Indo-Aryan language belonging to the Indo-Iranian subdivision of the Indo-European languages. Marwari and its closely related varieties like Dhundhari, Shekhawati and Mewari form a part of the broader Rajasthani language family. It is spoken in the Indian state of Rajasthan, as well as the neighbouring states of Gujarat and Haryana, some adjacent areas in eastern parts of Pakistan, and some migrant communities in Nepal. There are two dozen varieties of Marwari.

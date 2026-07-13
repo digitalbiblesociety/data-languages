@@ -6,6 +6,8 @@ alt_names: [Garrama, Garramung, Karama, Karaman, Luenga murrinhpatha, Mariwada, 
 population: 1430
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Language of northern Australia
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Balkan Turkic, Gagaouze (Balkans du sud), Gagaouze (Bessarabia), Gag
 population: 464000
 country_id: TR
 country_name: Turkey
+area: Oghuz Turkic language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [FSL, Local Sign Language]
 population: 540000
 country_id: PH
 country_name: Philippines
+area: Sign language used in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

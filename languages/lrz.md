@@ -6,6 +6,7 @@ alt_names: [Banks-Inseln, Sasar]
 population: null
 country_id: VU
 country_name: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living

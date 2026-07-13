@@ -6,6 +6,8 @@ alt_names: [Aiwin, Akium, West Awin]
 population: 21100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

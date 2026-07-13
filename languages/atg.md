@@ -2,9 +2,12 @@
 iso: atg
 name: "Ivbie North-Okpela-Arhe"
 autonym: Ivbie North – Okpela – Arhe
+alt_names: [Okphela, Arhe, Ate, Atte, Ibie North, Ivbie North, Okpela, Okpella, Ukpella, Upella]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

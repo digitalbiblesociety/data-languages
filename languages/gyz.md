@@ -2,10 +2,11 @@
 iso: gyz
 name: Gyaazi
 autonym: null
-alt_names: [Geji, Nuclear Geji]
+alt_names: [Geji, Nuclear Geji, Bagba, Gaejawa, Gejawa, Gezawa]
 population: 8000
 country_id: NG
 country_name: Nigeria
+area: Chadic language spoken in Nigeria
 status_id: null
 scope: individual
 language_type: living
@@ -65,3 +66,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Bauchi"
 ---
+Geji (Gezawa) is a minor Chadic dialect cluster of Bauchi State, Nigeria. The three varieties are Buu, Gyaazi and Mәgang (Mugan). The latter two are quite similar.

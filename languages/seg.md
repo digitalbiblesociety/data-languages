@@ -6,6 +6,8 @@ alt_names: [Daiso, Sageju, Sengeju]
 population: 15000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Kenya and Tanzania
 status_id: 8a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 塞格朱语
     auto: true
 ---
+Mijikenda is a Bantu dialect cluster spoken along the coast of East Africa, mostly in Kenya, where there are 2.6 million speakers but also in Tanzania, where there are 166,000 speakers. The name Mijikenda means "the nine settlements" or "the nine communities" and refers to the multiple language communities that make up the group. An older, derogatory term for the group is Nyika which refers to the "dry and bushy country" along the coast.

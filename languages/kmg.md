@@ -2,10 +2,12 @@
 iso: kmg
 name: Kâte
 autonym: null
-alt_names: [Kai, Kate, Kâte Dong]
+alt_names: [Kai, Kate, Kâte Dong, Bamota, Magobineng, Parec, Wamola, Wamora, Wana, Wemo]
 population: 6130
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "3"
 scope: individual
 language_type: living

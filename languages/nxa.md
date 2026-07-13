@@ -2,15 +2,18 @@
 iso: nxa
 name: Nauete
 autonym: Naóti
-alt_names: [Naueti, Nauhete, Nauote, Nauoti]
+alt_names: [Naueti, Nauhete, Nauote, Nauoti, Naumik, Oso Moko]
 population: 1000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Austronesian language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.70733
 longitude: 126.74064
+language_map_img: 500px-Naueti.webp
 glottocode: naue1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

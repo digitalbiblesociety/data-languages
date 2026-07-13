@@ -6,6 +6,8 @@ alt_names: [Mallicolo, Nasariano]
 population: null
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: "Austronesian language spoken in Malekula, Vanuatu"
 status_id: 8b
 scope: individual
 language_type: living

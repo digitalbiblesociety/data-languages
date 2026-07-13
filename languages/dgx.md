@@ -6,6 +6,8 @@ alt_names: [Dogoro]
 population: 270
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 多格罗语
     auto: true
 ---
+Baruga, also known ambiguously as Bareji, is a Papuan language spoken in Oro Province, in the "tail" of Papua New Guinea. The four rather divergent dialects are Tafota, Daghoro, Bareji, Mado. They are part of the Binanderean family of the Trans–New Guinea phylum of languages.

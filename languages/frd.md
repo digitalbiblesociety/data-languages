@@ -2,10 +2,12 @@
 iso: frd
 name: Fordata
 autonym: Vaidida
-alt_names: [Kei, Kei-Fordata, Larat, Vai Fordata, Vai Tnebar]
+alt_names: [Kei, Kei-Fordata, Larat, Vai Fordata, Vai Tnebar, Fordata-Larat I, Fordata-Larat II, Molo, Molo-Maru, Seira, Sera, Vai Sera-Larat-Fordata]
 population: 50000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

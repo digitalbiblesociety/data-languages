@@ -2,10 +2,12 @@
 iso: noe
 name: Nimadi
 autonym: Nemadi
-alt_names: [Nimari, Nimiadi, निमाड़ी]
+alt_names: [Nimari, Nimiadi, निमाड़ी, Bhuani]
 population: 2310000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Western Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living

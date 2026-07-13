@@ -6,6 +6,8 @@ alt_names: [Ayta, Ayta du sud, Ayta meridional, "Ayta, Sorsogon", Sorsogon]
 population: 180
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Reputably reported language later shown to not exist
 status_id: 8b
 scope: individual
 language_type: living

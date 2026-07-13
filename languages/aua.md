@@ -6,6 +6,8 @@ alt_names: [Asumbua, Asumbuo, Asumuo]
 population: 10
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Endangered language of Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

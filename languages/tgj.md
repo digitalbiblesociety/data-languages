@@ -5,6 +5,8 @@ autonym: Nil
 population: null
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 塔金语
     auto: true
 ---
+Tagin (Tagen), also known as West Dafla and Bangni is a Sino-Tibetan language spoken in India.

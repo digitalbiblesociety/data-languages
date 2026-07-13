@@ -6,6 +6,8 @@ alt_names: [Darra, Masakin, Mesakin, Taloca, Taloka]
 population: 11700
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger Congo unwritten language
 status_id: 6a
 scope: individual
 language_type: living

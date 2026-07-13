@@ -6,11 +6,14 @@ alt_names: [Jaruro, Llaruro, Pume, Yaruro, Yaruru, Yuapín]
 population: 5840
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Indigenous language spoken in Venezuela
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.10677
 longitude: -67.59958
+language_map_img: 500px-Inland_Isolates_of_Venezuela.webp
 glottocode: pume1238
 wikidata_id: Q3121835
 wikipedia_url: "https://en.wikipedia.org/wiki/Pum%C3%A9_language"

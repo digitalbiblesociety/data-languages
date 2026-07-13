@@ -7,6 +7,8 @@ alt_names: [Central Sapoteko, Zapotec, "Zapotec, Tejalapan", Zapoteco de San Fel
 population: 120
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Zapotecan language
 status_id: 8a
 scope: individual
 language_type: living

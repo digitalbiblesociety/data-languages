@@ -6,11 +6,14 @@ alt_names: [Airiman, Ongkakaringa, Tagoman, Wagaman, Wagoman, Wakiman, Wogeman, 
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Indigenous Australian language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -13.86272
 longitude: 131.89332
+language_map_img: Wagiman_Country.webp
 glottocode: wage1238
 wikidata_id: Q3436843
 wikipedia_url: "https://en.wikipedia.org/wiki/Wagiman_language"

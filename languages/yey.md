@@ -2,10 +2,12 @@
 iso: yey
 name: Yeyi
 autonym: Shiyɛyi
-alt_names: [Ceyei, Ciyei, Koba, Kuba, Seyei, Seyeyi, Shiyeyi, Yeei, Yei]
+alt_names: [Ceyei, Ciyei, Koba, Kuba, Seyei, Seyeyi, Shiyeyi, Yeei, Yei, Mayeyi, Shirwanga, Siyei, Wayeyi]
 population: 20000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Bantu language of Namibia and Botswana
 status_id: 6b
 scope: individual
 language_type: living

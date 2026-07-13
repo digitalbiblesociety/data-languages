@@ -3,10 +3,12 @@ iso: avl
 macrolanguage_id: ara
 name: Eastern Egyptian Bedawi Arabic
 autonym: Bedawi
-alt_names: [Arabic, "Arabic, Eastern Egyptian Bedawi", "Arabic, Levantine Bedawi Spoken", Bedawi Arabic, Istočnoegipatski bedawi arapski, Levantine Bedawi Arabic, Western Bedouin Dialects]
+alt_names: [Arabic, "Arabic, Eastern Egyptian Bedawi", "Arabic, Levantine Bedawi Spoken", Bedawi Arabic, Istočnoegipatski bedawi arapski, Levantine Bedawi Arabic, Western Bedouin Dialects, Levantine Bedawi Spoken Arabic, Bedouin Arabic, North Levantine Bedawi Arabic, Northeast Egyptian Bedawi Arabic, South Levantine Bedawi Arabic]
 population: 2435900
 country_id: EG
 country_name: Egypt
+location: Egypt and Libya
+area: Variety of the Arabic language
 status_id: 6a
 scope: individual
 language_type: living

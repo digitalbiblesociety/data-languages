@@ -2,10 +2,12 @@
 iso: lil
 name: Lillooet
 autonym: St̓át̓imcets / Sƛ’aƛ’imxǝc
-alt_names: [Liluet, Slatlemuk, "St'at'imcets", "St'at'imcets language", Statimc, Statimcets, "Stl'atl'imc", "Stl'atl'imx", Stlatliumh, St̓át̓imc, St̓át̓imcets (Lillooet), "Sƛ'aƛ'imxǝc", "sƛ'ɛƛ'əmxcín", sƛʼɛƛʼəmxcín]
+alt_names: [Liluet, Slatlemuk, "St'at'imcets", "St'at'imcets language", Statimc, Statimcets, "Stl'atl'imc", "Stl'atl'imx", Stlatliumh, St̓át̓imc, St̓át̓imcets (Lillooet), "Sƛ'aƛ'imxǝc", "sƛ'ɛƛ'əmxcín", sƛʼɛƛʼəmxcín, St’at’imcets]
 population: 200
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: "Salishan language of British Columbia, Canada"
 status_id: "7"
 scope: individual
 language_type: living

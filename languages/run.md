@@ -3,15 +3,17 @@ iso: run
 iso639_1: rn
 name: Rundi
 autonym: Ikirundi
-alt_names: [Kirundi, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי]
+alt_names: [Kirundi, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי, Hima, Igisoni, Ikibo, Ikimoso, Ikinyabweru, Ikiragane, Ikiyogoma, Urumoso]
 population: 10800000
 country_id: BI
 country_name: Burundi
+area: Bantu language of Burundi and adjacent states
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -1.441737
 longitude: 31.319093
+language_map_img: run.webp
 scripts: [Latn]
 glottocode: rund1242
 glottolog_family_id: atla1278

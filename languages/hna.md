@@ -6,6 +6,8 @@ alt_names: [Besleri, Mina, Mina language, Minaeg]
 population: 11000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

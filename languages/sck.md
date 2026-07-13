@@ -2,15 +2,18 @@
 iso: sck
 name: Sadri
 autonym: Nagpuri
-alt_names: [Chota Nagpuri, Chotar Nagpuri, Dikku Kaji, Dikkukaji, Ganwari, Gauuari, Gawari, Goari, Jharkhandhi, Nagpuria, Sadan, Sadana, Sadani, Sadari, Sadati, Sadhan, Sadhari, Sadna, Sadrik, Santri, Siddri, Sradri]
+alt_names: [Chota Nagpuri, Chotar Nagpuri, Dikku Kaji, Dikkukaji, Ganwari, Gauuari, Gawari, Goari, Jharkhandhi, Nagpuria, Sadan, Sadana, Sadani, Sadari, Sadati, Sadhan, Sadhari, Sadna, Sadrik, Santri, Siddri, Sradri, Kisan, Sadrias Khatoya]
 population: 5131180
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Eastern Indo-Aryan language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 23.65853
 longitude: 84.81136
+language_map_img: sck.svg
 scripts: [Deva]
 glottocode: sadr1248
 glottolog_family_id: indo1319

@@ -6,6 +6,8 @@ alt_names: [Bati]
 population: 3500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language of eastern Seram Island, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

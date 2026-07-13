@@ -3,15 +3,18 @@ iso: hnj
 macrolanguage_id: hmn
 name: Hmong Njua
 autonym: lus Hmoob / lug Moob / lol Hmongb
-alt_names: [Blue Hmong, Blue Meo, Blue Miao, Ching Miao, Green Hmong, Green Meo, Green Miao, Hmong Lens, Hmong Nzhua, Hmoob Leeg, Lu Miao, Meo Dam, Meo Lai, Mong Leng, Mong Njua, Mong Ntsua, Qing Miao, Red Miao, Tak Miao, White Miao]
+alt_names: [Blue Hmong, Blue Meo, Blue Miao, Ching Miao, Green Hmong, Green Meo, Green Miao, Hmong Lens, Hmong Nzhua, Hmoob Leeg, Lu Miao, Meo Dam, Meo Lai, Mong Leng, Mong Njua, Mong Ntsua, Qing Miao, Red Miao, Tak Miao, White Miao, Hmong Leng, Hmongb Nzhuab, Lu Man Zi, Miao Tsi, Moob Leeg]
 population: 316750
 country_id: LA
 country_name: Laos
+location: Northwestern Viet Nam
+area: West Hmongic dialect continuum
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 22.563832
 longitude: 101.950052
+language_map_img: 500px-Hmong_Mien_lang.webp
 scripts: [Laoo]
 glottocode: hmon1264
 glottolog_family_id: hmon1336
@@ -73,3 +76,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Guizhou"
 ---
+Hmong or Mong is a dialect continuum of the West Hmongic branch of the Hmongic languages spoken by the Hmong people of Southwestern China, northern Vietnam, Thailand, and Laos. There are an estimated 4.5 million speakers of varieties that are largely mutually intelligible, including over 280,000 Hmong Americans as of 2013. Over half of all Hmong speakers speak the various dialects in China, where the Dananshan dialect forms the basis of the standard language. However, Hmong Daw and Mong Leng are widely known only in Laos and the United States; Dananshan is more widely known in the native region of Hmong.

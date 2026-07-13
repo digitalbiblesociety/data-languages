@@ -6,6 +6,7 @@ alt_names: [Carrizo, Comecrudan, Comecrudan Subfamily, Mulato]
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Pakawan language of Mexico
 status_id: null
 scope: individual
 language_type: extinct

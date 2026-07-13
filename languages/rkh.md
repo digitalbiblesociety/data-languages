@@ -6,6 +6,8 @@ alt_names: [Manihiki]
 population: 2500
 country_id: CK
 country_name: Cook Islands
+location: Cook Islands
+area: Tahitic language of Rakahanga and Manihiki
 status_id: "7"
 scope: individual
 language_type: living

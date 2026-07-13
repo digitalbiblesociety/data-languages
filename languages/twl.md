@@ -6,6 +6,8 @@ alt_names: [Tawala]
 population: 110000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: "Bantu language of Zimbabwe, Mozambique"
 status_id: 6a
 scope: individual
 language_type: living

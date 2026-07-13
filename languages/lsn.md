@@ -5,6 +5,7 @@ autonym: null
 population: 500
 country_id: CN
 country_name: China
+area: Deaf sign language of Tibet
 status_id: null
 scope: individual
 language_type: living

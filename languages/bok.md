@@ -5,6 +5,8 @@ autonym: Impfondo
 population: 3000
 country_id: CG
 country_name: Congo
+location: Congo
+area: Atlantic–Congo language spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living

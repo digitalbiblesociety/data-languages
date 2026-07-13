@@ -7,11 +7,14 @@ alt_names: ["Chinese, Huizhou", "Chinese,Huizhou", Hui, Hui-Dialekt, Huizhou, Si
 population: 5380000
 country_id: CN
 country_name: China
+location: China
+area: Sinitic language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 29.76462
 longitude: 118.23232
+language_map_img: Idioma_hui.webp
 glottocode: huiz1242
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

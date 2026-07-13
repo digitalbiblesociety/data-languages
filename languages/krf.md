@@ -2,10 +2,12 @@
 iso: krf
 name: Koro
 autonym: null
-alt_names: [Banks-Inseln, Koro]
+alt_names: [Banks-Inseln, Koro, Koro (Vanuatu)]
 population: 160
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

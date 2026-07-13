@@ -6,6 +6,8 @@ alt_names: [Espokane, Flathead-Kalispel-Spokane, "Flathead-Pend d'Oreille-Spokan
 population: 1000
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Indigenous language of the United States
 status_id: 8b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 斯波肯语
     auto: true
 ---
+The Salish or Séliš language, also known as Kalispel–Pend d'oreille, Kalispel–Spokane–Flathead, or Montana Salish to distinguish it from other Salishan languages, is a Salishan language spoken by about 64 elders of the Flathead Nation in north central Montana and of the Kalispel Indian Reservation in northeastern Washington state, and by another 50 elders of the Spokane Indian Reservation of Washington. As of 2012, Salish is "critically endangered" in Montana and Idaho according to UNESCO.

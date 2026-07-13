@@ -2,10 +2,11 @@
 iso: hac
 name: Gurani
 autonym: گۆرانیî
-alt_names: [Awroman, Awromani, Goraneg, Gorani, Gorani dialects, Goranice, Goranki, Hawramani, Hawrami, Hewrami, Hewramî, Howrami, Macho, Горани, ھەورامی]
+alt_names: [Awroman, Awromani, Goraneg, Gorani, Gorani dialects, Goranice, Goranki, Hawramani, Hawrami, Hewrami, Hewramî, Howrami, Macho, Горани, ھەورامی, Avromani, Bewyani, Gawrajuyi, Hawraman i Luhon, Hawraman i Taxt, Hourami, Kakai, Kakkai, Kandula, Hawrami Kurdi, Macho-Zwani, Ourami, Zardayana, Zengana]
 population: 21100
 country_id: IR
 country_name: Iran
+area: Group of Kurdish dialects
 status_id: "7"
 scope: individual
 language_type: living

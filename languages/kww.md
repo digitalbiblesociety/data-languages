@@ -5,6 +5,8 @@ autonym: null
 population: 130
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: English-based creole of Suriname
 status_id: 6b
 scope: individual
 language_type: living

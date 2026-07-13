@@ -2,10 +2,12 @@
 iso: cky
 name: "Cakfem-Mushere"
 autonym: Chakfem
-alt_names: [Cakfem-Mushere-Jibyal, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Mupun, Mwaghavul, Sura]
+alt_names: [Cakfem-Mushere-Jibyal, Chakfem-Mushere, Chokfem, Jajura, Kadim-Kaban, Mupun, Mwaghavul, Sura, Kaban, Kadim, Mushere]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language
 status_id: 6a
 scope: individual
 language_type: living

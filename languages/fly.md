@@ -2,10 +2,11 @@
 iso: fly
 name: Flaaitaal
 autonym: Flaaitaal
-alt_names: [Tsotsitaal]
+alt_names: [Tsotsitaal, Flaai Taal, Fly Taal]
 population: null
 country_id: ZA
 country_name: South Africa
+area: Variety of mixed languages mainly spoken in the townships of Gauteng province
 status_id: 8b
 scope: individual
 language_type: living
@@ -47,3 +48,4 @@ translations:
   - translation_iso: zho
     name: 伊斯坎索语
 ---
+Tsotsitaal is a South African vernacular dialect derived from a variety of mixed languages mainly spoken in the townships of Gauteng province, but also in other agglomerations all over South Africa. Tsotsi is a Sesotho, Pedi or Tswana slang word for a "thug" or "robber" or "criminal", possibly from the verb "ho lotsa" "to sharpen", whose meaning has been modified in modern times to include "to con". The word taal in Afrikaans means "language".

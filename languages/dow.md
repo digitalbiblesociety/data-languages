@@ -2,10 +2,12 @@
 iso: dow
 name: Doyayo
 autonym: Dowayo
-alt_names: ["\"Namchi\"", "\"Namci\"", "\"Namshi\"", Dayãyo, Doayo, Donyanyo, Donyayo, Doohyaayo, Doowaayo, Dooyaa(ng)yo, Dooyaangyo, Dooyaayo, Dooyayo, Dowayayo, Doyaayo, Doyau, Namshi, Nomai, Tunga, Tungbo, Tuuno]
+alt_names: ["\"Namchi\"", "\"Namci\"", "\"Namshi\"", Dayãyo, Doayo, Donyanyo, Donyayo, Doohyaayo, Doowaayo, Dooyaa(ng)yo, Dooyaangyo, Dooyaayo, Dooyayo, Dowayayo, Doyaayo, Doyau, Namshi, Nomai, Tunga, Tungbo, Tuuno, “Namchi”, “Namci”, “Namshi”, Doowaaya̰a̰yɔ, Dooya̰a̰yɔ, Marke, Poli, Sewe, Teere]
 population: 15000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Duru language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

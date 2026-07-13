@@ -6,6 +6,7 @@ alt_names: [LSA]
 population: 60000
 country_id: AR
 country_name: Argentina
+area: Deaf sign language of Argentina
 status_id: 6a
 scope: individual
 language_type: living

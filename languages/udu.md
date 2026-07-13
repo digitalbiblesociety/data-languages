@@ -6,6 +6,8 @@ alt_names: [Burun, Kebeirka, Korara, Kumus, Kwanim Pa, Othan, Twampa]
 population: 22000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Koman language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living

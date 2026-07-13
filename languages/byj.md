@@ -6,6 +6,8 @@ alt_names: [Bina, Binawa, Bogana]
 population: 7000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

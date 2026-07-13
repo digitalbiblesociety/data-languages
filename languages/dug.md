@@ -2,10 +2,12 @@
 iso: dug
 name: Duruma
 autonym: null
-alt_names: [Chiduruma]
+alt_names: [Chiduruma, “Wanyika”]
 population: 555000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya and Tanzania
 status_id: "5"
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 杜鲁玛语
     auto: true
 ---
+Mijikenda is a Bantu dialect cluster spoken along the coast of East Africa, mostly in Kenya, where there are 2.6 million speakers but also in Tanzania, where there are 166,000 speakers. The name Mijikenda means "the nine settlements" or "the nine communities" and refers to the multiple language communities that make up the group. An older, derogatory term for the group is Nyika which refers to the "dry and bushy country" along the coast.

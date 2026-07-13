@@ -6,11 +6,14 @@ alt_names: [Ilocana, Ilocano, Ilokan, Ilokano nga yinaknan, Ilokanoeg, Ilokanu, 
 population: 6482100
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken by the Ilocano people of the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 15.93614
 longitude: 120.99329
+language_map_img: Ilocanos_in_Philippines.svg
 scripts: [Latn]
 glottocode: ilok1237
 glottolog_family_id: aust1307

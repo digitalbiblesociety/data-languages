@@ -3,10 +3,12 @@ iso: zpm
 macrolanguage_id: zap
 name: Mixtepec Zapotec
 autonym: (San Juan Mixtepec)
-alt_names: [Eastern Miahuatlán Zapotec, Eastern Sapoteko, Eastern Zapoteco, Miahuatec, Miahuatlan, Mixtepec, San Juan Mixtepec Zapoteco, Sapoteko, Southern Mountain Zapotec, Zapotec, Zapotec (Mixtepec), "Zapotec, Mixtepec", Zapoteco (Mixtepec), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Juan Mixtepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
+alt_names: [Eastern Miahuatlán Zapotec, Eastern Sapoteko, Eastern Zapoteco, Miahuatec, Miahuatlan, Mixtepec, San Juan Mixtepec Zapoteco, Sapoteko, Southern Mountain Zapotec, Zapotec, Zapotec (Mixtepec), "Zapotec, Mixtepec", Zapoteco (Mixtepec), Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Juan Mixtepec, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, Zapoteco del Oriente de Miahuatlán, diidz rii, dìidz-zÈ]
 population: 7000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

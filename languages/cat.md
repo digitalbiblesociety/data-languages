@@ -3,10 +3,12 @@ iso: cat
 iso639_1: ca
 name: Catalan
 autonym: català/valencià
-alt_names: [Alguerés, Bacavès, Balear, Balearai, Balearic, Balearisch, Baléare, Catalan alguerais, Catalan-Valencian-Balear, Catalonian, Català, Català balear, Catalán, Eastern, Valencian, valencien]
+alt_names: [Alguerés, Bacavès, Balear, Balearai, Balearic, Balearisch, Baléare, Catalan alguerais, Catalan-Valencian-Balear, Catalonian, Català, Català balear, Catalán, Eastern, Valencian, valencien, Aiguavivan, Algherese, Algherese Catalan, Alghero, Catalan - Valencian - Balear, Catalan-Rousillonese, Central Catalan, Eastern Aragonese, Eivissenc, Formenterenc, Insular Catalan, Lleidatà, Mallorqui, Menorqui, Menorquin, Northern Catalan, Northwestern Catalan, Pallarese, Ribagorçan, Valenciano, Valencià]
 population: 4077300
 country_id: ES
 country_name: Spain
+location: Andorra and France
+area: Western Romance language
 status_id: "2"
 scope: individual
 language_type: living

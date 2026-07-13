@@ -6,11 +6,13 @@ alt_names: [Cimbre, Cimbriano, Tzimbro, Zimbrisch]
 population: 1500
 country_id: IT
 country_name: Italy
+area: Endangered Germanic language of Italy
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 46.87768
 longitude: 11.42855
+language_map_img: 500px-Zimbern.webp
 glottocode: cimb1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

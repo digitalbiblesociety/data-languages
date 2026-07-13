@@ -2,9 +2,11 @@
 iso: nzd
 name: Nzadi
 autonym: Indzéé
+alt_names: [Lensibun, Ndzé Ntaa, Ngiemba]
 population: null
 country_id: CD
 country_name: DR Congo
+area: Bantu language of DR Congo
 status_id: null
 scope: individual
 language_type: living

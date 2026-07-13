@@ -2,10 +2,12 @@
 iso: kjp
 name: Pwo Eastern Karen
 autonym: " ဖၠုံယှိုဝ်"
-alt_names: [Eastern Pwo, Karen, Karen (Pwo), "Karen, Pwo Eastern", "Karen, Pwo Western Thailand", "Karen,PwoEastern", Moulmein Pwo Karen, Phlou, Pho of Moulmein, Pwo Eastern, Pwo Karen, Pwo Western, Southern Pwo Karen]
+alt_names: [Eastern Pwo, Karen, Karen (Pwo), "Karen, Pwo Eastern", "Karen, Pwo Western Thailand", "Karen,PwoEastern", Moulmein Pwo Karen, Phlou, Pho of Moulmein, Pwo Eastern, Pwo Karen, Pwo Western, Southern Pwo Karen, Eastern Border Pwo Karen, Inland Eastern Pwo Karen, Kanchanaburi Pwo Karen, Kawkareik, Moulmein, "Pa'an", Phetchaburi Pwo Karen, Phlong, Pho, Pwo West-Central Thailand, Ratchaburi Pwo Karen, Tavoy]
 population: 1050000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: "Karenic language spoken in Myanmar, Thailand"
 status_id: "5"
 scope: individual
 language_type: living

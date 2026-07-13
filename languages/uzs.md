@@ -3,15 +3,18 @@ iso: uzs
 macrolanguage_id: uzb
 name: Southern Uzbek
 autonym: اوزبیکچه
-alt_names: [Usbeki, Uzbak, Uzbek, "Uzbek, Southern", Uzbeki, Özbekisch]
+alt_names: [Usbeki, Uzbak, Uzbek, "Uzbek, Southern", Uzbeki, Özbekisch, "O'zbek"]
 population: 4756100
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Uzbek dialect spoken in Afghanistan and Pakistan
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 36.609853
 longitude: 60.690747
+language_map_img: uzs.webp
 glottocode: sout2699
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

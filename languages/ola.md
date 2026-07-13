@@ -2,10 +2,12 @@
 iso: ola
 name: Walungge
 autonym: Ü-Tsang
-alt_names: [Halung, Halung tibetano, Olangchung Gola, Walung, Walungchung Gola, Walunggi Keccya]
+alt_names: [Halung, Halung tibetano, Olangchung Gola, Walung, Walungchung Gola, Walunggi Keccya, Tokpe Gola]
 population: 15600
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Most spoken and standard of the Tibetic languages
 status_id: 6b
 scope: individual
 language_type: living

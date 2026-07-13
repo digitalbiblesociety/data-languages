@@ -6,6 +6,8 @@ alt_names: [Chwambo]
 population: 21000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 迈因多语
     auto: true
 ---
+Chuwabo (Echuwabo), also spelled Cuabo and Txuwabo, is a Bantu language spoken along the central coast of Mozambique.

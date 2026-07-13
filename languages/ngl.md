@@ -2,10 +2,11 @@
 iso: ngl
 name: Lomwe
 autonym: Western Makhuwa
-alt_names: [Acilowe, Alomwe, Chilowe, Cilowe, Elomwe, Ilomwe, Ingulu, Lomue, Mihavane, Mihavani, Mihawani, Ngulu, Nguru, Walomwe, Western Makua]
+alt_names: [Acilowe, Alomwe, Chilowe, Cilowe, Elomwe, Ilomwe, Ingulu, Lomue, Mihavane, Mihavani, Mihawani, Ngulu, Nguru, Walomwe, Western Makua, Elhomwe, West Makhuwa]
 population: 2520000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Au Gemale, Gurtü, Kurteopkha, Kurthopkha, Kurtobikha, Kurtopakha, K
 population: 10000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Sino-Tibetan language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

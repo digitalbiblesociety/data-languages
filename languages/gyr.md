@@ -2,10 +2,12 @@
 iso: gyr
 name: Guarayu
 autonym: Gwarayú
-alt_names: ["\"Guarayo\"", Chapacura, Guapore, Guarayo, Guarayú, Huachi, Iten, Maré, Tapacura, Ñañañe]
+alt_names: ["\"Guarayo\"", Chapacura, Guapore, Guarayo, Guarayú, Huachi, Iten, Maré, Tapacura, Ñañañe, “Guarayo”]
 population: 5930
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Tupian language of Bolivia
 status_id: 6a
 scope: individual
 language_type: living

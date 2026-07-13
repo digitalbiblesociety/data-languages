@@ -2,15 +2,18 @@
 iso: btx
 name: Batak Karo
 autonym: Cakap Karo
-alt_names: [Batak (Karo), Karo Batak, Karo-Batak]
+alt_names: [Batak (Karo), Karo Batak, Karo-Batak, Batak, Karo, kalak Karo]
 population: 600000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 2.12787
 longitude: 98.25166
+language_map_img: 500px-Batak_languages.webp
 glottocode: bata1293
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

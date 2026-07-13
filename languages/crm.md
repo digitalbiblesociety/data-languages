@@ -3,10 +3,12 @@ iso: crm
 macrolanguage_id: cre
 name: Moose Cree
 autonym: Ililîmowin
-alt_names: [Clisteno moose, Cree, Cree de Moose, "Cree, Moose", Eastern Swampy Cree, West Main Cree, West Shore Cree, York Cree]
+alt_names: [Clisteno moose, Cree, Cree de Moose, "Cree, Moose", Eastern Swampy Cree, West Main Cree, West Shore Cree, York Cree, Cri de Moose]
 population: 4500
 country_id: CA
 country_name: Canada
+location: Canada
+area: "Cree dialect of Ontario, Canada"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Deenma, Denma, Dhiyin, Dhiyinma, "Te:n", Teen, Teenma, Tenma, Thenma
 population: null
 country_id: AU
 country_name: Australia
+area: Partly extinct dialect cluster of Western Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -23.71156576435
 longitude: 116.68011572516
+language_map_img: 500px-Mantharta_languages.webp
 glottocode: thii1234
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

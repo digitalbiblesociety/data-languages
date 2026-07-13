@@ -6,11 +6,14 @@ alt_names: [Oi]
 population: 14900
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.42002
 longitude: 106.65752
+language_map_img: 500px-Oi_language.webp
 glottocode: oyyy1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

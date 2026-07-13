@@ -2,10 +2,12 @@
 iso: bqt
 name: Bamukumbit
 autonym: Bamenkombit
-alt_names: [Bamenkoumbit, Bamoukoumbit, Bamunkum, Mangkong]
+alt_names: [Bamenkoumbit, Bamoukoumbit, Bamunkum, Mangkong, Achab a Maŋkɔ̧, Bamunkumbit, Mankong]
 population: 12000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

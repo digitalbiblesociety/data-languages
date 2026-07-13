@@ -6,11 +6,13 @@ alt_names: [2013), Bidjigal, Carawal, "Darawa:l", Darawal, Dariwal, Dharawa, Dha
 population: 27
 country_id: AU
 country_name: Australia
+area: Endangered Yuin language spoken in Australia
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -35.28532
 longitude: 147.47512
+language_map_img: 500px-Dharag-Neighbors1.webp
 glottocode: thur1254
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

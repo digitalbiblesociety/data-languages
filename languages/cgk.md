@@ -2,10 +2,12 @@
 iso: cgk
 name: Chocangacakha
 autonym: Tsamang
-alt_names: [Kursmadkha, Maphekha, "Rtsamangpa'ikha", "Tsagkaglingpa'ikha"]
+alt_names: [Kursmadkha, Maphekha, "Rtsamangpa'ikha", "Tsagkaglingpa'ikha", Rtsamangpa’ikha, Tsagkaglingpa’ikha]
 population: 20000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Sino-Tibetan language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Koegu, Koyego, Kwegi, Menja, Nidi]
 population: 450
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Surmic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

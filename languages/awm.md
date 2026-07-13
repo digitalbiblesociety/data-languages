@@ -5,6 +5,8 @@ autonym: null
 population: 60
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Endangered Rai Coast language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

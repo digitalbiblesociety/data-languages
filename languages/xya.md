@@ -6,6 +6,7 @@ alt_names: [Jungai, Yaygirr, Yegera, Yegir, Yiegera, Youngai]
 population: 5
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

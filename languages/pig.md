@@ -2,14 +2,18 @@
 iso: pig
 name: Pisabo
 autonym: Mayoruna
+alt_names: [Pisagua, Pisahua]
 population: 600
 country_id: PE
 country_name: Peru
+location: Peru
+area: Indigenous language on Brazil–Peru border
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -6.32551
 longitude: -73.3411
+language_map_img: 500px-Matses.webp
 glottocode: pisa1244
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested

@@ -5,11 +5,14 @@ autonym: Mang U’
 population: 10000
 country_id: VN
 country_name: Vietnam
+location: Northwestern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.45432
 longitude: 103.46701
+glottocode: khao1244
 wikidata_id: Q3196077
 wikipedia_url: "https://en.wikipedia.org/wiki/Khao_language"
 translations:

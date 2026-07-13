@@ -5,6 +5,8 @@ autonym: "Af-Tunni"
 population: 23000
 country_id: SO
 country_name: Somalia
+location: Somalia
+area: Somali language spoken by the Tunni
 status_id: 6a
 scope: individual
 language_type: living

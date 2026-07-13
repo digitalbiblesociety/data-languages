@@ -2,10 +2,12 @@
 iso: asc
 name: Casuarina Coast Asmat
 autonym: Kaweinag
-alt_names: [Asmat, "Asmat, Casuarina Coast"]
+alt_names: [Asmat, "Asmat, Casuarina Coast", As-amat, Matia, Safan, Sapan]
 population: 3400
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living

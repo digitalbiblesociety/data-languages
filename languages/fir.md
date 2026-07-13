@@ -6,6 +6,8 @@ alt_names: [Faran, Foron, Frisian, Fəran, Kwakwi, Yes Firan]
 population: 2500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

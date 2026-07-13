@@ -3,10 +3,12 @@ iso: bre
 iso639_1: br
 name: Breton
 autonym: brezhoneg
-alt_names: [An Bhriotáinis, Breatannais, Bretainiera, Bretoens, Breton leid, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonisk, Bretons, Bretonsk, Bretonska, Brettonish, Bretun, Bretó, Bretón, Bretónska, Britaanish, Britun simi, Burton, Lenghe bretone, Llydaweg, Luenga bretona, Łéngoa brètona, ברטונית, برېتون تىلى]
+alt_names: [An Bhriotáinis, Breatannais, Bretainiera, Bretoens, Breton leid, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonisk, Bretons, Bretonsk, Bretonska, Brettonish, Bretun, Bretó, Bretón, Bretónska, Britaanish, Britun simi, Burton, Lenghe bretone, Llydaweg, Luenga bretona, Łéngoa brètona, ברטונית, برېتون تىلى, Berton, Cornouaillais, Gwenedeg, Kerneveg, Leonais, Leoneg, Tregerieg, Tregorrois, Vannetais]
 population: 206000
 country_id: FR
 country_name: France
+location: Andorra and France
+area: Celtic language spoken in France
 status_id: 8a
 scope: individual
 language_type: living

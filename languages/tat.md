@@ -3,15 +3,18 @@ iso: tat
 iso639_1: tt
 name: Tatar
 autonym: " تاتار تلی;"
-alt_names: [Baraba, Baraba Tatar, Kazan, Mishar, Siberisch-Mahumedische Tatarn, Tartar, "Tata'er", Tataars, Tatar de Sibérie, Tatar tele, Tatar tili, Tatarca, Tatareg, Tatarisk, Tatariska, Tatariske Sproake, Tataru, Tatår, Tàtar, Tártaro de Siberia, Tártaru, Volga, Volga Tatar, Western Tatar, Тата́рьскъ ѩꙁꙑ́къ, Татаар тыла, Татар теле, Татаронь кель, Татаронь кяль, טטרית, تاتار تىلى, تاتارکی, تتارى]
+alt_names: [Baraba, Baraba Tatar, Kazan, Mishar, Siberisch-Mahumedische Tatarn, Tartar, "Tata'er", Tataars, Tatar de Sibérie, Tatar tele, Tatar tili, Tatarca, Tatareg, Tatarisk, Tatariska, Tatariske Sproake, Tataru, Tatår, Tàtar, Tártaro de Siberia, Tártaru, Volga, Volga Tatar, Western Tatar, Тата́рьскъ ѩꙁꙑ́къ, Татаар тыла, Татар теле, Татаронь кель, Татаронь кяль, טטרית, تاتار تىلى, تاتارکی, تتارى, Kazan Tatar, Middle Tatar, Mishari, Misher]
 population: 5286350
 country_id: RU
 country_name: Russia
+location: China
+area: Turkic language spoken by Tatars
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 55
 longitude: 50
+language_map_img: tat.webp
 scripts: [Cyrl]
 glottocode: tata1255
 glottolog_family_id: turk1311

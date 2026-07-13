@@ -6,6 +6,7 @@ alt_names: [LSM, LaSiMa, Mali Sign Language]
 population: 25000
 country_id: ML
 country_name: Mali
+area: Sign language used in Mali
 status_id: "5"
 scope: individual
 language_type: living

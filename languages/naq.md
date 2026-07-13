@@ -2,15 +2,18 @@
 iso: naq
 name: Khoekhoe
 autonym: Nama/Damara
-alt_names: ["\"Cape Hottentot\"", "\"Hottentot\"", "\"Kakuya Bushman Nasie\"", "\"Khoekhoegowab\"", "\"Khoekhoegowap\"", "\"Klipkaffer\"", "\"Klipkaffern\"", "\"Kupkaferrn\"", "\"Kupkaffer\"", "\"Rooi Nasie\"", Berdama, Bergdama, Bergdamara, Dama, Damaqua, Damara, Gri, Grikwa, Griqua, Gry, Hottentot, Hottentottisch, Kakuya Bushman Nasie, Khiri, Khoe, Khoekhoe du Cap, Khoekhoegowab, Khoekhoegowap, Khoeknoegowap, Khoi, Maqua, Nama, Nama (Khoekhoe), Nama (Namibia), Nama Hottentot, Namakwa, Naman, Namaqua, Rooi Nasie, Tama, Tamakwa, Tamma, Xirikwa, Xrikwa]
+alt_names: ["\"Cape Hottentot\"", "\"Hottentot\"", "\"Kakuya Bushman Nasie\"", "\"Khoekhoegowab\"", "\"Khoekhoegowap\"", "\"Klipkaffer\"", "\"Klipkaffern\"", "\"Kupkaferrn\"", "\"Kupkaffer\"", "\"Rooi Nasie\"", Berdama, Bergdama, Bergdamara, Dama, Damaqua, Damara, Gri, Grikwa, Griqua, Gry, Hottentot, Hottentottisch, Kakuya Bushman Nasie, Khiri, Khoe, Khoekhoe du Cap, Khoekhoegowab, Khoekhoegowap, Khoeknoegowap, Khoi, Maqua, Nama, Nama (Khoekhoe), Nama (Namibia), Nama Hottentot, Namakwa, Naman, Namaqua, Rooi Nasie, Tama, Tamakwa, Tamma, Xirikwa, Xrikwa, “Hottentot”, “Khoekhoegowab”, “Khoekhoegowap”, Kakuya Bushman, Nasie, Bondelswarts, Bondelswarts-Nama, Central Dama, Central Damara, Central Nama, Gimsbok Nama, "Haiǁ'om", Namagowab, Namidama, Sesfontein Damara, Sesfontein-Dama, Topnaar, Topnaar-Nama]
 population: 281200
 country_id: NA
 country_name: Namibia
+location: Botswana
+area: Khoe language spoken in southern Africa
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -25.074747
 longitude: 17.97667
+language_map_img: Nama-Damara_taalkaartje_NL.webp
 scripts: [Latn]
 glottocode: nama1264
 glottolog_family_id: khoe1240

@@ -6,11 +6,13 @@ alt_names: [Kakaopera]
 population: null
 country_id: SV
 country_name: El Salvador
+area: Extinct Misumalpan language of El Salvador
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 13.74374
 longitude: -88.11325
+language_map_img: Pueblos_Indigenas_antes_de_la_conquista_El_Salvador.svg
 scripts: [Latn]
 glottocode: caca1247
 glottolog_family_id: misu1242

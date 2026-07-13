@@ -2,10 +2,12 @@
 iso: sse
 name: Balangingi
 autonym: Bajau
-alt_names: [Bangingih Sama, Sama (Balangingi), Sama (North), Sama (Northern), "Sama, Bangingih"]
+alt_names: [Bangingih Sama, Sama (Balangingi), Sama (North), Sama (Northern), "Sama, Bangingih", "Baangingi'", Baangingi’, Balanguingui, Bangingi Sama, Northern Sama, Northern Sinama, Sama, Bajau Balangingih, Balagnini, Balangingi Bajau, Balangingih, Balanian, Balanini, Balignini, Bangingi, Bangingih, Batuan, Daongdung, "Kabinga'an", Lutangan, Lutango, Sama Baangingi, Sama Bangingih, Samal, Sibuco-Vitali, Sibuguey, Sibuku, Sinama Baangingi]
 population: 85000
 country_id: PH
 country_name: Philippines
+location: Malaysia - Sabah
+area: Austronesian language family of Borneo and the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -77,3 +79,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao"
 ---
+The Sama–Bajaw languages are a well-established group of languages spoken by the Sama-Bajau peoples of the Philippines, Indonesia, and Malaysia.

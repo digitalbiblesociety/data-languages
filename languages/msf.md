@@ -6,6 +6,8 @@ alt_names: [Dozai, Mekei, Menggei, Menggwei, Moi, Moi-e, Mooi, Munggai, Mungge, 
 population: 1200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Foja Range language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living

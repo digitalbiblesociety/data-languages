@@ -6,6 +6,8 @@ alt_names: [Manja]
 population: 220000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Ubangian language of the CAR
 status_id: 6a
 scope: individual
 language_type: living

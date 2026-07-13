@@ -3,15 +3,18 @@ iso: ayp
 macrolanguage_id: ara
 name: North Mesopotamian Arabic
 autonym: اللهجة الموصلية
-alt_names: [Anatolian Arabic, Arabic, "Arabic, North Mesopotamian", "Arabic, North Mesopotamian Spoken", Mesopotamian Arabic, Mesopotamian Qeltu Arabic, Moslawi, Sjevernomezopotamski arapski, Syro-Mesopotamian Arabic, Syro-Mesopotamian Vernacular Arabic, مصلاوية]
+alt_names: [Anatolian Arabic, Arabic, "Arabic, North Mesopotamian", "Arabic, North Mesopotamian Spoken", Mesopotamian Arabic, Mesopotamian Qeltu Arabic, Moslawi, Sjevernomezopotamski arapski, Syro-Mesopotamian Arabic, Syro-Mesopotamian Vernacular Arabic, مصلاوية, Abdul-Massih, Anatolian Group, Euphrates Group, Jesrawi, Kurdistan Group, Mardilli, Mardini, Mardini Aramaic, Maslawi, North Mesopotamian Spoken, North Mesopotamian Spoken Arabic, Tigris Group]
 population: 10266000
 country_id: IQ
 country_name: Iraq
+location: Iraq
+area: "Arabic dialect of Iraq, Syria, and Turkey"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 36.298573
 longitude: 42.00475
+language_map_img: ayp.webp
 glottocode: nort3142
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

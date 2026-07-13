@@ -6,6 +6,8 @@ alt_names: [Kudawa]
 population: 42
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Nearly extinct Kainji dialect cluster of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

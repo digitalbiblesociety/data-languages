@@ -6,6 +6,7 @@ alt_names: [Chawng, Cong, Shong, Xong, kui, ʃong]
 population: 5000
 country_id: TH
 country_name: Thailand
+location: Southern Thailand
 status_id: 8a
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: gkp
 macrolanguage_id: kpe
 name: Guinea Kpelle
 autonym: Kpɛlɛwoo
-alt_names: [Akpese, Gbese, Gerse, Gerze, Guerze, Kpele, Kpelese, Kpelesetina, Kpelle, "Kpelle, Guinea", Kperese, Kpese, Kpwessi, Northern Kpele, Pessa, Pessy]
+alt_names: [Akpese, Gbese, Gerse, Gerze, Guerze, Kpele, Kpelese, Kpelesetina, Kpelle, "Kpelle, Guinea", Kperese, Kpese, Kpwessi, Northern Kpele, Pessa, Pessy, Central Kpelle, Gbali, Heghe]
 population: 497000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 几内亚克佩莱语
     auto: true
 ---
+The Kpelle language is spoken by the Kpelle people of Liberia, Guinea and Ivory Coast and is part of the Mande language family. Guinean Kpelle, spoken by half a million people, is concentrated primarily, but not exclusively, in the southeastern forest regions of Guinea bordering Liberia, Ivory Coast, and Sierra Leone. Half a million Liberians speak Liberian Kpelle, which is taught in Liberian schools.

@@ -5,6 +5,7 @@ autonym: Հայերեն ժեստերի լեզու
 population: 3150
 country_id: AM
 country_name: Armenia
+area: Deaf sign language of Armenia
 status_id: 6a
 scope: individual
 language_type: living

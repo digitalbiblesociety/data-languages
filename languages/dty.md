@@ -3,14 +3,18 @@ iso: dty
 macrolanguage_id: nep
 name: Dotyali
 autonym: Dotyali
+alt_names: [Dotali, Baitadeli, Baitadi, Bajhangi, Darchuli, Darjula, Doteli]
 population: 788000
 country_id: NP
 country_name: Nepal
+location: Western Nepal
+area: Indo-Aryan language of Eastern Pahari branch
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 29.242
 longitude: 80.7252
+language_map_img: Far-Western_Region_in_Nepal.svg
 scripts: [Deva]
 glottocode: doty1234
 glottolog_family_id: indo1319

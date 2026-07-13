@@ -6,6 +6,8 @@ alt_names: [Mad, Mader, Mal, Mal Pahariya, Mal Pahoria, Maler, Malpaharia, Malti
 population: 51000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Language spoken in India and Bangladesh
 status_id: 6b
 scope: individual
 language_type: living

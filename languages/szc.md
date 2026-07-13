@@ -6,6 +6,8 @@ alt_names: [Semaq Bri, Ulu Tembeling]
 population: 3545
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6a
 scope: individual
 language_type: living

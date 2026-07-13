@@ -2,10 +2,12 @@
 iso: kfk
 name: Kinnauri
 autonym: Kanawaringskad
-alt_names: [Kanauri, Kanaury Anuskad, Kanawari, Kanawi, Kanoreunu Skad, Kanoreunu Skadd, Kanorin Skad, Kanorug Skadd, Kanāwarī, Kanāwri, Kanōrug Skadd, Kinauri, Kinnaura Yanuskad, Kinner, Kinori, Koonawure, Kunawari, Kunawur, Lower Kanauri, Lower Kinnauri, Lower Kănawi, Malhesti, Milchan, Milchanang, Milchang, Minchhang, Minchhanäng, Tibas Skad, Tibas Skadd, Upper Kanauri]
+alt_names: [Kanauri, Kanaury Anuskad, Kanawari, Kanawi, Kanoreunu Skad, Kanoreunu Skadd, Kanorin Skad, Kanorug Skadd, Kanāwarī, Kanāwri, Kanōrug Skadd, Kinauri, Kinnaura Yanuskad, Kinner, Kinori, Koonawure, Kunawari, Kunawur, Lower Kanauri, Lower Kinnauri, Lower Kănawi, Malhesti, Milchan, Milchanang, Milchang, Minchhang, Minchhanäng, Tibas Skad, Tibas Skadd, Upper Kanauri, Anuskad, Kanaury]
 population: 83600
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Sino-Tibetan dialect cluster centered on Himachal Pradesh, India"
 status_id: "3"
 scope: individual
 language_type: living

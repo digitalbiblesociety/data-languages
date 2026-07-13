@@ -6,11 +6,14 @@ alt_names: ["Campuo'n", Campuon, Kha, Kha Tampuen, Kha Tampuon, Lamam, Proon, Pr
 population: 31100
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language spoken in Cambodia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 13.56447
 longitude: 107.24544
+language_map_img: 500px-Tampuan_language.webp
 glottocode: tamp1251
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

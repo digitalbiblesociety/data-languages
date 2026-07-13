@@ -6,6 +6,7 @@ alt_names: [Apache, "Apache, Lipan", Eastern Apache, Lipán, Липан]
 population: 100
 country_id: US
 country_name: United States
+area: Eastern Southern Athabaskan language
 status_id: "9"
 scope: individual
 language_type: living

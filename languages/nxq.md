@@ -2,15 +2,18 @@
 iso: nxq
 name: Naxi
 autonym: Na
-alt_names: ["\"Mo-Su\"", "\"Moso\"", "\"Mosso\"", Lomi, Moso, Mosso, Mu, Nachieg, Nahsi, Nakhi, Nashi, Nasi, Noshi, Western dialect, Наси]
+alt_names: ["\"Mo-Su\"", "\"Moso\"", "\"Mosso\"", Lomi, Moso, Mosso, Mu, Nachieg, Nahsi, Nakhi, Nashi, Nasi, Noshi, Western dialect, Наси, Lapao, Lijiang, Ludian, Naqxi]
 population: 300000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 27.4599
 longitude: 100.182
+language_map_img: 500px-Naxi_language.webp
 scripts: [Latn]
 glottocode: naxi1245
 glottolog_family_id: sino1245

@@ -2,15 +2,18 @@
 iso: pid
 name: Piaroa
 autonym: "De'aruwa"
-alt_names: [Adole, Ature, Dearwa, Deruwa, Guagua, Kuakua, Piaroa-Maco, Piaroa-Mako, Quaqua, Uhothha, Uwotjüja, "Wo'tiheh", Wothüha]
+alt_names: [Adole, Ature, Dearwa, Deruwa, Guagua, Kuakua, Piaroa-Maco, Piaroa-Mako, Quaqua, Uhothha, Uwotjüja, "Wo'tiheh", Wothüha, Amorua, "De'aruwã thiwene", "Deá'ru'wa", Maco, Quaqua Dearuwa, Wotjüja, "Wu'tjuja", Wöthüha]
 population: 13770
 country_id: VE
 country_name: Venezuela
+location: Northern Colombia
+area: Piaroan language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 4.418045
 longitude: -67.75745
+language_map_img: 500px-Piaroa.webp
 glottocode: piar1243
 glottolog_family_id: sali1297
 glottolog_family_name: Saliban

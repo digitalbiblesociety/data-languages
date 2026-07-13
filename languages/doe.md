@@ -2,10 +2,12 @@
 iso: doe
 name: Doe
 autonym: Dohe
-alt_names: [Kidoe]
+alt_names: [Kidoe, Dowe]
 population: 24000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

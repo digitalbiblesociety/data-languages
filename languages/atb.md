@@ -2,10 +2,12 @@
 iso: atb
 name: Zaiwa
 autonym: အဇီး Atsi
-alt_names: [Aci, Aji, Atshi, Atsi, Atsi-Maru, Atzi, Atši, Azi, Maru, Szi, Tsaiwa, Xiaoshanhua, Zi]
+alt_names: [Aci, Aji, Atshi, Atsi, Atsi-Maru, Atzi, Atši, Azi, Maru, Szi, Tsaiwa, Xiaoshanhua, Zi, Bengwa, Longzhun, Tingzhu, Tsaiv, Tsaiva]
 population: 110000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Burmish language
 status_id: "5"
 scope: individual
 language_type: living

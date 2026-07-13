@@ -6,6 +6,7 @@ alt_names: [Anapia, Ariana, Cambeba, Cambeeba, Cambela, Campeba, Canga-Peba, Com
 population: 100
 country_id: PE
 country_name: Peru
+area: Endangered Tupian language of South America
 status_id: "9"
 scope: individual
 language_type: living

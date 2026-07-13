@@ -6,6 +6,8 @@ alt_names: [Nuenonne, Southeast Tasmanian, "Tasmanian, Southeast"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct Aboriginal language of Tasmania
 status_id: null
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Ezekwe]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Upper Cross River language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

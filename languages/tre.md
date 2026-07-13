@@ -6,6 +6,8 @@ alt_names: [Aru, Tarangan Timur, "Tarangan, East"]
 population: 3780
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 东塔兰甘语
     auto: true
 ---
+Tarangan is one of the Aru languages, spoken by inhabitants of the Aru Islands in eastern Indonesia. There are two varieties of Tarangan: East and West Tarangan. These varieties are divergent, perhaps no closer than they are to Manombai, also spoken in the Arus. West Tarangan is a trade language of the southern islands.

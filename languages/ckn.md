@@ -6,6 +6,8 @@ alt_names: ["Chin, Kaang"]
 population: 35000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Myanmar
 status_id: 6a
 scope: individual
 language_type: living

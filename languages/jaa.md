@@ -2,10 +2,12 @@
 iso: jaa
 name: Jamamadí
 autonym: Jamamadí
-alt_names: [Banauá, Banavá, Banawá, Banawá yafi, Banivá, Baniwá-Jafí, Canamanti, Jafí, Jamamadi, Jamanadí, Jarauára, Jarawara, Jaruára, Kanamanti, Kitiya, Madi, Yamadi, Yamamadi, Yamamadí, Yarawara]
+alt_names: [Banauá, Banavá, Banawá, Banawá yafi, Banivá, Baniwá-Jafí, Canamanti, Jafí, Jamamadi, Jamanadí, Jarauára, Jarawara, Jaruára, Kanamanti, Kitiya, Madi, Yamadi, Yamamadi, Yamamadí, Yarawara, Banawa, Banawa Jamamadí, Banawá Yafí, Bom Futuro, Cuchudua, Jaruara, Jurua, Kapaná, Maima, Mamori, Mamoria, Pauini, Tukurina, Yamamandi]
 population: 780
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Arawan language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living

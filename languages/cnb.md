@@ -6,6 +6,8 @@ alt_names: ["Chin, Chinbon", "Chin,Chinbon", Chinbon, Sho, Shö, Ütbü]
 population: 19600
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Burma and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
@@ -60,3 +62,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Uppu or Chinbon Chin is a Southern Kuki-Chin language dialect cluster of Myanmar, Bangladesh and India.

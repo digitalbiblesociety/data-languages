@@ -3,15 +3,18 @@ iso: hmz
 macrolanguage_id: hmn
 name: Hmong Shua
 autonym: lus Hmoob / lug Moob / lol Hmongb
-alt_names: [Hmo, Hmong, Hmung, Hsiung, Hunan Miao, Miao, "Miao, Sinicized", Sinicized Miao]
+alt_names: [Hmo, Hmong, Hmung, Hsiung, Hunan Miao, Miao, "Miao, Sinicized", Sinicized Miao, Biantou Miao, Changshu Miao, Curved Comb Miao, Flat Head Miao, Han Miao, Hmong Nzi, Hmong Sa, Hmong Shuad, Hmong Sua, Hmongb Shuat, Long Comb Miao, Lopsided Comb Miao, Mushu Maio, Piān Miáo, Shuixi Miao, Sinicised Hmong, Waishu Miao, Water Miao, West of the Water Miao, Wooden Comb Miao]
 population: 252000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: West Hmongic dialect continuum
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.22649
 longitude: 105.08171
+language_map_img: 500px-Hmong_Mien_lang.webp
 glottocode: hmon1331
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
@@ -60,3 +63,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Guizhou, Gian he xian jin bau xiang"
 ---
+Hmong or Mong is a dialect continuum of the West Hmongic branch of the Hmongic languages spoken by the Hmong people of Southwestern China, northern Vietnam, Thailand, and Laos. There are an estimated 4.5 million speakers of varieties that are largely mutually intelligible, including over 280,000 Hmong Americans as of 2013. Over half of all Hmong speakers speak the various dialects in China, where the Dananshan dialect forms the basis of the standard language. However, Hmong Daw and Mong Leng are widely known only in Laos and the United States; Dananshan is more widely known in the native region of Hmong.

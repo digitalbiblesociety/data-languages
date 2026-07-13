@@ -2,10 +2,12 @@
 iso: tba
 name: Aikanã
 autonym: Tubarão
-alt_names: [Aikana, Aikana language, Aikaná, Corumbiara, Huari, Huarí, Kasupá, Kolumbiara, Masaká, Massaká, Mundé, Tubaro, Uari, Wari, Warí]
+alt_names: [Aikana, Aikana language, Aikaná, Corumbiara, Huari, Huarí, Kasupá, Kolumbiara, Masaká, Massaká, Mundé, Tubaro, Uari, Wari, Warí, Massaca, Mondé, Tubanao]
 population: 150
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered indigenous language of Brazil
 status_id: 6b
 scope: individual
 language_type: living

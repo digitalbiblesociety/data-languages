@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 10600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

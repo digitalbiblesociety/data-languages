@@ -6,6 +6,8 @@ alt_names: [Gurrama, "Jana:ri", Janari, Jardira, Jawunmara, Karama, Karima, Karl
 population: 10
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

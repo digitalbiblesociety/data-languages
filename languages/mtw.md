@@ -6,6 +6,8 @@ alt_names: [Ata-Man, "Binukidnon, Southern", Bukidnon, Magahat]
 population: 7570
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Central Philippine language
 status_id: 6a
 scope: individual
 language_type: living

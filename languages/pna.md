@@ -2,10 +2,12 @@
 iso: pna
 name: "Punan Bah-Biau"
 autonym: "Bah-Biau"
-alt_names: [Malaysia]
+alt_names: [Malaysia, Punan]
 population: 450
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living

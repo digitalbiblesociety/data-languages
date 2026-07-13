@@ -2,10 +2,12 @@
 iso: bec
 name: "Iceve-Maci"
 autonym: Oliti
-alt_names: [Bacheve, Bechere, Becheve, Icheve, Ocebe, Oceve, Ochebe, Ocheve, Utse, Utser, Utseu]
+alt_names: [Bacheve, Bechere, Becheve, Icheve, Ocebe, Oceve, Ochebe, Ocheve, Utse, Utser, Utseu, Akwaya Motom, Baceve, Beheve, Ici, Ihekwot, Kwaya, Maci, Matchi, Motom, Motomo, Olit, Olithi, Oliti-Akwaya]
 population: 12000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Tivoid language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living

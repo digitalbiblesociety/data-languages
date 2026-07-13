@@ -9,6 +9,7 @@ country_name: DR Congo
 status_id: null
 scope: macrolanguage
 language_type: living
+language_map_img: kon.webp
 scripts: [Latn]
 wikidata_id: Q33702
 wikipedia_url: "https://en.wikipedia.org/wiki/Kongo_language"

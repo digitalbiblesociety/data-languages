@@ -6,11 +6,14 @@ alt_names: [Hoopa, Hoopa-Chilula, Hupa-Chilula-Whilkut, Хупа]
 population: 223
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: "Athabaskan language of California, US"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 41.09821
 longitude: -123.67988
+language_map_img: California-athabaskan.svg
 scripts: [Latn]
 glottocode: hupa1239
 glottolog_family_id: atha1245

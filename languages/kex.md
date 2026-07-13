@@ -2,14 +2,17 @@
 iso: kex
 name: Kukna
 autonym: "Kokna-Dhodia"
+alt_names: [Kanara, Kanara Konkani, Kokna, Kokni]
 population: 417000
 country_id: IN
 country_name: India
+location: "India, Map 6"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 20.5657
 longitude: 73.57127
+glottocode: kukn1238
 wikidata_id: Q5031131
 wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Saraswat_Konkani"
 translations:

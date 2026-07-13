@@ -6,6 +6,8 @@ alt_names: [Gimi]
 population: 3700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 吉米语（西新不列颠）
     auto: true
 ---
+West Arawe is an Austronesian dialect chain of West New Britain, Papua New Guinea. The principal varieties are Apalik, Gimi, Aiklep, and Arawe proper (Solong).

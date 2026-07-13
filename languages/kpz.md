@@ -2,10 +2,12 @@
 iso: kpz
 name: Kupsabiny
 autonym: Sabiny
-alt_names: [Sapei, Sapiny, Sebei]
+alt_names: [Sapei, Sapiny, Sebei, Kuksabin, Kupsapiny, Benet, Kongasis, Kumosop, Kupsapiiny, Kween, Mbai, Mosop, Ndorobo, Ogiek, Sor, Tingey]
 population: 274000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Kalenjin language of eastern Uganda
 status_id: "5"
 scope: individual
 language_type: living

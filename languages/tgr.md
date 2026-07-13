@@ -2,14 +2,18 @@
 iso: tgr
 name: Tareng
 autonym: Trieng
+alt_names: [Tariang]
 population: 5000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.49282
 longitude: 107.29597
+glottocode: tare1239
 wikidata_id: Q16306631
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 塔伦语
     auto: true
 ---
+Taliang is a Bahnaric language spoken by the Jeh-Tariang people of Laos and Vietnam. It is possibly related to the Stieng language of Vietnam and Cambodia.

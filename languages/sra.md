@@ -5,6 +5,8 @@ autonym: null
 population: 130
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Madang language
 status_id: 6b
 scope: individual
 language_type: living

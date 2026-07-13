@@ -2,10 +2,12 @@
 iso: cje
 name: Chru
 autonym: Cadoe Loang
-alt_names: [Choru, Chrau Hma, Chu, Chu Ru, Churu, Cru, Kru, Seyu]
+alt_names: [Choru, Chrau Hma, Chu, Chu Ru, Churu, Cru, Kru, Seyu, Cho Ru, La-Dang, Noang, Rai]
 population: 19300
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austronesian language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

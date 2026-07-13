@@ -5,12 +5,15 @@ autonym: null
 population: null
 country_id: HN
 country_name: Honduras
+area: Moribund language family of Honduras and El Salvador
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 13.927755
 longitude: -88.042225
+language_map_img: Pueblos_Indigenas_antes_de_la_conquista_El_Salvador.svg
 scripts: [Latn]
+glottocode: lenc1244
 wikidata_id: Q36189
 wikipedia_url: "https://en.wikipedia.org/wiki/Lencan_languages"
 translations:

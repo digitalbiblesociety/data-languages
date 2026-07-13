@@ -2,10 +2,12 @@
 iso: cjo
 name: Ashéninka Pajonal
 autonym: Campa
-alt_names: ["\"Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Pajonal, Ashninca Pajonal, Asháninca, Ashéninca, Ashéninga, Atiri, Atsiri, Campa Pajonal Asheninca, Cogapacorí, Kampa, Nanti, Pajonal, Pajonal Ashéninka]
+alt_names: ["\"Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asheninka Pajonal, Ashninca Pajonal, Asháninca, Ashéninca, Ashéninga, Atiri, Atsiri, Campa Pajonal Asheninca, Cogapacorí, Kampa, Nanti, Pajonal, Pajonal Ashéninka, “Campa”, Asheninka]
 population: 12000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

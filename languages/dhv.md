@@ -2,10 +2,12 @@
 iso: dhv
 name: Dehu
 autonym: null
-alt_names: ["De'u", Drehu, Drehu language, Lifou, Lifu]
+alt_names: ["De'u", Drehu, Drehu language, Lifou, Lifu, De’u]
 population: 13000
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: "Austronesian language of Lifou Island, New Caledonia"
 status_id: "4"
 scope: individual
 language_type: living

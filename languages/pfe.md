@@ -2,10 +2,12 @@
 iso: pfe
 name: Peere
 autonym: Peere
-alt_names: [Kotofo, Kotopo, Kotpojo, Koutin, Koutine, Kutin, Kutine, Kutinn, Pare, Patapori, Peer, Pere, Potopo, Potopore]
+alt_names: [Kotofo, Kotopo, Kotpojo, Koutin, Koutine, Kutin, Kutine, Kutinn, Pare, Patapori, Peer, Pere, Potopo, Potopore, Dan Muure, Djonbi, Kpotopo, Peer Muure, Per Muure, Pɛrɛ, Zongbi]
 population: 50000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Savanna language spoken in Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

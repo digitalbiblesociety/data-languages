@@ -2,9 +2,12 @@
 iso: srn
 name: Sranan Tongo
 autonym: Sranan Tongo
+alt_names: [Sranan, Surinaams, Suriname Creole English, Surinamese, Taki-Taki]
 population: 518600
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: Creole language spoken in Suriname
 status_id: "3"
 scope: individual
 language_type: living

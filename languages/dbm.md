@@ -6,6 +6,8 @@ alt_names: [Dugarwa, Duguranchi, Dugurawa, Dukuri]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language spoken in Nigeria
 status_id: "7"
 scope: individual
 language_type: living
@@ -75,3 +77,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Bauchi"
 ---
+Jarawa is the most populous of the Jarawan languages of northern Nigeria. It is a dialect cluster consisting of many varieties.

@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: AO
 country_name: Angola
+area: Bantu language spoken in Angola
 status_id: null
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 恩根德伦戈语
     auto: true
 ---
+Kuvale is a Southern Bantu language spoken in Angola, in the middle of a large Umbundu-speaking area. It has traditionally been considered a dialect of Herero; however, Maho (2009) has moved it from Bantu Zone R.30 to Zone R.10, which includes Umbundu and a few smaller languages. Ngendelengo may be a distinct language.

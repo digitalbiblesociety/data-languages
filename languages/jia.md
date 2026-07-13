@@ -6,6 +6,8 @@ alt_names: [Zine]
 population: 1500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living

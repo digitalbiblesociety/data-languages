@@ -6,6 +6,8 @@ alt_names: [Bobilis, Gbigbil]
 population: 6000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

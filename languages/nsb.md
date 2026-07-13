@@ -6,6 +6,8 @@ alt_names: [Lower Nossob]
 population: null
 country_id: ZA
 country_name: South Africa
+location: "Africa, Southern"
+area: Extinct Khoisan language of Botswana
 status_id: null
 scope: individual
 language_type: extinct

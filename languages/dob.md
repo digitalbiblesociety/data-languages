@@ -2,9 +2,12 @@
 iso: dob
 name: Dobu
 autonym: Dobuan
+alt_names: [Central Dobu, Dawada-Siausi, Galubwa, Loboda, Roboda, Sanaroa, Ubuia]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living

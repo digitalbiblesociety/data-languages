@@ -6,6 +6,8 @@ alt_names: [Bisaya]
 population: 71500
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken by Butuanon people in northeastern Mindanao
 status_id: "7"
 scope: individual
 language_type: living

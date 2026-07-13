@@ -2,10 +2,11 @@
 iso: psc
 name: Persian Sign Language
 autonym: Persian Sign Language
-alt_names: [Iranian Sign Language]
+alt_names: [Iranian Sign Language, ZEI, Zaban Eshareh Irani]
 population: 250000
 country_id: IR
 country_name: Iran
+area: Deaf sign language of Iran
 status_id: 6a
 scope: individual
 language_type: living

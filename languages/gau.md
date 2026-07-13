@@ -2,10 +2,12 @@
 iso: gau
 name: Mudhili Gadaba
 autonym: Gadaba
-alt_names: ["Gadaba, Mudhili", Gol Gadaba, Kondekar, Kondekor, Kondekor Gadaba, Kondkor, Mudhili, Salur, Salur Gadba, Salur Ollar Gadaba]
+alt_names: ["Gadaba, Mudhili", Gol Gadaba, Kondekar, Kondekor, Kondekor Gadaba, Kondkor, Mudhili, Salur, Salur Gadba, Salur Ollar Gadaba, Kondko]
 population: 8000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Central Dravidian language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

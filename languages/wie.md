@@ -6,6 +6,7 @@ alt_names: [Eba, Epa, Eppe, Mimungkum, Wik, Wik Ep, Wik Ep Wik Eppa, Wik Epa, Wi
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 威克-埃帕语
     auto: true
 ---
+Wik-Me'nh is a Paman language of the Cape York Peninsula of Queensland, Australia.

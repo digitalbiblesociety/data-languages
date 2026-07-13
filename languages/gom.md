@@ -3,15 +3,18 @@ iso: gom
 macrolanguage_id: kok
 name: Goan Konkani
 autonym: कोंकणी
-alt_names: [Goan, Goanese, Gomataki, Konkan, Konkaneg, Konkani, Konkani language, "Konkani, Goan", "Konkani, Goanese", Konkanî, Конкани, קונקאני, ಕೊಂಕಣಿ, കൊങ്കണി]
+alt_names: [Goan, Goanese, Gomataki, Konkan, Konkaneg, Konkani, Konkani language, "Konkani, Goan", "Konkani, Goanese", Konkanî, Конкани, קונקאני, ಕೊಂಕಣಿ, കൊങ്കണി, Konanni, Southern Kanara, Bardeskari, Chitpavani, Daldi, Gomantaki, Konkanasths, Konknni, Kudali, Malvani, Mangalore Standard Konkani, Nawaits, Sarasvat Brahmin]
 population: 3707000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 15.27325
 longitude: 74.20979
+language_map_img: 500px-Geographic_Distribution_of_Native_Konkani_Speakers.webp
 glottocode: goan1235
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -76,3 +79,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Maharashtra"
 ---
+Konkani, formerly Concani, is an Indo-Aryan language spoken by the Konkani people, primarily in the Konkan region, along the western coast of India. It is one of the 22 scheduled languages mentioned in the Indian Constitution, and the official language of the Indian state of Goa. It is also spoken in Karnataka, Maharashtra, Kerala, Gujarat as well as Daman, Diu & Silvassa.

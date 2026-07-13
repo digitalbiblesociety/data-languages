@@ -2,9 +2,11 @@
 iso: mdq
 name: Mbole
 autonym: Lombole
+alt_names: [Botunga, Inja, Keembo, Nkembe, Nkimbe, Yaamba, Yaikole, Yaisu, Yangonda]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

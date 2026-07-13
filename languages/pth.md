@@ -6,6 +6,7 @@ alt_names: [Patasho, Patasho-Hanhanhain, Patashó, Pataxi, Pataxo Ha-Ha-Hae, Pat
 population: null
 country_id: BR
 country_name: Brazil
+area: Macro-Jê language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

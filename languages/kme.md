@@ -6,6 +6,8 @@ alt_names: [Bakolle, Bamusso, Kole]
 population: 300
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 8b
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 巴科勒语
     auto: true
 ---
+Kpwe (Mokpwe) is a Bantu language of Cameroon. It is mutually intelligible with Kole, and probably with Mboko (Wumboko) as well.

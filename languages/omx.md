@@ -52,3 +52,4 @@ translations:
     name: 古孟语
     auto: true
 ---
+The Mon language, formerly known as Peguan and Talaing, is an Austroasiatic language spoken by the Mon people. Mon, like the related Khmer language, but unlike most languages in mainland Southeast Asia, is not tonal. The Mon language is a recognised indigenous language in Myanmar as well as an indigenous language of Thailand.

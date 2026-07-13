@@ -7,6 +7,8 @@ alt_names: [Arabeg yuzev-morokek, "Arabic, Judeo-Moroccan", Judeo-Moroccan, Jude
 population: 61930
 country_id: IL
 country_name: Israel
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Judeo-Arabic variety of Morocco
 status_id: "7"
 scope: individual
 language_type: living

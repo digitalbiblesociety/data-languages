@@ -6,6 +6,7 @@ alt_names: [Dialecte westphalien, German, German (Westphalian), Neuniederdeutsch
 population: null
 country_id: DE
 country_name: Germany
+area: Low German dialects spoken in Germany
 status_id: "5"
 scope: individual
 language_type: living

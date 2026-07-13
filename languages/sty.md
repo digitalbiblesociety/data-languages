@@ -2,10 +2,11 @@
 iso: sty
 name: Siberian Tatar
 autonym: "{{lang|sty|татарца, тадарца, татарча, тадарча,"
-alt_names: ["Tatar, Siberian"]
+alt_names: ["Tatar, Siberian", Baraba, Baraban, Barabinsk Tatar, Eastern Tatar, Tobol-Irtysh, Tobolo-Irtysh, Tom, Tomsk, Tomsk Tatar]
 population: 101000
 country_id: RU
 country_name: Russia
+area: Turkic language spoken in Western Siberia
 status_id: null
 scope: individual
 language_type: living

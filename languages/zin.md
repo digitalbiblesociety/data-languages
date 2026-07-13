@@ -2,10 +2,12 @@
 iso: zin
 name: Zinza
 autonym: Ecizinza
-alt_names: [Dzinda, Dzindza, Echidzindza, Echijinja, Jinja, Kizinza, Zinja]
+alt_names: [Dzinda, Dzindza, Echidzindza, Echijinja, Jinja, Kizinza, Zinja, Abazinza, Binza, Echiziinza, Echizinza, Ecijinja, Ekizinza, Kula, Longo, Omuchizinza]
 population: 205000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

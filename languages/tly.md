@@ -2,10 +2,12 @@
 iso: tly
 name: Talysh
 autonym: Talışi Толыши تالشه زَوُن
-alt_names: [Talesh, Taleshi, Talicheg, Talisch, Talish, Talishi, Talisí, Talişki, Talişler, Talyshi, Tolışi, Толыши, تالشی, تالشی زَوُن]
+alt_names: [Talesh, Taleshi, Talicheg, Talisch, Talish, Talishi, Talisí, Talişki, Talişler, Talyshi, Tolışi, Толыши, تالشی, تالشی زَوُن, Astara, Central Talyshi, Lenkoran, Lerik, Massali, Northern Talyshi, Southern Talyshi, Tolish, Tolışə zıvon]
 population: 226100
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Iranic language spoken in Northwestern Iran and Southeastern Azerbaijan
 status_id: "4"
 scope: individual
 language_type: living

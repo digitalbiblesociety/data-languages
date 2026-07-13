@@ -5,11 +5,13 @@ autonym: Southern Wintun
 population: null
 country_id: US
 country_name: United States
+area: Endangered indigenous language of northern California
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 39.2143
 longitude: -122.0094
+language_map_img: Patwin_map.svg
 glottocode: patw1250
 glottolog_family_id: wint1258
 glottolog_family_name: Wintuan

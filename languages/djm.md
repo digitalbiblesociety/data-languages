@@ -2,10 +2,12 @@
 iso: djm
 name: Jamsay Dogon
 autonym: Jamsay
-alt_names: [Dogon, "Dogon, Jamsay", Dyamsay Tegu]
+alt_names: [Dogon, "Dogon, Jamsay", Dyamsay Tegu, Bama, Domno, Gamsaj, Gono, Guru, Pomuru]
 population: 130000
 country_id: ML
 country_name: Mali
+location: Burkina Faso
+area: Dogon language of Mali
 status_id: 6a
 scope: individual
 language_type: living

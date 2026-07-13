@@ -2,10 +2,12 @@
 iso: mlc
 name: Cao Lan
 autonym: "Man Cao-Lan"
-alt_names: ["\"Man Cao-Lan\"", "\"Mán\"", Cao Lan-Sán Chi, Caolan, San Chay, San Chi, Sán-Chi]
+alt_names: ["\"Man Cao-Lan\"", "\"Mán\"", Cao Lan-Sán Chi, Caolan, San Chay, San Chi, Sán-Chi, “Man Cao-Lan”, “Mán”, Cao, Lan-Sán Chi]
 population: 169000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Tai language spoken in northern Vietnam
 status_id: 6a
 scope: individual
 language_type: living

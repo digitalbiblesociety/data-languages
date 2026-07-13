@@ -2,14 +2,19 @@
 iso: ahr
 name: Ahirani
 autonym: Ahirani
+alt_names: [Ahiri]
 population: 1640000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.552
 longitude: 73.685
+language_map_img: 500px-Distribution_of_khandeshi_speakers_2011.webp
+glottocode: ahir1243
 wikidata_id: Q15549890
 wikipedia_url: "https://en.wikipedia.org/wiki/Ahirani_language"
 translations:

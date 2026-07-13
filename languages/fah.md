@@ -6,6 +6,7 @@ alt_names: ["Fali, Baissa", Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Endangered Benue–Congo language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

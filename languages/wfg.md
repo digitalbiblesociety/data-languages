@@ -6,6 +6,8 @@ alt_names: [Jafi, Jafi Wagarindem, Jafí, Wagarindem, Wargarindem, Warlef, Yaffi
 population: 230
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Pauwasi language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

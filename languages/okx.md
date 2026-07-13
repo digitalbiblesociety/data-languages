@@ -2,10 +2,12 @@
 iso: okx
 name: Northwestern Edo Okpe
 autonym: null
-alt_names: [Nigeria, Okpe]
+alt_names: [Nigeria, Okpe, Okpe (Northwestern Edo)]
 population: 8700
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Edoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

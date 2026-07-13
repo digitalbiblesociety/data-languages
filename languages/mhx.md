@@ -2,10 +2,11 @@
 iso: mhx
 name: Maru
 autonym: Lhao Vo
-alt_names: [Diso, Lang, "Lang'e", Langsu, Lansu, Laungaw, Laungwaw, Lawng, Lawngvaw, Lhaovo, Malu, Matu, Mulu, Nyky, Zi]
+alt_names: [Diso, Lang, "Lang'e", Langsu, Lansu, Laungaw, Laungwaw, Lawng, Lawngvaw, Lhaovo, Malu, Matu, Mulu, Nyky, Zi, "Dago' Lawng Bit", "Gawan Naw'", "Hlo'lan", Laking, Langwa, Lawgore, Lawng Hsu, Liangsu, Lovo, Wa Khawk, Zagaran Mran]
 population: 124500
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
 status_id: "5"
 scope: individual
 language_type: living

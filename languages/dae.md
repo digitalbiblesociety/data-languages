@@ -6,6 +6,8 @@ alt_names: [Doupa, Dupa, Nduupa, Saa]
 population: 5000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Dialect cluster of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 杜乌帕语
     auto: true
 ---
+The Dii language is a dialect cluster in the Duru branch of Savanna languages. Yag Dii is the ethnonym.

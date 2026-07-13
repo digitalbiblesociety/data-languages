@@ -2,10 +2,12 @@
 iso: yss
 name: "Yessan-Mayo"
 autonym: "Yessan-Mayo"
-alt_names: [Maio-Yesan, Mayo, Mayo-Yesan, Yamano, Yasi, Yasyin, Yesan]
+alt_names: [Maio-Yesan, Mayo, Mayo-Yesan, Yamano, Yasi, Yasyin, Yesan, Yessan-Mayo (Yamano), Yessan-Mayo Yamano, Yessan-Mayo Yawu, Mayo-Yessan, Warasai, Yau, Yaw, Yawu, Yemano, Yuwu]
 population: 1990
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

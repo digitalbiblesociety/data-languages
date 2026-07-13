@@ -6,11 +6,14 @@ alt_names: [Midiki]
 population: 2000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Language spoken in East Timor
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -8.74034
 longitude: 126.05874
+language_map_img: 500px-Mideki.webp
 glottocode: kair1265
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

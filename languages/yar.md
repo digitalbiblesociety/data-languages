@@ -6,6 +6,8 @@ alt_names: [Mapoyo-Yavarana, Yabaraneg, Yauarana, Yavarana, Yawarana]
 population: null
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Extinct language of Venezuela
 status_id: 8a
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: VE
     location: Venezuela
 ---
+Yabarana is a moribund Cariban language or dialect of Mapoyo, spoken in Venezuela.

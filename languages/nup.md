@@ -2,10 +2,12 @@
 iso: nup
 name: "Nupe-Nupe-Tako"
 autonym: Nupe
-alt_names: [Nufawa, Nupeci, Nupecidji, Nupenchi, Nupencizi]
+alt_names: [Nufawa, Nupeci, Nupecidji, Nupenchi, Nupencizi, Ampeyi, Anupe, Anupecwayi, Anuperi, Bassa Nge, Nife, Nupe Central, Nupe Tako, Nupecizi, Takpa, Tapa, Tappah]
 population: 1730000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Nigerian language
 status_id: "3"
 scope: individual
 language_type: living

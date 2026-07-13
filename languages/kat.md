@@ -3,15 +3,18 @@ iso: kat
 iso639_1: ka
 name: Georgian
 autonym: Kartuli
-alt_names: [Georgiera, Georgisch, Georgisk, Georgiska, Georgià, Georgíska, Gruzia-gí, Gruzijski, Gruzinski, Gurciki, Géorgien, Gürcüce, Jorjieg, Kartul simi, Nuclear Georgian, Seoirsis, Забони гурҷӣ, Վրացերեն, גאורגית, گرۇزىن تىلى, گورجی زوون, ܠܫܢܐ ܓܘܪܓܝܐ]
+alt_names: [Georgiera, Georgisch, Georgisk, Georgiska, Georgià, Georgíska, Gruzia-gí, Gruzijski, Gruzinski, Gurciki, Géorgien, Gürcüce, Jorjieg, Kartul simi, Nuclear Georgian, Seoirsis, Забони гурҷӣ, Վրացերեն, גאורגית, گرۇزىن تىلى, گورجی زوون, ܠܫܢܐ ܓܘܪܓܝܐ, Common Kartvelian, ქართული, Acharian, Adzhar, Ferejdan, Fereydan, Gorji, Grunzinski yazyk, Gruzin, Imeretian, Imerxev, Imerxev Kartlian, Ingilo, Ingiloi, Kakhetian, Kaxetian, Kheysur, Lechkhum, Meskhur-Javakhuri, Mokhev, Moxev, Mtiul, Pshav, Racha-Lexchxum, Tush, Xevsur]
 population: 3898550
 country_id: GE
 country_name: Georgia
+location: Azerbaijan
+area: Official language of Georgia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 39.370453
 longitude: 45.80661
+language_map_img: Kartvelian_languages.webp
 scripts: [Geor]
 glottocode: nucl1302
 glottolog_family_id: kart1248

@@ -2,10 +2,12 @@
 iso: kfb
 name: Northwestern Kolami
 autonym: Kolam
-alt_names: [Colami, Kolamboli, Kolameg, Kolami, Kolami language, "Kolami, Northwestern", Kolamy, Kolmi, Kolámí, Kulme, Kōlāmì, Kōlāmī, Колами, கோலமி]
+alt_names: [Colami, Kolamboli, Kolameg, Kolami, Kolami language, "Kolami, Northwestern", Kolamy, Kolmi, Kolámí, Kulme, Kōlāmì, Kōlāmī, Колами, கோலமி, Madka-Kinwat, Maregaon, Pulgaon, Wani]
 population: 128000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Central Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living

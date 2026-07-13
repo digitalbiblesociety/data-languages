@@ -3,10 +3,12 @@ iso: mwk
 macrolanguage_id: man
 name: Kita Maninkakan
 autonym: Central Malinke
-alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi]
+alt_names: [Kita Maninka, Malinke, "Maninkakan, Kita", Nandi, Bagè, Birgo, Biriko, Kita, Kita Malinke, Maninkakan, Sagabari]
 population: 434000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 2"
+area: Manding language of Mali
 status_id: 6a
 scope: individual
 language_type: living

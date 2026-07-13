@@ -11,6 +11,7 @@ scope: individual
 language_type: historical
 latitude: 55.932
 longitude: -5.222
+glottocode: hibe1235
 wikidata_id: Q5128278
 wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Gaelic"
 translations:

@@ -2,10 +2,12 @@
 iso: wad
 name: Wandamen
 autonym: Wamesa
-alt_names: [Bentoeni, Bentuni, Bintuni, Wandamen-Windesi, Windesi, Windessi, Wondama]
+alt_names: [Bentoeni, Bentuni, Bintuni, Wandamen-Windesi, Windesi, Windessi, Wondama, Steenkool]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: "Austronesian language of West Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

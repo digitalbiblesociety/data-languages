@@ -2,10 +2,12 @@
 iso: kvy
 name: Yintale Karen
 autonym: Kayah
-alt_names: ["Karen, Yintale", "Karen,Yintale", Tali, Taliak, Yangatalet, Yangtadai, Yintale, Yintalet]
+alt_names: ["Karen, Yintale", "Karen,Yintale", Tali, Taliak, Yangatalet, Yangtadai, Yintale, Yintalet, Talai]
 population: 10000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karenic dialect continuum
 status_id: 6b
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Karenni or Red Karen, known in Burmese as Kayah, is a Karen dialect continuum spoken by over half a million Kayah people in Burma.

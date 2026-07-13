@@ -5,6 +5,8 @@ autonym: Afi
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Tivoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

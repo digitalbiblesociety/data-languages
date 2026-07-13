@@ -6,6 +6,8 @@ alt_names: [Bugen, Kho, Khoa, Khowa]
 population: 900
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Kho-Bwa language of Arunachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living

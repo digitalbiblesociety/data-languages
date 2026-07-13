@@ -3,10 +3,12 @@ iso: mlq
 macrolanguage_id: man
 name: Western Maninkakan
 autonym: Western Maninka
-alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke]
+alt_names: [Malinka, Malinke, Maninga, Maninka, Maninka (Western), Maninka-Western, Maninkakan (Western), "Maninkakan, Western", Northwestern Maninka, Western Malinke, Diakhanke, Diakhonké, Diakkanke, Djébé, Jahanka, Jahanque, Jahonque, Jaxanka, Konkodougou, Kouroudougou, Kyakanke, Maninkakan, Maninkaxan, Niagala]
 population: 2067260
 country_id: SN
 country_name: Senegal
+location: "Mali, Map 2"
+area: Manding language of Mali and Senegal
 status_id: "4"
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: SN
     location: Senegal
 ---
+The Kassonke (Khassonké) language, Xaasongaxango (Xasonga), or Western Maninka (Malinke), is a Manding language spoken by the Khassonké and Malinke of western Mali and by the Malinke of eastern Senegal. Kassonke is an official language in Mali. Western and Eastern Maninka are 90% mutually intelligible, though distinct from the Mandinka (Malinke) of southern Senegal, which is a national language there.

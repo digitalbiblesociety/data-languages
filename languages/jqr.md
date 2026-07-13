@@ -2,15 +2,18 @@
 iso: jqr
 name: Jaqaru
 autonym: Tupe
-alt_names: [Aru, Hakaru-Kauki, "Haq'aru", Haqaru, Haqearu, Jaqarú]
+alt_names: [Aru, Hakaru-Kauki, "Haq'aru", Haqaru, Haqearu, Jaqarú, Haq’aru]
 population: 2000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Aymaran language spoken in Peru
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -12.88233
 longitude: -75.89576
+language_map_img: 500px-Jaqaru.webp
 glottocode: jaqa1244
 glottolog_family_id: ayma1253
 glottolog_family_name: Aymaran

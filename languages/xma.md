@@ -2,14 +2,18 @@
 iso: xma
 name: Mushungulu
 autonym: Mushunguli
+alt_names: [Kimushungulu]
 population: 23000
 country_id: SO
 country_name: Somalia
+location: Somalia
+area: Bantu language spoken in Tanzania and Somalia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 0.00689
 longitude: 42.66256
+glottocode: mush1238
 wikidata_id: Q11732489
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 穆舍乌古鲁语
     auto: true
 ---
+The Zigula or Zigua language, Chizigua, is a Bantu language of Tanzania and Somalia, where the Mushunguli dialect is spoken.

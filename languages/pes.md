@@ -3,15 +3,17 @@ iso: pes
 macrolanguage_id: fas
 name: Iranian Persian
 autonym: فارسی
-alt_names: [Farsi, Farsi (Western), "Farsi, Persian", "Farsi, Western", Irani, Neupersisch, New Persian, Parsi, Persian, "Persian, Iranian", Tehrani Persian]
+alt_names: [Farsi, Farsi (Western), "Farsi, Persian", "Farsi, Western", Irani, Neupersisch, New Persian, Parsi, Persian, "Persian, Iranian", Tehrani Persian, Western Farsi, Kiajemi, Perzsa, Perština, Tieng Farsi]
 population: 52800000
 country_id: IR
 country_name: Iran
+area: Dialect of the Persian language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 28.659283
 longitude: 55.158607
+language_map_img: pes.webp
 glottocode: west2369
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

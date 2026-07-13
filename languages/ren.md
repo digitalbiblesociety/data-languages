@@ -6,11 +6,14 @@ alt_names: [Hamong, Rangao, Rongao, Rəngao]
 population: 16000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: North Bahnaric language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.6066
 longitude: 107.85923
+language_map_img: 500px-Rengao_language.webp
 glottocode: reng1252
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

@@ -6,6 +6,8 @@ alt_names: ["'Kundjan", Ayan, Cape York Peninsula Languages, Gudjal, Gugu Nyungk
 population: 300
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Paman language spoken in Queensland, Australia"
 status_id: 8a
 scope: individual
 language_type: living

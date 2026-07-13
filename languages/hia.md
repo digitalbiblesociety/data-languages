@@ -6,6 +6,8 @@ alt_names: [Hitkala, Laamang, Mandara Group B, Waha]
 population: 40000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Afro-Asiatic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

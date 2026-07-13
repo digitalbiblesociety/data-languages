@@ -6,6 +6,8 @@ alt_names: [Ba Pai Yao, Tsao-min, Yao Min, Yau Min, Zaomin]
 population: 60000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmong–Mien language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

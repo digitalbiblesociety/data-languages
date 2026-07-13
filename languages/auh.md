@@ -6,6 +6,8 @@ alt_names: [Avaushi, Usi, Uzhil, Uzhili, Vouaousi]
 population: 100000
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

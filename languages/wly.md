@@ -6,6 +6,7 @@ alt_names: [Walüng, Wāling]
 population: null
 country_id: NP
 country_name: Nepal
+area: "Koshi zone, Bhojpur District, Khairang Panchayat."
 status_id: "10"
 scope: individual
 language_type: extinct

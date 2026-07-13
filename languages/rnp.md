@@ -2,10 +2,12 @@
 iso: rnp
 name: Rongpo
 autonym: Manchhi Bhassa
-alt_names: ["\"Manchhi Bhassa\"", "\"Marchha Pahari\"", "\"Marchha\"", "\"Tolcha\"", "\"Tolchha\"", Marchcha, Marchha, Rang Po Bhasa, Rangkas, Rangpa, Rangpo, Sankiyā]
+alt_names: ["\"Manchhi Bhassa\"", "\"Marchha Pahari\"", "\"Marchha\"", "\"Tolcha\"", "\"Tolchha\"", Marchcha, Marchha, Rang Po Bhasa, Rangkas, Rangpa, Rangpo, Sankiyā, “Manchhi Bhassa”, “Marchha Pahari”, “Marchha”, “Tolchha”]
 population: 7500
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

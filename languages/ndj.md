@@ -2,10 +2,12 @@
 iso: ndj
 name: Ndamba
 autonym: null
-alt_names: [Tanzania]
+alt_names: [Tanzania, Kindamba]
 population: 196000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living

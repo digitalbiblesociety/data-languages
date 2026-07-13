@@ -2,10 +2,12 @@
 iso: mcx
 name: Mpiemo
 autonym: Mbimu
-alt_names: [Bimu, Mbimou, Mbyemo, Mpo, Mpyemo]
+alt_names: [Bimu, Mbimou, Mbyemo, Mpo, Mpyemo, Bidjouki, Bidjuki, Jasoa, Jasua]
 population: 24000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Bantu language of the Central African Republic
 status_id: 6a
 scope: individual
 language_type: living

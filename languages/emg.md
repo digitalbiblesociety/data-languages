@@ -2,10 +2,12 @@
 iso: emg
 name: Eastern Meohang
 autonym: Mewahang
-alt_names: [Eastern, Jindā, Meohang, "Meohang, Eastern", "Meohang,Eastern", Newahang, Newahang Jimi, Newang, Newange Rai, Rai]
+alt_names: [Eastern, Jindā, Meohang, "Meohang, Eastern", "Meohang,Eastern", Newahang, Newahang Jimi, Newang, Newange Rai, Rai, Eastern Mewahang]
 population: 3000
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kiranti language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
@@ -74,3 +76,4 @@ rolv_dialects:
     country_id: NP
     location: "Nepal, Koshi"
 ---
+Mewahang (Meohang), or Newahang, is a Kiranti language spoken in Nepal. The eastern and western dialects are structurally distinct.

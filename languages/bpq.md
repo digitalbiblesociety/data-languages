@@ -6,11 +6,14 @@ alt_names: ["Malay, Banda"]
 population: 3690
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Languages descended from Low Malay
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -4.55565
 longitude: 129.90482
+language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp
 glottocode: band1353
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -52,3 +55,4 @@ translations:
     name: 班达马来语
     auto: true
 ---
+In addition to its classical and modern literary form, Malay had various regional dialects established after the rise of the Srivijaya empire in Sumatra, Indonesia. Also, Malay spread through interethnic contact and trade across the south East Asia Archipelago as far as the Philippines. That contact resulted in a lingua franca that was called Bazaar Malay or low Malay and in Malay Melayu Pasar. It is generally believed that Bazaar Malay was a pidgin, influenced by contact among Malay, Hokkien, Portuguese, and Dutch traders.

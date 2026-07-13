@@ -2,10 +2,12 @@
 iso: thl
 name: Dangaura Tharu
 autonym: (polyphyletic)
-alt_names: [Chaudary, Chaudary Tharu, Chaudhari, Chaudhari Tharu, Chaudhuri, Dang, Dangali, Dangauli, Dangha, Dangora, Dangura, "Tharu, Dangaura"]
+alt_names: [Chaudary, Chaudary Tharu, Chaudhari, Chaudhari Tharu, Chaudhuri, Dang, Dangali, Dangauli, Dangha, Dangora, Dangura, "Tharu, Dangaura", Dangaha, Tharu, Dangaura]
 population: 674000
 country_id: NP
 country_name: Nepal
+location: "India, Map 3"
+area: One of the Indo Aryan Tharu languages spoken by the Tharu people of Nepal
 status_id: "5"
 scope: individual
 language_type: living

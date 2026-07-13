@@ -6,6 +6,8 @@ alt_names: [Kapulika, Naura]
 population: 1060
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

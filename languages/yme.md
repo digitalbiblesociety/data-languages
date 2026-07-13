@@ -6,6 +6,7 @@ alt_names: [Camuchivo, Llameo, Masamae, Masamae Yameo, Mazan, Parara, Yaméo]
 population: null
 country_id: PE
 country_name: Peru
+area: Extinct Peba–Yaguan language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct

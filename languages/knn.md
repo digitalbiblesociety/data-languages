@@ -3,15 +3,18 @@ iso: knn
 macrolanguage_id: kok
 name: Konkani
 autonym: महाराष्ट्रीय कोंकणी महाराष्ट्रीय कोकणी
-alt_names: [Bankoti, Central Konkan, Concorinum, Cugani, Konkan Standard, Konkanese, Kunabi, Maharashtrian Konkani, North Konkan]
+alt_names: [Bankoti, Central Konkan, Concorinum, Cugani, Konkan Standard, Konkanese, Kunabi, Maharashtrian Konkani, North Konkan, Agari of Kolaba, Amchigela, Bakoti, Bhandari, Chitapavani, Damani, Dhanagari, Dhed, Ghati, Holia, Karhadi, Kathodi, Katvadi, Kayasthi, Kiristav, Koli, Konkani (Mangalorian), Konkani Mangalorean, Kudubi, Kudumbi, Mahari, Malvani, Malwani, Maoli, Parabhi, Parvari, Sangamesvari, Thakari, Thakri, Thakua, Thakura, Thakuri]
 population: 2190000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Konkani dialects
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 19.24143
 longitude: 73.91659
+language_map_img: 500px-Konkani_languages.webp
 scripts: [Deva]
 glottocode: konk1267
 glottolog_family_id: indo1319

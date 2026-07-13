@@ -6,6 +6,8 @@ alt_names: ["Ts'un-Lao", "Ts'ün-loa"]
 population: 10000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Tai language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

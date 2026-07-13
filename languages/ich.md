@@ -6,6 +6,8 @@ alt_names: [Etekwe, Ichen, Itchen, Kentu, Kyanton, Kyato, Nyidu]
 population: 50200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Jukunoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

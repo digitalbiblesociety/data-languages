@@ -6,6 +6,8 @@ alt_names: [Kitongwe, Sitongwe]
 population: 13000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu languages of Tanzania
 status_id: 6a
 scope: individual
 language_type: living

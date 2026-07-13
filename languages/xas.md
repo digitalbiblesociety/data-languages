@@ -6,11 +6,13 @@ alt_names: [Kamaseg, Kamass, Kamassagiella, Kamasse, Kamassian, Kamassian langua
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Samoyed language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 52.12934
 longitude: 89.888
+language_map_img: 500px-Kamas.webp
 glottocode: kama1351
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

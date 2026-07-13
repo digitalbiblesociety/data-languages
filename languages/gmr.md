@@ -6,9 +6,12 @@ alt_names: [Mirning, Mirniny]
 population: 4
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: living
+language_map_img: 500px-Wirangu_Map.webp
 wikidata_id: Q6873793
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirning_language"
 translations:

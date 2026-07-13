@@ -6,11 +6,14 @@ alt_names: [Tebou, Tebu, Teda, Tib-bo, Tibbu, Toda, Todaga, Todga, Toubou, Tubu,
 population: 57500
 country_id: TD
 country_name: Chad
+location: Niger
+area: Nilo-Saharan language of the east-central Sahara
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 18.042583
 longitude: 14.771658
+language_map_img: Toubou_map.svg
 glottocode: teda1241
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

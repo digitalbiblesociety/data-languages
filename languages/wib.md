@@ -2,10 +2,12 @@
 iso: wib
 name: Southern Toussian
 autonym: Wín
-alt_names: [Toussian, Toussian (Northern), Toussian (Southern), Toussian (Win), "Toussian, Southern", Tusia, Tusian, Tusya, Tusya(ng), Tusyã, Win]
+alt_names: [Toussian, Toussian (Northern), Toussian (Southern), Toussian (Win), "Toussian, Southern", Tusia, Tusian, Tusya, Tusya(ng), Tusyã, Win, Tusyang]
 population: 19500
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南图西亚语
     auto: true
 ---
+Tusya, also spelled Tusiã, Tusian, Toussian and also known as Wín, is a language of Burkina Faso that is of uncertain affiliation within Niger-Congo. It may be a Gur language.

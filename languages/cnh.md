@@ -2,10 +2,12 @@
 iso: cnh
 name: Hakha Chin
 autonym: Laiṭong
-alt_names: [Baungshe, Baungshè, Chin, Chin (Central), Chin (Haka), Chin (Lai), "Chin, Haka", "Chin, Hakha", "Chin,Haka", Haka, Haka Chin, Hakha, Hakha Lai, Hakha-Chin language, Lai, Lai (in Burma), Lai (in Myanmar), Lai Chin, Lai Hawlh, Lai Pawi, Laizo, Pawi, Shonshe, ဟားခါးချင်း]
+alt_names: [Baungshe, Baungshè, Chin, Chin (Central), Chin (Haka), Chin (Lai), "Chin, Haka", "Chin, Hakha", "Chin,Haka", Haka, Haka Chin, Hakha, Hakha Lai, Hakha-Chin language, Lai, Lai (in Burma), Lai (in Myanmar), Lai Chin, Lai Hawlh, Lai Pawi, Laizo, Pawi, Shonshe, ဟားခါးချင်း, Klangklang, Thantlang, Thlantlang, Zokhua]
 population: 170410
 country_id: MM
 country_name: Myanmar
+location: "India, Map 5"
+area: "Kuki-Chin language of Chin State, Myanmar and Mizoram, India"
 status_id: "3"
 scope: individual
 language_type: living

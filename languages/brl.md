@@ -5,11 +5,14 @@ autonym: Pedi
 population: 15000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Sotho-Tswana language spoken in South Africa
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -22.17
 longitude: 28.33
+language_map_img: South_Africa_2011_Northern_Sotho_speakers_proportion_map.svg
 glottocode: birw1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

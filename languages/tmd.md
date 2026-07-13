@@ -2,10 +2,12 @@
 iso: tmd
 name: Haruai
 autonym: Haruai
-alt_names: [Harway, Taman, Waibuk, Wiyau, Wiyavik, Wiyaw, Wovan]
+alt_names: [Harway, Taman, Waibuk, Wiyau, Wiyavik, Wiyaw, Wovan, Arama, Central Waibuk, Hamil, Mambar, North Waibuk, South Waibuk]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Language family
 status_id: "5"
 scope: individual
 language_type: living

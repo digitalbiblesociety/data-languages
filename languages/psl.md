@@ -6,6 +6,7 @@ alt_names: [PRSL]
 population: 10000
 country_id: PR
 country_name: Puerto Rico
+area: Dialects and descendants of American Sign Language
 status_id: 6b
 scope: individual
 language_type: living

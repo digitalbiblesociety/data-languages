@@ -2,15 +2,18 @@
 iso: adt
 name: Adnyamathanha
 autonym: yura ngarwala
-alt_names: ["Ad'n'amadana", Adiñamantana, Adjnjamatana, Adjnjamathanha, Adnamadana, Adnamatana, Adnjamadana, Adnjamadana Wailbi, Adnjamadhanha, Adnjamatana, Adnjamathanha, Adnjamathera, Adnjmadhanha, Adnjnjamathanha, Adnyamatana, Adnyamathana, Adnymathanha, Adnymathanta, Adyamatana, Adynyamathanha, Andjama Dana, Andyamatana, Anjamatana, Anjamutina, Anjimatana, Anjiwatana, Anjiwatina, Anyamatana, Archualda, Atjualda, Atnyamathanha, Atynyamatana, Atynyamathanha, Atʸnʸamat̪an̪a, Benbakanjamata, Benbakanjamatana, Binbarnja, Binbarnya, Gadjnjamada, Gadjnjamadja, Ganjamadna, Imatjara, Jadliaura, Jandali, Kanjamata, Kanjimata, Keidnamutha, Keydnjamarda, Keydnjmarda, Kudjamuther, Kudjchnamootha, Kudnamietha, Kutchamoota, Kutchhamootha, Kutchnamoota, Kutchnamootha, Mardala, Mardula, Ngatjuwalda, Ngudlawara, Nimalda, Nimbalda, Nimbaldi, Nuralda, Umbertana, Unyamatana, Unyamootha, Wadla, Wailbi, Wailpi, Wajalpi, Waljbi, Walypi, Wipie]
+alt_names: ["Ad'n'amadana", Adiñamantana, Adjnjamatana, Adjnjamathanha, Adnamadana, Adnamatana, Adnjamadana, Adnjamadana Wailbi, Adnjamadhanha, Adnjamatana, Adnjamathanha, Adnjamathera, Adnjmadhanha, Adnjnjamathanha, Adnyamatana, Adnyamathana, Adnymathanha, Adnymathanta, Adyamatana, Adynyamathanha, Andjama Dana, Andyamatana, Anjamatana, Anjamutina, Anjimatana, Anjiwatana, Anjiwatina, Anyamatana, Archualda, Atjualda, Atnyamathanha, Atynyamatana, Atynyamathanha, Atʸnʸamat̪an̪a, Benbakanjamata, Benbakanjamatana, Binbarnja, Binbarnya, Gadjnjamada, Gadjnjamadja, Ganjamadna, Imatjara, Jadliaura, Jandali, Kanjamata, Kanjimata, Keidnamutha, Keydnjamarda, Keydnjmarda, Kudjamuther, Kudjchnamootha, Kudnamietha, Kutchamoota, Kutchhamootha, Kutchnamoota, Kutchnamootha, Mardala, Mardula, Ngatjuwalda, Ngudlawara, Nimalda, Nimbalda, Nimbaldi, Nuralda, Umbertana, Unyamatana, Unyamootha, Wadla, Wailbi, Wailpi, Wajalpi, Waljbi, Walypi, Wipie, Ad’n’amadana]
 population: 130
 country_id: AU
 country_name: Australia
+location: Australia
+area: Aboriginal language of South Australia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -30.14508
 longitude: 138.67131
+language_map_img: Aboriginal_Tribes_near_Adelaide.webp
 glottocode: adny1235
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

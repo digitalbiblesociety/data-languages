@@ -2,10 +2,12 @@
 iso: mih
 name: Chayuco Mixtec
 autonym: "Cristobál-Chayuco"
-alt_names: [Eastern Jamiltepec-Chayuco Mixtec, Misteko, Mixtec, Mixtec (Chayuco), "Mixtec, Chayuco", Mixteco (Chayuco), Mixteco de Chayucu, Southern Misteko, Southern Mixteco]
+alt_names: [Eastern Jamiltepec-Chayuco Mixtec, Misteko, Mixtec, Mixtec (Chayuco), "Mixtec, Chayuco", Mixteco (Chayuco), Mixteco de Chayucu, Southern Misteko, Southern Mixteco, Chayuco, Djaꞌan Xiñi Djavi, Mechoacán Mixtec, Mixteco de Sta. Catarina Mechoacán, Mixteco del Este de Jamiltepec-Chayuco, Oaxaca, Tuꞌun savi, Tyeꞌe Ñi]
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

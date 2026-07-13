@@ -2,10 +2,12 @@
 iso: xkl
 name: Mainstream Kenyah
 autonym: Lepo’
-alt_names: [Bakong, Bakung, Bakung Kenya, Bakung Kenyah, Highland Kenyah, Kehja, Kelinjau, Kelinyau, Kenja, Kenya, Kenyah, "Kenyah, Kelinyau", Kindjin, Kinjin, Madang, Usun Apau Kenyah]
+alt_names: [Bakong, Bakung, Bakung Kenya, Bakung Kenyah, Highland Kenyah, Kehja, Kelinjau, Kelinyau, Kenja, Kenya, Kenyah, "Kenyah, Kelinyau", Kindjin, Kinjin, Madang, Usun Apau Kenyah, Badeng, "Lepo' Bem", "Lepo' Ke", "Lepo' Kuda", "Lepo' Maut", "Lepo' Ndang", "Lepo' Tau", "Lepo' Tepu'", "Leppo' Aga", "Leppo' Ga", "Leppo' Jamok", "Leppo' Jengan", "Leppo' Ke'", "Leppo' La'ang", "Leppo' Tau", "Leppo' Teppu'", Madeng, Sambup, "Uma' Ake", "Uma' Jalan", "Uma' Tukung"]
 population: 52000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Language of Borneo
 status_id: 6b
 scope: individual
 language_type: living

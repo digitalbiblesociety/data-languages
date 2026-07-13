@@ -6,6 +6,8 @@ alt_names: [Ixtenco, Ixtenco Otomí, Otomi, "Otomi, Ixtenco", Otomí, Otomí (Ix
 population: 5356
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Oto-Manguean language of Tlaxcala, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

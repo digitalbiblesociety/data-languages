@@ -2,10 +2,12 @@
 iso: sxw
 name: Saxwe Gbe
 autonym: Tsáphɛ
-alt_names: ["Gbe, Saxwe", Saxwe, Saxwe-Gbe]
+alt_names: ["Gbe, Saxwe", Saxwe, Saxwe-Gbe, Sahouè, Daxe, Sahouègbe, Saxwegbe, Saxwɛ, Saxwɛgbe, Se, Tsaphe, Tsaphe -Gbe]
 population: 284000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Creole English, Grenadian"]
 population: 102000
 country_id: GD
 country_name: Grenada
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole and main language of Grenada
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: set
 name: Sentani
 autonym: Buyaka
+alt_names: [Central Sentani, East Sentani, West Sentani]
 population: 30000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

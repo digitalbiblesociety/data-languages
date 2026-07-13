@@ -2,10 +2,12 @@
 iso: cuh
 name: Chuka
 autonym: Kimîîru
-alt_names: [Chuku, Gichuka, Suka]
+alt_names: [Chuku, Gichuka, Suka, Cuka]
 population: 70000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 朱卡语
     auto: true
 ---
+Meru is a Bantu language spoken by the Meru people (Ameru) who live on the Eastern and Northern slopes of Mount Kenya and on the Nyambene ranges. They settled in this area after centuries of migration from the north.

@@ -6,6 +6,8 @@ alt_names: [Ekpabya, Ekpaffia]
 population: 30000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: "Distinct Igboid language spoken in Rivers State and Bayelsa State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living

@@ -7,6 +7,8 @@ alt_names: [Eastern Sapoteko, Santa Ines Yatzechi Zapotec, Southeastern Zimatlá
 population: 2240
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

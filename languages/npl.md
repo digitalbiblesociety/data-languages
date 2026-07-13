@@ -2,10 +2,12 @@
 iso: npl
 name: Southeastern Puebla Nahuatl
 autonym: Southeastern Puebla Nahuatl
-alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Southeastern Puebla", Náhuatl du Huasteca]
+alt_names: [Eastern Nawa, Mexicano, Nahua de la Huasteca, Nahuatl, "Nahuatl, Southeastern Puebla", Náhuatl du Huasteca, Náhuatl del Sureste de Puebla, Southeastern Puebla, Tehuacán Náhuatl, Tehuacán Valley Nahuatl, Náhuatl de Sureste de Puebla, Náhuatl del Valle de Tehuacán]
 population: 92000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Nahuatl variety of Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 东南普埃布拉纳瓦特尔语
     auto: true
 ---
+Tehuacan–Zongolica a.k.a. Southeastern Puebla Nahuatl is a variety of Nahuatl spoken by ethnic Nahua people in southeastern Puebla state (Tehuacan) and southern Veracruz (Zongolica) in Mexico.

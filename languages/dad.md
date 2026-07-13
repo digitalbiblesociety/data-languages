@@ -2,10 +2,12 @@
 iso: dad
 name: Marik
 autonym: Ham
-alt_names: [Dami]
+alt_names: [Dami, Northern Marik, Southern Marik, Western Marik]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

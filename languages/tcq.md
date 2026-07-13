@@ -6,6 +6,8 @@ alt_names: [Taori-Kaiy, Taori-Kei, Todi]
 population: 220
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language of Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

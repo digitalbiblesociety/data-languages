@@ -2,10 +2,12 @@
 iso: avu
 name: Avokaya
 autonym: Abukeia
-alt_names: [Avokayeg, Avukaya]
+alt_names: [Avokayeg, Avukaya, Adjiga, Agamoru, Ajigu, Ajugu, Avokaya Pur, Northern Ogambi, Odzila, Odziliwa, Ojiga, Ojila]
 population: 99000
 country_id: SS
 country_name: South Sudan
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: alz
 name: Alur
 autonym: Lur
-alt_names: [Aloro, Aloureg, Alua, Alulu, Dho Alur, Jo Alur, Luri]
+alt_names: [Aloro, Aloureg, Alua, Alulu, Dho Alur, Jo Alur, Luri, DhuAlur, Jokot, Jonam, Mambisa, Ngora, Wanyoro]
 population: 1735000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Western Nilotic language of Uganda
 status_id: "5"
 scope: individual
 language_type: living

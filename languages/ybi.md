@@ -2,10 +2,12 @@
 iso: ybi
 name: Yamphu
 autonym: Yamphe
-alt_names: [Jindā, Rai, Yamphu Kha, Yamphu Rai, Yamphuish, Yampoueg, Yanphu]
+alt_names: [Jindā, Rai, Yamphu Kha, Yamphu Rai, Yamphuish, Yampoueg, Yanphu, Yakkhaba Khap, Yangphu]
 population: 1720
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kirati language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: huv
 name: San Mateo Del Mar Huave
 autonym: Ombeayiiüts
-alt_names: [Huave, Huave (San Mateo del Mar), Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, San Mateo del Mar", "San Francisco del Mar dialect is Maddieson's name", San Mateo, Wave, Wavi, apparent error]
+alt_names: [Huave, Huave (San Mateo del Mar), Huave de San Dionisio, Huave de San Dionisio del Mar, Huave de San Francisco del Mar, Huave de San Mateo del Mar, Huave de Santa María del Mar, "Huave, San Mateo del Mar", "San Francisco del Mar dialect is Maddieson's name", San Mateo, Wave, Wavi, apparent error, San Mateo Del Mar, Huave del Oeste, Ombeayiüts]
 population: 11000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 圣马特奥德尔玛尔瓦夫语
     auto: true
 ---
+Huave is a language isolate spoken by the indigenous Huave people on the Pacific coast of the Mexican state of Oaxaca. The language is spoken in four villages on the Isthmus of Tehuantepec, in the southeast of the state, by around 20,000 people.

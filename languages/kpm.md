@@ -2,10 +2,12 @@
 iso: kpm
 name: Koho
 autonym: Kơho
-alt_names: [Caho, Coho, Kahov, Kohor, Kɤho, Sre, Srê, Srê (Köho)]
+alt_names: [Caho, Coho, Kahov, Kohor, Kɤho, Sre, Srê, Srê (Köho), Chil, Co Ho, Co-Don, Kalop, Kil, Kodu, Lac, Lach, Lat, Laya, Nop, Pru, Rion, Sop, Tala, To La, Tring, Trinh, Tu-Lop, Xre Nop]
 population: 166000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Laakanaachiwiin, Misantla Totonac, Misantla Totonako, Southeastern T
 population: 500
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Totonacan language of Veracruz, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

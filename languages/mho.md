@@ -2,10 +2,12 @@
 iso: mho
 name: Mashi
 autonym: Masi
-alt_names: [Mashi]
+alt_names: [Mashi, Kamaxi, Kwamashi, North Kwandu, South Kwandu]
 population: 21730
 country_id: ZM
 country_name: Zambia
+location: Angola
+area: Bantu language spoken in Zambia and Angola
 status_id: 6a
 scope: individual
 language_type: living

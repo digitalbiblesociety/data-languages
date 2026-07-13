@@ -6,6 +6,7 @@ alt_names: [Djudi, Dzhidi, Judi, judéo-persan]
 population: 55000
 country_id: IL
 country_name: Israel
+area: Persian dialects spoken by Jews in Iran
 status_id: "7"
 scope: individual
 language_type: living

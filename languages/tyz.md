@@ -2,10 +2,12 @@
 iso: tyz
 name: Tày
 autonym: Tho
-alt_names: ["\"Thô\"", Ngan, Phen, "T'o", "T'u", Tai Tho, Tay, Thu, Thu Lao]
+alt_names: ["\"Thô\"", Ngan, Phen, "T'o", "T'u", Tai Tho, Tay, Thu, Thu Lao, “Thô”, T’o]
 population: 1630000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Tai language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living

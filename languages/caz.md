@@ -6,11 +6,13 @@ alt_names: [Avishiri, Canesi, Canisiana, Kanichana, Tekiraka, Tequiraca]
 population: 2004
 country_id: BO
 country_name: Bolivia
+area: Extinct language of Bolivia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -18.83
 longitude: -63.42
+language_map_img: 500px-Pueblos_originarios_de_Bolivia.webp
 glottocode: cani1243
 wikidata_id: Q2936374
 wikipedia_url: "https://en.wikipedia.org/wiki/Canichana_language"

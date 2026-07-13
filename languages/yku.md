@@ -5,6 +5,8 @@ autonym: null
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living

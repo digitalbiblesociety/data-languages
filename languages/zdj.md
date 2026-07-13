@@ -2,10 +2,12 @@
 iso: zdj
 name: Ngazidja Comorian
 autonym: shikomori/شِكُمُرِ
-alt_names: ["Comorian, Ngazidja", Ngazidja, Shingazidja]
+alt_names: ["Comorian, Ngazidja", Ngazidja, Shingazidja, Comorian, Shingazidja Comorian, Ngazija, Shingazija]
 population: 412000
 country_id: KM
 country_name: Comoros
+location: "Comoros, Madagascar and Mayotte"
+area: Bantu language group of the Comoro Islands
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 恩加齐迪亚-科莫里亚语
     auto: true
 ---
+Comorian is the name given to a group of four Bantu languages spoken in the Comoro Islands, an archipelago in the southwestern Indian Ocean between Mozambique and Madagascar. It is named as one of the official languages of the Union of the Comoros in the Comorian constitution. Shimaore, one of the languages, is spoken on the disputed island of Mayotte, a French department claimed by Comoros.

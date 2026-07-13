@@ -6,6 +6,8 @@ alt_names: [Fu Khla, Phu Kha, Phu Khla, Phu La, Phù Lá, Phù Lá Hán]
 population: 10000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Loloish language of Vietnam and China
 status_id: 6b
 scope: individual
 language_type: living

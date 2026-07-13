@@ -5,11 +5,13 @@ autonym: null
 population: null
 country_id: US
 country_name: United States
+area: Extinct Pakawan language of North America
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 25.911609
 longitude: -97.39563
+language_map_img: 500px-Cotoname_lang.webp
 glottocode: coto1248
 wikidata_id: Q56889
 wikipedia_url: "https://en.wikipedia.org/wiki/Cotoname_language"

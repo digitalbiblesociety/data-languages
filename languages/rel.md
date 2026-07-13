@@ -6,6 +6,8 @@ alt_names: [Kenyan Rendille, Rendile, Rendille hizkuntza]
 population: 96300
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Afro-Asiatic language of Kenya
 status_id: 6a
 scope: individual
 language_type: living

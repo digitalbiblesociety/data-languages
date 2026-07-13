@@ -2,15 +2,18 @@
 iso: lkt
 name: Lakota
 autonym: Lakȟótiyapi
-alt_names: [Dakota, "Lak'ota simi", Lakhota, Teton]
+alt_names: [Dakota, "Lak'ota simi", Lakhota, Teton, Brulé, Lakotiyapi, Teton Sioux]
 population: 2100
 country_id: US
 country_name: United States
+location: Southern Central Canada
+area: Siouan language spoken by the Lakota people
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 46.3699
 longitude: -103.950435
+language_map_img: Lakota_map.svg
 scripts: [Latn]
 glottocode: lako1247
 glottolog_family_id: siou1252

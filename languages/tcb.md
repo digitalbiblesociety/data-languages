@@ -6,6 +6,8 @@ alt_names: ["Nee'anděg'", Tanana, Tanana-Upper Kuskokwim, Transitional 2, Trans
 population: 120
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living

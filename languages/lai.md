@@ -2,10 +2,12 @@
 iso: lai
 name: Lambya
 autonym: Ichilambya
-alt_names: [Ici-Rambia, Icilambya, Iramba, Lambia, Lambwa, Rambia]
+alt_names: [Ici-Rambia, Icilambya, Iramba, Lambia, Lambwa, Rambia, Central Lambya, Icirambia, Kilambya, Northern Lambya, Southern Lambya]
 population: 106900
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in Tanzania and Malawi
 status_id: 6a
 scope: individual
 language_type: living

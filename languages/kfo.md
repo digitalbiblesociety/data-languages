@@ -6,6 +6,8 @@ alt_names: [Koro, "Koro (Cote d'Ivoire)", Koro Jula]
 population: 58000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Manding language of West Africa
 status_id: 6a
 scope: individual
 language_type: living

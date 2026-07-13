@@ -3,15 +3,18 @@ iso: fuv
 macrolanguage_id: ful
 name: Nigerian Fulfulde
 autonym: Fulani
-alt_names: [Ful(ani), "Fula, Fulani", Fulah-Idiome, Fulbe, Fulfulde (Nigerian), "Fulfulde, Nigerian", Kano-Katsina-Bororo Fulfulde, Peul]
+alt_names: [Ful(ani), "Fula, Fulani", Fulah-Idiome, Fulbe, Fulfulde (Nigerian), "Fulfulde, Nigerian", Kano-Katsina-Bororo Fulfulde, Peul, Kano-Katsina Fulfulde, Ako, Aku, Akuure, Bororo, Bororro, Fulfulde, Fulfulde Caka Nigeria, Jaafun, Kano-Katsina, Mbororo, Nigerian, Nomadic Fulfulde, Sokoto, Woylaare]
 population: 14500000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Variety of the Fula language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 10.99725
 longitude: 11.11882
+language_map_img: fuv.webp
 scripts: [Latn]
 glottocode: nige1253
 glottolog_family_id: atla1278

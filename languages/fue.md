@@ -3,10 +3,12 @@ iso: fue
 macrolanguage_id: ful
 name: Borgu Fulfulde
 autonym: Fulani
-alt_names: [Benin-Togo Fulfulde, Fulah-Idiome, Fulbe-Borgu, "Fulfulde, Borgu", Peul, Peulh]
+alt_names: [Benin-Togo Fulfulde, Fulah-Idiome, Fulbe-Borgu, "Fulfulde, Borgu", Peul, Peulh, Fulfulde Borgu, Fulfulde Nigerian (Caka), Atakora Fulfulde, Bakuure, Benin-Togo, Caabankeere, Djougoure, Fulfulde, Juguure, Korakuure, Tchabankeere]
 population: 730000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Variety of the Fula language
 status_id: "5"
 scope: individual
 language_type: living

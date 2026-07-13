@@ -6,6 +6,8 @@ alt_names: [Bikele-Bikay, Bikele-Bikeng, Kol, Kol language]
 population: 1000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

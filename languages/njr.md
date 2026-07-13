@@ -5,6 +5,7 @@ autonym: Njerup
 population: 2018
 country_id: NG
 country_name: Nigeria
+area: Mambiloid language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

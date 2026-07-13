@@ -3,13 +3,16 @@ iso: ara
 iso639_1: ar
 name: Arabic
 autonym: اللُّغَة العَرَبِيّة
+alt_names: [العربية]
 population: 315421300
 country_id: SA
 country_name: Saudi Arabia
+area: "Middle East, North Africa. Also in Algeria, Bahrain, Chad, Comoros, Djibouti, Egypt, Eritrea, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Palestinian West Bank and Gaza, Qatar, Somalia, Sudan, Syria, Tanzania, Tunisia, United Arab Emirates, Yemen."
 status_id: null
 scope: macrolanguage
 language_type: living
 scripts: [Arab, Syrc]
+glottocode: stan1318
 wikidata_id: Q13955
 wikipedia_url: "https://en.wikipedia.org/wiki/Arabic"
 translations:

@@ -6,6 +6,8 @@ alt_names: [Sauk]
 population: 600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

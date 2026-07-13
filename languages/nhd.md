@@ -3,10 +3,12 @@ iso: nhd
 macrolanguage_id: grn
 name: Chiripá
 autonym: Ava
-alt_names: [Apytare, Ava Guaraní, Chiriguano-Ava, Chiripa, Chiripá Guaraní, Guarani-ñandeva, Guaraní language area, Guaraní ñandeva, "Guaraní, Ava", Nhandeva, Nhandéva, Tsiripá, Txiripá, Ñandeva]
+alt_names: [Apytare, Ava Guaraní, Chiriguano-Ava, Chiripa, Chiripá Guaraní, Guarani-ñandeva, Guaraní language area, Guaraní ñandeva, "Guaraní, Ava", Nhandeva, Nhandéva, Tsiripá, Txiripá, Ñandeva, Apapocuva, Ava-Chiripá, Ava-katu-ete, Chiripá-Guaraní, Guaraní]
 population: 16350
 country_id: PY
 country_name: Paraguay
+location: Southern Brazil
+area: Guaraní language of South America
 status_id: 6b
 scope: individual
 language_type: living

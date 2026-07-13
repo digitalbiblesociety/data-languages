@@ -7,6 +7,8 @@ alt_names: [Bagri Lohar, Belani, Bhubaliya Lohar, Chitodi Lohar, Chittoriya Loha
 population: 1010
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Rajasthani language spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 加德洛哈尔语
     auto: true
 ---
+Loharki, or Gade Lohar, is a Rajasthani language spoken by 20,000 nomadic people in rural Sindh, Pakistan, and by 500,000 in Rajasthan, India.

@@ -2,15 +2,18 @@
 iso: cmo
 name: Central Mnong
 autonym: Bunong (ឞូន៝ង)
-alt_names: [Bhiét, Biat, Biet, Bu Nong, Budang, Budong, Bunong, Central, Central Mong, Mnong, Mnong central, "Mnong, Central", Penong, Phanong, Phnong, Phong, Pnong]
+alt_names: [Bhiét, Biat, Biet, Bu Nong, Budang, Budong, Bunong, Central, Central Mong, Mnong, Mnong central, "Mnong, Central", Penong, Phanong, Phnong, Phong, Pnong, Bum, Bu Dang, Bu Nar, Bu Rung, Bunor, Central Bu Nong, Di-Pri, Dih Bri, Pre, Preh]
 population: 70000
 country_id: VN
 country_name: Vietnam
+location: Cambodia
+area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.63132
 longitude: 107.30064
+language_map_img: 500px-Mnong_language.webp
 glottocode: cent1992
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
@@ -89,3 +92,4 @@ rolv_dialects:
     country_id: KH
     location: Cambodia
 ---
+The Mnong language belongs to the Austro-Asiatic language family. It is spoken by the different groups of Mnong in Vietnam and a Pnong group in Cambodia.

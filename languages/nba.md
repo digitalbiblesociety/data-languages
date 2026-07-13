@@ -6,6 +6,8 @@ alt_names: [Gangela, Ganguela, Ganguella, Nhemba]
 population: 950540
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Zambia
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mra
 name: Mlabri
 autonym: Luang
-alt_names: [Ma Ku, Mabri, Mla, Mla Bri, Mla-Bri, Mrabri, Phi Thong Luang, "Phi Thong Luang (\"Spirits of yellow leaves\")", Yellow Leaf, Yumbri, ผีตองหลือง, มละบริ, เผ่าตองหลือง]
+alt_names: [Ma Ku, Mabri, Mla, Mla Bri, Mla-Bri, Mrabri, Phi Thong Luang, "Phi Thong Luang (\"Spirits of yellow leaves\")", Yellow Leaf, Yumbri, ผีตองหลือง, มละบริ, เผ่าตองหลือง, Phi Thong]
 population: 300
 country_id: TH
 country_name: Thailand
+location: Laos
+area: Austroasiatic language spoken in Laos and Thailand
 status_id: 8a
 scope: individual
 language_type: living

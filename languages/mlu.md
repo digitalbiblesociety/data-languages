@@ -2,10 +2,12 @@
 iso: mlu
 name: "To'abaita"
 autonym: Malu’u
-alt_names: [Malaita (North), Malu, "Malu'u", North Malaita, Südliche Salomons-Inseln, "To'aba'ita", "To'ambaita", Toabaita, Toqabaqita]
+alt_names: [Malaita (North), Malu, "Malu'u", North Malaita, Südliche Salomons-Inseln, "To'aba'ita", "To'ambaita", Toabaita, Toqabaqita, To’ambaita, Toꞌabaita]
 population: 12600
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Malaita language of the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

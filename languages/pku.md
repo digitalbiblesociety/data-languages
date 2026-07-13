@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 3500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: Nepali Sign Language
 population: 5743
 country_id: NP
 country_name: Nepal
+area: Deaf sign language of Nepal
 status_id: "5"
 scope: individual
 language_type: living

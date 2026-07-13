@@ -2,10 +2,12 @@
 iso: kvg
 name: "Kuni-Boazi"
 autonym: Kuni
-alt_names: [Boadji, Boazi, Bwadji, Kuini]
+alt_names: [Boadji, Boazi, Bwadji, Kuini, Aewa, Ingias, Khoamak, Sengeze, Wamak]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

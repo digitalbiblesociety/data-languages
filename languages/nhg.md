@@ -2,10 +2,12 @@
 iso: nhg
 name: Tetelcingo Nahuatl
 autonym: Mösiehuali̱
-alt_names: [Nahuatl, Nahuatl (Tetelcingo), "Nahuatl, Tetelcingo", Nawa, Tetelcingo Aztec]
+alt_names: [Nahuatl, Nahuatl (Tetelcingo), "Nahuatl, Tetelcingo", Nawa, Tetelcingo Aztec, Tetelcingo]
 population: 3500
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Nahuatl variety of central Mexico
 status_id: 6b
 scope: individual
 language_type: living

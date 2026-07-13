@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 2120
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: "Austronesian language spoken in Flores, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

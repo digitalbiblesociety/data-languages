@@ -2,10 +2,12 @@
 iso: kbc
 name: Kadiwéu
 autonym: Mbayá
-alt_names: [Cadiueus, Caduveo, Ediu-Adig, Guaicuru, Guaicurú, Kadiweu, Kadiweu language, Kaduvėjai, Mbaya, Mbaya-Guaikuru, Mbayá-Guaycuru]
+alt_names: [Cadiueus, Caduveo, Ediu-Adig, Guaicuru, Guaicurú, Kadiweu, Kadiweu language, Kaduvėjai, Mbaya, Mbaya-Guaikuru, Mbayá-Guaycuru, Caduvéo, Cadiuéu, Ejiwajigi, Kadiweo]
 population: 1590
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Guaicuruan language
 status_id: 6b
 scope: individual
 language_type: living

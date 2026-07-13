@@ -2,10 +2,12 @@
 iso: lch
 name: Luchazi
 autonym: Ngangela
-alt_names: [Chiluchazi, Cujazi, Lucazi, Lujash, Lujasi, Lujazi, Lutchaz, Lutshase, Luxage, Ponda]
+alt_names: [Chiluchazi, Cujazi, Lucazi, Lujash, Lujasi, Lujazi, Lutchaz, Lutshase, Luxage, Ponda, chi-Luchazi]
 population: 431000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken in Angola and Zambia
 status_id: "5"
 scope: individual
 language_type: living

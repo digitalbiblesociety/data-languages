@@ -6,11 +6,14 @@ alt_names: [Gambia, "Wolof, Gambian"]
 population: 314000
 country_id: GM
 country_name: Gambia
+location: Senegal and The Gambia
+area: "Language of Senegal, the Gambia, and Mauritania"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 13.53369
 longitude: -16.15435
+language_map_img: Wolof_language_map.svg
 glottocode: gamb1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -53,3 +56,4 @@ translations:
     name: 冈比亚沃洛夫语
     auto: true
 ---
+Wolof is a Niger–Congo language spoken by the Wolof people in much of the West African subregion of Senegambia that is split between the countries of Senegal, the Gambia and Mauritania. Like the neighbouring languages Serer and Fula, it belongs to the Senegambian branch of the Niger–Congo language family. Unlike most other languages of its family, Wolof is not a tonal language.

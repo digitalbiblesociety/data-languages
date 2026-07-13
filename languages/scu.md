@@ -6,6 +6,8 @@ alt_names: [Central Kinnauri, Kanāwri, Shumcu, Sumcho, Sumchu, Sumtsu, Sumtśu,
 population: 2170
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Sino-Tibetan dialect cluster centered on Himachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living

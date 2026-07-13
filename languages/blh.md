@@ -6,6 +6,8 @@ alt_names: [Belle, Kowaao, Kwaa]
 population: 27000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language of Liberia
 status_id: "5"
 scope: individual
 language_type: living

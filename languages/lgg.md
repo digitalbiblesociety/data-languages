@@ -2,10 +2,12 @@
 iso: lgg
 name: Lugbara
 autonym: null
-alt_names: [High Lugbara, Logbara, Western]
+alt_names: [High Lugbara, Logbara, Western, Lugbarati, Abedju-Azaki, Aluru, Arua, Ayivu, Lu, Lubarati, Maracha, Nio, Omugo, Otsho, Standard Lugbara, Terego, Western Lugbara, Zaki]
 population: 1940000
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Nilo-Saharan language
 status_id: "5"
 scope: individual
 language_type: living

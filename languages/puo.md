@@ -2,10 +2,12 @@
 iso: puo
 name: Puoc
 autonym: Puoc
-alt_names: [Kha, Kha Niang, Kha Puhoc, Khsing-Mul, Ksing Mul, Ksingmul, Lao Muh, Pou Hoc, Pou Hok, Pua, Puhoc, Puok, Sing Mun, Xin Mul, Xing Mun, Xinh Mul, Xinh-Mun]
+alt_names: [Kha, Kha Niang, Kha Puhoc, Khsing-Mul, Ksing Mul, Ksingmul, Lao Muh, Pou Hoc, Pou Hok, Pua, Puhoc, Puok, Sing Mun, Xin Mul, Xing Mun, Xinh Mul, Xinh-Mun, Mun, Sing]
 population: 18000
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language spoken in Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living

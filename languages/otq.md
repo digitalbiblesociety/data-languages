@@ -2,10 +2,12 @@
 iso: otq
 name: Querétaro Otomi
 autonym: "Otomi, Querétaro"
-alt_names: [Hñohño, Northwest, Northwestern Otomi, Northwestern Otomí, Otomi, Otomí, Otomí (Northwestern), Otomí (Santiago Mexquititlan), Otomí de Mezquital, Otomí de Querétaro, Otomí de la Sierra, Otomí del valle de Mezquital, Otomí nord-occidental, Otomí noroccidental, Queretaro Otomi, Santiago Mexquititlan, Western Otomi, Western Otomí]
+alt_names: [Hñohño, Northwest, Northwestern Otomi, Northwestern Otomí, Otomi, Otomí, Otomí (Northwestern), Otomí (Santiago Mexquititlan), Otomí de Mezquital, Otomí de Querétaro, Otomí de la Sierra, Otomí del valle de Mezquital, Otomí nord-occidental, Otomí noroccidental, Queretaro Otomi, Santiago Mexquititlan, Western Otomi, Western Otomí, Querétaro, Otomí del Noroeste, Santiago Mexquititlán Otomi]
 population: 33000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mexican language
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 克雷塔罗奥托米语
     auto: true
 ---
+Northwestern Otomi is a Native American language of central Mexico.

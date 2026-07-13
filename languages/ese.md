@@ -2,10 +2,12 @@
 iso: ese
 name: Ese Ejja
 autonym: Tiatinagua
-alt_names: ["\"Chama\"", Chama, Chama (Tiatinagua), Chuncho, Ese Eja, Ese Exa, "Ese'eha", "Ese'ejja", "Ese'jja", Ese-ejja, Eseejja, Eseʔexa, Essejja, Guacanawa, Huarayo, Tambopata-Guarayo, "“Chama\""]
+alt_names: ["\"Chama\"", Chama, Chama (Tiatinagua), Chuncho, Ese Eja, Ese Exa, "Ese'eha", "Ese'ejja", "Ese'jja", Ese-ejja, Eseejja, Eseʔexa, Essejja, Guacanawa, Huarayo, Tambopata-Guarayo, "“Chama\"", “Chama”, Ese, Eseꞌeha, Eseꞌejja, Guarayo]
 population: 1110
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Tacanan language spoken in Bolivia and Peru
 status_id: "5"
 scope: individual
 language_type: living

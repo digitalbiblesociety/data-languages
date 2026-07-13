@@ -2,10 +2,12 @@
 iso: mut
 name: Western Muria
 autonym: Jhoria
-alt_names: [Gonḍi, Gōṇḍī, Mudia, Muria Gondi, "Muria, Western"]
+alt_names: [Gonḍi, Gōṇḍī, Mudia, Muria Gondi, "Muria, Western", Banchapai, Dhanora, Sonapal]
 population: 400000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Chhattisgarh"
 ---
+Muria is a Dravidian language spoken in India. Three varieties have mutual intelligibility. It is sometimes confused with the Madiya language. It is suspected to be mutually unintelligible with northern Gondi dialects.

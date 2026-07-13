@@ -6,6 +6,8 @@ alt_names: [Kajagar, Kajakaja, Kaygi, Wiyagar]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

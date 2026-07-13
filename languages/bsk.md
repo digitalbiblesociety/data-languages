@@ -2,10 +2,12 @@
 iso: bsk
 name: Burushaski
 autonym: بروشسکی
-alt_names: [Biltum, Bourouchaskeg, Bourouchaski, Brushaski, Burucaki, Burucaski, Buruchaski, Burushaki, Burushki, Buruxaski, Khajuna, Kunjut, Mishaski, Yasin, Бурушаски, בורושסקי, بروشسكي]
+alt_names: [Biltum, Bourouchaskeg, Bourouchaski, Brushaski, Burucaki, Burucaski, Buruchaski, Burushaki, Burushki, Buruxaski, Khajuna, Kunjut, Mishaski, Yasin, Бурушаски, בורושסקי, بروشسكي, Brooshaaski, Burushaski Hunza, Hunza, Mishāski, "Miśa:ski", Nagar, Nagir, Werchikwar]
 population: 126300
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Language isolate spoken by Burusho people
 status_id: 6a
 scope: individual
 language_type: living

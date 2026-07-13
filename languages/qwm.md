@@ -2,9 +2,11 @@
 iso: qwm
 name: Kuman
 autonym: Tatar til
+alt_names: [Kuman (Russia)]
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct West Kipchak Turkic language
 status_id: null
 scope: individual
 language_type: extinct

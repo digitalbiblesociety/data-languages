@@ -2,10 +2,12 @@
 iso: ybh
 name: Yakha
 autonym: Dewansala
-alt_names: [Rōi, Yakeg, Yakkha, Yakkhaba, Yakkhaba Cea, Yakkhaba Sala, Yakthomba, Yākhā, Якха]
+alt_names: [Rōi, Yakeg, Yakkha, Yakkhaba, Yakkhaba Cea, Yakkhaba Sala, Yakthomba, Yākhā, Якха, Dhankuta, Eastern Yakkha, Ilam, Northern Yakkha, Panchthar, Sankhuwasabha, Southern Yakkha, Yakkha Ceya]
 population: 14600
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Kiranti language spoken in Nepal and India
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: vls
 name: Vlaams
 autonym: "West-Vlaams"
-alt_names: [Flamand, Flamand occidental, Flamenco occidental, Flamländska, Flamsk, Flandrezeg, Flandriera, Flemisc sprǣc, Flemish, Flemish language, Flämische Dialekte, Flæmska, Lèngoa fiamminga, Vlaams-ngî, Vlaemsch, Фламандски диалекти, ᐱᓚᒥᔅ/pilamis]
+alt_names: [Flamand, Flamand occidental, Flamenco occidental, Flamländska, Flamsk, Flandrezeg, Flandriera, Flemisc sprǣc, Flemish, Flemish language, Flämische Dialekte, Flæmska, Lèngoa fiamminga, Vlaams-ngî, Vlaemsch, Фламандски диалекти, ᐱᓚᒥᔅ/pilamis, West Vlaams]
 population: 6029500
 country_id: BE
 country_name: Belgium
+location: Andorra and France
+area: Germanic language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 51.075403
 longitude: 3.113453
+language_map_img: vls.webp
 scripts: [Latn]
 glottocode: vlaa1240
 glottolog_family_id: indo1319

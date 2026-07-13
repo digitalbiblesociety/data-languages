@@ -6,6 +6,8 @@ alt_names: [Bual, Ma Buwal]
 population: 7000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

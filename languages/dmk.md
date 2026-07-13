@@ -6,6 +6,8 @@ alt_names: ["\"Doma\"", Dardu, Dawudi, Domakí, Dumaki, Dumākī, Shina]
 population: 500
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language of northern Pakistan
 status_id: 8a
 scope: individual
 language_type: living

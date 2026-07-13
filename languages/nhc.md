@@ -6,6 +6,7 @@ alt_names: [Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, "Nahuatl, Tabasco", NÃ
 population: 30
 country_id: MX
 country_name: Mexico
+area: Nahuan language spoken in Tabasco
 status_id: "10"
 scope: individual
 language_type: extinct

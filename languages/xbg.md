@@ -6,6 +6,7 @@ alt_names: [Bak-on-date, Bangandidj, Barconedeet, Boandik, Boandiks, Booandik, B
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

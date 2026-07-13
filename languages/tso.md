@@ -3,15 +3,18 @@ iso: tso
 iso639_1: ts
 name: Tsonga
 autonym: Xitsonga
-alt_names: [Changana, Gwamba, Shangaan, Shangana, Shitsonga, Thonga, Tonga, Tsongeg, Tsongum, Xichangana, Тсонга, Цонга]
+alt_names: [Changana, Gwamba, Shangaan, Shangana, Shitsonga, Thonga, Tonga, Tsongeg, Tsongum, Xichangana, Тсонга, Цонга, Tsonga (Xichangana), Bila, Changa, Djonga, Dzonga, Gwapa, Hanganu, Hlanganu, Hlave, Jonga, Kande, Langanu, Luleke, "N'walungu", Ngwalungu, Nhlanganu, Nkuna, Shangani, Shihlanganu, Shilanganu, Shingwalungu, Songa, Ssonga, Vatsonga, Vila, Xiluleke, Xonga]
 population: 6603500
 country_id: ZA
 country_name: South Africa
+location: "Lesotho, South Africa and Swaziland"
+area: Bantu language of the Tsonga people of Southern Africa
 status_id: "1"
 scope: individual
 language_type: living
 latitude: -23.57541
 longitude: 31.810538
+language_map_img: South_Africa_2011_Tsonga_speakers_proportion_map.svg
 scripts: [Latn]
 glottocode: tson1249
 glottolog_family_id: atla1278

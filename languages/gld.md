@@ -2,10 +2,12 @@
 iso: gld
 name: Nanai
 autonym: Нанай
-alt_names: [Akani, Birar, Gold, Goldi, Goldisch, Goldische, Heche, Hezhe, Hezhen, Juchen, Kile, Nanaieg, Nanaiisk, Nanaj, Nanaje, Nanay, Samagir, Sushen, nānai, Нанайэ, нанайский языкж]
+alt_names: [Akani, Birar, Gold, Goldi, Goldisch, Goldische, Heche, Hezhe, Hezhen, Juchen, Kile, Nanaieg, Nanaiisk, Nanaj, Nanaje, Nanay, Samagir, Sushen, nānai, Нанайэ, нанайский языкж, Kila, Kilen, Kili, Kirin, Kuro-Urmi, "Qile'en", Qileng, Sungari, Sunggari, Torgon, Ussuri]
 population: 12000
 country_id: RU
 country_name: Russia
+location: China
+area: Tungusic language of eastern Russia
 status_id: "7"
 scope: individual
 language_type: living

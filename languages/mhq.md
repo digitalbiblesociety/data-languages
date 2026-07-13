@@ -6,6 +6,8 @@ alt_names: [Mandaneg, Mandano]
 population: 130
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Siouan language of North Dakota in the United States
 status_id: 8b
 scope: individual
 language_type: living

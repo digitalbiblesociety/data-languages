@@ -6,6 +6,8 @@ alt_names: [Mbaw, Mbe, Mbo]
 population: 1490
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Grassfields language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living

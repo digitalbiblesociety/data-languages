@@ -2,10 +2,12 @@
 iso: msn
 name: Vurës
 autonym: Vureas
-alt_names: [Banks-Inseln, Mosin, Mosina, Mwesen, Vures]
+alt_names: [Banks-Inseln, Mosin, Mosina, Mwesen, Vures, Vetumboso]
 population: 1050
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Memekere, Mofu, Mofu-Dugwor, Muffo, Muffu, Tchakidjebe]
 population: 5000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language of northern Cameroon
 status_id: 6a
 scope: individual
 language_type: living

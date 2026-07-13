@@ -2,10 +2,12 @@
 iso: sxn
 name: Sangir
 autonym: Siau
-alt_names: [Sangi, Sangih, Sangihé, Sangirese]
+alt_names: [Sangi, Sangih, Sangihé, Sangirese, Manganitu, Sjauw, Tabukan, Tabukang, Tagulandang, Tahulandang, Tahuna, Tamako, Taruna]
 population: 165000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

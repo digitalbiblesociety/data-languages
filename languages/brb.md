@@ -2,15 +2,18 @@
 iso: brb
 name: Lave
 autonym: Brao
-alt_names: [Braou, Brau, Brou, Laveh, Love, Lue, Prou, Proue, Rawe, Veh]
+alt_names: [Braou, Brau, Brou, Laveh, Love, Lue, Prou, Proue, Rawe, Veh, Hamong, Jrii, Ka-nying, Lun, Ombaa, Palau]
 population: 12800
 country_id: LA
 country_name: Laos
+location: Cambodia
+area: Austroasiatic language spoken in Cambodia and Laos
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 14.59942
 longitude: 107.00836
+language_map_img: 500px-Brao_language.webp
 glottocode: lave1249
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

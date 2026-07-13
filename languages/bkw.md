@@ -2,10 +2,12 @@
 iso: bkw
 name: Bekwel
 autonym: Bakwele
-alt_names: [Bakwil, Bekwie, Bekwil, Okpele]
+alt_names: [Bakwil, Bekwie, Bekwil, Okpele, Ebaa, Esel, Essel, Koolo, Mebeeza, Mekwoob, Zalagee]
 population: 12060
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language of the Republic of the Congo
 status_id: "5"
 scope: individual
 language_type: living

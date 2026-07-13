@@ -2,14 +2,18 @@
 iso: rui
 name: Rufiji
 autonym: Rufiji
+alt_names: [Fiji, Kiruihi, Ruihi]
 population: 6450
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: "Pwani region, Rufiji District, central coast, south of Ndengereko [ndg], north of Matumbi [mgw]."
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -7.99059
 longitude: 38.71326
+glottocode: rufi1234
 wikidata_id: Q7377946
 wikipedia_url: "https://en.wikipedia.org/wiki/Rufiji_language"
 translations:

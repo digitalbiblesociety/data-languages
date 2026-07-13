@@ -2,15 +2,18 @@
 iso: kfi
 name: Kannada Kurumba
 autonym: Canarese
-alt_names: ["Kurumba, Kannada"]
+alt_names: ["Kurumba, Kannada", Korambar, Kuramwari, Kuremban, Kuruba, Kuruban, Kurubar, Kurubas Kuruma, Kuruman, Kurumans, Kurumar, Kurumba, Kurumban, Kurumbar, Kurumbas, Kurumvari, Palu Kurumba, Southern Non-standard Kannada, Coimbatore, Dharmapuri, Kannada, Kurumba Kannada, Pudukottai, Southern Nonstandard Kannada]
 population: 180000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in southern India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 11.38236
 longitude: 76.52555
+glottocode: kann1253
 wikidata_id: Q56589
 wikipedia_url: "https://en.wikipedia.org/wiki/Kurumba_languages"
 translations:

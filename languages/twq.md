@@ -6,11 +6,14 @@ alt_names: [Ingelshi, Tasawa]
 population: 8000
 country_id: NE
 country_name: Niger
+location: Niger
+area: Songhay language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 16.78141
 longitude: 6.92037
+language_map_img: Songhay_languages.svg
 scripts: [Latn]
 glottocode: tasa1240
 glottolog_family_id: song1307

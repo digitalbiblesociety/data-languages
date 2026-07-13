@@ -2,15 +2,18 @@
 iso: anc
 name: Ngas
 autonym: Angas
-alt_names: [Karang, Kerang, Ngaseg]
+alt_names: [Karang, Kerang, Ngaseg, Hill Angas, Plain Angas]
 population: 659000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.32042
 longitude: 9.46146
+language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp
 glottocode: ngas1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

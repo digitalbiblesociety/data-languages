@@ -3,10 +3,12 @@ iso: lwg
 macrolanguage_id: luy
 name: Wanga
 autonym: Luyia
-alt_names: [Oluwanga]
+alt_names: [Oluwanga, Hanga, Kawanga, Luhanga, Oluhanga, Luwanga, Luhya Wanga]
 population: null
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "4"
 scope: individual
 language_type: living

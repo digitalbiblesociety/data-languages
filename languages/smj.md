@@ -2,15 +2,18 @@
 iso: smj
 name: Lule Sami
 autonym: julevsámegiella
-alt_names: ["\"Lapp\"", "\"Lule Lapp\"", Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lule, Lule Lapp, Lule Lappish, Lule Saami, Lule-Lappisch, Lule-Lappish, Lule-Samisch, Lulelappisch, Lulesamisk, Lulesamiska, Northern, Saame, Saami, "Saami, Lule", Saamish Lule, Saamí de Lule, Same de Lule, Sami lule, Samieg Lule, Schwedisch-Lappisch, Western, Westlappisch, lapon, lappisk, lopary, lpLule, luulajansaame, sabme, same-, sami de Lule, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt]
+alt_names: ["\"Lapp\"", "\"Lule Lapp\"", Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lule, Lule Lapp, Lule Lappish, Lule Saami, Lule-Lappisch, Lule-Lappish, Lule-Samisch, Lulelappisch, Lulesamisk, Lulesamiska, Northern, Saame, Saami, "Saami, Lule", Saamish Lule, Saamí de Lule, Same de Lule, Sami lule, Samieg Lule, Schwedisch-Lappisch, Western, Westlappisch, lapon, lappisk, lopary, lpLule, luulajansaame, sabme, same-, sami de Lule, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt, “Lapp”]
 population: 1500
 country_id: SE
 country_name: Sweden
+location: "Denmark, Finland, Norway and Sweden"
+area: Endangered Uralic language of Scandinavia
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 67.275885
 longitude: 17.80575
+language_map_img: Lule-SamiLanguageLocatorMap.svg
 scripts: [Latn]
 glottocode: lule1254
 glottolog_family_id: ural1272

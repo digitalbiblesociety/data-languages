@@ -2,10 +2,12 @@
 iso: ndu
 name: Dugun
 autonym: Duru
-alt_names: ["Pa'non", Pani, Panon, Pape, Saa, Sari]
+alt_names: ["Pa'non", Pani, Panon, Pape, Saa, Sari, Pa’non]
 population: 7000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Dialect cluster of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 杜贡语
     auto: true
 ---
+The Dii language is a dialect cluster in the Duru branch of Savanna languages. Yag Dii is the ethnonym.

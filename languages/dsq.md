@@ -6,11 +6,14 @@ alt_names: [Daosahaq, Daoussahaq, Daoussak, Dausahaq, Dawsahaq]
 population: 159800
 country_id: ML
 country_name: Mali
+location: "Mali, Map 1"
+area: Songhay language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 16.685
 longitude: 2.32653
+language_map_img: Songhay_languages.svg
 glottocode: tada1238
 glottolog_family_id: song1307
 glottolog_family_name: Songhay

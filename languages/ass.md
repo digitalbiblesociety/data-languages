@@ -6,6 +6,8 @@ alt_names: [Asumbo, Badzumbo]
 population: 2500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Tivoid language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

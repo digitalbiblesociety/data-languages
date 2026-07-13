@@ -6,6 +6,8 @@ alt_names: [Naga, Naga maring, "Naga, Maring", "Naga,Maring"]
 population: 25800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Sino-Tibetan languages of Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living

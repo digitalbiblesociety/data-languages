@@ -2,9 +2,12 @@
 iso: njz
 name: Nyishi
 autonym: " Nisi"
+alt_names: [Bangni, Aka Lel, Dafla, Daphla, Lel, Nil, Nishang, Nishi, Nissi, Nyising]
 population: 299000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language of India
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Tsumge]
 population: 4790
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Tibetic language subgroup of Nepal
 status_id: 6a
 scope: individual
 language_type: living

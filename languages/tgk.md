@@ -3,15 +3,18 @@ iso: tgk
 iso639_1: tg
 name: Tajik
 autonym: Тоҷикӣ (Tojikī)
-alt_names: [Afghan Farsi, An Táidsícis, Dari, Farsi (Eastern), Galcha, Herati, Kaboli, Kabuli, Khorasani, Kitajiki, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschiksche Spraak, Tadsjikisk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tajiki, Tajiki Persian, Tayik simi, Tádžičtina, Забони тоҷикӣ, تاجىك تىلى, طاجيكى, فارسی تاجیکی]
+alt_names: [Afghan Farsi, An Táidsícis, Dari, Farsi (Eastern), Galcha, Herati, Kaboli, Kabuli, Khorasani, Kitajiki, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschiksche Spraak, Tadsjikisk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tajiki, Tajiki Persian, Tayik simi, Tádžičtina, Забони тоҷикӣ, تاجىك تىلى, طاجيكى, فارسی تاجیکی, тоҷикӣ]
 population: 8132320
 country_id: TJ
 country_name: Tajikistan
+location: Kyrgyzstan and Tajikistan
+area: Variety of Persian spoken in Central Asia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 38.82131
 longitude: 68.55493
+language_map_img: tgk.webp
 scripts: [Arab, Cyrl, Latn]
 glottocode: taji1245
 glottolog_family_id: indo1319

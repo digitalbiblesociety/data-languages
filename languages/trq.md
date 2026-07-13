@@ -2,15 +2,18 @@
 iso: trq
 name: San Martín Itunyoso Triqui
 autonym: San Martín Itunyoso Trique
-alt_names: [San Martin Itunyoso Triqui, Trike, Triki, Trique, Triqui, Triqui de San Martín Itunyoso, "Triqui, San Martin Itunyoso", "Triqui, San Martín Itunyoso"]
+alt_names: [San Martin Itunyoso Triqui, Trike, Triki, Trique, Triqui, Triqui de San Martín Itunyoso, "Triqui, San Martin Itunyoso", "Triqui, San Martín Itunyoso", San Martín Itunyoso, Triqui Alto, snáꞌánj nìꞌ]
 population: 2000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Language family
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.24284
 longitude: -97.92019
+language_map_img: Triqui_map.svg
 glottocode: sanm1298
 glottolog_family_id: otom1299
 glottolog_family_name: Otomanguean
@@ -51,3 +54,4 @@ translations:
     name: 圣马丁伊图尼奥索特里基语
     auto: true
 ---
+The Triqui, or Trique, languages are a family of Oto-Manguean spoken by 30,000 Trique people of the Mexican states of Oaxaca and the state of Baja California in 2007. They are also spoken by 5,000 immigrants to the United States. Triqui languages belong to the Mixtecan branch together with the Mixtec languages and Cuicatec.

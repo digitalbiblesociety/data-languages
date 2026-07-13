@@ -6,6 +6,8 @@ alt_names: [Bil Bil language]
 population: 1250
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

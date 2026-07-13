@@ -6,6 +6,8 @@ alt_names: [Rugara, Telei]
 population: 26500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Papuan language of eastern New Guinea
 status_id: "5"
 scope: individual
 language_type: living

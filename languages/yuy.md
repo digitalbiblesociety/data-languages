@@ -6,6 +6,8 @@ alt_names: [Eastern Yugur language, Enger, Mongolic Yellow Uighur, Shera Yogur, 
 population: 3000
 country_id: CN
 country_name: China
+location: China
+area: "Mongolic language of Gansu, China"
 status_id: 8a
 scope: individual
 language_type: living

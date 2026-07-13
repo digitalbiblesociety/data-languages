@@ -5,6 +5,7 @@ autonym: Wergaya
 population: null
 country_id: AU
 country_name: Australia
+area: Endangered Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

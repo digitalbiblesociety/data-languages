@@ -6,6 +6,8 @@ alt_names: [Bure, Nabu, Naho, Ndo]
 population: 6900
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Finisterre language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

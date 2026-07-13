@@ -3,15 +3,18 @@ iso: kor
 iso639_1: ko
 name: Korean
 autonym: 한국어
-alt_names: [An Chóiréis, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Hanguk Mal, Hanguohua, Hankul, IsiKoriya, Koreaans, Koreana linguo, Koreaneg, Koreanisch, Koreano, Koreansk, Koreanska, Korece, Koreek, Koreera, Korêyî, Kuriya simi, Kòrejańsczi jãzëk, Kóreska, Tsêu-siên-ngî, Urkoreanisch, Забони кореягӣ, Кэриэй тыла, Կորեերեն, קוריאנית, كورىيەچە, ކޮރެޔާ ބަސް, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, 朝鮮話, 韓文]
+alt_names: [An Chóiréis, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Hanguk Mal, Hanguohua, Hankul, IsiKoriya, Koreaans, Koreana linguo, Koreaneg, Koreanisch, Koreano, Koreansk, Koreanska, Korece, Koreek, Koreera, Korêyî, Kuriya simi, Kòrejańsczi jãzëk, Kóreska, Tsêu-siên-ngî, Urkoreanisch, Забони кореягӣ, Кэриэй тыла, Կորեերեն, קוריאנית, كورىيەچە, ކޮރެޔާ ބަސް, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, 朝鮮話, 韓文, Chaoxianyu, Chaoyu, Chungcheongdo, Goryeomal, Hamgyongdo, Hangouyu, Hanyu, Hwanghaedo, Jeju Island, Jeollado, Kangwondo, South Korean, Koryomal, Kyonggido, Kyongsangdo, North Chungcheongdo, North Hamgyongdo, North Jeollado, North Kyongsangdo, "North P'yong'ando", "P'yong'ando", Seoul, South Chungcheongdo, South Hamgyongdo, South Jeollado, South Kyongsangdo, "South P'yong'ando", Zanichi Korean]
 population: 77300000
 country_id: KR
 country_name: South Korea
+location: China
+area: Language spoken in Korea
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 37.5
 longitude: 128
+language_map_img: kor.webp
 scripts: [Kore]
 glottocode: kore1280
 glottolog_family_id: kore1284

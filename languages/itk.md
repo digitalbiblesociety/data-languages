@@ -6,6 +6,7 @@ alt_names: [Giudeo-italiano, Italkian, Italkieg, Lenguas judeo-italianas, Luenga
 population: 200
 country_id: IT
 country_name: Italy
+area: Endangered Italian-derived Jewish dialect continuum
 status_id: 8a
 scope: individual
 language_type: living

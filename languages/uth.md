@@ -2,9 +2,11 @@
 iso: uth
 name: "ut-Hun"
 autonym: Duka
+alt_names: [Eastern Duka, Eastern Dukawa, Ethun, Hun-ne, Hune, et-Hun, it-Hun, tHun, ət-Hun]
 population: 50000
 country_id: NG
 country_name: Nigeria
+area: Nigerian language
 status_id: null
 scope: individual
 language_type: living

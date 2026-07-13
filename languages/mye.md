@@ -2,10 +2,12 @@
 iso: mye
 name: Myene
 autonym: Omyene
-alt_names: [Mpongue, Mpongwe, Mpongwée, Myènè, Pangwe, Pongoué, Pongue]
+alt_names: [Mpongue, Mpongwe, Mpongwée, Myènè, Pangwe, Pongoué, Pongue, Adjumba, Adyumba, Ajumba, Dyumba, Enenga, Galloa, Galoa, Galua, Galwa, Mpongoué, Mpungwe, "N'komi", Nkomi, Npongué, Npongwe, Orungu, Rongo, Rungu]
 population: 45000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living

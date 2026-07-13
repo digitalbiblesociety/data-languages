@@ -2,14 +2,18 @@
 iso: akl
 name: Aklanon
 autonym: Aklan
+alt_names: [Aklano, Aklanon-Bisayan, Panay, Akeanon, Inakeanon]
 population: 549600
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 11.55432
 longitude: 122.35413
+language_map_img: 500px-Aklanon_language_map.webp
 glottocode: akla1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

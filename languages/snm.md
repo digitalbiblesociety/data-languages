@@ -2,10 +2,12 @@
 iso: snm
 name: "Southern Ma'di"
 autonym: null
-alt_names: ["Ma'di, Southern"]
+alt_names: ["Ma'di, Southern", Southern Ma’di]
 population: 60000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Nilo-Saharan language
 status_id: 6a
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: UG
     location: Uganda
 ---
+Lugbara, or Lugbarati, is the language of the Lugbara people. It is spoken in the West Nile region in northwestern Uganda, as well as the Democratic Republic of the Congo's Orientale Province with a little extension to the South Sudan as the Zande or Azande people.

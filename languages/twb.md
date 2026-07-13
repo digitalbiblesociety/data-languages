@@ -6,6 +6,8 @@ alt_names: [Fanawbuid, "Tawbuid, Western", Western Taubuid]
 population: 6810
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西陶布伊德语
     auto: true
 ---
+The Tawbuid language is a language spoken by Tawbuid Mangyans in the province of Mindoro in the Philippines. It is divided into eastern and western dialects. The Bangon Mangyans also speak the eastern dialect of Tawbuid.

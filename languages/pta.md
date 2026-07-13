@@ -6,6 +6,8 @@ alt_names: [Chané, Chiriguano, Izoceño, Pai, Simba, Tapiete, Tavytera]
 population: 15000
 country_id: PY
 country_name: Paraguay
+location: Paraguay
+area: Guarani language spoken in Paraguay
 status_id: 6b
 scope: individual
 language_type: living

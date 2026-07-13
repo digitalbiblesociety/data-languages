@@ -2,10 +2,12 @@
 iso: nqk
 name: Kura Ede Nago
 autonym: Nago
-alt_names: ["Ede Nago, Kura"]
+alt_names: ["Ede Nago, Kura", Kura]
 population: 25000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 库拉埃德纳戈语
     auto: true
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

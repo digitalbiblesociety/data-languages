@@ -2,10 +2,12 @@
 iso: btz
 name: "Batak Alas-Kluet"
 autonym: Batak Alas
-alt_names: [Alas, Alas-Kluet, Alas-Kluet Batak]
+alt_names: [Alas, Alas-Kluet, Alas-Kluet Batak, Batak-Alas, Kade-Kade, Kluet, Singkil]
 population: 195000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

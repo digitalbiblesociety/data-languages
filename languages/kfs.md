@@ -6,6 +6,8 @@ alt_names: [Bilaspuri Pahari, Kahluri, Kehloori Pahari, Kehluri, Pacchmi]
 population: 296000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Language predominantly spoken in northern India
 status_id: 6a
 scope: individual
 language_type: living

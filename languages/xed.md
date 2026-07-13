@@ -2,10 +2,12 @@
 iso: xed
 name: Hdi
 autonym: Xədi
-alt_names: [Ftour, Hde, Hedi, Hide, Tourou, Tur, Turu, Turu-Hide, Xadi, Xdi, Xedi]
+alt_names: [Ftour, Hde, Hedi, Hide, Tourou, Tur, Turu, Turu-Hide, Xadi, Xdi, Xedi, Hǝdi]
 population: 29000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

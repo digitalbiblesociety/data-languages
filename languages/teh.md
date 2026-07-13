@@ -2,15 +2,17 @@
 iso: teh
 name: Tehuelche
 autonym: Patagón
-alt_names: ["Aonek'enk", Aonek’enk, Aoniken, Chon, Gununa-Kena, Gününa Küna, Inaquean, Inaquen, Tehuelbhe, Tewelche, Tsoneka]
+alt_names: ["Aonek'enk", Aonek’enk, Aoniken, Chon, Gununa-Kena, Gününa Küna, Inaquean, Inaquen, Tehuelbhe, Tewelche, Tsoneka, Gunua-Kena]
 population: 200
 country_id: AR
 country_name: Argentina
+area: Extinct Chonan language of Patagonia
 status_id: "9"
 scope: individual
 language_type: living
 latitude: -47.57963
 longitude: -68.32346
+language_map_img: Patagonian_lang.webp
 glottocode: tehu1242
 glottolog_family_id: chon1288
 glottolog_family_name: Chonan

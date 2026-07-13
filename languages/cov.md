@@ -2,10 +2,12 @@
 iso: cov
 name: Cao Miao
 autonym: Grass Miao
-alt_names: [Mjiuniang]
+alt_names: [Mjiuniang, Sanjiang Miao]
 population: 63600
 country_id: CN
 country_name: China
+location: Southern China
+area: Language of China
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: wew
 name: Wejewa
 autonym: West Sumbanese
-alt_names: [Veveva, Waidjewa, Waijewa, Wajewa, West-Soembasch, Wewewa, Wewjewa, Weyewa]
+alt_names: [Veveva, Waidjewa, Waijewa, Wajewa, West-Soembasch, Wewewa, Wewjewa, Weyewa, Lauli, Loli, Tana Righu]
 population: 55000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

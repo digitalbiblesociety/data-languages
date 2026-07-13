@@ -6,11 +6,14 @@ alt_names: [Alkansea, Arkans, Arkansas, Capa, Kwapa, Kwapaw, Ogaxpa]
 population: 159
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Siouan language of North America
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 36.94712
 longitude: -94.66336
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 glottocode: quap1242
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

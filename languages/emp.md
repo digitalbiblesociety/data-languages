@@ -2,10 +2,12 @@
 iso: emp
 name: Northern Emberá
 autonym: Cholo
-alt_names: [Andagueda, Atrato, Choco, Darien, Darien Embera, Dariena, Darién, Ebera Bedea, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Eerã, Embera, Embera (Colombie), Embera (Panama), Embera (Panamá), Emberá, Emberá (North), "Emberá, Northern", Empera, Emperá, Emperã, Eperã Pedea, Northern, Northern Ember, Northern Embera, Northern Ępęra, Panama Embera, Sambú]
+alt_names: [Andagueda, Atrato, Choco, Darien, Darien Embera, Dariena, Darién, Ebera Bedea, Eberã, "Eberã Bed'ea", Eberã Bed’ea, Eerã, Embera, Embera (Colombie), Embera (Panama), Embera (Panamá), Emberá, Emberá (North), "Emberá, Northern", Empera, Emperá, Emperã, Eperã Pedea, Northern, Northern Ember, Northern Embera, Northern Ępęra, Panama Embera, Sambú, Chocó, Darien Emberá, Embena, Epena, Epérã Pedée, Pede, Pede Epenã]
 population: 72200
 country_id: PA
 country_name: Panama
+location: Northern Colombia
+area: Embera language of Colombia and Panama
 status_id: "5"
 scope: individual
 language_type: living

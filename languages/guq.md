@@ -2,10 +2,11 @@
 iso: guq
 name: Aché
 autonym: Guayakí
-alt_names: ["\"Guaiaqui\"", "\"Guayakí\"", "\"Guoyagui\"", Ache, Axe, Guaiaqui, Guajaki, Guayaki, Guayaki-Ache, Guayaquí, Guoyagui]
+alt_names: ["\"Guaiaqui\"", "\"Guayakí\"", "\"Guoyagui\"", Ache, Axe, Guaiaqui, Guajaki, Guayaki, Guayaki-Ache, Guayaquí, Guoyagui, “Guaiaqui”, “Guayakí”, “Guoyagui”, Ache-Guayaki, Ache gatu, Ache irollä, Ache purä, Ache wa, Ñacunday River Ache]
 population: 910
 country_id: PY
 country_name: Paraguay
+location: Paraguay
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: sbd
 name: Southern Samo
 autonym: Sane
-alt_names: [Samo, "Samo, Southern", San, Somono]
+alt_names: [Samo, "Samo, Southern", San, Somono, Makaa, Nyaana, Sa, Southern, Toma]
 population: 85000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Niger-Congo languages spoken in Burkina Faso and Mali
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.71302
 longitude: -2.9052
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: sout2844
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
@@ -59,3 +62,4 @@ rolv_dialects:
     country_id: BF
     location: Burkina Faso
 ---
+Samo, also known as Mande Samo, is a dialect cluster of Mande languages spoken in Burkina Faso and Mali.

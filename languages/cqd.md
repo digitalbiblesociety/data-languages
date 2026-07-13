@@ -3,15 +3,18 @@ iso: cqd
 macrolanguage_id: hmn
 name: Chuanqiandian Cluster Miao
 autonym: lus Hmoob / lug Moob / lol Hmongb
-alt_names: ["Miao, Chuanqiandian Cluster"]
+alt_names: ["Miao, Chuanqiandian Cluster", Chuanchientien Miao, Chuanqiandian Miao, Core Farwestern Hmongic, Hua Miao, Sichuan-Guizhou-Yunnan Miao, Western Miao, Bai Miao, Black Hmong, Black Meo, Black Mong, Blue Hmong, Blue Meo, Ching Miao, Chuan Miao, Clear Water Hmong, Dananshan Miao, Dianxi Miao, Downhill Hmong, Flowery Meo, Green Hmong, Green Meo, Hei Miao, Hmong Be, Hmong Bua, Hmong Den, Hmong Dle Ncha, Hmong Dlo, Hmong Dou, Hmong Drout Raol, Hmong La, Hmong Len, Hmong Shi, Hmong Shua Bua, Hmong Sou, Hongxian Miao, Hwa Miao, Light Hmong, Liuzhai Miao, Lu Miao, Luzhai Miao, Magpie Miao, Meo Dam, Meo Den, Meo Lai, Mong Hoa, Mong La Hou, Mong Leng, Mong Lenh, Mong Shi, Mong Si, Mountain Hmong, Paddyfield Miao, Qing Miao, Qingshui Miao, Red Mong, Red Thread Miao, Red-headed Hmong, River Miao, Sa Pa Hmong, Sichuan Miao, Six Village Miao, Striped Hmong, Tak Miao, Variegated Mong, Western Yunnan Miao, White Miao, Yaque Miao]
 population: 1400000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: West Hmongic dialect continuum
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 22.563832
 longitude: 101.950052
+language_map_img: 500px-Hmong_Mien_lang.webp
 glottocode: chua1256
 glottolog_family_id: hmon1336
 glottolog_family_name: Hmong-Mien
@@ -123,3 +126,4 @@ rolv_dialects:
     country_id: CN
     location: China
 ---
+Hmong or Mong is a dialect continuum of the West Hmongic branch of the Hmongic languages spoken by the Hmong people of Southwestern China, northern Vietnam, Thailand, and Laos. There are an estimated 4.5 million speakers of varieties that are largely mutually intelligible, including over 280,000 Hmong Americans as of 2013. Over half of all Hmong speakers speak the various dialects in China, where the Dananshan dialect forms the basis of the standard language. However, Hmong Daw and Mong Leng are widely known only in Laos and the United States; Dananshan is more widely known in the native region of Hmong.

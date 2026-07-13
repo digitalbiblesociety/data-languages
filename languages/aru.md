@@ -2,10 +2,11 @@
 iso: aru
 name: Aruá
 autonym: Arawá
-alt_names: [Arauan, Arauá, Arawa, Aroã, Arua, Aruán, Arúan, Madi]
+alt_names: [Arauan, Arauá, Arawa, Aroã, Arua, Aruán, Arúan, Madi, Aruá (Amazonas State)]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Arawan language of Brazil
 status_id: null
 scope: individual
 language_type: extinct

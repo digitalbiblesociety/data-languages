@@ -6,6 +6,8 @@ alt_names: [Buranad-jini, Dhiyakuy, Diakui, Dijogoi, Djikai, Jikai, Ridarngo, Ri
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "7"
 scope: individual
 language_type: living

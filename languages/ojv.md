@@ -2,10 +2,12 @@
 iso: ojv
 name: Ontong Java
 autonym: Luangiua
-alt_names: [Leuangiua, Lord Howe, Ongtong Java]
+alt_names: [Leuangiua, Lord Howe, Ongtong Java, Luaniua, Pelau]
 population: 2370
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Polynesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

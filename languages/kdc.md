@@ -2,10 +2,12 @@
 iso: kdc
 name: Kutu
 autonym: null
-alt_names: [Khutu, Kikutu]
+alt_names: [Khutu, Kikutu, Kixutu]
 population: 27500
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

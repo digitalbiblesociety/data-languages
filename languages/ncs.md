@@ -6,6 +6,7 @@ alt_names: ["Lenguaggio d' 'e signe d' 'o Nicaragua", Linguaggiu dî signa nicar
 population: 3000
 country_id: NI
 country_name: Nicaragua
+area: Deaf-community sign language
 status_id: "5"
 scope: individual
 language_type: living

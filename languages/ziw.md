@@ -2,10 +2,12 @@
 iso: ziw
 name: Zigula
 autonym: Mushunguli
-alt_names: [Zigulaic]
+alt_names: [Zigulaic, Kizigula, Seguha, Wayombo, Wazegua, Zeguha, Zegura, Zigoua, Zigua, Zigwa, Chizigula, Kizigua, Msegua]
 population: 442000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania and Somalia
 status_id: 6a
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: bahasa Burumakok
 population: 40
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
 status_id: 8b
 scope: individual
 language_type: living

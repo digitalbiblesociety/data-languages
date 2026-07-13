@@ -6,6 +6,8 @@ alt_names: [Ndola, Ndooro, Ndoro, Njoyame, Nundoro]
 population: 62520
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Bantoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

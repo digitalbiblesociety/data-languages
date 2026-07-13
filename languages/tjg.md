@@ -2,10 +2,12 @@
 iso: tjg
 name: Tunjung
 autonym: Tunjung Dayak
-alt_names: [Dayak]
+alt_names: [Dayak, Pahu, Tunjung Linggang, Tunjung Londong, Tunjung Tengah]
 population: 50000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

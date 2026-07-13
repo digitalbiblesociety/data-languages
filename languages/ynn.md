@@ -6,6 +6,7 @@ alt_names: [Yahi language]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language
 status_id: null
 scope: individual
 language_type: extinct

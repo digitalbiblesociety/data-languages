@@ -2,15 +2,18 @@
 iso: nio
 name: Nganasan
 autonym: ня” njaʔ
-alt_names: [Avam, Enganasán, Nganasaans, Nganasagiella, Nganasainis, Nganasanisch, Nganasanish, Nganasaniska, Nganasansk, Nganaseg, Nganassan, Nganassane, Northern Samoyed, Samojeditawgi, Tavgi, Tavgi Samoyed, Tavgi Samoyedic, Tavgy, Tawgi, Tawgi Samoyed, Tawgy, Tawgy-Samojedisch, Tawgy-Sprache, nganasany, njaʔ, tavgiysko-samoyedsky, tavgiysky, tavgui, Ŋanasan, ŋanasaŋ, Ня’’ сиәде, ня”]
+alt_names: [Avam, Enganasán, Nganasaans, Nganasagiella, Nganasainis, Nganasanisch, Nganasanish, Nganasaniska, Nganasansk, Nganaseg, Nganassan, Nganassane, Northern Samoyed, Samojeditawgi, Tavgi, Tavgi Samoyed, Tavgi Samoyedic, Tavgy, Tawgi, Tawgi Samoyed, Tawgy, Tawgy-Samojedisch, Tawgy-Sprache, nganasany, njaʔ, tavgiysko-samoyedsky, tavgiysky, tavgui, Ŋanasan, ŋanasaŋ, Ня’’ сиәде, ня”, Nya, Khatang, West Nganasan]
 population: 130
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Endangered Samoyedic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 73.13537
 longitude: 86.2106
+language_map_img: 500px-Nganasan.webp
 glottocode: ngan1291
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

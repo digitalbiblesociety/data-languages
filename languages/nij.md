@@ -2,10 +2,12 @@
 iso: nij
 name: Ngaju
 autonym: Biadju
-alt_names: [Dayak, Dayak (Ngaju), Dayak Ngaju, Kahayan Kapuas, Kapuas, Ngadju, Ngaja, Ngaju dayak, Oloh Mangtangai, Pulopetak, Southwest Barito]
+alt_names: [Dayak, Dayak (Ngaju), Dayak Ngaju, Kahayan Kapuas, Kapuas, Ngadju, Ngaja, Ngaju dayak, Oloh Mangtangai, Pulopetak, Southwest Barito, "Ba'amang", Bara-Bare, Kahayan, Katingan Ngaju, Katingan Ngawa, Mantangai, Sampit]
 population: 890000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: "3"
 scope: individual
 language_type: living

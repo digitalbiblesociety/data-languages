@@ -2,10 +2,12 @@
 iso: nre
 name: Southern Rengma Naga
 autonym: Southern Rengma
-alt_names: [Central Rengma, Injang, Moiyui, Mon, Mozhumi, "Naga, Southern Rengma", "Naga,SouthernRengma", Nzong, Nzonyu, Rengma, Rengma Naga, Rengma Proper, Terüpvunyu, Unza, Western Rengma]
+alt_names: [Central Rengma, Injang, Moiyui, Mon, Mozhumi, "Naga, Southern Rengma", "Naga,SouthernRengma", Nzong, Nzonyu, Rengma, Rengma Naga, Rengma Proper, Terüpvunyu, Unza, Western Rengma, Azonyu, Keteneneyu]
 population: 21000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Angami–Pochuri language of Nagaland, India"
 status_id: "5"
 scope: individual
 language_type: living

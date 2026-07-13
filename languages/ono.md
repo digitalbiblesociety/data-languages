@@ -6,6 +6,8 @@ alt_names: [Onandaga, Onondoga]
 population: 18173
 country_id: CA
 country_name: Canada
+location: Canada
+area: Iroquoian language spoken in North America
 status_id: 8a
 scope: individual
 language_type: living

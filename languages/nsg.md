@@ -2,10 +2,12 @@
 iso: nsg
 name: Ngasa
 autonym: Ongamo
-alt_names: [Nass-Gitksan, Nisgha, Ongamoeg, Shaka]
+alt_names: [Nass-Gitksan, Nisgha, Ongamoeg, Shaka, Kingasa]
 population: 250
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Eastern Nilotic language
 status_id: 8a
 scope: individual
 language_type: living

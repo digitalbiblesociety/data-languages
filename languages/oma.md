@@ -6,11 +6,14 @@ alt_names: [Cegiha, Dhegiha, Dhegiha (Ponca), Dhegihan, Omaha, Ponca, Ponka, Ppa
 population: 85
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Siouan language spoken by the Omaha (Umoⁿhoⁿ) people and the Ponca (Paⁿka) people
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 42.09436
 longitude: -96.52947
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 glottocode: omah1247
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

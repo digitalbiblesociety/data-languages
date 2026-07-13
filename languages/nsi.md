@@ -2,9 +2,11 @@
 iso: nsi
 name: Nigerian Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [NGSL, NSL]
 population: 800000
 country_id: NG
 country_name: Nigeria
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living

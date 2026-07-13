@@ -6,6 +6,7 @@ alt_names: [Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria
+area: "Taraba state, Sardauna LGA, Antere, Nkiri."
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +60,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Taraba"
 ---
+Wushi (Babessi) is a Grassfields language of Cameroon.

@@ -6,11 +6,13 @@ alt_names: [Cariri, Caririan, Cariris, Carirí, Kariri, Kariri Xucó, Kariri lan
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Macro-Ge dialect cluster of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -9.84999
 longitude: -36.33332
+language_map_img: 500px-Kariri_languages.webp
 glottocode: kari1255
 glottolog_family_id: uncl1493
 glottolog_family_name: Unclassifiable
@@ -53,3 +55,4 @@ translations:
     name: 卡里里-索科语
     auto: true
 ---
+Dzubukuá, referred to by the community as Kariri-Xocó, is an extinct Karirian language of Brazil. Since 1989, there is a process of linguistic revitalization underway; the Tingui-Botó people claim to use Dzubukuá, their ancestral language, in their secret Ouricuri ritual.

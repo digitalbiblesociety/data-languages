@@ -6,6 +6,8 @@ alt_names: [Chakosi, Chokosi, Chokossi, Kyokosi, Tchokossi, Tiokossi]
 population: 177200
 country_id: GH
 country_name: Ghana
+location: Benin
+area: Tano language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

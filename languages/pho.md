@@ -2,10 +2,12 @@
 iso: pho
 name: Phunoi
 autonym: Singsali
-alt_names: [Hwethom, Khaskhong, Khoany, Mung, Phounoy, Phu Noi, Punoi, Sinsali]
+alt_names: [Hwethom, Khaskhong, Khoany, Mung, Phounoy, Phu Noi, Punoi, Sinsali, Black Khoany, Singsily, White Khoany]
 population: 39200
 country_id: LA
 country_name: Laos
+location: Laos
+area: Sino-Tibetan language spoken in Laos
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Engandi, Gunwinyguan, "N'gundi", Nagandi, Nagandji, Nanda, Nandi, Ng
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct

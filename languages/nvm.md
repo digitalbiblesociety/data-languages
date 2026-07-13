@@ -2,10 +2,12 @@
 iso: nvm
 name: Namiae
 autonym: Namiai (Barai)
-alt_names: [Barai]
+alt_names: [Barai, Namiai]
 population: 1200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Koiarian language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

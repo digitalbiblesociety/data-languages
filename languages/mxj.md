@@ -2,10 +2,12 @@
 iso: mxj
 name: "Miju-Mishmi"
 autonym: " Kman"
-alt_names: ["Deng, Geman", Geman Deng, Kaman, Kaman Mishmi, Keman, Miji, Miju, Mishmi, Mījū Mishmi]
+alt_names: ["Deng, Geman", Geman Deng, Kaman, Kaman Mishmi, Keman, Miji, Miju, Mishmi, Mījū Mishmi, Eastern Mishmi, Gaman Deng, Geman Dend]
 population: 18000
 country_id: IN
 country_name: India
+location: Southwestern China
+area: Sino-Tibetan language spoken in India and China
 status_id: 6a
 scope: individual
 language_type: living

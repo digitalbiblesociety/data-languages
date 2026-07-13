@@ -2,10 +2,12 @@
 iso: pci
 name: Duruwa
 autonym: ପରଜିधुरवा
-alt_names: [Dhruva, Dhurwa, Durva, Paraja, Parajhi, Parjhi, Parji, Parji (Dravidian), Tagara, Thakara, Tugara]
+alt_names: [Dhruva, Dhurwa, Durva, Paraja, Parajhi, Parjhi, Parji, Parji (Dravidian), Tagara, Thakara, Tugara, Dharba, Kukanar, Nethanar, Tiriya]
 population: 52300
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

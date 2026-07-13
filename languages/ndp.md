@@ -2,10 +2,12 @@
 iso: ndp
 name: Ndo
 autonym: Ke’bu
-alt_names: ["Ke'bu", Kebu, Kebutu, Ndu, "Oke'bu"]
+alt_names: ["Ke'bu", Kebu, Kebutu, Ndu, "Oke'bu", Oke’bu, Avare, Avari, Avere, Aviritu, "Kebu'tu", Meembi, Membi, Membitu, Mombi, "Ndo Oke'bu", Okebu]
 population: 154100
 country_id: UG
 country_name: Uganda
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language
 status_id: "5"
 scope: individual
 language_type: living

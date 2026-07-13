@@ -6,6 +6,8 @@ alt_names: [Minde]
 population: 500
 country_id: PT
 country_name: Portugal
+location: Portugal and Spain
+area: Romance language of Portugal
 status_id: 8b
 scope: individual
 language_type: living

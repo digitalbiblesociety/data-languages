@@ -6,6 +6,7 @@ alt_names: [Bayry-Binip, Coraloon, Djadjuwuru, Douta Galla, Doutta Galla, Dutaga
 population: null
 country_id: AU
 country_name: Australia
+area: Pama–Nyungan language spoken in Australia
 status_id: "10"
 scope: individual
 language_type: extinct

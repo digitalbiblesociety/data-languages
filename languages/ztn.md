@@ -3,10 +3,12 @@ iso: ztn
 macrolanguage_id: zap
 name: Santa Catarina Albarradas Zapotec
 autonym: Zapoteco de Santa Catarina Albarradas
-alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Santo Domingo Albarradas Zapotec, Zapotec, "Zapotec, Santa Catarina Albarradas", Zapoteco de Santo Domingo Albarradas]
+alt_names: [Albarradas, Albarradas Zapotec, Northern Sapoteko, Santo Domingo Albarradas Zapotec, Zapotec, "Zapotec, Santa Catarina Albarradas", Zapoteco de Santo Domingo Albarradas, Santa Catarina Albarradas, Albarradas Sta. Catarina Zapotec]
 population: 1000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

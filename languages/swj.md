@@ -2,10 +2,12 @@
 iso: swj
 name: Sira
 autonym: Eshira
-alt_names: [Gisira, Ichira, Ishira, Isira, Shira, Shire, Yichira]
+alt_names: [Gisira, Ichira, Ishira, Isira, Shira, Shire, Yichira, Gisir, Kamba, Ngosi]
 population: 39400
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language of Gabon
 status_id: 6a
 scope: individual
 language_type: living

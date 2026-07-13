@@ -2,10 +2,12 @@
 iso: atk
 name: Ati
 autonym: Inati
-alt_names: ["A'i", Ari, Bisaya]
+alt_names: ["A'i", Ari, Bisaya, Barotac Viejo Nagpana, Malay]
 population: 1500
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Philippines
 status_id: 6a
 scope: individual
 language_type: living

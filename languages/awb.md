@@ -2,10 +2,12 @@
 iso: awb
 name: Awa
 autonym: Awa
-alt_names: [Chana, Mobuta]
+alt_names: [Chana, Mobuta, Ilakia, Northeast Awa, South Awa, Tauna]
 population: 2050
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

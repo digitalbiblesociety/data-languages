@@ -6,6 +6,8 @@ alt_names: [Nyangbo-Tafi, Tegbo]
 population: 4400
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Ghana–Togo Mountain language
 status_id: 6a
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 塔菲语
     auto: true
 ---
+The Nyangbo-Tafi language is spoken in the Volta Region of Ghana. It is considered one of the Ghana–Togo Mountain languages of the Kwa family.

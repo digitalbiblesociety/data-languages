@@ -6,6 +6,7 @@ alt_names: [Adelaide tribe, Coorna, Gaurna, "Jaitjawar:a", Karnuwarra, Kaura, Ko
 population: null
 country_id: AU
 country_name: Australia
+area: Language of the Kaurna people of South Australia
 status_id: null
 scope: individual
 language_type: living

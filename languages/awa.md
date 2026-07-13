@@ -2,15 +2,18 @@
 iso: awa
 name: Awadhi
 autonym: अवधी
-alt_names: [Abadi, Abohi, Ambodhi, Avadhi, Awadeg, Baiswari, Eastern Hindi, Kojali, Kosali]
+alt_names: [Abadi, Abohi, Ambodhi, Avadhi, Awadeg, Baiswari, Eastern Hindi, Kojali, Kosali, Abadhi, Chhatisgadhi, Dehati, Deshi, Gangapari, Gawnaru, Koseli, Mirzapuri, Pardesi, Uttari]
 population: 37700000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.590735
 longitude: 82.466255
+language_map_img: awa.webp
 scripts: [Deva]
 glottocode: awad1243
 glottolog_family_id: indo1319

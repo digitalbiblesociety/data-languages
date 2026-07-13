@@ -2,10 +2,12 @@
 iso: sey
 name: Secoya
 autonym: Paikoka
-alt_names: [Kakawahe, Macaguaje, Paicoca /secoya (Équateur), Piohé, Piojé, Secoya-Gai]
+alt_names: [Kakawahe, Macaguaje, Paicoca /secoya (Équateur), Piohé, Piojé, Secoya-Gai, Aido Pai, Angotero, Angutera, Encabellao, Siona-Secoya]
 population: 1005
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Tucanoan language spoken in Ecuador and Peru
 status_id: "5"
 scope: individual
 language_type: living

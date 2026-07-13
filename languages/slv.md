@@ -3,15 +3,17 @@ iso: slv
 iso639_1: sl
 name: Slovenian
 autonym: Slovenian
-alt_names: [An tSlóivéinis, Esloveniera, Eslovenu, Eslovè, Eslovèn, Isluwinya simi, Lenghe slovene, Resiano, Résien, Slofeneg, Sloveanish, Sloveeni, Sloveens, Sloveensk, Slovenagiella, Slovence, Slovene, Slovene language, Sloveneg, Slovenek, Sloveniana linguo, Slovenie leid, Slovenisch, Slovenscina, Slovensk, Slovenska, Slovène, Slovèno, Sloweens, Sloweensche Spraak, Slowenische Sproch, Slòbhainis, Slóvenska, Słowjeńska rěc, Łéngua slovena, Їллѷрі́искословѣ́ньскъ ѩꙁꙑ́къ, Забони словенӣ, Словен йылме, Սլովեներեն, סלאוועניש, סלובנית, سلوۋېن تىلى]
+alt_names: [An tSlóivéinis, Esloveniera, Eslovenu, Eslovè, Eslovèn, Isluwinya simi, Lenghe slovene, Resiano, Résien, Slofeneg, Sloveanish, Sloveeni, Sloveens, Sloveensk, Slovenagiella, Slovence, Slovene, Slovene language, Sloveneg, Slovenek, Sloveniana linguo, Slovenie leid, Slovenisch, Slovenscina, Slovensk, Slovenska, Slovène, Slovèno, Sloweens, Sloweensche Spraak, Slowenische Sproch, Slòbhainis, Slóvenska, Słowjeńska rěc, Łéngua slovena, Їллѷрі́искословѣ́ньскъ ѩꙁꙑ́къ, Забони словенӣ, Словен йылме, Սլովեներեն, סלאוועניש, סלובנית, سلوۋېن تىلى, slovenščina, Cividale, Lower Carniola, Prekmurski, Primorski, Resia, Slovenski jezik, Stajerski, Upper Carniola]
 population: 2046060
 country_id: SI
 country_name: Slovenia
+area: "Slavic Language, Mainly in Slovenia"
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 46.254258
 longitude: 14.776588
+language_map_img: 500px-Slovenes_distribution_map.webp
 scripts: [Latn]
 glottocode: slov1268
 glottolog_family_id: indo1319

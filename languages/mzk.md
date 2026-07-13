@@ -2,10 +2,12 @@
 iso: mzk
 name: Nigeria Mambila
 autonym: Bang
-alt_names: [Lagubi, Mabila, Mambere, Mambila, "Mambila, Nigeria", Mambilla, Nor, Nor Tagbo, Tongbo]
+alt_names: [Lagubi, Mabila, Mambere, Mambila, "Mambila, Nigeria", Mambilla, Nor, Nor Tagbo, Tongbo, Barup]
 population: 55600
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Mambiloid language of Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -149,3 +151,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Taraba"
 ---
+Mambila is a dialect chain stretching across Nigeria and Cameroon. It is one of the Mambiloid languages, a branch of Benue–Congo.

@@ -2,10 +2,12 @@
 iso: mvy
 name: Indus Kohistani
 autonym: Maiyã
-alt_names: [Dardu, Khili, Kohistani, "Kohistani, Indus", Kohiste, Mair, Maiya, Maiyon, MaiyÃ£, Shuthun]
+alt_names: [Dardu, Khili, Kohistani, "Kohistani, Indus", Kohiste, Mair, Maiya, Maiyon, MaiyÃ£, Shuthun, Bankad, Duber, Duber-Kandia, Indus, Jijal, Mani, Manzari, Pattan, Ranolia, Seo]
 population: 200000
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: "Indo-Aryan language spoken in Khyber Pakhtunkhwa, Pakistan"
 status_id: 6a
 scope: individual
 language_type: living

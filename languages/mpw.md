@@ -6,6 +6,7 @@ alt_names: [Madipian, Mahuayana, Maiopitian, Maopidian, Maopityan, Mapidi, Mapid
 population: null
 country_id: BR
 country_name: Brazil
+area: Arawakan language of South America
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ken, Keng, Kenkha, Khen, Kheng, Khenkha, Kyengkha]
 population: 31500
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Bodish language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

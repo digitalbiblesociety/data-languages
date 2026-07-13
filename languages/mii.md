@@ -6,6 +6,8 @@ alt_names: [Acatlán Mixtec, Central Misteko, Central Puebla Mixtec, Centreal Mi
 population: 1600
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Mixtec language of Puebla, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

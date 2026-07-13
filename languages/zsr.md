@@ -3,14 +3,18 @@ iso: zsr
 macrolanguage_id: zap
 name: Southern Rincon Zapotec
 autonym: "Zapotec, Southern Rincon"
+alt_names: [Zapotec, Southern Rincon, Zapoteco de Rincón Sur, Rincón del sur Zapotec]
 population: 12000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Zapotecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.30309
 longitude: -96.3775
+glottocode: sout3004
 wikidata_id: Q12954000
 translations:
   - translation_iso: ara
@@ -49,3 +53,4 @@ translations:
     name: 南里ンcon萨波特克语
     auto: true
 ---
+Rincón Zapotec is a Zapotec language of Oaxaca, Mexico.

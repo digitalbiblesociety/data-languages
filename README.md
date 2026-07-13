@@ -51,11 +51,14 @@ The order of keys is canonical see the `properties` block of `schema.json`.
 | `population`     | Integer, approximate speakers.                                         |
 | `country_id`     | ISO 3166-1 alpha-2 (uppercase).                                        |
 | `country_name`   | Free text country name.                                                |
+| `location`       | Free-text location where the language is spoken, sometimes with a map reference (e.g. `Nigeria, Map 6`). Migrated from DBS language records. |
+| `area`           | One-line characterization of the language and where it is spoken (e.g. `Edoid language spoken in Nigeria`). Migrated from DBS language records. |
 | `status_id`      | EGIDS scale — `0`–`10`, with `6a`/`6b`/`8a`/`8b`. Quoted as a string. |
 | `scope`          | ISO 639-3 code scope: `individual`, `macrolanguage`, or `special`. Populated by `tools/sources/iso639.go`. |
 | `language_type`  | ISO 639-3 language type: `living`, `extinct`, `ancient`, `historical`, `constructed`, or `special`. Populated by `tools/sources/iso639.go`. |
 | `latitude`       | Decimal degrees, `-90`..`90`.                                          |
 | `longitude`      | Decimal degrees, `-180`..`180`.                                        |
+| `language_map_img` | Filename of a language-area map image, served from `https://img.dbs.org/country/languages/{filename}`. Migrated from DBS language records. |
 | `scripts`        | Inline array of ISO 15924 codes (e.g. `[Latn, Cyrl]`). Cross-references the sibling `scripts/` repo. Populated by `tools/sources/cldr.go`. |
 | `glottocode`                | Glottolog languoid ID (e.g. `aari1239`). Populated by `tools/sources/glottolog.go`. |
 | `glottolog_family_id`       | Glottolog ID of the top-level family.                                       |

@@ -2,15 +2,18 @@
 iso: tgc
 name: Tigak
 autonym: Omo
-alt_names: [Neu-Mecklenburg]
+alt_names: [Neu-Mecklenburg, Central Tigak, Island Tigak, South Tigak, West Tigak]
 population: 6000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -2.70951
 longitude: 150.89272
+language_map_img: 500px-New_Ireland_Languages.webp
 glottocode: tiga1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

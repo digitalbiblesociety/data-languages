@@ -2,10 +2,11 @@
 iso: jvn
 name: Caribbean Javanese
 autonym: ꦧꦱꦗꦮباسا جاوا
-alt_names: ["Javanese, Caribbean", Suriname Javanese]
+alt_names: ["Javanese, Caribbean", Suriname Javanese, Javanese, Caribbean, Jawa Suriname, Suriname]
 population: 78370
 country_id: SR
 country_name: Suriname
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

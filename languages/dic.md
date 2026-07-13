@@ -6,6 +6,8 @@ alt_names: [Dida, "Dida, Lakota", Dieko, Gabo, Guébie, Satro, Vata, Ziki]
 population: 93800
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru dialect cluster of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+Dida is a dialect cluster of the Kru family spoken in Ivory Coast.

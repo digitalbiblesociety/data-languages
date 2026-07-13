@@ -2,10 +2,12 @@
 iso: skm
 name: Kutong
 autonym: Kutong
-alt_names: [Sakam]
+alt_names: [Sakam, Dinangat]
 population: 510
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Finisterre language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

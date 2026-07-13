@@ -6,6 +6,8 @@ alt_names: [Banks-Inseln, Merlav-Merig, Mwerlap]
 population: 1550
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living

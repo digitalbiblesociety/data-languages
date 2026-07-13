@@ -7,6 +7,7 @@ alt_names: [An Íoslainnis, Eeslynnish, IJslands, Icelandic leid, Ieslaans, Iesl
 population: 328080
 country_id: IS
 country_name: Iceland
+area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living

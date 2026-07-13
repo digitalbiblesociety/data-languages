@@ -5,11 +5,13 @@ autonym: Carquin
 population: null
 country_id: US
 country_name: United States
+area: Ohlone language of North America
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 40.56
 longitude: -122.167
+language_map_img: Ohlone_color_map.svg
 glottocode: kark1259
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan

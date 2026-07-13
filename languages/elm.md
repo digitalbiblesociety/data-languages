@@ -2,10 +2,12 @@
 iso: elm
 name: Eleme
 autonym: null
-alt_names: [Nigeria]
+alt_names: [Nigeria, Nchia, Odido]
 population: 58000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

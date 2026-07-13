@@ -2,10 +2,12 @@
 iso: kqr
 name: Kimaragang
 autonym: Kimaragan
-alt_names: [Kimaragangan, Maragang, Marigang]
+alt_names: [Kimaragangan, Maragang, Marigang, Garo, Pitas Kimaragang, Sandayo, Sonsogon, Tandek]
 population: 25000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

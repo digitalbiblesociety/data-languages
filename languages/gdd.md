@@ -2,10 +2,12 @@
 iso: gdd
 name: Gedaged
 autonym: Bel
-alt_names: [Graged, Mitebog, Ragetta, Rio, Sek, Star, Star-Ragetta, Szeak-Bagili, Tiara]
+alt_names: [Graged, Mitebog, Ragetta, Rio, Sek, Star, Star-Ragetta, Szeak-Bagili, Tiara, Siar, Siar-Ragetta]
 population: 6950
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

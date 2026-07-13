@@ -2,10 +2,12 @@
 iso: ktt
 name: Ketum
 autonym: Kitum
-alt_names: [Indonesia]
+alt_names: [Indonesia, Wambon-Ketum]
 population: 900
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Dumut language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -73,3 +75,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Papua"
 ---
+Wambon is a Papuan language of Papua, Indonesia.

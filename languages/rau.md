@@ -6,6 +6,8 @@ alt_names: [Bot̪o Boli, Harka Gurung, Khamchi, Khāmci, Rautye]
 population: 130
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan of Nepal
 status_id: 6b
 scope: individual
 language_type: living

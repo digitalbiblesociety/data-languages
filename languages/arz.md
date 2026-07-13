@@ -3,15 +3,18 @@ iso: arz
 macrolanguage_id: ara
 name: Egyptian Arabic
 autonym: اللهجه المصريه
-alt_names: [Araba egipteană, Arabe echipcio, Arabe égyptien, Arabeg Egipt, Arabic, Arabic (Cairene Egyptian Colloquial), Arabic (Cairene), Arabic (Colloquial Egyptian), Arabic (Eastern), Arabic (Egyptian), "Arabic, Egyptian", "Arabic, Egyptian Spoken", Dialekt egipski języka arabskiego, Egipatski arapski, Egyptian, Egyptian Colloquial Arabic, Egyptian Spoken, Egyptisk arabiska, Lower Egypt Arabic, Massry, Normal Egyptian Arabic, Árabe egipcio, Árabe egípcio, Ägyptisch-Arabisch, ערבית מצרית, اللغه المصريه الحديثه, لهجة مصرية]
+alt_names: [Araba egipteană, Arabe echipcio, Arabe égyptien, Arabeg Egipt, Arabic, Arabic (Cairene Egyptian Colloquial), Arabic (Cairene), Arabic (Colloquial Egyptian), Arabic (Eastern), Arabic (Egyptian), "Arabic, Egyptian", "Arabic, Egyptian Spoken", Dialekt egipski języka arabskiego, Egipatski arapski, Egyptian, Egyptian Colloquial Arabic, Egyptian Spoken, Egyptisk arabiska, Lower Egypt Arabic, Massry, Normal Egyptian Arabic, Árabe egipcio, Árabe egípcio, Ägyptisch-Arabisch, ערבית מצרית, اللغه المصريه الحديثه, لهجة مصرية, Masri, العربية, Cairene Arabic, Modern Egyptian Language, North Delta Arabic, South Central Delta Arabic]
 population: 68000000
 country_id: EG
 country_name: Egypt
+location: Egypt and Libya
+area: Arabic variety spoken in Egypt
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 31
 longitude: 31
+language_map_img: arz.webp
 scripts: [Arab]
 glottocode: egyp1253
 glottolog_family_id: afro1255

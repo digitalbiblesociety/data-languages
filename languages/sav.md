@@ -2,10 +2,12 @@
 iso: sav
 name: "Saafi-Saafi"
 autonym: "Saafi-Saafi"
-alt_names: [Saafi, Safen, Safi, Safi-Safi, Sereer Saafen, Serer-Safen, Serere-Saafen]
+alt_names: [Saafi, Safen, Safi, Safi-Safi, Sereer Saafen, Serer-Safen, Serere-Saafen, Boukhou, Diobass, Hasab, Saafen, Sebikotane, Sindia]
 population: 200000
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Cangin language spoken in Senegal
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Borto, Ittik, Ittik-Tor]
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Foja Range language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

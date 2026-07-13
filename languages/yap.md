@@ -6,6 +6,8 @@ alt_names: [Yap, Yapees, Yapesisk, yapois]
 population: 5130
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Oceanic language spoken in Micronesia
 status_id: "2"
 scope: individual
 language_type: living

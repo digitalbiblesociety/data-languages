@@ -6,6 +6,7 @@ alt_names: ["Danish, Traveller", Rodi, Rotwelsch]
 population: 100
 country_id: DK
 country_name: Denmark
+area: Para-Romani dialect spoken by the Romanisael
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -5,6 +5,8 @@ autonym: Bintaoena
 population: 12000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Language of North Sulawesi
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: tui
 name: Tupuri
 autonym: Dema
-alt_names: [Honya, Mata, Ndoore, Ndore, Tongoyna, Toubouri, Toupoureg, Toupouri, Tuburi, Wina]
+alt_names: [Honya, Mata, Ndoore, Ndore, Tongoyna, Toubouri, Toupoureg, Toupouri, Tuburi, Wina, Bang-Ling, Bang-Were, Faale-Piyew, Podokge, Tpuri, jäāk Tpür, jäāk Tüpür, jäāk Tüpürï]
 population: 321000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Language of Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

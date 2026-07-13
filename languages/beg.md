@@ -6,6 +6,8 @@ alt_names: [Balait Jati, Meting]
 population: 1000
 country_id: BN
 country_name: Brunei
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Brunei and Malaysia
 status_id: "7"
 scope: individual
 language_type: living

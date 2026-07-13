@@ -2,10 +2,12 @@
 iso: nnb
 name: Nande
 autonym: Yira
-alt_names: [Kinande, Kinandi, Nandi, Ndande, Northern Nande, Orundande]
+alt_names: [Kinande, Kinandi, Nandi, Ndande, Northern Nande, Orundande, Banande, Bayira, Ekikira, Ekikumbule, Ekimate, Ekisanza, Ekishu, Ekisongoora, Ekiswaga, Ekitangi, Ekiyira, Kumbule, Mate, Ndandi, Nyangala, Sanza, Shu, Songola, Swaga, Tangi]
 population: 903000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living

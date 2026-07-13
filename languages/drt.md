@@ -2,14 +2,18 @@
 iso: drt
 name: Drents
 autonym: Dreins
+alt_names: [Drente]
 population: 255000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: "Westphalian dialects of Drenthe, Netherlands"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 52.9024
 longitude: 6.51539
+glottocode: dren1238
 wikidata_id: Q2736709
 wikipedia_url: "https://en.wikipedia.org/wiki/Dr%C3%A8ents_dialects"
 translations:

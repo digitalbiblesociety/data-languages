@@ -6,6 +6,8 @@ alt_names: [Laluo, Lolo, Naluo, Naruo, Qiao-Wu Yi, Qiaojia-Wuding Yi, Shui Yi, S
 population: 15000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language of Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

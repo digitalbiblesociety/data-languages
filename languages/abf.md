@@ -5,6 +5,8 @@ autonym: null
 population: 1000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: "7"
 scope: individual
 language_type: living

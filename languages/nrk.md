@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal language of Western Australia
 status_id: null
 scope: individual
 language_type: living

@@ -5,6 +5,7 @@ autonym: null
 population: 50
 country_id: PK
 country_name: Pakistan
+area: Indo-European language spoken in Pakistan
 status_id: null
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ami, Amijangal, Bachamal, Bajamala, Batjamal, Batjamalh, Batjemal, B
 population: 5
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Endangered Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

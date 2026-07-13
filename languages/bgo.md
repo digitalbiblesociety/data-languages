@@ -2,10 +2,11 @@
 iso: bgo
 name: Baga Koga
 autonym: Barka
-alt_names: [Baga, Koba, Koga, Temne]
+alt_names: [Baga, Koba, Koga, Temne, Baka]
 population: 5000
 country_id: GN
 country_name: Guinea
+area: Temne dialect cluster spoken in Guinea
 status_id: 8b
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 巴加科加语
     auto: true
 ---
+Baga, or Barka, is a dialect cluster spoken by the Baga people of coastal Guinea. The name derives from the phrase bae raka Slaves trading place and understood by the local as 'people of the seaside' outcast people. Most Baga are bilingual in the Mande language Susu, the official regional language. Two ethnically Baga communities, Sobané and Kaloum, are known to have abandoned their (unattested) language altogether in favour of Susu.

@@ -6,6 +6,7 @@ alt_names: [Lhéchelesem, Nootsack, Nucsaqués, Nuksahk, łə́čələsəm, ɬə
 population: null
 country_id: US
 country_name: United States
+area: Revived Salish language of Washington state
 status_id: "9"
 scope: individual
 language_type: extinct

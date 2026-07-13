@@ -6,11 +6,13 @@ alt_names: [Cholon, Cholona, Seeptsa, Tinganeses]
 population: 2021
 country_id: PE
 country_name: Peru
+area: Language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -9.23129
 longitude: -75.96211
+language_map_img: 500px-Lenguas_del_obispado_de_Trujillo.webp
 glottocode: chol1284
 glottolog_family_id: hibi1242
 glottolog_family_name: Hibito-Cholon

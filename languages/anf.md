@@ -6,6 +6,8 @@ alt_names: [Kunda]
 population: 700
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Language spoken in Ghana
 status_id: "7"
 scope: individual
 language_type: living

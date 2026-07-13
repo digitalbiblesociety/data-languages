@@ -6,6 +6,8 @@ alt_names: [Fuyughe, Mafufu, Mafulu]
 population: 14000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Goilalan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

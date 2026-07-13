@@ -6,6 +6,8 @@ alt_names: [OCMSL, Old Chiangmai Sign Language, Original Chiangmai Sign Language
 population: 10
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Secondary sign language of Thailand
 status_id: "7"
 scope: individual
 language_type: living

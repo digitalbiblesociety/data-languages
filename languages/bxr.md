@@ -3,15 +3,18 @@ iso: bxr
 macrolanguage_id: bua
 name: Russia Buriat
 autonym: Buriat
-alt_names: ["Buriat, Russia", Buriat-Mongolian, Burjatisch, Buryat, Northern Mongolian, Russian Buriat, Western Buryat, buriaad xelen, buryaad xelen, буриад аялгуу]
+alt_names: ["Buriat, Russia", Buriat-Mongolian, Burjatisch, Buryat, Northern Mongolian, Russian Buriat, Western Buryat, buriaad xelen, buryaad xelen, буриад аялгуу, Alar, Barguzin, Bohaan, Bokhan, Ekhirit-Bulagat, Khori, Ninzne-Udinsk, Oka, Russia, Selengin, Tunka, Unga]
 population: 461000
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Mongolic language of Buryatia (Russia) and neighbouring areas
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 50.85331
 longitude: 105.5637
+language_map_img: 500px-Idioma_buriato.webp
 glottocode: russ1264
 glottolog_family_id: mong1349
 glottolog_family_name: Mongolic-Khitan
@@ -111,3 +114,4 @@ rolv_dialects:
     country_id: RU
     location: Russia
 ---
+Buryat or Buriat, known in foreign sources as the Bargu-Buryat dialect of Mongolian, and in pre-1956 Soviet sources as Buryat-Mongolian, is a variety of the Mongolic languages spoken by the Buryats and Bargas that is classified either as a language or major dialect group of Mongolian.

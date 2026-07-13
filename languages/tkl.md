@@ -6,6 +6,7 @@ alt_names: [Fakaafo, Tokelauan, Tokelauan language, Tokelauano, Tokelauanska, To
 population: 1410
 country_id: TK
 country_name: Tokelau
+area: Polynesian language spoken in Tokelau
 status_id: "5"
 scope: individual
 language_type: living

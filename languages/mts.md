@@ -2,9 +2,12 @@
 iso: mts
 name: Yora
 autonym: Yaminahua
+alt_names: [Manu Park Panoan, Nahua, Parquenahua, Yoranahua, Yura, Yurahahua]
 population: 380
 country_id: PE
 country_name: Peru
+location: Peru
+area: Panoan language of western Amazonia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: shi
 name: Tachelhit
 autonym: Tashelhiyt
-alt_names: [Chleuh, Shandu, Shendu, Shilha, Shilha/Tashlhiyt, Southern Shilha, Susiua, Tacelḥit, Tachelhait, Tacheliteg, Tachilhit, Taschelhit, Tashelhait, Tashelhayt, Tashelheyt, Tashelhit, Tashelhit Berber, Tashelit, Tashilheet, Tashlhiyt, Tasoussit, Taxelhit, Śandu, لهجة تاشلحيت]
+alt_names: [Chleuh, Shandu, Shendu, Shilha, Shilha/Tashlhiyt, Southern Shilha, Susiua, Tacelḥit, Tachelhait, Tacheliteg, Tachilhit, Taschelhit, Tashelhait, Tashelhayt, Tashelheyt, Tashelhit, Tashelhit Berber, Tashelit, Tashilheet, Tashlhiyt, Tasoussit, Taxelhit, Śandu, لهجة تاشلحيت, Sousse, Soussiya, Sus, Susiya, Tachelheit, Tashelheit]
 population: 5118000
 country_id: MA
 country_name: Morocco
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Berber language of southwestern Morocco
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 29.785385
 longitude: -7.778785
+language_map_img: Tachelhit.webp
 scripts: [Arab, Latn, Tfng]
 glottocode: tach1250
 glottolog_family_id: afro1255

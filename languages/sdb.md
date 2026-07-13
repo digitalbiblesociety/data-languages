@@ -6,6 +6,7 @@ alt_names: ["Iraq, Iran", Shabaki language]
 population: 250000
 country_id: IQ
 country_name: Iraq
+area: Indo-Iranian language of Iraq
 status_id: "7"
 scope: individual
 language_type: living

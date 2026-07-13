@@ -2,15 +2,18 @@
 iso: tab
 name: Tabassaran
 autonym: табасаран чIал tabasaran ҫ̇al
-alt_names: [Ghumghum, Tabasaraans, Tabasaran, Tabasaran language, Tabasaranera, Tabasarano, Tabasarantsy, Tabasareg, tabasaran č’al, табасаран чIал, Թաբասարաներեն]
+alt_names: [Ghumghum, Tabasaraans, Tabasaran, Tabasaran language, Tabasaranera, Tabasarano, Tabasarantsy, Tabasareg, tabasaran č’al, табасаран чIал, Թաբասարաներեն, табасаран, Khanag, North Tabasaran, South Tabasaran, Tabasarantsky]
 population: 126980
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Lezgic language of southern Dagestan, Russia"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 42.01976
 longitude: 47.83791
+language_map_img: 500px-Caucasus-ethnic_tabasaren.webp
 scripts: [Cyrl]
 glottocode: taba1259
 glottolog_family_id: nakh1245

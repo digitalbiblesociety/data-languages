@@ -6,6 +6,7 @@ alt_names: [Vimisoyeg, Vımısörışa tili, Wilamowicean, Wilamowicien, Wilamow
 population: 70
 country_id: PL
 country_name: Poland
+area: "West Germanic language spoken in Wilamowice, Poland"
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: fkk
 name: "Kirya-Konzəl"
 autonym: Fali
+alt_names: [Fali of Kiria, Fali South, Fali of Kiriya, Fali of Kirya, Fali of Mijilu, Karya, Kirya, Konzal, myá Kákíryà, myá Kónzə̀l]
 population: 5800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

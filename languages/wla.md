@@ -5,6 +5,8 @@ autonym: null
 population: 227
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Sepik language of Papua-New Guinea
 status_id: 6a
 scope: individual
 language_type: living

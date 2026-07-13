@@ -2,15 +2,18 @@
 iso: ibl
 name: Ibaloi
 autonym: Ibaloy
-alt_names: [Benguet-Igorot, Ibadoy, Igodor, Inibaloi, Nabaloi]
+alt_names: [Benguet-Igorot, Ibadoy, Igodor, Inibaloi, Nabaloi, Bokod, Daklan, Kabayan]
 population: 116000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.42625
 longitude: 120.69508
+language_map_img: 500px-Ibaloi_language_map.webp
 glottocode: ibal1244
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

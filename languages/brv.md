@@ -2,10 +2,12 @@
 iso: brv
 name: Western Bru
 autonym: Bruu
-alt_names: ["B'ru", Baroo, Baru, Brou, Bru, "Bru, Western", Leu, Leung, Muong Leong, Quàngtri Vân Kiêu, Tri, Western]
+alt_names: ["B'ru", Baroo, Baru, Brou, Bru, "Bru, Western", Leu, Leung, Muong Leong, Quàngtri Vân Kiêu, Tri, Western, B’ru]
 population: 20000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: "7"
 scope: individual
 language_type: living
@@ -69,3 +71,4 @@ rolv_dialects:
     country_id: TH
     location: "Thailand, Northeastern, Ubon Ratchathani"
 ---
+Bruu is a Mon–Khmer dialect continuum spoken by the Bru people of mainland Southeast Asia. Sô and Khua are dialects.

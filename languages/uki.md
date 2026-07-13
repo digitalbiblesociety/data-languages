@@ -2,12 +2,15 @@
 iso: uki
 name: Kui
 autonym: କୁଈ
+alt_names: [Kanda, Kandh, Khond, Khondi, Khondo, Kodu, Kodulu, Kuinga, Kuy]
 population: 645000
 country_id: IN
 country_name: India
+area: Dravidian language spoken in Eastern India
 status_id: null
 scope: individual
 language_type: living
+language_map_img: Languages_of_Odisha.webp
 wikidata_id: Q33919
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(India)"
 translations:

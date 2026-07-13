@@ -2,15 +2,18 @@
 iso: cho
 name: Choctaw
 autonym: Chahta
-alt_names: [Chahta simi, "Chahta'", Tchoktaweg, ჩოქტაუ]
+alt_names: [Chahta simi, "Chahta'", Tchoktaweg, ჩოქტაუ, Chahta Anumpa]
 population: 9640
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Muskogean language spoken in US
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 33.89928
 longitude: -94.81899
+language_map_img: Choctaw_USC2000_PHS.svg
 scripts: [Latn]
 glottocode: choc1276
 glottolog_family_id: musk1252

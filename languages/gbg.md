@@ -6,6 +6,8 @@ alt_names: [Gbandere, Gbanzili, "Gbanzili-'Bolaka"]
 population: 14500
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Ubangian language of the CAR and DR Congo
 status_id: 6a
 scope: individual
 language_type: living

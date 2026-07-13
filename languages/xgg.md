@@ -2,12 +2,15 @@
 iso: xgg
 name: Goreng
 autonym: Noongar
+alt_names: [Corine]
 population: 240
 country_id: AU
 country_name: Australia
+area: Southwestern Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
+language_map_img: Noongar_regions_map.svg
 wikidata_id: Q50934914
 wikipedia_url: "https://en.wikipedia.org/wiki/Goreng_language"
 translations:

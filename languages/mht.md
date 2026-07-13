@@ -6,6 +6,8 @@ alt_names: [Arihini, Cunipusana, Ihini, Maldavaca, Mandauaca, Mandawaca, Mandaw√
 population: 3000
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Arawakan language spoken in Venezuela
 status_id: 8b
 scope: individual
 language_type: living

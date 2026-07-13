@@ -6,6 +6,8 @@ alt_names: [Mozi, Southern, Tujia, Tujia du sud, Tujia meridional, "Tujia, South
 population: 1500
 country_id: CN
 country_name: China
+location: Southern China
+area: Sino-Tibetan language spoken in China
 status_id: 8a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 孟兹语
 ---
+The Tujia language is a Sino-Tibetan language spoken natively by the Tujia people in Hunan Province, China. It is unclassified within the Sino-Tibetan language family, due to pervasive influence from neighboring languages. There are two mutually unintelligible variants, Northern and Southern. Both variants are tonal languages with the tone contours of. Northern Tujia has 21 initials, whereas Southern Tujia has 26. As for the finals, Northern Tujia has 25 and Southern Tujia has 30, 12 of which are used exclusively in loanwords from Chinese. Its verbs make a distinction of active and passive voices. Its pronouns distinguish the singular and plural numbers along with the basic and possessive cases. As of 2005, the number of speakers was estimated at 70,000 for Northern Tujia and 1,500 for Southern Tujia, out of an ethnic population of 8 million.

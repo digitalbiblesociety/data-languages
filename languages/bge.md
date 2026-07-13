@@ -6,6 +6,8 @@ alt_names: [Badak, Baori, Basria, Bawari, Bawaria, Bhoria, Vaghri]
 population: 63000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

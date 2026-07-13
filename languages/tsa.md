@@ -2,10 +2,12 @@
 iso: tsa
 name: Tsaangi
 autonym: Icaangi
-alt_names: [Batsangui, Icaangui, Itsaangi, Itsangi, Tcengui, Tchangui, Tsangi]
+alt_names: [Batsangui, Icaangui, Itsaangi, Itsangi, Tcengui, Tchangui, Tsangi, Itsengi, Tsengi]
 population: 13600
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living

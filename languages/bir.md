@@ -6,6 +6,8 @@ alt_names: [Bi, Bigalu, Bikaru, Bugalu, Gne, Iniai, Inyai-Gadio-Bisorio, Pikaru,
 population: 260
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Engan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, East Sepik"
 ---
+Nete, also known as Bisorio, Malamauda, or Iniai, is an Engan language spoken in Papua New Guinea.

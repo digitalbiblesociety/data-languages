@@ -2,10 +2,12 @@
 iso: bda
 name: Bayot
 autonym: Baiot
-alt_names: [Baiote, Bayote, Bayotte]
+alt_names: [Baiote, Bayote, Bayotte, Essin, Jola Bayote, Kugere-Kuxinge]
 population: 28340
 country_id: SN
 country_name: Senegal
+location: Guinea and Guinea-Bissau
+area: Jola language spoken in Senegal
 status_id: 6a
 scope: individual
 language_type: living

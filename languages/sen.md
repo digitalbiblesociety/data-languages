@@ -6,11 +6,14 @@ alt_names: [Nandereke, Nandergé, Nanergué, Nanergé, Nanerige Senoufo, "Sénou
 population: 50000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Senufo language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.75478
 longitude: -4.92148
+language_map_img: 500px-Nanerige_language.webp
 glottocode: nane1238
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

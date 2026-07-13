@@ -5,11 +5,14 @@ autonym: null
 population: 980
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Bantu language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 10.30688
 longitude: 9.11434
+glottocode: gwaa1239
 wikidata_id: Q5623219
 wikipedia_url: "https://en.wikipedia.org/wiki/Gwa_language"
 translations:

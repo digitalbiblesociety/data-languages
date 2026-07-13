@@ -7,6 +7,7 @@ alt_names: [Baluj, Jataki, Jati, Jatu, Kayani, Lahnda, Musali]
 population: null
 country_id: AF
 country_name: Afghanistan
+area: Indo-Aryan language of Afghanistan
 status_id: 6b
 scope: individual
 language_type: living

@@ -3,15 +3,18 @@ iso: nan
 macrolanguage_id: zho
 name: Min Nan Chinese
 autonym: Minnan
-alt_names: [Bân-lâm-gú, Chaozhou, Chaozhou Chinese, Chinese, Chinese (Chaozhou), Chinese (Hokkien), "Chinese, Min Nan", "Chinese,MinNan", Ho-ló-fa, Hokkien, Hokkien Chinese, Min, Min (Southern), Min (Southern) dialect (Minnan), Min Dialect Family, Min Nan, Min-Nan, Mineg ar su, Minish Yiass, Mìng-nàng-ngṳ̄, Southern Min, Taiwanese, Xiamen, Zuidelijk Min, مين نان, 閩南話]
+alt_names: [Bân-lâm-gú, Chaozhou, Chaozhou Chinese, Chinese, Chinese (Chaozhou), Chinese (Hokkien), "Chinese, Min Nan", "Chinese,MinNan", Ho-ló-fa, Hokkien, Hokkien Chinese, Min, Min (Southern), Min (Southern) dialect (Minnan), Min Dialect Family, Min Nan, Min-Nan, Mineg ar su, Minish Yiass, Mìng-nàng-ngṳ̄, Southern Min, Taiwanese, Xiamen, Zuidelijk Min, مين نان, 閩南話, Tâi-gú, Amoy, Banlamgi, Chaenzo, Changchew, Chao-Shan, Chaochow, Chinchew, Chiu Chao, Choushan, Fujian, Fujianese, Fukien, Fukienese, Hainan, Hainanese, Hokkien Amoy, Lei Hua, Leizhou, Li Hua, Longdu, Mai, Min Nam, Qiongwen Hua, Quanzhou, Sanso, Shantou, Swatow, Taechew, Taiwanese (Min Nan), Techu, Teochew, Teochiu, Teochow, Tiu Chiu, Tiuchiu, Wenchang, Zhangzhou, Zhenan Min]
 population: 50100000
 country_id: CN
 country_name: China
+location: Southern China
+area: Branch of the Min Chinese languages
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 24.5
 longitude: 118.17
+language_map_img: Min_dialect_map.svg
 scripts: [Hans, Hant]
 glottocode: minn1241
 glottolog_family_id: sino1245

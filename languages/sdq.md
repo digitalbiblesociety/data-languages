@@ -2,10 +2,11 @@
 iso: sdq
 name: "Semandang\r"
 autonym: bahasa Kualan-Semandang
-alt_names: [Semandang]
+alt_names: [Semandang, Semanang, Semandang-Kualan, Simpang]
 population: 100000
 country_id: IN
 country_name: India
+location: "Asia, Southeast"
 status_id: null
 scope: individual
 language_type: living

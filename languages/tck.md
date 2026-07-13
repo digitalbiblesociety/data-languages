@@ -5,6 +5,8 @@ autonym: Tchitchege
 population: 2000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: "7"
 scope: individual
 language_type: living

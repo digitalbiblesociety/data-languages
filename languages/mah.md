@@ -3,15 +3,17 @@ iso: mah
 iso639_1: mh
 name: Marshallese
 autonym: Ebon
-alt_names: [Marchalleg, Marshall-Inseln, Marshallais, Marshallees, Marshallesisk, Marshallesiska, marshall]
+alt_names: [Marchalleg, Marshall-Inseln, Marshallais, Marshallees, Marshallesisk, Marshallesiska, marshall, Ratak, Rälik]
 population: 61000
 country_id: MH
 country_name: Marshall Islands
+area: Micronesian language of the Marshall Islands
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 3.129645
 longitude: 170.46258
+language_map_img: Micronesian_languages.en.webp
 scripts: [Latn]
 glottocode: mars1254
 glottolog_family_id: aust1307

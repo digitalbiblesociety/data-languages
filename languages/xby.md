@@ -2,13 +2,15 @@
 iso: xby
 name: Batjala
 autonym: Kabikabi
-alt_names: [Batyala]
+alt_names: [Batyala, Badjela]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp
 wikidata_id: Q31752631
 translations:
   - translation_iso: ara
@@ -45,3 +47,4 @@ translations:
     name: 巴奇亚拉语
     auto: true
 ---
+Gubbi Gubbi, also spelt Kabi Kabi, is a language of Queensland in Australia, formerly spoken by the Kabi Kabi people of South-east Queensland. The main dialect, Gubbi Gubbi, is extinct, but there are still 24 people with knowledge of the Butchulla dialect, a language spoken by the Butchulla people of K'gari.

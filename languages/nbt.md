@@ -6,6 +6,8 @@ alt_names: [India]
 population: 1500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Sino-Tibetan language of Arunachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living

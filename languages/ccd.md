@@ -6,6 +6,8 @@ alt_names: ["Creole, Cafundo"]
 population: 40
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Secret language
 status_id: 8b
 scope: individual
 language_type: living

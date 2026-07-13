@@ -2,10 +2,12 @@
 iso: mto
 name: Totontepec Mixe
 autonym: North Highland Mixe
-alt_names: [Ayuk, Mije, Mixe, Mixe (Totontepec), "Mixe, Totontepec", Mize (Totontepec), Northern Highland Mije, Northern Highland Mixe, Northwestern Mixe, Oaxaca Mije, Tetontepec, Totontepec, Totontepec dialect]
+alt_names: [Ayuk, Mije, Mixe, Mixe (Totontepec), "Mixe, Totontepec", Mize (Totontepec), Northern Highland Mije, Northern Highland Mixe, Northwestern Mixe, Oaxaca Mije, Tetontepec, Totontepec, Totontepec dialect, Mixe Alto del Norte, Mixe de Norte]
 population: 5470
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixe language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living

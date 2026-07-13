@@ -2,10 +2,12 @@
 iso: bdv
 name: Bodo Parja
 autonym: Jharia
-alt_names: [Bodo Paraja, Harja, Jhaliya, Jhodia Parja, Parajhi, Parja, Parjhi, Parji, Paroja, Poroja, Sodia Parja]
+alt_names: [Bodo Paraja, Harja, Jhaliya, Jhodia Parja, Parajhi, Parja, Parjhi, Parji, Paroja, Poroja, Sodia Parja, Bado Parja, Bodoporja]
 population: 50000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Odia dialect spoken in India
 status_id: "5"
 scope: individual
 language_type: living

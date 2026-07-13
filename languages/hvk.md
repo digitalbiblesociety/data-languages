@@ -2,10 +2,12 @@
 iso: hvk
 name: Haveke
 autonym: Aveke
-alt_names: ["'Aveke", Haeke, Hmwaveke, Neukaledonien]
+alt_names: ["'Aveke", Haeke, Hmwaveke, Neukaledonien, ’Aveke]
 population: 300
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

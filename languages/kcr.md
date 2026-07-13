@@ -6,6 +6,8 @@ alt_names: [Akalak, Catla, Kalak]
 population: 14200
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Katla language of Sudan
 status_id: 6b
 scope: individual
 language_type: living

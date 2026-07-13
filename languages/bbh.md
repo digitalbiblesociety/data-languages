@@ -6,6 +6,8 @@ alt_names: [Bengan, Bogan, Bugán, Hualo, Huazu, Pukan]
 population: 2700
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Austroasiatic language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

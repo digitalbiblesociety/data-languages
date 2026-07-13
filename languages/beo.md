@@ -2,10 +2,12 @@
 iso: beo
 name: Beami
 autonym: Bedamini
-alt_names: [Bedamuni, Beothuc, Beothuk, Bethuck, Bethuk, Mougulu, Newfoundland, Red Indians]
+alt_names: [Bedamuni, Beothuc, Beothuk, Bethuck, Bethuk, Mougulu, Newfoundland, Red Indians, Komofio, North Beami]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

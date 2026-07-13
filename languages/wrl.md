@@ -6,6 +6,8 @@ alt_names: [Albura, Alpira, Alpiri, Elpira, Ilpara, Ilpira, Ilpirra, Nam bulatji
 population: 30
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: tvw
 name: Sedoa
 autonym: Tawailia
-alt_names: [Tawaelia]
+alt_names: [Tawaelia, Baria, Topobaria, Tawelia]
 population: 600
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

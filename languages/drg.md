@@ -2,10 +2,12 @@
 iso: drg
 name: Rungus
 autonym: Dusun Dayak
-alt_names: [Dayak, Melobong Rungus, Memagun, Memogun, Momogun, Roongas, Rungus Dusun]
+alt_names: [Dayak, Melobong Rungus, Memagun, Memogun, Momogun, Roongas, Rungus Dusun, Dayak Laut, Gandahon, Gonsomon, Kadazan, Melubong Rungus, Nuluw, Pilapazan]
 population: 55000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

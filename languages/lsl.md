@@ -2,9 +2,11 @@
 iso: lsl
 name: Latvian Sign Language
 autonym: Latviešu zīmju valoda
+alt_names: [LZV]
 population: 2000
 country_id: LV
 country_name: Latvia
+area: Sign language used in Latvia
 status_id: 6a
 scope: individual
 language_type: living

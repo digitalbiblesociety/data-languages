@@ -6,6 +6,8 @@ alt_names: [Amiapé, Amniapa, Amniapé, Canoé, Kanoé, Mekem, Mekens, Meké, Me
 population: 22
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

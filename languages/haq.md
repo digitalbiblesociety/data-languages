@@ -2,10 +2,12 @@
 iso: haq
 name: Ha
 autonym: Ikiha
-alt_names: [Giha, Kiha]
+alt_names: [Giha, Kiha, Igiha, Ruha, Ruhaa]
 population: 1230000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

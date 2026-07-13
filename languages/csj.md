@@ -2,10 +2,11 @@
 iso: csj
 name: Songlai Chin
 autonym: Hio
-alt_names: ["Chin, Songlai"]
+alt_names: ["Chin, Songlai", Doitu, Hettui, Lai, Mang Um, Song]
 population: 7300
 country_id: MM
 country_name: Myanmar
+area: Kuki-Chin language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

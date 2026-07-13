@@ -2,10 +2,12 @@
 iso: mgc
 name: Morokodo
 autonym: null
-alt_names: ["Ma'di", Morocodo]
+alt_names: ["Ma'di", Morocodo, Ma’di, Biti, "Ma'du"]
 population: 50000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language spoken in South Sudan
 status_id: "4"
 scope: individual
 language_type: living

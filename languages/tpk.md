@@ -2,14 +2,17 @@
 iso: tpk
 name: Tupinikin
 autonym: Tupinambá
+alt_names: [Tupinaki, Tupinikim, Tupiniquim]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Tupian language native to the indigenous peoples of southeastern Brazil
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -18.99999
 longitude: -40.41666
+glottocode: tupi1272
 wikidata_id: Q33924
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupiniquim_dialect"
 translations:

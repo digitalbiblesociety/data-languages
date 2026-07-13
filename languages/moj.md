@@ -6,6 +6,8 @@ alt_names: [Monjombo, Mono-Jembo, Munzombo]
 population: 12600
 country_id: CG
 country_name: Congo
+location: Northern Democratic Republic of Congo
+area: Ubangian language spoken in the Congos
 status_id: 6a
 scope: individual
 language_type: living

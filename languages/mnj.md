@@ -6,6 +6,8 @@ alt_names: [Munjani, Munjhan, Munjiwar, Munyí]
 population: 3770
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Iranian language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living

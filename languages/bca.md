@@ -2,10 +2,12 @@
 iso: bca
 name: Central Bai
 autonym: 白语 Báiyǔ
-alt_names: [Bai, "Bai, Central", "Bai,Central", Eryuan, Labbu, Leme, Minchia, Minjia, Minkia, Nama, Pai, Wu]
+alt_names: [Bai, "Bai, Central", "Bai,Central", Eryuan, Labbu, Leme, Minchia, Minjia, Minkia, Nama, Pai, Wu, Báiyǔ, Central, Heqing, Jianchuan, Lanping, Yunlong, Yunnan Bai]
 population: 800000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Sino-Tibetan language of Yunnan, southwestern China"
 status_id: 6a
 scope: individual
 language_type: living

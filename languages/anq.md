@@ -2,10 +2,12 @@
 iso: anq
 name: Jarawa
 autonym: Aong
-alt_names: [Jarawa, Jarawa (in Andamans), Jarawa language, Джарава]
+alt_names: [Jarawa, Jarawa (in Andamans), Jarawa language, Джарава, Jarawa (India)]
 population: 250
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Language of India
 status_id: 6a
 scope: individual
 language_type: living

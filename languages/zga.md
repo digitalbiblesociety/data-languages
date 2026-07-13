@@ -6,6 +6,8 @@ alt_names: [Kikinga]
 population: 217000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: TZ
     location: Tanzania
 ---
+Kinga is a Bantu language of the Kinga tribe in Tanzania. It is closely related to Magoma, but mutual intelligibility is low.

@@ -2,10 +2,12 @@
 iso: vag
 name: Vagla
 autonym: Konosarola
-alt_names: [Kira, Paxala, Siti, Sitigo, Vagala]
+alt_names: [Kira, Paxala, Siti, Sitigo, Vagala, Bole, Buge]
 population: 13900
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

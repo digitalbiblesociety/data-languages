@@ -2,10 +2,12 @@
 iso: sml
 name: Central Sama
 autonym: Bajau
-alt_names: [Central Sinama, "Sama, Central", Samal, Siasi Sama, Sinama]
+alt_names: [Central Sinama, "Sama, Central", Samal, Siasi Sama, Sinama, Badjaw, "Bajau Pela'u", Central, Orang Laut, Sama, Sama Deya, Sama Dilaut, "Sama Kabinga'an", Sama Laminusa, Sama Mandelaut, "Sama Pala'u", Sama Siasi, Sama Sitangkai, Sama Tabawan, Sama Ubian]
 population: 105000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language family of Borneo and the Philippines
 status_id: "4"
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao"
 ---
+The Sama–Bajaw languages are a well-established group of languages spoken by the Sama-Bajau peoples of the Philippines, Indonesia, and Malaysia.

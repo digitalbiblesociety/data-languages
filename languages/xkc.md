@@ -2,10 +2,11 @@
 iso: xkc
 name: "Kho'ini"
 autonym: Di
-alt_names: [Iran]
+alt_names: [Iran, Kho’ini]
 population: null
 country_id: IR
 country_name: Iran
+area: Indo-Iranian language
 status_id: "7"
 scope: individual
 language_type: living

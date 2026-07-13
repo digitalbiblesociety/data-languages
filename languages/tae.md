@@ -6,6 +6,8 @@ alt_names: [Tariano, Tariâna, Tarîna]
 population: 1500
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Maipurean language of Brazil
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: tyv
 name: Tuvinian
 autonym: тыва дыл
-alt_names: [Diba, Karagas, Kök Mungak, Sayan Samoyedic, Sojonisch, Sojotisch, South Siberian Turkic, Soyod, Soyon, Soyot, Tannu-Tuva, Toevaans, Tofa, Tokha, Touvain, Tuba, Tuva, Tuva-Uriankhai, Tuvaca, Tuvaeg, Tuvan, Tuvan language, Tuvia, Tuvin, Tuvinisch, Tuvinià, Tuvinsk, Tuvinska, Tuwa, Tuwa-Uriankhai, Tyva, Tyvan, Túvais, Uriangkhai, Uriankhai, Uriankhai-Monchak, Urjanchaisch, Uryankhai, Uryankhai-Monchak, touva, tyva dyl, טובאנית]
+alt_names: [Diba, Karagas, Kök Mungak, Sayan Samoyedic, Sojonisch, Sojotisch, South Siberian Turkic, Soyod, Soyon, Soyot, Tannu-Tuva, Toevaans, Tofa, Tokha, Touvain, Tuba, Tuva, Tuva-Uriankhai, Tuvaca, Tuvaeg, Tuvan, Tuvan language, Tuvia, Tuvin, Tuvinisch, Tuvinià, Tuvinsk, Tuvinska, Tuwa, Tuwa-Uriankhai, Tyva, Tyvan, Túvais, Uriangkhai, Uriankhai, Uriankhai-Monchak, Urjanchaisch, Uryankhai, Uryankhai-Monchak, touva, tyva dyl, טובאנית, Kök, Mungak, Central Tuvan, Khöwsögöl Uigur, Kizhi, Kokchulutan, Northeastern Tuvan, Southeastern Tuvan, SoyonSoyot, Todzhin, Tuba-Kizhi, Western Tuvan]
 population: 297000
 country_id: RU
 country_name: Russia
+location: China
+area: Sayan Turkic language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 48.43595
 longitude: 92.669263
+language_map_img: 500px-Tuvan_language_on_the_map.webp
 scripts: [Cyrl]
 glottocode: tuvi1240
 glottolog_family_id: turk1311

@@ -6,6 +6,8 @@ alt_names: [Omieg]
 population: 91000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kotoko-Maltam, Mandage, Mandagué, Mendage]
 population: 250
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Chad and Cameroon
 status_id: 8a
 scope: individual
 language_type: living

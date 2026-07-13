@@ -2,9 +2,12 @@
 iso: sgj
 name: Surgujia
 autonym: Suraji
+alt_names: [Surguja, Surgujia-Chhattisgarhi, Surjugia]
 population: 1740000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Dialect in Surguja Division Of Chhattisgarh
 status_id: 6a
 scope: individual
 language_type: living

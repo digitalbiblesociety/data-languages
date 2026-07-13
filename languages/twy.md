@@ -6,6 +6,8 @@ alt_names: [Dayak, Tabojan Tongka, Taboyan, Tabuyan, Tawoyan Dayak, Tewoyan]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 塔沃扬语
     auto: true
 ---
+The Northeast Barito languages consist of several East Barito languages belonging to distinct Dayak subgroups. The languages include Bentian, Benuaq, Lawangan, Paser, and Tawoyan, all of them are spoken in southeastern Kalimantan.

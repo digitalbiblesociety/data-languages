@@ -2,10 +2,12 @@
 iso: mtl
 name: Montol
 autonym: Tɛɛl
-alt_names: [Baltap, Montal, Montoil, Teel]
+alt_names: [Baltap, Montal, Montoil, Teel, Baltap-Lalin, Tehl]
 population: 21900
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afroasiatic language
 status_id: 6a
 scope: individual
 language_type: living

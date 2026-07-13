@@ -5,6 +5,7 @@ autonym: Teanga Chomharthaíochta na hÉireann
 population: 6550
 country_id: IE
 country_name: Ireland
+area: "Sign language of Ireland, used primarily in the Republic of Ireland"
 status_id: 6a
 scope: individual
 language_type: living

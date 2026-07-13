@@ -6,6 +6,8 @@ alt_names: [Chitties Creole Malay, "Creole Malay, Malaccan"]
 population: 300
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Language of Malaysia and Singapore
 status_id: 8a
 scope: individual
 language_type: living

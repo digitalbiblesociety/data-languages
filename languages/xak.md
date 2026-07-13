@@ -6,6 +6,7 @@ alt_names: [Maku]
 population: null
 country_id: VE
 country_name: Venezuela
+area: Extinct language of South America
 status_id: null
 scope: individual
 language_type: extinct

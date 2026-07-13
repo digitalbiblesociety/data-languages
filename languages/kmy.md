@@ -2,9 +2,12 @@
 iso: kmy
 name: Koma
 autonym: Kuma
+alt_names: [Bangru, Damti, Doobe, Doome, Gimbe, Gomme, Gomnome, Koma Damti, Koma Kadam, Koma Kampana, Koma Ndera, LIU, Laame, Leelu, Mbeya, Ndera, Panbe, Vomni, Yeru, Youtubo, Zanu]
 population: 35000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Savanna language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

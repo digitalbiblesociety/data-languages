@@ -6,11 +6,14 @@ alt_names: [Beseki, Bulu, Seke, Sekiana, Sekiani, Sekyani, Seseki, Sheke, Shekiy
 population: 11000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Language indigenous to Equatorial Guinea and Gabon.
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 1.523015
 longitude: 9.79206
+language_map_img: 500px-Idioma_seki.webp
 scripts: [Latn]
 glottocode: seki1238
 glottolog_family_id: atla1278

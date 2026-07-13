@@ -2,9 +2,12 @@
 iso: slu
 name: Selaru
 autonym: Salaru
+alt_names: [Kandar]
 population: 8000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: Austronesian language in Central Maluku
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: due
 name: Umiray Dumaget Agta
 autonym: Umiray Agta
-alt_names: ["Agta, Umiray Dumaget", Umirey Dumagat]
+alt_names: ["Agta, Umiray Dumaget", Umirey Dumagat, Anglat Agta, Dumagat-Bulos, Dumaget-Bulus, Polillo Island Agta]
 population: 3000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

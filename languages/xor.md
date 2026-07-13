@@ -6,6 +6,8 @@ alt_names: [Caceteiros, Chankuëshbo, Korúbo]
 population: 250
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Endangered Panoan language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

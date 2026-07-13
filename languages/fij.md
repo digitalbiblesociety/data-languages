@@ -3,15 +3,18 @@ iso: fij
 iso639_1: fj
 name: Fijian
 autonym: "Na vosa vaka-Viti"
-alt_names: [Boumaa, Boumaa Fijian, Boumaa dialect, Eastern Fijian, Ffijïeg, Fidji-Inseln, Fidjien, Fidschi, Fiji, Fijiansk, Fijianska, Fijisch, Kaiviti bhasa, Nadroga, Nadronga, Phiyi simi, Standard Fijian, Viti]
+alt_names: [Boumaa, Boumaa Fijian, Boumaa dialect, Eastern Fijian, Ffijïeg, Fidji-Inseln, Fidjien, Fidschi, Fiji, Fijiansk, Fijianska, Fijisch, Kaiviti bhasa, Nadroga, Nadronga, Phiyi simi, Standard Fijian, Viti, Baaravi, Bau, Bauan, Baumaa, Bua, Central Vanua Levu, Dogotuki Saqani, Kadavu, Korolau, Labasa, Lovoni, Lutu, Mbau, Na Vosa Vakaviti, Nabalebale, Nabukelevu, Naimasimasi, Namena, Nandrau, Navakasiga, Navatu-B, Navatu-C, Naweni, Northeast Vanua Levu, Northeast Viti Levu, Ono, Savusavu, Seaqaaqaa, Soolevu, Southeast Vanua Levu, Southeast Viti Levu, Tavuki, Tokaimalo, Tunuloa, Vakaviti, Waidina, West Vanua Levu]
 population: 334710
 country_id: FJ
 country_name: Fiji
+location: Fiji
+area: Austronesian language of Fiji
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -18
 longitude: 178.33
+language_map_img: 500px-Ethnic_Map_of_Fiji.webp
 scripts: [Latn]
 glottocode: fiji1243
 glottolog_family_id: aust1307

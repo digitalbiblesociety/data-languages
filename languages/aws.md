@@ -6,6 +6,8 @@ alt_names: ["Awyu, South", Jenimu, Oser, Siagha, Siagha-Yenimu, Sjiagha, Syiagha
 population: 9340
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,5 @@ translations:
     name: 南阿维尤语
     auto: true
 ---
+Shiaxa (Sjiagha) and Yenimu, together known as South Awyu, are a Papuan language or languages of Papua, Indonesia. Whether they constitute one language or two depends on one's criteria for a 'language'. The two varieties are,Bamgi River Awyu 
+Ia River Awyu (Shiaxa/Sjìagha)

@@ -2,10 +2,12 @@
 iso: mua
 name: Mundang
 autonym: MUNDAŊ
-alt_names: [Kaele, Marhay, Moundan, Moundang, Musemban, Nda]
+alt_names: [Kaele, Marhay, Moundan, Moundang, Musemban, Nda, Bana, Djasing, Gelama, Imbana, Imbara, Jasing, Kabi, Kieziere, Kiziere, Mbana, Torrock-Kaélé, Yasing, Yassing, Zasing, Zazing, záá múndàŋ]
 population: 395700
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Mbum language spoken in Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

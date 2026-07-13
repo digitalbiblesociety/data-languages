@@ -2,15 +2,18 @@
 iso: khv
 name: Khvarshi
 autonym: "Atl'ilqo"
-alt_names: ["C'hvarcheg", Inkhokvari, Javarsí, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik]
+alt_names: ["C'hvarcheg", Inkhokvari, Javarsí, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik, Atl’ilqo]
 population: 1870
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language spoken in Dagestan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 42.27434
 longitude: 45.99765
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: khva1239
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

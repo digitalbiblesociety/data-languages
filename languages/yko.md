@@ -6,6 +6,8 @@ alt_names: ["\"Ndowe\"", Iyaasa, Iyasa, Iyassa, Lyaasa, Lyassa, Maasa, Yassa]
 population: 1490
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon and Equatorial Guinea
 status_id: "5"
 scope: individual
 language_type: living

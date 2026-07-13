@@ -2,10 +2,12 @@
 iso: mdd
 name: Mbum
 autonym: West Mbum
-alt_names: [Buna, Mboum, Mboumtiba, "Mbum (East), Mbum (West)", Wuna]
+alt_names: [Buna, Mboum, Mboumtiba, "Mbum (East), Mbum (West)", Wuna, Bum, Byrre, Gbete, Kepere, Kpere, Pere, Pono, Ripere, Vana]
 population: 511000
 country_id: CM
 country_name: Cameroon
+location: Argentina and Chile
+area: Adamawa language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

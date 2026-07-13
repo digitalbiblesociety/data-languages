@@ -2,10 +2,11 @@
 iso: omt
 name: Omotik
 autonym: Laamoot
-alt_names: ["\"Ndorobo\"", Omotic, Omótico]
+alt_names: ["\"Ndorobo\"", Omotic, Omótico, “Ndorobo”]
 population: 200
 country_id: KE
 country_name: Kenya
+area: Nilotic language of Kenya
 status_id: 8a
 scope: individual
 language_type: living

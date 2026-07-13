@@ -2,10 +2,12 @@
 iso: syw
 name: Kagate
 autonym: Syuba
-alt_names: ["K?gate", Kagate Bhote, Kāgatē, Shuba, Shyuba]
+alt_names: ["K?gate", Kagate Bhote, Kāgatē, Shuba, Shyuba, Shuuba, Shuva, Shuwa, Shyuuba, Syuba Tam, Syuuba, Yholmo, Yholmoli, Yholmu]
 population: 1270
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Sino-Tibetan language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living

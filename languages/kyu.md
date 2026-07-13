@@ -2,10 +2,12 @@
 iso: kyu
 name: Western Kayah
 autonym: Kayah
-alt_names: [Karenni, Karennyi, Karieng Daeng, Kaya, Kayah Li, "Kayah, Western", "Kayah,Western", Red Karen, Yang Daeng]
+alt_names: [Karenni, Karennyi, Karieng Daeng, Kaya, Kayah Li, "Kayah, Western", "Kayah,Western", Red Karen, Yang Daeng, Western]
 population: 150000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karenic dialect continuum
 status_id: "5"
 scope: individual
 language_type: living
@@ -90,3 +92,4 @@ rolv_dialects:
     country_id: MM
     location: Myanmar
 ---
+Karenni or Red Karen, known in Burmese as Kayah, is a Karen dialect continuum spoken by over half a million Kayah people in Burma.

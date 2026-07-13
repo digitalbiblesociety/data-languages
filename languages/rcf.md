@@ -6,6 +6,7 @@ alt_names: ["Creole French, Réunion", Creolo della Riunione, Créole réunionna
 population: 595000
 country_id: RE
 country_name: Réunion
+area: French-based creole of Réunion
 status_id: 6a
 scope: individual
 language_type: living

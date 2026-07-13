@@ -6,6 +6,7 @@ alt_names: [European Romany, Jenisch, Yenishe]
 population: 16000
 country_id: DE
 country_name: Germany
+area: German variety spoken by Yenish people
 status_id: 6a
 scope: individual
 language_type: living

@@ -47,3 +47,4 @@ translations:
     name: 书面瓦拉特语
     auto: true
 ---
+Oirat is a Mongolic language spoken by the descendants of the Oirats, now forming parts of Mongols in China, Kalmyks in Russia, and citizens of Mongolia. Largely mutually intelligible to other core Central Mongolic languages, scholars differ as to whether they regard Oirat as a distinct language or a major dialect of the Mongolian language. Oirat-speaking areas are scattered across the far west of Mongolia, the northwest of China and Russia's Siberia region and Caspian coast, where its major variety is Kalmyk. In China, it is spoken mainly in Xinjiang, but also among the Upper Mongols of Qinghai and Subei County in Gansu.

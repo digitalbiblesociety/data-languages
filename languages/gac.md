@@ -2,10 +2,12 @@
 iso: gac
 name: Mixed Great Andamanese
 autonym: "Aka-Jeru"
-alt_names: ["Great Andamanese, Mixed"]
+alt_names: ["Great Andamanese, Mixed", Andamese]
 population: null
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Nearly extinct Great Andamanese language
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: tev
 name: Teor
 autonym: "Tio'or"
+alt_names: [Tio’or]
 population: 1100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
@@ -63,3 +66,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Maluku"
 ---
+Teor and Kur are two Austronesian language varieties of the Central–Eastern Malayo-Polynesian branch spoken near Kei Island, Indonesia. They are reportedly mutually intelligible.

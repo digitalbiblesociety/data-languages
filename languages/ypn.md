@@ -2,10 +2,12 @@
 iso: ypn
 name: Ani Phowa
 autonym: Puwa
-alt_names: [Flowery Phu, Hua Phu, Laotshipu, Pho, "Phowa, Ani", "Phowa,Ani", Phula]
+alt_names: [Flowery Phu, Hua Phu, Laotshipu, Pho, "Phowa, Ani", "Phowa,Ani", Phula, Anipho]
 population: 10000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 阿尼-菲瓦语
     auto: true
 ---
+Phowa is a dialect cluster of Loloish languages spoken by the Phula people of China. There are three principal varieties, Helpho, Ani, and Labo, which may be considered distinct languages. Helpho may be closer to Phukha than it is to Labo and Ani. Usage is decreasing, with about two-thirds of Phowa speaking their language.

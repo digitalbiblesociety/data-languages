@@ -2,15 +2,17 @@
 iso: css
 name: Southern Ohlone
 autonym: Costanoan
-alt_names: ["Ohlone, Southern"]
+alt_names: ["Ohlone, Southern", “Costanoan”]
 population: null
 country_id: US
 country_name: United States
+area: Revitalizing Utian language family of California
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 36.364
 longitude: -121.177
+language_map_img: Ohlone_color_map.svg
 glottocode: muts1243
 glottolog_family_id: miwo1274
 glottolog_family_name: Miwok-Costanoan
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: US
     location: United States of America
 ---
+The Ohlone languages, also known as Costanoan, form a small Indigenous language family historically spoken in Northern California, both in the southern San Francisco Bay Area and northern Monterey Bay area, by the Ohlone people. Along with the Miwok languages, they are members of the Utian language family. The most recent work suggests that Ohlone, Miwok, and Yokuts are branches of a Yok-Utian language family.

@@ -2,10 +2,11 @@
 iso: dwz
 name: Dewas Rai
 autonym: null
-alt_names: [Danuwar, Danuwar Rai, Danvar, Denwar, Dhanvar, Dhanwar, Dhanwar (Nepal), "Rai, Dewas"]
+alt_names: [Danuwar, Danuwar Rai, Danvar, Denwar, Dhanvar, Dhanwar, Dhanwar (Nepal), "Rai, Dewas", Rai Danuwar]
 population: null
 country_id: NP
 country_name: Nepal
+area: Indo-Aryan language spoken in Nepal
 status_id: null
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 德瓦斯赖语
     auto: true
 ---
+Danuwar is a language spoken in parts of Nepal by Danuwar ethnic group. It is close to Bote-Darai and Tharu languages but otherwise unclassified within the Indo-Aryan languages.

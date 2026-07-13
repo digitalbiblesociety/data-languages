@@ -5,11 +5,14 @@ autonym: "Bokwa-Kendem"
 population: 1500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantoid language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 5.77429
 longitude: 9.63201
+language_map_img: Map_of_the_Mamfe_languages.webp
 glottocode: kend1252
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

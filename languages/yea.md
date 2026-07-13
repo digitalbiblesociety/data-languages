@@ -2,10 +2,12 @@
 iso: yea
 name: Ravula
 autonym: Yerava
-alt_names: [Adiya, Adiyan, Iryavula, Panjiri Yerava, Yoruba]
+alt_names: [Adiya, Adiyan, Iryavula, Panjiri Yerava, Yoruba, Pani Yerava]
 population: 26900
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Malayalamoid language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

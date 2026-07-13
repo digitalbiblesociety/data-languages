@@ -2,10 +2,12 @@
 iso: ncr
 name: Ncane
 autonym: Cane
-alt_names: [Nchanti, Ntshanti]
+alt_names: [Nchanti, Ntshanti, Nchane, Nchaney, Mungom, Mungong, Mungong (Ncane)]
 population: 15500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Niger–Congo language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord-Ouest"
 ---
+The Noni language, also called Noone, is an Eastern Beboid language of the Niger–Congo family in Cameroon. The Noone, Ncane, and Mungong varieties are sometimes considered three distinct Noni languages. Ethnologue reports that Ncare is 88% lexically similar with Noone, and 84% with Saari (Nsari).

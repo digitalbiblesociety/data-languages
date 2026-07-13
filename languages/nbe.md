@@ -2,10 +2,11 @@
 iso: nbe
 name: Konyak Naga
 autonym: Kanyak
-alt_names: [Coñac, Konyak, Naga, "Naga, Konyak", "Naga,Konyak", Tableng]
+alt_names: [Coñac, Konyak, Naga, "Naga, Konyak", "Naga,Konyak", Tableng, Angphang, Angwangku, Changnyu, Chen, Chingkao, Chinglang, Choha, Gelekidoria, Hopao, Jakphang, Kongon, Kun, Longching, Longkhai, Longmein, Longwa, Lonwa, Lungkhai, Lungkhi, Mohung, Mon, Mulung, Ngangching, Sang, Shamnyuyanga, Shanlang, Shengha, Shunyuo, Sima, Sowa, Tabu, Tamkhungnyuo, Tang, Tobunyuo, Tolamleinyua, Totok, Wakching]
 population: 246000
 country_id: IN
 country_name: India
+location: "India, Map 5"
 status_id: "4"
 scope: individual
 language_type: living

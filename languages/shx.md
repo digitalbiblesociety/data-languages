@@ -6,6 +6,8 @@ alt_names: [Che, Ho nte, Huo Nte, Шэ, 山哈]
 population: 709000
 country_id: CN
 country_name: China
+location: Southern China
+area: Endangered Hmongic language of China
 status_id: 8b
 scope: individual
 language_type: living

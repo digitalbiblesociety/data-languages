@@ -2,10 +2,12 @@
 iso: azz
 name: Highland Puebla Nahuatl
 autonym: masehual tla’tol (ncj)
-alt_names: [Eastern Nahua, Eastern Nawa, Highland Puebla, Mejicano Azteco, Mejicano de Zacapoaxtla, Mexicano, Nahua de la Huasteca, Nahuatl, Nahuatl (Puebla Sierra), Nahuatl (Sierra de Zacapoaxtla), "Nahuatl, Highland Puebla", Nawa, Náhuat de la Sierra de Puebla, Náhuatl du Huasteca, Sierra Aztec, Sierra Puebla Náhuatl, Sierra astečki, Sierra de Zacapoaxtla, Zacapoaxtla, Zacapoaxtla Náhuat]
+alt_names: [Eastern Nahua, Eastern Nawa, Highland Puebla, Mejicano Azteco, Mejicano de Zacapoaxtla, Mexicano, Nahua de la Huasteca, Nahuatl, Nahuatl (Puebla Sierra), Nahuatl (Sierra de Zacapoaxtla), "Nahuatl, Highland Puebla", Nawa, Náhuat de la Sierra de Puebla, Náhuatl du Huasteca, Sierra Aztec, Sierra Puebla Náhuatl, Sierra astečki, Sierra de Zacapoaxtla, Zacapoaxtla, Zacapoaxtla Náhuat, Mejicano, Nahuatlahtolli, Náhuatl de Zacapoaxtla, Sierra de Zacapoaxtla Nahuatl, sierra de Puebla (highland Puebla)]
 population: 125000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Eastern Peripheral variety of the Nahuatl language group
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 高地普埃布拉纳瓦特尔语
     auto: true
 ---
+Sierra Puebla Nahuatl is one of the Eastern Peripheral varieties of Nahuatl, spoken by ethnic Nahua people in northwestern Puebla state in Mexico.

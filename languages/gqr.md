@@ -2,10 +2,12 @@
 iso: gqr
 name: Gor
 autonym: Gorontalo
-alt_names: [Bodo]
+alt_names: [Bodo, Yamod]
 population: 159000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Central Sudanic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 戈尔语
     auto: true
 ---
+Doba is a Central Sudanic language of Chad. It is traditionally considered three languages, because it is spoken by three ethnicities with separate identities, the Bedjond, the Mango, and the Gor. However, all have a high degree of mutual intelligibility, and so by that standard are a single language.

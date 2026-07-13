@@ -6,11 +6,14 @@ alt_names: [Chuihwan, Sao, Sau, Shao, Suihwan, Vulung]
 population: null
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Extinct Austronesian language of Taiwan
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 23.83329
 longitude: 120.92981
+language_map_img: 500px-Formosan_languages.webp
 glottocode: thao1240
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

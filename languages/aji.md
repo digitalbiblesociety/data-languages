@@ -2,10 +2,12 @@
 iso: aji
 name: Ajië
 autonym: "A'jie"
-alt_names: [Ajie, Anjie, Baladea, Houailou, Neukaledonien, Wai, Wailu]
+alt_names: [Ajie, Anjie, Baladea, Houailou, Neukaledonien, Wai, Wailu, A’jie, Waawilûû]
 population: 4040
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "3"
 scope: individual
 language_type: living

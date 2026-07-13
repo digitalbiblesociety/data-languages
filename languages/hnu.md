@@ -6,6 +6,8 @@ alt_names: [Cuói, "K'katiam-Pong-Houk", "P'eng", Pheng, Phong, Pong, Theng]
 population: 2000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Vietic dialect cluster spoken in Vietnam
 status_id: "7"
 scope: individual
 language_type: living

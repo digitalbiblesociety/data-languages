@@ -2,15 +2,18 @@
 iso: jns
 name: Jaunsari
 autonym: जौनसारी
-alt_names: [Jansauri, Janusari, Jaunsauri, Pahari]
+alt_names: [Jansauri, Janusari, Jaunsauri, Pahari, Jaunpuri, Jaunsari-Bawari]
 population: 137000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Western Pahari language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 30.5587
 longitude: 77.90842
+language_map_img: 500px-Jaunsar-Bawar_Region.webp
 glottocode: jaun1243
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

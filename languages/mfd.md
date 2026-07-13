@@ -2,10 +2,12 @@
 iso: mfd
 name: "Mendankwe-Nkwen"
 autonym: Mandankwe
-alt_names: [Mendankwe]
+alt_names: [Mendankwe, Abɔŋnamɛnda, Nkwen]
 population: 23100
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living

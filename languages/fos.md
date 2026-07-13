@@ -2,15 +2,17 @@
 iso: fos
 name: Siraya
 autonym: Baksa
-alt_names: [Formosan, Formosanisch, Pepo-Hwan, Pepohoan, Sideia, Sideis, Sideisch, Siraia, Siraiya]
+alt_names: [Formosan, Formosanisch, Pepo-Hwan, Pepohoan, Sideia, Sideis, Sideisch, Siraia, Siraiya, “Pepo-Hwan”, “Pepohoan”]
 population: null
 country_id: TW
 country_name: Taiwan
+area: Extinct Austronesian language of Taiwan
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 22.97767
 longitude: 120.31451
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: sira1267
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -2,15 +2,18 @@
 iso: pua
 name: Western Highland Purepecha
 autonym: Tarascan
-alt_names: ["P'urhépecha language", Purepecha, "Purepecha, Western Highland", Purépecha, Purépecha del Oeste de las Sierras, Sierra Occidental Purépecha, Tarasco, Taraska simi, Tarasko, Western Highland Purépecha, Пурепеча]
+alt_names: ["P'urhépecha language", Purepecha, "Purepecha, Western Highland", Purépecha, Purépecha del Oeste de las Sierras, Sierra Occidental Purépecha, Tarasco, Taraska simi, Tarasko, Western Highland Purépecha, Пурепеча, las Sierras, "P'orhe", Purépecha del Oeste de, Sierra Occidental, Angahuán, Arantepacua, Cantera, Cañada de los Once Pueblos, Cheran, Nurío, "P'orhépecha", "P'urhe", "P'urhépecha", Pamatacuaro, Purépecha Occidental de la Meseta, Purépecha de la Meseta, Purépecha de las Sierras, Purépecha del Oeste de Sierra Occidental, Western Highland, Western or Meseta Purepecha]
 population: 180000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Indigenous language spoken in parts of Mexico
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 19.53924
 longitude: -102.154
+language_map_img: Purepecha_map.svg
 glottocode: west2631
 glottolog_family_id: tara1323
 glottolog_family_name: Tarascan
@@ -88,3 +91,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Michoacan"
 ---
+Purépecha, often called Tarascan, a term coined by Spanish settlers that can be seen as pejorative to some, is a language isolate or small language family that is spoken by some 140,000 Purépecha in the highlands of Michoacán, Mexico.

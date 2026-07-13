@@ -2,15 +2,17 @@
 iso: pcm
 name: Nigerian Pidgin
 autonym: pidgin
-alt_names: ["Pidgin, Nigerian"]
+alt_names: ["Pidgin, Nigerian", Anglo-Nigerian Pidgin, Benin Pidgin, Broken English, Brokin, Brokun, Cross River Pidgin, Delta Pidgin, Lagos Pidgin, Naijá, Nigerian, Nigerian Creole English, Nigerian Pidgin English]
 population: 47500000
 country_id: NG
 country_name: Nigeria
+area: English-based creole languages
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 9.65873
 longitude: 4.21068
+language_map_img: pcm.webp
 scripts: [Latn]
 glottocode: nige1257
 glottolog_family_id: indo1319

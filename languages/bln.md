@@ -3,10 +3,12 @@ iso: bln
 macrolanguage_id: bik
 name: Southern Catanduanes Bikol
 autonym: Virac
-alt_names: ["Bicolano, Southern Catanduanes", Bikol, "Bikol, Southern Catanduanes", Southern Catanduanes Bicolano]
+alt_names: ["Bicolano, Southern Catanduanes", Bikol, "Bikol, Southern Catanduanes", Southern Catanduanes Bicolano, Southern Catanduanes Bikolano]
 population: 135000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bikol languages of the Philippines
 status_id: 6a
 scope: individual
 language_type: living

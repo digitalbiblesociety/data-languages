@@ -2,10 +2,12 @@
 iso: tau
 name: Upper Tanana
 autonym: Neeʼaandeegnʼ
-alt_names: [Haut-tanana (Canada), "Haut-tanana (États-Unis d'Amérique)", Nabesna, "Nee'aanegn", Tanana alto (Estados Unidos), "Tanana, Upper"]
+alt_names: [Haut-tanana (Canada), "Haut-tanana (États-Unis d'Amérique)", Nabesna, "Nee'aanegn", Tanana alto (Estados Unidos), "Tanana, Upper", "Nee'aaneegn'", Northway, Scottie Creek, Tanana, Tetlin, Upper]
 population: 300
 country_id: US
 country_name: United States
+location: Canada
+area: Indigenous language of North America
 status_id: "7"
 scope: individual
 language_type: living

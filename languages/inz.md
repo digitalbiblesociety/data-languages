@@ -6,6 +6,7 @@ alt_names: [Chumash, Chumash (Ineseno), Chumash (Ineseño), Chumasha Proper, Chu
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language
 status_id: "9"
 scope: individual
 language_type: extinct

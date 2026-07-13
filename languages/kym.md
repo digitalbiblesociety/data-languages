@@ -2,14 +2,18 @@
 iso: kym
 name: Kpatili
 autonym: Kpatere
+alt_names: [Kpatiri, Ngindere]
 population: 4500
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 5.17203
 longitude: 21.85945
+glottocode: kpat1244
 wikidata_id: Q3913982
 wikipedia_url: "https://en.wikipedia.org/wiki/Kpatili_language"
 translations:

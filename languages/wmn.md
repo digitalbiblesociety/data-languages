@@ -6,6 +6,7 @@ alt_names: [Neukaledonien]
 population: null
 country_id: NC
 country_name: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "10"
 scope: individual
 language_type: extinct

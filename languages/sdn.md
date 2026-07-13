@@ -7,11 +7,13 @@ alt_names: [Gallurese, Gallurien, Northeastern Sardinian, Sardinian, "Sardinian,
 population: 100000
 country_id: IT
 country_name: Italy
+area: Romance language spoken in northeastern Sardinia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41.11312
 longitude: 9.24279
+language_map_img: 500px-Sardinia_Language_Map.webp
 glottocode: gall1276
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

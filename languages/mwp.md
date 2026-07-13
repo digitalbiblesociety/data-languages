@@ -2,15 +2,18 @@
 iso: mwp
 name: Kala Lagaw Ya
 autonym: Western Torres Strait
-alt_names: [Gumulgal people, Kala Kawaw Ya, Kala Lagau Langgus, Kala Lagaw, Kala Lagaw Langgus, Kala Lagaw Langgus Yagar Yagar, Kala Yagaw Ya, Kalaw Kawaw Ya, Kalaw Kawaw Ya/Kalaw Lagaw Ya, Kalaw lagaw ya, Karualaig, Kowrarega, Langus, Mabuiag, Mabuyago, Maguiagic Group, Torres Strait Islander language, Torres Strait Islander people, West Torres, Yagar Yagar]
+alt_names: [Gumulgal people, Kala Kawaw Ya, Kala Lagau Langgus, Kala Lagaw, Kala Lagaw Langgus, Kala Lagaw Langgus Yagar Yagar, Kala Yagaw Ya, Kalaw Kawaw Ya, Kalaw Kawaw Ya/Kalaw Lagaw Ya, Kalaw lagaw ya, Karualaig, Kowrarega, Langus, Mabuiag, Mabuyago, Maguiagic Group, Torres Strait Islander language, Torres Strait Islander people, West Torres, Yagar Yagar, Central Torres Strait, Kalau Lagau Ya, Kalaw Kawaw, Langgus, Linggo]
 population: 960
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Language native to Australia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -10.67483
 longitude: 142.19566
+language_map_img: 500px-Kalaw_Lagaw_Ya.webp
 glottocode: kala1377
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

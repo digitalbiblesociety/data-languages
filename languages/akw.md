@@ -5,6 +5,7 @@ autonym: null
 population: 24100
 country_id: CG
 country_name: Congo
+location: Congo
 status_id: 6b
 scope: individual
 language_type: living

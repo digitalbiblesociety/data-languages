@@ -2,10 +2,12 @@
 iso: gnq
 name: Gana
 autonym: Ganaq
-alt_names: ["Gana'", Keningau Dusun, Minansut]
+alt_names: ["Gana'", Keningau Dusun, Minansut, Gana’]
 population: 1000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language of Sabah, Malaysia"
 status_id: "7"
 scope: individual
 language_type: living

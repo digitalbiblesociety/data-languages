@@ -3,15 +3,18 @@ iso: ike
 macrolanguage_id: iku
 name: Eastern Canadian Inuktitut
 autonym: Eastern Canadian Inuktitut
-alt_names: ["\"Eastern Arctic Eskimo\"", Aivilingmiut, Avanersuarmiutut, Canadian Eskimo, Canadian Inuit, Central-Northern, Eastern Arctic Eskimo, Eastern Canadian, "Eastern Canadian \"Eskimo\"", Eastern Canadian Eskimo, Eastern Canadian Inuit, Eskimo, Inuit, Inuit of Quebec, Inuktitut, Inuktitut (Quebec-Labrador), Inuktitut (Salluit), Inuktitut rigolet, "Inuktitut, Eastern Canadian", Inupiat, Inuí rigolet, Kivallirmiut, Labrador Inuktitut, Labrador Inuttut, Nigiani de Qikiqtaaluk, Nunatsiavummiutut, Nunavimmiutitut, Quebec-Labrador Inuktitut, Uannangani de Qikiqtaaluk, ᐃᓄᒃᑎᑐᑦ]
+alt_names: ["\"Eastern Arctic Eskimo\"", Aivilingmiut, Avanersuarmiutut, Canadian Eskimo, Canadian Inuit, Central-Northern, Eastern Arctic Eskimo, Eastern Canadian, "Eastern Canadian \"Eskimo\"", Eastern Canadian Eskimo, Eastern Canadian Inuit, Eskimo, Inuit, Inuit of Quebec, Inuktitut, Inuktitut (Quebec-Labrador), Inuktitut (Salluit), Inuktitut rigolet, "Inuktitut, Eastern Canadian", Inupiat, Inuí rigolet, Kivallirmiut, Labrador Inuktitut, Labrador Inuttut, Nigiani de Qikiqtaaluk, Nunatsiavummiutut, Nunavimmiutitut, Quebec-Labrador Inuktitut, Uannangani de Qikiqtaaluk, ᐃᓄᒃᑎᑐᑦ, “Eastern Arctic Eskimo”, “Eastern Canadian Eskimo”, Baffin Inuktitut, Kivalliq, Labrador Eskimo, Labrador Inuttitut, Mittimatalik, Quebec Eskimo, Rigolet Inuktitut, Tarramiut]
 population: 35200
 country_id: CA
 country_name: Canada
+location: Canada
+area: Name of several Inuit languages spoken in Canada
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 62.17345
 longitude: -75.61387
+language_map_img: Inuktitut_dialect_map.svg
 glottocode: east2534
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut
@@ -68,3 +71,4 @@ rolv_dialects:
     country_id: CA
     location: "Canada, Newfoundland"
 ---
+Inuktitut, also known as Eastern Canadian Inuktitut, is one of the principal Inuit languages of Canada. It is spoken in all areas north of the North American tree line, including parts of the provinces of Newfoundland and Labrador, Quebec, to some extent in northeastern Manitoba as well as the Northwest Territories and Nunavut. It is one of the aboriginal languages written with Canadian Aboriginal syllabics.

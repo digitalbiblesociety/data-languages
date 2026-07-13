@@ -2,10 +2,12 @@
 iso: kzr
 name: Karang
 autonym: Mbum
-alt_names: [Eastern Mbum, Kareng, Laka, Lakka, Lakka Mbum, Mbum Bakal, Mbum-East, Nzák Kàráng]
+alt_names: [Eastern Mbum, Kareng, Laka, Lakka, Lakka Mbum, Mbum Bakal, Mbum-East, Nzák Kàráng, Karaŋ, Nzák Kàránŋ]
 population: 17000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Mbum language spoken in Cameroon and Chad
 status_id: "5"
 scope: individual
 language_type: living

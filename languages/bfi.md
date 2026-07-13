@@ -6,6 +6,7 @@ alt_names: [BSL, Brittiläinen viittomakieli]
 population: 87090
 country_id: GB
 country_name: United Kingdom
+area: Sign language used in the United Kingdom
 status_id: "5"
 scope: individual
 language_type: living

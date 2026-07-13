@@ -6,6 +6,8 @@ alt_names: [Sudan]
 population: 1200
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language spoken in South Sudan
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: SD
     location: Sudan
 ---
+Morokodo is a dialect continuum of Central Sudanic languages spoken in South Sudan.

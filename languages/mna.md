@@ -2,10 +2,12 @@
 iso: mna
 name: Mbula
 autonym: null
-alt_names: [Mangaaba, Mangaava, Mangaawa, Mangap, Mangap Mbula, Mangap-Mbula, Mangap. Kaimanga]
+alt_names: [Mangaaba, Mangaava, Mangaawa, Mangap, Mangap Mbula, Mangap-Mbula, Mangap. Kaimanga, Kaimanga, Central Mbula, Gauru, Northern Mbula, Sakar]
 population: 4500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

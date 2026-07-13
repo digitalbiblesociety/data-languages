@@ -7,6 +7,8 @@ alt_names: [Eastern Zapotec, Northern Sapoteko, Northwestern Tehuantepec Zapotec
 population: 5000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zapotecan language of the isthmus of Mexico
 status_id: 6b
 scope: individual
 language_type: living

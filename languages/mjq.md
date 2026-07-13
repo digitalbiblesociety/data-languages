@@ -6,6 +6,7 @@ alt_names: [Arayans, Karingal, Malai Arayan, Malayarayan, Malayarayar, Male Aray
 population: null
 country_id: IN
 country_name: India
+area: Extinct Dravidian language of India
 status_id: "9"
 scope: individual
 language_type: extinct

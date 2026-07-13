@@ -6,6 +6,7 @@ alt_names: [Rerebere]
 population: null
 country_id: ET
 country_name: Ethiopia
+area: Ethnic group of eastern Ethiopia
 status_id: "10"
 scope: individual
 language_type: extinct

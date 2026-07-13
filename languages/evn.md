@@ -2,15 +2,18 @@
 iso: evn
 name: Evenki
 autonym: Эвэды̄ турэ̄нᠢ
-alt_names: [Avanki, Avankil, Chapogir, Evenkieg, Evenkisk, Ewenke, Ewenki, Ewenkische, Manegir, Northwestern, Owenke, Siberian Ewenki, Solon, Suolun, Tungus, ewen-ki, Эбэҥки тыла, эвэды̄ турэ̄н, אבנקית, 陳巴爾虎莫日格勒河方言]
+alt_names: [Avanki, Avankil, Chapogir, Evenkieg, Evenkisk, Ewenke, Ewenki, Ewenkische, Manegir, Northwestern, Owenke, Siberian Ewenki, Solon, Suolun, Tungus, ewen-ki, Эбэҥки тыла, эвэды̄ турэ̄н, אבנקית, 陳巴爾虎莫日格勒河方言, Ewenk, Khamnigan, Aldan Timpton, Aoluguya, Ayan-Maya, Baykit, Cemdalsk, "Chenba'erhu", Cis-Baikalia, "Haila'er", Hoy, Huihe, Ilimpeya, Jeltulak, Kalar, Khamnigan Ewenki, Khamnigan Mongol, Kur-Urmi, Lower Nepa Tungir, Mergel, Morigele, Nakanna, Nepa, Old Bargu, Olguya, Podkamennaya Tunguska, Poligus, Sakhalin, Solong, Sulong, Sym, Tokko, Tokmo-Upper Lena, Tommot, Tuguro-Chumikan, Tungus Ewenki, Tutoncana, Uchama, Uchur, Vanavara, Yerbogocen, Zeya-Bureya]
 population: 1600
 country_id: CN
 country_name: China
+location: China
+area: Tungusic language of eastern Russia and China
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 53.85003
 longitude: 108.625523
+language_map_img: Distribution_of_the_Tungusic_languages.svg
 scripts: [Cyrl]
 glottocode: even1259
 glottolog_family_id: tung1282

@@ -2,15 +2,18 @@
 iso: umb
 name: Umbundu
 autonym: South Mbundu
-alt_names: ["M'bundo", Mbali, Mbari, Mbundu, Mbundu Benguella, Nano, Oumboundou, Ovimbundu, Quimbundo, Umbundo, Южный мбунду]
+alt_names: ["M'bundo", Mbali, Mbari, Mbundu, Mbundu Benguella, Nano, Oumboundou, Ovimbundu, Quimbundo, Umbundo, Южный мбунду, M’bundo, Hele, Kimbari, Mbalundu, Olumbali, Sele]
 population: 6980000
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -12.47635
 longitude: 14.41483
+language_map_img: umb.webp
 scripts: [Latn]
 glottocode: umbu1257
 glottolog_family_id: atla1278

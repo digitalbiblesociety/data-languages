@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: AR
 country_name: Argentina
+area: Indigenous language of northern Argentina
 status_id: null
 scope: individual
 language_type: extinct

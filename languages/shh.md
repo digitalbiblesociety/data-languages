@@ -6,11 +6,14 @@ alt_names: [Big Smokey Valley Shoshoni, Chochoneg, Shonshoni, Shoshone, Shoshone
 population: 2910
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Uto-Aztecan language spoken in western US
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41
 longitude: -116
+language_map_img: Shoshone_map.svg
 glottocode: shos1248
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

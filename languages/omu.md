@@ -6,6 +6,7 @@ alt_names: [Humurana, Maina, Numurana, Omouraneg, Rimachu, Roamaina, Roamaino, U
 population: 10
 country_id: PE
 country_name: Peru
+area: Endangered unclassified language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct

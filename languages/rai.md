@@ -2,10 +2,12 @@
 iso: rai
 name: Ramoaaina
 autonym: Duke of York
-alt_names: [Ramuaina]
+alt_names: [Ramuaina, Aalawa, Aalawaa, Alawa, Main Island, Makada, Mioko, Molot, South Islands, Ulu]
 population: 10300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Oceanic language spoken on the Duke of York Islands off eastern New Ireland
 status_id: "4"
 scope: individual
 language_type: living

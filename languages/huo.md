@@ -6,6 +6,8 @@ alt_names: [Angku, Āng-kú]
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Palaungic language
 status_id: 6b
 scope: individual
 language_type: living

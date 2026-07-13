@@ -6,6 +6,8 @@ alt_names: [Safalba, Safali]
 population: 4000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

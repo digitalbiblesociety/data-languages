@@ -2,10 +2,12 @@
 iso: pah
 name: Tenharim
 autonym: Kawahib
-alt_names: [Cabahyba, Caripuna, Cauaiua, Cauhib, Cawahib, Diahoi, Diahui, Diahói, Diarroi, Diarrui, Djahui, Jahoi, Jahui, Jauareta-Tapiia, Jiahui, Juma, Kagwahiv, Kagwahiva, Kagwahív, Karipuna, Karipuná, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Paranawat, Parintintim, Parintintin, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharem, Tenharin, Tenharím, Tenharín, Tukumanfed, Uru-eu-uau-uau, Yuma]
+alt_names: [Cabahyba, Caripuna, Cauaiua, Cauhib, Cawahib, Diahoi, Diahui, Diahói, Diarroi, Diarrui, Djahui, Jahoi, Jahui, Jauareta-Tapiia, Jiahui, Juma, Kagwahiv, Kagwahiva, Kagwahív, Karipuna, Karipuná, Kawahib/Paranawat/Pawaté-Wirafed, Kawaib, Paranawat, Parintintim, Parintintin, Parintintín, Parintintín/Tenharim/Juma, Pawaté-Wirafed, Tenharem, Tenharin, Tenharím, Tenharín, Tukumanfed, Uru-eu-uau-uau, Yuma, Diahkoi, Giahoi, Jahói, Kagwahiwa, Karipuna Jaci Paraná, Mialát]
 population: 360
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: 6b
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: BR
     location: "Brazil, Amazonas"
 ---
+Kawahíva is a Tupi–Guarani dialect cluster of Brazil.

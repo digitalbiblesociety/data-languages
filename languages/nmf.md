@@ -2,10 +2,12 @@
 iso: nmf
 name: Tangkhul Naga
 autonym: Luhupa
-alt_names: [Central Luhupa, Champhung, Kupome, Luhuppa, Luppa, Naga, Naga (Tangkhul), "Naga, Tangkhul", "Naga, Tangkhul (India)", "Naga,Tangkhul", Northern Luhupa, Somra, Tagkhul, Tangkhul, Tangkhul Group, Tangkhul Naga, Tangkul, Thangkhulm, Tśamphung]
+alt_names: [Central Luhupa, Champhung, Kupome, Luhuppa, Luppa, Naga, Naga (Tangkhul), "Naga, Tangkhul", "Naga, Tangkhul (India)", "Naga,Tangkhul", Northern Luhupa, Somra, Tagkhul, Tangkhul, Tangkhul Group, Tangkhul Naga, Tangkul, Thangkhulm, Tśamphung, Khangoi, Khunggoi, Phadang, Ukhrul]
 population: 187000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

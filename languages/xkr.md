@@ -6,6 +6,7 @@ alt_names: [Chicriaba, Chikriaba, Sakiriabá, Shacriaba, Shakriabá, Xacriabá, 
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Macro-Je language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

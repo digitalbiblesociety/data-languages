@@ -2,10 +2,12 @@
 iso: tbz
 name: Ditammari
 autonym: Ditammari
-alt_names: ["\"Somba\"", Ditamari, Soma, Somba, Some, Tamari, Tamberma]
+alt_names: ["\"Somba\"", Ditamari, Soma, Somba, Some, Tamari, Tamberma, “Somba”, Bataba, Batammarab, Eastern Ditammari, Western Ditammari]
 population: 245300
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gur language of Benin and Togo
 status_id: "5"
 scope: individual
 language_type: living

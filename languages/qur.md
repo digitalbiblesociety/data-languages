@@ -7,6 +7,8 @@ alt_names: ["\"quechua de Cajatambo, de Paso y de Junín septentrional.\"", Dani
 population: 20500
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechuan dialect cluster of west-central Peru
 status_id: "7"
 scope: individual
 language_type: living
@@ -70,3 +72,4 @@ rolv_dialects:
     country_id: PE
     location: "Peru, Pasco"
 ---
+Yaru Quechua is a dialect cluster of Quechua, spoken in the Peruvian provinces of Pasco and Daniel Alcides Carrión and neighboring areas in northern Junín and Lima department.

@@ -6,6 +6,8 @@ alt_names: [Bor, "Bor, Belanda", Bor-Belanda, De Bor]
 population: 8000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Luo language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living

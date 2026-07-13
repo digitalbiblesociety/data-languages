@@ -2,10 +2,12 @@
 iso: mxe
 name: "Mele-Fila"
 autonym: "Ifira-Mele"
-alt_names: [Fila-Mele]
+alt_names: [Fila-Mele, Ifara-Mele, Efira, Fila, Fira, Ifira, Mele]
 population: 3500
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living

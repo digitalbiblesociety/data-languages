@@ -6,11 +6,13 @@ alt_names: [Northeast Pomo, Northeastern Russian River, Pomo du Nord-Ouest, Pomo
 population: null
 country_id: US
 country_name: United States
+area: Extinct Pomoan language of California
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 39.28938
 longitude: -122.50943
+language_map_img: Pomoan_languages_map_multicolored.svg
 glottocode: nort2967
 glottolog_family_id: pomo1273
 glottolog_family_name: Pomoan

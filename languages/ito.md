@@ -6,6 +6,8 @@ alt_names: [Itonameg, Saramo, Итонама]
 population: 5090
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Moribund language of Bolivia
 status_id: 8b
 scope: individual
 language_type: living

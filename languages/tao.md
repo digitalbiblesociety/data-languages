@@ -2,10 +2,12 @@
 iso: tao
 name: Yami
 autonym: ciciring no Tao
-alt_names: [Botel Tabago, Botel Tobago, Lanyu, Tao, Tawu, 達悟, 雅美]
+alt_names: [Botel Tabago, Botel Tobago, Lanyu, Tao, Tawu, 達悟, 雅美, Pongso no Tao]
 population: 3380
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: "Austronesian language spoken on Orchid Island, Taiwan"
 status_id: "5"
 scope: individual
 language_type: living

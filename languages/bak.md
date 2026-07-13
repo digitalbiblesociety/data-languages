@@ -3,10 +3,12 @@ iso: bak
 iso639_1: ba
 name: Bashkir
 autonym: Башҡортса
-alt_names: [Bachkir, Bachkireg, Baixkir, Baschkirisch, Bashkiric, Bashkort, Bashqort, Basjkiers, Basjkiriska, Basjkirsk, Baskir, Basquort, Başkurtça, Başqort tele, Başqurt tili, Proto-Baschkirisch, Башкирэнь кель, Башко́ртьскъ ѩꙁꙑ́къ, Башҡорт теле, باشقۇرتچە]
+alt_names: [Bachkir, Bachkireg, Baixkir, Baschkirisch, Bashkiric, Bashkort, Bashqort, Basjkiers, Basjkiriska, Basjkirsk, Baskir, Basquort, Başkurtça, Başqort tele, Başqurt tili, Proto-Baschkirisch, Башкирэнь кель, Башко́ртьскъ ѩꙁꙑ́къ, Башҡорт теле, باشقۇرتچە, Burzhan, Kuvakan, Mountain Bashkir, Steppe Bashkir, Western Bashkir, Yurmaty]
 population: 1235040
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Kipchak Turkic language
 status_id: "4"
 scope: individual
 language_type: living

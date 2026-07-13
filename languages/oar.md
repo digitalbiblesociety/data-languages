@@ -2,7 +2,7 @@
 iso: oar
 name: Old Aramaic
 autonym: Ancient Aramaic
-alt_names: ["Aramaic, Ancient (up to 700 BCE)", "Aramaic, Old (up to 700 BCE)", Old Aramaic, Old Aramaic language, Standard Syrian Aramaic]
+alt_names: ["Aramaic, Ancient (up to 700 BCE)", "Aramaic, Old (up to 700 BCE)", Old Aramaic, Old Aramaic language, Standard Syrian Aramaic, Old Aramaic (up to 700 BCE)]
 population: null
 country_id: SY
 country_name: Syria

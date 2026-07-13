@@ -7,6 +7,8 @@ alt_names: [Southeastern Yautepec Zapotec, "Zapotec, Tlacolulita", Zapoteco de A
 population: 140
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Auyakawa, Auyo, Awiaka]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Afro-Asiatic language family
 status_id: null
 scope: individual
 language_type: extinct

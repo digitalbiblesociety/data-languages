@@ -6,6 +6,8 @@ alt_names: ["Tapi'irape", Tapirape]
 population: 500
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupí-Guaraní language of Brazil
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Aniula, Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumban
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -16.74001
 longitude: 138.02317
+language_map_img: 500px-Wellesley_Islands_locator_map.webp
 glottocode: nyan1300
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic

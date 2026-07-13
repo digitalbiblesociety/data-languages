@@ -3,10 +3,12 @@ iso: ndo
 iso639_1: ng
 name: Ndonga
 autonym: ndonga
-alt_names: [Ambo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга]
+alt_names: [Ambo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга, Eunda Kolonkadhi, Kwaludhi, Ngandyera]
 population: 279000
 country_id: NA
 country_name: Namibia
+location: Namibia
+area: Dialect in Namibia
 status_id: "5"
 scope: individual
 language_type: living

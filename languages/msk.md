@@ -6,6 +6,8 @@ alt_names: [Mandaya Mansaka]
 population: 26100
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

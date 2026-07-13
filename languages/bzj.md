@@ -2,10 +2,12 @@
 iso: bzj
 name: Belize Kriol English
 autonym: "Bileez Kriol, Kriol"
-alt_names: ["Kriol English, Belize"]
+alt_names: ["Kriol English, Belize", Creola, Kriol, Northern Central America Creole English, Belize Kriol, Bileez Kriol, Miskito Coast Creole English, Western Caribbean Creole]
 population: 170000
 country_id: BZ
 country_name: Belize
+location: Belize
+area: English-based creole language
 status_id: "3"
 scope: individual
 language_type: living

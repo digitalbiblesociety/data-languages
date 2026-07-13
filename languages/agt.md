@@ -2,10 +2,12 @@
 iso: agt
 name: Central Cagayan Agta
 autonym: Cagayan Agta
-alt_names: [Agta, Agta (Central Cagayan), Agta (Central), Agta de Cagayan central, Agta de Cagayán central, "Agta, Central Cagayan", Central Agta, Central Cagayan]
+alt_names: [Agta, Agta (Central Cagayan), Agta (Central), Agta de Cagayan central, Agta de Cagayán central, "Agta, Central Cagayan", Central Agta, Central Cagayan, Labin Agta]
 population: 780
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

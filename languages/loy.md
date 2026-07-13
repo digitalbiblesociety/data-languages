@@ -2,10 +2,12 @@
 iso: loy
 name: Loke
 autonym: "Ü-Tsang"
-alt_names: [Baragaon, Baragaunle, Gurung, Lo Ke, Lo Montang, Loba, Lopa, Lowa, Loyu, Mustangi]
+alt_names: [Baragaon, Baragaunle, Gurung, Lo Ke, Lo Montang, Loba, Lopa, Lowa, Loyu, Mustangi, Glo Skad, Lhowa]
 population: 2500
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Most spoken and standard of the Tibetic languages
 status_id: 6a
 scope: individual
 language_type: living

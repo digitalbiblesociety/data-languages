@@ -6,6 +6,8 @@ alt_names: [Dialectes des Iles Australes, Dialectos de las islas Australes]
 population: 8000
 country_id: PF
 country_name: French Polynesia
+location: French Polynesia
+area: Language of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living

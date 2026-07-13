@@ -2,10 +2,11 @@
 iso: nop
 name: Numanggang
 autonym: null
-alt_names: [Boana, Kai, Manggang, Ngain, Numangan, Numangang, Sugu]
+alt_names: [Boana, Kai, Manggang, Ngain, Numangan, Numangang, Sugu, Numaŋgaŋ, East Numanggang, West Numanggang]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
 status_id: "4"
 scope: individual
 language_type: living

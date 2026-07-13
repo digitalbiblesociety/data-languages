@@ -2,9 +2,11 @@
 iso: syx
 name: Samay
 autonym: Osamayi
+alt_names: [Sama, Samaye, Shamay, Shamayi]
 population: 1000
 country_id: GA
 country_name: Gabon
+area: Bantu language spoken in Gabon
 status_id: null
 scope: individual
 language_type: living

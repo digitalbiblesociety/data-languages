@@ -7,6 +7,8 @@ alt_names: [Elotepec, Elotepec Papabuco, Northern Sapoteko, Papabuco, Zapotec, "
 population: 200
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Zapotec language of a village in Oaxaca
 status_id: "7"
 scope: individual
 language_type: living

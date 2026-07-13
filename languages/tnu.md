@@ -6,11 +6,14 @@ alt_names: [Laos]
 population: 200
 country_id: LA
 country_name: Laos
+location: Laos
+area: Tai language of Laos
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 18.66237
 longitude: 104.36727
+language_map_img: 500px-Tay_khang_language.webp
 glottocode: tayk1238
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

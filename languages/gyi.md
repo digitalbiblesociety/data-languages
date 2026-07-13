@@ -6,11 +6,14 @@ alt_names: ["\"Babinga\"", Babinga, Bagiele, Bagyele, Bagyéli, Bajele, Bajeli, 
 population: 4250
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bantu language of southern Cameroon and Equatorial Guinea
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 2.474565
 longitude: 10.24928
+language_map_img: Gyelimap.svg
 glottocode: gyel1242
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo
@@ -67,3 +70,5 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Sud"
 ---
+The Kwasio language, also known as Ngumba / Mvumbo, Bujeba, and Gyele / Kola, is a language of Cameroon, spoken in the south along the coast and at the border with Equatorial Guinea by some 70,000 members of the Ngumba, Kwasio, Gyele and Mabi peoples. Many authors view Kwasio and the Gyele/Kola language as distinct. In the Ethnologue, the languages therefore receive different codes: Kwasio has the ISO 639-3 code nmg, while Gyele has the code gyi. The Kwasio, Ngumba, and Mabi are village farmers; the Gyele are nomadic Pygmy hunter-gatherers living in the rain forest.
+The Bagyeli are mostly forager and hunters. They use dogs, traps, machetes, spears, and nets to hunt and catch animals for food. Deforestation has affected their subsistence, and they have recently begun to benefit from selling baskets and meat to tourists.

@@ -2,14 +2,18 @@
 iso: xvi
 name: Kamviri
 autonym: کامويري
+alt_names: [Kamdeshi, Kamik, Lamertiviri, Shekhani]
 population: 4000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Kamkata-vari dialect of Afghanistan and Pakistan
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 30
 longitude: 70
+glottocode: kamv1242
 wikidata_id: Q1193495
 wikipedia_url: "https://en.wikipedia.org/wiki/Kamviri_dialect"
 translations:

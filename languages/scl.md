@@ -2,10 +2,12 @@
 iso: scl
 name: Shina
 autonym: Brokpa
-alt_names: [Chineg, Dardu, Shinaki, Sina, شينا, شینا]
+alt_names: [Chineg, Dardu, Shinaki, Sina, شينا, شینا, Astor, Astori, Bagrote, Bunji, Chilas, Chilasi Kohistani, Darel, Dras, Drasi, Gilgit, Gilgiti, Gurezi, Haramosh, Harban, Hunza-Nagar, Kharmangi, Punial, Rondu, Satpara, Sazin, Tangir]
 population: 720200
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Indo-Aryan language primarily spoken in Gilgit-Baltistan and Gurez valley
 status_id: 6a
 scope: individual
 language_type: living

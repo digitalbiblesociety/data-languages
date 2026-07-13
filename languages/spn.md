@@ -2,10 +2,11 @@
 iso: spn
 name: Sanapaná
 autonym: Sanapana payvoma
-alt_names: ["Kelya'mok", Kisapang, Quilyacmoc, "Saapa'ang", Sanapana]
+alt_names: ["Kelya'mok", Kisapang, Quilyacmoc, "Saapa'ang", Sanapana, Kasnapan, Nenlhet, "Sa'apan"]
 population: 980
 country_id: PY
 country_name: Paraguay
+area: Language in Paraguay
 status_id: null
 scope: individual
 language_type: living

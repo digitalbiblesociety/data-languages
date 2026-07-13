@@ -6,6 +6,8 @@ alt_names: [Nuaulu, "Nuaulu, South", Patakai]
 population: 1500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Austronesian language spoken in Maluku
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南努阿乌鲁语
     auto: true
 ---
+Nuaulu is a language indigenous to the island of Seram Island in Indonesia, and it is spoken by the Nuaulu people. The language is split into two dialects, a northern and a southern dialect, between which there a communication barrier. The dialect of Nuaulu referred to on this page is the southern dialect, as described in Bolton 1991.

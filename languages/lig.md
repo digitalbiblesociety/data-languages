@@ -6,6 +6,8 @@ alt_names: [Dzowo, Huela, Hwela-Numu, Jogo, Ligwi, Namasa, Nigbi, Nigwi, Numu, T
 population: 15000
 country_id: GH
 country_name: Ghana
+location: "Côte d&#039;Ivoire"
+area: Mande language spoken in Ghana
 status_id: 6a
 scope: individual
 language_type: living

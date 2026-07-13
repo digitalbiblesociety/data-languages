@@ -2,10 +2,12 @@
 iso: glw
 name: Glavda
 autonym: Galvaxdaxa
-alt_names: [Galavda, Gelebda, Gelvaxdaxa, Glanda, Guelebda, Vale]
+alt_names: [Galavda, Gelebda, Gelvaxdaxa, Glanda, Guelebda, Vale, Bokwa, Ngoshie, Ngweshe]
 population: 31300
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Chadic language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living

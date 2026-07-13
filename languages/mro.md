@@ -2,10 +2,12 @@
 iso: mro
 name: Mru
 autonym: Mrung
-alt_names: [Maru, Mro, Mro-Mru, Mroo, Murung, Niopreng, မရူ]
+alt_names: [Maru, Mro, Mro-Mru, Mroo, Murung, Niopreng, မရူ, Anok, Dak, Doumrong, Dowpreng, Launghu, Mrucha, Mrusa, Niopheng, Pongmi, Sungma, Tamsa, Taung Mru]
 population: 50200
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language primarily spoken in Bangladesh
 status_id: "5"
 scope: individual
 language_type: living

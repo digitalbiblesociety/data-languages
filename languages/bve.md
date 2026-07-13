@@ -7,11 +7,14 @@ alt_names: [Berau, Berau language, "Malay, Berau", Merau Malay]
 population: 11200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 1.6687
 longitude: 117.93413
+language_map_img: 500px-Berau_Malay.webp
 glottocode: bera1262
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

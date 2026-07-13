@@ -6,6 +6,7 @@ alt_names: [Laibu]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+area: Extinct language of Papua New Guinea
 status_id: "10"
 scope: individual
 language_type: extinct

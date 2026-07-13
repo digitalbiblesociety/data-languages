@@ -6,11 +6,14 @@ alt_names: [Ende Malay, Larantuka, "Malay, Larantuka", Melayu Larantuka, Nagi]
 population: 20000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Malay-based creole language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -8.4746
 longitude: 122.7619
+language_map_img: Lokasi_Nusa_Tenggara_Timur_Kabupaten_Flores_Timur.svg
 glottocode: lara1260
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

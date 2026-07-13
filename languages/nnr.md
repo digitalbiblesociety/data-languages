@@ -6,6 +6,7 @@ alt_names: [Adjabdurah, Adjadura, Adjahdurah, Adjahdural, Moor in nunjie, Moor-i
 population: null
 country_id: AU
 country_name: Australia
+area: Revived Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

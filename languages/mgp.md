@@ -2,10 +2,12 @@
 iso: mgp
 name: Eastern Magar
 autonym: " मगर भाषा"
-alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар]
+alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар, Gorkha, Mangar, Nawalparasi, Tanahu]
 population: 533700
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: "Sino-Tibetan language of Nepal, Bhutan and India"
 status_id: 6b
 scope: individual
 language_type: living
@@ -86,3 +88,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Magar Dhut is a Sino-Tibetan language spoken mainly in Nepal, southern Bhutan, and in Darjeeling, Assam and Sikkim, India, by the Magar people. It is divided into two groups and further dialect divisions give distinct tribal identity. In Nepal 810,000 people speak the language.

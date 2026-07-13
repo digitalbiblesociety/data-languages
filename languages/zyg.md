@@ -3,15 +3,18 @@ iso: zyg
 macrolanguage_id: zha
 name: Yang Zhuang
 autonym: Dejing
-alt_names: [De-Jing, De-Jing Vernacular of the Southern Dialect of the Zhuang Language, Dejing Zhuang, Gen Yang, Jingxi Zhuang, Nung Giang, Teching, Thu Lao, Tianbao, Tu, Tuhua, Tuliao, Tuzu, Wen-Ma, Wen-Ma Southern Zhuang, Wenma, Yangyu, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Yang", Zhuangyu Nanbu fangyan Dejing tuyu]
+alt_names: [De-Jing, De-Jing Vernacular of the Southern Dialect of the Zhuang Language, Dejing Zhuang, Gen Yang, Jingxi Zhuang, Nung Giang, Teching, Thu Lao, Tianbao, Tu, Tuhua, Tuliao, Tuzu, Wen-Ma, Wen-Ma Southern Zhuang, Wenma, Yangyu, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Yang", Zhuangyu Nanbu fangyan Dejing tuyu, Caj coux, Can Yang, Dianbao, Fouh, Fu, Jiazhou, Lang, Nong, Sengh, Sheng, Tianpao, Yang, Yangx, Yangzhou, Zouzhou]
 population: 765000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Tai language of Guangxi, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.83753
 longitude: 107.3622
+language_map_img: 500px-Yang-Zhuang.webp
 glottocode: yang1286
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

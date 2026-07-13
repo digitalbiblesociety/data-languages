@@ -2,10 +2,12 @@
 iso: ndh
 name: Ndali
 autonym: Chindali
-alt_names: [Chisukwa dialect, Ici-Ndali, Kindali]
+alt_names: [Chisukwa dialect, Ici-Ndali, Kindali, Cindali, Icindali, Ndari]
 population: 263000
 country_id: TZ
 country_name: Tanzania
+location: Malawi
+area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living

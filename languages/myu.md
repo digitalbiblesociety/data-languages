@@ -6,6 +6,8 @@ alt_names: [Caras-Pretas, Monjoroku, Mundurucu, Mundurucú, Munduruku, Munduruku
 population: 8000
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language of north-central Brazil
 status_id: 6b
 scope: individual
 language_type: living

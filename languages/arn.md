@@ -2,10 +2,12 @@
 iso: arn
 name: Mapudungun
 autonym: Mapudungun
-alt_names: ["\"Auca\"", Araucana, Araucanian, Araucano, Mapoudoungouneg, Mapuche, Mapuche  (Chile), Mapuche (Argentine), Mapudungu, Mapudungun simi, Maputongo, Mapuzugun, mapuce, Мапудунґун]
+alt_names: ["\"Auca\"", Araucana, Araucanian, Araucano, Mapoudoungouneg, Mapuche, Mapuche  (Chile), Mapuche (Argentine), Mapudungu, Mapudungun simi, Maputongo, Mapuzugun, mapuce, Мапудунґун, “Araucano”, Ngünechen Dunguy Fachantü, Huilliche, Manzanero, Mapuzungun, Moluche, Ngoluche, Pehuenche, Picunche, Ranquel]
 population: 258410
 country_id: CL
 country_name: Chile
+location: Argentina and Chile
+area: Araucanian language
 status_id: "4"
 scope: individual
 language_type: living

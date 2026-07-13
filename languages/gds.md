@@ -5,6 +5,8 @@ autonym: घान्द्रुक सांकेतिक भाषा
 population: 20
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Deaf sign language of Nepal
 status_id: 8b
 scope: individual
 language_type: living

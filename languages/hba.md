@@ -6,6 +6,8 @@ alt_names: [Democratic Republic of the Congo]
 population: 13000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of the DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 汉巴语
     auto: true
 ---
+Tetela, also Sungu, is a Bantu language of northern Kasai-Oriental Province, Democratic Republic of the Congo. It is spoken by the Tetela people.

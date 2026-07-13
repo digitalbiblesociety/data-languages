@@ -2,10 +2,12 @@
 iso: sce
 name: Dongxiang
 autonym: لھجکءاءل
-alt_names: [Bahsa Dongxiang, Dongchiangeg, Dongxiangca, Donxiang, Dunshan, Dunsyan, Santa, Tsung-hsiang, Tung, Tunghsiang, دۇڭشياڭ تىلى]
+alt_names: [Bahsa Dongxiang, Dongchiangeg, Dongxiangca, Donxiang, Dunshan, Dunsyan, Santa, Tsung-hsiang, Tung, Tunghsiang, دۇڭشياڭ تىلى, Sijiaji, Suonanba, Wangjiaji, Xiaonan]
 population: 200000
 country_id: CN
 country_name: China
+location: China
+area: Mongolic language of Northwest China
 status_id: 6b
 scope: individual
 language_type: living

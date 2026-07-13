@@ -2,15 +2,18 @@
 iso: grt
 name: Garo
 autonym: A·chik (আ·চিক)
-alt_names: [Garrow, Mande]
+alt_names: [Garrow, Mande, Mandi, Abeng, Achik, Amꞌbeng, Aꞌbeng, Aꞌbengya, Aꞌchick, Aꞌchik, Aꞌwe, Brak, Chibok, Chisak, Dacca, Dual, Ganching, Kamrup, Matchi]
 population: 1270000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Sino-Tibetan language of India and Bangladesh
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 25.295365
 longitude: 90.46198
+language_map_img: 500px-Map_of_the_Garo.webp
 scripts: [Beng]
 glottocode: garo1247
 glottolog_family_id: sino1245

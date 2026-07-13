@@ -5,6 +5,8 @@ autonym: bahasa Awera
 population: 70
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Lakes Plain language of Indonesia
 status_id: "7"
 scope: individual
 language_type: living

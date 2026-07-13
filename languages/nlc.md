@@ -2,10 +2,12 @@
 iso: nlc
 name: Nalca
 autonym: Hmanggona
-alt_names: [Hmonono, Kimjal, Kimyal, Monomor, Naltje, Naltya]
+alt_names: [Hmonono, Kimjal, Kimyal, Monomor, Naltje, Naltya, Mek, Nalja]
 population: 16000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language of Highland Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

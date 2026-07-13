@@ -6,6 +6,8 @@ alt_names: [Maniq, Mos, "Ten'en", "Tonga'"]
 population: 300
 country_id: TH
 country_name: Thailand
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia and Thailand
 status_id: 6b
 scope: individual
 language_type: living

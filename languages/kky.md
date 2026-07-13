@@ -6,6 +6,8 @@ alt_names: [Balara, Boolcanara, Bullangi, Bulponara, Bulpoonarra, Bulpoonarra Dj
 population: 200
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Pama–Nyungan language of Queensland Australia
 status_id: 6b
 scope: individual
 language_type: living

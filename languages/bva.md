@@ -6,6 +6,8 @@ alt_names: [Barain, Guilia, Jalkia]
 population: 4100
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language of south central Chad
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: coe
 name: Koreguaje
 autonym: "Ko'reuaju"
-alt_names: [Caquetá, Chaocha Pai, Coreguaja, Coreguaje, Corehuaje, Correguaje, Correguaje-Tama, Korewahe]
+alt_names: [Caquetá, Chaocha Pai, Coreguaja, Coreguaje, Corehuaje, Correguaje, Correguaje-Tama, Korewahe, Ko’reuaju, Koꞌreuaju]
 population: 2100
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Tucanoan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.92316
 longitude: -75.34745
+language_map_img: Koreguaje.webp
 glottocode: kore1283
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

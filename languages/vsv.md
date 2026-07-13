@@ -5,6 +5,7 @@ autonym: Llengua de signes valenciana
 population: 6000
 country_id: ES
 country_name: Spain
+area: "Sign language used in Valencia, Spain"
 status_id: 6a
 scope: individual
 language_type: living

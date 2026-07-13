@@ -2,10 +2,12 @@
 iso: ikx
 name: Ik
 autonym: "Icé-tód"
-alt_names: [Icietot, "Ik (delete in favor of So (=Tepes)?)", Ngulak, Teuso, Teuth]
+alt_names: [Icietot, "Ik (delete in favor of So (=Tepes)?)", Ngulak, Teuso, Teuth, Icetod, Icetot]
 population: 10000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Kuliak language of Uganda
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Kpalagha, KpalaƔa, Palaka, Palara, Pallakha, Pilara, "Senoufo, Pala
 population: 8000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Senufo language spoken in Mali
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 9.53815
 longitude: -4.9271
+language_map_img: 500px-Palaka_language.webp
 glottocode: pala1342
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

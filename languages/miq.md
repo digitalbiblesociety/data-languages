@@ -2,15 +2,18 @@
 iso: miq
 name: Mískito
 autonym: Mískitu
-alt_names: [Marquito, Miskito, Miskito language, Miskitu, Miskitu simi, Misquito, Mosco, Mosquito, Mísquito]
+alt_names: [Marquito, Miskito, Miskito language, Miskitu, Miskitu simi, Misquito, Mosco, Mosquito, Mísquito, Baldam, Baymuna, Baymunana, Cabo, Honduran Mískito, Kabo, Mam, Miskuto, Tauira, Tawira, Wangki, Wanki]
 population: 143000
 country_id: NI
 country_name: Nicaragua
+location: Nicaragua
+area: Misumalpan language in Central America
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 15.157575
 longitude: -84.294175
+language_map_img: Miskito_language.svg
 glottocode: misk1235
 glottolog_family_id: misu1242
 glottolog_family_name: Misumalpan

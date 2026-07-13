@@ -6,6 +6,8 @@ alt_names: [Akuawa, Akwawa, Akwáwa, Assurini, Assuriní, Assuriní do Tocantins
 population: 300
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupi–Guarani dialect group of Brazil
 status_id: "7"
 scope: individual
 language_type: living

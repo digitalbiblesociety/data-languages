@@ -2,10 +2,11 @@
 iso: pml
 name: Lingua Franca
 autonym: sabir
-alt_names: ["'Ajnabi", Aljamia, Ferenghi, Petit Mauresque, Средиземноморский лингва-франка]
+alt_names: ["'Ajnabi", Aljamia, Ferenghi, Petit Mauresque, Средиземноморский лингва-франка, ’Ajnabi, Ajnabi]
 population: null
 country_id: TN
 country_name: Tunisia
+area: Lingua franca of the Mediterranean Basin between the 11th and 19th centuries
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -3,10 +3,11 @@ iso: sot
 iso639_1: st
 name: Southern Sotho
 autonym: Sesotho
-alt_names: [IsiSotho, IsiSuthu, S Sotho, SeSotho do sul, Sesotho simi, Sisutho, Sotho, Sotho du Sud, Sotho language, "Sotho, Southern", Sothoeg, Soto, Southern, Souto, Suid-Sotho, Suthu, Suto, Sutum, Süd-Sotho, Zuid-Sotho, Сесото, سېسوتوچە]
+alt_names: [IsiSotho, IsiSuthu, S Sotho, SeSotho do sul, Sesotho simi, Sisutho, Sotho, Sotho du Sud, Sotho language, "Sotho, Southern", Sothoeg, Soto, Southern, Souto, Suid-Sotho, Suthu, Suto, Sutum, Süd-Sotho, Zuid-Sotho, Сесото, سېسوتوچە, Taung]
 population: 5624700
 country_id: LS
 country_name: Lesotho
+location: "Lesotho, South Africa and Swaziland"
 status_id: "1"
 scope: individual
 language_type: living

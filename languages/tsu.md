@@ -2,15 +2,18 @@
 iso: tsu
 name: Tsou
 autonym: Tsou
-alt_names: [Cou, Namakaban, Niitaka, Tibola, Tibolah, Tibolak, Tibolal, Tso, Tsoo, Tsou-ngî, Tsu-U, Tsu-Wo, Tsuou, Tzo]
+alt_names: [Cou, Namakaban, Niitaka, Tibola, Tibolah, Tibolak, Tibolal, Tso, Tsoo, Tsou-ngî, Tsu-U, Tsu-Wo, Tsuou, Tzo, Duhtu, Iimucu, Iimutsu, Luhtu, Tapangu, Tfuea, Tfuya]
 population: 2127
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.21605
 longitude: 120.78663
+language_map_img: 500px-Formosan_languages_2009.webp
 glottocode: tsou1248
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

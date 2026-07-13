@@ -4,6 +4,7 @@ iso639_1: tw
 macrolanguage_id: aka
 name: Twi
 autonym: Akwapem Twi
+alt_names: [Akan, Asante Twi]
 population: 24000
 country_id: GH
 country_name: Ghana

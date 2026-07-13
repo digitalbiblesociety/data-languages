@@ -2,10 +2,12 @@
 iso: ldk
 name: Leelau
 autonym: Bikwin
-alt_names: [Lelau, Lelo, Munga, Munga Lelau, Munga-Gomu-Bambuka]
+alt_names: [Lelau, Lelo, Munga, Munga Lelau, Munga-Gomu-Bambuka, Bakula]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bikwin language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

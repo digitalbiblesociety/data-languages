@@ -6,11 +6,13 @@ alt_names: [Meherrin, Nottaway-Meherrin]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language of Virginia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 36.72
 longitude: -77.115
+language_map_img: 500px-Nottoway_Pre-Contact_Map.webp
 glottocode: nott1246
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian

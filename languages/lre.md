@@ -6,11 +6,13 @@ alt_names: [Saint Lawrence Iroquoian, St. Lawrence Iroquoian]
 population: null
 country_id: CA
 country_name: Canada
+area: Extinct branch of the Iroquoian language family
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 45.33
 longitude: -72.5
+language_map_img: Iroquoiens_St_Laurent.webp
 glottocode: laur1250
 glottolog_family_id: iroq1247
 glottolog_family_name: Iroquoian

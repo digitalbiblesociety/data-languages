@@ -3,10 +3,12 @@ iso: quk
 macrolanguage_id: que
 name: Chachapoyas Quechua
 autonym: Amazonas Quechua
-alt_names: [Chachapoya, Chachapoyas, Chachapoyas-Quechua, Chachapuya runashimi, Quechua chachapoyano, "Quechua, Chachapoyas", Чачапоясский кечуа]
+alt_names: [Chachapoya, Chachapoyas, Chachapoyas-Quechua, Chachapuya runashimi, Quechua chachapoyano, "Quechua, Chachapoyas", Чачапоясский кечуа, Amazonas]
 population: 100
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: "4"
 scope: individual
 language_type: living

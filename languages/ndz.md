@@ -2,10 +2,12 @@
 iso: ndz
 name: Ndogo
 autonym: null
-alt_names: [Sudan]
+alt_names: [Sudan, Co Ndogo]
 population: 48000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Ubangian language of South Sudan
 status_id: "3"
 scope: individual
 language_type: living

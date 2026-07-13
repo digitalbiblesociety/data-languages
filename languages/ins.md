@@ -2,10 +2,11 @@
 iso: ins
 name: Indian Sign Language
 autonym: "Indo-Pakistani Sign Language"
-alt_names: [Urban Indian Sign Language]
+alt_names: [Urban Indian Sign Language, Bangalore-Chennai-Hyderabad Sign Language, Bangla Ishara Vasha, Bangladesh Sign Language, Bangladeshi Sign Language, Bengali Sign Language, IPSL, ISL, Mumbai-Delhi Sign Language]
 population: 6815000
 country_id: IN
 country_name: India
+area: Sign language of the Indian subcontinent
 status_id: 6a
 scope: individual
 language_type: living
@@ -82,3 +83,4 @@ rolv_dialects:
     country_id: IN
     location: India
 ---
+Indo-Pakistani Sign Language is the predominant sign language in the subcontinent of South Asia, used by at least 15 million deaf signers. As with many sign languages, it is difficult to estimate numbers with any certainty, as the Census of India does not list sign languages and most studies have focused on the north and urban areas. As of 2024, it is the most used sign language in the world, and Ethnologue ranks it as the 149th most spoken language in the world.

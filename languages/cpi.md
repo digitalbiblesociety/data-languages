@@ -6,6 +6,7 @@ alt_names: [China coast pidgin, Chiński pidżyn, Melanesian-Chinese Mixed Pidgi
 population: null
 country_id: NR
 country_name: Nauru
+area: Type of contact language
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Pashto, Tarino, Vanechi, Wanechi, Wanetsi]
 population: 141000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Pashto dialect spoken in northeastern Balochistan
 status_id: 6a
 scope: individual
 language_type: living

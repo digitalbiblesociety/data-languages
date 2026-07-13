@@ -5,6 +5,8 @@ autonym: Bom
 population: 21400
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bantu language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

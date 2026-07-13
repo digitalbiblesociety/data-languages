@@ -2,10 +2,12 @@
 iso: cbr
 name: Cashibo-Cacataibo
 autonym: Cacataibo
-alt_names: [Cachibo, Cacibo, Cahivo, Cashibo, Catcataibo, Caxibo, Caxinyo, Hagueti, Kachibeg, Kashibo, Kashibo-Kakataibo, Kashibu simi, Managua, Ra-txa Hu-ni-ku-i]
+alt_names: [Cachibo, Cacibo, Cahivo, Cashibo, Catcataibo, Caxibo, Caxinyo, Hagueti, Kachibeg, Kashibo, Kashibo-Kakataibo, Kashibu simi, Managua, Ra-txa Hu-ni-ku-i, Kakataibo, Aincacatai, Incauncanibo, Kakataibo de Mariscal, Kakataibo de Sinchi Roca, Kakataibo-Kashibo, Kashibo de Sungaroyacu, Kashibo del Alto Aguaytía]
 population: 2780
 country_id: PE
 country_name: Peru
+location: Peru
+area: Panoan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Tench
 population: 30
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Moribund Austronesian language of northeast Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

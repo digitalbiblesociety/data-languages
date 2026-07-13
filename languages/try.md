@@ -6,6 +6,7 @@ alt_names: [Tailung, Tairong]
 population: 1000
 country_id: IN
 country_name: India
+area: "Jingpho dialect of Assam, India"
 status_id: "10"
 scope: individual
 language_type: extinct

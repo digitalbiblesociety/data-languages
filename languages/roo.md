@@ -2,10 +2,12 @@
 iso: roo
 name: Rotokas
 autonym: null
-alt_names: [Kunua-Keriaka-Rotokas-Eivo, Rotokaseg, Ротокас]
+alt_names: [Kunua-Keriaka-Rotokas-Eivo, Rotokaseg, Ротокас, Aita, Atsilima, Pipipaia]
 population: 4320
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: North Bougainville language
 status_id: "5"
 scope: individual
 language_type: living

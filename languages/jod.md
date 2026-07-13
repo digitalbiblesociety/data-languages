@@ -2,10 +2,12 @@
 iso: jod
 name: Wojenaka
 autonym: Malinke
-alt_names: [Malinké, Odiennekakan, Odienné Jula]
+alt_names: [Malinké, Odiennekakan, Odienné Jula, Wodjeneka, Wodjenekakan, Wojenekakan]
 population: 147000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Manding language of West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -104,3 +106,4 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+Maninka, or more precisely Eastern Maninka, is the name of several closely related languages and dialects of the southeastern Manding subgroup of the Mande language family. It is the mother tongue of the Malinké people in Guinea, where it is spoken by 3.1 million people and is the main language in the Upper Guinea region, and in Mali, where the closely related Bambara is a national language, as well as in Liberia, Sierra Leone and Ivory Coast, where it has no official status. It was the language of court and government during the Mali Empire.

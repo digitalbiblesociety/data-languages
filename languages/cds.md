@@ -5,6 +5,7 @@ autonym: Lenguaje de Señas Bolivianas LSB
 population: 390
 country_id: TD
 country_name: Chad
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
@@ -49,3 +50,4 @@ translations:
     name: 乍得手语
     auto: true
 ---
+American Sign Language (ASL) developed in the United States, starting as a blend of local sign languages and French Sign Language (FSL). Local varieties have developed in many countries, but there is little research on which should be considered dialects of ASL and which have diverged to the point of being distinct languages.

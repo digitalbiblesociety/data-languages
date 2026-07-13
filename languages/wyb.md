@@ -6,6 +6,8 @@ alt_names: [Gai amba, Gaiamba, Mudall, NGIYAMPAA / NGEMPA, Narran, Negunbah, Nga
 population: 11
 country_id: AU
 country_name: Australia
+location: Australia
+area: "Critically endangered Pama–Nyungan language of New South Wales, Australia"
 status_id: 8b
 scope: individual
 language_type: living

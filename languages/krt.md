@@ -7,11 +7,14 @@ alt_names: [Bornu, Kanambu, Kanembu, Kanuri, "Kanuri, Tumari"]
 population: 40000
 country_id: NE
 country_name: Niger
+location: Niger
+area: "Saharan dialect continuum of Nigeria, Niger, Chad and Cameroon"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.25844
 longitude: 13.15705
+language_map_img: Kanuri_languages_map_001.webp
 glottocode: tuma1248
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

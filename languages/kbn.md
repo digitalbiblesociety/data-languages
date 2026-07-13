@@ -2,10 +2,12 @@
 iso: kbn
 name: Kare
 autonym: nzáà kã́rĩ́
-alt_names: [Kali, Kare, Kari, Karré, Kerɛ]
+alt_names: [Kali, Kare, Kari, Karré, Kerɛ, Kareng, Kãrɛ̃, Tale, Tali]
 population: 97460
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Mbum language of the Central African Republic
 status_id: "5"
 scope: individual
 language_type: living

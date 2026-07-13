@@ -6,6 +6,8 @@ alt_names: [Dekwambre, Ekware, Kebar]
 population: 7000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Isolate language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

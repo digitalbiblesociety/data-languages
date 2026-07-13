@@ -2,10 +2,12 @@
 iso: cam
 name: Cemuhî
 autonym: Wagap
-alt_names: [Camuhi, Camuki, Cemuhi, Cèmuhî, Neukaledonien, Touho, Tyamuhi]
+alt_names: [Camuhi, Camuki, Cemuhi, Cèmuhî, Neukaledonien, Touho, Tyamuhi, Tie]
 population: 2050
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: 6b
 scope: individual
 language_type: living

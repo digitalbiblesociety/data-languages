@@ -6,6 +6,8 @@ alt_names: [HNSL, Ha Noi Sign Language, NNKHHN, Northern Vietnamese Sign Languag
 population: 39000
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: "Deaf sign language of Hanoi, Vietnam"
 status_id: 6a
 scope: individual
 language_type: living

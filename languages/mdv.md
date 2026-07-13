@@ -6,6 +6,8 @@ alt_names: [Atatláhuca Mixtec, Central Misteko, Centreal Mixteco, Chalcatongo M
 population: 203
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 圣露西亚蒙特韦德混合语
     auto: true
 ---
+Atatláhuca–San Miguel Mixtec is a diverse Mixtec language of Oaxaca.

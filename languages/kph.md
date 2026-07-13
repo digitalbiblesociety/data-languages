@@ -6,6 +6,8 @@ alt_names: [Guang]
 population: 1600
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Guang language of Ghana
 status_id: 6a
 scope: individual
 language_type: living

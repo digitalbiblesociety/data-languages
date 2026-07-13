@@ -2,9 +2,11 @@
 iso: eaa
 name: Karenggapa
 autonym: Palpakunu
+alt_names: [Garanggaba]
 population: null
 country_id: AU
 country_name: Australia
+area: Indigenous language of Australia
 status_id: "9"
 scope: individual
 language_type: extinct
@@ -45,3 +47,4 @@ translations:
     name: 卡伦加帕语
     auto: true
 ---
+The Wilson River language, also known as "Modern" Wankumara, is an Australian Aboriginal language of the Karnic family. It was spoken by several peoples along the Wilson River in Queensland. Of these, the Wanggumara (Wangkumara) and Galali may have migrated from the Bulloo River and abandoned their language when they arrived.

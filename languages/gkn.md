@@ -2,10 +2,12 @@
 iso: gkn
 name: Gokana
 autonym: null
-alt_names: [Nigeria]
+alt_names: [Nigeria, Bodo, Bomu, Dere, Kibangha]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ogoni language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

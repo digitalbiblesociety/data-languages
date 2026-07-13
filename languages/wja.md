@@ -2,10 +2,12 @@
 iso: wja
 name: Waja
 autonym: Wɪyáà
-alt_names: [Nyan Wiyau, Wadja, Wiyaa, Wuya]
+alt_names: [Nyan Wiyau, Wadja, Wiyaa, Wuya, Deruwo, Wajan Dutse, Wajan Kasa]
 population: 60000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Savannas language of eastern Nigeria
 status_id: 6a
 scope: individual
 language_type: living

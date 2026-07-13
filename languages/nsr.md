@@ -6,6 +6,7 @@ alt_names: [Nova Scotian Sign Language]
 population: 90
 country_id: CA
 country_name: Canada
+area: Maritime Canadian sign language
 status_id: 8b
 scope: individual
 language_type: living

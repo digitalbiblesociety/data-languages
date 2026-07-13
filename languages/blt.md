@@ -2,15 +2,18 @@
 iso: blt
 name: Tai Dam
 autonym: Black Tai
-alt_names: [Black Thai, Dam, Tai Do, Tai Noir, Taidameg, Thái Den, Táy-Dam]
+alt_names: [Black Thai, Dam, Tai Do, Tai Noir, Taidameg, Thái Den, Táy-Dam, "'Táy", Hei Dai, Jinping Dai, Meuay, Tai Mueai, Tai Muei, Tai Muoi, Tailam, Tailon, Tay Mueai, "Táy Mu'ò'i"]
 population: 777700
 country_id: VN
 country_name: Vietnam
+location: Southwestern China
+area: Tai language spoken in Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 18.957235
 longitude: 102.927963
+language_map_img: 500px-Tai_dam_language.webp
 scripts: [Tavt]
 glottocode: taid1247
 glottolog_family_id: taik1256

@@ -6,6 +6,8 @@ alt_names: [Musa, Musian, Siafli, Siwai]
 population: 220
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Arai–Samaia language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

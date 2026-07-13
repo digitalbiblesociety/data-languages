@@ -6,6 +6,7 @@ alt_names: [Djwarli, Dyiwarli, Guwari, Jivali, Jiwali, Jiwarli, Juwali, Kuwari, 
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

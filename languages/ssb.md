@@ -2,10 +2,12 @@
 iso: ssb
 name: Southern Sama
 autonym: Bajau
-alt_names: [Bajau Asli, Kubang, Sama (South), Sama (Southern), "Sama Sibutu'", Sama Tawi-Tawi, "Sama, Southern", Semporna Bajau, Sinama, Sinama Tawi-Tawi]
+alt_names: [Bajau Asli, Kubang, Sama (South), Sama (Southern), "Sama Sibutu'", Sama Tawi-Tawi, "Sama, Southern", Semporna Bajau, Sinama, Sinama Tawi-Tawi, Sama Sibutu’, Aꞌa Sama, Bajau Banaran, Bajau Darat, Bajau Kubang, Bajau Laut, Bajau Semporna, Bajau Simunul, Bajau Ubian, Balimbing, Benadan, Binadan, Bongao, Denawan, Kubung, Laminusa, Laminusa Sinama, Languyan, Mandelaut, Obian, Palaꞌau, Palaꞌu, Sama, Sama Dilaut, Sama Kubang, Sama Kubung, Sama Laut, Sama Mandelaut, Sama Palaꞌau, Sama Simunul, Sama Ubian, Samah, Samah Lumbuh, Samah-Samah, Samal, Samar, Samaꞌ, Sapa-Sapa, Sea Bajau, Sea Gypsies, Sibutu, Sibutuq, Sibutuꞌ, Sikubung, Simunul, Sitangkai, Southern Bajau, Southern Sinama, Tandubas, Tau Ubian, Tawi-Tawi Sinama, Ubian]
 population: 260000
 country_id: PH
 country_name: Philippines
+location: Malaysia - Sabah
+area: Austronesian language family of Borneo and the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -139,3 +141,4 @@ rolv_dialects:
     country_id: MY
     location: Malaysia
 ---
+The Sama–Bajaw languages are a well-established group of languages spoken by the Sama-Bajau peoples of the Philippines, Indonesia, and Malaysia.

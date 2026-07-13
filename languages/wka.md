@@ -6,6 +6,7 @@ alt_names: ["Kw'adza hizkuntza", Kwadza, Ngomvya, Ng’omvia, Qwadza, Wangomvia]
 population: null
 country_id: TZ
 country_name: Tanzania
+area: East Rift language spoken in Tanzania
 status_id: "10"
 scope: individual
 language_type: extinct

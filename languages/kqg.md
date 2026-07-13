@@ -6,6 +6,8 @@ alt_names: [Bambadion-Kheso]
 population: 1300
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in Burkina Faso
 status_id: "7"
 scope: individual
 language_type: living

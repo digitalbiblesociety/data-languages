@@ -6,11 +6,14 @@ alt_names: ["Mnong, Southern", Penong]
 population: 30000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 12.06354
 longitude: 107.65424
+language_map_img: 500px-Mnong_language.webp
 glottocode: sout2692
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
@@ -54,3 +57,4 @@ translations:
     name: 南蒙翁语
     auto: true
 ---
+The Mnong language belongs to the Austro-Asiatic language family. It is spoken by the different groups of Mnong in Vietnam and a Pnong group in Cambodia.

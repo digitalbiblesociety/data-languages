@@ -6,6 +6,8 @@ alt_names: [Dagaari Dioula, Dagaari-Jula, Dagaari-Yula, Kantonsi, Yare, Yari, Ya
 population: 2300
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: 6b
 scope: individual
 language_type: living

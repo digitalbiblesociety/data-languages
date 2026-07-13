@@ -2,10 +2,12 @@
 iso: gul
 name: Sea Island Creole English
 autonym: "Gullah-English"
-alt_names: ["Creole English, Sea Island", Geechee, Gulaoj, Gulla, Gullah, Gullah language, Gullah-Geechee, Sea Island Creole, 古拉人種]
+alt_names: ["Creole English, Sea Island", Geechee, Gulaoj, Gulla, Gullah, Gullah language, Gullah-Geechee, Sea Island Creole, 古拉人種, Sea Isaland Creole]
 population: 390
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Creole language of southern US
 status_id: "5"
 scope: individual
 language_type: living

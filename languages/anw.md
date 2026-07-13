@@ -2,10 +2,12 @@
 iso: anw
 name: Anaang
 autonym: Anang
-alt_names: [Annang]
+alt_names: [Annang, Abak, Anaañ, Ikot Ekpene, Ukanafun]
 population: 2740000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Cross River language spoken in Nigeria
 status_id: "4"
 scope: individual
 language_type: living

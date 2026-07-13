@@ -2,10 +2,12 @@
 iso: swb
 name: Maore Comorian
 autonym: shikomori/شِكُمُرِ
-alt_names: [Comores Swahili, Comorian, "Comorian, Maore", Comoro, Komoro, Mahorais, Shimaore, Shimaore dialect]
+alt_names: [Comores Swahili, Comorian, "Comorian, Maore", Comoro, Komoro, Mahorais, Shimaore, Shimaore dialect, Maore]
 population: 185500
 country_id: YT
 country_name: Mayotte
+location: "Comoros, Madagascar and Mayotte"
+area: Dialect spoken in Mayotte
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: miy
 name: Ayutla Mixtec
 autonym: Coastal Guerrero Mixtec
-alt_names: [Ayutla, Ayutla Mixteco, Central Juxtlahuaca Mixtec, Coicoyán Mixtec, Juxtlahuaca Mixtec, Misteko, Mixtec, Mixtec (Ayutla), "Mixtec, Ayutla", Mixteco (Ayutla), Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Southern Misteko, Southern Mixteco, Western Juxtlahuaca Mixtec]
+alt_names: [Ayutla, Ayutla Mixteco, Central Juxtlahuaca Mixtec, Coicoyán Mixtec, Juxtlahuaca Mixtec, Misteko, Mixtec, Mixtec (Ayutla), "Mixtec, Ayutla", Mixteco (Ayutla), Mixteco de Ayutla, Mixteco de Juxtlahuaca, Mixteco del Oeste de Juxtlahuaca, Southern Baja Mixtec, Southern Misteko, Southern Mixteco, Western Juxtlahuaca Mixtec, Mixteco, Mixteco de la Costa de Guerrero, Tuꞌun savi]
 population: 11600
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Mixtec language of Guerrero, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

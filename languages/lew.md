@@ -2,10 +2,12 @@
 iso: lew
 name: Ledo Kaili
 autonym: Ledo
-alt_names: [Kaili, Kaili (Ledo), "Kaili, Ledo", Paloesch, Palu]
+alt_names: [Kaili, Kaili (Ledo), "Kaili, Ledo", Paloesch, Palu, Ado, Doi, Dolago-Sausu, Edo, Ija, Kaili-Ledo, Kayu Malue, Kori, Mamboro, Pakuli, Palolo, Parigi, Rai, Raio, Ri Io, Sausu, Sibalaya, Sidondo, Sigi, Sindue-Tawaili, Taa, Tado, Tara, Tawaili-Sindue, Taꞌa, To ri Io, Torio, Toriu]
 population: 215000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "3"
 scope: individual
 language_type: living

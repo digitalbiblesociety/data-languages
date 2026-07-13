@@ -6,11 +6,14 @@ alt_names: [Kikapoo, Kikapú, Quicapú (Texas)]
 population: 1120
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Algonquian language spoken in US and Mexico
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41.655145
 longitude: -89.03034
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 glottocode: kick1244
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

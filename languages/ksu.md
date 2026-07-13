@@ -6,6 +6,8 @@ alt_names: [Khamjang, Shyam, Tai Khamyang]
 population: 800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Endangered Tai language spoken in India
 status_id: 8b
 scope: individual
 language_type: living

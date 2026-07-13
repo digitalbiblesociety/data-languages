@@ -2,10 +2,12 @@
 iso: ckh
 name: Chak
 autonym: Cak
-alt_names: [Sak]
+alt_names: [Sak, Ashah, Thet, Tsak, atsaʔ]
 population: 20000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language of Myanmar and Bangladesh
 status_id: 6b
 scope: individual
 language_type: living

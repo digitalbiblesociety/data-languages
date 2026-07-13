@@ -5,6 +5,7 @@ autonym: لغة الإشارة الجزائرية
 population: 240000
 country_id: DZ
 country_name: Algeria
+area: Deaf sign language of Algeria
 status_id: 6a
 scope: individual
 language_type: living

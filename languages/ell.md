@@ -3,15 +3,18 @@ iso: ell
 iso639_1: el
 name: Modern Greek
 autonym: Νέα Ελληνικά
-alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Novogréčtina, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), יוונית מודרנית]
+alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Novogréčtina, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), יוונית מודרנית, Ελληνικά, Aspromonte, Crimeo-Rumeic, Cypriot Greek, Dimotiki, Greacă, Griko, Görög, Katharevousa, Katoitaliótika, Mariupol Greek, Northern Estonian, Salento, Saracatsan, Tavro-Rumeic, Urum, Yunan]
 population: 13500000
 country_id: GR
 country_name: Greece
+location: Cyprus
+area: Dialects and varieties of the Greek language spoken in the modern era
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 42.322386
 longitude: 24.869938
+language_map_img: ell.svg
 scripts: [Grek]
 glottocode: mode1248
 glottolog_family_id: indo1319

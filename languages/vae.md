@@ -2,10 +2,12 @@
 iso: vae
 name: Vale
 autonym: null
-alt_names: [Central African Republic]
+alt_names: [Central African Republic, Tana, Tane, Tele]
 population: 5400
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Central Sudanic language of the CAR
 status_id: 6a
 scope: individual
 language_type: living

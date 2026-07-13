@@ -5,6 +5,8 @@ autonym: Toros
 population: 3200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living

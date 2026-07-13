@@ -6,6 +6,8 @@ alt_names: [Berber (Mauritania), Berber (Mauritanian), Group Four, Western, Zena
 population: 200
 country_id: MR
 country_name: Mauritania
+location: Mauritania
+area: Moribund Berber language of Mauritania and Senegal
 status_id: 8a
 scope: individual
 language_type: living

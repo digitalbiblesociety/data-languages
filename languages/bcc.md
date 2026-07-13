@@ -3,10 +3,12 @@ iso: bcc
 macrolanguage_id: bal
 name: Southern Balochi
 autonym: بلۏچی  Balòci
-alt_names: ["Balochi, Southern", Baluchi, Balutschi]
+alt_names: ["Balochi, Southern", Baluchi, Balutschi, Balochi, Southern, Baloci, Baluci, Makrani, Barahuwi, Bashgaadi, Coastal Balochi, Huuti, Kechi, Keci, Koroshi, Lotuni, Zadgaali]
 population: 3636700
 country_id: PK
 country_name: Pakistan
+location: Oman
+area: Western Iranian language
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Kwitlateko]
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct isolate language of Mexico
 status_id: null
 scope: individual
 language_type: living

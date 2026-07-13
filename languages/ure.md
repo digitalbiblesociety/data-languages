@@ -6,6 +6,8 @@ alt_names: [Chholo, Iru-Itu, "Iru-Wit'u", Iru-Wit’u, Morato, Muratu, Muratu (U
 population: 142
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Uru–Chipaya language spoken in Bolivia
 status_id: 8b
 scope: individual
 language_type: living

@@ -7,6 +7,8 @@ alt_names: [Lushisa, Olushisa, Shisa]
 population: null
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "4"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 基萨语
     auto: true
 ---
+Luhya is a Bantu language of western Kenya.

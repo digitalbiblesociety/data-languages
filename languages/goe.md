@@ -6,11 +6,14 @@ alt_names: [Gongdubikha, Gongdue Kha]
 population: 2100
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Endangered Sino-Tibetan language of Bhutan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 27.06603
 longitude: 91.16861
+language_map_img: 500px-Sino-Tibetan_Languages_Map.webp
 glottocode: gong1251
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

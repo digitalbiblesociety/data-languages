@@ -6,6 +6,8 @@ alt_names: [Oida]
 population: 14075
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

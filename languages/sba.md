@@ -2,10 +2,12 @@
 iso: sba
 name: Ngambay
 autonym: Gamba
-alt_names: [Gamb-Lai, Gambai, Gambaye, Gamblai, Ngambai, Sara, Sara Ngambai, Sara-Ngambay]
+alt_names: [Gamb-Lai, Gambai, Gambaye, Gamblai, Ngambai, Sara, Sara Ngambai, Sara-Ngambay, Bemar, Benoye, Daba de Goré, Kere, Lara, Mouroum, Murum]
 population: 1377000
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: "Nilo-Saharan language spoken in Chad, Cameroon and Nigeria"
 status_id: "3"
 scope: individual
 language_type: living

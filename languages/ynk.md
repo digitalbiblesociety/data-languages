@@ -6,11 +6,14 @@ alt_names: [Chaplino-Naukan, Chaplino-Naukanski (East Cape), East Cape, East Cap
 population: 350
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Eskimo–Aleut language spoken in Russia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 65.51842
 longitude: -171.7554
+language_map_img: Asian_Siberian_Yupik_Eskimo_map.svg
 glottocode: nauk1242
 glottolog_family_id: eski1264
 glottolog_family_name: Eskimo-Aleut

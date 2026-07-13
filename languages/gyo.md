@@ -5,6 +5,7 @@ autonym: ग्याल्सुस्दो
 population: 200
 country_id: NP
 country_name: Nepal
+area: Tibetic language
 status_id: null
 scope: individual
 language_type: living

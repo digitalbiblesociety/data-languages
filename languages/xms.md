@@ -2,9 +2,11 @@
 iso: xms
 name: Moroccan Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [MSL]
 population: 63400
 country_id: MA
 country_name: Morocco
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living

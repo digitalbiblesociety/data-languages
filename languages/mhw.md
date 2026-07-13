@@ -2,10 +2,12 @@
 iso: mhw
 name: Mbukushu
 autonym: Thimbukushu
-alt_names: [Cusso, Gova, Kusso, Mambukush, Mampukush, Mbukuhu, Mbukushi]
+alt_names: [Cusso, Gova, Kusso, Mambukush, Mampukush, Mbukuhu, Mbukushi, Hambukushu, Kuso, Sempukushu, Thimukushu]
 population: 88300
 country_id: NA
 country_name: Namibia
+location: Angola
+area: Bantu language spoken in southern Africa
 status_id: "5"
 scope: individual
 language_type: living

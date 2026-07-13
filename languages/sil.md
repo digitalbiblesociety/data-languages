@@ -2,10 +2,12 @@
 iso: sil
 name: Tumulung Sisaala
 autonym: Sissala
-alt_names: [Hissala, Isaalung, Isala, Issala, Shom peng, Shompen, "Sisaala, Tumulung", Sisai, Sisala, Sisala Tumu]
+alt_names: [Hissala, Isaalung, Isala, Issala, Shom peng, Shompen, "Sisaala, Tumulung", Sisai, Sisala, Sisala Tumu, Sisaala, Tumulung, Galebagla, Gil Bagale, Isaalang, Nsihaa, Potule]
 population: 105000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language cluster spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -79,3 +81,4 @@ rolv_dialects:
     country_id: GH
     location: Ghana
 ---
+Sisaala (Sissala) is a Gur language cluster spoken in northern Ghana near the town of Tumu and in the neighbouring republic of Burkina Faso. Western Sisaala is intermediate between Sisaali and Tumulung Sisaala.

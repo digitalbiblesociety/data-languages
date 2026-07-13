@@ -7,6 +7,8 @@ alt_names: [Coatec Zapotec, Coatlan Zapotec, Coatlán-Loxicha Zapotec (non-prefe
 population: 500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living

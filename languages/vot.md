@@ -6,11 +6,14 @@ alt_names: ["Vad'a kiil", Vatja, Vatjagiella, Vodian, Vot, Vote, Voteg, Votian, 
 population: 62
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Finnic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 59.38017
 longitude: 28.6235
+language_map_img: 500px-2.4a-Ingrian-and-Votic_traditional.webp
 scripts: [Latn]
 glottocode: voti1245
 glottolog_family_id: ural1272

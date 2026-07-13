@@ -2,10 +2,12 @@
 iso: wyy
 name: Western Fijian
 autonym: Fiji
-alt_names: [Fidji-Inseln, Fijian, "Fijian, Western", Magodro, Nadroga, Nadronga, Nakoroboya, Namosi-Naitasiri-Serua, Noikoro, Viti, Waya, Wayan]
+alt_names: [Fidji-Inseln, Fijian, "Fijian, Western", Magodro, Nadroga, Nadronga, Nakoroboya, Namosi-Naitasiri-Serua, Noikoro, Viti, Waya, Wayan, Nadrogaa]
 population: 18500
 country_id: FJ
 country_name: Fiji
+location: Fiji
+area: Oceanic language spoken in Fiji
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nmw
 name: Nimoa
 autonym: Rifao
-alt_names: [Nimowa]
+alt_names: [Nimowa, Saisai, Sabal]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

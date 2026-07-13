@@ -6,6 +6,7 @@ alt_names: [Senecu, Tompiro]
 population: null
 country_id: BR
 country_name: Brazil
+area: "Extinct Tanoan language of New Mexico, USA"
 status_id: null
 scope: individual
 language_type: extinct

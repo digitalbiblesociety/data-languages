@@ -7,6 +7,8 @@ alt_names: [Eastern Sapoteko, Ixtlan, Ixtlán, Ixtlán Zapoteco, Latuvi Zapotec,
 population: 6000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

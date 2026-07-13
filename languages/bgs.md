@@ -2,15 +2,18 @@
 iso: bgs
 name: Tagabawa
 autonym: null
-alt_names: [Tagabawa Bagobo, Tagabawa Manobo]
+alt_names: [Tagabawa Bagobo, Tagabawa Manobo, Bagobo]
 population: 43000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 6.9712
 longitude: 125.17494
+language_map_img: 500px-Tagabawa_language_map.webp
 glottocode: taga1272
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

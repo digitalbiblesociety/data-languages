@@ -6,6 +6,7 @@ alt_names: [Dardu, Tirahí, Tirāhī]
 population: 100
 country_id: AF
 country_name: Afghanistan
+area: Moribund Indo-Aryan language of Afghanistan
 status_id: 8b
 scope: individual
 language_type: living

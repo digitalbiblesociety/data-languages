@@ -3,10 +3,11 @@ iso: fao
 iso639_1: fo
 name: Faroese
 autonym: føroyskt mál
-alt_names: [Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Farer tili, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Fearagiella, Feroès, Feroés, Färöische Språch, Färöiska, Færeyska, Færøsk, Færøysk, Féroïen, Føroyskt, Lèngoa farœnse, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, فائېروس تىل, فاروئى]
+alt_names: [Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Farer tili, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Fearagiella, Feroès, Feroés, Färöische Språch, Färöiska, Færeyska, Færøsk, Færøysk, Féroïen, Føroyskt, Lèngoa farœnse, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, فائېروس تىل, فاروئى, Suthuroy]
 population: 69000
 country_id: FO
 country_name: Faroe Islands
+area: North Germanic language of the Faroe Islands
 status_id: "2"
 scope: individual
 language_type: living

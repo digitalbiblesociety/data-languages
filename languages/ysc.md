@@ -5,6 +5,7 @@ autonym: jász
 population: null
 country_id: HU
 country_name: Hungary
+area: Extinct Ossetian dialect of Hungary
 status_id: null
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: bgz
 name: Banggai
 autonym: Aki
-alt_names: [Gagauz]
+alt_names: [Gagauz, Banggaai, Banggaiy, Banggay, Banggaya, East Banggai, West Banggai]
 population: 88300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living

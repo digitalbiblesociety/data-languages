@@ -2,10 +2,12 @@
 iso: atr
 name: "Waimiri-Atroari"
 autonym: "Waimiri-Atroarí"
-alt_names: [Atroahy, Atroahí, Atroarí, Atroaí, Atrowari, Atruahi, Atruahí, "Ki'nya", Krishaná, Waimirí, Waimirí-Atroarí, Yawaperí]
+alt_names: [Atroahy, Atroahí, Atroarí, Atroaí, Atrowari, Atruahi, Atruahí, "Ki'nya", Krishaná, Waimirí, Waimirí-Atroarí, Yawaperí, Ki’nya]
 population: 930
 country_id: BR
 country_name: Brazil
+location: Northeastern Brazil
+area: Cariban language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

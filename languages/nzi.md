@@ -2,10 +2,12 @@
 iso: nzi
 name: Nzima
 autonym: Nzema
-alt_names: [Appolo]
+alt_names: [Appolo, Evalue]
 population: 412000
 country_id: GH
 country_name: Ghana
+location: "Côte d&#039;Ivoire"
+area: Tano language of Ghana and Ivory Coast
 status_id: "4"
 scope: individual
 language_type: living

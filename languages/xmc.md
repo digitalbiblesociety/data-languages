@@ -6,6 +6,8 @@ alt_names: [Coastal Makhuwa, Emaka, Maca, Maka, Marevone, Marrevone, South Maca]
 population: 438000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 马库瓦-马雷沃内语
     auto: true
 ---
+Makhuwa or Mozambican is the primary Bantu language of northern Mozambique. It is spoken by roughly 5.8 million Makua people, who live north of the Zambezi River, particularly in Nampula Province, which is virtually entirely ethnically Makua. It is the most widely spoken indigenous language of Mozambique.

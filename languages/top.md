@@ -2,10 +2,12 @@
 iso: top
 name: Papantla Totonac
 autonym: Lowland Totonac
-alt_names: [Lowland Totonaca, Lowland Totonako, Papantla, Papantla dialect, Totonac, Totonac (Papantla), "Totonac, Papantla", Totonaca (Papantla), Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Papantla, Totonaco papantla, Totonako, Totonaque de Filomeno Mata, Totonaque de Papantla, Totonaque de Patla-Chicontla]
+alt_names: [Lowland Totonaca, Lowland Totonako, Papantla, Papantla dialect, Totonac, Totonac (Papantla), "Totonac, Papantla", Totonaca (Papantla), Totonacano de Patla, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Papantla, Totonaco papantla, Totonako, Totonaque de Filomeno Mata, Totonaque de Papantla, Totonaque de Patla-Chicontla, Totonaco de la Costa, Papantla Totonaco, Tutunakú]
 population: 80000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Totonac language of Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

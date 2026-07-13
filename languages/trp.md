@@ -2,15 +2,18 @@
 iso: trp
 name: Kok Borok
 autonym: Tripuri
-alt_names: [Kakbarak, Kokbarak, Kokborok, Kokborok language, Tipura, Tripura, Usipi, Usipi Mrung]
+alt_names: [Kakbarak, Kokbarak, Kokborok, Kokborok language, Tipura, Tripura, Usipi, Usipi Mrung, Debbarma, Halam, Jamatia, Kohkborohk, Noatia, Tipra]
 population: 958000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 23.19156
 longitude: 91.46733
+language_map_img: 500px-Kokborok.map.webp
 glottocode: kokb1239
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

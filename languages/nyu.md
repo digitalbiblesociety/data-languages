@@ -2,10 +2,12 @@
 iso: nyu
 name: Nyungwe
 autonym: Cinyungwe
-alt_names: [Chinyungwi, Nyongwe, Teta, Tete, Yungwe]
+alt_names: [Chinyungwi, Nyongwe, Teta, Tete, Yungwe, Chinyungwe]
 population: 490000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "3"
 scope: individual
 language_type: living

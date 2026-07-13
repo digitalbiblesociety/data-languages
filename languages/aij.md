@@ -2,10 +2,11 @@
 iso: aij
 name: Lishanid Noshan
 autonym: לשנא דידן
-alt_names: [Aramaic, Aramaic (Arbel Jewish), Arbel Jewish Aramaic, Arbili Neo Aramaic, Galigalu, "Hula'ula", Hulani, Inter-Zab Jewish Neo-Aramaic, Jbeli, Kurdit, Lishana Didán, Lisánido nosán (Israel), Lişanid Noşan, Neo-Aramaic (Arbel Jewish), Neo-Aramaic (Arbel)]
+alt_names: [Aramaic, Aramaic (Arbel Jewish), Arbel Jewish Aramaic, Arbili Neo Aramaic, Galigalu, "Hula'ula", Hulani, Inter-Zab Jewish Neo-Aramaic, Jbeli, Kurdit, Lishana Didán, Lisánido nosán (Israel), Lişanid Noşan, Neo-Aramaic (Arbel Jewish), Neo-Aramaic (Arbel), Hula’ula]
 population: 2250
 country_id: IL
 country_name: Israel
+area: Modern Jewish-Aramaic dialect of Iraq
 status_id: "7"
 scope: individual
 language_type: living

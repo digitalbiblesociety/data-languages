@@ -6,6 +6,8 @@ alt_names: [Nagovisi, Sibbe, Sibe-Nagovisi]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: South Bougainville language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

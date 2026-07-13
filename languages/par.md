@@ -6,6 +6,8 @@ alt_names: [Coso, Death Valley, Koso, Koso Shoshone, Panamint Shoshone, Shoshone
 population: 100
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Endangered Uto-Aztecan language of California
 status_id: 8a
 scope: individual
 language_type: living

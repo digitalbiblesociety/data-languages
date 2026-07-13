@@ -6,6 +6,7 @@ alt_names: [Laos]
 population: 2500
 country_id: LA
 country_name: Laos
+area: Tai language of Laos
 status_id: 6a
 scope: individual
 language_type: living

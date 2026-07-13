@@ -6,11 +6,14 @@ alt_names: [Caddoe, Cado, Kado, Kadoeg, Kadohadacho, Nanatsaho, Petit Caddo, Upp
 population: null
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Endangered language of the southern US
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 35.1826
 longitude: -98.26335
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 scripts: [Latn]
 glottocode: cadd1256
 glottolog_family_id: cadd1255

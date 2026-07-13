@@ -6,6 +6,8 @@ alt_names: [Gambalang, Gambalanga, Geimbio, Gimbarlang, "Gunba:lan", "Gunba:lang
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language of northern Australia
 status_id: 8b
 scope: individual
 language_type: living

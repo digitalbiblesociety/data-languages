@@ -7,11 +7,14 @@ alt_names: ["Malay, Kedah", Satun Malay]
 population: 2600000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Malay dialect of northwestern Malaysia and Thailand
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 5.933
 longitude: 100.492
+language_map_img: 500px-Kedah_Malay_Map.webp
 glottocode: keda1251
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -2,10 +2,12 @@
 iso: mjt
 name: Sauria Paharia
 autonym: Paharia
-alt_names: [Malatri, Maler, Malti, Malto, Maltu, Râjmahal, Sawriya Malto]
+alt_names: [Malatri, Maler, Malti, Malto, Maltu, Râjmahal, Sawriya Malto, Chatgam, Godda, Hiranpur, Litipara, Rajmahali, Sahibganj]
 population: 242000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Dravidian language
 status_id: "5"
 scope: individual
 language_type: living

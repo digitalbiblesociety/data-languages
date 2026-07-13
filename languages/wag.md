@@ -5,6 +5,8 @@ autonym: Waiema
 population: 1020
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 瓦埃玛语
     auto: true
 ---
+Taupota is an Oceanic language of the Milne Bay Province, Papua New Guinea. It appears to be a dialect chain, with southern varieties called Wa'ema and western Wedau.

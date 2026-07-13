@@ -2,10 +2,12 @@
 iso: rgu
 name: Ringgou
 autonym: Rikou
-alt_names: [Eastern Rote, Rote, Rote Timur, Roti, Rotinese, Rotti]
+alt_names: [Eastern Rote, Rote, Rote Timur, Roti, Rotinese, Rotti, Rote Rikou, Landu, Oe Pao, Oepao]
 population: 12000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Timoric language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

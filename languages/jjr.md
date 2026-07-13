@@ -5,6 +5,8 @@ autonym: Bankala
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -45,3 +47,4 @@ translations:
     name: 班卡尔语
     auto: true
 ---
+Jarawa is the most populous of the Jarawan languages of northern Nigeria. It is a dialect cluster consisting of many varieties.

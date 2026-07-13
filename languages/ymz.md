@@ -6,6 +6,8 @@ alt_names: [Mogeha]
 population: 10000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language of Yunnan, China"
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: bsq
 name: Bassa
 autonym: Ɓǎsɔ́
+alt_names: [Central Bassa, Gba Sor, Gbor, Hwen Gba Kon, Mabahn, Rivercess Bassa, Ɓǎsɔ́ɔ̀]
 population: 740300
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru language spoken in Liberia
 status_id: "5"
 scope: individual
 language_type: living

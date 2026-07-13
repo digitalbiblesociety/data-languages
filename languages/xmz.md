@@ -2,10 +2,12 @@
 iso: xmz
 name: Mori Bawah
 autonym: "Beneden-Tomori"
-alt_names: [East Mori, Lower Mori, Nahina]
+alt_names: [East Mori, Lower Mori, Nahina, “Nahina”, Karonsie, "Karunsi'e", Korongsi, Moiki, Mokole, Nuha, Oost-Mori, Petasia, Sinongko, Soroako, Tinompo, Tioe, Tiu, Tomoiki, Towatoe, Watu]
 population: 14000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

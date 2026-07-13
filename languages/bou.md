@@ -2,10 +2,12 @@
 iso: bou
 name: Bondei
 autonym: Bonde
-alt_names: [Kibondei]
+alt_names: [Kibondei, Boondei]
 population: 122000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Northeast Coast Bantu of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

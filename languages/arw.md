@@ -2,10 +2,12 @@
 iso: arw
 name: Arawak
 autonym: Lokono
-alt_names: [Arawak lokono (Guyane), Arawák, Arowak, Aruak, Arwuak, Locono, Lokono Dian]
+alt_names: [Arawak lokono (Guyane), Arawák, Arowak, Aruak, Arwuak, Locono, Lokono Dian, Araguaco, Arahuaco, Arahuacos, Arawac, Arrowukas, Aruaqui, Luccumi]
 population: 2051
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: Arawakan language spoken in South America
 status_id: 8a
 scope: individual
 language_type: living

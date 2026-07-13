@@ -2,10 +2,12 @@
 iso: daz
 name: Dao
 autonym: Maniwo
-alt_names: ["\"X-Ray\"", Moi-Wadea]
+alt_names: ["\"X-Ray\"", Moi-Wadea, “X-Ray”]
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,14 +2,19 @@
 iso: krr
 name: Krung
 autonym: Brao Krung
+alt_names: [Kreung, Brao Tanap, "Kru'ng", Kruꞌng 2, Lun]
 population: 18400
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language spoken in Cambodia and Laos
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 13.56989
 longitude: 106.76134
+language_map_img: 500px-Brao_language.webp
+glottocode: krun1240
 wikidata_id: Q12953650
 translations:
   - translation_iso: ara
@@ -59,3 +64,4 @@ rolv_dialects:
     country_id: KH
     location: Cambodia
 ---
+Rade is an Austronesian language of southern Vietnam. There may be some speakers in Cambodia. It is a member of the Chamic subgroup, and is closely related to the Cham language of central Vietnam.

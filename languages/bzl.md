@@ -2,10 +2,12 @@
 iso: bzl
 name: Boano
 autonym: Bolano
-alt_names: [Boano, Djidja]
+alt_names: [Boano, Djidja, Boan-diks]
 population: 2700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

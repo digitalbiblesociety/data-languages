@@ -3,10 +3,11 @@ iso: lub
 iso639_1: lu
 name: "Luba-Katanga"
 autonym: Kiluba
-alt_names: [Luba, Luba Shaba, Luba-Shaba]
+alt_names: [Luba, Luba Shaba, Luba-Shaba, Tshiluba]
 population: 1510000
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living

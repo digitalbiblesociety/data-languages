@@ -2,15 +2,18 @@
 iso: huu
 name: Murui Huitoto
 autonym: "Huitoto, Murui"
-alt_names: [Bue, Bué, Búe, Huitoto, Huitoto (Murui), Huitoto Murui, Mourouieg, Murai, Murui, Murui Witoto, Murui dialect, Murui-Witoto, Uitoto, Witoto, Witoto (Murui), Witoto murui, 𐍅𐌹𐍄𐍉𐍄𐍉𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Bue, Bué, Búe, Huitoto, Huitoto (Murui), Huitoto Murui, Mourouieg, Murai, Murui, Murui Witoto, Murui dialect, Murui-Witoto, Uitoto, Witoto, Witoto (Murui), Witoto murui, 𐍅𐌹𐍄𐍉𐍄𐍉𐍂𐌰𐌶𐌳𐌰, Mica, Mika]
 population: 1000
 country_id: PE
 country_name: Peru
+location: Southern Colombia
+area: Witotoan language of Peru and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -1.13669
 longitude: -73.83307
+language_map_img: Murui.webp
 glottocode: muru1274
 glottolog_family_id: huit1251
 glottolog_family_name: Huitotoan

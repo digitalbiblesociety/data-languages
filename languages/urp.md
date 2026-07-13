@@ -6,6 +6,8 @@ alt_names: [Brazil]
 population: 200
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupian language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

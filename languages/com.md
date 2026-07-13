@@ -6,11 +6,14 @@ alt_names: [Komantcheg]
 population: 8500
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Uto-Aztecan language spoken by the Comanche people in the United States
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 34.57014
 longitude: -98.42395
+language_map_img: Comanche_lang.webp
 glottocode: coma1245
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

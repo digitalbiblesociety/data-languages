@@ -6,6 +6,8 @@ alt_names: [Kaora, Kora, Korali, Korati, Kore, Koɖa, Koɽa, Kōḍā, Kōḍā,
 population: 1300
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Munda language of eastern India
 status_id: 6a
 scope: individual
 language_type: living

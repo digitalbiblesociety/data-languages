@@ -6,11 +6,13 @@ alt_names: [Ahútireʔécu, Iruʔáycu, Kammatwa, Klamath River, Konomihu, Orego
 population: null
 country_id: US
 country_name: United States
+area: Extinct language of Shasta people in Western United States
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 41.75866
 longitude: -122.73821
+language_map_img: Shastan_languages-01.svg
 glottocode: shas1239
 glottolog_family_id: shas1238
 glottolog_family_name: Shastan

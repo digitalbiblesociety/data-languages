@@ -3,10 +3,11 @@ iso: zpw
 macrolanguage_id: zap
 name: Zaniza Zapotec
 autonym: (Santa María Zaniza)
-alt_names: [Solteco, Southern Sapoteko, Zaniza Papabuco, Zapotec, "Zapotec, Zaniza", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Solteco, Southern Sapoteko, Zaniza Papabuco, Zapotec, "Zapotec, Zaniza", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita", Papabuco, Western Sola de Vega Zapotec, Zapoteco de Santa María Zaniza]
 population: 770
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
 status_id: 6b
 scope: individual
 language_type: living

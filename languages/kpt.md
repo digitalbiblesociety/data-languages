@@ -6,11 +6,14 @@ alt_names: [Karatay, Karatin, Kirdi, КIкIирлIи мацIцIи]
 population: 5000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Northeast Caucasian language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 42.65005
 longitude: 46.31511
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: kara1474
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

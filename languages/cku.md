@@ -6,11 +6,14 @@ alt_names: [Coushatta, Koasatieg, Koasáti]
 population: 200
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Muskogean language of Louisiana
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 30.40957
 longitude: -92.70902
+language_map_img: 500px-Koasati_lang.webp
 glottocode: koas1236
 glottolog_family_id: musk1252
 glottolog_family_name: Muskogean

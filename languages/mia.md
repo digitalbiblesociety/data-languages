@@ -6,6 +6,7 @@ alt_names: [Illinois, Illinois (Wea), Miami Cluster, Miami-Illinois, Miami-Illin
 population: 2000
 country_id: US
 country_name: United States
+area: Algonquian language of the Midwestern US
 status_id: "9"
 scope: individual
 language_type: living

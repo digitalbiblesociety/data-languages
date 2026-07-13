@@ -2,15 +2,18 @@
 iso: fon
 name: Fon
 autonym: fɔ̀ngbè/fõbè
-alt_names: [Dahomeen, Djedji, Fo, Fogbe, Fon-gbe, Foneg, Fongbe, Fonnu]
+alt_names: [Dahomeen, Djedji, Fo, Fogbe, Fon-gbe, Foneg, Fongbe, Fonnu, Agbome, Arohun, Fon (Fongbe), Gbekon, Kpase]
 population: 2067900
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 7.154835
 longitude: 1.664945
+language_map_img: 500px-Gbe_languages.webp
 scripts: [Latn]
 glottocode: fonn1241
 glottolog_family_id: atla1278

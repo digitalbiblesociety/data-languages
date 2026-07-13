@@ -6,6 +6,7 @@ alt_names: [Brazil, Kapinawa]
 population: null
 country_id: BR
 country_name: Brazil
+area: Indigenous people of eastern Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

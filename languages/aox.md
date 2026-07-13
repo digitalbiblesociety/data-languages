@@ -2,10 +2,12 @@
 iso: aox
 name: Atorada
 autonym: Atoraí
-alt_names: ["Ator'ti", Atorad, Atorai, Atoroi, Dauri, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Vapidiana, Wapishana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapisiana, Wapixana, Wapixiána]
+alt_names: ["Ator'ti", Atorad, Atorai, Atoroi, Dauri, Mawayana (Brésil), Mawayana (Guyana), Mawayana (Guyane), Uapixana, Vapidiana, Wapishana, Wapishana (Brésil), Wapishana (Guyana), Wapishana (Guyane), Wapisiana, Wapixana, Wapixiána, Ator’ti]
 population: null
 country_id: GY
 country_name: Guyana
+location: Northeastern Brazil
+area: Arawakan language of Brazil and Guyana
 status_id: 8a
 scope: individual
 language_type: living

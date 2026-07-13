@@ -2,10 +2,12 @@
 iso: dig
 name: Digo
 autonym: Chidigo
-alt_names: [Kidigo]
+alt_names: [Kidigo, Chichifundi, Chichinondo, Chigwirani]
 population: 576000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

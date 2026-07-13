@@ -5,6 +5,7 @@ autonym: "tì-Gamo"
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Kainji dialect cluster of Nigeria
 status_id: "9"
 scope: individual
 language_type: extinct

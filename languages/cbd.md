@@ -6,11 +6,14 @@ alt_names: [Carifuna, Carihona, Guaque, Hianacoto-Umaua, Hianakoto, Hianácoto, 
 population: 310
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Endangered Cariban language spoken in Colombia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 1.21894
 longitude: -72.06635
+language_map_img: Carijona.webp
 glottocode: cari1279
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban

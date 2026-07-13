@@ -2,9 +2,11 @@
 iso: xjt
 name: Jaitmatang
 autonym: Jaitmathang
+alt_names: [Jadjmadang]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +48,4 @@ translations:
     name: 贾伊特马唐语
     auto: true
 ---
+Ngarigo (Ngarigu) is an extinct Australian Aboriginal language, the traditional language of the Ngarigo people of inland far southeast New South Wales.

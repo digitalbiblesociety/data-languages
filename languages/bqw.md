@@ -2,10 +2,12 @@
 iso: bqw
 name: Buru
 autonym: null
-alt_names: [Buru]
+alt_names: [Buru, Buru (Nigeria)]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Southern Bantoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

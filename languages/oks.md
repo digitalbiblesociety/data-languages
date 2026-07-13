@@ -2,10 +2,12 @@
 iso: oks
 name: "Oko-Eni-Osayen"
 autonym: "Ogori-Magongo"
-alt_names: [Oko]
+alt_names: [Oko, Eni, Magongo, Ogori, Osanyin, Osayen, Uku]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Niger–Congo dialect cluster spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

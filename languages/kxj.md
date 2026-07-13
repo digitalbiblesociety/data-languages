@@ -2,10 +2,12 @@
 iso: kxj
 name: Kulfa
 autonym: Kulfa
-alt_names: ["\"Kaba So\"", Koulfa, Kulfe, Kurmi, Kurumi]
+alt_names: ["\"Kaba So\"", Koulfa, Kulfe, Kurmi, Kurumi, “Kaba So”, Kaba So]
 population: 2199
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language of Chad
 status_id: 6a
 scope: individual
 language_type: living

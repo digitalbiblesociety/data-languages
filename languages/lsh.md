@@ -6,6 +6,8 @@ alt_names: [Kishpignag, Lish Monpa, Lishpa, Monpa]
 population: 2340
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language spoken in Northeast India
 status_id: 6a
 scope: individual
 language_type: living

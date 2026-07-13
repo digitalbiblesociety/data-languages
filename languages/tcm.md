@@ -6,11 +6,14 @@ alt_names: [Sumerine, Tanah Merah, Tanahmerah I]
 population: 500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -2.5523
 longitude: 133.17979
+language_map_img: Sumuri_language.svg
 glottocode: tana1288
 wikidata_id: Q3514927
 wikipedia_url: "https://en.wikipedia.org/wiki/Sumuri_language"

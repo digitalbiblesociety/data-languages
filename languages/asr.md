@@ -2,10 +2,12 @@
 iso: asr
 name: Asuri
 autonym: Ashree
-alt_names: [Assur, Asur, Asura, Maleta, Mundari, Mundari-Ho]
+alt_names: [Assur, Asur, Asura, Maleta, Mundari, Mundari-Ho, Birjia, Brijia, Koranti, Manjhi]
 population: 16600
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Munda language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: chf
 name: Tabasco Chontal
 autonym: Yokotʼan
-alt_names: [Chontal, Chontal (Mayan), Chontal (Tabasco), Chontal Maya, Chontal Maya language, Chontal de Tabasco, Chontal du Tabasco, "Chontal, Tabasco", Chontal-maya, Tabasco, "Yocot'an", "Yokot'an", Yokotán]
+alt_names: [Chontal, Chontal (Mayan), Chontal (Tabasco), Chontal Maya, Chontal Maya language, Chontal de Tabasco, Chontal du Tabasco, "Chontal, Tabasco", Chontal-maya, Tabasco, "Yocot'an", "Yokot'an", Yokotán, Yocot’an, Chontal de Buena Vista, Chontal de Miramar, Chontal de Tamulte de las Sabanas, Tabasco (Tamulte) Chontal, Tamulté de las Sábanas Chontal, Yocotꞌan]
 population: 27700
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Maya language of Tabasco, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

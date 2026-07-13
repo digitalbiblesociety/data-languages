@@ -6,6 +6,8 @@ alt_names: [Oaxaca Soke, Oaxaca Zoque, Soke, Sokean, Zoque, Zoque (Chimalapa), Z
 population: 4500
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Zoquean language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["I:baruga", Ibarga, Ibarga/Ibarrga/Ibargo, Ibargo, Ibarrga, Iparuka,
 population: 210
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language of Western Australia
 status_id: "5"
 scope: individual
 language_type: living

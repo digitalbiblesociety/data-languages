@@ -3,10 +3,12 @@ iso: gun
 macrolanguage_id: grn
 name: Mbyá Guaraní
 autonym: " nhandeayvu"
-alt_names: ["\"mbyá guarani (Argentine, Uruguay)\"", Apytare, Bugre, Caingua, Chiripá, Chiripá-Nyandeva, Dialeto mbiá, Guarani, Guaraní, Guaraní language area, Guaraní mbyá (Paraguay), "Guaraní, Mbyá", Kaiwá/Kayová, Mbiá, Mbiá/Mbya/Mbua, Mbua, Mbya Guarani, Mbyá, "Mbü'a", "Mbü'a Guaraní", Nhandeva, Tsiripá, Txiripá, Ñandeva]
+alt_names: ["\"mbyá guarani (Argentine, Uruguay)\"", Apytare, Bugre, Caingua, Chiripá, Chiripá-Nyandeva, Dialeto mbiá, Guarani, Guaraní, Guaraní language area, Guaraní mbyá (Paraguay), "Guaraní, Mbyá", Kaiwá/Kayová, Mbiá, Mbiá/Mbya/Mbua, Mbua, Mbya Guarani, Mbyá, "Mbü'a", "Mbü'a Guaraní", Nhandeva, Tsiripá, Txiripá, Ñandeva, Baticola, Eastern Argentina Guaraní, "Ka'yngua", Mbya-apytere, Tambéopé]
 population: 19960
 country_id: BR
 country_name: Brazil
+location: Argentina and Chile
+area: Tupian language spoken in South America
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Neekerihollanti, "Neger'ollands", Negerhollandsk, Negerholländisch]
 population: null
 country_id: VI
 country_name: Virgin Islands US
+area: Extinct Dutch creole in the Caribbean
 status_id: "10"
 scope: individual
 language_type: extinct

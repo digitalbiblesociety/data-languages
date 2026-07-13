@@ -2,10 +2,11 @@
 iso: boy
 name: Bodo
 autonym: null
-alt_names: [Bodo]
+alt_names: [Bodo, Bodo (Central African Republic)]
 population: 15
 country_id: CF
 country_name: Central African Republic
+area: Moribund Bantu language of Central Africa
 status_id: 8b
 scope: individual
 language_type: living

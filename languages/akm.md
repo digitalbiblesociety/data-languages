@@ -6,6 +6,7 @@ alt_names: [Ba, Bo, Great Andamanese, Lèngua Aka-Bo, Ака-бо, Бо]
 population: null
 country_id: IN
 country_name: India
+area: Extinct Great Andamanese language
 status_id: "10"
 scope: individual
 language_type: extinct

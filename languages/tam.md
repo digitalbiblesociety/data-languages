@@ -3,15 +3,18 @@ iso: tam
 iso639_1: ta
 name: Tamil
 autonym: தமிழ்
-alt_names: [Damulian, Kitamil, Tamal, Tamalsan, Tambul, Tamil bhasa, Tamil simi, Tamil-gí, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamilikani chhib, Tamilsk, Tamoul, Tamílska, Tinamil, Tàmil, טמילית, تامل, تامىل تىلى, तमिळ्‌, ತಮಿಳು, തമിഴ്]
+alt_names: [Damulian, Kitamil, Tamal, Tamalsan, Tambul, Tamil bhasa, Tamil simi, Tamil-gí, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamilikani chhib, Tamilsk, Tamoul, Tamílska, Tinamil, Tàmil, טמילית, تامل, تامىل تىلى, तमिळ्‌, ತಮಿಳು, തമിഴ്, Adi Dravida, Aiyangar, Aiyar, Arava, Burgandi, Burma Tamil, Harijan, Hebbar, Kongar, Madrasi, Madurai, Malaya Tamil, Mandyam Brahmin, Sanketi, Secunderabad Brahmin, South Africa Tamil, Sri Lanka Tamil, Tigalu]
 population: 75000000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Dravidian language in South India and North-eastern Sri Lanka
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 10.520219
 longitude: 78.825989
+language_map_img: tam.webp
 scripts: [Taml]
 glottocode: tami1289
 glottolog_family_id: drav1251

@@ -2,10 +2,12 @@
 iso: ril
 name: Riang Lang
 autonym: Black Karen
-alt_names: [Black Riang, Black Yang, Karennet, Liang, Liang Sek, Ranei, Riang, Riang (Myanmar), Riang-Lang, Riang-Sek, Striped Karen, Yang, Yang Sek, Yang Wan Kun, Yanglam, Yin, Yinnet]
+alt_names: [Black Riang, Black Yang, Karennet, Liang, Liang Sek, Ranei, Riang, Riang (Myanmar), Riang-Lang, Riang-Sek, Striped Karen, Yang, Yang Sek, Yang Wan Kun, Yanglam, Yin, Yinnet, Drum, Yang Lang, Yin Net]
 population: 12500
 country_id: MM
 country_name: Myanmar
+location: Southwestern China
+area: Austroasiatic language
 status_id: 6b
 scope: individual
 language_type: living

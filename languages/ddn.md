@@ -2,15 +2,18 @@
 iso: ddn
 name: Dendi
 autonym: Dandawa
-alt_names: [Dendi]
+alt_names: [Dendi, Songhay]
 population: 270050
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Songhay language of northern Benin
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 11.66822
 longitude: 3.49109
+language_map_img: Songhay_languages.svg
 glottocode: dend1243
 glottolog_family_id: song1307
 glottolog_family_name: Songhay

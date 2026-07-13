@@ -6,6 +6,8 @@ alt_names: [Silinkere]
 population: 6000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Language of Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living

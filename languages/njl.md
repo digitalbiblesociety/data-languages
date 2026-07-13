@@ -6,6 +6,8 @@ alt_names: [Bege, Begi, Beko, Ngulgule, Njangulgule, Nyalgulgule, Nyolge, Nyooln
 population: 900
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Daju language spoken in South Sudan
 status_id: 8a
 scope: individual
 language_type: living

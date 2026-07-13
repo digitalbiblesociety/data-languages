@@ -2,10 +2,12 @@
 iso: sbp
 name: Sangu
 autonym: Kisangu
-alt_names: [Eshisango, Rori, Sango, Sangu]
+alt_names: [Eshisango, Rori, Sango, Sangu, Central Sangu, Eastern Sangu, Ishisango, Ishisangu, Kapunga, Kilambo, Lori, Mahango, Northern Sangu, Sangi, Shisango, Shisangu, South-Central Sangu, Western Sangu]
 population: 119000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

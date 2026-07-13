@@ -2,10 +2,12 @@
 iso: yba
 name: Yala
 autonym: Nkum
-alt_names: [Iyala]
+alt_names: [Iyala, Nkum Akpambe, Yala Ikom, Yala Obubra, Yala Ogoja]
 population: 264000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: "Idomoid language of Ogoja, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ank
 name: Goemai
 autonym: Ankwai
-alt_names: [Ankwe, Ankwei, Ankwé, Goemaieg, Kemai]
+alt_names: [Ankwe, Ankwei, Ankwé, Goemaieg, Kemai, Gamai]
 population: 361000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Afro-Asiatic language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

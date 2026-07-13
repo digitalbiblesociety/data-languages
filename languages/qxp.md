@@ -7,6 +7,8 @@ alt_names: [Colla, Collao, Cuzco-Collao, Quechua Qollaw, Quechua cuzqueño, Quec
 population: 500000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Dialect of the Southern Quechua language
 status_id: "4"
 scope: individual
 language_type: living

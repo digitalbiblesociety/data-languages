@@ -2,10 +2,12 @@
 iso: mbu
 name: "Mbula-Bwazza"
 autonym: Ɓwázà
-alt_names: [Nigeria]
+alt_names: [Nigeria, Bakopi, Bare, Begel, Bere, "Bwa'za", Bwaza, Bwazza, Gwamba, Mbula, Nkono, Tambo, Taumbo, kunBegel, kunBuko, kunBwazza]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Bantu language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bja
 name: Budza
 autonym: Buja
-alt_names: [Budja, Ebuja, Embudja, Limbudza, Mbudja]
+alt_names: [Budja, Ebuja, Embudja, Limbudza, Mbudja, Bosambi, Mbila, Monzamboli, Yaliambi]
 population: 226000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

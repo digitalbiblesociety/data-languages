@@ -6,6 +6,8 @@ alt_names: [Kha, May, Ruc, Sach, Salang]
 population: 3830
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language cluster of Vietnam and Laos
 status_id: "7"
 scope: individual
 language_type: living

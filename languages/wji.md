@@ -6,6 +6,8 @@ alt_names: [Aja, Ajanci, Ajawa, Sarawa, Sirzakwai, Warja, Warjawa, Werji]
 population: 77700
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

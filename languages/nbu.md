@@ -2,10 +2,12 @@
 iso: nbu
 name: Rongmei Naga
 autonym: Songbu
-alt_names: [Kabiu, Kabui, Maruongmai, Naga, "Naga, Rongmei", "Naga,Rongmei", Nruanghmei, Rongmai, Rongmei]
+alt_names: [Kabiu, Kabui, Maruongmai, Naga, "Naga, Rongmei", "Naga,Rongmei", Nruanghmei, Rongmai, Rongmei, Zeliang]
 population: 66700
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

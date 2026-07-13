@@ -2,10 +2,12 @@
 iso: har
 name: Harari
 autonym: Adare
-alt_names: [Adarinnya, Adere, Aderinya, Gey Sinan, Hararieg, Hararri]
+alt_names: [Adarinnya, Adere, Aderinya, Gey Sinan, Hararieg, Hararri, Hareri]
 population: 2351
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Semitic language of eastern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

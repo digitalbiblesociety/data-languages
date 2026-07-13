@@ -2,10 +2,12 @@
 iso: cce
 name: Chopi
 autonym: Chichopi
-alt_names: [Cicopi, Copi, Shichopi, Shicopi, Tschopi, Txitxopi, Txopi]
+alt_names: [Cicopi, Copi, Shichopi, Shicopi, Tschopi, Txitxopi, Txopi, Khambani, Kilenge, Lambwe, Lenge, Lengue, Ndonge, Shilenge, Tonga, Xilenge]
 population: 1100000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

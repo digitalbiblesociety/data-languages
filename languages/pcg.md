@@ -6,6 +6,8 @@ alt_names: [Nil, Pania, Paniyan, Panyah]
 population: 22800
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: "Malayalamoid language of Kerala, India"
 status_id: "5"
 scope: individual
 language_type: living

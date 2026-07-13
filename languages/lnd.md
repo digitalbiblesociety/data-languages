@@ -2,10 +2,12 @@
 iso: lnd
 name: Lundayeh
 autonym: " Southern Murut"
-alt_names: [Brunei Murut, Lun Bawang, Lun Bawang language, Lun Daya, Lun Dayah, Lun Daye, Lun Dayeh, Lun Dayoh, Lundaya, Murut]
+alt_names: [Brunei Murut, Lun Bawang, Lun Bawang language, Lun Daya, Lun Dayah, Lun Daye, Lun Dayeh, Lun Dayoh, Lundaya, Murut, Lundaya Putuk, Buri tau, "Buri' Lun Bawang", "Buri' Lun Dayeh", Lawas, Lepu Potong, Limbang, Long Bawan, Long Iluk, Lun Ba, Lun Bawang - Lun Dayah, Lun Lod, Lundayu, Padas, Papadi, Sarawak Murut, Trusan]
 population: 47500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken on Borneo
 status_id: "5"
 scope: individual
 language_type: living

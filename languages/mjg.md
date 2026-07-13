@@ -2,10 +2,12 @@
 iso: mjg
 name: Tu
 autonym: Dēd Mongol
-alt_names: [Halchighol, Hu-tsu, Huzhu, Mongghul, Narin-guor, Naringhol]
+alt_names: [Halchighol, Hu-tsu, Huzhu, Mongghul, Narin-guor, Naringhol, Mongor, Mongour, Monguor, Baoan, Mangghuer, Mangghuer Wuge, Minhe, Niandhu, Nianduhu, Qighaan Mongghul, Huzhu Tu, Wutun]
 population: 290000
 country_id: CN
 country_name: China
+location: China
+area: Mongolic language of Northwest China
 status_id: "7"
 scope: individual
 language_type: living

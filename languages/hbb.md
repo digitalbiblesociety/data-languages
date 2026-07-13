@@ -2,10 +2,12 @@
 iso: hbb
 name: Huba
 autonym: Kilba
-alt_names: [Chobba, Hildi, KChobba, Marghi South]
+alt_names: [Chobba, Hildi, KChobba, Marghi South, Nya Garaha, Nya Gaya, Nya Hong, Nya Huba, Nya Kopre, Nya Mugwahi, Nya Ya Dil]
 population: 337000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

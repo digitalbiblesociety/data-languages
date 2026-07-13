@@ -2,10 +2,11 @@
 iso: nyk
 name: Nyaneka
 autonym: Lunyaneka
-alt_names: [Nhaneca, Nhaneka]
+alt_names: [Nhaneca, Nhaneka, Olunyaneka, Cilenge, Handa, Huila, Humbe, Muila, Mwila, Ngambwe, Olumuila, Olungambwe]
 population: 1000000
 country_id: AO
 country_name: Angola
+location: Angola
 status_id: "5"
 scope: individual
 language_type: living

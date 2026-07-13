@@ -2,10 +2,12 @@
 iso: dis
 name: Dimasa
 autonym: "Grao-Dima /গ্ৰাউ-ডিমা"
-alt_names: [Dimasa Kachari, Hill Kachari]
+alt_names: [Dimasa Kachari, Hill Kachari, Hills Kachar, Dembra, Dijuwa, Grao Dima, Grau Dima, Hasao, Hawar, Hills Kachari, Humri, Magrau, Semsa, Walgong]
 population: 137000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language of Northeast India
 status_id: "5"
 scope: individual
 language_type: living

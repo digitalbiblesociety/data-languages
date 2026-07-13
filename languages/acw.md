@@ -3,15 +3,17 @@ iso: acw
 macrolanguage_id: ara
 name: Hijazi Arabic
 autonym: "حجازي "
-alt_names: [Arabeg hijaziek, Arabic, Arabic (Eastern), Arabic (Hijazi), "Arabic, Hijazi", "Arabic, Hijazi Spoken", Bedouin-Hijazi, Hejazi Arabic, Hijazi, Hijazi Spoken, Hijazi arapski, Saudi Arabic, West Arabian Colloquial Arabic, لهجة حجازية, ޙިޖާޒީ ޢަރަބި, Ḥijāzī]
+alt_names: [Arabeg hijaziek, Arabic, Arabic (Eastern), Arabic (Hijazi), "Arabic, Hijazi", "Arabic, Hijazi Spoken", Bedouin-Hijazi, Hejazi Arabic, Hijazi, Hijazi Spoken, Hijazi arapski, Saudi Arabic, West Arabian Colloquial Arabic, لهجة حجازية, ޙިޖާޒީ ޢަރަބި, Ḥijāzī, Coastal Tihaamah, North Hijazi, Rashaida, Rashida, South Hijazi, Valley Tihaamah]
 population: 14500000
 country_id: SA
 country_name: Saudi Arabia
+area: Variety of Arabic spoken in the Hejaz region of Saudi Arabia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 22.8346
 longitude: 38.92371
+language_map_img: acw.webp
 glottocode: hija1235
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

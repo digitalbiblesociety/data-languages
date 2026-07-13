@@ -6,6 +6,8 @@ alt_names: ["\"Oron\"", Enwan, Enwang]
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Lower Cross River language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 恩万语（阿夸伊博姆州）
     auto: true
 ---
+Enwang (Enwan) and Uda are a Lower Cross River language of Nigeria. The two varieties are quite distinct.

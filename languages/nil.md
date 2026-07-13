@@ -6,6 +6,7 @@ alt_names: [Dharug]
 population: 1800
 country_id: ID
 country_name: Indonesia
+area: Austronesian language in Maluku
 status_id: "10"
 scope: individual
 language_type: living

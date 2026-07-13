@@ -6,6 +6,8 @@ alt_names: [Mangarevan, Mangarevano, Mangarévien]
 population: 1600
 country_id: PF
 country_name: French Polynesia
+location: French Polynesia
+area: Oceanic language spoken in French Polynesia
 status_id: "7"
 scope: individual
 language_type: living

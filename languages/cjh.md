@@ -6,6 +6,7 @@ alt_names: [Chehalis, Chehalis (Upper), "Chehalis, Upper", Chehalí alto, Haut-c
 population: null
 country_id: US
 country_name: United States
+area: Extinct Salishan langage
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -6,6 +6,7 @@ alt_names: [Amangu, Bulgulu, Buluguda, Champion Bay tribe, Daguda, Eau, Eaw, Jau
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

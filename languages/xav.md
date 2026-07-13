@@ -2,10 +2,12 @@
 iso: xav
 name: Xavánte
 autonym: aʼuwẽ
-alt_names: ["A'uwe", "A'uwe Uptabi", "A'we", Akuên, Akwen, Chavante, Crisca, Pusciti, Shavante, Shawanti simi, Tapacua, Uptabi, Xavante, Xavante language, Xavanté]
+alt_names: ["A'uwe", "A'uwe Uptabi", "A'we", Akuên, Akwen, Chavante, Crisca, Pusciti, Shavante, Shawanti simi, Tapacua, Uptabi, Xavante, Xavante language, Xavanté, A’uwe Uptabi, A’we, Awen, Aꞌuwe Uptabi, Aꞌuwẽ, Aꞌwe]
 population: 19000
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Macro-Jê language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living

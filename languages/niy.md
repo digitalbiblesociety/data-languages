@@ -2,10 +2,12 @@
 iso: niy
 name: Ngiti
 autonym: South Lendu
-alt_names: [Balendru, Bindi, Dru, Druna, Kingeti, Kingiti, Lendu-Sud, Ndruna, Ngeti]
+alt_names: [Balendru, Bindi, Dru, Druna, Kingeti, Kingiti, Lendu-Sud, Ndruna, Ngeti, Ngiti-Ndruna]
 population: 100000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo
 status_id: "5"
 scope: individual
 language_type: living

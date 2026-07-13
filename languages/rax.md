@@ -6,6 +6,7 @@ alt_names: [Nigeria]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

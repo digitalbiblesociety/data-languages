@@ -2,10 +2,12 @@
 iso: ppo
 name: Folopa
 autonym: null
-alt_names: [Foraba, Keai, Podoba, Podopa, Polopa, Ro, Sesa, Worugi]
+alt_names: [Foraba, Keai, Podoba, Podopa, Polopa, Ro, Sesa, Worugi, Aurei, Bara, Boro, Harahu, Harahui, Ibukairu, Keba-Wopasali, Kewah, Mamisa, Pupitau, Siligi, Songu, Sopese, Suri, Tebera, Waraga, Worugl]
 population: 3200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Teberan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

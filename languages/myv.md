@@ -2,15 +2,18 @@
 iso: myv
 name: Erzya
 autonym: erzänj kelj
-alt_names: [Ersagiella, Ersjanisk, Ersä kiil, Ersä-Mundart, Erza, Erza-Mordvin, Erza-Mordvinisch, Erza-Mordwinisch, Erzia, Erzja, Erzya Mordvin, Erzya-Mordva, Erzyeg, Erzá, Mordovo erzya, Mordua, Morduini, Mordva, Mordvin, Mordvin (Erza), Mordvin (Erzja), Mordvin (Erzya), Mordvin-Erzya, Mordvinian, Mordvinisch, Mordwin, Mordwinisch, ersämordva, erzjan΄ kel΄, erźa, eŕźań keĺ, moksha, mokša, mordve, northern dialect, Є́рꙁꙗн҄ьскъ ѩꙁꙑ́къ, Эрзянь кяль, Эрзә теле, Эрҙә теле, эрзянь кель]
+alt_names: [Ersagiella, Ersjanisk, Ersä kiil, Ersä-Mundart, Erza, Erza-Mordvin, Erza-Mordvinisch, Erza-Mordwinisch, Erzia, Erzja, Erzya Mordvin, Erzya-Mordva, Erzyeg, Erzá, Mordovo erzya, Mordua, Morduini, Mordva, Mordvin, Mordvin (Erza), Mordvin (Erzja), Mordvin (Erzya), Mordvin-Erzya, Mordvinian, Mordvinisch, Mordwin, Mordwinisch, ersämordva, erzjan΄ kel΄, erźa, eŕźań keĺ, moksha, mokša, mordve, northern dialect, Є́рꙁꙗн҄ьскъ ѩꙁꙑ́къ, Эрзянь кяль, Эрзә теле, Эрҙә теле, эрзянь кель, Erzya Mordva]
 population: 356980
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Uralic language spoken in Russia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 52.85479
 longitude: 45.3901
+language_map_img: 500px-3-Mordvin.webp
 scripts: [Cyrl]
 glottocode: erzy1239
 glottolog_family_id: ural1272

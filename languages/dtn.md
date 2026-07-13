@@ -2,9 +2,11 @@
 iso: dtn
 name: Daatsʼíin
 autonym: null
+alt_names: [Daatsʼíin]
 population: 300
 country_id: ET
 country_name: Ethiopia
+area: "B'aga language spoken in Ethiopia"
 status_id: null
 scope: individual
 language_type: living

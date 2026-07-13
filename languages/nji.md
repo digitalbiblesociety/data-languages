@@ -6,6 +6,8 @@ alt_names: [Anga, Angee, Gnanji, Godangee, Goodanji, Gudandji, Gundangee, Kakari
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Extinct Mirndi language of Australia
 status_id: 8b
 scope: individual
 language_type: living

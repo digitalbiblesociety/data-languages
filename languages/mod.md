@@ -6,6 +6,7 @@ alt_names: [Chicasa Trade Jargon, Chickasaw(-Choctaw) Trade Language, Mobile, Mo
 population: null
 country_id: US
 country_name: United States
+area: 1700s–1950s indigenous pidgin of the coastal southern US
 status_id: null
 scope: individual
 language_type: extinct

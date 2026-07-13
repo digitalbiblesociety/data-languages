@@ -5,6 +5,7 @@ autonym: LGK
 population: 8000
 country_id: LT
 country_name: Lithuania
+area: Deaf sign language of Lithuania
 status_id: 6a
 scope: individual
 language_type: living

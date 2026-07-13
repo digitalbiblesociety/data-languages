@@ -6,11 +6,13 @@ alt_names: ["Athabaskan d'Eel River", Eel River Athabaskan, Eel River Athapaskan
 population: null
 country_id: US
 country_name: United States
+area: Athabaskan language of California
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 39.15128
 longitude: -123.28378
+language_map_img: California-athabaskan.svg
 glottocode: wail1244
 glottolog_family_id: atha1245
 glottolog_family_name: Athabaskan-Eyak-Tlingit

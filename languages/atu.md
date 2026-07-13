@@ -6,6 +6,8 @@ alt_names: [Atuot, Thok Cieng Reel, Thok Reel]
 population: 116000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Nilotic language spoken in South Sudan
 status_id: 6a
 scope: individual
 language_type: living

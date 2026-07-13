@@ -2,15 +2,18 @@
 iso: vep
 name: Veps
 autonym: vepsän kelʹ
-alt_names: [Chudy, Chuhari, Chukhari, Vepseg, Vepsian, Vepsio, Vepsisch, Vepsisk, Vepsiska, Vepsä, Vepsä kiil, Vepsägiella, Wepsies, Wepsisch, chudj, lüd, lüüd, "l΄üd'ikel΄", vepse, vepsy, vepsän kel’, vesj, Вепс мотт, Вепссэнь кель]
+alt_names: [Chudy, Chuhari, Chukhari, Vepseg, Vepsian, Vepsio, Vepsisch, Vepsisk, Vepsiska, Vepsä, Vepsä kiil, Vepsägiella, Wepsies, Wepsisch, chudj, lüd, lüüd, "l΄üd'ikel΄", vepse, vepsy, vepsän kel’, vesj, Вепс мотт, Вепссэнь кель, “Chudy”, “Chuhari”, “Chukhari”, Central Veps, North Veps, Prionezh, Southern Veps, Vepsish]
 population: 5750
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: "Finnic language south of Lake Onega, Russia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 60.33531
 longitude: 34.7865
+language_map_img: 500px-2.3-Veps.webp
 scripts: [Latn]
 glottocode: veps1250
 glottolog_family_id: ural1272

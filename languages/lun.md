@@ -2,10 +2,12 @@
 iso: lun
 name: Lunda
 autonym: Chilunda
-alt_names: [Lunda-Ndembu, Ruund]
+alt_names: [Lunda-Ndembu, Ruund, Humbu, Kawiku, Koosa, Kosa, Lunda Kalunda, Lunda Kambove, Lunda Ndembu, Ndembu]
 population: 403000
 country_id: ZM
 country_name: Zambia
+location: Angola
+area: Bantu language spoken in Central and Southern Africa
 status_id: "4"
 scope: individual
 language_type: living

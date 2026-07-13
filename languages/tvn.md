@@ -2,10 +2,12 @@
 iso: tvn
 name: Tavoyan
 autonym: Dawei
-alt_names: [Myanmar]
+alt_names: [Myanmar, Dawai, Dawe, Tavoya, Tawe-Tavoy]
 population: 400000
 country_id: MM
 country_name: Myanmar
+location: Southern Myanmar
+area: Burmese dialect of southern Myanmar
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Australia]
 population: 2
 country_id: AU
 country_name: Australia
+area: Extinct Australian aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mfq
 name: Moba
 autonym: Moba Lok
-alt_names: [Ben, Moa, Moab, Moare]
+alt_names: [Ben, Moa, Moab, Moare, Jifelm, Lok, Muaba, Natchaba, Yanbann]
 population: 320800
 country_id: TG
 country_name: Togo
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: TG
     location: Togo
 ---
+Moba or Bimoba is a Niger-Congo language spoken by the Moba people of Togo and Ghana. There are also some Moba speakers in Burkina Faso. It has two dialects. The language cluster is also known as Moba–Bimoba.

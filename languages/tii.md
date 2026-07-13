@@ -6,6 +6,8 @@ alt_names: [Kitiene, Kitiini]
 population: 24500
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

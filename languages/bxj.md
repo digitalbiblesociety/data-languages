@@ -6,6 +6,8 @@ alt_names: [Baijungo, Baijungu, Baiong, Baiung, Baiyungu, Bajungu, Binnigoora, B
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living

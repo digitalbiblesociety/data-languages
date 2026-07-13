@@ -6,6 +6,7 @@ alt_names: [Baneidja, "Bani:dja", Banidja, Banindja, Beriguruk, Buneidja, Buneid
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Aboriginal Australian language
 status_id: "10"
 scope: individual
 language_type: extinct

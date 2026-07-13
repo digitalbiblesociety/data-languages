@@ -6,6 +6,7 @@ alt_names: [Gog Nar, Goondarra, Gugu Nar, Gugu Nhang, Kok Nar, Kok Narr, Kok Nha
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Australian language
 status_id: "10"
 scope: individual
 language_type: extinct

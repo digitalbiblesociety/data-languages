@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 530
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Pauwasi language spoken in Western New Guinea
 status_id: 6a
 scope: individual
 language_type: living

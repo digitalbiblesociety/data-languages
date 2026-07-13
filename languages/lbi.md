@@ -6,6 +6,7 @@ alt_names: [Cameroon]
 population: 4400
 country_id: CM
 country_name: Cameroon
+area: Ritual language spoken in Cameroon
 status_id: "9"
 scope: individual
 language_type: living

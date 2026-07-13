@@ -3,10 +3,12 @@ iso: phr
 macrolanguage_id: lah
 name: "Pahari-Potwari"
 autonym: Potwari
-alt_names: [Chibhali, Dhundi-Kairali, Pothohari, Potohari, Potwareg, Western Pahari, بوتهواري, پوٹھواری]
+alt_names: [Chibhali, Dhundi-Kairali, Pothohari, Potohari, Potwareg, Western Pahari, بوتهواري, پوٹھواری, Chhachhi, Gujar Khan, Mirpur, Mirpur Panjabi, Mirpur Punjabi, Mirpuri, Mirpuri Pahari, Pahari, Pahari - Murree Hills, Pahari - Poonch, Pahari-Pothowari, Poonchi, Pothwari, Punchhi, Punjabi - Pahari]
 population: 3541900
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language variety spoken in Pakistan
 status_id: 6a
 scope: individual
 language_type: living
@@ -83,3 +85,4 @@ rolv_dialects:
     country_id: PK
     location: Pakistan
 ---
+Pahari-Pothwari is a Lahnda dialect continuum within the Punjabi group of the Indo-Aryan language family, spoken in the Pothohar Plateau in Punjab, Pakistan, as well as in most of the Pakistan-administered Azad Kashmir and in the western areas of Indian-administered Jammu and Kashmir. It is known by a variety of names, the most common of which are Pahari, and Pothwari.

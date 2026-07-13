@@ -2,10 +2,12 @@
 iso: isn
 name: Isanzu
 autonym: Kinyihanzu
-alt_names: [Kinyisanzu]
+alt_names: [Kinyisanzu, Kiisanzu]
 population: 26000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

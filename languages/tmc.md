@@ -2,10 +2,12 @@
 iso: tmc
 name: Tumak
 autonym: null
-alt_names: [Dije, Sara Toumak, Toumak, Tumac, Tumag, Tummok]
+alt_names: [Dije, Sara Toumak, Toumak, Tumac, Tumag, Tummok, Mawer, Mod, Moden, Modin, Mot, Motin, Motun]
 population: 25200
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,15 +2,17 @@
 iso: dgi
 name: Northern Dagara
 autonym: "Dagara, Wule"
-alt_names: [Dagaare, Dagaari, Dagara, "Dagara, Northern", Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Northern Dagaare]
+alt_names: [Dagaare, Dagaari, Dagara, "Dagara, Northern", Dagari, Dagati, Dagatri, Dagatsi, Degati, Dogaari, Northern Dagaare, Northern, Wule, Dagaara, Dagara Wile, Lawra Lobi, Lober, Lobr, Nura, Wile]
 population: 247000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 11.04408
 longitude: -3.0124
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: nort2780
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

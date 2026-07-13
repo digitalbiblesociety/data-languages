@@ -6,6 +6,8 @@ alt_names: [Akwa, Arringeu, Pana, Pangu, Pnogu, Pongo, Ri, Tarya]
 population: 30000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

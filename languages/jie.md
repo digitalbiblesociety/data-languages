@@ -6,6 +6,8 @@ alt_names: [Yilbe]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Afro-Asiatic language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

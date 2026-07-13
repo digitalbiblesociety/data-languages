@@ -6,6 +6,7 @@ alt_names: [Bollanos, Coast, Costal Miwok, Miwok, Miwok (Bodega), Miwok (Coast),
 population: 1994
 country_id: US
 country_name: United States
+area: "Extinct Miwok language of California, US"
 status_id: "9"
 scope: individual
 language_type: extinct

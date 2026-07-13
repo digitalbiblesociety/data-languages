@@ -6,6 +6,7 @@ alt_names: [Pankarare, Pankaré]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct language of eastern Brazil
 status_id: "9"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 潘卡拉雷语
     auto: true
 ---
+Pankararú is an extinct language, probably a language isolate, of eastern Brazil. There are 6,000 ethnic Pankararú, but they all speak Portuguese. In 1961, only two elders could remember anything of the language. Today, they live in Brejo dos Padres and other villages of Tacaratu, Pernambuco State. The language was originally spoken between the Moxotó River and the Pajeú River.

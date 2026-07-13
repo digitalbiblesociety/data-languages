@@ -2,10 +2,12 @@
 iso: ctu
 name: Chol
 autonym: "Chol, Tumbalá"
-alt_names: ["Ch'ol", "Ch'ol de Sabanilla", "Ch'ol language", Chols, Tumbalá, Čoli]
+alt_names: ["Ch'ol", "Ch'ol de Sabanilla", "Ch'ol language", Chols, Tumbalá, Čoli, Ch’ol de Sabanilla, Chol de Tila, Chol de Sabanilla, Tila Chol, Tumbalá Chol, Chꞌol de Sabanilla, Chꞌol del Noroeste, Chꞌol del Sureste, Laktyꞌañ]
 population: 252000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mayan language of Chiapas, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

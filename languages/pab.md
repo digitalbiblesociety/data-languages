@@ -2,10 +2,12 @@
 iso: pab
 name: Parecís
 autonym: Arití
-alt_names: [Arawak, Ariti, Haliti, Pareche, Pareci, Parecis, Paresi, Paressi, Paressí, Paresí, Paretí]
+alt_names: [Arawak, Ariti, Haliti, Pareche, Pareci, Parecis, Paresi, Paressi, Paressí, Paresí, Paretí, Parecí, Pareás, Porçoes]
 population: 1800
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Arawakan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living

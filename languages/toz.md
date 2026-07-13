@@ -6,6 +6,7 @@ alt_names: ["Central African Republic, Cameroon"]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Mbum language of Cameroon and the CAR
 status_id: "9"
 scope: individual
 language_type: living

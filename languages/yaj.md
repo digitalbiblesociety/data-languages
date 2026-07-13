@@ -6,6 +6,8 @@ alt_names: [Banda, Yanguere]
 population: 26500
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Ubangian language of the Central African Republic
 status_id: 6a
 scope: individual
 language_type: living

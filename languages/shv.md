@@ -6,11 +6,14 @@ alt_names: [Ehkili, Geblet, Gəblɛ̄t, Jibali, Jibbālī, Qarawi, Sehri, Shahar
 population: 25000
 country_id: OM
 country_name: Oman
+location: Oman
+area: Modern South Arabian language of southwest Oman
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 17.29154
 longitude: 53.99526
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: sheh1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

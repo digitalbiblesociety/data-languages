@@ -6,6 +6,8 @@ alt_names: [Isal, Kobi-Benggoi, Uhei Kachlakan, Uhei-Kaclakin, Uhei-Kahlakim]
 population: 350
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living

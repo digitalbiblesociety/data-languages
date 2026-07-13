@@ -6,6 +6,8 @@ alt_names: [Yaulapiti, Yawalapiti, Yawalpití]
 population: 220
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Arawakan language of Brazil
 status_id: 8b
 scope: individual
 language_type: living

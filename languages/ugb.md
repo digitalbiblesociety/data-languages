@@ -6,6 +6,7 @@ alt_names: [Kugu-Ugbanh]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 库库-乌格班语
     auto: true
 ---
+Kugu-Muminh (Wik-Muminh), also known as Kugu- or Wik-Nganhcara (Wikngenchera), is a Paman language spoken on the Cape York Peninsula of Queensland, Australia, by several of the Wik peoples. There are multiple dialects, only two of which are still spoken: Kugu-Muminh itself, and Kugu-Uwanh.

@@ -2,10 +2,12 @@
 iso: kmm
 name: Kom
 autonym: Kom Rem
-alt_names: [Kolhreng, Kom]
+alt_names: [Kolhreng, Kom, Kom-tong]
 population: 15100
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Kuki-Chin language of north-east India
 status_id: "4"
 scope: individual
 language_type: living

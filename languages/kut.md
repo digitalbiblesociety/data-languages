@@ -6,11 +6,14 @@ alt_names: [Kootenay, Koutenaieg, Ksanka, Ktunaxa, Kutenái, Кутенай]
 population: 100
 country_id: CA
 country_name: Canada
+location: Southern Central Canada
+area: "Indigenous language of Montana, Idaho, and British Columbia"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 48.789195
 longitude: -115.064765
+language_map_img: 500px-Kutenai_lang.webp
 scripts: [Latn]
 glottocode: kute1249
 wikidata_id: Q33434

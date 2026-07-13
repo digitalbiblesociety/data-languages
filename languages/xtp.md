@@ -6,6 +6,8 @@ alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi
 population: 1123
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 8a
 scope: individual
 language_type: living

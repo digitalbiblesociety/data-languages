@@ -6,6 +6,8 @@ alt_names: [Kiliwan Subfamily, Kiliwi, Quiligua]
 population: null
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: "Yuman language of Baja California, Mexico"
 status_id: 8b
 scope: individual
 language_type: living

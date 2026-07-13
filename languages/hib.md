@@ -6,6 +6,7 @@ alt_names: [Hivito, Híbito, Ibito, Jibito, Xibita, Xibito, Xibitoana, Xíbito, 
 population: null
 country_id: PE
 country_name: Peru
+area: Extinct Hibito-Cholon language of Peru
 status_id: "10"
 scope: individual
 language_type: extinct

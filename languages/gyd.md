@@ -6,11 +6,14 @@ alt_names: [Bandingkawanda Kangk, Bentinck Islanders, Bentinck Language, Gaiardi
 population: 150
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -17.06954
 longitude: 139.48903
+language_map_img: 500px-Wellesley_Islands_locator_map.webp
 glottocode: kaya1319
 glottolog_family_id: tang1340
 glottolog_family_name: Tangkic

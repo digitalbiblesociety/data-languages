@@ -6,6 +6,7 @@ alt_names: [Opselan]
 population: null
 country_id: ID
 country_name: Indonesia
+area: "Extinct language in Buru Island, Maluku"
 status_id: "10"
 scope: individual
 language_type: extinct

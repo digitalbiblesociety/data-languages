@@ -3,15 +3,18 @@ iso: npi
 macrolanguage_id: nep
 name: Nepali
 autonym: " Nepalese"
-alt_names: [An Neipeailis, Eastern Pahari, Gorkhali, Gurkhali, Khas Kura, Khaskura, Lhotshammikha, Nepal leid, Nepalees, Nepaleg, Nepalesisk, Nepalska, Nepalès, Nipali simi, Népalais, Parbatiya, Забони непалӣ, نيبالية, نیپالی, نېپال تىلى, नेपाली, নেপালি ঠার, བལ་པོའི་སྐད།]
+alt_names: [An Neipeailis, Eastern Pahari, Gorkhali, Gurkhali, Khas Kura, Khaskura, Lhotshammikha, Nepal leid, Nepalees, Nepaleg, Nepalesisk, Nepalska, Nepalès, Nipali simi, Népalais, Parbatiya, Забони непалӣ, نيبالية, نیپالی, نېپال تىلى, नेपाली, নেপালি ঠার, བལ་པོའི་སྐད།, Eastern Pahadi, Acchami, Baitadeli, Bajhangi, Bajura, Bajurali, Bajureli, Bheri, Dadeldhuri, Dailekhi, Darchulali, Darchuleli, Darjula, Gandakeli, Humli, Palpa, Parbate, Purbeli, Soradi]
 population: 24720300
 country_id: NP
 country_name: Nepal
+location: Bhutan
+area: Indo-Aryan Language
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 28
 longitude: 85
+language_map_img: npi.webp
 glottocode: nepa1254
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -130,3 +133,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Nepali is the official and most-widely spoken language of Nepal, where it also serves as a lingua franca. It is an Indo-Aryan language, belonging to the Indo-Iranian branch within the Indo-European language family, native to the Himalayan region of South Asia.

@@ -2,10 +2,12 @@
 iso: snl
 name: Sangil
 autonym: Sanggil
-alt_names: [Sangiré]
+alt_names: [Sangiré, Mindanao, Sangihé, Sangirese, Sarangani]
 population: 15000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao, Davao Region"
 ---
+Sangir, also known as Sangihé, Sangi, Sangil, or Sangih, is an Austronesian language spoken on the islands linking northern Sulawesi, Indonesia, with Mindanao, Philippines by the Sangir people. It belongs to the Philippine group within the Austronesian language family.

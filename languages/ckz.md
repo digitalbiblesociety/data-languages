@@ -6,6 +6,8 @@ alt_names: [Cakchiquel-Quiche Mixed Language, Cakchiquel-Quiché Mixed Language,
 population: 2000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mixed Mayan language spoken in Guatemala
 status_id: "7"
 scope: individual
 language_type: living

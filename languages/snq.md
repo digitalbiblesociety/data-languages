@@ -6,6 +6,8 @@ alt_names: [Chango, Sangu, Shango, Yisangou, Yisangu]
 population: 30000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language of southern Gabon
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: nhp
 name: "Isthmus-Pajapan Nahuatl"
 autonym: "mela'tájto̲l"
-alt_names: [Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Istmo-Pajapan), Nahuatl (Pajapan), "Nahuatl, Isthmus-Pajapan", Nawa, Náhuat de Pajapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme", Pajapan, Pajapan Nahuatl]
+alt_names: [Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, Nahuatl (Istmo-Pajapan), Nahuatl (Pajapan), "Nahuatl, Isthmus-Pajapan", Nawa, Náhuat de Pajapan, Náhuatl de Tabasco, "Náhuatl de l'Isthme", Pajapan, Pajapan Nahuatl, Isthmus - Pajapan Náhuatl]
 population: 500
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Nahuatl dialect cluster of Veracruz, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 地峡帕贾潘纳瓦特尔语
     auto: true
 ---
+Isthmus Nahuatl is a Nahuatl dialect cluster spoken by about 30,000 people in Veracruz, Mexico. According to Ethnologue 16, the Cosoleacaque dialect is 84% intelligible with Pajapan, and 83% intelligible with Mecayapan.

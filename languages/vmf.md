@@ -6,11 +6,13 @@ alt_names: [Francique oriental, Franconian, Franconio oriental, High Franconian,
 population: null
 country_id: DE
 country_name: Germany
+area: Dialect
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 50.005
 longitude: 8.621
+language_map_img: 500px-Oberdeutsche_Mundarten.webp
 scripts: [Latn]
 glottocode: main1267
 glottolog_family_id: indo1319

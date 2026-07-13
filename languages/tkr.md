@@ -2,15 +2,18 @@
 iso: tkr
 name: Tsakhur
 autonym: цӀаӀхна миз
-alt_names: [Caxur, Sakhur, Tsajur, Tsakhar, Tsakhour, Tsakhury, Tsaxur, cʼäxna miz]
+alt_names: [Caxur, Sakhur, Tsajur, Tsakhar, Tsakhour, Tsakhury, Tsaxur, cʼäxna miz, Cinix, Gelmets, Gelmets-Mikik, Gelmets-kurdul, Jinagh, Kalyal Muxax, Kirmico-Lek, Mikik, Mishkesh, Mishlesh, Mukhakh-Sabunchi, Muslakh, Muslax, Saxur dili, Subunchi, Suvagil, "Ts'axna Miz", "Ts'axurskii yazyk", Tsakh, Tsakh-Qum, Tsakhna Miz, Tskhur, Ts‘əxna miz, Yedna Miz, Yikbi, Yiksum, Yiqny Miz, Yiqsum, Yıqbışda miz]
 population: 22300
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: "Samur language of Azerbaijan and Dagestan, North Caucasus"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41.59156
 longitude: 46.88585
+language_map_img: 500px-Caucasus-ethnic_tsachoeren.webp
 scripts: [Cyrl, Latn]
 glottocode: tsak1249
 glottolog_family_id: nakh1245

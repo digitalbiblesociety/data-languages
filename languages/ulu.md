@@ -6,6 +6,8 @@ alt_names: ["Kenyah (Uma' Lung)", Òma Lóngh]
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Kayan language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 乌玛-隆语
     auto: true
 ---
+Umaʼ Lasan is a Kayan language of Borneo. Umaʼ Lung is marginally intelligible with the other varieties.

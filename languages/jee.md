@@ -6,6 +6,8 @@ alt_names: [Jero Mala, Jerum, Jerunge, Jherung, Yerún, Zero, Zero Mala, Zerum]
 population: 2000
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Kiranti language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

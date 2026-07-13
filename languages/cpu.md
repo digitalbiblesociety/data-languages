@@ -2,10 +2,12 @@
 iso: cpu
 name: Pichis Ashéninka
 autonym: Campa
-alt_names: ["\"Pichis Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Pichis", Atiri, Cogapacorí, Nanti, Pichis, Pichis Asheninka, Pichis Ashéninca]
+alt_names: ["\"Pichis Campa\"", Ashaninca (Brésil), Ashaninka (Pérou), Asháninca, Ashéninga, "Ashéninka, Pichis", Atiri, Cogapacorí, Nanti, Pichis, Pichis Asheninka, Pichis Ashéninca, “Pichis Campa”, Ashéninka, Ashéninka Pichis, Bajo Pichís, Pichis Campa]
 population: 10700
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

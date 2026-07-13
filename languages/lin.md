@@ -7,11 +7,14 @@ alt_names: [Dingala, Lingala simi, Lingalum, Lingála, Losengo, Лингала, 
 population: 2292520
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in western central Africa
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 1.403245
 longitude: 19.782905
+language_map_img: LanguageMap-Lingala-Larger_Location.webp
 scripts: [Latn]
 glottocode: ling1263
 glottolog_family_id: atla1278

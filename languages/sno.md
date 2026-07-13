@@ -5,11 +5,14 @@ autonym: "Skagit-Nisqually"
 population: 800
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Salishan language or dialect continuum of North America
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 47.93414
 longitude: -122.13777
+glottocode: snoh1241
 wikidata_id: Q25559662
 translations:
   - translation_iso: ara
@@ -50,3 +53,4 @@ rolv_dialects:
     country_id: US
     location: "United States of America, Washington"
 ---
+Lushootseed, historically known as Puget Salish, Puget Sound Salish, or Skagit-Nisqually, is a Central Coast Salish language of the Salishan language family. Lushootseed is the general name for the dialect continuum composed of two main dialects, Northern Lushootseed and Southern Lushootseed, which are further separated into smaller sub-dialects.

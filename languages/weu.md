@@ -2,15 +2,18 @@
 iso: weu
 name: Rawngtu Chin
 autonym: Rawngtu Chin
-alt_names: ["Chin, Rawngtu"]
+alt_names: ["Chin, Rawngtu", Rongtu]
 population: 9550
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.04569
 longitude: 98.3197
+glottocode: wela1234
 wikidata_id: Q7980503
 wikipedia_url: "https://en.wikipedia.org/wiki/Welaung_language"
 translations:

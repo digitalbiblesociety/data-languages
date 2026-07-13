@@ -2,15 +2,18 @@
 iso: des
 name: Desano
 autonym: Winá
-alt_names: [Boleka, Desana, Desana-Siriana, Desano-Siriano, Dessana, Dessano, Desána, Desâna, Kotedia, Kusibi, Oregu, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Uina, Wina, Wira, Wirã]
+alt_names: [Boleka, Desana, Desana-Siriana, Desano-Siriano, Dessana, Dessano, Desána, Desâna, Kotedia, Kusibi, Oregu, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Uina, Wina, Wira, Wirã, Umúkomasá]
 population: 3420
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Tucanoan language of Colombia and Brazil
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.58157
 longitude: -69.495545
+language_map_img: Desano.webp
 glottocode: desa1247
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

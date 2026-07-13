@@ -7,6 +7,8 @@ alt_names: ["Bikol, Miraya"]
 population: null
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Inland Bikol language subgroup spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
@@ -46,3 +48,5 @@ translations:
   - translation_iso: zho
     name: 米腊亚比科尔语
 ---
+Albay Bikol, or simply Albayanon is a group of languages and one of the three languages that compose Inland Bikol. It is spoken in the southwestern coast of Albay, and northwestern Sorsogon.
+The region is bordered by the Coastal Bikol and Rinconada Bikol speakers. The latter is the closest language of Albay Bikol and is mutually intelligible. They are both included in Inland Bikol group of languages.

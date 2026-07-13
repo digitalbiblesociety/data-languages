@@ -2,10 +2,12 @@
 iso: leh
 name: Lenje
 autonym: Chilenje
-alt_names: [Chinamukuni, Ciina, Lengi, Lenji, Mukuni]
+alt_names: [Chinamukuni, Ciina, Lengi, Lenji, Mukuni, Ciina Mukuni, Lukanga, Twa]
 population: 128000
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language spoken in Zambia
 status_id: "5"
 scope: individual
 language_type: living

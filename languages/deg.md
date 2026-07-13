@@ -2,10 +2,12 @@
 iso: deg
 name: Degema
 autonym: Dekema
-alt_names: [Udekama]
+alt_names: [Udekama, “Dekema”]
 population: 10000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Edoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

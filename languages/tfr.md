@@ -6,6 +6,8 @@ alt_names: [Naso, Naso (Panamá), Norteno, Nortenyo, Quequexque, Terraba, Tiribi
 population: 3000
 country_id: PA
 country_name: Panama
+location: Costa Rica
+area: Chibchan language spoken in Central America
 status_id: "5"
 scope: individual
 language_type: living

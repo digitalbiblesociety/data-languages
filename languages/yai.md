@@ -2,15 +2,18 @@
 iso: yai
 name: Yagnobi
 autonym: " йағнобӣ зивок"
-alt_names: [Jaghnobi, Yaghnabi, Yaghnob, Yaghnobi, Yaghnobi language, Yagnob, Yagnobí, yaγnobīˊ zivók]
+alt_names: [Jaghnobi, Yaghnabi, Yaghnob, Yaghnobi, Yaghnobi language, Yagnob, Yagnobí, yaγnobīˊ zivók, Yaghnubi, Yagnabi, Yagnubi, Eastern Yagnobi, Soghdi, Western Yagnobi]
 population: 12000
 country_id: TJ
 country_name: Tajikistan
+location: Kyrgyzstan and Tajikistan
+area: East Iranian language spoken in Tajikistan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 39.14856
 longitude: 69.24216
+language_map_img: 500px-Yaghnobi_regions.webp
 glottocode: yagn1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

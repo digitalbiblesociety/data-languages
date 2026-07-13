@@ -2,10 +2,12 @@
 iso: mpk
 name: Mbara
 autonym: G’kelendeg
-alt_names: ["G'kelendeg", "G'kelendeng", Guelengdeng, Massa de Guelengdeng, Mbara]
+alt_names: ["G'kelendeg", "G'kelendeng", Guelengdeng, Massa de Guelengdeng, Mbara, G’kelendeng]
 population: 1000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language of Chad
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: yas
 name: Nugunu
 autonym: Nugunu
-alt_names: [Behie, Beke, Gounou, Gunu, Nu Gunu, Ombessa, Yambasa, Yambassa]
+alt_names: [Behie, Beke, Gounou, Gunu, Nu Gunu, Ombessa, Yambasa, Yambassa, Northern Gunu, Southern Gunu]
 population: 35000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Mbam language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

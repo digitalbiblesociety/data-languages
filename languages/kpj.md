@@ -2,15 +2,18 @@
 iso: kpj
 name: Karajá
 autonym: Iny rybè
-alt_names: [Caraja, Carajá, Carajás, Chamboa, Javaé, Kaparajá, Karaho, Karaja, Karaja-Shambioá, Karajá language area, Karajá-Xambioá, Xambioá, Ynã]
+alt_names: [Caraja, Carajá, Carajás, Chamboa, Javaé, Kaparajá, Karaho, Karaja, Karaja-Shambioá, Karajá language area, Karajá-Xambioá, Xambioá, Ynã, Caraiauna, Chambioa, Iny, Iraru Mahãdu, Ixybiowa, Javahe, Karajá do Norte]
 population: 3060
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Macro-Je language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -11.18812
 longitude: -50.34918
+language_map_img: 500px-Karajan_languages.webp
 glottocode: kara1500
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je

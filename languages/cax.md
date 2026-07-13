@@ -2,10 +2,12 @@
 iso: cax
 name: Chiquitano
 autonym: Besïro
-alt_names: [Chikitano, Chikitanu simi, Chiquit(an)o, Chiquito, Tao, Tarapecosi]
+alt_names: [Chikitano, Chikitanu simi, Chiquit(an)o, Chiquito, Tao, Tarapecosi, Bésiro, Anenho, Concepción, Javierano, Linguará, San Ignacio de Velazco, San Javier, San Miguel, Santiago, Xavierano]
 population: 2000
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Indigenous language of Bolivia and Brazil
 status_id: "7"
 scope: individual
 language_type: living

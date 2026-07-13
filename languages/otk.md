@@ -9,7 +9,10 @@ country_name: Turkey
 status_id: null
 scope: individual
 language_type: historical
+latitude: 37
+longitude: 59
 scripts: [Orkh]
+glottocode: oldt1247
 wikidata_id: Q34988
 wikipedia_url: "https://en.wikipedia.org/wiki/Old_Turkic"
 translations:

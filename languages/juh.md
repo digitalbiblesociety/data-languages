@@ -6,6 +6,8 @@ alt_names: [Gaateri, Hone, Kona Jukun, Nigeria, Pindiga-Jukun, Wapan Gwana]
 population: 7000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Jukunoid language of Nigeria
 status_id: "7"
 scope: individual
 language_type: living

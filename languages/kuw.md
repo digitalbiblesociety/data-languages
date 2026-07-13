@@ -5,6 +5,8 @@ autonym: Kpagwa
 population: 3830
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 克帕瓜语
     auto: true
 ---
+Central Banda is a dialect continuum of the Banda languages spoken by around one million people, primarily in the Central African Republic. The varieties may be mutually intelligible, especially the Mid-Southern–Gobu–Kpagua–Mono–Ngundu cluster. The other varieties are Bambari, Banda-Banda, Mbrès, Ndélé, and Togbo-Vara Banda.

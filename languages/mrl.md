@@ -6,6 +6,8 @@ alt_names: [Mortlock, Nomoi]
 population: 1000
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: Chuukic language
 status_id: 6b
 scope: individual
 language_type: living

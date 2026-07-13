@@ -2,15 +2,18 @@
 iso: sgi
 name: Suga
 autonym: Nizaa
-alt_names: ["\"Jemjem\"", "\"Njemnjem\"", "\"Nyamnyam\"", Galim, Ssuga]
+alt_names: ["\"Jemjem\"", "\"Njemnjem\"", "\"Nyamnyam\"", Galim, Ssuga, “Jemjem”, “Njemnjem”, “Nyamnyam”]
 population: 10000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Mambiloid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.12906
 longitude: 12.37786
+language_map_img: 500px-Adamawa_Province_ethnic_groups.webp
 glottocode: suga1248
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

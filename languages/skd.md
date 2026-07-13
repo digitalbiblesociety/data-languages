@@ -6,6 +6,7 @@ alt_names: [Central Sierra Miwok, "Central Sierra Miwok: Tuolumne", Eastern Divi
 population: null
 country_id: US
 country_name: United States
+area: Utian language of North America
 status_id: 8b
 scope: individual
 language_type: living

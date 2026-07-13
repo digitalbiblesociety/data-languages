@@ -2,10 +2,12 @@
 iso: lem
 name: Nomaande
 autonym: Lémandé
-alt_names: [Lemande, Mande, Mandi, Noomaante, Numand, Pimenc]
+alt_names: [Lemande, Mande, Mandi, Noomaante, Numand, Pimenc, Numaand, Nɔmaándɛ́, Nɔmaántɛ́]
 population: 6000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Gorogone, Gudjartabiyi, Gun-Guragone, Gunagoragone, Gungarawoni, Gun
 population: 60
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living

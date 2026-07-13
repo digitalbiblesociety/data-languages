@@ -2,10 +2,12 @@
 iso: bun
 name: Sherbro
 autonym: Amampa
-alt_names: [Bullom, Bulom, Cherbroeg, Mampa, Mampwa, Shiba, Southern Bullom]
+alt_names: [Bullom, Bulom, Cherbroeg, Mampa, Mampwa, Shiba, Southern Bullom, Ndema Sherbro, Peninsula Sherbro, Shenge Sherbro, Sitia Sherbro]
 population: 179000
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Endangered Mel language of Sierra Leone
 status_id: 6a
 scope: individual
 language_type: living

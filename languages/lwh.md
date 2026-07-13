@@ -6,6 +6,8 @@ alt_names: [Lachi, "Lachi, White", Lati, White, 白拉基]
 population: 1602
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Kra language spoken in Vietnam
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 白拉奇语
     auto: true
 ---
+The Lachi language is a Kra language spoken in Yunnan, China and in northern Vietnam. There were 9,500 Lachi speakers in Vietnam in 1990. Edmondson (2008) reports another 2,500 in Maguan County, Yunnan, China for 1995, but Li Yunbing (2000) reports 60 speakers in Maguan out of an ethnic population of 1,600.

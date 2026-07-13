@@ -2,10 +2,11 @@
 iso: ain
 name: Japanese Ainu
 autonym: アィヌ・イタㇰ
-alt_names: [Aino, Ainoueg, Ainu, Ainu (Hokkaido), Ainu (Japan), Ainu Itak, Ainu language, Ainu-gú, Ainuera, Ainú (Sajalín), Aynu itak, Aínúmál, Aïnou, Aïnou (Hokkaido), Aïnou (Kouriles), Aïnou (Sakhaline), Hokkaido dialect, Kurili, Llingua ainu, איינו, アイヌ　イタㇰ]
+alt_names: [Aino, Ainoueg, Ainu, Ainu (Hokkaido), Ainu (Japan), Ainu Itak, Ainu language, Ainu-gú, Ainuera, Ainú (Sajalín), Aynu itak, Aínúmál, Aïnou, Aïnou (Hokkaido), Aïnou (Kouriles), Aïnou (Sakhaline), Hokkaido dialect, Kurili, Llingua ainu, איינו, アイヌ　イタㇰ, Ezo, Hokkaido, Kuril, Saghilin, Sakhalin, Shikotan, Taraika, Tsishima, Yezo]
 population: 13000
 country_id: JP
 country_name: Japan
+area: "Indigenous language spoken in Hokkaido, Japan"
 status_id: 8b
 scope: individual
 language_type: living

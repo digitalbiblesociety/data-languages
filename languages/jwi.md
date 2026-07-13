@@ -2,9 +2,12 @@
 iso: jwi
 name: "Jwira-Pepesa"
 autonym: "Pepesa-Jwira"
+alt_names: [Gwira, Jwira, Pepesa]
 population: 18000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Niger-Congo language of Ghana
 status_id: 6a
 scope: individual
 language_type: living

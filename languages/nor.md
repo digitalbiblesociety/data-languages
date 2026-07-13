@@ -3,15 +3,18 @@ iso: nor
 iso639_1: "no"
 name: Norwegian
 autonym: norsk
-alt_names: [norvégien]
+alt_names: [norvégien, Bokmal Norwegian]
 population: 5305910
 country_id: "NO"
 country_name: Norway
+location: "Denmark, Finland, Norway and Sweden"
+area: North Germanic language spoken in Norway
 status_id: "1"
 scope: macrolanguage
 language_type: living
 latitude: 59.92
 longitude: 10.71
+language_map_img: Norwegian_language_map.svg
 scripts: [Latn]
 glottocode: norw1258
 glottolog_family_id: indo1319

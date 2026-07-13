@@ -2,10 +2,12 @@
 iso: hra
 name: Hrangkhol
 autonym: Hrangkhawl
-alt_names: [Hrangchol, Rancol, Rangkhol, Rāngkhōl]
+alt_names: [Hrangchol, Rancol, Rangkhol, Rāngkhōl, Hrangkol, Hadem]
 population: 18700
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Kuki-Chin language spoken in India and Burma
 status_id: "5"
 scope: individual
 language_type: living

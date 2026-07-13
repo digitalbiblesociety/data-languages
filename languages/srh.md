@@ -2,15 +2,18 @@
 iso: srh
 name: Sarikoli
 autonym: Tujik ziv (Тоҷик зив)
-alt_names: [Salikur, Sariqoli, Sarykoly, Tadzik, Tajik, Tajiki]
+alt_names: [Salikur, Sariqoli, Sarykoly, Tadzik, Tajik, Tajiki, "Saliku'er"]
 population: 16000
 country_id: CN
 country_name: China
+location: China
+area: Iranian language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 37.90501
 longitude: 75.14486
+language_map_img: Sarikoli_Language_in_Xinjiang.webp
 glottocode: sari1246
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

@@ -3,6 +3,7 @@ iso: zho
 iso639_1: zh
 name: Chinese
 autonym: 中文
+alt_names: [macrolanguage Chinese]
 population: 1299877520
 country_id: CN
 country_name: China

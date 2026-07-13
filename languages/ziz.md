@@ -6,6 +6,8 @@ alt_names: [Ziliva, Zizilivakaneg, Ziziliveken, Àmzírív]
 population: 2800
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Chadic language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living

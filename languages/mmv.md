@@ -2,10 +2,11 @@
 iso: mmv
 name: Miriti
 autonym: Neenoá
-alt_names: [Miriti-Tapuyo, Mirití]
+alt_names: [Miriti-Tapuyo, Mirití, Miriti Tapuyo, Miriti-Tapuia]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Tucanoan language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

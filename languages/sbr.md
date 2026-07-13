@@ -2,10 +2,12 @@
 iso: sbr
 name: Sembakung Murut
 autonym: Tidong
-alt_names: [Sembakoeng, Sembakong, Simbakong, Tidoeng, Tidung, Tingalun, Tinggalan, Tinggalum]
+alt_names: [Sembakoeng, Sembakong, Simbakong, Tidoeng, Tidung, Tingalun, Tinggalan, Tinggalum, Agabag, Murut, Sembakung]
 population: 3200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Sabahan language spoken on Borneo
 status_id: 6a
 scope: individual
 language_type: living

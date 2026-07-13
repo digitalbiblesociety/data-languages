@@ -2,10 +2,12 @@
 iso: leu
 name: Kara
 autonym: Kara
-alt_names: [Lemakot, Lemusmus, Neu-Mecklenburg]
+alt_names: [Lemakot, Lemusmus, Neu-Mecklenburg, East Kara, Lauan-Nonopai, Luburua, Ngavalus-Lossuk, West Kara]
 population: 5000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

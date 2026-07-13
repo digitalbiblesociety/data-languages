@@ -2,10 +2,12 @@
 iso: weo
 name: Wemale
 autonym: Honitetu
-alt_names: [Indonesia, North Wemale, "Wemale, North"]
+alt_names: [Indonesia, North Wemale, "Wemale, North", Oemale]
 population: 3091
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

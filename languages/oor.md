@@ -6,6 +6,7 @@ alt_names: [Oorlangs, Oorlans]
 population: 32000
 country_id: ZA
 country_name: South Africa
+area: Afrikaans dialect of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living

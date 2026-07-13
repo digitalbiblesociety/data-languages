@@ -2,10 +2,11 @@
 iso: kfc
 name: "Konda-Dora"
 autonym: కొండ
-alt_names: [Conda-dora, Konda, Konḍa, Konḍa (Kūbi), Koṇḍa, Porja]
+alt_names: [Conda-dora, Konda, Konḍa, Konḍa (Kūbi), Koṇḍa, Porja, Kubi]
 population: 60700
 country_id: IN
 country_name: India
+location: "India, Map 7"
 status_id: "5"
 scope: individual
 language_type: living

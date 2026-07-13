@@ -2,15 +2,18 @@
 iso: poc
 name: Poqomam
 autonym: Pocomán
-alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, "Pokomam, Central"]
+alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, "Pokomam, Central", Central Pokomam]
 population: 8600
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language of Guatemala
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 14.73252
 longitude: -89.73796
+language_map_img: Pueblos_Indigenas_antes_de_la_conquista_El_Salvador.svg
 glottocode: poqo1253
 glottolog_family_id: maya1287
 glottolog_family_name: Mayan

@@ -6,6 +6,8 @@ alt_names: [Langbashi, Langbasi, Langbwasse, Langwasi]
 population: 43000
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Ubangian language spoken in central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 兰巴谢语
     auto: true
 ---
+South Banda is a dialect continuum of the Banda languages spoken by around 200,000 or so people, primarily in the Central African Republic but with ten thousand or so in the Democratic Republic of the Congo. The two varieties may be mutually intelligible.

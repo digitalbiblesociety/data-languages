@@ -2,10 +2,12 @@
 iso: whg
 name: North Wahgi
 autonym: null
-alt_names: [Mid-Wahgi, Wahgi, "Wahgi, North"]
+alt_names: [Mid-Wahgi, Wahgi, "Wahgi, North", Wahgi-North]
 population: 58000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Trans–New Guinea language
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Chimbu"
 ---
+Wahgi is a Trans–New Guinea language of the Chimbu–Wahgi branch spoken by approximately 100,000 people in the highlands of Papua New Guinea. Like other Chimbu languages, Wahgi has some unusual lateral consonants.

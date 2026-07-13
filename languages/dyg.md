@@ -6,6 +6,7 @@ alt_names: ["Agta, Villa Viciosa"]
 population: null
 country_id: PH
 country_name: Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -53,3 +54,4 @@ translations:
     name: 别别别山亚格塔语
     auto: true
 ---
+Atta is an Austronesian dialect cluster spoken by the Aeta (Agta) Negritos of the northern Philippines.

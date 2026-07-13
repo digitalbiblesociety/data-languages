@@ -2,12 +2,16 @@
 iso: okg
 name: Koko Babangk
 autonym: Koko Pera
+alt_names: [Kok Peponk]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
+latitude: -15.82602
+longitude: 141.48016
 wikidata_id: Q55254102
 translations:
   - translation_iso: ara
@@ -46,3 +50,4 @@ translations:
     name: 科科巴邦克语
     auto: true
 ---
+Gugubera, or Kok-Kaper, is a Paman language of the Cape York Peninsula, Queensland, in Australia.

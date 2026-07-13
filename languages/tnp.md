@@ -2,10 +2,12 @@
 iso: tnp
 name: Whitesands
 autonym: East Tanna
-alt_names: [Napuanmen, Tepehuan septentrional, Tepehuano septentrional, Whitsands]
+alt_names: [Napuanmen, Tepehuan septentrional, Tepehuano septentrional, Whitsands, Lometimeti, Nǝrak, Wassisi, Weasisi]
 population: 7500
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: poh
 name: "Poqomchi'"
 autonym: "Poqomchi, Occidental"
-alt_names: [Eastern Pokomchí, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí]
+alt_names: [Eastern Pokomchí, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí, Oriental, Occidental, Eastern Poqomchi, Western Poqomchi’, Poqomchiꞌ, Poqomchí oriental, Poqonchi, Santa Cruz Verapaz Poqomchi, Western Pocomchí]
 population: 177000
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: Mayan language spoken in Guatemala
 status_id: "4"
 scope: individual
 language_type: living

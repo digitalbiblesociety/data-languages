@@ -6,6 +6,8 @@ alt_names: [Elema, Haira, Kaipi, Kairi-Kaura, Kairu-Kaura, Muro, Muru, Vailala, 
 population: 7500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

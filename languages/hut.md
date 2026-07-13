@@ -2,10 +2,12 @@
 iso: hut
 name: Humla
 autonym: "Ü-Tsang"
-alt_names: [Dangali, "Humla \"Bhotia\"", Phoke]
+alt_names: [Dangali, "Humla \"Bhotia\"", Phoke, “Humla Bhotia”]
 population: 4000
 country_id: NP
 country_name: Nepal
+location: Western Nepal
+area: Most spoken and standard of the Tibetic languages
 status_id: 6a
 scope: individual
 language_type: living

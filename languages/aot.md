@@ -2,10 +2,12 @@
 iso: aot
 name: Atong
 autonym: A.tong
-alt_names: ["A'Tong language", "A'tong", Atong, A’tong]
+alt_names: ["A'Tong language", "A'tong", Atong, A’tong, Atong (India), Attong]
 population: 10000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Sino-Tibetan language spoken in South Asia
 status_id: "7"
 scope: individual
 language_type: living

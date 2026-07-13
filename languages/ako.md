@@ -6,6 +6,8 @@ alt_names: [Akuliyo, Akuri, Akurijo, Akuriyo, Oyaricoulet, Tiriyometesem, Triome
 population: 2012
 country_id: SR
 country_name: Suriname
+location: French Guiana and Suriname
+area: Cariban language of Suriname
 status_id: 8b
 scope: individual
 language_type: living

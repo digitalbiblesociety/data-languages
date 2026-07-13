@@ -7,11 +7,14 @@ alt_names: ["Chinese, Gan", "Chinese,Gan", Chino gan, Chinu gang, Chinês gan, G
 population: 22100000
 country_id: CN
 country_name: China
+location: Southern China
+area: Chinese varieties spoken around Jiangxi
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.98958
 longitude: 115.16585
+language_map_img: gan.webp
 scripts: [Hans]
 glottocode: ganc1239
 glottolog_family_id: sino1245

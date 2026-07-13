@@ -6,6 +6,8 @@ alt_names: [Cherait, Cherite, Cherites, Dak Tjerratj, Daktjerat, Daktyerat, Dakt
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Aboriginal language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 库韦马语
     auto: true
 ---
+Malak-Malak, also known as Ngolak-Wonga (Nguluwongga), is an Australian Aboriginal language spoken by the Mulluk-Mulluk people. Malak-Malak is nearly extinct, with children growing up speaking Kriol or English instead. The language is spoken in the Daly River area around Woolianna and Nauiyu. The Kuwema or Tyaraity (Tyeraty) variety is distinct.

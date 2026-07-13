@@ -3,10 +3,11 @@ iso: chu
 iso639_1: cu
 name: Church Slavic
 autonym: Old Church Slavic
-alt_names: [Alt-slavisch, Antic eslau, Antico slavo ecclesiastico, Antiguo eslavo eclesiástico, "Bulgarian, Old", Church Slavonic, Eslavo eclesiástico, Eslavon, Fornkyrkoslaviska, Gammelkirkeslavisk, Hen Slafoneg Eglwysig, Muinaiskirkkoslaavi, Old Bulgarian, Old Church Slavonic, Old Slavonic, Oldkirkeslavisk, Ou Kerkslawies, Oudkerkslavisch, "Slavic, Church", "Slavonic, Church", "Slavonic, Old", "Slavonic, Old Church", Staro-cerkwjejno-słowjańska rěc, Vieux-slave, altbulgarische, altkirchenslawische, "slavon d'église", slavon liturgique, vieux bulgare, vieux slave, Словѣ́ньскъ ѩꙁꙑ́къ, סלאבית כנסייתית עתיקה]
+alt_names: [Alt-slavisch, Antic eslau, Antico slavo ecclesiastico, Antiguo eslavo eclesiástico, "Bulgarian, Old", Church Slavonic, Eslavo eclesiástico, Eslavon, Fornkyrkoslaviska, Gammelkirkeslavisk, Hen Slafoneg Eglwysig, Muinaiskirkkoslaavi, Old Bulgarian, Old Church Slavonic, Old Slavonic, Oldkirkeslavisk, Ou Kerkslawies, Oudkerkslavisch, "Slavic, Church", "Slavonic, Church", "Slavonic, Old", "Slavonic, Old Church", Staro-cerkwjejno-słowjańska rěc, Vieux-slave, altbulgarische, altkirchenslawische, "slavon d'église", slavon liturgique, vieux bulgare, vieux slave, Словѣ́ньскъ ѩꙁꙑ́къ, סלאבית כנסייתית עתיקה, церковнослове́нскїй]
 population: null
 country_id: RU
 country_name: Russia
+area: Medieval Slavic literary language
 status_id: "10"
 scope: individual
 language_type: historical

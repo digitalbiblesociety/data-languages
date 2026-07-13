@@ -2,10 +2,12 @@
 iso: bnm
 name: Batanga
 autonym: Noho
-alt_names: ["Bano'o", Banoho, Banoo, Nohu, Noku]
+alt_names: ["Bano'o", Banoho, Banoo, Nohu, Noku, Bano’o]
 population: 15000
 country_id: GQ
 country_name: Equatorial Guinea
+location: Southwestern Cameroon
+area: Bantu language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living

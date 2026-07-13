@@ -2,15 +2,18 @@
 iso: dje
 name: Zarma
 autonym: zarma ciine
-alt_names: [Adzerma, Djerma, Dyabarma, Dyarma, Dyerma, Zabarma, Zarbarma, Zarmaci, Zarmeg, Zerma]
+alt_names: [Adzerma, Djerma, Dyabarma, Dyarma, Dyerma, Zabarma, Zarbarma, Zarmaci, Zarmeg, Zerma, Kaado, Zarma sanni, Zarmaciine]
 population: 4330100
 country_id: NE
 country_name: Niger
+location: Burkina Faso
+area: Songhay language of southwestern Niger
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 12.855377
 longitude: 2.411727
+language_map_img: Songhay_languages.svg
 scripts: [Latn]
 glottocode: zarm1239
 glottolog_family_id: song1307

@@ -6,6 +6,8 @@ alt_names: [Bola, Flowery Phula, Hua Phula, Phula, Phulepho, Tsha Phula]
 population: 13000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish dialect cluster of China
 status_id: 6b
 scope: individual
 language_type: living

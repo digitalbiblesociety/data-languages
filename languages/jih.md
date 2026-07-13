@@ -6,11 +6,14 @@ alt_names: [Daofu, Ergong, Horpa, Horpa-Shangzhai, Western Jiarong]
 population: 4100
 country_id: CN
 country_name: China
+location: China
+area: Rgyalrongic language of China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 32.225
 longitude: 102.63
+language_map_img: 500px-Horpa_map.webp
 glottocode: shan1274
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
@@ -52,3 +55,4 @@ translations:
   - translation_iso: zho
     name: 商寨语
 ---
+Horpa are a cluster of closely related Gyalrongic languages of China. Horpa is better understood as a cluster of closely related yet unintelligible dialect groups/languages. Its main dialects include Stau, Nyagrong Minyag, Stodsde, Geshiza, Bawang, etc.

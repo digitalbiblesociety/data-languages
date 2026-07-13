@@ -5,6 +5,7 @@ autonym: Asian Swahili
 population: 45000
 country_id: TZ
 country_name: Tanzania
+area: Creole derived from Kutchi and Swahili languages
 status_id: 6a
 scope: individual
 language_type: living

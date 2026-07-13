@@ -7,6 +7,7 @@ alt_names: [An Choirnis, Bororo, Cernyweg, Cornic, Cornique, Cornisch, Cornish l
 population: 600
 country_id: GB
 country_name: United Kingdom
+area: Brythonic Celtic language spoken in Cornwall
 status_id: "9"
 scope: individual
 language_type: living

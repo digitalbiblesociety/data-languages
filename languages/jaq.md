@@ -6,6 +6,8 @@ alt_names: [Jaqai, Jaqai-Sohur, Mapi, Sohur, Yaqai]
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Fly River language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

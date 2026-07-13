@@ -3,10 +3,12 @@ iso: ztg
 macrolanguage_id: zap
 name: Xanaguía Zapotec
 autonym: (Santa Catarina Xanaguía)
-alt_names: [Southern Sapoteko, Xanaguia Zapotec, Zapotec, "Zapotec, Xanaguía", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Southern Sapoteko, Xanaguia Zapotec, Zapotec, "Zapotec, Xanaguía", Zapoteco de Asunción Tlacolulita, "Zapotèque d'Asunción Tlacolulita", Diidz Zë, Zapoteco de Santa Catarina Xanaguía, Xanaguía, San Francisco Ozolotepec Zapotec, Zapoteco de Sta. Catarina Xanaguía]
 population: 2500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

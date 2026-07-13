@@ -2,10 +2,12 @@
 iso: ndi
 name: Samba Leko
 autonym: Samba Leekɔ
-alt_names: [(Samba) Leko, Chamba, Chamba Leko, Lego, Leko, Lekon, Ndi, Samba, Samba Leeko, Suntai]
+alt_names: [(Samba) Leko, Chamba, Chamba Leko, Lego, Leko, Lekon, Ndi, Samba, Samba Leeko, Suntai, Bangla, Chamba Leeko, Deenu, Koola, Laeko, Ndii, Samba de Wangai, Sampara]
 population: 62000
 country_id: NG
 country_name: Nigeria
+location: Northern Cameroon
+area: Language of northern Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

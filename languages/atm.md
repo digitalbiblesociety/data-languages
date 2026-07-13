@@ -2,9 +2,11 @@
 iso: atm
 name: Ata
 autonym: null
+alt_names: [Inata]
 population: null
 country_id: PH
 country_name: Philippines
+area: Philippine Negrito language
 status_id: 8b
 scope: individual
 language_type: living

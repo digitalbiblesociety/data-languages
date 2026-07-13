@@ -6,6 +6,8 @@ alt_names: [Japreria, Japréria, Motilón, Yaprería, Yucpa-Yaprería, Yukpa-Jap
 population: 216
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Cariban language spoken in Venezuela
 status_id: 6b
 scope: individual
 language_type: living

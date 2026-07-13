@@ -2,10 +2,12 @@
 iso: mtg
 name: Una
 autonym: Goliath
-alt_names: [Langda, Langtub, Mt. Goliath, Oranje-Gebergte]
+alt_names: [Langda, Langtub, Mt. Goliath, Oranje-Gebergte, Mount Goliath]
 population: 4000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "Language of Highland Papua, Indonesia"
 status_id: "4"
 scope: individual
 language_type: living

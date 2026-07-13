@@ -2,10 +2,12 @@
 iso: clu
 name: Caluyanun
 autonym: null
-alt_names: [Bisaya, Caluyanen, Caluyanhon, Caluyanon language, Caluyanon nga yinaknan]
+alt_names: [Bisaya, Caluyanen, Caluyanhon, Caluyanon language, Caluyanon nga yinaknan, Caluyanon, Semirara]
 population: 30000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

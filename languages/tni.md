@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: ID
 country_name: Indonesia
+area: Extinct language in Papua
 status_id: "9"
 scope: individual
 language_type: living

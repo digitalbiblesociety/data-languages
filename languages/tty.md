@@ -6,6 +6,8 @@ alt_names: [Aikwakai, Araikurioko, Ati, Sikari, Tori]
 population: 800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Lakes Plain language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

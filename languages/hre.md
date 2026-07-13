@@ -2,10 +2,12 @@
 iso: hre
 name: Hre
 autonym: "Cham-Re"
-alt_names: [Chom, Davach, Davak, Dá-Vách, Hrey, Hrê, Moi, Moi Da Vach, Moi Dá-vách, Moi Luy, Tachom]
+alt_names: [Chom, Davach, Davak, Dá-Vách, Hrey, Hrê, Moi, Moi Da Vach, Moi Dá-vách, Moi Luy, Tachom, Creq, Dá Vách, Hrent, Kare, Kre, Moi Da Va, Rabah, Tava]
 population: 127000
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Language of central Vietnam
 status_id: "5"
 scope: individual
 language_type: living

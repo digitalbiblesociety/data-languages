@@ -2,15 +2,18 @@
 iso: tiu
 name: Adasen
 autonym: Isneg
-alt_names: [Adasen Itneg, Addasen, Addasen Tinguian, Itneg, "Itneg, Adasen"]
+alt_names: [Adasen Itneg, Addasen, Addasen Tinguian, Itneg, "Itneg, Adasen", Itneg Adasen, Eastern Addasen, Western Addasen]
 population: 4000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.81873
 longitude: 120.90528
+language_map_img: 500px-Isnag_language_map.webp
 glottocode: adas1235
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -63,3 +66,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Abra"
 ---
+Isnag is an Austronesian language spoken by around 50,101 Isnag people of Apayao Province in the Cordillera Administrative Region in the northern Philippines, who are also found in parts of Cagayan and Ilocos Norte. Their populations are distributed across the municipalities of Calanasan, Kabugao, Pudtol, Flora, Luna, Santa Marcela, and Conner in Apayao; the eastern part of Ilocos Norte, specifically Adams, Carasi, Dumalneg, Vintar, Marcos, Dingras, Solsona, Bangui, and Pagudpud; the northwestern part of Cagayan, particularly Santa Praxedes, Claveria, Sanchez Mira, and Pamplona; and the northern part of Abra, particularly Tineg. Around 85% of Isnag are capable of reading the Isnag language. Many Isnag speakers also speak Ilocano.

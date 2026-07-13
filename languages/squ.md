@@ -2,15 +2,18 @@
 iso: squ
 name: Squamish
 autonym: Sḵwx̱wú7mesh sníchim
-alt_names: [Esquihuamés, SKwXwu7mesh snichim, Skwxwu7mesh, Sk̲wx̲wú7mesh, Squawmisht, Sqwxwumish, Sqxwu7mish, sqʷxʷúʔməš]
+alt_names: [Esquihuamés, SKwXwu7mesh snichim, Skwxwu7mesh, Sk̲wx̲wú7mesh, Squawmisht, Sqwxwumish, Sqxwu7mish, sqʷxʷúʔməš, "Skwxwu'mesh snichim"]
 population: 2300
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Coast Salish language spoken in Canada
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 49.32306
 longitude: -123.01406
+language_map_img: Squamish-Territory-Wiki-Map.svg
 glottocode: squa1248
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

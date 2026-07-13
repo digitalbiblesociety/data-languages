@@ -3,10 +3,12 @@ iso: bdt
 macrolanguage_id: gba
 name: Bokoto
 autonym: Bhogoto
-alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma]
+alt_names: ["'Bokoto", Bogodo, Bogoto, Bokodo, Bokpoto, Gbanu, Gbaya, Gbeya, Kara, Southern Gbaya, Suma, Bhokoto, Bokpan, Gbaya de Boda, Gbaya of Boda, Ngata]
 population: 130000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language spoken in Central African Republic
 status_id: 6a
 scope: individual
 language_type: living

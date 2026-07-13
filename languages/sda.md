@@ -2,10 +2,12 @@
 iso: sda
 name: "Toraja-Sa'dan"
 autonym: Sa’dan
-alt_names: [Nordost-Celebes, Rantepao, "Sa'dan", "Sa'dansche", Sadan, Sadang, South Toraja, "Ta'e", "Tae'", Toradja, Toraja, "Toraja Sa'dan"]
+alt_names: [Nordost-Celebes, Rantepao, "Sa'dan", "Sa'dansche", Sadan, Sadang, South Toraja, "Ta'e", "Tae'", Toradja, Toraja, "Toraja Sa'dan", Sa’dansche, Sada, Ta’e, Tae’, Basa Toraya, Basa Toraꞌa, Kesuꞌ, Makale, Mappa-Pana, Saꞌdan, Saꞌdansche, Taeq, Taeꞌ, Tallulembangna, Toraja Barat, Toraja-Saꞌdan, West Toraja]
 population: 588000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Saqatri, Socotri, Sokotreg, Sokotri, Soqotri hizkuntza, Soqotrí, So
 population: 108000
 country_id: YE
 country_name: Yemen
+location: Yemen
+area: "South Semitic language of Socotra, Yemen"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 12.48924
 longitude: 53.91675
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: soqo1240
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

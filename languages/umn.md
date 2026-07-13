@@ -2,10 +2,12 @@
 iso: umn
 name: Makyan Naga
 autonym: Makyan
-alt_names: [Makyam-Kuku Naga, "Naga, Makyan"]
+alt_names: [Makyam-Kuku Naga, "Naga, Makyan", Macham Naga, Macham Naga; Leinong]
 population: 3000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language of Myanmar
 status_id: 6a
 scope: individual
 language_type: living

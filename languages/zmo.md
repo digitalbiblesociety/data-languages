@@ -6,6 +6,8 @@ alt_names: [Tura-Ka-Molo]
 population: 100
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilo-Saharan language of Sudan
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Ilputih, Opotai, Tutunohan]
 population: 150
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Austronesian language of Wetar, Indonesia"
 status_id: 8b
 scope: individual
 language_type: living
@@ -61,3 +63,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Maluku"
 ---
+Wetarese is an Austronesian language of Wetar, an island in the south Maluku, Indonesia, and of the nearby island Liran.

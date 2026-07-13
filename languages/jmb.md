@@ -6,6 +6,8 @@ alt_names: [Jimbinawa, Zoumbouneg]
 population: 2000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mjl
 name: Mandeali
 autonym: मंडयाली
-alt_names: [Himachali, Mandi, Mandiali, Pahari Mandiyali]
+alt_names: [Himachali, Mandi, Mandiali, Pahari Mandiyali, मंडियाली, Mandiyali, Mandyali, Pahari]
 population: 623000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Language spoken in northern India
 status_id: "4"
 scope: individual
 language_type: living

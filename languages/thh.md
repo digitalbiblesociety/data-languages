@@ -2,15 +2,18 @@
 iso: thh
 name: Northern Tarahumara
 autonym: "Rarámuri ra'ícha"
-alt_names: [Ariseachi, Ariseachi Tarahumara, Northern, Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Norte, Tarahumara del Suroeste, "Tarahumara, Northern", Taraumara, Tubare, Vorohio]
+alt_names: [Ariseachi, Ariseachi Tarahumara, Northern, Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del Norte, Tarahumara del Suroeste, "Tarahumara, Northern", Taraumara, Tubare, Vorohio, Arisiachi Tarahumara]
 population: 1500
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 28.60767
 longitude: -107.65788
+language_map_img: Tarahumara_precontact_and_modern.svg
 glottocode: nort2956
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
@@ -53,3 +56,4 @@ translations:
     name: 北塔拉乌马拉语
     auto: true
 ---
+Tarahumara is a Uto-Aztecan language indigenous to Mexico and spoken by around 70,000 Rarámuri (Tarahumara/Ralámuli) people in the state of Chihuahua. It is the second most-widely spoken Uto-Aztecan language after Nahuatl.

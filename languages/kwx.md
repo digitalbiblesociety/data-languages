@@ -2,10 +2,12 @@
 iso: kwx
 name: Khirwar
 autonym: Kherwari
-alt_names: [Gonḍi, Gōṇḍī, Khirwara]
+alt_names: [Gonḍi, Gōṇḍī, Khirwara, Kalari]
 population: 25800
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: "Dravidian language of Chhattisgarh, India"
 status_id: 6a
 scope: individual
 language_type: living

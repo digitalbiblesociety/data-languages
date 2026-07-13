@@ -2,10 +2,12 @@
 iso: njm
 name: Angami Naga
 autonym: Angamis
-alt_names: [Angameg, Angami, Angami language, Chokri, Gnamei, Monr, Naga, "Naga, Angami", "Naga,Angami", Ngami, Tendydie, Tsanglo, Tsoghami, Tsugumi, Ангами]
+alt_names: [Angameg, Angami, Angami language, Chokri, Gnamei, Monr, Naga, "Naga, Angami", "Naga,Angami", Ngami, Tendydie, Tsanglo, Tsoghami, Tsugumi, Ангами, Chakroma, Dzuna, Kehena, Khonoma, Kohima, Mima, Mozome, Nali, Tengima, Tenyidie, Western Angami]
 population: 153000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language native to the Naga Hills
 status_id: "3"
 scope: individual
 language_type: living

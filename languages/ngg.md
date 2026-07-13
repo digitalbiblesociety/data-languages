@@ -6,6 +6,8 @@ alt_names: ["'Bofi", Ali, Ngbaka, Ngbaka-Manza, Ngbaka-Minagende, Ngbaka-Minange
 population: 29000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language of the CAR
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 恩巴卡曼扎语
     auto: true
 ---
+Ali (’Àlī) is a Gbaya language of the southwestern Central African Republic. Ngbaka Manza is closer to ’Ali proper than it is to its namesakes Manza or Ngbaka, though all may be mutually intelligible to some extent.

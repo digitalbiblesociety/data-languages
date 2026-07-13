@@ -6,6 +6,8 @@ alt_names: [Eastern Tedi, Kasiwa, Kativa, Muju, Ningerum, Ninggeroem, Ninggirum,
 population: 5150
 country_id: PG
 country_name: Papua New Guinea
+location: "Indonesia, Eastern Papua"
+area: Ok language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

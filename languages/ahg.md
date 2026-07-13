@@ -6,6 +6,8 @@ alt_names: [Agaw, Chemant, Falasha, Falaša, "K'emant", Kamant, Kemanat, Kemant,
 population: 1650
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushtic language spoken by Qemant people in northwestern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

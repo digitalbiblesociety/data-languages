@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: PG
 country_name: Papua New Guinea
+area: Extinct Austronesian language
 status_id: "10"
 scope: individual
 language_type: extinct

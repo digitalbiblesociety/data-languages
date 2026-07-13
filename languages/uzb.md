@@ -3,6 +3,7 @@ iso: uzb
 iso639_1: uz
 name: Uzbek
 autonym: Ўзбек тили
+alt_names: [o‘zbek]
 population: 27000000
 country_id: UZ
 country_name: Uzbekistan

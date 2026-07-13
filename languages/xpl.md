@@ -6,6 +6,8 @@ alt_names: ["Tasmanian, Port Sorell"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct aboriginal language of Tasmania
 status_id: null
 scope: individual
 language_type: extinct

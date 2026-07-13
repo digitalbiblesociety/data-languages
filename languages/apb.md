@@ -2,10 +2,12 @@
 iso: apb
 name: "Sa'a"
 autonym: "Apae'aa"
-alt_names: [Malaita (South), Saa, South Malaita, Südliche Salomons-Inseln, Ulawa]
+alt_names: [Malaita (South), Saa, South Malaita, Südliche Salomons-Inseln, Ulawa, Apae’aa, Apaeꞌaa, Saꞌa, Ugi, Uki Ni Masi]
 population: 11500
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

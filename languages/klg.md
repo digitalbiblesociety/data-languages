@@ -2,10 +2,12 @@
 iso: klg
 name: Tagakaulo
 autonym: Kalagan
-alt_names: ["Kalagan, Tagakaulu", Tagakaolo]
+alt_names: ["Kalagan, Tagakaulu", Tagakaolo, Tagakaulu Kalagan]
 population: 121000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian dialect cluster
 status_id: "4"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 他加卡乌洛语
     auto: true
 ---
+Kalagan is an Austronesian dialect cluster of the Davao Region of Mindanao in the Philippines. It is also spoken in a few parts of Caraga, also in Mindanao.

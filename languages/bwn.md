@@ -6,6 +6,8 @@ alt_names: [Bunu, Bunu wunai, "Bunu, Wunai", Bunú wunai, Hm Nai, Ngnai, Punu, W
 population: 18400
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmongic language spoken in China
 status_id: "7"
 scope: individual
 language_type: living

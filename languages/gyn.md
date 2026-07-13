@@ -2,10 +2,12 @@
 iso: gyn
 name: Guyanese Creole English
 autonym: Creolese
-alt_names: ["Creole English, Guyanese", Guyanese Creole]
+alt_names: ["Creole English, Guyanese", Guyanese Creole, Afro-Guyanese Creole, Indo-Guyanese Creole, Rupununi]
 population: 715200
 country_id: GY
 country_name: Guyana
+location: Guyana
+area: English-based creole language spoken in Guyana
 status_id: "4"
 scope: individual
 language_type: living

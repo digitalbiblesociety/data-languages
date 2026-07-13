@@ -6,11 +6,13 @@ alt_names: [Catauba, Catawaba]
 population: null
 country_id: US
 country_name: United States
+area: Language spoken by the Catawba people
 status_id: 8b
 scope: individual
 language_type: extinct
 latitude: 34.96848
 longitude: -80.88569
+language_map_img: 500px-Catawba_lang.webp
 glottocode: cata1286
 glottolog_family_id: siou1252
 glottolog_family_name: Siouan

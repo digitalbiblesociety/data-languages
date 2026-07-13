@@ -2,10 +2,12 @@
 iso: mil
 name: Peñoles Mixtec
 autonym: Eastern Mixtec
-alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixteco, Huitepec Mixtec, Misteko, Mitlatongo Mixtec, Mixtec, Mixtec (Peñoles), "Mixtec, Peñoles", Mixteco (Peoles), Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Mateo Tepantepec, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Penoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec]
+alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi-Tilantongo Mixtec, Eastern Alta Mixtec, Eastern Mixteco, Huitepec Mixtec, Misteko, Mitlatongo Mixtec, Mixtec, Mixtec (Peñoles), "Mixtec, Peñoles", Mixteco (Peoles), Mixteco bajo de Valles, Mixteco de Diuxi-Tilantongo, Mixteco de Huitepec, Mixteco de Mitlatongo, Mixteco de San Antonio Huitepec, Mixteco de San Juan Tamazola, Mixteco de San Mateo Tepantepec, Mixteco de San Miguel Piedras, Mixteco de San Pedro Tidaá, Mixteco de Santa María Peñoles, Mixteco de Santiago Tlazoyaltepec, Mixteco de Santo Domingo Nuxaá, Mixteco de Tidaá, Mixteco de Yutanduchi, Mixteco de Yutanduchi de Guerrero, Mixteco de Zaachila, Mixteco del Sureste de Nochixtlán, Mixteco del este central, North Central Nochixtlán Mixtec, Penoles Mixtec, San Miguel Piedras Mixtec, Sindihui Mixtec, Southeastern Nochixtlán Mixtec, Southern Nochixtlan Mixtec, Tamazola Mixtec, Tidaá Mixtec, Tlazoyaltepec Mixtec, Yutanduchi Mixtec, Peñoles, Mixteco de Peñoles, Tuꞌun savi]
 population: 5500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Etla, Santa Maria Penoles"
 ---
+Estetla Mixtec is a diverse Mixtec language of Oaxaca.

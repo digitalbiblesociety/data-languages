@@ -2,10 +2,12 @@
 iso: fap
 name: Paloor
 autonym: Falor
-alt_names: [Palar, Palor, Sili, Sili-Sili, Waro]
+alt_names: [Palar, Palor, Sili, Sili-Sili, Waro, Serer, Siili, Siili-Mantine, Siili-Siili]
 population: 10700
 country_id: SN
 country_name: Senegal
+location: Senegal and The Gambia
+area: Cangin language spoken in Senegal
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Kuat, Neu-Pommern, Panaras]
 population: 2400
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Language isolate of Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -3.06952
 longitude: 151.53735
+language_map_img: 500px-New_Ireland_Languages.webp
 glottocode: kuot1243
 wikidata_id: Q56537
 wikipedia_url: "https://en.wikipedia.org/wiki/Kuot_language"

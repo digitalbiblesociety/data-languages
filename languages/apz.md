@@ -2,10 +2,12 @@
 iso: apz
 name: Safeyoka
 autonym: Ampale
-alt_names: [Ambari, Ampeeli, Ampeeli-Wojokeso, Ampele]
+alt_names: [Ambari, Ampeeli, Ampeeli-Wojokeso, Ampele, Aiewomba, Wajakes, Wocokeso, Wojokeso]
 population: 2390
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Angan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

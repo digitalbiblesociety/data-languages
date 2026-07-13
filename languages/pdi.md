@@ -5,11 +5,14 @@ autonym: Padi
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Southwestern Tai language of China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 26.311235
 longitude: 103.48591
+language_map_img: 500px-Pa_Di_language.webp
 glottocode: padi1241
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

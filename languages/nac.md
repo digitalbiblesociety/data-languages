@@ -5,6 +5,8 @@ autonym: Ganja
 population: 6220
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Jimi language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

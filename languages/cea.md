@@ -6,6 +6,7 @@ alt_names: [Bas-chehalis, "Chehalis, Lower", Chehalí bajo, ɬəwʼálʼməš]
 population: null
 country_id: US
 country_name: United States
+area: Salishan language of North America
 status_id: "9"
 scope: individual
 language_type: extinct

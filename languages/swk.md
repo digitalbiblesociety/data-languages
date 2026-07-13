@@ -2,10 +2,12 @@
 iso: swk
 name: Malawi Sena
 autonym: Chisena
-alt_names: [Cisena, "Sena, Malawi"]
+alt_names: [Cisena, "Sena, Malawi", Chimanganja, Malawi, Sena]
 population: 805000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language of central Mozambique
 status_id: "5"
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MW
     location: Malawi
 ---
+Sena is a Bantu language spoken in the four provinces of central Mozambique : Tete, Sofala, Zambezia and Manica. There were an estimated 900,000 native Sena speakers in Mozambique in 1997, with at least 1.5 million if including those who speak it as a second language. It is one of the Nyasa languages.

@@ -2,15 +2,18 @@
 iso: krl
 name: Karelian
 autonym: karjal kariela  karjala
-alt_names: [An Chairéilis, Carelià, Gárjilgiella, "Kar'ala kiil", Karelian Proper, Karelieg, Karelies, Karelisch, Karelsk, Karelska, Karely, Olonetzisch-Lüdisch, Russisch-Karelisch, "Severno-Karel'skij", "Sobstvenno-Karel'skij-Jazyk", carélien, karjala, Карелийн мотт, Карелэнь кель, קרלית]
+alt_names: [An Chairéilis, Carelià, Gárjilgiella, "Kar'ala kiil", Karelian Proper, Karelieg, Karelies, Karelisch, Karelsk, Karelska, Karely, Olonetzisch-Lüdisch, Russisch-Karelisch, "Severno-Karel'skij", "Sobstvenno-Karel'skij-Jazyk", carélien, karjala, Карелийн мотт, Карелэнь кель, קרלית, Karel’skiy Jazyk, Severno-Karel’skij, Sobstvenno-Karel’skij-Jazyk, Kalinin, Karel, Norgorod, North Karelian, Northern Karelian, Novgorod, Southern Karelian, Tver]
 population: 30600
 country_id: RU
 country_name: Russia
+location: "Denmark, Finland, Norway and Sweden"
+area: "Finnic language of Karelia, in Russia and Finland"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 65.16912
 longitude: 30.865535
+language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp
 scripts: [Latn]
 glottocode: kare1335
 glottolog_family_id: ural1272

@@ -5,6 +5,8 @@ autonym: Aisana
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -57,3 +59,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Milne Bay"
 ---
+Wagawaga is an Oceanic language spoken on the southeastern tip of Papua New Guinea. The Gamadoudou, Soma’a, and Sileba dialects may be a separate language, Yaleba.

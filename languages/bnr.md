@@ -6,6 +6,8 @@ alt_names: [Ati, Farafi]
 population: 520
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Language of Vanuatu
 status_id: 6a
 scope: individual
 language_type: living

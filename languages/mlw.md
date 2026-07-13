@@ -6,6 +6,8 @@ alt_names: [Melokwo, Mokyo, Molko, Molkoa, Molkwo, Molokwo]
 population: 8500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

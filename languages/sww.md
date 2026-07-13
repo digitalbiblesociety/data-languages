@@ -6,6 +6,7 @@ alt_names: [Vanuatu]
 population: null
 country_id: VU
 country_name: Vanuatu
+area: Extinct language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: extinct

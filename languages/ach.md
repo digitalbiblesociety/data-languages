@@ -2,10 +2,12 @@
 iso: ach
 name: Acoli
 autonym: Lwo
-alt_names: [Acholi, Acholi language, Acooli, Akoli, Atcholeg, Atscholi, Dok Acoli, Gang, Labwor, Log Acoli, Lwoo, Shuli, Ачоли]
+alt_names: [Acholi, Acholi language, Acooli, Akoli, Atcholeg, Atscholi, Dok Acoli, Gang, Labwor, Log Acoli, Lwoo, Shuli, Ачоли, Chope, Chopi, Dhopaluo, Lëbacoli]
 population: 1588000
 country_id: UG
 country_name: Uganda
+location: South Sudan
+area: Southern Luo dialect
 status_id: "5"
 scope: individual
 language_type: living

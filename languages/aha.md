@@ -5,6 +5,8 @@ autonym: Ayɩnda
 population: 175000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Niger-Congo language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

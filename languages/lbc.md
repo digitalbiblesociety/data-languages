@@ -6,6 +6,8 @@ alt_names: [Chashan Yao, Lajia, Lak(k)ia, Laka, Lakia, Lakja, Tai Laka, Tea Moun
 population: 12000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kra–Dai language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

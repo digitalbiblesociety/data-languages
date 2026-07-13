@@ -6,6 +6,8 @@ alt_names: [Amberu, Boorkutti, Burgadi, Burrgati, Burugardi, Daingatti, Dainggat
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

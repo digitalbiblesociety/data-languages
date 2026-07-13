@@ -2,10 +2,12 @@
 iso: lam
 name: Lamba
 autonym: Ichilamba
-alt_names: [Chilamba]
+alt_names: [Chilamba, Bulima, Lima]
 population: 201000
 country_id: ZM
 country_name: Zambia
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Zambia and DRC
 status_id: "5"
 scope: individual
 language_type: living

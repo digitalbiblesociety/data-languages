@@ -6,6 +6,7 @@ alt_names: [Denieg, Judeo-Aramaic, Kurdit, Lishan Hozaye, Lishan Hudaye, Lişana
 population: 8800
 country_id: IL
 country_name: Israel
+area: Northeastern Neo-Aramaic dialect of Iraqi Jews
 status_id: "7"
 scope: individual
 language_type: living

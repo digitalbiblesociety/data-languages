@@ -2,15 +2,18 @@
 iso: etu
 name: Ejagham
 autonym: Ejagham
-alt_names: [Edjagam, Ejagam, Ejaham, Ejwe, Ekoi, Etung, Keaka, Kwa, Obang]
+alt_names: [Edjagam, Ejagam, Ejaham, Ejwe, Ekoi, Etung, Keaka, Kwa, Obang, Abakpa, Aqua, Eastern Ejagham, Ekin, Qua, Southern Ejagham, Western Ejagham]
 population: 116700
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Ekoid language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 5.54442
 longitude: 8.90959
+language_map_img: Map_of_the_Ekoid_languages.webp
 glottocode: ejag1239
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

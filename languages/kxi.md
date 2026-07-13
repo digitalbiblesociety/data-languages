@@ -6,6 +6,8 @@ alt_names: ["Murut, Keningau"]
 population: 1000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: Murutic language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living

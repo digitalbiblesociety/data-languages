@@ -2,10 +2,12 @@
 iso: gdf
 name: "Guduf-Gava"
 autonym: Afkabiye
-alt_names: [Gavoko, Gavoko (Guduf), Guduf, Gudupe, Kdupe]
+alt_names: [Gavoko, Gavoko (Guduf), Guduf, Gudupe, Kdupe, Chikide, Cikide, Gava, Gavva, Yaghwatadaxa, Yawotataxa]
 population: 55900
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 4"
+area: Afro-Asiatic language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

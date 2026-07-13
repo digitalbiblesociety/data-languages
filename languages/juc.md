@@ -2,10 +2,11 @@
 iso: juc
 name: Jurchen
 autonym: Nuchen
-alt_names: [Djourtcheneg, Hezhen]
+alt_names: [Djourtcheneg, Hezhen, Nuzhen]
 population: null
 country_id: CN
 country_name: China
+area: Tungusic language of eastern Manchuria
 status_id: "10"
 scope: individual
 language_type: historical

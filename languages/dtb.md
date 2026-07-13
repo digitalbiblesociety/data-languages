@@ -2,10 +2,12 @@
 iso: dtb
 name: "Labuk-Kinabatangan Kadazan"
 autonym: "Labuk-Kinabatangan Kadazan"
-alt_names: [Eastern Kadazan, Kadazan, "Kadazan, Labuk-Kinabatangan", Labuk Kadazan, Sogilitan, Tindakon, Tompulung]
+alt_names: [Eastern Kadazan, Kadazan, "Kadazan, Labuk-Kinabatangan", Labuk Kadazan, Sogilitan, Tindakon, Tompulung, Labuk Kinabatangan Kadazan, Labuk, Labuk-Kinabatangan, Lamag Sungai, Mangkaak, Mangkahak, Mangkak, Mangkok, Sukang, Sungai, Sungai Kinabatangan, Sungei, Tinangaran Kadajan]
 population: 20600
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Alacatlatzala Mixtec, Alcozauca Mixtec, Central Misteko, Guerrero Mi
 population: 2540
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Mixtec language of Guerrero, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

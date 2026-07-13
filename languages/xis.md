@@ -2,9 +2,11 @@
 iso: xis
 name: Kisan
 autonym: null
+alt_names: [Birhor, Koda, Kola, Kora, Kuda, Kunha, Kunhar, Kunna, Kunrukh, Kunuk, Mirdha, Morva, Nagesia, Nageswar]
 population: null
 country_id: IN
 country_name: India
+area: Dravidian language of eastern India
 status_id: null
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Bihar"
 ---
+Kurukh, also Kurux, Oraon or Uranw, is a North Dravidian language spoken by the Kurukh (Oraon) and Kisan people of East India. It is spoken by about two million people in the Indian states of Jharkhand, Chhattisgarh, Odisha, West Bengal, Assam and Tripura, as well as by 65,000 in northern Bangladesh, 28,600 of a dialect called Uranw in Nepal and about 5,000 in Bhutan. The most closely related language to Kurukh is Malto; together with Brahui, all three languages form the North Dravidian branch of the Dravidian language family. It is marked as being in a "vulnerable" state in UNESCO's list of endangered languages. The Kisan dialect has 206,100 speakers as of 2011.

@@ -2,14 +2,18 @@
 iso: bhl
 name: Bimin
 autonym: Bim
+alt_names: [Nimtep Weng]
 population: 2250
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Ok language spoken in New Guinea
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -5.38732
 longitude: 142.04036
+language_map_img: Ok-Oksapmin_languages.svg
 glottocode: bimi1240
 glottolog_family_id: nucl1709
 glottolog_family_name: Nuclear Trans New Guinea

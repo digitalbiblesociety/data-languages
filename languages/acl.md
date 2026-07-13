@@ -6,6 +6,7 @@ alt_names: [Bale, Balwa, Great Andamanese, Lèngua Akar-Bale]
 population: null
 country_id: IN
 country_name: India
+area: Extinct Southern Great Andamanese of India
 status_id: "10"
 scope: individual
 language_type: extinct

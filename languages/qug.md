@@ -3,15 +3,18 @@ iso: qug
 macrolanguage_id: que
 name: Chimborazo Highland Quichua
 autonym: " Runa Shimi"
-alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Cañar Highland Quichua, Chimborazo, Colta, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Ecuadorean, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quechua, Quechua (Ecuadorean), Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Chimborazo Highland", Salasca, Tena Quichua]
+alt_names: ["\"quichua (Cotopaxi, Tungurahua et Chimborazo)\"", Calderón, Cañar Highland Quichua, Chimborazo, Colta, Cotopaxi Quichua., Ecuador, Ecuador Quechua, Ecuadorean, Highland Ecuadorian Quichua, Highland Kichua, Imbabura Quichua, Kichua, Loja, Napo Quichua, Northern Pastaza Quichua, Quechua, Quechua (Ecuadorean), Quichua, Quichua (Cañar et Azuay), Quichua (Imbabura), Quichua (Loja), Quichua (Napo), Quichua (Pastaza), Quichua (Salasaca), "Quichua, Chimborazo Highland", Salasca, Tena Quichua, Chimborazo Highland, Ecuadorean Quechua, Kichwa, Kichwa Shimi, Kichwa de la Sierra, Quichua de Chimborazo, Quichua de la Sierra Chimborazo, Chimborazo Quichua]
 population: 800000
 country_id: EC
 country_name: Ecuador
+location: Ecuador
+area: Quechuan language of Ecuador and Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -1.36727
 longitude: -78.85209
+language_map_img: KichwaQ.svg
 scripts: [Latn]
 glottocode: chim1302
 glottolog_family_id: quec1387

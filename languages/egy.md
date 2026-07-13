@@ -2,7 +2,7 @@
 iso: egy
 name: Ancient Egyptian
 autonym: r n km.t
-alt_names: [Altägyptisch, Ancient Egyptian, Egyptian, Middle Egyptian, égyptien]
+alt_names: [Altägyptisch, Ancient Egyptian, Egyptian, Middle Egyptian, égyptien, Egyptian (Ancient)]
 population: null
 country_id: EG
 country_name: Egypt

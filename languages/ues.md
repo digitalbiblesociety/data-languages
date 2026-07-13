@@ -6,6 +6,8 @@ alt_names: [Indonesia]
 population: 1000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Celebic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Sulawesi Tenggara (Southeast)"
 ---
+Pancana is an Austronesian language of Buton Island, off the southeast coast of Sulawesi in Indonesia. It belongs to the Muna–Buton branch of the Celebic subgroup. It is in the Munic subbranch of the Muna–Buton languages.

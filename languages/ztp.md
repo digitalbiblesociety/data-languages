@@ -3,10 +3,12 @@ iso: ztp
 macrolanguage_id: zap
 name: Loxicha Zapotec
 autonym: Diste
-alt_names: [Copalita Zapotec, Southern Sapoteko, Western Pochutla Zapotec, Zapotec, "Zapotec, Loxicha", Zapoteco de Asunción Tlacolulita, Zapoteco de Loxicha, "Zapotèque d'Asunción Tlacolulita"]
+alt_names: [Copalita Zapotec, Southern Sapoteko, Western Pochutla Zapotec, Zapotec, "Zapotec, Loxicha", Zapoteco de Asunción Tlacolulita, Zapoteco de Loxicha, "Zapotèque d'Asunción Tlacolulita", San Agustín Loxicha, San Andrés Paxtlán, San Bartolomé Loxicha, San Miguel Suchixtepec, Zapoteco de Candelaria Loxicha, Zapoteco de San Agustín Loxicha]
 population: 75000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

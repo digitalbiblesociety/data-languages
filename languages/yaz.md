@@ -2,10 +2,12 @@
 iso: yaz
 name: Lokaa
 autonym: Lokaa
-alt_names: [Loke, Loko, Luko, Yako, Yakurr, Yakö]
+alt_names: [Loke, Loko, Luko, Yako, Yakurr, Yakö, Loka, Lokǝ, Nkpam, Ugep]
 population: 270000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Upper Corss River language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

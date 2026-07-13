@@ -2,9 +2,12 @@
 iso: mgd
 name: Moru
 autonym: Kala Moru
+alt_names: ["'Bali'ba", Agi, Andri, Kadiro, "Lakama'di", Miza, "Wa'di"]
 population: 230000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

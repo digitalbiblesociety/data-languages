@@ -6,6 +6,8 @@ alt_names: [Yambetta]
 population: 3700
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Southern Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living

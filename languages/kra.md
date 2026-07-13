@@ -6,6 +6,8 @@ alt_names: ["Kum?le", Kumbale, Kumhale, Kumkale]
 population: 6530
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Indo-Aryan language of Nepal
 status_id: "7"
 scope: individual
 language_type: living

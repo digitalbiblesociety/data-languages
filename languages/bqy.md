@@ -6,6 +6,8 @@ alt_names: [Bali Sign Language, Balinese Sign Language, Benkala Sign Language]
 population: 1125
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: "Village sign language of Bali, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: mjd
 name: Northwest Maidu
 autonym: "Koyoom k'awi"
-alt_names: ["\"Digger\"", Concow, "Digger\"\"", Holólupai, Konkau, Konkow, Konkow language, Maidu, Maidu (Northwest), "Maidu, Northwest", Maiduan, Maidú noroccidental, Meidoo, Michopdo, Northwest, Northwestern Maidu, Nákum, Secumne, Sekumne, Tsamak, Yuba]
+alt_names: ["\"Digger\"", Concow, "Digger\"\"", Holólupai, Konkau, Konkow, Konkow language, Maidu, Maidu (Northwest), "Maidu, Northwest", Maiduan, Maidú noroccidental, Meidoo, Michopdo, Northwest, Northwestern Maidu, Nákum, Secumne, Sekumne, Tsamak, Yuba, “Digger”]
 population: 200
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: "Endangered Maiduan language of northeastern California, US"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 39.67211
 longitude: -121.36786
+language_map_img: 500px-Pre-contact_distribution_of_Maiduan_languages.webp
 glottocode: nort2951
 glottolog_family_id: maid1262
 glottolog_family_name: Maiduan

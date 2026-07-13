@@ -6,6 +6,7 @@ alt_names: [Areminian Romany, Armenian Bosha, Arnebuab Bisa, Bosa, Bosha, Lomavr
 population: 50
 country_id: AM
 country_name: Armenia
+area: Nearly extinct mixed language spoken by the Lom people
 status_id: 6b
 scope: individual
 language_type: living

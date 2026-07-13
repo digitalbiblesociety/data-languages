@@ -2,10 +2,12 @@
 iso: amk
 name: Ambai
 autonym: bahasa Ambai
-alt_names: [Ambai-Menawi]
+alt_names: [Ambai-Menawi, Manawi, Randawaya, Wadapi-Laut]
 population: 10100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language
 status_id: 6b
 scope: individual
 language_type: living

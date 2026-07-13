@@ -2,10 +2,12 @@
 iso: bpk
 name: Orowe
 autonym: "'Ôrôê"
-alt_names: [Boewe, Neukaledonien, Ôrôê]
+alt_names: [Boewe, Neukaledonien, Ôrôê, Abwebwe]
 population: 590
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: Austronesian language spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

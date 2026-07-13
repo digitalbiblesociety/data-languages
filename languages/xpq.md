@@ -5,9 +5,11 @@ autonym: Mohiks-Piqut Uyôtowáwôk
 population: null
 country_id: US
 country_name: United States
+area: Extinct Eastern Algonquian language
 status_id: "9"
 scope: individual
 language_type: extinct
+language_map_img: 500px-Tribal_Territories_Southern_New_England.webp
 wikidata_id: Q3319130
 wikipedia_url: "https://en.wikipedia.org/wiki/Mohegan-Pequot_language"
 translations:

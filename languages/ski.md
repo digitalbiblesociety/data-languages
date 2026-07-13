@@ -2,10 +2,12 @@
 iso: ski
 name: Sika
 autonym: Krowe
-alt_names: [Maumere, Sara Sikka, Sikka, Sikka u. Tettun, Sikkanese]
+alt_names: [Maumere, Sara Sikka, Sikka, Sikka u. Tettun, Sikkanese, Central Sikka, Kangaé, Sara Krowe, Sikka Natar, South Coast Sikka, Tana Ai]
 population: 175000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Austronesian language spoken in Flores, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

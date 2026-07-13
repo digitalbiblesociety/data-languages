@@ -2,10 +2,12 @@
 iso: wmw
 name: Mwani
 autonym: Kimwani
-alt_names: [Ibo, Muane, Mwane, Quimuane]
+alt_names: [Ibo, Muane, Mwane, Quimuane, Kikisanga, Kinkojo, Kinsimbwa, Kisanga, Kiwibo, Namwaní, Nkojo, Nsimbwa, Quissanga, Wibo]
 population: 146000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living

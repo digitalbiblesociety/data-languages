@@ -6,11 +6,14 @@ alt_names: [Dzek, Dzhek, Dzheki, Katsy, Kjruaj mez, Kriz, Kryc, Kryz, Kryzy, câ€
 population: 6000
 country_id: AZ
 country_name: Azerbaijan
+location: Azerbaijan
+area: Samur language of Azerbaijan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 41.18107
 longitude: 48.18457
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: kryt1240
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

@@ -6,11 +6,14 @@ alt_names: [Amakurupa, Andilagwa, Andiljangwa, Andiljaugwa, Andiljaukwa, Andilya
 population: 1240
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Indigenous Australian language of the Northern Territory
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -13.99904
 longitude: 136.6415
+language_map_img: 500px-Anindilyakwa.webp
 glottocode: anin1240
 glottolog_family_id: gunw1250
 glottolog_family_name: Gunwinyguan

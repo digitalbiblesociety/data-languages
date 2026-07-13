@@ -6,6 +6,7 @@ alt_names: [Bedia-mangora, Botany Bay tribe, Broken Bay tribe, Caddiegal, Cam-me
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language of the Sydney area
 status_id: "10"
 scope: individual
 language_type: extinct

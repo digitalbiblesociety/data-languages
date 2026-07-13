@@ -2,10 +2,12 @@
 iso: bdh
 name: Baka
 autonym: Tara Baka
-alt_names: [Baka, Baka (Sudan), Baka (in Sudan), Tara Baaka]
+alt_names: [Baka, Baka (Sudan), Baka (in Sudan), Tara Baaka, Baká, baká e]
 population: 62300
 country_id: SS
 country_name: South Sudan
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

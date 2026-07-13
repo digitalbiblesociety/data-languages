@@ -2,9 +2,12 @@
 iso: tjl
 name: Tai Laing
 autonym: Tai Lai
+alt_names: [Red Tai, Shan Bamar, Shan Kalee, Shan Ni, Tai Laeng, Tai Lang, Tai Nai, Tai Naing]
 population: 100000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Tai language of Burma
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kwg
 name: Sara Kaba Deme
 autonym: Kaba Démé
-alt_names: ["Kaba 'Dem", Kaba Deme, Kaba Demi, Sara Kaba Dem, Tà Sàra]
+alt_names: ["Kaba 'Dem", Kaba Deme, Kaba Demi, Sara Kaba Dem, Tà Sàra, Kaba ’Dem, Boho, Kuruwer, Kuwaré, Mara, Sara Kaba Ɗem, Sime, Ɗem]
 population: 40000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language spoken in central Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Judeo-Greek, Romaniote, Yevanitika]
 population: 1987
 country_id: IL
 country_name: Israel
+area: Endangered Greek dialect
 status_id: 8b
 scope: individual
 language_type: living

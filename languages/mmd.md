@@ -6,6 +6,8 @@ alt_names: [毛南話]
 population: 101000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kam–Sui language spoken in China
 status_id: 6b
 scope: individual
 language_type: living

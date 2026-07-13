@@ -2,10 +2,12 @@
 iso: nmh
 name: Monsang Naga
 autonym: Siirti
-alt_names: ["Naga, Monsang"]
+alt_names: ["Naga, Monsang", Mawshang, Monshang, Moshang, Mushang, Mongsang, "Si:rti"]
 population: 3200
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Unclassified Sino-Tibetan (possibly Sino-Tibetan) language of Northeast India
 status_id: "5"
 scope: individual
 language_type: living

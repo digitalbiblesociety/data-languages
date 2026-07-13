@@ -3,15 +3,18 @@ iso: hae
 macrolanguage_id: orm
 name: Eastern Oromo
 autonym: Harar
-alt_names: ["\"Kwottu\"", "\"Qottu\"", "\"Qotu\" Oromo", "\"Quottu\"", "\"Qwottu\"", Eastern, Harar Oromo, Harar of Dirre Dawa town, Harer, Ittu, Oromo, Oromo (Dirre Dawa Harar), Oromo (Eastern), Oromo (Harar), Oromo Proper, "Oromo, Eastern"]
+alt_names: ["\"Kwottu\"", "\"Qottu\"", "\"Qotu\" Oromo", "\"Quottu\"", "\"Qwottu\"", Eastern, Harar Oromo, Harar of Dirre Dawa town, Harer, Ittu, Oromo, Oromo (Dirre Dawa Harar), Oromo (Eastern), Oromo (Harar), Oromo Proper, "Oromo, Eastern", “Kwottu”, “Qottu”, “Qotu Oromo”, “Quottu”, “Qwottu”, Afaan Oromoo, Afan Oromo, Oromiffa, Oromoo]
 population: 9710000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Variety of Oromo language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 8.67428
 longitude: 41.43953
+language_map_img: hae.webp
 glottocode: east2652
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

@@ -2,9 +2,12 @@
 iso: tbc
 name: Takia
 autonym: null
+alt_names: [Megiar, Serang]
 population: 25000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

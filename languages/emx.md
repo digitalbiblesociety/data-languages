@@ -2,14 +2,17 @@
 iso: emx
 name: Erromintxela
 autonym: Erromintxela
+alt_names: [Basque Caló]
 population: 500
 country_id: FR
 country_name: France
+area: Language with Basque syntax and Romani vocabulary
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 43.17251
 longitude: -1.46112
+language_map_img: Basque_Country_location_map.webp
 glottocode: erro1240
 glottolog_family_id: spee1234
 glottolog_family_name: Speech Register

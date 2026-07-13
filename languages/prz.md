@@ -6,6 +6,7 @@ alt_names: [Providence Island Sign Language, Providencia-tegnspråk]
 population: 2500
 country_id: CO
 country_name: Colombia
+area: Sign language of Providence Island
 status_id: 8b
 scope: individual
 language_type: living

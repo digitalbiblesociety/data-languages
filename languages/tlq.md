@@ -2,10 +2,12 @@
 iso: tlq
 name: Tai Loi
 autonym: Mong Lue
-alt_names: ["\"mok (Myanmar, Thaïlande)\"", Angku, Loi, Mok (Chine), Mok (République démocratique populaire lao), Mong-Lwe, Monglwe, Muak Sa-aak, Tai-Loi, Tailoi, Tailoi von Möng-Lwe, Tailói, Thaï loi, Wa-Küt, Wakut, Āng-kú]
+alt_names: ["\"mok (Myanmar, Thaïlande)\"", Angku, Loi, Mok (Chine), Mok (République démocratique populaire lao), Mong-Lwe, Monglwe, Muak Sa-aak, Tai-Loi, Tailoi, Tailoi von Möng-Lwe, Tailói, Thaï loi, Wa-Küt, Wakut, Āng-kú, Aw-aak, Doi]
 population: 4460
 country_id: MM
 country_name: Myanmar
+location: Laos
+area: Austroasiatic language spoken in Myanmar and China
 status_id: 6a
 scope: individual
 language_type: living

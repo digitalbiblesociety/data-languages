@@ -6,6 +6,7 @@ alt_names: [Itanga, Ramarama, Ramarama-Urumí, Urumí]
 population: null
 country_id: BR
 country_name: Brazil
+area: Extinct Tupian language of Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

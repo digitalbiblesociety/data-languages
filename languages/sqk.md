@@ -5,6 +5,7 @@ autonym: AlbSL
 population: 24100
 country_id: AL
 country_name: Albania
+area: Deaf sign language of Albania
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mym
 name: "Me'en"
 autonym: Mɛʼɛn
-alt_names: [Meen, Mekan, Men, Meqan, "Mie'en", Mieken]
+alt_names: [Meen, Mekan, Men, Meqan, "Mie'en", Mieken, Mie’en, Banio, Bodi, Koruwo, "Me'enite", Mela, Meꞌen, Podi, Suro]
 population: 151000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Nilo-Saharan language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

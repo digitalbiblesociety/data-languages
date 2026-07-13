@@ -3,15 +3,18 @@ iso: cos
 iso639_1: co
 name: Corsican
 autonym: corsu
-alt_names: [Cors, Corse, Corseg, Corsi, Corsica-gí, Corsicaans, Corsicagiella, Corso, Còrs, Khô-sî-kâ-ngî, Korseg, Korsikaans, Korsikaca, Korsikan tili, Korsikansk, Korsikanska, Korsikera, Korsische Spraak, Korsičtina, Korsîkî, Łéngua corsa, كورسىكا تىلى]
+alt_names: [Cors, Corse, Corseg, Corsi, Corsica-gí, Corsicaans, Corsicagiella, Corso, Còrs, Khô-sî-kâ-ngî, Korseg, Korsikaans, Korsikaca, Korsikan tili, Korsikansk, Korsikanska, Korsikera, Korsische Spraak, Korsičtina, Korsîkî, Łéngua corsa, كورسىكا تىلى, Bastia, Cape Cors, Northern Corsican, Sartenais, Venaco, Vico-Ajaccio]
 population: 151000
 country_id: FR
 country_name: France
+location: Andorra and France
+area: Italo-Dalmatian language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 41.700015
 longitude: 9.255365
+language_map_img: 500px-Parlers_de_Corse.webp
 scripts: [Latn]
 glottocode: cors1241
 glottolog_family_id: indo1319

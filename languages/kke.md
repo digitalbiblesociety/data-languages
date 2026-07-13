@@ -6,6 +6,8 @@ alt_names: [Jon Kule, Ourekabakan]
 population: 4100
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language of Guinea
 status_id: 6b
 scope: individual
 language_type: living

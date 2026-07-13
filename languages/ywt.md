@@ -6,6 +6,8 @@ alt_names: [Central Lalo, Dongshan Lalu Yi, Lalo, "Lalo, Central", "Lalo, Xishan
 population: 213000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language cluster spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
   - translation_iso: zho
     name: 西山坝腊罗语
 ---
+Lalo is a Loloish language cluster spoken in western Yunnan, China by 300,000 speakers. Speakers are officially part of the Yi nationality, and Chinese linguists refer to it as "Western Yi" due to its distribution in western Yunnan. Lalo speakers are mostly located in southern Dali Prefecture, especially Weishan County, considered the traditional homeland of the Lalo. Historically, this area is the home of the Meng clan, who ruled the Nanzhao Kingdom (737–902 CE). Many speakers of Core Lalo dialects claim to be descendants of the Meng clan.

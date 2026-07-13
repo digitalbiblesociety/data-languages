@@ -2,10 +2,12 @@
 iso: arr
 name: Karo
 autonym: Ramarama
-alt_names: [Arara, Arara (Tupi), Arara Urukú, Arara-Karo, Arara-Urukú, Arra (Rondonia), Arára, Arára do Jiparaná, Itanga, Itogapuc, Itogapuk, Itogapúk, Karo, Karó (Arára), Káro, Ntogapid, Ntogapig, Uruku, Urukú]
+alt_names: [Arara, Arara (Tupi), Arara Urukú, Arara-Karo, Arara-Urukú, Arra (Rondonia), Arára, Arára do Jiparaná, Itanga, Itogapuc, Itogapuk, Itogapúk, Karo, Karó (Arára), Káro, Ntogapid, Ntogapig, Uruku, Urukú, Arára de Rondonia]
 population: 170
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Tupian language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living

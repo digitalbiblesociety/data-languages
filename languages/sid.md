@@ -2,15 +2,18 @@
 iso: sid
 name: Sidamo
 autonym: Sidaama
-alt_names: [Siclamo, Sidama, Sidaminya, Sidamo hizkuntza, Sidamoeg, "Sidámo 'Afó"]
+alt_names: [Siclamo, Sidama, Sidaminya, Sidamo hizkuntza, Sidamoeg, "Sidámo 'Afó", Sidaamu Afoo, Sidámo ’Afó, Sidaamu afii]
 population: 4343000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic language spoken by Sidama people in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 6.74176
 longitude: 38.3729
+language_map_img: sid.webp
 scripts: [Latn]
 glottocode: sida1246
 glottolog_family_id: afro1255

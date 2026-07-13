@@ -2,10 +2,12 @@
 iso: lzn
 name: Leinong Naga
 autonym: Htang Ngan
-alt_names: ["Naga, Leinong"]
+alt_names: ["Naga, Leinong", Lainong Naga, Lenaung Naga, Yao Dyang Naga, Htangan, Northern Lainong, Southern Lainong, Yao Dyang, Zau Dyang]
 population: 8000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

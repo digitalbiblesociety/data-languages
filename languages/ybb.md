@@ -2,10 +2,12 @@
 iso: ybb
 name: Yemba
 autonym: Yɛmba
-alt_names: [Atsang-Bangwa, Bafou, Bamileke-Yemba, Bangwa, Dschang, "Dschang, Yemba", Tchang]
+alt_names: [Atsang-Bangwa, Bafou, Bamileke-Yemba, Bangwa, Dschang, "Dschang, Yemba", Tchang, Foreke Dschang]
 population: 300000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

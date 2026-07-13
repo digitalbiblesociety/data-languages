@@ -2,10 +2,12 @@
 iso: nza
 name: Tigon Mbembe
 autonym: Tigon
-alt_names: [Akonto, Akwanto, Mbembe, "Mbembe, Tigon", Noale, Tigim, Tigong, Tigum, Tigun, Tikun, Tukun]
+alt_names: [Akonto, Akwanto, Mbembe, "Mbembe, Tigon", Noale, Tigim, Tigong, Tigum, Tigun, Tikun, Tukun, Ashuku, Dama, Eneeme, Izale, Izare, Kitsipki, Kporo, Mbémbe, Nama, Namu, Ndzale, Njari, Nsare, Nzare, cha Mbémbe, chya Mbembe, cya Mbembe]
 population: 60000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Jukunoid language of Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living

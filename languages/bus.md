@@ -2,10 +2,12 @@
 iso: bus
 name: Bokobaru
 autonym: Bisã
-alt_names: [Busa-Bokobaru, Zongben, Zõgbe]
+alt_names: [Busa-Bokobaru, Zongben, Zõgbe, Bussawa, Bariba, Bussanchi, Kaiama, Zogben, village Bokobaru]
 population: 62000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Mande language of Nigeria and Benin
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Kwara"
 ---
+Busa, or Bisã, is the Mande language of the former Borgu Emirate in northwestern Nigeria and northern Benin. It is called Busanci in Hausa, and has also been called Zugweya.

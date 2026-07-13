@@ -2,15 +2,18 @@
 iso: hne
 name: Chhattisgarhi
 autonym: छत्तीसगढ़ी
-alt_names: [Chhatisgarhi, Khaltahi, Khatahi, Laria, Tchatisgarheg, Tsjhattisgarhi]
+alt_names: [Chhatisgarhi, Khaltahi, Khatahi, Laria, Tchatisgarheg, Tsjhattisgarhi, Chattisgarhi, Baiga, Baigani, Bega, Bhulia, Bhumia, Binjhwari, Chhattisgarhi Proper, Gowro, Kalanga, Kavardi, Khairagarhi, Sadri Korwa]
 population: 16300000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: "Indo-Aryan language spoken in the Chhattisgarh, India"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 20.36015
 longitude: 82.04833
+language_map_img: hne.webp
 scripts: [Deva]
 glottocode: chha1249
 glottolog_family_id: indo1319

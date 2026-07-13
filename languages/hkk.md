@@ -2,10 +2,12 @@
 iso: hkk
 name: "Hunjara-Kaina Ke"
 autonym: null
-alt_names: [Hunjara]
+alt_names: [Hunjara, Kaina Ke, Kokoda K Ainake]
 population: 8770
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Binanderean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: PG
     location: "Papua New Guinea, Northern"
 ---
+Orokaiva is a Papuan language spoken in the "tail" of Papua New Guinea.

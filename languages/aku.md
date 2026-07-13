@@ -6,6 +6,8 @@ alt_names: [Okum]
 population: 1400
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Language spoken in Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living

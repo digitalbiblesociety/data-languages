@@ -6,11 +6,14 @@ alt_names: [Batı Yugurca, Sari Yogur, Sari yougour, Sarig, Sary-Uighur, Saryg Y
 population: 2600
 country_id: CN
 country_name: China
+location: China
+area: "Siberian Turkic language of Gansu, China"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 39.05481
 longitude: 99.31118
+language_map_img: 500px-Siberian_Turkic_Languages_distribution_map.webp
 glottocode: west2402
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

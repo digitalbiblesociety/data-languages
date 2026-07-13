@@ -2,15 +2,17 @@
 iso: bbl
 name: Bats
 autonym: ბაცბაჼმოტ
-alt_names: [Bac, Batsaw, Batsbi, Batsbiitsy, Batseg, Batsi, Batsisk, Batsça, Bácico, Tsova-Tush, Tsova-Tush (Batsbi), Tush, batsba motjiti, бацбур мотlтl, цова-тушинский, באצבית]
+alt_names: [Bac, Batsaw, Batsbi, Batsbiitsy, Batseg, Batsi, Batsisk, Batsça, Bácico, Tsova-Tush, Tsova-Tush (Batsbi), Tush, batsba motjiti, бацбур мотlтl, цова-тушинский, באצבית, Batsba]
 population: 3420
 country_id: GE
 country_name: Georgia
+area: Northeast Caucasian language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 42.1806
 longitude: 45.34397
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 glottocode: bats1242
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

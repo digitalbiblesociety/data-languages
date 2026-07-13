@@ -6,6 +6,7 @@ alt_names: [Vafsí]
 population: 18000
 country_id: IR
 country_name: Iran
+area: Iranian language spoken in the Vafs village
 status_id: "7"
 scope: individual
 language_type: living

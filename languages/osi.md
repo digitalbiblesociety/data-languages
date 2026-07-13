@@ -5,11 +5,14 @@ autonym: Banyuwangi
 population: 300000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: "Language of the Osing people of East Java, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.25262
 longitude: 114.29235
+language_map_img: Osing.svg
 glottocode: osin1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

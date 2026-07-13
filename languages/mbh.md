@@ -2,10 +2,12 @@
 iso: mbh
 name: Mangseng
 autonym: null
-alt_names: [Mangsing, Masegi, Maseki]
+alt_names: [Mangsing, Masegi, Maseki, Marapu, Umua]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

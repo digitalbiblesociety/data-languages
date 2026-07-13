@@ -6,6 +6,8 @@ alt_names: [South Tepehuane, South-west Tepewan, Southern Tepehuan, Southern Tep
 population: 8700
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Durango"
 ---
+Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers.

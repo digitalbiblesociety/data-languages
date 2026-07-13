@@ -2,10 +2,12 @@
 iso: vav
 name: Varli
 autonym: वारली
-alt_names: [Warli]
+alt_names: [Warli, Davari, Eastern Nihiri, Western Nihiri]
 population: 387000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

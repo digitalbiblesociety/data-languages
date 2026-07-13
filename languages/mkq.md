@@ -6,6 +6,7 @@ alt_names: ["Miwok, Bay", Sakaiakumni, Saklan]
 population: null
 country_id: US
 country_name: United States
+area: Moribund Miwok language of California
 status_id: null
 scope: individual
 language_type: extinct

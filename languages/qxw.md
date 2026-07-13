@@ -7,6 +7,8 @@ alt_names: [Huanca, Huanca Jauja Quechua, Jauja, Jauja-Huanca, Nyuqa, "Quechua, 
 population: 23000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua variety of Peru
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 豪哈瓦卡克丘亚语
     auto: true
 ---
+Wanka Quechua is a Quechuan language, spoken in the southern part of Peruvian region of Junín by the Wanka people.

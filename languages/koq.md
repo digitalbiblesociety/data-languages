@@ -6,6 +6,8 @@ alt_names: [Ikuta, Kota, Kotu]
 population: 41500
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Language of Gabon
 status_id: 6a
 scope: individual
 language_type: living

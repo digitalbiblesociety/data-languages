@@ -6,6 +6,7 @@ alt_names: [Alkaiyana, Jaralde, Jaraldi, Jarildekald, Jarildikald, Jarildukald, 
 population: 312
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

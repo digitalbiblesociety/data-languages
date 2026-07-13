@@ -2,10 +2,12 @@
 iso: tem
 name: Timne
 autonym: KʌThemnɛ
-alt_names: [Baga, Landoma, Temen, Temne, Temne language, Temneg, Themne, Timene, Timmannee]
+alt_names: [Baga, Landoma, Temen, Temne, Temne language, Temneg, Themne, Timene, Timmannee, Banta, Bombali, Kholifa, Konike, Koya, Malal, Masingbi, Pil, Ribia, Sanda, Western Temne, Yoni]
 population: 1630000
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Language spoken in Sierra Leone
 status_id: "3"
 scope: individual
 language_type: living

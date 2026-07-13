@@ -2,10 +2,12 @@
 iso: rar
 name: Rarotongan
 autonym: " Maori Kuki Airani"
-alt_names: [Cook Island, Cook Islands Maori, Kuki Airani, Maori, "Maori, Cook Islands", Māori, Rarotongan-Mangaian, Rarotongano, Rarotongien, Southern Cook Islands Māori, maori des îles Cook, rarotonga]
+alt_names: [Cook Island, Cook Islands Maori, Kuki Airani, Maori, "Maori, Cook Islands", Māori, Rarotongan-Mangaian, Rarotongano, Rarotongien, Southern Cook Islands Māori, maori des îles Cook, rarotonga, Aitutaki, Atiu, Mangaia, Mauke, Mitiaro, "Māori Kūki 'Āirani", Te Reo Maori]
 population: 27200
 country_id: CK
 country_name: Cook Islands
+location: Cook Islands
+area: Eastern Polynesian language of the Cook Islands
 status_id: 6b
 scope: individual
 language_type: living

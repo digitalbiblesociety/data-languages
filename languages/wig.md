@@ -6,6 +6,8 @@ alt_names: [Mimungkum, Natanya, Ngadanja, Wig Ngadhan, Wik, Wik Epa, Wik Kalkan,
 population: 130
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living

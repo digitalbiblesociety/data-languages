@@ -2,10 +2,12 @@
 iso: mfk
 name: North Mofu
 autonym: Douvangar
-alt_names: [Mofoueg an norzh, Mofu, "Mofu, North", Mofu-Douvangar, Mofu-Duvangar, Mofu-Nord, Mofu-North, Muffo, Muffu]
+alt_names: [Mofoueg an norzh, Mofu, "Mofu, North", Mofu-Douvangar, Mofu-Duvangar, Mofu-Nord, Mofu-North, Muffo, Muffu, Douroun, Durum, Mofu de Douroum, Wazan, Wazang]
 population: 27500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

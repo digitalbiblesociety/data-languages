@@ -3,15 +3,17 @@ iso: rmy
 macrolanguage_id: rom
 name: Vlax Romani
 autonym: řomani čhib
-alt_names: ["\"Gypsy\"", Albanesisch, Albanian, Danubian, European Romany, Gypsy, Rom, Romanese, Romani, Romani (Kalderash), Romani (Lovari), Romani (Vlach), Romani (Wallachian), "Romani, Vlax", Romany, Romaní Vlax, Romenes, Rroma, Tsigene, Vlach Romani, Vlax, Vlax Romany, Vlaxinromani, Zigeuner]
+alt_names: ["\"Gypsy\"", Albanesisch, Albanian, Danubian, European Romany, Gypsy, Rom, Romanese, Romani, Romani (Kalderash), Romani (Lovari), Romani (Vlach), Romani (Wallachian), "Romani, Vlax", Romany, Romaní Vlax, Romenes, Rroma, Tsigene, Vlach Romani, Vlax, Vlax Romany, Vlaxinromani, Zigeuner, Arli, Austrian Lovari, Beás, Bisa, Central Vlax Romani, Cerhari, Chokeshi Lovari, Churari, Churarícko, Cigány, Coppersmith, Crimean Romani, Das, Dzambazi, Eastern Vlax Romani, Fieri, Filipidzía, Gabor, Ghagar, Greco, Grekurja, Gurbet, Gurbetsky, Gurbéti, Hungarian Lovari, Ihtiman, Italian Kalderash, Italian Xoraxane, Kaldarári, Kalderari, Kalderash, Kalpazea, Kelderash, Kelderashícko, Korça, Lovari, Lovarícko, Machvanmcko, Machvano, Machwaya, Mexican Vlax, North Albanian, Norwegian Lovari, Polish Lovari, Roma, Romani Vlax, Romanés, Russian Kalderash, Sedentar Romani, Sedentary Bulgarian, Serbian Kalderash, Serbo-Bosnian, Sievemakers, Slovak Bougesti, South Albanian, Southern Vlax, Taikon Kalderash, Tsingani, Ukraine-Moldavia, Ukrainian Vlax, Vallachian, Xandurja, Zagundzi]
 population: 8500000
 country_id: RO
 country_name: Romania
+area: Romani dialect group of southeastern Europe
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 46.819124
 longitude: 14.845093
+language_map_img: Romany_dialects_Vlax.svg
 glottocode: vlax1238
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

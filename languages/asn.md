@@ -2,10 +2,12 @@
 iso: asn
 name: Xingú Asuriní
 autonym: Asuriní de Koatinema
-alt_names: [Akwaya, Assurini, Assurinikin, Assuriní do Xingú, Asurini, Asurini do Xingu, Asuriní, Asuriní de coatinema, Asuriní do Coatinema, Asuriní do Koatinema, Asuriní do Xingu, Asuriní do Xingú, Asuriní du Xingu, Asuriní of Xingú, "Asuriní, Xingú", Awaeté, Awaté, Xingu Asurini, Xingu Asuriní, Xingú]
+alt_names: [Akwaya, Assurini, Assurinikin, Assuriní do Xingú, Asurini, Asurini do Xingu, Asuriní, Asuriní de coatinema, Asuriní do Coatinema, Asuriní do Koatinema, Asuriní do Xingu, Asuriní do Xingú, Asuriní du Xingu, Asuriní of Xingú, "Asuriní, Xingú", Awaeté, Awaté, Xingu Asurini, Xingu Asuriní, Xingú, Asurini do Xingú]
 population: 110
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Tupi–Guaraní language of Brazil
 status_id: 6b
 scope: individual
 language_type: living

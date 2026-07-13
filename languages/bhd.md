@@ -2,10 +2,12 @@
 iso: bhd
 name: Bhadrawahi
 autonym: भद्रवाही
-alt_names: [Baderwali, Badrohi, Bahi, Bhadarwahi, Bhaderbhai Jamu, Bhaderwali Pahari, Bhadrava, Bhadravahi, Bhadri, Bhalesi, Bradrawah, Padari]
+alt_names: [Baderwali, Badrohi, Bahi, Bhadarwahi, Bhaderbhai Jamu, Bhaderwali Pahari, Bhadrava, Bhadravahi, Bhadri, Bhalesi, Bradrawah, Padari, Padar]
 population: 116000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: "Native language of the people of Bhadarwah, Jammu and Kashmir"
 status_id: 6a
 scope: individual
 language_type: living

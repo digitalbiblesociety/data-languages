@@ -6,6 +6,7 @@ alt_names: [Alliklik, Chumash ventureño, Chumasha Proper, Santa Rosa, Ventoureg
 population: null
 country_id: US
 country_name: United States
+area: Extinct Chumashan language of California
 status_id: "9"
 scope: individual
 language_type: extinct

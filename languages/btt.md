@@ -2,10 +2,12 @@
 iso: btt
 name: "Bete-Bendi"
 autonym: Bendi
-alt_names: [Bette-Bendi, Dama]
+alt_names: [Bette-Bendi, Dama, Bete, Bette, Mbete]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Atlantic–Congo language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

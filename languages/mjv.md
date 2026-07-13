@@ -2,10 +2,12 @@
 iso: mjv
 name: Mannan
 autonym: Mannan Pasha
-alt_names: [Manne, Mannyod]
+alt_names: [Manne, Mannyod, Inavan petch]
 population: 7850
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of Southern India
 status_id: 6b
 scope: individual
 language_type: living

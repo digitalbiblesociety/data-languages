@@ -2,10 +2,12 @@
 iso: mch
 name: Maquiritari
 autonym: Dekwana
-alt_names: ["Carib (De'kwana)", Cunuana, "De'cuana", "De'kwana Carib", Maiongom, Maiongong, Makiritare, Maquiritai, Maquiritare, Mayongong, Pauana, Pawana, Soto, "Ye'cuana", "Ye'cuana (Venezuela)", "Ye'cuana' Maquiritare", "Ye'kuana", Yecuana, Yecuana (Brésil), Yecuana (République bolivarienne du Venezuela), Yekuana]
+alt_names: ["Carib (De'kwana)", Cunuana, "De'cuana", "De'kwana Carib", Maiongom, Maiongong, Makiritare, Maquiritai, Maquiritare, Mayongong, Pauana, Pawana, Soto, "Ye'cuana", "Ye'cuana (Venezuela)", "Ye'cuana' Maquiritare", "Ye'kuana", Yecuana, Yecuana (Brésil), Yecuana (République bolivarienne du Venezuela), Yekuana, De’cuana, Ye’cuana, "De'kwana", Ihuruana, Maitsi, "So'to", Wainungomo, "Ye'kwana", Yekwana]
 population: 5520
 country_id: VE
 country_name: Venezuela
+location: Northwestern Brazil
+area: Indigenous language in South America
 status_id: 6a
 scope: individual
 language_type: living

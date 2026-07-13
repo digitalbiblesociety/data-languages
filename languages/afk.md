@@ -2,10 +2,12 @@
 iso: afk
 name: Nanubae
 autonym: Lower Arafundi
-alt_names: [Alfendio, Arafundi, Aunda, Imboin, Kapagmai, Tapei, Upper Arafundi]
+alt_names: [Alfendio, Arafundi, Aunda, Imboin, Kapagmai, Tapei, Upper Arafundi, Namubae]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Arafundi language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

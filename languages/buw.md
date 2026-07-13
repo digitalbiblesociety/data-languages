@@ -2,10 +2,11 @@
 iso: buw
 name: Bubi
 autonym: "ɣè-βòβè"
-alt_names: [Bhubhi, Eviia, Ibhubhi, Ibubi, Pove]
+alt_names: [Bhubhi, Eviia, Ibhubhi, Ibubi, Pove, Gevove, Ghevove, Vove]
 population: 5000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
 status_id: 6a
 scope: individual
 language_type: living

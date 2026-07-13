@@ -6,6 +6,8 @@ alt_names: [Katukína, Marobo, Marova, Maruba, Marubo, Marubo of the Javari Basi
 population: 1040
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Panoan language of Brazil
 status_id: "5"
 scope: individual
 language_type: living

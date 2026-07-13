@@ -2,10 +2,12 @@
 iso: cnc
 name: Côông
 autonym: Khoong
-alt_names: ["\"Xa Coong\"", "\"Xa Xam\"", "\"Xa Xeng\"", Coong, Cung, Công]
+alt_names: ["\"Xa Coong\"", "\"Xa Xam\"", "\"Xa Xeng\"", Coong, Cung, Công, “Xa Coong”, “Xa Xam”, “Xa Xeng”]
 population: 2000
 country_id: VN
 country_name: Vietnam
+location: Northwestern Viet Nam
+area: Loloish language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living

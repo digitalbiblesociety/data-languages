@@ -6,6 +6,8 @@ alt_names: [Biao Chao, Byau Min, Man, Mien, "Mien, Biao-Jiao", Pai-min, Yao]
 population: 43000
 country_id: CN
 country_name: China
+location: Southern China
+area: Hmong–Mien language spoken in China
 status_id: 6a
 scope: individual
 language_type: living

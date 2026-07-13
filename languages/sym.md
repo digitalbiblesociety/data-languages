@@ -2,15 +2,18 @@
 iso: sym
 name: Maya Samo
 autonym: Sane
-alt_names: [Northeastern Samo, Northern Samo, Sa, Samo, "Samo, Maya", San, Somono]
+alt_names: [Northeastern Samo, Northern Samo, Sa, Samo, "Samo, Maya", San, Somono, Bangassogo, Bounou, Gomboro, Kiembara, Northeastern Goe]
 population: 38000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Niger-Congo languages spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 13.18114
 longitude: -2.72732
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: maya1281
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
@@ -79,3 +82,4 @@ rolv_dialects:
     country_id: BF
     location: Burkina Faso
 ---
+Samo, also known as Mande Samo, is a dialect cluster of Mande languages spoken in Burkina Faso and Mali.

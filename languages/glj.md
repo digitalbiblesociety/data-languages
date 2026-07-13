@@ -2,10 +2,12 @@
 iso: glj
 name: Gula Iro
 autonym: "Goula d'Iro"
-alt_names: [Goula Iro, Iro, "Iro Gula, Kulaal", Kulaal]
+alt_names: [Goula Iro, Iro, "Iro Gula, Kulaal", Kulaal, Goula d’Iro]
 population: 165
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bua language of Chad
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: guk
 name: Gumuz
 autonym: Bega
-alt_names: ["\"Shankilligna\"", Bega-Tse, Debatsa, Debuga, Deguba, Dehenda, Gombo, Gumis, Gumuzinya, Mendeya, Shankillinya, Shanqilla, Sigumza]
+alt_names: ["\"Shankilligna\"", Bega-Tse, Debatsa, Debuga, Deguba, Dehenda, Gombo, Gumis, Gumuzinya, Mendeya, Shankillinya, Shanqilla, Sigumza, “Shankilligna”, “Shankillinya”, “Shanqilla”, Agalo, Bꞌega, Dakunza, Degoja, Dekoka, Desua, Dewiya, Dibate, Disoha, Dugunza, Dukuna, Dukunza, Ganza, Guba, Gumz, Gunza, Jemhwa, Kadallu, Kukwaya, Mandura, Metemma, Modea, Sa-Bꞌaga, Sa-Gumuz, Sai, Saysay, Sese, Sirba, Wenbera, Yaso]
 population: 249000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Language spoken in Ethiopia and Sudan
 status_id: "4"
 scope: individual
 language_type: living

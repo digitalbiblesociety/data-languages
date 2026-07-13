@@ -2,15 +2,18 @@
 iso: bns
 name: Bundeli
 autonym: बुन्देली
-alt_names: [Bondili, Boundeleg, Bundel Khandi, Bundelkhandi]
+alt_names: [Bondili, Boundeleg, Bundel Khandi, Bundelkhandi, Banaphari, Chhatapur, Chhindwara Bundeli, Gaoli, Khatola, Kirari, Kundri, Lodhanti, Nagpuri Hindi, Nibhatta, Raghobansi, Rathora, Standard Bundeli, Tirhari]
 population: 5630000
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 24.89823
 longitude: 78.95417
+language_map_img: bns.webp
 glottocode: bund1253
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

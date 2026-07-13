@@ -6,11 +6,13 @@ alt_names: [Ong Komi, Ongaranjan, Oonggoomi, Ungami, Ungkami, Ungumi, Uŋgumi, W
 population: null
 country_id: AU
 country_name: Australia
+area: Aboriginal Australian language of northern Western Australia
 status_id: "9"
 scope: individual
 language_type: living
 latitude: -15.65
 longitude: 124.67
+language_map_img: Worrorran_map.svg
 glottocode: ungg1243
 glottolog_family_id: worr1236
 glottolog_family_name: Worrorran
@@ -53,3 +55,4 @@ translations:
     name: 翁古米语
     auto: true
 ---
+Worrorra, also written Worora and other variants, and also known as Western Worrorran, is a moribund Australian Aboriginal language of northern Western Australia. It encompasses a number of dialects, which are spoken by a group of people known as the Worrorra people.

@@ -2,10 +2,12 @@
 iso: biz
 name: Baloi
 autonym: Baato Baloi
-alt_names: [Boloi, Loi, Loi language, Rebu]
+alt_names: [Boloi, Loi, Loi language, Rebu, Dzamba, Jamba, Loi-Likila, Makutu, Mampoko]
 population: 20000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -88,3 +90,4 @@ rolv_dialects:
     country_id: CD
     location: "Congo, Democratic Republic of, Equateur"
 ---
+Ngiri is a Bantu language closely related to Lingala.

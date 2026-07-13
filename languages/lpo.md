@@ -2,10 +2,12 @@
 iso: lpo
 name: Lipo
 autonym: Lolopo
-alt_names: [Black Lisu, Dayao, Dayao Lipo, Eastern Lisu, He Lisu, Lipho, Lisu, Lolo, Taku, Taku Lisu, Yi]
+alt_names: [Black Lisu, Dayao, Dayao Lipo, Eastern Lisu, He Lisu, Lipho, Lisu, Lolo, Taku, Taku Lisu, Yi, Central Lisu, Lolongo, Eastern Lipo, Western Lipo]
 population: 250000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish language spoken in China
 status_id: 6b
 scope: individual
 language_type: living

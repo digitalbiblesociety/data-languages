@@ -2,15 +2,18 @@
 iso: der
 name: Deori
 autonym: Chutiya
-alt_names: [Chutia, Dari, Deori Chutiya, Deuri, Dewri, Drori]
+alt_names: [Chutia, Dari, Deori Chutiya, Deuri, Dewri, Drori, Jimochaya]
 population: 32400
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tibeto-Burman language spoken in northeastern India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 26.86152
 longitude: 93.70572
+language_map_img: 500px-Deuri.webp
 glottocode: deor1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

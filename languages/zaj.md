@@ -6,6 +6,8 @@ alt_names: [Kizaramo, Myagatwa, Saramo, Zalamo, Zaramu]
 population: 657000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: lbr
 name: Lohorung
 autonym: Loharung
-alt_names: [Balai, Lohorong, Lohrung, Lohrung Khanawa, Lorung, "Lorung, Northern", "Lorung,Northern", Lōhōrōng, Northern, Northern Lorung]
+alt_names: [Balai, Lohorong, Lohrung, Lohrung Khanawa, Lorung, "Lorung, Northern", "Lorung,Northern", Lōhōrōng, Northern, Northern Lorung, Bikshi, Biksit, Yakkhaba Khap]
 population: 3720
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Sino-Tibetan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

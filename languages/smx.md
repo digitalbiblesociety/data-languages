@@ -6,6 +6,8 @@ alt_names: [Ntsambaan, Shankadi, Tsaam, Tsamba, Usamba]
 population: 4200
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
+area: Bantu language spoken in Angola and DRC
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 桑巴语
     auto: true
 ---
+Holo is a Bantu language of Angola and the Democratic Republic of Congo. Yeci, Samba or Hungu may be separate languages.

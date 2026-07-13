@@ -2,15 +2,18 @@
 iso: knv
 name: Tabo
 autonym: Tabo
-alt_names: [Hibaradai, Hiwi, Waia, Waya]
+alt_names: [Hibaradai, Hiwi, Waia, Waya, Tabo (Fly River), Aramia River, Fly River, Aramia Tabo, Fly River Tabo]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Isolate language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -8.09387
 longitude: 143.30513
+language_map_img: Waia_language.svg
 glottocode: tabo1241
 wikidata_id: Q7959888
 wikipedia_url: "https://en.wikipedia.org/wiki/Tabo_language"

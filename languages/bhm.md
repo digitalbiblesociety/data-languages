@@ -6,11 +6,14 @@ alt_names: [Batarí, Bathara, Bathari hizkuntza, Batharí, Baṭḥari, Bautahar
 population: 200
 country_id: OM
 country_name: Oman
+location: Oman
+area: Afro-Asiatic language of Oman
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 17.4485
 longitude: 53.119
+language_map_img: Modern_South_Arabian_Languages.svg
 glottocode: bath1244
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

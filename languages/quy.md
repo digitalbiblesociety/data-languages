@@ -3,10 +3,12 @@ iso: quy
 macrolanguage_id: que
 name: Ayacucho Quechua
 autonym: Chanka runasimi
-alt_names: [Ayacucho, Ayacucho Kechua, Ayacucho-Chanka, Chanka, Chanka-Quechua, Chinchaysuyo, Northern Quechua, Quechua (Ayacucho), Quechua A, Quechua ayacuchano, "Quechua d'Ayacucho", Quechua de Ayacucho, "Quechua, Ayacucho", Runasimi, Аякучанский кечуа]
+alt_names: [Ayacucho, Ayacucho Kechua, Ayacucho-Chanka, Chanka, Chanka-Quechua, Chinchaysuyo, Northern Quechua, Quechua (Ayacucho), Quechua A, Quechua ayacuchano, "Quechua d'Ayacucho", Quechua de Ayacucho, "Quechua, Ayacucho", Runasimi, Аякучанский кечуа, Quechua, Andahuaylas, Huancavelica]
 population: 900000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Dialect of the Southern Quechua language in Peru
 status_id: "3"
 scope: individual
 language_type: living

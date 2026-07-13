@@ -6,6 +6,7 @@ alt_names: [Dahlak, Dahālík]
 population: 2500
 country_id: ER
 country_name: Eritrea
+area: Semitic language spoken in Eritrea
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,9 +2,11 @@
 iso: xxb
 name: Boro
 autonym: null
+alt_names: [Boro (Ghana)]
 population: null
 country_id: GH
 country_name: Ghana
+area: Extinct language of Ghana
 status_id: null
 scope: individual
 language_type: extinct

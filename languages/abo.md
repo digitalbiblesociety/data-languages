@@ -2,10 +2,12 @@
 iso: abo
 name: Abon
 autonym: Abõ
-alt_names: [Abong, "Ba'ban"]
+alt_names: [Abong, "Ba'ban", Ba’ban]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Tivoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

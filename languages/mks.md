@@ -2,10 +2,12 @@
 iso: mks
 name: Silacayoapan Mixtec
 autonym: "Mixtec, Silacayoapan"
-alt_names: [Central Baja Mixtec, Mixtec (Silacayoapan), Mixteco (Silacayoapan), Mixteco de Yucuná, Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Northwest Oaxaca Mixtec]
+alt_names: [Central Baja Mixtec, Mixtec (Silacayoapan), Mixteco (Silacayoapan), Mixteco de Yucuná, Mixteco del Noroeste de Oaxaca, Mixteco del noroeste, Northern Misteko, Northern Mixteco, Northwest Oaxaca Mixtec, Mixtec, Silacayoapan, Mixteco de San Simón Zahuatlán, tu̱hun ndáhví]
 population: 18700
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mixtec languages of Mexico
 status_id: "5"
 scope: individual
 language_type: living

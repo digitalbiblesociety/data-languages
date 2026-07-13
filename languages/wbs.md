@@ -2,12 +2,15 @@
 iso: wbs
 name: West Bengal Sign Language
 autonym: null
+alt_names: [Kolkata Sign Language, W.B. Sign Language, WBSL]
 population: 450000
 country_id: IN
 country_name: India
+area: Sign language of the Indian subcontinent
 status_id: null
 scope: individual
 language_type: living
+glottocode: kolk1234
 wikidata_id: Q32096511
 translations:
   - translation_iso: ara
@@ -46,3 +49,4 @@ translations:
     name: 西孟加拉手语
     auto: true
 ---
+Indo-Pakistani Sign Language is the predominant sign language in the subcontinent of South Asia, used by at least 15 million deaf signers. As with many sign languages, it is difficult to estimate numbers with any certainty, as the Census of India does not list sign languages and most studies have focused on the north and urban areas. As of 2024, it is the most used sign language in the world, and Ethnologue ranks it as the 149th most spoken language in the world.

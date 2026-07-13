@@ -2,15 +2,18 @@
 iso: blw
 name: Balangao
 autonym: Balangaw
-alt_names: [Balangao Bontoc, Farangao]
+alt_names: [Balangao Bontoc, Farangao, Finarangao]
 population: 11500
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 17.09937
 longitude: 121.27186
+language_map_img: 500px-Balangao_language_map.webp
 glottocode: bala1310
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

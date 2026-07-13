@@ -6,11 +6,13 @@ alt_names: [Vanuatu]
 population: 100
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -15.5656
 longitude: 166.90179
+language_map_img: 500px-Vanuatu_-_Espiritu_Santo.webp
 glottocode: wail1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

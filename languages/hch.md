@@ -2,15 +2,18 @@
 iso: hch
 name: Huichol
 autonym: Wixárika Niukiyari
-alt_names: [Houitcholeg, Vixaritari Vaniuqui, Vizaritari Vaniuki, Wichol, Wichol simi, Уичоль]
+alt_names: [Houitcholeg, Vixaritari Vaniuqui, Vizaritari Vaniuki, Wichol, Wichol simi, Уичоль, Coyultita, Eastern Huichol, Huichol de San Andrés (Oeste), Huichol de San Sebastián-Sta. Catarina (Este), Huichol del Este, Huichol del Norte, Huichol del Oeste, Huichol del Sur, San Andrés Cohamiata, San Sebastián-Santa Catarina, Western Huichol, Wixárika]
 population: 52500
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Indigenous language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 21.95399
 longitude: -104.06228
+language_map_img: 500px-Huichol.webp
 glottocode: huic1243
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan

@@ -2,10 +2,12 @@
 iso: lyn
 name: Luyana
 autonym: Esiluyana
-alt_names: [Louyi, Luana, Luano, Lui, Luyi, Rouyi]
+alt_names: [Louyi, Luana, Luano, Lui, Luyi, Rouyi, Kwandi, Kwanga, Kwangwa, Mbume, Mbumi]
 population: 12114
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Language in the Bantu family
 status_id: "4"
 scope: individual
 language_type: living

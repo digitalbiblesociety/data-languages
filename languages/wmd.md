@@ -2,10 +2,12 @@
 iso: wmd
 name: Mamaindé
 autonym: Northern Nambikwara
-alt_names: [Kithāulhú, Mamainde, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambikuára, Northern Nambiquara]
+alt_names: [Kithāulhú, Mamainde, Mamaindê, Mamande, Nakarothe, Northern Nambikuaran, Northern Nambikuára, Northern Nambiquara, "Mamainsahai'gidu", Negaroté, Tawende]
 population: 300
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Nambikwaran language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mwn
 name: Nyamwanga
 autonym: Ichinamwanga
-alt_names: [Chinamwanga, Inamwanga, Kinamwanga, Kinyamwanga, Mwanga, Mwanga language, Namwanga, Njamuangoj]
+alt_names: [Chinamwanga, Inamwanga, Kinamwanga, Kinyamwanga, Mwanga, Mwanga language, Namwanga, Njamuangoj, Chinyamwanga, Cinamwanga, Iwa, Tambo, Tembo]
 population: 281000
 country_id: ZM
 country_name: Zambia
+location: Tanzania
+area: Bantu language spoken in Zambia and Tanzania
 status_id: "5"
 scope: individual
 language_type: living

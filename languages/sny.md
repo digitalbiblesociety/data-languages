@@ -2,10 +2,12 @@
 iso: sny
 name: "Saniyo-Hiyewe"
 autonym: Hiowe
-alt_names: [Sanio, Sanio-Hiowe]
+alt_names: [Sanio, Sanio-Hiowe, Hiyowe, Saniyo]
 population: 1300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: Sepik language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

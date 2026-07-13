@@ -2,10 +2,12 @@
 iso: hio
 name: Tsoa
 autonym: Kua
-alt_names: [Chuwau, Chware, Cire-cire, Cua, Cuaa, G//abake, Gabake-Ntshori, "G||abake", Haitshuari, Haitshuwau, Hiechware, Hietshware, Hiochuwau, Hiotshuwau, Kwe, Kwe-Etshori Kwee, Kwe-Tshori, Kwee, Masarwa, Sarwa, Sesarwa, Shua, Tati, Tati Bushman, Tshoa, Tshuwau, Tshwa]
+alt_names: [Chuwau, Chware, Cire-cire, Cua, Cuaa, G//abake, Gabake-Ntshori, "G||abake", Haitshuari, Haitshuwau, Hiechware, Hietshware, Hiochuwau, Hiotshuwau, Kwe, Kwe-Etshori Kwee, Kwe-Tshori, Kwee, Masarwa, Sarwa, Sesarwa, Shua, Tati, Tati Bushman, Tshoa, Tshuwau, Tshwa, Amasili, Bakhwa, Basarwa, Chirechire, Gǁabake, Khoisan, Tshikwa, Tshwawo]
 population: 3000
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Kalahari language spoken in Botswana and Zimbabwe
 status_id: "7"
 scope: individual
 language_type: living

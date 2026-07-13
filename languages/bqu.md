@@ -6,6 +6,8 @@ alt_names: [Buguru, Kogoro, Koguru]
 population: 490
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of South Sudan
 status_id: 8b
 scope: individual
 language_type: living

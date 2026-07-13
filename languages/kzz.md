@@ -6,6 +6,8 @@ alt_names: [Klabra]
 population: 3290
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living

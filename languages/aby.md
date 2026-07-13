@@ -2,10 +2,12 @@
 iso: aby
 name: Aneme Wake
 autonym: Abia
-alt_names: [Abie]
+alt_names: [Abie, Auwaka, Buniabura, Doma, Jari, Mori]
 population: 650
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

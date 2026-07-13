@@ -6,6 +6,8 @@ alt_names: [Parachí]
 population: 5000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Iranian language of Afghanistan
 status_id: "7"
 scope: individual
 language_type: living

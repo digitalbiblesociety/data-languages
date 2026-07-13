@@ -6,6 +6,8 @@ alt_names: [Ami, Amijangal, Emmi, Emmiyangal, Manhthi Yangal, Maramanunggu, Mara
 population: 15
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

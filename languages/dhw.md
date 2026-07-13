@@ -2,10 +2,12 @@
 iso: dhw
 name: Dhanwar
 autonym: Danuwar Rai
-alt_names: [Danuvār, Danuwar, Denwar, Dhanvar, Dhanwar]
+alt_names: [Danuvār, Danuwar, Denwar, Dhanvar, Dhanwar, Danuwari, Danwar, Dhanuwar, Donwar, Kacarya Danuwar]
 population: 45800
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Indo-Aryan language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living

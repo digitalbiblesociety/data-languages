@@ -3,15 +3,18 @@ iso: wol
 iso639_1: wo
 name: Wolof
 autonym: Wolof
-alt_names: [Dyolof, Ouolof, Volof, Walaf, Waro-Waro, Yallof]
+alt_names: [Dyolof, Ouolof, Volof, Walaf, Waro-Waro, Yallof, Baol, Cayor, Djolof, Jander, Jolof, Lebou, Lebu, Ndyanger]
 population: 5926290
 country_id: SN
 country_name: Senegal
+location: Mauritania
+area: "Language of Senegal, the Gambia, and Mauritania"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 15.25336
 longitude: -15.382973
+language_map_img: Wolof_language_map.svg
 scripts: [Arab, Latn]
 glottocode: nucl1347
 glottolog_family_id: atla1278

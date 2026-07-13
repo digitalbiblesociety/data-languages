@@ -2,9 +2,12 @@
 iso: kri
 name: Krio
 autonym: Krio
+alt_names: [Creole, Patois, Aku]
 population: 641900
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: English-based creole spoken in Sierra Leone
 status_id: "3"
 scope: individual
 language_type: living

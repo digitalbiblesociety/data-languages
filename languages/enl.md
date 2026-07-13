@@ -2,10 +2,11 @@
 iso: enl
 name: Enlhet
 autonym: Enlhet
-alt_names: [Eenthlit, Enlhet Norte, Enxet, Lengua, Pwak, Vowak]
+alt_names: [Eenthlit, Enlhet Norte, Enxet, Lengua, Pwak, Vowak, Eenlhit, Enhlit, Enlhet-Lengua, Enslet, Enthlit, Lengua Norte, Northern Lengua, Powok]
 population: 6440
 country_id: PY
 country_name: Paraguay
+area: Language of Paraguay
 status_id: null
 scope: individual
 language_type: living

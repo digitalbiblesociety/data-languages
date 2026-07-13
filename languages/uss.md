@@ -2,9 +2,11 @@
 iso: uss
 name: "us-Saare"
 autonym: Duka
+alt_names: [Western Duka, Western Dukawa, es-Saare, sSaare, əs-Saare]
 population: 73000
 country_id: NG
 country_name: Nigeria
+area: Nigerian language
 status_id: null
 scope: individual
 language_type: living

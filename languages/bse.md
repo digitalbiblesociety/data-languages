@@ -6,6 +6,8 @@ alt_names: [Pesii, Sii, Vesi]
 population: 25000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Bugre, Caingang, Coroado, Coroados, Kaingang, Kaingán, "Kaingáng, 
 population: null
 country_id: BR
 country_name: Brazil
+area: Southern Je language of southern Brazil
 status_id: "10"
 scope: individual
 language_type: extinct

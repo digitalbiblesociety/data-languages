@@ -6,6 +6,8 @@ alt_names: ["Palawano, Southwest", Philippines]
 population: 12000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Mimaropa Region, Palawan"
 ---
+The Palawano languages are spoken in the province of Palawan in the Philippines, by the Palawano people.

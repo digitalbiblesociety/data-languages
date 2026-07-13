@@ -2,10 +2,11 @@
 iso: ana
 name: Andaqui
 autonym: Jirara
-alt_names: [Andaki, Andakí, Andaquí]
+alt_names: [Andaki, Andakí, Andaquí, Aguanunga]
 population: null
 country_id: CO
 country_name: Colombia
+area: Extinct language of Colombia
 status_id: "9"
 scope: individual
 language_type: extinct

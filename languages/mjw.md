@@ -2,15 +2,18 @@
 iso: mjw
 name: Karbi
 autonym: Arleng
-alt_names: ["\"Mikir\"", "\"Mikiri\"", Arleng Alam, Karbi Karbak, Manchati, Mikir, Miquirés, Naga-Mikir, Nihang, Puta]
+alt_names: ["\"Mikir\"", "\"Mikiri\"", Arleng Alam, Karbi Karbak, Manchati, Mikir, Miquirés, Naga-Mikir, Nihang, Puta, “Mikir”, “Mikiri”, Chingthang, Jynthong, Mirlong, Rengkhang, Rong Kethang, Rongkhang]
 population: 529000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tibeto-Burman language spoken in Northeastern India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 25.7317
 longitude: 93.04624
+language_map_img: 500px-Karbi_map.webp
 glottocode: karb1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

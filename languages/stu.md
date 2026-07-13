@@ -6,6 +6,7 @@ alt_names: [Angku, Samtau, Samtuan, Āng-kú]
 population: 9550
 country_id: MM
 country_name: Myanmar
+area: Language of the Blang people
 status_id: 6a
 scope: individual
 language_type: living
@@ -55,3 +56,4 @@ translations:
     name: 萨姆陶语
     auto: true
 ---
+Blang (Pulang) is the language of the Blang people of China and Myanmar.

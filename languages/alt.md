@@ -2,15 +2,18 @@
 iso: alt
 name: Southern Altai
 autonym: Oirot
-alt_names: [Altai, Altai (Oirot), Altai (Southern), Altai Kalmuck, "Altai, Southern", Altai-Kalmückisch, Altay, Altaï méridional, Altái meridional, Oyrot, South Siberian Turkic, altai du Sud]
+alt_names: [Altai, Altai (Oirot), Altai (Southern), Altai Kalmuck, "Altai, Southern", Altai-Kalmückisch, Altay, Altaï méridional, Altái meridional, Oyrot, South Siberian Turkic, altai du Sud, Алтай тили, Altai Proper, Altai-Kizhi, Altaj Kizi, Chuy, Maina-Kizhi, Talangit, Talangit-Tolos, Telengit, Teleut]
 population: 57400
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: "Kipchak Turkic language of the Altai Republic, Russia"
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 50.13472
 longitude: 86.87051
+language_map_img: Altay.svg
 scripts: [Cyrl]
 glottocode: sout2694
 glottolog_family_id: turk1311

@@ -6,6 +6,8 @@ alt_names: [Kajang, Kayan River Kajan, "Kayan, Kayan River"]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian dialect cluster of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
@@ -68,3 +70,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Kalimantan Timur (East)"
 ---
+Kayan is a dialect cluster spoken by the Kayan people of Borneo. It is a cluster of closely related dialects with limited mutual intelligibility, and is itself part of the Kayan-Murik group of Austronesian languages.

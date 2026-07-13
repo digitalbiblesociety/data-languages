@@ -3,10 +3,12 @@ iso: qvm
 macrolanguage_id: que
 name: "Margos-Yarowilca-Lauricocha Quechua"
 autonym: kichwa
-alt_names: [Alto Marañón, Alto Marañón Quechua, Alto Pativilca, "Quechua, Margos-Yarowilca-Lauricocha", Upper Marañón Quechua]
+alt_names: [Alto Marañón, Alto Marañón Quechua, Alto Pativilca, "Quechua, Margos-Yarowilca-Lauricocha", Upper Marañón Quechua, Quechua, Margos-Yarowilca-Lauricocha, Dos de Mayo Quechua, Ketchwa, Quechua Margos, Quechua de Margos, Quechua de Margos-Cauri-Chavinillo Huanuco, Runa Shimi]
 population: 32100
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua dialect cluster of Peru
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 马尔戈斯-亚罗威尔卡-劳里科查克丘亚语
     auto: true
 ---
+Alto Pativilca–Alto Marañón–Alto Huallaga Quechua is a dialect cluster of Quechua languages spoken in the Peruvian provinces of Huánuco, Lauricocha, Cajatambo and neighboring areas. The best-known dialect within the Huánuco cluster is Huallaga Quechua.

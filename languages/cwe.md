@@ -2,10 +2,11 @@
 iso: cwe
 name: Kwere
 autonym: Kwere
-alt_names: [Kakwere, Kikwere, Kinghwele, Kwele, "Ng'were", Nghwele, Ngwele, Tsinghwele]
+alt_names: [Kakwere, Kikwere, Kinghwele, Kwele, "Ng'were", Nghwele, Ngwele, Tsinghwele, Ng’were, "Ngh'wele", Nhwele, Nwele]
 population: 152000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
 status_id: 6b
 scope: individual
 language_type: living

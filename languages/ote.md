@@ -2,10 +2,12 @@
 iso: ote
 name: Mezquital Otomi
 autonym: "Otomi, Mezquital"
-alt_names: [Hñahñu, Hñohño, Mezquital, Mezquital Otomí, Northeastern Otomí, Northwest, Northwestern Otomi, Othomí, Otomi, Otomi (Mezquital), "Otomi, Ixtenco", "Otomi, Querétaro", "Otomi, Texcatepec", Otomí, Otomí (Mezquital), "Otomí d'Ixtenco", Otomí de Ixtenco, Otomí de Mezquital, Otomí de Querétaro, Otomí de Texcatepec, Otomí de la Sierra, Otomí del Valle del Mezquital, Otomí del valle de Mezquital, Otomí nord-occidental, Otomí noroccidental, Southeastern Otomí, Western Otomi]
+alt_names: [Hñahñu, Hñohño, Mezquital, Mezquital Otomí, Northeastern Otomí, Northwest, Northwestern Otomi, Othomí, Otomi, Otomi (Mezquital), "Otomi, Ixtenco", "Otomi, Querétaro", "Otomi, Texcatepec", Otomí, Otomí (Mezquital), "Otomí d'Ixtenco", Otomí de Ixtenco, Otomí de Mezquital, Otomí de Querétaro, Otomí de Texcatepec, Otomí de la Sierra, Otomí del Valle del Mezquital, Otomí del valle de Mezquital, Otomí nord-occidental, Otomí noroccidental, Southeastern Otomí, Western Otomi, Mezquital Valley Otomí]
 population: 88500
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: Mexican language
 status_id: "5"
 scope: individual
 language_type: living

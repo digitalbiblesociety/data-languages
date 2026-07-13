@@ -3,10 +3,12 @@ iso: gya
 macrolanguage_id: gba
 name: Northwest Gbaya
 autonym: Gbaya
-alt_names: ["'Bokoto", Baya, Gbanu, Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma]
+alt_names: ["'Bokoto", Baya, Gbanu, Gbaya Kaka, Gbaya Kara, "Gbaya Kara 'Bodoe", Gbaya Nord-Ouest, "Gbaya, Northwest", Gbeya, Kaka, Kara, Southern Gbaya, Suma, Banginda, Boar, Bodoe, Gaymona, Gbaya Northwest, Gbaya de Bouar, Gbea, Kalla, Lai, Lay, Lombu, Mbai, Mbere, Mombe, Northwest, Yaiwe, Yaáyuwee]
 population: 267000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Savannas language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

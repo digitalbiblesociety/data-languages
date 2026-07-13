@@ -2,10 +2,12 @@
 iso: ipi
 name: Ipili
 autonym: null
-alt_names: [Ipili-Paiela, Ipili-Payala]
+alt_names: [Ipili-Paiela, Ipili-Payala, Paiela, Porgera, Tipinini]
 population: 26000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 5"
+area: "Language of Enga Province, Papua New Guinea"
 status_id: "5"
 scope: individual
 language_type: living

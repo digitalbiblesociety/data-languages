@@ -2,10 +2,12 @@
 iso: gjn
 name: Gonja
 autonym: null
-alt_names: [Guang, Ngbanyito]
+alt_names: [Guang, Ngbanyito, Choroba, Choruba]
 population: 310000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: North Guang language of Ghana
 status_id: "4"
 scope: individual
 language_type: living

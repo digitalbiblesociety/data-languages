@@ -6,6 +6,8 @@ alt_names: [Kumar, Mad, Mal, Maler, Malti, Malto, Maltu, Pahariya]
 population: 20200
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Dravidian language
 status_id: 6a
 scope: individual
 language_type: living
@@ -68,3 +70,4 @@ rolv_dialects:
     country_id: IN
     location: "India, Jharkhand"
 ---
+Malto or Paharia, or rarely Rajmahali, is a Northern Dravidian language spoken primarily in East India by the Malto people.

@@ -6,6 +6,7 @@ alt_names: [Dagalag, Dagalang, Tagalag, Takalak, Targa-lag, Targalag, Tarkalag]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

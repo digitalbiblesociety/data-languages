@@ -2,10 +2,12 @@
 iso: tos
 name: Highland Totonac
 autonym: Highland Totonac
-alt_names: [Highland, Highland Totonako, Santo Domingo Totonac, Sierra Totonac, Totonac, Totonac (Sierra), "Totonac, Highland", Totonacano de Patla, Totonacano de Sierra, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Coyutla, Totonaco de Filomena Mata-Coahuitlán, Totonaco de Ozumatlán, Totonaco de la Sierra, Totonakeg Sierra, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Totonaque de la sierra]
+alt_names: [Highland, Highland Totonako, Santo Domingo Totonac, Sierra Totonac, Totonac, Totonac (Sierra), "Totonac, Highland", Totonacano de Patla, Totonacano de Sierra, Totonacano filomeno mata-coahuillán, Totonaco, Totonaco de Coyutla, Totonaco de Filomena Mata-Coahuitlán, Totonaco de Ozumatlán, Totonaco de la Sierra, Totonakeg Sierra, Totonako, Totonaque de Filomeno Mata, Totonaque de Patla-Chicontla, Totonaque de la sierra, Sierra Totonaco, Tutunakú]
 population: 120000
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Language of Puebla and Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

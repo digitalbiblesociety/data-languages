@@ -6,6 +6,8 @@ alt_names: ["Liberia, Côte d'Ivoire"]
 population: 4270
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Kru languages of Liberia
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: iry
 name: Iraya
 autonym: null
-alt_names: [Philippines]
+alt_names: [Philippines, Abra-De-Ilog, Alag-Bako, Iraya Mangyan, Pagbahan, Palauan-Calavite, Pambuhan, Santa Cruz]
 population: 10000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

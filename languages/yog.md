@@ -6,11 +6,14 @@ alt_names: [Philippines]
 population: 16000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: "Language spoken on Luzon, Philippines"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 16.70149
 longitude: 121.71773
+language_map_img: 500px-Yogad_language_map.webp
 glottocode: yoga1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

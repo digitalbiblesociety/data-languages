@@ -6,6 +6,8 @@ alt_names: [Kir, Wiyap, Zhiru]
 population: 3420
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Jukunoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

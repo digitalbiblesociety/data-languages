@@ -6,6 +6,8 @@ alt_names: ["Naga, Akyaung Ari"]
 population: 1000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Tangkhulic language of Myanmar
 status_id: 6a
 scope: individual
 language_type: living

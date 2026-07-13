@@ -6,6 +6,8 @@ alt_names: [Lukenyi]
 population: 99900
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language spoken in Uganda
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 肯尼语
     auto: true
 ---
+Soga, or Lusoga, is a Bantu language spoken by the Soga people of the Busoga region in Eastern Uganda. With over three million speakers, it is one of the major languages of Uganda, after English, Swahili, and Luganda. Lusoga is predominantly spoken within the Busoga region which is mainly within the natural boundaries of Lake Victoria to the south, Lake Kyoga to the north, the Nile river to the west and the Mpologoma ('Lion') river to the east of Namutumba district. It is tonal.

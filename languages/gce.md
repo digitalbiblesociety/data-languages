@@ -6,6 +6,7 @@ alt_names: [Applegate-Galice, Galice-Applegate]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Athabaskan language of America
 status_id: "10"
 scope: individual
 language_type: extinct

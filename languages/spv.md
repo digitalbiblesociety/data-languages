@@ -3,15 +3,18 @@ iso: spv
 macrolanguage_id: ori
 name: Sambalpuri
 autonym: Dom
-alt_names: [Kosli]
+alt_names: [Kosli, Kosali, Koshal, Koshali, Oriya, Western Oriya]
 population: 2630000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: "Indo-Aryan language spoken in western Odisha, India"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 21.2233
 longitude: 83.9315
+language_map_img: 500px-Sambalpuri_speaking_areas.webp
 glottocode: samb1325
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

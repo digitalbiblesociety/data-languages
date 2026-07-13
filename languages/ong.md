@@ -2,10 +2,12 @@
 iso: ong
 name: Olo
 autonym: null
-alt_names: [Orlei, Wape, Wapi]
+alt_names: [Orlei, Wape, Wapi, North Olo, Pay, Payi, South Olo]
 population: 13700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

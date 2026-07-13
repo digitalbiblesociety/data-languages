@@ -5,6 +5,8 @@ autonym: bahasa Lengilu
 population: null
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Nearly extinct language
 status_id: 8b
 scope: individual
 language_type: living

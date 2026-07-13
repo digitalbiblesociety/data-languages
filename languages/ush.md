@@ -6,6 +6,8 @@ alt_names: [Dardu, Usoyo]
 population: 500
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: Indo-Aryan language spoken in Pakistan
 status_id: 6a
 scope: individual
 language_type: living

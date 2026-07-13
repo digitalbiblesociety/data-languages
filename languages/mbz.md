@@ -2,10 +2,12 @@
 iso: mbz
 name: Amoltepec Mixtec
 autonym: (Santiago Amoltepec)
-alt_names: [Central Misteko, Centreal Mixteco, "Mixtec, Amoltepec", Mixteco de Amoltepec, Western Sola de Vega Mixtec]
+alt_names: [Central Misteko, Centreal Mixteco, "Mixtec, Amoltepec", Mixteco de Amoltepec, Western Sola de Vega Mixtec, Mixteco, Amoltepec, Mixteco de Sola de Vega del Oeste, Tnuꞌu Ñuu Savi]
 population: 5630
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living

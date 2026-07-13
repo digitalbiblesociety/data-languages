@@ -2,10 +2,12 @@
 iso: peh
 name: Bonan
 autonym: "Bao'an"
-alt_names: ["Bao'an Tu", Bao-an, Baoan, Baonan, Baongan, Boan, Buddhist Bonan, Dordo, Gansu Bonan, Islamic Bonan, Moslem Bonan, Pao-an, Paoan, Paongan, Qinghai Bonan, "mistakenly also: Tu, Monguour"]
+alt_names: ["Bao'an Tu", Bao-an, Baoan, Baonan, Baongan, Boan, Buddhist Bonan, Dordo, Gansu Bonan, Islamic Bonan, Moslem Bonan, Pao-an, Paoan, Paongan, Qinghai Bonan, "mistakenly also: Tu, Monguour", Bao’an]
 population: 16500
 country_id: CN
 country_name: China
+location: China
+area: Southern Mongolic language
 status_id: "7"
 scope: individual
 language_type: living

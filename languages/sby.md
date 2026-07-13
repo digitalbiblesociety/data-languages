@@ -5,6 +5,8 @@ autonym: Chisoli
 population: 34100
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language of southern Zambia
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,9 +2,11 @@
 iso: bmn
 name: Bina
 autonym: null
+alt_names: [Bina (Papua New Guinea)]
 population: null
 country_id: PG
 country_name: Papua New Guinea
+area: Language spoken in Papua New Guinea
 status_id: "10"
 scope: individual
 language_type: extinct

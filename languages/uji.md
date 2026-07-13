@@ -2,10 +2,12 @@
 iso: uji
 name: Tanjijili
 autonym: Tanjijili
-alt_names: [Jijili, Koro Funtu of Kafin Koro, Koro Funtu of Minna, Koro of Shakoyi, Ujijili]
+alt_names: [Jijili, Koro Funtu of Kafin Koro, Koro Funtu of Minna, Koro of Shakoyi, Ujijili, Koro, Koro Funtu of Shakoyi]
 population: 8540
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

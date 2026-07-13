@@ -2,15 +2,18 @@
 iso: stj
 name: Matya Samo
 autonym: Sane
-alt_names: [Northern Samo, Northwestern Samo, Samo, "Samo, Matya", San, Somono, Tougan, West Central Goe]
+alt_names: [Northern Samo, Northwestern Samo, Samo, "Samo, Matya", San, Somono, Tougan, West Central Goe, Samogho, Sànán, Sã]
 population: 105000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Niger-Congo languages spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 13.10271
 longitude: -3.25128
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: maty1235
 glottolog_family_id: mand1469
 glottolog_family_name: Mande
@@ -53,3 +56,4 @@ translations:
     name: 玛蒂亚萨莫语
     auto: true
 ---
+Samo, also known as Mande Samo, is a dialect cluster of Mande languages spoken in Burkina Faso and Mali.

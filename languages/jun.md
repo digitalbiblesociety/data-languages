@@ -2,10 +2,12 @@
 iso: jun
 name: Juang
 autonym: Juango
-alt_names: [Patra-Saara, Patua, Puttooas, Yuango, Джуанг]
+alt_names: [Patra-Saara, Patua, Puttooas, Yuango, Джуанг, Keonjhar-Pal]
 population: 30400
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: "Munda language of Odisha, India"
 status_id: "5"
 scope: individual
 language_type: living

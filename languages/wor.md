@@ -6,6 +6,8 @@ alt_names: [Yoki]
 population: null
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Endangered Papuan language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living

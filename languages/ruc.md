@@ -2,10 +2,12 @@
 iso: ruc
 name: Ruuli
 autonym: Luduuli
-alt_names: [Ruli, Ruruli]
+alt_names: [Ruli, Ruruli, Baruli, Ruluuli, Ruluuli-Runyala, Runyala, Rurulim, Ruruuli-Runyala, Ruuli-Nyala]
 population: 238000
 country_id: UG
 country_name: Uganda
+location: Uganda
+area: Bantu language of Uganda
 status_id: 6b
 scope: individual
 language_type: living

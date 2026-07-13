@@ -2,15 +2,18 @@
 iso: vah
 name: "Varhadi-Nagpuri"
 autonym: Varhadi–Nagpuri
-alt_names: [Berar Marathi, Berari, Dhanagari, Kumbhari, Madhya Pradesh Marathi]
+alt_names: [Berar Marathi, Berari, Dhanagari, Kumbhari, Madhya Pradesh Marathi, Brahmani, Dhedi, Govari, Jhadpi, Kohli, Kosti, Kunban, Kunbi, Madhya Pradesh, Mahari, Marathi, Raipur, Rangari]
 population: 6970000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: One of dialect of the Marathi language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 20.7139
 longitude: 79.75164
+language_map_img: India_Vidarbha_locator_map.svg
 glottocode: varh1239
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

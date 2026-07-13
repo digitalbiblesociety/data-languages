@@ -2,10 +2,12 @@
 iso: tnb
 name: Western Tunebo
 autonym: Tunebo
-alt_names: [Agua Blanca, Aguas Blancas, Cobaría, Pedraza, Sinsiga, Sínsiga, Tame, Tegría, "Tunebo, Western", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa]
+alt_names: [Agua Blanca, Aguas Blancas, Cobaría, Pedraza, Sinsiga, Sínsiga, Tame, Tegría, "Tunebo, Western", "U'w Cuwa", "U'w Kuwa", "U'wa", Uwa, U’wa]
 population: 700
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chibchan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西图内博语
     auto: true
 ---
+The Uwa language, Uw Cuwa, commonly known as Tunebo, is a Chibchan language spoken by between 1,800 and 3,600 of the Uwa people of Colombia, out of a total population of about 7,000.

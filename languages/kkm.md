@@ -6,6 +6,8 @@ alt_names: [Akayon, Akoiyang, Iyoniyong, Okonyong, Okoyong]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Endangered Cross River language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living

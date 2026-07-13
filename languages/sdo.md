@@ -2,10 +2,12 @@
 iso: sdo
 name: "Bukar-Sadung Bidayuh"
 autonym: Buka
-alt_names: ["Bidayuh, Bukar-Sadung", Bukar, Bukar Sadong, Mentu, Mentuh Tapuh, Sabutan, Sadong, Saputan, Seputan, Serian, Tebakang]
+alt_names: ["Bidayuh, Bukar-Sadung", Bukar, Bukar Sadong, Mentu, Mentuh Tapuh, Sabutan, Sadong, Saputan, Seputan, Serian, Tebakang, Bukar Sadung Bidayah, Sadung, Bidayah, Bidayuh, Bukar-Sadong Bidayuh, Bideyu, Bukar Bidayuh, Bukar Sadung Bidayuh]
 population: 49100
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken in Borneo
 status_id: "5"
 scope: individual
 language_type: living

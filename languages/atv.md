@@ -2,15 +2,18 @@
 iso: atv
 name: Northern Altai
 autonym: тÿндÿк алтай тили
-alt_names: ["Altai, Northern", Altaï septentrional, Altái septentrional, Kumandin, Telengit, Telengut, Teleut, Teleutisch]
+alt_names: ["Altai, Northern", Altaï septentrional, Altái septentrional, Kumandin, Telengit, Telengut, Teleut, Teleutisch, Chelkan]
 population: 1570
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: "Siberian Turkic language of the Altai Republic, Russia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 50.89984
 longitude: 88.06722
+language_map_img: Altay.svg
 glottocode: nort2686
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

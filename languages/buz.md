@@ -5,6 +5,8 @@ autonym: Munkaf
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Bantoid language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

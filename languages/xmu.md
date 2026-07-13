@@ -6,6 +6,7 @@ alt_names: [Eastern Daly language, Gamu, Gamu/Kamor, Gamy, Junggor, Kamor, Kamor
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct language of northern Australia
 status_id: "10"
 scope: individual
 language_type: extinct

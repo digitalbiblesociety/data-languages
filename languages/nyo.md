@@ -2,10 +2,11 @@
 iso: nyo
 name: Nyoro
 autonym: Runyoro
-alt_names: [Runyoro-Rutooro]
+alt_names: [Runyoro-Rutooro, Orunyoro, Runyoro-Rutoro, Kyopi, Lunyoro, Rutagwenda]
 population: 967000
 country_id: UG
 country_name: Uganda
+location: Uganda
 status_id: "5"
 scope: individual
 language_type: living

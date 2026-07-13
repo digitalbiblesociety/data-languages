@@ -6,6 +6,8 @@ alt_names: [Alagwa hizkuntza, Alagwaisi, Alagwase, Alawa, Asi, Chasi, Kialagwa, 
 population: 53000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Cushitic language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

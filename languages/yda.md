@@ -6,6 +6,7 @@ alt_names: [Yunda]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language of Queensland
 status_id: 8b
 scope: individual
 language_type: extinct

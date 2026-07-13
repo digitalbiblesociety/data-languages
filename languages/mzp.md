@@ -6,11 +6,14 @@ alt_names: [Mobima, Movime, Mowima simi, Moyma, Móbima, Móvima]
 population: 1170
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Language isolate of Bolivia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -13.81152
 longitude: -65.63482
+language_map_img: 500px-Pueblos_originarios_de_Bolivia.webp
 glottocode: movi1243
 wikidata_id: Q1659701
 wikipedia_url: "https://en.wikipedia.org/wiki/Movima_language"

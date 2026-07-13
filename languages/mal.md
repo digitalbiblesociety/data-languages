@@ -3,15 +3,18 @@ iso: mal
 iso639_1: ml
 name: Malayalam
 autonym: മലയാളം
-alt_names: [Fiteny malayalam, Kerala Portuguese Creole, Malabar Indo-Portuguese Creole, Malaiàlam, Malajalam, Malayalam simi, Malayalameg, Malayâlam, Malayâḷam, Malayāḷam, Malyalam, Малаялам, מלאיאלאם, مالايالامچە, މަލަޔާޅަމް, मलयाळम्‌, மலையாளம், ಮಲಯಾಳಂ, მალაიალამი, ማላያላም]
+alt_names: [Fiteny malayalam, Kerala Portuguese Creole, Malabar Indo-Portuguese Creole, Malaiàlam, Malajalam, Malayalam simi, Malayalameg, Malayâlam, Malayâḷam, Malayāḷam, Malyalam, Малаялам, מלאיאלאם, مالايالامچە, މަލަޔާޅަމް, मलयाळम्‌, மலையாளம், ಮಲಯಾಳಂ, მალაიალამი, ማላያላም, Alealum, Malayalani, Malayali, Malean, Maliyad, Mallealle, Mopla, Central Kerala, Kasargod, Kayavar, Malabar, Malayal, Mapilla, Moplah, Nagari-Malayalam, Namboodiri, Nasrani, Nayar, North Kerala, Pulaya, South Kerala]
 population: 37100000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Dravidian language of India
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 9.592084
 longitude: 76.765136
+language_map_img: mal.svg
 scripts: [Mlym]
 glottocode: mala1464
 glottolog_family_id: drav1251

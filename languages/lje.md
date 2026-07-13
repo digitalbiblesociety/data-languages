@@ -2,10 +2,12 @@
 iso: lje
 name: Rampi
 autonym: "Ha'uwa"
-alt_names: [Leboni, Rampi-Leboni]
+alt_names: [Leboni, Rampi-Leboni, Ha’uwa, Lambu, Rato]
 population: 7500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

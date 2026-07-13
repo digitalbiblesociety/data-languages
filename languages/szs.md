@@ -5,6 +5,7 @@ autonym: SISL
 population: 3000
 country_id: SB
 country_name: Solomon Islands
+area: Deaf sign language of the Solomon Islands
 status_id: null
 scope: individual
 language_type: living

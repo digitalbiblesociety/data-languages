@@ -2,10 +2,12 @@
 iso: gwc
 name: Kalami
 autonym: Bashkarik
-alt_names: [Bascarí, Bashgharik, Baškarīk, Dardu, Dir Kohistani, Diri, Dirwali, Dīrī, Gaawro, Garwa, Garwi, Gawri, Gowri, Gārwī, Gāwrī, Kalami Kohistani, Kohistana, Kohistani, Kohistani de Kalam, كالامي]
+alt_names: [Bascarí, Bashgharik, Baškarīk, Dardu, Dir Kohistani, Diri, Dirwali, Dīrī, Gaawro, Garwa, Garwi, Gawri, Gowri, Gārwī, Gāwrī, Kalami Kohistani, Kohistana, Kohistani, Kohistani de Kalam, كالامي, Baskarik, Dashwa, Kalam, Lamti, Lamuti, Patrak, Rajkoti, Thal, Ushu]
 population: 96400
 country_id: PK
 country_name: Pakistan
+location: Northern Pakistan
+area: "Indo-Aryan language spoken in Khyber Pakhtunkhwa, Pakistan"
 status_id: 6b
 scope: individual
 language_type: living

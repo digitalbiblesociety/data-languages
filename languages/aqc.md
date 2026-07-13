@@ -6,11 +6,14 @@ alt_names: [Archib, Archin, Archintsy, Archsel, Arshashdib, Artchi]
 population: 1000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Lezgic language spoken in southern Russia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 42.3239
 longitude: 46.82673
+language_map_img: 500px-Archin-en.webp
 glottocode: arch1244
 glottolog_family_id: nakh1245
 glottolog_family_name: Nakh-Daghestanian

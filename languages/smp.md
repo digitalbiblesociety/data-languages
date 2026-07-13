@@ -6,6 +6,7 @@ alt_names: [Samaritan Hebrew]
 population: null
 country_id: PS
 country_name: Palestine State
+area: Reading tradition used liturgically by the Samaritans
 status_id: "9"
 scope: individual
 language_type: extinct

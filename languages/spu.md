@@ -6,11 +6,14 @@ alt_names: [Sapouan, Sapuor]
 population: 2400
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.36919
 longitude: 106.84294
+language_map_img: 500px-Sapuan_language.webp
 glottocode: sapu1248
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

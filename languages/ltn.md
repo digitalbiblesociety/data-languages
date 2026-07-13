@@ -2,10 +2,12 @@
 iso: ltn
 name: Latundê
 autonym: Northern Nambikwara
-alt_names: [Kithāulhú, Laconde, Lacondê, Latunde, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte]
+alt_names: [Kithāulhú, Laconde, Lacondê, Latunde, Mamaindê, Mamande, Nakarothe, Nambikuára septentrional, Nambikwara du nord, Northern Nambikuaran, Northern Nambiquara, Yalapmunxte, Leitodu]
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Nambikwaran language spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 拉图恩德语
     auto: true
 ---
+Mamaindê, also known as Northern Nambikwara, is a Nambikwaran language spoken in the Mato Grosso state of Brazil, in the very north of the indigenous reserve, Terra Indígena Vale do Guaporé, between the Pardo and Cabixi Rivers. In the southern part of the reserve, speakers of Sabanê and Southern Nambikwara are found.

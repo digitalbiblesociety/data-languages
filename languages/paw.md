@@ -6,11 +6,14 @@ alt_names: [Grand Pawnee, Paní, Pawnee Cluster, Pawnieg, Proto-Pawnee, Republic
 population: 2500
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: "Endangered Caddoan language of Oklahoma, US"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 36.28618
 longitude: -96.89367
+language_map_img: 500px-Pawnee_lang.webp
 glottocode: pawn1254
 glottolog_family_id: cadd1255
 glottolog_family_name: Caddoan

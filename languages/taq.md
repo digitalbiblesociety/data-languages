@@ -3,10 +3,12 @@ iso: taq
 macrolanguage_id: tmh
 name: Tamasheq
 autonym: " Tamashekin"
-alt_names: ["\"Tuareg\"", Amäšey, Kidal, Kidal Tamasheq, Tamaceq, Tamacheq tahoua, "Tamasheq, Kidal", Tamäšeq, Timbuktu, Tomacheck, Tuareg]
+alt_names: ["\"Tuareg\"", Amäšey, Kidal, Kidal Tamasheq, Tamaceq, Tamacheq tahoua, "Tamasheq, Kidal", Tamäšeq, Timbuktu, Tomacheck, Tuareg, “Tuareg”, Tadghaq, Tadhaq, Tamachen, Tamashek, Tanaslamt, Tombouctou, Tǝmajǝq, tamachèque, tamasagt]
 population: 500000
 country_id: ML
 country_name: Mali
+location: Burkina Faso
+area: Tuareg Berber macro-language of North Africa
 status_id: "4"
 scope: individual
 language_type: living

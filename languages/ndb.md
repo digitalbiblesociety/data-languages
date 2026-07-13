@@ -2,10 +2,12 @@
 iso: ndb
 name: Kenswei Nsei
 autonym: Kenswei Nsei
-alt_names: [Bamessing, Befi, Calebasses, Kensense, Melamba, Mesing, Ndop-Bamessing, Nsei, Veteng, Vetweng]
+alt_names: [Bamessing, Befi, Calebasses, Kensense, Melamba, Mesing, Ndop-Bamessing, Nsei, Veteng, Vetweng, Kenswey Nsey]
 population: 25000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

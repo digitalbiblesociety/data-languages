@@ -2,10 +2,12 @@
 iso: lep
 name: Lepcha
 autonym: ᰛᰩᰵᰛᰧᰵᰶ
-alt_names: [Lapcha, Lapche, Lepchaish, Lepoha, Leptśa, Nümpa, Nünpa, Rong, Rongke, Rongpa, Róng, Лепча]
+alt_names: [Lapcha, Lapche, Lepchaish, Lepoha, Leptśa, Nümpa, Nünpa, Rong, Rongke, Rongpa, Róng, Лепча, Ilammu, Rengjongmu, Róng-ríng, Róngkup, Tamsangmu]
 population: 57700
 country_id: IN
 country_name: India
+location: Bhutan
+area: "Tibeto-Burman language of Sikkim, Nepal and Bhutan"
 status_id: 6a
 scope: individual
 language_type: living

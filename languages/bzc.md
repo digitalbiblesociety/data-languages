@@ -3,10 +3,12 @@ iso: bzc
 macrolanguage_id: mlg
 name: Southern Betsimisaraka Malagasy
 autonym: malagasy
-alt_names: ["Malagasy, Southern Betsimisaraka"]
+alt_names: ["Malagasy, Southern Betsimisaraka", Betsimisaraka Antatsimo Malagasy, Antatsimo, Betsimisaraka]
 population: null
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 南贝齐米萨拉卡马拉加斯语
     auto: true
 ---
+Malagasy is an Austronesian language and dialect continuum spoken in Madagascar. The standard variety, called Official Malagasy, is one of the official languages of Madagascar, alongside French.

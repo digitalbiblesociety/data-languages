@@ -6,11 +6,14 @@ alt_names: [Aira manga, Aira-manga, Airamanga, Leenaranunga, Uriminga, Waramanga
 population: 520
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -20.64791
 longitude: 134.37481
+language_map_img: 500px-Warumungu_language.webp
 glottocode: waru1265
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

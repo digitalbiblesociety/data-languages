@@ -2,10 +2,12 @@
 iso: tzo
 name: Tzotzil
 autonym: Batsʼi kʼop
-alt_names: ["B'atz'i k'op", San Bartolomé Venustiano Carranza Tzotzil, "Ts'ots'il", Tsotsil simi, "Tzotzil, Venustiano Carranza", Zinacantán]
+alt_names: ["B'atz'i k'op", San Bartolomé Venustiano Carranza Tzotzil, "Ts'ots'il", Tsotsil simi, "Tzotzil, Venustiano Carranza", Zinacantán, Angel Albino Corzo, Batsꞌi kꞌop, Chamula Tzotzil, Chenalho Tzotzil, Huixteco, Huixtán, Huixtán Tzotzil, La Concordia, San Andres Tzotzil, San Andrés Larrainzar Tzotzil, San Miguel Mitontic, San Pablo Chalchihuitán, San Pedro Chenalhó, Santa Catarina Pantelho, Tsotsil, Tzotzil de Huistán, Tzotzil de Huitiupan, Tzotzil de San Cristobal las Casas, Tzotzil de San Pablo Chalchihuitan, Tzotzil de Simojovel, Tzotzil de Sta. Catarina Panteho, Tzotzil de Tzinacanteco, Zinacantán Tzotzil, Villa Corzo, Zinacanteco Tzotzil]
 population: 488000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mayan language spoken in Mexico
 status_id: 6b
 scope: individual
 language_type: living

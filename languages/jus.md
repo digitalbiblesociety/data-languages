@@ -5,6 +5,8 @@ autonym: जुम्ला साङ्केतिक भाषा
 population: 100
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Village sign language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

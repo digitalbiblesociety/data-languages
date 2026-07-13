@@ -6,11 +6,14 @@ alt_names: [Ahnbi, Baanbay, Bahnbi, Banbai, Bellingen tribe, Bellinger tribe, Ca
 population: 90
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -29.81891
 longitude: 152.91311
+language_map_img: 500px-Gumbaynggiric_languages.webp
 glottocode: kumb1268
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

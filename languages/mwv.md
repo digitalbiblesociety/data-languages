@@ -2,10 +2,12 @@
 iso: mwv
 name: Mentawai
 autonym: Behase Mentawei
-alt_names: [Mentawaiera, Mentawei, Mentawei-Engano, Mentawi]
+alt_names: [Mentawaiera, Mentawei, Mentawei-Engano, Mentawi, North Siberut, Pagai, Sakalagan, Saumanganja, Silabu, Simalegi, Sipura, South Siberut, Taikaku]
 population: 58000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Badag, Badageg, Badagu, Baduga, Badugu, Vadagu, படக, ಬಡಗ
 population: 134000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language spoken in Southern India
 status_id: "5"
 scope: individual
 language_type: living

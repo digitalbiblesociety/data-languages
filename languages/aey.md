@@ -2,10 +2,12 @@
 iso: aey
 name: Amele
 autonym: Sona
-alt_names: [Amale]
+alt_names: [Amale, Haija, Huar, Jagahala]
 population: 5300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

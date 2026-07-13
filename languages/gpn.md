@@ -6,6 +6,8 @@ alt_names: [Chana, Chuala, East Parana, Gapun, Guana, Taiapeg]
 population: 50
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Endangered Papuan language
 status_id: 8a
 scope: individual
 language_type: living

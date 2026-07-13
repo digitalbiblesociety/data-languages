@@ -6,6 +6,8 @@ alt_names: [Daii, Diakui, Djimba, Djinang, Dyinba, Ganalbwingu, Gunalbingu, Jinb
 population: 53
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Indigenous Australian language
 status_id: 6b
 scope: individual
 language_type: living

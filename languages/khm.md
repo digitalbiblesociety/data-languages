@@ -3,15 +3,18 @@ iso: khm
 iso639_1: km
 name: Khmer
 autonym: Cambodian
-alt_names: ["Cambodian, Khmer", Central Khmer, Cu Tho, Cur Cul, Kambojanisch, Khmaer, "Khmer, Central", Khmɛr, Kho Me, Khome, Krom, Modern Khmer, Standard Khmer, Viet Go Mien, khmer central]
+alt_names: ["Cambodian, Khmer", Central Khmer, Cu Tho, Cur Cul, Kambojanisch, Khmaer, "Khmer, Central", Khmɛr, Kho Me, Khome, Krom, Modern Khmer, Standard Khmer, Viet Go Mien, khmer central, ខ្មែរ, Battambang Khmer, Cardamom Khmer, Khmer Kandal, Khmer Keh, Khmer Krom, Khmer Nam Bo, Southern Khmer, Stung Treng]
 population: 16600000
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language of Cambodia
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 12.05155
 longitude: 105.015373
+language_map_img: khm.svg
 scripts: [Khmr]
 glottocode: cent1989
 glottolog_family_id: aust1305

@@ -6,6 +6,8 @@ alt_names: [Boudouma, Buduma-Kuri, Yadena, Yedana, Yedima, Yedina, Yidana, Yiden
 population: 54800
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Chadic language
 status_id: 6a
 scope: individual
 language_type: living

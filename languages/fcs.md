@@ -2,10 +2,11 @@
 iso: fcs
 name: Quebec Sign Language
 autonym: Langue des signes québécoise
-alt_names: [LSQ]
+alt_names: [LSQ, Langue des Signes]
 population: 8000
 country_id: CA
 country_name: Canada
+area: Deaf sign language of francophone Canada
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Angom, Bangom, Bangomo, Ngomo, Ongom, Ungom]
 population: 12770
 country_id: GA
 country_name: Gabon
+location: Congo
+area: Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,8 @@ translations:
     name: 恩贡语
     auto: true
 ---
+Kele is a Bantu language of Gabon. Dialects of the Kele language are scattered throughout Gabon.West Kele (Kili) is spoken by the Kele people, scattered in Middle Ogooué Province, Mimongo area.
+Ngom is used with only minor differences by the Kola/Koya Pygmies. It is spoken on both sides of the border with the Republic of the Congo.
+Bubi 
+Tombidi
+Mwesa

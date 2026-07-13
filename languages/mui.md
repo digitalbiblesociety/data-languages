@@ -3,15 +3,18 @@ iso: mui
 macrolanguage_id: msa
 name: Musi
 autonym: Baso Palembang
-alt_names: [Palembang, Sekayu]
+alt_names: [Palembang, Sekayu, Belide, Burai, Coastal Malay, Kelingi, Lematang Ilir, Meranjat, Musi Sekayu, Palembang Lama, Palembangnese, Pegagan, Penesak, Penukal, Rawas]
 population: 3116000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Malayic variety spoken in southern Sumatera
 status_id: "3"
 scope: individual
 language_type: living
 latitude: -2.93987
 longitude: 103.94461
+language_map_img: Musi_lects.svg
 glottocode: musi1241
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

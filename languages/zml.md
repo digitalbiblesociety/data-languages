@@ -6,6 +6,8 @@ alt_names: [Amadil, Dakayu, Eastern Daly language, Gamu, Hermit Hill, Hermit Hil
 population: 1973
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Extinct language of northern Australia
 status_id: 8b
 scope: individual
 language_type: extinct

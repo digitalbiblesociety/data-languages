@@ -6,6 +6,7 @@ alt_names: [Indonesia]
 population: 500
 country_id: ID
 country_name: Indonesia
+area: Austronesia language spoken in Indonesia
 status_id: "9"
 scope: individual
 language_type: living

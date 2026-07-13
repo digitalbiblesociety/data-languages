@@ -6,11 +6,13 @@ alt_names: [Alsean, Alséya, Aslean, Iakon, Yakona, Yakwina, Yaquina]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 44.408
 longitude: -123.94
+language_map_img: Alsean_languages_map.webp
 glottocode: alse1251
 wikidata_id: Q2395641
 wikipedia_url: "https://en.wikipedia.org/wiki/Alsea_language"

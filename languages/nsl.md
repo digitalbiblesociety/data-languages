@@ -2,10 +2,11 @@
 iso: nsl
 name: Norwegian Sign Language
 autonym: Norsk tegnspråk
-alt_names: [Norskt teckenspråk]
+alt_names: [Norskt teckenspråk, "Norsk Tegnspråk [NTS]"]
 population: 4000
 country_id: "NO"
 country_name: Norway
+area: Principal sign language of Norway
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: null
 population: 2370
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Bongo–Bagirmi language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

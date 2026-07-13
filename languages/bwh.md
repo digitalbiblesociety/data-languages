@@ -6,6 +6,7 @@ alt_names: [Furu]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Moribund Southern Bantoid language of Cameroon
 status_id: "10"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: zyn
 macrolanguage_id: zha
 name: Yongnan Zhuang
 autonym: Vahcuengh (za)
-alt_names: [Bou Rau, Long An, Long’an, Nung An, Southern Zhuang, Yongnan, Yongnan Vernacular of the Southern Dialect of the Zhuang Language, "Yung-ch'un", Yung-shun, Yungnan, Zhuang, "Zhuang, Yongnan", Zhuangyu nanbu fangyan Yongnan tuyu]
+alt_names: [Bou Rau, Long An, Long’an, Nung An, Southern Zhuang, Yongnan, Yongnan Vernacular of the Southern Dialect of the Zhuang Language, "Yung-ch'un", Yung-shun, Yungnan, Zhuang, "Zhuang, Yongnan", Zhuangyu nanbu fangyan Yongnan tuyu, Boux Toj, Nongz Anx, Yongnan Vernacular of the Southern Dialect of the Zhuan]
 population: 1810000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kra–Dai language of southern China
 status_id: 6a
 scope: individual
 language_type: living

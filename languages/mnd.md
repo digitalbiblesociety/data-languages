@@ -6,6 +6,8 @@ alt_names: [Monde, Mondé-Sanamai, Salamai, Salamaikã, Sanamaica, Sanamaika, Sa
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Tupian language spoken in Brazil
 status_id: 8b
 scope: individual
 language_type: living

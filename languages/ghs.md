@@ -2,10 +2,12 @@
 iso: ghs
 name: "Guhu-Samane"
 autonym: null
-alt_names: [Bia, Guhu-Semane, Mid-Waria, Muri, Paiawa, Tahari]
+alt_names: [Bia, Guhu-Semane, Mid-Waria, Muri, Paiawa, Tahari, Sekare]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Trans–New Guinea language
 status_id: "5"
 scope: individual
 language_type: living

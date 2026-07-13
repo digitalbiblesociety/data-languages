@@ -2,10 +2,12 @@
 iso: bez
 name: Bena
 autonym: Ekibena
-alt_names: [Bena, Kibena]
+alt_names: [Bena, Kibena, EkiBene, Ikibena, Ilembula, Kilavagi, Kilavungi, Kinamanga, Lupembe, Masagati, Masakati, Masitu, Maswamu, Mavemba, Ngaveeta, Nyikolwe, Sove, Sovi, Twangabita, Ulanga]
 population: 592000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living

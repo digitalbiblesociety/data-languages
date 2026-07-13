@@ -6,6 +6,8 @@ alt_names: [Kachin, Sing-Fo, Yingpho]
 population: 2500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Jingpho dialect of India
 status_id: "4"
 scope: individual
 language_type: living

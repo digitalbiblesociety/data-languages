@@ -2,10 +2,11 @@
 iso: bqi
 name: Bakhtiari
 autonym: بختیاری
-alt_names: [Bakhtiari dialect, Lori, Lori-ye Khaveri, Luri, گویش بختیاری]
+alt_names: [Bakhtiari dialect, Lori, Lori-ye Khaveri, Luri, گویش بختیاری, Aligudarz, Chaharlang, Charlang, Chelgerd, Haflang, Haftgel, Haftlang, Izeh, Kohrang, Kuhrang, Masjed-e Soleiman, Shahr-e Kord]
 population: 1240000
 country_id: IR
 country_name: Iran
+area: Southern Luri dialect of Iran
 status_id: 6a
 scope: individual
 language_type: living

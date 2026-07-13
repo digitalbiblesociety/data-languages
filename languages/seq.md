@@ -6,6 +6,8 @@ alt_names: [Niangolo, Senara Senoufo, Sénoufo, "Sénoufo, Senara"]
 population: 50000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Atlantic–Congo language spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living

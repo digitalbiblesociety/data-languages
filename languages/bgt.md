@@ -2,10 +2,12 @@
 iso: bgt
 name: Bughotu
 autonym: Bugotu
-alt_names: [Bugota, Bugoto, Mahaga, Mbughotu, Südliche Salomons-Inseln]
+alt_names: [Bugota, Bugoto, Mahaga, Mbughotu, Südliche Salomons-Inseln, Hageulu, Vulava]
 population: 4050
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Jungle Spanish, "Spanish, Loreto-Ucayali"]
 population: 2800
 country_id: PE
 country_name: Peru
+area: South American language
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kadjakse, Kajeske, Kawa Tadimini, Kujarke, Mini]
 population: 1000
 country_id: TD
 country_name: Chad
+location: Chad
+area: Unclassified language of eastern Chad and western Sudan
 status_id: "7"
 scope: individual
 language_type: living

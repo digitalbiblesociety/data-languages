@@ -6,6 +6,8 @@ alt_names: [Chikuahane, Chikuhane, Chikwahane, Ciikuhane, Cisubiya, Echisubia, K
 population: 39570
 country_id: NA
 country_name: Namibia
+location: Botswana
+area: Bantu language in Southern Africa
 status_id: 6a
 scope: individual
 language_type: living

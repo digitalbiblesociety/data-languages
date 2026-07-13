@@ -6,11 +6,13 @@ alt_names: [Chibchan Proper, Cundicocuyese, Miusca, Mosca, Muisca, Muiska, Muysk
 population: null
 country_id: CO
 country_name: Colombia
+area: "Language of Colombia, spoken by the Muisca"
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 6.24999
 longitude: -74.16665
+language_map_img: 500px-Chibcha_lang.webp
 glottocode: chib1270
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

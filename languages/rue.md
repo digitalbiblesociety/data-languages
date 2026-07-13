@@ -6,11 +6,14 @@ alt_names: [Carpathian, Carpatho-Rusyn, Roetheens, Rusinsk, Rusinska, Ruteeni, R
 population: 82960
 country_id: UA
 country_name: Ukraine
+location: Ukraine
+area: "East Slavic language spoken by Carpathian Rusyns, Lemkos, Boykos, and Hutsuls"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 48.717115
 longitude: 22.95787
+language_map_img: Idioma_rusino.webp
 scripts: [Cyrl]
 glottocode: rusy1239
 glottolog_family_id: indo1319

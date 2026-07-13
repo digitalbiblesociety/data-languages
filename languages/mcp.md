@@ -2,10 +2,12 @@
 iso: mcp
 name: Makaa
 autonym: null
-alt_names: [Meka, Mekaa, Nyaana, South Makaa, South Mekaa, Toma]
+alt_names: [Meka, Mekaa, Nyaana, South Makaa, South Mekaa, Toma, Bebend, Bebende, Bebent, Bemina, Besep, Bewil, Biken, Maka, Mbwaanz, Mǝkaá, Sekunda, Shekunda, Shikunda]
 population: 80000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: Bantu language spoken in Cameroonn
 status_id: "5"
 scope: individual
 language_type: living

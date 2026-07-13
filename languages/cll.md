@@ -6,6 +6,8 @@ alt_names: [Cãla, Tsa, Tschala, Tshala]
 population: 3000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language spoken in Ghana
 status_id: 6a
 scope: individual
 language_type: living

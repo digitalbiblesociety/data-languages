@@ -6,11 +6,13 @@ alt_names: [Bujiebara, Dungibara, Dungidau, Duungidjawu, Enibura, Garumga, Garum
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of Australia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: -26.24803
 longitude: 151.868
+language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp
 glottocode: waka1274
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

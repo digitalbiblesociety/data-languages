@@ -6,11 +6,13 @@ alt_names: [Filipijns, Filipin, Filipince, Filipineg, Filipino, Filipino languag
 population: 90000000
 country_id: PH
 country_name: Philippines
+area: The national language and one of the two official languages of the Philippines
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 12.265
 longitude: 123.464
+language_map_img: 500px-Tagalosphere.webp
 scripts: [Latn, Tglg]
 glottocode: fili1244
 glottolog_family_id: aust1307

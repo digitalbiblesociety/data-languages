@@ -3,10 +3,12 @@ iso: ztu
 macrolanguage_id: zap
 name: Güilá Zapotec
 autonym: (San Pablo Güilá)
-alt_names: [Eastern Sapoteko, Guila Zapotec, Zapotec, "Zapotec, Güilá", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Dionisio Ocotepec, Zapoteco de San Pablo Güilá, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec]
+alt_names: [Eastern Sapoteko, Guila Zapotec, Zapotec, "Zapotec, Güilá", Zapoteco de Petapa, Zapoteco de San Bartolo Yautepec, Zapoteco de San Dionisio Ocotepec, Zapoteco de San Pablo Güilá, Zapoteco mixtepeco, Zapotèque de Mixtepe, Zapotèque de Petapa, Zapotèque de San Bartolo Yautepec, San Dionisio Ocotepec Zapotec]
 population: 2300
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

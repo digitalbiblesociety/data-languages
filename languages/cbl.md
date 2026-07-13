@@ -2,10 +2,12 @@
 iso: cbl
 name: Bualkhaw Chin
 autonym: "Chin, Bualkhaw"
-alt_names: ["Chin,Bualkhaw"]
+alt_names: ["Chin,Bualkhaw", Bualkhaw-Chin, Chin, Bualkhaw, Bualkhua, Phadei]
 population: 2500
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Language spoken in Burma
 status_id: "5"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 布阿尔卡欧钦语
     auto: true
 ---
+Falam Chin is a Kuki-Chin language in Falam Township, Chin State, Myanmar.

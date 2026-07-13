@@ -2,15 +2,18 @@
 iso: ved
 name: Veddah
 autonym: Beda
-alt_names: [Bedda, Veda, Vedda, Vedda language, Veddha, Weda, Wedda, Weddo]
+alt_names: [Bedda, Veda, Vedda, Vedda language, Veddha, Weda, Wedda, Weddo, Vaedda]
 population: 2500
 country_id: LK
 country_name: Sri Lanka
+location: Sri Lanka
+area: Endangered language of Sri Lanka
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 6.97396
 longitude: 81.26177
+language_map_img: Important_locations_of_Anuradhapura_Kingdom.webp
 glottocode: vedd1240
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

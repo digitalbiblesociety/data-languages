@@ -6,6 +6,8 @@ alt_names: [Bena, Buna, Ebina, Ebuna, Woro]
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Niger-Congo language
 status_id: 6a
 scope: individual
 language_type: living

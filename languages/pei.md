@@ -6,6 +6,8 @@ alt_names: [Chichimec, Chichimeca, Chichimeca Jonaz language, Chichimeco, Chichi
 population: 200
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Oto-Pamean language of central Mexico
 status_id: "7"
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Argoeni
 population: 150
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

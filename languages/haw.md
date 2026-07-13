@@ -2,10 +2,12 @@
 iso: haw
 name: Hawaiian
 autonym: ʻŌlelo Hawaiʻi
-alt_names: ["'Ōlelo Hawai'i", "'Ōlelo Hawai'i Makuahine", Haváís, Hawaiano, Hawaieg, Hawaiera, Hawaii, Hawaiiaansche Spraak, Hawaiiansk, Hawaiisk, Hawaiiska, Hawaià, Hawaiíska, Hawaiïaans, Hawayi simi, Hawaíyane, Hawaïaans, Hawaïen, ‘Ōlelo Hawai‘i]
+alt_names: ["'Ōlelo Hawai'i", "'Ōlelo Hawai'i Makuahine", Haváís, Hawaiano, Hawaieg, Hawaiera, Hawaii, Hawaiiaansche Spraak, Hawaiiansk, Hawaiisk, Hawaiiska, Hawaià, Hawaiíska, Hawaiïaans, Hawayi simi, Hawaíyane, Hawaïaans, Hawaïen, ‘Ōlelo Hawai‘i, "'Olelo Hawai'i", ’Olelo Hawai’i, ’Olelo Hawai’i Makuahine]
 population: 2000
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Endangered Polynesian language of Hawaii
 status_id: "2"
 scope: individual
 language_type: living

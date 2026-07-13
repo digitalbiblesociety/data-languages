@@ -6,6 +6,8 @@ alt_names: [Central Misteko, Central Nochistlán Mixtec, Centreal Mixteco, Diuxi
 population: null
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 特拉索亚尔特佩克混合语
     auto: true
 ---
+Estetla Mixtec is a diverse Mixtec language of Oaxaca.

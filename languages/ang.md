@@ -2,7 +2,7 @@
 iso: ang
 name: Old English
 autonym: Ænglisc sprǣc
-alt_names: [Aldingelsk, Angel-sächsisch, Angelsaksisk, Angelsassische Sprake, Anglo-saxon, Anglosaxon, Anglès antic, Antico inglese, Auld Inglis leid, Englisc sprǣc, "English, Old (ca. 450-1100)", "English, Old (ca.450-1100)", Eski İngilizce, Fornengelska, Fornenska, Gammelengelsk, Inglés antigo, Inglés antiguu, Kiingereza cha Kale, Muinaisenglanti, Old English, Old English language, Oudengels, Oudiengels, Stará angličtina, anglo-saxon (ca.450-1100), אנגלית עתיקה, إنجليزية عتيقة, انگلیسی قدیم, قدیمی اینگیلیسی, প্রাচীন ইংরেজি]
+alt_names: [Aldingelsk, Angel-sächsisch, Angelsaksisk, Angelsassische Sprake, Anglo-saxon, Anglosaxon, Anglès antic, Antico inglese, Auld Inglis leid, Englisc sprǣc, "English, Old (ca. 450-1100)", "English, Old (ca.450-1100)", Eski İngilizce, Fornengelska, Fornenska, Gammelengelsk, Inglés antigo, Inglés antiguu, Kiingereza cha Kale, Muinaisenglanti, Old English, Old English language, Oudengels, Oudiengels, Stará angličtina, anglo-saxon (ca.450-1100), אנגלית עתיקה, إنجليزية عتيقة, انگلیسی قدیم, قدیمی اینگیلیسی, প্রাচীন ইংরেজি, Old English (ca. 450-1100)]
 population: null
 country_id: GB
 country_name: United Kingdom

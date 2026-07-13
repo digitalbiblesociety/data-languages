@@ -5,6 +5,8 @@ autonym: null
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Nearly extinct language in Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

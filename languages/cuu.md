@@ -2,15 +2,18 @@
 iso: cuu
 name: Tai Ya
 autonym: Tai Cung
-alt_names: [Cung, Daiya, Tai-Chung, Tai-Cung, Ya]
+alt_names: [Cung, Daiya, Tai-Chung, Tai-Cung, Ya, Huayao Dai, Multi-colored, Waistband Tai, Yuanxin Hongjin Dai]
 population: 50400
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Tai language of southern China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 23.56897
 longitude: 101.89865
+language_map_img: 500px-Tai_Ya_Language.webp
 glottocode: taiy1242
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

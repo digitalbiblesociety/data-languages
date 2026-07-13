@@ -6,11 +6,13 @@ alt_names: [Djauor, Dyugun, Gawor, Jaoro, Jaudjibara, Jauor, Jauro, Jauur, Jawad
 population: 30
 country_id: AU
 country_name: Australia
+area: Nyulnyulan language spoken in Australia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -18.00405
 longitude: 122.69265
+language_map_img: 500px-Traditional_lands_of_Australian_Aboriginal_Tribes_around_Derby.webp
 glottocode: yawu1244
 glottolog_family_id: nyul1248
 glottolog_family_name: Nyulnyulan

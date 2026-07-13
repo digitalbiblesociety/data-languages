@@ -6,6 +6,8 @@ alt_names: [Mello]
 population: 20200
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

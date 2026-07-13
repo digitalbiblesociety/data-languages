@@ -3,15 +3,18 @@ iso: zlm
 macrolanguage_id: msa
 name: Malay
 autonym: " Indonesian Malaysian "
-alt_names: [Borneo, Colloquial Malay, Malaiisch, Malayisch, Malayu, Melaju, Melayu, Standard Malay]
+alt_names: [Borneo, Colloquial Malay, Malaiisch, Malayisch, Malayu, Melaju, Melayu, Standard Malay, Bahasa Malaysia, Local Malay, Akit, Bahasa Daerah, Bahasa Melayu, Belitung, Coastal Jambi, Coastal Terengganu, Deli, Informal Malay, Inland Terengganu, Jugra-Muar-Melaka-Johor, Kapuas Hulu, Kelantan, Ketapang, Landak, Bahasa Malay, Northwestern Kalimantan, Pahang, Pontianak, Riau Mainland, Riau islands, Sakai, Sambas, Sanggau, Sarawak, Sarawak Malay, Sea Tribe dialects, Sekadau, Sintang, Southeast Island, Southwestern Coastal Kalimantan, Sukadana, Tamiang, Upstream Western Kalimantan]
 population: 10296000
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Java and Bali"
+area: Austronesian language of Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 1.858561
 longitude: 103.000487
+language_map_img: zlm.webp
 glottocode: mala1479
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

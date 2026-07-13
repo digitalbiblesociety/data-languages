@@ -6,6 +6,8 @@ alt_names: [Elkembei, Ilkan Beye, Neghidal, Negidale, Negidaleg, Negidalsk, Negi
 population: 150
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: Tungusic language of the Russian Far East
 status_id: 8b
 scope: individual
 language_type: living

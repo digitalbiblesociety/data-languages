@@ -6,6 +6,8 @@ alt_names: [Apache, Apache (Chiricahua), Apache (Eastern), Apache (Mescalero-Chi
 population: 1800
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Language spoken in Oklahoma and New Mexico
 status_id: 6b
 scope: individual
 language_type: living

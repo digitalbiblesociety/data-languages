@@ -2,14 +2,19 @@
 iso: jya
 name: Jiarong
 autonym: Chiarong
+alt_names: [Gyarong, Gyarung, Jarong, Jyarung, Rgyarong]
 population: 12197
 country_id: CN
 country_name: China
+location: China
+area: "Group of Gyalrongic languages of western Sichuan, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 31.60295
 longitude: 102.22875
+language_map_img: 500px-Carte2.webp
+glottocode: jiar1239
 wikidata_id: Q832026
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalrong_languages"
 translations:

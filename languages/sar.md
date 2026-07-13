@@ -6,6 +6,7 @@ alt_names: [Sarave, Saraveka, Zarabe]
 population: null
 country_id: BO
 country_name: Bolivia
+area: Extinct Arawakan language of Bolivia
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,6 +6,8 @@ alt_names: [Eibela]
 population: 140
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 8"
+area: Bosavi language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

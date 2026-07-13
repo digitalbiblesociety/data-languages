@@ -2,10 +2,12 @@
 iso: myw
 name: Muyuw
 autonym: null
-alt_names: [Murua, Muruwa, Muyu, Muyua, Muyuwa]
+alt_names: [Murua, Muruwa, Muyu, Muyua, Muyuwa, Egum, Murua Dukwayasi, Murua Kaulae, Gawa, Iwa, Lougaw, Nawyem, Wamwan, Yanaba]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

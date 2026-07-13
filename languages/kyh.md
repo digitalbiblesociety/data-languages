@@ -6,11 +6,14 @@ alt_names: [Charoc, Karuk, Karuk language, Quoratean, Quoratem, Карук]
 population: 1900
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: "Endangered language of California, US"
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 41.82283
 longitude: -123.31534
+language_map_img: 500px-Karuk_lang.webp
 glottocode: karo1304
 wikidata_id: Q1288440
 wikipedia_url: "https://en.wikipedia.org/wiki/Karuk_language"

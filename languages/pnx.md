@@ -6,6 +6,8 @@ alt_names: [Keneng, Kenieng, Khaniang, Lao Phong, "P'eng", Pheng, Phong, Pong, P
 population: 1000
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living

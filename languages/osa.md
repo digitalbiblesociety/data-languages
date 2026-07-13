@@ -6,11 +6,14 @@ alt_names: [Kansa, Osague, Wazhazhe, Wazhazhe ie]
 population: 11000
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: Siouan language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 36.78282
 longitude: -96.29489
+language_map_img: 500px-Oklahoma_Indian_Languages.webp
 scripts: [Latn, Osge]
 glottocode: osag1243
 glottolog_family_id: siou1252

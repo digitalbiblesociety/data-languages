@@ -6,11 +6,14 @@ alt_names: [Totoish, Tōtō]
 population: 20000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Sino-Tibetan language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 26.67
 longitude: 88.975
+language_map_img: 500px-Toto.Map.webp
 glottocode: toto1302
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

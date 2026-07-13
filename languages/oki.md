@@ -3,10 +3,12 @@ iso: oki
 macrolanguage_id: kln
 name: Okiek
 autonym: Akie
-alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo]
+alt_names: ["\"Ndorobo\"", Akiek, Kinare, Ogiek, Ogiek language, Okiekeg, Sogoo, “Ndorobo”]
 population: 250
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Nilotic language spoken in Kenya and Tanzania
 status_id: "7"
 scope: individual
 language_type: living

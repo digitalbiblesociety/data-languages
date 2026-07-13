@@ -2,15 +2,18 @@
 iso: zea
 name: Zeeuws
 autonym: Zeêuws
-alt_names: [Dialekt zelandzki, Dialetto zelandese, Dutch, Dutch (Zeeuws), Flemish (Zeeuws), Netherlandic, Seeländisch, Sî-làn-ngî, Zais, Zeaws, Zeelandic, Zeeländska, Zelandeg, Zelandès, Zelandés, Ziews, Zélandais, Zêeuws, Зеландский диалект]
+alt_names: [Dialekt zelandzki, Dialetto zelandese, Dutch, Dutch (Zeeuws), Flemish (Zeeuws), Netherlandic, Seeländisch, Sî-làn-ngî, Zais, Zeaws, Zeelandic, Zeeländska, Zelandeg, Zelandès, Zelandés, Ziews, Zélandais, Zêeuws, Зеландский диалект, Axels, Bevelands, Duvelands, Flakkees, Fluplands, Goerees, Kezands, Schouws, Walchers]
 population: 220000
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: Low Franconian dialect of Dutch
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 51.49809
 longitude: 3.85428
+language_map_img: Nederlands-zeeuws.webp
 scripts: [Latn]
 glottocode: zeeu1238
 glottolog_family_id: indo1319

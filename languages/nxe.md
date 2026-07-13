@@ -6,6 +6,8 @@ alt_names: [Nagé]
 population: 50000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: "Austronesian language spoken in Flores, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
@@ -48,3 +50,4 @@ translations:
     name: 纳格语
     auto: true
 ---
+Kéo or Nagé-Kéo is a Malayo-Polynesian dialect cluster spoken by the Kéo and the Nage peoples that reside in an area southeast of the Ebulobo volcano in the south-central part of Nusa Tenggara Timur Province on the island of Flores, eastern Indonesia, largely in the eponymous Nagekeo Regency.

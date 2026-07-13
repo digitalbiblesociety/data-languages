@@ -2,10 +2,12 @@
 iso: neh
 name: Nyenkha
 autonym: Henkha
-alt_names: [Lap, Mangsdekha, Ngenkha, Nyg Ked, Nyn Kha]
+alt_names: [Lap, Mangsdekha, Ngenkha, Nyg Ked, Nyn Kha, Chutobikha, Mangdhika, Phobjikha]
 population: 10000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Bodish language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

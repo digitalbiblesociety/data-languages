@@ -6,6 +6,8 @@ alt_names: [Adan, Adantonwi, Agotime, Dangbe]
 population: 2200
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Ghana–Togo Mountain language
 status_id: 6b
 scope: individual
 language_type: living

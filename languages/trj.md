@@ -6,6 +6,8 @@ alt_names: [Torum]
 population: 8460
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: 8a
 scope: individual
 language_type: living

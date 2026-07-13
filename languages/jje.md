@@ -6,11 +6,13 @@ alt_names: [Chejueo, Jeju Jiyeokeo, Jeju bangeon, Jeju saturi, Jejumal, Jejutmal
 population: 5000
 country_id: KR
 country_name: South Korea
+area: "Koreanic language of Jeju Island, South Korea"
 status_id: null
 scope: individual
 language_type: living
 latitude: 33.3805
 longitude: 126.5554
+language_map_img: Jeju_Province_in_South_Korea.svg
 glottocode: jeju1234
 glottolog_family_id: kore1284
 glottolog_family_name: Koreanic

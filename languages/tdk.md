@@ -6,6 +6,8 @@ alt_names: [Fier, Fyer, Tembis]
 population: 3000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: pam
 name: Pampanga
 autonym: " Pampango"
-alt_names: [Kapampangan, Kapampangan language, Kapampangan nga yinaknan, Kapampangan-gí, Kapampanganeg, Pagsasao a Kapampangan, Pampangan, Pampangueño, Pâng-pán-ngà-ngî, Tataramon na Pampango]
+alt_names: [Kapampangan, Kapampangan language, Kapampangan nga yinaknan, Kapampangan-gí, Kapampanganeg, Pagsasao a Kapampangan, Pampangan, Pampangueño, Pâng-pán-ngà-ngî, Tataramon na Pampango, Koonzime, Amánung Sísuan]
 population: 2049670
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 14.96027
 longitude: 120.50183
+language_map_img: 500px-Kapampangan_language_maximum_extent.webp
 scripts: [Latn]
 glottocode: pamp1243
 glottolog_family_id: aust1307

@@ -6,6 +6,8 @@ alt_names: [Liambata-Kobi, Liana, Lianan, Teula, Uhei Kachlakan, Uhei Kaclakin, 
 population: 3000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

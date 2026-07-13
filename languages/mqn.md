@@ -2,9 +2,12 @@
 iso: mqn
 name: Moronene
 autonym: Maronene
+alt_names: [“Nahina”, Kabaena, Poleang, Rumbia, "Tokotu'a", Wita Ea]
 population: 26300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

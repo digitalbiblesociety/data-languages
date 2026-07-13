@@ -2,10 +2,12 @@
 iso: uvh
 name: Uri
 autonym: Erap
-alt_names: [Uri Vehees, Urii]
+alt_names: [Uri Vehees, Urii, East Urii, West Urii]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Fininsterre language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: ytp
 name: Thopho
 autonym: Black Hat Folk
+alt_names: [Black Phula, Hei Mao Ren, Phula]
 population: 200
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Endangered Loloish language of Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

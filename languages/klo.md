@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Plateau language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: ccg
 name: Samba Daka
 autonym: Chamba Daka
-alt_names: [Daka, "Daka, Samba", Dakka, Dekka, Deng, Jama, Nakanyare, Sama, Samba, Tchamba, Tikk, Tsamba]
+alt_names: [Daka, "Daka, Samba", Dakka, Dekka, Deng, Jama, Nakanyare, Sama, Samba, Tchamba, Tikk, Tsamba, Chamba, Naken, Nyare, Samba Jangani, Samba Nnakenyare, Samba of Mapeo, Taram]
 population: 107000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Bantoid language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
@@ -78,3 +80,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Taraba"
 ---
+Daka is one of two languages spoken by the Chamba people in Nigeria, the other being Chamba Leko.

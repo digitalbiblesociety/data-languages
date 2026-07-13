@@ -6,11 +6,14 @@ alt_names: [Kaure Proper, Kaurne]
 population: 450
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -3.39188
 longitude: 140.14028
+language_map_img: Kaure-Kapori_languages.svg
 glottocode: kaur1271
 glottolog_family_id: kaur1274
 glottolog_family_name: Kaure-Kosare

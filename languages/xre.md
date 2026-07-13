@@ -6,6 +6,7 @@ alt_names: [Bacabal, Canela, Crange, Crenge, Crengez, Crenye, Creye, Gavião du 
 population: null
 country_id: BR
 country_name: Brazil
+area: Jê language of Brazil
 status_id: "10"
 scope: individual
 language_type: living

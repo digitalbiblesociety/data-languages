@@ -6,6 +6,8 @@ alt_names: [Ssia]
 population: 510
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Austronesian language
 status_id: "7"
 scope: individual
 language_type: living

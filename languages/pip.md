@@ -6,6 +6,8 @@ alt_names: ["Chong'e", Chonge, Filiya, Goji, Kushe, Kushi, Pipero]
 population: 25000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: West Chadic language
 status_id: 6a
 scope: individual
 language_type: living

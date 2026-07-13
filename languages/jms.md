@@ -2,10 +2,12 @@
 iso: jms
 name: Mashi
 autonym: Munkaf
-alt_names: [Mashi, Nigeria]
+alt_names: [Mashi, Nigeria, Mashi (Nigeria)]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Bantoid language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 玛希语（尼日利亚）
     auto: true
 ---
+Naki, or Munkaf, is an Eastern Beboid language of Cameroon and Nigeria. There is no name for the language; it is known by the villages it is spoken in, including Naki and Mekaf (Munkaf) in Cameroon and Mashi in Nigeria, the latter listed as a separate language by Ethnologue, though it is not distinct.

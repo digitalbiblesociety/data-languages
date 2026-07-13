@@ -6,6 +6,8 @@ alt_names: [Berguid, Birgid]
 population: 10400
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

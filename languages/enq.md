@@ -2,10 +2,12 @@
 iso: enq
 name: Enga
 autonym: null
-alt_names: [Caga, Tchaga, Tsaga]
+alt_names: [Caga, Tchaga, Tsaga, Kaina, Kandepe, Kapona, Laiagam, Lapalama 1, Lapalama 2, Layapo, Mae, Mai, Malamuni, Maramuni, Sari, Sau, Sau Enga, Tayato, Wabag, Wapi, Yandapo]
 population: 300000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Language of Enga Province
 status_id: "5"
 scope: individual
 language_type: living

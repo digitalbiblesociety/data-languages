@@ -5,6 +5,8 @@ autonym: null
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu languages of Nigeria
 status_id: 8b
 scope: individual
 language_type: living

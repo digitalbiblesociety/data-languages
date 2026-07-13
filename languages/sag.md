@@ -7,11 +7,13 @@ alt_names: [Sangho, Sangoeg, Sängö, Санго, Санго мотт]
 population: 617000
 country_id: CF
 country_name: Central African Republic
+area: Ngbandi-based creole of the Central African Republic
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 6.785843
 longitude: 20.170203
+language_map_img: 500px-Central_African_Republic_Democratic_Republic_of_the_Congo_Locator.webp
 scripts: [Latn]
 glottocode: sang1328
 glottolog_family_id: atla1278

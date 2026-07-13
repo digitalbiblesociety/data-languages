@@ -2,10 +2,12 @@
 iso: nbm
 name: "Ngbaka Ma'bo"
 autonym: "Ngbaka Ma'bo"
-alt_names: [Bouaka, Bwaka, Gbaka, Gbala, "Ma'bo", Mbacca, Mbaka, Mbwaka, Nbwaka, "Ngbaka-Ma'bo"]
+alt_names: [Bouaka, Bwaka, Gbaka, Gbala, "Ma'bo", Mbacca, Mbaka, Mbwaka, Nbwaka, "Ngbaka-Ma'bo", Ma’bo, Ngbaka Limba]
 population: 258000
 country_id: CF
 country_name: Central African Republic
+location: Northern Democratic Republic of Congo
+area: Language spoken by the Mbaka people of CAR and Congo
 status_id: "5"
 scope: individual
 language_type: living

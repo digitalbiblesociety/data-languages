@@ -2,10 +2,12 @@
 iso: jum
 name: Jumjum
 autonym: Mabaan
-alt_names: [Berin, Olga, Wadega]
+alt_names: [Berin, Olga, Wadega, Wadkai]
 population: 25000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilotic language spoken in Sudan Plateau
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 朱姆朱姆语
     auto: true
 ---
+Southern Burun is a Western Nilotic language of Sudan. It is a dialect continuum with Burun proper, Mabaan/Ulu, and Jumjum.

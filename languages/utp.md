@@ -6,6 +6,8 @@ alt_names: [Amba, Nembao, Utupua]
 population: 590
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: One of the three Oceanic languages of Utupua (Solomon Islands)
 status_id: 6a
 scope: individual
 language_type: living

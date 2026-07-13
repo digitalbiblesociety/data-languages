@@ -2,10 +2,12 @@
 iso: gek
 name: Ywom
 autonym: Gerka
-alt_names: [Angas Group B, Gerkanchi, Gerkawa, Gurka, Yiwom]
+alt_names: [Angas Group B, Gerkanchi, Gerkawa, Gurka, Yiwom, Garkawa, Yioum]
 population: 14100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Chadic (Afro-Asiatic) language
 status_id: 6a
 scope: individual
 language_type: living

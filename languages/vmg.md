@@ -5,6 +5,8 @@ autonym: Minigir
 population: 1500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living

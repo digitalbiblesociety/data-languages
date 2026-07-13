@@ -6,6 +6,8 @@ alt_names: [Okaina, Okaineg, 𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 190
 country_id: PE
 country_name: Peru
+location: Southern Colombia
+area: Bora–Huitoto language spoken in South America
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: ten
 name: Tama
 autonym: null
-alt_names: [Tama]
+alt_names: [Tama, Tama (Colombia)]
 population: null
 country_id: CO
 country_name: Colombia
+area: Extinct indigenous Tucanoan language of Colombia
 status_id: "10"
 scope: individual
 language_type: extinct

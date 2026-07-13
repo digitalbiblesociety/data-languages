@@ -6,6 +6,8 @@ alt_names: [Bira, Ebila, Kibila, Western Bila]
 population: 40000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of the northeastern DR Congo
 status_id: 6a
 scope: individual
 language_type: living

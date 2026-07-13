@@ -5,6 +5,8 @@ autonym: bahasa Biga
 population: 300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesian language spoken in West Papua
 status_id: 6a
 scope: individual
 language_type: living

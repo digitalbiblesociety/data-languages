@@ -5,11 +5,14 @@ autonym: Soa
 population: 10000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.6778
 longitude: 121.04764
+glottocode: soaa1237
 wikidata_id: Q7572120
 wikipedia_url: "https://en.wikipedia.org/wiki/So%CA%BCa_language"
 translations:

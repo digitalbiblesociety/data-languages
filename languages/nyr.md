@@ -2,10 +2,12 @@
 iso: nyr
 name: Nyiha
 autonym: Ishinyiha
-alt_names: [Nyiha]
+alt_names: [Nyiha, Kinyiha, Shinyiha]
 population: 10000
 country_id: MW
 country_name: Malawi
+location: Malawi
+area: Bantu language spoken in Tanzania and Zambia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 尼哈语
     auto: true
 ---
+Nyiha is a Bantu language primarily spoken in Tanzania and Zambia. The language of the 10,000 speakers in Malawi is different enough to sometimes be considered a distinct language.

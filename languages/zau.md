@@ -6,6 +6,8 @@ alt_names: ["Z'angkar", Zangs-dkar, Zaskari]
 population: 12000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Endangered Sino-Tibetan language of India
 status_id: 6a
 scope: individual
 language_type: living

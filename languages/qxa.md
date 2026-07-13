@@ -7,6 +7,8 @@ alt_names: [Ancas, Ancash, Chinchaysuyo, Chiquian Ancash Quechua, Huaylas, North
 population: 10000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua dialect cluster of Peru
 status_id: "7"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 奇基安安卡什克丘亚语
     auto: true
 ---
+Alto Pativilca–Alto Marañón–Alto Huallaga Quechua is a dialect cluster of Quechua languages spoken in the Peruvian provinces of Huánuco, Lauricocha, Cajatambo and neighboring areas. The best-known dialect within the Huánuco cluster is Huallaga Quechua.

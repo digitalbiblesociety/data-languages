@@ -2,10 +2,12 @@
 iso: bmd
 name: Baga Manduri
 autonym: Barka
-alt_names: [Baga, Baga Mandun, Maduri, Mandari, Manduri, "Manduri, Baga", Temne]
+alt_names: [Baga, Baga Mandun, Maduri, Mandari, Manduri, "Manduri, Baga", Temne, Baka, Mandore, Mandori]
 population: 4000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Temne dialect cluster spoken in Guinea
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 巴加曼杜里语
     auto: true
 ---
+Baga, or Barka, is a dialect cluster spoken by the Baga people of coastal Guinea. The name derives from the phrase bae raka Slaves trading place and understood by the local as 'people of the seaside' outcast people. Most Baga are bilingual in the Mande language Susu, the official regional language. Two ethnically Baga communities, Sobané and Kaloum, are known to have abandoned their (unattested) language altogether in favour of Susu.

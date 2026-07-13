@@ -6,11 +6,14 @@ alt_names: [Dasea, Daxsea, Pisamira, Takuna, Tukana, Tukano, Tukána, "Ye'pâ-ma
 population: 11620
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Tucanoan language spoken in Brazil and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 0.579755
 longitude: -69.57633
+language_map_img: Tucano.webp
 glottocode: tuca1252
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

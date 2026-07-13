@@ -2,10 +2,12 @@
 iso: tmb
 name: Katbol
 autonym: Katbol
-alt_names: [Avava, Bangsa’, Mallicolo, Navava, Taremp, Tembimbe-Katbol, Tisvel]
+alt_names: [Avava, Bangsa’, Mallicolo, Navava, Taremp, Tembimbe-Katbol, Tisvel, Vava]
 population: 700
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

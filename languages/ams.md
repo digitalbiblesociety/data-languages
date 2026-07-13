@@ -6,6 +6,8 @@ alt_names: [Amami, Amami language, "Amami-Oshima, Southern", Amami-Osima, Amamie
 population: 1800
 country_id: JP
 country_name: Japan
+location: Japan
+area: Ryukyuan language spoken in Japan
 status_id: "7"
 scope: individual
 language_type: living

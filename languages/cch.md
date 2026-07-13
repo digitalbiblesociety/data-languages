@@ -6,6 +6,8 @@ alt_names: [Cawe, Cawi, Chawai, Chawe, Chawi]
 population: 30000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

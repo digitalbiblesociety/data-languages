@@ -2,10 +2,12 @@
 iso: vaa
 name: Vaagri Booli
 autonym: Hakkipikki
-alt_names: [Guvvalollu, Haki Piki, Hakkipikkaru, Karikkorava, Kuruvikkaran, Marattiyan, Narakureavar, Narikkorava, Rattiyan, Shikarijanam, Wogri Boli]
+alt_names: [Guvvalollu, Haki Piki, Hakkipikkaru, Karikkorava, Kuruvikkaran, Marattiyan, Narakureavar, Narikkorava, Rattiyan, Shikarijanam, Wogri Boli, Vagri, Wagri Vel, Narikoravar, Vaghri, Vaghriwala, Waghiri]
 population: 12000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Unclassified tribal Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living

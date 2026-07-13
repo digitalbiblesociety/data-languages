@@ -2,10 +2,12 @@
 iso: bzw
 name: Basa
 autonym: "Basa-Benue"
-alt_names: ["\"Bassa-Komo\"", "\"Bassa-Kwomu\"", Abacha, Abatsa, Basa, Rubasa, Rubassa]
+alt_names: ["\"Bassa-Komo\"", "\"Bassa-Kwomu\"", Abacha, Abatsa, Basa, Rubasa, Rubassa, “Bassa-Kwomu”, Bassa-Komo”, Bassa]
 population: 309000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Kainji language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

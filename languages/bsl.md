@@ -2,10 +2,11 @@
 iso: bsl
 name: "Basa-Gumna"
 autonym: Basa Kuta
-alt_names: [Basa, Basa-Kaduna, Bassa-Kaduna]
+alt_names: [Basa, Basa-Kaduna, Bassa-Kaduna, Gwadara Basa]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Extinct Kainji language of Nigeria
 status_id: "10"
 scope: individual
 language_type: extinct

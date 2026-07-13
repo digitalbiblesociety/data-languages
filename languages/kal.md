@@ -3,10 +3,11 @@ iso: kal
 iso639_1: kl
 name: Kalaallisut
 autonym: grønlandsk
-alt_names: [Chheⁿ-tē-gú, East, East Greenlandic, Eskimo, Greenland Eskimo (East), Greenland Eskimo (West), Greenlandic, Greenlandic (East), Greenlandic (South), Greenlandic (West), Greenlandic Eskimo, Greenlandic Kalaallisut, Greenlandic language, Greenlynnish, Groenlandais, Groenlandiera, Groenlands, Groenlandés, Groenlandés occidental, Grænlenska, Grönländska, Inuit, Inuktitut, "Inuktitut, Greenlandic", Inupiat, Kalalit simi, S Greenlandic, S. Greenlandic, South, South Greenlandic, Tasiilaq, Tunumiit oraasiat, W Greenlandic, W. Greenlandic, West Greenlandic, גרינלנדית]
+alt_names: [Chheⁿ-tē-gú, East, East Greenlandic, Eskimo, Greenland Eskimo (East), Greenland Eskimo (West), Greenlandic, Greenlandic (East), Greenlandic (South), Greenlandic (West), Greenlandic Eskimo, Greenlandic Kalaallisut, Greenlandic language, Greenlynnish, Groenlandais, Groenlandiera, Groenlands, Groenlandés, Groenlandés occidental, Grænlenska, Grönländska, Inuit, Inuktitut, "Inuktitut, Greenlandic", Inupiat, Kalalit simi, S Greenlandic, S. Greenlandic, South, South Greenlandic, Tasiilaq, Tunumiit oraasiat, W Greenlandic, W. Greenlandic, West Greenlandic, גרינלנדית, Avanersuarmiutut, Greenlandic Inuktitut, Kalaallisut (Greenlandic), North Greenlandic, Polar Eskimo, Polar Inuit, Thule Inuit]
 population: 57000
 country_id: GL
 country_name: Greenland
+area: Inuit language spoken in Greenland
 status_id: "1"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: gnw
 macrolanguage_id: grn
 name: Western Bolivian Guaraní
 autonym: " Simba Guarani"
-alt_names: [Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Chiriguano, GuaraSimba, Guarani, Guarani de Bolivie, Guaraní, Guaraní boliviano, Guaraní language area, "Guaraní, Western Bolivian", Simba, Simba Guaraní, Western Bolivian Guarani]
+alt_names: [Ava, Ava-guarani, Avá-guaraní, Bolivian Guaraní, Chiriguano, GuaraSimba, Guarani, Guarani de Bolivie, Guaraní, Guaraní boliviano, Guaraní language area, "Guaraní, Western Bolivian", Simba, Simba Guaraní, Western Bolivian Guarani, Western Bolivian]
 population: 7000
 country_id: BO
 country_name: Bolivia
+location: Bolivia
+area: Language of Bolivia
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mfy
 name: Mayo
 autonym: Yorem Noki
-alt_names: [Cahita, Kahita, Yaqui-Mayo, Yorem simi]
+alt_names: [Cahita, Kahita, Yaqui-Mayo, Yorem simi, Yorem nokpo]
 population: 100000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language of the Americas
 status_id: "5"
 scope: individual
 language_type: living

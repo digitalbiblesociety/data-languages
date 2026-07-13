@@ -2,15 +2,18 @@
 iso: bew
 name: Betawi
 autonym: " بهاس بتاوي"
-alt_names: [Batavi, Batawi, Betawi Malay, Jakarta Malay, Malay (Jakarta), Melayu Betawi, Melayu Jakarte]
+alt_names: [Batavi, Batawi, Betawi Malay, Jakarta Malay, Malay (Jakarta), Melayu Betawi, Melayu Jakarte, Anak Betawi, Batavian, Orang Betawi]
 population: 6800000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: "Austronesian language spoken in Jakarta, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -6.21174
 longitude: 107.02181
+language_map_img: bew.webp
 scripts: [Latn]
 glottocode: beta1252
 glottolog_family_id: aust1307

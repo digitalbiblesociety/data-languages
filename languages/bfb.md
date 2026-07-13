@@ -2,10 +2,12 @@
 iso: bfb
 name: Pauri Bareli
 autonym: Bareli
-alt_names: ["Bareli, Pauri", Barewali, Barli]
+alt_names: ["Bareli, Pauri", Barewali, Barli, Bareli Pawri]
 population: 991000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: gng
 name: Ngangam
 autonym: Gulimancema
-alt_names: [Dye, Gamgan, Gangam, Gangum, Gbanyang, Migangam, Mijiem, Nbangam, Ngangan, Ngãngã]
+alt_names: [Dye, Gamgan, Gangam, Gangum, Gbanyang, Migangam, Mijiem, Nbangam, Ngangan, Ngãngã, Gando, Koumongou, Miganganm, Mogou, Motiem]
 population: 217400
 country_id: TG
 country_name: Togo
+location: Benin
+area: Gur language spoken in Togo and Benin
 status_id: "5"
 scope: individual
 language_type: living

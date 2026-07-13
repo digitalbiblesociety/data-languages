@@ -2,15 +2,17 @@
 iso: scn
 name: Sicilian
 autonym: sicilianu
-alt_names: [Calabro-Sicilian, Luenga siciliana, Shisslish, Siciliaans, Siciliano, Siciliansk, Sicilianska, Sicilien, Sicilis, Sicilià, Sicilyaca, Siculu, Siziliera, Sî-sî-lî-ngî, Sîcîlyanî, סיציליאנית, سىتسىلىيە تىلى]
+alt_names: [Calabro-Sicilian, Luenga siciliana, Shisslish, Siciliaans, Siciliano, Siciliansk, Sicilianska, Sicilien, Sicilis, Sicilià, Sicilyaca, Siculu, Siziliera, Sî-sî-lî-ngî, Sîcîlyanî, סיציליאנית, سىتسىلىيە تىلى, Central Metafonetica, Central-Western Agrigentino, Eastern Nonmetafonetica, Isole Eolie, Messinese, Palermo, Pantesco, Southeast Metafonetica, Southern Calabro, Trapani, Western Sicilian]
 population: 4700000
 country_id: IT
 country_name: Italy
+area: Language of Sicily and its satellite islands
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 37.57354
 longitude: 14.04144
+language_map_img: Idioma_siciliano.webp
 scripts: [Latn]
 glottocode: sici1248
 glottolog_family_id: indo1319

@@ -5,9 +5,12 @@ autonym: null
 population: 20000
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: 6b
 scope: individual
 language_type: living
+glottocode: kumb1267
 wikidata_id: Q16878146
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumbaran_language"
 translations:

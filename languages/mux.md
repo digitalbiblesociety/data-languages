@@ -2,10 +2,12 @@
 iso: mux
 name: "Bo-Ung"
 autonym: Tembagla
-alt_names: [Mbo-Ung]
+alt_names: [Mbo-Ung, Bo-Ung (Mara-Gomu), Mboung, Tembalo, Ku Waru, Mara-Gomu, Miyem, Miyemu, Tembaglo]
 population: 30000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Hagen language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

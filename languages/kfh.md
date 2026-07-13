@@ -2,10 +2,12 @@
 iso: kfh
 name: Kurichiya
 autonym: Kowohans
-alt_names: [Kurichchia, Kurichia, Kurichiyars, Kuruchans]
+alt_names: [Kurichchia, Kurichia, Kurichiyars, Kuruchans, Kurichchan]
 population: 29400
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Southern Dravidian language of India
 status_id: 6b
 scope: individual
 language_type: living

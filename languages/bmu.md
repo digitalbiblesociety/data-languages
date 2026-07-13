@@ -2,10 +2,12 @@
 iso: bmu
 name: "Somba-Siawari"
 autonym: Mindik
-alt_names: [Bulum, Burum, Burum-Mindik, Burumana, Yaknge]
+alt_names: [Bulum, Burum, Burum-Mindik, Burumana, Yaknge, Siawari, Somba]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Huon language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

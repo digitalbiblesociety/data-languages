@@ -6,11 +6,14 @@ alt_names: [Choyi, Choyo, Zhaba, 卻隅話]
 population: 7000
 country_id: CN
 country_name: China
+location: China
+area: Qiangic language spoken in China and Tibet
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 30.31133
 longitude: 100.8126
+language_map_img: 500px-Choyo_language.webp
 glottocode: quey1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

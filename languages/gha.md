@@ -6,6 +6,8 @@ alt_names: [Gadamés, Ghadames]
 population: 10000
 country_id: LY
 country_name: Libya
+location: Egypt and Libya
+area: Berber language spoken in Libya
 status_id: 6b
 scope: individual
 language_type: living

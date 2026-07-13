@@ -2,10 +2,12 @@
 iso: atd
 name: Ata Manobo
 autonym: Ata Manobo
-alt_names: [Ata of Davao, Atao Manobo, Langilan, "Manobo, Ata"]
+alt_names: [Ata of Davao, Atao Manobo, Langilan, "Manobo, Ata", Manobo, Ata, Minanobo]
 population: 22700
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

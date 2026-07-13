@@ -6,6 +6,8 @@ alt_names: ["\"Mekeyer\"", "\"Mikair\"", "\"Mikeyir\"", Mekeyer, Mikair, Mikeyir
 population: 400
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Language of southwestern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

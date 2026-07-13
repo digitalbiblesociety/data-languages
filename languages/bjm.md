@@ -6,6 +6,7 @@ alt_names: [Bajalani, Bajoran, Bejwan, Chichamachu, Gurani, Hawrami]
 population: 20000
 country_id: IQ
 country_name: Iraq
+area: Group of Kurdish dialects
 status_id: "7"
 scope: individual
 language_type: living

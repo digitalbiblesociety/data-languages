@@ -2,10 +2,12 @@
 iso: tsb
 name: Tsamai
 autonym: Tsamako
-alt_names: ["Bago S'aamakk-Ulo", Cule, Kuile, Kule, "S'amai", Tamaha, "Ts'amakko", "Ts'amay", Tsamai hizkuntza, Tsamakko, Tsamay, Tsemay]
+alt_names: ["Bago S'aamakk-Ulo", Cule, Kuile, Kule, "S'amai", Tamaha, "Ts'amakko", "Ts'amay", Tsamai hizkuntza, Tsamakko, Tsamay, Tsemay, Bago S’aamakk-Ulo, S’amai, Ts’amay, "Bago Ts'amakkilo"]
 population: 18000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afroasiatic language
 status_id: 6a
 scope: individual
 language_type: living

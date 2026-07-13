@@ -3,15 +3,18 @@ iso: pan
 iso639_1: pa
 name: Panjabi
 autonym: ਪੰਜਾਬੀ
-alt_names: [Eastern Panjabi, Gurmukhi, Gurumukhi, Pandschabi, "Panjabi, Eastern", Punjabi, pendjabi]
+alt_names: [Eastern Panjabi, Gurmukhi, Gurumukhi, Pandschabi, "Panjabi, Eastern", Punjabi, pendjabi, پنجابی, Bathi, Bhatiani, Bhatneri, Bhatti, Bhatyiana, Doabi, Majhi, Malwa, Malwai, Panjabi Proper, Powadhi, Puadhi, Puadi, Punjabi Proper, Eastern Punjabi]
 population: 80500000
 country_id: IN
 country_name: India
+location: "India: Index Map"
+area: Indo-Aryan language native to the Punjab
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 30.036762
 longitude: 75.670166
+language_map_img: pan.webp
 scripts: [Arab, Guru]
 glottocode: panj1256
 glottolog_family_id: indo1319

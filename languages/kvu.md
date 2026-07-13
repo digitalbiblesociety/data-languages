@@ -6,6 +6,8 @@ alt_names: ["Karen, Yinbaw", "Karen,Yinbaw", Yinbaw]
 population: 7300
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 因巴旺卡伦语
     auto: true
 ---
+Geko is a Karen language of Burma. Yinbaw is reportedly a variety. Speakers of Geko and Yinbaw are ethnically Kayan, as are speakers of Lahta and Padaung.

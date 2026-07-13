@@ -2,9 +2,11 @@
 iso: eth
 name: Ethiopian Sign Language
 autonym: null
+alt_names: [ETH, ETSL]
 population: 250000
 country_id: ET
 country_name: Ethiopia
+area: Deaf sign language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Algan, Galban, Mimungkum, Ngadara, Wik, Wik Alkan, Wik Alkanha, Wik 
 population: 86
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Paman language of Queensland, Australia"
 status_id: "7"
 scope: individual
 language_type: living

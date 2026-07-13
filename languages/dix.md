@@ -6,6 +6,8 @@ alt_names: [Aveteian]
 population: 50
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Endangered Oceanic language of Vanuatu
 status_id: "7"
 scope: individual
 language_type: living

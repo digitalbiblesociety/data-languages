@@ -2,10 +2,12 @@
 iso: pgu
 name: Pagu
 autonym: Pago
-alt_names: [Pagoe]
+alt_names: [Pagoe, Isam, Toliliko, Toliwiku]
 population: 3310
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living

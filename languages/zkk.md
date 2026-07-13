@@ -5,11 +5,13 @@ autonym: Keles
 population: null
 country_id: US
 country_name: United States
+area: Extinct language of North America
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 28.908168
 longitude: -96.485596
+language_map_img: 500px-Karankawa_lang.webp
 glottocode: kara1289
 wikidata_id: Q3192947
 wikipedia_url: "https://en.wikipedia.org/wiki/Karankawa_language"

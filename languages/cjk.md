@@ -2,10 +2,12 @@
 iso: cjk
 name: Chokwe
 autonym: Ucôkwe (Wuchokwe)
-alt_names: [Ciokwe, Cokwe, Djok, Imo, Kioko, Quioco, Shioko, Tschiokloe, Tschiokwe, Tshokwe]
+alt_names: [Ciokwe, Cokwe, Djok, Imo, Kioko, Quioco, Shioko, Tschiokloe, Tschiokwe, Tshokwe, Chokwe (Angola), Minungo, Ukhongo, Ulanda]
 population: 2491700
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language spoken by the Chokwe people
 status_id: "3"
 scope: individual
 language_type: living

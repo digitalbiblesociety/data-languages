@@ -6,6 +6,8 @@ alt_names: [Basanga, Dosanga, Uyanga]
 population: 200
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Cross River language spoken in Nigeria
 status_id: 6b
 scope: individual
 language_type: living

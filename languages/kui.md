@@ -2,10 +2,12 @@
 iso: kui
 name: "Kuikúro-Kalapálo"
 autonym: "Kuikúro-Kalapálo"
-alt_names: [Amonap, Apalakiri, Apalaquiri, Cuicutl, Guicurú, Kalapalo, Kuikuro, Kuikuro-Kalapalo, Kuikuru, Kuikúru, Kurkuro, Matipu]
+alt_names: [Amonap, Apalakiri, Apalaquiri, Cuicutl, Guicurú, Kalapalo, Kuikuro, Kuikuro-Kalapalo, Kuikuru, Kuikúru, Kurkuro, Matipu, Calapalu, Cuicuro, Kikuro, Kuikúro, Matipú, Mogareb, Nahukwá]
 population: 1110
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Cariban language spken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

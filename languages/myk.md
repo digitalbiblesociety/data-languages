@@ -2,15 +2,18 @@
 iso: myk
 name: Mamara Senoufo
 autonym: Mamara
-alt_names: [Mianka, Minianka, Miniyanka, Minya, Minyanka, "Senoufo, Mamara", Tupiire]
+alt_names: [Mianka, Minianka, Miniyanka, Minya, Minyanka, "Senoufo, Mamara", Tupiire, Bamaraga, Bàjii, Kle Noehmõ, Koloo, Kujaa, Mamaara, Mìjuu, Nafãã, Nejuu, Suõõ, Sénoufo, Sõghoo]
 population: 738000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
+area: Senufo language spoken in Mali
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 12.48714
 longitude: -5.28245
+language_map_img: 500px-Mamara_language.webp
 glottocode: mama1271
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

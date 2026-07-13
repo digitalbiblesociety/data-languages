@@ -2,10 +2,12 @@
 iso: lha
 name: Laha
 autonym: Khlá
-alt_names: [Khlá Don, Khlá Dung, Khlá Liik, Khlá Phlao, Klá Dong, La Ha, La Ha Ung, Laha, Laha (Lào Cai), Laha (Son La), Laha (Vietnam), Laxa, Xá Chien, Xá Khao, Xá Lay]
+alt_names: [Khlá Don, Khlá Dung, Khlá Liik, Khlá Phlao, Klá Dong, La Ha, La Ha Ung, Laha, Laha (Lào Cai), Laha (Son La), Laha (Vietnam), Laxa, Xá Chien, Xá Khao, Xá Lay, Liik]
 population: 5690
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: Kra–Dai language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

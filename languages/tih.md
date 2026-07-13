@@ -2,10 +2,12 @@
 iso: tih
 name: Timugon Murut
 autonym: Temogun
-alt_names: [Murut, "Murut, Timugon", Tenom Murut, Timigan, Timigun, Timogon, Timogun, Timugon, Tumugun]
+alt_names: [Murut, "Murut, Timugon", Tenom Murut, Timigan, Timigun, Timogon, Timogun, Timugon, Tumugun, Beaufort Murut, "Binta'", Bukau, Bukow, Dabugus, Kapagalan, Lower Murut, Murut Padas, Poros, Sandewar, Sandiwar]
 population: 9000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Sabah
+area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living

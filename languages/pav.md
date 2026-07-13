@@ -2,15 +2,18 @@
 iso: pav
 name: Pakaásnovos
 autonym: Jaru
-alt_names: [Ituarupa, Jarú, Oro Wari, Oro Win, Orovín, Orowari, Pacaas-Novos, Pacaha-novo, Pacahanovo, Pacas Novas, Pacasnovas, Pakaanova, Pakaanovas, Pakaasnovos, Pakasnovos, Pakaás-novos, Tubarão/ huarí, Txapacura, Txapakura, Uariwayo, Uomo, Urup, Urupá, Urupá-Jarú, Wari, "Wari'", "Wari' (Chapacuva)", Wari’ language, Yaru]
+alt_names: [Ituarupa, Jarú, Oro Wari, Oro Win, Orovín, Orowari, Pacaas-Novos, Pacaha-novo, Pacahanovo, Pacas Novas, Pacasnovas, Pakaanova, Pakaanovas, Pakaasnovos, Pakasnovos, Pakaás-novos, Tubarão/ huarí, Txapacura, Txapakura, Uariwayo, Uomo, Urup, Urupá, Urupá-Jarú, Wari, "Wari'", "Wari' (Chapacuva)", Wari’ language, Yaru, Pacaás Novos, Pakaa Nova]
 population: 1930
 country_id: BR
 country_name: Brazil
+location: Western Central Brazil
+area: Chapacuran language of Brazil and Bolivia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -10.69948
 longitude: -64.56152
+language_map_img: 500px-Chapakuran_languages.webp
 glottocode: wari1268
 glottolog_family_id: chap1271
 glottolog_family_name: Chapacuran

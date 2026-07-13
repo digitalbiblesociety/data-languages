@@ -6,6 +6,8 @@ alt_names: [Woleai, Woleayano]
 population: 1630
 country_id: FM
 country_name: Micronesia
+location: Federated States of Micronesia
+area: "Language in Yap, Micronesia"
 status_id: "5"
 scope: individual
 language_type: living

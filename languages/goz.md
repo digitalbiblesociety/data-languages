@@ -6,6 +6,7 @@ alt_names: [Iran]
 population: null
 country_id: IR
 country_name: Iran
+area: Moribund Iranian language of Iran
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Kalamang-mang, Karas Laut (Seaside Karas)]
 population: 240
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Berau Gulf language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living

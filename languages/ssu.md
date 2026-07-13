@@ -5,6 +5,8 @@ autonym: null
 population: 10
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Endangered Papuan language
 status_id: 8b
 scope: individual
 language_type: living

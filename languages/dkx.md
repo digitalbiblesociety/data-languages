@@ -2,10 +2,12 @@
 iso: dkx
 name: Mazagway
 autonym: "Mazagway-Hidi"
-alt_names: [Daba]
+alt_names: [Daba, Daba-Kola, Daba-Mousgoy, Kola, Kpala, Madama, Musgoi, Musgoy]
 population: 17000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Chadic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

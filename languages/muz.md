@@ -6,6 +6,8 @@ alt_names: [Merdu, Meritu, Murzi, Murzu]
 population: 3155
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Surmic language spoken by Mursi people in southwestern Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Comox Cluster, Comox-Sliammon, Comox/sliammon, Comux, Cómox, Mainla
 population: 400
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Endangered Salishan language spoken in British Columbia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 49.72325
 longitude: -124.96678
+language_map_img: Coast_Salish_language_map.svg
 glottocode: como1259
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

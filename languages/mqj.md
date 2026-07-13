@@ -2,10 +2,12 @@
 iso: mqj
 name: Mamasa
 autonym: null
-alt_names: [Nordost-Celebes]
+alt_names: [Nordost-Celebes, Binuang, Binuang-Paki-Batetanga-Anteapi, Central Mamasa, Mamasa Toraja, Northern Mamasa, "Patta' Binuang", "Pattae'", Southern Mamasa, "Tae'"]
 population: 89100
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living

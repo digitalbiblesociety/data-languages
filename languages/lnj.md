@@ -6,6 +6,7 @@ alt_names: [Adetingiti, Andyinit, Cabati, Ladamngid, Laini ngitti, Laini-ngitti,
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Paman language of Australia
 status_id: "10"
 scope: individual
 language_type: extinct

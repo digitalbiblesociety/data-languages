@@ -2,10 +2,12 @@
 iso: izr
 name: Izere
 autonym: Afusare
-alt_names: [Afizare, Afizarek, Feserek, Fezere, Fizere, Hill Jarawa, Izarek, Jarawa, Jarawan Dutse, Jari, Jos-Zarazon]
+alt_names: [Afizare, Afizarek, Feserek, Fezere, Fizere, Hill Jarawa, Izarek, Jarawa, Jarawan Dutse, Jari, Jos-Zarazon, Afizere, Afudelek, Fedare, Fobor, Fobur, Fursom, Fursum, Ibor, Ifudere, Iganang, Ikyo, Isum, Izer, Zandi, Zendi]
 population: 50000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Dialect continuum of Plateau languages in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

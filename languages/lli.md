@@ -5,6 +5,8 @@ autonym: Ilaali
 population: 2100
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu dialect continuum of Central Africa
 status_id: 6b
 scope: individual
 language_type: living
@@ -51,3 +53,4 @@ translations:
     name: 特克-拉阿利语
     auto: true
 ---
+West Teke is a Bantu language spoken in the Republic of Congo and Gabon.

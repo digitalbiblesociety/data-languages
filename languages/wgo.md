@@ -6,6 +6,8 @@ alt_names: [Ambel, Amber, Amberi, Waigiu]
 population: 300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

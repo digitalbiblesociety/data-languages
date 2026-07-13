@@ -2,10 +2,12 @@
 iso: nuv
 name: Northern Nuni
 autonym: Nunuma
-alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, Nuni (Northern), "Nuni, Northern", Nuruma]
+alt_names: [Nibulu, Nouni, Nounouma, Nuna, Nune, Nuni, Nuni (Northern), "Nuni, Northern", Nuruma, Northeastern Nuni, Northwestern Nuni]
 population: 15000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language continuum of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: BF
     location: Burkina Faso
 ---
+Nuni is the Gur language continuum of the Nuna people of Burkina Faso. The northern and southern varieties are not mutually intelligible.

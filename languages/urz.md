@@ -6,6 +6,8 @@ alt_names: [Eru-Eu-Wau-Wau, Kagwahiva, Uru-Eu-Uau-Uau, Uruewauwau, Uruewawau, Ur
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Tupi-Guarani language cluster of Brazil
 status_id: 6b
 scope: individual
 language_type: living

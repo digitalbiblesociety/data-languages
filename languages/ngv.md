@@ -6,6 +6,7 @@ alt_names: [Bama, Mbama]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Extinct language of Cameroon
 status_id: "10"
 scope: individual
 language_type: extinct

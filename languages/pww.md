@@ -2,10 +2,12 @@
 iso: pww
 name: Pwo Northern Karen
 autonym: "Karen Pwo, Northern"
-alt_names: [Karen, "Karen, Pwo Northern", "Karen,PwoNorthern", Phlon, Phlong, Pho (Pwo), Pwo Karen, Pwo Northern]
+alt_names: [Karen, "Karen, Pwo Northern", "Karen,PwoNorthern", Phlon, Phlong, Pho (Pwo), Pwo Karen, Pwo Northern, Karen Pwo, Northern, Hod, Northern Karen Pwo, Mae Ping, Mae Sarieng, Omkoi]
 population: 60000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Karen language of Thailand
 status_id: "5"
 scope: individual
 language_type: living

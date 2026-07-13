@@ -6,6 +6,8 @@ alt_names: [Bele, Bellawa, Àbéélé]
 population: 120
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Afro-Asiatic language spoken in Nigeria
 status_id: 6b
 scope: individual
 language_type: living

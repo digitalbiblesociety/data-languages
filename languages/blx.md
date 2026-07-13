@@ -2,10 +2,12 @@
 iso: blx
 name: "Mag-Indi Ayta"
 autonym: "Mag-indi"
-alt_names: ["Ayta, Mag-Indi", Baloga, Biloxi, Indi Ayta, Mag-Indi Sambal]
+alt_names: ["Ayta, Mag-Indi", Baloga, Biloxi, Indi Ayta, Mag-Indi Sambal, Baluga, Ayta, Ayta Mag-Indi, Indi]
 population: 5000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

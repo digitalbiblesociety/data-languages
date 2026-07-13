@@ -6,6 +6,8 @@ alt_names: [Alabama-koasati, Alabamaeg, Alibamu]
 population: 100
 country_id: US
 country_name: United States
+location: Southeastern United States of America
+area: "Muskogean Language spoken in Texas, US"
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bfp
 name: Beba
 autonym: Babadji
-alt_names: ["Baba'zhi", Batadji, Bazhi, "Beba'", Bebadji, Biba, Bombe, Mubadji, Shishong]
+alt_names: ["Baba'zhi", Batadji, Bazhi, "Beba'", Bebadji, Biba, Bombe, Mubadji, Shishong, Baba’zhi, Beba’]
 population: 3000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living

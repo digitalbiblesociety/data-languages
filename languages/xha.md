@@ -45,3 +45,4 @@ translations:
     name: 哈拉米语
     auto: true
 ---
+The Minaean language was an Old South Arabian or Ṣayhadic language spoken in Yemen in the times of the Old South Arabian civilisation. The main area of its use may be located in the Al Jawf region of North-East Yemen, primarily in the Wādī Madhāb. Most of texts in this language were composed by the Minaeans, but the other civil-temple communities of the Wādī Madhāb also used it as a literary medium.

@@ -6,6 +6,8 @@ alt_names: [Agarinman, Airiman, Bilinara, Engarinmán, Hainman, Hairiman, Heinem
 population: 170
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "7"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: AU
     location: Australia
 ---
+Gurindji is a Pama–Nyungan language spoken by the Gurindji and Ngarinyman people in the Northern Territory, Australia. The language of the Gurindji is highly endangered, with about 592 speakers remaining and only 175 of those speakers fully understanding the language. There are in addition about 60 speakers of Ngarinyman dialect. Gurindji Kriol is a mixed language that derives from the Gurindji language.

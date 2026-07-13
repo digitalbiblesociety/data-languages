@@ -6,6 +6,8 @@ alt_names: [Daeng, Môc-Châu, Red Tai, Red Thai, Tai Deng, Tai Rouge, Taidaén,
 population: 105000
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Tai language of Vietnam and Laos
 status_id: 6a
 scope: individual
 language_type: living

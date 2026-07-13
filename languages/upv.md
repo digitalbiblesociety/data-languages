@@ -2,10 +2,12 @@
 iso: upv
 name: "Uripiv-Wala-Rano-Atchin"
 autonym: "Uripiv-Wala-Rano-Atchin"
-alt_names: [Atchin, Malekula, Mallicolo, Uripiv language]
+alt_names: [Atchin, Malekula, Mallicolo, Uripiv language, Northeast Malakula, Uripiv, Nale, Tirax, Wala-Rano]
 population: 9000
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Oceanic language spoken on Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: oue
 name: Oune
 autonym: Ounge
-alt_names: [Dapera]
+alt_names: [Dapera, Eivo 3]
 population: 1000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: South Bougainville language
 status_id: 6a
 scope: individual
 language_type: living

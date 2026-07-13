@@ -6,11 +6,14 @@ alt_names: ["Ba:gandji", "Ba:gundji", Baagandji, Baagandji (Southern), Baagandyi
 population: 110
 country_id: AU
 country_name: Australia
+location: Australia
+area: "Aboriginal language in New South Wales, Australia"
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -32.70212
 longitude: 142.69519
+language_map_img: 500px-Darling_language.png
 glottocode: darl1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

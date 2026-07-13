@@ -2,10 +2,12 @@
 iso: tvm
 name: "Tela-Masbuar"
 autonym: "Tela-Masbuar"
-alt_names: [Masbuar-Tela, "Tela'a"]
+alt_names: [Masbuar-Tela, "Tela'a", Tela’a, Tela-Masbaur]
 population: 1050
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Yeu, Yoe]
 population: 200
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Language of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 14.88168
 longitude: 104.33042
+language_map_img: 500px-Kuy_language.webp
 glottocode: nyeu1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
@@ -53,3 +56,4 @@ translations:
     name: 尼欧语
     auto: true
 ---
+Kuy, also known as Kui, Suay or Kuay, is a Katuic language, part of the larger Austroasiatic family spoken by the Kuy people of Southeast Asia.

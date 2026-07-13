@@ -3,10 +3,12 @@ iso: dhd
 macrolanguage_id: mwr
 name: Dhundari
 autonym: ढूंढाड़ी
-alt_names: [Dhundari-Marwari, Jaipuri]
+alt_names: [Dhundari-Marwari, Jaipuri, Dhundhari, Jhar-sahi boli, Kai kui ki boli, Marwari]
 population: 1480000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

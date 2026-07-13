@@ -2,10 +2,12 @@
 iso: pic
 name: Pinji
 autonym: Pinji
-alt_names: [Apindje, Apindji, Apinji, Gapinji]
+alt_names: [Apindje, Apindji, Apinji, Gapinji, Apindzi, Ghepinzi, Pinzi]
 population: 5000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language of Gabon
 status_id: 6a
 scope: individual
 language_type: living

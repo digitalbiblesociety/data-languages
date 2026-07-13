@@ -2,10 +2,12 @@
 iso: cou
 name: Wamey
 autonym: Konyagi
-alt_names: [Cogniagui, Conhague, Coniagui, Koniagi, Koniagui, Tenda, Wamay, Wamei]
+alt_names: [Cogniagui, Conhague, Coniagui, Koniagi, Koniagui, Tenda, Wamay, Wamei, Wey]
 population: 50200
 country_id: SN
 country_name: Senegal
+location: Guinea and Guinea-Bissau
+area: Senegambian language spoken in West Africa
 status_id: 6b
 scope: individual
 language_type: living

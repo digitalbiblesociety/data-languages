@@ -2,10 +2,12 @@
 iso: zay
 name: "Zayse-Zergulla"
 autonym: Zaisse
-alt_names: [Zayse, Zaysete, Zaysse, Zaysé, Zaysé-Zergulla, Zeyse]
+alt_names: [Zayse, Zaysete, Zaysse, Zaysé, Zaysé-Zergulla, Zeyse, Zaysitè, Zergula, Korisadam, Zagisite, Zargulla, Zaysinya, Zergulla, Zergullinya, Zeyese]
 population: 18500
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic language of Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

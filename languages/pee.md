@@ -2,9 +2,12 @@
 iso: pee
 name: Taje
 autonym: Petapa
+alt_names: [Andje]
 population: 350
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken on Sulawesi, Indonesia"
 status_id: 8b
 scope: individual
 language_type: living

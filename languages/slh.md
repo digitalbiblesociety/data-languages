@@ -6,11 +6,14 @@ alt_names: [Salish (Southern Puget Sound), "Salish, Southern Puget Sound"]
 population: 1315
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Southernmost dialect of the Lushootseed language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 47.26303
 longitude: -122.14073
+language_map_img: 500px-Lushootseed_area.webp
 glottocode: sout2965
 glottolog_family_id: sali1255
 glottolog_family_name: Salishan

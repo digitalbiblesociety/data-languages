@@ -2,10 +2,12 @@
 iso: num
 name: "Niuafo'ou"
 autonym: Niuafo’ou
-alt_names: [Tonga, Ниуафооу]
+alt_names: [Tonga, Ниуафооу, Niuafoꞌou]
 population: 690
 country_id: TO
 country_name: Tonga
+location: Tonga
+area: "Language of Tonga's northernmost island"
 status_id: "7"
 scope: individual
 language_type: living

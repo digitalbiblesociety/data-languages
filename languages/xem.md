@@ -2,10 +2,12 @@
 iso: xem
 name: Kembayan
 autonym: Mateq
-alt_names: [Indonesia]
+alt_names: [Indonesia, Karambai]
 population: 11000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Dayak language spoken on Borneo
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: lji
 name: Laiyolo
 autonym: "Barang-Barang"
-alt_names: ["Da'ang"]
+alt_names: ["Da'ang", Da’ang]
 population: 250
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Celebic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

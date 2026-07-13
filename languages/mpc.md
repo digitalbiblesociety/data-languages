@@ -6,6 +6,8 @@ alt_names: [Alawic, MaNrayi, Mangaraian Family, Mangarayi, Mangarayic, Mangarei,
 population: null
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living

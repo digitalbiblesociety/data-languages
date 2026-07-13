@@ -2,10 +2,12 @@
 iso: kfr
 name: Kachhi
 autonym: કચ્છી
-alt_names: [Cuchi, Cutch, Cutchi, Kacchi, Kachchhi, Kachchi, Kachi, Katch, Katchi, Kautchy, Koutcheg, Kutchchi, Kutchi, Kutchi language, Kutchie, کچھی]
+alt_names: [Cuchi, Cutch, Cutchi, Kacchi, Kachchhi, Kachchi, Kachi, Katch, Katchi, Kautchy, Koutcheg, Kutchchi, Kutchi, Kutchi language, Kutchie, کچھی, Jadeji]
 population: 1093000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Indo-Aryan language spoken in India and Pakistan
 status_id: 6a
 scope: individual
 language_type: living

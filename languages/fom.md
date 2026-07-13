@@ -2,14 +2,18 @@
 iso: fom
 name: Foma
 autonym: Lokele
+alt_names: [Fuma, Lifoma]
 population: 13000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 0.88032
 longitude: 24.32023
+glottocode: foma1238
 wikidata_id: Q5464911
 wikipedia_url: "https://en.wikipedia.org/wiki/Foma_language"
 translations:

@@ -2,9 +2,11 @@
 iso: gse
 name: Ghanaian Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
+alt_names: [GHSL, GSL]
 population: 152000
 country_id: GH
 country_name: Ghana
+area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living

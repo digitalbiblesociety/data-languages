@@ -2,10 +2,11 @@
 iso: elo
 name: El Molo
 autonym: Dehes
-alt_names: ["\"Ndorobo\"", El Molo hizkuntza, Elmolo, Emolo, Fura-Pawa, Ldes]
+alt_names: ["\"Ndorobo\"", El Molo hizkuntza, Elmolo, Emolo, Fura-Pawa, Ldes, “Ndorobo”]
 population: 700
 country_id: KE
 country_name: Kenya
+area: Cushitic language of Kenya
 status_id: 8b
 scope: individual
 language_type: living

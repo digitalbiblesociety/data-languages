@@ -6,11 +6,14 @@ alt_names: [Mor]
 population: 30
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northwestern Papua"
+area: Papuan language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -2.85747
 longitude: 132.84543
+language_map_img: Mor_language.svg
 glottocode: morb1239
 wikidata_id: Q11732468
 wikipedia_url: "https://en.wikipedia.org/wiki/Mor_language_(Papuan)"

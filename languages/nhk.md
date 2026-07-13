@@ -6,6 +6,8 @@ alt_names: [Cosoleacaque Aztec, Isthmus, Mexicano, Nahua de Tabasco, Nahuatl, "N
 population: 5140
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Nahuatl dialect cluster of Veracruz, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 地峡纳瓦特尔语
     auto: true
 ---
+Isthmus Nahuatl is a Nahuatl dialect cluster spoken by about 30,000 people in Veracruz, Mexico. According to Ethnologue 16, the Cosoleacaque dialect is 84% intelligible with Pajapan, and 83% intelligible with Mecayapan.

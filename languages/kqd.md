@@ -6,6 +6,8 @@ alt_names: [Koi Sanjaq Soorit, Koi-Sanjaq Sooret, Koy Sanjaq Sooret, Koy Sanjaq 
 population: 900
 country_id: IQ
 country_name: Iraq
+location: Iraq
+area: Variety of Northeastern Neo-Aramaic
 status_id: 6a
 scope: individual
 language_type: living

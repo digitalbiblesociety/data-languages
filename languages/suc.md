@@ -2,10 +2,12 @@
 iso: suc
 name: Western Subanon
 autonym: Subanon
-alt_names: [Siocon, "Subanon, Western"]
+alt_names: [Siocon, "Subanon, Western", Western Kalibugan, Western Kolibugan]
 population: 125000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken on the Philippines
 status_id: "4"
 scope: individual
 language_type: living

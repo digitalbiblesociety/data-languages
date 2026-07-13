@@ -3,10 +3,12 @@ iso: pst
 macrolanguage_id: pus
 name: Central Pashto
 autonym: Mahsudi
-alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari]
+alt_names: [Pakhto, Pashto, "Pashto, Central", Peshwari, Bannochi, Bannu, Bannuchi, Waciri, Waziri]
 population: 6520000
 country_id: PK
 country_name: Pakistan
+location: Southern Pakistan
+area: Variety of the Pashto language
 status_id: 6a
 scope: individual
 language_type: living

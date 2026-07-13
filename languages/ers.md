@@ -2,15 +2,18 @@
 iso: ers
 name: Ersu
 autonym: "Bu'erci"
-alt_names: [Duoxu, Erhsu, Ersoueg]
+alt_names: [Duoxu, Erhsu, Ersoueg, Bu’erci, Bu’erzi, Bu’erzi Ersu, Doxu, Lizu, Lusu, T’osu]
 population: 20000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Qiangic language cluster of China
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 29.28674
 longitude: 102.21339
+language_map_img: 500px-Ersuic_map.webp
 glottocode: ersu1241
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

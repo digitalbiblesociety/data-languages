@@ -2,15 +2,18 @@
 iso: jao
 name: Yanyuwa
 autonym: Aniula
-alt_names: [Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumbant, Iangkala, Janjula, Leanawa, Leeanuwa, Njangga, Njangkala, Unalla, Wadere, Waderi, Wadiri, Yangala, Yanula, Yanular, Yanyula, Yuggamurra]
+alt_names: [Anjula, Anula, Anuwa, Anyoola, Anyula, Anyuwa, Djirukurumbant, Iangkala, Janjula, Leanawa, Leeanuwa, Njangga, Njangkala, Unalla, Wadere, Waderi, Wadiri, Yangala, Yanula, Yanular, Yanyula, Yuggamurra, Yanuwa]
 population: 113
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Pama–Nyungan language of northern Australia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -15.76212
 longitude: 136.05506
+language_map_img: 500px-Macro-Pama-Nyungan_languages.webp
 glottocode: yany1243
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

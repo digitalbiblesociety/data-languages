@@ -2,10 +2,12 @@
 iso: lla
 name: "Lala-Roba"
 autonym: Gworam
-alt_names: [Roba]
+alt_names: [Roba, Ebode, Lala, Lalla, Robba]
 population: 46000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Adamawa language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

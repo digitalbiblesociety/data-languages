@@ -6,6 +6,8 @@ alt_names: [Pagei]
 population: 2140
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living

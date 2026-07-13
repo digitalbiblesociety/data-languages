@@ -6,6 +6,8 @@ alt_names: [Sobei]
 population: 320
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Austronesian language of Indonesia
 status_id: 8a
 scope: individual
 language_type: living

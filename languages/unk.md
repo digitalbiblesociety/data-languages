@@ -6,6 +6,8 @@ alt_names: [Enawene Nawe language, Enawene-Nawe, Enawenê-nawê, Eneuene-Mare, S
 population: 320
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Arawakan language of Brazil
 status_id: "5"
 scope: individual
 language_type: living

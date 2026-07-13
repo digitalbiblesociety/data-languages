@@ -2,9 +2,11 @@
 iso: tsq
 name: Thai Sign Language
 autonym: ภาษามือไทย
+alt_names: [MSTSL, Modern Standard Thai Sign Language, TSL, ThSL]
 population: 200000
 country_id: TH
 country_name: Thailand
+area: National sign language of Thailand
 status_id: "5"
 scope: individual
 language_type: living

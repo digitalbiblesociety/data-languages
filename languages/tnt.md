@@ -2,10 +2,12 @@
 iso: tnt
 name: Tontemboan
 autonym: Pakewa
-alt_names: [Tompakewa, Tountemboan]
+alt_names: [Tompakewa, Tountemboan, "Makela'i-Maotow", Makelai, "Matana'i-Maore'", Matanai, Sonder, Tompaso]
 population: 14860
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

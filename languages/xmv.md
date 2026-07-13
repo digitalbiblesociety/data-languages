@@ -3,10 +3,12 @@ iso: xmv
 macrolanguage_id: mlg
 name: Antankarana Malagasy
 autonym: malagasy
-alt_names: ["Malagasy, Antankarana", "Malagasy, Tankarana", Tankarana, Tankarana Malagasy]
+alt_names: ["Malagasy, Antankarana", "Malagasy, Tankarana", Tankarana, Tankarana Malagasy, Antakarana, Antakarana Malagasy, Antekarana, Antekarana Malagasy]
 population: 156000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living

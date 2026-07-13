@@ -2,9 +2,12 @@
 iso: wno
 name: Wano
 autonym: Waano
+alt_names: [Central Wano, East Wano, West Wano]
 population: 7000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living

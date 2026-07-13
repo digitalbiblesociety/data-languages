@@ -6,11 +6,13 @@ alt_names: [Coahuiltec, Coahuiltec Indijanci, Coahuiltecan, Coahuiltecan Family,
 population: null
 country_id: MX
 country_name: Mexico
+area: Extinct Pakawan language of Texas and Mexico
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 28.258909
 longitude: -97.890015
+language_map_img: 500px-Coahuilteco_lang.webp
 glottocode: coah1252
 wikidata_id: Q2008062
 wikipedia_url: "https://en.wikipedia.org/wiki/Coahuilteco_language"

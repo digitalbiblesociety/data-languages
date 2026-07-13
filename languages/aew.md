@@ -6,6 +6,8 @@ alt_names: [Aion, Porapora]
 population: 1964
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Keram language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

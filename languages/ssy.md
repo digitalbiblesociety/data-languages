@@ -2,10 +2,12 @@
 iso: ssy
 name: Saho
 autonym: Sao
-alt_names: [Saho hizkuntza, Sahoeg, Shaho, Shiho, Shoho, Šoho]
+alt_names: [Saho hizkuntza, Sahoeg, Shaho, Shiho, Shoho, Šoho, Irob, Saaho, Saho-Eritrea]
 population: 275800
 country_id: ER
 country_name: Eritrea
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushitic language spoken in Eritrea and Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

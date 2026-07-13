@@ -5,9 +5,11 @@ autonym: O’chi’chi’
 population: null
 country_id: NG
 country_name: Nigeria
+area: "Extinct Cross River language of Nigeria, Africa"
 status_id: "10"
 scope: individual
 language_type: extinct
+glottocode: ochi1235
 wikidata_id: Q3813833
 wikipedia_url: "https://en.wikipedia.org/wiki/%E1%BB%8Cch%E1%BB%8Bch%E1%BB%8B_language"
 translations:

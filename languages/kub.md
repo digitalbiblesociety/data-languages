@@ -2,10 +2,12 @@
 iso: kub
 name: Kutep
 autonym: Ati
-alt_names: ["\"Jompre\"", Kuteb, Kutev, Mbarike, Zumper]
+alt_names: ["\"Jompre\"", Kuteb, Kutev, Mbarike, Zumper, “Jompre”, Fikyu, Jenuwa, Kentin, Kunabe, Lissam]
 population: 47600
 country_id: NG
 country_name: Nigeria
+location: "Southwestern Cameroon, Enlarged Area"
+area: Language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

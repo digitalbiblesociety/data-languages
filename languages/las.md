@@ -2,10 +2,12 @@
 iso: las
 name: Lama
 autonym: Lamba
-alt_names: [Lama, Losso]
+alt_names: [Lama, Losso, Lamba for Togo, Lamʋ]
 population: 258000
 country_id: TG
 country_name: Togo
+location: Benin
+area: Gur language of Togo and Benin
 status_id: "5"
 scope: individual
 language_type: living

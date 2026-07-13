@@ -3,10 +3,11 @@ iso: yud
 macrolanguage_id: jrb
 name: "Judeo-Tripolitanian Arabic"
 autonym: "Jewish Tripolitanian-Libyan Arabic"
-alt_names: [Arabic, "Arabic, Judeo-Tripolitanian", Judeotripolitanski arapski, "Tripolita'it", Tripolitanian Judeo-Arabic, Yahudi Trablus Arapçası, Yudi, טריפוליטנית]
+alt_names: [Arabic, "Arabic, Judeo-Tripolitanian", Judeotripolitanski arapski, "Tripolita'it", Tripolitanian Judeo-Arabic, Yahudi Trablus Arapçası, Yudi, טריפוליטנית, Tripolita’it]
 population: 43000
 country_id: IL
 country_name: Israel
+area: Judeo-Arabic variety of Libya
 status_id: "7"
 scope: individual
 language_type: living

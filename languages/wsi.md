@@ -6,6 +6,8 @@ alt_names: [Wusi-Kerepua]
 population: 300
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Oceanic language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

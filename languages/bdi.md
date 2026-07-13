@@ -2,10 +2,12 @@
 iso: bdi
 name: Burun
 autonym: Northern Burun
-alt_names: [Barun, Borun, Cai, Lange, Nord-Burun]
+alt_names: [Barun, Borun, Cai, Lange, Nord-Burun, Abuldugu, Bogon, Kurmuk, Maiak, Mopo, Mufwa, Mugaja, Mughaja, Mugo-Mborkoina, Mumughadja, Ragreig]
 population: 18000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilotic language of Sudan
 status_id: "4"
 scope: individual
 language_type: living

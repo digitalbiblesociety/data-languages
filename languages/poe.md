@@ -2,10 +2,12 @@
 iso: poe
 name: San Juan Atzingo Popoloca
 autonym: "Popoloca, San Juan Atzingo"
-alt_names: [Atzingo Popoloca, Chocho-Popoloka, Eastern Popoloca, Eastern Popoloka, Ngigua, Popoloc, Popoloc oriental, Popoloca, Popoloca (San Juan Atzingo Puebla), Popoloca (San Juan Atzingo), Popoloca de San Juan Atzingo, Popoloca del Oriente, Popoloca oriental, San Juan Atzingo, Southern Popoloca]
+alt_names: [Atzingo Popoloca, Chocho-Popoloka, Eastern Popoloca, Eastern Popoloka, Ngigua, Popoloc, Popoloc oriental, Popoloca, Popoloca (San Juan Atzingo Puebla), Popoloca (San Juan Atzingo), Popoloca de San Juan Atzingo, Popoloca del Oriente, Popoloca oriental, San Juan Atzingo, Southern Popoloca, Ngiba, Ngiwa]
 population: 3690
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Popolocan language of Puebla, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,5 @@ translations:
     name: 圣胡安阿特辛戈波波卡语
     auto: true
 ---
+Southern Popoloca is an indigenous language of Puebla state, Mexico. There are two principal varieties, sometimes counted as distinct languages:San Juan Atzingo Popoloca 
+Metzontla Popoloca which are about 75% mutually intelligible.

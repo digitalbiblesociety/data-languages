@@ -2,15 +2,18 @@
 iso: loc
 name: Inonhan
 autonym: Loocnon
-alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language]
+alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language, “Unhan”, Alcantaranon, Bisaya-Inunhan, Bulalakaw, Dispoholnon, Ohnhan]
 population: 85800
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language of the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.28404
 longitude: 122.03037
+language_map_img: 500px-Inonhan_language_map.webp
 glottocode: inon1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -5,6 +5,8 @@ autonym: Gante
 population: 15500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language of India
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: sus
 name: Susu
 autonym: Sosoxi
-alt_names: [Sose, Soso, Soussou, Susoo, Susse, Susu-Yalunka]
+alt_names: [Sose, Soso, Soussou, Susoo, Susse, Susu-Yalunka, Sosoxui]
 population: 2409140
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language
 status_id: "4"
 scope: individual
 language_type: living

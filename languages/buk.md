@@ -2,10 +2,12 @@
 iso: buk
 name: Bugawac
 autonym: null
-alt_names: [Bukaua, Bukawa, Bukawa language, Bukawac, Kawa, Kawac, Yom Gawac]
+alt_names: [Bukaua, Bukawa, Bukawa language, Bukawac, Kawa, Kawac, Yom Gawac, Central Bugawac, Central-Eastern Bugawac, Central-Western Bugawac, Eastern Bugawac, South-Western Bugawac, Western Bugawac]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living

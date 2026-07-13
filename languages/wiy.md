@@ -6,11 +6,13 @@ alt_names: [Kowilth, Weyot, Wishosk, Wishoskan, Wiyoshk, Wiyot-språket, Wiyotan
 population: null
 country_id: US
 country_name: United States
+area: Extinct Algic language of California
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 39.24921
 longitude: -122.95235
+language_map_img: Wiyot_map_with_locator.svg
 glottocode: wiyo1248
 glottolog_family_id: algi1248
 glottolog_family_name: Algic

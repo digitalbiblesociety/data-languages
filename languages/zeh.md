@@ -7,6 +7,8 @@ alt_names: [Chuang, Hongshuihe, Zhuang, Zhuang (Northern), "Zhuang, Eastern Hong
 population: 1200000
 country_id: CN
 country_name: China
+location: Southern China
+area: "Northern Tai language of Guangxi, China"
 status_id: 6a
 scope: individual
 language_type: living

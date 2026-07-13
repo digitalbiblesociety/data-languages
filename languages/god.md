@@ -2,10 +2,12 @@
 iso: god
 name: Godié
 autonym: Godye
-alt_names: [Godie]
+alt_names: [Godie, Cinyaugogo, Dadjriwalé, Dagli, Dlogo, Glibe, Jluko, Kagbo, Koyo, Nugbo, Nyago, Tiglu]
 population: 26400
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living

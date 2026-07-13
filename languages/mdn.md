@@ -6,6 +6,8 @@ alt_names: [Issongo, Lisongo, Lissongo, Songo]
 population: 60000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Bantu language of Central African Republic
 status_id: 6a
 scope: individual
 language_type: living

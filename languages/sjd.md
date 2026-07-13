@@ -2,15 +2,18 @@
 iso: sjd
 name: Kildin Sami
 autonym: "кӣллт са̄мь кӣлл (kiillt saam' kiill)"
-alt_names: ["\"Kildin Lappish\"", "\"Lapp\"", Eastern, Eastern Saami, Gielddasámegiella, "Kiillt saam' kiill", Kildin, Kildin Lappish, Kildin Saami, Kildin Sámi, Kildin-Lappisch, Kildinsamisk, Kildinsamiska, Kildinsamíska, Kola Saame, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Ostlappisch, Russisch-Lappisch, Saam, Saame, Saami, Saami (Kildin), Saami Kildin, "Saami, Kildin", Saamí de Kildin, Same de Kildin, Sami kildin, "Sami, Kildin", Samieg Kildin, east dialect, kiltinänsaame, lapon, lappisk, lopary, ostlappischer Dialekt, sabme, same-, sāme-giellâ, Килдин-саами мотт, Кильди́ньскъ саа́мьскъ ѩꙁꙑ́къ, Кӣллт са̄мь кӣлл]
+alt_names: ["\"Kildin Lappish\"", "\"Lapp\"", Eastern, Eastern Saami, Gielddasámegiella, "Kiillt saam' kiill", Kildin, Kildin Lappish, Kildin Saami, Kildin Sámi, Kildin-Lappisch, Kildinsamisk, Kildinsamiska, Kildinsamíska, Kola Saame, Kola Saami, Lapp, Lappic, Lappisch, Lappish, Ostlappisch, Russisch-Lappisch, Saam, Saame, Saami, Saami (Kildin), Saami Kildin, "Saami, Kildin", Saamí de Kildin, Same de Kildin, Sami kildin, "Sami, Kildin", Samieg Kildin, east dialect, kiltinänsaame, lapon, lappisk, lopary, ostlappischer Dialekt, sabme, same-, sāme-giellâ, Килдин-саами мотт, Кильди́ньскъ саа́мьскъ ѩꙁꙑ́къ, Кӣллт са̄мь кӣлл, “Kildin Lappish”, “Lapp”, Arsjogk, Koarrdegk, Kıllt, "Lujavv'r"]
 population: 1000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Language spoken on the Kola Peninsula of northwestern Russia
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 68.21579
 longitude: 35.83479
+language_map_img: Kildin-SamiLanguageLocatorMap.svg
 glottocode: kild1236
 glottolog_family_id: ural1272
 glottolog_family_name: Uralic

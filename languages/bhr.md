@@ -3,10 +3,12 @@ iso: bhr
 macrolanguage_id: mlg
 name: Bara Malagasy
 autonym: malagasy
-alt_names: [Malagassy, "Malagasy, Bara"]
+alt_names: [Malagassy, "Malagasy, Bara", Bara]
 population: 724000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living

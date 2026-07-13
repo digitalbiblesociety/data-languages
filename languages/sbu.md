@@ -6,6 +6,8 @@ alt_names: [(s)Tod, "Bhoti, Stod", Lahul, Lahul Bhoti, Stod, Stod-Kad, StodBhoti
 population: 2500
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Tibetic language
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Baterawal, Baterawal Kohistani, Bateri Kohistani, Dardu]
 population: 39800
 country_id: PK
 country_name: Pakistan
+location: "India, Map 1"
+area: Indo-Aryan language spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living

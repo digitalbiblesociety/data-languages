@@ -6,6 +6,8 @@ alt_names: [Chamekolo, Chamicura, Chamikuro, Chamikuru, Tchamikoureg]
 population: 2
 country_id: PE
 country_name: Peru
+location: Peru
+area: Dormant Arawakan language of Peru
 status_id: 8b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Bamvuba, Mbuba, Mvuba-A, Obiye]
 population: 5100
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Central Sudanic language of DR Congo and Uganda
 status_id: 6b
 scope: individual
 language_type: living

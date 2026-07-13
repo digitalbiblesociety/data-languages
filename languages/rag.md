@@ -7,6 +7,8 @@ alt_names: [Llogole, Llugule, Lugooli, Luragoli, Maragoli, Maragooli, Ragoli, Ul
 population: 335300
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language spoken in Kenya
 status_id: "4"
 scope: individual
 language_type: living

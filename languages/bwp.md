@@ -2,10 +2,12 @@
 iso: bwp
 name: Mandobo Bawah
 autonym: Dumut
-alt_names: ["\"Kaeti\"", Kaeti, Kambon, Mandobbo, Nub]
+alt_names: ["\"Kaeti\"", Kaeti, Kambon, Mandobbo, Nub, “Kaeti”]
 population: 2000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 曼多博语
     auto: true
 ---
+Mandobo, or Kaeti, is a Papuan language of Mandobo District in Boven Digoel Regency and Ulilin District in Merauke Regency, South Papua, Indonesia.

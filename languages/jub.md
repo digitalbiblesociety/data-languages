@@ -6,6 +6,8 @@ alt_names: [Awannu, Jukun Abinsi, River Jukun]
 population: 4000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Jukunoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

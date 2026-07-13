@@ -2,10 +2,12 @@
 iso: tdg
 name: Western Tamang
 autonym: तामाङ
-alt_names: [Bhōtiā, Ishāng, Murmi, Sain, Tamang, "Tamang, Western", "Tamang,Western", Tāmāng]
+alt_names: [Bhōtiā, Ishāng, Murmi, Sain, Tamang, "Tamang, Western", "Tamang,Western", Tāmāng, Dhading, Northwestern dialect of Western Tamang, Nuwakot, Rasuwa, Southwestern dialect of Western Tamang, Tamang Gyot, Tamang Tam, Trisuli]
 population: 323000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Tibeto-Burman language
 status_id: "5"
 scope: individual
 language_type: living

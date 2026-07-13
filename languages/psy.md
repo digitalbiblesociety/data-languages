@@ -6,6 +6,7 @@ alt_names: [Nanticoke-Conoy, Nanticoke-Piscataway]
 population: null
 country_id: US
 country_name: United States
+area: "Extinct Algonquian language of Maryland, US"
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -6,11 +6,14 @@ alt_names: [Guachi, Ofaié, Ofaye, Ofayé-Xavante, Opaie, Opaié-Shavante, Opaye
 population: null
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Language within the Macro-Jê stock
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -22.278
 longitude: -53.7227
+language_map_img: 500px-Ofaye_language.webp
 glottocode: ofay1240
 glottolog_family_id: nucl1710
 glottolog_family_name: Nuclear-Macro-Je

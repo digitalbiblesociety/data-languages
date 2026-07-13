@@ -6,6 +6,7 @@ alt_names: [Nigeria]
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 埃特比语
     auto: true
 ---
+Ekid (Esit Eket and Eket) is sub Ibibio-Efik language of Nigeria.

@@ -2,10 +2,12 @@
 iso: org
 name: Oring
 autonym: Koring
-alt_names: [Orri, Orrin, Orringorrin]
+alt_names: [Orri, Orrin, Orringorrin, Effium, Okpoto, Ufia, Ufiom, Utonkon]
 population: 12300
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Cross River language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

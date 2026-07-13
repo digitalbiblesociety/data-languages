@@ -2,15 +2,18 @@
 iso: arh
 name: Arhuaco
 autonym: Ikʉ
-alt_names: [Aruaco, Arwako, Arwaku simi, Bintucua, Bintuk, Bintuka, Bintukwa, Busitana, Bíntucua, Ica, Icu, Ijca, Ijka, Ika, Ike, Ixca]
+alt_names: [Aruaco, Arwako, Arwaku simi, Bintucua, Bintuk, Bintuka, Bintukwa, Busitana, Bíntucua, Ica, Icu, Ijca, Ijka, Ika, Ike, Ixca, Bíntukua, Arauco, Arhuac, Aruac, Auroguac, Bíntuka, Bítuncua, Ikan]
 population: 14301
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chibchan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 10.70184
 longitude: -73.63629
+language_map_img: Arhuaco.webp
 glottocode: arhu1242
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

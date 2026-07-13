@@ -3,10 +3,12 @@ iso: ubl
 macrolanguage_id: bik
 name: "Buhi'non Bikol"
 autonym: Bikol Buhi
-alt_names: ["Bikol, Buhi'non"]
+alt_names: ["Bikol, Buhi'non", Bikol, Buhiꞌnon Bikol, "Boie'nen", Boînan, Buhi, "Buhi'non", Buhi-non]
 population: 73600
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Inland Bikol language subgroup spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living

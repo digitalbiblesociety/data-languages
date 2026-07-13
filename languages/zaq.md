@@ -3,10 +3,12 @@ iso: zaq
 macrolanguage_id: zap
 name: Aloápam Zapotec
 autonym: "Zapoteco, Aloápam"
-alt_names: [Aloapam Zapotec, Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Zapotec, Zapotec (Juárez), "Zapotec, Aloápam", Zapoteco ( Juarez Sierra), Zapoteco de Aloápam, Zapoteco de Atepec]
+alt_names: [Aloapam Zapotec, Ixtlan, Ixtlán, Ixtlán Zapoteco, Northern Sapoteko, Serrano, Sierra de Juarez, Sierra de Juárez, Sierra de Juárez Zapotec, Zapotec, Zapotec (Juárez), "Zapotec, Aloápam", Zapoteco ( Juarez Sierra), Zapoteco de Aloápam, Zapoteco de Atepec, Zapoteco, Aloápam]
 population: 3400
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

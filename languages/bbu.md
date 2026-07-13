@@ -6,6 +6,8 @@ alt_names: [Bakulu, Bakulung, Bambur, Kukulung, Kulu, Kulung, Kuluno, Wo, Wurkum
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 3"
+area: Bantu language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

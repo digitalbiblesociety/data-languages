@@ -2,10 +2,12 @@
 iso: blm
 name: Beli
 autonym: Jur ’Bëlï
-alt_names: ["'Beli", Behli, Beili, Beli, Beli (Sudan), Jur Beli]
+alt_names: ["'Beli", Behli, Beili, Beli, Beli (Sudan), Jur Beli, ’Beli, Bahri Girinti, Sopi, Supi, Wulu]
 population: 65000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language spoken in South Sudan
 status_id: "4"
 scope: individual
 language_type: living

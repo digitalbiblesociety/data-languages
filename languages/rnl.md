@@ -2,9 +2,12 @@
 iso: rnl
 name: Ranglong
 autonym: Ronglong
+alt_names: [Langlo, Langlong, Langlu, Langrong, Lengreng, Riam chong]
 population: 8000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: lbw
 name: Tolaki
 autonym: Laki
-alt_names: ["\"Akido\"", "\"Nahina\"", "\"Nehina\"", "\"Nohina\"", "\"Noie\"", "\"Noihe\"", Kolaka, Lalaki, Lolaki, "To'olaki"]
+alt_names: ["\"Akido\"", "\"Nahina\"", "\"Nehina\"", "\"Nohina\"", "\"Noie\"", "\"Noihe\"", Kolaka, Lalaki, Lolaki, "To'olaki", To’olaki, Tokia, Tololaki, Asera, Asera Wanua, Bingkokak, Kendari, Kioki, Konawe, Konio, Laiwui, Mekongga, Nohina, Noie, Norio, Tamboki, Tambuoki, Wiwirano]
 population: 238000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: wpc
 name: Maco
 autonym: Maco
-alt_names: [Adole, Ature, Guagua, Itoto, Jojod, Kuakua, Macu, Mako, Maku, Piaroa, Piaroa-Maco, Piaroa-Mako, Quaqua, Wothüha, Wotuja]
+alt_names: [Adole, Ature, Guagua, Itoto, Jojod, Kuakua, Macu, Mako, Maku, Piaroa, Piaroa-Maco, Piaroa-Mako, Quaqua, Wothüha, Wotuja, Maco-Piaroa, Sáliba-Maco, Wirö, Wirú]
 population: 2500
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Piaroan language spoken in South America
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 4.5621
 longitude: -66.58126
+language_map_img: 500px-Maco_langue.webp
 glottocode: maco1239
 glottolog_family_id: sali1297
 glottolog_family_name: Saliban

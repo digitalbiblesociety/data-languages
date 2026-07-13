@@ -2,10 +2,12 @@
 iso: yal
 name: Yalunka
 autonym: Jalunga
-alt_names: [Dialonke, Dialonké, Djallonke, Djalonka, Dyalonke, Jalonke, Jalonké, Kjalonke, Susu-Yalunka, Yalonka, Yalunke]
+alt_names: [Dialonke, Dialonké, Djallonke, Djalonka, Dyalonke, Jalonke, Jalonké, Kjalonke, Susu-Yalunka, Yalonka, Yalunke, Bafing, Firia, Fontofa, "Jalunga xuwiina'", Jalunganéé, Jalungas, Musaia, Sulima]
 population: 174300
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

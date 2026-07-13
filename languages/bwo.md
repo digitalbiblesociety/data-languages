@@ -2,10 +2,12 @@
 iso: bwo
 name: Boro
 autonym: Boro
-alt_names: [Borna, Boró, Bworo, Bòrná, Scinacia, Shinasha, Shinassha, Shinassha (Boro), Šinašša]
+alt_names: [Borna, Boró, Bworo, Bòrná, Scinacia, Shinasha, Shinassha, Shinassha (Boro), Šinašša, Bora, Bori Noona, Borí noonə, Borəni noon, Dangabo, Gonga, Guba, Shinicho, Wambera, Wenbera-Dangur, Šinaša]
 population: 144
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: North Omotic language spoken in western Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

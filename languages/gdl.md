@@ -2,10 +2,12 @@
 iso: gdl
 name: Dirasha
 autonym: Gidole
-alt_names: [Dhirasha, Diraasha, Dirayta, Gardula, Gardulla, Ghidole, Konso hizkuntza, Konso language]
+alt_names: [Dhirasha, Diraasha, Dirayta, Gardula, Gardulla, Ghidole, Konso hizkuntza, Konso language, Derashe, Dhirayta, Dhiraytata, Dirashitata, Diraytta, Gedoligna, Kusumie, Kusumitta, Mosiya]
 population: 10100
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Cushitic language spoken in Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

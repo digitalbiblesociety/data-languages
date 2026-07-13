@@ -6,6 +6,8 @@ alt_names: [Bhotia, Bhutia, Bhōṭiā of Sikkim, Central Tibetan, Dandzongka, D
 population: 25000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: "Tibetic language of Nepal and Sikkim, India"
 status_id: "4"
 scope: individual
 language_type: living

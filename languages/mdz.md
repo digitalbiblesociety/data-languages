@@ -2,10 +2,12 @@
 iso: mdz
 name: Suruí Do Pará
 autonym: Aikewara
-alt_names: ["\"Mudjetíre\"", "\"Mudjetíre-Suruí\"", Akewara, Akewere, Mudjetíre, Mudjétire, Surui Do Para, Suruí, Suruí do Tocantins]
+alt_names: ["\"Mudjetíre\"", "\"Mudjetíre-Suruí\"", Akewara, Akewere, Mudjetíre, Mudjétire, Surui Do Para, Suruí, Suruí do Tocantins, “Mudjétira”, “Mudjetíre-Suruí”, “Mudjetíre”]
 population: 180
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Dialect of the Tupian Akwáwa language of Brazil
 status_id: 6a
 scope: individual
 language_type: living

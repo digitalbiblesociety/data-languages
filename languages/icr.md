@@ -6,6 +6,8 @@ alt_names: [Bende, "Creole English, Islander", Criollo sanandresano, Créole de 
 population: 12000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: English-based creole language of the Afro-Caribbean Raizal people in Colombia
 status_id: 6a
 scope: individual
 language_type: living

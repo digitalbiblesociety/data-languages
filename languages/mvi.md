@@ -6,11 +6,14 @@ alt_names: [Ikimatsu, Miyako-Sprache, Miyakoeg, Ryukyuan, Saskishima, Saskisima,
 population: 67000
 country_id: JP
 country_name: Japan
+location: Japan
+area: Ryukyuan dialect cluster of the Miyako Islands
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 24.75642
 longitude: 125.36309
+language_map_img: 500px-Miyako_map.webp
 glottocode: miya1259
 glottolog_family_id: japo1237
 glottolog_family_name: Japonic

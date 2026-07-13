@@ -6,6 +6,8 @@ alt_names: ["\"Ngoya\"", Bolo, Haka, Ipala, Kibala-Ngoya, Kimbundu de Kwanza Sul
 population: 2630
 country_id: AO
 country_name: Angola
+location: Angola
+area: Bantu language of Angola
 status_id: 6a
 scope: individual
 language_type: living

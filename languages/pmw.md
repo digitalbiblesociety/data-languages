@@ -6,6 +6,7 @@ alt_names: [Eastern Division, Miwok, Miwok (Plains), "Miwok, Plains", Plains]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Miwok language
 status_id: "9"
 scope: individual
 language_type: living

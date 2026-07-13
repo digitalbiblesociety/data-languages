@@ -2,15 +2,18 @@
 iso: fvr
 name: Fur
 autonym: bèle fòòr
-alt_names: [Dala, For, Fora, Fordunga, Forok, Forta, Four, Furakang, Furawi, Kadirgi, Kondjara, Konjara, Korra, Kungara, Kurka, Lali, Onage, Yerge]
+alt_names: [Dala, For, Fora, Fordunga, Forok, Forta, Four, Furakang, Furawi, Kadirgi, Kondjara, Konjara, Korra, Kungara, Kurka, Lali, Onage, Yerge, "Poor'íŋ Belé'ŋ", fòòraŋ bèle]
 population: 745800
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilo-Saharan language spoken in Sudan and Chad
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 12.04551
 longitude: 23.64012
+language_map_img: Fur_map.webp
 scripts: [Latn]
 glottocode: furr1244
 glottolog_family_id: fura1235

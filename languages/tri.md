@@ -2,10 +2,12 @@
 iso: tri
 name: Trió
 autonym: tarëno ijomi
-alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Tíríjó]
+alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Tíríjó, Pianokotó, Tarona, Tarëno, Yawi]
 population: 2460
 country_id: SR
 country_name: Suriname
+location: Northeastern Brazil
+area: "Cariban language of Brazil, Suriname and Guyana"
 status_id: "5"
 scope: individual
 language_type: living

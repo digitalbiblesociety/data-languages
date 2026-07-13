@@ -6,6 +6,8 @@ alt_names: [Hatue, Seleman, Wahai]
 population: 4800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living

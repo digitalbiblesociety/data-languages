@@ -7,6 +7,7 @@ alt_names: [European Romany, Fíntika Rómma, Gypsy, "Romani, Kalo Finnish", Rom
 population: 10000
 country_id: FI
 country_name: Finland
+area: Variety of the Romani language
 status_id: "5"
 scope: individual
 language_type: living

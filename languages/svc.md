@@ -2,10 +2,12 @@
 iso: svc
 name: Vincentian Creole English
 autonym: Vincy Twang
-alt_names: ["Creole English, Vincentian"]
+alt_names: ["Creole English, Vincentian", Vicentian Creole English]
 population: 108000
 country_id: VC
 country_name: "St. Vincent & Grenadines"
+location: Creole Languages of the Eastern Caribbean
+area: English-based creole of Saint Vincent and the Grenadines
 status_id: 6a
 scope: individual
 language_type: living

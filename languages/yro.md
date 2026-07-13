@@ -5,11 +5,13 @@ autonym: Jawari
 population: 430
 country_id: BR
 country_name: Brazil
+area: Language spoken in Brazil
 status_id: null
 scope: individual
 language_type: living
 latitude: 1.720201
 longitude: -62.230225
+language_map_img: Yanomaman.svg
 glottocode: yaro1235
 glottolog_family_id: yano1268
 glottolog_family_name: Yanomamic

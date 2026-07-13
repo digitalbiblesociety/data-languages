@@ -2,15 +2,18 @@
 iso: mni
 name: Manipuri
 autonym: " Meitheilon"
-alt_names: [Bishnupriya, Kathe, Kathi, Kaṯhe, Mailhai, Meitei, Meitei language, Meiteieg, Meiteilon, Meiteiron, Meithe, Meithei, Meithlei, Menipuri, Mitei, Mithe, Mēkhalī, Mēklē, Ponna, Pōṇṇā, Манипури, মেইতেই ঠার]
+alt_names: [Bishnupriya, Kathe, Kathi, Kaṯhe, Mailhai, Meitei, Meitei language, Meiteieg, Meiteilon, Meiteiron, Meithe, Meithei, Meithlei, Menipuri, Mitei, Mithe, Mēkhalī, Mēklē, Ponna, Pōṇṇā, Манипури, মেইতেই ঠার, Chakpa, Hindu Meitei, Loi, Manipuri Muslim, Meetei, Meeteilon, Meitei Manipuri, Pang-gal, Pang-gan, Pangal, Pangan]
 population: 1775000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Tibeto-Burman language of India
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 24.440857
 longitude: 93.342623
+language_map_img: 500px-Meitei_language_distribution.webp
 scripts: [Beng, Mtei]
 glottocode: mani1292
 glottolog_family_id: sino1245

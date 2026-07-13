@@ -2,15 +2,18 @@
 iso: kpy
 name: Koryak
 autonym: чавʼчывэн; чавʼчываелыел
-alt_names: [Coriaco, Korak, Koriak, Korjaaks, Korjakische, Korjakisk, Koræiki, Nymylan, нымылан]
+alt_names: [Coriaco, Korak, Koriak, Korjaaks, Korjakische, Korjakisk, Koræiki, Nymylan, нымылан, Chavchuven, Apokinskij, Apukin, Cavcuvenskij, Gin, Itkan, Kamen, Kamenskij, Koryaki, Palan, Paren, Xatyrskij]
 population: 3500
 country_id: RU
 country_name: Russia
+location: Eastern Russia
+area: "Chukotko-Kamchatkan language of Kamchatka, Russia"
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 63.89771
 longitude: 166.69474
+language_map_img: Chukotko-Kamchatkan_map.svg
 scripts: [Cyrl]
 glottocode: kory1246
 glottolog_family_id: chuk1271

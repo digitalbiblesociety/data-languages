@@ -7,11 +7,14 @@ alt_names: [Kerinchi, Kerintji, Kinchai]
 population: 285000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Malayic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -1.93668
 longitude: 101.40285
+language_map_img: Kerinci_Language_Map_2.svg
 scripts: [Latn]
 glottocode: keri1250
 glottolog_family_id: aust1307

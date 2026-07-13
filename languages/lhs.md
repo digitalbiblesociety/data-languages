@@ -6,6 +6,7 @@ alt_names: [Melasó (Turquía), Mlahso, Mlahsô language, Mlahsöspråket, Mlah�
 population: null
 country_id: SY
 country_name: Syria
+area: Extinct Aramaic language of Turkey and Syria
 status_id: "10"
 scope: individual
 language_type: extinct

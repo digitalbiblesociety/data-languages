@@ -6,6 +6,7 @@ alt_names: ["'Uvea", E Uvea, E. Uvea, East Uvea, East Uvean, "Faka 'Uvea", Uvea,
 population: 25040
 country_id: WF
 country_name: "Wallis & Futuna"
+area: Polynesian language spoken in Wallis island
 status_id: "5"
 scope: individual
 language_type: living

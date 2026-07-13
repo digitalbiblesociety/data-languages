@@ -2,14 +2,18 @@
 iso: raq
 name: Saam
 autonym: Saam Rai
+alt_names: [Saama Kha, Samakha]
 population: 530
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kiranti language of Nepal
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 26.84425
 longitude: 87.95341
+glottocode: saam1282
 wikidata_id: Q7395644
 wikipedia_url: "https://en.wikipedia.org/wiki/Saam_language"
 translations:

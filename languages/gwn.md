@@ -2,9 +2,12 @@
 iso: gwn
 name: Gwandara
 autonym: Kwandara
+alt_names: [Gwandara Eastern, Gwandara Gitata, Gwandara Karashi, Gwandara Koro, Gwandara Southern, Kyan Kyar, Nimbia, Toni]
 population: 27300
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: West Chadic language
 status_id: 6a
 scope: individual
 language_type: living

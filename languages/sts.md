@@ -6,6 +6,8 @@ alt_names: [Chumashtí, Dardu, Šumāštī]
 population: 1000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Indo-Aryan language of Afghanistan
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bbg
 name: Barama
 autonym: Barama
-alt_names: [Bavarama, Ghibarama, Gibarama, Yibarambu]
+alt_names: [Bavarama, Ghibarama, Gibarama, Yibarambu, Givarama, Varama]
 population: 6000
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living

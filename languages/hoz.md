@@ -6,6 +6,8 @@ alt_names: [Hozo-seco, Mao of Begi]
 population: 3000
 country_id: ET
 country_name: Ethiopia
+location: "Djibouti, Eritrea and Ethiopia"
+area: Afroasiatic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

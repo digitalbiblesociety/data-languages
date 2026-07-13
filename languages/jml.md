@@ -2,15 +2,18 @@
 iso: jml
 name: Jumli
 autonym: Central Nepali
-alt_names: [Eastern Pahari, Gorkhali, Khas Kura, Nepalese, Nepali, Parbatiya]
+alt_names: [Eastern Pahari, Gorkhali, Khas Kura, Nepalese, Nepali, Parbatiya, Jumeli, Jumla, Jumleli, Khas Nepali, Sijali, Singja, Asi, Chaudhabis, Karnali, Paanchsai, Sinja, Sinjali]
 population: 40000
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Indo-Aryan language of Eastern Pahari branch spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 29.17076
 longitude: 82.437
+language_map_img: 500px-Jumla_Karnali_locator.webp
 scripts: [Deva]
 glottocode: juml1238
 glottolog_family_id: indo1319

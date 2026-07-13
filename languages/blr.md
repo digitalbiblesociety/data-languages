@@ -2,10 +2,12 @@
 iso: blr
 name: Blang
 autonym: Pulang
-alt_names: [Bulang, Hkawa, "K'ala", "K'wa", Kawa, Khon Doi, Kontoi, Plang, Pula, Samtao of Burma, Sen Chun, Wa]
+alt_names: [Bulang, Hkawa, "K'ala", "K'wa", Kawa, Khon Doi, Kontoi, Plang, Pula, Samtao of Burma, Sen Chun, Wa, K’ala, Kem Degne, Kꞌala, Kꞌwa, Phang]
 population: 42000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Language of the Blang people
 status_id: 6a
 scope: individual
 language_type: living

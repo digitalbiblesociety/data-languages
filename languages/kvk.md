@@ -6,6 +6,7 @@ alt_names: [South Korean Sign Language]
 population: 308000
 country_id: KR
 country_name: South Korea
+area: Deaf sign language of South Korea
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: tpz
 name: Tinputz
 autonym: Vasuii
-alt_names: [Timputs, Vasui, Wasoi]
+alt_names: [Timputs, Vasui, Wasoi, Vasui (Tinputz), Vado, Vado-Vaeneꞌ, Vaeneꞌ, Vapopeoꞌ, Vapopeoꞌ-Rausaura, Vavoehpoaꞌ]
 population: 5350
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 13"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Ooe Kokota
 population: 530
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Austronesian language spoken in the Solomon Islands
 status_id: 6b
 scope: individual
 language_type: living

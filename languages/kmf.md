@@ -2,10 +2,12 @@
 iso: kmf
 name: Kare
 autonym: null
-alt_names: [Kare]
+alt_names: [Kare, Kare (Papua New Guinea)]
 population: 380
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Madang language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

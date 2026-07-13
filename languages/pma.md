@@ -2,10 +2,12 @@
 iso: pma
 name: Paama
 autonym: Paama
-alt_names: [Paama-Lopevi, Paamese, Paamese of Vanuatu, Pauma]
+alt_names: [Paama-Lopevi, Paamese, Paamese of Vanuatu, Pauma, North Paama, South Paama]
 population: 6000
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

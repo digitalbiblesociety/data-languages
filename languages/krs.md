@@ -2,10 +2,12 @@
 iso: krs
 name: Gbaya
 autonym: "Kresh-Aja"
-alt_names: [Gbaya, Kpala, Kpara, Kparla, Kredj, Kreich, Kreish, Kresh]
+alt_names: [Gbaya, Kpala, Kpara, Kparla, Kredj, Kreich, Kreish, Kresh, Dongo, Gbaya-Dara, Gbaya-Gboko, Gbaya-Ndogo, Gbaya-Ngbongbo, Kresh-Boro, Kresh-Hofra, Kresh-Ndogo, Naka, Orlo, Woro]
 population: 16000
 country_id: SS
 country_name: South Sudan
+location: Sudan
+area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

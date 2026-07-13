@@ -6,6 +6,8 @@ alt_names: [Aimal, Langrong]
 population: 2640
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

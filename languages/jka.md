@@ -6,6 +6,7 @@ alt_names: [Dorit]
 population: 5500
 country_id: ID
 country_name: Indonesia
+area: Trans–New Guinea language spoken in Indonesia
 status_id: null
 scope: individual
 language_type: living

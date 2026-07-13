@@ -6,6 +6,7 @@ alt_names: [Ayo]
 population: null
 country_id: CN
 country_name: China
+area: Kra language
 status_id: 8b
 scope: individual
 language_type: living

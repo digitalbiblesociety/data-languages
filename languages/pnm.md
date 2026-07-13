@@ -6,6 +6,8 @@ alt_names: [Punan batu]
 population: 30
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Endangered Austronesian language of Malaysia
 status_id: 8b
 scope: individual
 language_type: living

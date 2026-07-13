@@ -45,3 +45,4 @@ translations:
     name: 新赫梯语
     auto: true
 ---
+Hittite, also known as Nesite, is an extinct Indo-European language that was spoken by the Hittites, a people of Bronze Age Anatolia who created an empire centered on Hattusa, as well as parts of the northern Levant and Upper Mesopotamia. The language, now long extinct, is attested in cuneiform, in records dating from the 17th to the 13th centuries BC, with isolated Hittite loanwords and numerous personal names appearing in an Old Assyrian context from as early as the 20th century BC, making it the earliest attested use of the Indo-European languages.

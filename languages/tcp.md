@@ -6,6 +6,8 @@ alt_names: ["Chin, Tawr", "Chin,Tawr", Tawr, Torr]
 population: 700
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

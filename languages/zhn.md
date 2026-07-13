@@ -3,15 +3,18 @@ iso: zhn
 macrolanguage_id: zha
 name: Nong Zhuang
 autonym: Kauqnuangz
-alt_names: [Kau Nong, Khaau Nong, Nong hua, Phu Nong, Phu Tei, Yan-Guang, Yan-Guang Southern Zhuang, Yenkuang, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Nong", Zhuangyu Nanbu fanyan Yan-Guang tuyu]
+alt_names: [Kau Nong, Khaau Nong, Nong hua, Phu Nong, Phu Tei, Yan-Guang, Yan-Guang Southern Zhuang, Yenkuang, "Yung-ch'un", Yung-shun, Zhuang, "Zhuang, Nong", Zhuangyu Nanbu fanyan Yan-Guang tuyu, Daez, Central Zhuang, Khau Nong, Liancheng, Noangx, Southern Zhuang, Tei Nong, Western Guangnan, kauq Daez, kauq Noangz, puj Daez, puj Noangz, puj Nuangz]
 population: 600000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Tai language spoken in Yunnan, China"
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 21.83753
 longitude: 107.3622
+language_map_img: 500px-Nong-Zhuang.webp
 glottocode: nong1247
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

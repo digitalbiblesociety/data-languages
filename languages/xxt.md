@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: IN
 country_name: India
+area: "Language of the lost Tambora culture of Sumbawa, present-day Indonesia"
 status_id: null
 scope: individual
 language_type: extinct

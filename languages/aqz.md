@@ -6,6 +6,8 @@ alt_names: ["Akunts'u", Akuntsú]
 population: null
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered Tupian language of Brazil
 status_id: 8a
 scope: individual
 language_type: living

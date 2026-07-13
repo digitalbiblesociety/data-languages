@@ -2,10 +2,12 @@
 iso: gur
 name: Farefare
 autonym: Gurenɛ
-alt_names: [Frafra, Gurenne, Gurne, Gurune, Nankane, Nankani, Ninkare]
+alt_names: [Frafra, Gurenne, Gurne, Gurune, Nankane, Nankani, Ninkare, Booni, Gudeni, Gudenne, Gurene, Naani, Nabdam, Nabde, Nabdem, Nabdug, Nabit, Nabnam, Nabrug, Nabt, Nabte, Namnam, Nangodi, Nankana, Nankanse, Ninkarsé, Taleni, Talensi, Talni, Zuadeni, fãrfãrɛ, gʋrnɛ Ninkãrɛ, nankam, ninkãrɛ]
 population: 663100
 country_id: GH
 country_name: Ghana
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: "2"
 scope: individual
 language_type: living

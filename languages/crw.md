@@ -6,6 +6,8 @@ alt_names: [Choro, Chíoro, Gro, Jro, Ro, Tamun]
 population: 26900
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living

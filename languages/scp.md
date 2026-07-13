@@ -2,15 +2,18 @@
 iso: scp
 name: Hyolmo
 autonym: Helambu Sherpa
-alt_names: [HelambuSherpa, Sherpa, Yholmo, Yohlmo, Yohlmu Tam, Yol-mo, Yolmo, Ölmo]
+alt_names: [HelambuSherpa, Sherpa, Yholmo, Yohlmo, Yohlmu Tam, Yol-mo, Yolmo, Ölmo, Hyolmo Tam]
 population: 7570
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Sino-Tibetan language of Nepal
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 27.92119
 longitude: 85.62893
+language_map_img: 500px-Yolmo_Map_2016.webp
 glottocode: hela1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

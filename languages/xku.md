@@ -6,6 +6,8 @@ alt_names: [Kikaamba]
 population: 3020
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language spoken in Congo Brazzaville
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 卡姆巴语
     auto: true
 ---
+Bembe is a Bantu language spoken primarily in the Republic of Congo. It is closely related to Kikongo and forms part of the Kongo language cluster.

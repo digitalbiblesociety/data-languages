@@ -7,6 +7,7 @@ alt_names: [Baghirmi Peul, Bagirmi Fula, Fulah-Idiome, Fulani, "Fulfulde, Bagirm
 population: 180000
 country_id: TD
 country_name: Chad
+area: Dialect of the Fula language
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Wutun, 五屯話]
 population: 2000
 country_id: CN
 country_name: China
+location: China
+area: Chinese–Tibetan–Mongolian creole language of northwestern China
 status_id: "7"
 scope: individual
 language_type: living

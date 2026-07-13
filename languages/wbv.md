@@ -6,6 +6,8 @@ alt_names: [Baialdju, Batiga, Bidungu, Cheangwa, Dhauerngu, Iirrawad ari, "Iirra
 population: 200
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living

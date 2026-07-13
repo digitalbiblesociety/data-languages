@@ -2,10 +2,12 @@
 iso: kxo
 name: Kanoé
 autonym: Kapishana
-alt_names: [Akunsú, Akuntsú, Amniapé, Canoé, Capixana, Guarategaja, Guaratira, Guaratégaya, Kanoe, Kanoê, Kapishaná, Kapixaná, Kapixaná/Kanoé, Koaratira, Mekem, Mekens, Mekens-Akuntsú, Meké, Mekém, Mekéns, Mequem, Mequen, Mequens, Mequéns, Muki, Sakurabiat, Sakyrabiat]
+alt_names: [Akunsú, Akuntsú, Amniapé, Canoé, Capixana, Guarategaja, Guaratira, Guaratégaya, Kanoe, Kanoê, Kapishaná, Kapixaná, Kapixaná/Kanoé, Koaratira, Mekem, Mekens, Mekens-Akuntsú, Meké, Mekém, Mekéns, Mequem, Mequen, Mequens, Mequéns, Muki, Sakurabiat, Sakyrabiat, Kapishanã]
 population: 5
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: Endangered indigenous language of Brazil
 status_id: 8b
 scope: individual
 language_type: extinct

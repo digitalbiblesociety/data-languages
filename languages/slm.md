@@ -2,10 +2,12 @@
 iso: slm
 name: Pangutaran Sama
 autonym: Siyama
-alt_names: ["Sama, Pangutaran"]
+alt_names: ["Sama, Pangutaran", Pangutaran, Sama Pangutaran, Siyama Pangutaran]
 population: 35200
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Philippines
 status_id: "5"
 scope: individual
 language_type: living

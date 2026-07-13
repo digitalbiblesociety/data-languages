@@ -3,10 +3,12 @@ iso: jak
 macrolanguage_id: msa
 name: Jakun
 autonym: Orang Hulu
-alt_names: [Djakun, Jakoon, "Jaku'd", "Jakud'n", Yakuno]
+alt_names: [Djakun, Jakoon, "Jaku'd", "Jakud'n", Yakuno, Jaku’d, Jakud’n]
 population: 25000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

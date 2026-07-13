@@ -2,15 +2,18 @@
 iso: bjx
 name: Banao Itneg
 autonym: Banao
-alt_names: ["Itneg, Banao", Timggian, Tinguian]
+alt_names: ["Itneg, Banao", Timggian, Tinguian, Banaw, Itneg]
 population: 3500
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.56429
 longitude: 121.04991
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: bana1288
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -69,3 +72,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Cordillera Region, Kalinga"
 ---
+Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Kalinga people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.

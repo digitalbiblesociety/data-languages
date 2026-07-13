@@ -7,11 +7,14 @@ alt_names: [Brunei-Kadaian, Orang Bukit]
 population: 321000
 country_id: BN
 country_name: Brunei
+location: Malaysia - Sabah
+area: Language spoken in parts of Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 4.456045
 longitude: 114.429505
+language_map_img: Brunei_Malay_Spoken_Area.webp
 glottocode: brun1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

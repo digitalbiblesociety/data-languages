@@ -6,11 +6,14 @@ alt_names: [Orig, Rashad, Tegele, Tekele, Togole, Turjok]
 population: 99000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Rashad language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 11.95226
 longitude: 31.11123
+language_map_img: 500px-Tegali-tagoi_languages.webp
 glottocode: tega1236
 glottolog_family_id: rash1249
 glottolog_family_name: Rashad

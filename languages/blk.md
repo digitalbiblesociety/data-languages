@@ -2,10 +2,12 @@
 iso: blk
 name: "Pa'o Karen"
 autonym: "Pa-O Karen"
-alt_names: [Black Karen, "Karen, Pa'o", "Karen,Pa’o", Karennet, Northern Taungthu, Pa Oh, "Pa'o", Pa-O, Pa-U, Pao, Taungthu, Taungtu]
+alt_names: [Black Karen, "Karen, Pa'o", "Karen,Pa’o", Karennet, Northern Taungthu, Pa Oh, "Pa'o", Pa-O, Pa-U, Pao, Taungthu, Taungtu, Pa’o, "Northern Pa'o", Pa-Oh, Paꞌo Karen, "Southern Pa'o"]
 population: 858740
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karenic language
 status_id: "5"
 scope: individual
 language_type: living

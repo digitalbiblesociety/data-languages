@@ -6,6 +6,7 @@ alt_names: ["A:rap", Araba, Ariba, Aripa, Ngariba, Rib, Ribh]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -52,3 +53,4 @@ translations:
     name: 阿瑞巴语
     auto: true
 ---
+Gurdjar (Kurtjar) is a Paman language of the Cape York Peninsula, Queensland, Australia. There are two dialects, Gurdjar proper, and Rip. According to the UNESCO Atlas of the World's Languages in Danger, the language is classified as extinct.

@@ -6,6 +6,8 @@ alt_names: [Liambata, Salas Gunung]
 population: 50
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Central Maluku"
+area: Endangered Austronesian language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living

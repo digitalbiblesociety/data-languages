@@ -2,10 +2,12 @@
 iso: dgz
 name: Daga
 autonym: null
-alt_names: [Dimuga, Nawp]
+alt_names: [Dimuga, Nawp, Lower Daga, Upper Daga]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

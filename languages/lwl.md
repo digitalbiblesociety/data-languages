@@ -2,10 +2,12 @@
 iso: lwl
 name: Eastern Lawa
 autonym: Bo Luang Lawa
-alt_names: [Khalo, "La'wa", Lawa, "Lawa, Eastern", Mae Rim Lawa, Northern Lawa, Phalo, Phalok, Wiang Papao Lua]
+alt_names: [Khalo, "La'wa", Lawa, "Lawa, Eastern", Mae Rim Lawa, Northern Lawa, Phalo, Phalok, Wiang Papao Lua, “Lua”, Lavua]
 population: 7000
 country_id: TH
 country_name: Thailand
+location: Northern Thailand
+area: Austroasiatic language spoken in Thailand
 status_id: 6a
 scope: individual
 language_type: living
@@ -70,3 +72,4 @@ rolv_dialects:
     country_id: TH
     location: "Thailand, Northern, Chiang Mai, Samoeng Nuea"
 ---
+Lawa is an Austroasiatic language of Thailand. There are two distinct varieties or dialects of Lawa, considered to be separate languages; their names in the Ethnologue are Eastern Lawa and Western Lawa. They are spoken in Lawa villages in the provinces of Mae Hong Son and Chiang Mai in Northern Thailand.

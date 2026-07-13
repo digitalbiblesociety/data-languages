@@ -6,11 +6,14 @@ alt_names: [Chrau, Crau, Southern-Central Mnong, Trao]
 population: 1960
 country_id: KH
 country_name: Cambodia
+location: Cambodia
+area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 12.8107
 longitude: 106.53864
+language_map_img: 500px-Mnong_language.webp
 glottocode: krao1238
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic
@@ -53,3 +56,4 @@ translations:
     name: 克劳语
     auto: true
 ---
+The Mnong language belongs to the Austro-Asiatic language family. It is spoken by the different groups of Mnong in Vietnam and a Pnong group in Cambodia.

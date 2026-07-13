@@ -6,6 +6,7 @@ alt_names: [Medefaidrin]
 population: null
 country_id: NG
 country_name: Nigeria
+location: "Africa, West"
 status_id: null
 scope: individual
 language_type: extinct

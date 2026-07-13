@@ -2,15 +2,18 @@
 iso: khn
 name: Khandesi
 autonym: Ahirani
-alt_names: [Dhed Gujari, Khandeshi, Khandish]
+alt_names: [Dhed Gujari, Khandeshi, Khandish, Khandeshi Bhili, Maharashtra Bhil, Dangri, Kotali Bhil, Kunbau, Kunbi, Rangari]
 population: 15900
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 21.31807
 longitude: 74.14197
+language_map_img: 500px-Distribution_of_khandeshi_speakers_2011.webp
 scripts: [Deva]
 glottocode: khan1272
 glottolog_family_id: indo1319

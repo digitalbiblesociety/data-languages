@@ -2,10 +2,12 @@
 iso: bej
 name: Beja
 autonym: Bidhaawyeet
-alt_names: [Bedauye, Bedawi, Bedawi hizkuntza, Bedawieg, Bedawiye, Bedawiyet, Bedawye, Bedscha, Bedwi, Bedya, Bedàwie, Bischari, Lobat, To-Bedawie, bedja]
+alt_names: [Bedauye, Bedawi, Bedawi hizkuntza, Bedawieg, Bedawiye, Bedawiyet, Bedawye, Bedscha, Bedwi, Bedya, Bedàwie, Bischari, Lobat, To-Bedawie, bedja, Tu-Bedawie, To Bedawiat, To Bedawie, Tu Bdhaawi]
 population: 2498000
 country_id: SD
 country_name: Sudan
+location: "Djibouti, Eritrea and Ethiopia"
+area: Cushitic language of Northeast Africa
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: rmt
 name: Domari
 autonym: دٛومَرِي
-alt_names: [Barake, Dom, Domarí, Gipsies, Gypsy, Kurbat, Luti, Mehtar, Middle Eastern Romani, Nawar, Nawari, Near-Eastern Gypsy, Nuri, Romani, Tsigene, Zutt, Домари]
+alt_names: [Barake, Dom, Domarí, Gipsies, Gypsy, Kurbat, Luti, Mehtar, Middle Eastern Romani, Nawar, Nawari, Near-Eastern Gypsy, Nuri, Romani, Tsigene, Zutt, Домари, Beirut, Garachi, Ghorbati, Karachi, Kurbati, Nablos, Qarachi]
 population: 28500
 country_id: EG
 country_name: Egypt
+location: "India, Map 4"
+area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living

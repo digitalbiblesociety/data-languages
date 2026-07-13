@@ -5,6 +5,8 @@ autonym: Kangyang Hui
 population: 430
 country_id: CN
 country_name: China
+location: China
+area: Southern Mongolic language
 status_id: 8a
 scope: individual
 language_type: living

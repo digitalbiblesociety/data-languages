@@ -3,15 +3,18 @@ iso: azb
 macrolanguage_id: aze
 name: South Azerbaijani
 autonym: " آذربایجان دیلی"
-alt_names: [Aderbeidjanisch, Afghanistan Oghuz, Azarbaydjanian, Azari (Iranian), Azerbaijani, Azerbaijani (South), "Azerbaijani, South", Azeri, South Azeri language, Southern Iranian, Torki]
+alt_names: [Aderbeidjanisch, Afghanistan Oghuz, Azarbaydjanian, Azari (Iranian), Azerbaijani, Azerbaijani (South), "Azerbaijani, South", Azeri, South Azeri language, Southern Iranian, Torki, Afsar, Afshar, Afshari, Aynallu, Azəricə, Baharlu, Bayat, Inallu, Inanlu, Iraq Turkic, Iraqi Turkmen, Kamesh, Karapapakh, Kars, Kirkuk, Moqaddam, Nafar, Pishagchi, Qajar, Qaragozlu, Shahsavani, Shahseven, Tabriz, Turk, Turkmen, Turkomen, Türki]
 population: 13800000
 country_id: IR
 country_name: Iran
+location: Iraq
+area: Turkic language of the Oghuz sub-branch
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 36.513664
 longitude: 48.43018
+language_map_img: azb.webp
 glottocode: sout2697
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

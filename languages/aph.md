@@ -2,10 +2,12 @@
 iso: aph
 name: Athpariya
 autonym: Arthare
-alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai]
+alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai, Athaphre, Sanango Ring]
 population: 5530
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Eastern Kiranti language of Nepal
 status_id: 6b
 scope: individual
 language_type: living

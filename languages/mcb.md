@@ -2,10 +2,12 @@
 iso: mcb
 name: Machiguenga
 autonym: Matsigenka
-alt_names: [Amachengue, Machaguenga, Macheyenga, Matsiganga, Matsigenga, Matsiguenga, Mañaries]
+alt_names: [Amachengue, Machaguenga, Macheyenga, Matsiganga, Matsigenga, Matsiguenga, Mañaries, Niagantsi]
 population: 21400
 country_id: PE
 country_name: Peru
+location: Peru
+area: Arawakan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living

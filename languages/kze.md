@@ -5,11 +5,14 @@ autonym: null
 population: 2000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Kainantu language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.46414
 longitude: 145.66048
+glottocode: kose1239
 wikidata_id: Q12952663
 wikipedia_url: "https://en.wikipedia.org/wiki/Kosena_language"
 translations:

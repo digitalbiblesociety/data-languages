@@ -3,15 +3,18 @@ iso: cym
 iso639_1: cy
 name: Welsh
 autonym: Cymraeg
-alt_names: [An Bhreatnais, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Kamri simi, Kembraeg, Kembrek, Kiwelisi, Kymri, Kymrisch, Kymriska, Velska, Walijsko godka, Walisesch, Walisisch, Walisisk, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, y Gymraeg, Ƿielisc sprǣc, ולשית, ويلزى, ۋېلش تىلى]
+alt_names: [An Bhreatnais, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Kamri simi, Kembraeg, Kembrek, Kiwelisi, Kymri, Kymrisch, Kymriska, Velska, Walijsko godka, Walisesch, Walisisch, Walisisk, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, y Gymraeg, Ƿielisc sprǣc, ולשית, ويلزى, ۋېلش تىلى, Northern Welsh, Patagonian Welsh, Southern Welsh]
 population: 573050
 country_id: GB
 country_name: United Kingdom
+location: Ireland and United Kingdom
+area: Brittonic language spoken natively in Wales
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 52
 longitude: -4
+language_map_img: Welsh_speakers_in_the_2021_census.svg
 scripts: [Latn]
 glottocode: wels1247
 glottolog_family_id: indo1319

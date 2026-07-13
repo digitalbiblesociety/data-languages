@@ -7,6 +7,8 @@ alt_names: [Arabic, "Arabic, Omani", "Arabic, Omani Spoken", Omani Hadari Arabic
 population: 2851200
 country_id: OM
 country_name: Oman
+location: Oman
+area: Variety of Peninsular Arabic spoken in Oman
 status_id: "5"
 scope: individual
 language_type: living

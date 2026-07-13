@@ -3,15 +3,18 @@ iso: hoj
 macrolanguage_id: raj
 name: Hadothi
 autonym: Hadoti
-alt_names: [Hadauti, Harauti, Harauti language, Haroti, Havauti, Piploda]
+alt_names: [Hadauti, Harauti, Harauti language, Haroti, Havauti, Piploda, Hara]
 population: 2940000
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Rajasthani language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 24.85464
 longitude: 75.83659
+language_map_img: 500px-HadautiSpeakers.webp
 scripts: [Deva]
 glottocode: hado1235
 glottolog_family_id: indo1319

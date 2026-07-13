@@ -3,10 +3,12 @@ iso: bgq
 macrolanguage_id: raj
 name: Bagri
 autonym: बागड़ी
-alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani]
+alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani, Bawri]
 population: 2196000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Indian language
 status_id: "5"
 scope: individual
 language_type: living

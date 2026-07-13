@@ -6,6 +6,8 @@ alt_names: ["Dogon, Nanga Dama", Nanga, Nanga Dogon]
 population: 3000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language spoken in Mali
 status_id: 6a
 scope: individual
 language_type: living

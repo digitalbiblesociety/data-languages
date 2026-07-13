@@ -2,15 +2,18 @@
 iso: tar
 name: Central Tarahumara
 autonym: "Rarámuri ra'ícha"
-alt_names: [Central, Raramuri simi, Rocoroibo, Samachique, Samachique Tarahumara, South-western, Southwestern, Tarahumara, Tarahumara (Central), Tarahumara central, Tarahumara del Centro, Tarahumara del Suroeste, Tarahumara du sud-est, Tarahumara language, Tarahumara suroriental, "Tarahumara, Central", Tarahumara-Cent, Taraumara, Tubare, Vorohio]
+alt_names: [Central, Raramuri simi, Rocoroibo, Samachique, Samachique Tarahumara, South-western, Southwestern, Tarahumara, Tarahumara (Central), Tarahumara central, Tarahumara del Centro, Tarahumara del Suroeste, Tarahumara du sud-est, Tarahumara language, Tarahumara suroriental, "Tarahumara, Central", Tarahumara-Cent, Taraumara, Tubare, Vorohio, Alta Tarahumara, Ralámuli de la Tarahumara Alta, Ralámuli, Ralámuli de Pitoreal, Tarahumara de Pitoreal - Sisoguichi - Creel, Tarahumara de Samachique, Bocoyna Tarahumara]
 population: 29700
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 27.56478
 longitude: -107.15356
+language_map_img: Tarahumara_precontact_and_modern.svg
 glottocode: cent2131
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
@@ -63,3 +66,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Chihuahua"
 ---
+Tarahumara is a Uto-Aztecan language indigenous to Mexico and spoken by around 70,000 Rarámuri (Tarahumara/Ralámuli) people in the state of Chihuahua. It is the second most-widely spoken Uto-Aztecan language after Nahuatl.

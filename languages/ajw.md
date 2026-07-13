@@ -6,6 +6,7 @@ alt_names: [Ajanci]
 population: null
 country_id: NG
 country_name: Nigeria
+area: Afro-Asiatic language
 status_id: "10"
 scope: individual
 language_type: extinct

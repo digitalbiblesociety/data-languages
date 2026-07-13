@@ -2,10 +2,12 @@
 iso: nhw
 name: Western Huasteca Nahuatl
 autonym: "Nahuatl,  Huasteca Occidental"
-alt_names: [Mexicano, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Western Huasteca", Western Huasteca, Western Nahuatl, Western Nawa]
+alt_names: [Mexicano, Nahuatl, Nahuatl (Huasteca), "Nahuatl, Western Huasteca", Western Huasteca, Western Nahuatl, Western Nawa, Náhuatl de la Huasteca Occidental, Náhuatl de Tamazunchale, Huasteca Occidental, Western Huasteca Aztec, Náhuatl (Azteca) de Tamazunchale, Náhuatl (Azteca) de la Huasteca Occidental, Huasteca West Náhuatl, nāhuatlahtōlli]
 population: 400000
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Dialect of Nahuatl
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西瓦斯特卡纳瓦特尔语
     auto: true
 ---
+Huasteca Nahuatl is a Nahuan language spoken by over a million people in the region of La Huasteca in Mexico, centered in the states of Hidalgo, Veracruz (Eastern) and San Luis Potosí (Western).

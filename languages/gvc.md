@@ -6,11 +6,14 @@ alt_names: [Anana, Ananas, Kotedia, Kotiria, Kótedia, Kótirya, Pira-Tapuya, Pi
 population: 550
 country_id: BR
 country_name: Brazil
+location: Northwestern Brazil
+area: Tucanoan language spoken in Brazil and Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 1.07554
 longitude: -69.57049
+language_map_img: Wanano.webp
 glottocode: guan1269
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

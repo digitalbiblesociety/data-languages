@@ -2,10 +2,12 @@
 iso: keb
 name: Kélé
 autonym: Dikele
-alt_names: [Akele, Kele, Western Kele]
+alt_names: [Akele, Kele, Western Kele, Bubi, Kili, Metombolo]
 population: 9230
 country_id: GA
 country_name: Gabon
+location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
+area: Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living

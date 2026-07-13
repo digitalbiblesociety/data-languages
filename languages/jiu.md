@@ -6,6 +6,8 @@ alt_names: [Jino, Jinuo, "Jinuo, Youle", "Jinuo,Youle", Youle]
 population: 10000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish languages spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 优乐基诺语
     auto: true
 ---
+The Jino language constitutes a pair of Loloish language varieties spoken by the Jino people of Yunnan, China.

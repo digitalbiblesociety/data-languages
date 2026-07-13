@@ -6,6 +6,7 @@ alt_names: [Guang, Ndmpo]
 population: 965
 country_id: GH
 country_name: Ghana
+area: Language of Ghana
 status_id: "7"
 scope: individual
 language_type: living

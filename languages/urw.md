@@ -2,10 +2,12 @@
 iso: urw
 name: Sop
 autonym: Sob
-alt_names: [Kari, Usino]
+alt_names: [Kari, Usino, Sob Dora]
 population: 2250
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 7"
+area: Rai Coast language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

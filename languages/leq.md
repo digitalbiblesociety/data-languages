@@ -6,6 +6,7 @@ alt_names: [Nanimba Pii, Uyalipa Pii, Wapi Pii]
 population: 1760
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
 status_id: "5"
 scope: individual
 language_type: living

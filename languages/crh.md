@@ -2,10 +2,12 @@
 iso: crh
 name: Crimean Tatar
 autonym: Crimean
-alt_names: [Crimean Turkish, CrimeanTurkish, Krim-Tataars, Krimtatariska, Krymskotatarsko godka, Kırım Tatarcası, Qırımtatar tele, Tatar (Crimean), Tatar de Crimée, Tatar de Crimée (Crimée), Tatar de Crimée (Dobroudja), "Tatar, Crimean", Tatareg Crimea, Tatareg Krimea, "Turkish, Crimean", Tàtar de Crimea, Tártaro Crimeano, Tártaro crimeano (Dobruja), Tártaro de Crimea, Tártaru de Crimea, qırım tili, qırımtatar tili, tatar de Crimé, крымскотатарский, Ҡырымтатар теле, טטרית של קרים, قرىم تاتار تىلى]
+alt_names: [Crimean Turkish, CrimeanTurkish, Krim-Tataars, Krimtatariska, Krymskotatarsko godka, Kırım Tatarcası, Qırımtatar tele, Tatar (Crimean), Tatar de Crimée, Tatar de Crimée (Crimée), Tatar de Crimée (Dobroudja), "Tatar, Crimean", Tatareg Crimea, Tatareg Krimea, "Turkish, Crimean", Tàtar de Crimea, Tártaro Crimeano, Tártaro crimeano (Dobruja), Tártaro de Crimea, Tártaru de Crimea, qırım tili, qırımtatar tili, tatar de Crimé, крымскотатарский, Ҡырымтатар теле, טטרית של קרים, قرىم تاتار تىلى, Къырымтатар, Central Crimean, Crimean Nogai, Northern Crimean, Qirim, Qirimtatar, Qırımtatarca, Southern Crimean, Steppe Crimean]
 population: 552740
 country_id: UA
 country_name: Ukraine
+location: Turkmenistan and Uzbekistan
+area: Turkic language spoken in Crimea
 status_id: "4"
 scope: individual
 language_type: living

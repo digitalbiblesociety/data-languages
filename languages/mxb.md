@@ -2,10 +2,12 @@
 iso: mxb
 name: Tezoatlán Mixtec
 autonym: "Mixtec, Tezoatlán"
-alt_names: [Cacaloxtepec Mixtec, Huajuapan Mixtec, Mixteco de Cacaloxtepec, Mixteco de Tezoatlán de Segura y Luna, Northern Misteko, Northern Mixteco, Tezoatlan Mixtec]
+alt_names: [Cacaloxtepec Mixtec, Huajuapan Mixtec, Mixteco de Cacaloxtepec, Mixteco de Tezoatlán de Segura y Luna, Northern Misteko, Northern Mixteco, Tezoatlan Mixtec, Mixtec, Tezoatlán, Tuꞌun ndaꞌi]
 population: 5080
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Mixtec languages of Mexico
 status_id: "5"
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Silacayoapan is one of the more extensive Mixtec languages. It is spoken by 150,000 people in Puebla and across the border in Guerrero, as well as by emigrants to the United States.

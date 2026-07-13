@@ -2,9 +2,11 @@
 iso: izz
 name: Izii
 autonym: Izii
+alt_names: [Izi, Izhi, Izzi]
 population: 540000
 country_id: NG
 country_name: Nigeria
+area: Igboid language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

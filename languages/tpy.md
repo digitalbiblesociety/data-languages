@@ -6,6 +6,8 @@ alt_names: [Tramalhy, Trumaí]
 population: 100
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Endangered language isolate of Brazil
 status_id: 8a
 scope: individual
 language_type: living

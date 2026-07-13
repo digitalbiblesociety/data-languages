@@ -2,15 +2,18 @@
 iso: ljp
 name: Lampung Api
 autonym: cawa Lampung
-alt_names: [Api, Lampong, Lampung, Lampung language, Lampung pesisir]
+alt_names: [Api, Lampong, Lampung, Lampung language, Lampung pesisir, Daya, Kroe, "Kru'i", Krui, Njo, Pubian, Ranau, Southern Pesisir, Sungkai, Western Lampung]
 population: 827000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -5.73463
 longitude: 105.03657
+language_map_img: Lampungic_isolects.svg
 scripts: [Latn]
 glottocode: lamp1243
 glottolog_family_id: aust1307

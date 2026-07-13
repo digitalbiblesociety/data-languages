@@ -6,6 +6,8 @@ alt_names: [Cuscoquín alto, Haut-kuskokwim, Kolchan, Kuskokwim, Kuskokwim (Uppe
 population: 160
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Athabaskan language
 status_id: 8a
 scope: individual
 language_type: living

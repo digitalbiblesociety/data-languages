@@ -2,10 +2,12 @@
 iso: ppk
 name: Uma
 autonym: Pipikoro
-alt_names: [Oema]
+alt_names: [Oema, Koro, Aria, Bana, Benggaulu, Bingkolu, Central Uma, Dompa, Eastern Uma, Kantewu, Northern Uma, Ompa, Southern Uma, Tobaku, Toleeꞌ, Western Uma, Winatu]
 population: 18800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

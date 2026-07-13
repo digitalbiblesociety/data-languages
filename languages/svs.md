@@ -6,6 +6,8 @@ alt_names: [Savo Island, Savsavo]
 population: 2420
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Language of the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living

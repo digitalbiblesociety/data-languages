@@ -2,15 +2,18 @@
 iso: hoc
 name: Ho
 autonym: " हो जगर"
-alt_names: [Bihar Ho, Hoeg, Kol von Singbhum, Lanka Kol, Lankakol, Laɽka Kol, Mundari, Mundari-Ho, hōō jagara, Хо, ହୋ ଜଗର]
+alt_names: [Bihar Ho, Hoeg, Kol von Singbhum, Lanka Kol, Lankakol, Laɽka Kol, Mundari, Mundari-Ho, hōō jagara, Хо, ହୋ ଜଗର, Chaibasa-Thakurmunda, Ho haram, Ho jagar, Ho kaji, Lohara]
 population: 1420000
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Austroasiatic language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.95959
 longitude: 87.118775
+language_map_img: Ho_language_distribution_map.webp
 scripts: [Deva, Wara]
 glottocode: hooo1248
 glottolog_family_id: aust1305

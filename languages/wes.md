@@ -2,10 +2,11 @@
 iso: wes
 name: Cameroon Pidgin
 autonym: Wes Cos
-alt_names: ["Pidgin, Cameroon"]
+alt_names: ["Pidgin, Cameroon", Cameroon Creole English, Pidgin, Cameroon, CPE, Cameroon Creole, Cameroonian Creole, Kamtok]
 population: 2000000
 country_id: CM
 country_name: Cameroon
+area: English-based creole of Cameroon
 status_id: "3"
 scope: individual
 language_type: living

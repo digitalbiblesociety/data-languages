@@ -2,10 +2,12 @@
 iso: ggb
 name: Gbii
 autonym: Gbee
-alt_names: [Gbi-Dowlu]
+alt_names: [Gbi-Dowlu, Dorbor, Kplor]
 population: 5600
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Krahn language of Liberia
 status_id: 6a
 scope: individual
 language_type: living

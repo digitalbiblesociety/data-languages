@@ -6,6 +6,8 @@ alt_names: [Botocudo, Botocudos, Bugre, Chocleng, Shocleng, Shokleng]
 population: 760
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
+area: Macro-Jê language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living

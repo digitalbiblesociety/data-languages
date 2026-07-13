@@ -2,10 +2,12 @@
 iso: bds
 name: Burunge
 autonym: Bulunge
-alt_names: [Burunge hizkuntza, Burungi, Burunguí, Mbulugwe, Mbulunge]
+alt_names: [Burunge hizkuntza, Burungi, Burunguí, Mbulugwe, Mbulunge, Burunga Iso, Burungaisoo, Burungee, Kiburunge, Mbulungi, Mbulungwe]
 population: 13000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Afro-Asiatic language
 status_id: 6a
 scope: individual
 language_type: living

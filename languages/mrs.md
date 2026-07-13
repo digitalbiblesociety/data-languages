@@ -2,10 +2,12 @@
 iso: mrs
 name: Maragus
 autonym: Maragus
-alt_names: [Mallicolo, Maragaus, Tape]
+alt_names: [Mallicolo, Maragaus, Tape, Tobah]
 population: 15
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living

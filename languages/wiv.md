@@ -2,10 +2,12 @@
 iso: wiv
 name: Vitu
 autonym: Muduapa
-alt_names: [Bali-Vitu, Witu]
+alt_names: [Bali-Vitu, Witu, Bali, Pole Matotoa, Pole Vitu, Tok Vitu, Vittu]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

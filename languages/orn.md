@@ -6,6 +6,8 @@ autonym: Kanaq
 population: null
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Aboriginal Malay language
 status_id: 8b
 scope: individual
 language_type: living

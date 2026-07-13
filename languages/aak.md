@@ -2,9 +2,11 @@
 iso: aak
 name: Ankave
 autonym: Angave
+alt_names: [Ankai, "Bu'u", Miyatnu, Sawuve, Wiyagwa, Wunavai]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
 status_id: "5"
 scope: individual
 language_type: living

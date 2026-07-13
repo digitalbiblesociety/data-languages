@@ -6,11 +6,14 @@ alt_names: [Indonesia, "Malay, Balinese"]
 population: 25000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Java and Bali"
+area: Languages descended from Low Malay
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -8.35714
 longitude: 115.07496
+language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp
 glottocode: bali1279
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -6,6 +6,8 @@ alt_names: [Chinantec, "Chinantec, Valle Nacional", Chinanteco, Chinanteco centr
 population: 1500
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: Chinantecan language of Mexico
 status_id: "7"
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Tuxtepec, San Juan Bautista Valle Nacional, San Mateo Yetla"
 ---
+Palantla Chinantec, also known as Chinanteco de San Pedro Tlatepuzco, is a major Chinantecan language of Mexico, spoken in San Juan Palantla and a couple dozen neighboring towns in northern Oaxaca. The variety of San Mateo Yetla, known as Valle Nacional Chinantec, has marginal mutual intelligibility.

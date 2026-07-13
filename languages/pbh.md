@@ -2,10 +2,12 @@
 iso: pbh
 name: "E'ñapa Woromaipu"
 autonym: E’ñapa Woromaipu
-alt_names: [Abira, "E'ñepa", Eye, Eñepa, Panare, Panareg, Panari]
+alt_names: [Abira, "E'ñepa", Eye, Eñepa, Panare, Panareg, Panari, Eñapa, Mapoyo]
 population: 4180
 country_id: VE
 country_name: Venezuela
+location: Venezuela
+area: Cariban language
 status_id: "5"
 scope: individual
 language_type: living

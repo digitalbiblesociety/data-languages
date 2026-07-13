@@ -2,10 +2,12 @@
 iso: agb
 name: Legbo
 autonym: Legbo
-alt_names: [Agbo, Gbo, Igbo, Imaban, Itigidi]
+alt_names: [Agbo, Gbo, Igbo, Imaban, Itigidi, Leggbo]
 population: 60000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Upper Cross River language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

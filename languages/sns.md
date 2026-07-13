@@ -2,10 +2,12 @@
 iso: sns
 name: South West Bay
 autonym: " Siesip"
-alt_names: [Mallicolo, "Na'ahai", Nahavaq, Seniang, Sinesip]
+alt_names: [Mallicolo, "Na'ahai", Nahavaq, Seniang, Sinesip, Labo, Lamangkau, Na’ahai, Nahapa]
 population: 355
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

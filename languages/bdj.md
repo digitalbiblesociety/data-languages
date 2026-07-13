@@ -6,6 +6,8 @@ alt_names: [Bai]
 population: 2500
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Ubangian language spoken in South Sudan
 status_id: "7"
 scope: individual
 language_type: living

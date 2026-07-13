@@ -2,14 +2,18 @@
 iso: kem
 name: Kemak
 autonym: Ema
+alt_names: [Atabae, Atsabe, Ermera, Hatolia, Haubaa, Kailaku, Maliana, Marobo, Nogo, Nogo-Nogo]
 population: 90000
 country_id: TL
 country_name: "Timor-Leste"
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken in East Timor and Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -9.002995
 longitude: 125.15871
+language_map_img: 500px-Kemak.webp
 glottocode: kema1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

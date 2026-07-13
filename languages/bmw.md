@@ -6,6 +6,8 @@ alt_names: [Boumoali, Bumali, Lino, Sangasanga]
 population: 55100
 country_id: CG
 country_name: Congo
+location: Congo
+area: Bantu language of the Republic of the Congo and Cameroon
 status_id: 6a
 scope: individual
 language_type: living

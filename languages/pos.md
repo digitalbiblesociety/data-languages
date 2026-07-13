@@ -6,6 +6,8 @@ alt_names: [Popoluca, Popoluca (Sayula), Popoluca de Sayula, "Popoluca, Sayula",
 population: 4000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Mixe–Zoque language of southern Mexico
 status_id: 6b
 scope: individual
 language_type: living

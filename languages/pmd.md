@@ -2,9 +2,11 @@
 iso: pmd
 name: Pallanganmiddang
 autonym: Waywurru
+alt_names: [Pallangahmiddang]
 population: null
 country_id: AU
 country_name: Australia
+area: Extinct Pama–Nyungan language of southeastern Australia
 status_id: "10"
 scope: individual
 language_type: extinct

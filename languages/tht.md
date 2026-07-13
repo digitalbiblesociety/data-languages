@@ -6,6 +6,8 @@ alt_names: [Nahanni, Tahl-tan, Tāłtān, Tāłtān (Tahltan)]
 population: 750
 country_id: CA
 country_name: Canada
+location: Canada
+area: Endangered Athabaskan language of Canada
 status_id: 8a
 scope: individual
 language_type: living

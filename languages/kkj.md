@@ -2,10 +2,12 @@
 iso: kkj
 name: Kako
 autonym: Kaka
-alt_names: [Dikaka, Kakum, Mkako, Nkoxo, Yaka]
+alt_names: [Dikaka, Kakum, Mkako, Nkoxo, Yaka, Bera, Besembo, Kakɔ, Mbonjoku, Mkaka, Ngbako]
 population: 123400
 country_id: CM
 country_name: Cameroon
+location: Central African Republic
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

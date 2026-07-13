@@ -6,11 +6,14 @@ alt_names: [Mariu, Mariyung, Mireau, Miriung, Miriwong, Miriwoong / Miriuwung, M
 population: 110
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Aboriginal Australian language of the Kimberley region in Western Australia
 status_id: 8a
 scope: individual
 language_type: living
 latitude: -16.3596
 longitude: 128.88869
+language_map_img: 500px-Miriwoong_language.webp
 glottocode: miri1266
 glottolog_family_id: jarr1235
 glottolog_family_name: Jarrakan

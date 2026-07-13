@@ -2,10 +2,12 @@
 iso: tik
 name: Tikar
 autonym: Ndob
-alt_names: [Ndome, Tikali, Tikar-East, Tikari, Tingkala]
+alt_names: [Ndome, Tikali, Tikar-East, Tikari, Tingkala, Bandobo, Gambai, Kong, Mankim, Nditam, Tige, Tikar de Bankim, Tikar de Ngambe, Tumu, Twumwu]
 population: 110000
 country_id: CM
 country_name: Cameroon
+location: Southeastern Cameroon
+area: "Semi-bantu language in Adamawa Region, Cameroon"
 status_id: "5"
 scope: individual
 language_type: living

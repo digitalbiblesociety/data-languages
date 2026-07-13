@@ -5,6 +5,7 @@ autonym: Kichai
 population: null
 country_id: US
 country_name: United States
+area: Extinct Caddoan language of North America
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: tsw
 name: Tsishingini
 autonym: null
-alt_names: [Ashingini, Kambari, Kamberchi, Kamberri, Salka]
+alt_names: [Ashingini, Kambari, Kamberchi, Kamberri, Salka, Cishingini, Ibeto]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Niger"
 ---
+The Shingini language is a Kainji language of Nigeria spoken by the Kambari people. Its two dialects are Tsishingini and Cishingini (Chishingini).

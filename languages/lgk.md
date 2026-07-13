@@ -2,10 +2,12 @@
 iso: lgk
 name: Lingarak
 autonym: Lingarak
-alt_names: ["Bushman's Bay", Mallicolo, Neverver]
+alt_names: ["Bushman's Bay", Mallicolo, Neverver, Bushman’s Bay, Nevwervwer]
 population: 1250
 country_id: VU
 country_name: Vanuatu
+location: "Vanuatu, Enlarged Area"
+area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living

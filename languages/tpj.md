@@ -6,6 +6,8 @@ alt_names: [Apytare, Ava, Caingua, Chané, Chiriguano, Chiripá, Chiripá-Nyande
 population: 1759
 country_id: PY
 country_name: Paraguay
+location: Argentina and Chile
+area: Tupian language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ rolv_dialects:
     country_id: PY
     location: Paraguay
 ---
+Eastern Bolivian Guaraní, known locally as Chawuncu or Chiriguano (pejorative), is a Guaraní language spoken in South America. In Bolivia 33,670 speakers, called the Ava Guaraní people were counted in the year 2000, in the south-central Parapeti River area and in the city of Tarija. In Argentina, there were approximately 15,000 speakers, mostly in Jujuy, but also in Salta Province, and 304 counted in the Paraguayan Chaco.

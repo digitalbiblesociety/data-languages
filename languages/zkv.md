@@ -5,6 +5,7 @@ autonym: Krevin
 population: null
 country_id: LV
 country_name: Latvia
+area: Extinct dialect of Votic
 status_id: null
 scope: individual
 language_type: extinct

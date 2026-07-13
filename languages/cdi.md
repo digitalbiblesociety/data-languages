@@ -2,10 +2,12 @@
 iso: cdi
 name: Chodri
 autonym: Chowdhary
-alt_names: [Chaudhari, Chaudri, Chodhari, Choudhara, Choudhary]
+alt_names: [Chaudhari, Chaudri, Chodhari, Choudhara, Choudhary, Bhil]
 population: 111000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: "Bhil language of Gujarat, India"
 status_id: "5"
 scope: individual
 language_type: living

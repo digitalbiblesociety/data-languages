@@ -6,6 +6,8 @@ alt_names: [India]
 population: 10200
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Kuki-Chin language of India
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,11 +5,14 @@ autonym: Szinca
 population: null
 country_id: GT
 country_name: Guatemala
+area: Extinct language family of Guatemala
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: 14.31028
 longitude: -89.82346
+language_map_img: Xincan_languages.webp
+glottocode: xinc1247
 wikidata_id: Q1546494
 wikipedia_url: "https://en.wikipedia.org/wiki/Xincan_languages"
 translations:

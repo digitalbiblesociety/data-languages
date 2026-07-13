@@ -2,10 +2,12 @@
 iso: sua
 name: Sulka
 autonym: null
-alt_names: [Neu-Pommern]
+alt_names: [Neu-Pommern, Moglon]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Language isolate of Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

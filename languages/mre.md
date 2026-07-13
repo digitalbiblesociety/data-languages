@@ -6,6 +6,7 @@ alt_names: [MVSL, Martha’s Vineyard-tegnspråk, Martha’s Vineyards Gebärden
 population: null
 country_id: US
 country_name: United States
+area: "Extinct sign language of Massachusetts, US"
 status_id: null
 scope: individual
 language_type: extinct

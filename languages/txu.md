@@ -2,10 +2,12 @@
 iso: txu
 name: Kayapó
 autonym: Mẽbêngôkre kabẽn
-alt_names: [Cayapo, Cayapó, Gorotire, Kayapo, Kokairmoro, Kokraimoro, Mebengokre, Mebêngokrê, Put Karot, Southern Cayapo, Xikrin]
+alt_names: [Cayapo, Cayapó, Gorotire, Kayapo, Kokairmoro, Kokraimoro, Mebengokre, Mebêngokrê, Put Karot, Southern Cayapo, Xikrin, Diore, Kararaó, Kayapó-Kradaú, Xukru]
 population: 7270
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Northern Je language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living

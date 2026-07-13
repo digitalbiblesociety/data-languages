@@ -3,15 +3,18 @@ iso: ava
 iso639_1: av
 name: Avaric
 autonym: Avaric
-alt_names: [Abararazda, Akari, Avaars, Avar, Avar language, Avarca, Avareg, Avari, Avarisk, Avariska, Avaro, Avarska, Dagestan, Khunza dialect, Àvar, Ауар теле, ЖIайхойн мотт, МагIарул мацI]
+alt_names: [Abararazda, Akari, Avaars, Avar, Avar language, Avarca, Avareg, Avari, Avarisk, Avariska, Avaro, Avarska, Dagestan, Khunza dialect, Àvar, Ауар теле, ЖIайхойн мотт, МагIарул мацI, Bolmac, Khundzuri, Maarul Dagestani, Магӏарул мацӏ, хакас тiлi, Ancux, Andalal, Andalal Shulanin, Andalal Untib, Andian Avar, Antsukh, Bacadin, Batlukh, Bolmats, Char, Dagestani, Hid Kaxib, Hid Keleb, Karakh, Khunzakh, North Avar, Qarakh, Qusur, Salatav, South-East Avar, South-West Avar, Unkratl, Zakataly, Zaqatal, Zaqatala]
 population: 765300
 country_id: RU
 country_name: Russia
+location: Azerbaijan
+area: "Northeast Caucasian language of the Avars of Dagestan, North Caucasus"
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 41.70474
 longitude: 46.55802
+language_map_img: Northeast_Caucasus_languages_map_en.svg
 scripts: [Cyrl]
 glottocode: avar1256
 glottolog_family_id: nakh1245

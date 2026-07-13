@@ -2,15 +2,18 @@
 iso: yup
 name: Yukpa
 autonym: Carib Motilón
-alt_names: [Coastal Carib, Japrería, Macoíta, Motilon, Motilone (Carib), Motilone (Northern), Motilón, Motilón (Northern), Northern Motilón, Yuco, Yucpa, Yucpa-Yaprería, Yuko, Yukpa-Japería, Yukpa-Japrería, Yupa]
+alt_names: [Coastal Carib, Japrería, Macoíta, Motilon, Motilone (Carib), Motilone (Northern), Motilón, Motilón (Northern), Northern Motilón, Yuco, Yucpa, Yucpa-Yaprería, Yuko, Yukpa-Japería, Yukpa-Japrería, Yupa, Northern Motilone]
 population: 1500
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Cariban language of Venezuela and Columbia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 9.67534
 longitude: -73.05574
+language_map_img: Yukpa.webp
 glottocode: yukp1241
 glottolog_family_id: cari1283
 glottolog_family_name: Cariban

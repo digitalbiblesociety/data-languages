@@ -2,10 +2,12 @@
 iso: kfp
 name: Korwa
 autonym: Koraku
-alt_names: [Ernga, Erngga, Mundari, Mundari-Ho, Singli]
+alt_names: [Ernga, Erngga, Mundari, Mundari-Ho, Singli, Majhi-Korwa]
 population: 28500
 country_id: IN
 country_name: India
+location: "India, Map 3"
+area: Munda language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

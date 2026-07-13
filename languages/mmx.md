@@ -2,10 +2,12 @@
 iso: mmx
 name: Madak
 autonym: null
-alt_names: [Lelet, Mandak, Neu-Mecklenburg]
+alt_names: [Lelet, Mandak, Neu-Mecklenburg, Danu, Katingan, Malom, Mesi]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 2"
+area: Western Oceanic language
 status_id: "4"
 scope: individual
 language_type: living

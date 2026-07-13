@@ -2,10 +2,12 @@
 iso: maw
 name: Mampruli
 autonym: Mamprusi
-alt_names: [Mampelle, Mamprule, Mamprussi, Manpelle, Ngmamperli, Ŋmampəlli]
+alt_names: [Mampelle, Mamprule, Mamprussi, Manpelle, Ngmamperli, Ŋmampəlli, Eastern Mampruli, Nmampurli]
 population: 326000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of northern Ghana
 status_id: "2"
 scope: individual
 language_type: living

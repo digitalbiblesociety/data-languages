@@ -2,10 +2,12 @@
 iso: obo
 name: Obo Manobo
 autonym: Obo Manobo
-alt_names: [Bagobo, Kidapawan Manobo, "Manobo, Obo", Obo Bagobo]
+alt_names: [Bagobo, Kidapawan Manobo, "Manobo, Obo", Obo Bagobo, Manobo, Obo, Arakan Manobo, Magpet Manobo, Marilog, Minonuvu]
 population: 60000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living

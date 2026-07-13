@@ -2,10 +2,12 @@
 iso: pne
 name: Western Penan
 autonym: Penan
-alt_names: ["\"Punan\"", Nibon, Nibong, "Penan, Western"]
+alt_names: ["\"Punan\"", Nibon, Nibong, "Penan, Western", “Punan”, Bok, Bok Penan, Gang, Jelalong Penan, Lusong, Penan Apo, Penan Gang, Penan Lanying, Penan Lusong, Penan Silat, Sipeng, Speng]
 population: 3400
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: ID
     location: "Indonesia, Kalimantan Timur (East)"
 ---
+Penan, also known as Punan-Nibong, is a language complex spoken by the Penan people of Borneo. They are related to the Kenyah languages. Glottolog shows Western Penan as closer to Sebop than it is to Eastern Penan.

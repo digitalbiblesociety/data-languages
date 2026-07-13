@@ -2,15 +2,18 @@
 iso: tlb
 name: Tobelo
 autonym: bahasa Tobelo
-alt_names: [Indonesia]
+alt_names: [Indonesia, Boëng, Dodinga, Heleworuru]
 population: 27700
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 1.0946
 longitude: 128.15361
+language_map_img: Halmahera_tobelo.webp
 glottocode: tobe1252
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera

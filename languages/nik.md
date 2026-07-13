@@ -6,6 +6,8 @@ alt_names: [Condul, Great Nicobar, Lamongse, Lamongshe, Little Nicobar, "Lo'ong"
 population: 348
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Language spoken on Southern Nicobar Islands
 status_id: 6a
 scope: individual
 language_type: living

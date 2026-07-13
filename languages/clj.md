@@ -2,10 +2,12 @@
 iso: clj
 name: Laitu Chin
 autonym: Daitu
-alt_names: ["Chin, Laitu"]
+alt_names: ["Chin, Laitu", Daaitu, Hio Bei, Hle-tu, Kanni Stream, Kongtu, Laikhy, Laitu Kheu, Ledu, Leitu, Panmyaunggyi Stream, Phuntha Stream, Yaw Stream]
 population: 15000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Kuki-Chin language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

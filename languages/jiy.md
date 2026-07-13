@@ -6,6 +6,8 @@ alt_names: [Buyuan, Jino, Jinuo, "Jinuo, Buyuan", "Jinuo,Buyuan", Yinuo]
 population: 1000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Loloish languages spoken in China
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 布远基诺语
     auto: true
 ---
+The Jino language constitutes a pair of Loloish language varieties spoken by the Jino people of Yunnan, China.

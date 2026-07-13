@@ -2,10 +2,12 @@
 iso: lbo
 name: Laven
 autonym: " ຈຼ໌ຣູະ"
-alt_names: [Boloven, Boriwen, Jaru, Jru, "Jru'", Jruq, Jəru-Sprachen, Laweenjru, Lawen, Loven]
+alt_names: [Boloven, Boriwen, Jaru, Jru, "Jru'", Jruq, Jəru-Sprachen, Laweenjru, Lawen, Loven, Jru’]
 population: 56400
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living

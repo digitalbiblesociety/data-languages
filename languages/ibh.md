@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: VN
 country_name: Vietnam
+area: Austronesian language spoken in Vietnam
 status_id: null
 scope: individual
 language_type: living
@@ -52,3 +53,4 @@ translations:
     name: 比赫语
     auto: true
 ---
+Rade is an Austronesian language of southern Vietnam. There may be some speakers in Cambodia. It is a member of the Chamic subgroup, and is closely related to the Cham language of central Vietnam.

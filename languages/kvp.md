@@ -6,6 +6,8 @@ alt_names: [Aru, Kongampani]
 population: 330
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Southern Maluku"
+area: Austronesian language in Maluku
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 孔帕内语
     auto: true
 ---
+Kola is one of the Aru languages, spoken in the northernmost part of the Aru Islands, mainly on Kola Island and in the northern and western part of Wokam Island.

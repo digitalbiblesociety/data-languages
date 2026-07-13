@@ -6,6 +6,8 @@ alt_names: [Innoko, Upper Innoko]
 population: 200
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Extinct Athabaskan language of US
 status_id: 8b
 scope: individual
 language_type: living

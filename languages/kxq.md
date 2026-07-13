@@ -2,10 +2,12 @@
 iso: kxq
 name: Smärky Kanum
 autonym: Kanum
-alt_names: ["Kanum, Smärky", Smarky Kanum, Smärky]
+alt_names: ["Kanum, Smärky", Smarky Kanum, Smärky, Enkelembu, Kenume, Knwne]
 population: 150
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Yam language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: kdp
 name: "Kaningdon-Nindem"
 autonym: "Kaningkom-Nindem"
-alt_names: [Nigeria]
+alt_names: [Nigeria, Kaningdom-Nindem, Kaningkon-Nindem, Kaninkom-Nindem, Kaninkon-Nindem, Ninkyob-Nindem, Inidem, Kaningkom, Kaningkwom, Kaninkon, Nidem, Nikyob, Nindem, Ninkyob, Ninkyop]
 population: 12000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

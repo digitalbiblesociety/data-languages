@@ -2,10 +2,12 @@
 iso: mfz
 name: Mabaan
 autonym: Mabaan
-alt_names: [Barga, Gura, Maaban, Maban, Meban, Southern Burun, Süd-Burun, Tonko, Tungan, Ulu]
+alt_names: [Barga, Gura, Maaban, Maban, Meban, Southern Burun, Süd-Burun, Tonko, Tungan, Ulu, Ma Baan]
 population: 90000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Nilotic language spoken in Sudan Plateau
 status_id: "5"
 scope: individual
 language_type: living
@@ -63,3 +65,4 @@ rolv_dialects:
     country_id: SS
     location: "South Sudan, Upper Nile"
 ---
+Southern Burun is a Western Nilotic language of Sudan. It is a dialect continuum with Burun proper, Mabaan/Ulu, and Jumjum.

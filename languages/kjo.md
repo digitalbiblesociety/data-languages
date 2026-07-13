@@ -2,10 +2,12 @@
 iso: kjo
 name: Harijan Kinnauri
 autonym: Himachali
-alt_names: [Harijan Boli, Kinnauri Pahari, "Kinnauri, Harijan", Ores Boli Chamang Boli, "Pahari, Kinnauri", Sonar Boli]
+alt_names: [Harijan Boli, Kinnauri Pahari, "Kinnauri, Harijan", Ores Boli Chamang Boli, "Pahari, Kinnauri", Sonar Boli, Boli, Chamang Boli, Orasi, Ores, Pahari Kinnauri, Lower Kinnauri]
 population: 6330
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Western Pahari language of northern India
 status_id: 6a
 scope: individual
 language_type: living

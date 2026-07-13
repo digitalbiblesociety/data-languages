@@ -6,6 +6,8 @@ alt_names: [Anga, Angikar, Angičtina, Chhika-Chhiki]
 population: 743600
 country_id: IN
 country_name: India
+location: "India, Map 4"
+area: Bihari language of India and Nepal
 status_id: "5"
 scope: individual
 language_type: living

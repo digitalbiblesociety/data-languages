@@ -2,10 +2,12 @@
 iso: mwt
 name: Moken
 autonym: Basing
-alt_names: ["Chau Ko'", Mawken, Moklen, Salon, Salong, Selong, Selung]
+alt_names: ["Chau Ko'", Mawken, Moklen, Salon, Salong, Selong, Selung, Chau Ko’, Lawta, Orang Laut, Dung, Ja-It, Jait, Kòʔ Surin, "L'be", Lebi, Niawi, Northern Jadiak, Rawai, Southern Jadiak]
 population: 6000
 country_id: MM
 country_name: Myanmar
+location: Southern Myanmar
+area: Austronesian language spoken in southern Thailand and in western Burma
 status_id: 6b
 scope: individual
 language_type: living

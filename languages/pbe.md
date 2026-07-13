@@ -6,6 +6,8 @@ alt_names: [Chocho-Popoloka, Los Reyes Metzontla, Popoloc, Popoloca, Popoloca (M
 population: 2000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Popolocan language of Puebla, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
@@ -53,3 +55,5 @@ translations:
     name: 梅松特拉波波洛卡语
     auto: true
 ---
+Southern Popoloca is an indigenous language of Puebla state, Mexico. There are two principal varieties, sometimes counted as distinct languages:San Juan Atzingo Popoloca 
+Metzontla Popoloca which are about 75% mutually intelligible.

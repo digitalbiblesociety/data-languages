@@ -2,10 +2,12 @@
 iso: heh
 name: Hehe
 autonym: Kihehe
-alt_names: [Wahehe]
+alt_names: [Wahehe, Dzungwa, Ehe, Ekiehe, Kojisamba, Kosisamba, Kotsisamba, Sungwa, Tsungwa]
 population: 1210000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

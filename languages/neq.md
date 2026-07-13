@@ -2,10 +2,12 @@
 iso: neq
 name: North Central Mixe
 autonym: Central Mixe
-alt_names: [Atitlín Mixe, Mije, Mixe, Mixe de Atitlín, "Mixe, North Central", Northeastern Mixe, Oaxaca Mije]
+alt_names: [Atitlín Mixe, Mije, Mixe, Mixe de Atitlín, "Mixe, North Central", Northeastern Mixe, Oaxaca Mije, Atitlán Mixe, Mixe de Atitlán, Ayuuk, Cotzocón Mixe, Hayuuk, Mixe de San Juan Cotzocón, Mixe del norte central, Mixistlan, North Central, Olotepec, Puxmetecán, Zacatepec]
 population: 13000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -89,3 +91,5 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca, Mixe"
 ---
+Midland a.k.a. Central Mixe is a Mixe language spoken in Mexico. According to Wichmann (1995), there are two groups of dialects:NorthJaltepec, Puxmetecán, Atitlán, Matamoros, Cotzocón
+SouthJuquila, Cacalotepec

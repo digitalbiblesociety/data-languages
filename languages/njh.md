@@ -2,10 +2,12 @@
 iso: njh
 name: Lotha Naga
 autonym: Chizima
-alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü]
+alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü, Kyo, Kyou, Live, Ndreng, Tsontsu]
 population: 179000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Sino-Tibetan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living

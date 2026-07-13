@@ -2,15 +2,18 @@
 iso: gay
 name: Gayo
 autonym: Basa Gayo
-alt_names: [Gajo]
+alt_names: [Gajo, Deret, Gayonese, Lues, Lut, Serbejadi-Lukup]
 population: 337000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 4.3733
 longitude: 97.34556
+language_map_img: Languages_of_Northern_Sumatra_en.svg
 scripts: [Latn]
 glottocode: gayo1244
 glottolog_family_id: aust1307

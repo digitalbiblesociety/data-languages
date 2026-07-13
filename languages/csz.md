@@ -6,11 +6,13 @@ alt_names: [Anasitch, Hanis, Hanis Coos]
 population: 250
 country_id: US
 country_name: United States
+area: Extinct Native American language formerly spoken in Oregon
 status_id: "9"
 scope: individual
 language_type: living
 latitude: 43.44131
 longitude: -124.15962
+language_map_img: Coosan_map.svg
 glottocode: coos1249
 glottolog_family_id: coos1248
 glottolog_family_name: Coosan

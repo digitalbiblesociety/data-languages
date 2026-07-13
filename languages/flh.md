@@ -2,9 +2,12 @@
 iso: flh
 name: Foau
 autonym: Doa
+alt_names: [Abawiri]
 population: 230
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Lakes Plain language native to Indonesia
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: ["Ede Nago, Manigri-Kambolé", Kambolé, Manigri, Manigri-Kambole Ede
 population: 86800
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 北纳戈语
     auto: true
 ---
+Ede is a dialect continuum of Benin and Togo that is closely related to the Yoruba language. The best-known variety is Ife.

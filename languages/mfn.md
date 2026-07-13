@@ -2,10 +2,12 @@
 iso: mfn
 name: Cross River Mbembe
 autonym: Ekokoma
-alt_names: [Ifunubwa, "Mbembe, Cross River", Oderiga, Ofunobwam, Okam, Wakande]
+alt_names: [Ifunubwa, "Mbembe, Cross River", Oderiga, Ofunobwam, Okam, Wakande, Adun, Apiapum, Eghom, Ekama, Ekamu, Ewumbonga, Ezopong, Oferikpe, Ofombonga, Ofonokpan, Ohana-Onyen, Okom, Osophong, Osopong]
 population: 225000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Cross River language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

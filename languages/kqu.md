@@ -5,6 +5,7 @@ autonym: Seroa
 population: null
 country_id: ZA
 country_name: South Africa
+area: Extinct ǃKwi language of Southern Africa
 status_id: "10"
 scope: individual
 language_type: extinct

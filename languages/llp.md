@@ -2,10 +2,12 @@
 iso: llp
 name: North Efate
 autonym: Nakanamanga
-alt_names: [Efate (North), "Efate, North", Nguna, Tongoa, Vanuatu]
+alt_names: [Efate (North), "Efate, North", Nguna, Tongoa, Vanuatu, Buninga, Emau, Guna, Livara, Ngunese, Paunangis, Sesake]
 population: 9500
 country_id: VU
 country_name: Vanuatu
+location: Vanuatu
+area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living

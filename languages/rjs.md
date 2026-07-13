@@ -2,10 +2,12 @@
 iso: rjs
 name: Rajbanshi
 autonym: Gangai
-alt_names: [Koch, Koche, Rajbangsi, Rajbansi]
+alt_names: [Koch, Koche, Rajbangsi, Rajbansi, Central Rajbanshi, Eastern Rajbanshi, Nepal Rajbanshi, Tajpuria, Western Rajbanshi]
 population: 147000
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Indo-Aryan language spoken Nepal
 status_id: "5"
 scope: individual
 language_type: living

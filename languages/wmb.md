@@ -6,6 +6,8 @@ alt_names: [Binbinka, Huambaya, MacArthur Subgroup, Umbai, Umbaia, Umbia, Wailwa
 population: 43
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: "Endangered Mirndi language of Australia's Northern Territory"
 status_id: 6b
 scope: individual
 language_type: living

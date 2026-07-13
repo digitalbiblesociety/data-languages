@@ -5,11 +5,14 @@ autonym: Engganese
 population: 1500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -5.38846
 longitude: 102.24509
+language_map_img: 500px-Sumatra-Enggano.webp
 glottocode: engg1245
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

@@ -6,6 +6,8 @@ alt_names: [Garuvahi]
 population: 26
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living

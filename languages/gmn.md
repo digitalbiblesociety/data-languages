@@ -6,6 +6,8 @@ alt_names: [Kadam, Koma Kadam, Komlama, Laame, Yotubo]
 population: 3000
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Savanna language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: CM
     location: "Cameroon, Nord"
 ---
+The Koma language is a language cluster belonging to the Duru branch of Savannas languages of Cameroon. Blench (2004) includes three varieties separated in Ethnologue, Koma Ndera, Gɨmne, and Gɨmnɨme; within Koma Ndera, speakers of the marginal dialects, Gomnome and Ndera, can scarcely understand one another, though both understand the central dialect, Gomme.

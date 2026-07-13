@@ -6,6 +6,8 @@ alt_names: [Gere, Guere, Guéré, Neyo, We Western, Wèè]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+Guéré (Gere), also called Wè (Wee), is a Kru language spoken by over 300,000 people in the Dix-Huit Montagnes and Moyen-Cavally regions of Ivory Coast.

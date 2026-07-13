@@ -2,6 +2,7 @@
 iso: gba
 name: Gbaya
 autonym: Gbaya–Manza–Ngbaka
+alt_names: [Gbaya (Central African Republic)]
 population: null
 country_id: CF
 country_name: Central African Republic

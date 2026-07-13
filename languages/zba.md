@@ -6,6 +6,7 @@ alt_names: [Balaibalan]
 population: null
 country_id: IR
 country_name: Iran
+location: "Asia, Western"
 status_id: null
 scope: individual
 language_type: constructed

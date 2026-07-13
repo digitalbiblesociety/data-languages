@@ -5,6 +5,7 @@ autonym: Central Wintun
 population: null
 country_id: US
 country_name: United States
+area: "Wintuan language of California, USA"
 status_id: 8b
 scope: individual
 language_type: extinct

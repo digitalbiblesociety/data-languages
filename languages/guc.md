@@ -2,15 +2,18 @@
 iso: guc
 name: Wayuu
 autonym: Guajiro
-alt_names: [Goahiro, Goajiro, Guajira, Wahiro, Wayuunaiki, Wayuw simi, Гуахиро]
+alt_names: [Goahiro, Goajiro, Guajira, Wahiro, Wayuunaiki, Wayuw simi, Гуахиро, Uáira, Waiu, Wayu]
 population: 416000
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Major Arawakan language spoken in the Guajira Peninsula
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 10.22515
 longitude: -71.81012
+language_map_img: Wayuu.webp
 scripts: [Latn]
 glottocode: wayu1243
 glottolog_family_id: araw1281

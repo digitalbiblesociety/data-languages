@@ -6,6 +6,8 @@ alt_names: [Lumbi, Odyalombito, Rombi, Rumli]
 population: 12000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Nilo-Saharan language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 龙比语
     auto: true
 ---
+Mangbetu, or Nemangbetu, is one of the most populous of the Central Sudanic languages. It is spoken by the Mangbetu people of northeastern Congo. It, or its speakers, are also known as Amangbetu, Kingbetu, Mambetto. The most populous dialect, and the one most widely understood, is called Medje. Others are Aberu (Nabulu), Makere, Malele, Popoi (Mapopoi). The most divergent is Lombi; Ethnologue treats it as a distinct language. About half of the population speaks Bangala, a trade language similar to Lingala, and in southern areas some speak Swahili.

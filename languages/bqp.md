@@ -2,10 +2,12 @@
 iso: bqp
 name: Busa
 autonym: Bisã
-alt_names: [Bisayã, Busa-Bisa, Busa-Bisã, Busano, Bussanchi]
+alt_names: [Bisayã, Busa-Bisa, Busa-Bisã, Busano, Bussanchi, Bariba, Bussawa, New Busa, Wawa]
 population: 15000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Mande language of Nigeria and Benin
 status_id: "5"
 scope: individual
 language_type: living

@@ -3,10 +3,12 @@ iso: zac
 macrolanguage_id: zap
 name: Ocotlán Zapotec
 autonym: (San Antonio Ocotlán)
-alt_names: [Central Sapoteko, Ocotlan Zapotec, Ocotlán Oeste Zapotec, Zapotec, "Zapotec, Ocotlán", Zapoteco de San Felipe Tejalápam, Zapoteco del Poniente de Ocotlán, Zapotèque de San Felipe Tejalapan]
+alt_names: [Central Sapoteko, Ocotlan Zapotec, Ocotlán Oeste Zapotec, Zapotec, "Zapotec, Ocotlán", Zapoteco de San Felipe Tejalápam, Zapoteco del Poniente de Ocotlán, Zapotèque de San Felipe Tejalapan, Ocotlán, Zapoteco Central de Ocotlán]
 population: 15000
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Zapotec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

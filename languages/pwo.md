@@ -2,10 +2,12 @@
 iso: pwo
 name: Pwo Western Karen
 autonym: ဖျိၩ့
-alt_names: [Bassein Pwo Karen, Delta Pwo Karen, Karen, Karen (Pwo), "Karen, Pwo Western", "Karen,PwoWestern", Mutheit, Phlon, Phlong Sho, Pho, Pho of Bassein, Pwo, Pwo Eastern, Pwo Karen, Pwo Western, Shu, Western Pwo]
+alt_names: [Bassein Pwo Karen, Delta Pwo Karen, Karen, Karen (Pwo), "Karen, Pwo Western", "Karen,PwoWestern", Mutheit, Phlon, Phlong Sho, Pho, Pho of Bassein, Pwo, Pwo Eastern, Pwo Karen, Pwo Western, Shu, Western Pwo, Mon Karen, Mon Kayin, Pathein Pwo Karen, Phlong, Talaing Karen]
 population: 210000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language of Myanmar
 status_id: 6b
 scope: individual
 language_type: living

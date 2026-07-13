@@ -2,15 +2,18 @@
 iso: ksw
 name: "S'gaw Karen"
 autonym: ကညီကျိာ်
-alt_names: [Burmese Karen, Kanyaw, Karen, Karen (Sgaw), "Karen, S'gaw", "Karen,S’gaw", Kayin, Kyetho, Paganyaw, Pchcknya, "Pgha K'nyan", Pwakanyaw, "S'gau", "S'gaw", "S'gaw Kayin", Sgaw, Sgaw Karen, Sgaweg, White Karen, Yang Khao]
+alt_names: [Burmese Karen, Kanyaw, Karen, Karen (Sgaw), "Karen, S'gaw", "Karen,S’gaw", Kayin, Kyetho, Paganyaw, Pchcknya, "Pgha K'nyan", Pwakanyaw, "S'gau", "S'gaw", "S'gaw Kayin", Sgaw, Sgaw Karen, Sgaweg, White Karen, Yang Khao, S’gau, S’gaw, S’gaw Kayin, Dawei, Delta dialect of Sꞌgaw Karen, Eastern dialect of Sꞌgaw Karen, SꞌGaw Karen, Kayinpyu, Palachi, Palakhi, Panapu, Paꞌan, Pwakenyaw, Southern dialect of Western Kayah, Sꞌgau, Sꞌgaw, Sꞌgaw Kayin, White]
 population: 2170000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Sino-Tibetan language of Myanmar and Thailand
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 17.9872
 longitude: 97.71262
+language_map_img: Karen_languages_map.svg
 glottocode: sgaw1245
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

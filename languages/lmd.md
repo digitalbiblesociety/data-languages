@@ -6,6 +6,8 @@ alt_names: [Lomon, Lomón]
 population: 20000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Niger–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living

@@ -3,10 +3,11 @@ iso: kiu
 macrolanguage_id: zza
 name: Kirmanjki
 autonym: Alevica
-alt_names: [Dersimki, Dimilki, Northern Zaza, So-Bê, Zaza, Zazaki, Zonê Ma]
+alt_names: [Dersimki, Dimilki, Northern Zaza, So-Bê, Zaza, Zazaki, Zonê Ma, Northern, Shar Ma, Tunceli, Varto, Zaza (Dersim Dialect)]
 population: 203000
 country_id: TR
 country_name: Turkey
+area: Northwestern Iranian language spoken in Turkey
 status_id: "4"
 scope: individual
 language_type: living

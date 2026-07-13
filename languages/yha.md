@@ -6,6 +6,8 @@ alt_names: [Baha, Buyang, Buyang Zhuang, "Buyang, Baha", Guangnan Buyang, Paha B
 population: 600
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Kra-Dai language spoken in China
 status_id: 6b
 scope: individual
 language_type: living

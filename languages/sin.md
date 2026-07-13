@@ -3,15 +3,18 @@ iso: sin
 iso639_1: si
 name: Sinhala
 autonym: Sinhalese
-alt_names: [Cingalais, Cingalese, Cingalés, Fiteny singalesa, Seylanca, Singalees, Singalesisk, Singalesiska, Singhalese, Sinhala simi, Sinhaleg, Sinhali, singhalais, سىنگال تىلى, சிங்களம்]
+alt_names: [Cingalais, Cingalese, Cingalés, Fiteny singalesa, Seylanca, Singalees, Singalesisk, Singalesiska, Singhalese, Sinhala simi, Sinhaleg, Sinhali, singhalais, سىنگال تىلى, சிங்களம், Singhala, සිංහල, Chingalese, Rodiya]
 population: 15300000
 country_id: LK
 country_name: Sri Lanka
+location: Sri Lanka
+area: Indo-Aryan language native to Sri Lanka
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 8
 longitude: 81
+language_map_img: sin.webp
 scripts: [Sinh]
 glottocode: sinh1246
 glottolog_family_id: indo1319

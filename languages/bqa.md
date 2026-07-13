@@ -2,10 +2,12 @@
 iso: bqa
 name: Tchumbuli
 autonym: Akan
-alt_names: [Basa, Chombulon, Tchombolo, Tshummbuli]
+alt_names: [Basa, Chombulon, Tchombolo, Tshummbuli, Cobecha]
 population: 2500
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Guang language of Benin
 status_id: 8a
 scope: individual
 language_type: living

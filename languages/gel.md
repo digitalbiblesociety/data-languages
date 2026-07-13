@@ -2,10 +2,12 @@
 iso: gel
 name: "ut-Ma'in"
 autonym: Fakanchi
-alt_names: [Fakanci, Fakkanci, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Puku-Geeri-Keri-Wipsi]
+alt_names: [Fakanci, Fakkanci, Kag-Fer-Jiir-Koor-Ror-Us-Zuksun, Puku-Geeri-Keri-Wipsi, Fakai, Gelanchi, Er-Gwar, Et-Fer, Et-Jiir, Et-Kag, Et-Maror, Et-Us, Et-Zuksun, Fer, Fere, Jiir, Kag, Kar, Kelanchi, Kelinci, Kelli-Ni, Kere, Keri-Ni, Koor, Kukum, Kulu, Kur, Puku, Ror, Tudanchi, Us, Wipsi-Ni, Zuksun, Zussun, ut-Maꞌin]
 population: 36000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Northwest Kainji dialect continuum of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

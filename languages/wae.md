@@ -6,6 +6,8 @@ alt_names: [Upper Alemannic, Walscher, Walser German, Вальзерское н�
 population: 10000
 country_id: CH
 country_name: Switzerland
+location: Liechtenstein and Switzerland
+area: Group of Highest Alemannic dialects
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: yay
 name: Agwagwune
 autonym: Agwagwune
-alt_names: ["\"Akunakuna\"", Agwaguna, Akunakuna, Akurakura, Gwune, Okurikan]
+alt_names: ["\"Akunakuna\"", Agwaguna, Akunakuna, Akurakura, Gwune, Okurikan, “Akunakuna”, Abayongo, Abini, Abiri, Adim, Bayino, Bayono, Dim, Enna, Erei, Etono, Etuno, Ezei, Obini, Odim, Orum]
 population: 20000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Upper Cross River language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

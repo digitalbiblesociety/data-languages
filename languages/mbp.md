@@ -6,11 +6,14 @@ alt_names: [Aisario, Arosario, Arsario, Atanque, Bustintana, Damana, Guamaca, Gu
 population: 1920
 country_id: CO
 country_name: Colombia
+location: Northern Colombia
+area: Chibchan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 10.92861
 longitude: -73.40561
+language_map_img: Wiwa_ou_Malayo.webp
 glottocode: mala1522
 glottolog_family_id: chib1249
 glottolog_family_name: Chibchan

@@ -2,9 +2,11 @@
 iso: csr
 name: Costa Rican Sign Language
 autonym: Lengua de Señas Costarricense (LESCO)
+alt_names: [LESCO, Lengua de Señas Costaricenses, Lengua de Señas Costarricense, Lenguaje de Señas Costarricense, Modern Costa Rican Sign Language, NCRSL, New Costa Rican Sign Language, OCRSL, Original Costa Rican Sign Language]
 population: 15000
 country_id: CR
 country_name: Costa Rica
+area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: gah
 name: Alekano
 autonym: Gahuku
-alt_names: [Gafuku, Gahuku-Asaro, Gahuku-Gama, "Zo'maga"]
+alt_names: [Gafuku, Gahuku-Asaro, Gahuku-Gama, "Zo'maga", Alekano (Gahuku)]
 population: 40000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 10"
+area: Papuan language of Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: [Amutoura, Bouiok, Saiset, Saisett, Saisiat, Saisiett, Saisirat, Sais
 population: 4750
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: Austronesian language spoken in Taiwan
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 24.60434
 longitude: 121.06725
+language_map_img: 500px-Formosan_languages.webp
 glottocode: sais1237
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

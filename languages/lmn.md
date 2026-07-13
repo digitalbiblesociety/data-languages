@@ -2,15 +2,18 @@
 iso: lmn
 name: Lambadi
 autonym: "Gor-boli"
-alt_names: [Bangala, Banjara, Banjari, Banjori, Banjuri, Brinjari, Gohar-Herkeri, Goola, Gormati, Gurmarti, Kora, Labhani, Labhani Muka, Lamadi, Lamani, Lambani, Lambara, Lavani, Lemadi, Lumadale, Singali, Sugali, Sukali, Tanda, Vanjari, Wanji]
+alt_names: [Bangala, Banjara, Banjari, Banjori, Banjuri, Brinjari, Gohar-Herkeri, Goola, Gormati, Gurmarti, Kora, Labhani, Labhani Muka, Lamadi, Lamani, Lambani, Lambara, Lavani, Lemadi, Lumadale, Singali, Sugali, Sukali, Tanda, Vanjari, Wanji, Andhra Pradesh Lamani, Karnataka Lamani, Maharashtra Lamani, Mysore Lamani, Telugu Lamani]
 population: 40000000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Language of India
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.57338
 longitude: 76.97168
+language_map_img: lmn.webp
 scripts: [Telu]
 glottocode: lamb1269
 glottolog_family_id: indo1319

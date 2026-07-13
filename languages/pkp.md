@@ -2,10 +2,12 @@
 iso: pkp
 name: Pukapuka
 autonym: Bukabukan
-alt_names: [Pukapukan, Pukapukan language, Pukapukano, Пукапука]
+alt_names: [Pukapukan, Pukapukan language, Pukapukano, Пукапука, Te Leo Wale]
 population: 3100
 country_id: CK
 country_name: Cook Islands
+location: Cook Islands
+area: "Polynesian language of Pukapuka atoll, Cook Islands"
 status_id: 6b
 scope: individual
 language_type: living

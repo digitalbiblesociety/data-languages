@@ -2,10 +2,12 @@
 iso: mgi
 name: Lijili
 autonym: Lijili
-alt_names: [Koro Lafia, Koro of Lafia, Ligili, Megili, Migili, Mijili]
+alt_names: [Koro Lafia, Koro of Lafia, Ligili, Megili, Migili, Mijili, Jili]
 population: 40000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Plateau language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

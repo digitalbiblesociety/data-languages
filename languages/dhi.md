@@ -2,15 +2,18 @@
 iso: dhi
 name: Dhimal
 autonym: Dhemal
-alt_names: [DELETE IF NOT USED, Dhīmāl]
+alt_names: [DELETE IF NOT USED, Dhīmāl, Eastern Dhimal, Western Dhimal]
 population: 19750
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Sino-Tibetan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 26.62827
 longitude: 88.379815
+language_map_img: 500px-Dhimal.map.webp
 glottocode: dhim1246
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

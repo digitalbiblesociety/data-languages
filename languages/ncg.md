@@ -2,15 +2,18 @@
 iso: ncg
 name: "Nisga'a"
 autonym: Nisg̱a’a
-alt_names: [Nasguixián niska, "Nasqa'", Nass, Nass-Gitksan, Nisga’a, Nisgha, Nishga, Nishka, "Nisk'a", "Nisk'a'", Niska, "Niska'"]
+alt_names: [Nasguixián niska, "Nasqa'", Nass, Nass-Gitksan, Nisga’a, Nisgha, Nishga, Nishka, "Nisk'a", "Nisk'a'", Niska, "Niska'", Nisk’a, Nisgaꞌa, "Nisqa'a"]
 population: 5400
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Tsimshianic language of northwestern British Columbia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 55.19895
 longitude: -129.19163
+language_map_img: Tsimshianic_map.svg
 glottocode: nisg1240
 glottolog_family_id: tsim1258
 glottolog_family_name: Tsimshian

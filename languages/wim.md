@@ -6,6 +6,8 @@ alt_names: [Anja, Ayan, Badjimu, Mimungkum, Mimungkum/Wik Mungkana, Monkanu, Mug
 population: 1050
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: "4"
 scope: individual
 language_type: living

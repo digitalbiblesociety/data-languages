@@ -2,15 +2,18 @@
 iso: ctg
 name: Chittagonian
 autonym: চিটাইঙ্গা
-alt_names: [Chatgaiyan Buli, Chatgaya, Chittagonian Bengali, Chittagonien]
+alt_names: [Chatgaiyan Buli, Chatgaya, Chittagonian Bengali, Chittagonien, Mussolmani, Chittagonian (Musselmani)]
 population: 13000000
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Language spoken in parts of Bangladesh
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 20.831
 longitude: 93.1695
+language_map_img: Bengali_dialects_political_map.svg
 glottocode: chit1275
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

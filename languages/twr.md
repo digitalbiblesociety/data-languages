@@ -6,11 +6,14 @@ alt_names: [Rocoroibo, South-western, Southwestern, Tarahumara, Tarahumara del S
 population: 100
 country_id: MX
 country_name: Mexico
+location: Mexico
+area: Uto-Aztecan language spoken in Mexico
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 27.03137
 longitude: -107.57815
+language_map_img: Tarahumara_precontact_and_modern.svg
 glottocode: sout2971
 glottolog_family_id: utoa1244
 glottolog_family_name: Uto-Aztecan
@@ -53,3 +56,4 @@ translations:
     name: 西南塔拉乌马拉语
     auto: true
 ---
+Tarahumara is a Uto-Aztecan language indigenous to Mexico and spoken by around 70,000 Rarámuri (Tarahumara/Ralámuli) people in the state of Chihuahua. It is the second most-widely spoken Uto-Aztecan language after Nahuatl.

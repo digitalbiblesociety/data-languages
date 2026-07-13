@@ -2,10 +2,11 @@
 iso: kcv
 name: Kete
 autonym: Kikete
-alt_names: [Lukete]
+alt_names: [Lukete, Ciket, East Kete, Kete-Kuba, Kete-Lulua, North Kete, Southwest Kete, Tshikete]
 population: 8400
 country_id: CD
 country_name: DR Congo
+location: Southern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living

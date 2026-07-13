@@ -2,10 +2,11 @@
 iso: tnx
 name: Tanema
 autonym: Tetawo
-alt_names: [Tanima]
+alt_names: [Tanima, Tetau]
 population: 4
 country_id: SB
 country_name: Solomon Islands
+area: Endangered Oceanic language of the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living

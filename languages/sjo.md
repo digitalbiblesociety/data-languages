@@ -6,6 +6,8 @@ alt_names: [Chibeg, Colloquial Manchu, Sibe, Sibin, Sibo, Xibenisch, Xibo, شى�
 population: 190000
 country_id: CN
 country_name: China
+location: China
+area: Tungusic language spoken in northwest China
 status_id: 6b
 scope: individual
 language_type: living

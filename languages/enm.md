@@ -2,7 +2,7 @@
 iso: enm
 name: Middle English
 autonym: Middle English
-alt_names: [Engleza mediă, "English, Middle (1100-1500)", Inglés medio, Inglês médio, Keskienglanti, Medelengelska, Medio inglese, Mellomengelsk, Meán-Bhéarla, Middelengels, Middelengelsk, Middle Inglis leid, Miðenska, Moyen anglais, Stredná angličtina, Střední angličtina, anglais moyen (1100-1500), إنجليزية وسطى, انگلیسی میانه]
+alt_names: [Engleza mediă, "English, Middle (1100-1500)", Inglés medio, Inglês médio, Keskienglanti, Medelengelska, Medio inglese, Mellomengelsk, Meán-Bhéarla, Middelengels, Middelengelsk, Middle Inglis leid, Miðenska, Moyen anglais, Stredná angličtina, Střední angličtina, anglais moyen (1100-1500), إنجليزية وسطى, انگلیسی میانه, Middle English (1100-1500)]
 population: null
 country_id: GB
 country_name: United Kingdom

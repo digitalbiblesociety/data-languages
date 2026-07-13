@@ -2,10 +2,12 @@
 iso: nbr
 name: Numana
 autonym: Gwantu
-alt_names: [Numana-Nunku-Gbantu-Numbu, Sanga]
+alt_names: [Numana-Nunku-Gbantu-Numbu, Sanga, Aninka, Arak, Gbantu, Gwanto, Inmwen, Janda, Kurmi, Nimana, Ningeshe, Ningye, Ninka, Numbu, Nunku]
 population: 50000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

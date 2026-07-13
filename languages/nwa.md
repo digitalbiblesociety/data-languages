@@ -6,6 +6,7 @@ alt_names: [Arapaho-Atsina, Northern Arapaho]
 population: null
 country_id: US
 country_name: United States
+area: Extinct Algonquian language
 status_id: null
 scope: individual
 language_type: extinct

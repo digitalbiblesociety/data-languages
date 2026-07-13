@@ -6,11 +6,13 @@ alt_names: [Guato]
 population: 382
 country_id: BR
 country_name: Brazil
+location: Southern Brazil
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -17.86961
 longitude: -57.28974
+language_map_img: 500px-Guato_language.webp
 glottocode: guat1253
 wikidata_id: Q3027940
 wikipedia_url: "https://en.wikipedia.org/wiki/Guat%C3%B3_language"

@@ -2,10 +2,12 @@
 iso: aaz
 name: Amarasi
 autonym: Bahasa Amarasi
-alt_names: [Timor Amarasi]
+alt_names: [Timor Amarasi, Kopa, Kotos, "Ro'is", "Ro'is Hero", "Ro'is Tais Nonof", Uab Meto]
 population: 70000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Timoric language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living

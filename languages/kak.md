@@ -2,15 +2,18 @@
 iso: kak
 name: Kalanguya
 autonym: Kallahan
-alt_names: ["Kallahan, Kayapa", Kayapa Kallahan]
+alt_names: ["Kallahan, Kayapa", Kayapa Kallahan, Akab, Ikalahan, Kalangoya, Kalangoya-Ikalahan, Kalkali, Kayapa, Ambaguio, Benguet, Central Kalanguya, Northern Kalanguya, Santa Fe, Southern Kalanguya, Tinoc, Western Kalanguya]
 population: 15000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 16.321
 longitude: 120.90003
+language_map_img: 500px-Kallahan_language_map.webp
 glottocode: ahin1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -79,3 +82,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Visayas, Central Visayas, Bohol"
 ---
+Kalanguya, also called Kallahan, is a dialect cluster spoken by the Kalanguya people of northern Luzon, Philippines. The Kalanguya language is closely related to Ibaloi, Karao, and Iwak and is distantly related with Pangasinan and Ilongot. The Kalanguya language is part of the Southern Cordilleran languages of the Northern Luzon languages, which in turn is part of the Malayo-Polynesian languages.

@@ -2,10 +2,11 @@
 iso: rop
 name: Kriol
 autonym: "Roper-Bamyili Creole"
-alt_names: [Creole, Kriol NT, Northern Kriol, Timber Creek Kriol, Westside Kriol]
+alt_names: [Creole, Kriol NT, Northern Kriol, Timber Creek Kriol, Westside Kriol, Bamyili Creole, Barkly Kriol, Daly River Kriol, Fitzroy Valley Kriol, Roper River Kriol, Roper River Pidgin]
 population: 7160
 country_id: AU
 country_name: Australia
+area: Creole language developed in Australia from an English-pidgin
 status_id: "5"
 scope: individual
 language_type: living

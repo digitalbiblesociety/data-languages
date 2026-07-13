@@ -2,10 +2,12 @@
 iso: maf
 name: Mafa
 autonym: Mafahay
-alt_names: ["\"Matakam\"", Bula, Bulahai, Matakam, Mofa, Natakan]
+alt_names: ["\"Matakam\"", Bula, Bulahai, Matakam, Mofa, Natakan, “Matakam”, Bao, Central Mafa, Djingliya, East Mafa, Gouzda, Koza, Ldamtsai, Magoumaz, Mavoumay, Mazam, Midre, Mokola, Mokolo, Moskota, Ouzal, Roua, Soulede, West Mafa]
 population: 214910
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language
 status_id: "5"
 scope: individual
 language_type: living

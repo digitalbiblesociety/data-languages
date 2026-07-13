@@ -6,6 +6,8 @@ alt_names: [Oyster Bay Tasmanian, "Tasmanian, Oyster Bay"]
 population: null
 country_id: AU
 country_name: Australia
+location: Pacific
+area: Extinct Eastern Tasmanian language
 status_id: null
 scope: individual
 language_type: extinct

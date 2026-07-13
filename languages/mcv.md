@@ -6,6 +6,8 @@ alt_names: [Eme-Eme, Hei, Mahigi, Pepeha]
 population: 300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

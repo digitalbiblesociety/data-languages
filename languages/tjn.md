@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: CI
 country_name: "Côte d'Ivoire"
+area: "Extinct Mande language of Côte d'Ivoire"
 status_id: "10"
 scope: individual
 language_type: extinct

@@ -2,10 +2,12 @@
 iso: ikv
 name: "Iku-Gora-Ankwa"
 autonym: "Iku-Gora-Ankwa"
-alt_names: [Iku]
+alt_names: [Iku, Ekhwa]
 population: 13000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Plateau language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

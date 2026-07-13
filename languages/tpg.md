@@ -6,6 +6,8 @@ alt_names: ["\"Tanglapui\"", Kola, Lamtoka, Lantoka]
 population: 5000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

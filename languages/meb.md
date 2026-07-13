@@ -6,6 +6,8 @@ alt_names: [Ikobi Kairi, Ikobi-Mena, Kasere, Kopo-Monia, Meni, Wailemi]
 population: 300
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan Gulf language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

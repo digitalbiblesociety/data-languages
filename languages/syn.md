@@ -2,14 +2,17 @@
 iso: syn
 name: Senaya
 autonym: ܣܢܝܐ
+alt_names: [Christian Neo-Aramaic, Lshan Sray, Senaaya, Shan Gyanan, Shan Sray, Soray, Sray]
 population: 460
 country_id: IR
 country_name: Iran
+area: Dialect of Northeastern Neo-Aramaic
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 35.77764
 longitude: 51.43631
+glottocode: sena1268
 wikidata_id: Q33914
 wikipedia_url: "https://en.wikipedia.org/wiki/Christian_Neo-Aramaic_dialect_of_Senaya"
 translations:

@@ -2,10 +2,12 @@
 iso: spt
 name: Spiti Bhoti
 autonym: Spiti
-alt_names: ["Bhoti, Spiti", Piti Bhoti, SpitiBhoti, Spitian]
+alt_names: ["Bhoti, Spiti", Piti Bhoti, SpitiBhoti, Spitian, Nyam]
 population: 10000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Tibetic language of India
 status_id: 6a
 scope: individual
 language_type: living

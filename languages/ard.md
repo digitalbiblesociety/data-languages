@@ -6,6 +6,8 @@ alt_names: [Anna Creek tribe, Arabana/Wangkangurru, Arabuna, Arabunna, Arapani, 
 population: 31
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: extinct

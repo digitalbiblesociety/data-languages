@@ -2,10 +2,12 @@
 iso: ekg
 name: Ekari
 autonym: Mee
-alt_names: [Ekagi, Kapauku, Kaupaku, Me Mana, Mee Mana, Tapiro]
+alt_names: [Ekagi, Kapauku, Kaupaku, Me Mana, Mee Mana, Tapiro, Jabi, Mapiya-Kegata, Me, Simori, Yabi]
 population: 100000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Trans–New Guinea language of Indonesia
 status_id: "5"
 scope: individual
 language_type: living

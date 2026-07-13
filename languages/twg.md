@@ -6,11 +6,14 @@ alt_names: [Indonesia]
 population: 800
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara enlargements"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -8.48063
 longitude: 124.27121
+language_map_img: 500px-Alor-pantar_map_color.webp
 glottocode: tere1277
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

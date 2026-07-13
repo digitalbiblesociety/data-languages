@@ -6,11 +6,14 @@ alt_names: [Bora, Bora-Muinane, Boran, Feenemɨna, Muename, Muiname, Muinana, Mu
 population: 150
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Language spoken in Colombia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -0.8652
 longitude: -72.42495
+language_map_img: Lingua_muinane.webp
 glottocode: muin1242
 glottolog_family_id: bora1262
 glottolog_family_name: Boran

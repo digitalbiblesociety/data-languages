@@ -5,6 +5,7 @@ autonym: Lengua de Señas del Paraguay
 population: 15000
 country_id: PY
 country_name: Paraguay
+area: Deaf sign language of Paraguay
 status_id: 6a
 scope: individual
 language_type: living

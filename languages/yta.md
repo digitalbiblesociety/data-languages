@@ -6,6 +6,8 @@ alt_names: [Tagu, Taliu, Tazhi, 他留話]
 population: 13600
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living

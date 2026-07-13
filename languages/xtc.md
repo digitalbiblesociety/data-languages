@@ -2,10 +2,12 @@
 iso: xtc
 name: "Katcha-Kadugli-Miri"
 autonym: Central Kadu
-alt_names: [Kadugli, Katcha]
+alt_names: [Kadugli, Katcha, Dakalla, Damba, Dhalla, Dholubi, Kudugli, Miri, Morta, Talla, Tolubi, Toma Ma Dalla, Tumma]
 population: 75000
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Kadu language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living

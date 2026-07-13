@@ -2,10 +2,12 @@
 iso: gdg
 name: "Ga'dang"
 autonym: Gaddang
-alt_names: [Baliwon, Ginabwal]
+alt_names: [Baliwon, Ginabwal, Gaꞌdang]
 population: 6000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living

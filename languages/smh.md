@@ -6,6 +6,7 @@ alt_names: [Sani]
 population: 20000
 country_id: CN
 country_name: China
+area: Loloish language spoken in China
 status_id: 8a
 scope: individual
 language_type: living

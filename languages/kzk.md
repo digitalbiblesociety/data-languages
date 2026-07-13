@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: SB
 country_name: Solomon Islands
+area: Extinct Oceanic language of Solomon Islands
 status_id: "10"
 scope: individual
 language_type: extinct

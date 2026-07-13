@@ -2,15 +2,17 @@
 iso: szl
 name: Silesian
 autonym: Upper Silesian
-alt_names: [Cànan Silesianach, "Eng: Silesian", Hoogsilezisch, Kisilesia, Lang silezyen, Lenghe slesiane, Lingwa Sileżjana, Luenga silésia, Schlesesch Sprooch, Schlesisch, Schlesisk, Schlesiska, Sileeshish, Sileseg, Silesia tongo, Silesia-gí, Silesiagbe, Silesiagiella, Silesian bhasa, Silesiera, Silesies, Silesisc ȝereord, Silesià, Silez tili, Silezieg, Silezisch, Silezysk, Silésien, Sleesisk, Szlonzok, Szląsczi jãzëk, Łéngua slesiana, Śląski, Ślůnsko godka, ślōnski, ślōnskŏ gŏdka, ślōnskŏ mŏwa, Забони силзиёӣ, Силез кыл, Силез теле, Силезиянь кяль, Силєꙁі́искъ ѩꙁꙑ́къ, Սիլեսերեն, שלזית, שלעזיש, سيليسى, སེལ་འོ་སུ་འན་གྱི་སྐད, ሳይሌሲያን]
+alt_names: [Cànan Silesianach, "Eng: Silesian", Hoogsilezisch, Kisilesia, Lang silezyen, Lenghe slesiane, Lingwa Sileżjana, Luenga silésia, Schlesesch Sprooch, Schlesisch, Schlesisk, Schlesiska, Sileeshish, Sileseg, Silesia tongo, Silesia-gí, Silesiagbe, Silesiagiella, Silesian bhasa, Silesiera, Silesies, Silesisc ȝereord, Silesià, Silez tili, Silezieg, Silezisch, Silezysk, Silésien, Sleesisk, Szlonzok, Szląsczi jãzëk, Łéngua slesiana, Śląski, Ślůnsko godka, ślōnski, ślōnskŏ gŏdka, ślōnskŏ mŏwa, Забони силзиёӣ, Силез кыл, Силез теле, Силезиянь кяль, Силєꙁі́искъ ѩꙁꙑ́къ, Սիլեսերեն, שלזית, שלעזיש, سيليسى, སེལ་འོ་སུ་འན་གྱི་སྐད, ሳይሌሲያን, Szlonzokian]
 population: 522000
 country_id: PL
 country_name: Poland
+area: West Slavic ethnolect
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 50.9656
 longitude: 16.9491
+language_map_img: 500px-Languages_of_CE_Europe-3.webp
 scripts: [Latn]
 glottocode: sile1253
 glottolog_family_id: indo1319

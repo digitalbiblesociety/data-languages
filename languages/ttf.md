@@ -6,6 +6,7 @@ alt_names: [Ponek, Tuotom, Tuotombo]
 population: 1000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
 status_id: 8a
 scope: individual
 language_type: living

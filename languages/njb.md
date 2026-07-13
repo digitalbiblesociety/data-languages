@@ -2,10 +2,12 @@
 iso: njb
 name: Nocte Naga
 autonym: Borduria
-alt_names: [Jaipuria, Mohongia, Naga, "Naga, Nocte", "Naga,Nocte", Namsang, Namsangia, Nocte, Nokte, Paniduria]
+alt_names: [Jaipuria, Mohongia, Naga, "Naga, Nocte", "Naga,Nocte", Namsang, Namsangia, Nocte, Nokte, Paniduria, Khapa, Laju, Lamlak, Ponthai]
 population: 30800
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Language used in North-eastern states, India"
 status_id: "5"
 scope: individual
 language_type: living

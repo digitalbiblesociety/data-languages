@@ -6,6 +6,8 @@ alt_names: [Tshangkha]
 population: 8000
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Southern Tibetic language of Bhutan
 status_id: 6b
 scope: individual
 language_type: living

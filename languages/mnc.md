@@ -6,6 +6,8 @@ alt_names: [Chinesische Tatarn, Man, Manchoueg, Manchuiska, Mandchou, Mandschu, 
 population: 20
 country_id: CN
 country_name: China
+location: China
+area: East Asian language
 status_id: 8b
 scope: individual
 language_type: living

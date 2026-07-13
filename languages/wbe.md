@@ -6,6 +6,7 @@ alt_names: [Wari, Weretai]
 population: 150
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Daisa, Daiso, Daisu, Kidhaiso, Kiseguju]
 population: 5000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Kenya
 status_id: "7"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 达伊索语
     auto: true
 ---
+Kamba, or Kikamba, is a Bantu language spoken by millions of Kamba people, primarily in Kenya, as well as thousands of people in Uganda, Tanzania, and elsewhere. In Kenya, Kamba is generally spoken in four counties: Machakos, Kitui, Makueni, and Kwale. The Machakos dialect is considered the standard variety and has been used in translation. The other major dialect is Kitui.

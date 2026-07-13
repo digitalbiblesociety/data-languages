@@ -2,10 +2,12 @@
 iso: cag
 name: Nivaclé
 autonym: Niwaklé
-alt_names: [Ajlujlay, Ashlushlay, Ashluslay, Axluslay, Axluxlay, Chulup, Chulupe, Chulupi, Chulupie, Chulupí, Chunupi, Churupi, Churupí, Nivacle, Nivaklé, Niwaqli simi]
+alt_names: [Ajlujlay, Ashlushlay, Ashluslay, Axluslay, Axluxlay, Chulup, Chulupe, Chulupi, Chulupie, Chulupí, Chunupi, Churupi, Churupí, Nivacle, Nivaklé, Niwaqli simi, “Chulupe”, “Chulupí”, “Chulupie”, “Churupí”, Forest Nivaclé, Guisnai, Jotoy Lhavós, River Nivaclé, Tovoc Lhavós]
 population: 12200
 country_id: PY
 country_name: Paraguay
+location: Argentina and Chile
+area: Matacoan language spoken in Argentina and Paraguay
 status_id: "5"
 scope: individual
 language_type: living

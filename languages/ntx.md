@@ -2,10 +2,12 @@
 iso: ntx
 name: Tangkhul Naga
 autonym: Tangkhul
-alt_names: ["Naga, Tangkhul (Myanmar)"]
+alt_names: ["Naga, Tangkhul (Myanmar)", Somara]
 population: 4000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

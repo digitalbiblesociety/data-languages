@@ -2,9 +2,12 @@
 iso: tex
 name: Tennet
 autonym: Tenet
+alt_names: [Tennette]
 population: 10000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Eastern Sudanic language spoken by the Tennet people of South Sudan
 status_id: "4"
 scope: individual
 language_type: living

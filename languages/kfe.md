@@ -6,6 +6,8 @@ alt_names: [Cota, Kota, Kota (in India), Kother-Tamil, Kotta, Kowe-Adiwasi, Kôt
 population: 900
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living

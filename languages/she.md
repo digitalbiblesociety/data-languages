@@ -2,10 +2,12 @@
 iso: she
 name: Sheko
 autonym: Shak
-alt_names: [Shakko, Shako, Shekka, Shekko, Tschako]
+alt_names: [Shakko, Shako, Shekka, Shekko, Tschako, Guraferda, "S'oku noogu", Tepi]
 population: 43820
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

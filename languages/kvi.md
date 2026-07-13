@@ -6,6 +6,8 @@ alt_names: [Kouang, Kuang, Kwong]
 population: 10000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living

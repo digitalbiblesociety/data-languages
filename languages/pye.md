@@ -2,10 +2,12 @@
 iso: pye
 name: Pye Krumen
 autonym: Kroumen
-alt_names: ["Krumen, Pye", Northeastern Krumen, Southeastern Krumen]
+alt_names: ["Krumen, Pye", Northeastern Krumen, Southeastern Krumen, Krumen Piè]
 population: 20000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kru dialect continuum of Ivory Coast and Liberia
 status_id: 6a
 scope: individual
 language_type: living
@@ -94,3 +96,6 @@ rolv_dialects:
     country_id: CI
     location: "Côte d'Ivoire"
 ---
+Krumen is a dialect continuum spoken by the Krumen people of Liberia and Ivory Coast. It is a branch of the Grebo languages, a subfamily of the Kru languages and ultimately of the Niger–Congo languages. It had 48,300 speakers in 1993. The main varieties are:Tepo: Tepo, Bapo, Wlopo / Ropo, Dapo, Honpo, Yrepo / Kapo, Glawlo dialects
+Pye: Trepo, Wluwe-Hawlo, Gbowe-Hran, Wlepo, Dugbo, Yrewe / Giriwe / Jrwe [ɟʀwe] / Jrewe, Yapo, Pie dialects
+Plapo

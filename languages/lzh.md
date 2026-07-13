@@ -7,6 +7,7 @@ alt_names: ["Chinese, Literary", Chino clásico, Chinois classique, Classical Ch
 population: null
 country_id: CN
 country_name: China
+area: Literary form of written Chinese
 status_id: null
 scope: individual
 language_type: historical

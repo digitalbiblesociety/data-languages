@@ -2,10 +2,12 @@
 iso: pof
 name: Poke
 autonym: Puki
-alt_names: [Tofoke, Topoke, Tovoke]
+alt_names: [Tofoke, Topoke, Tovoke, Baluombila, Likolo, Liutwa, Lombooki, Pfoke]
 population: 46000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,11 +6,14 @@ alt_names: ["Songway Kiini, Tondi"]
 population: 3000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Songhay language
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 15.262989
 longitude: -2.816163
+language_map_img: Songhay_languages.svg
 glottocode: tond1249
 glottolog_family_id: song1307
 glottolog_family_name: Songhay

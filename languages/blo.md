@@ -6,6 +6,8 @@ alt_names: ["\"Ouinji-Ouinji\"", "\"Winji-Winji\"", Akpe, Baseca, Bassila, Gisid
 population: 48900
 country_id: BJ
 country_name: Benin
+location: Benin
+area: "Niger–Congo language spoken in Ghana, Togo and Benin"
 status_id: 6a
 scope: individual
 language_type: living

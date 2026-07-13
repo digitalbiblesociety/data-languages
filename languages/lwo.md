@@ -2,10 +2,12 @@
 iso: lwo
 name: Luwo
 autonym: Luwo
-alt_names: [Dhe Luwo, Dhe Lwo, Giur, Jo Lwo, Jur, Jur Luo, Jur Luwo, Jur Lwo, Lwo]
+alt_names: [Dhe Luwo, Dhe Lwo, Giur, Jo Lwo, Jur, Jur Luo, Jur Luwo, Jur Lwo, Lwo, Dheluwo, Luo, dhe Luuo, dhɛ luuhɔ]
 population: 257000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: "Language spoken by the Luo people of South Sudan's Bahr El Ghazal region"
 status_id: "5"
 scope: individual
 language_type: living

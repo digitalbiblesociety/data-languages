@@ -3,10 +3,12 @@ iso: vbk
 macrolanguage_id: bnc
 name: Southwestern Bontok
 autonym: Finallig
-alt_names: ["Bontok, Southwestern"]
+alt_names: ["Bontok, Southwestern", Bontoc]
 population: 2470
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Bontoc variety of the Philippines
 status_id: 8a
 scope: individual
 language_type: living

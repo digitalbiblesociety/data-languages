@@ -6,6 +6,8 @@ alt_names: [HPSL, Hai Phong Sign Language, NNKHHP, Vietnamese Sign Language]
 population: 1800
 country_id: VN
 country_name: Vietnam
+location: Northern Viet Nam
+area: "Deaf sign language of Haiphong, Vietnam"
 status_id: 6a
 scope: individual
 language_type: living

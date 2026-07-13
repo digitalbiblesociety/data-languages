@@ -2,10 +2,12 @@
 iso: lbu
 name: Labu
 autonym: Hapa
-alt_names: [Labo, "Labu'"]
+alt_names: [Labo, "Labu'", Labu’]
 population: 1600
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Austronesian language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Motsuvan, Tchede, Telaki, Teleki, Terki]
 population: 2300
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living

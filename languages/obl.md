@@ -6,6 +6,8 @@ alt_names: [Cameroon]
 population: null
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living

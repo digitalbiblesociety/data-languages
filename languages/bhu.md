@@ -2,15 +2,18 @@
 iso: bhu
 name: Bhunjia
 autonym: ହଲବୀ
-alt_names: [Bhumjiya, Bhunjiya, Bunija, Bunjia]
+alt_names: [Bhumjiya, Bhunjiya, Bunija, Bunjia, Bhumiya]
 population: 6790
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 21.27608
 longitude: 83.16136
+language_map_img: 500px-Halbi_map.webp
 glottocode: bhun1242
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
@@ -53,3 +56,4 @@ translations:
     name: 布门吉亚语
     auto: true
 ---
+Bhunjia is an Eastern Indo-Aryan language of eastern India spoken by the Bhunjia community living in the states of Odisha and Chhattisgarh.

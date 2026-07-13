@@ -2,15 +2,19 @@
 iso: inj
 name: Jungle Inga
 autonym: Ingano
-alt_names: ["Inga, Jungle"]
+alt_names: ["Inga, Jungle", Lowland Inga, Mocoa]
 population: 11200
 country_id: CO
 country_name: Colombia
+location: Southern Colombia
+area: Kichwa dialect of Columbia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 0.88872
 longitude: -76.65931
+language_map_img: Inga_kichwa.webp
+glottocode: jung1240
 wikidata_id: Q16115012
 translations:
   - translation_iso: ara
@@ -55,3 +59,4 @@ rolv_dialects:
     country_id: CO
     location: "Colombia, Cauca"
 ---
+Inga Kichwa is a dialect of Kichwa spoken in the Colombian Putumayo region by the Inga people. There are two dialects: Highland Inga, spoken in the Sibundoy valley; and Jungle Inga, spoken on the Putumayo and Japurá Rivers.

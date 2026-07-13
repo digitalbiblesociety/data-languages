@@ -2,10 +2,12 @@
 iso: uri
 name: Urim
 autonym: Kalp
-alt_names: [Kurom, Tayon, Wan]
+alt_names: [Kurom, Tayon, Wan, Kalpm, Kukwo, Yangkolen]
 population: 4000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 3"
+area: Torricelli language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Arare, Arove, Pililo]
 population: 2200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 12"
+area: Austronesian language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living

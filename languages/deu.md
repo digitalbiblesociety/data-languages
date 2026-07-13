@@ -3,15 +3,18 @@ iso: deu
 iso639_1: de
 name: German
 autonym: Deutsch
-alt_names: ["German, Standard", Haut-allemand moderne, Mansfeldisch, Neuhochdeutsch, New High German, Nyhøytysk, Tedesco, Thuringian, allemand]
+alt_names: ["German, Standard", Haut-allemand moderne, Mansfeldisch, Neuhochdeutsch, New High German, Nyhøytysk, Tedesco, Thuringian, allemand, Standard German]
 population: 76100000
 country_id: DE
 country_name: Germany
+location: "Belgium, Luxembourg and Netherlands"
+area: Written and formal spoken German
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 48.648954
 longitude: 12.467623
+language_map_img: deu.webp
 scripts: [Latn, Runr]
 glottocode: stan1295
 glottolog_family_id: indo1319

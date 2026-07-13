@@ -2,9 +2,11 @@
 iso: lja
 name: Golpa
 autonym: "Yan-nhaŋu"
+alt_names: [Golba]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language of the Crocodile Islands
 status_id: "10"
 scope: individual
 language_type: extinct
@@ -46,3 +48,4 @@ translations:
     name: 戈尔帕语
     auto: true
 ---
+The Nhangu language (Nhaŋu), also Yan-nhaŋu (Jarnango) is an Australian Aboriginal language spoken by the Yan-nhaŋu people, inhabitants of the Crocodile Islands off the coast of Arnhem Land, in the Northern Territory of Australia. The Yan-nhaŋu language belongs to the Yolŋu Matha language group of the Yolŋu people of Arnhem Land in northern Australia. The varieties of the two moieties are (a) Gorlpa and (b) Yan-nhangu.

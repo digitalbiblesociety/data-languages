@@ -6,11 +6,14 @@ alt_names: [Kamas, Kanskg, Karagaslar, Karagass, Karagassisch, Karagassisk, Kara
 population: 730
 country_id: RU
 country_name: Russia
+location: Central Russia
+area: Moribund Northeastern Turkic language
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 53.7145
 longitude: 98.37923
+language_map_img: 500px-Tofalaria.webp
 glottocode: kara1462
 glottolog_family_id: turk1311
 glottolog_family_name: Turkic

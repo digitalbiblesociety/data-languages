@@ -2,10 +2,12 @@
 iso: yah
 name: Yazgulyam
 autonym: yuzdami zevég
-alt_names: [Iazgulem, Yazghulami, Yazgoulyameg, Yazgulam, Yazgulami, Yazgulamí, Yazgulyami, Yazgulâmi, Yuzdomi zəvég, Zgamígayi zəvég, Zgamígi zəvég]
+alt_names: [Iazgulem, Yazghulami, Yazgoulyameg, Yazgulam, Yazgulami, Yazgulamí, Yazgulyami, Yazgulâmi, Yuzdomi zəvég, Zgamígayi zəvég, Zgamígi zəvég, Lower Yazgulyam, Upper Yazgulyam, Yazghulomi, Yuzdomi zavég]
 population: 4000
 country_id: TJ
 country_name: Tajikistan
+location: Kyrgyzstan and Tajikistan
+area: Iranian language spoken in Tajikistan
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Gambiri, Gambirí, Gambīrī, Tregāmī, Trigami, Трегами]
 population: 1000
 country_id: AF
 country_name: Afghanistan
+location: Afghanistan
+area: Nuristani language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living

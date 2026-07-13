@@ -2,15 +2,18 @@
 iso: onb
 name: Lingao
 autonym: Lingao
-alt_names: [(Ong-)Be, Be, Limkow, Linkow, Ong-Be, Ong-Be language, Ongbe, Vo Limkou]
+alt_names: [(Ong-)Be, Be, Limkow, Linkow, Ong-Be, Ong-Be language, Ongbe, Vo Limkou, Bê, Lincheng, Lingao Proper-Dengmai, Qiongshan]
 population: 600000
 country_id: CN
 country_name: China
+location: Southern China
+area: Kra–Dai languages spoken in China
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 19.86337
 longitude: 109.97126
+language_map_img: 500px-Langues_Be-Jizhao.webp
 glottocode: ling1262
 glottolog_family_id: taik1256
 glottolog_family_name: Tai-Kadai

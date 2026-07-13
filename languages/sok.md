@@ -6,6 +6,8 @@ alt_names: [Bedanga]
 population: 5000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of central Chad
 status_id: 6a
 scope: individual
 language_type: living

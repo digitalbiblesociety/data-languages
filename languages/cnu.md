@@ -6,11 +6,14 @@ alt_names: [Chenoueg, Chenoui, Sheliff Basin, Shenowa, Shènoï, Tacenwit]
 population: 15250
 country_id: DZ
 country_name: Algeria
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Zenati Berber language of Algeria
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 36.59171
 longitude: 2.19899
+language_map_img: Berber_languages_in_western_Algeria.svg
 glottocode: chen1266
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

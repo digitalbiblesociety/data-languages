@@ -2,10 +2,12 @@
 iso: bzv
 name: Naami
 autonym: Naami
-alt_names: [Bebe, Yi Be Wu]
+alt_names: [Bebe, Yi Be Wu, Bebe Jama, Bebe Kete]
 population: 2500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Southern Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

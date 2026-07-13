@@ -2,10 +2,12 @@
 iso: bxw
 name: Bankagooma
 autonym: Bankagooma
-alt_names: [Banka, Bankagoma, Bankagoroma, Bankaje]
+alt_names: [Banka, Bankagoma, Bankagoroma, Bankaje, Samogho]
 population: 6000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 3"
+area: Mande language of Mali
 status_id: 6a
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: xsm
 name: Kasem
 autonym: Kassena
-alt_names: [Kasena, Kasim, Kassem, Kassene]
+alt_names: [Kasena, Kasim, Kassem, Kassene, East Kasem, Fere, Lela, Nunuma, West Kasem]
 population: 232600
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 11.082395
 longitude: -1.390755
+language_map_img: 500px-Kasena_region_zoomed_in.webp
 glottocode: kase1253
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

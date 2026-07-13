@@ -2,10 +2,12 @@
 iso: kbr
 name: Kafa
 autonym: Kafi noono
-alt_names: [Bosha, Caffino, Garo, Kafa-språket, Kaffa, Kafficho, Kaficho, Kefa, Kefa-Mocha, Keffa, Manjo]
+alt_names: [Bosha, Caffino, Garo, Kafa-språket, Kaffa, Kafficho, Kaficho, Kefa, Kefa-Mocha, Keffa, Manjo, Caafiti, Kefficho]
 population: 1190000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: North Omotic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living

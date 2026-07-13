@@ -2,10 +2,12 @@
 iso: dji
 name: Djinang
 autonym: Jandijinung
-alt_names: [Balmawi, Balmbi, Barlmawi, Djinaŋ, Djinhang, Djinnang, Dyinang, Jand-jinung, "Jandji:nangc", Jandjinang, Jandjinung, Jinang, Manarrngu, Manjarngi, Manyarrngi, Milingimbi, Millingimbi, Mun-narngo, Ullaki, Wulagi, Wulaki, Wullakki, Yandijinang, Yandjinang, Yandjinning, Yandjinung, Yändjinaŋ]
+alt_names: [Balmawi, Balmbi, Barlmawi, Djinaŋ, Djinhang, Djinnang, Dyinang, Jand-jinung, "Jandji:nangc", Jandjinang, Jandjinung, Jinang, Manarrngu, Manjarngi, Manyarrngi, Milingimbi, Millingimbi, Mun-narngo, Ullaki, Wulagi, Wulaki, Wullakki, Yandijinang, Yandjinang, Yandjinning, Yandjinung, Yändjinaŋ, Balurbi, Djadiwitjibi, Manyarring, Mildjingi, Murrungun, Wurlaki]
 population: 130
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language
 status_id: 6a
 scope: individual
 language_type: living

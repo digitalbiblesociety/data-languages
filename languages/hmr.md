@@ -6,6 +6,8 @@ alt_names: [Hamar, Hmari, Mhar]
 population: 99000
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: Tibeto-Burman language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

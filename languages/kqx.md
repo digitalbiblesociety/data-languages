@@ -6,6 +6,8 @@ alt_names: [Klesem, Kotoko-Kuseri, Kouseri, Kousseri, Mandage, Mandague, Mendage
 population: 500
 country_id: CM
 country_name: Cameroon
+location: Northern Cameroon
+area: Afro-Asiatic language of Cameroon and Chad
 status_id: 8a
 scope: individual
 language_type: living

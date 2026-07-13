@@ -2,10 +2,12 @@
 iso: seh
 name: Sena
 autonym: null
-alt_names: [Chisena, Cisena]
+alt_names: [Chisena, Cisena, Bangwe, Caia, Care, Chipodzo, Cipodzo, Gombe, Gorongosa, North Sena, Phodzo, Podzo, Puthsu, Sangwe, Sare, Shiputhsu, South Sena]
 population: 2030000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language of central Mozambique
 status_id: "5"
 scope: individual
 language_type: living

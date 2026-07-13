@@ -6,6 +6,8 @@ alt_names: [Tanzania]
 population: 10000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: "Kigoma region, Kigoma Rural District, Uvinza town area west. West of Nyamwezi [nym], north of Tongwe [tny]."
 status_id: 6a
 scope: individual
 language_type: living

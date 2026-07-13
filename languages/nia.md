@@ -2,15 +2,18 @@
 iso: nia
 name: Nias
 autonym: Li Niha
-alt_names: [Batu, Nias Selatan, Niha]
+alt_names: [Batu, Nias Selatan, Niha, Central Nias, Gunung Sitoli, Li Nias, North Nias, Northwest Nias, South Nias, West Nias]
 population: 1042000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.90691
 longitude: 97.49614
+language_map_img: Languages_of_Northern_Sumatra_en.svg
 scripts: [Latn]
 glottocode: nias1242
 glottolog_family_id: aust1307

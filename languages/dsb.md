@@ -2,10 +2,11 @@
 iso: dsb
 name: Lower Sorbian
 autonym: dolnoserbšćina
-alt_names: [Aşağı Sorb tili, Baix sòrab, Baixo sorábio, Bas Sorabe, Bas-sorabe, Delnoserbski, Dolna Lužica, Dolnoserbski, Dolnosorbsko godka, Dólnosorbsczi jãzëk, Low Sorbian, Lower, Lower Lusatian, Lower Wendish, Lusatian, Nedersorbisch, Niedersorbisch, Saxon Lusatian, Sorabe Bas, Sorbais Iosal, Sorbian, Sorbian (Lower), "Sorbian, Lower", Sorbien, Sorbio, Sorbish Eeghtyragh, Southern Lusatian, Wendisch, Wendish, Түбәнге лужи теле]
+alt_names: [Aşağı Sorb tili, Baix sòrab, Baixo sorábio, Bas Sorabe, Bas-sorabe, Delnoserbski, Dolna Lužica, Dolnoserbski, Dolnosorbsko godka, Dólnosorbsczi jãzëk, Low Sorbian, Lower, Lower Lusatian, Lower Wendish, Lusatian, Nedersorbisch, Niedersorbisch, Saxon Lusatian, Sorabe Bas, Sorbais Iosal, Sorbian, Sorbian (Lower), "Sorbian, Lower", Sorbien, Sorbio, Sorbish Eeghtyragh, Southern Lusatian, Wendisch, Wendish, Түбәнге лужи теле, Lluzykie, Luzycki]
 population: 50000
 country_id: DE
 country_name: Germany
+area: West Slavic language of eastern Germany
 status_id: "7"
 scope: individual
 language_type: living

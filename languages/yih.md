@@ -7,6 +7,7 @@ alt_names: [Central Yiddish, Judeo-German, Western, Yiddish, "Yiddish, Western",
 population: 600000
 country_id: DE
 country_name: Germany
+area: Varieties of the Yiddish language
 status_id: "7"
 scope: individual
 language_type: extinct

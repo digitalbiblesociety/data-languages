@@ -5,11 +5,14 @@ autonym: null
 population: 2230
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 11"
+area: Papuan language
 status_id: "4"
 scope: individual
 language_type: living
 latitude: -6.36263
 longitude: 147.37562
+glottocode: tobo1251
 wikidata_id: Q7811712
 wikipedia_url: "https://en.wikipedia.org/wiki/Tobo_language"
 translations:

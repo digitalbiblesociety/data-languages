@@ -3,10 +3,12 @@ iso: ciw
 macrolanguage_id: oji
 name: Chippewa
 autonym: Ojibwa
-alt_names: [Anishinabe, Chipewa, Chipeway, Chippeway, Minnesota Ojibwe, Ojibway, Ojibwe, Oyibua, Southwestern Ojibwa]
+alt_names: [Anishinabe, Chipewa, Chipeway, Chippeway, Minnesota Ojibwe, Ojibway, Ojibwe, Oyibua, Southwestern Ojibwa, Anishinaabemowin, Central Minnesota Chippewa, Minnesota Border Chippewa, Red Lake Chippewa, Upper Michigan-Wisconsin Chippewa]
 population: 104000
 country_id: US
 country_name: United States
+location: Northern Central United States of America
+area: Algonquian language spoken in US Midwest
 status_id: "7"
 scope: individual
 language_type: living

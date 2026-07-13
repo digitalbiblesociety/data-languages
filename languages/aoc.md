@@ -2,10 +2,12 @@
 iso: aoc
 name: Pemon
 autonym: Arecuna
-alt_names: [Kamarakóto, Pemon simi, Pemoneg, Pemong, Pemón, Taulipang, Taurepan, Taurepang]
+alt_names: [Kamarakóto, Pemon simi, Pemoneg, Pemong, Pemón, Taulipang, Taurepan, Taurepang, Arekuna, Aricuna, Camaracota, Camaracoto, Daigok, Ingaricó, Ingarikó, Ipuricoto, Jarecouna, Jaricuna, Kamaragakok, Kamarakoto, Kamarakotos, Pishauco, Potsawugok, Purucoto, Taurepa]
 population: 24080
 country_id: VE
 country_name: Venezuela
+location: Northeastern Brazil
+area: Cariban language spoken in Venezuela
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bhj
 name: Bahing
 autonym: Baying
-alt_names: [Bahingeg, Bayung, Bhojpuri, Bāhing, Khaling, Kiranti-Bayung, Rai]
+alt_names: [Bahingeg, Bayung, Bhojpuri, Bāhing, Khaling, Kiranti-Bayung, Rai, Bahing Lo, Baing, Bainge Rai, Bayung Lo, Pai Lo, Radi Lo]
 population: 10000
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal enlargements
+area: Language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living

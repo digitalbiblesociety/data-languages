@@ -5,9 +5,11 @@ autonym: null
 population: null
 country_id: US
 country_name: United States
+area: Former language of the Narragansett people
 status_id: "9"
 scope: individual
 language_type: extinct
+language_map_img: 500px-Tribal_Territories_Southern_New_England.webp
 wikidata_id: Q3336118
 wikipedia_url: "https://en.wikipedia.org/wiki/Narragansett_language"
 translations:

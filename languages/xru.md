@@ -6,6 +6,7 @@ alt_names: [MareAmmu, Marri Ammu]
 population: null
 country_id: AU
 country_name: Australia
+area: "Endangered Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
@@ -53,3 +54,4 @@ translations:
     name: 玛里亚姆鲁语
     auto: true
 ---
+Marrithiyel, also known as Berringen, is an Australian Aboriginal language spoken by the Marrithiyal people.

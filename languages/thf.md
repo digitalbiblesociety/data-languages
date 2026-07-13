@@ -2,10 +2,12 @@
 iso: thf
 name: Thangmi
 autonym: " Thangmi Khan"
-alt_names: [Dolakha, Thami, Thāmī]
+alt_names: [Dolakha, Thami, Thāmī, Thangmi Kham, Thangmi Wakhe, Thani, Eastern Thangmi, Sindhupalchok, Western Thangmi]
 population: 24200
 country_id: NP
 country_name: Nepal
+location: "India, Map 4"
+area: Sino-Tibetan language of Nepal and India
 status_id: 6b
 scope: individual
 language_type: living

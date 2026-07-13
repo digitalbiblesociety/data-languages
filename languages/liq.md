@@ -2,10 +2,12 @@
 iso: liq
 name: Libido
 autonym: Marako
-alt_names: [Libido hizkuntza, Maraqo]
+alt_names: [Libido hizkuntza, Maraqo, Mareko, Mareqo, Maro]
 population: 14623
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afroasiatic language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

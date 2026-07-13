@@ -2,15 +2,18 @@
 iso: bfn
 name: Bunak
 autonym: Buna
-alt_names: ["Buna'", Bunake, Bunaq]
+alt_names: ["Buna'", Bunake, Bunaq, Buna’]
 population: 97000
 country_id: TL
 country_name: "Timor-Leste"
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: "Papuan language spoken on Timor, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -9.136185
 longitude: 125.215825
+language_map_img: 500px-Bunak.webp
 glottocode: buna1278
 glottolog_family_id: timo1261
 glottolog_family_name: Timor-Alor-Pantar

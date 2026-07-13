@@ -2,9 +2,11 @@
 iso: asf
 name: Auslan
 autonym: Australian Sign Language
+alt_names: [Auslan Sign Language]
 population: 10100
 country_id: AU
 country_name: Australia
+area: Sign language of the Australian deaf community
 status_id: "5"
 scope: individual
 language_type: living

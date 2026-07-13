@@ -5,6 +5,7 @@ autonym: Pasa Kidd
 population: 400
 country_id: TH
 country_name: Thailand
+area: Village sign language in Thailand
 status_id: 6a
 scope: individual
 language_type: living

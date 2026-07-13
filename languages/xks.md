@@ -6,6 +6,8 @@ alt_names: [Umbewaha]
 population: 3400
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sulawesi"
+area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

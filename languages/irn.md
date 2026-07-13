@@ -6,6 +6,8 @@ alt_names: [Iranche, Iranshe, Irantxe, Irantxe language, Irantxe-mynky, Iranxe, 
 population: 190
 country_id: BR
 country_name: Brazil
+location: Central Brazil
+area: "Indigenous language of Mato Grosso, Brazil"
 status_id: 8b
 scope: individual
 language_type: living

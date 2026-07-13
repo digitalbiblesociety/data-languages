@@ -6,11 +6,13 @@ alt_names: [Balbarum, Bar-barum, Barbarem, Barbarum, Boobu-ram, Booburam, Gugu-M
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -20.13889
 longitude: 143.43797
+language_map_img: 500px-Traditional_lands_of_the_Australian_aboriginal_tribes_around_Cairns.webp
 glottocode: mbab1239
 glottolog_family_id: pama1250
 glottolog_family_name: Pama-Nyungan

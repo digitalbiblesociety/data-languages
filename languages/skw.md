@@ -6,6 +6,7 @@ alt_names: ["Creole Dutch, Skepi", Skepi]
 population: null
 country_id: GY
 country_name: Guyana
+area: Extinct Dutch Creole once spoken in Guyana
 status_id: "10"
 scope: individual
 language_type: extinct

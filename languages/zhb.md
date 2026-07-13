@@ -6,11 +6,14 @@ alt_names: [Bazi, Bozi, Chaba, Draba, Zaba, Zha, nDrapa]
 population: 7700
 country_id: CN
 country_name: China
+location: China
+area: "Qiangic language of Sichuan, China"
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 30.74155
 longitude: 100.98277
+language_map_img: 500px-Zhaba_map.webp
 glottocode: zhab1238
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

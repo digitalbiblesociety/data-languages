@@ -2,10 +2,12 @@
 iso: gab
 name: Gabri
 autonym: Southern Gabri
-alt_names: [Gabere, Gaberi, Gabri-Nord, Ngabre, Northern Gabri]
+alt_names: [Gabere, Gaberi, Gabri-Nord, Ngabre, Northern Gabri, Darbé, Dormon, Gabri Darbé-Dormon, Gabri Maja, Maja]
 population: 34400
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Chadic dialect cluster of Chad
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: bbw
 name: Baba
 autonym: Papiak
-alt_names: [Bapa, Bapakum, Papia]
+alt_names: [Bapa, Bapakum, Papia, Baba 1, Supapya’]
 population: 24500
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Grassfields Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

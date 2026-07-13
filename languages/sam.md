@@ -6,12 +6,14 @@ alt_names: ["Aramaic, Samaritan"]
 population: null
 country_id: PS
 country_name: Palestine State
+area: Dialect of Aramaic used by the Samaritans
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 32.31075
 longitude: 35.25798
 scripts: [Hebr, Samr]
+glottocode: sama1314
 wikidata_id: Q56612
 wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Aramaic"
 translations:

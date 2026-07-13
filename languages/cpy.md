@@ -2,10 +2,11 @@
 iso: cpy
 name: South Ucayali Ashéninka
 autonym: Campa
-alt_names: ["Ashéninka, South Ucayali"]
+alt_names: ["Ashéninka, South Ucayali", Ashéninka Ucayali del Sur, Asheninka]
 population: 13000
 country_id: PE
 country_name: Peru
+area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living

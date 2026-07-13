@@ -6,11 +6,14 @@ alt_names: [Doa]
 population: 300
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -2.8406
 longitude: 136.89869
+language_map_img: Tause_language_distribution.svg
 glottocode: taus1252
 glottolog_family_id: lake1255
 glottolog_family_name: Lakes Plain

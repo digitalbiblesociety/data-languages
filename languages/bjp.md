@@ -2,9 +2,11 @@
 iso: bjp
 name: Fanamaket
 autonym: Tangga / Fanamaket
+alt_names: [Maket, Tangga]
 population: 1080
 country_id: PG
 country_name: Papua New Guinea
+area: Oceanic language of New Ireland
 status_id: 6a
 scope: individual
 language_type: living
@@ -47,3 +49,4 @@ translations:
     name: 法纳马克特语
     auto: true
 ---
+Tangga is an Oceanic language of New Ireland, spoken on Tanga and Feni islands and in Sena, Muliama and Varangansau villages in the Tanglamet area of Namatanai of New Ireland itself. These three locations are highly divergent; children from one understand little to nothing of the others, and adults consider them to be distinct languages, though they recognize their common history of their migration from Tanga and Feni to New Ireland.

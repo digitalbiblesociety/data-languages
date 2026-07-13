@@ -2,10 +2,12 @@
 iso: shr
 name: Shi
 autonym: Kishi
-alt_names: [Mashi]
+alt_names: [Mashi, Hwindja, Lindja, Longe-Longe, Lwindja, Nyabungu, Ziba]
 population: 654000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

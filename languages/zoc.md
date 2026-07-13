@@ -2,10 +2,12 @@
 iso: zoc
 name: Copainalá Zoque
 autonym: Zoque de Copainalá
-alt_names: [Central Zoque, Chiapas Soke, Copainala Zoque, Copainalá, Ostuacan Zoque, Ostuacán, Soke, Sokean, Tecpatán, Zoque, Zoque (Copainalá), Zoque (Ostuacan), Zoque de Copainalí, "Zoque, Copainalá", "Zoque, Copainalí"]
+alt_names: [Central Zoque, Chiapas Soke, Copainala Zoque, Copainalá, Ostuacan Zoque, Ostuacán, Soke, Sokean, Tecpatán, Zoque, Zoque (Copainalá), Zoque (Ostuacan), Zoque de Copainalí, "Zoque, Copainalá", "Zoque, Copainalí", Zoque de Ocotepec, Zoque de Ostuacán]
 population: 10000
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: Zoquean dialects of Mexico
 status_id: 6a
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Chiapas"
 ---
+Chiapas Zoque is a dialect cluster of Zoquean languages indigenous to southern Mexico. The three varieties with ISO codes, Francisco León, Copainalá, and Rayón, are named after the towns they are spoken in, though residents of Francisco León were relocated after their town was buried in the eruption of El Chichón Volcano in 1982. Francisco León and Copainalá are 83% mutually intelligible according to Ethnologue.

@@ -2,10 +2,12 @@
 iso: tcg
 name: Tamagario
 autonym: Buru
-alt_names: [Tamaraw, Tamágario, Wagow]
+alt_names: [Tamaraw, Tamágario, Wagow, Wiyagar]
 population: 3500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Papuan language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living

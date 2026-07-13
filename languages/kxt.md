@@ -6,6 +6,8 @@ alt_names: [Sawos]
 population: 800
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Ndu language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

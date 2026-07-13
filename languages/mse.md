@@ -2,10 +2,12 @@
 iso: mse
 name: Musey
 autonym: Bananna
-alt_names: [Bananna Ho Ho, Mosi, Moussei, Moussey, Musaya, Musei, Museyna, Musiina, Musoi, Mussoi, Mussoy]
+alt_names: [Bananna Ho Ho, Mosi, Moussei, Moussey, Musaya, Musei, Museyna, Musiina, Musoi, Mussoi, Mussoy, Bananna Ho, Bongor-Jodo-Tagal-Berem-Gunu, Ho, Jaraw-Domo, Pe, Pe-Holom-Gamé]
 population: 433000
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Chadic language of Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

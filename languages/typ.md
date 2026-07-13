@@ -6,6 +6,7 @@ alt_names: [AghuLaia, AkuLaia, Ambaram, Angandjan, Arlga, Awu Laya, Awu-Alaya, A
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: extinct

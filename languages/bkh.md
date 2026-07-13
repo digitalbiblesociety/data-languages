@@ -2,10 +2,11 @@
 iso: bkh
 name: Bakoko
 autonym: Bakoko
-alt_names: [Basoo]
+alt_names: [Basoo, Adiangok, Adie, Basoo Ba Die, Basoo Ba Likol, "Basoo D'edea", Basso, Bisoo, Dimbambang, Elog Mpoo, Mbang, Yabyang, Yabyang-Yapeke, Yakalag, Yakalak, Yapoma, Yasoukou, Yassuku, Yasug, Yasuku]
 population: 50000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living

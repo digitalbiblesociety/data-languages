@@ -6,6 +6,7 @@ alt_names: [Bego, Beigo, Beko, Beygo, Béogé]
 population: null
 country_id: SD
 country_name: Sudan
+area: Extinct Daju language of Sudan
 status_id: "9"
 scope: individual
 language_type: extinct

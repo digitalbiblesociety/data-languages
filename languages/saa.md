@@ -5,6 +5,8 @@ autonym: Jelkung
 population: 1340
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Afro-Asiatic language of Chad
 status_id: 6b
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: eee
 name: E
 autonym: Wuse
-alt_names: ["\"Wuse Hua\"", "\"Wusehua\"", Kjang E, Wusehuá, 誒話]
+alt_names: ["\"Wuse Hua\"", "\"Wusehua\"", Kjang E, Wusehuá, 誒話, “Wuse Hua”, “Wusehua”, Eahua]
 population: 7000
 country_id: CN
 country_name: China
+location: Southern China
+area: Sino-Tibetan mixed language from Tai and Chinese
 status_id: 6b
 scope: individual
 language_type: living

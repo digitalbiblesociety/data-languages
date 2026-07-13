@@ -6,6 +6,8 @@ alt_names: [Budu-Tagu, Bunoge, "Dogon, Bunoge", Korandabo]
 population: 1000
 country_id: ML
 country_name: Mali
+location: "Mali, Map 4"
+area: Dogon language
 status_id: 6a
 scope: individual
 language_type: living

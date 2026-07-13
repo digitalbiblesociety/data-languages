@@ -2,9 +2,12 @@
 iso: hag
 name: Hanga
 autonym: Anga
+alt_names: [Northern Hanga, Southern Hanga]
 population: 6800
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living

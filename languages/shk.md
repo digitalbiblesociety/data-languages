@@ -6,6 +6,8 @@ alt_names: [Chulla, Colo, Colo (Shilluk), Dhocolo, Schilluk, Shulla, Šilluk]
 population: 574000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Luo language spoken in part of South Sudan and Sudan
 status_id: "4"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: xte
 name: Ketengban
 autonym: Oktengban
-alt_names: [Kupel]
+alt_names: [Kupel, Bime, Kufel-wenga, Okbap, Omban, Onya]
 population: 9970
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living

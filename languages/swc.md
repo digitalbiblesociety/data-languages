@@ -3,10 +3,11 @@ iso: swc
 macrolanguage_id: swa
 name: Congo Swahili
 autonym: Kiswahili
-alt_names: ["Swahili, Congo", Zaïre Swahili]
+alt_names: ["Swahili, Congo", Zaïre Swahili, Congo, Ituri Kingwana, Katanga Swahili, Kivu Swahili, Lualaba Kingwana]
 population: 2043000
 country_id: CD
 country_name: DR Congo
+area: Dialect of Swahili spoken in the DRC
 status_id: "2"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: mey
 name: Hassaniyya
 autonym: حسانية
-alt_names: [Arabic, Arabic (Bani-Hassan), Bedouin Dialects, Eastern Arabic, Hasaniyeg, Hasanya, Hasanya Arabic, Hassani, Hassania, Hassanija, Hassaniya, Hassaniyya Arabic, Hassaniyya arapski, Hassanya, Hassanía, Hassānīya Arabic, Klem El Bithan, Maure, Mauri, Moor, Sahrawi, Sulaka, Suraka, Suraxxé, Хасания, لهجة حسانية]
+alt_names: [Arabic, Arabic (Bani-Hassan), Bedouin Dialects, Eastern Arabic, Hasaniyeg, Hasanya, Hasanya Arabic, Hassani, Hassania, Hassanija, Hassaniya, Hassaniyya Arabic, Hassaniyya arapski, Hassanya, Hassanía, Hassānīya Arabic, Klem El Bithan, Maure, Mauri, Moor, Sahrawi, Sulaka, Suraka, Suraxxé, Хасания, لهجة حسانية, Hassaniya Arabic, Hasaniya]
 population: 9660400
 country_id: MR
 country_name: Mauritania
+location: "Algeria, Morocco, Tunisia and Western Sahara"
+area: Maghrebi Arabic dialect spoken by Mauritanians and Sahrawi
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 20.14644
 longitude: -2.40278
+language_map_img: Hassaniya_Arabic_Map.svg
 scripts: [Arab, Latn]
 glottocode: hass1238
 glottolog_family_id: afro1255

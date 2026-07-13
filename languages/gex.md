@@ -6,6 +6,8 @@ alt_names: [Garre hizkuntza]
 population: 685600
 country_id: SO
 country_name: Somalia
+location: Somalia
+area: Cushitic language spoken in Kenya and Somalia
 status_id: 6a
 scope: individual
 language_type: living

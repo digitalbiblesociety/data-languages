@@ -2,10 +2,12 @@
 iso: gym
 name: Ngäbere
 autonym: Movere
-alt_names: [Chiriqui, Guaymi, Guaymí, Guaymí (Ngäbere), Guaymí (Panamá), Mobe, Move, Mycenaean Linear B, Ngabere, Ngawbere, Ngobere, Norteño, Penonomeño, Valiente, Waymiyi simi, gymimí]
+alt_names: [Chiriqui, Guaymi, Guaymí, Guaymí (Ngäbere), Guaymí (Panamá), Mobe, Move, Mycenaean Linear B, Ngabere, Ngawbere, Ngobere, Norteño, Penonomeño, Valiente, Waymiyi simi, gymimí, Eastern Guaymí, Ngäbe, Nove, Tolé]
 population: 171840
 country_id: PA
 country_name: Panama
+location: Costa Rica
+area: Chibchan language spoken in Central America
 status_id: "5"
 scope: individual
 language_type: living

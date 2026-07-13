@@ -3,15 +3,18 @@ iso: fin
 iso639_1: fi
 name: Finnish
 autonym: suomen kieli
-alt_names: [An Fhionlainnis, Ffinneg, Fin tili, Fince, Finlandana linguo, Finlandiera, Finneg, Finnek, Finngbe, Finnisc sprǣc, Finnish leid, Finnlynnish, Finnois, Finnsche Spraak, Finnska, Fins, Finsk, Finska, Finès, Finés, Fionnais, Phinis simi, Soomõ kiil, Suomagiella, Suomi-gí, Łéngua finlandexe, Забони финӣ, Суоминь кель, Суоминь кяль, Финляндхойн мотт, Финн йылме, פינית, فىنلاندىيە تىلى, ސުއޯމީ, ‘Ōlelo Pinilana]
+alt_names: [An Fhionlainnis, Ffinneg, Fin tili, Fince, Finlandana linguo, Finlandiera, Finneg, Finnek, Finngbe, Finnisc sprǣc, Finnish leid, Finnlynnish, Finnois, Finnsche Spraak, Finnska, Fins, Finsk, Finska, Finès, Finés, Fionnais, Phinis simi, Soomõ kiil, Suomagiella, Suomi-gí, Łéngua finlandexe, Забони финӣ, Суоминь кель, Суоминь кяль, Финляндхойн мотт, Финн йылме, פינית, فىنلاندىيە تىلى, ސުއޯމީ, ‘Ōlelo Pinilana, flaami, Suomea, Suomi, Central and North Pohjanmaa, Finnish Karelian, Finnish Karjala, Finskiy, Häme, Peräpohja, Savo, Savolax, South Pohjanmaa, Southeastern Finnish, Southwestern Finnish, Tavast]
 population: 5770040
 country_id: FI
 country_name: Finland
+location: "Denmark, Finland, Norway and Sweden"
+area: Finnic language mostly spoken in Finland
 status_id: "1"
 scope: individual
 language_type: living
 latitude: 64.762825
 longitude: 25.55767
+language_map_img: Spread_of_the_Finnish_language.webp
 scripts: [Latn]
 glottocode: finn1318
 glottolog_family_id: ural1272

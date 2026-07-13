@@ -6,6 +6,8 @@ alt_names: [Ticherong]
 population: 2420
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Most spoken and standard of the Tibetic languages
 status_id: 6a
 scope: individual
 language_type: living

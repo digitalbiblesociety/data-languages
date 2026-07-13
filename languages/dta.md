@@ -2,10 +2,12 @@
 iso: dta
 name: Daur
 autonym: Daguor
-alt_names: [Dagour du Sinkiang, Dagur, Daguro de Xinjiang, Dahur, Dawar, "Dawo'er", Hailar, Nonni, Tahuerh, Tahur, Tongusikonni, Yezhoù dagourek, 達斡爾]
+alt_names: [Dagour du Sinkiang, Dagur, Daguro de Xinjiang, Dahur, Dawar, "Dawo'er", Hailar, Nonni, Tahuerh, Tahur, Tongusikonni, Yezhoù dagourek, 達斡爾, Dawo’er, Aihui, Bataxan, Butah, Buteha, Darbin, Fularji, "Haila'er", Ili, Jiangdong, Jingxi, Mergen, Mokertu, Nantun, Nawen, Nemor, "Qiqiha'er", Qiqihar, Tsitsikhar]
 population: 132000
 country_id: CN
 country_name: China
+location: China
+area: Mongolic language
 status_id: "7"
 scope: individual
 language_type: living

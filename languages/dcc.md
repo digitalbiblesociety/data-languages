@@ -2,15 +2,20 @@
 iso: dcc
 name: Deccan
 autonym: Dakini
+alt_names: [Deccani, Desi, Bijapuri, Dakhini, Dakhni, Dakkani, Dakkhani, Dharwar, Kalvadi]
 population: 12800000
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Marathi–Konkani language of India
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 18.59186
 longitude: 75.71697
+language_map_img: dcc.webp
 scripts: [Arab]
+glottocode: decc1239
 wikidata_id: Q86753925
 wikipedia_url: "https://en.wikipedia.org/wiki/Berar-Deccan_Marathi"
 translations:

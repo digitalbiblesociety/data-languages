@@ -6,6 +6,8 @@ alt_names: [Kombai, Wangom]
 population: 1180
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 万戈姆语
     auto: true
 ---
+Kombai (Komboy) is a Papuan language of Boven Digoel Regency in South Papua, Indonesia. It is spoken by the Kombai, including the Kombai Kali or River Kombai, who spoke Tayan dialect.

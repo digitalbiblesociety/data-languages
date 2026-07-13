@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: CZ
 country_name: Czechia
+area: Extinct West Slavic Jewish language
 status_id: null
 scope: individual
 language_type: extinct

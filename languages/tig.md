@@ -2,10 +2,12 @@
 iso: tig
 name: Tigre
 autonym: ትግረ  ኻሳ
-alt_names: [Beni Amer, Khasa, Tigre hizkuntza, Tigreeg, Tigré, Xasa, Тигре]
+alt_names: [Beni Amer, Khasa, Tigre hizkuntza, Tigreeg, Tigré, Xasa, Тигре, Ad-Tekleis, Ad-Temariam, Algeden, Beni-Amir, Bet-Juk, Dahalik, Habab, Mansaꞌ, Marya Kayah, Mensa, Semhar, Senhit, Tigraayit]
 population: 1359000
 country_id: ER
 country_name: Eritrea
+location: "Djibouti, Eritrea and Ethiopia"
+area: Semitic language spoken in the Horn of Africa
 status_id: "4"
 scope: individual
 language_type: living

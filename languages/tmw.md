@@ -7,6 +7,8 @@ alt_names: [Beduanda, Benua, Niap, Temuano]
 population: 22162
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Malayan language of Peninsular Malaysia
 status_id: 6b
 scope: individual
 language_type: living

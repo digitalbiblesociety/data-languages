@@ -6,6 +6,8 @@ alt_names: [Bembala, Buryí, Daashi]
 population: 83000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Afro-Asiatic language of Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

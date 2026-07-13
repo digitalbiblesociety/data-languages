@@ -2,15 +2,18 @@
 iso: lus
 name: Lushai
 autonym: Mizo ṭawng
-alt_names: [Duhlian Twang, Dulien, Haulngo, Hualngo, Le, Lei, Lukhai, Lusago, Lusai, Lusei, Lushai-Mizo, Lushei, Lushēi, Mizo, Mizo language, Sailau, Whelngo]
+alt_names: [Duhlian Twang, Dulien, Haulngo, Hualngo, Le, Lei, Lukhai, Lusago, Lusai, Lusei, Lushai-Mizo, Lushei, Lushēi, Mizo, Mizo language, Sailau, Whelngo, Chin, Fannai, Ka-Lin-Kaw, Lushay, Ngente, Tlau]
 population: 843750
 country_id: IN
 country_name: India
+location: Bangladesh
+area: Tibeto-Burman language spoken primarily in northeastern India
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 22.61376
 longitude: 92.624697
+language_map_img: 500px-Mizo_Language_Distribution_Map.webp
 scripts: [Beng]
 glottocode: lush1249
 glottolog_family_id: sino1245

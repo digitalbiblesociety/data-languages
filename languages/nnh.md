@@ -2,10 +2,12 @@
 iso: nnh
 name: Ngiemboon
 autonym: Ngyɛmbɔɔŋ
-alt_names: [Bamileke-Ngiemboon, Bamileke-Ngyemboon, Nguemba, Ngyemboon]
+alt_names: [Bamileke-Ngiemboon, Bamileke-Ngyemboon, Nguemba, Ngyemboon, Balatchi, Balessing, Bamougong, Bangang, Batang, Batcham, Shwoge]
 population: 250000
 country_id: CM
 country_name: Cameroon
+location: "Southwestern Cameroon, Enlarged Area"
+area: Bamileke language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living

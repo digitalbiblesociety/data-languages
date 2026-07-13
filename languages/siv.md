@@ -6,6 +6,8 @@ alt_names: [Sogoba]
 population: 80
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 6"
+area: Sepik language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living

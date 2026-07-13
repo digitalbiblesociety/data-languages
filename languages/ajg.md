@@ -2,15 +2,18 @@
 iso: ajg
 name: Aja
 autonym: Adja
-alt_names: [Adjaeg, "Aja, níxero-congolesa", Aja-gbe, Ajagbe, Hwè]
+alt_names: [Adjaeg, "Aja, níxero-congolesa", Aja-gbe, Ajagbe, Hwè, Dogbo, Dogo, Ehoue, Shikpi, Sikpi, Tado, Tadou, Tala]
 population: 1131000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 7.066335
 longitude: 1.64992
+language_map_img: 500px-Gbe_languages.webp
 glottocode: ajab1235
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

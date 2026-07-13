@@ -6,11 +6,14 @@ alt_names: ["Creole French, Guianese", Créole guyanais, French Creole, French G
 population: 131000
 country_id: GF
 country_name: French Guiana
+location: French Guiana and Suriname
+area: French-based creole of French Guiana
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 4.94804
 longitude: -52.73359
+language_map_img: French_Guiana_CIA.webp
 scripts: [Latn]
 glottocode: guia1246
 glottolog_family_id: indo1319

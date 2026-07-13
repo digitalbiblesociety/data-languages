@@ -6,6 +6,8 @@ alt_names: [Bira, Plains Bira]
 population: 120000
 country_id: CD
 country_name: DR Congo
+location: Northern Democratic Republic of Congo
+area: Bantu language of the northeastern DR Congo
 status_id: 6b
 scope: individual
 language_type: living

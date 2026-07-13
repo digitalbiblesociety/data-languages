@@ -6,11 +6,13 @@ alt_names: [Margali, Margaluri, Megrel, Megrelce, Megreleg, Megrelian, Megruli, 
 population: 345500
 country_id: GE
 country_name: Georgia
+area: Kartvelian language of western Georgia
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 42.51289
 longitude: 41.87188
+language_map_img: Kartvelian_languages.webp
 scripts: [Geor]
 glottocode: ming1252
 glottolog_family_id: kart1248

@@ -2,15 +2,18 @@
 iso: heg
 name: Helong
 autonym: bahasa Helong
-alt_names: [Helon, Kupang, Kupong, Semau]
+alt_names: [Helon, Kupang, Kupong, Semau, Bolok, Funai, Helong Darat, Helong Pulau, Island Helong, Land Helong]
 population: 14000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Nusa Tenggara and Southwestern Maluku"
+area: Language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -10.26465
 longitude: 123.37692
+language_map_img: 500px-Timor_Sprache_en.webp
 glottocode: helo1243
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

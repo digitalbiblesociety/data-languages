@@ -6,6 +6,7 @@ alt_names: [Cant, Gammon, Irish Traveler Cant, Seulra, Sheldru, The Cant, שלט
 population: 6000
 country_id: IE
 country_name: Ireland
+area: Language spoken by Irish Travellers
 status_id: 6a
 scope: individual
 language_type: living

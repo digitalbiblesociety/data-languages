@@ -5,6 +5,7 @@ autonym: Yurak
 population: null
 country_id: RU
 country_name: Russia
+area: Extinct Samoyedic language
 status_id: null
 scope: individual
 language_type: extinct

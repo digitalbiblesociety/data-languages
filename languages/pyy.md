@@ -2,10 +2,12 @@
 iso: pyy
 name: Pyen
 autonym: Phen
-alt_names: [Hpyin]
+alt_names: [Hpyin, Hpinba, Misu, Pyin]
 population: 800
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Loloish language of Myanmar
 status_id: 6a
 scope: individual
 language_type: living

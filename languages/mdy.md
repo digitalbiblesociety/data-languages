@@ -2,10 +2,12 @@
 iso: mdy
 name: Male
 autonym: Male
-alt_names: [Maale, Maalé, Malé]
+alt_names: [Maale, Maalé, Malé, Malie]
 population: 94700
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language of Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Inland of Great Nicobar, Inlanddialekt, Shobang, Shom Pen, Shom-Pen,
 population: 400
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Nicobarese language of Great Nicobar Island
 status_id: 6a
 scope: individual
 language_type: living

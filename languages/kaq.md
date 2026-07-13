@@ -2,15 +2,18 @@
 iso: kaq
 name: Capanahua
 autonym: Noquen hihbaan joi
-alt_names: [Kapanawa]
+alt_names: [Kapanawa, Capa Baquebo, Capabaquebo, Capacho, Capanawa, Nuquencaibo, Pahenbaquebo]
 population: 380
 country_id: PE
 country_name: Peru
+location: Peru
+area: Panoan language spoken in Peru and Brazil
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -6.63254
 longitude: -74.38135
+language_map_img: 500px-Pizarra_de_inicial_en_Bena_Jema.webp
 glottocode: capa1241
 glottolog_family_id: pano1259
 glottolog_family_name: Pano-Tacanan

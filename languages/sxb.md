@@ -2,10 +2,12 @@
 iso: sxb
 name: Suba
 autonym: null
-alt_names: [Olusuba]
+alt_names: [Olusuba, EgiSuba, Luo AbaSuba]
 population: 158000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

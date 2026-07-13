@@ -6,6 +6,8 @@ alt_names: ["\"Caldoche\"", "\"Kaldosh\"", Bichelemar, Kaldosh, New Caledonia Pi
 population: 900
 country_id: NC
 country_name: New Caledonia
+location: New Caledonia
+area: French-based Creole spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living

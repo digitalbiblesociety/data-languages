@@ -6,6 +6,8 @@ alt_names: [Morigi Island, Turama, Turama River Kiwai, Wariadai]
 population: 700
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Papuan language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living

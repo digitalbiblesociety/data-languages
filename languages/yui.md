@@ -2,15 +2,18 @@
 iso: yui
 name: Yurutí
 autonym: Wajiara
-alt_names: [Anana, Guanano, Juriti, Juriti-Tapuia, Juruti, Jurutí, Kotiria, Kótedia, Kótirya, Luruty-Tapuya, Luruty-Tapuya Juriti, Patsoka, Pira-Tapuya, Pira-tapuya (Colombia), Piratapuya (Brésil), Piratapuya (Colombie), Totsoca, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uiquina, Urubu-Tapuya, Wadzana, Waikana, Waikena, Waikhara, Waikina, Waikino, Waimasá, Waina, Wajiaraye, Wanana, Wanano-Piratapuyo, Wanâna, Wayhara, Yuriti, Yuruti, Yuruti-Tapuya, Yurutiye, kotirya (Brésil), kotirya (Colombie), kótedia (Colombia)]
+alt_names: [Anana, Guanano, Juriti, Juriti-Tapuia, Juruti, Jurutí, Kotiria, Kótedia, Kótirya, Luruty-Tapuya, Luruty-Tapuya Juriti, Patsoka, Pira-Tapuya, Pira-tapuya (Colombia), Piratapuya (Brésil), Piratapuya (Colombie), Totsoca, Uaiana, Uaicana, Uaikena, Uainana, Uanana, Uiquina, Urubu-Tapuya, Wadzana, Waikana, Waikena, Waikhara, Waikina, Waikino, Waimasá, Waina, Wajiaraye, Wanana, Wanano-Piratapuyo, Wanâna, Wayhara, Yuriti, Yuruti, Yuruti-Tapuya, Yurutiye, kotirya (Brésil), kotirya (Colombie), kótedia (Colombia), Juruti-Tapuia, Waijiara masa-wadyana, Yuriti-Tapuia]
 population: 450
 country_id: CO
 country_name: Colombia
+location: Northwestern Brazil
+area: Tucanoan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 0.735585
 longitude: -69.695465
+language_map_img: Yuruti.webp
 glottocode: yuru1263
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

@@ -2,10 +2,12 @@
 iso: wss
 name: Wasa
 autonym: Akan
-alt_names: [Wasaw, Wassa]
+alt_names: [Wasaw, Wassa, Amenfi, Fianse]
 population: 273000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Language of Akan lands in Ghana
 status_id: "5"
 scope: individual
 language_type: living

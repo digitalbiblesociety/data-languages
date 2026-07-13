@@ -6,6 +6,8 @@ alt_names: [India]
 population: 801000
 country_id: IN
 country_name: India
+location: "India, Map 7"
+area: "Munda language of Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living

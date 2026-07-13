@@ -6,6 +6,8 @@ alt_names: [Gukari, Gukariya, Kukkori, Na kara, Nackara, "Naga:ra", Nagara, "Nak
 population: 58
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Maningrida language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Calibugan, Kalibugan, Kolibugan, "Subanon, Kolibugan"]
 population: 25100
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao, Zamboanga Peninsula"
 ---
+The Subanen languages are a group of closely related Austronesian languages belonging to the Greater Central Philippine subgroup. Subanen languages are spoken in various areas of Zamboanga Peninsula, namely the provinces of Zamboanga Sibugay, Zamboanga del Norte and Zamboanga del Sur, and in Misamis Occidental of Northern Mindanao. There is also a sizeable Subanen community in Misamis Oriental and Lanao del Norte. Most speakers of Subanen languages go by the name of Subanen, Subanon or Subanun, while those who adhere to Islam refer to themselves as Kolibugan, Kalibugan, Tewlet or Telet.

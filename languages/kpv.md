@@ -7,6 +7,8 @@ alt_names: [Komi, Komi Zyryan, Komi-Syrjänisch, Komi-Zyryan, Syrjänisch, Syrä
 population: 228000
 country_id: RU
 country_name: Russia
+location: Western Russia
+area: Uralic language spoken in Russia
 status_id: "5"
 scope: individual
 language_type: living

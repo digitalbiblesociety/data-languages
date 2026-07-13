@@ -6,6 +6,8 @@ alt_names: [Abdal, Aini, Ainoueg, Ainu, Ainu (China), Ayni tili, Aynu, Aíníska
 population: 6570
 country_id: CN
 country_name: China
+location: China
+area: Turkic cryptolect spoken in Western China
 status_id: 6b
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Malapantaram, Malepantaram, Pandaram Basha]
 population: 5850
 country_id: IN
 country_name: India
+location: "India, Map 8"
+area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living

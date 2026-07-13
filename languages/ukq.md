@@ -6,6 +6,8 @@ alt_names: [Nigeria]
 population: 100
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 10"
+area: Efik language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living

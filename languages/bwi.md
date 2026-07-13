@@ -2,15 +2,18 @@
 iso: bwi
 name: Baniwa
 autonym: Baniwa
-alt_names: [Baniba, Baniua do Içana, Baniva, Baniva do Içana, "Baniwa de l'Içana", Baniwa of Icana, Baniwa-Kurripako, Dakenei, Icana, Issana, Karútana-Baniva, Karútana-Baniwa, Karútiana-Baniva, Karútiana-Baniwa, Kohoroxitari, Maniba, Siusi, Suicí, Ualiperi]
+alt_names: [Baniba, Baniua do Içana, Baniva, Baniva do Içana, "Baniwa de l'Içana", Baniwa of Icana, Baniwa-Kurripako, Dakenei, Icana, Issana, Karútana-Baniva, Karútana-Baniwa, Karútiana-Baniva, Karútiana-Baniwa, Kohoroxitari, Maniba, Siusi, Suicí, Ualiperi, Banibo, Baniwa do Içana]
 population: 1000
 country_id: VE
 country_name: Venezuela
+location: Northwestern Brazil
+area: Arawakan language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 2.178585
 longitude: -67.77038
+language_map_img: 500px-Baniwa.webp
 glottocode: bani1255
 glottolog_family_id: araw1281
 glottolog_family_name: Arawakan

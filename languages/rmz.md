@@ -2,14 +2,18 @@
 iso: rmz
 name: Marma
 autonym: Rakhine
+alt_names: [“Mogh”, Mogh, Mraima]
 population: 186700
 country_id: BD
 country_name: Bangladesh
+location: Bangladesh
+area: Sino-Tibetan language spoken in Myanmar
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 21.453137
 longitude: 92.59659
+language_map_img: 500px-Arakanese.Map.webp
 glottocode: marm1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

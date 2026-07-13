@@ -5,11 +5,14 @@ autonym: null
 population: null
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Nearly-extinct language spoken in Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -8.42448
 longitude: 142.84233
+language_map_img: Abom_language.svg
 glottocode: abom1238
 glottolog_family_id: anim1240
 glottolog_family_name: Anim

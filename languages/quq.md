@@ -6,6 +6,7 @@ alt_names: [Spain]
 population: null
 country_id: ES
 country_name: Spain
+area: Spanish dialect
 status_id: 6a
 scope: individual
 language_type: living

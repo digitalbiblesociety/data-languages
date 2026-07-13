@@ -6,6 +6,8 @@ alt_names: [Dawson, Han-Kutchin, Hän, Hän language, Moosehide]
 population: 19
 country_id: US
 country_name: United States
+location: Canada
+area: Northern Athabaskan language spoken in Alaska and Canada
 status_id: 8b
 scope: individual
 language_type: living

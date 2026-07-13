@@ -6,6 +6,8 @@ alt_names: [Aitonia, Aitón, Sham Doaniya, Tai Aiton]
 population: 1500
 country_id: IN
 country_name: India
+location: "India, Map 5"
+area: "Tai language of Assam, India"
 status_id: 6b
 scope: individual
 language_type: living

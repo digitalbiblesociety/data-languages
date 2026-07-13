@@ -2,10 +2,12 @@
 iso: gra
 name: Rajput Garasia
 autonym: भीली
-alt_names: [Dhungri Garasia, Dungari Garasia, Dungri Grasia, "Garasia, Rajput", Girasia, Grasia]
+alt_names: [Dhungri Garasia, Dungari Garasia, Dungri Grasia, "Garasia, Rajput", Girasia, Grasia, Nyar]
 population: 76700
 country_id: IN
 country_name: India
+location: "India, Map 2"
+area: Western Indo-Aryan language spoken in west-central India
 status_id: "5"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 拉杰普特-加拉西亚语
     auto: true
 ---
+Bhili, IPA: [bʱiːliː], is a Western Indo-Aryan language spoken in west-central India, in the states of Rajasthan, Gujarat, Maharashtra, and Madhya Pradesh. Other names for the language include Bhilboli and several Bhili varieties are called Garasia. Bhili is a member of the Bhil languages, which are related to Gujarati and Rajasthani. The language is written using the Devanagari script.

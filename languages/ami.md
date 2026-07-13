@@ -2,15 +2,18 @@
 iso: ami
 name: Amis
 autonym: Pangcah
-alt_names: [Ami, Amia, Amisisch, Bakurut, Lam-Si-Hoan, Maran, Pagcah, Pangtsah, Sabari, Tanah, Â-mî-ngî]
+alt_names: [Ami, Amia, Amisisch, Bakurut, Lam-Si-Hoan, Maran, Pagcah, Pangtsah, Sabari, Tanah, Â-mî-ngî, Central Amis, Chengkung-Kwangshan, Haian Ami, "Hengch'un Amis", Hsiukulan Ami, Kuangfu, Kwangfu, Nanshi Amis, Northern Amis, Peinan, Southern Amis, Taitung, Tavalong-Vataan]
 population: 214000
 country_id: TW
 country_name: Taiwan
+location: Taiwan
+area: East Formosan language of Taiwan
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 23.09172
 longitude: 121.34791
+language_map_img: 500px-Formosan_languages_2008.webp
 glottocode: amis1246
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

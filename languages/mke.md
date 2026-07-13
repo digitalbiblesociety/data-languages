@@ -2,10 +2,12 @@
 iso: mke
 name: Mawchi
 autonym: Mauchi
-alt_names: [Gamti, Mavchi, Mawachi, Mawchi Bhil, Mowchi]
+alt_names: [Gamti, Mavchi, Mawachi, Mawchi Bhil, Mowchi, Padvi]
 population: 98500
 country_id: IN
 country_name: India
+location: "India, Map 6"
+area: Bhil language
 status_id: "5"
 scope: individual
 language_type: living

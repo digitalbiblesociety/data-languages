@@ -2,10 +2,12 @@
 iso: mev
 name: Mano
 autonym: Maa
-alt_names: [Mah, Mann, Manö, Mawe]
+alt_names: [Mah, Mann, Manö, Mawe, Maan, Manon]
 population: 427900
 country_id: LR
 country_name: Liberia
+location: Guinea and Guinea-Bissau
+area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

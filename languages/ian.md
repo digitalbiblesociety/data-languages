@@ -2,15 +2,18 @@
 iso: ian
 name: Iatmul
 autonym: gepmakudi
-alt_names: [Big Sepik, Gepma Kwudi, Gepma Kwundi, Middle Sepik, Ngepma Kwundi, No. 2 Sepik, Nyaura]
+alt_names: [Big Sepik, Gepma Kwudi, Gepma Kwundi, Middle Sepik, Ngepma Kwundi, No. 2 Sepik, Nyaura, Palimbei]
 population: 8440
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 4"
+area: Ndu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -4.30064
 longitude: 143.31566
+language_map_img: East_Sepik_in_Papua_New_Guinea.svg
 glottocode: iatm1242
 glottolog_family_id: nduu1242
 glottolog_family_name: Ndu

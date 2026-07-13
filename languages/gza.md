@@ -6,6 +6,8 @@ alt_names: [Ganzo, Koma]
 population: 5400
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Omotic language of Sudan and Ethiopia
 status_id: 6a
 scope: individual
 language_type: living

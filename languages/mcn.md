@@ -2,10 +2,12 @@
 iso: mcn
 name: Masana
 autonym: Masana
-alt_names: ["\"Banana\"", Banana, Masa, Masana hizkuntza, Masaneg, Massa, Massa language, Walia]
+alt_names: ["\"Banana\"", Banana, Masa, Masana hizkuntza, Masaneg, Massa, Massa language, Walia, “Banana”, Massana, Bongor, Budugum, Bugudum, Domo, Gisey, Gizay, Goumaye, Guissey, Gumay, Ham, Viri, Walya, Wina, Yagoua, Yagwa]
 population: 342000
 country_id: TD
 country_name: Chad
+location: Northern Cameroon
+area: Chadic language spoken in Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living

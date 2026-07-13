@@ -2,10 +2,12 @@
 iso: swi
 name: Sui
 autonym: Suī
-alt_names: [Ai Sui, Shui, Sui Li, Suipo]
+alt_names: [Ai Sui, Shui, Sui Li, Suipo, Central Sui, Pandong, Sandong, Southern Sui, "Yang'an"]
 population: 300120
 country_id: CN
 country_name: China
+location: Southern China
+area: "Tai–Kadai language spoken by the Sui people of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living

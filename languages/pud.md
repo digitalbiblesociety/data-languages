@@ -6,6 +6,8 @@ alt_names: [Aput]
 population: 370
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

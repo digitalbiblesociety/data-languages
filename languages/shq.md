@@ -6,6 +6,8 @@ alt_names: [Zambia]
 population: 20400
 country_id: ZM
 country_name: Zambia
+location: Zambia
+area: Bantu language spoken in Zambia
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 萨拉语
     auto: true
 ---
+Ila (Chiila) is a language of Zambia. Maho (2009) lists Lundwe (Shukulumbwe) and Sala as distinct languages most closely related to Ila. Ila is one of the languages of the Earth included on the Voyager Golden Record.

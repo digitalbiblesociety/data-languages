@@ -2,10 +2,12 @@
 iso: ijc
 name: Izon
 autonym: Ịzọn
-alt_names: [Central-Western Ijo, East Kalahari, Ijaw, Ijo, Izo, Kolokuma, Kolokuma Ijo, North Central Tshu-Khwe, North-Central, Uzo, Ịjọ]
+alt_names: [Central-Western Ijo, East Kalahari, Ijaw, Ijo, Izo, Kolokuma, Kolokuma Ijo, North Central Tshu-Khwe, North-Central, Uzo, Ịjọ, Apoi, Arogbo, Basan, Bassan, Boma, Bumo, East Olodiama, East Tarakiri, Egbema, Ekpetiama, Furupagha, Gbarain, Gbaranmatu, Iduwini, Ikibiri, Kabo, Kabowei, Kolokuma-Opokuma, Koluama, Kumbo, Kumbowei, Mein, Ogbe Ijo, Ogboin, Ogulagha, Operemo, Oporoma, Oporomo, Oporoza, Oyiakiri, Tuomo, West Olodiama, West Tarakiri]
 population: 2150000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Ijaw language spoken in Nigeria
 status_id: "4"
 scope: individual
 language_type: living

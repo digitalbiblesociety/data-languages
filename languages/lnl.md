@@ -2,10 +2,12 @@
 iso: lnl
 name: South Central Banda
 autonym: null
-alt_names: [Banda, Banda 1st division, "Banda, South Central"]
+alt_names: [Banda, Banda 1st division, "Banda, South Central", Lagba, Langba, Ngbougou, Ngbugu, Ngubu, South Central]
 population: 153000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Ubangian language spoken in central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -62,3 +64,4 @@ rolv_dialects:
     country_id: CF
     location: Central African Republic
 ---
+South Banda is a dialect continuum of the Banda languages spoken by around 200,000 or so people, primarily in the Central African Republic but with ten thousand or so in the Democratic Republic of the Congo. The two varieties may be mutually intelligible.

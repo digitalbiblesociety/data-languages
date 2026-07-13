@@ -2,10 +2,12 @@
 iso: jib
 name: Jibu
 autonym: Jibanci
-alt_names: [Jibawa]
+alt_names: [Jibawa, Galamjina, Garbabi, Gayam]
 population: 30000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Jukunoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

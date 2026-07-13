@@ -6,11 +6,13 @@ alt_names: [Atakapa hizkuntza, Atakapan, Atakapeg, Attacapa, Attacapan, Eastern 
 population: null
 country_id: US
 country_name: United States
+area: Extinct language of southern United States
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 30.91207
 longitude: -93.08271
+language_map_img: 500px-Atakapa_lang.webp
 glottocode: atak1252
 wikidata_id: Q10975683
 wikipedia_url: "https://en.wikipedia.org/wiki/Atakapa_language"

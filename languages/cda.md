@@ -2,10 +2,12 @@
 iso: cda
 name: Choni
 autonym: "Thewo-Chone"
-alt_names: [Chona, Chone, Cone, Jone, 卓尼話]
+alt_names: [Chona, Chone, Cone, Jone, 卓尼話, Zhuoni]
 population: 154000
 country_id: CN
 country_name: China
+location: China
+area: Tibetic language spoken in China
 status_id: "7"
 scope: individual
 language_type: living

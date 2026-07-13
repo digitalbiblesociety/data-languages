@@ -6,6 +6,8 @@ alt_names: [Aldolinga, Alinjerra, Aluna, Aluna Aluna, Andagarindja, Andagarinja,
 population: null
 country_id: AU
 country_name: Australia
+location: Australia
+area: Australian Aboriginal language of South Australia
 status_id: 8b
 scope: individual
 language_type: living

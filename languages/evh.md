@@ -2,10 +2,12 @@
 iso: evh
 name: Uvbie
 autonym: Evrie
-alt_names: ["\"Evhro\"", Effurun, Uvhria, Uvwie]
+alt_names: ["\"Evhro\"", Effurun, Uvhria, Uvwie, “Evhro”]
 population: 19800
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 9"
+area: Niger–Congo language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

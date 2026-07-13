@@ -2,10 +2,12 @@
 iso: tea
 name: Temiar
 autonym: Northern Sakai
-alt_names: [N Sakai, N. Sakai, Nord Sakai, Pie, Sakai, Seroq, Temer]
+alt_names: [N Sakai, N. Sakai, Nord Sakai, Pie, Sakai, Seroq, Temer, Grik, Kenderong, Kenering, Kinta Sakai, Lanoh Kobak, Po-Klo, Sakai Bukit of Temongoh, Sakai of Plus Korbu, Sungai Piah, Tanjong Rambutan, Tembeꞌ, Tembi, Ulu Kinta]
 population: 32000
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6a
 scope: individual
 language_type: living

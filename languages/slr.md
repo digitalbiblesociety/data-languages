@@ -2,10 +2,12 @@
 iso: slr
 name: Salar
 autonym: Salırça / 撒拉语
-alt_names: [Sala, Salarca, Salareg, саларский, سالار تىلى]
+alt_names: [Sala, Salarca, Salareg, саларский, سالار تىلى, Eastern Salar, Gaizi, Gandu, Ili, Jishishan, Mengda, Western Salar]
 population: 130000
 country_id: CN
 country_name: China
+location: China
+area: Turkic language of the Oghuz sub-branch
 status_id: 6b
 scope: individual
 language_type: living

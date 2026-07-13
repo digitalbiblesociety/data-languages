@@ -5,6 +5,7 @@ autonym: null
 population: null
 country_id: KH
 country_name: Cambodia
+area: Bahnaric language of Cambodia
 status_id: null
 scope: individual
 language_type: living

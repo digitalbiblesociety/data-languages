@@ -7,6 +7,8 @@ alt_names: [Etla Zapotec, Northern Sapoteko, Tejalapan, Tejalapan Zapotec, Zapot
 population: 2200
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living

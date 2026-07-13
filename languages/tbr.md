@@ -5,6 +5,8 @@ autonym: null
 population: 1300
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Kadu language of Sudan
 status_id: 8a
 scope: individual
 language_type: living

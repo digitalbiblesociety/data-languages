@@ -2,10 +2,12 @@
 iso: bvz
 name: Bauzi
 autonym: Baudi
-alt_names: [Baudji, Baudzi, Bauri]
+alt_names: [Baudji, Baudzi, Bauri, Aumenefa, Gesda Dae, Neao]
 population: 1500
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: "East Geelvink language of Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

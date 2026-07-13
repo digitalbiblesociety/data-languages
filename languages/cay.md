@@ -6,6 +6,8 @@ alt_names: [Кайюга]
 population: 3000
 country_id: CA
 country_name: Canada
+location: Canada
+area: Northern Iroquoian language of North America
 status_id: 8a
 scope: individual
 language_type: living

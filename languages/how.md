@@ -2,10 +2,12 @@
 iso: how
 name: Honi
 autonym: Baihong
-alt_names: [Haoni, Haónǐ, Ho, Ouni, Uni, Won, Woni]
+alt_names: [Haoni, Haónǐ, Ho, Ouni, Uni, Won, Woni, Hao-Bai, Beeqhongq Haniq]
 population: 140000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China and Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living

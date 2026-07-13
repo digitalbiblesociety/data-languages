@@ -7,6 +7,7 @@ alt_names: [An Laitvis, Latviana linguo, Latviek, Latvish, Latvisk, Latwyan, Let
 population: 1728760
 country_id: LV
 country_name: Latvia
+location: Latvia
 status_id: null
 scope: macrolanguage
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Arapasso, Arapaço, Arapáso, Araspaso, Koneá]
 population: null
 country_id: BR
 country_name: Brazil
+area: Tucanoan language spoken in Brazil and Colombia
 status_id: "9"
 scope: individual
 language_type: extinct
 latitude: 0.13727
 longitude: -67.72816
+language_map_img: Tucano.webp
 glottocode: arap1275
 glottolog_family_id: tuca1253
 glottolog_family_name: Tucanoan

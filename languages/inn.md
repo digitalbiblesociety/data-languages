@@ -2,15 +2,18 @@
 iso: inn
 name: Isinai
 autonym: Isinay
-alt_names: [Inmeas, Insinai, Isnay, Malaates]
+alt_names: [Inmeas, Insinai, Isnay, Malaates, Aritao, Bambang, Dupax del Sur]
 population: 5520
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 16.32993
 longitude: 121.12014
+language_map_img: 500px-Isinai_language_map.webp
 glottocode: isin1239
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

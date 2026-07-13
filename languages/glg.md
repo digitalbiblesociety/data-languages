@@ -3,10 +3,12 @@ iso: glg
 iso639_1: gl
 name: Galician
 autonym: galego
-alt_names: [An Ghailísis, Galeeshish, Galegogiella, Galicien, Galicies, Galicisch, Galicisk, Galiciska, Galijek, Galisieg, Galisisk, Galizeg, Galizian, Galiziera, Galiçyaca, Gallec, Gallegan, Gallego, Gallegu, Galligu simi, Galèc, Kigalicia, Kâ-lî-sî-â-ngî, Lia-galegu, Luenga gallega, Northern Portuguese, Գալիցերեն, גליסית, گالىسىيەچە]
+alt_names: [An Ghailísis, Galeeshish, Galegogiella, Galicien, Galicies, Galicisch, Galicisk, Galiciska, Galijek, Galisieg, Galisisk, Galizeg, Galizian, Galiziera, Galiçyaca, Gallec, Gallegan, Gallego, Gallegu, Galligu simi, Galèc, Kigalicia, Kâ-lî-sî-â-ngî, Lia-galegu, Luenga gallega, Northern Portuguese, Գալիցերեն, גליסית, گالىسىيەچە, Guadramilese, Guadramilês, Rionorese, Rionorês]
 population: 3127900
 country_id: ES
 country_name: Spain
+location: Portugal and Spain
+area: Western Ibero-Romance language
 status_id: "2"
 scope: individual
 language_type: living

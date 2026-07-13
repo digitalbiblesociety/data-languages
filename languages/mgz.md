@@ -2,10 +2,12 @@
 iso: mgz
 name: Mbugwe
 autonym: Kimbugwe
-alt_names: [Mbuwe]
+alt_names: [Mbuwe, Buwe, Kemboowɛ, Kiumbugwe]
 population: 24000
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language spoken in Tanzania
 status_id: 6b
 scope: individual
 language_type: living

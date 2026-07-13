@@ -2,10 +2,12 @@
 iso: kud
 name: "'Auhelawa"
 autonym: Kurada
-alt_names: ["'Urada", Nuakata]
+alt_names: ["'Urada", Nuakata, ’Auhelawa, ’Urada, Ulada, ꞌAuhelawa, ꞌUrada]
 population: 950
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Austronesian language spoken in Nuakata Island
 status_id: "5"
 scope: individual
 language_type: living

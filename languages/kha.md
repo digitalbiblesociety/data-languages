@@ -2,15 +2,18 @@
 iso: kha
 name: Khasi
 autonym: " ক ক্ত্যেন খসি"
-alt_names: [Cossyah, Jasí, Kahasi, Kaseg, Kassi, Khasa, Khashi, Khasia, Khasie, Khasiyas, Khassee, Khuchia, Kyi, Standard Khasi, Кхаси]
+alt_names: [Cossyah, Jasí, Kahasi, Kaseg, Kassi, Khasa, Khashi, Khasia, Khasie, Khasiyas, Khassee, Khuchia, Kyi, Standard Khasi, Кхаси, Bhoi-Khasi, Cherrapunji, Khynrium, Sohra, War]
 population: 1050000
 country_id: IN
 country_name: India
+location: Bangladesh
+area: "Austroasiatic language of Meghalaya state, India"
 status_id: "2"
 scope: individual
 language_type: living
 latitude: 24.97703
 longitude: 91.999805
+language_map_img: 500px-Khasic_Map.webp
 scripts: [Beng, Latn]
 glottocode: khas1269
 glottolog_family_id: aust1305

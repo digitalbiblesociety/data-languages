@@ -7,6 +7,8 @@ alt_names: [Lonchong, Lontjong, Seka, Sekah, Sekak]
 population: 420
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living

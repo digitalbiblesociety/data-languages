@@ -2,10 +2,12 @@
 iso: tyu
 name: Kua
 autonym: Kua
-alt_names: [Cua, Macua, Tyhua, Tyua]
+alt_names: [Cua, Macua, Tyhua, Tyua, Basarwa]
 population: 820
 country_id: BW
 country_name: Botswana
+location: Botswana
+area: Kalahari language spoken in Botswana and Zimbabwe
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 夸语
     auto: true
 ---
+Tsoa, Tshwa or Tshuwau, also known as Kua and Hiechware, is an East Kalahari Khoe dialect cluster spoken by several thousand people in Botswana and Zimbabwe.

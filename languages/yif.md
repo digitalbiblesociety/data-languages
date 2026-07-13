@@ -2,10 +2,12 @@
 iso: yif
 name: Ache
 autonym: null
-alt_names: ["Yi, Ache"]
+alt_names: ["Yi, Ache", A Che, Azhe]
 population: 35000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: Sino-Tibetan language spoken in China
 status_id: 6b
 scope: individual
 language_type: living

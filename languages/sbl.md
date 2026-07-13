@@ -2,15 +2,18 @@
 iso: sbl
 name: Botolan Sambal
 autonym: Botolan Sambal
-alt_names: [Aeta Negrito, Ayta Hambali, Botolan Zambal, "Sambal, Botolan"]
+alt_names: [Aeta Negrito, Ayta Hambali, Botolan Zambal, "Sambal, Botolan", Sambal, Botolan, Hambali, Hambali Botolan, Sambal Botolan, Sambali Botolan, Botolan Sambalì]
 population: 32900
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 15.23154
 longitude: 120.16443
+language_map_img: 500px-Botolan_Sambal_language_map.webp
 glottocode: boto1242
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

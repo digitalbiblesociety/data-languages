@@ -6,6 +6,7 @@ alt_names: [Dui, Duli]
 population: null
 country_id: CM
 country_name: Cameroon
+area: Extinct Savannas language of Cameroon
 status_id: "10"
 scope: individual
 language_type: extinct

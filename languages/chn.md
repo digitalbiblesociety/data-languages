@@ -2,10 +2,11 @@
 iso: chn
 name: Chinook jargon
 autonym: chinuk wawa
-alt_names: [Chinook, Chinook Pidgin, Chinook Wawa, Chinuco, Jargon, Jargon chinook, "chinook, jargon", Ĉinuka piĝino, činúk wáwa, Чинукский жаргон]
+alt_names: [Chinook, Chinook Pidgin, Chinook Wawa, Chinuco, Jargon, Jargon chinook, "chinook, jargon", Ĉinuka piĝino, činúk wáwa, Чинукский жаргон, Tsinuk Wawa]
 population: 1
 country_id: US
 country_name: United States
+area: Pidgin trade language from the Pacific Northwest
 status_id: 8b
 scope: individual
 language_type: living

@@ -2,9 +2,12 @@
 iso: prf
 name: Paranan
 autonym: Palanan
+alt_names: [Palanenyo]
 population: 15000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living

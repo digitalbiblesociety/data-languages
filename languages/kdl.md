@@ -2,10 +2,12 @@
 iso: kdl
 name: Tsikimba
 autonym: Tsikimba
-alt_names: [Agaushi, Akimba, Auna, Kambari, Kamberchi, Kamberri, Kimba]
+alt_names: [Agaushi, Akimba, Auna, Kambari, Kamberchi, Kamberri, Kimba, Agaunshe, Ashen]
 population: 100000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language group of Nigeria
 status_id: "5"
 scope: individual
 language_type: living

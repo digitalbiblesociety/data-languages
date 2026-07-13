@@ -3,15 +3,17 @@ iso: aae
 macrolanguage_id: sqi
 name: Arbëreshë Albanian
 autonym: arbërisht
-alt_names: [Albanesisch, Albanian, "Albanian, Arbëreshë", Arber, Arbereshe Albanian, Arberesjiska, Arberés, Arbresh, Arbërerisht, Arbëresh language, Arbëreshë, Arbëreshë albanski, Arbëreshë hizkuntza, Arnaut, Arvaniteg, Arvaníska, Aрбaрёж, Dialecto arbëreshë, Italo-Albanian, Luenga arbëreshë, Shqipēri, Shquipni, Škip]
+alt_names: [Albanesisch, Albanian, "Albanian, Arbëreshë", Arber, Arbereshe Albanian, Arberesjiska, Arberés, Arbresh, Arbërerisht, Arbëresh language, Arbëreshë, Arbëreshë albanski, Arbëreshë hizkuntza, Arnaut, Arvaniteg, Arvaníska, Aрбaрёж, Dialecto arbëreshë, Italo-Albanian, Luenga arbëreshë, Shqipēri, Shquipni, Škip, Calabrian Albanian, Campo Marino Albanian, Central Mountain Albanian, Molise Albanian, Sicilian Albanian]
 population: 260000
 country_id: IT
 country_name: Italy
+area: Albanian linguistic varieties of Italy
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 38.91104
 longitude: 16.71645
+language_map_img: Albanian_dialects.svg
 glottocode: arbe1236
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

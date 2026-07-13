@@ -3,15 +3,18 @@ iso: apc
 macrolanguage_id: ara
 name: North Levantine Arabic
 autonym: اللهجة الشامي الشمال
-alt_names: [Arabic, Arabic (Beirut), Arabic (Eastern), Arabic (Lebanese), Arabic (North Levantine Spoken), Arabic (Syrian), "Arabic, Levantine", "Arabic, North Levantine Spoken", Damascene, Dialekt damasceński, Lebanese Arabic, Lebanese-Syrian Arabic, Levantine Arabic, North Levantine Spoken, Sirià, Syrian Arabic, Syrisch-Arabisch, Syro-Lebanese Arabic, Árabe sírio, لهجة سورية]
+alt_names: [Arabic, Arabic (Beirut), Arabic (Eastern), Arabic (Lebanese), Arabic (North Levantine Spoken), Arabic (Syrian), "Arabic, Levantine", "Arabic, North Levantine Spoken", Damascene, Dialekt damasceński, Lebanese Arabic, Lebanese-Syrian Arabic, Levantine Arabic, North Levantine Spoken, Sirià, Syrian Arabic, Syrisch-Arabisch, Syro-Lebanese Arabic, Árabe sírio, لهجة سورية, North Levantine Spoken Arabic, Beqaa Arabic, Cilician Arabic, Druze Arabic, Iqlim-Al-Kharrub Sunni Arabic, Jdaideh Arabic, Lebanese, Libano-mexicano, Metuali, Mount Lebanon Arabic, North Lebanese Arabic, North-Central Lebanese Arabic, Saida Sunni Arabic, Shii, South Lebanese Arabic, South-Central Lebanese Arabic, Standard Lebanese Arabic, Sunni Beiruti Arabic, il-lahje š-šāmiyye, Çukurova, Çukurovan Arabic]
 population: 24600000
 country_id: SY
 country_name: Syria
+location: Jordan and Syria
+area: Arabic variety spoken in the Levant
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 34.170933
 longitude: 36.046843
+language_map_img: Levantine_Arabic_2023.svg
 scripts: [Arab]
 glottocode: nort3139
 glottolog_family_id: afro1255

@@ -2,10 +2,12 @@
 iso: sgw
 name: Sebat Bet Gurage
 autonym: Central West Gurage
-alt_names: [Central, Central Western Gurage, Chaha, Chaha Gurage, Chaha language, Chähä, Gurage, Gurage (Central West), Gurage (Chaha), Muher, Muxir, Txaha]
+alt_names: [Central, Central Western Gurage, Chaha, Chaha Gurage, Chaha language, Chähä, Gurage, Gurage (Central West), Gurage (Chaha), Muher, Muxir, Txaha, Gouraghie, Guragie, Gurague, West Gurage, Cheha, Eza, Ezha, Gumer, Gura, Gurage Chaha, Gwemarra, Gyeto, Izha]
 population: 2710000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Gurage language spoken in Ethiopia
 status_id: "5"
 scope: individual
 language_type: living

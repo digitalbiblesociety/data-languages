@@ -6,6 +6,7 @@ alt_names: [Arwarbukarl, Arwarburkarl, Awaba, Awabagal, Awarbukal, Geawegal, Gwe
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: extinct

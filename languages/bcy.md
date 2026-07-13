@@ -2,10 +2,12 @@
 iso: bcy
 name: Bacama
 autonym: Abacama
-alt_names: [Bachama, Bachama-Bata, Bashamma, Batchameg, Besema, Bwareba, Gboare]
+alt_names: [Bachama, Bachama-Bata, Bashamma, Batchameg, Besema, Bwareba, Gboare, Bacama-Bwatiye, Bashama, Bwaatye, Bwatiye, Central Bwatiye, Demsa, Demsa Bata, Mulwyin, Mulyen, Mwulyin, Opalo, Opolo, Wa-Duku]
 population: 289000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Chadic language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living

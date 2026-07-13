@@ -2,10 +2,12 @@
 iso: lae
 name: Pattani
 autonym: Chamba
-alt_names: [Chamba Lahuli, Chamba Lāhulī, Changsapa Boli, Kanauri, Lahul, Lahuli, Lahuli de Chamba, Manchad, Manchati, Manchāti, Mantśati, Monchāti, Patan, Patni, Swangla]
+alt_names: [Chamba Lahuli, Chamba Lāhulī, Changsapa Boli, Kanauri, Lahul, Lahuli, Lahuli de Chamba, Manchad, Manchati, Manchāti, Mantśati, Monchāti, Patan, Patni, Swangla, Lahuli Pattani]
 population: 11000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

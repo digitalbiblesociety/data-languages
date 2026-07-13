@@ -2,10 +2,12 @@
 iso: xtl
 name: Tijaltepec Mixtec
 autonym: Mixteco de San Pablo Tijaltepec
-alt_names: [Atatláhuca Mixtec, Central Misteko, Centreal Mixteco, Chalcatongo Mixtec, Eastern Putla Mixtec, Itundujia Mixtec, Magdalena Peñasco Mixtec, "Mixtec, Tijaltepec", Mixteco de San Antonio Sinicahua, Mixteco de San Bartolomé Yucuañe, Mixteco de San Esteban Atatláhuca, Mixteco de San Juan Teita, Mixteco de San Juan Ñumí, Mixteco de San Pedro Molinos, Mixteco de Santa Cruz Itundujia, Mixteco de Santa Cruz Tacahua, Mixteco de Santa Lucía Monteverde, Mixteco de Santa María Yosoyúa, Mixteco de Santiago Nuyoo, Mixteco de Santiago Yosondúa, Mixteco de Santo Tomás Ocotepec, Mixteco de Sierra Sur Noroeste, Mixteco de Yosonotú, Mixteco del Sur Bajo, Mixteco del norte de Tlaxiaco, Mixteco del sur medio, Mixteco del sureste central, Mixteco del suroeste de Tlaxiaco, Northern Tlaxiaco Mixtec, Nuyoo Mixtec, Ocotepec Mixtec, San Esteban Atatláhuca Mixteco, San Juan Teita Mixtec, San Miguel el Grande Mixtec, Santa Lucía Monteverde Mixtec, Santo Tomás Ocotepec Mixtec, Sinicahua Mixtec, South Central Tlaxiaco Mixtec, Southeastern Ocotepec Mixtec, Southern Tlaxiaco Mixtec, Southwestern Tlaxiaco Mixtec, Tacahua Mixtec, Teita Mixtec, Western Alta Mixtec, Yosondúa Mixtec, Yucuañe Mixtec, Ñumí Mixtec]
+alt_names: [Atatláhuca Mixtec, Central Misteko, Centreal Mixteco, Chalcatongo Mixtec, Eastern Putla Mixtec, Itundujia Mixtec, Magdalena Peñasco Mixtec, "Mixtec, Tijaltepec", Mixteco de San Antonio Sinicahua, Mixteco de San Bartolomé Yucuañe, Mixteco de San Esteban Atatláhuca, Mixteco de San Juan Teita, Mixteco de San Juan Ñumí, Mixteco de San Pedro Molinos, Mixteco de Santa Cruz Itundujia, Mixteco de Santa Cruz Tacahua, Mixteco de Santa Lucía Monteverde, Mixteco de Santa María Yosoyúa, Mixteco de Santiago Nuyoo, Mixteco de Santiago Yosondúa, Mixteco de Santo Tomás Ocotepec, Mixteco de Sierra Sur Noroeste, Mixteco de Yosonotú, Mixteco del Sur Bajo, Mixteco del norte de Tlaxiaco, Mixteco del sur medio, Mixteco del sureste central, Mixteco del suroeste de Tlaxiaco, Northern Tlaxiaco Mixtec, Nuyoo Mixtec, Ocotepec Mixtec, San Esteban Atatláhuca Mixteco, San Juan Teita Mixtec, San Miguel el Grande Mixtec, Santa Lucía Monteverde Mixtec, Santo Tomás Ocotepec Mixtec, Sinicahua Mixtec, South Central Tlaxiaco Mixtec, Southeastern Ocotepec Mixtec, Southern Tlaxiaco Mixtec, Southwestern Tlaxiaco Mixtec, Tacahua Mixtec, Teita Mixtec, Western Alta Mixtec, Yosondúa Mixtec, Yucuañe Mixtec, Ñumí Mixtec, "Tu'un savi"]
 population: 3560
 country_id: MX
 country_name: Mexico
+location: Southern Central Mexico
+area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: MX
     location: "Mexico, Oaxaca"
 ---
+Atatláhuca–San Miguel Mixtec is a diverse Mixtec language of Oaxaca.

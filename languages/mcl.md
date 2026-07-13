@@ -6,6 +6,7 @@ alt_names: [Kakawahe, Piojé, Secoya]
 population: null
 country_id: CO
 country_name: Colombia
+area: Extinct Tucanoan language of Colombia
 status_id: "9"
 scope: individual
 language_type: extinct

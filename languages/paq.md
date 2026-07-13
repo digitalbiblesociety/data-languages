@@ -6,6 +6,8 @@ alt_names: [Afghana-Yi Nasfurush, Afghana-Yi Siyarui, Asiatic Romany, Laghmani, 
 population: 3000
 country_id: TJ
 country_name: Tajikistan
+location: Afghanistan
+area: Indo-Aryan language spoken in Central Asia
 status_id: 6a
 scope: individual
 language_type: living

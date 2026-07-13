@@ -2,10 +2,12 @@
 iso: dri
 name: "C'Lela"
 autonym: C’lela
-alt_names: [Cala-Cala, Chilala, Chilela, Dakakari, Dakarkari, Dakkarkari, Kolela, Lalawa, Lela]
+alt_names: [Cala-Cala, Chilala, Chilela, Dakakari, Dakarkari, Dakkarkari, Kolela, Lalawa, Lela, Adoma, Aroma, Central Lela, Cꞌlela, Dabai, Lila, Northern Lela, Ribah, Roma, Roma-Na, Senchi, Southern Lela, Yelmo, Zuru]
 population: 90000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 1"
+area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living

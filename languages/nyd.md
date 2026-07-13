@@ -7,6 +7,8 @@ alt_names: [Lunyole, Lunyore, Nyole, Nyoole, Olunyore]
 population: 155000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,7 @@ alt_names: [Aramaeg talmoudek Babilonia, "Aramaic, Jewish Babylonian (ca. 200-12
 population: null
 country_id: IL
 country_name: Israel
+area: Middle Aramaic language once used by Jewish writers in Lower Mesopotamia
 status_id: "10"
 scope: individual
 language_type: extinct

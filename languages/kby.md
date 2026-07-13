@@ -3,15 +3,18 @@ iso: kby
 macrolanguage_id: kau
 name: Manga Kanuri
 autonym: Kànùrí
-alt_names: [Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Manga", Manga]
+alt_names: [Bornu, Kanembu, Kanouri, Kanoury, Kanuri, "Kanuri, Manga", Manga, Dagara, kànòrí]
 population: 480000
 country_id: NE
 country_name: Niger
+location: Niger
+area: "Saharan dialect continuum of Nigeria, Niger, Chad and Cameroon"
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 13.55701
 longitude: 10.70102
+language_map_img: Kanuri_languages_map_001.webp
 glottocode: mang1399
 glottolog_family_id: saha1256
 glottolog_family_name: Saharan

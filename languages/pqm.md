@@ -2,15 +2,18 @@
 iso: pqm
 name: "Malecite-Passamaquoddy"
 autonym: "Maliseet-Passamaquoddy"
-alt_names: [Malecite Cluster, Malesí-openango, Maliseet, Malécite, Malécite-passamaquoddy, Passamaquoddy, Passamaquoddy-Malecite, Passamaquoddy-Maliseet, Pennacook]
+alt_names: [Malecite Cluster, Malesí-openango, Maliseet, Malécite, Malécite-passamaquoddy, Passamaquoddy, Passamaquoddy-Malecite, Passamaquoddy-Maliseet, Pennacook, Peskotomuhkati Wolastoqewi Latuwewakon]
 population: 410
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 45.494475
 longitude: -67.40805
+language_map_img: 500px-Wohngebiet_Maliseet.webp
 scripts: [Latn]
 glottocode: male1292
 glottolog_family_id: algi1248

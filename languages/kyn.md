@@ -6,6 +6,7 @@ alt_names: ["Binukidnon, Northern", Karolanos, Philippines]
 population: 15100
 country_id: PH
 country_name: Philippines
+area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living

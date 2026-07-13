@@ -5,6 +5,7 @@ autonym: Gestuno
 population: null
 country_id: IT
 country_name: Italy
+area: "Sign language, used particularly at international meetings"
 status_id: 6a
 scope: individual
 language_type: living

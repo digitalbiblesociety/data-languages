@@ -3,15 +3,18 @@ iso: bcl
 macrolanguage_id: bik
 name: Central Bikol
 autonym: Bikol Sentral
-alt_names: [Bicol, Bicolano (Central), "Bicolano, Central", Bikol, "Bikol, Central", Bikolano, Bikoleg, Central Bicolano, Central Bikolano, Pagsasao a Bikol, Tataramon na Bikol]
+alt_names: [Bicol, Bicolano (Central), "Bicolano, Central", Bikol, "Bikol, Central", Bikolano, Bikoleg, Central Bicolano, Central Bikolano, Pagsasao a Bikol, Tataramon na Bikol, Bicolano Central, Central, Daet, Legapi, Legazpi, Naga, Partido]
 population: 3890000
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 13.75743
 longitude: 123.40331
+language_map_img: 500px-Bikol_Sentral_language_map.webp
 glottocode: cent2087
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

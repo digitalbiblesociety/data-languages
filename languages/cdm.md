@@ -2,10 +2,12 @@
 iso: cdm
 name: Chepang
 autonym: "Chyo-bang"
-alt_names: [Chēpāng, Tsepang, Tśepang]
+alt_names: [Chēpāng, Tsepang, Tśepang, Praja Bhasa, Cyo’bang]
 population: 48500
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Sino-Tibetan language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living

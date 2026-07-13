@@ -5,6 +5,7 @@ autonym: Yirrk-Mel
 population: null
 country_id: AU
 country_name: Australia
+area: Yir-Yoront dialect of Australia
 status_id: null
 scope: individual
 language_type: living

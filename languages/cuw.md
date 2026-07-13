@@ -2,14 +2,18 @@
 iso: cuw
 name: Chukwa
 autonym: kulu riŋ
+alt_names: [Cukwa Ring, Pohing, Pohing Kha]
 population: 100
 country_id: NP
 country_name: Nepal
+location: Eastern Nepal
+area: Kiranti language of Nepal
 status_id: 8a
 scope: individual
 language_type: living
 latitude: 27.35802
 longitude: 86.98242
+glottocode: chuk1270
 wikidata_id: Q12629033
 translations:
   - translation_iso: ara
@@ -48,3 +52,4 @@ translations:
     name: 楚库瓦语
     auto: true
 ---
+Kulung is one of the Kiranti languages. It is spoken by an estimated 33,000 people. Van Driem (2001) includes Chukwa as a dialect.

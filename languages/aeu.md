@@ -2,10 +2,12 @@
 iso: aeu
 name: Akeu
 autonym: Ake
-alt_names: [Aki, Akui, 阿克]
+alt_names: [Aki, Akui, 阿克, Akheu, Gaolkheel, Gokhu, Gokhy]
 population: 12400
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in China, Myanmar, Laos"
 status_id: "7"
 scope: individual
 language_type: living

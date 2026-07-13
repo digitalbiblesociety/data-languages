@@ -2,10 +2,12 @@
 iso: dwr
 name: Dawro
 autonym: null
-alt_names: [Konta, Kullo]
+alt_names: [Konta, Kullo, Conta, Dauro, Dawrogna, Dawuro, Koysha, Kucha, Kusha, Ometay]
 population: 513000
 country_id: ET
 country_name: Ethiopia
+location: Southwestern Ethiopia
+area: Omotic language spoken in southern Ethiopia
 status_id: "4"
 scope: individual
 language_type: living

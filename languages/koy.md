@@ -2,10 +2,12 @@
 iso: koy
 name: Koyukon
 autonym: " Denaakkʼe"
-alt_names: [Alaska, "Denaakk'e", Koyuko, Koyukukhotana, Kuyukon, "Ten'a", Tena]
+alt_names: [Alaska, "Denaakk'e", Koyuko, Koyukukhotana, Kuyukon, "Ten'a", Tena, Ten’a]
 population: 65
 country_id: US
 country_name: United States
+location: "United States of America, Alaska and Hawaii"
+area: Athabaskan language of North America
 status_id: 8a
 scope: individual
 language_type: living

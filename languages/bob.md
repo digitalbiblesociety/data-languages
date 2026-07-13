@@ -2,15 +2,18 @@
 iso: bob
 name: Aweer
 autonym: Boni
-alt_names: ["\"Boni\"", Aloekoe, Aluku, Aweera, Bon, Ogoda, Sanye, Waata, Waboni, Wasanye, Wata, Wata-Bala]
+alt_names: ["\"Boni\"", Aloekoe, Aluku, Aweera, Bon, Ogoda, Sanye, Waata, Waboni, Wasanye, Wata, Wata-Bala, “Boni”]
 population: 8000
 country_id: KE
 country_name: Kenya
+location: Kenya
+area: Lowland East Cushitic language of eastern Kenya
 status_id: 6a
 scope: individual
 language_type: living
 latitude: -1.40124
 longitude: 41.23402
+language_map_img: 500px-Eastern-Omo-Tana.webp
 glottocode: awee1242
 glottolog_family_id: afro1255
 glottolog_family_name: Afro-Asiatic

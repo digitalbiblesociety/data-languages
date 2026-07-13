@@ -6,6 +6,8 @@ alt_names: [Chitkhuli, Chitkuli, Kanauri, Kanāwri, Kinauri, Kinnauri, "Kinnauri
 population: 1060
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Morofo]
 population: 300000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: "Côte d&#039;Ivoire"
+area: Kwa language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

@@ -7,6 +7,8 @@ alt_names: [Clisteno del bosque, Cree, Cree des bois, "Cree, Woods"]
 population: 1840
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language of Canada
 status_id: 6b
 scope: individual
 language_type: living

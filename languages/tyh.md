@@ -2,10 +2,12 @@
 iso: tyh
 name: "O'du"
 autonym: Ơ Đu
-alt_names: ["\"Tay Hat\"", "'Iduh", Haat, Hat, Iduh, O Du, Tay Hat]
+alt_names: ["\"Tay Hat\"", "'Iduh", Haat, Hat, Iduh, O Du, Tay Hat, ’Iduh, “Tay Hat”]
 population: 300
 country_id: VN
 country_name: Vietnam
+location: Laos
+area: Austroasiatic language spoken in Laos and Vietnam
 status_id: "7"
 scope: individual
 language_type: living

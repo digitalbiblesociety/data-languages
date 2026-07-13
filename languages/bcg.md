@@ -2,10 +2,12 @@
 iso: bcg
 name: Baga Pokur
 autonym: Baga Pokur
-alt_names: [Baga, Baga Binari, Baga Binari language, Baga Mboteni-Binari, Baga de Binari, Barka, Binareg, Binari, Kalum, Mborin, Pukur, Temne]
+alt_names: [Baga, Baga Binari, Baga Binari language, Baga Mboteni-Binari, Baga de Binari, Barka, Binareg, Binari, Kalum, Mborin, Pukur, Temne, Baka]
 population: 3000
 country_id: GN
 country_name: Guinea
+location: Guinea and Guinea-Bissau
+area: Endangered Rio Nunez language of Guinea
 status_id: 6a
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: Sentinelese
 population: 100
 country_id: IN
 country_name: India
+location: "India, Map 9"
+area: Presumed language of the Sentinelese of North Sentinel Island
 status_id: 6b
 scope: individual
 language_type: living

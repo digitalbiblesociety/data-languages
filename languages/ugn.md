@@ -2,9 +2,11 @@
 iso: ugn
 name: Ugandan Sign Language
 autonym: USL
+alt_names: [UGSL]
 population: 160000
 country_id: UG
 country_name: Uganda
+area: Deaf sign language of Uganda
 status_id: "5"
 scope: individual
 language_type: living

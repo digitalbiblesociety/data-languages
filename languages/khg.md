@@ -2,10 +2,12 @@
 iso: khg
 name: Khams Tibetan
 autonym: "Kham-Hor"
-alt_names: [Bhōṭiā of Khams, Kam, Kamseg, Kang, Kham, Khamba, Khampa, Khams, Khams Bhotia, Khams-Yal, "Tibetan, Khams", "Tibetan,Khams", 康方言]
+alt_names: [Bhōṭiā of Khams, Kam, Kamseg, Kang, Kham, Khamba, Khampa, Khams, Khams Bhotia, Khams-Yal, "Tibetan, Khams", "Tibetan,Khams", 康方言, Eastern Khams, Kami, Eastern Khampa, Northern Khams, Southern Khams, Tibetan, Western Khams]
 population: 1380300
 country_id: CN
 country_name: China
+location: China
+area: Tibetic language spoken in Asia
 status_id: 6a
 scope: individual
 language_type: living

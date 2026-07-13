@@ -2,15 +2,18 @@
 iso: ryu
 name: Central Okinawan
 autonym: 沖縄口/ウチナーグチ
-alt_names: [Central, Central Group, Central Ryukyuan, Luchu, Okinawa, Okinawan, Okinawan language, "Okinawan, Central", Okinawano, Okinawaïen, Ryukyuan, Uchinaaguchi, Uchināguchi, うちなーぐち, シマクトゥバ, 沖縄方言]
+alt_names: [Central, Central Group, Central Ryukyuan, Luchu, Okinawa, Okinawan, Okinawan language, "Okinawan, Central", Okinawano, Okinawaïen, Ryukyuan, Uchinaaguchi, Uchināguchi, うちなーぐち, シマクトゥバ, 沖縄方言, Kudaka, Naha, Shuri, Torishima]
 population: 1200000
 country_id: JP
 country_name: Japan
+location: Japan
+area: Northern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 26.14854
 longitude: 127.7816
+language_map_img: Boundaries_of_the_Okinawan_Languages.svg
 scripts: [Kana]
 glottocode: cent2126
 glottolog_family_id: japo1237

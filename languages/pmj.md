@@ -2,15 +2,18 @@
 iso: pmj
 name: Southern Pumi
 autonym: Prinmi
-alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi]
+alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi, P’ömi, P’rome, P’umi]
 population: 19000
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Qiangic language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 27.84076
 longitude: 100.62232
+language_map_img: 500px-Pumi_language.webp
 glottocode: sout2729
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan
@@ -64,3 +67,4 @@ rolv_dialects:
     country_id: CN
     location: "China, Yunnan"
 ---
+The Pumi language is a Qiangic language used by the Pumi people, an ethnic group from Yunnan, China, as well as by the Tibetan people of Muli in Sichuan, China. Most native speakers live in Lanping, Ninglang, Lijiang, Weixi and Muli.

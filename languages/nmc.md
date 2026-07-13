@@ -2,10 +2,12 @@
 iso: nmc
 name: Ngam
 autonym: Sara Ngam
-alt_names: [Ngahm, Ngama, Ngamh, Sarngam]
+alt_names: [Ngahm, Ngama, Ngamh, Sarngam, Kle, Kon Ngam, Ngam Gir Bor, Ngam Tel, Ngam Tira]
 population: 61400
 country_id: TD
 country_name: Chad
+location: Central African Republic
+area: Sara language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living

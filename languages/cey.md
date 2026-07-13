@@ -2,10 +2,11 @@
 iso: cey
 name: Ekai Chin
 autonym: Läoktü
-alt_names: ["Chin, Ekai"]
+alt_names: ["Chin, Ekai", Läoktü Chin, Daitu, Ekai, Khulai, Lawktu]
 population: 6650
 country_id: MM
 country_name: Myanmar
+area: Kuki-Chin language spoken in Burma
 status_id: null
 scope: individual
 language_type: living

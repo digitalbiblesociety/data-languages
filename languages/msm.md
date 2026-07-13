@@ -2,10 +2,12 @@
 iso: msm
 name: Agusan Manobo
 autonym: "Manobo, Agusan"
-alt_names: [Agusan]
+alt_names: [Agusan, Manobo, Adgawan, Minanubu, Omayamnon, Surigao, Umayam]
 population: 60000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
@@ -87,3 +89,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Mindanao, Caraga Region, Surigao del Sur"
 ---
+Agusan is a Manobo language of northeastern Mindanao in the Philippines.

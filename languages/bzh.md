@@ -2,10 +2,12 @@
 iso: bzh
 name: Mapos Buang
 autonym: Central Buang
-alt_names: ["Buang, Mapos", Mapos]
+alt_names: ["Buang, Mapos", Mapos, Buang, Central, Central/Mapos, Buweyeu, Chimbuluk, Mambump, Papakene, Wagau, Wins]
 population: 7000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Oceanic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

@@ -2,10 +2,11 @@
 iso: atl
 name: Mt. Iraya Agta
 autonym: Buhi Agta
-alt_names: [Agta, Agta del Monte Iraya, Agta du Mont Iraya, "Agta, Mt. Iraya", Bikol, Inagta of Mt. Iraya, Itbeg Rugnot, Lake Buhi East, Mount Iraya Agta, Mt. Iraya, Rugnot of Lake Buhi East]
+alt_names: [Agta, Agta del Monte Iraya, Agta du Mont Iraya, "Agta, Mt. Iraya", Bikol, Inagta of Mt. Iraya, Itbeg Rugnot, Lake Buhi East, Mount Iraya Agta, Mt. Iraya, Rugnot of Lake Buhi East, East, Lake Buhi]
 population: 150
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
 status_id: "7"
 scope: individual
 language_type: living

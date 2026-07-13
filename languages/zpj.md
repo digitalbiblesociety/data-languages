@@ -7,6 +7,7 @@ alt_names: [Eastern Sapoteko, Eastern Zapotec, Northeastern Yautepec Zapotec, No
 population: 180
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
 status_id: 6a
 scope: individual
 language_type: living

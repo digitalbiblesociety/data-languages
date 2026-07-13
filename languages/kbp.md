@@ -2,10 +2,12 @@
 iso: kbp
 name: Kabiyè
 autonym: Kabɩyɛ
-alt_names: [Cabrai, Cabrais, Kab, Kabire, Kabiye, Kabiyeg, Kabiyé, Kabiyé language, Kabiyɛ, Kabre, Kabrè, Kabure, Kabye, Kaure]
+alt_names: [Cabrai, Cabrais, Kab, Kabire, Kabiye, Kabiyeg, Kabiyé, Kabiyé language, Kabiyɛ, Kabre, Kabrè, Kabure, Kabye, Kaure, Kabιyԑ, Boufale, Kabɩyɛ Tɔm, Kewe, Kijang, Lama-Tissi]
 population: 990600
 country_id: TG
 country_name: Togo
+location: Benin
+area: Eastern Gurunsi language primarily of northern Togo
 status_id: "3"
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: clt
 name: Lautu Chin
 autonym: Lawhtu
-alt_names: ["Chin, Lautu"]
+alt_names: ["Chin, Lautu", Lautu]
 population: 18000
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Burmese language
 status_id: 6a
 scope: individual
 language_type: living

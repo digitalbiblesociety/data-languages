@@ -6,6 +6,8 @@ alt_names: [Behribmej, Djapena, Djeepana, Gidjia, Gidjiya, Gijiya, Grunavidji, G
 population: 100
 country_id: AU
 country_name: Australia
+location: Northern Australia
+area: Australian Aboriginal language of north-central Arnhem land
 status_id: 6a
 scope: individual
 language_type: living

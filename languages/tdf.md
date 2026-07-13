@@ -6,6 +6,8 @@ alt_names: [Taliang, Tariang]
 population: 23100
 country_id: LA
 country_name: Laos
+location: Laos
+area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
@@ -64,3 +66,4 @@ rolv_dialects:
     country_id: LA
     location: Laos
 ---
+Taliang is a Bahnaric language spoken by the Jeh-Tariang people of Laos and Vietnam. It is possibly related to the Stieng language of Vietnam and Cambodia.

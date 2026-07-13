@@ -6,6 +6,8 @@ alt_names: [Affiti, Dinik, Ditti, Unietti]
 population: 4510
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Nilo-Saharan language spoken in Sudan
 status_id: 8a
 scope: individual
 language_type: living

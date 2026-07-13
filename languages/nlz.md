@@ -6,6 +6,8 @@ alt_names: [Nalogo, Nalrgo, Nea, Santa Cruz, South-Western Santa Cruz, Southern 
 population: 1500
 country_id: SB
 country_name: Solomon Islands
+location: Solomon Islands
+area: Oceanic language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living

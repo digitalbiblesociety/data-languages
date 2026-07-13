@@ -6,11 +6,14 @@ alt_names: [Amanage, Amanajo, Amanajé, Amanayé, Anambe, Guajá, "Ka'apór", Ma
 population: 132
 country_id: BR
 country_name: Brazil
+location: Eastern Central Brazil
+area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
 latitude: -2.71119
 longitude: -49.30296
+language_map_img: 500px-Tupi_languages.webp
 glottocode: anam1249
 glottolog_family_id: tupi1275
 glottolog_family_name: Tupian

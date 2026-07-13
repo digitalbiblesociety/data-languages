@@ -6,11 +6,14 @@ alt_names: [Wachoeg, Washoa, Washoan, Washoe, Waxo hizkuntza, Уошо]
 population: 1500
 country_id: US
 country_name: United States
+location: Southwestern United States of America
+area: Indigenous language isolate spoken in the Western United States
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 38.81841
 longitude: -119.6403
+language_map_img: 500px-Washo_lang.webp
 scripts: [Latn]
 glottocode: wash1253
 wikidata_id: Q34198

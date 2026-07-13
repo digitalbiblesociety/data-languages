@@ -2,10 +2,12 @@
 iso: kyk
 name: Kamayo
 autonym: Davaweño
-alt_names: [Korean Sign Language]
+alt_names: [Korean Sign Language, Davawenyo, Kadi, Kinadi, Kinamayo, Mandaya, North Kamayo, South Kamayo]
 population: 153000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in Philippines
 status_id: 6a
 scope: individual
 language_type: living

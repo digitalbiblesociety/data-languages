@@ -6,6 +6,8 @@ alt_names: [Abenaki, Abenaki (Western), Abenakí occidental (Estados Unidos), Ab
 population: 14
 country_id: CA
 country_name: Canada
+location: Canada
+area: Algonquian language
 status_id: 8b
 scope: individual
 language_type: living

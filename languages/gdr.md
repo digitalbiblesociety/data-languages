@@ -2,10 +2,12 @@
 iso: gdr
 name: Wipi
 autonym: Gidra
-alt_names: [Jibu, Oriomo]
+alt_names: [Jibu, Oriomo, Abam, Dorogori, Gamaewe, Guiam, Iamega, Kapal, Kuru, Peawa, Podari, Rual, Ume, Wipim, Woigo, Wonie, Yuta, uKuru]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 14"
+area: Eastern Trans-Fly language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

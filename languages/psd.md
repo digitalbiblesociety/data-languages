@@ -6,6 +6,7 @@ alt_names: [Indiana gestlingvo, Indianernas teckenspråk, Mowa znaków, Plains S
 population: 75
 country_id: US
 country_name: United States
+area: Endangered language of the Plains peoples
 status_id: 8a
 scope: individual
 language_type: living

@@ -2,10 +2,12 @@
 iso: mgy
 name: Mbunga
 autonym: Kimbunga
-alt_names: [Tanzania]
+alt_names: [Tanzania, Bunga]
 population: 11600
 country_id: TZ
 country_name: Tanzania
+location: Tanzania
+area: Bantu language of Tanzania
 status_id: 6b
 scope: individual
 language_type: living

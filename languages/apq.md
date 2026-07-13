@@ -6,6 +6,7 @@ alt_names: [Aka-Bojígíab, Andamanese, Andamanese (Great Andaman), Andamanese (
 population: null
 country_id: IN
 country_name: India
+area: "Extinct language of the Andaman Islands, India"
 status_id: "10"
 scope: individual
 language_type: living

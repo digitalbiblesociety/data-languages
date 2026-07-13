@@ -2,10 +2,11 @@
 iso: glk
 name: Gilaki
 autonym: "گیلکی "
-alt_names: [Gelaki, Gilakeg, Gilani, Gilanice, Gileki, Guilaki, Guilani, گیلکی زوان]
+alt_names: [Gelaki, Gilakeg, Gilani, Gilanice, Gileki, Guilaki, Guilani, گیلکی زوان, Bandar Anzali, Fumani, Galeshi, Lahijani, Langerudi, Rashti, Rudbari, Rudsari, Rural Deylami, Someꞌe Sarai, Urban Deylami]
 population: 2490000
 country_id: IR
 country_name: Iran
+area: "Iranian language spoken in Gilan Province, Iran"
 status_id: "4"
 scope: individual
 language_type: living

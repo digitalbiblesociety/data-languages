@@ -2,15 +2,18 @@
 iso: wmh
 name: "Waima'a"
 autonym: "Uai Ma'a"
-alt_names: ["Uaimo'a", Vaimaa, Waimaha, Waimoa, Waimoa language]
+alt_names: ["Uaimo'a", Vaimaa, Waimaha, Waimoa, Waimoa language, Uai Ma’a, Uaimo’a]
 population: 3000
 country_id: TL
 country_name: "Timor-Leste"
+location: East Timor
+area: Malayo-Polynesian language spoken in northeast East Timor
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -8.53416
 longitude: 126.31696
+language_map_img: 500px-Waimaha.webp
 glottocode: waim1252
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

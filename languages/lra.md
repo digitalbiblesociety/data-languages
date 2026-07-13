@@ -6,6 +6,8 @@ alt_names: [Lara language, "Lara'"]
 population: 11300
 country_id: MY
 country_name: Malaysia
+location: "Indonesia, Kalimantan"
+area: Austronesian language spoken on Borneo
 status_id: "5"
 scope: individual
 language_type: living

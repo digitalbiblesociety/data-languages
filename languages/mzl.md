@@ -2,10 +2,12 @@
 iso: mzl
 name: Mazatlán Mixe
 autonym: Lowland Mixe
-alt_names: [East Central Mixe, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mazatlan Mixe, Mazatlán, Mije, Mixe, Mixe del Istmo, "Mixe, Mazatlán", "Mixe, Mazatlín", Oaxaca Mije, Tutla Mixe]
+alt_names: [East Central Mixe, Eastern Mixe, Guichicovi Mixe, Isthmus Mixe, Lowland Mije, Mazatlan Mixe, Mazatlán, Mije, Mixe, Mixe del Istmo, "Mixe, Mazatlán", "Mixe, Mazatlín", Oaxaca Mije, Tutla Mixe, Ayuuk, Mixe de Tutla]
 population: 19200
 country_id: MX
 country_name: Mexico
+location: Eastern Central Mexico
+area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 玛萨特兰米克斯语
     auto: true
 ---
+Isthmus Mixe, called Lowland Mixe in Wichmann (1995), is a Mixe language spoken in Mexico. It is spoken in the villages of Coatlán San José el Paraíso, Mazatlán, Guichicovi, and Camotlán, Oaxaca.

@@ -2,10 +2,12 @@
 iso: nou
 name: "Ewage-Notu"
 autonym: Notu
-alt_names: [Ewage, Yega]
+alt_names: [Ewage, Yega, Gona, Okeina, Okena]
 population: 12000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 16"
+area: Binanderean language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

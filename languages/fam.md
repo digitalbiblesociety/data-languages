@@ -6,11 +6,14 @@ alt_names: [Nigeria]
 population: 1000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 8"
+area: Bantoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 7.54277
 longitude: 10.50499
+language_map_img: Map_of_the_Fam_language.webp
 glottocode: famm1241
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

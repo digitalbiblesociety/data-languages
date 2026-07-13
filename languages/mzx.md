@@ -2,14 +2,18 @@
 iso: mzx
 name: Mawayana
 autonym: Mapidian
+alt_names: [Mahuayana]
 population: 2
 country_id: GY
 country_name: Guyana
+location: Guyana
+area: Arawakan language of South America
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 1.98815
 longitude: -58.50461
+glottocode: mawa1271
 wikidata_id: Q6794377
 wikipedia_url: "https://en.wikipedia.org/wiki/Mawayana_language"
 translations:

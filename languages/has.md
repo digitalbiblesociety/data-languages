@@ -6,11 +6,14 @@ alt_names: [Haishilla, Kitamat, Kitlope, Northern Kwakiutl, "Xiʔslak'ala", "X̄
 population: 1000
 country_id: CA
 country_name: Canada
+location: Southwestern Canada
+area: Wakashan language
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 53.96401
 longitude: -128.60159
+language_map_img: Wakashan_map.svg
 glottocode: hais1244
 glottolog_family_id: waka1280
 glottolog_family_name: Wakashan

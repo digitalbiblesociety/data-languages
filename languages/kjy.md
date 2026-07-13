@@ -6,6 +6,8 @@ alt_names: [Pole, South Kewa, Southern Kewa]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Engan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
@@ -54,3 +56,4 @@ translations:
     name: 埃拉韦语
     auto: true
 ---
+Kewa is an Engan language complex of the Southern Highlands province of Papua New Guinea. A dictionary of the western dialect of Kewa has been compiled by Franklin & Franklin (1978).

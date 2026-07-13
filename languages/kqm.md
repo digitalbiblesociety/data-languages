@@ -6,6 +6,8 @@ alt_names: [Khi, Khi-sa, Khi-sɛ, Khise, Komono, Kumwenu]
 population: 5000
 country_id: CI
 country_name: "Côte d'Ivoire"
+location: Burkina Faso
+area: Gur language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living

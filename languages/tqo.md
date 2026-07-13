@@ -2,10 +2,12 @@
 iso: tqo
 name: Toaripi
 autonym: East Elema
-alt_names: [Elema, Motumotu]
+alt_names: [Elema, Motumotu, Melaripi, Kaipi, Moripi-Iokea, Moveave, Sepoe]
 population: 25200
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 15"
+area: Eleman language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

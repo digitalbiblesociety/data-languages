@@ -5,6 +5,8 @@ autonym: bahasa Saponi
 population: null
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Extinct Papuan language of Indonesia
 status_id: "10"
 scope: individual
 language_type: living

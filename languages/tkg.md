@@ -3,10 +3,12 @@ iso: tkg
 macrolanguage_id: mlg
 name: Tesaka Malagasy
 autonym: malagasy
-alt_names: ["Malagasy, Tesaka"]
+alt_names: ["Malagasy, Tesaka", Antaisaka, Antesaka, Atesaka, Antesaka Malagasy, Tesaka]
 population: 1969000
 country_id: MG
 country_name: Madagascar
+location: "Comoros, Madagascar and Mayotte"
+area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living

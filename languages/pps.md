@@ -2,10 +2,12 @@
 iso: pps
 name: San Luís Temalacayuca Popoloca
 autonym: Popoloca de San Luis Temalacayuca
-alt_names: [Chocho-Popoloka, Popoloca, "Popoloca, San Luís Temalacayuca", San Luis Temalacayuca Popoloca]
+alt_names: [Chocho-Popoloka, Popoloca, "Popoloca, San Luís Temalacayuca", San Luis Temalacayuca Popoloca, Ngiba, Ngigua, Ngiwa, Temalacayuca Popoloca, San Luís Temalacayuca]
 population: 4730
 country_id: MX
 country_name: Mexico
+location: Western Central Mexico
+area: "Oto-Manguean language of Puebla, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 圣路易斯特玛拉卡尤卡波波卡语
     auto: true
 ---
+Northern Popoloca is an indigenous language of Puebla state, Mexico. The dialects of the two towns where it is spoken, San Luís Temalacayuca and San Marcos Tlacoyalco, are over 90% mutually intelligible.

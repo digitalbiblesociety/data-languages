@@ -2,9 +2,12 @@
 iso: lok
 name: Loko
 autonym: Landogo
+alt_names: [Buya, Gbendembu, Koya, Laia, Libisegahun, Magbiambo, Nagbanmba, Ngoahu, Ribbi, Sanda]
 population: 179000
 country_id: SL
 country_name: Sierra Leone
+location: Sierra Leone
+area: Mande language spoken in Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living

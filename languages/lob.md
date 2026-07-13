@@ -2,15 +2,18 @@
 iso: lob
 name: Lobi
 autonym: Lobiri
-alt_names: [Miwa]
+alt_names: [Miwa, "'Lobiir", "'Lobiiri", Gongon Lobi]
 population: 490000
 country_id: BF
 country_name: Burkina Faso
+location: Burkina Faso
+area: Language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 9.961215
 longitude: -3.336005
+language_map_img: Languages_of_Burkina_Faso.webp
 glottocode: lobi1245
 glottolog_family_id: atla1278
 glottolog_family_name: Atlantic-Congo

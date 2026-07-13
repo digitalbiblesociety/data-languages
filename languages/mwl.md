@@ -2,10 +2,12 @@
 iso: mwl
 name: Mirandese
 autonym: Mirandés
-alt_names: [Lhéngua mirandesa, Luenga mirandesa, Miranda do Douro, Mirandais, Mirandees, Mirandeesi, Mirandeg, Mirandera, Mirandesa, Mirandesisk, Mirandesiska, Mirandès, Mirandés-ngî, Mirandês, Миранд йылме, מירנדזית]
+alt_names: [Lhéngua mirandesa, Luenga mirandesa, Miranda do Douro, Mirandais, Mirandees, Mirandeesi, Mirandeg, Mirandera, Mirandesa, Mirandesisk, Mirandesiska, Mirandès, Mirandés-ngî, Mirandês, Миранд йылме, מירנדזית, Miranadese Normal, Mirandese Central, Mirandés Meridional, Mirandés Raiano, Mirandés Sendinês, Mirandés Setentrional, Sendinês]
 population: 15000
 country_id: PT
 country_name: Portugal
+location: Portugal and Spain
+area: Romance language spoken in Portugal
 status_id: "2"
 scope: individual
 language_type: living

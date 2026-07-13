@@ -7,6 +7,8 @@ alt_names: [Aramaic, Aramaic (Amadia), Aramaic (Amadiya), Chaldean, Chaldean (Mo
 population: 232910
 country_id: IQ
 country_name: Iraq
+location: Iraq
+area: Neo-Aramaic dialect
 status_id: "7"
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: IQ
     location: Iraq
 ---
+Suret, also known as Assyrian, is any of several varieties of Northeastern Neo-Aramaic (NENA) spoken by Christians, namely Assyrians. The various NENA dialects descend from Old Aramaic, the lingua franca in the later phase of the Assyrian Empire, which slowly displaced the East Semitic Akkadian language beginning around the 10th century BC. They have been further heavily influenced by Classical Syriac, the Middle Aramaic dialect of Edessa, after its adoption as an official liturgical language of the Syriac churches, but Suret is not a direct descendant of Classical Syriac.

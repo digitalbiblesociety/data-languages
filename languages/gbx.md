@@ -6,6 +6,8 @@ alt_names: ["Gbe, Eastern Xwla", Houla, Kpla, Offra, Ophra, Phla, Pla, Popo]
 population: 800000
 country_id: BJ
 country_name: Benin
+location: Benin
+area: Gbe language of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 东克瓦拉格贝语
     auto: true
 ---
+Phla (Kpla), also spelled Xwla, is a Gbe language of Benin and Togo.

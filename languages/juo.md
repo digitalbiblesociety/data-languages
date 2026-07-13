@@ -6,6 +6,8 @@ alt_names: [Jibe, Jibi, Jibə, Jukun Kona]
 population: 2000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 5"
+area: Jukunoid language spoken in Nigeria
 status_id: 8a
 scope: individual
 language_type: living

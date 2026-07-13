@@ -6,6 +6,8 @@ alt_names: [Beneraf, Edwas]
 population: 200
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Eastern Papua"
+area: Topics referred to by the same term
 status_id: "7"
 scope: individual
 language_type: living

@@ -2,15 +2,18 @@
 iso: cwg
 name: Chewong
 autonym: Ceq Wong
-alt_names: [Beri, Che wong, "Che' Wong", "Che'wong", Cheq Wong, Chuba, Siwang]
+alt_names: [Beri, Che wong, "Che' Wong", "Che'wong", Cheq Wong, Chuba, Siwang, Che’wong]
 population: 660
 country_id: MY
 country_name: Malaysia
+location: Malaysia - Peninsular
+area: Austroasiatic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
 latitude: 3.83331
 longitude: 102.08116
+language_map_img: SemaiMap.webp
 glottocode: chew1245
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

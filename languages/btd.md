@@ -2,10 +2,12 @@
 iso: btd
 name: Batak Dairi
 autonym: Kata Pakpak
-alt_names: [Dairi, Pakpak, Pakpak Dairi]
+alt_names: [Dairi, Pakpak, Pakpak Dairi, Bahasa Pakpak Dairi]
 population: 1200000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living

@@ -5,6 +5,8 @@ autonym: null
 population: null
 country_id: CN
 country_name: China
+location: Southwestern China
+area: "Loloish language spoken in Yunnan, China"
 status_id: 8b
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 艾伊兹语
     auto: true
 ---
+Gepo is a Loloish language of Yunnan, China spoken by 100,000 people. The speakers' autonym is, while the "-po" of "Gepo" means 'people'. It is spoken in 6 villages of Fumin County, eastern Luquan County, and other adjacent counties to the northeast.

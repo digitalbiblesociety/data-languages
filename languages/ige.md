@@ -2,10 +2,12 @@
 iso: ige
 name: Igede
 autonym: Egede
-alt_names: [Igedde]
+alt_names: [Igedde, Central Igede, Gabu, Ito, Oju, Worku]
 population: 438000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 7"
+area: Language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

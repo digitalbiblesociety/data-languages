@@ -6,11 +6,13 @@ alt_names: [Kusanda, Kusundaish, Kusundu, Kusūndu]
 population: 164
 country_id: NP
 country_name: Nepal
+area: Endangered language isolate of Nepal
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 29.17663
 longitude: 80.63092
+language_map_img: 500px-Kusunda_language.webp
 glottocode: kusu1250
 wikidata_id: Q33630
 wikipedia_url: "https://en.wikipedia.org/wiki/Kusunda_language"

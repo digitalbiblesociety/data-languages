@@ -2,15 +2,18 @@
 iso: ceb
 name: Cebuano
 autonym: Sebwano
-alt_names: [Binisaya, Bisaya, Bisaya Cebuano, Bisayan, Cebuano Visayan, Cebuera, Cebuà, Pagsasao a Cebuano, Salitan Cebuano, Sebuano, Sebúanó, Sinugboanon, Siwuyanu simi, Sougbouaneg, Sugbuanon, Sugbuhanon, Tataramon na Cebuano, Visayan, سيبونى]
+alt_names: [Binisaya, Bisaya, Bisaya Cebuano, Bisayan, Cebuano Visayan, Cebuera, Cebuà, Pagsasao a Cebuano, Salitan Cebuano, Sebuano, Sebúanó, Sinugboanon, Siwuyanu simi, Sougbouaneg, Sugbuanon, Sugbuhanon, Tataramon na Cebuano, Visayan, سيبونى, Ang, Boholang, Boholano, Cebu, Leyte, Maayong Balita, Mindanao Visayan]
 population: 15900000
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 8.38799
 longitude: 124.36662
+language_map_img: ceb.webp
 scripts: [Latn]
 glottocode: cebu1242
 glottolog_family_id: aust1307

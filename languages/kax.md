@@ -2,15 +2,18 @@
 iso: kax
 name: Kao
 autonym: Kau
-alt_names: ["Ka'u"]
+alt_names: ["Ka'u", Ka’u]
 population: 400
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Northern Maluku"
+area: North Halmahera language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
 latitude: 1.16654
 longitude: 127.84662
+language_map_img: North_Maluku_in_Indonesia.svg
 glottocode: kaoo1238
 glottolog_family_id: nort2923
 glottolog_family_name: North Halmahera

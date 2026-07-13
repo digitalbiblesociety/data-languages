@@ -2,10 +2,12 @@
 iso: gbm
 name: Garhwali
 autonym: गढ़वळि
-alt_names: [Bangani, Bhōṭiā of Garhwal, Gadhavali, Gadhawala, Gadwahi, Garhvali, Garhwal, Gashwali, Girwali, Godauli, Gorwali, Gurvali, Pahari Garhwali, Ґархвалі]
+alt_names: [Bangani, Bhōṭiā of Garhwal, Gadhavali, Gadhawala, Gadwahi, Garhvali, Garhwal, Gashwali, Girwali, Godauli, Gorwali, Gurvali, Pahari Garhwali, Ґархвалі, Badhani, Bhattiani, Chandpuri, Dessaulya, Gangadi, Gangapariya, Jaunpuri, Lohbya, Majh-Kumaiya, Nagpuriya, Parvati, Pauri, Rathi, Ravai, Salani, Srinagari, Tehri, Uttarkashi]
 population: 2480000
 country_id: IN
 country_name: India
+location: "India, Map 1"
+area: Central Pahari language spoken in India
 status_id: "4"
 scope: individual
 language_type: living

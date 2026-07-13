@@ -2,10 +2,12 @@
 iso: mca
 name: Maca
 autonym: Maká
-alt_names: [Enimaca, Enimaga, Macca, Macá, "Mak'á", Maka, Nynaka, Toothle, Towolhi, Towothli]
+alt_names: [Enimaca, Enimaga, Macca, Macá, "Mak'á", Maka, Nynaka, Toothle, Towolhi, Towothli, Mak’á, Makꞌá]
 population: 1500
 country_id: PY
 country_name: Paraguay
+location: Paraguay
+area: Matacoan language spoken in Paraguay
 status_id: "5"
 scope: individual
 language_type: living

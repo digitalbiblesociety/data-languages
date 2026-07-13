@@ -2,14 +2,18 @@
 iso: sdz
 name: Sallands
 autonym: Sallan
+alt_names: [Salland]
 population: null
 country_id: NL
 country_name: Netherlands
+location: "Belgium, Luxembourg and Netherlands"
+area: Dialects of Salland region
 status_id: "5"
 scope: individual
 language_type: living
 latitude: 52.44816
 longitude: 6.29104
+glottocode: sall1238
 wikidata_id: Q3436668
 wikipedia_url: "https://en.wikipedia.org/wiki/Sallaans_dialect"
 translations:

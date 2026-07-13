@@ -2,9 +2,12 @@
 iso: zkd
 name: Kadu
 autonym: Kado
+alt_names: [Gadu, Kadu-Ganaan, Kantu’, Kato, Ka’do, Kudo, Maw, Mawteik, Puteik, Thet]
 population: 30000
 country_id: MM
 country_name: Myanmar
+location: Northern Myanmar
+area: Sino-Tibetan language of Burma
 status_id: 6b
 scope: individual
 language_type: living

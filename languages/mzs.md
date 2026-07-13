@@ -6,11 +6,13 @@ alt_names: [Macaense, Macaista, Macanés, Macao Creole Portuguese, Macaopatois, 
 population: 4000
 country_id: MO
 country_name: Macao
+area: Portuguese-based creole spoken by a minority in Macau
 status_id: 8b
 scope: individual
 language_type: living
 latitude: 22.41813
 longitude: 114.11983
+language_map_img: Macau_in_Asia.webp
 glottocode: maca1262
 glottolog_family_id: indo1319
 glottolog_family_name: Indo-European

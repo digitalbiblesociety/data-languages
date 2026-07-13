@@ -6,6 +6,8 @@ alt_names: [North Sahaptin, Northeast Sahaptin, Northeastern, Sahaptin, Sahaptin
 population: 100
 country_id: US
 country_name: United States
+location: Northwestern United States of America
+area: Sahaptian language in the United States
 status_id: 8a
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 瓦拉瓦拉语
     auto: true
 ---
+Sahaptin, also called Ichishkiin, is one of the two-language Sahaptian branch of the Plateau Penutian family spoken in a section of the northwestern plateau along the Columbia River and its tributaries in southern Washington, northern Oregon, and southwestern Idaho, in the United States; the other language is Nez Perce (Niimi'ipuutímt).

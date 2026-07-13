@@ -2,10 +2,11 @@
 iso: tcl
 name: Taman
 autonym: null
-alt_names: [Taman]
+alt_names: [Taman, Taman (Myanmar)]
 population: 2015
 country_id: MM
 country_name: Myanmar
+area: Extinct Sino-Tibetan language of Myanmar
 status_id: "9"
 scope: individual
 language_type: extinct

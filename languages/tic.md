@@ -2,10 +2,12 @@
 iso: tic
 name: Tira
 autonym: Kanderma
-alt_names: [Lithiro, Thiro, Tiro]
+alt_names: [Lithiro, Thiro, Tiro, Kinderma, Littiro, Luman, Tira Dagig, Tira El Akhdar, Tira Lumum, Tira Mandi, Zittiro]
 population: null
 country_id: SD
 country_name: Sudan
+location: Sudan
+area: Atlantic–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living

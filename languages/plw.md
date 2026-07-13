@@ -2,10 +2,12 @@
 iso: plw
 name: "Brooke's Point Palawano"
 autonym: null
-alt_names: ["Brooke's Point Palawan", Palawan, "Palawano, Brooke's Point", Palawanun, Palaweño]
+alt_names: ["Brooke's Point Palawan", Palawan, "Palawano, Brooke's Point", Palawanun, Palaweño, Brooke’s Point Palawan, "Brooke's Point", Bugsuk Palawano, Palawano, Brookeꞌs Point Palawano, "Pela'wan", Pelewan, Pinalawan, Pinelawan, South Palawano]
 population: 14400
 country_id: PH
 country_name: Philippines
+location: Southern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
@@ -60,3 +62,4 @@ rolv_dialects:
     country_id: PH
     location: "Philippines, Luzon, Mimaropa Region, Palawan"
 ---
+The Palawano languages are spoken in the province of Palawan in the Philippines, by the Palawano people.

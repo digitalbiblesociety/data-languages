@@ -5,6 +5,7 @@ autonym: ABSL
 population: 140
 country_id: IL
 country_name: Israel
+area: "Sign language local to Israel's al-Sayyid Bedouin village"
 status_id: 6a
 scope: individual
 language_type: living

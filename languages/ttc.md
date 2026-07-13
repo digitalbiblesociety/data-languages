@@ -2,10 +2,12 @@
 iso: ttc
 name: Tektiteko
 autonym: Bʼaʼaj
-alt_names: ["\"Teko\"", Maya-Tekiteko, Teco, Tectitec, Tectiteco, Tectiteeks, Tectitán Mam, Teko, Tektitek language, Tektitekisk, Tektitèque]
+alt_names: ["\"Teko\"", Maya-Tekiteko, Teco, Tectitec, Tectiteco, Tectiteeks, Tectitán Mam, Teko, Tektitek language, Tektitekisk, Tektitèque, “Teko”, Bꞌaꞌaj, Kꞌontiꞌl, Maya-Tektiteko, Qyool, Tectitán Mame, Tujqyol]
 population: 4900
 country_id: GT
 country_name: Guatemala
+location: Guatemala
+area: "Mayan language spoken in Chiapas, Mexico"
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,6 +6,8 @@ alt_names: [Chali, Chali Kha, Chalimpa, Chalipkha, Tshali, Tshalingpa]
 population: 8200
 country_id: BT
 country_name: Bhutan
+location: Bhutan
+area: Bodish language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living

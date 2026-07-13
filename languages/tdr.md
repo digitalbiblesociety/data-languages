@@ -6,11 +6,14 @@ alt_names: [Didrah, Dədrah, Kodra, Modra, Podra, Todrá]
 population: 9140
 country_id: VN
 country_name: Vietnam
+location: Southern Viet Nam
+area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 14.5672
 longitude: 108.11401
+language_map_img: 500px-Todrah_language.webp
 glottocode: todr1244
 glottolog_family_id: aust1305
 glottolog_family_name: Austroasiatic

@@ -2,10 +2,12 @@
 iso: kmi
 name: Kami
 autonym: null
-alt_names: [Kami, Nigeria]
+alt_names: [Kami, Nigeria, Kami (Nigeria)]
 population: 5000
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 6"
+area: Nupoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living

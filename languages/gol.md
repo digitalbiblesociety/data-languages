@@ -2,10 +2,12 @@
 iso: gol
 name: Gola
 autonym: "Gola, ꖑꕞ"
-alt_names: [Gula]
+alt_names: [Gula, De, Deng, Gobla, Kongba, Kongbaa, Kpo, Managobla, Sene, Senje, Tee, Tege, Todii, Toldil, Toodii]
 population: 190000
 country_id: LR
 country_name: Liberia
+location: Liberia
+area: Unclassified language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living

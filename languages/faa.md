@@ -2,15 +2,18 @@
 iso: faa
 name: Fasu
 autonym: West Kutubuan
-alt_names: [Namo Me, Namome, Namumi, Some]
+alt_names: [Namo Me, Namome, Namumi, Some, Kaibu, Kaipu, Namuni]
 population: 1100
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 9"
+area: Kutubuan language of New Guinea
 status_id: "5"
 scope: individual
 language_type: living
 latitude: -6.62687
 longitude: 143.28359
+language_map_img: Fasu_language.svg
 glottocode: fasu1242
 wikidata_id: Q3446687
 wikipedia_url: "https://en.wikipedia.org/wiki/Fasu_language"

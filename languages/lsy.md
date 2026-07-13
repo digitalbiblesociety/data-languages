@@ -5,6 +5,7 @@ autonym: null
 population: 1000
 country_id: MU
 country_name: Mauritius
+area: Deaf sign language of Mauritius
 status_id: 6a
 scope: individual
 language_type: living

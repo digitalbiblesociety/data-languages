@@ -6,6 +6,8 @@ alt_names: [Luluba, Lulubo, Olubogo, Oluboti, Ondoe]
 population: 15000
 country_id: SS
 country_name: South Sudan
+location: South Sudan
+area: Central Sudanic language of Southern Sudan
 status_id: 6a
 scope: individual
 language_type: living

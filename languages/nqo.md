@@ -2,9 +2,11 @@
 iso: nqo
 name: "N'Ko"
 autonym: ߒߞߏ‎
+alt_names: [N’Ko]
 population: 27000000
 country_id: GN
 country_name: Guinea
+area: Standardized Manding koiné of West Africa
 status_id: "3"
 scope: individual
 language_type: living

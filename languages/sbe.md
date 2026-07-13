@@ -2,10 +2,12 @@
 iso: sbe
 name: Saliba
 autonym: null
-alt_names: [Suau]
+alt_names: [Suau, Loga, Logea, Logeya]
 population: 2500
 country_id: PG
 country_name: Papua New Guinea
+location: "Papua New Guinea, Map 17"
+area: Language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living

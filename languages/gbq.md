@@ -7,6 +7,8 @@ alt_names: [Gbaya, Gbaya de Bozoum]
 population: 32500
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Gbaya language of the CAR
 status_id: 6a
 scope: individual
 language_type: living

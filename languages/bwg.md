@@ -6,6 +6,8 @@ alt_names: [Cibalke]
 population: 17000
 country_id: MZ
 country_name: Mozambique
+location: Mozambique
+area: Bantu language of central Mozambique
 status_id: 6a
 scope: individual
 language_type: living
@@ -50,3 +52,4 @@ translations:
     name: 巴韦语
     auto: true
 ---
+Sena is a Bantu language spoken in the four provinces of central Mozambique : Tete, Sofala, Zambezia and Manica. There were an estimated 900,000 native Sena speakers in Mozambique in 1997, with at least 1.5 million if including those who speak it as a second language. It is one of the Nyasa languages.

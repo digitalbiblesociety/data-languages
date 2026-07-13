@@ -2,10 +2,12 @@
 iso: bwu
 name: Buli
 autonym: Kanjaga
-alt_names: [Builsa, Bulea, Buli, Buli (in Ghana), Bulisa, Guresha, Kandjaga]
+alt_names: [Builsa, Bulea, Buli, Buli (in Ghana), Bulisa, Guresha, Kandjaga, Bulsa]
 population: 168000
 country_id: GH
 country_name: Ghana
+location: Ghana
+area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living

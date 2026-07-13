@@ -5,6 +5,8 @@ autonym: Kpasiya
 population: 5000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Ubangian dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
@@ -52,3 +54,4 @@ translations:
     name: 吉巴伊语
     auto: true
 ---
+The Ngbandi language is a dialect continuum of the Ubangian family spoken by a half-million or so people in the Democratic Republic of Congo and in the Central African Republic. It is primarily spoken by the Ngbandi people, which included the dictator of what was then known as Zaire, Mobutu Sese Seko.

@@ -6,6 +6,7 @@ alt_names: [Abigira, Abiquira, Agouisiri, Auishiri, Aushiri, Avirxiri, Avishiri,
 population: 2010
 country_id: PE
 country_name: Peru
+area: Language spoken in Peru
 status_id: "10"
 scope: individual
 language_type: extinct

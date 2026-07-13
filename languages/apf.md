@@ -2,15 +2,18 @@
 iso: apf
 name: Pahanan Agta
 autonym: Paranan Agta
-alt_names: ["Agta, Pahanan"]
+alt_names: ["Agta, Pahanan", Agta, Pahanan, Palanan Agta]
 population: 1700
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Language in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
 latitude: 17.0538
 longitude: 122.2802
+language_map_img: 500px-Pahanan_Agta_language_map.webp
 glottocode: agta1234
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian

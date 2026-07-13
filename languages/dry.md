@@ -5,6 +5,8 @@ autonym: null
 population: 10200
 country_id: NP
 country_name: Nepal
+location: Central Nepal
+area: Language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
@@ -58,3 +60,4 @@ rolv_dialects:
     country_id: NP
     location: Nepal
 ---
+Bote (Bote-Majhi) and Darai are mutually intelligible tribal dialects of Nepal that are close to Danwar Rai and Tharu languages but otherwise unclassified. Its speakers are rapidly shifting to Nepali.

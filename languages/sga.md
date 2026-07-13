@@ -2,7 +2,7 @@
 iso: sga
 name: Old Irish
 autonym: Goídelc
-alt_names: [Auld Erse leid, Gadhelisch, Gammelirsk, Hen Wyddeleg, "Irish, Old (to 900)", Old Irish, Oudiers, Sean-Ghaeilge, Shenn Yernish, Vieil irlandais, altirische, "irlandais ancien (jusqu'à 900)"]
+alt_names: [Auld Erse leid, Gadhelisch, Gammelirsk, Hen Wyddeleg, "Irish, Old (to 900)", Old Irish, Oudiers, Sean-Ghaeilge, Shenn Yernish, Vieil irlandais, altirische, "irlandais ancien (jusqu'à 900)", Old Irish (to 900)]
 population: null
 country_id: IE
 country_name: Ireland

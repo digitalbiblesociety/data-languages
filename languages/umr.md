@@ -6,11 +6,13 @@ alt_names: [Ambugala, Bugula, Mbakarla, Numbugala, Puneitja]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian language isolate
 status_id: "10"
 scope: individual
 language_type: extinct
 latitude: -12.93247
 longitude: 131.82455
+language_map_img: Arnhem_Land_languages.webp
 glottocode: umbu1235
 wikidata_id: Q2980392
 wikipedia_url: "https://en.wikipedia.org/wiki/Umbugarla_language"

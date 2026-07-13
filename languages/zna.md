@@ -6,6 +6,8 @@ alt_names: [Gula Guera, Moriil, Morre, mòrḭ̀ḭ̀l]
 population: 5000
 country_id: TD
 country_name: Chad
+location: Southwestern Chad
+area: Adamawa language of Chad
 status_id: 6a
 scope: individual
 language_type: living

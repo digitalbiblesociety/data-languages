@@ -2,10 +2,12 @@
 iso: ast
 name: Asturian
 autonym: asturianu
-alt_names: [Astur-Leonese, Astur-leonés, Asturan, Astureg, Asturiaans, Asturiagiella, Asturian-Leonese, Asturiano, Asturiansk, Asturien, Asturien-léonais, Asturiera, Asturies, Asturisch, Asturiska, Asturleonese, Asturlleonès, Asturyasça, Asturyek, Astuursche Spraak, Astwrieg, Astúríska, Bable, Lengoa asturiann-a, Leonese, Leonés, Lhéngua asturiana, Luenga asturiana, Spanish, asturoléonais, léonais, Â-sṳ̂-thù-lî-â-sṳ̂-ngî, Łéngoa asturiana, Աստուրիերեն, אסטורית, ئاستۇرىيە تىلى]
+alt_names: [Astur-Leonese, Astur-leonés, Asturan, Astureg, Asturiaans, Asturiagiella, Asturian-Leonese, Asturiano, Asturiansk, Asturien, Asturien-léonais, Asturiera, Asturies, Asturisch, Asturiska, Asturleonese, Asturlleonès, Asturyasça, Asturyek, Astuursche Spraak, Astwrieg, Astúríska, Bable, Lengoa asturiann-a, Leonese, Leonés, Lhéngua asturiana, Luenga asturiana, Spanish, asturoléonais, léonais, Â-sṳ̂-thù-lî-â-sṳ̂-ngî, Łéngoa asturiana, Աստուրիերեն, אסטורית, ئاستۇرىيە تىلى, Central Asturian, Eastern Asturian, Lleones, Montañes, Pasiegan, Pasiego, Pasiegu, West Asturian, Western Asturian]
 population: 110000
 country_id: ES
 country_name: Spain
+location: Portugal and Spain
+area: Romance language of the West Iberian group
 status_id: 6b
 scope: individual
 language_type: living

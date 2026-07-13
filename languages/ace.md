@@ -2,15 +2,18 @@
 iso: ace
 name: Achinese
 autonym: Basa Acèh
-alt_names: [Aceh, Acehnese, Acehnese language, Acehnesiska, Achehnese, Achen, Atjeh, Atjehnese, Atjehs, Atschin, Bahsa Acèh]
+alt_names: [Aceh, Acehnese, Acehnese language, Acehnesiska, Achehnese, Achen, Atjeh, Atjehnese, Atjehs, Atschin, Bahsa Acèh, Banda Aceh, Baruh, Bueng, Daja, Pase, Pedir, Pidie, Timu, Tunong]
 population: 3500000
 country_id: ID
 country_name: Indonesia
+location: "Indonesia, Sumatra"
+area: Austronesian language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living
 latitude: 3.90757
 longitude: 96.60325
+language_map_img: Aceh_Language_Map.svg
 scripts: [Latn]
 glottocode: achi1257
 glottolog_family_id: aust1307

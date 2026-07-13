@@ -2,10 +2,11 @@
 iso: ase
 name: American Sign Language
 autonym: Langue des signes américaine
-alt_names: [ASL, Amerikaanse Gebarentaal, Amerikansk tegnspråk, Amerikkalainen viittomakieli, Ameslan, Usona signolingvo, Амслен, アメリカ手話, 미국 수화]
+alt_names: [ASL, Amerikaanse Gebarentaal, Amerikansk tegnspråk, Amerikkalainen viittomakieli, Ameslan, Usona signolingvo, Амслен, アメリカ手話, 미국 수화, Black ASL, Black American Sign Language, SIGN AMERICA, TASL, Tactile ASL, Tactile American Sign Language]
 population: 729605
 country_id: US
 country_name: United States
+area: Sign language used predominantly in the US
 status_id: "5"
 scope: individual
 language_type: living

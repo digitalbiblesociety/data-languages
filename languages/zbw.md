@@ -6,6 +6,8 @@ alt_names: ["Berawan, West", Long Terawan]
 population: 720
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: "Austronesian language spoken in Sarawak, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 西贝拉旺语
     auto: true
 ---
+Berawan is an Austronesian language spoken in eastern Sarawak, Malaysia.

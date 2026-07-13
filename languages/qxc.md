@@ -7,11 +7,14 @@ alt_names: [Chinchaysuyo, Chinchaysuyu, Huangascar-Topará, Northern Quechua, Qu
 population: 6000
 country_id: PE
 country_name: Peru
+location: Peru
+area: Quechua dialect cluster
 status_id: "7"
 scope: individual
 language_type: living
 latitude: -12.85
 longitude: -75.649
+language_map_img: page1-500px-YauyosQuechua.pdf.webp
 glottocode: chin1483
 glottolog_family_id: quec1387
 glottolog_family_name: Quechuan
@@ -55,3 +58,4 @@ translations:
     name: 钦查克丘亚语
     auto: true
 ---
+Yauyos–Chincha Quechua or Yauyos Quechua is a language cluster of Quechua, spoken in the Yauyos and Chincha districts of Peru. There are numerous dialects: in Yauyos, San Pedro de Huacarpana, Apurí, Madean-Viñac (Madeán), Azángaro-Huangáscar-Chocos (Huangáscar), Cacra-Hongos, Tomás-Alis (Alis), Huancaya-Vitis, Laraos, with similar diversity in Chincha.

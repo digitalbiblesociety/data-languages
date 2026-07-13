@@ -5,9 +5,11 @@ autonym: null
 population: 5000
 country_id: SB
 country_name: Solomon Islands
+area: Oceanic language spoken in Solomon Islands
 status_id: null
 scope: individual
 language_type: living
+glottocode: noep1234
 wikidata_id: Q63283617
 wikipedia_url: "https://en.wikipedia.org/wiki/Noip%C3%A4_language"
 translations:

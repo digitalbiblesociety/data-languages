@@ -6,6 +6,8 @@ alt_names: [Bakwa, Bamileke-Kwa]
 population: 1000
 country_id: CM
 country_name: Cameroon
+location: Southwestern Cameroon
+area: Bamileke language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living

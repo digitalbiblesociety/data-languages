@@ -2,10 +2,12 @@
 iso: axk
 name: Yaka
 autonym: Yaka
-alt_names: ["\"Babinga\"", "\"Bambenga\"", Aka, Babinga, Bambenga, Beka, Beká, Binga, Mòáka, Nyoyaka, Pygmée de Mongoumba, Pygmée de la Lobaye, Pygmées de la Sanghas]
+alt_names: ["\"Babinga\"", "\"Bambenga\"", Aka, Babinga, Bambenga, Beka, Beká, Binga, Mòáka, Nyoyaka, Pygmée de Mongoumba, Pygmée de la Lobaye, Pygmées de la Sanghas, “Babinga”, “Bambenga”, Bambenzele, Basese, Bayaka, Eastern Aka, Gbayaka, Moyaka, Nzari, Western Aka, Yaka (Central African Rep)]
 population: 15000
 country_id: CF
 country_name: Central African Republic
+location: Central African Republic
+area: Bantu language spoken in the Central African Republic and Congo and Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living

@@ -6,11 +6,13 @@ alt_names: [Beothuc, Bethuck, Bethuk, Newfoundland, Red Indians]
 population: null
 country_id: CA
 country_name: Canada
+area: Extinct language of Canada
 status_id: null
 scope: individual
 language_type: extinct
 latitude: 48
 longitude: -57
+language_map_img: 500px-Beothuk_language_map.webp
 glottocode: beot1247
 wikidata_id: Q56234
 wikipedia_url: "https://en.wikipedia.org/wiki/Beothuk_language"

@@ -2,10 +2,12 @@
 iso: kvl
 name: Kayaw
 autonym: Brek
-alt_names: [Bre, Brec, Brek Karen, Brè, Bwe, "Karen, Brek", "Karen,Brek", Laku, Pramano, Pre]
+alt_names: [Bre, Brec, Brek Karen, Brè, Bwe, "Karen, Brek", "Karen,Brek", Laku, Pramano, Pre, “Brec”, “Kayaw Brek”, Bwe-Kayaw, Deleh, Ka-yaw, Lower Kayaw, Upper Kayaw]
 population: 16600
 country_id: MM
 country_name: Myanmar
+location: Central Myanmar
+area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living

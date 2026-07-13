@@ -6,11 +6,14 @@ alt_names: ["Kalinga, Mabaka Valley", Mabaka, Mabaka Itneg]
 population: null
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Northern Luzon language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
 latitude: 17.66834
 longitude: 121.07311
+language_map_img: 500px-Kalinga_dialect_continuum_map.webp
 glottocode: maba1279
 glottolog_family_id: aust1307
 glottolog_family_name: Austronesian
@@ -53,3 +56,4 @@ translations:
     name: 马巴卡谷卡林加语
     auto: true
 ---
+Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Kalinga people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.

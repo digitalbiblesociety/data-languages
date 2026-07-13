@@ -6,6 +6,8 @@ alt_names: [Atta faire, Atta meridional, "Atta, Faire"]
 population: 300
 country_id: PH
 country_name: Philippines
+location: Northern Philippines
+area: Austronesian language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living
@@ -53,3 +55,4 @@ translations:
     name: 费尔阿塔语
     auto: true
 ---
+Atta is an Austronesian dialect cluster spoken by the Aeta (Agta) Negritos of the northern Philippines.

@@ -6,6 +6,8 @@ alt_names: [Seni, Shaini, Shani, Shenanci, Shenic]
 population: 1500
 country_id: NG
 country_name: Nigeria
+location: "Nigeria, Map 2"
+area: Kainji language spoken in Nigeria
 status_id: 8b
 scope: individual
 language_type: living
@@ -59,3 +61,4 @@ rolv_dialects:
     country_id: NG
     location: "Nigeria, Kaduna"
 ---
+Ziriya (Jiriya) and Sheni (Shaini) constitute a Kainji language of Nigeria. They are geographically but perhaps not linguistically distinct.

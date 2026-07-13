@@ -6,6 +6,8 @@ alt_names: ["Melanau, Daro-Matu"]
 population: 2800
 country_id: MY
 country_name: Malaysia
+location: Brunei and Malaysia - Sarawak
+area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living

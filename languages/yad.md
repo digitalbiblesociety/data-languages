@@ -2,15 +2,18 @@
 iso: yad
 name: Yagua
 autonym: Nijyamïï Nikyejaada
-alt_names: [Llagua, Mishara, Nijyamïï, Nikyejaada, Peba-Yaguan, Peban, Sáparo-Yawan, Yaguan, Yahua, Yava, Yawa, Yegua, Yihamwo]
+alt_names: [Llagua, Mishara, Nijyamïï, Nikyejaada, Peba-Yaguan, Peban, Sáparo-Yawan, Yaguan, Yahua, Yava, Yawa, Yegua, Yihamwo, Nijyamii, Nijya̱mi̱ Niquejada]
 population: 5300
 country_id: PE
 country_name: Peru
+location: Peru
+area: Peba–Yaguan language of northeastern Peru
 status_id: 6b
 scope: individual
 language_type: living
 latitude: -3.42913
 longitude: -72.21864
+language_map_img: 500px-Yagua.webp
 glottocode: yagu1244
 glottolog_family_id: peba1241
 glottolog_family_name: Peba-Yagua

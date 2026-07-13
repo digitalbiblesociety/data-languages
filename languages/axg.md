@@ -6,6 +6,7 @@ alt_names: [Arara, Arara do Aripuanã, Arara do Rio Branco, Arára of Mato Gross
 population: 2008
 country_id: BR
 country_name: Brazil
+area: Extinct unclassified language of Brazil
 status_id: "9"
 scope: individual
 language_type: extinct

@@ -2,9 +2,11 @@
 iso: yxg
 name: Yagara
 autonym: Yagara
+alt_names: [Biriin]
 population: null
 country_id: AU
 country_name: Australia
+area: Australian Aboriginal language of the Brisbane area
 status_id: "10"
 scope: individual
 language_type: extinct
