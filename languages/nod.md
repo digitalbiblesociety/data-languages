@@ -1,7 +1,7 @@
 ---
 iso: nod
 name: Northern Thai
-autonym: " Kam Mueangคำเมือง"
+autonym: คำเมือง
 alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ, “Yuan”, Kam Mu’ang, Khon, Khon Meang, Mu’ang, Mung, Tai Yon, Tai Yuan, Bandu, Kam Mueang, Kam Muꞌang, Khon Mueang, Khonmuang, Lannatai, Mueang, Muꞌang, Nan, Tai Wang]
 population: 6000000
 country_id: TH

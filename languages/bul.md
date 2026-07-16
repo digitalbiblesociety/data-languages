@@ -2,8 +2,8 @@
 iso: bul
 iso639_1: bg
 name: Bulgarian
-autonym: българскиbălgarski
-alt_names: [An Bhulgáiris, Balgarski, Bulgaars, Bulgaarsk, Bulgar, Bulgarca, Bulgare, Bulgare de Banat, Bulgareg, Bulgarek, Bulgariana linguo, Bulgarie leid, Bulgariera, Bulgarisch, Bulgariska, Bulgaro, Bulgarsk, Bulgarska rěc, Bulgarya simi, Bulgeyrish, Bulgáriagiella, Bwlgareg, Bölgaars, Búlgar, Búlgaro del Bánato, Búlgarska, Búlgaru, Isi-Bulgaria, Kibulgaria, Middle Bulgarian, Old Bulgarian, Pomak, Tok Balgeria, Блъга́рьскъ ѩꙁꙑ́къ, Болгар йылме, Забони булғорӣ, Բուլղարերեն, בולגרית, بۇلغارىيە تىلى, български, Bogomil, Palitiani, Palityan, Pomakci, Pomakika]
+autonym: български
+alt_names: [An Bhulgáiris, Balgarski, Bulgaars, Bulgaarsk, Bulgar, Bulgarca, Bulgare, Bulgare de Banat, Bulgareg, Bulgarek, Bulgariana linguo, Bulgarie leid, Bulgariera, Bulgarisch, Bulgariska, Bulgaro, Bulgarsk, Bulgarska rěc, Bulgarya simi, Bulgeyrish, Bulgáriagiella, Bwlgareg, Bölgaars, Búlgar, Búlgaro del Bánato, Búlgarska, Búlgaru, Isi-Bulgaria, Kibulgaria, Middle Bulgarian, Old Bulgarian, Pomak, Tok Balgeria, Блъга́рьскъ ѩꙁꙑ́къ, Болгар йылме, Забони булғорӣ, Բուլղարերեն, בולגרית, بۇلغارىيە تىلى, български, Bogomil, Palitiani, Palityan, Pomakci, Pomakika, bălgarski]
 population: 6967000
 country_id: BG
 country_name: Bulgaria

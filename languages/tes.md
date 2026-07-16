@@ -1,8 +1,8 @@
 ---
 iso: tes
 name: Tengger
-autonym: Basa Tenggerꦧꦱ​ꦠꦼꦁꦒꦼꦂ
-alt_names: [Tenggerese]
+autonym: Basa Tengger
+alt_names: [Tenggerese, ꦧꦱꦠꦼꦁꦒꦼꦂ]
 population: 80000
 country_id: ID
 country_name: Indonesia

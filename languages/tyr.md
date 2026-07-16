@@ -1,7 +1,7 @@
 ---
 iso: tyr
 name: Tai Daeng
-autonym: "Red TaiTáy-Môc-Châu"
+autonym: Táy-Môc-Châu
 alt_names: [Daeng, Môc-Châu, Red Tai, Red Thai, Tai Deng, Tai Rouge, Taidaén, Thai Dang, Thai Do, Táy-Môc-Châu]
 population: 105000
 country_id: VN

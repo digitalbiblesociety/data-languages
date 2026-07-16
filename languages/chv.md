@@ -2,8 +2,8 @@
 iso: chv
 iso639_1: cv
 name: Chuvash
-autonym: CăvašlaÇovaşla
-alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى, Чӑвашла, Anatri, Viryal]
+autonym: Чӑвашла
+alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى, Чӑвашла, Anatri, Viryal, Căvašla, Çovaşla]
 population: 1079650
 country_id: RU
 country_name: Russia

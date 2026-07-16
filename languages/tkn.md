@@ -1,8 +1,8 @@
 ---
 iso: tkn
 name: "Toku-No-Shima"
-autonym: シマユミィタShimayumiita
-alt_names: [Ryukyuan, Tokunosima]
+autonym: シマユミィタ
+alt_names: [Ryukyuan, Tokunosima, Shimayumiita]
 population: 5100
 country_id: JP
 country_name: Japan

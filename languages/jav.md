@@ -2,8 +2,8 @@
 iso: jav
 iso639_1: jv
 name: Javanese
-autonym: ꦧꦱꦗꦮباسا جاوا
-alt_names: [Banyumasan, Banyumasan language, Djawa, Java, Javanic, Javanisch, Jawa, Kawi, javanais, ባኙማሳን, Banten, Banyumas, Cheribon, Cirebon, Indramayu, Malang-Pasuruan, Manuk, Pasisir, Sawlaw, Solo, Surabaya, Surakarta, Tegal, Tembung, Tjirebon]
+autonym: Basa Jawa
+alt_names: [Banyumasan, Banyumasan language, Djawa, Java, Javanic, Javanisch, Jawa, Kawi, javanais, ባኙማሳን, Banten, Banyumas, Cheribon, Cirebon, Indramayu, Malang-Pasuruan, Manuk, Pasisir, Sawlaw, Solo, Surabaya, Surakarta, Tegal, Tembung, Tjirebon, ꦧꦱꦗꦮ, باسا جاوا]
 population: 68300000
 country_id: ID
 country_name: Indonesia

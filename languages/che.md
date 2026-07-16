@@ -2,8 +2,8 @@
 iso: che
 iso639_1: ce
 name: Chechen
-autonym: нохчийн моттnoxçiyn mott
-alt_names: [Checheno, Chechèn, Galancho, Nokchiin Muott, Nokhchiin, Tchetcheneg, Tchétchène, Tjetjensk, Tjetjenska, Tsjetsjeens, Tsjetsjensk, Txetxè, Téténska, Çeçence, Çeçenî, Нохчийн мотт, "צ'צ'נית", Akkin, Aux, Cheberloi, Itumkala, Kistin, Melkhin, Nokhchi, Ploskost, Shatoi]
+autonym: нохчийн мотт
+alt_names: [Checheno, Chechèn, Galancho, Nokchiin Muott, Nokhchiin, Tchetcheneg, Tchétchène, Tjetjensk, Tjetjenska, Tsjetsjeens, Tsjetsjensk, Txetxè, Téténska, Çeçence, Çeçenî, Нохчийн мотт, "צ'צ'נית", Akkin, Aux, Cheberloi, Itumkala, Kistin, Melkhin, Nokhchi, Ploskost, Shatoi, Noxçiyn mott]
 population: 1526650
 country_id: RU
 country_name: Russia
