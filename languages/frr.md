@@ -1,7 +1,7 @@
 ---
 iso: frr
 name: Northern Frisian
-autonym: NuurđfriiskFöhr
+autonym: Nuurđfriisk
 alt_names: [Dialetto frisone settentrionale, Freeshlannish Hwoaie, Friesisch, Frisian, Frisian (North), Frisian (Northern), "Frisian, North", "Frisian, Northern", Frison du nord, Frisó septentrional, Frisón septentrional, Frizeg an norzh, Noardfrysk, Noord-Fries, Noordfrais, Noordfreesch, Noordfries, Nordfriesisch, Nordfrisisk, Nordfrisiska, North Frisian, North Frisian language, Northern, Noudfräisk, frison septentrional, Ferring, Fohr-Amrum, Frasch, Freesch, Freesk, Friisk, Fräisch, Helgoland, Mainland Frisian, Mooringa, Mooringer, Sylt, Sölreng]
 population: 10000
 country_id: DE

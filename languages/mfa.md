@@ -2,8 +2,8 @@
 iso: mfa
 macrolanguage_id: msa
 name: Pattani Malay
-autonym: Baso PattaniBaso Kelaté
-alt_names: ["Malay, Pattani", Thai Islam, Yawi, Yawi language, Jawi, Jawi-Malay, oré Jawi]
+autonym: Baso Pattani
+alt_names: ["Malay, Pattani", Thai Islam, Yawi, Yawi language, Jawi, Jawi-Malay, oré Jawi, Baso Kelaté]
 population: 1470000
 country_id: TH
 country_name: Thailand

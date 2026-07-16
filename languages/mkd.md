@@ -2,7 +2,7 @@
 iso: mkd
 iso639_1: mk
 name: Macedonian
-autonym: македонскиmakedonski
+autonym: македонски
 alt_names: [An Mhacadóinis, Macedonian Slavic, Macedoniana linguo, Macedonie leid, Macedonies, Macedonisch, Macedoniu, Macedònic, Macedůńsko godka, Macédonien, Makedonca, Makedonek, Makedoniagiella, Makedonsk, Makedonska, Makedonski, Makedońska rěc, Makedónska, Makidunya simi, Mazedoniera, Slavic, Забони мақдунӣ, Макєдо́ньскъ ѩꙁꙑ́къ, מקדונית, ماكېدون تىلى, македонски, македонскиот, Northern Macedonian, Republic of Macedonia, Southeastern Macedonian, Western Macedonian]
 population: 1713880
 country_id: MK

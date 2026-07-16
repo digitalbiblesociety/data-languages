@@ -1,7 +1,7 @@
 ---
 iso: kim
 name: Karagas
-autonym: "Тоъфа дыл [t̪ɔˤfa d̪əl̪]"
+autonym: Тоъфа дыл
 alt_names: [Kamas, Kanskg, Karagaslar, Karagass, Karagassisch, Karagassisk, Karagasy, Khotowci, Sayan Samoyed, Sayan Samoyedic, Tofa, Tofa Türkçesi, Tofaca, Tofalar, Tòfa dıl, Тоъфа дыл]
 population: 730
 country_id: RU

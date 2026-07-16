@@ -1,7 +1,7 @@
 ---
 iso: oav
 name: Old Avar
-autonym: "اوار ماض, авар мацӏ, ;"
+autonym: "اوار ماض, авар мацӏ"
 alt_names: ["Avar, Old"]
 population: null
 country_id: AZ

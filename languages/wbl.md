@@ -1,7 +1,7 @@
 ---
 iso: wbl
 name: Wakhi
-autonym: x̌ik zik / Х̌ ик зик
+autonym: x̌ik zik / Х̌ик зик
 alt_names: [Guhjali, Khik, Vakhan, Vakí, Wakhani, Wakheg, Wakhigi, Central Wakhi, Eastern Wakhi, Gojal, Ishkoman, Khikwar, Western Wakhi, Xhikwor, X̌ik zik, X̌ikwor, Yarkhun, Yasin]
 population: 52200
 country_id: AF

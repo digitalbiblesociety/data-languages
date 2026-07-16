@@ -1,8 +1,8 @@
 ---
 iso: jas
 name: New Caledonian Javanese
-autonym: ꦧꦱꦗꦮباسا جاوا
-alt_names: ["Javanese, New Caledonian", New Caledonia]
+autonym: Basa Jawa
+alt_names: ["Javanese, New Caledonian", New Caledonia, ꦧꦱꦗꦮ, باسا جاوا]
 population: 6750
 country_id: NC
 country_name: New Caledonia

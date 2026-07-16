@@ -2,7 +2,7 @@
 iso: sdh
 macrolanguage_id: kur
 name: Southern Kurdish
-autonym: "Kurdish: کوردیی باشووری "
+autonym: کوردیی باشووری
 alt_names: [Kelhuri, Kermanshahi, Kurdisch, "Kurdish, Southern", Kurdí Xwar, Quelúri, Bayray, Bijari, Garrusi, Kalhori, Kermanshani, Kolyai, Kordali, Lori, Luri, Maleksh ahi, Maleksh ay, Malekshahi, Sanjabi]
 population: 3730000
 country_id: IR

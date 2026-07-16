@@ -1,8 +1,8 @@
 ---
 iso: kdr
 name: Karaim
-autonym: къарай тилиkaraj tili
-alt_names: [Karaimeg, Karaimiska, Karaite, Karayca, Karaïm, Qaray tili, Կարաիմերեն, קראימית, Turkic Karaite]
+autonym: къарай тили
+alt_names: [Karaimeg, Karaimiska, Karaite, Karayca, Karaïm, Qaray tili, Կարաիմերեն, קראימית, Turkic Karaite, karaj tili]
 population: 84
 country_id: LT
 country_name: Lithuania

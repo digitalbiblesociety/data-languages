@@ -1,8 +1,8 @@
 ---
 iso: grc
 name: Ancient Greek
-autonym: ἙλληνικήHellēnikḗ
-alt_names: [Aajdgrieks, Alt-Griechisch, Classical Greek, Forngríska, Gammelgresk, Grec ancien, Grec antic, Grech Antich, Greek, "Greek, Ancient", "Greek, Ancient (to 1453)", Grego antigo, Greqishtja e lashtë, Griego antiguo, Gū Hĭ-lé-nà̤-ngṳ̄, "Henc'hresianeg", Klassisk grekiska, Koiné, Muinaiskreikka, Oldgræsk, Ooltgreeksche Spraak, Oudgrieks, Starogréčtina, Starořečtina, "grec ancien (jusqu'à 1453)", Ελληνική, Ancient, Koine Greek]
+autonym: Ἑλληνική
+alt_names: [Aajdgrieks, Alt-Griechisch, Classical Greek, Forngríska, Gammelgresk, Grec ancien, Grec antic, Grech Antich, Greek, "Greek, Ancient", "Greek, Ancient (to 1453)", Grego antigo, Greqishtja e lashtë, Griego antiguo, Gū Hĭ-lé-nà̤-ngṳ̄, "Henc'hresianeg", Klassisk grekiska, Koiné, Muinaiskreikka, Oldgræsk, Ooltgreeksche Spraak, Oudgrieks, Starogréčtina, Starořečtina, "grec ancien (jusqu'à 1453)", Ελληνική, Ancient, Koine Greek, Hellēnikḗ]
 population: null
 country_id: GR
 country_name: Greece

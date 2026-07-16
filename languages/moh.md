@@ -1,8 +1,8 @@
 ---
 iso: moh
 name: Mohawk
-autonym: KanienʼkéhaKanyenʼkéha
-alt_names: ["\"mohawk (Akwesasne, St. Regis)\"", Ganienkeh, Kahnawake, Kanatsiohareke, Kanesatake, "Kanien'keha:ka", "Kanien'kehaka", "Kanien'kéha", Kanienʼkéha, Mohaqués (Wahta), Tyendinaga, Wahta, Kanien’kéha, Kanienkehaka]
+autonym: Kanienʼkéha
+alt_names: ["\"mohawk (Akwesasne, St. Regis)\"", Ganienkeh, Kahnawake, Kanatsiohareke, Kanesatake, "Kanien'keha:ka", "Kanien'kehaka", "Kanien'kéha", Kanienʼkéha, Mohaqués (Wahta), Tyendinaga, Wahta, Kanien’kéha, Kanienkehaka, Kanyenʼkéha]
 population: 2940
 country_id: CA
 country_name: Canada

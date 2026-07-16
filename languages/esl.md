@@ -1,7 +1,7 @@
 ---
 iso: esl
 name: Egypt Sign Language
-autonym: "File:Egyptian Sign Language - لغة الاشارة المصرية.PNG"
+autonym: لغة الاشارة المصرية
 alt_names: [Egyptian Sign Language]
 population: 500000
 country_id: EG

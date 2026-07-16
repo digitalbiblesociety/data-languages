@@ -1,8 +1,8 @@
 ---
 iso: sty
 name: Siberian Tatar
-autonym: "{{lang|sty|татарца, тадарца, татарча, тадарча,"
-alt_names: ["Tatar, Siberian", Baraba, Baraban, Barabinsk Tatar, Eastern Tatar, Tobol-Irtysh, Tobolo-Irtysh, Tom, Tomsk, Tomsk Tatar]
+autonym: татарца
+alt_names: ["Tatar, Siberian", Baraba, Baraban, Barabinsk Tatar, Eastern Tatar, Tobol-Irtysh, Tobolo-Irtysh, Tom, Tomsk, Tomsk Tatar, тадарца, татарча, тадарча]
 population: 101000
 country_id: RU
 country_name: Russia
