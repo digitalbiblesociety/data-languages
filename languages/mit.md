@@ -11,6 +11,7 @@ area: "Mixtec language of Puebla and Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.21229
 longitude: -97.95722
 glottocode: sout3001

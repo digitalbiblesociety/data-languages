@@ -11,6 +11,7 @@ area: Burmese language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.2009
 longitude: 93.4448
 glottocode: laut1236

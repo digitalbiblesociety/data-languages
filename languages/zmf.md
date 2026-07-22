@@ -11,6 +11,7 @@ area: Bantu language of the Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.26573
 longitude: 16.25588
 glottocode: mfin1238

@@ -11,6 +11,7 @@ area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 5.878933
 longitude: 22.46664
 glottocode: mids1243

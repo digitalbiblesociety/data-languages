@@ -10,6 +10,7 @@ area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -14.33
 longitude: -178.17
 scripts: [Latn]

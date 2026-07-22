@@ -10,6 +10,7 @@ area: Dialect of East Frisian
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 53.117
 longitude: 7.721
 language_map_img: Frisian_languages_in_Europe.svg

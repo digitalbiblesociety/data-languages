@@ -10,6 +10,7 @@ area: "Indigenous language spoken in Hokkaido, Japan"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 47.23322
 longitude: 142.87401
 scripts: [Kana, Latn]

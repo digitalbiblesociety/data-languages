@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 2.51438
 longitude: 98.24269
 glottocode: bata1294

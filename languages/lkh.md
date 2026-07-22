@@ -11,6 +11,7 @@ area: Southern Tibetic language of Bhutan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.63255
 longitude: 90.33357
 glottocode: lakh1240

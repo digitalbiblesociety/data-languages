@@ -11,6 +11,7 @@ area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.44464
 longitude: 115.57998
 glottocode: ying1247

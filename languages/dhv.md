@@ -11,6 +11,7 @@ area: "Austronesian language of Lifou Island, New Caledonia"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -20.88918
 longitude: 167.22924
 glottocode: dehu1237

@@ -11,6 +11,7 @@ area: Celebic language of Sulawesi in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.50708
 longitude: 120.26199
 glottocode: lauj1238

@@ -11,6 +11,7 @@ area: Indo-Aryan language of India and Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 27.53636
 longitude: 67.84754
 glottocode: oddd1238

@@ -11,6 +11,7 @@ area: Sino-Tibetan language of India and Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 27.10268
 longitude: 97.07379
 glottocode: rawa1265

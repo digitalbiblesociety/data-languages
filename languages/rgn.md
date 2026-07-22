@@ -10,6 +10,7 @@ area: Romance language spoken in Romagna (Italy) and San Marino
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 44.234895
 longitude: 11.71892
 language_map_img: 500px-Mappa_linguistica_Romagna.webp

@@ -12,6 +12,7 @@ area: Austronesian language of Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.858561
 longitude: 103.000487
 language_map_img: zlm.webp

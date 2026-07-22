@@ -10,6 +10,7 @@ area: Iranian language spoken in Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.45652
 longitude: 53.21897
 glottocode: sork1239

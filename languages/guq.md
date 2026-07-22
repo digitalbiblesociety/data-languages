@@ -10,6 +10,7 @@ location: Paraguay
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.58653
 longitude: -56.46968
 glottocode: ache1246

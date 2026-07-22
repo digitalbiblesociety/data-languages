@@ -11,6 +11,7 @@ area: Judeo-Arabic variety of Yemen
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 15
 longitude: 45
 glottocode: jude1267

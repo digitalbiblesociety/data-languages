@@ -11,6 +11,7 @@ area: Surmic language of Ethiopia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.032055
 longitude: 35.08229
 glottocode: suri1267

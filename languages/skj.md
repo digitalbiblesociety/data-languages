@@ -11,6 +11,7 @@ area: Sinto-Tibetan language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.9251
 longitude: 83.80638
 glottocode: seke1240

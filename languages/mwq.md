@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Myanmar
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.28901
 longitude: 94.39293
 glottocode: munc1235

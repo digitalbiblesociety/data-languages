@@ -6,6 +6,7 @@ country_id: IN
 country_name: India
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.5094
 longitude: 76.4812
 glottocode: maun1243

@@ -11,6 +11,7 @@ area: Isolate language spoken in Australia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.63078
 longitude: 130.94911
 language_map_img: Tiwi_language_area.webp

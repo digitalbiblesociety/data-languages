@@ -11,6 +11,7 @@ area: Language of Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -5.40317
 longitude: -76.41032
 glottocode: jebe1250

@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.96694
 longitude: 146.4547
 glottocode: piuu1237

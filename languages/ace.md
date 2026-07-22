@@ -11,6 +11,7 @@ area: Austronesian language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 3.90757
 longitude: 96.60325
 language_map_img: Aceh_Language_Map.svg

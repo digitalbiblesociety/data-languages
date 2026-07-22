@@ -11,6 +11,7 @@ area: Austronesian language spoken on the Chuuk islands in Micronesia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.34083
 longitude: 151.59585
 scripts: [Latn]

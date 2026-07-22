@@ -11,6 +11,7 @@ area: Tibetic language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.34381
 longitude: 91.99717
 glottocode: brok1248

@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in China
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 29.3016
 longitude: 109.75865
 glottocode: nort2732

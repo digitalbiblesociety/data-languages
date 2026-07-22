@@ -11,6 +11,7 @@ area: Tupian language of Bolivia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.82467
 longitude: -61.69335
 glottocode: guar1292

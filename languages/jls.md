@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 17.99968
 longitude: -76.93205
 glottocode: jama1263

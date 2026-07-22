@@ -11,6 +11,7 @@ area: "Gallo-Romance language spoken in France, Italy and Switzerland"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 45.80513
 longitude: 6.48152
 language_map_img: FRP-Map4.webp

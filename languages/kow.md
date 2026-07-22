@@ -11,6 +11,7 @@ area: Adamawa language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.91972
 longitude: 12.12947
 glottocode: kuga1239

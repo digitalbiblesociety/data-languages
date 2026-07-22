@@ -11,6 +11,7 @@ area: "Chontal language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.18489
 longitude: -95.73011
 glottocode: high1242

@@ -11,6 +11,7 @@ area: Surmic Language of South Sudan and Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.69756
 longitude: 33.988035
 glottocode: murl1244

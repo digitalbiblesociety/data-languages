@@ -12,6 +12,7 @@ area: Malayic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.56829
 longitude: 103.3602
 glottocode: duan1242

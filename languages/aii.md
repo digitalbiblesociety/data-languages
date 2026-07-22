@@ -12,6 +12,7 @@ area: Neo-Aramaic dialect
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.75
 longitude: 43
 scripts: [Cyrl, Syrc]

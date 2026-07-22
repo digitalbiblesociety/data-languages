@@ -11,6 +11,7 @@ area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.32311
 longitude: 145.53907
 glottocode: inok1238

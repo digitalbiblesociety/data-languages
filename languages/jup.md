@@ -11,6 +11,7 @@ area: Naduhup language of Colombia and Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 0.58622
 longitude: -69.835915
 language_map_img: Lingua_hup.webp

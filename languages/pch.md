@@ -11,6 +11,7 @@ area: Gondi language of India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.16662
 longitude: 79.77728
 glottocode: pard1245

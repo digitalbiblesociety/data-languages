@@ -11,6 +11,7 @@ area: Moribund Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -3.09561
 longitude: -52.2303
 glottocode: kuru1309

@@ -12,6 +12,7 @@ area: Gallo-Romance language of Switzerland
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 46.55377
 longitude: 9.92812
 scripts: [Latn]

@@ -9,6 +9,7 @@ area: Deaf sign language of the Solomon Islands
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -9.453975
 longitude: 159.966938
 glottocode: solo1262

@@ -11,6 +11,7 @@ area: "Indo-Aryan language of Himachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.00883
 longitude: 77.53166
 glottocode: maha1287

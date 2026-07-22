@@ -11,6 +11,7 @@ area: Endangered Oceanic language of Vanuatu
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -16.32665
 longitude: 167.51592
 glottocode: dixo1238

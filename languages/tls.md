@@ -10,6 +10,7 @@ area: Oceanic language of Vanuatu
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.50043
 longitude: 167.13905
 glottocode: tamb1253

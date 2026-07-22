@@ -12,6 +12,7 @@ area: Bantu language spoken in western central Africa
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.403245
 longitude: 19.782905
 language_map_img: LanguageMap-Lingala-Larger_Location.webp

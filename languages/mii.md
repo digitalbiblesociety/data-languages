@@ -11,6 +11,7 @@ area: "Mixtec language of Puebla, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.6303
 longitude: -98.10459
 glottocode: chig1239

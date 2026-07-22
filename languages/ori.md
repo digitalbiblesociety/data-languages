@@ -9,6 +9,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 latitude: 21.662595
 longitude: 86.8563
 language_map_img: ori.svg

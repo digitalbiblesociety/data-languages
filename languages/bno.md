@@ -11,6 +11,7 @@ area: "Bisayan language spoken in the province of Romblon, Philippines"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.51942
 longitude: 122.03419
 language_map_img: 500px-Bantoanon_Language_Map.webp

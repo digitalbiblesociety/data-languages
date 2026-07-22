@@ -10,6 +10,7 @@ area: Katukinan language spoken in Brazil
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.19121
 longitude: -70.38221
 glottocode: nucl1668

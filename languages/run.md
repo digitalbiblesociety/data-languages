@@ -11,6 +11,7 @@ area: Bantu language of Burundi and adjacent states
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: run
 latitude: -1.441737
 longitude: 31.319093
 language_map_img: run.webp

@@ -12,6 +12,7 @@ area: Kra–Dai language of southern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.83753
 longitude: 107.3622
 glottocode: yong1275

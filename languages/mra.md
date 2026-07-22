@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos and Thailand
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.553345
 longitude: 101.162995
 glottocode: mlab1235

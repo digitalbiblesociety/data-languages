@@ -11,6 +11,7 @@ area: Loloish language cluster of China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.1
 longitude: 104.05
 glottocode: phum1235

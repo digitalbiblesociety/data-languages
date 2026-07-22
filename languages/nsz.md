@@ -10,6 +10,7 @@ area: Endangered Maiduan language of California
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.047
 longitude: -120.393
 language_map_img: Nisenan_map.svg

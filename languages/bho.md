@@ -11,6 +11,7 @@ area: Indo-Aryan language native to India and Nepal
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.458455
 longitude: 84.817115
 language_map_img: bho.webp

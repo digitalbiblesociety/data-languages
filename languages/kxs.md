@@ -10,6 +10,7 @@ area: Southern Mongolic language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 35.043
 longitude: 101.254
 glottocode: kang1281

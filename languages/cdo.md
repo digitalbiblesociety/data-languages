@@ -12,6 +12,7 @@ area: Branch of the Min group of Sinitic languages of China
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26
 longitude: 119.5
 language_map_img: Min_dialect_map.svg

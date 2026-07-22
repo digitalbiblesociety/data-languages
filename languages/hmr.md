@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken in India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.75338
 longitude: 93.54971
 glottocode: hmar1241

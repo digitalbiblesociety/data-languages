@@ -11,6 +11,7 @@ area: Oceanic language spoken in Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.56434
 longitude: 140.71017
 glottocode: toba1266

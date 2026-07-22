@@ -10,6 +10,7 @@ area: Deaf sign language of Afghanistan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 34.434167
 longitude: 70.447778
 glottocode: afgh1239

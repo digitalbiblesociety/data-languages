@@ -11,6 +11,7 @@ area: Naga language spoken in northeast India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.85807
 longitude: 94.62794
 glottocode: sang1321

@@ -11,6 +11,7 @@ area: Austronesian language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.70733
 longitude: 126.74064
 language_map_img: 500px-Naueti.webp

@@ -11,6 +11,7 @@ area: Telugu dialect spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.88375
 longitude: 77.1673
 scripts: [Telu]

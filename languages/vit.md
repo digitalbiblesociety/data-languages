@@ -10,6 +10,7 @@ area: Grassfields language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.66524
 longitude: 11.10872
 glottocode: viti1241

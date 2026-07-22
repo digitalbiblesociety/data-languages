@@ -11,6 +11,7 @@ area: Carib language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 3.01294
 longitude: -57.92215
 glottocode: siki1239

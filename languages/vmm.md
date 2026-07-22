@@ -11,6 +11,7 @@ area: Mixtec language of southern Oaxaca
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.16002
 longitude: -97.17573
 glottocode: mitl1235

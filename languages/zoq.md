@@ -11,6 +11,7 @@ area: Zoquean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.17129
 longitude: -93.09679
 glottocode: taba1264

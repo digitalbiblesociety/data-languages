@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.70985
 longitude: 121.03484
 language_map_img: 500px-Kallahan_language_map.webp

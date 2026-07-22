@@ -25,6 +25,7 @@
       "status_id",
       "scope",
       "language_type",
+      "iso_lwc",
       "latitude",
       "longitude",
       "language_map_img",
@@ -107,6 +108,11 @@
       "description": "ISO 639-3 language type. Populated by tools/sources/iso639.go.",
       "type": "string",
       "enum": ["living", "extinct", "ancient", "historical", "constructed", "special"]
+    },
+    "iso_lwc": {
+      "description": "ISO 639-3 code of the practical language of wider communication (LWC / lingua franca) a speaker of this language is most likely to fall back to, derived from the language's territory. Self-referential when the language is itself the territory's LWC (e.g. eng → eng). Not an official ISO relationship; a sociolinguistic default only. Populated by tools/sources/iso_lwc.go; set for living languages only.",
+      "type": "string",
+      "pattern": "^[a-z]{3}$"
     },
     "latitude": {
       "description": "Centroid latitude in decimal degrees.",

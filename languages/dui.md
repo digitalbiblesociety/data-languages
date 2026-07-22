@@ -10,6 +10,7 @@ area: Endangered Madang language of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.55315
 longitude: 146.08223
 glottocode: dumu1246

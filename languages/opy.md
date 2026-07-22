@@ -11,6 +11,7 @@ area: Language within the Macro-Jê stock
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -22.278
 longitude: -53.7227
 language_map_img: 500px-Ofaye_language.webp

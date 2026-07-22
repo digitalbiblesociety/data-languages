@@ -11,6 +11,7 @@ area: Highland East Cushitic language of East Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.39014
 longitude: 38.17316
 glottocode: alab1254

@@ -11,6 +11,7 @@ area: Oceanic language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -10.67714
 longitude: 165.83507
 glottocode: natu1246

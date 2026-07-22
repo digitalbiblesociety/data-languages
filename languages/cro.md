@@ -11,6 +11,7 @@ area: "Missouri Valley Siouan language of Montana, US"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.368
 longitude: -107.87403
 glottocode: crow1244

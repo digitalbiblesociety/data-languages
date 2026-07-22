@@ -11,6 +11,7 @@ area: Khoekhoe dialect
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -19.76371
 longitude: 17.02985
 glottocode: haio1238

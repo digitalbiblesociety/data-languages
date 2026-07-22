@@ -11,6 +11,7 @@ area: Endangered Salishan language spoken in British Columbia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.72325
 longitude: -124.96678
 language_map_img: Coast_Salish_language_map.svg

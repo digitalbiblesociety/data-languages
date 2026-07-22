@@ -11,6 +11,7 @@ area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.71919
 longitude: 117.47199
 language_map_img: Sumbawa_language_distribution.svg

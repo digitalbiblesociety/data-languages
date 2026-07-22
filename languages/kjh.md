@@ -11,6 +11,7 @@ area: Northeastern Turkic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 50.73933
 longitude: 107.169385
 language_map_img: 500px-Khakas_Ethno-Language.webp

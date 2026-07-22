@@ -10,6 +10,7 @@ area: Southern Luri dialect of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32.01634
 longitude: 49.77132
 scripts: [Arab]

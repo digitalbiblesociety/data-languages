@@ -11,6 +11,7 @@ area: Northwest Kainji dialect continuum of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.53187
 longitude: 4.8387
 glottocode: kagf1238

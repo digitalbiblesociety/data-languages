@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Solomon Islands
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -10.44791
 longitude: 161.6618
 glottocode: faga1239

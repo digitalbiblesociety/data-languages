@@ -10,6 +10,7 @@ area: Kuki-Chin language spoken in Burma
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: mya
 glottocode: ekai1234
 glottolog_family_id: sino1245
 glottolog_family_name: Sino-Tibetan

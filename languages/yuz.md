@@ -11,6 +11,7 @@ area: Indigenous language of Bolivia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -16.74788
 longitude: -65.12241
 glottocode: yura1255

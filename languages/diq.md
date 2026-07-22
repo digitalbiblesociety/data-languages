@@ -11,6 +11,7 @@ area: Northwestern Iranian language spoken in Turkey
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 38.61469
 longitude: 39.63882
 glottocode: diml1238

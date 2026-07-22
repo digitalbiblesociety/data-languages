@@ -12,6 +12,7 @@ area: Austronesian language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -0.572307
 longitude: 110.884843
 language_map_img: jav.webp

@@ -11,6 +11,7 @@ area: Mazatecan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.0993
 longitude: -96.59516
 glottocode: ayau1235

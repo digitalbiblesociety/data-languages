@@ -12,6 +12,7 @@ area: Austronesian language of the Mariana Islands
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 14.330665
 longitude: 145.275795
 language_map_img: 500px-Mariana_Islands.webp

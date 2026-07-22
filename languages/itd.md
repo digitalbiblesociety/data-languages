@@ -10,6 +10,7 @@ area: Sabahan language of Kalimantan (Indonesian Borneo)
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 4
 longitude: 117.75
 glottocode: sout3241

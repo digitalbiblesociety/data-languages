@@ -11,6 +11,7 @@ area: French-based creole spoken in Saint Lucia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 15.39466
 longitude: -61.36413
 glottocode: sain1246

@@ -9,6 +9,7 @@ country_name: Estonia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: est
 latitude: 59.547817
 longitude: 22.820923
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: "Austronesian language of Sulawesi, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.21051
 longitude: 119.52744
 glottocode: daak1235

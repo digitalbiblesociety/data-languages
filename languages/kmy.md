@@ -11,6 +11,7 @@ area: Savanna language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.70976
 longitude: 12.728195
 glottocode: koma1266

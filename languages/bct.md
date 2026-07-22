@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.20229
 longitude: 30.36789
 glottocode: bend1260

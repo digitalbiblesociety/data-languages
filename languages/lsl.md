@@ -10,6 +10,7 @@ area: Sign language used in Latvia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lav
 latitude: 56.93354
 longitude: 24.4931
 glottocode: latv1245

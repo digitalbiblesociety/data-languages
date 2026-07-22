@@ -10,6 +10,7 @@ area: "Name used for several languages, some spurious"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32.994
 longitude: 58.624
 scripts: [Arab]

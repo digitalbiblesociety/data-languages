@@ -10,6 +10,7 @@ area: Extinct Papuan language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.63032
 longitude: 145.41193
 glottocode: kowa1245

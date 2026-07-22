@@ -11,6 +11,7 @@ area: Southeast Solomonic language of Guadalcanal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -9.75258
 longitude: 160.66328
 glottocode: long1395

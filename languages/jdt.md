@@ -11,6 +11,7 @@ area: Persian-derived Jewish language of the eastern Caucasus
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 32.33
 longitude: 34.75
 glottocode: jude1256

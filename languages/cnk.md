@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Bangladesh and Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.87125
 longitude: 92.989463
 glottocode: khum1248

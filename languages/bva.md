@@ -11,6 +11,7 @@ area: Chadic language of south central Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.11685
 longitude: 18.07644
 glottocode: bare1279

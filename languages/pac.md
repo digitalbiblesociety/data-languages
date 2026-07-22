@@ -11,6 +11,7 @@ area: Katuic language spoken in Laos and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 16.33533
 longitude: 107.09417
 glottocode: paco1243

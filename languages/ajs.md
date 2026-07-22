@@ -6,6 +6,7 @@ country_id: DZ
 country_name: Algeria
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 32.483333
 longitude: 3.666667
 glottocode: ghar1240

@@ -11,6 +11,7 @@ area: Language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.08697
 longitude: 21.64082
 glottocode: mara1396

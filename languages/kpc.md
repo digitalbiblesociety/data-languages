@@ -11,6 +11,7 @@ area: Arawakan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.69618
 longitude: -67.50277
 language_map_img: 500px-Baniwa.webp

@@ -11,6 +11,7 @@ area: Extinct Chadic language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.55798
 longitude: 14.44451
 glottocode: zuma1239

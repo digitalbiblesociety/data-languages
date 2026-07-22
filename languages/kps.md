@@ -11,6 +11,7 @@ area: "Bird's Head language spoken in Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.51049
 longitude: 131.98485
 glottocode: tehi1237

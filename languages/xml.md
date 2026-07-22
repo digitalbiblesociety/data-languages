@@ -10,6 +10,7 @@ area: Sign language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.946
 longitude: 101.36596
 glottocode: mala1412

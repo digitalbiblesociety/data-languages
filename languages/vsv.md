@@ -9,6 +9,7 @@ area: "Sign language used in Valencia, Spain"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 39.5
 longitude: -0.75
 glottocode: vale1251

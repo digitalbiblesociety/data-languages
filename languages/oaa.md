@@ -11,6 +11,7 @@ area: Tungusic language of Russia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 49.36393
 longitude: 143.12819
 glottocode: orok1265

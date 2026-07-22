@@ -11,6 +11,7 @@ area: Sino-Tibetan of Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.95183
 longitude: 81.16166
 glottocode: raut1239

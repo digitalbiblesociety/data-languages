@@ -11,6 +11,7 @@ area: Niger–Congo language spoken in Sudan
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.73208
 longitude: 31.53992
 glottocode: kooo1244

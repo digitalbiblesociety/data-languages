@@ -11,6 +11,7 @@ area: Mande language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.27523
 longitude: 4.41464
 glottocode: shan1282

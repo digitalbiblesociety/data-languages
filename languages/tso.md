@@ -12,6 +12,7 @@ area: Bantu language of the Tsonga people of Southern Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -23.57541
 longitude: 31.810538
 language_map_img: South_Africa_2011_Tsonga_speakers_proportion_map.svg

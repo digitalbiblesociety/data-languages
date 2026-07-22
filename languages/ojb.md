@@ -12,6 +12,7 @@ area: Ojibwe dialect in Canada
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.61918
 longitude: -87.78617
 glottocode: nort2961

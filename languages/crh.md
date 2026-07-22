@@ -11,6 +11,7 @@ area: Turkic language spoken in Crimea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 43.83979
 longitude: 28.141815
 scripts: [Cyrl]

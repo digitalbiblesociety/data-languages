@@ -11,6 +11,7 @@ area: Central Sudanic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.58003
 longitude: 25.61221
 glottocode: ajas1235

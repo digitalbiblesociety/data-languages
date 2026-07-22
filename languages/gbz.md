@@ -10,6 +10,7 @@ area: Northwestern Iranian ethnolect
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 31.8161
 longitude: 54.44689
 scripts: [Arab]

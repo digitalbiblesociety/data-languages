@@ -11,6 +11,7 @@ area: Oceanic language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.38121
 longitude: 139.97465
 glottocode: tarp1240

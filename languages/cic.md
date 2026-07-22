@@ -11,6 +11,7 @@ area: Muskogean language from the US
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.94523
 longitude: -97.13012
 language_map_img: Chickasaw.svg

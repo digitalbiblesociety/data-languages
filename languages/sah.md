@@ -11,6 +11,7 @@ area: Northern Siberian Turkic language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 61.69744
 longitude: 133.98031
 language_map_img: 500px-Yakut_and_Dolgan_languages.webp

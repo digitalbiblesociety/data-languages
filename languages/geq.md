@@ -11,6 +11,7 @@ area: Zande language of the CAR
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 8.48359
 longitude: 20.66112
 glottocode: geme1244

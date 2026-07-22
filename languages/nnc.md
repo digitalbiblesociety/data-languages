@@ -11,6 +11,7 @@ area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.31975
 longitude: 16.1282
 glottocode: nanc1253

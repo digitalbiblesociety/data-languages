@@ -11,6 +11,7 @@ area: Kolopom language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.01899
 longitude: 138.35508
 glottocode: kima1246

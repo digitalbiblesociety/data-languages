@@ -11,6 +11,7 @@ area: "Extinct Miwok language of California, USA"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.41788
 longitude: -120.58819
 glottocode: nort2968

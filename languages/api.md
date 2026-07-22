@@ -11,6 +11,7 @@ area: Extinct Tupi language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -7.84711
 longitude: -57.91002
 glottocode: apia1248

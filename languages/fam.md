@@ -11,6 +11,7 @@ area: Bantoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.54277
 longitude: 10.50499
 language_map_img: Map_of_the_Fam_language.webp

@@ -12,6 +12,7 @@ area: Bantu language spoken in Eswatini and South Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -26
 longitude: 31.5
 language_map_img: South_Africa_2011_Swazi_speakers_proportion_map.svg

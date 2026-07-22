@@ -10,6 +10,7 @@ area: Sign language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 38.54741
 longitude: -8.53355
 glottocode: port1277

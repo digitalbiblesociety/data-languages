@@ -11,6 +11,7 @@ area: "Tai–Kadai language spoken by the Sui people of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.048835
 longitude: 106.56279
 glottocode: suii1243

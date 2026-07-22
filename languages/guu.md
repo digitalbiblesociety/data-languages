@@ -11,6 +11,7 @@ area: One of several languages spoken by the Yanomami people of Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.679675
 longitude: -64.878075
 language_map_img: Yanomaman.svg

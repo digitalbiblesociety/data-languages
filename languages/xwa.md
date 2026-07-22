@@ -11,6 +11,7 @@ area: Endangered language spoken in Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -11.666667
 longitude: -61.183333
 glottocode: kwaz1243

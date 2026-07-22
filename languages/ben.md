@@ -12,6 +12,7 @@ area: Indo-Aryan language in the Bengal region of South Asia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 24
 longitude: 90
 language_map_img: ben.webp

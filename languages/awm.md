@@ -10,6 +10,7 @@ area: Endangered Rai Coast language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.52787
 longitude: 145.90317
 glottocode: araw1272

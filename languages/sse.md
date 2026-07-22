@@ -11,6 +11,7 @@ area: Austronesian language family of Borneo and the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.231445
 longitude: 119.299715
 glottocode: bala1311

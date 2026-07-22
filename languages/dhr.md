@@ -11,6 +11,7 @@ area: Partly extinct dialect cluster of Western Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -24.06008
 longitude: 114.84667
 language_map_img: 500px-Mantharta_languages.webp

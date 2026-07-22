@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 15.5797
 longitude: 120.0948
 language_map_img: 500px-Sambal_language_map.webp

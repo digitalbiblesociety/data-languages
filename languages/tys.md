@@ -11,6 +11,7 @@ area: Southwestern Tai language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 22.29499
 longitude: 103.80538
 language_map_img: 500px-Tay_sa_pa.webp

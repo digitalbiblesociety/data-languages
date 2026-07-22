@@ -10,6 +10,7 @@ area: Endangered Puquina language spoken in Bolivia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.88451
 longitude: -68.10176
 glottocode: call1235

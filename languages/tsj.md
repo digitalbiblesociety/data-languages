@@ -11,6 +11,7 @@ area: Eastern language of Bhutan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.36944
 longitude: 91.774063
 scripts: [Tibt]

@@ -11,6 +11,7 @@ area: Ubangian language spoken in South Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.57221
 longitude: 26.48246
 glottocode: baii1251

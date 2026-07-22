@@ -11,6 +11,7 @@ area: Language of southwestern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.64407
 longitude: 35.22304
 glottocode: shab1252

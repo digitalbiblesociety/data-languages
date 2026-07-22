@@ -10,6 +10,7 @@ area: Balochi dialect of Iran
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 29.441
 longitude: 53.008
 glottocode: koro1296

@@ -11,6 +11,7 @@ area: Language in Central Papua
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.41642
 longitude: 136.70289
 glottocode: wola1243

@@ -11,6 +11,7 @@ area: Tucanoan language spoken in Ecuador and Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.459785
 longitude: -75.554725
 glottocode: seco1241

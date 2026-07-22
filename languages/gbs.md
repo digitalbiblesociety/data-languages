@@ -11,6 +11,7 @@ area: Language group of Benin
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.55911
 longitude: 2.0269
 glottocode: gbes1238

@@ -9,6 +9,7 @@ country_name: Turkey
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: tur
 scripts: [Latn]
 wikidata_id: Q10199
 wikipedia_url: "https://en.wikipedia.org/wiki/Zaza_language"

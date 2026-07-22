@@ -11,6 +11,7 @@ area: Language native to Australia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -10.67483
 longitude: 142.19566
 language_map_img: 500px-Kalaw_Lagaw_Ya.webp

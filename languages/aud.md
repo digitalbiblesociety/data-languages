@@ -10,6 +10,7 @@ area: Polynesian Outlier language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -11.75
 longitude: 169.75
 glottocode: anut1237

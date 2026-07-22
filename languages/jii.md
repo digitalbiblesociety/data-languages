@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Somalia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 1.84353
 longitude: 44.12938
 glottocode: jiid1238

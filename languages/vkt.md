@@ -12,6 +12,7 @@ area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.71803
 longitude: 117.64535
 language_map_img: 500px-Kutai_Malay.webp

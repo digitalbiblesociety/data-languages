@@ -10,6 +10,7 @@ location: "Southwestern Cameroon, Enlarged Area"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.5817
 longitude: 10.29904
 glottocode: kosh1246

@@ -7,6 +7,7 @@ country_id: CN
 country_name: China
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.381274
 longitude: 121.574283
 glottocode: yila1234

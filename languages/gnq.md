@@ -11,6 +11,7 @@ area: "Austronesian language of Sabah, Malaysia"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.57583
 longitude: 116.14474
 glottocode: gana1277

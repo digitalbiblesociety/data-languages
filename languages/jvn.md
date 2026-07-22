@@ -10,6 +10,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 5.626945
 longitude: -54.63045
 glottocode: cari1276

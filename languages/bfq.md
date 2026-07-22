@@ -11,6 +11,7 @@ area: Dravidian language spoken in Southern India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.30938
 longitude: 76.59736
 scripts: [Taml]

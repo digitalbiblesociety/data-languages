@@ -11,6 +11,7 @@ area: "Loloish language spoken in China, Myanmar, Laos"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.1959
 longitude: 101.0823
 glottocode: akeu1235

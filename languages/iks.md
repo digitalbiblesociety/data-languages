@@ -10,6 +10,7 @@ area: Indigenous sign language isloate
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 63.748611
 longitude: -68.519722
 glottocode: inui1247

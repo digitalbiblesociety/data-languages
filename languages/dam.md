@@ -11,6 +11,7 @@ area: Nigerian language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.0808
 longitude: 5.4914
 glottocode: dama1268

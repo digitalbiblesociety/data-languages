@@ -11,6 +11,7 @@ area: Papuan language of Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.33349
 longitude: 136.7902
 glottocode: kofe1239

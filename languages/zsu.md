@@ -10,6 +10,7 @@ area: Oceanic language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.39394
 longitude: 146.29442
 glottocode: suku1264

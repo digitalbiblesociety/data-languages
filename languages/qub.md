@@ -12,6 +12,7 @@ area: Quechua dialect of Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.57135
 longitude: -75.59401
 glottocode: hual1241

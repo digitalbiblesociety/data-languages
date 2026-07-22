@@ -12,6 +12,7 @@ area: Variety of Arabic of Eastern Arabia and Oman
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 24.61975
 longitude: 53.83146
 glottocode: baha1259

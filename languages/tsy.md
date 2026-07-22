@@ -9,6 +9,7 @@ area: Deaf sign language of Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.499995
 longitude: -3.499957
 glottocode: tebu1240

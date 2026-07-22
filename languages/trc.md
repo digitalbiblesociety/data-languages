@@ -11,6 +11,7 @@ area: "Oto-Manguean language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.15414
 longitude: -97.98262
 glottocode: copa1237

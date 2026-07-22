@@ -9,6 +9,7 @@ area: Deaf sign language of Lithuania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lit
 latitude: 55.24867
 longitude: 23.88138
 glottocode: lith1236

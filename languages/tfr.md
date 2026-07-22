@@ -11,6 +11,7 @@ area: Chibchan language spoken in Central America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.067
 longitude: -82.96313
 glottocode: teri1250

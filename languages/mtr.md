@@ -12,6 +12,7 @@ area: Rajasthanic Language spoken in Sindh and Rajasthan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.57
 longitude: 73.68
 language_map_img: Rajasthani_dialects.webp

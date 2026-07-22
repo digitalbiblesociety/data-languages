@@ -11,6 +11,7 @@ area: Inland Ijaw language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.9377
 longitude: 6.38295
 glottocode: orum1241

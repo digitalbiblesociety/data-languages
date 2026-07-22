@@ -11,6 +11,7 @@ area: Indigenous American language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 31
 longitude: -87.5
 language_map_img: Muskogee_USC2000_PHS.svg

@@ -11,6 +11,7 @@ area: "Totonacan language of Veracruz, Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.1765
 longitude: -96.87408
 glottocode: yecu1235

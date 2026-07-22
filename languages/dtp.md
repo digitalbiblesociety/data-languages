@@ -11,6 +11,7 @@ area: Language of Dusun people of Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 6.02998
 longitude: 116.68089
 scripts: [Latn]

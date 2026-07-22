@@ -12,6 +12,7 @@ area: South Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: hrv
 latitude: 45.200602
 longitude: 16.826005
 language_map_img: hrv.webp

@@ -12,6 +12,7 @@ area: Neo-Aramaic dialect
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 37.09724
 longitude: 43.50269
 glottocode: chal1275

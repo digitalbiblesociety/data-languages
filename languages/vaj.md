@@ -9,6 +9,7 @@ country_name: Namibia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.26747
 longitude: 18.18637
 glottocode: vase1234

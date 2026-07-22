@@ -10,6 +10,7 @@ area: Portuguese-based creole of Cape Verde
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 15.05863
 longitude: -23.61476
 scripts: [Latn]

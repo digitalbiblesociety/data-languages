@@ -10,6 +10,7 @@ area: German dialect
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 50.696333
 longitude: 15.966667
 scripts: [Latn]

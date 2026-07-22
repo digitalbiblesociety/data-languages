@@ -11,6 +11,7 @@ area: "Kho-Bwa language of Arunachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.204
 longitude: 92.367
 glottocode: bugu1246

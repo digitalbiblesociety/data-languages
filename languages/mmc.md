@@ -11,6 +11,7 @@ area: Oto-Pamean language of central Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.72387
 longitude: -100.29339
 language_map_img: 500px-Mazahua_language.webp

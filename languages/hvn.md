@@ -11,6 +11,7 @@ area: Austronesian language of the Savu people in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.5522
 longitude: 121.84682
 language_map_img: 500px-Oost-NussaTenggara.webp

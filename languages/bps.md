@@ -11,6 +11,7 @@ area: Austronesian language of the southern Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.03691
 longitude: 125.35373
 glottocode: sara1326

@@ -11,6 +11,7 @@ area: "Language of the Yupik family, spoken in western and southwestern Alaska"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.30616
 longitude: -161.48588
 scripts: [Latn]

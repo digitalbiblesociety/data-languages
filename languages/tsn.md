@@ -12,6 +12,7 @@ area: Bantu language of Botswana and South Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -24.36797
 longitude: 24.75867
 language_map_img: tsn.svg

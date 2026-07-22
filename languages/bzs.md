@@ -10,6 +10,7 @@ area: Sign language of Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -15.49999
 longitude: -47.99999
 glottocode: braz1236

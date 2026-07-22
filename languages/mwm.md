@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in Chad
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.50634
 longitude: 17.87848
 glottocode: sarr1246

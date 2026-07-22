@@ -11,6 +11,7 @@ area: "Indo-Aryan language spoken in Khyber Pakhtunkhwa, Pakistan"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 35.53033
 longitude: 72.57384
 glottocode: kala1373

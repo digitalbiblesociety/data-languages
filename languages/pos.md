@@ -11,6 +11,7 @@ area: Mixe–Zoque language of southern Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.86056
 longitude: -94.95308
 glottocode: sayu1241

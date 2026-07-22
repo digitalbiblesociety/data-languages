@@ -12,6 +12,7 @@ area: Manding language of Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 13.1798
 longitude: -9.49151
 scripts: [Latn]

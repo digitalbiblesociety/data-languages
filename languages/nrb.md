@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in Eritrea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tir
 latitude: 15.32507
 longitude: 37.49899
 glottocode: nara1262

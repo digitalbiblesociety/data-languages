@@ -10,6 +10,7 @@ area: Deaf sign language of Kenya and Somalia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -1.00166
 longitude: 37.19953
 glottocode: keny1241

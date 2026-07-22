@@ -10,6 +10,7 @@ area: "Persian dialect of Khuzestan, Iran"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32.374
 longitude: 48.907
 glottocode: dezf1238

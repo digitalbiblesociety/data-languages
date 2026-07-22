@@ -10,6 +10,7 @@ location: Southeastern Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.25933
 longitude: 13.54152
 glottocode: koon1245

@@ -11,6 +11,7 @@ area: "East Slavic language spoken by Carpathian Rusyns, Lemkos, Boykos, and Hut
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 48.717115
 longitude: 22.95787
 language_map_img: Idioma_rusino.webp

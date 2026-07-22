@@ -11,6 +11,7 @@ area: Central Kiranti language subgroup
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.29991
 longitude: 87.00191
 glottocode: samp1249

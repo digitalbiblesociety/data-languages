@@ -10,6 +10,7 @@ area: Extinct language isolate of the Mississippi Valley
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 30.98879
 longitude: -92.54026
 language_map_img: 500px-Tunica_lang.webp

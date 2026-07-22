@@ -11,6 +11,7 @@ area: Indigenous language on Brazil–Peru border
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -5.739145
 longitude: -72.628105
 language_map_img: 500px-Matses.webp

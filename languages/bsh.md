@@ -11,6 +11,7 @@ area: Nuristani language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.41447
 longitude: 70.982585
 glottocode: kati1270

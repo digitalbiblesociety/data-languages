@@ -10,6 +10,7 @@ location: Northern Philippines
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 14.1217
 longitude: 122.0143
 glottocode: alab1246

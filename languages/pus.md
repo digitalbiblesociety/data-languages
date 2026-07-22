@@ -10,6 +10,7 @@ country_name: Afghanistan
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: prs
 scripts: [Arab]
 wikidata_id: Q58680
 wikipedia_url: "https://en.wikipedia.org/wiki/Pashto"

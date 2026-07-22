@@ -10,6 +10,7 @@ area: English-based creole of Barbados
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 13.13648
 longitude: -59.53465
 glottocode: baja1265

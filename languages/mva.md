@@ -11,6 +11,7 @@ area: Kairiru–Manam language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.07921
 longitude: 145.03346
 glottocode: mana1295

@@ -12,6 +12,7 @@ area: Branch of Chinese spoken in northern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 38.8284
 longitude: 111.27829
 language_map_img: cjy.webp

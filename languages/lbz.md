@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -16.56152
 longitude: 139.4343
 language_map_img: 500px-Wellesley_Islands_locator_map.webp

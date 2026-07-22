@@ -11,6 +11,7 @@ area: "Language of Ghana, Togo, and Benin"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.05471
 longitude: 1.21078
 language_map_img: 500px-Gbe_languages.webp

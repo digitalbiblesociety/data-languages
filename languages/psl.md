@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.45917
 longitude: -66.09192
 glottocode: puer1237

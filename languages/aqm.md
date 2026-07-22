@@ -10,6 +10,7 @@ area: Papuan language of South Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.27123
 longitude: 138.66621
 glottocode: atoh1238

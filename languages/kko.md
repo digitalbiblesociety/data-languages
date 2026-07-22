@@ -11,6 +11,7 @@ area: Hill Nubian language of Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.05423
 longitude: 29.20738
 glottocode: kark1256

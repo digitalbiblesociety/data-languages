@@ -10,6 +10,7 @@ area: Igboid language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q3914387
 wikipedia_url: "https://en.wikipedia.org/wiki/Izi_language"
 translations:

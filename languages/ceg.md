@@ -11,6 +11,7 @@ area: Zamucoan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -20.58988
 longitude: -58.20047
 glottocode: cham1315

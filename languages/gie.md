@@ -10,6 +10,7 @@ area: Kru dialect cluster of Ivory Coast
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.964761
 longitude: -5.841819
 glottocode: gabo1234

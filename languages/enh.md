@@ -11,6 +11,7 @@ area: Moribund Samoyedic language spoken by Enets people
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 70.16258
 longitude: 83.7405
 language_map_img: 500px-Enets_current.webp

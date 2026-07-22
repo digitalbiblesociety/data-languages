@@ -11,6 +11,7 @@ area: Sino-Tibetan language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 28.731
 longitude: 95.236
 glottocode: kham1283

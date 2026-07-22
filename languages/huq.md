@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Hainan, China"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 18.31917
 longitude: 109.33558
 glottocode: tsat1238

@@ -10,6 +10,7 @@ area: Spanish dialect
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 40.2638
 longitude: -3.68704
 glottocode: quin1236

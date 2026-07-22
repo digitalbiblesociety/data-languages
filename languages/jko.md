@@ -10,6 +10,7 @@ area: Trans–New Guinea language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.92584
 longitude: 142.18292
 glottocode: kubo1242

@@ -11,6 +11,7 @@ area: Upper Corss River language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.91483
 longitude: 8.0933
 glottocode: loka1252

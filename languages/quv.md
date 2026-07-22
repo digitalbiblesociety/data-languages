@@ -11,6 +11,7 @@ area: Mayan language of Guatemala
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.27401
 longitude: -91.10904
 glottocode: saca1238

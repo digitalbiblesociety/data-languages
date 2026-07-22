@@ -11,6 +11,7 @@ area: Endangered language spoken in Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.09041
 longitude: 17.56478
 glottocode: boor1242

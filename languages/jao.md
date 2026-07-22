@@ -11,6 +11,7 @@ area: Pama–Nyungan language of northern Australia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.76212
 longitude: 136.05506
 language_map_img: 500px-Macro-Pama-Nyungan_languages.webp

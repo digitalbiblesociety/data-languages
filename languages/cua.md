@@ -11,6 +11,7 @@ area: Mon–Khmer language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 15.16883
 longitude: 108.43092
 language_map_img: 500px-Cua_Language.webp

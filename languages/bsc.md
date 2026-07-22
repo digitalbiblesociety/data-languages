@@ -11,6 +11,7 @@ area: Senegambian language of Senegal and Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.452907
 longitude: -13.349513
 scripts: [Latn]

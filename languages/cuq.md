@@ -11,6 +11,7 @@ area: "Kra–Dal language of Hainan Island, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 19.21816
 longitude: 108.74318
 glottocode: cunn1236

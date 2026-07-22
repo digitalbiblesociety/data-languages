@@ -10,6 +10,7 @@ area: "Pidgin used the pearling industry in Broome, Western Australia"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.92695
 longitude: 122.23344
 glottocode: broo1238

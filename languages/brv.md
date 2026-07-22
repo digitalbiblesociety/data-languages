@@ -11,6 +11,7 @@ area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 16.49057
 longitude: 104.75429
 glottocode: west2397

@@ -11,6 +11,7 @@ area: Moribund Berber language of Mauritania and Senegal
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 16.81997
 longitude: -16.17106
 scripts: [Tfng]

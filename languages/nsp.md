@@ -9,6 +9,7 @@ area: Deaf sign language of Nepal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.6993
 longitude: 85.30407
 glottocode: nepa1250

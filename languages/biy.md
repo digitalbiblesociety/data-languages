@@ -11,6 +11,7 @@ area: Endangered Austroasiatic language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.585
 longitude: 85.56115
 glottocode: birh1242

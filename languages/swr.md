@@ -11,6 +11,7 @@ area: Language in Papua
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.91473
 longitude: 136.29569
 glottocode: sawe1240

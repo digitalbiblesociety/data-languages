@@ -11,6 +11,7 @@ area: Tacanan language of Bolivia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.35441
 longitude: -66.62773
 glottocode: cavi1250

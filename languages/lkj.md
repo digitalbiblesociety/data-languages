@@ -11,6 +11,7 @@ area: Ibanic language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.26305
 longitude: 110.81987
 glottocode: remu1237

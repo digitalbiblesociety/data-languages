@@ -11,6 +11,7 @@ area: Mayan language spoken in Guatemala and Belize
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.378797
 longitude: -89.24521
 language_map_img: 500px-Mayan_Language_Map.webp

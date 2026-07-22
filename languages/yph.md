@@ -11,6 +11,7 @@ area: Loloish languages of China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.95
 longitude: 102.3
 glottocode: phup1237

@@ -11,6 +11,7 @@ area: Language of Gabon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 0.077515
 longitude: 14.379555
 glottocode: kota1274

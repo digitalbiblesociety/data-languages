@@ -11,6 +11,7 @@ area: Cariban language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 2.77537
 longitude: -54.442877
 glottocode: waya1269

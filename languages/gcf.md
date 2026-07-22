@@ -11,6 +11,7 @@ area: French-based creole of the Antilles
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.49894
 longitude: -61.02281
 glottocode: guad1242

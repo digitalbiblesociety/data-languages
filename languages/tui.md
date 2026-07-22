@@ -11,6 +11,7 @@ area: Language of Chad and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.014405
 longitude: 14.86966
 glottocode: tupu1244

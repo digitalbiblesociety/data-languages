@@ -11,6 +11,7 @@ area: Unclassified language of Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.41946
 longitude: 140.55683
 glottocode: molo1262

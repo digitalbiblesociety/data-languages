@@ -11,6 +11,7 @@ area: Austronesian language of the Northern Mariana Islands
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 15.205
 longitude: 145.76498
 glottocode: caro1242

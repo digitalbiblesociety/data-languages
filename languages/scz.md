@@ -7,6 +7,7 @@ country_id: GB
 country_name: United Kingdom
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.3
 longitude: -1.2
 wikidata_id: Q3069598

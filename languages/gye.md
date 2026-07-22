@@ -11,6 +11,7 @@ area: "Kainji language of Bauchi State, Nigeria"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.41095
 longitude: 9.23923
 glottocode: gyem1238

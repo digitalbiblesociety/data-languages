@@ -11,6 +11,7 @@ area: "Language in South Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.25453
 longitude: 140.21251
 glottocode: komy1238

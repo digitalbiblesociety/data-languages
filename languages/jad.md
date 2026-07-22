@@ -11,6 +11,7 @@ area: Manding language of Guinea Bissau and Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.5399
 longitude: -12.726175
 glottocode: jaha1245

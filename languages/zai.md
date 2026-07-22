@@ -11,6 +11,7 @@ location: Eastern Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.45479
 longitude: -94.84438
 language_map_img: 500px-IsthmusZapotecLocation.webp

@@ -11,6 +11,7 @@ area: Language belonging to the Lezgic group of the Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 41.61866
 longitude: 47.32436
 language_map_img: 500px-Caucasus-ethnic_roetoelen.webp

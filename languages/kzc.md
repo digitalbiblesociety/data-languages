@@ -11,6 +11,7 @@ area: Gur language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.859445
 longitude: -2.873785
 language_map_img: Kulango_languages_map.svg

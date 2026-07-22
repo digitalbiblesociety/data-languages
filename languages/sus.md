@@ -11,6 +11,7 @@ area: Mande language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.404633
 longitude: -13.36282
 scripts: [Arab, Latn]

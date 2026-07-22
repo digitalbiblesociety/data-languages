@@ -10,6 +10,7 @@ area: Mambiloid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.73205
 longitude: 11.11047
 glottocode: ndun1251

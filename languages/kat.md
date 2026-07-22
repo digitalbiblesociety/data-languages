@@ -12,6 +12,7 @@ area: Official language of Georgia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kat
 latitude: 39.370453
 longitude: 45.80661
 language_map_img: Kartvelian_languages.webp

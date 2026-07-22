@@ -5,6 +5,7 @@ country_id: GW
 country_name: Guinea-Bissau
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 11.859297
 longitude: -15.591553
 glottocode: guin1260

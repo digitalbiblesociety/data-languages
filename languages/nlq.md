@@ -10,6 +10,7 @@ area: Sino-Tibetan language spoken in Burma and India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 26.42773
 longitude: 95.1937
 glottocode: laon1234

@@ -11,6 +11,7 @@ area: Modern Western Aramaic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 33.81622
 longitude: 36.48403
 glottocode: west2763

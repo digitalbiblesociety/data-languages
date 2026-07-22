@@ -10,6 +10,7 @@ location: "India, Map 6"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.5657
 longitude: 73.57127
 glottocode: kukn1238

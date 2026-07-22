@@ -11,6 +11,7 @@ area: Austronesian dialect cluster of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.98794
 longitude: 113.28555
 glottocode: mend1267

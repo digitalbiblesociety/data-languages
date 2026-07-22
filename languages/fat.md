@@ -10,6 +10,7 @@ country_name: Ghana
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q35570
 wikipedia_url: "https://en.wikipedia.org/wiki/Fante_dialect"
 translations:

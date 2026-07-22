@@ -11,6 +11,7 @@ area: Katuic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 15.85534
 longitude: 107.64367
 glottocode: east1236

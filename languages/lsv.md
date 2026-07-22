@@ -9,6 +9,7 @@ area: Deaf sign language of Peru
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -12.51094
 longitude: -73.86124
 glottocode: sivi1235

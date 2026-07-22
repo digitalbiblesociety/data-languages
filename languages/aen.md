@@ -9,6 +9,7 @@ area: Deaf sign language of Armenia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hye
 latitude: 40.10023
 longitude: 44.47668
 glottocode: arme1259

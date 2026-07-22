@@ -10,6 +10,7 @@ area: Bantu language spoken in Angola
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -15.3065
 longitude: 12.7148
 glottocode: kuva1244

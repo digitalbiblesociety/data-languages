@@ -11,6 +11,7 @@ area: Tai language closely related to Thai and Lao
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 19.60624
 longitude: 99.336285
 glottocode: khun1259

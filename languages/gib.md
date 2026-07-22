@@ -10,6 +10,7 @@ area: Chadic language spoken in West Africa
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 12.584
 longitude: 8.615
 language_map_img: 500px-Hausa_language_map.webp

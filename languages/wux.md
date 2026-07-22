@@ -10,6 +10,7 @@ area: Extinct indigenous language of Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.30224
 longitude: 131.26054
 glottocode: wuln1239

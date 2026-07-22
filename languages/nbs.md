@@ -9,6 +9,7 @@ area: Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.6
 longitude: 17.048
 glottocode: nami1249

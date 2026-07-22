@@ -11,6 +11,7 @@ area: Central Sudanic language of DR Congo and South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.56039
 longitude: 30.55598
 glottocode: keli1248

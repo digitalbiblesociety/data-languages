@@ -11,6 +11,7 @@ area: Malay-based creole language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.4746
 longitude: 122.7619
 language_map_img: Lokasi_Nusa_Tenggara_Timur_Kabupaten_Flores_Timur.svg

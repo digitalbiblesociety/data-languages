@@ -11,6 +11,7 @@ area: "Austronesian language of South Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.65551
 longitude: 119.8381
 language_map_img: Makassarese_and_Makassaric_locator_map.svg

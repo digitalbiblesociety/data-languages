@@ -11,6 +11,7 @@ area: Austronesian language spoken in Borneo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 0.96817
 longitude: 110.657225
 glottocode: buka1257

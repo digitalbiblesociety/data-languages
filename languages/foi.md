@@ -11,6 +11,7 @@ area: Kutubuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.47258
 longitude: 143.49539
 glottocode: foii1241

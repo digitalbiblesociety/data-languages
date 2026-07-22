@@ -11,6 +11,7 @@ location: Latvia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: lav
 latitude: 56.826108
 longitude: 24.309118
 scripts: [Latn]

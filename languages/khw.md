@@ -11,6 +11,7 @@ area: Indo-Aryan language of Pakistan
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 36
 longitude: 72
 scripts: [Arab]

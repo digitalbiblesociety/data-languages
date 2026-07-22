@@ -10,6 +10,7 @@ area: Oghuz Turkic language spoken in Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.4438
 longitude: 60.02772
 glottocode: khor1269

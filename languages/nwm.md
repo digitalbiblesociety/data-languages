@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in South Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.89708
 longitude: 30.36577
 glottocode: nyam1279

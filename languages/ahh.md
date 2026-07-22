@@ -11,6 +11,7 @@ area: "Awyu language spoken in Papua, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.34674
 longitude: 140.04303
 glottocode: aghu1255

@@ -11,6 +11,7 @@ area: "Tibetic language spoken in China, Bhutan and India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.608875
 longitude: 88.854105
 glottocode: grom1238

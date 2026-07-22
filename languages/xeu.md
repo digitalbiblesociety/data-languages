@@ -10,6 +10,7 @@ location: "Papua New Guinea, Map 14"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.63603
 longitude: 145.41549
 glottocode: keor1235

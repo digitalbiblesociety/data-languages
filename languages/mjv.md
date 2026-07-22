@@ -11,6 +11,7 @@ area: Dravidian language of Southern India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 9.85
 longitude: 76.97
 glottocode: mann1246

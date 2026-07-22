@@ -10,6 +10,7 @@ area: Pre-1960s pidgin language of Suriname
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 2.94789
 longitude: -56.01815
 glottocode: ndyu1241

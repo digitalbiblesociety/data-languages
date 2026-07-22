@@ -10,6 +10,7 @@ location: Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 17.62154
 longitude: 104.785495
 glottocode: yoyy1238

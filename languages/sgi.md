@@ -11,6 +11,7 @@ area: Mambiloid language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.12906
 longitude: 12.37786
 language_map_img: 500px-Adamawa_Province_ethnic_groups.webp

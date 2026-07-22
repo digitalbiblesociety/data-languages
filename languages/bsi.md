@@ -11,6 +11,7 @@ area: Bantu language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.23655
 longitude: 9.52275
 glottocode: bass1260

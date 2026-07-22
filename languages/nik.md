@@ -11,6 +11,7 @@ area: Language spoken on Southern Nicobar Islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 6.82744
 longitude: 93.80417
 glottocode: sout2689

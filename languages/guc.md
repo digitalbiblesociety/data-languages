@@ -11,6 +11,7 @@ area: Major Arawakan language spoken in the Guajira Peninsula
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 10.22515
 longitude: -71.81012
 language_map_img: Wayuu.webp

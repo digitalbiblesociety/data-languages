@@ -11,6 +11,7 @@ area: Austonesian language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.36439
 longitude: 122.80341
 glottocode: lama1277

@@ -10,6 +10,7 @@ area: Northwestern Iranian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.24096
 longitude: 52.30089
 scripts: [Arab]

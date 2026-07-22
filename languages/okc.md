@@ -9,6 +9,7 @@ area: Bantu language spoken in the Democratic Republic of the Congo
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 wikidata_id: Q105198744
 wikipedia_url: "https://en.wikipedia.org/wiki/Kobo_language"
 translations:

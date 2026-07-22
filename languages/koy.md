@@ -11,6 +11,7 @@ area: Athabaskan language of North America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 65.60927
 longitude: -154.22852
 glottocode: koyu1237

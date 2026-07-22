@@ -11,6 +11,7 @@ area: Katla language of Sudan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.80325
 longitude: 29.28254
 glottocode: katl1237

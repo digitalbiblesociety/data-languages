@@ -11,6 +11,7 @@ area: Salishan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.07505
 longitude: -122.02898
 language_map_img: 500px-Halkomelem_lang.webp

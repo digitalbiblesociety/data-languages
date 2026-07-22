@@ -10,6 +10,7 @@ area: Sign language of the deaf community in Russia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 56
 longitude: 44
 glottocode: russ1255

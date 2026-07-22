@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 14.96027
 longitude: 120.50183
 language_map_img: 500px-Kapampangan_language_maximum_extent.webp

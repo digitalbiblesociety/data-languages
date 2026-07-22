@@ -9,6 +9,7 @@ country_name: Italy
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: ita
 scripts: [Latn]
 wikidata_id: Q33976
 wikipedia_url: "https://en.wikipedia.org/wiki/Sardinian_language"

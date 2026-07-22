@@ -10,6 +10,7 @@ area: Language of deaf community in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.74999
 longitude: -98.49999
 glottocode: mexi1237

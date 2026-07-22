@@ -11,6 +11,7 @@ area: Endangered Cushitic language of Kenya
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -2.1843
 longitude: 40.36999
 glottocode: daha1245

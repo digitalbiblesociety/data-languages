@@ -11,6 +11,7 @@ area: Dialect group
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.06755
 longitude: -3.37158
 glottocode: tene1248

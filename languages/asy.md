@@ -11,6 +11,7 @@ area: Papuan language of West New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.61024
 longitude: 138.5822
 glottocode: yaos1235

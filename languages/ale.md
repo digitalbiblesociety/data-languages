@@ -11,6 +11,7 @@ area: Language of the Eskimo–Aleut language family
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 52.12283
 longitude: -174.29013
 language_map_img: Aleut_map.svg

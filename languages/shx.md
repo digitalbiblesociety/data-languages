@@ -11,6 +11,7 @@ area: Endangered Hmongic language of China
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.03995
 longitude: 114.81419
 glottocode: shee1238

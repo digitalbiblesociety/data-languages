@@ -11,6 +11,7 @@ area: "Language of the East Santo languages originating on Espiritu Santo, Vanua
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.35492
 longitude: 167.13583
 glottocode: shar1244

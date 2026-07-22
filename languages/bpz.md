@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.6503
 longitude: 123.30668
 glottocode: bilb1242

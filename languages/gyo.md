@@ -9,6 +9,7 @@ area: Tibetic language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: nep
 wikidata_id: Q53575940
 wikipedia_url: "https://en.wikipedia.org/wiki/Gyalsumdo_language"
 translations:

@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.50342
 longitude: 19.09535
 glottocode: jonk1238

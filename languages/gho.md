@@ -11,6 +11,7 @@ area: Berber language of Morocco
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 34.79792
 longitude: -4.6696
 language_map_img: 500px-Ghomara_Berber_-_Localisation.webp

@@ -11,6 +11,7 @@ area: Language isolate of north-central Tanzania
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.83115
 longitude: 35.04583
 language_map_img: Hadza_map.webp

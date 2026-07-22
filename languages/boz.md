@@ -11,6 +11,7 @@ area: Mande language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.1223
 longitude: -5.08609
 glottocode: tiey1235

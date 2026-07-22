@@ -11,6 +11,7 @@ area: Bantu language spoken by the Nkore and Hema peoples of Southwestern Uganda
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -0.46364
 longitude: 30.54803
 scripts: [Latn]

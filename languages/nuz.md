@@ -11,6 +11,7 @@ area: Nahuan language of Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.62392
 longitude: -99.39922
 glottocode: tlam1239

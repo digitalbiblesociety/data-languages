@@ -11,6 +11,7 @@ area: Varieties of the Yiddish language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 51.75
 longitude: 19.42
 glottocode: east2295

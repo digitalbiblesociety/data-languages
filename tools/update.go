@@ -3,6 +3,9 @@
 // Usage from the repo root:
 //
 //	go run ./tools -validate                  # validate every file under languages/
+//	go run ./tools -report                    # field / translation coverage dashboard
+//	go run ./tools -export                    # regenerate languages.json
+//	go run ./tools -export -check             # verify languages.json is in sync (CI)
 //	go run ./tools -list                      # list registered sources
 //	go run ./tools -update <name>             # run a single source
 //	go run ./tools -update all                # run all sources
@@ -26,6 +29,9 @@ func main() {
 	var (
 		dir      = flag.String("dir", defaultDir, "directory holding <iso>.md files")
 		validate = flag.Bool("validate", false, "validate frontmatter against the schema")
+		export   = flag.Bool("export", false, "regenerate languages.json")
+		check    = flag.Bool("check", false, "with -export: verify the artifact is in sync instead of writing")
+		report   = flag.Bool("report", false, "print field and translation coverage")
 		list     = flag.Bool("list", false, "list registered sources and exit")
 		update   = flag.String("update", "", "run a source by name, or 'all' for every registered source")
 		only     = flag.String("only", "", "forwarded to sources: comma-separated subset")
@@ -40,10 +46,14 @@ func main() {
 		listSources()
 	case *validate:
 		os.Exit(corpus.RunValidate(*dir))
+	case *export:
+		os.Exit(runExport(*dir, *check))
+	case *report:
+		os.Exit(runReport(*dir))
 	case *update != "":
 		os.Exit(runUpdate(*dir, *update, *only, *dryRun, *force, *bail))
 	default:
-		fmt.Fprintln(os.Stderr, "nothing to do — pass -validate, -list, or -update <name>")
+		fmt.Fprintln(os.Stderr, "nothing to do — pass -validate, -report, -export, -list, or -update <name>")
 		flag.Usage()
 		os.Exit(2)
 	}

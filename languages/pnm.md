@@ -11,6 +11,7 @@ area: Endangered Austronesian language of Malaysia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.65327
 longitude: 113.92993
 glottocode: puna1278

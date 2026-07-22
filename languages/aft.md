@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.44598
 longitude: 30.76112
 glottocode: afit1238

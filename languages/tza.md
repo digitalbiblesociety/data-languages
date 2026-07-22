@@ -10,6 +10,7 @@ area: Sign languages developed in Tanzania
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -6.82431
 longitude: 39.12697
 glottocode: tanz1238

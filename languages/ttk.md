@@ -10,6 +10,7 @@ area: Barbacoan language spoken in Colombia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.55149
 longitude: -76.63789
 glottocode: toto1306

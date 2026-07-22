@@ -11,6 +11,7 @@ area: Manobo language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 8.15933
 longitude: 124.89245
 language_map_img: 500px-Binukid_language_map.webp

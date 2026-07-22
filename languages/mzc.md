@@ -9,6 +9,7 @@ area: Sign language used in Madagascar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mlg
 latitude: -19.04
 longitude: 46.87
 glottocode: mada1271

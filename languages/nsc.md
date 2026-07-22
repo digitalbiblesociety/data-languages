@@ -10,6 +10,7 @@ area: "Taraba state, Sardauna LGA, Antere, Nkiri."
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.22
 longitude: 10.58
 glottocode: nshi1235

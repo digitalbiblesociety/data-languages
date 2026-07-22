@@ -11,6 +11,7 @@ area: Timoric language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.21751
 longitude: 123.96373
 glottocode: amar1273

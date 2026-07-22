@@ -11,6 +11,7 @@ area: Language of Enga Province
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.45619
 longitude: 143.68529
 glottocode: enga1252

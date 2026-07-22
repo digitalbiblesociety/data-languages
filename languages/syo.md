@@ -11,6 +11,7 @@ area: Endangered Pearic language of Cambodia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 11.93601
 longitude: 104.13608
 language_map_img: 500px-Suoy_language.webp

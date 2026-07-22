@@ -10,6 +10,7 @@ area: "Koreanic language of Jeju Island, South Korea"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: kor
 latitude: 33.3805
 longitude: 126.5554
 language_map_img: Jeju_Province_in_South_Korea.svg

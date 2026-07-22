@@ -11,6 +11,7 @@ area: Polynesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -19.53033
 longitude: 170.21518
 glottocode: futu1245

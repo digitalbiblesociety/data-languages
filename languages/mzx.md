@@ -11,6 +11,7 @@ area: Arawakan language of South America
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.98815
 longitude: -58.50461
 glottocode: mawa1271

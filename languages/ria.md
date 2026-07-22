@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.680315
 longitude: 92.03209
 language_map_img: 500px-Kokborok.map.webp

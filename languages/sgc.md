@@ -12,6 +12,7 @@ area: Kenyan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -0.35774
 longitude: 35.258532
 glottocode: kips1239

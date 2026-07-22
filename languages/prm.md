@@ -11,6 +11,7 @@ area: Language isolate of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.45276
 longitude: 144.29554
 language_map_img: Porome_language.svg

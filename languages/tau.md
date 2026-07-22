@@ -11,6 +11,7 @@ area: Indigenous language of North America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 62.686735
 longitude: -141.369535
 glottocode: uppe1437

@@ -11,6 +11,7 @@ area: Gur language of Burkina Faso and Mali
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.350055
 longitude: -3.36685
 glottocode: pana1295

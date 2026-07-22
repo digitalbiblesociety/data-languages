@@ -11,6 +11,7 @@ area: Indigenous language of Bolivia and Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -17.63537
 longitude: -59.91716
 glottocode: chiq1248

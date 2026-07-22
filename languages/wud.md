@@ -11,6 +11,7 @@ area: Niger-Congo language spoken in Togo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.57619
 longitude: 1.53522
 glottocode: wudu1238

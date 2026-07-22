@@ -11,6 +11,7 @@ area: Austronesian language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.42636
 longitude: 124.16645
 glottocode: inab1237

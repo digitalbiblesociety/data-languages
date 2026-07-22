@@ -11,6 +11,7 @@ area: Khoe dialect cluster of Botswana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -21.85547
 longitude: 22.20026
 glottocode: gana1274

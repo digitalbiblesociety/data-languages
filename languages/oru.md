@@ -11,6 +11,7 @@ area: Iranian language spoken in Central Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 32.68191
 longitude: 69.34442
 glottocode: ormu1247

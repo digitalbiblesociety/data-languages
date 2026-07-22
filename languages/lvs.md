@@ -12,6 +12,7 @@ area: Baltic language of Latvia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: lav
 wikidata_id: Q127164458
 wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Latvian_language"
 translations:

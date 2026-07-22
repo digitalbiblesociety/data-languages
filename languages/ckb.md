@@ -12,6 +12,7 @@ area: Variety of Kurdish spoken in Iran and Iraq
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 35.653865
 longitude: 45.807735
 scripts: [Arab]

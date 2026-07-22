@@ -9,6 +9,7 @@ location: "Indonesia, Eastern Papua"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.12217
 longitude: 140.03004
 glottocode: buru1307

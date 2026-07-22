@@ -11,6 +11,7 @@ area: Endangered language of Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -11.29693
 longitude: 166.49868
 glottocode: asum1237

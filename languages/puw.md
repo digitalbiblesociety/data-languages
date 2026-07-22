@@ -11,6 +11,7 @@ area: Micronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.69748
 longitude: 149.31033
 glottocode: pulu1242

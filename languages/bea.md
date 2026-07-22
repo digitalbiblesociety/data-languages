@@ -11,6 +11,7 @@ area: Athabaskan language of western Canada
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 56.79842
 longitude: -120.35198
 glottocode: beav1236

@@ -11,6 +11,7 @@ area: Bodish language spoken in Tibet and Bhutan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.7686
 longitude: 92.18383
 glottocode: tawa1289

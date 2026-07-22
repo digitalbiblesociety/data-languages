@@ -11,6 +11,7 @@ area: Afro-Asiatic language of central Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.49256
 longitude: 18.22955
 glottocode: tamk1242

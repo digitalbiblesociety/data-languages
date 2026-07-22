@@ -9,6 +9,7 @@ area: "Sign language local to Israel's al-Sayyid Bedouin village"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.284444
 longitude: 34.916111
 glottocode: alsa1242

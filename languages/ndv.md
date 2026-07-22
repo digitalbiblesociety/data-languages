@@ -10,6 +10,7 @@ area: Cangin language of Senegal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.92498
 longitude: -16.98112
 glottocode: ndut1239

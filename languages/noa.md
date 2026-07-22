@@ -11,6 +11,7 @@ area: Chocoan language of Panama and Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 6.100195
 longitude: -77.445325
 language_map_img: Wounaan.webp

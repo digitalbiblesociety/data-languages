@@ -11,6 +11,7 @@ area: Austroasiatic language cluster of Vietnam and Laos
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 17.68191
 longitude: 105.77322
 glottocode: chut1247

@@ -11,6 +11,7 @@ area: Endangered Tupian language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.33424
 longitude: -61.56908
 glottocode: karo1305

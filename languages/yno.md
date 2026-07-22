@@ -10,6 +10,7 @@ area: Southwestern Tai language of Thailand
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.38726
 longitude: 98.97646
 language_map_img: 500px-Yong_language.webp

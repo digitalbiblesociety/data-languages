@@ -11,6 +11,7 @@ area: Bantu language of the DRC
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.09816
 longitude: 19.51287
 glottocode: ngul1247

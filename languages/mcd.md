@@ -11,6 +11,7 @@ area: Panoan language of western Amazonia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.8626
 longitude: -71.123155
 glottocode: shar1245

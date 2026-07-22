@@ -11,6 +11,7 @@ area: Language isolate spoken in India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.18862
 longitude: 76.33177
 language_map_img: Nihali_locator.svg

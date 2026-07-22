@@ -12,6 +12,7 @@ area: Quechua dialect cluster of Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -10.41263
 longitude: -76.96018
 glottocode: caja1239

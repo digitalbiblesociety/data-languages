@@ -10,6 +10,7 @@ area: Polynesian language spoken in Tuvalu
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tvl
 latitude: -8.5
 longitude: 179.17
 scripts: [Latn]

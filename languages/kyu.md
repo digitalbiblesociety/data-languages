@@ -11,6 +11,7 @@ area: Karenic dialect continuum
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 18.68704
 longitude: 97.4877
 scripts: [Kali]

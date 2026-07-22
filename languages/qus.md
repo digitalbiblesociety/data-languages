@@ -12,6 +12,7 @@ area: Southern Quechua dialect of Argentina
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -27.82096
 longitude: -63.24657
 language_map_img: Quechua_in_Santiago_del_Estero.webp

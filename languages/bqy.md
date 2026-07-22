@@ -11,6 +11,7 @@ area: "Village sign language of Bali, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.383
 longitude: 115.098
 glottocode: beng1239

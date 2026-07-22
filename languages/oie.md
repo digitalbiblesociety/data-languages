@@ -7,6 +7,7 @@ country_id: SS
 country_name: South Sudan
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.86298
 longitude: 33.47628
 glottocode: okol1243

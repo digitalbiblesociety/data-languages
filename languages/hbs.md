@@ -10,6 +10,7 @@ country_name: Serbia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: srp
 latitude: 44.15
 longitude: 18.81
 glottocode: sout1528

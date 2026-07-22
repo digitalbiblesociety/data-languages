@@ -10,6 +10,7 @@ area: Extinct Chonan language of Patagonia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -47.57963
 longitude: -68.32346
 language_map_img: Patagonian_lang.webp

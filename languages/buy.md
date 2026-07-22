@@ -11,6 +11,7 @@ area: Mel language of Sierra Leone and Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 9
 longitude: -13.16
 glottocode: bull1247

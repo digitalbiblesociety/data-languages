@@ -11,6 +11,7 @@ area: Central Algonquian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.35397
 longitude: -96.76345
 language_map_img: Shawnee_lang.webp

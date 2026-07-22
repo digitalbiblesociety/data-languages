@@ -12,6 +12,7 @@ area: Quechua variety of Peru
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -6.9582
 longitude: -76.6608
 glottocode: sanm1289

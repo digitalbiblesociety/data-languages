@@ -11,6 +11,7 @@ area: Austronesian Sarmi language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.20572
 longitude: 139.45585
 glottocode: pode1237

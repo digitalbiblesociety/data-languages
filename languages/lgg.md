@@ -11,6 +11,7 @@ area: Nilo-Saharan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.02245
 longitude: 30.86417
 glottocode: lugb1240

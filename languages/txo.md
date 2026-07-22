@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.67
 longitude: 88.975
 language_map_img: 500px-Toto.Map.webp

@@ -11,6 +11,7 @@ area: "Mixtec language of Guerrero, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.88332
 longitude: -98.9916
 glottocode: ayut1236

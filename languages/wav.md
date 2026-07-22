@@ -11,6 +11,7 @@ area: Adamawa language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.79968
 longitude: 11.49321
 glottocode: waka1275

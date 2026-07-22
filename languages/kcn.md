@@ -10,6 +10,7 @@ area: Sudanese Arabic-based creole language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -0.183215
 longitude: 34.7552
 glottocode: nubi1253

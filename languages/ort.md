@@ -11,6 +11,7 @@ area: Indo-Aryan language variety of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.10461
 longitude: 82.84874
 glottocode: adiv1239

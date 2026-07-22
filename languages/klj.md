@@ -10,6 +10,7 @@ area: Turkic language spoken in western Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 34.42237
 longitude: 50.32223
 glottocode: turk1303

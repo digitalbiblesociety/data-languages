@@ -11,6 +11,7 @@ area: West Slavic language spoken primarily in Slovakia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: slk
 latitude: 48.545705
 longitude: 18.78479
 language_map_img: Idioma_eslovaco.webp

@@ -11,6 +11,7 @@ area: Adamawa language of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.58847
 longitude: 19.14163
 glottocode: zang1249

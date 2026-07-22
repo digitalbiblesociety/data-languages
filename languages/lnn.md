@@ -11,6 +11,7 @@ area: East Santo language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.19852
 longitude: 167.03645
 glottocode: lore1244

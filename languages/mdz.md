@@ -11,6 +11,7 @@ area: Dialect of the Tupian Akwáwa language of Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -5.9271
 longitude: -48.58795
 glottocode: suru1261

@@ -11,6 +11,7 @@ area: Loloish language of Thailand
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.17175
 longitude: 100.20957
 glottocode: mpii1239

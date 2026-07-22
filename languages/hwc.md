@@ -11,6 +11,7 @@ area: English-based creole spoken in Hawaiʻi
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 19.62875
 longitude: -155.43698
 glottocode: hawa1247

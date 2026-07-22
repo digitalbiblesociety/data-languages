@@ -10,6 +10,7 @@ area: "Papuan language of New Britain, PNG"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.46941
 longitude: 151.98005
 glottocode: kair1267

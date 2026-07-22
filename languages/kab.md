@@ -11,6 +11,7 @@ area: Berber language of northern Algeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.41025
 longitude: 4.76137
 language_map_img: kab.svg

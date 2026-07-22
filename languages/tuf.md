@@ -11,6 +11,7 @@ area: Chibchan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 6.886705
 longitude: -72.097015
 glottocode: cent2150

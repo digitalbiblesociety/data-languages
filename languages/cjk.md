@@ -11,6 +11,7 @@ area: Bantu language spoken by the Chokwe people
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -9.660823
 longitude: 21.399183
 glottocode: chok1245

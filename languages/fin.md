@@ -12,6 +12,7 @@ area: Finnic language mostly spoken in Finland
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 64.762825
 longitude: 25.55767
 language_map_img: Spread_of_the_Finnish_language.webp

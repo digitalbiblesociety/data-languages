@@ -10,6 +10,7 @@ area: Senegambian dialect cluster of West Africa
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.5053
 longitude: -15.99689
 glottocode: bain1260

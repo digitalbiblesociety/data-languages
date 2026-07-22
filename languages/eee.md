@@ -11,6 +11,7 @@ area: Sino-Tibetan mixed language from Tai and Chinese
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.72616
 longitude: 109.06274
 glottocode: eeee1240

@@ -11,6 +11,7 @@ area: Endangered Indo-Aryan language of India
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 28.73638
 longitude: 72.683765
 glottocode: sans1271

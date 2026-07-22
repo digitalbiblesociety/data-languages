@@ -11,6 +11,7 @@ area: "Chukotko-Kamchatkan language of Kamchatka, Russia"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 63.89771
 longitude: 166.69474
 language_map_img: Chukotko-Kamchatkan_map.svg

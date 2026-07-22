@@ -9,6 +9,7 @@ country_name: Guinea
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: fra
 scripts: [Latn, Nkoo]
 wikidata_id: Q35772
 wikipedia_url: "https://en.wikipedia.org/wiki/Manding_languages"

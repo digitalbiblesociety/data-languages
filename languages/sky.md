@@ -10,6 +10,7 @@ area: Polynesian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -8.38182
 longitude: 162.73348
 glottocode: sika1261

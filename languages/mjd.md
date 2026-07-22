@@ -11,6 +11,7 @@ area: "Endangered Maiduan language of northeastern California, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 39.67211
 longitude: -121.36786
 language_map_img: 500px-Pre-contact_distribution_of_Maiduan_languages.webp

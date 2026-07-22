@@ -10,6 +10,7 @@ area: Northwestern Iranian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.75813
 longitude: 50.20736
 glottocode: shah1254

@@ -12,6 +12,7 @@ area: Romance language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 42.03412
 longitude: -4.18815
 language_map_img: Detailed_SVG_map_of_the_Lusophone_world.svg

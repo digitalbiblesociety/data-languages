@@ -12,6 +12,7 @@ area: Turkic language of the Oghuz sub-branch
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 40.977675
 longitude: 46.473698
 language_map_img: azj.svg

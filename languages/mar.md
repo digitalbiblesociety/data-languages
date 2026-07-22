@@ -12,6 +12,7 @@ area: Indo-Aryan language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 17.93438
 longitude: 76.66649
 language_map_img: Marathi_speaker_map.svg

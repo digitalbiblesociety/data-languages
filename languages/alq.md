@@ -11,6 +11,7 @@ area: Distinct Algonquian-Ojibwe language of Ontario and Quebec
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.38755
 longitude: -77.52577
 language_map_img: Anishinaabe-Anishinini_Distribution_Map.svg

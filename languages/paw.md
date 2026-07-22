@@ -11,6 +11,7 @@ area: "Endangered Caddoan language of Oklahoma, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.28618
 longitude: -96.89367
 language_map_img: 500px-Pawnee_lang.webp

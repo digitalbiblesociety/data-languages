@@ -11,6 +11,7 @@ area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.40466
 longitude: 122.56031
 language_map_img: 500px-Romblomanon_language_map.webp

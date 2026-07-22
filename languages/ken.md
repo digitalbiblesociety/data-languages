@@ -11,6 +11,7 @@ area: Mamfe language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.58288
 longitude: 9.55918
 language_map_img: Map_of_the_Mamfe_languages.webp

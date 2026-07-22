@@ -11,6 +11,7 @@ area: Language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.70784
 longitude: 122.32463
 glottocode: wanm1242

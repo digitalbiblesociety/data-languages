@@ -11,6 +11,7 @@ area: Austroasiatic language of Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.77933
 longitude: 108.02703
 language_map_img: 500px-Sedang_language.webp

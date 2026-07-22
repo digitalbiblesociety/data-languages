@@ -10,6 +10,7 @@ area: Maban language of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.13312
 longitude: 21.62433
 glottocode: surb1238

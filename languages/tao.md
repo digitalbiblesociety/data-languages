@@ -11,6 +11,7 @@ area: "Austronesian language spoken on Orchid Island, Taiwan"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.055
 longitude: 121.54423
 glottocode: yami1254

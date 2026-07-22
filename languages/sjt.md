@@ -11,6 +11,7 @@ area: Nearly extinct Uralic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 67.24584
 longitude: 38.50607
 language_map_img: Ter-SamiLanguageLocatorMap.svg

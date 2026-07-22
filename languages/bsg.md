@@ -10,6 +10,7 @@ area: Iranian language spoken in southeast Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32
 longitude: 53
 glottocode: bash1263

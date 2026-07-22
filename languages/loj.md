@@ -11,6 +11,7 @@ area: Southeast Admiralty Islands language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.38659
 longitude: 147.34554
 glottocode: louu1245

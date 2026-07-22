@@ -11,6 +11,7 @@ area: Bendi language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.104755
 longitude: 9.058755
 glottocode: boky1238

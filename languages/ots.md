@@ -11,6 +11,7 @@ area: Native American language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.87809
 longitude: -99.60997
 glottocode: esta1236

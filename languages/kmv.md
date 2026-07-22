@@ -11,6 +11,7 @@ area: Creole language of Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 3.42825
 longitude: -51.68875
 glottocode: kari1301

@@ -10,6 +10,7 @@ area: Indo-Aryan language of Eastern and Southern India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.12125
 longitude: 82.49957
 glottocode: reli1238

@@ -11,6 +11,7 @@ area: "Austroasiatic language spoken in the Nicobar Islands, India"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 9.18853
 longitude: 92.76706
 glottocode: carn1240

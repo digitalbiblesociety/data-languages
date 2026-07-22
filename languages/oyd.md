@@ -11,6 +11,7 @@ area: Language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.13322
 longitude: 36.85414
 glottocode: oyda1235

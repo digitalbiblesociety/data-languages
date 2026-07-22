@@ -11,6 +11,7 @@ area: Austroasiatic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.6076
 longitude: 82.98397
 glottocode: gata1239

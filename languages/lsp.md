@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 8.966667
 longitude: -79.533333
 glottocode: pana1308

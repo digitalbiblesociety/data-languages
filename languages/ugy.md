@@ -10,6 +10,7 @@ area: Official deaf sign language of Uruguay
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -34.59671
 longitude: -56.4509
 glottocode: urug1238

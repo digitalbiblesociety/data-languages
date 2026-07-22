@@ -11,6 +11,7 @@ area: Nupoid language of Western Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.08494
 longitude: 5.42081
 glottocode: asun1235

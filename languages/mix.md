@@ -11,6 +11,7 @@ area: Mixtec language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.33171
 longitude: -97.87907
 glottocode: mixt1425

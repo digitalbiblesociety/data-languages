@@ -9,6 +9,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 8.483
 longitude: -13.235
 glottocode: sier1246

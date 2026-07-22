@@ -11,6 +11,7 @@ location: China
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 42.420815
 longitude: 110.157135
 language_map_img: mvf.webp

@@ -12,6 +12,7 @@ area: Branch of the Min Chinese languages
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.5
 longitude: 118.17
 language_map_img: Min_dialect_map.svg

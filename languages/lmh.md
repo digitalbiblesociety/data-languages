@@ -11,6 +11,7 @@ area: Kiranti language spoken in Nepal and India
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.05426
 longitude: 87.21677
 glottocode: lamb1277

@@ -11,6 +11,7 @@ area: Gbe language of Togo and Benin
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.455705
 longitude: 1.69303
 glottocode: waci1239

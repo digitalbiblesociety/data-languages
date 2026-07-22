@@ -11,6 +11,7 @@ area: Rashad language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.95226
 longitude: 31.11123
 language_map_img: 500px-Tegali-tagoi_languages.webp

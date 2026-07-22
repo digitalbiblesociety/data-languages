@@ -11,6 +11,7 @@ area: Na-Dene language of southeast Alaska and western Canada
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 59.444665
 longitude: -135.29031
 language_map_img: 500px-Tlingit-map.webp

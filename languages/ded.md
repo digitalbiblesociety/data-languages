@@ -11,6 +11,7 @@ area: "Language spoken in Morobe Province, Papua New Guinea"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.38206
 longitude: 147.62657
 glottocode: dedu1240

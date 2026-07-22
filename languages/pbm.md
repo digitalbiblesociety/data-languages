@@ -10,6 +10,7 @@ area: Mazatecan language of Mexico
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.2806
 longitude: -96.9894
 glottocode: pueb1234

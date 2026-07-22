@@ -9,6 +9,7 @@ area: Endangered language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.40736
 longitude: 11.63887
 glottocode: bung1259

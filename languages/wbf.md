@@ -11,6 +11,7 @@ area: Gur language of Burkina
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.72826
 longitude: -5.37515
 glottocode: wara1292

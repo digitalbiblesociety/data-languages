@@ -10,6 +10,7 @@ area: Utian language of North America
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.2363
 longitude: -120.50708
 glottocode: sout2985

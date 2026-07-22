@@ -10,6 +10,7 @@ location: Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.68387
 longitude: -2.48569
 language_map_img: Languages_of_Burkina_Faso.webp

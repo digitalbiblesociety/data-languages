@@ -11,6 +11,7 @@ area: Western Indo-Aryan language spoken in west-central India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.84998
 longitude: 73.95923
 language_map_img: bhb.webp

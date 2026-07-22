@@ -10,6 +10,7 @@ area: Sign language used in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.91598
 longitude: 121.51221
 glottocode: phil1239

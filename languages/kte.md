@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.50918
 longitude: 84.77716
 language_map_img: Tibetan_languages_in_Nepal.svg

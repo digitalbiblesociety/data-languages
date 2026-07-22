@@ -10,6 +10,7 @@ location: Western Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.42623
 longitude: -98.17509
 glottocode: tena1241

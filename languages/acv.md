@@ -11,6 +11,7 @@ area: Endangered language of California
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 41.09785
 longitude: -121.1908
 glottocode: achu1247

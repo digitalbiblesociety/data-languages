@@ -12,6 +12,7 @@ area: "Gallo-Romance language of Wallonia, Belgium"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 50.22351
 longitude: 5.14509
 language_map_img: 500px-Linguistic_map_of_Wallonia.webp

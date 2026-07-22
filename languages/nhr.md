@@ -11,6 +11,7 @@ area: Khoe language of Botswana and Namibia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.093905
 longitude: 20.745795
 glottocode: naro1249

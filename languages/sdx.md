@@ -11,6 +11,7 @@ area: Austronesian language spoken in Malaysia and Brunei
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.26758
 longitude: 111.76305
 glottocode: sibu1258

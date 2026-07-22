@@ -12,6 +12,7 @@ area: "Official dialect of Tibetan, spoken in Lhasa"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.36807
 longitude: 90.187243
 scripts: [Tibt]

@@ -10,6 +10,7 @@ area: "Oto-Manguean language of Chiapas, Mexico"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.6562
 longitude: -91.94174
 glottocode: chia1262

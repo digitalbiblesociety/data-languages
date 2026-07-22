@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 26.43476
 longitude: -107.37932
 glottocode: nort2959

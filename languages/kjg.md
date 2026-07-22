@@ -11,6 +11,7 @@ area: "Austroasiatic language spoken in Laos, Vietnam, Thailand and China"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 20.246292
 longitude: 101.67116
 scripts: [Laoo, Latn]

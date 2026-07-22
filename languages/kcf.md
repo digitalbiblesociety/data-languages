@@ -11,6 +11,7 @@ area: Proposed Branch of the Volta-Niger Languages
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.59722
 longitude: 6.03933
 glottocode: ukaa1243

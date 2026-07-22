@@ -11,6 +11,7 @@ area: "Dravidian language of Chhattisgarh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.70624
 longitude: 82.96154
 glottocode: khir1237

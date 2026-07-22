@@ -11,6 +11,7 @@ area: Luo language of Uganda
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 2.13867
 longitude: 33.05527
 scripts: [Latn]

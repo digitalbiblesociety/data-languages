@@ -9,6 +9,7 @@ area: Deaf sign language of Ecuador
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.24999
 longitude: -79.16665
 glottocode: ecua1243

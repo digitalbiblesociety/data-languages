@@ -11,6 +11,7 @@ area: Eskimo–Aleut language spoken in Russia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 65.51842
 longitude: -171.7554
 language_map_img: Asian_Siberian_Yupik_Eskimo_map.svg

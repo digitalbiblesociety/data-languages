@@ -10,6 +10,7 @@ area: "Central Iranian language of Fars province, Iran"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 30.08
 longitude: 52.92
 glottocode: siva1239

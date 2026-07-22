@@ -10,6 +10,7 @@ area: South Bougainville language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.23022
 longitude: 155.42269
 glottocode: sime1242

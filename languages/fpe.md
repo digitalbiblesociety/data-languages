@@ -11,6 +11,7 @@ area: "English-based creole of Bioko, Equatorial Guinea"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 3.53638
 longitude: 8.68929
 language_map_img: 500px-Bioko.webp

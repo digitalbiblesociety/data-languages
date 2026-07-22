@@ -12,6 +12,7 @@ area: Zapotecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.30309
 longitude: -96.3775
 glottocode: sout3004

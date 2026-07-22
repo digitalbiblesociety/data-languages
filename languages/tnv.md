@@ -10,6 +10,7 @@ area: Indigenous language of Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 22.31851
 longitude: 92.50734
 glottocode: tang1330

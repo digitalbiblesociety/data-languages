@@ -11,6 +11,7 @@ area: Indigenous Australian language of the Northern Territory
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.99904
 longitude: 136.6415
 language_map_img: 500px-Anindilyakwa.webp

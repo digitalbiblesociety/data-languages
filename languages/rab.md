@@ -11,6 +11,7 @@ area: "Language in Nepal, Bhutan and India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.33713
 longitude: 86.76116
 glottocode: caml1239

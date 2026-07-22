@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 language_map_img: 500px-Wirangu_Map.webp
 wikidata_id: Q6873793
 wikipedia_url: "https://en.wikipedia.org/wiki/Mirning_language"

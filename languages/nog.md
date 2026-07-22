@@ -11,6 +11,7 @@ area: Kipchak Turkic language of the North Caucasus
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 43.59168
 longitude: 46.66178
 scripts: [Cyrl]

@@ -11,6 +11,7 @@ area: "Finnic language spoken by the Izhorians of Ingria, Russia"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 59.47403
 longitude: 29.71145
 language_map_img: 500px-2.4a-Ingrian-and-Votic_traditional.webp

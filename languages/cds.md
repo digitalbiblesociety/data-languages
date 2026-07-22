@@ -9,6 +9,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.11145
 longitude: 15.24809
 glottocode: chad1238

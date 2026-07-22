@@ -11,6 +11,7 @@ area: Guang language of Ghana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.06653
 longitude: -0.80295
 glottocode: kpla1238

@@ -11,6 +11,7 @@ area: Niger–Congo language spoke in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.42222
 longitude: 11.44388
 glottocode: kwaa1262

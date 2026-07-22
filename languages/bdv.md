@@ -11,6 +11,7 @@ area: Odia dialect spoken in India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.0745
 longitude: 82.87742
 glottocode: bodo1266

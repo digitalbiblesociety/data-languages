@@ -11,6 +11,7 @@ area: Indigenous language of Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -9.02591
 longitude: -37.14017
 language_map_img: 500px-Yate-Fulnio_language.webp

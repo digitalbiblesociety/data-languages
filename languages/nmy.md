@@ -11,6 +11,7 @@ area: Language of Sichuan and Tibet
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.59085
 longitude: 101.8976
 glottocode: namu1246

@@ -11,6 +11,7 @@ area: Indo-Aryan language of Afghanistan and Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.30291
 longitude: 71.55567
 glottocode: savi1242

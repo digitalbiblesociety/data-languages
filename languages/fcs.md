@@ -10,6 +10,7 @@ area: Deaf sign language of francophone Canada
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.99654
 longitude: -74.87193
 glottocode: queb1245

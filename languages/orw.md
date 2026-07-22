@@ -11,6 +11,7 @@ area: Moribund Chapacuran language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.73698
 longitude: -64.02987
 glottocode: orow1243

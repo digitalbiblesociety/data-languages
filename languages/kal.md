@@ -11,6 +11,7 @@ area: Inuit language spoken in Greenland
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kal
 latitude: 69.37608
 longitude: -52.86402
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Judeo-Arabic variety of Iraqi Jews
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.53388
 longitude: 41.259525
 glottocode: jude1266

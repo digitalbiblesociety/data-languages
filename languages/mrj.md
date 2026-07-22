@@ -12,6 +12,7 @@ area: "Uralic language of the Mari El Republic, Russia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 57.08
 longitude: 58.83
 language_map_img: 500px-Mari_beginning_of_20th_century.webp

@@ -10,6 +10,7 @@ area: Algonquian language of the Midwestern US
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40
 longitude: -90
 glottocode: miam1252

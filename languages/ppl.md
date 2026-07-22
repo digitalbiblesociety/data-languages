@@ -11,6 +11,7 @@ area: Nahuan language of El Salvador and Nicaragua
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 13.89305
 longitude: -89.44302
 scripts: [Latn]

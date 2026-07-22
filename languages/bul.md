@@ -12,6 +12,7 @@ area: South Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: bul
 latitude: 43.364585
 longitude: 25.046987
 language_map_img: bul.webp

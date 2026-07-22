@@ -6,6 +6,7 @@ country_id: NP
 country_name: Nepal
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.566
 longitude: 85.318
 glottocode: paha1257

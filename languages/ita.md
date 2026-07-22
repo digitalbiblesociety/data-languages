@@ -12,6 +12,7 @@ area: Romance language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 43.046411
 longitude: 12.648925
 language_map_img: ita.webp

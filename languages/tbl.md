@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.20377
 longitude: 124.53755
 glottocode: tbol1240

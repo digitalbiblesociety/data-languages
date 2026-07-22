@@ -11,6 +11,7 @@ area: Uralic language spoken in Russia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 62.43083
 longitude: 66.12177
 language_map_img: 500px-6-Ob_Ugric-languages.webp

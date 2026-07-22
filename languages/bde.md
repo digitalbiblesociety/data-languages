@@ -11,6 +11,7 @@ area: West Chadic language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 12.78899
 longitude: 10.65567
 glottocode: bade1248

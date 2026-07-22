@@ -11,6 +11,7 @@ area: Shona dialect of central Mozambique and Zimbabwe
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -20.12391
 longitude: 33.17392
 scripts: [Latn]

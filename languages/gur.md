@@ -11,6 +11,7 @@ area: Gur language spoken in West Africa
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.09179
 longitude: -0.81109
 scripts: [Latn]

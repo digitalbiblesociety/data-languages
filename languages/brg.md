@@ -11,6 +11,7 @@ area: Endangered Arawakan language of Bolivia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.12775
 longitude: -64.18381
 glottocode: baur1253

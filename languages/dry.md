@@ -10,6 +10,7 @@ area: Language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.8623
 longitude: 84.13573
 glottocode: dara1250

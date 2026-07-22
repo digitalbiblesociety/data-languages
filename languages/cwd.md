@@ -12,6 +12,7 @@ area: Algonquian language of Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 57
 longitude: -99
 glottocode: wood1236

@@ -11,6 +11,7 @@ area: French-based Creole spoken in New Caledonia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -22.22768
 longitude: 166.54637
 glottocode: tayo1238

@@ -11,6 +11,7 @@ area: Lagoon languages of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.15838
 longitude: -5.2529
 glottocode: avik1243

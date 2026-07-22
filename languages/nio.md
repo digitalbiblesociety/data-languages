@@ -11,6 +11,7 @@ area: Endangered Samoyedic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 73.13537
 longitude: 86.2106
 language_map_img: 500px-Nganasan.webp

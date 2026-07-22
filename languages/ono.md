@@ -11,6 +11,7 @@ area: Iroquoian language spoken in North America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.98638
 longitude: -78.04973
 glottocode: onon1246

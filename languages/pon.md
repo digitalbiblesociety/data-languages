@@ -11,6 +11,7 @@ area: Austronesian language spoken on Pohnpei island in Micronesia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.87212
 longitude: 158.22314
 scripts: [Latn]

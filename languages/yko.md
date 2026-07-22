@@ -11,6 +11,7 @@ area: Bantu language spoken in Cameroon and Equatorial Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.060433
 longitude: 10.677973
 glottocode: yasa1242

@@ -11,6 +11,7 @@ area: Tivoid language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.873985
 longitude: 11.307245
 glottocode: bita1251

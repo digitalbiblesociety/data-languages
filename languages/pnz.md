@@ -11,6 +11,7 @@ area: Mbum language of the Central African Republic
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 8.715183
 longitude: 13.600948
 glottocode: pana1293

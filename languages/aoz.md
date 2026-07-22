@@ -11,6 +11,7 @@ area: Austronesian language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -9.77284
 longitude: 124.14365
 scripts: [Latn]

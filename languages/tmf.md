@@ -11,6 +11,7 @@ area: Mascoian language of northern Paraguay
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -21.54741
 longitude: -58.01584
 glottocode: toba1268

@@ -11,6 +11,7 @@ area: Germanic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 51.075403
 longitude: 3.113453
 language_map_img: vls.webp

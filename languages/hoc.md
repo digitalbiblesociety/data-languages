@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.95959
 longitude: 87.118775
 language_map_img: Ho_language_distribution_map.webp

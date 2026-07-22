@@ -11,6 +11,7 @@ area: Bantu dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.61688
 longitude: 14.86636
 glottocode: teke1275

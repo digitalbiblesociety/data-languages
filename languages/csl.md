@@ -10,6 +10,7 @@ area: Official sign language of the PRC
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 30.90631
 longitude: 121.56875
 glottocode: chin1283

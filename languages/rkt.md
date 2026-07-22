@@ -11,6 +11,7 @@ area: "Indo-Aryan language spoken in India, Bangladesh, and Nepal"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 26.383363
 longitude: 88.4536
 language_map_img: rkt.webp

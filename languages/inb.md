@@ -11,6 +11,7 @@ area: Kichwa dialect of Columbia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.00313
 longitude: -76.86062
 language_map_img: Inga_kichwa.webp

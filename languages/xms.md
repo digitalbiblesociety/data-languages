@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 32.13896
 longitude: -7.69607
 glottocode: moro1242

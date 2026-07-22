@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.28373
 longitude: 140.92001
 glottocode: sowa1245

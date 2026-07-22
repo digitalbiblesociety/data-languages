@@ -11,6 +11,7 @@ area: Northeast Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 41.51572
 longitude: 47.89507
 language_map_img: 500px-Idioma_lezgin.webp

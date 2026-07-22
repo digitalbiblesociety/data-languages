@@ -11,6 +11,7 @@ area: Southern Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.83615
 longitude: 10.93686
 glottocode: yamb1252

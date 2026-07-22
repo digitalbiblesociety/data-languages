@@ -11,6 +11,7 @@ area: Eastern Algonquian language of Canada and the US
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.99412
 longitude: -65.576585
 scripts: [Latn]

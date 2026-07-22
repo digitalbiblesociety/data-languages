@@ -11,6 +11,7 @@ area: Sino-Tibetan language of western Nepal.
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.65214
 longitude: 82.73479
 language_map_img: 500px-Map_of_Magar_Kham.webp

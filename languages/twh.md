@@ -11,6 +11,7 @@ area: Tai language spoken in China and Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.84898
 longitude: 103.570497
 glottocode: taid1250

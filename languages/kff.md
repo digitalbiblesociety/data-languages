@@ -11,6 +11,7 @@ area: South-Central Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 17.6772
 longitude: 81.20964
 glottocode: koya1251

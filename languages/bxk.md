@@ -12,6 +12,7 @@ area: Dialect of the Masaba language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.68043
 longitude: 34.77185
 glottocode: buku1249

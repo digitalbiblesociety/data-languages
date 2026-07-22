@@ -11,6 +11,7 @@ area: Branch of the Yoruboid group of languages
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.81898
 longitude: 5.5862
 glottocode: isek1239

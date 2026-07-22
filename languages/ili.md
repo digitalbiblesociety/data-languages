@@ -11,6 +11,7 @@ area: Endangered Turkic language in China
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 44.008885
 longitude: 80.49571
 language_map_img: 500px-Ili.webp

@@ -12,6 +12,7 @@ area: Tuareg Berber macro-language of North Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.20384
 longitude: -2.41269
 glottocode: tama1365

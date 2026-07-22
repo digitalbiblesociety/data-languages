@@ -8,6 +8,7 @@ country_name: Canada
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 scripts: [Latn]
 wikidata_id: Q33303
 wikipedia_url: "https://en.wikipedia.org/wiki/Haida_language"

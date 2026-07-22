@@ -11,6 +11,7 @@ area: Nyulnyulan language spoken in Australia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.95942
 longitude: 124.34808
 glottocode: nyig1240

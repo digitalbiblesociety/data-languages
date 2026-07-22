@@ -11,6 +11,7 @@ area: Batanic language of the Ivatan people of the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 18.93984
 longitude: 121.90888
 language_map_img: 500px-The_Batanic_languages.webp

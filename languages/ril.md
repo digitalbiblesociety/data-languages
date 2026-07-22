@@ -11,6 +11,7 @@ area: Austroasiatic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 24.05207
 longitude: 98.833305
 glottocode: rian1261

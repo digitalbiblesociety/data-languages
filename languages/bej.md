@@ -11,6 +11,7 @@ area: Cushitic language of Northeast Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.24356
 longitude: 36.66665
 scripts: [Arab]

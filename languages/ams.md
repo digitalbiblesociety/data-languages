@@ -11,6 +11,7 @@ area: Ryukyuan language spoken in Japan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 28.1955
 longitude: 129.28521
 glottocode: sout2954

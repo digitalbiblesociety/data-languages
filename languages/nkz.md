@@ -11,6 +11,7 @@ area: Ibibio-Efik language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.43898
 longitude: 7.76345
 glottocode: nkar1238

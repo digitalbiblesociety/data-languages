@@ -11,6 +11,7 @@ area: Tucanoan language of Colombia and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.14459
 longitude: -70.07494
 language_map_img: Macuna.webp

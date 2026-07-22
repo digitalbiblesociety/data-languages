@@ -10,6 +10,7 @@ area: "Extinct language of the Andaman Islands, India"
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 12.24101
 longitude: 92.79646
 glottocode: apuc1241

@@ -11,6 +11,7 @@ area: Afroasiatic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.3097
 longitude: 36.9139
 glottocode: tsam1247

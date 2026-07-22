@@ -11,6 +11,7 @@ area: Chicham language spoken in Ecuador
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.45136
 longitude: -78.18923
 glottocode: shua1257

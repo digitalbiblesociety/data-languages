@@ -10,6 +10,7 @@ area: "Minority language of Germany, spoken mostly by people in North Frisia"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 54.64087
 longitude: 8.58489
 scripts: [Latn]

@@ -12,6 +12,7 @@ area: Quechuan dialect cluster of west-central Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -10.49293
 longitude: -76.53144
 glottocode: yana1272

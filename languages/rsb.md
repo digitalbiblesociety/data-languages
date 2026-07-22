@@ -10,6 +10,7 @@ area: Mixed language spoken in Serbia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: srp
 latitude: 45.25524
 longitude: 20.37623
 glottocode: roma1241

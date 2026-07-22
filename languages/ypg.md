@@ -11,6 +11,7 @@ area: Loloish dialect cluster of China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.467403
 longitude: 102.22755
 glottocode: phol1237

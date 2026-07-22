@@ -11,6 +11,7 @@ area: Bantu language spoken in Zambia and Mozambique
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -15.8364
 longitude: 33.35136
 glottocode: phim1238

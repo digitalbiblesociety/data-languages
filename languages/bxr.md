@@ -12,6 +12,7 @@ area: Mongolic language of Buryatia (Russia) and neighbouring areas
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 50.85331
 longitude: 105.5637
 language_map_img: 500px-Idioma_buriato.webp

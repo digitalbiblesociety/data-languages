@@ -11,6 +11,7 @@ area: Kainji language group of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.60496
 longitude: 4.88739
 glottocode: tsik1238

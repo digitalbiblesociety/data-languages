@@ -11,6 +11,7 @@ area: Papuan language of Highland Papua
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.06603
 longitude: 139.64513
 glottocode: kosa1249

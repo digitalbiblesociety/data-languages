@@ -11,6 +11,7 @@ area: Lowland East Cushitic language of eastern Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -1.40124
 longitude: 41.23402
 language_map_img: 500px-Eastern-Omo-Tana.webp

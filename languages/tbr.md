@@ -10,6 +10,7 @@ area: Kadu language of Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.63777
 longitude: 30.4128
 glottocode: tumt1243

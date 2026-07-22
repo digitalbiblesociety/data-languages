@@ -11,6 +11,7 @@ area: "Tibeto-Burman language of Sikkim, Nepal and Bhutan"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.0869
 longitude: 88.572587
 scripts: [Lepc]

@@ -11,6 +11,7 @@ area: Cariban language of Venezuela and Columbia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.67534
 longitude: -73.05574
 language_map_img: Yukpa.webp

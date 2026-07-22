@@ -10,6 +10,7 @@ area: Revitalizing Utian language family of California
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.364
 longitude: -121.177
 language_map_img: Ohlone_color_map.svg

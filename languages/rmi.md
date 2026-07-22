@@ -10,6 +10,7 @@ area: Nearly extinct mixed language spoken by the Lom people
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hye
 latitude: 40
 longitude: 45
 glottocode: loma1235

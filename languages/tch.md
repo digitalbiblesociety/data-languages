@@ -11,6 +11,7 @@ area: English-based creole of Turks and Caicos
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 21.80781
 longitude: -71.74512
 glottocode: turk1310

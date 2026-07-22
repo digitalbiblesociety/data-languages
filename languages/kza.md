@@ -11,6 +11,7 @@ area: Senufo dialects of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.6298
 longitude: -4.76482
 glottocode: west2466

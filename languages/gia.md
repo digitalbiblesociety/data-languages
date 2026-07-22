@@ -11,6 +11,7 @@ area: Jarragan Aboriginal language of Western Australia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.57584
 longitude: 127.39201
 glottocode: kitj1240

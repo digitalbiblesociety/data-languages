@@ -12,6 +12,7 @@ area: Austronesian language of Madagascar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mlg
 latitude: -13.21644
 longitude: 49.24022
 glottocode: anta1255

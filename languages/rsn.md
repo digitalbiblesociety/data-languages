@@ -6,6 +6,7 @@ country_id: RW
 country_name: Rwanda
 scope: individual
 language_type: living
+iso_lwc: kin
 latitude: -1.38553
 longitude: 30.23427
 glottocode: rwan1246

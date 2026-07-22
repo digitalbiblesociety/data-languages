@@ -11,6 +11,7 @@ area: Endangered Cross River language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.20497
 longitude: 8.35234
 glottocode: kion1242

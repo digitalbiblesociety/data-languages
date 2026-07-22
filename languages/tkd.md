@@ -11,6 +11,7 @@ area: Austronesian language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.6788
 longitude: 125.2828
 language_map_img: 500px-Tokodede.webp

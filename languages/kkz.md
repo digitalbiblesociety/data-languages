@@ -11,6 +11,7 @@ area: Northern Athabaskan language of the Kaska Dena people
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 61.99422
 longitude: -132.41246
 glottocode: kask1239

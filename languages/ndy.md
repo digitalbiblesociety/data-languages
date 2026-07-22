@@ -11,6 +11,7 @@ area: Central Sudanic language of CAR and Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 8.52074
 longitude: 19.00711
 glottocode: luto1241

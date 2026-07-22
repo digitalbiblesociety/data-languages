@@ -9,6 +9,7 @@ area: Australian Aboriginal language of the Yolngu group spoken in the Northern 
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q20050850
 translations:
   - translation_iso: ara

@@ -11,6 +11,7 @@ area: Karen language of Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.01601
 longitude: 98.27092
 glottocode: pwon1235

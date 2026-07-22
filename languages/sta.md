@@ -10,6 +10,7 @@ area: Swahili pidgin from Kenya and Zambia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.60667
 longitude: 28.69228
 glottocode: sett1235

@@ -11,6 +11,7 @@ area: Tano language of Ghana and Ivory Coast
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.1785
 longitude: -2.811235
 scripts: [Latn]

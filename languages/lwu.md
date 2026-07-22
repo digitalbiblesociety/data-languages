@@ -9,6 +9,7 @@ area: Endangered Loloish language of China
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.133878
 longitude: 101.498795
 glottocode: lawu1238

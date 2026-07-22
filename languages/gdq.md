@@ -11,6 +11,7 @@ area: Modern South Arabian language of east Yemen and southwest Oman
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 21.426837
 longitude: 51.151197
 language_map_img: Modern_South_Arabian_Languages.svg

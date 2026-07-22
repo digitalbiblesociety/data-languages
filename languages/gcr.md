@@ -11,6 +11,7 @@ area: French-based creole of French Guiana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.94804
 longitude: -52.73359
 language_map_img: French_Guiana_CIA.webp

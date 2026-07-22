@@ -12,6 +12,7 @@ area: Bantu language of west-central Africa
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -5.57722
 longitude: 14.477057
 language_map_img: kng.webp

@@ -11,6 +11,7 @@ area: Western Admiralty Islands language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -1.5297
 longitude: 145.074
 glottocode: seim1238

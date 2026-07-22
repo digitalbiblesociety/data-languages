@@ -11,6 +11,7 @@ area: Bhil language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.57236
 longitude: 73.99564
 glottocode: mawc1242

@@ -12,6 +12,7 @@ area: Uralic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: hun
 latitude: 46.906859
 longitude: 19.655527
 language_map_img: hun.webp

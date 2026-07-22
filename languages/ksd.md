@@ -11,6 +11,7 @@ area: Spoken by the Tolai people of Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.30986
 longitude: 152.1136
 glottocode: kuan1248

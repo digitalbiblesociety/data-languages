@@ -11,6 +11,7 @@ area: A daughter language or dialect of Low German
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 12.046615
 longitude: -81.35247
 scripts: [Latn]

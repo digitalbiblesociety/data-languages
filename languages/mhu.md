@@ -11,6 +11,7 @@ area: Digarish language spoken in India and China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 28.49929
 longitude: 96.88032
 glottocode: diga1241

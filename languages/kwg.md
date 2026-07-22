@@ -11,6 +11,7 @@ area: Bongo–Bagirmi language spoken in central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.03466
 longitude: 18.66068
 glottocode: sara1322

@@ -12,6 +12,7 @@ area: Maghrebi dialect of the Arabic language spoken in Algeria
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 35.42078
 longitude: 3.23033
 language_map_img: arq.webp

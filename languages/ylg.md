@@ -11,6 +11,7 @@ area: Ndu language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.09907
 longitude: 142.80753
 glottocode: yelo1243

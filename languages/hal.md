@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam and Laos
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.78621
 longitude: 107.45652
 language_map_img: 500px-Halang_language_Map.webp

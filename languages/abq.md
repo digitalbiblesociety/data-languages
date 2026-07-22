@@ -11,6 +11,7 @@ area: Northwest Caucasian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 41.12144
 longitude: 42.72732
 scripts: [Cyrl, Latn]

@@ -11,6 +11,7 @@ area: Gur language of Togo and Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.669537
 longitude: 0.833293
 glottocode: lama1275

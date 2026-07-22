@@ -11,6 +11,7 @@ area: Possible descendant of Old South Arabian
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.292
 longitude: 43.148
 glottocode: faif1234

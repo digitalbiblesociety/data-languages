@@ -11,6 +11,7 @@ area: Ijaw language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.44235
 longitude: 6.32192
 glottocode: sout2774

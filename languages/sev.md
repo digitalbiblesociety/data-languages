@@ -11,6 +11,7 @@ area: Senugo language spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.66934
 longitude: -5.11685
 glottocode: nyar1245

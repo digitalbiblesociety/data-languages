@@ -11,6 +11,7 @@ area: "Niger–Congo language spoken in Ghana, Togo and Benin"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.11127
 longitude: 1.601685
 scripts: [Latn]

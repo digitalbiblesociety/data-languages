@@ -11,6 +11,7 @@ area: Language of the Kiga people
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -1.04387
 longitude: 29.91219
 scripts: [Latn]

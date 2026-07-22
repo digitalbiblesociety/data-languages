@@ -10,6 +10,7 @@ area: Extinct Papuan language of Indonesia
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.496944
 longitude: 139.5
 glottocode: sapo1254

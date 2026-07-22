@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in India and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 23.58637
 longitude: 92.07473
 language_map_img: 500px-Kokborok.map.webp

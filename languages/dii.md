@@ -11,6 +11,7 @@ area: Endangered Bantu language of Cameroon
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.80551
 longitude: 10.9888
 glottocode: dimb1238

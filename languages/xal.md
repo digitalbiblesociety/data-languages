@@ -11,6 +11,7 @@ area: "Oirat dialects spoken in Kalmykia, Russia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 46.75922
 longitude: 45.42443
 scripts: [Cyrl]

@@ -9,6 +9,7 @@ area: Bantu language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.3466
 longitude: 28.04453
 glottocode: bang1353

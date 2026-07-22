@@ -9,6 +9,7 @@ country_name: Peru
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: spa
 scripts: [Latn]
 wikidata_id: Q5218
 wikipedia_url: "https://en.wikipedia.org/wiki/Quechuan_languages"

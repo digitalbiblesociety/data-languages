@@ -11,6 +11,7 @@ area: English-based creole language of Vanuatu
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -19.99097
 longitude: 167.3719
 scripts: [Latn]

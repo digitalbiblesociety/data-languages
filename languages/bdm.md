@@ -11,6 +11,7 @@ area: Chadic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.069225
 longitude: 14.44918
 glottocode: budu1265

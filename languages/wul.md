@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.52544
 longitude: 139.00335
 glottocode: sili1249

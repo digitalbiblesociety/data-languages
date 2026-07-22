@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.15165
 longitude: 18.38502
 glottocode: dang1274

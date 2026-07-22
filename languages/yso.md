@@ -11,6 +11,7 @@ area: Sino-Tibetan language family
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.418
 longitude: 104.85
 glottocode: nisi1238

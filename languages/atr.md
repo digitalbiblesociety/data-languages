@@ -11,6 +11,7 @@ area: Cariban language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -0.61832
 longitude: -60.42595
 glottocode: waim1253

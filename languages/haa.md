@@ -11,6 +11,7 @@ area: Northern Athabaskan language spoken in Alaska and Canada
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 64.5002
 longitude: -140.3517
 glottocode: hann1241

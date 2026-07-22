@@ -11,6 +11,7 @@ area: "Ladakhi dialect of Ladakh, India and Tibet, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 34.06624
 longitude: 78.23889
 glottocode: chan1309

@@ -12,6 +12,7 @@ area: Eastern Romance language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ron
 latitude: 46.391292
 longitude: 24.22557
 language_map_img: Idioma_rumano.webp

@@ -11,6 +11,7 @@ area: Chibchan language spoken in Panama and Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.15686
 longitude: -78.3075
 language_map_img: Guna_-_Dulegaya.webp

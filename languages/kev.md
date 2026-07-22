@@ -11,6 +11,7 @@ area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 8.44163
 longitude: 77.2465
 glottocode: kani1275

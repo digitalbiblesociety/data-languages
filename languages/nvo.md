@@ -10,6 +10,7 @@ location: Southwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.75
 longitude: 10.5
 glottocode: nyok1243

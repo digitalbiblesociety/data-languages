@@ -12,6 +12,7 @@ area: Group of varieties of the Albanian language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: sqi
 latitude: 41
 longitude: 20
 language_map_img: Albanian_language_map_en.svg

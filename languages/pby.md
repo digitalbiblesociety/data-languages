@@ -11,6 +11,7 @@ area: Language isolate spoken in Papua New Guinea and Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.45003
 longitude: 141.01776
 glottocode: pyuu1245

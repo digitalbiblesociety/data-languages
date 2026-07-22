@@ -11,6 +11,7 @@ area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7
 longitude: 113
 language_map_img: Madurese.svg

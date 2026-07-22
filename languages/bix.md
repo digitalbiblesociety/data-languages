@@ -11,6 +11,7 @@ area: Language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.59038
 longitude: 84.1907
 glottocode: bijo1238

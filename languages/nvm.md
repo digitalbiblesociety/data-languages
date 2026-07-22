@@ -11,6 +11,7 @@ area: Koiarian language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.18089
 longitude: 148.16643
 glottocode: nami1258

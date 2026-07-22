@@ -10,6 +10,7 @@ area: Sign language used in Belgium
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 50.8021
 longitude: 4.31312
 glottocode: vlaa1235

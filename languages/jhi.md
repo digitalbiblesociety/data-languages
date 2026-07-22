@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.63695
 longitude: 101.54145
 glottocode: jeha1242

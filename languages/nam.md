@@ -11,6 +11,7 @@ area: "Aboriginal language spoken in Australia's Northern Territory"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.26798
 longitude: 131.23671
 glottocode: nang1259

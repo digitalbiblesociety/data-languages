@@ -12,6 +12,7 @@ area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: swe
 latitude: 59.800634
 longitude: 17.389526
 language_map_img: swe.svg

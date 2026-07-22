@@ -11,6 +11,7 @@ area: Eastern Berber language of western Egypt
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.20228
 longitude: 25.51974
 glottocode: siwi1239

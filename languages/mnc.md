@@ -11,6 +11,7 @@ area: East Asian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 47.31225
 longitude: 126.55713
 scripts: [Mong]

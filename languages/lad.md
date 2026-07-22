@@ -10,6 +10,7 @@ area: Language derived from Medieval Spanish spoken by Sephardic Jews
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 41.20503
 longitude: 28.66325
 scripts: [Hebr]

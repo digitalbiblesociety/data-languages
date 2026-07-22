@@ -10,6 +10,7 @@ location: "India, Map 6"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.06564
 longitude: 73.27433
 glottocode: dhod1238

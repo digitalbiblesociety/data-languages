@@ -11,6 +11,7 @@ area: Sara language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.25957
 longitude: 18.464805
 glottocode: ngam1269

@@ -11,6 +11,7 @@ area: Baraic language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.09451
 longitude: 148.37594
 glottocode: esee1247

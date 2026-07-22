@@ -9,6 +9,7 @@ location: Southern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -8.304105
 longitude: 29.40709
 glottocode: bwil1245

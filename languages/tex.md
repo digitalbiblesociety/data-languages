@@ -11,6 +11,7 @@ area: Eastern Sudanic language spoken by the Tennet people of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.91107
 longitude: 32.63072
 glottocode: tenn1246

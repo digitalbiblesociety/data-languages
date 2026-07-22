@@ -11,6 +11,7 @@ area: Bantu language spoken in Zambia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.7434
 longitude: 22.64548
 glottocode: sima1258

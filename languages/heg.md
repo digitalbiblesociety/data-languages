@@ -11,6 +11,7 @@ area: Language spoken in West Timor
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.26465
 longitude: 123.37692
 language_map_img: 500px-Timor_Sprache_en.webp

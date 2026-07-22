@@ -9,6 +9,7 @@ area: Deaf sign language of Saudi Arabia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 23.61401
 longitude: 46.47139
 glottocode: saud1238

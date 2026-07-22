@@ -11,6 +11,7 @@ area: Coast Salish language spoken in Canada
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.32306
 longitude: -123.01406
 language_map_img: Squamish-Territory-Wiki-Map.svg

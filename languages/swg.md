@@ -10,6 +10,7 @@ area: Dialect group of Alemannic German
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 49.38788
 longitude: 7.12775
 language_map_img: Alemannic-Dialects-Map-English.svg

@@ -9,6 +9,7 @@ area: Mambiloid language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.82183
 longitude: 11.52097
 glottocode: njer1242

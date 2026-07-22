@@ -12,6 +12,7 @@ area: Vernacular Arabic spoken in Morocco
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 32.5
 longitude: -7.5
 language_map_img: ary.webp

@@ -11,6 +11,7 @@ area: "Nahuatl dialect cluster of Veracruz, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.94005
 longitude: -94.73466
 glottocode: isth1240

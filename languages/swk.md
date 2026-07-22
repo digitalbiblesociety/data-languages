@@ -11,6 +11,7 @@ area: Bantu language of central Mozambique
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nya
 latitude: -16.6183
 longitude: 34.99095
 glottocode: mala1475

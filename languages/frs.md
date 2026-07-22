@@ -10,6 +10,7 @@ area: West Low German dialect
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 52.97134
 longitude: 7.73549
 scripts: [Latn]

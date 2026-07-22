@@ -11,6 +11,7 @@ area: African language native to Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.54384
 longitude: 10.319
 glottocode: fang1248

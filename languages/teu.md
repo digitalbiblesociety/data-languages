@@ -11,6 +11,7 @@ area: Moribund Kuliak language spoken in Uganda
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 2.58367
 longitude: 34.75954
 language_map_img: Soo_language.webp

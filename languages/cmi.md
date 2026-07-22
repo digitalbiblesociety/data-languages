@@ -11,6 +11,7 @@ area: Emberá language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.8791
 longitude: -76.07486
 glottocode: embe1262

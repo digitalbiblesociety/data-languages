@@ -11,6 +11,7 @@ area: "Distinct Igboid language spoken in Rivers State and Bayelsa State, Nigeri
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.06715
 longitude: 6.53362
 glottocode: ekpe1253

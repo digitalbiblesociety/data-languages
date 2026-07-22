@@ -10,6 +10,7 @@ area: Indigenous sign language used in Hawaii
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 21.63107
 longitude: -158.00179
 glottocode: hawa1235

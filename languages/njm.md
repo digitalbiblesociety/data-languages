@@ -11,6 +11,7 @@ area: Sino-Tibetan language native to the Naga Hills
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.68413
 longitude: 93.86681
 glottocode: anga1288

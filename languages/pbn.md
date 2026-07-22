@@ -11,6 +11,7 @@ area: Yendang language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.75286
 longitude: 11.23104
 glottocode: kpas1242

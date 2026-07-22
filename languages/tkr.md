@@ -11,6 +11,7 @@ area: "Samur language of Azerbaijan and Dagestan, North Caucasus"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 41.59156
 longitude: 46.88585
 language_map_img: 500px-Caucasus-ethnic_tsachoeren.webp

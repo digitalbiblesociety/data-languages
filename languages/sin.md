@@ -12,6 +12,7 @@ area: Indo-Aryan language native to Sri Lanka
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: sin
 latitude: 8
 longitude: 81
 language_map_img: sin.webp

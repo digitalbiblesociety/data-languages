@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken by Sidama people in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.74176
 longitude: 38.3729
 language_map_img: sid.webp

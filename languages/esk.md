@@ -12,6 +12,7 @@ area: Group of dialects of the Inuit language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 64.77955
 longitude: -161.80666
 glottocode: nort2945

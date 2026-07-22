@@ -11,6 +11,7 @@ area: "Native language of the Mohave people along the Colorado River, United Sta
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 34.88661
 longitude: -114.59926
 glottocode: moha1256

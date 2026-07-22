@@ -10,6 +10,7 @@ area: Extinct language of Tierra del Fuego
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -55.27479
 longitude: -68.26479
 glottocode: yama1264

@@ -11,6 +11,7 @@ area: Endangered Kainji dialect cluster of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.47891
 longitude: 8.93337
 glottocode: lere1241

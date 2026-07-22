@@ -11,6 +11,7 @@ area: Spanish-based creole of the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.278085
 longitude: 119.376925
 language_map_img: 500px-Chavacano_language_map.webp

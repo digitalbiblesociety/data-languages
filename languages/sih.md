@@ -10,6 +10,7 @@ area: Extinct Austronesian language of New Caledonia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -21.65441
 longitude: 165.48187
 glottocode: zire1240

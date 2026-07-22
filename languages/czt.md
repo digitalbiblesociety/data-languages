@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.52977
 longitude: 93.28998
 glottocode: zotu1235

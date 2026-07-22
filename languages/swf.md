@@ -11,6 +11,7 @@ area: Ubangian language of DR Congo
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.71127
 longitude: 27.46881
 glottocode: sere1264

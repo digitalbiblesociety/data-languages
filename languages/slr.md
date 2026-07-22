@@ -11,6 +11,7 @@ area: Turkic language of the Oghuz sub-branch
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 35.54568
 longitude: 102.81943
 glottocode: sala1264

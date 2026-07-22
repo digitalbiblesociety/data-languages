@@ -11,6 +11,7 @@ area: Austronesian language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.65252
 longitude: 146.91898
 glottocode: arib1240

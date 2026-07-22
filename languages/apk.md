@@ -11,6 +11,7 @@ area: North American aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 34.90771
 longitude: -98.24612
 language_map_img: Southern_Athabaskan_languages.svg

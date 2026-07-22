@@ -11,6 +11,7 @@ area: Trans–New Guinea language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.26519
 longitude: 145.02097
 glottocode: salt1242

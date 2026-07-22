@@ -10,6 +10,7 @@ location: "Indonesia, Northwestern Papua"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.05325
 longitude: 130.83335
 glottocode: made1253

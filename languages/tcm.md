@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.5523
 longitude: 133.17979
 language_map_img: Sumuri_language.svg

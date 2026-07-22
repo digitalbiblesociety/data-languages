@@ -10,6 +10,7 @@ area: Austronesian language spoken in West Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.99574
 longitude: 130.27208
 glottocode: biga1238

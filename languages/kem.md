@@ -11,6 +11,7 @@ area: Language spoken in East Timor and Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -9.002995
 longitude: 125.15871
 language_map_img: 500px-Kemak.webp

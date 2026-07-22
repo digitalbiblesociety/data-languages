@@ -11,6 +11,7 @@ area: Mayan language of Guatemala
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.73252
 longitude: -89.73796
 language_map_img: Pueblos_Indigenas_antes_de_la_conquista_El_Salvador.svg

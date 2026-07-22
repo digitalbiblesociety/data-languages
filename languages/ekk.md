@@ -12,6 +12,7 @@ area: Finnic language mostly spoken in Estonia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: est
 latitude: 58.55
 longitude: 25.82
 language_map_img: EU-Estonia.webp

@@ -11,6 +11,7 @@ area: Zaparoan language of Peru
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.31233
 longitude: -73.97046
 language_map_img: 500px-Iquito_language.webp

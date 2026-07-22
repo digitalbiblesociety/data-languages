@@ -11,6 +11,7 @@ area: "Finnic language of southern Karelia, Russia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 61.85302
 longitude: 33.73461
 language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp

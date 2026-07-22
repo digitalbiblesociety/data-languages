@@ -11,6 +11,7 @@ area: Northern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 26.14854
 longitude: 127.7816
 language_map_img: Boundaries_of_the_Okinawan_Languages.svg

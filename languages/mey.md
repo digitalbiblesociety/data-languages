@@ -11,6 +11,7 @@ area: Maghrebi Arabic dialect spoken by Mauritanians and Sahrawi
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 20.14644
 longitude: -2.40278
 language_map_img: Hassaniya_Arabic_Map.svg

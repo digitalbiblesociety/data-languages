@@ -11,6 +11,7 @@ area: Oceanic language in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.55792
 longitude: 150.09488
 glottocode: bola1250

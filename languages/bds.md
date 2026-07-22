@@ -11,6 +11,7 @@ area: Afro-Asiatic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -5.21369
 longitude: 35.96295
 glottocode: buru1320

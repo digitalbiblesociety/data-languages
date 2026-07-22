@@ -11,6 +11,7 @@ area: Tupian language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -21.416887
 longitude: -62.68397
 glottocode: tapi1253

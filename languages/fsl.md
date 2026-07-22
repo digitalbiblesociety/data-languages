@@ -10,6 +10,7 @@ area: Sign language used predominately in France and French-speaking Switzerland
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 47
 longitude: 3
 glottocode: fren1243

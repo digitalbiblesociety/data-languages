@@ -10,6 +10,7 @@ area: Afrikaans dialect of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -28.38447
 longitude: 23.01446
 glottocode: oorl1238

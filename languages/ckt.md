@@ -11,6 +11,7 @@ area: Chukotko-Kamchatkan language of northeast Russia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 68.64356
 longitude: 170.04503
 language_map_img: Chukotko-Kamchatkan_map.svg

@@ -11,6 +11,7 @@ area: "Language of Puebla and Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.37979
 longitude: -97.61589
 glottocode: high1243

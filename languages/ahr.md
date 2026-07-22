@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.552
 longitude: 73.685
 language_map_img: 500px-Distribution_of_khandeshi_speakers_2011.webp

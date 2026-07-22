@@ -10,6 +10,7 @@ area: Language in Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.66773
 longitude: 135.91781
 glottocode: mung1269

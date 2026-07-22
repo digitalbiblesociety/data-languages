@@ -12,6 +12,7 @@ area: Romance language from France
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 48
 longitude: 2
 language_map_img: Map-Francophone_World.svg

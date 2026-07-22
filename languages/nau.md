@@ -11,6 +11,7 @@ area: Austronesian language spoken in Nauru
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: nau
 latitude: -0.52957
 longitude: 166.92216
 language_map_img: Micronesian_languages.en.webp

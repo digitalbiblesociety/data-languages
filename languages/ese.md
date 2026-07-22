@@ -11,6 +11,7 @@ area: Tacanan language spoken in Bolivia and Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.72683
 longitude: -67.51496
 glottocode: esee1248

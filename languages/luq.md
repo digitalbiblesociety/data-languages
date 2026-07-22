@@ -10,6 +10,7 @@ area: Ritual lexicon of Cuban Orisa devotees
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 22.9514
 longitude: -82.44105
 glottocode: lucu1238

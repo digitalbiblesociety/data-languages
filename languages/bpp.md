@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.39188
 longitude: 140.14028
 language_map_img: Kaure-Kapori_languages.svg

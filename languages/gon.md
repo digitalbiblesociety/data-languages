@@ -8,6 +8,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 scripts: [Deva, Telu]
 wikidata_id: Q1775361
 wikipedia_url: "https://en.wikipedia.org/wiki/Gondi_language"

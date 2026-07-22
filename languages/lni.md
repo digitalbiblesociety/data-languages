@@ -11,6 +11,7 @@ area: Nasioi language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.43363
 longitude: 155.74759
 glottocode: daan1235

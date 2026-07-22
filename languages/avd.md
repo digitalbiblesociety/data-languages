@@ -10,6 +10,7 @@ area: Tati language of Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.00753
 longitude: 50.37939
 glottocode: alvi1241

@@ -11,6 +11,7 @@ area: "Pai language spoken in Arizona, US"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.6302
 longitude: -113.38519
 language_map_img: 500px-Hualapai_havasupai_res.webp

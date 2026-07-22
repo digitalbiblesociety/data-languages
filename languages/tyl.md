@@ -10,6 +10,7 @@ area: Tai language spoken in China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 22.75275
 longitude: 104.25078
 language_map_img: 500px-Dai-Zhuang.webp

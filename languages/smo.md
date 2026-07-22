@@ -11,6 +11,7 @@ area: Austronesian language of the Samoan Islands
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: smo
 latitude: -13.92
 longitude: -171.83
 language_map_img: 500px-Sketch_map_Samoa_in_the_Pacific.webp

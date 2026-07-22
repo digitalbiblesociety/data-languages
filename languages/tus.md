@@ -11,6 +11,7 @@ area: Extinct language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 43.130315
 longitude: -79.421375
 language_map_img: Tuscarora_lang.webp

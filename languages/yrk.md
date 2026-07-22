@@ -11,6 +11,7 @@ area: Samoyedic languages spoken in Russia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 66.17749
 longitude: 71.02339
 language_map_img: 500px-Nenets_current.webp

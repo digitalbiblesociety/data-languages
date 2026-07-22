@@ -11,6 +11,7 @@ area: Gur language of Togo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.52697
 longitude: 1.41214
 glottocode: bago1245

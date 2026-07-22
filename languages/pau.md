@@ -11,6 +11,7 @@ area: Austronesian language of Palau
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: pau
 latitude: 7.17
 longitude: 134.5
 scripts: [Latn]

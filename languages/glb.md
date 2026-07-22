@@ -7,6 +7,7 @@ country_id: NG
 country_name: Nigeria
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.221681
 longitude: 9.534716
 glottocode: beln1234

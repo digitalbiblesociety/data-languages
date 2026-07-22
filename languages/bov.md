@@ -11,6 +11,7 @@ area: Language of Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.31095
 longitude: 0.38008
 glottocode: tuwu1238

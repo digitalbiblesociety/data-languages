@@ -11,6 +11,7 @@ area: "Tepehua language of Veracruz, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.70392
 longitude: -98.03053
 glottocode: pisa1237

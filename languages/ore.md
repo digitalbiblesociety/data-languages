@@ -11,6 +11,7 @@ area: South American aboriginal language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -2.86315
 longitude: -72.49255
 glottocode: orej1242

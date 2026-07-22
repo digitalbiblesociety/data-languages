@@ -11,6 +11,7 @@ area: Language spoken by the Iu Mien people in China
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 20.83
 longitude: 101.17
 glottocode: iumi1238

@@ -11,6 +11,7 @@ area: Variety of Chinese
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.64404
 longitude: 110.3618
 language_map_img: 500px-Xiang.webp

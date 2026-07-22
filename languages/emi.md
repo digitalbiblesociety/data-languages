@@ -11,6 +11,7 @@ area: Austronesian language of northeast Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -1.44105
 longitude: 149.62397
 glottocode: muss1246

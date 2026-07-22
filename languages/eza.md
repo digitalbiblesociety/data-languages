@@ -10,6 +10,7 @@ area: "Igboid language spoken in Ebonyi State, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q11921436
 wikipedia_url: "https://en.wikipedia.org/wiki/Ezaa_language"
 translations:

@@ -11,6 +11,7 @@ area: Dialect of the Maa language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 1.60735
 longitude: 37.05388
 scripts: [Latn]

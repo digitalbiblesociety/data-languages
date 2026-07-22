@@ -11,6 +11,7 @@ area: Salishan language or dialect continuum of North America
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.53138
 longitude: -121.99099
 glottocode: skag1239

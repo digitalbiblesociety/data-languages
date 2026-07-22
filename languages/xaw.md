@@ -10,6 +10,7 @@ area: Uto-Aztecan language spoken in California
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.05383
 longitude: -118.67889
 language_map_img: Southern_Numic.svg

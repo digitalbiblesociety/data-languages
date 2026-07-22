@@ -11,6 +11,7 @@ area: "Indigenous language of Montana, Idaho, and British Columbia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.789195
 longitude: -115.064765
 language_map_img: 500px-Kutenai_lang.webp

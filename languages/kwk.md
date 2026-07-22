@@ -11,6 +11,7 @@ area: Wakashan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.92694
 longitude: -127.30783
 scripts: [Latn]

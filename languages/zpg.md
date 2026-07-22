@@ -12,6 +12,7 @@ area: Zapotecan language of the isthmus of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.73118
 longitude: -95.36408
 glottocode: guev1238

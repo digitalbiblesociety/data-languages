@@ -11,6 +11,7 @@ area: Zoquean dialects of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.36536
 longitude: -93.36326
 glottocode: fran1266

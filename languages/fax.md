@@ -11,6 +11,7 @@ area: Ibero-Romance language of western Spain
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 40.16511
 longitude: -6.91452
 language_map_img: 500px-Lenguas_y_dialectos_iberorromances.webp

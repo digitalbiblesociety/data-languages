@@ -11,6 +11,7 @@ area: North Halmahera language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.00742
 longitude: 127.49252
 glottocode: sahu1245

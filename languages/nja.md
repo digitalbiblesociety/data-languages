@@ -11,6 +11,7 @@ area: Chadic language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.06664
 longitude: 13.334295
 glottocode: nzan1240

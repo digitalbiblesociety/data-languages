@@ -11,6 +11,7 @@ area: Polynesian language spoken on Bougainville
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.79852
 longitude: 157.07811
 glottocode: taku1257

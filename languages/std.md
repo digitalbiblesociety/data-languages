@@ -10,6 +10,7 @@ area: Presumed language of the Sentinelese of North Sentinel Island
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.55297
 longitude: 92.25339
 glottocode: sent1241

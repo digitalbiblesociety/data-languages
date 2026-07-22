@@ -11,6 +11,7 @@ area: Eskimo–Aleut language spoken in southwestern Alaska
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.42382
 longitude: -148.04281
 glottocode: paci1278

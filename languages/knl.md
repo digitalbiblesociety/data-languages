@@ -11,6 +11,7 @@ area: Malayic language spoken on Borneo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -0.63184
 longitude: 111.8075
 glottocode: keni1248

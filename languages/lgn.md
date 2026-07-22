@@ -11,6 +11,7 @@ area: Koman language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.475265
 longitude: 33.852955
 glottocode: opuu1239

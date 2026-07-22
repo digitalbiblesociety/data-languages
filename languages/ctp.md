@@ -11,6 +11,7 @@ area: "Zapotecan language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.2495
 longitude: -97.32436
 glottocode: west2644

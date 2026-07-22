@@ -11,6 +11,7 @@ area: Language spoken in Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 23.789283
 longitude: 92.325463
 glottocode: fala1243

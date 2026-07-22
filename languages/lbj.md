@@ -11,6 +11,7 @@ area: "Tibetic language spoken in Ladakh, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 33.468005
 longitude: 80.601305
 glottocode: lada1244

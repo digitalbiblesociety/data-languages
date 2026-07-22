@@ -11,6 +11,7 @@ area: Bantu language spoken in Nigeria
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.48469
 longitude: 9.59527
 glottocode: labi1245

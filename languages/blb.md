@@ -11,6 +11,7 @@ area: Papuan language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -7.92388
 longitude: 156.66311
 glottocode: bilu1245

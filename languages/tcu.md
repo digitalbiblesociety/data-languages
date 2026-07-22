@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken in Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 26.72824
 longitude: -106.70616
 language_map_img: Tarahumara_precontact_and_modern.svg

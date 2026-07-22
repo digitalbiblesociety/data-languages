@@ -11,6 +11,7 @@ area: Chicham language of Peru
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -5.30044
 longitude: -77.92179
 language_map_img: 500px-Aguaruna_map.webp

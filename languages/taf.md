@@ -11,6 +11,7 @@ area: Tupí-Guaraní language of Brazil
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.53729
 longitude: -50.54379
 glottocode: tapi1254

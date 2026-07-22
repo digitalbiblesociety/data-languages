@@ -11,6 +11,7 @@ area: Kannadoid language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.945826
 longitude: 77.221069
 glottocode: shol1240

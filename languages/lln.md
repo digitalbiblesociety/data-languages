@@ -11,6 +11,7 @@ area: East Chadic language of Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.158
 longitude: 15.81149
 glottocode: lele1276

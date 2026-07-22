@@ -11,6 +11,7 @@ area: Oceanic language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.40476
 longitude: 166.84305
 glottocode: rori1237

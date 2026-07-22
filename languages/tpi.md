@@ -10,6 +10,7 @@ area: English creole spoken in Papua New Guinea
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.41971
 longitude: 147.3031
 scripts: [Latn]

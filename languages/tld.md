@@ -11,6 +11,7 @@ area: Austronesian language spoken on the Talaud Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 4.11846
 longitude: 126.79467
 glottocode: tala1285

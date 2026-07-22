@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 19.3563
 longitude: 105.36278
 glottocode: thoo1240

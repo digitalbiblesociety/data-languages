@@ -11,6 +11,7 @@ area: Mandang language spoken in Papua Ne Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.55572
 longitude: 145.81346
 glottocode: samm1244

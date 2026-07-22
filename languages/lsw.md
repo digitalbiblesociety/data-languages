@@ -7,6 +7,7 @@ country_id: SC
 country_name: Seychelles
 scope: individual
 language_type: living
+iso_lwc: crs
 latitude: -4.62
 longitude: 55.45
 glottocode: seyc1234

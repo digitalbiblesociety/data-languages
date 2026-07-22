@@ -11,6 +11,7 @@ area: Language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.60889
 longitude: 92.65803
 glottocode: jara1245

@@ -12,6 +12,7 @@ area: Sinitic language originating in southern China
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25
 longitude: 116
 language_map_img: hak.webp

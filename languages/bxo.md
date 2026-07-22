@@ -9,6 +9,7 @@ area: Hausa-based pidgin of Nigeria
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.98899
 longitude: 8.4331
 glottocode: bari1241

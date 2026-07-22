@@ -12,6 +12,7 @@ area: Romance language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 40.441418
 longitude: -1.11788
 language_map_img: Map-Hispanophone_World.svg

@@ -11,6 +11,7 @@ area: "Northern Tiwa dialect spoken in Taos Pueblo, New Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.42765
 longitude: -105.60444
 glottocode: nort1550

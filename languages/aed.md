@@ -10,6 +10,7 @@ area: Deaf sign language of Argentina
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -34.79695
 longitude: -59.17984
 glottocode: arge1236

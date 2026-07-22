@@ -10,6 +10,7 @@ area: Benue–Congo language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.19382
 longitude: 10.12723
 glottocode: tita1240

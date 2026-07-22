@@ -10,6 +10,7 @@ area: French-based creole of Réunion
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -21.11306
 longitude: 55.53206
 scripts: [Latn]

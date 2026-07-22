@@ -10,6 +10,7 @@ area: Neo-Aramaic dialect of Jews in Urmia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 38
 longitude: 47
 glottocode: lish1246

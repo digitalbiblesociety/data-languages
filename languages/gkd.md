@@ -9,6 +9,7 @@ area: "Papuan language of Madang Province, PNG"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.1385
 longitude: 145.1091
 glottocode: magi1243

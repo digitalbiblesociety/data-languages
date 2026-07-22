@@ -12,6 +12,7 @@ area: Indo-Aryan language spoken in Kashmir
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 34.166825
 longitude: 74.330455
 language_map_img: kas.webp

@@ -11,6 +11,7 @@ area: "Language indigenous to New Mexico, US"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.00561
 longitude: -108.78197
 language_map_img: 500px-Zuni_lang.webp

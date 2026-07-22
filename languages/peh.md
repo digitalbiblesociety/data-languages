@@ -11,6 +11,7 @@ area: Southern Mongolic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 35.69718
 longitude: 102.9947
 glottocode: bona1250

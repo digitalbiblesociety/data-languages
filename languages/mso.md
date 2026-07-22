@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.27141
 longitude: 138.77283
 glottocode: nucl1452

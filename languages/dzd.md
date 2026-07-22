@@ -8,6 +8,7 @@ country_id: NG
 country_name: Nigeria
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.30573
 longitude: 10.73936
 glottocode: daza1244

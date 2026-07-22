@@ -11,6 +11,7 @@ area: Endangered Papuan language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.37997
 longitude: 136.51899
 glottocode: wori1246

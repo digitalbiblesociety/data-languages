@@ -11,6 +11,7 @@ area: Extinct Austronesian language in the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -8.00509
 longitude: 158.96112
 glottocode: lagh1246

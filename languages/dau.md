@@ -11,6 +11,7 @@ area: Daju language of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.98615
 longitude: 22.20131
 glottocode: dars1235

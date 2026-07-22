@@ -11,6 +11,7 @@ area: Australian Aboriginal language of South Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -27.11522
 longitude: 134.83783
 glottocode: anta1253

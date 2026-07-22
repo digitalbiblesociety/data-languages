@@ -10,6 +10,7 @@ location: Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.49875
 longitude: -4.52253
 language_map_img: 500px-Karaboro_languages.webp

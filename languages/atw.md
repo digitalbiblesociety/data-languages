@@ -10,6 +10,7 @@ area: Extinct Palaihnihan language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.42711
 longitude: -120.66125
 glottocode: atsu1245

@@ -11,6 +11,7 @@ area: Athabaskan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 62.2976
 longitude: -155.95074
 glottocode: uppe1438

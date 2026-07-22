@@ -9,6 +9,7 @@ country_name: Malaysia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: zsm
 language_map_img: msa.webp
 scripts: [Arab, Latn]
 wikidata_id: Q9237

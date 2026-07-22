@@ -12,6 +12,7 @@ area: Algonquian language spoken in Ontario
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 46.57411
 longitude: -84.15429
 glottocode: cent2136

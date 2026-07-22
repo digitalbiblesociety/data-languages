@@ -11,6 +11,7 @@ area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.24495
 longitude: 132.98754
 glottocode: kemb1235

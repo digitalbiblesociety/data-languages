@@ -9,6 +9,7 @@ area: Central Iranian language of Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 34.03574
 longitude: 49.45528
 glottocode: gazi1243

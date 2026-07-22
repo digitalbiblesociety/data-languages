@@ -10,6 +10,7 @@ area: Sign language of the Indian subcontinent
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 28.06668
 longitude: 67.88427
 glottocode: paki1242

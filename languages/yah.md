@@ -11,6 +11,7 @@ area: Iranian language spoken in Tajikistan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tgk
 latitude: 38.28006
 longitude: 71.56505
 glottocode: yazg1240

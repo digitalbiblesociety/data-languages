@@ -11,6 +11,7 @@ area: Hmongic language branch spoken in China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.10246
 longitude: 107.71137
 glottocode: buna1273

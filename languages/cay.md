@@ -11,6 +11,7 @@ area: Northern Iroquoian language of North America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.814285
 longitude: -79.44236
 scripts: [Latn]

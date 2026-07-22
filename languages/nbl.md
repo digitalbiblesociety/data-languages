@@ -12,6 +12,7 @@ area: Language belonging to the Nguni group
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.62721
 longitude: 29.04805
 language_map_img: South_Africa_2011_Ndebele_speakers_proportion_map.svg

@@ -11,6 +11,7 @@ area: Language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.11873
 longitude: 30.57302
 glottocode: otor1240

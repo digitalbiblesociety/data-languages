@@ -11,6 +11,7 @@ area: Algonquian language spoken in US and Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 41.655145
 longitude: -89.03034
 language_map_img: 500px-Oklahoma_Indian_Languages.webp

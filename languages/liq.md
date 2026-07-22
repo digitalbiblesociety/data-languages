@@ -11,6 +11,7 @@ area: Afroasiatic language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.09761
 longitude: 38.49967
 glottocode: libi1250

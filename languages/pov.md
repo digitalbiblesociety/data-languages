@@ -10,6 +10,7 @@ area: "Portuguese-based creole of Guinea-Bissau, Senegal and The Gambia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 13.233507
 longitude: -15.33254
 glottocode: uppe1455

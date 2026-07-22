@@ -11,6 +11,7 @@ area: Barbacoan language of Ecuador
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.71489
 longitude: -79.0508
 glottocode: chac1249

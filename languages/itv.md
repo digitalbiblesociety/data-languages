@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.73286
 longitude: 121.5796
 language_map_img: 500px-Itawit_language_map.webp

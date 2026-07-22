@@ -11,6 +11,7 @@ area: Lakes Plain language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.80285
 longitude: 138.2874
 glottocode: sika1263

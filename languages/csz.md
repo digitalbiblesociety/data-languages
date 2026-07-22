@@ -10,6 +10,7 @@ area: Extinct Native American language formerly spoken in Oregon
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 43.44131
 longitude: -124.15962
 language_map_img: Coosan_map.svg

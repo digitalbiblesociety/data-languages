@@ -11,6 +11,7 @@ area: Language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.961215
 longitude: -3.336005
 language_map_img: Languages_of_Burkina_Faso.webp

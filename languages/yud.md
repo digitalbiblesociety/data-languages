@@ -11,6 +11,7 @@ area: Judeo-Arabic variety of Libya
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.95667
 longitude: 34.74222
 glottocode: jude1264

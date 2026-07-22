@@ -10,6 +10,7 @@ area: Sign language of the Australian deaf community
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -30
 longitude: 145
 glottocode: aust1271

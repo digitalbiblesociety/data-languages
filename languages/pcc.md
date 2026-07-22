@@ -11,6 +11,7 @@ area: Northern Tai language of Southern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.84839
 longitude: 106.18729
 language_map_img: 500px-Bouyei.webp

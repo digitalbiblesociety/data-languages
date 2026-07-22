@@ -11,6 +11,7 @@ area: Kuki-Chin language spoken in India and Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.455925
 longitude: 93.351035
 glottocode: hran1239

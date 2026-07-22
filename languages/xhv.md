@@ -10,6 +10,7 @@ area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 17.402005
 longitude: 106.02094
 glottocode: khua1243

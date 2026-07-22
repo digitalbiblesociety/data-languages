@@ -8,6 +8,7 @@ country_name: Papua New Guinea
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.26666
 longitude: 152.93332
 glottocode: gura1254

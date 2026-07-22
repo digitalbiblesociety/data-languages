@@ -11,6 +11,7 @@ area: Tai language of Laos and Thailand
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 17.455755
 longitude: 104.787095
 glottocode: saek1240

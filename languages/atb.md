@@ -11,6 +11,7 @@ area: Burmish language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.17265
 longitude: 98.36425
 glottocode: zaiw1241

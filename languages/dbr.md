@@ -11,6 +11,7 @@ area: Somali language of Somalia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 1.2179
 longitude: 43.33041
 glottocode: daba1260

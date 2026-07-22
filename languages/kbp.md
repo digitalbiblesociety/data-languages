@@ -11,6 +11,7 @@ area: Eastern Gurunsi language primarily of northern Togo
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.968157
 longitude: 0.495023
 glottocode: kabi1261

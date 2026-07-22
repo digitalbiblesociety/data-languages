@@ -10,6 +10,7 @@ area: East Formosan language of Taiwan
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.69475
 longitude: 121.64463
 language_map_img: 500px-Formosan_languages_2008.webp

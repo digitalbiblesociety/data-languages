@@ -11,6 +11,7 @@ area: Indo-Aryan language group of Nepal and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.58247
 longitude: 84.40825
 language_map_img: 500px-Tharu_Area.webp

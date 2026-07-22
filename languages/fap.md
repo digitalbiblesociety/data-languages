@@ -11,6 +11,7 @@ area: Cangin language spoken in Senegal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.86283
 longitude: -16.95567
 glottocode: palo1243

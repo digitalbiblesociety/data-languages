@@ -11,6 +11,7 @@ area: Cushitic language spoken in Kenya and Somalia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 2.29633
 longitude: 44.68618
 glottocode: garr1259

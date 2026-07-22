@@ -11,6 +11,7 @@ area: "Mienic language of Guangxi, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.64507
 longitude: 113.46905
 glottocode: biao1256

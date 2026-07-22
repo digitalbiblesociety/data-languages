@@ -9,6 +9,7 @@ area: Rajasthani language spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 26.095
 longitude: 68.715
 glottocode: loar1234

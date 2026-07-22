@@ -11,6 +11,7 @@ area: Endangered Nambikwara language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.98572
 longitude: -60.33498
 glottocode: saba1268

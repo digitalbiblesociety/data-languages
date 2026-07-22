@@ -11,6 +11,7 @@ area: Ghana–Togo Mountain language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.78365
 longitude: 0.77668
 glottocode: akeb1238

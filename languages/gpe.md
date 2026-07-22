@@ -10,6 +10,7 @@ area: Pidgin language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.793241
 longitude: -0.283641
 glottocode: ghan1244

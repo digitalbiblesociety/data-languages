@@ -11,6 +11,7 @@ area: Language of Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.02348
 longitude: -3.47165
 glottocode: phui1238

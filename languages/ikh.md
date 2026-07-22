@@ -10,6 +10,7 @@ area: Language of Nigeria
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.146202
 longitude: 5.936957
 glottocode: ikhi1234

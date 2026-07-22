@@ -11,6 +11,7 @@ area: Southeast Asian dialect chain
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 15.9083
 longitude: 106.87347
 glottocode: lowe1395

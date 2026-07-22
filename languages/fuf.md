@@ -12,6 +12,7 @@ area: Indigenous language widely spoken in Guinea and surrounding countries
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.182612
 longitude: -12.7338
 language_map_img: fuf.webp

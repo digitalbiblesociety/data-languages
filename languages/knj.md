@@ -11,6 +11,7 @@ area: Mayan language spoken in Mexico and Guatemala
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.593205
 longitude: -91.842115
 language_map_img: Huehuetenango_in_Guatemala.svg

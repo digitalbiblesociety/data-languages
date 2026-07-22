@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in Sudan and Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.04551
 longitude: 23.64012
 language_map_img: Fur_map.webp

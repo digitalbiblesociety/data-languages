@@ -11,6 +11,7 @@ area: "Austronesian language of Wetar, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.84385
 longitude: 125.90186
 glottocode: iliu1237

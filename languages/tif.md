@@ -11,6 +11,7 @@ area: Ok language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.03899
 longitude: 141.2934
 glottocode: tifa1245

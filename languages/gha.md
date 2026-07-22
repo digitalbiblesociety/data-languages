@@ -11,6 +11,7 @@ area: Berber language spoken in Libya
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 30.11683
 longitude: 10.01654
 glottocode: ghad1239

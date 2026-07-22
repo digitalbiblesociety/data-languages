@@ -11,6 +11,7 @@ area: Sino-Tibetan language of India and Bangladesh
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.295365
 longitude: 90.46198
 language_map_img: 500px-Map_of_the_Garo.webp

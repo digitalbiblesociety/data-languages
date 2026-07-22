@@ -10,6 +10,7 @@ location: Northeastern Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 2.48999
 longitude: -62.85224
 language_map_img: Yanomaman.svg

@@ -11,6 +11,7 @@ area: South Omotic language spoken primarily by Hamer people in southwestern Eth
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.06515
 longitude: 36.51761
 glottocode: hame1242

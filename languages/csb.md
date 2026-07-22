@@ -10,6 +10,7 @@ area: West Slavic language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 54.29956
 longitude: 18.61634
 scripts: [Latn]

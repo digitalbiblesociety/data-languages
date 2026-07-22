@@ -11,6 +11,7 @@ area: Sarmi language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.86998
 longitude: 138.74987
 glottocode: sobe1238

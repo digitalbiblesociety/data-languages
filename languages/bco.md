@@ -10,6 +10,7 @@ location: "Papua New Guinea, Map 8"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.45932
 longitude: 142.78806
 language_map_img: Bosavi_languages.svg

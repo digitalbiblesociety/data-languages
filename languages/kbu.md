@@ -10,6 +10,7 @@ area: Endangered Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25.292
 longitude: 69.691
 glottocode: kabu1254

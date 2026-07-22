@@ -11,6 +11,7 @@ area: Niger-Congo language spoken in Southern and Eastern Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: nya
 latitude: -11.329725
 longitude: 33.373765
 scripts: [Latn]

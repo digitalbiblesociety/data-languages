@@ -11,6 +11,7 @@ area: Dialect cluster of Northern Ryukyuan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 27.37384
 longitude: 128.6187
 glottocode: okin1246

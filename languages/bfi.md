@@ -10,6 +10,7 @@ area: Sign language used in the United Kingdom
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.66878
 longitude: -0.4431
 glottocode: brit1235

@@ -10,6 +10,7 @@ location: Southwestern China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.086
 longitude: 103.464
 glottocode: moji1238

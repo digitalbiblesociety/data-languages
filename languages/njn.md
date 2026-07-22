@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.16002
 longitude: 93.54197
 glottocode: lian1251

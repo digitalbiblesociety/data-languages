@@ -11,6 +11,7 @@ area: Reputably reported language later shown to not exist
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.04255
 longitude: 124.16469
 glottocode: sors1239

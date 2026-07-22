@@ -11,6 +11,7 @@ area: Regional variety of the Arabic language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.802113
 longitude: 33.31793
 language_map_img: apd.webp

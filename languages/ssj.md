@@ -10,6 +10,7 @@ area: Rai Coast language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.6873
 longitude: 145.49195
 glottocode: saus1246

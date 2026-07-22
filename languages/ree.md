@@ -11,6 +11,7 @@ area: Austronesian dialect cluster of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.71903
 longitude: 114.16931
 glottocode: reja1241

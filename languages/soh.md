@@ -11,6 +11,7 @@ area: Moribund Nilo-Saharan language of Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.21009
 longitude: 33.6524
 glottocode: akaa1242

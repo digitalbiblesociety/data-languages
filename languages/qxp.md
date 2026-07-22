@@ -12,6 +12,7 @@ area: Dialect of the Southern Quechua language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -14.60798
 longitude: -70.20838
 glottocode: puno1238

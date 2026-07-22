@@ -10,6 +10,7 @@ area: Type of contact language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nau
 latitude: -0.53224
 longitude: 166.92553
 glottocode: chin1253

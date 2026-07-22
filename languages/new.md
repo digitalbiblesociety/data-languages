@@ -11,6 +11,7 @@ area: Sino-Tibetan language of central-eastern Nepal
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.261445
 longitude: 84.957715
 scripts: [Deva]

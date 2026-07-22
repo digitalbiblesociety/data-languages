@@ -10,6 +10,7 @@ area: Yuat language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.47017
 longitude: 143.75002
 glottocode: mekm1240

@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.45795
 longitude: 119.18235
 glottocode: camp1262

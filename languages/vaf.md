@@ -10,6 +10,7 @@ area: Iranian language spoken in the Vafs village
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 34.53095
 longitude: 50.00127
 glottocode: vafs1240

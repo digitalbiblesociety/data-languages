@@ -12,6 +12,7 @@ area: Ojibwe dialect of Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.56641
 longitude: -102.52456
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: West Chadic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.62092
 longitude: 11.04395
 glottocode: pero1241

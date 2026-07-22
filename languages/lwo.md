@@ -11,6 +11,7 @@ area: "Language spoken by the Luo people of South Sudan's Bahr El Ghazal region"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.35089
 longitude: 28.13775
 glottocode: luwo1239

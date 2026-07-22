@@ -11,6 +11,7 @@ area: Yukaghir language of northeastern Russia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 64.21804
 longitude: 154.37455
 language_map_img: Yukaghir_map.svg

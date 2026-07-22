@@ -10,6 +10,7 @@ area: Sign language of the Indian subcontinent
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.518563
 longitude: 79.678687
 glottocode: indi1237

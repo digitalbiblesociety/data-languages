@@ -11,6 +11,7 @@ area: Austronesian language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.35714
 longitude: 115.07496
 language_map_img: Balinese_language_distribution.svg

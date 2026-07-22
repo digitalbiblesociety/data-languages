@@ -11,6 +11,7 @@ area: Austronesian language spoken in Nuakata Island
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -10.09588
 longitude: 151.00206
 glottocode: auhe1237

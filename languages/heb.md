@@ -11,6 +11,7 @@ area: Standard form of the Hebrew language spoken today
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.10565
 longitude: 35.01788
 language_map_img: heb.webp

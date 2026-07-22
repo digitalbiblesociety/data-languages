@@ -11,6 +11,7 @@ area: Aboriginal Australian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -20.1008
 longitude: 131.04996
 language_map_img: Warlpiri_map.webp

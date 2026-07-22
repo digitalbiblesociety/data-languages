@@ -11,6 +11,7 @@ area: Kuki-Chin language spoken in Myanmar and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.524
 longitude: 93.264
 glottocode: zyph1238

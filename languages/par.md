@@ -11,6 +11,7 @@ area: Endangered Uto-Aztecan language of California
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.00073
 longitude: -117.90139
 glottocode: pana1305

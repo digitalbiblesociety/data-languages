@@ -12,6 +12,7 @@ area: Oto-Manguean of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.1869
 longitude: -96.28398
 language_map_img: 500px-Zapotecan_Languages.webp

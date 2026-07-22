@@ -10,6 +10,7 @@ area: Endangered Tuu language of South Africa
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -29.70543
 longitude: 19.08408
 glottocode: nngg1234

@@ -11,6 +11,7 @@ area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.72467
 longitude: 116.7886
 glottocode: tamp1254

@@ -11,6 +11,7 @@ area: Surmic language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.80331
 longitude: 33.33117
 glottocode: nari1240

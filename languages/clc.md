@@ -11,6 +11,7 @@ area: Northern Athabaskan language spoken in British Columbia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.98952
 longitude: -123.24458
 scripts: [Latn]

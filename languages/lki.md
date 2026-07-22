@@ -10,6 +10,7 @@ area: Dialect of the Kurdish language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 34.01025
 longitude: 47.93976
 scripts: [Arab]

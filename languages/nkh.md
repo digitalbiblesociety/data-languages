@@ -11,6 +11,7 @@ area: "Sino-Tibetan language of Nagaland, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.70775
 longitude: 94.31138
 glottocode: khez1235

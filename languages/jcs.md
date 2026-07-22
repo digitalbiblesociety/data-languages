@@ -10,6 +10,7 @@ area: Deaf sign language of Jamaica
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 17.99968
 longitude: -76.93205
 glottocode: jama1256

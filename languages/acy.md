@@ -12,6 +12,7 @@ area: Moribund variety of Arabic spoken by the Maronite community of Cyprus
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 35.16744
 longitude: 33.0943
 language_map_img: Map_Arabic_in_the_Levant.webp

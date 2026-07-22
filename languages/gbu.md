@@ -11,6 +11,7 @@ area: Extinct indigenous language of Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.51761
 longitude: 132.64324
 language_map_img: Arnhem_Land_languages.webp

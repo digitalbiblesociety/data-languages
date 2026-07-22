@@ -10,6 +10,7 @@ area: Extinct isolate language of Mexico
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.1
 longitude: -100.5
 glottocode: cuit1236

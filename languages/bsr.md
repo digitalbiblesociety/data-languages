@@ -10,6 +10,7 @@ area: Endangered Kainji language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.33331
 longitude: 4.98331
 glottocode: bass1259

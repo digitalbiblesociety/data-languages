@@ -11,6 +11,7 @@ area: Paleosiberian language family
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 52.59001
 longitude: 140.68089
 language_map_img: Nivkh_settlements_2002_map_vector.svg

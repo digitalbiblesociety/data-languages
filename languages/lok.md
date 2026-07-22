@@ -11,6 +11,7 @@ area: Mande language spoken in Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 9.11838
 longitude: -12.15832
 glottocode: loko1255

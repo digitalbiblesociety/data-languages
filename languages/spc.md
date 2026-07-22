@@ -11,6 +11,7 @@ area: Extinct Arutani–Sape language of Venezuela
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.9447
 longitude: -63.23631
 glottocode: sape1238

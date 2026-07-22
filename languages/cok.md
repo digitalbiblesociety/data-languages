@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken by the Cora people of northern Mexico and west
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 22.71018
 longitude: -104.70003
 language_map_img: 500px-Taracahita-Pima.webp

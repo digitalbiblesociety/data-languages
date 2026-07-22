@@ -11,6 +11,7 @@ area: Bantu language of southern Gabon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.52694
 longitude: 11.90984
 glottocode: sang1333

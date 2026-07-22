@@ -11,6 +11,7 @@ area: Guang language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.42441
 longitude: -0.59545
 glottocode: awut1241

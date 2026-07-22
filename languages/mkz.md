@@ -11,6 +11,7 @@ area: Language spoken in East Timor
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.65843
 longitude: 126.50732
 language_map_img: 500px-Makasae.webp

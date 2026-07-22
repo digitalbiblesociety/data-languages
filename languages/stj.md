@@ -11,6 +11,7 @@ area: Niger-Congo languages spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.10271
 longitude: -3.25128
 language_map_img: Languages_of_Burkina_Faso.webp

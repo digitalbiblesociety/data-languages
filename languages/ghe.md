@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.10603
 longitude: 84.85113
 glottocode: sout2715

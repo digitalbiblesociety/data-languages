@@ -12,6 +12,7 @@ area: Variety of Oromo language spoken in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.67428
 longitude: 41.43953
 language_map_img: hae.webp

@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Laos
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 20.799585
 longitude: 100.95699
 glottocode: phun1245

@@ -11,6 +11,7 @@ area: West Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.32042
 longitude: 9.46146
 language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp

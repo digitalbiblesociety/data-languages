@@ -11,6 +11,7 @@ area: Kamkata-vari dialect of Afghanistan and Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 30
 longitude: 70
 glottocode: kamv1242

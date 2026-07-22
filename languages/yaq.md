@@ -11,6 +11,7 @@ area: Native American language of the Uto-Aztecan family
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 29.94463
 longitude: -110.68099
 glottocode: yaqu1251

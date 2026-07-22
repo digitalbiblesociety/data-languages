@@ -11,6 +11,7 @@ area: Siberian Turkic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 52.32607
 longitude: 88.4344
 scripts: [Cyrl]

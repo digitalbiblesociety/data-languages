@@ -11,6 +11,7 @@ area: Polynesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.40038
 longitude: 154.73118
 glottocode: nuku1259

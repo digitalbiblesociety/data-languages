@@ -11,6 +11,7 @@ area: Torricelli dialect cluster of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.41913
 longitude: 141.85212
 glottocode: sout2932

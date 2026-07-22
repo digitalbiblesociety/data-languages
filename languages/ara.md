@@ -11,6 +11,7 @@ area: "Middle East, North Africa. Also in Algeria, Bahrain, Chad, Comoros, Djibo
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: arb
 scripts: [Arab, Syrc]
 glottocode: stan1318
 wikidata_id: Q13955

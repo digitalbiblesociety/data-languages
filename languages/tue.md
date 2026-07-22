@@ -11,6 +11,7 @@ area: Eastern Tucanoan language of Colombia and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.39441
 longitude: -70.043515
 language_map_img: Tuyuka.webp

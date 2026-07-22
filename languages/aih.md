@@ -11,6 +11,7 @@ area: "Kam–Sui language of Guizhou, China"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.49083
 longitude: 107.84359
 glottocode: aich1238

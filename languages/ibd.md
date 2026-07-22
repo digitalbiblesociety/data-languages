@@ -11,6 +11,7 @@ area: Iwaidjan language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.33788
 longitude: 132.45337
 glottocode: iwai1244

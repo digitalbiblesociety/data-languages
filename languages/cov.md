@@ -11,6 +11,7 @@ area: Language of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.22358
 longitude: 109.54741
 glottocode: caom1238

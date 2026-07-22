@@ -11,6 +11,7 @@ area: Oceanic language spoken on the Duke of York Islands off eastern New Irelan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.17306
 longitude: 152.45078
 glottocode: ramo1244

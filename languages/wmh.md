@@ -11,6 +11,7 @@ area: Malayo-Polynesian language spoken in northeast East Timor
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.53416
 longitude: 126.31696
 language_map_img: 500px-Waimaha.webp

@@ -10,6 +10,7 @@ area: Jê language of Brazil
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -5.29266
 longitude: -45.97761
 glottocode: krey1238

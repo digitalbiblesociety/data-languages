@@ -11,6 +11,7 @@ area: Tai language of Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 13.2136
 longitude: 99.86509
 language_map_img: 500px-Tai_dam_language.webp

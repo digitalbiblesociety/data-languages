@@ -11,6 +11,7 @@ area: Nahuatl varieties of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.91614
 longitude: -99.13219
 glottocode: more1259

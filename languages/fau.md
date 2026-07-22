@@ -9,6 +9,7 @@ location: "Indonesia, Eastern Papua"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.14497
 longitude: 136.86713
 glottocode: fayu1238

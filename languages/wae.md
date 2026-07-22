@@ -11,6 +11,7 @@ area: Group of Highest Alemannic dialects
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 46.69953
 longitude: 9.182663
 scripts: [Latn]

@@ -11,6 +11,7 @@ country_name: Norway
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: nob
 latitude: 61.112
 longitude: 8.886
 scripts: [Latn]

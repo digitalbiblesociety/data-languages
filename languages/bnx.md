@@ -11,6 +11,7 @@ area: Bantu dialect cluster of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.31464
 longitude: 27.24376
 glottocode: bang1350

@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.05732
 longitude: 146.52882
 glottocode: kapi1250

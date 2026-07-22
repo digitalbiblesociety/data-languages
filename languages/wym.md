@@ -10,6 +10,7 @@ area: "West Germanic language spoken in Wilamowice, Poland"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 49.91617
 longitude: 19.15195
 glottocode: wymy1235

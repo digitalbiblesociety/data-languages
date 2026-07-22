@@ -11,6 +11,7 @@ area: Kirati language of Nepal
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 26.91065
 longitude: 87.21331
 glottocode: chhu1238

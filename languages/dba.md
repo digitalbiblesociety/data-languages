@@ -11,6 +11,7 @@ area: Language isolate of southeastern Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.81163
 longitude: -3.77092
 language_map_img: Map_of_the_Dogon_languages.webp

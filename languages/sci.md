@@ -11,6 +11,7 @@ area: Sinhala-Tamil creole language of Sri Lanka
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: sin
 latitude: 6.91603
 longitude: 79.86404
 glottocode: sril1245

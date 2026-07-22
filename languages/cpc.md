@@ -11,6 +11,7 @@ area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.82364
 longitude: -74.61947
 glottocode: ajyi1238

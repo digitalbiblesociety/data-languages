@@ -12,6 +12,7 @@ area: Arabic variety of Oman
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.07958
 longitude: 54.48936
 language_map_img: Dhofari_Arabic.svg

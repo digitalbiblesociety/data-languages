@@ -11,6 +11,7 @@ area: Mayan language of central Mexico
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 21.6153
 longitude: -98.50276
 language_map_img: 500px-Huasteca.webp

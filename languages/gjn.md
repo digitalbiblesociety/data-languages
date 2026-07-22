@@ -11,6 +11,7 @@ area: North Guang language of Ghana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.48801
 longitude: -0.72757
 glottocode: gonj1241

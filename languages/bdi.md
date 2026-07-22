@@ -11,6 +11,7 @@ area: Nilotic language of Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.72505
 longitude: 33.92099
 glottocode: buru1301

@@ -11,6 +11,7 @@ area: Most spoken and standard of the Tibetic languages
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 29.03239
 longitude: 83.89586
 glottocode: lowa1242

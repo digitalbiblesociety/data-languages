@@ -11,6 +11,7 @@ area: "Sino-Tibetan language of Yunnan, southwestern China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.519
 longitude: 100.289
 glottocode: sout2730

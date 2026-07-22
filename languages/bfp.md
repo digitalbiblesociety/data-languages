@@ -11,6 +11,7 @@ area: Grassfields Bantu language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.32256
 longitude: 9.73577
 glottocode: beba1238

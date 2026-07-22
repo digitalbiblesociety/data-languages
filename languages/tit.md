@@ -10,6 +10,7 @@ area: Endangered language of Colombia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.716
 longitude: -73.768
 language_map_img: Tinigua.webp

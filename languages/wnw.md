@@ -9,6 +9,7 @@ area: Extinct Native American language formerly spoken in California
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q56754
 wikipedia_url: "https://en.wikipedia.org/wiki/Wintu_language"
 translations:

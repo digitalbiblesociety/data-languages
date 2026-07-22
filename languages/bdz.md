@@ -9,6 +9,7 @@ area: Unclassified Indo-Iranian language spoken in Pakistan
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 35.2655
 longitude: 72.68225
 glottocode: bade1240

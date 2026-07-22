@@ -11,6 +11,7 @@ area: Kwa language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.1627
 longitude: -4.64232
 glottocode: anyi1244

@@ -11,6 +11,7 @@ area: Tibetic language spoken in Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 31.93126
 longitude: 91.70618
 glottocode: kham1282

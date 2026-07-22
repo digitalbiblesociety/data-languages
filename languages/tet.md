@@ -11,6 +11,7 @@ area: Austronesian language spoken on Timor
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -9.112165
 longitude: 125.527665
 language_map_img: 500px-Tetum_Terik.webp

@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 8.041243
 longitude: 23.616553
 glottocode: yulu1243

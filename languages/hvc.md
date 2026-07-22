@@ -10,6 +10,7 @@ area: Collection of loanwords
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: hat
 latitude: 18.911
 longitude: -72.394
 glottocode: hait1241

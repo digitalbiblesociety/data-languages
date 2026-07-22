@@ -10,6 +10,7 @@ area: Language from Ecuador
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.99871
 longitude: -76.36398
 language_map_img: 500px-Zaparo_language.webp

@@ -11,6 +11,7 @@ area: Malayic Dayak language of Borneo
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.479565
 longitude: 109.467415
 glottocode: kend1254

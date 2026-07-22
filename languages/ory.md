@@ -12,6 +12,7 @@ area: Indic language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21
 longitude: 85
 glottocode: oriy1255

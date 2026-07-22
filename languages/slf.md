@@ -10,6 +10,7 @@ area: Sign language of Italy
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 46.30761
 longitude: 8.79111
 glottocode: swis1235

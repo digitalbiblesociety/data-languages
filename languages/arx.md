@@ -11,6 +11,7 @@ area: Nearly extinct Tupian language of Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.11857
 longitude: -62.43568
 glottocode: arua1261

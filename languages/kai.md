@@ -11,6 +11,7 @@ area: Nigerian language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 12.5176
 longitude: 10.87324
 language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp

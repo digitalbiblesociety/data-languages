@@ -11,6 +11,7 @@ area: "Language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.21669
 longitude: -94.81586
 glottocode: sant1422

@@ -11,6 +11,7 @@ area: Arawakan language spoken in Brazil and French Guiana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 3.63993
 longitude: -51.62465
 glottocode: pali1279

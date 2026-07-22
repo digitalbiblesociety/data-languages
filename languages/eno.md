@@ -10,6 +10,7 @@ area: Austronesian language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.38846
 longitude: 102.24509
 language_map_img: 500px-Sumatra-Enggano.webp

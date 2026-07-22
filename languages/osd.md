@@ -8,6 +8,7 @@ country_id: RU
 country_name: Russia
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 43.158056
 longitude: 44.156944
 wikidata_id: Q3027861

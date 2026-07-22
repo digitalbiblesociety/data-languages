@@ -11,6 +11,7 @@ area: Zenati Berber language of northern Morocco
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 35.328085
 longitude: -1.87354
 language_map_img: Riffian_Language_Map.webp

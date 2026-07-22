@@ -11,6 +11,7 @@ area: Language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 16.57338
 longitude: 76.97168
 language_map_img: lmn.webp

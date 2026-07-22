@@ -11,6 +11,7 @@ area: Nahuatl variety of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.18843
 longitude: -96.97483
 glottocode: nort2958

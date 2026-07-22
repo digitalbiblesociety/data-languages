@@ -9,6 +9,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: bis
 wikidata_id: Q3351562
 wikipedia_url: "https://en.wikipedia.org/wiki/Olrat_language"
 translations:

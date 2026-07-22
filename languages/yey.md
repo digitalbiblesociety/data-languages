@@ -11,6 +11,7 @@ area: Bantu language of Namibia and Botswana
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.91781
 longitude: 23.608825
 glottocode: yeyi1239

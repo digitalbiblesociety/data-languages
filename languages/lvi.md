@@ -10,6 +10,7 @@ area: Mon–Khmer language spoken in Laos
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 15.306668
 longitude: 106.734345
 glottocode: lawi1235

@@ -11,6 +11,7 @@ area: Central Sudanic language of Southern Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.6242
 longitude: 31.91031
 glottocode: olub1238

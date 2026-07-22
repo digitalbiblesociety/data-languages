@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.17345
 longitude: 137.49561
 language_map_img: Damal_language.svg

@@ -10,6 +10,7 @@ area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 glottocode: yugu1250
 glottolog_family_id: unat1236
 glottolog_family_name: Unattested

@@ -11,6 +11,7 @@ area: Language isolate of the Peruvian Amazon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.22497
 longitude: -75.5603
 glottocode: taus1253

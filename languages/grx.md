@@ -11,6 +11,7 @@ area: Senu River language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.5718
 longitude: 141.59654
 glottocode: guri1248

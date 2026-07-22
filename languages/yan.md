@@ -11,6 +11,7 @@ area: Misumalpan languages of Nicaragua and Honduras
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.125922
 longitude: -84.343872
 glottocode: maya1285

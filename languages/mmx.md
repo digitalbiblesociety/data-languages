@@ -11,6 +11,7 @@ area: Western Oceanic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.34342
 longitude: 151.96672
 glottocode: mada1285

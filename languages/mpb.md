@@ -11,6 +11,7 @@ area: "Endangered Aboriginal language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.29728
 longitude: 130.61484
 glottocode: mull1237

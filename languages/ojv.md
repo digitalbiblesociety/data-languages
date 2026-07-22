@@ -11,6 +11,7 @@ area: Polynesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -5.49029
 longitude: 159.70074
 glottocode: onto1237

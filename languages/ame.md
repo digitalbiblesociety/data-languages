@@ -11,6 +11,7 @@ area: Arawakan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -10.54539
 longitude: -75.31497
 glottocode: yane1238

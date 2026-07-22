@@ -11,6 +11,7 @@ area: Austronesian language spoken by Butuanon people in northeastern Mindanao
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 8.87009
 longitude: 125.41841
 glottocode: butu1244

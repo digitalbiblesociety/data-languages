@@ -10,6 +10,7 @@ area: Wati language of Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -27.11796
 longitude: 120.56642
 glottocode: pini1245

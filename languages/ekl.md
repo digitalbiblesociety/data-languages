@@ -11,6 +11,7 @@ area: Munda language of Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 24.5318
 longitude: 88.337
 glottocode: kolb1241

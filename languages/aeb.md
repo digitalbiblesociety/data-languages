@@ -12,6 +12,7 @@ area: Arabic dialect spoken in Tunisia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 33.79658
 longitude: 9.56156
 language_map_img: aeb.svg

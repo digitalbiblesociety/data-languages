@@ -12,6 +12,7 @@ area: Dialect of the Southern Quechua language in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.18063
 longitude: -72.63326
 glottocode: areq1237

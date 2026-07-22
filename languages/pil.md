@@ -11,6 +11,7 @@ area: Gur language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.87186
 longitude: 1.81099
 glottocode: yomm1242

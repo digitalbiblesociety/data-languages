@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Northeast India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.41984
 longitude: 93.18061
 glottocode: dima1251

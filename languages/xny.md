@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.8558
 longitude: 120.831
 glottocode: nija1241

@@ -9,6 +9,7 @@ area: Village sign language in Thailand
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 16.911
 longitude: 103.296
 glottocode: bank1251

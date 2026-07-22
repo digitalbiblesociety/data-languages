@@ -10,6 +10,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.812
 longitude: 139.8208
 glottocode: momi1242

@@ -11,6 +11,7 @@ area: "Austronesian language of Sulawesi, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.5667
 longitude: 119.34186
 glottocode: bara1371

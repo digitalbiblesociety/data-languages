@@ -11,6 +11,7 @@ area: Indigenous Australian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.86272
 longitude: 131.89332
 language_map_img: Wagiman_Country.webp

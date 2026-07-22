@@ -11,6 +11,7 @@ area: Bantu language of Angola
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.35106
 longitude: 15.0867
 glottocode: bolo1261

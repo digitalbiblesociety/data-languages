@@ -11,6 +11,7 @@ area: Papuan language of East Timor
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.49464
 longitude: 127.08042
 language_map_img: 500px-Fataluku.webp

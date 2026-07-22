@@ -11,6 +11,7 @@ area: Central Neo-Aramaic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 37.22746
 longitude: 42.145103
 language_map_img: Syriac_Dialects_EN.svg

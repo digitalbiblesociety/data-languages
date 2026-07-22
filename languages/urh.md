@@ -11,6 +11,7 @@ area: South-Western Edoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.31155
 longitude: 5.86148
 glottocode: urho1239

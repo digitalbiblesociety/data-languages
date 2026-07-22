@@ -9,6 +9,7 @@ country_name: DR Congo
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.27251
 longitude: 23.56694
 glottocode: ngbi1238

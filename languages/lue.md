@@ -11,6 +11,7 @@ area: Bantu language of Angola and Zambia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.538245
 longitude: 22.292385
 glottocode: luva1239

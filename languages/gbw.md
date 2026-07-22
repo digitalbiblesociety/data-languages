@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.44486229
 longitude: 153.1539929
 language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp

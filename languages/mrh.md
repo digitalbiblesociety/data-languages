@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in India and Burma
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.11383
 longitude: 93.03875
 glottocode: mara1382

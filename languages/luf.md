@@ -10,6 +10,7 @@ area: Extinct language of Papua New Guinea
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -10.16145
 longitude: 149.25747
 glottocode: laua1245

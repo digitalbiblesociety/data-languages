@@ -10,6 +10,7 @@ area: Endangered Italian-derived Jewish dialect continuum
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 43.12845
 longitude: 11.47233
 glottocode: jude1255

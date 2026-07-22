@@ -9,6 +9,7 @@ country_name: Iran
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: pes
 scripts: [Arab]
 wikidata_id: Q9168
 wikipedia_url: "https://en.wikipedia.org/wiki/Persian_language"

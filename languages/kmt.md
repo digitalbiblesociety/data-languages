@@ -11,6 +11,7 @@ area: Foja Range language spoken in New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.64894
 longitude: 140.37182
 glottocode: kemt1242

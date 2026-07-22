@@ -11,6 +11,7 @@ area: "Mixe language of Oaxaca, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.89123
 longitude: -95.84841
 glottocode: juqu1238

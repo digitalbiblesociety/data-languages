@@ -10,6 +10,7 @@ area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.41439
 longitude: 142.47498
 language_map_img: Duna-Pogaya_languages.svg

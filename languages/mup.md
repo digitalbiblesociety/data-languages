@@ -12,6 +12,7 @@ area: Dialect of Rajasthani Language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.48797
 longitude: 75.56195
 language_map_img: mup.webp

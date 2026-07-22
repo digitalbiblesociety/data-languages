@@ -11,6 +11,7 @@ area: Austronesian language in Central Maluku
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.18376
 longitude: 130.96124
 glottocode: sela1259

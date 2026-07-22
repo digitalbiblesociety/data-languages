@@ -8,6 +8,7 @@ country_name: Philippines
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: fil
 latitude: 17.09386
 longitude: 121.02662
 glottocode: cent2083

@@ -11,6 +11,7 @@ area: Luo language spoken in part of South Sudan and Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.85472
 longitude: 31.79263
 glottocode: shil1265

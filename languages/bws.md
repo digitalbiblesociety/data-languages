@@ -9,6 +9,7 @@ location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.40195
 longitude: 18.78408
 glottocode: bomb1262

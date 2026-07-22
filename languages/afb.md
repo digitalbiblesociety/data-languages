@@ -12,6 +12,7 @@ area: Variety of Arabic from the Persian Gulf
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 30.17
 longitude: 47.5
 language_map_img: afb.svg

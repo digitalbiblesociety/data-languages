@@ -11,6 +11,7 @@ area: Bantoid language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.91719
 longitude: 10.27783
 glottocode: mash1269

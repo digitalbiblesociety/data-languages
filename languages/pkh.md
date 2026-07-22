@@ -11,6 +11,7 @@ area: Kuki-Chin language spoken in Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 22.679653
 longitude: 92.9461
 glottocode: pank1249

@@ -11,6 +11,7 @@ area: Mande language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.78122
 longitude: -4.23539
 glottocode: beng1286

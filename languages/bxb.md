@@ -11,6 +11,7 @@ area: Luo language of South Sudan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.6503
 longitude: 27.82324
 glottocode: bela1256

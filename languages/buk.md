@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.67519
 longitude: 147.31989
 glottocode: buga1250

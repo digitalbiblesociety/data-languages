@@ -11,6 +11,7 @@ area: Tucanoan language spoken in South America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 0.35794
 longitude: -69.56072
 glottocode: poka1242

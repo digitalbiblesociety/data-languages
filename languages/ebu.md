@@ -11,6 +11,7 @@ area: Bantu language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -0.62822
 longitude: 37.59334
 scripts: [Latn]

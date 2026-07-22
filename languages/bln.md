@@ -12,6 +12,7 @@ area: Bikol languages of the Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.69895
 longitude: 124.28969
 glottocode: sout2912

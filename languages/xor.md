@@ -11,6 +11,7 @@ area: Endangered Panoan language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -5.3655
 longitude: -70.50942
 glottocode: koru1247

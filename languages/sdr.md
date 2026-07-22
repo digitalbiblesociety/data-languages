@@ -11,6 +11,7 @@ area: Eastern Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 24.74581
 longitude: 88.91575
 glottocode: orao1237

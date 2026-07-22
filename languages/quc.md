@@ -11,6 +11,7 @@ area: Mayan language spoken by the Kʼicheʼ people
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.52777
 longitude: -91.16965
 scripts: [Latn]

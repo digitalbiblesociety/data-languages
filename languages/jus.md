@@ -10,6 +10,7 @@ area: Village sign language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 29.275278
 longitude: 82.183333
 glottocode: juml1239

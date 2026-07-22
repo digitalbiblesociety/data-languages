@@ -10,6 +10,7 @@ area: Language of the Blang people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.018475
 longitude: 99.257565
 scripts: [Lana, Tale]

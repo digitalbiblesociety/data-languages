@@ -11,6 +11,7 @@ area: English-based creole spoken in Sierra Leone
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 10.881135
 longitude: -14.320425
 scripts: [Latn]

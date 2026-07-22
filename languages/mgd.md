@@ -11,6 +11,7 @@ area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.1232
 longitude: 30.32873
 glottocode: moru1253

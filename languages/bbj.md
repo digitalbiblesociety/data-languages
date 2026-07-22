@@ -11,6 +11,7 @@ area: Bamileke language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.39619
 longitude: 10.35202
 scripts: [Latn]

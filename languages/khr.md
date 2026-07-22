@@ -11,6 +11,7 @@ area: Munda language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.35712
 longitude: 84.39219
 glottocode: khar1287

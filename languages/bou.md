@@ -11,6 +11,7 @@ area: Northeast Coast Bantu of Tanzania
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -5.10749
 longitude: 38.50791
 glottocode: bond1247

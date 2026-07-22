@@ -11,6 +11,7 @@ area: Bantu language spoken in Gabon
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -2.17673
 longitude: 10.64985
 glottocode: vumb1238

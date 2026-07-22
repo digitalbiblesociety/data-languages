@@ -11,6 +11,7 @@ area: Southern Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.1575
 longitude: 76.5365
 glottocode: atta1243

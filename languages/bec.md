@@ -11,6 +11,7 @@ area: Tivoid language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.424265
 longitude: 9.502635
 glottocode: icev1238

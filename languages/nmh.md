@@ -11,6 +11,7 @@ area: Unclassified Sino-Tibetan (possibly Sino-Tibetan) language of Northeast In
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.53222
 longitude: 94.21644
 glottocode: mons1234

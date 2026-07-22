@@ -11,6 +11,7 @@ area: Unclassified language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -11.37963
 longitude: 154.12664
 glottocode: yele1255

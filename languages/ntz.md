@@ -10,6 +10,7 @@ area: Central Iranian language of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 33.45931
 longitude: 51.95383
 glottocode: nata1252

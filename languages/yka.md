@@ -11,6 +11,7 @@ area: Austronesian language spoken in Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 5.50173
 longitude: 119.714645
 language_map_img: 500px-Yakan_language_map.webp

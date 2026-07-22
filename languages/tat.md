@@ -12,6 +12,7 @@ area: Turkic language spoken by Tatars
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 55
 longitude: 50
 language_map_img: tat.webp

@@ -11,6 +11,7 @@ area: "Uto-Aztecan language of Arizona, USA"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.76526
 longitude: -110.53483
 scripts: [Latn]

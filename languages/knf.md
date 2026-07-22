@@ -11,6 +11,7 @@ area: "Bak language of Guinea-Bissau, Senegal and The Gambia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 12.261507
 longitude: -15.74389
 scripts: [Latn]

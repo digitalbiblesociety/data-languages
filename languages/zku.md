@@ -10,6 +10,7 @@ area: Language of the Kaurna people of South Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -34.349661
 longitude: 138.480079
 glottocode: kaur1267

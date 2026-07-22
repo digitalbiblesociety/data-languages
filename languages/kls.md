@@ -11,6 +11,7 @@ area: "Indo-Aryan language spoken in Chitral, Pakistan"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 35.64151
 longitude: 71.66575
 glottocode: kala1372

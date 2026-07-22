@@ -12,6 +12,7 @@ area: Indigenous Language in South America
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -17.14171
 longitude: -70.34424
 language_map_img: Idioma_aimara.webp

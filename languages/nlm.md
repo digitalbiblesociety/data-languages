@@ -9,6 +9,7 @@ area: Indo-Aryan language of northern Pakistan
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 34.2922
 longitude: 73.2505
 glottocode: mank1256

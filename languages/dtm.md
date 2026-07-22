@@ -11,6 +11,7 @@ area: Dialect group
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 13.633135
 longitude: -3.82228
 scripts: [Latn]

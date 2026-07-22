@@ -11,6 +11,7 @@ area: Language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.76004
 longitude: 119.80592
 language_map_img: South_Sulawesi_languages.svg

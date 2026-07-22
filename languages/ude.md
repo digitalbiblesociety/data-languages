@@ -11,6 +11,7 @@ area: Tungusic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 46.63086
 longitude: 135.67762
 language_map_img: Udihe-Oroch-Taz-territorial-groups.webp

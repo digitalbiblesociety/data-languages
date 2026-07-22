@@ -10,6 +10,7 @@ area: Nearly extinct language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 3.69641
 longitude: 115.90976
 glottocode: leng1260

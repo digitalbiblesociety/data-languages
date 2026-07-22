@@ -11,6 +11,7 @@ area: Kiranti language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.39118
 longitude: 87.505335
 glottocode: khal1275

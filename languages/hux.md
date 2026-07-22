@@ -11,6 +11,7 @@ area: Witotoan language of Peru and Colombia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -2.34495
 longitude: -70.95587
 glottocode: nupo1240

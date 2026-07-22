@@ -11,6 +11,7 @@ area: Low Franconian dialect of Dutch
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 51.49809
 longitude: 3.85428
 language_map_img: Nederlands-zeeuws.webp

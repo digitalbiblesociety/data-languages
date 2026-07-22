@@ -12,6 +12,7 @@ area: Language spoken by Thai people
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 14.191968
 longitude: 100.671386
 language_map_img: tha.webp

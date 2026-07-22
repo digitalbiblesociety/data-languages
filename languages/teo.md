@@ -11,6 +11,7 @@ area: Eastern Nilotic language of Uganda and Kenya
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.18321
 longitude: 33.939385
 scripts: [Latn]

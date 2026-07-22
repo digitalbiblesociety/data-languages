@@ -11,6 +11,7 @@ area: Indigenous language family with two surviving dialects in Peru
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.31951
 longitude: -71.22749
 language_map_img: 500px-Harakmbut_languages.webp

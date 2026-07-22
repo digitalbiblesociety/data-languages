@@ -11,6 +11,7 @@ area: Qiangic language spoken in China and Tibet
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 30.31133
 longitude: 100.8126
 language_map_img: 500px-Choyo_language.webp

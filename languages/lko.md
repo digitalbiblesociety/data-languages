@@ -12,6 +12,7 @@ area: Bantu language of Kenya
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.54
 longitude: 34.25
 glottocode: khay1238

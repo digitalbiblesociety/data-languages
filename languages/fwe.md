@@ -11,6 +11,7 @@ area: Bantu language of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.72372
 longitude: 24.43151
 glottocode: fwee1238

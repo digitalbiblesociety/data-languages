@@ -12,6 +12,7 @@ area: Official language of Indonesia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.33458
 longitude: 109.71572
 language_map_img: ind.webp

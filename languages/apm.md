@@ -11,6 +11,7 @@ area: Language spoken in Oklahoma and New Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.1291
 longitude: -105.56612
 glottocode: mesc1238

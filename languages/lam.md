@@ -11,6 +11,7 @@ area: Bantu language spoken in Zambia and DRC
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.336595
 longitude: 27.90262
 scripts: [Latn]

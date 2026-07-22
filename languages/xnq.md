@@ -6,6 +6,7 @@ country_id: MZ
 country_name: Mozambique
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.923
 longitude: 38.892
 glottocode: moza1251

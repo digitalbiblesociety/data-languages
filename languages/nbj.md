@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.46607
 longitude: 130.65096
 glottocode: ngar1235

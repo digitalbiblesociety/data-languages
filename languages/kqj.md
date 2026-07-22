@@ -11,6 +11,7 @@ area: South Bougainville language of Bougainville Province
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.39399
 longitude: 155.74205
 glottocode: koro1313

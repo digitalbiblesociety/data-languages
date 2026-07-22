@@ -11,6 +11,7 @@ area: Endangered Tsimshianic language of Canada
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 55.09005
 longitude: -128.08043
 language_map_img: Tsimshianic_map.svg

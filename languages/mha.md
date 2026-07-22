@@ -11,6 +11,7 @@ area: "Dravidian language of Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.09622
 longitude: 83.67492
 glottocode: mand1413

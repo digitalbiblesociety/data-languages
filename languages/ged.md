@@ -10,6 +10,7 @@ area: Gadoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.71139
 longitude: 7.49869
 glottocode: gade1242

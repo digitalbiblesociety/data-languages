@@ -10,6 +10,7 @@ area: Language in Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.26952
 longitude: 140.04726
 glottocode: koro1312

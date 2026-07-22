@@ -11,6 +11,7 @@ area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 3.42467
 longitude: 116.44253
 glottocode: puto1237

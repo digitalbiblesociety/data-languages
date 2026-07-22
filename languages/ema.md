@@ -11,6 +11,7 @@ area: "Edoid language spoken in Edo, Nigeria"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.09089
 longitude: 5.84494
 glottocode: emai1241

@@ -10,6 +10,7 @@ area: Village sign language of Ghana
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.834
 longitude: -0.151
 glottocode: adam1238

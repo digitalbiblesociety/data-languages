@@ -11,6 +11,7 @@ area: Mayan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.63841
 longitude: -92.27861
 language_map_img: Mayan_Language_Map.svg

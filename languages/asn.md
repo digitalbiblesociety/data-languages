@@ -11,6 +11,7 @@ area: Tupi–Guaraní language of Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -4.13463
 longitude: -52.32101
 glottocode: xing1248

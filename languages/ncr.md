@@ -11,6 +11,7 @@ area: Niger–Congo language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.50696
 longitude: 10.53117
 glottocode: ncan1245

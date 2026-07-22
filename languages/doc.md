@@ -11,6 +11,7 @@ area: "Kam–Sui language of China's Dong people"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.99443
 longitude: 109.20384
 glottocode: nort2735

@@ -11,6 +11,7 @@ area: Endangered language of Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -11.29748
 longitude: 166.50726
 glottocode: tani1255

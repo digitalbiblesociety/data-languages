@@ -11,6 +11,7 @@ area: Algonquian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 44.97941
 longitude: -88.63948
 glottocode: meno1252

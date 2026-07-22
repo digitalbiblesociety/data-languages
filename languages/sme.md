@@ -12,6 +12,7 @@ area: Most widely spoken of all Sámi languages
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: nob
 latitude: 68.724997
 longitude: 22.11129
 language_map_img: 500px-Sami_languages_large.webp

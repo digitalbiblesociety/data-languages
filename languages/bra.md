@@ -11,6 +11,7 @@ area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.4758
 longitude: 78.08125
 language_map_img: 500px-Braj_Bhasha_Region.webp

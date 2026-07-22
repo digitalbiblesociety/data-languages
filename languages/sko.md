@@ -11,6 +11,7 @@ area: Subgroup of the Austronesian language family
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.22069
 longitude: 119.8226
 glottocode: seko1242

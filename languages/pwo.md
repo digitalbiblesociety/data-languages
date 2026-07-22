@@ -11,6 +11,7 @@ area: Karen language of Myanmar
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 17.36215
 longitude: 97.70436
 glottocode: pwow1235

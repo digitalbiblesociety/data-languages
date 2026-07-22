@@ -11,6 +11,7 @@ area: Loloish language cluster spoken in China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.585
 longitude: 101.546
 glottocode: east2696

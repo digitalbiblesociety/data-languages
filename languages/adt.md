@@ -11,6 +11,7 @@ area: Aboriginal language of South Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -30.14508
 longitude: 138.67131
 language_map_img: Aboriginal_Tribes_near_Adelaide.webp

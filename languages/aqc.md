@@ -11,6 +11,7 @@ area: Lezgic language spoken in southern Russia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.3239
 longitude: 46.82673
 language_map_img: 500px-Archin-en.webp

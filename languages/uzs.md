@@ -12,6 +12,7 @@ area: Uzbek dialect spoken in Afghanistan and Pakistan
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 36.609853
 longitude: 60.690747
 language_map_img: uzs.webp

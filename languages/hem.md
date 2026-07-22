@@ -11,6 +11,7 @@ area: Bantu language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -7.77459
 longitude: 27.59128
 glottocode: hemb1242

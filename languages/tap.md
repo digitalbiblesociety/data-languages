@@ -11,6 +11,7 @@ area: Bantu language of Congo and Zambia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -7.91416
 longitude: 29.52377
 glottocode: taab1238

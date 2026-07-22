@@ -11,6 +11,7 @@ area: Sepik language of Papua-New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.79935
 longitude: 142.29906
 glottocode: pahi1246

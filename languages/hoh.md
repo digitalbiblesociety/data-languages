@@ -11,6 +11,7 @@ area: Endangered Semitic language of Oman and Yemen
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.21605
 longitude: 52.833375
 language_map_img: Modern_South_Arabian_Languages.svg

@@ -11,6 +11,7 @@ area: Dialect of Akan in Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.720945
 longitude: -2.502885
 scripts: [Latn]

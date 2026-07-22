@@ -10,6 +10,7 @@ location: Southern Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -17.86961
 longitude: -57.28974
 language_map_img: 500px-Guato_language.webp

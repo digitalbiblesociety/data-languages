@@ -9,6 +9,7 @@ country_name: Canada
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 scripts: [Cans, Latn]
 wikidata_id: Q29921
 wikipedia_url: "https://en.wikipedia.org/wiki/Inuktitut"

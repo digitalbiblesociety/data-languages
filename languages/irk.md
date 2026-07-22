@@ -11,6 +11,7 @@ area: Cushitic language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.19948
 longitude: 35.29393
 glottocode: iraq1241

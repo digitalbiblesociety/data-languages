@@ -11,6 +11,7 @@ area: Austronesian language spoken in Kiribati
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: gil
 latitude: 0.64049
 longitude: 173.219604
 language_map_img: Micronesian_languages.en.webp

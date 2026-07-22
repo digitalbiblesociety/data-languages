@@ -11,6 +11,7 @@ area: Jola language of the Casamance region of Senegal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.5258
 longitude: -16.4245
 glottocode: band1340

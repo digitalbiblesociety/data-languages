@@ -10,6 +10,7 @@ area: Endangered Oceanic language of the Solomon Islands
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -10.68653
 longitude: 165.92732
 glottocode: vano1237

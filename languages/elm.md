@@ -11,6 +11,7 @@ area: Language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.72964
 longitude: 7.267
 glottocode: elem1253

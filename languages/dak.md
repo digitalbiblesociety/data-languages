@@ -11,6 +11,7 @@ area: Indigenous language of North America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.68571
 longitude: -102.11973
 scripts: [Latn]

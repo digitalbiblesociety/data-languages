@@ -11,6 +11,7 @@ area: Loloish language of Vietnam and China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 25.52774
 longitude: 106.147725
 glottocode: phuk1235

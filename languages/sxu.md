@@ -10,6 +10,7 @@ area: East Central Deutsch dialect
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 51.152
 longitude: 12.692
 language_map_img: 500px-Mitteldeutsche_Mundarten.webp

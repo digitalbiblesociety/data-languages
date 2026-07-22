@@ -10,6 +10,7 @@ area: Iranian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32.54384
 longitude: 47.91602
 scripts: [Arab]

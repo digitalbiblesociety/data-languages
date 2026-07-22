@@ -11,6 +11,7 @@ area: Austronesian Language of Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.77297
 longitude: 136.75728
 glottocode: wabo1240

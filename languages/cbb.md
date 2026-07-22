@@ -11,6 +11,7 @@ area: South American aboriginal language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.16101
 longitude: -71.06216
 language_map_img: Cabiyari.webp

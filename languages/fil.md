@@ -10,6 +10,7 @@ area: The national language and one of the two official languages of the Philipp
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.265
 longitude: 123.464
 language_map_img: 500px-Tagalosphere.webp

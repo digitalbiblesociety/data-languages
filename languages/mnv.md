@@ -11,6 +11,7 @@ area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -11.62375
 longitude: 160.26505
 glottocode: renn1242

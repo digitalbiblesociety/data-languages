@@ -10,6 +10,7 @@ area: Kajang language spoken in Malaysia and Brunei
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.66154
 longitude: 113.84266
 glottocode: sian1255

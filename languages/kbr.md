@@ -11,6 +11,7 @@ area: North Omotic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.34022
 longitude: 36.17183
 glottocode: kafa1242

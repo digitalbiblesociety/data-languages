@@ -11,6 +11,7 @@ area: Language in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.0538
 longitude: 122.2802
 language_map_img: 500px-Pahanan_Agta_language_map.webp

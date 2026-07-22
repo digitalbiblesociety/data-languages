@@ -10,6 +10,7 @@ area: French-based creole language of the Seychelles
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: crs
 latitude: -4.62314
 longitude: 55.4503
 language_map_img: Location_Seychelles_AU_Africa.svg

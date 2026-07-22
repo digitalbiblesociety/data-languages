@@ -11,6 +11,7 @@ area: Niger–Congo language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.36279
 longitude: -4.45627
 glottocode: djim1235

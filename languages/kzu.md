@@ -11,6 +11,7 @@ area: Language of Western Papua
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.54415
 longitude: 140.62585
 glottocode: kayu1243

@@ -10,6 +10,7 @@ area: Gur language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.40172
 longitude: -3.47051
 language_map_img: Kulango_languages_map.svg

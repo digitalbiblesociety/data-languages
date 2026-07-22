@@ -10,6 +10,7 @@ area: Igboid language spoken by the Mgbo people in Ebonyi state in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q6826835
 wikipedia_url: "https://en.wikipedia.org/wiki/Mgbo_language"
 translations:

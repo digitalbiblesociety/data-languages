@@ -11,6 +11,7 @@ area: Atlantic–Congo language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.62037
 longitude: 9.20189
 glottocode: bete1262

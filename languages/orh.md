@@ -11,6 +11,7 @@ area: Tungusic language spoken in Inner Mongolia and Heilongjiang
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 50.63193
 longitude: 125.01685
 glottocode: oroq1238

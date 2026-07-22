@@ -12,6 +12,7 @@ area: "Austronesian language, spoken by the Minangkabau of West Sumatra"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 4.17
 longitude: 96.25
 language_map_img: min.webp

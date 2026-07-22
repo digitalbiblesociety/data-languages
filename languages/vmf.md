@@ -10,6 +10,7 @@ area: Dialect
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 50.005
 longitude: 8.621
 language_map_img: 500px-Oberdeutsche_Mundarten.webp

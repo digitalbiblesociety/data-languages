@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.683745
 longitude: 87.49944
 language_map_img: India_Bagelkhand_locator_map.svg

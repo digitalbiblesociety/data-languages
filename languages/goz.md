@@ -10,6 +10,7 @@ area: Moribund Iranian language of Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.41331
 longitude: 50.69871
 glottocode: goza1238

@@ -12,6 +12,7 @@ area: Savannas language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 5.9503
 longitude: 15.2569
 glottocode: nort2775

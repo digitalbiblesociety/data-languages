@@ -11,6 +11,7 @@ area: Austroasiatic language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 15.42987
 longitude: 108.0455
 language_map_img: 500px-Takua_language.webp

@@ -10,6 +10,7 @@ location: Mozambique
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -16.03812
 longitude: 37.24366
 scripts: [Latn]

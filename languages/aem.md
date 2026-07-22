@@ -10,6 +10,7 @@ location: Laos
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 17.76723
 longitude: 105.92765
 glottocode: arem1240

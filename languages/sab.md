@@ -10,6 +10,7 @@ location: Panama
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 8.57695
 longitude: -81.25648
 glottocode: bugl1243

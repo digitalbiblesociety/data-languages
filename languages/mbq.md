@@ -10,6 +10,7 @@ area: Language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.22853
 longitude: 148.73057
 glottocode: mais1250

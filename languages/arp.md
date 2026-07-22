@@ -11,6 +11,7 @@ area: Plains Algonquian language of North America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 43.38792
 longitude: -108.80964
 scripts: [Latn]

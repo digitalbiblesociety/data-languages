@@ -11,6 +11,7 @@ area: "Dardic language spoken in eastern Kohistan, Pakistan"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 35.24943
 longitude: 73.3344
 glottocode: chil1275

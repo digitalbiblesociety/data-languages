@@ -11,6 +11,7 @@ area: Jukunoid language of Cameroon and Nigeria
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.20236
 longitude: 10.257605
 glottocode: juku1254

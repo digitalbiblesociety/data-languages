@@ -11,6 +11,7 @@ area: Tupí–Guaraní language of eastern Bolivia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.52979
 longitude: -63.9688
 glottocode: siri1273

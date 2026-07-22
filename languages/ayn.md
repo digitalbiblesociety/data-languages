@@ -12,6 +12,7 @@ area: Form of Yemeni Arabic spoken in Sanaa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 15.65517
 longitude: 44.84118
 language_map_img: Sanaani_Arabic.svg

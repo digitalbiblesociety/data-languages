@@ -11,6 +11,7 @@ area: Arawakan language of Brazil and Guyana
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 2.481
 longitude: -60.286
 glottocode: ator1244

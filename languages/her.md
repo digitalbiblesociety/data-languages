@@ -12,6 +12,7 @@ area: Bantu language of Namibia and Botswana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -21.02312
 longitude: 20.565535
 language_map_img: 500px-Distribution_of_Otjiherero_in_Namibia.webp

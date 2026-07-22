@@ -11,6 +11,7 @@ area: Oceanic language spoken in Micronesia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.55811
 longitude: 138.12478
 scripts: [Latn]

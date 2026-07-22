@@ -9,6 +9,7 @@ country_name: Russia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: rus
 scripts: [Cyrl, Perm]
 wikidata_id: Q36126
 wikipedia_url: "https://en.wikipedia.org/wiki/Komi_language"

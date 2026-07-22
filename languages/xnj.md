@@ -10,6 +10,7 @@ area: Bantu language spoken in southeastern Africa
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -12.92
 longitude: 38.89
 glottocode: tanz1241

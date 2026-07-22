@@ -11,6 +11,7 @@ area: Khoe language spoken in southern Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.074747
 longitude: 17.97667
 language_map_img: Nama-Damara_taalkaartje_NL.webp

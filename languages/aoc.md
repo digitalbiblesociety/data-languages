@@ -11,6 +11,7 @@ area: Cariban language spoken in Venezuela
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.97031
 longitude: -61.40329
 glottocode: pemo1248

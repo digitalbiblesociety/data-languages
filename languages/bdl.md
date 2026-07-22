@@ -11,6 +11,7 @@ area: Austronesian language family of Borneo and the Philippines
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.68664
 longitude: 122.25334
 glottocode: indo1317

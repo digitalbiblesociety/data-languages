@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 34.43099
 longitude: 70.30351
 glottocode: sout2672

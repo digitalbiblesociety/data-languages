@@ -11,6 +11,7 @@ area: Vietic language spoken in Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 17.72429
 longitude: 105.93241
 language_map_img: Location_of_Quang_Binh_within_Vietnam.webp

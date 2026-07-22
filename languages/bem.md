@@ -11,6 +11,7 @@ area: Bantu language of northeastern Zambia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -10.612245
 longitude: 29.29926
 scripts: [Latn]

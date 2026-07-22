@@ -11,6 +11,7 @@ area: Northwest Caucasian language of Abkhazia
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: kat
 latitude: 42.233375
 longitude: 41.29627
 scripts: [Cyrl]

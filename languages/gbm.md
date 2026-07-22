@@ -11,6 +11,7 @@ area: Central Pahari language spoken in India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 30.50606
 longitude: 78.72009
 scripts: [Deva]

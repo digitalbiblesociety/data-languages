@@ -11,6 +11,7 @@ area: Kairiru language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.70524
 longitude: 143.88443
 glottocode: kaie1237

@@ -11,6 +11,7 @@ area: Language related to Malayalam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 10.08696
 longitude: 77.1863
 glottocode: pali1274

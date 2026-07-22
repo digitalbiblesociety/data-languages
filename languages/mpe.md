@@ -11,6 +11,7 @@ area: Eastern Sudanic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.6843
 longitude: 35.02277
 glottocode: maja1242

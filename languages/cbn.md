@@ -11,6 +11,7 @@ area: Austroasiatic language of Thailand
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 15.89091
 longitude: 101.51465
 language_map_img: 500px-Monic_language.webp

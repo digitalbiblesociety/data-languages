@@ -12,6 +12,7 @@ area: Kalenjin language of Kenya
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.6
 longitude: 35
 glottocode: teri1244

@@ -11,6 +11,7 @@ area: Lolo-Burmese language of China and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 23.18287
 longitude: 105.40476
 glottocode: mant1265

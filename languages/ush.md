@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 35.15835
 longitude: 72.64297
 glottocode: usho1238

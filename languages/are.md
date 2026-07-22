@@ -11,6 +11,7 @@ area: Dialect cluster of Central Australia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -24.05052
 longitude: 133.24621
 language_map_img: 500px-Arandic_languages.webp

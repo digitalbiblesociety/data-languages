@@ -8,6 +8,7 @@ country_id: MM
 country_name: Myanmar
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 16.78599
 longitude: 96.13867
 glottocode: yang1309

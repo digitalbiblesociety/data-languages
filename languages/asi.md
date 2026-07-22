@@ -11,6 +11,7 @@ area: Asmat–Kamoro language spoken in New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.54561
 longitude: 133.32748
 glottocode: buru1308

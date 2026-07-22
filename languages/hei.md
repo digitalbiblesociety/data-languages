@@ -11,6 +11,7 @@ area: Northern Wakashan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.70454
 longitude: -127.22139
 language_map_img: Wakashan_map.svg

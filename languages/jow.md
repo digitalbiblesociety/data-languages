@@ -11,6 +11,7 @@ area: Mande language of Mali and Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 10.76912
 longitude: -5.47873
 glottocode: jowu1238

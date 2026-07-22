@@ -10,6 +10,7 @@ area: Iroquoian language of Canada and the US
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 43.77286
 longitude: -84.057715
 glottocode: onei1249

@@ -11,6 +11,7 @@ area: Endangered Ngayarda language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -20.92352
 longitude: 117.203
 glottocode: ngar1287

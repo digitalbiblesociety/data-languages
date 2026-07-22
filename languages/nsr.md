@@ -10,6 +10,7 @@ area: Maritime Canadian sign language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.04272
 longitude: -63.88096
 glottocode: mari1381

@@ -11,6 +11,7 @@ area: Mayan language spoken in Mexico and Belize
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.775675
 longitude: -88.95673
 language_map_img: Yucatec_map.svg

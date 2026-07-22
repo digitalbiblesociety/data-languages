@@ -11,6 +11,7 @@ area: Formal literary variety of Arabic
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 27.9625
 longitude: 43.8525
 language_map_img: Arabic_speaking_world.svg

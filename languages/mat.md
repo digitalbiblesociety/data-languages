@@ -11,6 +11,7 @@ area: Endangered Oto-Manguean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.35839
 longitude: -100.05809
 language_map_img: 500px-Matlatzinca_languages.webp

@@ -11,6 +11,7 @@ area: Lomwe language of Malawi
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nya
 latitude: -15.56729
 longitude: 35.43347
 glottocode: mala1256

@@ -10,6 +10,7 @@ area: Deaf sign language of Hong Kong and Macau
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: yue
 latitude: 22.160631
 longitude: 113.555225
 glottocode: hong1241

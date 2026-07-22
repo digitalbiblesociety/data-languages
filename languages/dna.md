@@ -11,6 +11,7 @@ area: Papuan language of Indonesian New Guinea (Papua)
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.94368
 longitude: 138.90083
 glottocode: uppe1430

@@ -11,6 +11,7 @@ area: Banda dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.01201
 longitude: 20.01943
 glottocode: gobu1238

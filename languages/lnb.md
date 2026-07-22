@@ -10,6 +10,7 @@ area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -19.593
 longitude: 16.617
 language_map_img: 500px-Distribution_of_Oshiwambo_in_Namibia.webp

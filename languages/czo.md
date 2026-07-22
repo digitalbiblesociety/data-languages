@@ -11,6 +11,7 @@ location: Southern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.06861
 longitude: 117.37571
 language_map_img: Min_dialect_map.svg

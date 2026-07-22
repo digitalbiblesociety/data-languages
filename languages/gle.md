@@ -12,6 +12,7 @@ area: Celtic language native to Ireland
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53.21855
 longitude: -7.61509
 language_map_img: 500px-Irish_speakers_in_2011.webp

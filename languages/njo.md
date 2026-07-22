@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken by the Ao of Nagaland in northeast India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.32405
 longitude: 94.38242
 scripts: [Latn]

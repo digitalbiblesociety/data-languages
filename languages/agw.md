@@ -11,6 +11,7 @@ area: Austronesian language spoken in Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -10.69634
 longitude: 162.19059
 glottocode: kahu1241

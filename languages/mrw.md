@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 7.79414
 longitude: 124.17548
 language_map_img: 500px-Maranao_language_map.webp

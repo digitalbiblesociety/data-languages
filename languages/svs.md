@@ -11,6 +11,7 @@ area: Language of the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -9.12853
 longitude: 159.81438
 glottocode: savo1255

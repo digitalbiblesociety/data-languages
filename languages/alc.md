@@ -11,6 +11,7 @@ area: Endangered Alacalufan language of Chile
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -49.70303
 longitude: -75.3756
 glottocode: qawa1238

@@ -11,6 +11,7 @@ area: Timoric language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.84686
 longitude: 122.85241
 glottocode: dela1251

@@ -11,6 +11,7 @@ area: Tahitic language of Rakahanga and Manihiki
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: rar
 latitude: -10.08
 longitude: -161
 glottocode: raka1237

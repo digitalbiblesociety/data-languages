@@ -11,6 +11,7 @@ area: Mixe language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.21565
 longitude: -96.0179
 glottocode: toto1305

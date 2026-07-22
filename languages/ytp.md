@@ -11,6 +11,7 @@ area: "Endangered Loloish language of Yunnan, China"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.15
 longitude: 104.9
 glottocode: thop1236

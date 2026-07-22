@@ -10,6 +10,7 @@ area: Language spoken on Pitcairn Islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.07
 longitude: -130.08
 glottocode: pitc1234

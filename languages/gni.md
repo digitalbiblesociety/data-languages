@@ -11,6 +11,7 @@ area: Endangered Aboriginal language of Western Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.40733
 longitude: 126.351
 glottocode: goon1238

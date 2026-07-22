@@ -10,6 +10,7 @@ area: East Geelvink Bay language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.28732
 longitude: 137.0536
 glottocode: bara1375

@@ -12,6 +12,7 @@ area: Austronesian language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.64582
 longitude: 103.34214
 glottocode: jaku1244

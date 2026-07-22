@@ -11,6 +11,7 @@ area: Tibetic language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.69255
 longitude: 87.34093
 glottocode: naab1241

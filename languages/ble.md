@@ -11,6 +11,7 @@ area: Bak language group of West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 11.82031
 longitude: -15.32209
 glottocode: bala1301

@@ -9,6 +9,7 @@ area: Mande language of West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 wikidata_id: Q63257856
 translations:
   - translation_iso: ara

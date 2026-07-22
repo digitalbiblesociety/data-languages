@@ -11,6 +11,7 @@ area: Cushitic language spoken in Eritrea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tir
 latitude: 15.78326
 longitude: 38.39169
 scripts: [Ethi]

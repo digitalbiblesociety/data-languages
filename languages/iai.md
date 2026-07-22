@@ -11,6 +11,7 @@ area: "Austronesian language of Ouvéa, New Caledonia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -20.63012
 longitude: 166.59048
 glottocode: iaai1238

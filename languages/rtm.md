@@ -10,6 +10,7 @@ location: Fiji
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -12.50082
 longitude: 177.06614
 language_map_img: 500px-Ethnic_Map_of_Fiji.webp

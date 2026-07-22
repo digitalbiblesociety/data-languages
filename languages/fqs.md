@@ -11,6 +11,7 @@ area: Fas language of Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.10868
 longitude: 141.64043
 glottocode: fass1245

@@ -12,6 +12,7 @@ area: "Variety of Albanian traditionally spoken by the Arvanites, a population g
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 38.28299
 longitude: 23.37034
 glottocode: arva1236

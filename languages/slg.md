@@ -10,6 +10,7 @@ location: "Indonesia, Kalimantan"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 4.34788
 longitude: 116.45038
 glottocode: selu1243

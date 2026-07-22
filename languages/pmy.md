@@ -10,6 +10,7 @@ area: Vernacular Malay used in Indonesian New Guinea
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.534817
 longitude: 139.650878
 glottocode: papu1250

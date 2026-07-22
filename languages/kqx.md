@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Cameroon and Chad
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.976475
 longitude: 15.03727
 glottocode: mser1242

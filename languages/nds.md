@@ -10,6 +10,7 @@ area: West Germanic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 50.771
 longitude: 6.092
 language_map_img: Nds_Spraakrebeet_na1945.svg

@@ -11,6 +11,7 @@ area: Austronesian language spoken in Brunei
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.74327
 longitude: 114.63828
 glottocode: tuto1241

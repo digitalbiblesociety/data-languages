@@ -10,6 +10,7 @@ area: "Austronesian language of Sumba, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -9.63425
 longitude: 119.60465
 glottocode: anak1240

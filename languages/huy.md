@@ -10,6 +10,7 @@ area: Northeastern Neo-Aramaic dialect of Jews in Kurdistan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.911135
 longitude: 43.486485
 glottocode: hula1244

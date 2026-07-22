@@ -11,6 +11,7 @@ area: "Language spoken in Achterhoek, Netherlands"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.02104
 longitude: 6.47521
 glottocode: acht1238

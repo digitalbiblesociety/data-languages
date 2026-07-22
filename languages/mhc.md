@@ -11,6 +11,7 @@ area: "Endangered Mayan language of Chiapas, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.45381
 longitude: -92.17341
 glottocode: moch1257

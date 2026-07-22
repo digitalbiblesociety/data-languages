@@ -11,6 +11,7 @@ area: Arawakan language spoken in South America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 5.642953
 longitude: -56.924345
 scripts: [Latn]

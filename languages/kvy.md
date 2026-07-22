@@ -11,6 +11,7 @@ area: Karenic dialect continuum
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 18.93779
 longitude: 97.33683
 glottocode: yint1235

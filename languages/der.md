@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken in northeastern India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.86152
 longitude: 93.70572
 language_map_img: 500px-Deuri.webp

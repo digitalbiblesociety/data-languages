@@ -11,6 +11,7 @@ area: Mande language of southern Sierra Leone
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 7.90935
 longitude: -10.992585
 scripts: [Latn, Mend]

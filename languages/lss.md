@@ -11,6 +11,7 @@ area: Dialect of Sindhi spoken in Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25.32934
 longitude: 66.9137
 glottocode: lasi1242

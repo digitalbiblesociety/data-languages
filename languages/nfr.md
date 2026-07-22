@@ -11,6 +11,7 @@ area: Senufo language of Ghana and Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.00522
 longitude: -2.51001
 language_map_img: Nafaanra_language.svg

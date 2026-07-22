@@ -11,6 +11,7 @@ area: Upper Cross River language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.81055
 longitude: 8.03166
 glottocode: agwa1247

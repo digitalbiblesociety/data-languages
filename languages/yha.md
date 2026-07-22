@@ -11,6 +11,7 @@ area: Kra-Dai language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.0105
 longitude: 104.44861
 glottocode: baha1256

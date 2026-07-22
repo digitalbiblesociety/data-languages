@@ -7,6 +7,7 @@ country_id: CN
 country_name: China
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 49
 longitude: 117
 glottocode: kham1281

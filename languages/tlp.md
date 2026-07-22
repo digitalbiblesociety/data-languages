@@ -11,6 +11,7 @@ area: "Totonac language of Filomeno Mata, Veracruz, eastern Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.14152
 longitude: -97.59312
 glottocode: filo1235

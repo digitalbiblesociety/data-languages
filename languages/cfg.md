@@ -11,6 +11,7 @@ area: Jukunoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.86601
 longitude: 10.81598
 glottocode: como1258

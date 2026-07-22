@@ -11,6 +11,7 @@ area: Idomoid language spoken in southeast Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.84259
 longitude: 8.84077
 glottocode: yace1238

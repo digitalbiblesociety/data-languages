@@ -11,6 +11,7 @@ area: Chibchan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 10.92861
 longitude: -73.40561
 language_map_img: Wiwa_ou_Malayo.webp

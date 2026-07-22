@@ -11,6 +11,7 @@ area: Chadic language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.02281
 longitude: 19.81819
 glottocode: birg1239

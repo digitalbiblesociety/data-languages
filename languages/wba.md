@@ -11,6 +11,7 @@ area: Language of the Warao people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 7.508507
 longitude: -59.352763
 language_map_img: 500px-Warao_language.webp

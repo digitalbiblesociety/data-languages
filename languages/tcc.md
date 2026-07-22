@@ -11,6 +11,7 @@ area: Nilotic language spoken in Tanzania
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.4131
 longitude: 35.23207
 glottocode: dato1239

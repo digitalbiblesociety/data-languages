@@ -11,6 +11,7 @@ area: Language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.29104
 longitude: 18.75001
 glottocode: fani1244

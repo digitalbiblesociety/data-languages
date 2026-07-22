@@ -11,6 +11,7 @@ area: Mande language of Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 11.74971
 longitude: -5.50744
 glottocode: bank1258

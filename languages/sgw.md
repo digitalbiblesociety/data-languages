@@ -11,6 +11,7 @@ area: Gurage language spoken in Ethiopia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.11879
 longitude: 37.98907
 glottocode: seba1251

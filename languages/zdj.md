@@ -11,6 +11,7 @@ area: Bantu language group of the Comoro Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: -11.6129
 longitude: 43.35998
 scripts: [Arab]

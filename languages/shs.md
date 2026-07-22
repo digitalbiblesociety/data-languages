@@ -11,6 +11,7 @@ area: Interior Salish language of Canada
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.87341
 longitude: -119.66696
 glottocode: shus1248

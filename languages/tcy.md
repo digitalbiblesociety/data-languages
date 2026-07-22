@@ -11,6 +11,7 @@ area: Dravidian language of Tulu Nadu region
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 12.81143
 longitude: 75.26509
 scripts: [Knda]

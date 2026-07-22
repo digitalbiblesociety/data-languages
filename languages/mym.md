@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.63207
 longitude: 35.62555
 glottocode: meen1242

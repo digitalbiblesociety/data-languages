@@ -12,6 +12,7 @@ area: Austronesian language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.66503
 longitude: 102.29107
 scripts: [Latn]

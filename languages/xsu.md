@@ -11,6 +11,7 @@ area: Language of Venezuela and Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.31875
 longitude: -67.64978
 language_map_img: Yanomaman.svg

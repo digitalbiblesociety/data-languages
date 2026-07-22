@@ -11,6 +11,7 @@ area: Tucanoan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.735585
 longitude: -69.695465
 language_map_img: Yuruti.webp

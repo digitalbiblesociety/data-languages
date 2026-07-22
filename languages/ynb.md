@@ -6,6 +6,7 @@ country_id: PG
 country_name: Papua New Guinea
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.77103
 longitude: 145.5701
 wikidata_id: Q65046092

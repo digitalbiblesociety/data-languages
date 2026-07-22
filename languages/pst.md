@@ -12,6 +12,7 @@ area: Variety of the Pashto language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 31.9153
 longitude: 69.45294
 glottocode: cent1973

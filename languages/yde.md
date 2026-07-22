@@ -10,6 +10,7 @@ area: Torricelli dialects of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.51156
 longitude: 142.46152
 glottocode: yang1297

@@ -10,6 +10,7 @@ area: Nilotic language of Kenya
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -1.34401
 longitude: 35.62963
 glottocode: omot1239

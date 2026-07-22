@@ -10,6 +10,7 @@ area: Austronesian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.83746
 longitude: 132.7048
 glottocode: erok1237

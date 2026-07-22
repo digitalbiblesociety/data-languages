@@ -10,6 +10,7 @@ area: Southern Luo dialect
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 glottocode: labw1238
 wikidata_id: Q63259501
 translations:

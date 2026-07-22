@@ -10,6 +10,7 @@ area: Gogodala language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.95526
 longitude: 142.40045
 glottocode: arii1243

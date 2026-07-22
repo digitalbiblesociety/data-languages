@@ -11,6 +11,7 @@ area: "Arawakan language of Peru and Acre, Brazil"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.93109
 longitude: -73.90728
 glottocode: asha1243

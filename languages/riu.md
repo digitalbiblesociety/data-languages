@@ -10,6 +10,7 @@ area: "Austronesian language spoken in Flores, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.60342
 longitude: 121.12218
 glottocode: riun1237

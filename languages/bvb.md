@@ -11,6 +11,7 @@ area: Bantu or Bantoid language of Equatorial Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 3.53638
 longitude: 8.68929
 language_map_img: 500px-Lenguas_de_Guinea_Ecuatorial.webp

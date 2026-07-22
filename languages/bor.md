@@ -11,6 +11,7 @@ area: Language native to Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -16.60295
 longitude: -55.20043
 glottocode: boro1282

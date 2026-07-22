@@ -12,6 +12,7 @@ area: West Hmongic dialect continuum
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.22649
 longitude: 105.08171
 language_map_img: 500px-Hmong_Mien_lang.webp

@@ -11,6 +11,7 @@ area: Language in Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.15863
 longitude: 138.0273
 glottocode: trim1239

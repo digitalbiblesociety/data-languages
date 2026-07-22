@@ -11,6 +11,7 @@ area: Tai language of Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 17.520725
 longitude: 102.19119
 language_map_img: 500px-Phuan_language.webp

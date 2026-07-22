@@ -9,6 +9,7 @@ area: Zande language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.739
 longitude: 26.61
 glottocode: pamb1243

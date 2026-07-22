@@ -12,6 +12,7 @@ area: "Zapotec dialect cluster of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.4219
 longitude: -96.61912
 glottocode: sier1250

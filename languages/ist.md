@@ -10,6 +10,7 @@ area: Romance language spoken in Croatia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hrv
 latitude: 45.088
 longitude: 13.64
 glottocode: istr1244

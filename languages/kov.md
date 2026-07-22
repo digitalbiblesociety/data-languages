@@ -11,6 +11,7 @@ area: Nearly extinct Kainji dialect cluster of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.08192
 longitude: 9.07725
 glottocode: kudu1241

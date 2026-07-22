@@ -11,6 +11,7 @@ area: Endangered Athabaskan language spoken in Alberta
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.8822
 longitude: -114.301
 glottocode: sars1236

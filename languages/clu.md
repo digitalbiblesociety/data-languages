@@ -11,6 +11,7 @@ area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.04893
 longitude: 121.38425
 glottocode: calu1238

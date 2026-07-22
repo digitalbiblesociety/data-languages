@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -26.40642
 longitude: 133.57684
 glottocode: yank1247

@@ -12,6 +12,7 @@ area: Rajasthani language spoken by the Gujars
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 34.376763
 longitude: 73.146073
 scripts: [Arab]

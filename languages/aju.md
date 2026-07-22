@@ -12,6 +12,7 @@ area: Judeo-Arabic variety of Morocco
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 33.5
 longitude: -7.5
 glottocode: jude1265

@@ -11,6 +11,7 @@ area: Loloish language spoken in Asia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.207768
 longitude: 100.970154
 glottocode: lahu1252

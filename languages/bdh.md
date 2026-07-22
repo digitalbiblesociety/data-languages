@@ -11,6 +11,7 @@ area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.659435
 longitude: 29.58996
 glottocode: baka1274

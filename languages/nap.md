@@ -10,6 +10,7 @@ area: Italo-Romance language spoken in Italy
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 39.22883
 longitude: 16.42246
 language_map_img: Neapolitan_languages-it.svg

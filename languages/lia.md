@@ -11,6 +11,7 @@ area: Niger-Congo language of Sierra Leone and Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 9.52392
 longitude: -12.31378
 glottocode: west2450

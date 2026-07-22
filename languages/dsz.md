@@ -7,6 +7,7 @@ country_id: TR
 country_name: Turkey
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 37.316667
 longitude: 40.737778
 glottocode: mard1245

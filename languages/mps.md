@@ -11,6 +11,7 @@ area: Language of eastern Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.65765
 longitude: 144.51071
 glottocode: dadi1250

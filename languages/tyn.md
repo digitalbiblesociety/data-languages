@@ -10,6 +10,7 @@ area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.54543
 longitude: 139.90245
 glottocode: komb1274

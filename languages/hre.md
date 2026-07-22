@@ -11,6 +11,7 @@ area: Language of central Vietnam
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.63082
 longitude: 108.69418
 glottocode: hree1244

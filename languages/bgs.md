@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.9712
 longitude: 125.17494
 language_map_img: 500px-Tagabawa_language_map.webp

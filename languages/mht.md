@@ -11,6 +11,7 @@ area: Arawakan language spoken in Venezuela
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.06636
 longitude: -66.723105
 glottocode: mand1448

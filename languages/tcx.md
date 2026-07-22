@@ -11,6 +11,7 @@ area: "Dravidian language of Nilgiri Hills, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.41841
 longitude: 77.0168
 glottocode: toda1252

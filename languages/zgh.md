@@ -10,6 +10,7 @@ area: Variety of the Berber language used in Morocco
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: arb
 scripts: [Tfng]
 wikidata_id: Q7598268
 wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh"

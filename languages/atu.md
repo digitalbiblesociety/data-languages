@@ -11,6 +11,7 @@ area: Nilotic language spoken in South Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.32234
 longitude: 30.49451
 glottocode: reel1238

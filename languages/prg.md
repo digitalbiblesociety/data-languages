@@ -10,6 +10,7 @@ area: Extinct Western Baltic language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 52.394
 longitude: 14.757
 scripts: [Latn]

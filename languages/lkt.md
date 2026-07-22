@@ -11,6 +11,7 @@ area: Siouan language spoken by the Lakota people
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 46.3699
 longitude: -103.950435
 language_map_img: Lakota_map.svg

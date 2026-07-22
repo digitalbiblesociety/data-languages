@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken in Mexico and US
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 31.79725
 longitude: -111.994865
 glottocode: toho1245

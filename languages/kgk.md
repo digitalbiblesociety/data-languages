@@ -11,6 +11,7 @@ area: Tupian language spoken in Argentina and Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -24.58898
 longitude: -54.681455
 glottocode: kaiw1246

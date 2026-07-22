@@ -11,6 +11,7 @@ area: West Himalayish language of India and Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 29.92002
 longitude: 80.63653
 glottocode: byan1241

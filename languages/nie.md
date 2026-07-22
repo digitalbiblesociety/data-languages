@@ -11,6 +11,7 @@ area: Bua language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.70362
 longitude: 17.81346
 language_map_img: 500px-Niellim-closeup.webp

@@ -9,6 +9,7 @@ area: Papuan language
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.3859
 longitude: 147.80729
 glottocode: sene1263

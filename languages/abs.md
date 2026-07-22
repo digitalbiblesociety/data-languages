@@ -11,6 +11,7 @@ area: Language in Maluku
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.71342
 longitude: 128.18442
 glottocode: ambo1250

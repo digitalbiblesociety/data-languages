@@ -10,6 +10,7 @@ area: Papuan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.05862
 longitude: 147.44249
 glottocode: kina1251

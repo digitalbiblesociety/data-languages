@@ -10,6 +10,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.41042
 longitude: 154.62419
 glottocode: solo1257

@@ -10,6 +10,7 @@ area: Principal sign language of Norway
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nob
 latitude: 60.77328
 longitude: 10.24198
 glottocode: norw1255

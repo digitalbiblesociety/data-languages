@@ -10,6 +10,7 @@ area: Sabahan language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.8606
 longitude: 117.5455
 glottocode: nort3262

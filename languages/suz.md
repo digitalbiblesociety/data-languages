@@ -11,6 +11,7 @@ area: Kiranti language of Nepal and India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.52009
 longitude: 86.24762
 scripts: [Deva, Sunu]

@@ -11,6 +11,7 @@ area: Songhay language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 16.78141
 longitude: 6.92037
 language_map_img: Songhay_languages.svg

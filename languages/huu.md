@@ -11,6 +11,7 @@ area: Witotoan language of Peru and Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.13669
 longitude: -73.83307
 language_map_img: Murui.webp

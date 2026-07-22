@@ -10,6 +10,7 @@ location: "Indonesia, Kalimantan"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.175965
 longitude: 110.253925
 glottocode: biat1246

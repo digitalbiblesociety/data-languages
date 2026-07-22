@@ -11,6 +11,7 @@ area: Language spoken by the Berom people of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.67037
 longitude: 8.81221
 glottocode: bero1242

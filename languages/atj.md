@@ -11,6 +11,7 @@ area: "Cree language of southwestern Quebec, Canada"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.95551
 longitude: -73.79888
 scripts: [Latn]

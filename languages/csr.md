@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.8943
 longitude: -84.11803
 glottocode: cost1249

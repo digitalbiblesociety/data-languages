@@ -11,6 +11,7 @@ area: Austronesian language spoken in Maluku
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.93154
 longitude: 129.27734
 glottocode: nort2867

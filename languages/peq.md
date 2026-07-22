@@ -10,6 +10,7 @@ area: "Pomoan languages of California, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.76429
 longitude: -122.54519
 language_map_img: Pomoan_languages_map_multicolored.svg

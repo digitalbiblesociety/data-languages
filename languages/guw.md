@@ -11,6 +11,7 @@ area: Language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.48529
 longitude: 2.767675
 glottocode: gunn1250

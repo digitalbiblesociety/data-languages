@@ -9,6 +9,7 @@ area: Deaf sign language of Venezuela
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 10.32937
 longitude: -66.76784
 glottocode: vene1237

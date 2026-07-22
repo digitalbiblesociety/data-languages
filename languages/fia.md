@@ -11,6 +11,7 @@ area: Nubian language of northern Sudan and southern Egypt
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 22.81422
 longitude: 31.837595
 scripts: [Arab]

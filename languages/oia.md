@@ -11,6 +11,7 @@ area: Timor–Alor–Pantar language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.09044
 longitude: 127.20105
 glottocode: oira1263

@@ -11,6 +11,7 @@ area: Nupoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.57444
 longitude: 6.66088
 glottocode: kami1258

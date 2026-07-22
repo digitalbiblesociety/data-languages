@@ -11,6 +11,7 @@ area: Zenati Berber language spoken in Algeria
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 33.34886
 longitude: 6.06562
 language_map_img: 500px-Mzab-Wargla_Berberophone_areas.webp

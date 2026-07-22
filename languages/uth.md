@@ -10,6 +10,7 @@ area: Nigerian language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q63313668
 wikipedia_url: "https://en.wikipedia.org/wiki/Ut-Hun_language"
 translations:

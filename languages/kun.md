@@ -11,6 +11,7 @@ area: Nilo-Saharan language family spoken in Eritrea and Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tir
 latitude: 14.58789
 longitude: 37.529195
 language_map_img: Kunama.webp

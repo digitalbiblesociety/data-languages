@@ -11,6 +11,7 @@ area: Indo-Aryan language of Nepal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 26.725115
 longitude: 84.63006
 scripts: [Deva]

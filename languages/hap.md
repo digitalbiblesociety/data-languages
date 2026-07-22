@@ -10,6 +10,7 @@ area: Dani language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.36349
 longitude: 139.16433
 glottocode: hupl1238

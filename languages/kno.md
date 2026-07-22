@@ -11,6 +11,7 @@ area: Language of Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 8.67039
 longitude: -10.92143
 glottocode: kono1268

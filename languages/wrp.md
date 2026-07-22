@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.31142
 longitude: 136.63287
 glottocode: waro1242

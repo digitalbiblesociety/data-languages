@@ -10,6 +10,7 @@ area: Endangered Cushitic language of Somalia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 0.41988
 longitude: 43.12076
 glottocode: boon1242

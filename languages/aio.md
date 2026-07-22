@@ -11,6 +11,7 @@ area: "Tai language of Assam, India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.51452
 longitude: 92.3169
 glottocode: aito1238

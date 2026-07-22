@@ -10,6 +10,7 @@ location: "Indonesia, Sulawesi"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.23602
 longitude: 123.12905
 glottocode: lasa1237

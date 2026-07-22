@@ -10,6 +10,7 @@ area: Indo-Aryan language spoken in the Caribbean
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 7.67349
 longitude: -58.56973
 glottocode: cari1275

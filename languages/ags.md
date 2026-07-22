@@ -11,6 +11,7 @@ area: Tivoid language of southwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.50094
 longitude: 9.86936
 glottocode: esim1238

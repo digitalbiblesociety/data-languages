@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.15696
 longitude: 123.04494
 glottocode: kama1364

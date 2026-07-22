@@ -11,6 +11,7 @@ area: Bantu language spoken in Malawi
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nya
 latitude: -12.08164
 longitude: 34.06129
 scripts: [Latn]

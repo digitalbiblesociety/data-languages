@@ -11,6 +11,7 @@ area: Canela-Krahô dialect of Brazil
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.10712
 longitude: -45.1299
 glottocode: cane1242

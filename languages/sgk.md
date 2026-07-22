@@ -11,6 +11,7 @@ area: Loloish Language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.64
 longitude: 100.77
 glottocode: sang1320

@@ -10,6 +10,7 @@ location: Southern Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.79855
 longitude: -96.60795
 glottocode: soch1239

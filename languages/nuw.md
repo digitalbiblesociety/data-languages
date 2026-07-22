@@ -11,6 +11,7 @@ area: Oceanic language of Micronesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.31191
 longitude: 162.98395
 glottocode: ngul1236

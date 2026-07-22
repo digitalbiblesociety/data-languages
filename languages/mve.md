@@ -12,6 +12,7 @@ area: Indo-Aryan language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 28.32418
 longitude: 71.56714
 glottocode: marw1256

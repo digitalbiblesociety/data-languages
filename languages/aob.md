@@ -10,6 +10,7 @@ area: Nearly-extinct language spoken in Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.42448
 longitude: 142.84233
 language_map_img: Abom_language.svg

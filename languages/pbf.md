@@ -11,6 +11,7 @@ area: "Indigenous language of Puebla state, Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.38139
 longitude: -97.62584
 glottocode: coyo1236

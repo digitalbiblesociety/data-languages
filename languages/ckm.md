@@ -11,6 +11,7 @@ area: South Slavic supradialect or language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hrv
 language_map_img: 500px-Chakavian.webp
 wikidata_id: Q337565
 wikipedia_url: "https://en.wikipedia.org/wiki/Chakavian"

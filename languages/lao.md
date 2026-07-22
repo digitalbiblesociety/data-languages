@@ -12,6 +12,7 @@ area: Kra–Dai language of Southeast Asia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 16.07262
 longitude: 104.56848
 language_map_img: Idioma_lao.webp

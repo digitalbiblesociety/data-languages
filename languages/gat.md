@@ -11,6 +11,7 @@ area: Unconfirmed language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.74765
 longitude: 145.8806
 glottocode: kena1250

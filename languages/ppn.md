@@ -10,6 +10,7 @@ area: Oceanic language spoken on Bougainville
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.92283
 longitude: 155.28894
 glottocode: papa1265

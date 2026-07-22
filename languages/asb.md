@@ -11,6 +11,7 @@ area: Dakotan language spoken in North America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.292285
 longitude: -106.068105
 glottocode: assi1247

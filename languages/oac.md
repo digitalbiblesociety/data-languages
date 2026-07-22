@@ -11,6 +11,7 @@ area: Endangered language of Far East Russia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 50.32354
 longitude: 137.85131
 language_map_img: Udihe-Oroch-Taz-territorial-groups.webp

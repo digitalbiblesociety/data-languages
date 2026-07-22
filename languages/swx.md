@@ -11,6 +11,7 @@ area: Arawan language spoken in Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.82525
 longitude: -66.31458
 glottocode: suru1263

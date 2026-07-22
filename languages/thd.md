@@ -11,6 +11,7 @@ area: Paman language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.8159
 longitude: 142.03413
 glottocode: thay1249

@@ -11,6 +11,7 @@ area: Rotokas language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.22539
 longitude: 155.30733
 glottocode: asko1238

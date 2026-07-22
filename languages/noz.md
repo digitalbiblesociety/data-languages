@@ -11,6 +11,7 @@ area: Omotic language spoken in Ethiopia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.88202
 longitude: 36.3813
 glottocode: nayi1243

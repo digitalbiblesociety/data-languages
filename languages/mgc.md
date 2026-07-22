@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.5103
 longitude: 30.02285
 glottocode: moro1284

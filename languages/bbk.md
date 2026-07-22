@@ -11,6 +11,7 @@ area: Grassfields Bantoid language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.97863
 longitude: 10.28692
 language_map_img: Map_of_the_Grassfields_languages.webp

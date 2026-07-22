@@ -11,6 +11,7 @@ area: Central Sudanic language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.8798
 longitude: 29.29185
 glottocode: lese1243

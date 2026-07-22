@@ -11,6 +11,7 @@ area: Endangered Omotic language of Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.20951
 longitude: 36.33293
 glottocode: dime1235

@@ -11,6 +11,7 @@ area: West Chadic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.31975
 longitude: 10.83786
 glottocode: piya1245

@@ -10,6 +10,7 @@ area: Oceanic language of northeast New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.83909
 longitude: 143.95983
 glottocode: kiss1246

@@ -11,6 +11,7 @@ area: Endangered Cariban language of Venezuela
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.21256
 longitude: -63.10336
 glottocode: chai1253

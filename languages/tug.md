@@ -11,6 +11,7 @@ area: Adamawa language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.42506
 longitude: 18.20595
 glottocode: tuni1251

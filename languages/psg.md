@@ -9,6 +9,7 @@ area: Deaf sign language of Malaysia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.375
 longitude: 100.254
 glottocode: pena1248

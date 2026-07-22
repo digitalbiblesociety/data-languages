@@ -11,6 +11,7 @@ area: Maningrida language spoken in Australia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.07653
 longitude: 134.32729
 glottocode: naka1260

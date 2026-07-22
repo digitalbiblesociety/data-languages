@@ -10,6 +10,7 @@ area: Idomoid language of central Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.32586
 longitude: 8.01629
 glottocode: akpa1238

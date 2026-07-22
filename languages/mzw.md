@@ -11,6 +11,7 @@ area: Gur language of Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.43846
 longitude: -2.28724
 glottocode: degg1238

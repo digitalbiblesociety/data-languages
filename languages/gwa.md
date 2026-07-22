@@ -11,6 +11,7 @@ area: Kwa language of Ivory Coast and Ghana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.34421
 longitude: -3.70421
 glottocode: mbat1247

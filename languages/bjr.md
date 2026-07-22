@@ -11,6 +11,7 @@ area: Kainantu language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.22068
 longitude: 146.10232
 glottocode: binu1245

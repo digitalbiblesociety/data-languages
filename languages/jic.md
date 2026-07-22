@@ -10,6 +10,7 @@ location: El Salvador and Honduras
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.66859
 longitude: -87.03719
 language_map_img: Tolatecan_Languages.webp

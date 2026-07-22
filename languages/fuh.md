@@ -12,6 +12,7 @@ area: Variety of the Fula language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.2471
 longitude: -0.52004
 glottocode: west2454

@@ -8,6 +8,7 @@ country_id: RU
 country_name: Russia
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.052428
 longitude: 47.776611
 glottocode: kajt1238

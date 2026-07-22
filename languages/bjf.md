@@ -10,6 +10,7 @@ area: Modern Jewish Aramaic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.76957
 longitude: 35.15357
 glottocode: barz1241

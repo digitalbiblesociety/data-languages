@@ -11,6 +11,7 @@ area: "Language spoken in Lombok, Indonesia"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.58349
 longitude: 116.2841
 language_map_img: 500px-Linguistic_map_of_Lombok.webp

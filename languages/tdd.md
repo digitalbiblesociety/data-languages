@@ -11,6 +11,7 @@ area: Kra–Dai language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.783673
 longitude: 99.722045
 language_map_img: 500px-Tai_nuea_language.webp

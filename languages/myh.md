@@ -10,6 +10,7 @@ area: Wakashan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.32581
 longitude: -124.61639
 language_map_img: Wakashan_map.svg

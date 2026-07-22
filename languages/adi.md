@@ -11,6 +11,7 @@ area: Ethnic group of Tibet and Northeast India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.62812
 longitude: 94.3538
 glottocode: bori1243

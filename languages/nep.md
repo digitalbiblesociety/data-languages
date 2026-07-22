@@ -9,6 +9,7 @@ country_name: Nepal
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: nep
 latitude: 27.594703
 longitude: 87.620083
 language_map_img: nep.webp

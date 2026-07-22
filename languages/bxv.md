@@ -10,6 +10,7 @@ area: Extinct Bongo–Bagirmi language of Chad
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.83238
 longitude: 16.72592
 glottocode: bera1261

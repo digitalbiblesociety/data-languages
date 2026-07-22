@@ -11,6 +11,7 @@ area: Language isolate spoken by the Huaorani people of the Amazon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.12312
 longitude: -76.68295
 glottocode: waor1240

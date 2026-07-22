@@ -10,6 +10,7 @@ location: "Indonesia, Kalimantan"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 2.86972
 longitude: 116.25998
 glottocode: puna1266

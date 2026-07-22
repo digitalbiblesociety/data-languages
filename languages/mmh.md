@@ -11,6 +11,7 @@ area: Arawakan language spoken by the Mehinaku people of Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.53639
 longitude: -53.52095
 glottocode: mehi1240

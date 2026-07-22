@@ -11,6 +11,7 @@ area: Bak language of Guinea-Bissau
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 11.8977
 longitude: -15.83879
 glottocode: pape1239

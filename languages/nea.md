@@ -11,6 +11,7 @@ area: "Language in East Nusa Tenggara, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.82745
 longitude: 121.12061
 glottocode: east2464

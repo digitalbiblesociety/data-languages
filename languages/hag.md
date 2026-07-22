@@ -11,6 +11,7 @@ area: Language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.33929
 longitude: -1.57833
 glottocode: hang1258

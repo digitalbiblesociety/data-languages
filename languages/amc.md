@@ -11,6 +11,7 @@ area: Panoan language spoken in Peru and Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -10.20116
 longitude: -72.320825
 language_map_img: 500px-Amawaca.webp

@@ -11,6 +11,7 @@ area: Ubangian language spoken in Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 6.814355
 longitude: 24.10115
 glottocode: west2458

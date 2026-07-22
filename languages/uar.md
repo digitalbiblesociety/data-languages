@@ -11,6 +11,7 @@ area: Eleman language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.94866
 longitude: 145.73197
 glottocode: tair1256

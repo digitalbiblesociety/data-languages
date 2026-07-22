@@ -11,6 +11,7 @@ area: Bantu language spoken by the Duala and Mungo peoples of Cameroon
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.10208
 longitude: 9.61877
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Qiangic Sino-Tibetan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 31.53925
 longitude: 103.38351
 glottocode: sout2728

@@ -11,6 +11,7 @@ area: Austronesian language from Komodo Island
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.64518
 longitude: 119.4774
 glottocode: komo1261

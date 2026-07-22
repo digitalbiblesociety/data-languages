@@ -11,6 +11,7 @@ area: Kiranti language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.12147
 longitude: 87.04738
 scripts: [Deva]

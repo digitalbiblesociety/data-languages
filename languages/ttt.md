@@ -11,6 +11,7 @@ area: Southwestern Iranian language of Azerbaijan and Russia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 38.87186
 longitude: 49.33837
 language_map_img: 500px-Tat-language-area.webp

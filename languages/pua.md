@@ -11,6 +11,7 @@ area: Indigenous language spoken in parts of Mexico
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.53924
 longitude: -102.154
 language_map_img: Purepecha_map.svg

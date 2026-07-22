@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.82476
 longitude: 91.16887
 language_map_img: 500px-Rabha_Map.webp

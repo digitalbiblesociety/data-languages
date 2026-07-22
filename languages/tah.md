@@ -12,6 +12,7 @@ area: Language of French Polynesia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -17.648472
 longitude: -149.450226
 scripts: [Latn]

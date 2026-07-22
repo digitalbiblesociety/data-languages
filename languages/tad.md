@@ -11,6 +11,7 @@ area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.8406
 longitude: 136.89869
 language_map_img: Tause_language_distribution.svg

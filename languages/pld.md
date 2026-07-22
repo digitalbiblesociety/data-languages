@@ -10,6 +10,7 @@ area: Form of slang
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.78662
 longitude: -1.39091
 glottocode: pola1249

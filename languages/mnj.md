@@ -11,6 +11,7 @@ area: Iranian language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.93207
 longitude: 70.94044
 glottocode: munj1244

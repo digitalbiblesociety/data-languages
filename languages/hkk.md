@@ -11,6 +11,7 @@ area: Binanderean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.79019
 longitude: 148.08954
 glottocode: hunj1241

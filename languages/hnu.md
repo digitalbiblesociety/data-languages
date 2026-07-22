@@ -11,6 +11,7 @@ area: Vietic dialect cluster spoken in Vietnam
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 18.784855
 longitude: 104.77162
 glottocode: hung1275

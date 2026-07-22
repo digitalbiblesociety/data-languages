@@ -10,6 +10,7 @@ area: Oghuz Turkic language of Eastern Europe
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ron
 latitude: 44.598763
 longitude: 28.02769
 scripts: [Cyrl, Latn]

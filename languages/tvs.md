@@ -11,6 +11,7 @@ area: Northeast Coast Bantu languages of Kenya
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.41822
 longitude: 37.70607
 glottocode: tave1240

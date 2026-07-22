@@ -12,6 +12,7 @@ area: Chinese varieties spoken around Jiangxi
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.98958
 longitude: 115.16585
 language_map_img: gan.webp

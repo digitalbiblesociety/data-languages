@@ -11,6 +11,7 @@ area: "Paman language spoken in Queensland, Australia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -16.68067
 longitude: 143.52986
 glottocode: kunj1245

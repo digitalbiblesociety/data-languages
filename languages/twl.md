@@ -11,6 +11,7 @@ area: "Bantu language of Zimbabwe, Mozambique"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -16.01674
 longitude: 31.62099
 glottocode: tawa1270

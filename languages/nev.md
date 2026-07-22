@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 15.10343
 longitude: 106.54295
 language_map_img: 500px-Nyaheun_language.webp

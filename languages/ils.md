@@ -9,6 +9,7 @@ area: "Sign language, used particularly at international meetings"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 44.95
 longitude: 11.4
 glottocode: inte1259

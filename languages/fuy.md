@@ -11,6 +11,7 @@ area: Goilalan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.6371
 longitude: 147.31162
 glottocode: fuyu1242

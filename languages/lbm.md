@@ -11,6 +11,7 @@ area: Munda language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.89542
 longitude: 84.94628
 glottocode: lodh1246

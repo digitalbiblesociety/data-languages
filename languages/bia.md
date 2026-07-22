@@ -11,6 +11,7 @@ area: Aboriginal language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -29.0647
 longitude: 117.2464
 glottocode: badi1246

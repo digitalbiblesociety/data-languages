@@ -11,6 +11,7 @@ area: Talodi language spoken in Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.583
 longitude: 29.94036
 glottocode: dagi1241

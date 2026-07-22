@@ -11,6 +11,7 @@ area: Austronesian language spoken in New Caledonia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -21.096
 longitude: 165.15048
 glottocode: paic1239

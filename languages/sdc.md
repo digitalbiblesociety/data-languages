@@ -11,6 +11,7 @@ area: Italo-Dalmatian language of Sardinia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 40.74795
 longitude: 8.39332
 language_map_img: 500px-Gallurese.webp

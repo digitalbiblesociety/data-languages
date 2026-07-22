@@ -11,6 +11,7 @@ area: Tai language spoken in Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 18.957235
 longitude: 102.927963
 language_map_img: 500px-Tai_dam_language.webp

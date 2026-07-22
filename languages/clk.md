@@ -11,6 +11,7 @@ area: Language spoken in India and Tibet
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 29.44725
 longitude: 95.64716
 glottocode: idum1241

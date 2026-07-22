@@ -11,6 +11,7 @@ area: Gur language spoken in Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.75577
 longitude: -1.35467
 glottocode: tamp1252

@@ -11,6 +11,7 @@ area: Croisilles language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.50212
 longitude: 145.09554
 glottocode: maia1254

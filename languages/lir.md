@@ -11,6 +11,7 @@ area: English-based Kolokwa language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.423
 longitude: -10.52836
 glottocode: libe1240

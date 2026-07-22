@@ -11,6 +11,7 @@ area: Somali dialect
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 3.22288
 longitude: 43.61819
 glottocode: maay1238

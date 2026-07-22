@@ -10,6 +10,7 @@ location: "India, Map 5"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.25812
 longitude: 94.89365
 glottocode: wanc1238

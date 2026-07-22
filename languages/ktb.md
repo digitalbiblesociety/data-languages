@@ -11,6 +11,7 @@ area: Highland East Cushitic language in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.37582
 longitude: 37.90877
 glottocode: kamb1316

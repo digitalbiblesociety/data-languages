@@ -12,6 +12,7 @@ area: Language of northern India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.915
 longitude: 76.366
 scripts: [Deva]

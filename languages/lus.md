@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken primarily in northeastern India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.61376
 longitude: 92.624697
 language_map_img: 500px-Mizo_Language_Distribution_Map.webp

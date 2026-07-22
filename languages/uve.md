@@ -11,6 +11,7 @@ area: "Polynesian language of Ouvéa, New Caledonia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -20.41454
 longitude: 166.58936
 glottocode: west2516

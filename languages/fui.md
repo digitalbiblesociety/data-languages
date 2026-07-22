@@ -11,6 +11,7 @@ area: Dialect of the Fula language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.81656
 longitude: 18.346725
 glottocode: bagi1244

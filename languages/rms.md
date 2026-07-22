@@ -10,6 +10,7 @@ area: Deaf sign language of Romania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ron
 latitude: 44.92922
 longitude: 26.2924
 glottocode: roma1324

@@ -11,6 +11,7 @@ area: "Language of Papua, Indonesia, of uncertain affiliation"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.65941
 longitude: 137.5662
 glottocode: ware1253

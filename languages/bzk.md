@@ -11,6 +11,7 @@ area: English-based creole of Nicaragua
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 12.44018
 longitude: -83.73859
 glottocode: nica1252

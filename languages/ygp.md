@@ -11,6 +11,7 @@ area: "Loloish language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.7
 longitude: 102.5
 glottocode: gepo1234

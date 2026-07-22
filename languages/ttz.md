@@ -11,6 +11,7 @@ area: Tibetic language subgroup of Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.47193
 longitude: 85.08175
 glottocode: tsum1240

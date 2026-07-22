@@ -11,6 +11,7 @@ area: Austronesian language spoken in Taiwan
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.32349
 longitude: 120.88736
 language_map_img: 500px-Formosan_languages_2008.webp

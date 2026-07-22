@@ -10,6 +10,7 @@ area: Papuan language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.88
 longitude: 144.88
 glottocode: magi1244

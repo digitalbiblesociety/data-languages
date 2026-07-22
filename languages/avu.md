@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.386395
 longitude: 29.93794
 glottocode: avok1242

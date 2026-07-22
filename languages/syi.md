@@ -11,6 +11,7 @@ area: Language indigenous to Equatorial Guinea and Gabon.
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.523015
 longitude: 9.79206
 language_map_img: 500px-Idioma_seki.webp

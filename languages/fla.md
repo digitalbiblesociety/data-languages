@@ -11,6 +11,7 @@ area: Indigenous language of the United States
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.58251
 longitude: -114.18987
 glottocode: kali1308

@@ -11,6 +11,7 @@ area: Manding language of Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.82422
 longitude: -4.75524
 glottocode: bolo1266

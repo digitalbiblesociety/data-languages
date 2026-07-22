@@ -11,6 +11,7 @@ area: Language of Ghana and Togo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.169755
 longitude: 0.619185
 glottocode: adel1244

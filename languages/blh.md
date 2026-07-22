@@ -11,6 +11,7 @@ area: Kru language of Liberia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.54885
 longitude: -9.9765
 glottocode: kuwa1247

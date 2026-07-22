@@ -11,6 +11,7 @@ area: Meax language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.62201
 longitude: 133.14488
 glottocode: mosk1236

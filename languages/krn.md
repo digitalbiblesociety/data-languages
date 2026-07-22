@@ -11,6 +11,7 @@ area: Kru language spoken in Liberia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.69555
 longitude: -8.49229
 glottocode: sapo1251

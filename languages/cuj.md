@@ -11,6 +11,7 @@ area: Arawakan language of Peru
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.47453
 longitude: -70.79527
 glottocode: mash1270

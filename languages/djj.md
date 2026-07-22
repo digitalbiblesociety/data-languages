@@ -11,6 +11,7 @@ area: Australian Aboriginal language of north-central Arnhem land
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.01331
 longitude: 134.09666
 glottocode: djee1236

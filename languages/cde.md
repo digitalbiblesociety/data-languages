@@ -11,6 +11,7 @@ area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 15.87867
 longitude: 79.25339
 glottocode: chen1255

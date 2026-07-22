@@ -9,6 +9,7 @@ area: Australian Aboriginal sign language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.77361
 longitude: 128.73861
 glottocode: miri1273

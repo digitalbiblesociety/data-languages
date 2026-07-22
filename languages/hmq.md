@@ -12,6 +12,7 @@ area: Hmongic language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.49663
 longitude: 109.04627
 glottocode: east2370

@@ -11,6 +11,7 @@ area: Lower Cross River language of Cameroon and Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.78581
 longitude: 8.534625
 glottocode: usag1244

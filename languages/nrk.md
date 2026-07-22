@@ -9,6 +9,7 @@ area: Aboriginal language of Western Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -20.20748
 longitude: 119.30579
 glottocode: ngar1296

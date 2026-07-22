@@ -11,6 +11,7 @@ area: Language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.77873
 longitude: 30.48943
 glottocode: haaa1252

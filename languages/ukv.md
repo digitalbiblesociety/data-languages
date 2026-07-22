@@ -5,6 +5,7 @@ country_id: SS
 country_name: South Sudan
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.9613
 longitude: 31.537
 glottocode: kuku1285

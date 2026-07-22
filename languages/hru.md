@@ -10,6 +10,7 @@ location: "India, Map 5"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.27
 longitude: 92.63
 glottocode: hrus1242

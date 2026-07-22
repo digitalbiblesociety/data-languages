@@ -11,6 +11,7 @@ area: Tupian language of northwestern Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -11.88837
 longitude: -62.2544
 glottocode: tupa1250

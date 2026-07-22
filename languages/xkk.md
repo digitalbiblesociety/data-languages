@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 13.82736
 longitude: 107.25745
 glottocode: kaco1239

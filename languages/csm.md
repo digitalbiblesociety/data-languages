@@ -11,6 +11,7 @@ area: "Miwok language of California, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.0812
 longitude: -120.25684
 glottocode: cent2140

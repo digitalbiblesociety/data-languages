@@ -11,6 +11,7 @@ area: Tanoan language spoken in NM and AZ
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.90532
 longitude: -106.12405
 glottocode: tewa1260

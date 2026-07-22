@@ -10,6 +10,7 @@ area: Sign language of Switzerland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 47.10693
 longitude: 9.07557
 glottocode: swis1240

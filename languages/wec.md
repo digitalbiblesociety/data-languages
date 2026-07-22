@@ -11,6 +11,7 @@ area: Kru language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.36463
 longitude: -8.40234
 glottocode: wewe1238

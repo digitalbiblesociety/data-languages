@@ -11,6 +11,7 @@ area: Oceanic language spoken in Fiji
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -18.21311
 longitude: -178.78541
 glottocode: laua1243

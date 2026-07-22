@@ -11,6 +11,7 @@ area: Kuki-Chin language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.54438
 longitude: 93.3265
 glottocode: simt1238

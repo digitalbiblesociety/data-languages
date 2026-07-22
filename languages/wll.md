@@ -11,6 +11,7 @@ area: Nubian language of Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.86337
 longitude: 29.12281
 glottocode: wali1262

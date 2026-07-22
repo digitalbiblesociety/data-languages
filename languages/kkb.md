@@ -10,6 +10,7 @@ area: Endangered Lakes Plain language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.99145
 longitude: 138.1346
 glottocode: kwer1264

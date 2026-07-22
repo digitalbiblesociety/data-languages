@@ -11,6 +11,7 @@ area: Papuan language spoken on New Britain island
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.58045
 longitude: 151.05018
 glottocode: pele1245

@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken by the Comanche people in the United States
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 34.57014
 longitude: -98.42395
 language_map_img: Comanche_lang.webp

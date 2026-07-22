@@ -11,6 +11,7 @@ area: Aztecan language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 22.6
 longitude: -104.9
 glottocode: west2778

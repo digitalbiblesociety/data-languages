@@ -11,6 +11,7 @@ area: North American aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 34.7873
 longitude: -106.66059
 language_map_img: Pueblo_Tanoan_map.svg

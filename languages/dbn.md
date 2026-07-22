@@ -11,6 +11,7 @@ area: Extinct language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.38946
 longitude: 130.92525
 glottocode: duri1243

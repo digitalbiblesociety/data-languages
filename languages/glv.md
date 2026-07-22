@@ -11,6 +11,7 @@ area: Goidelic Celtic language of the Isle of Man
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 54.26037
 longitude: -4.45437
 scripts: [Latn]

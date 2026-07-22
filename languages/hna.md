@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.38053
 longitude: 13.84054
 glottocode: mina1276

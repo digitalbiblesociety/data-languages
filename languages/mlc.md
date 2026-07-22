@@ -11,6 +11,7 @@ area: Tai language spoken in northern Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 23.254105
 longitude: 105.52112
 glottocode: caol1238

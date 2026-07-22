@@ -10,6 +10,7 @@ area: Extinct Native American language formerly spoken in Oregon
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 44.98615
 longitude: -123.92463
 glottocode: kala1400

@@ -9,6 +9,7 @@ area: Deaf sign language of Sri Lanka
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sin
 latitude: 7.10588
 longitude: 79.85696
 glottocode: sril1237

@@ -11,6 +11,7 @@ area: Tanoan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.59942
 longitude: -106.7662
 glottocode: jeme1245

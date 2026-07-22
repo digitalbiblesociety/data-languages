@@ -11,6 +11,7 @@ area: Kainji language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.37555
 longitude: 4.67396
 glottocode: lopa1238

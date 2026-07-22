@@ -11,6 +11,7 @@ area: Dialect of Swahili spoken in the DRC
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -7.2692
 longitude: 27.41958
 glottocode: cong1236

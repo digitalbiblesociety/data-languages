@@ -10,6 +10,7 @@ area: Plateau language of Nigeria
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.97
 longitude: 6.99
 glottocode: koro1323

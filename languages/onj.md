@@ -10,6 +10,7 @@ area: Dagan language spoken in Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.31824
 longitude: 149.12064
 glottocode: onjo1240

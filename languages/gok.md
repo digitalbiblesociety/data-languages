@@ -11,6 +11,7 @@ area: Caste in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.77263
 longitude: 77.37332
 glottocode: gowl1241

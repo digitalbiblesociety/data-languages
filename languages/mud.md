@@ -11,6 +11,7 @@ area: Extinct mixed language of Bering Island
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 54.66014
 longitude: 167.78194
 glottocode: medn1235

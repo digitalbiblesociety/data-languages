@@ -10,6 +10,7 @@ location: Burkina Faso
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.04888
 longitude: -4.35805
 glottocode: dogo1294

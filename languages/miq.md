@@ -11,6 +11,7 @@ area: Misumalpan language in Central America
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.157575
 longitude: -84.294175
 language_map_img: Miskito_language.svg

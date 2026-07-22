@@ -10,6 +10,7 @@ area: Mixed Iberian-Romani language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 41.424
 longitude: 0.6
 glottocode: calo1236

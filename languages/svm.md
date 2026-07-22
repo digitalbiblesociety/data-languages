@@ -10,6 +10,7 @@ area: Dialect
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 41.89
 longitude: 14.7
 glottocode: slav1254

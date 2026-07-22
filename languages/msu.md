@@ -10,6 +10,7 @@ area: Endangered Oceanic language of Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.53817
 longitude: 146.93016
 glottocode: muso1238

@@ -11,6 +11,7 @@ area: Interior Salishan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.16675
 longitude: -120.19267
 glottocode: thom1243

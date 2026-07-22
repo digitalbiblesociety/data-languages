@@ -11,6 +11,7 @@ area: Endangered Munda language of India
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.07501
 longitude: 83.97234
 glottocode: pare1266

@@ -11,6 +11,7 @@ area: Cariban language spoken in Guyana and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.162765
 longitude: -60.86199
 glottocode: akaw1239

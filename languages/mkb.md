@@ -11,6 +11,7 @@ area: Language spoken in India and Bangladesh
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.08704
 longitude: 87.35068
 glottocode: malp1246

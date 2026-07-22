@@ -12,6 +12,7 @@ area: Finnic language spoken in South Estonia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: est
 latitude: 57.85
 longitude: 27
 language_map_img: 500px-South_Estonian_language_area_corrected_2017.webp

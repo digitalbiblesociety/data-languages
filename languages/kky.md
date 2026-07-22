@@ -11,6 +11,7 @@ area: Pama–Nyungan language of Queensland Australia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.9424
 longitude: 144.83085
 glottocode: gugu1255

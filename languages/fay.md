@@ -10,6 +10,7 @@ area: Indo-Iranian language spoken in Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 29.746
 longitude: 52.267
 glottocode: sout2645

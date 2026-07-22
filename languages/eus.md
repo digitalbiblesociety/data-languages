@@ -12,6 +12,7 @@ area: Language of the Basque people
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 43.27872
 longitude: -1.31622
 language_map_img: Euskalkiak.svg

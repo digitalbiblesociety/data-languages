@@ -10,6 +10,7 @@ area: Oceanic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.46971
 longitude: 152.67791
 glottocode: labe1239

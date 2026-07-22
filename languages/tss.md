@@ -10,6 +10,7 @@ area: Sign language used in Taiwan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.02062
 longitude: 121.30519
 glottocode: taiw1241

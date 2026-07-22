@@ -11,6 +11,7 @@ area: "Indigenous language of Mato Grosso, Brazil"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.71782
 longitude: -57.98063
 glottocode: iran1263

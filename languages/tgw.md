@@ -11,6 +11,7 @@ area: Senufo language of Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.67053
 longitude: -5.17372
 glottocode: tagw1240

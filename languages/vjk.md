@@ -9,6 +9,7 @@ area: Bihari language of India and Nepal
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 wikidata_id: Q3636001
 wikipedia_url: "https://en.wikipedia.org/wiki/Bajjika"
 translations:

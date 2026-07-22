@@ -12,6 +12,7 @@ area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 48.175842
 longitude: 24.395786
 language_map_img: ukr.webp

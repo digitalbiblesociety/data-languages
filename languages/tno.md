@@ -10,6 +10,7 @@ area: Endangered Tacanan language of Bolivia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.30281
 longitude: -67.39312
 glottocode: toro1255

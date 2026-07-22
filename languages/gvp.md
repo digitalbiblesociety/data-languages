@@ -11,6 +11,7 @@ area: Dialect Cluster spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -4.91161
 longitude: -49.02173
 glottocode: para1315

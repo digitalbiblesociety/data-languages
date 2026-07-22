@@ -10,6 +10,7 @@ area: Modern Eastern Aramaic or Syriac language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 37.37301
 longitude: 42.51921
 glottocode: hert1241

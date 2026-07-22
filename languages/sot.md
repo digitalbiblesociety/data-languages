@@ -11,6 +11,7 @@ location: "Lesotho, South Africa and Swaziland"
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: sot
 latitude: -30.44451
 longitude: 27.89507
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: "Language isolate of New Mexico, United States"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.52158
 longitude: -106.45285
 language_map_img: 500px-Keres_langs.webp

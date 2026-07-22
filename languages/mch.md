@@ -11,6 +11,7 @@ area: Indigenous language in South America
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.707045
 longitude: -64.387725
 glottocode: maqu1238

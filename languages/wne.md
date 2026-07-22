@@ -11,6 +11,7 @@ area: Pashto dialect spoken in northeastern Balochistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 30.05005
 longitude: 67.83272
 glottocode: wane1241

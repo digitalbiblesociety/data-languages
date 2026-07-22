@@ -9,6 +9,7 @@ country_id: MX
 country_name: Mexico
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.4451
 longitude: -96.3144
 wikidata_id: Q110737080

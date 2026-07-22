@@ -11,6 +11,7 @@ area: Endangered Pearic language of Southeast Asia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 10.87391
 longitude: 103.83516
 glottocode: saoc1239

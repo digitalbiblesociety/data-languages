@@ -11,6 +11,7 @@ area: Berber language of southwestern Morocco
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.785385
 longitude: -7.778785
 language_map_img: Tachelhit.webp

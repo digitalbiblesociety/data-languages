@@ -8,6 +8,7 @@ country_name: DR Congo
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.10038
 longitude: 17.82247
 glottocode: maye1238

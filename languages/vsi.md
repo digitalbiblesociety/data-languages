@@ -9,6 +9,7 @@ area: Sign language of the deaf community in Russia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ron
 latitude: 47.107
 longitude: 28.694
 glottocode: mold1243

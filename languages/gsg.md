@@ -10,6 +10,7 @@ area: Sign language predominantly used in Germany
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 50.81543
 longitude: 7.30478
 glottocode: germ1281

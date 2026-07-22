@@ -10,6 +10,7 @@ area: Predominant deaf sign language of the Netherlands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.12512
 longitude: 4.91133
 glottocode: dutc1253

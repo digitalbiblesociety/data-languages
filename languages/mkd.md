@@ -12,6 +12,7 @@ area: South Slavic language spoken in North Macedonia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: mkd
 latitude: 41.595727
 longitude: 21.793212
 language_map_img: Idioma_macedonio.webp

@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.83854
 longitude: 12.99521
 glottocode: puta1243

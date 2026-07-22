@@ -11,6 +11,7 @@ area: Afro-Asiatic dialect cluster of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.31902
 longitude: 15.29053
 glottocode: nget1241

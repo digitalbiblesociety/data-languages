@@ -11,6 +11,7 @@ area: Arawakan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -14.59295
 longitude: -57.40595
 glottocode: pare1272

@@ -9,6 +9,7 @@ area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.553
 longitude: -13.674
 glottocode: guin1250

@@ -11,6 +11,7 @@ area: Nilo-Saharan language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.75283
 longitude: 20.89123
 language_map_img: Amdang_map.webp

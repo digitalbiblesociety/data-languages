@@ -10,6 +10,7 @@ location: "Mali, Map 4"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.376155
 longitude: -3.664799
 glottocode: momb1254

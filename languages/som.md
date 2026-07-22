@@ -12,6 +12,7 @@ area: Cushitic language of the Horn of Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 4.778704
 longitude: 45.152856
 language_map_img: som.webp

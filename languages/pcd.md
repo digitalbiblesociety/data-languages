@@ -11,6 +11,7 @@ area: Endangered Romance language of northern France and southern Belgium
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 50.28307
 longitude: 3.250855
 scripts: [Latn]

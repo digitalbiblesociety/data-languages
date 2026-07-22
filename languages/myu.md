@@ -11,6 +11,7 @@ area: Tupian language of north-central Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.41095
 longitude: -57.69099
 glottocode: mund1330

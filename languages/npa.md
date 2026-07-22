@@ -11,6 +11,7 @@ area: "Sino-Tibetan variety spoken in the two villages of Nar and Phu, in Nepal"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.76714
 longitude: 84.22852
 glottocode: narp1239

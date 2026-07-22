@@ -11,6 +11,7 @@ area: Mande language spoken in Ghana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.94291
 longitude: -2.563535
 glottocode: ligb1244

@@ -11,6 +11,7 @@ area: Group of Oto-Manguean languages of southern Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.25558
 longitude: -96.72403
 language_map_img: 500px-Otomanguean_Languages.webp

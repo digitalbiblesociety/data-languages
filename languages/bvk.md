@@ -10,6 +10,7 @@ area: "Language of West Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.29075
 longitude: 113.24644
 glottocode: buka1261

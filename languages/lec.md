@@ -11,6 +11,7 @@ area: Endangered language of Bolivia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.00921
 longitude: -67.88181
 language_map_img: 500px-Pueblos_originarios_de_Bolivia.webp

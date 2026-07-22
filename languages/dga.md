@@ -10,6 +10,7 @@ location: Ghana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.4226
 longitude: -2.52265
 language_map_img: Languages_of_Burkina_Faso.webp

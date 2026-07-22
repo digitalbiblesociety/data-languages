@@ -11,6 +11,7 @@ area: Torricelli language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.63409
 longitude: 143.75606
 glottocode: wiar1238

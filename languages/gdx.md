@@ -11,6 +11,7 @@ area: "Marwari dialect of Rajasthan, India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.885
 longitude: 72.846
 glottocode: godw1241

@@ -11,6 +11,7 @@ area: Senufo language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.178905
 longitude: -5.28932
 glottocode: sici1249

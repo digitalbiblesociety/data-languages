@@ -11,6 +11,7 @@ area: Kra language spoken in Vietnam
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 22.72597
 longitude: 104.65974
 glottocode: whit1266

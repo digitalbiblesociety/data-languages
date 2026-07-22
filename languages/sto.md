@@ -11,6 +11,7 @@ area: "Siouan language spoken in Alberta, Canada"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.19392
 longitude: -114.98424
 language_map_img: 500px-Stoney_lang.webp

@@ -11,6 +11,7 @@ area: Nicobarese language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 7.94812
 longitude: 93.39208
 glottocode: cent1990

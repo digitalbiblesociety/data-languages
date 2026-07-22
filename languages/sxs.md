@@ -11,6 +11,7 @@ area: "Edoid language of Edo State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.06193
 longitude: 6.07531
 glottocode: sasa1247

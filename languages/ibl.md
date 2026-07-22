@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.42625
 longitude: 120.69508
 language_map_img: 500px-Ibaloi_language_map.webp

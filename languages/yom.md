@@ -11,6 +11,7 @@ area: Bantu language of west-central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.862267
 longitude: 12.63624
 language_map_img: 500px-LanguageMap-Kikongo-Kituba.webp

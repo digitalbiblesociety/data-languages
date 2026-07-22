@@ -11,6 +11,7 @@ area: West Papuan language of Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.18016
 longitude: 133.6177
 glottocode: meya1236

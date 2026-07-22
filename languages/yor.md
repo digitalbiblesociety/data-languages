@@ -12,6 +12,7 @@ area: Language spoken in West Africa
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.153455
 longitude: 3.672245
 language_map_img: yor.webp

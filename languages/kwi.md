@@ -11,6 +11,7 @@ area: Barbacoan language of Colombia and Ecuador
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.216525
 longitude: -78.340135
 glottocode: awac1239

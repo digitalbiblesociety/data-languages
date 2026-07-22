@@ -11,6 +11,7 @@ area: Bantu language of Zimbabwe and Botswana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -19.089855
 longitude: 26.039425
 glottocode: namb1291

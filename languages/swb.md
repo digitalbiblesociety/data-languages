@@ -11,6 +11,7 @@ area: Dialect spoken in Mayotte
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -15.40551
 longitude: 45.13625
 scripts: [Arab, Latn]

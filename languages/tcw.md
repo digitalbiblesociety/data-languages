@@ -11,6 +11,7 @@ area: Totonac language of central Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.2957
 longitude: -97.84358
 glottocode: tecp1235

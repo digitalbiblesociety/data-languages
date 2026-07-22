@@ -10,6 +10,7 @@ area: Malayalamoid language of India
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 9.46719
 longitude: 77.09056
 glottocode: ulla1237

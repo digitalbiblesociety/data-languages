@@ -11,6 +11,7 @@ area: Nilo-Saharan language of Chad and Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.95921
 longitude: 22.63932
 glottocode: assa1269

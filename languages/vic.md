@@ -11,6 +11,7 @@ area: English-based creole spoken in the Virgin Islands and the SSS islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 18.04715
 longitude: -63.07851
 scripts: [Latn]

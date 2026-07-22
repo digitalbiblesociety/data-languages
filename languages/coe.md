@@ -11,6 +11,7 @@ area: Tucanoan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.92316
 longitude: -75.34745
 language_map_img: Koreguaje.webp

@@ -11,6 +11,7 @@ area: Central Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.43391
 longitude: 25.51728
 glottocode: gbay1288

@@ -11,6 +11,7 @@ area: Language of the Luo people found in Kenya and Tanzania
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -0.93296
 longitude: 34.4896
 language_map_img: luo.webp

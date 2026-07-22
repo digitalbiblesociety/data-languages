@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.62663
 longitude: 121.26817
 language_map_img: 500px-Peta_bahasa_Pamona.webp

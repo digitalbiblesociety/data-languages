@@ -10,6 +10,7 @@ area: Extinct Miwok language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.03083
 longitude: -121.42161
 glottocode: plai1259

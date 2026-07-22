@@ -11,6 +11,7 @@ area: Austronesian dialect cluster of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.42088
 longitude: 116.6795
 glottocode: waha1239

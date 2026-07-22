@@ -10,6 +10,7 @@ area: Cushitic language of Kenya
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 2.79312
 longitude: 36.76187
 glottocode: elmo1238

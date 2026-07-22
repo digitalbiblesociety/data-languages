@@ -11,6 +11,7 @@ area: Jingpho dialect of India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.296
 longitude: 95.606
 glottocode: sing1264

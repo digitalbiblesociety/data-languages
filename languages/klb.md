@@ -11,6 +11,7 @@ area: "Yuman language of Baja California, Mexico"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 30.54713
 longitude: -115.123
 glottocode: kili1268

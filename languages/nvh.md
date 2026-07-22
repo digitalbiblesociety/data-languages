@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Malekula, Vanuatu"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -16.34974
 longitude: 167.41436
 glottocode: nasa1240

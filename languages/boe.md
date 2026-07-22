@@ -11,6 +11,7 @@ area: Bantoid language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.59969
 longitude: 10.27042
 glottocode: mund1328

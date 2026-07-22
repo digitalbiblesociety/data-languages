@@ -12,6 +12,7 @@ area: Chinese varieties spoken at and south of the Yangtze delta
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 29.86209
 longitude: 119.68246
 language_map_img: Idioma_wu.webp

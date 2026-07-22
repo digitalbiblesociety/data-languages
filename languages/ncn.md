@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.21213
 longitude: 148.20067
 glottocode: naun1237

@@ -10,6 +10,7 @@ area: Kartvelian language of Turkey and Georgia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 41.50039
 longitude: 41.909645
 language_map_img: Kartvelian_languages.webp

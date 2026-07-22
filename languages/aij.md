@@ -10,6 +10,7 @@ area: Modern Jewish-Aramaic dialect of Iraq
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 32.45782
 longitude: 35.51134
 glottocode: lish1245

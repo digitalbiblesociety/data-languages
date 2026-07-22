@@ -10,6 +10,7 @@ area: Arawakan language of southern Peru and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.221
 longitude: -73.001
 glottocode: sout3127

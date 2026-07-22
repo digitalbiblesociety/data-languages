@@ -11,6 +11,7 @@ area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -2.97663
 longitude: 31.06809
 glottocode: shub1238

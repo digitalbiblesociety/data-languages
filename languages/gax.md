@@ -12,6 +12,7 @@ area: Variety of Oromo spoken by the Borana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 1.05676
 longitude: 37.88195
 language_map_img: gax.webp

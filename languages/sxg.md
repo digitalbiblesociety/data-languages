@@ -11,6 +11,7 @@ area: Sino-Tibetan language of southwest China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.38951
 longitude: 100.40036
 glottocode: shix1238

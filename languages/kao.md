@@ -11,6 +11,7 @@ area: Manding language of Mali and Senegal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.21466
 longitude: -13.805095
 scripts: [Latn]

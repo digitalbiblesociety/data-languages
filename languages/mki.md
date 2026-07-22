@@ -11,6 +11,7 @@ area: Indo Aryan language in Indian subcontinent
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 26.41563
 longitude: 70.782565
 glottocode: dhat1238

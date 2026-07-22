@@ -11,6 +11,7 @@ area: Southern Bantoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.349065
 longitude: 9.464325
 glottocode: evan1238

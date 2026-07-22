@@ -11,6 +11,7 @@ area: Western Indo-Aryan language spoken in west-central India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.54507
 longitude: 73.24716
 glottocode: rajp1235

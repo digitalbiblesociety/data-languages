@@ -12,6 +12,7 @@ area: Variety of Persian spoken in Central Asia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: tgk
 latitude: 38.82131
 longitude: 68.55493
 language_map_img: tgk.webp

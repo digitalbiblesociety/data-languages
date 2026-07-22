@@ -11,6 +11,7 @@ area: Matacoan language of South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.206707
 longitude: -62.650767
 glottocode: iyow1239

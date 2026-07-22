@@ -11,6 +11,7 @@ area: "Austronesian language spoken on Buton island, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.68289
 longitude: 122.79103
 glottocode: ciac1237

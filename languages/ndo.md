@@ -12,6 +12,7 @@ area: Dialect in Namibia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.64172
 longitude: 19.163085
 scripts: [Latn]

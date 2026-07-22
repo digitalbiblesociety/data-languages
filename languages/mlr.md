@@ -11,6 +11,7 @@ area: Afroasiatic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.94813
 longitude: 14.21306
 glottocode: vame1236

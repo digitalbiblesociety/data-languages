@@ -12,6 +12,7 @@ area: Bantu language of South Africa and Zimbabwe
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.187955
 longitude: 29.952345
 language_map_img: South_Africa_2011_Venda_speakers_proportion_map.svg

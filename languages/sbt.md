@@ -11,6 +11,7 @@ area: Pauwasi language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.2742
 longitude: 140.88383
 glottocode: kimk1238

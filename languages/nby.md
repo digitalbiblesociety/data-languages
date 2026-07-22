@@ -11,6 +11,7 @@ area: Papuan language of Sandaun Province
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.77145
 longitude: 141.45416
 glottocode: ning1275

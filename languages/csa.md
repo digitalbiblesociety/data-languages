@@ -11,6 +11,7 @@ area: Chinantecan language of Mexico
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.06061
 longitude: -96.21833
 glottocode: chil1282

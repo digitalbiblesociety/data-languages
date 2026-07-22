@@ -11,6 +11,7 @@ area: Language family
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.24284
 longitude: -97.92019
 language_map_img: Triqui_map.svg

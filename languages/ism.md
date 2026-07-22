@@ -11,6 +11,7 @@ area: Language in Papua
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.00717
 longitude: 139.04018
 glottocode: masi1265

@@ -9,6 +9,7 @@ area: "Igboid language spoken in Ebonyi state, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q11926474
 wikipedia_url: "https://en.wikipedia.org/wiki/Ikwo_language"
 translations:

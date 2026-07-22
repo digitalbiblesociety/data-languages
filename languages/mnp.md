@@ -12,6 +12,7 @@ area: Chinese language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.05
 longitude: 118.32
 language_map_img: Min_dialect_map.svg

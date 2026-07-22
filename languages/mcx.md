@@ -11,6 +11,7 @@ area: Bantu language of the Central African Republic
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 3.457755
 longitude: 15.524605
 glottocode: mpie1238

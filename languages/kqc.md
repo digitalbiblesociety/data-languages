@@ -11,6 +11,7 @@ area: Manubaran language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.56687
 longitude: 147.9855
 glottocode: doro1266

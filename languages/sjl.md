@@ -11,6 +11,7 @@ area: Language cluster
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.65952
 longitude: 96.66328
 glottocode: saja1240

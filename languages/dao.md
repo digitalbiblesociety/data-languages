@@ -11,6 +11,7 @@ area: Kuki-Chin language of Myanmar
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.73472
 longitude: 93.78532
 glottocode: daai1236

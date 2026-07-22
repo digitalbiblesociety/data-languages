@@ -11,6 +11,7 @@ area: Bantu language of southern Cameroon and Equatorial Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.474565
 longitude: 10.24928
 language_map_img: Gyelimap.svg

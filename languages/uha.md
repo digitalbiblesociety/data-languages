@@ -10,6 +10,7 @@ area: "Edoid language of Ondo State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.38143
 longitude: 5.68537
 glottocode: uham1238

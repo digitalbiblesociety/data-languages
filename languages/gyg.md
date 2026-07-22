@@ -10,6 +10,7 @@ area: Ubangian dialect continuum of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 5.57378
 longitude: 21.97066
 glottocode: gbay1278

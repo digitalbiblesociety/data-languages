@@ -12,6 +12,7 @@ area: Algonquian language spoken in US Midwest
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.34704
 longitude: -94.27376
 glottocode: chip1241

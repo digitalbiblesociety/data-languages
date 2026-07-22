@@ -1,22 +1,23 @@
-// spanishfill is a one-off helper for the Spanish (spa) translation backfill.
+// translatefill drives LLM-assisted backfill of the translations[] field for
+// one target language (it began life as the Spanish-only "spanishfill").
 //
 // It has two modes:
 //
 //	export: scan languages/<iso>.md, and for every file that lacks a
-//	        translation_iso=spa entry, emit a JSON array of
+//	        translation_iso=<lang> entry, emit a JSON array of
 //	        {iso, name, autonym, alt_names}. This is the work-list handed to
 //	        the translation agents.
 //
-//	import: read a JSON object {iso: spanish_name} produced by the agents and
-//	        merge each as a translations[] item {translation_iso: spa, name,
-//	        auto: true}. Uses corpus.MergeFile so canonical YAML order, dedup,
-//	        and sorting all match the other translation sources. Existing
-//	        curated spa entries are never overwritten.
+//	import: read a JSON object {iso: translated_name} produced by the agents
+//	        and merge each as a translations[] item {translation_iso: <lang>,
+//	        name, auto: true}. Uses corpus.MergeFile so canonical YAML order,
+//	        dedup, and sorting all match the other translation sources.
+//	        Existing curated entries are never overwritten.
 //
 // Usage from the repo root:
 //
-//	go run ./tools/spanishfill -mode export > /tmp/spa-todo.json
-//	go run ./tools/spanishfill -mode import -in /tmp/spa-names.json [-dry-run]
+//	go run ./tools/translatefill -lang kor -mode export > /tmp/kor-todo.json
+//	go run ./tools/translatefill -lang kor -mode import -in /tmp/kor-names.json [-dry-run]
 package main
 
 import (
@@ -25,15 +26,17 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 
 	"languages/tools/corpus"
 )
 
-const targetIso = "spa"
-
-var itemOrder = []string{"translation_iso", "name", "auto"}
+var (
+	itemOrder = []string{"translation_iso", "name", "auto"}
+	reLang    = regexp.MustCompile(`^[a-z]{3}$`)
+)
 
 type todo struct {
 	Iso      string   `json:"iso"`
@@ -45,20 +48,26 @@ type todo struct {
 func main() {
 	var (
 		dir    = flag.String("dir", "languages", "directory holding <iso>.md files")
+		lang   = flag.String("lang", "", "target language (ISO 639-3, e.g. kor)")
 		mode   = flag.String("mode", "", "export | import")
-		in     = flag.String("in", "", "import: path to JSON {iso: spanish_name}")
+		in     = flag.String("in", "", "import: path to JSON {iso: translated_name}")
 		dryRun = flag.Bool("dry-run", false, "import: preview without writing")
 	)
 	flag.Parse()
 
+	if !reLang.MatchString(*lang) {
+		fmt.Fprintln(os.Stderr, "pass -lang <iso 639-3 code>, e.g. -lang kor")
+		os.Exit(2)
+	}
+
 	switch *mode {
 	case "export":
-		if err := runExport(*dir); err != nil {
+		if err := runExport(*dir, *lang); err != nil {
 			fmt.Fprintln(os.Stderr, "export:", err)
 			os.Exit(1)
 		}
 	case "import":
-		if err := runImport(*dir, *in, *dryRun); err != nil {
+		if err := runImport(*dir, *lang, *in, *dryRun); err != nil {
 			fmt.Fprintln(os.Stderr, "import:", err)
 			os.Exit(1)
 		}
@@ -68,15 +77,15 @@ func main() {
 	}
 }
 
-// hasTarget reports whether the file's translations[] already contains targetIso.
-func hasTarget(block string) bool {
+// hasTarget reports whether the file's translations[] already contains lang.
+func hasTarget(block, lang string) bool {
 	items, start, _ := corpus.ReadArrayField(block, "translations")
 	if start == -1 {
 		return false
 	}
 	for _, it := range items {
 		if v, ok := it.Get("translation_iso"); ok {
-			if s, _ := v.(string); s == targetIso {
+			if s, _ := v.(string); s == lang {
 				return true
 			}
 		}
@@ -97,37 +106,14 @@ func topScalar(entries []corpus.Entry, key string) string {
 	return ""
 }
 
-// altNames pulls the inline alt_names array if present (e.g. `alt_names: [A, B]`).
-func altNames(entries []corpus.Entry) []string {
-	for _, e := range entries {
-		if e.Key != "alt_names" {
-			continue
-		}
-		v := strings.TrimSpace(e.Value)
-		if !strings.HasPrefix(v, "[") || !strings.HasSuffix(v, "]") {
-			return nil
-		}
-		v = strings.TrimSuffix(strings.TrimPrefix(v, "["), "]")
-		var out []string
-		for _, part := range strings.Split(v, ",") {
-			p := corpus.Unquote(strings.TrimSpace(part))
-			if p != "" {
-				out = append(out, p)
-			}
-		}
-		return out
-	}
-	return nil
-}
-
-func runExport(dir string) error {
-	entriesGlob, err := filepath.Glob(filepath.Join(dir, "*.md"))
+func runExport(dir, lang string) error {
+	paths, err := filepath.Glob(filepath.Join(dir, "*.md"))
 	if err != nil {
 		return err
 	}
-	sort.Strings(entriesGlob)
+	sort.Strings(paths)
 	var list []todo
-	for _, path := range entriesGlob {
+	for _, path := range paths {
 		data, err := os.ReadFile(path)
 		if err != nil {
 			return err
@@ -136,7 +122,7 @@ func runExport(dir string) error {
 		if err != nil {
 			return fmt.Errorf("%s: %w", path, err)
 		}
-		if hasTarget(block) {
+		if hasTarget(block, lang) {
 			continue
 		}
 		entries, err := corpus.ReadEntries(block)
@@ -148,7 +134,7 @@ func runExport(dir string) error {
 			Iso:      iso,
 			Name:     topScalar(entries, "name"),
 			Autonym:  topScalar(entries, "autonym"),
-			AltNames: altNames(entries),
+			AltNames: corpus.InlineList(topScalar(entries, "alt_names")),
 		})
 	}
 	enc := json.NewEncoder(os.Stdout)
@@ -156,7 +142,7 @@ func runExport(dir string) error {
 	return enc.Encode(list)
 }
 
-func runImport(dir, in string, dryRun bool) error {
+func runImport(dir, lang, in string, dryRun bool) error {
 	if in == "" {
 		return fmt.Errorf("-in is required")
 	}
@@ -188,7 +174,7 @@ func runImport(dir, in string, dryRun bool) error {
 			continue
 		}
 		it := corpus.NewItem()
-		it.Set("translation_iso", targetIso)
+		it.Set("translation_iso", lang)
 		it.Set("name", name)
 		it.Set("auto", true)
 		r, err := corpus.MergeFile(path, "translations", []*corpus.Item{it}, corpus.MergeOptions{

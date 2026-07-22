@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.4793
 longitude: 94.34214
 glottocode: moyo1238

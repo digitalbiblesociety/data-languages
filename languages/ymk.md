@@ -11,6 +11,7 @@ area: Bantu language of Tanzania and Mozambique
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.4673
 longitude: 40.02737
 glottocode: makw1236

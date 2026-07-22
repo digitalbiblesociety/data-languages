@@ -11,6 +11,7 @@ area: Endangered Tai language spoken in India
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.88946
 longitude: 93.99325
 glottocode: kham1291

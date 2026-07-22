@@ -10,6 +10,7 @@ country_name: Norway
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: nob
 scripts: [Latn]
 wikidata_id: Q25164
 wikipedia_url: "https://en.wikipedia.org/wiki/Nynorsk"

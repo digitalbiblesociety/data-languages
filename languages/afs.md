@@ -11,6 +11,7 @@ area: Creole spoken in Southern US
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 31.784255
 longitude: -99.293385
 glottocode: afro1254

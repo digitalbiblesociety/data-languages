@@ -9,6 +9,7 @@ area: Deaf sign language of Poland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 52.00414
 longitude: 20.76105
 glottocode: poli1259

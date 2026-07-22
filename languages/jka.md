@@ -10,6 +10,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.3287
 longitude: 124.0177
 glottocode: kaer1234

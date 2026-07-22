@@ -11,6 +11,7 @@ area: Language from Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.6001
 longitude: -99.65409
 glottocode: temo1245

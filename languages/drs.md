@@ -11,6 +11,7 @@ area: Highland East Cushitic language spoken in south central Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.18469
 longitude: 38.2395
 glottocode: gede1246

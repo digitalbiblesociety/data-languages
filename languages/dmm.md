@@ -10,6 +10,7 @@ area: Moribund Mbum language in northern Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.72207
 longitude: 14.0597
 glottocode: dama1267

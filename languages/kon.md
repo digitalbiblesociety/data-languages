@@ -9,6 +9,7 @@ country_name: DR Congo
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: fra
 language_map_img: kon.webp
 scripts: [Latn]
 wikidata_id: Q33702

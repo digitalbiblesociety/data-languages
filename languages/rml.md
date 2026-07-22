@@ -11,6 +11,7 @@ area: Group of dialects of the Romani language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 60
 longitude: 38
 glottocode: balt1257

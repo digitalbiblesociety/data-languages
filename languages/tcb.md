@@ -11,6 +11,7 @@ area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 63.40459
 longitude: -143.3381
 glottocode: tana1290

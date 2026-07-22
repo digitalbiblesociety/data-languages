@@ -11,6 +11,7 @@ area: Songhay language of southwestern Niger
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.855377
 longitude: 2.411727
 language_map_img: Songhay_languages.svg

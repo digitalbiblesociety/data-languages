@@ -12,6 +12,7 @@ area: Malayan language of Peninsular Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.78176
 longitude: 101.90581
 glottocode: temu1239

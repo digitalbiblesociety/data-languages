@@ -11,6 +11,7 @@ area: Eastern Sudanic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.21489
 longitude: 33.68688
 glottocode: didi1258

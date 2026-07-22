@@ -11,6 +11,7 @@ area: "Maya language of Tabasco, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.17129
 longitude: -92.73666
 glottocode: taba1266

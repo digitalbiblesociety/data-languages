@@ -12,6 +12,7 @@ area: Indigenous name for a dialect of the Ojibwe language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53.9092
 longitude: -89.93311
 language_map_img: Anishinaabe-Anishinini_Distribution_Map.svg

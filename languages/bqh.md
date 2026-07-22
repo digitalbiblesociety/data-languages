@@ -11,6 +11,7 @@ area: Endangered Sino-Tibetan language of west-central China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 33.10014
 longitude: 103.9524
 language_map_img: 500px-Baima_map.webp

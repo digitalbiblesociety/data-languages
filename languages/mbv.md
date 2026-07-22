@@ -11,6 +11,7 @@ area: Rio Nunez language of Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.85525
 longitude: -14.73717
 glottocode: mbul1258

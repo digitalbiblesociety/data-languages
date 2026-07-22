@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in India and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.823745
 longitude: 92.262795
 language_map_img: 500px-Pnar.language.map.webp

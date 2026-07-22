@@ -11,6 +11,7 @@ location: Southern Central Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.00245
 longitude: -96.82337
 glottocode: zaac1239

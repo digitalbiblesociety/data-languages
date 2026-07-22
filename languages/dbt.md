@@ -11,6 +11,7 @@ area: Dogon language spoken in Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.78
 longitude: -2.94
 glottocode: bent1238

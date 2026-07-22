@@ -8,6 +8,7 @@ country_name: Philippines
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: fil
 scripts: [Latn]
 wikidata_id: Q35455
 wikipedia_url: "https://en.wikipedia.org/wiki/Bikol_languages"

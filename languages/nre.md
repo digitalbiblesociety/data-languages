@@ -11,6 +11,7 @@ area: "Angami–Pochuri language of Nagaland, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.11781
 longitude: 94.68531
 glottocode: sout2732

@@ -11,6 +11,7 @@ area: Papuan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.72962
 longitude: 136.88584
 glottocode: moni1261

@@ -11,6 +11,7 @@ area: Finnic language in western Latvia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: lav
 latitude: 57.56599
 longitude: 22.02622
 language_map_img: 500px-2.7-Livonian.webp

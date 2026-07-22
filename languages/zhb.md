@@ -11,6 +11,7 @@ area: "Qiangic language of Sichuan, China"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 30.74155
 longitude: 100.98277
 language_map_img: 500px-Zhaba_map.webp

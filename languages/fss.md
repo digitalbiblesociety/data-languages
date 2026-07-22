@@ -10,6 +10,7 @@ area: Moribund deaf sign language of Finland
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 62.111
 longitude: 26.328
 language_map_img: Finland-Swedish_Sign_Language.webp

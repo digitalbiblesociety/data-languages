@@ -11,6 +11,7 @@ area: Tibetic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 32.497
 longitude: 77.116
 glottocode: stod1241

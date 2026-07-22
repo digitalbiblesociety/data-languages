@@ -10,6 +10,7 @@ area: Portuguese-based creole spoken by a minority in Macau
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: yue
 latitude: 22.41813
 longitude: 114.11983
 language_map_img: Macau_in_Asia.webp

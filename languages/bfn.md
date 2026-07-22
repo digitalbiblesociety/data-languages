@@ -11,6 +11,7 @@ area: "Papuan language spoken on Timor, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -9.136185
 longitude: 125.215825
 language_map_img: 500px-Bunak.webp

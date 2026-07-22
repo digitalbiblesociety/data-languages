@@ -9,6 +9,7 @@ area: Language spoken in Brazil
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.720201
 longitude: -62.230225
 language_map_img: Yanomaman.svg

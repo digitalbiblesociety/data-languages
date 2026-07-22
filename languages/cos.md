@@ -12,6 +12,7 @@ area: Italo-Dalmatian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 41.700015
 longitude: 9.255365
 language_map_img: 500px-Parlers_de_Corse.webp

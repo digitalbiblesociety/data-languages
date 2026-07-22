@@ -11,6 +11,7 @@ area: Chadic dialect cluster spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.54189
 longitude: 13.40867
 glottocode: fali1285

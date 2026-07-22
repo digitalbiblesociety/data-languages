@@ -10,6 +10,7 @@ area: Sign language of Italy
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 42.72915
 longitude: 12.42949
 glottocode: ital1275

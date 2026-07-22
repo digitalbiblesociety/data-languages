@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.28092
 longitude: 14.1931
 glottocode: sout3051

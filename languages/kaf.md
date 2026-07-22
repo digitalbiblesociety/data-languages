@@ -11,6 +11,7 @@ area: Loloish language spoken in China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.6
 longitude: 102.4
 glottocode: kats1235

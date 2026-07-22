@@ -11,6 +11,7 @@ area: Language of the Yuchi people in the southeastern United States
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.96146
 longitude: -95.03933
 language_map_img: 500px-Yuchi_lang.webp

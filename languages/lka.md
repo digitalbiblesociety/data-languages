@@ -11,6 +11,7 @@ area: Language of East Timor
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.86372
 longitude: 125.71641
 glottocode: laka1255

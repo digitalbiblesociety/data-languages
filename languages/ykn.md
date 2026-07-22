@@ -9,6 +9,7 @@ location: Southwestern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.45
 longitude: 103.33
 glottocode: kuan1249

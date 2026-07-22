@@ -11,6 +11,7 @@ area: Lolo-Burmese language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.2
 longitude: 105.1
 glottocode: kath1251

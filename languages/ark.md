@@ -11,6 +11,7 @@ area: Yabutian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.48782
 longitude: -62.7261
 glottocode: arik1265

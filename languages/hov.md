@@ -10,6 +10,7 @@ area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.9841
 longitude: 113.89708
 glottocode: hovo1239

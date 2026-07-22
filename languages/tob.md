@@ -11,6 +11,7 @@ area: Guaicuruan language of northern Argentina
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -24.40253
 longitude: -60.447287
 glottocode: toba1269

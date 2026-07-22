@@ -8,6 +8,7 @@ country_name: China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.08332
 longitude: 97.08332
 glottocode: lopi1243

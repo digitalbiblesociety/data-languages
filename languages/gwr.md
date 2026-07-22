@@ -10,6 +10,7 @@ location: Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.11392
 longitude: 33.82265
 glottocode: gwer1238

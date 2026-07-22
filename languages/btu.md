@@ -10,6 +10,7 @@ area: Tivoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.81588
 longitude: 10.93773
 glottocode: batu1255

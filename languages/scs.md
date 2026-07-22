@@ -12,6 +12,7 @@ area: Athabaskan language group spoken in Canada
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 63.26714
 longitude: -123.64125
 scripts: [Latn]

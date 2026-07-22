@@ -11,6 +11,7 @@ area: Omotic language of Sudan and Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.29907
 longitude: 35.13733
 glottocode: ganz1246

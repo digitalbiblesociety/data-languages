@@ -11,6 +11,7 @@ area: Embera language of Colombia and Panama
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 7.12761
 longitude: -77.57396
 glottocode: nort2972

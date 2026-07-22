@@ -11,6 +11,7 @@ area: Tivoid language of Cameroon
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.22923
 longitude: 9.70562
 glottocode: eman1238

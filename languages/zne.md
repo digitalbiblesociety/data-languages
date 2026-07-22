@@ -11,6 +11,7 @@ area: Language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.62047
 longitude: 26.715677
 glottocode: zand1248

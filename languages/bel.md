@@ -11,6 +11,7 @@ area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: bel
 latitude: 53.230655
 longitude: 25.603835
 scripts: [Cyrl]

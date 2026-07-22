@@ -11,6 +11,7 @@ area: Nubian language spoken in northern Sudan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 wikidata_id: Q55218915
 wikipedia_url: "https://en.wikipedia.org/wiki/Dongolawi_language"
 translations:

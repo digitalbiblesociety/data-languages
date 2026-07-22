@@ -11,6 +11,7 @@ area: Qiangic language of Sichuan and Tibet
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 30.48028
 longitude: 102.12754
 language_map_img: 500px-Guiqiong_map.webp

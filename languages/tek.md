@@ -11,6 +11,7 @@ area: Teke dialect spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.20697
 longitude: 15.38931
 glottocode: ibal1241

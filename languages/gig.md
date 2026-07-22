@@ -10,6 +10,7 @@ area: Marwari Rajasthani language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 27.253
 longitude: 68.363
 glottocode: goar1239

@@ -11,6 +11,7 @@ area: Language spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.33227
 longitude: 86.39487
 glottocode: bahi1252

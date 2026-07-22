@@ -11,6 +11,7 @@ area: Niger–Congo language spoken in Senegal and Gambia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.8941
 longitude: -16.39165
 scripts: [Latn]

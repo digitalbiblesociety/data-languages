@@ -11,6 +11,7 @@ area: Mataco-Guaicuru language of Argentina and Bolivia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -24.21891
 longitude: -61.91171
 glottocode: wich1263

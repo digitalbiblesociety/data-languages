@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Jakarta, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.21174
 longitude: 107.02181
 language_map_img: bew.webp

@@ -11,6 +11,7 @@ area: Chocoan language spoken in Colombia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.258768
 longitude: -77.356568
 glottocode: epen1239

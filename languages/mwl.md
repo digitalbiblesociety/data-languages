@@ -11,6 +11,7 @@ area: Romance language spoken in Portugal
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 41.5375
 longitude: -6.38371
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Extinct Eastern Berber language of Libya
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.16
 longitude: 15.97425
 glottocode: sawk1238

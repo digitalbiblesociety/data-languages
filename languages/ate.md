@@ -11,6 +11,7 @@ area: Sogeram language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.08137
 longitude: 144.80568
 glottocode: atem1241

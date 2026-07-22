@@ -11,6 +11,7 @@ area: Southernmost dialect of the Lushootseed language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.26303
 longitude: -122.14073
 language_map_img: 500px-Lushootseed_area.webp

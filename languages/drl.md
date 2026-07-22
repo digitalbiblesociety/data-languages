@@ -11,6 +11,7 @@ area: "Aboriginal language in New South Wales, Australia"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -32.70212
 longitude: 142.69519
 language_map_img: 500px-Darling_language.png

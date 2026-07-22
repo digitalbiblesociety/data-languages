@@ -11,6 +11,7 @@ area: Akuwẽ language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -9.59426
 longitude: -48.26292
 glottocode: xere1240

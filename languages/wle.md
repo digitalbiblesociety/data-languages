@@ -11,6 +11,7 @@ area: Semitic language spoken by Silt’e people in Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.77004
 longitude: 38.14491
 glottocode: wola1253

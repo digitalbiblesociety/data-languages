@@ -11,6 +11,7 @@ area: Language of northern Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.19236
 longitude: 11.73658
 glottocode: samb1305

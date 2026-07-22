@@ -11,6 +11,7 @@ area: Qiangic language spoken in Tibet and China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 32.27662
 longitude: 103.1923
 glottocode: nort2722

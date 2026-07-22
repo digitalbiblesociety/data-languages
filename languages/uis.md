@@ -10,6 +10,7 @@ area: South Bougainville language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.55533
 longitude: 155.70566
 glottocode: uisa1238

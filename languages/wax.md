@@ -10,6 +10,7 @@ location: "Papua New Guinea, Map 4"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.02591
 longitude: 144.58253
 glottocode: wata1253

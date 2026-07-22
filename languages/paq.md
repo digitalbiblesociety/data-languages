@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in Central Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tgk
 latitude: 36.49218
 longitude: 69.25997
 glottocode: pary1242

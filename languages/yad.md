@@ -11,6 +11,7 @@ area: Peba–Yaguan language of northeastern Peru
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.42913
 longitude: -72.21864
 language_map_img: 500px-Yagua.webp

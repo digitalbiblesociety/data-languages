@@ -11,6 +11,7 @@ area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: isl
 latitude: 63.48375
 longitude: -19.02117
 scripts: [Latn]

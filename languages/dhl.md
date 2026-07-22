@@ -11,6 +11,7 @@ area: Australian Aboriginal language of the Pilbara region in Western Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.19598
 longitude: 114.93718
 glottocode: dhal1245

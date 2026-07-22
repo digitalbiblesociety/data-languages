@@ -10,6 +10,7 @@ country_name: Israel
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: heb
 scripts: [Hebr]
 wikidata_id: Q8641
 wikipedia_url: "https://en.wikipedia.org/wiki/Yiddish"

@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.43957
 longitude: 105.39652
 language_map_img: Lampungic_isolects.svg

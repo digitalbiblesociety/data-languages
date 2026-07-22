@@ -11,6 +11,7 @@ area: Chadic (Afro-Asiatic) language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.97395
 longitude: 9.78757
 glottocode: yiwo1237

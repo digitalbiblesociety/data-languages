@@ -12,6 +12,7 @@ area: Language spoken in South Asia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25
 longitude: 67
 language_map_img: urd.webp

@@ -9,6 +9,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 scripts: [Arab, Deva, Takr]
 wikidata_id: Q5583349
 translations:

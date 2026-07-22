@@ -11,6 +11,7 @@ area: Kam–Sui language spoken in north Guangxi
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.81515
 longitude: 108.92802
 glottocode: mula1253

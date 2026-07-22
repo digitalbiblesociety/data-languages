@@ -12,6 +12,7 @@ area: Indo-Aryan language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 15.27325
 longitude: 74.20979
 language_map_img: 500px-Geographic_Distribution_of_Native_Konkani_Speakers.webp

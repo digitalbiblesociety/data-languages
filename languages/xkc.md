@@ -10,6 +10,7 @@ area: Indo-Iranian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.89973
 longitude: 48.62115
 glottocode: khoi1250

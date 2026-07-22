@@ -11,6 +11,7 @@ area: Presumed extinct language of Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.25217
 longitude: -64.70047
 glottocode: hima1247

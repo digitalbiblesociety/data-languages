@@ -11,6 +11,7 @@ area: Southern Nuristani language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.03578
 longitude: 70.97609
 glottocode: waig1243

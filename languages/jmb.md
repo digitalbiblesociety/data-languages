@@ -11,6 +11,7 @@ area: Language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.82701
 longitude: 9.9683
 glottocode: zumb1240

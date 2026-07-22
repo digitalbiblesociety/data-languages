@@ -9,6 +9,7 @@ area: Indigenous sign language of Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q61951665
 translations:
   - translation_iso: ara

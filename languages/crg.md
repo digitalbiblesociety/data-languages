@@ -11,6 +11,7 @@ area: Mixed language of the Métis people
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.16808
 longitude: -99.911875
 scripts: [Latn]

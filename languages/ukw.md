@@ -11,6 +11,7 @@ area: Igboid language cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.78892
 longitude: 6.48559
 glottocode: ukwu1241

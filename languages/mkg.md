@@ -11,6 +11,7 @@ area: "Kra–Dai language spoken in Guizhou, China"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.59464
 longitude: 107.72616
 glottocode: makc1235

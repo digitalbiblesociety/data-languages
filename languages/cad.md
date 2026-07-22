@@ -11,6 +11,7 @@ area: Endangered language of the southern US
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.1826
 longitude: -98.26335
 language_map_img: 500px-Oklahoma_Indian_Languages.webp

@@ -10,6 +10,7 @@ area: Endangered Greek dialect
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.80104
 longitude: 35.10838
 glottocode: yeva1238

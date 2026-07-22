@@ -11,6 +11,7 @@ area: Aymaran language spoken in Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -12.88233
 longitude: -75.89576
 language_map_img: 500px-Jaqaru.webp

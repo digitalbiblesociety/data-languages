@@ -11,6 +11,7 @@ area: Ikwerre language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.04333
 longitude: 6.86651
 glottocode: ikwe1242

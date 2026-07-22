@@ -11,6 +11,7 @@ area: Creole language of southern US
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.66324
 longitude: -79.6036
 glottocode: gull1241

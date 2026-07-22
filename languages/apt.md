@@ -11,6 +11,7 @@ area: Tani language of India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.19331
 longitude: 93.72844
 glottocode: apat1240

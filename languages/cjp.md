@@ -11,6 +11,7 @@ area: Chibchan language spoken in Costa Rica
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.67031
 longitude: -83.41016
 glottocode: cabe1245

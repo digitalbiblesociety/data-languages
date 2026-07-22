@@ -11,6 +11,7 @@ area: Eastern Nilotic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.6986
 longitude: 32.75337
 glottocode: lopi1242

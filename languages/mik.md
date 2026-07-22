@@ -11,6 +11,7 @@ area: Muskogean language spoken in southern US
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 26.08142
 longitude: -80.90847
 glottocode: mika1239

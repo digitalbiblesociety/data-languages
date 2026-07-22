@@ -10,6 +10,7 @@ area: Lakes Plain language of Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.71886
 longitude: 136.06341
 glottocode: awer1241

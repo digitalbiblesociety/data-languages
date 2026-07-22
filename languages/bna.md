@@ -9,6 +9,7 @@ location: "Indonesia, Sulawesi"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.37657
 longitude: 121.79239
 glottocode: bone1254

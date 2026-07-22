@@ -11,6 +11,7 @@ area: Papuan language of Gogodala-Suki family
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.23565
 longitude: 142.46979
 glottocode: waru1267

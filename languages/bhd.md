@@ -11,6 +11,7 @@ area: "Native language of the people of Bhadarwah, Jammu and Kashmir"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 33.28509
 longitude: 75.87067
 glottocode: bhad1241

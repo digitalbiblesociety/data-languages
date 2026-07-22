@@ -11,6 +11,7 @@ area: Kwa language of Ghana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.9437
 longitude: 0.13243
 scripts: [Latn]

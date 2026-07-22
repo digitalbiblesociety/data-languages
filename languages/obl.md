@@ -11,6 +11,7 @@ area: Language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.18943
 longitude: 14.28999
 glottocode: oblo1238

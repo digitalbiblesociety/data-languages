@@ -11,6 +11,7 @@ area: Moribund Bantu language spoken in Gabon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.28107
 longitude: 11.17825
 glottocode: simb1254

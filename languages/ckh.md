@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Myanmar and Bangladesh
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 21.413375
 longitude: 92.595285
 glottocode: chak1270

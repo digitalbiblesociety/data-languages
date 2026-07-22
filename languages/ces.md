@@ -11,6 +11,7 @@ area: West Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ces
 latitude: 49.873398
 longitude: 15.10437
 language_map_img: ces.webp

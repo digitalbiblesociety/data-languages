@@ -11,6 +11,7 @@ area: Muskogean language spoken in US
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.89928
 longitude: -94.81899
 language_map_img: Choctaw_USC2000_PHS.svg

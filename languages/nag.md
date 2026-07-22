@@ -11,6 +11,7 @@ area: "Assamese-derived creole language spoken in Nagaland, India"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.25077
 longitude: 93.44376
 glottocode: naga1394

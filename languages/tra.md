@@ -10,6 +10,7 @@ area: Moribund Indo-Aryan language of Afghanistan
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 34.17924
 longitude: 69.59007
 glottocode: tira1253

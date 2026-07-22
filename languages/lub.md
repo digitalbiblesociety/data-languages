@@ -11,6 +11,7 @@ location: Southern Democratic Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -8.2816
 longitude: 25.89183
 scripts: [Latn]

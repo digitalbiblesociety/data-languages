@@ -10,6 +10,7 @@ country_name: Tanzania
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: swh
 scripts: [Latn]
 wikidata_id: Q7838
 wikipedia_url: "https://en.wikipedia.org/wiki/Swahili"

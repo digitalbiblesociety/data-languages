@@ -11,6 +11,7 @@ area: Gur language spoken in Benin and Togo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.94366
 longitude: 1.333025
 glottocode: miyo1238

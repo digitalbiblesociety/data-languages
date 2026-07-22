@@ -11,6 +11,7 @@ area: Bantu language spoken in Uganda
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.1513
 longitude: 33.47912
 glottocode: keny1278

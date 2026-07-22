@@ -11,6 +11,7 @@ area: Yoruboid language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.04385
 longitude: 3.05998
 glottocode: moko1243

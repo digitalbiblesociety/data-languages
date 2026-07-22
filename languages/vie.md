@@ -12,6 +12,7 @@ area: Austroasiatic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 18.388703
 longitude: 106.756827
 language_map_img: vie.webp

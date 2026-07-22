@@ -11,6 +11,7 @@ area: Sino-Tibetan language of southwestern Bhutan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 26.91347
 longitude: 89.30994
 language_map_img: 500px-Lhokpu.webp

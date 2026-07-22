@@ -11,6 +11,7 @@ area: Oto-Mangue language spoken in Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.59088
 longitude: -96.44501
 glottocode: coma1246

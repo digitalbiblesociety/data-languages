@@ -12,6 +12,7 @@ area: North Germanic language spoken in Norway
 status_id: "1"
 scope: macrolanguage
 language_type: living
+iso_lwc: nob
 latitude: 59.92
 longitude: 10.71
 language_map_img: Norwegian_language_map.svg

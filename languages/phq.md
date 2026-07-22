@@ -11,6 +11,7 @@ area: Loloish language spoken in China and Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 21.93872
 longitude: 101.9775
 glottocode: phan1254

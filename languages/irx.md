@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.53189
 longitude: 133.51841
 glottocode: kamb1302

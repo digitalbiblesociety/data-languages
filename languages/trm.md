@@ -11,6 +11,7 @@ area: Nuristani language spoken in Afghanistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 34.75482
 longitude: 70.96173
 glottocode: treg1243

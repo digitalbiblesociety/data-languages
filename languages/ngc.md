@@ -11,6 +11,7 @@ area: Language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.45357
 longitude: 20.14148
 glottocode: ngom1268

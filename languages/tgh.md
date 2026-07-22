@@ -11,6 +11,7 @@ area: English-based creole of Tobago
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.23879
 longitude: -60.67915
 glottocode: toba1282

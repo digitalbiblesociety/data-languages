@@ -9,6 +9,7 @@ area: Loloish language spoken in northern Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 20.78087
 longitude: 100.07886
 glottocode: laop1234

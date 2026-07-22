@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.90586
 longitude: 144.97713
 glottocode: kuma1280

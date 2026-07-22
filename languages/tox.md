@@ -11,6 +11,7 @@ area: Micronesian language spoken in Palau
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: pau
 latitude: 7.03081
 longitude: 134.2633
 glottocode: tobi1238

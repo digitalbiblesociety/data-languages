@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.50417
 longitude: 140.44268
 glottocode: kete1254

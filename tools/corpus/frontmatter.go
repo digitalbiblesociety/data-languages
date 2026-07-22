@@ -79,6 +79,45 @@ func ReadFile(path string) ([]Entry, error) {
 	return ReadEntries(block)
 }
 
+// InlineList parses a YAML inline array ("[a, b]") into its elements,
+// honouring quotes so quoted elements may contain commas. Returns nil when v
+// is not bracketed.
+func InlineList(v string) []string {
+	v = strings.TrimSpace(v)
+	if !strings.HasPrefix(v, "[") || !strings.HasSuffix(v, "]") {
+		return nil
+	}
+	inner := v[1 : len(v)-1]
+	var out []string
+	var cur strings.Builder
+	quote := byte(0)
+	flush := func() {
+		if s := Unquote(strings.TrimSpace(cur.String())); s != "" {
+			out = append(out, s)
+		}
+		cur.Reset()
+	}
+	for i := 0; i < len(inner); i++ {
+		c := inner[i]
+		switch {
+		case quote != 0:
+			if c == quote {
+				quote = 0
+			}
+			cur.WriteByte(c)
+		case c == '"' || c == '\'':
+			quote = c
+			cur.WriteByte(c)
+		case c == ',':
+			flush()
+		default:
+			cur.WriteByte(c)
+		}
+	}
+	flush()
+	return out
+}
+
 // Unquote strips matched outer quotes from a scalar value.
 func Unquote(v string) string {
 	if len(v) >= 2 {

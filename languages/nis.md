@@ -10,6 +10,7 @@ area: Language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.34065
 longitude: 146.67873
 glottocode: nimi1240

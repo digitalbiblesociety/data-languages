@@ -9,6 +9,7 @@ area: Niger–Congo language of Burkina Faso
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.6201
 longitude: -5.3591
 glottocode: pale1262

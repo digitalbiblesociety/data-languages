@@ -11,6 +11,7 @@ area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.58666
 longitude: 80.89308
 scripts: [Deva]

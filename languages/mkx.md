@@ -11,6 +11,7 @@ area: Manobo language spoken in the Philippines
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 9.1793
 longitude: 124.72128
 glottocode: cina1236

@@ -11,6 +11,7 @@ area: South Pauwasi language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.89065
 longitude: 140.4344
 glottocode: kemb1250

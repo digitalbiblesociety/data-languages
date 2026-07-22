@@ -11,6 +11,7 @@ area: Endangered Sino-Tibetan language spoken in China
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.012
 longitude: 102.2
 glottocode: sama1295

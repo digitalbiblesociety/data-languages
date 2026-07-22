@@ -11,6 +11,7 @@ area: Variety of modern Greek
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 37.92
 longitude: 23.67
 language_map_img: Greek_Asia_Minor_dialects.webp

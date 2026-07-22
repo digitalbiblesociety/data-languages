@@ -11,6 +11,7 @@ area: Yoruboid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.4974
 longitude: 6.59202
 glottocode: uluk1257

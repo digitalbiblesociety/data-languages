@@ -11,6 +11,7 @@ area: Marathi–Konkani language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.59186
 longitude: 75.71697
 language_map_img: dcc.webp

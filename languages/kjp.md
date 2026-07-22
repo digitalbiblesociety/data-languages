@@ -11,6 +11,7 @@ area: "Karenic language spoken in Myanmar, Thailand"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 15.19147
 longitude: 98.73551
 glottocode: pwoe1235

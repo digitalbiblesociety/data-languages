@@ -11,6 +11,7 @@ area: Polynesian language of Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -9.95114
 longitude: 167.20709
 glottocode: pile1238

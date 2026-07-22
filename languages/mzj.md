@@ -11,6 +11,7 @@ area: Manding language of West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.561855
 longitude: -9.44257
 glottocode: many1261

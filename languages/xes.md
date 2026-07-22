@@ -11,6 +11,7 @@ area: Rai Coast language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.76797
 longitude: 145.5796
 glottocode: kesa1244

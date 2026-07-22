@@ -11,6 +11,7 @@ area: Gur language spoken in Mali and Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 12.381555
 longitude: -4.538
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Eastern Oti-Volta Gur language of Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.45322
 longitude: 0.95645
 glottocode: mbel1240

@@ -12,6 +12,7 @@ area: Variety of the Oromo language spoken in Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -1.79489
 longitude: 39.60749
 glottocode: orma1241

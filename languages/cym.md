@@ -12,6 +12,7 @@ area: Brittonic language spoken natively in Wales
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 52
 longitude: -4
 language_map_img: Welsh_speakers_in_the_2021_census.svg

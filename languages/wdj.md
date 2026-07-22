@@ -11,6 +11,7 @@ area: Endangered Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.85959
 longitude: 130.73661
 glottocode: wadj1254

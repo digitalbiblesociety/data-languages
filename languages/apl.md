@@ -10,6 +10,7 @@ area: Eastern Southern Athabaskan language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.27479
 longitude: -105.81939
 glottocode: lipa1241

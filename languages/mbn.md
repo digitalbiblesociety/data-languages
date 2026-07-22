@@ -11,6 +11,7 @@ area: Guahiban language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 6.34582
 longitude: -71.2671
 glottocode: maca1259

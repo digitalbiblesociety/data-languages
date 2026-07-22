@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in South Asia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.346508
 longitude: 90.658722
 glottocode: aton1241

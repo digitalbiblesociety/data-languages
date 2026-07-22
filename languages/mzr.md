@@ -11,6 +11,7 @@ area: Panoan language of Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.60703
 longitude: -72.40271
 glottocode: maru1252

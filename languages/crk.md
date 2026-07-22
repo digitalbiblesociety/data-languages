@@ -12,6 +12,7 @@ area: Algonquian language spoken in North America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.243685
 longitude: -110.4634
 scripts: [Cans]

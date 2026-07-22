@@ -12,6 +12,7 @@ area: Variety of the Pashto language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 34
 longitude: 71.33
 language_map_img: pbu.webp

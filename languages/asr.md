@@ -11,6 +11,7 @@ area: Munda language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.57205
 longitude: 83.45622
 glottocode: asur1254

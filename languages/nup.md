@@ -11,6 +11,7 @@ area: Nigerian language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.18404
 longitude: 5.40031
 glottocode: nupe1254

@@ -11,6 +11,7 @@ area: "Language in northern Sulawesi, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.62689
 longitude: 122.28765
 scripts: [Latn]

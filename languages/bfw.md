@@ -11,6 +11,7 @@ area: "Munda language spoken in Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.15124
 longitude: 83.81415
 glottocode: bond1245

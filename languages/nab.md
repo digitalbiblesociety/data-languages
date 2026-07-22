@@ -11,6 +11,7 @@ area: Indigenous language spoken in Brazil
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -14.37074
 longitude: -59.51871
 glottocode: sout2994

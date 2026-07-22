@@ -10,6 +10,7 @@ area: Fas language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.42672
 longitude: 141.34536
 glottocode: baib1251

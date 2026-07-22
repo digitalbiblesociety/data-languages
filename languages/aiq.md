@@ -11,6 +11,7 @@ area: Persian dialect of the Aimaq people of northwest Afghanistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.283045
 longitude: 59.17558
 glottocode: aima1241

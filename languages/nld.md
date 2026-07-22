@@ -12,6 +12,7 @@ area: West Germanic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52
 longitude: 5
 language_map_img: Map_of_the_Dutch_World.webp

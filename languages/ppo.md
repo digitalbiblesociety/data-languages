@@ -11,6 +11,7 @@ area: Teberan language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.86321
 longitude: 144.45842
 glottocode: folo1238

@@ -11,6 +11,7 @@ area: Language spoken by the Cubeo people
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.32382
 longitude: -70.193935
 language_map_img: Cubeo.webp

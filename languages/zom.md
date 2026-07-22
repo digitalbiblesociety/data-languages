@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Burma and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 24.064925
 longitude: 93.92528
 glottocode: zouu1235

@@ -11,6 +11,7 @@ area: Unclassified language spoken in Venezuela
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.63879
 longitude: -65.4267
 glottocode: yuwa1244

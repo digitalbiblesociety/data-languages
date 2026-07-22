@@ -10,6 +10,7 @@ area: "The most commonly used sign language within Israel's deaf community"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.5279
 longitude: 34.76366
 glottocode: isra1236

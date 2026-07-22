@@ -11,6 +11,7 @@ area: Yabin language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.94317
 longitude: 132.09609
 glottocode: yaha1248

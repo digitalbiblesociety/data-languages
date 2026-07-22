@@ -10,6 +10,7 @@ area: Deaf sign language of Guatemala
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.50344
 longitude: -90.56666
 glottocode: guat1249

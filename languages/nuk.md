@@ -11,6 +11,7 @@ area: "Wakashan language of western Vancouver Island, British Columbia, Canada"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.67
 longitude: -126.67
 language_map_img: Wakashan_map.svg

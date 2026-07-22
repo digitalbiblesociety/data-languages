@@ -11,6 +11,7 @@ area: Sahaptian language traditionally spoken in the Northwestern USA
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 46.30731
 longitude: -116.40787
 language_map_img: 500px-Plateau_Penutian_langs.webp

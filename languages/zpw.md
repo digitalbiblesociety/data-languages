@@ -11,6 +11,7 @@ location: Southern Central Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.68044
 longitude: -97.28758
 glottocode: zani1235

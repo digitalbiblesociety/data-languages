@@ -7,6 +7,7 @@ country_id: ET
 country_name: Ethiopia
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.76
 longitude: 42.17
 glottocode: giri1245

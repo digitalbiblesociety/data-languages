@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Myanmar and Thailand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 19.0443
 longitude: 96.6027
 language_map_img: Karen_languages_map.svg

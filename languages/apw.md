@@ -10,6 +10,7 @@ location: Southwestern United States of America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.85743
 longitude: -110.12264
 glottocode: west2615

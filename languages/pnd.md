@@ -9,6 +9,7 @@ area: Bantu language of Angola
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.76
 longitude: 13.72
 glottocode: mpin1234

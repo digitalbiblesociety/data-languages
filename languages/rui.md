@@ -11,6 +11,7 @@ area: "Pwani region, Rufiji District, central coast, south of Ndengereko [ndg], 
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -7.99059
 longitude: 38.71326
 glottocode: rufi1234

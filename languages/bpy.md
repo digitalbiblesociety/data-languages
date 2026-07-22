@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India and Bangladesh
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.45776
 longitude: 92.015665
 scripts: [Beng]

@@ -11,6 +11,7 @@ area: "Endangered language of California, US"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.31674
 longitude: -119.7214
 language_map_img: 500px-Yokutsan_langs.webp

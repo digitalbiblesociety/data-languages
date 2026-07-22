@@ -11,6 +11,7 @@ area: Tibeto-Burman language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.32386
 longitude: 87.083225
 scripts: [Deva, Tibt]

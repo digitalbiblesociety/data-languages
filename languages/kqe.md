@@ -11,6 +11,7 @@ area: Austronesian dialect cluster
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.8126
 longitude: 125.32763
 glottocode: kala1388

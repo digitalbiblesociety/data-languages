@@ -11,6 +11,7 @@ area: Hmong–Mien language of China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.80489
 longitude: 105.165125
 glottocode: pahn1237

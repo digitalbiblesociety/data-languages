@@ -11,6 +11,7 @@ area: Endangered Macro-Gê language of the Botocudo people of Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -18.99884
 longitude: -41.22993
 glottocode: kren1239

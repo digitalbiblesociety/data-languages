@@ -12,6 +12,7 @@ area: Rajasthani language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.85464
 longitude: 75.83659
 language_map_img: 500px-HadautiSpeakers.webp

@@ -10,6 +10,7 @@ area: Austronesian language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.74438
 longitude: 132.56583
 glottocode: bedo1237

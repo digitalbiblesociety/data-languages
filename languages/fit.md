@@ -11,6 +11,7 @@ area: Finnic language or Finnish dialect spoken in northern Sweden
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: swe
 latitude: 67.252745
 longitude: 23.06596
 scripts: [Latn]

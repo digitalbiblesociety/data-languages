@@ -11,6 +11,7 @@ area: Polynesian language native to French Polynesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -21.70902
 longitude: -140.6576
 glottocode: tuam1242

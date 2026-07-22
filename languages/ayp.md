@@ -12,6 +12,7 @@ area: "Arabic dialect of Iraq, Syria, and Turkey"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.298573
 longitude: 42.00475
 language_map_img: ayp.webp

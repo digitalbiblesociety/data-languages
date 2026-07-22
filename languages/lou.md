@@ -11,6 +11,7 @@ area: French-based creole in Louisiana
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 30.04118
 longitude: -90.74754
 language_map_img: 500px-Map_of_Creole-Speaking_Parishes_in_Louisiana.webp

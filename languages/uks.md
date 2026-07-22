@@ -11,6 +11,7 @@ area: Village sign language used in Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -2.54091
 longitude: -46.42134
 glottocode: urub1243

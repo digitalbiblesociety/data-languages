@@ -10,6 +10,7 @@ area: Sign language most commonly used in Finland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 60.66099
 longitude: 25.06767
 glottocode: finn1310

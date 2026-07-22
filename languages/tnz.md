@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Malaysia and Thailand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 6.881375
 longitude: 100.102185
 glottocode: tong1308

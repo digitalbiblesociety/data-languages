@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sarawak, Malaysia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.7519
 longitude: 114.4338
 glottocode: muri1259

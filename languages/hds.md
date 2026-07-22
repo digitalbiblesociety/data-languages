@@ -10,6 +10,7 @@ area: Deaf sign language of Honduras
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.622
 longitude: -87.224
 glottocode: hond1239

@@ -12,6 +12,7 @@ area: "Northeast Caucasian language of the Avars of Dagestan, North Caucasus"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 41.70474
 longitude: 46.55802
 language_map_img: Northeast_Caucasus_languages_map_en.svg

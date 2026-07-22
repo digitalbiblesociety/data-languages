@@ -11,6 +11,7 @@ area: Bantu language spoken in Central Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 0.32395
 longitude: 29.86962
 glottocode: konz1239

@@ -12,6 +12,7 @@ area: Gbaya language spoken in Central African Republic
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 4.75111
 longitude: 16.67208
 glottocode: boko1261

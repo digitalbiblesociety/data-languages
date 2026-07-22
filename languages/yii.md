@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.13318
 longitude: 145.87621
 language_map_img: 500px-Yidiny_language.webp

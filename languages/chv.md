@@ -12,6 +12,7 @@ area: Oghur Turkic language of Volga region
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 55.48701
 longitude: 47.16298
 language_map_img: Chuvash_Turkic_Language_distribution_map.webp

@@ -11,6 +11,7 @@ area: Tucanoan language spoken in Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.59023
 longitude: -70.38531
 glottocode: tani1257

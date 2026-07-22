@@ -10,6 +10,7 @@ area: Zulu-based pidgin of South Africa
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.384842
 longitude: 27.140083
 glottocode: fana1235

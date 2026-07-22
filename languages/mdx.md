@@ -11,6 +11,7 @@ area: Omotic language spoken in southern Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.1405
 longitude: 35.57631
 glottocode: dizi1235

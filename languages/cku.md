@@ -11,6 +11,7 @@ area: Muskogean language of Louisiana
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 30.40957
 longitude: -92.70902
 language_map_img: 500px-Koasati_lang.webp

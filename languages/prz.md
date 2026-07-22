@@ -10,6 +10,7 @@ area: Sign language of Providence Island
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 13.35
 longitude: -81.37
 glottocode: prov1243

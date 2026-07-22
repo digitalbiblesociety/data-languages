@@ -6,6 +6,7 @@ country_id: IN
 country_name: India
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 33.24364
 longitude: 75.1972
 glottocode: khah1234

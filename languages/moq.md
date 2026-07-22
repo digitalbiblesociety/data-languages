@@ -11,6 +11,7 @@ area: Papuan language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.85747
 longitude: 132.84543
 language_map_img: Mor_language.svg

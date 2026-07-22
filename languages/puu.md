@@ -11,6 +11,7 @@ area: Bantu language of Gabon and the Republic of Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -2.673625
 longitude: 11.67137
 scripts: [Latn]

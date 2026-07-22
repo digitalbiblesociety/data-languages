@@ -12,6 +12,7 @@ area: Malayic language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.73288
 longitude: 105.89719
 language_map_img: Bangka_Malay_Language_Map.svg

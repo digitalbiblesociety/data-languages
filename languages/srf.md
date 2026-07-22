@@ -10,6 +10,7 @@ area: Oceanic language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.43306
 longitude: 146.81512
 glottocode: nafi1237
