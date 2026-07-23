@@ -12,6 +12,7 @@ area: Dravidian language of South India
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 13.58785
 longitude: 76.11983
 language_map_img: kan.svg

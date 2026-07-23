@@ -11,6 +11,7 @@ area: "Mek language spoken in Highland Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.53497
 longitude: 139.67832
 glottocode: koru1245

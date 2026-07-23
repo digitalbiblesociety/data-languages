@@ -11,6 +11,7 @@ area: Turkic language of the North Caucasus
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 43.56504
 longitude: 42.26059
 scripts: [Cyrl]

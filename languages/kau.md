@@ -9,6 +9,7 @@ country_name: Nigeria
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 scripts: [Latn]
 wikidata_id: Q36094
 wikipedia_url: "https://en.wikipedia.org/wiki/Kanuri_language"

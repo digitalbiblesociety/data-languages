@@ -11,6 +11,7 @@ area: Tupi language of northwestern Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.045027
 longitude: -66.964553
 language_map_img: 500px-Lingua_nheengatu.webp

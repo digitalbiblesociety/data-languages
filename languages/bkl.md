@@ -11,6 +11,7 @@ area: Tor language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.26904
 longitude: 138.8659
 glottocode: beri1254

@@ -11,6 +11,7 @@ area: Native American language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 28.98767
 longitude: -112.38366
 language_map_img: 500px-Seri_within_Mexico.webp

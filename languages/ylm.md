@@ -10,6 +10,7 @@ area: "Language spoken in western Yunnan province, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.469
 longitude: 100.073
 glottocode: limi1243

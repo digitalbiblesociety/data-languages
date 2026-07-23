@@ -11,6 +11,7 @@ area: Bhil language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.06965
 longitude: 73.68388
 glottocode: gami1242

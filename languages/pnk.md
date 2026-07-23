@@ -10,6 +10,7 @@ area: Endangered Arawakan language spoken in Bolivia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -14.353747
 longitude: -63.086994
 glottocode: paun1241

@@ -11,6 +11,7 @@ area: Turkic cryptolect spoken in Western China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 39.27141
 longitude: 76.42088
 glottocode: ainu1251

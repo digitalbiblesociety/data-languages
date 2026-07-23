@@ -11,6 +11,7 @@ area: Australian Aboriginal language of the Yolngu group spoken in the Northern 
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.02098
 longitude: 135.59014
 glottocode: djam1256

@@ -11,6 +11,7 @@ area: Fly River language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.37424
 longitude: 144.8632
 glottocode: ipik1244

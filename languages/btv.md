@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in South Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 33.996385
 longitude: 74.96517
 scripts: [Deva]

@@ -11,6 +11,7 @@ area: Austroasiatic language spoken by the Mon in Burma and Thailand
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 15.49394
 longitude: 98.122465
 scripts: [Mymr]

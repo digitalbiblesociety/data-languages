@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.5803
 longitude: 140.1793
 glottocode: nucl1633

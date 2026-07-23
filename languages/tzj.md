@@ -11,6 +11,7 @@ area: Mayan language spoken by the Tzʼutujil people of Guatemala
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.63507
 longitude: -91.20122
 glottocode: tzut1248

@@ -11,6 +11,7 @@ area: Dialect cluster of Australian Aboriginal languages
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -20.3321
 longitude: 127.66587
 language_map_img: 500px-Wati_languages.webp

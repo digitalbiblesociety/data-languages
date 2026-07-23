@@ -9,6 +9,7 @@ area: Papuan language of East Timor
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tet
 language_map_img: 500px-Makalero.webp
 wikidata_id: Q35729
 wikipedia_url: "https://en.wikipedia.org/wiki/Makalero"

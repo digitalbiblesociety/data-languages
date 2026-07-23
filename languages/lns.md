@@ -11,6 +11,7 @@ area: Grassfields language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.397425
 longitude: 11.068415
 glottocode: lamn1239

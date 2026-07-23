@@ -12,6 +12,7 @@ area: Indo-Aryan language spoken primarily in Jammu
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 32.55342
 longitude: 75.71109
 glottocode: dogr1250

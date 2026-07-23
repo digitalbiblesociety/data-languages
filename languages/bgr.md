@@ -11,6 +11,7 @@ area: "Sino-Tibetan language spoken in Bangladesh, India, Myanmar"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.440523
 longitude: 92.92553
 glottocode: bawm1236

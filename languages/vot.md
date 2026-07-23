@@ -11,6 +11,7 @@ area: Finnic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 59.38017
 longitude: 28.6235
 language_map_img: 500px-2.4a-Ingrian-and-Votic_traditional.webp

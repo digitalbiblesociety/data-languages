@@ -11,6 +11,7 @@ area: Language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.72183
 longitude: 137.63227
 language_map_img: Dem_language.svg

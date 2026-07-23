@@ -10,6 +10,7 @@ area: Philippine Negrito language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 9.715
 longitude: 122.9
 glottocode: ataa1240

@@ -9,6 +9,7 @@ country_name: Azerbaijan
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: aze
 scripts: [Arab, Cyrl, Latn]
 wikidata_id: Q9292
 wikipedia_url: "https://en.wikipedia.org/wiki/Azerbaijani_language"

@@ -11,6 +11,7 @@ area: Mundu language spoken in Central India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.83579
 longitude: 77.55409
 language_map_img: 500px-Munda-Sprachen.webp

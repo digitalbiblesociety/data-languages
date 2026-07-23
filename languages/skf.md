@@ -11,6 +11,7 @@ area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -13.05395
 longitude: -62.09274
 glottocode: saki1248

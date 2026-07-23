@@ -12,6 +12,7 @@ area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.89708
 longitude: 107.10636
 language_map_img: sun.svg

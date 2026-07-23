@@ -11,6 +11,7 @@ area: Atlantic–Congo language spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.49874
 longitude: -5.28216
 glottocode: sena1262

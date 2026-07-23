@@ -10,6 +10,7 @@ area: Central Semitic language of Yemen
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 16.9092
 longitude: 43.2416905
 glottocode: jaba1234

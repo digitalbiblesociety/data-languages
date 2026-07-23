@@ -11,6 +11,7 @@ area: Major dialect group and standard form of Armenian
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 40.1897
 longitude: 44.4839
 glottocode: homs1234

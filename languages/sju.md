@@ -11,6 +11,7 @@ area: Endangered Uralic language of Scandinavia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: swe
 latitude: 64.63829
 longitude: 18.64604
 language_map_img: Ume-SamiLanguageLocatorMap.svg

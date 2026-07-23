@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.68399
 longitude: 83.44876
 glottocode: chan1310

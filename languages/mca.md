@@ -11,6 +11,7 @@ area: Matacoan language spoken in Paraguay
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.01186
 longitude: -57.36935
 glottocode: maca1260

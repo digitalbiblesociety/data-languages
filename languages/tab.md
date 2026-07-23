@@ -11,6 +11,7 @@ area: "Lezgic language of southern Dagestan, Russia"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.01976
 longitude: 47.83791
 language_map_img: 500px-Caucasus-ethnic_tabasaren.webp

@@ -11,6 +11,7 @@ area: Tupian language spoken by indigenous peoples in the Brazilian state of Mar
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -2.6123
 longitude: -48.23594
 glottocode: temb1276

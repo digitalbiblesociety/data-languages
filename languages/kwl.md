@@ -11,6 +11,7 @@ area: Afro-Asiatic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.79947
 longitude: 9.15279
 glottocode: kofy1242

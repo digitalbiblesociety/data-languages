@@ -11,6 +11,7 @@ area: Khoe dialect of Botswana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.27083
 longitude: 21.94314
 glottocode: gwii1239

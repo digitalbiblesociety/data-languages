@@ -11,6 +11,7 @@ area: Sinitic language spoken in Central Asia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: kir
 latitude: 42.729205
 longitude: 76.838225
 scripts: [Cyrl]

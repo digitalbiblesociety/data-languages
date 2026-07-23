@@ -11,6 +11,7 @@ area: Tungusic language of the Russian Far East
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 52.96584
 longitude: 139.20575
 glottocode: negi1245

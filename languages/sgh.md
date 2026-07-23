@@ -11,6 +11,7 @@ area: "Pamir language of Tajikistan, Afghanistan, Pakistan and China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tgk
 latitude: 37.501785
 longitude: 71.79251
 glottocode: shug1248

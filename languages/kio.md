@@ -11,6 +11,7 @@ area: North American aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 34.94026
 longitude: -98.90424
 language_map_img: Kiowa_lang.webp

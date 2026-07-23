@@ -11,6 +11,7 @@ area: Ekoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.59158
 longitude: 8.68668
 language_map_img: Map_of_the_Ekoid_languages.webp

@@ -12,6 +12,7 @@ area: Celtic language spoken in France
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 48.24523
 longitude: -3.78934
 scripts: [Latn]

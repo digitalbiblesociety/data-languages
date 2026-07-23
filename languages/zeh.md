@@ -12,6 +12,7 @@ area: "Northern Tai language of Guangxi, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.68182
 longitude: 107.18368
 glottocode: east2363

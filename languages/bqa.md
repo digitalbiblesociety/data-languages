@@ -11,6 +11,7 @@ area: Guang language of Benin
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.43449
 longitude: 2.55627
 glottocode: tchu1241

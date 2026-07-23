@@ -11,6 +11,7 @@ area: Creole language spoken in Suriname
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 5.83
 longitude: -55.33
 scripts: [Latn]

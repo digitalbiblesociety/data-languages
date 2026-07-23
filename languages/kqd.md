@@ -11,6 +11,7 @@ area: Variety of Northeastern Neo-Aramaic
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.04511
 longitude: 44.63646
 glottocode: koys1242

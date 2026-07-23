@@ -10,6 +10,7 @@ area: Oceanic language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.59031
 longitude: 154.80129
 glottocode: haho1237

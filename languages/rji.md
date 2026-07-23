@@ -11,6 +11,7 @@ area: "Sino-Tibetan language of western Nepal and Uttarakhand, India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.61511
 longitude: 81.577
 glottocode: raji1240

@@ -10,6 +10,7 @@ area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.58205
 longitude: 120.13914
 scripts: [Latn]

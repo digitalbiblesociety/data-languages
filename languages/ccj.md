@@ -11,6 +11,7 @@ area: Senegambian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 12.41733
 longitude: -15.94127
 glottocode: kasa1248

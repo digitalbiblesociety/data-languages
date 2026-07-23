@@ -12,6 +12,7 @@ area: Semitic language spoken in Ethiopia and Eritrea
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 15.335942
 longitude: 38.926563
 language_map_img: Eritrea_Ethiopia_locator.svg

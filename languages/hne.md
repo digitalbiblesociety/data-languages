@@ -11,6 +11,7 @@ area: "Indo-Aryan language spoken in the Chhattisgarh, India"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.36015
 longitude: 82.04833
 language_map_img: hne.webp

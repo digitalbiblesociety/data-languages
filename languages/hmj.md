@@ -12,6 +12,7 @@ area: "Hmongic language of Guizhou, China"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.85419
 longitude: 107.82312
 glottocode: geee1239

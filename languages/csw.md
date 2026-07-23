@@ -12,6 +12,7 @@ area: Algonquian language spoken in Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 56
 longitude: -95
 scripts: [Cans]

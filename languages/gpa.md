@@ -11,6 +11,7 @@ area: "Nupoid language of Niger State, Nigeria"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.21291
 longitude: 6.69128
 glottocode: gupa1248

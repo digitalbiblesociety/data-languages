@@ -12,6 +12,7 @@ area: Language native to South India
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 16.452944
 longitude: 78.702392
 language_map_img: Idioma_telugu.webp

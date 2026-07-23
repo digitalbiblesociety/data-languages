@@ -11,6 +11,7 @@ area: Amto–Musan language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.12165
 longitude: 141.33941
 glottocode: amto1250

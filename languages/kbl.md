@@ -11,6 +11,7 @@ area: Nilo-Saharan language of Chad
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.87489
 longitude: 14.84371
 glottocode: kane1243

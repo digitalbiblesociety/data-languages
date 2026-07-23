@@ -11,6 +11,7 @@ area: "Uralic, Sámi language"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 68.832595
 longitude: 29.720375
 language_map_img: Skolt-SamiLanguageLocatorMap.svg

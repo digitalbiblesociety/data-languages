@@ -11,6 +11,7 @@ area: Language spoken on Ndao island Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.80977
 longitude: 122.65807
 glottocode: dhao1237

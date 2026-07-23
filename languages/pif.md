@@ -11,6 +11,7 @@ area: Micronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.20743
 longitude: 160.71064
 glottocode: ping1243

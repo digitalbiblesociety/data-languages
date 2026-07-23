@@ -11,6 +11,7 @@ area: Senufo language spoken in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.50768
 longitude: -6.15264
 scripts: [Latn]

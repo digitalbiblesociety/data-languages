@@ -11,6 +11,7 @@ area: Trans-Fly language of the Australian Torres Strait Islands
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -9.59575
 longitude: 143.77282
 language_map_img: 500px-Torres_Strait_Islander_Languages_used_at_home.webp

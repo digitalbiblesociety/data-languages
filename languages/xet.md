@@ -10,6 +10,7 @@ area: Nearly extinct Tupian language of Brazil
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -24.94082
 longitude: -52.22659
 glottocode: xeta1241

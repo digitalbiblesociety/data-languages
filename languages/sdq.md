@@ -10,6 +10,7 @@ location: "Asia, Southeast"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 wikidata_id: Q7449012
 wikipedia_url: "https://en.wikipedia.org/wiki/Semandang_language"
 translations:

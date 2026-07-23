@@ -11,6 +11,7 @@ area: Yanomaman language spoken in Brazil and Venezuela
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 4.038935
 longitude: -62.780115
 language_map_img: Yanomaman.svg

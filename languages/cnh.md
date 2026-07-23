@@ -11,6 +11,7 @@ area: "Kuki-Chin language of Chin State, Myanmar and Mizoram, India"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.87349
 longitude: 92.820797
 glottocode: haka1240

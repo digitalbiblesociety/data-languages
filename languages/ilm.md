@@ -10,6 +10,7 @@ area: Malayo-Polynesian language spoken in Southeast Asia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: zsm
 language_map_img: 500px-Iranun_language_map.webp
 wikidata_id: Q63214927
 translations:

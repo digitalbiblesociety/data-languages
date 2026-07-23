@@ -10,6 +10,7 @@ area: Austronesian language spoken in Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.1881
 longitude: 122.11786
 glottocode: kasi1256

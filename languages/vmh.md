@@ -10,6 +10,7 @@ area: Tati dialect of Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 36.82593
 longitude: 49.9665
 glottocode: mara1373

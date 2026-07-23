@@ -11,6 +11,7 @@ area: Cree language of eastern Canada
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 55.93161
 longitude: -61.13183
 scripts: [Cans, Latn]

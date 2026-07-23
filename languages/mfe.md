@@ -10,6 +10,7 @@ area: French-based creole language spoken in Mauritius
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mfe
 latitude: -20.26134
 longitude: 57.55174
 scripts: [Latn]

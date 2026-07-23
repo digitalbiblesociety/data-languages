@@ -11,6 +11,7 @@ area: "Oto-Manguean language of Tlaxcala, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.21465
 longitude: -98.02718
 glottocode: ixte1237

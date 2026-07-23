@@ -11,6 +11,7 @@ area: Afro-Asiatic of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.53916
 longitude: 36.81096
 glottocode: melo1242

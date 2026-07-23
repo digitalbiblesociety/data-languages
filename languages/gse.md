@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.55225
 longitude: -0.30274
 glottocode: ghan1235

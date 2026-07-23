@@ -11,6 +11,7 @@ area: Arawakan language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.38649
 longitude: -72.2005
 language_map_img: Achagua.webp

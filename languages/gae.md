@@ -11,6 +11,7 @@ area: Arawakan language spoken in Brazil and Venezuela
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.80835
 longitude: -66.922505
 glottocode: guar1293

@@ -12,6 +12,7 @@ area: "Cushitic language of Ethiopia, Kenya, and Somalia"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.81391
 longitude: 36.73647
 language_map_img: Map_of_the_Oromo_language.webp

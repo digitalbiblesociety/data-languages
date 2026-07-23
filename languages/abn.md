@@ -10,6 +10,7 @@ area: Cross River language of southern Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.83057
 longitude: 6.61492
 glottocode: abua1244

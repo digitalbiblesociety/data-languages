@@ -11,6 +11,7 @@ area: Central Philippine language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 9.49196
 longitude: 122.76927
 glottocode: maga1264

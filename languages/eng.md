@@ -11,6 +11,7 @@ area: West Germanic language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53
 longitude: -1
 language_map_img: eng.svg

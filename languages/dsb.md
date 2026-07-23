@@ -10,6 +10,7 @@ area: West Slavic language of eastern Germany
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 51.66213
 longitude: 13.9407
 scripts: [Latn]

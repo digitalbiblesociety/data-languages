@@ -10,6 +10,7 @@ location: "Indonesia, Northern Maluku"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.46563
 longitude: 127.63279
 glottocode: taba1263

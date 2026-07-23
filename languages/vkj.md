@@ -11,6 +11,7 @@ area: Unclassified language of eastern Chad and western Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.74732
 longitude: 22.19559
 glottocode: kuja1239

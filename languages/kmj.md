@@ -11,6 +11,7 @@ area: Dravidian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.1217
 longitude: 87.26985
 glottocode: kuma1274

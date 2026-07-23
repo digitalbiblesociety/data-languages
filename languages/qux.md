@@ -12,6 +12,7 @@ area: Quechua dialect cluster
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.11443
 longitude: -75.76589
 language_map_img: page1-500px-YauyosQuechua.pdf.webp

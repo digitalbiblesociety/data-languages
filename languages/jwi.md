@@ -11,6 +11,7 @@ area: Niger-Congo language of Ghana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.10752
 longitude: -2.10891
 glottocode: jwir1241

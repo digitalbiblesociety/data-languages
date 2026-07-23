@@ -10,6 +10,7 @@ area: Sign language used in the former Yugoslavia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: srp
 latitude: 45.39123
 longitude: 17.519265
 glottocode: yugo1238

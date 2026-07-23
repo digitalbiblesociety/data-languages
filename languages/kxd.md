@@ -12,6 +12,7 @@ area: Language spoken in parts of Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.456045
 longitude: 114.429505
 language_map_img: Brunei_Malay_Spoken_Area.webp

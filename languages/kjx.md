@@ -11,6 +11,7 @@ area: East Papuan language spoken on Bougainville
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.97015
 longitude: 154.89958
 glottocode: ramo1245

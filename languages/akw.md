@@ -9,6 +9,7 @@ location: Congo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -0.39897
 longitude: 15.46226
 glottocode: akwa1248

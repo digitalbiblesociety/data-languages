@@ -11,6 +11,7 @@ area: Mon–Khmer dialect continuum of Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 17.13105
 longitude: 105.671357
 glottocode: east2332

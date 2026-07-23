@@ -12,6 +12,7 @@ area: Indo-Aryan language of Eastern Pahari branch
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 29.242
 longitude: 80.7252
 language_map_img: Far-Western_Region_in_Nepal.svg

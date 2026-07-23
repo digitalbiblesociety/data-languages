@@ -10,6 +10,7 @@ area: Extinct language of Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.9178
 longitude: 117.5628
 glottocode: yinh1234

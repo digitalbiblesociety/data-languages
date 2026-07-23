@@ -11,6 +11,7 @@ area: Nadahup language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -1.24449
 longitude: -66.30681
 glottocode: nade1244

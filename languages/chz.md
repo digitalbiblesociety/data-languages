@@ -11,6 +11,7 @@ area: "Chinantecan language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.69764
 longitude: -96.22489
 glottocode: ozum1235

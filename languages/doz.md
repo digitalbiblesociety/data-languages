@@ -11,6 +11,7 @@ area: Afroasiatic language spoken by Dorze people in southern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.25237
 longitude: 37.55537
 glottocode: dorz1235

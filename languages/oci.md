@@ -12,6 +12,7 @@ area: Romance language of Western Europe
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 44.141547
 longitude: 6.829787
 scripts: [Latn]

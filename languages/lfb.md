@@ -5,6 +5,7 @@ country_id: CM
 country_name: Cameroon
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.54
 longitude: 10.28
 translations:

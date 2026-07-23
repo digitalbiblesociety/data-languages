@@ -9,6 +9,7 @@ area: Extinct Austronesian language of Indonesia
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.21229
 longitude: 128.96625
 glottocode: teun1241

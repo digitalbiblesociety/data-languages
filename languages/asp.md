@@ -9,6 +9,7 @@ area: Deaf sign language of Algeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.4762
 longitude: 3.5462
 glottocode: alge1235

@@ -11,6 +11,7 @@ area: Endangered Plateau language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.44956
 longitude: 10.28814
 glottocode: yang1290

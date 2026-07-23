@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.82656
 longitude: 121.23011
 language_map_img: 500px-Ifugao_dialect_cluster_map.webp

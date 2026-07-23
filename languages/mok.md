@@ -11,6 +11,7 @@ area: Language in Papua
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.5692
 longitude: 140.68788
 language_map_img: Moraori_language.svg

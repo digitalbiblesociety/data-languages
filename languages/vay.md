@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.30471
 longitude: 86.12266
 glottocode: wayu1241

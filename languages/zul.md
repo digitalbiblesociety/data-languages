@@ -12,6 +12,7 @@ area: Nguni language of eastern South Africa and neighbouring countries
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.330502
 longitude: 31.351174
 language_map_img: South_Africa_2011_Zulu_speakers_proportion_map.svg

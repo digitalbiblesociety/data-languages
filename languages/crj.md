@@ -12,6 +12,7 @@ area: "Algonquian dialects of Quebec, Canada"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.40781
 longitude: -78.69712
 scripts: [Cans, Latn]

@@ -10,6 +10,7 @@ area: English-based creole of Suriname
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 5.1323
 longitude: -56.12663
 glottocode: kwin1243

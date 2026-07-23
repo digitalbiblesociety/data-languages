@@ -10,6 +10,7 @@ location: "Nigeria, Map 10"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.7645
 longitude: 7.89222
 glottocode: ekit1246

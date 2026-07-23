@@ -11,6 +11,7 @@ area: "Language of Papua New Guinea and Papua, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.99145
 longitude: 141.01991
 glottocode: mane1266

@@ -8,6 +8,7 @@ country_id: CM
 country_name: Cameroon
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.59687
 longitude: 10.4104
 glottocode: cung1238

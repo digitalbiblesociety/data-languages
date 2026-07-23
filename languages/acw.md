@@ -11,6 +11,7 @@ area: Variety of Arabic spoken in the Hejaz region of Saudi Arabia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 22.8346
 longitude: 38.92371
 language_map_img: acw.webp

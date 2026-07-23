@@ -12,6 +12,7 @@ area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.07523
 longitude: 34.6166
 glottocode: nyor1244

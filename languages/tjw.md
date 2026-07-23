@@ -10,6 +10,7 @@ area: Extinct Aboriginal Australian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q5285187
 wikipedia_url: "https://en.wikipedia.org/wiki/Djabwurrung_language"
 translations:

@@ -11,6 +11,7 @@ area: Tibeto-Burman language of the Sal branch
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 25.463415
 longitude: 97.32784
 scripts: [Latn]

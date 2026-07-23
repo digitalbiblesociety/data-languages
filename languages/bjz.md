@@ -11,6 +11,7 @@ area: Trans–New Guinea language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.40132
 longitude: 148.76141
 glottocode: baru1269

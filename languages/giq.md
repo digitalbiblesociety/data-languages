@@ -11,6 +11,7 @@ area: Kra language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 22.5632
 longitude: 104.69783
 glottocode: gree1278

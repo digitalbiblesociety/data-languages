@@ -10,6 +10,7 @@ area: Modern Eastern Neo-Aramaic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: kat
 latitude: 43.6405
 longitude: 44.482
 glottocode: boht1238

@@ -11,6 +11,7 @@ area: Tuparian language of Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.69447
 longitude: -61.30635
 glottocode: wayo1238

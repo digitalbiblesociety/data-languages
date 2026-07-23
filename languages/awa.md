@@ -11,6 +11,7 @@ area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.590735
 longitude: 82.466255
 language_map_img: awa.webp

@@ -10,6 +10,7 @@ location: Southern Thailand
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 12.52181
 longitude: 102.513715
 glottocode: chon1284

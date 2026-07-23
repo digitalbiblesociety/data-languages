@@ -11,6 +11,7 @@ area: Senagi language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.7167
 longitude: 141.19901
 glottocode: ango1254

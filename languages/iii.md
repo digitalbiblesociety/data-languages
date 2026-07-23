@@ -12,6 +12,7 @@ area: "Prestige language of China's Yi people"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.19474
 longitude: 102.12119
 language_map_img: 500px-Nuosu_Language.webp

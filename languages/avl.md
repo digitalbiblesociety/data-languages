@@ -12,6 +12,7 @@ area: Variety of the Arabic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.67415
 longitude: 33.61126
 glottocode: east2690

@@ -11,6 +11,7 @@ area: Tupian language spoken in Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -13.60814
 longitude: -48.13356
 glottocode: avac1239

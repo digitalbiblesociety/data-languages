@@ -11,6 +11,7 @@ area: Western Nilotic language of Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.36213
 longitude: 31.001635
 glottocode: alur1250

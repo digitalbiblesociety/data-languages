@@ -11,6 +11,7 @@ area: "Totonac language of Veracruz, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.56709
 longitude: -97.25539
 glottocode: papa1238

@@ -11,6 +11,7 @@ area: Temne dialect cluster spoken in Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.47931
 longitude: -14.47558
 glottocode: baga1272

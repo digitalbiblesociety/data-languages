@@ -11,6 +11,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -16.06954
 longitude: 167.3303
 glottocode: mara1399

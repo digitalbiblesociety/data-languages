@@ -12,6 +12,7 @@ area: Mande language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.816523
 longitude: -15.653947
 glottocode: mand1436

@@ -11,6 +11,7 @@ area: Tai language of Vietnam and Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 18.55623
 longitude: 104.65808
 glottocode: taip1250

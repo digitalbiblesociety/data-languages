@@ -11,6 +11,7 @@ area: Language of Akan lands in Ghana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.74109
 longitude: -2.16028
 glottocode: wasa1244

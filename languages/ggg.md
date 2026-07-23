@@ -9,6 +9,7 @@ area: Rajasthani language of Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25.737
 longitude: 68.565
 glottocode: gurg1240

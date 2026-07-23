@@ -11,6 +11,7 @@ area: "Language isolate of Australia's Northern Territory"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.41548
 longitude: 132.60421
 language_map_img: Yangmanic_languages.webp

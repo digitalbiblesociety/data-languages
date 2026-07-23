@@ -11,6 +11,7 @@ area: Senegambian language spoken in Senegal
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.75312
 longitude: -12.47963
 scripts: [Latn]

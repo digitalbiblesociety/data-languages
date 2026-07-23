@@ -11,6 +11,7 @@ area: Panoan language spoken in Peru and Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -6.63254
 longitude: -74.38135
 language_map_img: 500px-Pizarra_de_inicial_en_Bena_Jema.webp

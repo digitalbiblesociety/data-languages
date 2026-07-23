@@ -12,6 +12,7 @@ area: "Northeast Caucasian language of Chechnya, Russia"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 43.5
 longitude: 45.5
 language_map_img: Northeast_Caucasus_languages_map_en.svg

@@ -11,6 +11,7 @@ area: Karelian dialect spoken in Russia and Finland
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 61.656535
 longitude: 29.072645
 language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp

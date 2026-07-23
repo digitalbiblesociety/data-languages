@@ -11,6 +11,7 @@ area: Alor language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.26749
 longitude: 124.52187
 glottocode: hama1240

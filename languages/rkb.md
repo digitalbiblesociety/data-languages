@@ -11,6 +11,7 @@ area: Macro-Ge language spoken in Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -11.18865
 longitude: -58.19424
 language_map_img: 500px-Rikbaktsa_language.webp

@@ -11,6 +11,7 @@ area: Central Malayo-Polynesian language of Roti Island
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.80695
 longitude: 123.08513
 glottocode: lole1239

@@ -11,6 +11,7 @@ area: Southern Luo language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.74748
 longitude: 33.21164
 glottocode: kuma1275

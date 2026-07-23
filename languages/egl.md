@@ -10,6 +10,7 @@ area: "Unstandardized language spoken in Emilia, Italy"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 44.353609
 longitude: 11.579361
 scripts: [Latn]

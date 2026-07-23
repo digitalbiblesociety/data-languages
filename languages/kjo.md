@@ -11,6 +11,7 @@ area: Western Pahari language of northern India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.784
 longitude: 77.064
 glottocode: hari1246

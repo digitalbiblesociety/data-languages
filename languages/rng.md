@@ -11,6 +11,7 @@ area: Bantu language spoken in southern Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -26.732945
 longitude: 32.61667
 scripts: [Latn]

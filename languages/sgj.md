@@ -11,6 +11,7 @@ area: Dialect in Surguja Division Of Chhattisgarh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 wikidata_id: Q24952038
 wikipedia_url: "https://en.wikipedia.org/wiki/Surgujia_dialect"
 translations:

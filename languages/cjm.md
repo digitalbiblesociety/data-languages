@@ -11,6 +11,7 @@ area: Austronesian language of Vietnam and Cambodia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 11.28528
 longitude: 108.49012
 scripts: [Arab, Cham]

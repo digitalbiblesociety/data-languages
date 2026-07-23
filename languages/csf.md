@@ -10,6 +10,7 @@ area: Deaf sign language of Cuba
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 22.061
 longitude: -79.209
 glottocode: cuba1235

@@ -11,6 +11,7 @@ area: Tibetic language spoken in India and Pakistan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 34.33855
 longitude: 76.01267
 glottocode: puri1258

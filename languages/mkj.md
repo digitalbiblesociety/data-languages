@@ -11,6 +11,7 @@ area: Micronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.65651
 longitude: 159.7759
 glottocode: moki1238

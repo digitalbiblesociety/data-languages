@@ -10,6 +10,7 @@ area: Deaf sign language of Czech Republic
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ces
 latitude: 50.01201
 longitude: 14.4774
 language_map_img: LocationCzechRepublic.webp

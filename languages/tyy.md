@@ -10,6 +10,7 @@ area: Dialect of Nigeria
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.57325
 longitude: 9.47875
 glottocode: yaaa1242

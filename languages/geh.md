@@ -11,6 +11,7 @@ area: Upper German dialect spoken by Hutterites in North America
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40
 longitude: -97
 glottocode: hutt1235

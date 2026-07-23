@@ -10,6 +10,7 @@ area: Languages
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.21222
 longitude: 139.47243
 glottocode: yars1234

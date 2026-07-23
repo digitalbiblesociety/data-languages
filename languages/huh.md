@@ -11,6 +11,7 @@ area: Araucanian language of Chile
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -40.06939
 longitude: -72.76697
 language_map_img: 500px-Huilliche.webp

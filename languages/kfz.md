@@ -11,6 +11,7 @@ area: Gur language spoken in Burkina Faso and Mali
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.04599
 longitude: -1.96187
 glottocode: koro1298

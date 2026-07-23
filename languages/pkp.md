@@ -11,6 +11,7 @@ area: "Polynesian language of Pukapuka atoll, Cook Islands"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rar
 latitude: -10.67
 longitude: -165.58
 glottocode: puka1242

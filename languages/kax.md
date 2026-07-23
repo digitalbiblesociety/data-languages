@@ -11,6 +11,7 @@ area: North Halmahera language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.16654
 longitude: 127.84662
 language_map_img: North_Maluku_in_Indonesia.svg

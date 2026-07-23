@@ -10,6 +10,7 @@ area: Yam language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.80806
 longitude: 141.25339
 glottocode: gunt1241

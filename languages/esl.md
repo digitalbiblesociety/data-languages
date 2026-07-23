@@ -10,6 +10,7 @@ area: Sign language used in Egypt
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.567
 longitude: 29.654
 glottocode: egyp1238

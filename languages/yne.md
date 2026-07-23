@@ -11,6 +11,7 @@ area: "Loloish language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 glottocode: lang1333
 wikidata_id: Q6485577
 wikipedia_url: "https://en.wikipedia.org/wiki/Lang%27e_language"

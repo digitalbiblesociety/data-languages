@@ -11,6 +11,7 @@ area: Plateau languages in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.87556
 longitude: 9.64988
 glottocode: shal1242

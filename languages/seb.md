@@ -10,6 +10,7 @@ location: "Côte d&#039;Ivoire"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.48673
 longitude: -6.37129
 language_map_img: 500px-Supyire_language.webp

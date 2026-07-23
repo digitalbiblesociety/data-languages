@@ -11,6 +11,7 @@ area: "Endangered Aboriginal language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.48677
 longitude: 130.6759
 glottocode: tyar1236

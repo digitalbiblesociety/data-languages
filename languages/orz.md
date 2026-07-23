@@ -10,6 +10,7 @@ area: Language in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.51361
 longitude: 140.6015
 glottocode: ormu1248

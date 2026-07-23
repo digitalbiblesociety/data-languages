@@ -12,6 +12,7 @@ area: Variety of the Persian language spoken in Afghanistan
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 31.040545
 longitude: 67.359255
 language_map_img: prs.webp

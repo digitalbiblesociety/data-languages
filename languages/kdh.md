@@ -11,6 +11,7 @@ area: "West African language in Togo, Ghana and Benin"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.905523
 longitude: 1.13177
 glottocode: temm1241

@@ -11,6 +11,7 @@ area: Popolocan language spoken in Mexico
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.66601
 longitude: -97.23884
 language_map_img: 500px-Otomanguean_Languages.webp

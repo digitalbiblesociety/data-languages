@@ -11,6 +11,7 @@ area: Mayan language spoken in Belize and Guatemala
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 16.353335
 longitude: -89.06729
 glottocode: mopa1243

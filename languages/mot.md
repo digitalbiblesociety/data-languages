@@ -11,6 +11,7 @@ area: Language of Colombia and Venezuela
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.08497
 longitude: -72.935255
 glottocode: bari1297

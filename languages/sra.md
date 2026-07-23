@@ -10,6 +10,7 @@ area: Madang language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.08824
 longitude: 145.57798
 glottocode: saru1243

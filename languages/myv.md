@@ -11,6 +11,7 @@ area: Uralic language spoken in Russia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 52.85479
 longitude: 45.3901
 language_map_img: 500px-3-Mordvin.webp

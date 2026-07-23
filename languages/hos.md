@@ -11,6 +11,7 @@ area: Sign language used in southern Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 10.78646
 longitude: 106.68073
 glottocode: hoch1237

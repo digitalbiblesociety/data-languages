@@ -10,6 +10,7 @@ area: Sign language of Catalonia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 41.635
 longitude: -1.97
 glottocode: cata1241

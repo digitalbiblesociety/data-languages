@@ -11,6 +11,7 @@ area: Afro-Asiatic dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.9325
 longitude: 9.51838
 glottocode: dass1243

@@ -11,6 +11,7 @@ area: Creole language spoken in Malaysia and Singapore
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: -2
 longitude: 129
 glottocode: mala1533

@@ -11,6 +11,7 @@ area: "Siberian Turkic language of Gansu, China"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 39.05481
 longitude: 99.31118
 language_map_img: 500px-Siberian_Turkic_Languages_distribution_map.webp

@@ -10,6 +10,7 @@ area: Somali language spoken by the Tunni
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 1.06167
 longitude: 43.68471
 glottocode: tunn1238

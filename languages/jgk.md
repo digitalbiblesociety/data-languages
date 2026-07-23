@@ -11,6 +11,7 @@ area: Bantu language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q17523694
 translations:
   - translation_iso: ara

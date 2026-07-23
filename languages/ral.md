@@ -11,6 +11,7 @@ area: Mizo language of India
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.020115
 longitude: 94.73812
 glottocode: ralt1242

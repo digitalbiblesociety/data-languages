@@ -7,6 +7,7 @@ country_id: RU
 country_name: Russia
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.08504
 longitude: 47.601843
 glottocode: kuba1248

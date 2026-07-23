@@ -11,6 +11,7 @@ area: Language of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -27.63043
 longitude: -144.33752
 glottocode: rapa1245

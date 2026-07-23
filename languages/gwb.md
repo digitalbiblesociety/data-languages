@@ -10,6 +10,7 @@ area: Bantu language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.30688
 longitude: 9.11434
 glottocode: gwaa1239

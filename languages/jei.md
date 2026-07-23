@@ -11,6 +11,7 @@ area: "Yam language spoken in South Papua, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.87489
 longitude: 140.86307
 glottocode: yeii1239

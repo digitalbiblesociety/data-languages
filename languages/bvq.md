@@ -10,6 +10,7 @@ area: Language of the CAR
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 5.3328
 longitude: 27.0842
 glottocode: birr1240

@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -28.289642
 longitude: 152.151281
 language_map_img: 500px-Dialect_groups_as_described_by_githabal_prople.webp

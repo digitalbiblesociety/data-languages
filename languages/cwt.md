@@ -11,6 +11,7 @@ area: Divergent Jola language spoken in Senegal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.48255
 longitude: -16.74835
 glottocode: kuwa1246

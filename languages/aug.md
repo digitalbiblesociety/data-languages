@@ -11,6 +11,7 @@ area: Language spoken in Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.49256
 longitude: 1.74452
 language_map_img: 500px-Gbe_languages-es.webp

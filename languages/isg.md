@@ -9,6 +9,7 @@ area: "Sign language of Ireland, used primarily in the Republic of Ireland"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53.31499
 longitude: -6.36541
 glottocode: iris1235

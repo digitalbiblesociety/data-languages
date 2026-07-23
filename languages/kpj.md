@@ -11,6 +11,7 @@ area: Macro-Je language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -11.18812
 longitude: -50.34918
 language_map_img: 500px-Karajan_languages.webp

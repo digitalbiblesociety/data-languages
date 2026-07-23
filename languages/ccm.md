@@ -11,6 +11,7 @@ area: Language of Malaysia and Singapore
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.93
 longitude: 110.75
 glottocode: mala1482

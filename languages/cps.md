@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 11.41215
 longitude: 122.95359
 language_map_img: 500px-Capiznon_language_map.webp

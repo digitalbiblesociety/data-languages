@@ -11,6 +11,7 @@ area: Koman language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 9.16012
 longitude: 34.229265
 glottocode: uduk1239

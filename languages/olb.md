@@ -6,6 +6,7 @@ country_id: CM
 country_name: Cameroon
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.33
 longitude: 9.8
 wikidata_id: Q136563052

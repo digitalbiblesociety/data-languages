@@ -11,6 +11,7 @@ area: Wichí language of Argentina
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -23.16326
 longitude: -62.17574
 glottocode: wich1264

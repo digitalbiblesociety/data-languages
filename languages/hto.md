@@ -11,6 +11,7 @@ area: Indigenous American Huitoto language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.54535
 longitude: -73.11066
 language_map_img: MInica.webp

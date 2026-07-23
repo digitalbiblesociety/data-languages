@@ -11,6 +11,7 @@ area: Austronesian language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.20238
 longitude: 144.08925
 glottocode: woge1237

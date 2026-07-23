@@ -11,6 +11,7 @@ area: Portuguese-based creole of insular Equatorial Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.43033
 longitude: 5.61879
 glottocode: fada1250

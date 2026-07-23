@@ -10,6 +10,7 @@ area: Deaf sign language of Chile
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -32.78099
 longitude: -70.66979
 glottocode: chil1264

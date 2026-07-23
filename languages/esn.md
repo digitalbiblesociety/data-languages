@@ -10,6 +10,7 @@ area: Sign language used in El Salvador
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 13.7024
 longitude: -89.59881
 glottocode: salv1237

@@ -11,6 +11,7 @@ area: Sino-Tibetan language of western Nepal.
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 30.898325
 longitude: 79.46638
 glottocode: mugo1238

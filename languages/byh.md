@@ -11,6 +11,7 @@ area: Chepangic language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.00836
 longitude: 84.50684
 language_map_img: 500px-Tanahun_Gandaki_locator.webp

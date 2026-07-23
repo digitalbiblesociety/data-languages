@@ -9,6 +9,7 @@ country_name: New Zealand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -39.29225
 longitude: 175.77257
 glottocode: newz1236

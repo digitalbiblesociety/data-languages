@@ -11,6 +11,7 @@ area: Chinantecan language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.66507
 longitude: -96.14331
 glottocode: tepi1241

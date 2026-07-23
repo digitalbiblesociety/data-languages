@@ -11,6 +11,7 @@ area: Kutubuan language of New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.62687
 longitude: 143.28359
 language_map_img: Fasu_language.svg

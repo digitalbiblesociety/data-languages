@@ -6,6 +6,7 @@ country_id: JP
 country_name: Japan
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 28.268372
 longitude: 129.358991
 glottocode: amam1247

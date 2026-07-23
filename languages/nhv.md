@@ -11,6 +11,7 @@ area: Endangered Aztecan language of Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.32823
 longitude: -99.79677
 glottocode: tema1239

@@ -11,6 +11,7 @@ area: Northeastern Turkic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 54.32087
 longitude: 89.55414
 language_map_img: 500px-Chulym_region.webp

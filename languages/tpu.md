@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Cambodia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 13.56447
 longitude: 107.24544
 language_map_img: 500px-Tampuan_language.webp

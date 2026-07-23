@@ -11,6 +11,7 @@ area: "Language spoken on Sulawesi, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.00933
 longitude: 118.99377
 glottocode: ulum1237

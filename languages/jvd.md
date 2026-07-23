@@ -10,6 +10,7 @@ area: Endangered Dutch Creole language of Java
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.032902
 longitude: 110.419809
 glottocode: javi1237

@@ -9,6 +9,7 @@ area: Austroasiatic language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.02
 longitude: 103.34
 wikidata_id: Q4997235

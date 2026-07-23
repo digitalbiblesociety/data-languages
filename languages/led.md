@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in DR Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.189795
 longitude: 30.67945
 glottocode: lend1245

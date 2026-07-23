@@ -11,6 +11,7 @@ area: Cushtic language spoken by Qemant people in northwestern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 12.81193
 longitude: 37.05424
 glottocode: qima1242

@@ -12,6 +12,7 @@ area: Language spoken in Korea
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kor
 latitude: 37.5
 longitude: 128
 language_map_img: kor.webp

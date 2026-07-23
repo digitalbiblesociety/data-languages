@@ -10,6 +10,7 @@ country_name: Mongolia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: mon
 scripts: [Cyrl, Mong, Phag]
 wikidata_id: Q9246
 wikipedia_url: "https://en.wikipedia.org/wiki/Mongolian_language"

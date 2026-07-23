@@ -11,6 +11,7 @@ area: Unclassified language spoken in India
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.129
 longitude: 97.022
 glottocode: zakh1243

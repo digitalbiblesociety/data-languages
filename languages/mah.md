@@ -11,6 +11,7 @@ area: Micronesian language of the Marshall Islands
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: mah
 latitude: 3.129645
 longitude: 170.46258
 language_map_img: Micronesian_languages.en.webp

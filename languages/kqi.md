@@ -11,6 +11,7 @@ area: Koiarian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.36877
 longitude: 147.07916
 glottocode: koit1244

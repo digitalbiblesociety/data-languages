@@ -10,6 +10,7 @@ area: Gogodala-Suki language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.04783
 longitude: 141.84239
 glottocode: suki1245

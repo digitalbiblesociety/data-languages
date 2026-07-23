@@ -11,6 +11,7 @@ area: Bengali-Assamese language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.9175
 longitude: 87.3205
 glottocode: kurm1243

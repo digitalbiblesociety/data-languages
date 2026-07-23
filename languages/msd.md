@@ -10,6 +10,7 @@ area: Sign language used by Mayan communities in Mexico and Guatemala
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.49999
 longitude: -88.99999
 glottocode: yuca1236

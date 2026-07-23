@@ -12,6 +12,7 @@ area: Indo-Aryan language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.687012
 longitude: 71.096191
 language_map_img: Gujarati_language_map.svg

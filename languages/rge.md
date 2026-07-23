@@ -10,6 +10,7 @@ area: Mixed language of Romani people in Greece
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 38.63471
 longitude: 23.21639
 glottocode: roma1240

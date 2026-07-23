@@ -12,6 +12,7 @@ area: Goidelic Celtic language of Scotland
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 56.75735
 longitude: -5.24366
 language_map_img: 500px-Scots_Gaelic_speakers_in_the_2011_census.webp

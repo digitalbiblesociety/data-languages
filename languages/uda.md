@@ -11,6 +11,7 @@ area: Lower Cross River language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.70196
 longitude: 8.06562
 glottocode: udaa1238

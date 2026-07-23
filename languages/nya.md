@@ -12,6 +12,7 @@ area: Bantu language of Southern and East Africa
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: nya
 latitude: -14.80472
 longitude: 32.810775
 language_map_img: Chewa_map.svg

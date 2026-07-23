@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.29959
 longitude: 101.74047
 glottocode: kadu1253

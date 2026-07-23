@@ -12,6 +12,7 @@ area: Variety of Arabic spoken by Upper Egyptians
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 25.41322
 longitude: 30.53016
 language_map_img: aec.webp

@@ -11,6 +11,7 @@ area: Zaparoan language of Peru
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.96126
 longitude: -75.06117
 glottocode: arab1268

@@ -12,6 +12,7 @@ area: Bhil language of India
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.68876
 longitude: 73.90223
 scripts: [Deva]

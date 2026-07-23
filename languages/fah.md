@@ -10,6 +10,7 @@ area: Endangered Benue–Congo language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.38023
 longitude: 10.76837
 glottocode: bais1242

@@ -9,6 +9,7 @@ country_name: Brazil
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: por
 scripts: [Latn]
 wikidata_id: Q35876
 wikipedia_url: "https://en.wikipedia.org/wiki/Guarani_dialects"

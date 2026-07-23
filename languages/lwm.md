@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 20.85416
 longitude: 99.98623
 glottocode: laom1237

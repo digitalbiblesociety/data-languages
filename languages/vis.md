@@ -11,6 +11,7 @@ area: Malayalamoid language of India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 10.17509
 longitude: 76.75928
 glottocode: vish1243

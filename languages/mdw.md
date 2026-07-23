@@ -10,6 +10,7 @@ location: Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.23019
 longitude: 15.53223
 glottocode: mbos1242

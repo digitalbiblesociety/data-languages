@@ -10,6 +10,7 @@ location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.46762
 longitude: 28.93083
 glottocode: hund1239

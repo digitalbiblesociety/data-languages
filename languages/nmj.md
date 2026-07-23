@@ -11,6 +11,7 @@ area: Savannas language spoken in Cameroon
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 3.90658
 longitude: 15.21537
 glottocode: ngom1265

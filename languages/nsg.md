@@ -11,6 +11,7 @@ area: Eastern Nilotic language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -2.97716
 longitude: 37.52801
 glottocode: ngas1238

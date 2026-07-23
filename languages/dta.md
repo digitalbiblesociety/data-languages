@@ -11,6 +11,7 @@ area: Mongolic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 48
 longitude: 124
 glottocode: daur1238

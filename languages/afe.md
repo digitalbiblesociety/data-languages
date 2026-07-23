@@ -11,6 +11,7 @@ area: Bendi language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.65923
 longitude: 8.96041
 glottocode: putu1241

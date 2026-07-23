@@ -10,6 +10,7 @@ area: Nearly extinct Bantu language of Cameroon
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.39641
 longitude: 10.90806
 glottocode: hiju1238

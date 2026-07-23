@@ -11,6 +11,7 @@ area: Near-extinct indigenous language of Brazil and Venezuela
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 4.20057
 longitude: -63.12023
 glottocode: arut1244

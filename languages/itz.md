@@ -11,6 +11,7 @@ area: Mayan language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.02694
 longitude: -89.87338
 glottocode: itza1241

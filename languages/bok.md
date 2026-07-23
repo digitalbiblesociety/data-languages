@@ -10,6 +10,7 @@ area: Atlantic–Congo language spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.39823
 longitude: 17.62984
 glottocode: bonj1234

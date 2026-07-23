@@ -10,6 +10,7 @@ area: Malayo-Polynesian language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.66368
 longitude: 146.87435
 glottocode: kuni1263

@@ -11,6 +11,7 @@ area: Bantu language spoken in the Central African Republic and Congo and Republ
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 3.6515
 longitude: 17.2713
 glottocode: yaka1272

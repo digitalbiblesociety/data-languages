@@ -11,6 +11,7 @@ area: Southern Luo dialect
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.577385
 longitude: 32.514725
 scripts: [Latn]

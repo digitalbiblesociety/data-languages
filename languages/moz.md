@@ -11,6 +11,7 @@ area: Chadic language spoken in central Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.86437
 longitude: 18.18217
 glottocode: muku1242

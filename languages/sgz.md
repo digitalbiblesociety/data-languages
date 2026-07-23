@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.99078
 longitude: 152.76834
 glottocode: surs1246

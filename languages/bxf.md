@@ -11,6 +11,7 @@ area: Oceanic language of the Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.39732
 longitude: 152.3339
 glottocode: bilu1244

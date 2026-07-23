@@ -10,6 +10,7 @@ area: "Austroasiatic language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.98016
 longitude: 101.15793
 glottocode: kuan1250

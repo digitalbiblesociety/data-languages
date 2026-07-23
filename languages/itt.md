@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.24531
 longitude: 120.71816
 language_map_img: 500px-Greater_Kankanaey_language_map.webp

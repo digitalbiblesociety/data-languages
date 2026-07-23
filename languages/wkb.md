@@ -10,6 +10,7 @@ area: Southern Dravidian language of India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 glottocode: kumb1267
 wikidata_id: Q16878146
 wikipedia_url: "https://en.wikipedia.org/wiki/Kumbaran_language"

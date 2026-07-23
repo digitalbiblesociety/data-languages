@@ -11,6 +11,7 @@ area: Leko language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.92708
 longitude: 12.45334
 glottocode: womn1235

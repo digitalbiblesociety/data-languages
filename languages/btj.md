@@ -12,6 +12,7 @@ area: Language in North Maluku
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -0.62275
 longitude: 127.49047
 glottocode: baca1243

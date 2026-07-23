@@ -11,6 +11,7 @@ area: "Sino-Tibetan language of Arunachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.791
 longitude: 96.163
 glottocode: naaa1245

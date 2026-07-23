@@ -10,6 +10,7 @@ location: "Mali, Map 3"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 11.63201
 longitude: -5.87709
 language_map_img: 500px-Supyire_language.webp

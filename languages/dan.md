@@ -12,6 +12,7 @@ area: North Germanic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: dan
 latitude: 54.8655
 longitude: 9.36284
 language_map_img: dan.webp

@@ -10,6 +10,7 @@ area: Deaf sign language of Bulgaria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bul
 latitude: 42.79184
 longitude: 25.00265
 glottocode: bulg1240

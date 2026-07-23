@@ -11,6 +11,7 @@ area: Central Sudanic language of DR Congo and Uganda
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 0.7398
 longitude: 29.66556
 glottocode: mvub1239

@@ -10,6 +10,7 @@ area: Polynesian language spoken in Tokelau
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tkl
 latitude: -9.170975
 longitude: -171.816101
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Dialect of the Persian language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 28.659283
 longitude: 55.158607
 language_map_img: pes.webp

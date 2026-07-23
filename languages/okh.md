@@ -10,6 +10,7 @@ area: Northwestern Iranian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 37.794
 longitude: 44.895
 glottocode: kore1279

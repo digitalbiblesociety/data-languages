@@ -12,6 +12,7 @@ area: Written and formal spoken German
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 48.648954
 longitude: 12.467623
 language_map_img: deu.webp

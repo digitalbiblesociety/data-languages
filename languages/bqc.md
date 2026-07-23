@@ -11,6 +11,7 @@ area: Mande language spoken in Benin and Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.518905
 longitude: 3.717705
 glottocode: boko1266

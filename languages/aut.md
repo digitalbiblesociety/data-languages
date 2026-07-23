@@ -11,6 +11,7 @@ area: Language of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -23.38431
 longitude: -149.46195
 glottocode: aust1304

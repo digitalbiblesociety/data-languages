@@ -11,6 +11,7 @@ area: Krahn language of Liberia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.87021
 longitude: -8.9346
 glottocode: gbii1242

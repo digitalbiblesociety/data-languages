@@ -9,6 +9,7 @@ area: Austroasiatic language of Cambodia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 13.47899
 longitude: 103.978
 glottocode: samr1245

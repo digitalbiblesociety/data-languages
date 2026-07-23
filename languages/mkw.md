@@ -11,6 +11,7 @@ area: Creole language spoken in Central Africa
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.15654
 longitude: 14.56481
 glottocode: kitu1245

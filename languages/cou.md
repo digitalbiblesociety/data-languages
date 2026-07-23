@@ -11,6 +11,7 @@ area: Senegambian language spoken in West Africa
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.542075
 longitude: -13.176955
 glottocode: wame1240

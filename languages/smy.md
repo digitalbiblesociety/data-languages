@@ -10,6 +10,7 @@ area: Language of the Semnan Province of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.5295
 longitude: 53.2868
 language_map_img: 500px-Caspian_languages.webp

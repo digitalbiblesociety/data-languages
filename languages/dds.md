@@ -11,6 +11,7 @@ area: Dogon dialect
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.34019
 longitude: -3.51468
 glottocode: donn1239

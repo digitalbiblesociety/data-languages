@@ -11,6 +11,7 @@ area: "Austronesian language of New Ireland Province, Papua New Guinea"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.52188
 longitude: 150.19803
 glottocode: tung1290

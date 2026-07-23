@@ -12,6 +12,7 @@ area: Nilotic dialect cluster spoken by the Dinka people of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.02206
 longitude: 31.28501
 glottocode: sout2834

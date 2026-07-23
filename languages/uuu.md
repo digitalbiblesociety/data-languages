@@ -11,6 +11,7 @@ area: "Austroasiatic language spoken in Yunnan, China"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.67668
 longitude: 101.77163
 glottocode: uuuu1243

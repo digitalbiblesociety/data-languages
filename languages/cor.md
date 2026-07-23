@@ -11,6 +11,7 @@ area: Brythonic Celtic language spoken in Cornwall
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 50.52332
 longitude: -4.18619
 scripts: [Latn]

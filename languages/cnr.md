@@ -10,6 +10,7 @@ area: Normative variety of Serbo-Croatian in Montenegro
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: cnr
 wikidata_id: Q8821
 wikipedia_url: "https://en.wikipedia.org/wiki/Montenegrin_language"
 translations:

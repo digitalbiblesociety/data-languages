@@ -10,6 +10,7 @@ area: Ubangian dialect cluster spoken by Baka pygmies of Cameroon and Gabon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 6.544
 longitude: 19.347
 glottocode: ganz1247

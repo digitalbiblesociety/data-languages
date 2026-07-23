@@ -10,6 +10,7 @@ country_name: Madagascar
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: mlg
 language_map_img: mlg.svg
 scripts: [Latn]
 wikidata_id: Q7930

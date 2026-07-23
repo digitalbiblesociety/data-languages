@@ -11,6 +11,7 @@ area: Indigenous language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.61516
 longitude: -76.31254
 glottocode: paez1247

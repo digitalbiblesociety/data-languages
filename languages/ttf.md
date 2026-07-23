@@ -10,6 +10,7 @@ location: Southwestern Cameroon
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.65626
 longitude: 10.65924
 glottocode: tuot1238

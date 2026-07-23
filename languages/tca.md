@@ -11,6 +11,7 @@ area: Ticuna–Yuri language spoken in Amazon Basin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -3.66289
 longitude: -69.87233
 language_map_img: 500px-Ticuna.webp

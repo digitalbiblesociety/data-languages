@@ -10,6 +10,7 @@ area: Endangered Bantu language spoken in Gabon
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.22
 longitude: 10.58
 glottocode: eviy1235

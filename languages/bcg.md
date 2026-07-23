@@ -11,6 +11,7 @@ area: Endangered Rio Nunez language of Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.52708
 longitude: -14.61106
 glottocode: baga1275

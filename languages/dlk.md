@@ -10,6 +10,7 @@ area: Semitic language spoken in Eritrea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tir
 latitude: 15.732898
 longitude: 40.081897
 glottocode: daha1247

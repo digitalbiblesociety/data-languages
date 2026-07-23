@@ -11,6 +11,7 @@ area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.48063
 longitude: 124.27121
 language_map_img: 500px-Alor-pantar_map_color.webp

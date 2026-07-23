@@ -11,6 +11,7 @@ area: Matacoan language spoken in Argentina and Paraguay
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.85571
 longitude: -61.76059
 glottocode: niva1238

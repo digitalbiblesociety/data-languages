@@ -10,6 +10,7 @@ area: Huon language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.03128
 longitude: 147.41094
 glottocode: kumu1247

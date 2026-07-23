@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.78685
 longitude: 18.07767
 glottocode: naba1253

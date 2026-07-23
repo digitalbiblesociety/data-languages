@@ -11,6 +11,7 @@ area: Bantu language spoken in Namibia and Angola
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.90257
 longitude: 19.25602
 glottocode: kwan1273

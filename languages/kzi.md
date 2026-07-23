@@ -11,6 +11,7 @@ area: Austronesian language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.31783
 longitude: 115.42828
 language_map_img: Languages_of_Kalimantan.svg

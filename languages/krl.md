@@ -11,6 +11,7 @@ area: "Finnic language of Karelia, in Russia and Finland"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 65.16912
 longitude: 30.865535
 language_map_img: 500px-2.2a-Karelian-and-Ludic_traditional.webp

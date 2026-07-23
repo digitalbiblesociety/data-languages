@@ -10,6 +10,7 @@ area: South African gay slang
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -28.77
 longitude: 26.895
 glottocode: gail1235

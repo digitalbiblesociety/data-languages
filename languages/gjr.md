@@ -9,6 +9,7 @@ area: Mixed Gurindji–Kriol language of Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.4484
 longitude: 130.833
 glottocode: guri1249

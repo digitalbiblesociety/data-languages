@@ -11,6 +11,7 @@ area: Dialects of the Lao language west of the Mekong River
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 14.32526
 longitude: 102.98638
 language_map_img: tts.webp

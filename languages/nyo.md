@@ -10,6 +10,7 @@ location: Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 0.95294
 longitude: 31.34928
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Language of Colombia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.53751
 longitude: -72.08686
 language_map_img: Andoque.webp

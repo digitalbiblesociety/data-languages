@@ -11,6 +11,7 @@ area: Austroasiatic language of Cambodia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 13.593
 longitude: 105.02774
 language_map_img: 500px-Pear_language.webp

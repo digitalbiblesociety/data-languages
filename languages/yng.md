@@ -10,6 +10,7 @@ area: Ubangian language spoken in the Congos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.81523
 longitude: 19.01082
 glottocode: yang1289

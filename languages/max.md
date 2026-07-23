@@ -12,6 +12,7 @@ area: Malay-based creole language spoken in Indonesia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -0.86437
 longitude: 128.32323
 glottocode: nort2828

@@ -11,6 +11,7 @@ area: "Slavic Language, Mainly in Slovenia"
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: slv
 latitude: 46.254258
 longitude: 14.776588
 language_map_img: 500px-Slovenes_distribution_map.webp

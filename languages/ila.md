@@ -11,6 +11,7 @@ area: Language in Nusa Tenggara
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.38636
 longitude: 123.44173
 glottocode: ilea1237

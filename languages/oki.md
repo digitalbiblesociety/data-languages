@@ -12,6 +12,7 @@ area: Nilotic language spoken in Kenya and Tanzania
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -2.780485
 longitude: 36.59766
 glottocode: okie1245

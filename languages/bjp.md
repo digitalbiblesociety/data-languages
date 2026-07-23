@@ -10,6 +10,7 @@ area: Oceanic language of New Ireland
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 wikidata_id: Q56704263
 translations:
   - translation_iso: ara

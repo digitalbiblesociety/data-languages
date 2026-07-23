@@ -9,6 +9,7 @@ area: Kanuri liturgical language of Nigeria
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.852298
 longitude: 13.157959
 glottocode: tarj1235

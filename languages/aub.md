@@ -11,6 +11,7 @@ area: Loloish languages of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23
 longitude: 103
 glottocode: alug1235

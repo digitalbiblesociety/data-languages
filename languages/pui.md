@@ -11,6 +11,7 @@ area: Indigenous language of Colombia and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 3.92974
 longitude: -67.6886
 language_map_img: Puinave.webp

@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Burma and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 27.25725
 longitude: 96.385495
 glottocode: tase1235

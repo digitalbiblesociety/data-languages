@@ -11,6 +11,7 @@ area: Indo-Aryan language primarily spoken in Gilgit-Baltistan and Gurez valley
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 34.65145
 longitude: 75.28701
 glottocode: shin1264

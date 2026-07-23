@@ -7,6 +7,7 @@ country_id: MX
 country_name: Mexico
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.06144
 longitude: -96.29642
 glottocode: alba1273

@@ -10,6 +10,7 @@ area: Endangered language of the Plains peoples
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.39406
 longitude: -99.24989
 glottocode: plai1235

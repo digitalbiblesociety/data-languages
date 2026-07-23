@@ -12,6 +12,7 @@ area: Quechuan language of Ecuador and Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -2.48314
 longitude: -78.96725
 language_map_img: KichwaQ.svg

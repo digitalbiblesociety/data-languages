@@ -11,6 +11,7 @@ area: Mayan language of Guatemala and Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.68455
 longitude: -91.3043
 glottocode: qanj1241

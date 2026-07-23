@@ -11,6 +11,7 @@ area: Kwa language of south-central Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.56081
 longitude: -5.41732
 glottocode: egaa1242

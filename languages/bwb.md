@@ -11,6 +11,7 @@ area: Oceanic language of Fiji
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -18.53081
 longitude: 177.63658
 glottocode: namo1248

@@ -12,6 +12,7 @@ area: "Eastern Iranian language of Ossetia, in the Caucasus"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 41.78816
 longitude: 43.26738
 scripts: [Cyrl]

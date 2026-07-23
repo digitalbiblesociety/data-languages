@@ -10,6 +10,7 @@ area: Deaf sign language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.9761
 longitude: 38.85339
 glottocode: ethi1238

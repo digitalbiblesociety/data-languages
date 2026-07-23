@@ -11,6 +11,7 @@ area: Maipurean language of Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 0.440205
 longitude: -68.904165
 glottocode: tari1256

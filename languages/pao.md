@@ -11,6 +11,7 @@ area: Numic language spoken in western US
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.0799
 longitude: -119.53609
 language_map_img: Northern_Paiute_Mono_map.svg

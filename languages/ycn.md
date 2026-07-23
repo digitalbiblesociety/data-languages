@@ -11,6 +11,7 @@ area: Arawakan language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.76075
 longitude: -71.00327
 language_map_img: Yucuna.webp

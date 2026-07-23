@@ -11,6 +11,7 @@ area: Gur language spoken in Burkina Faso
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.79704
 longitude: -4.24384
 glottocode: khee1238

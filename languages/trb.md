@@ -10,6 +10,7 @@ location: "Papua New Guinea, Map 4"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.68721
 longitude: 143.83467
 glottocode: tere1276

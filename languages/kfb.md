@@ -11,6 +11,7 @@ area: Central Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.10216
 longitude: 78.49338
 glottocode: nort2699

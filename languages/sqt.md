@@ -11,6 +11,7 @@ area: "South Semitic language of Socotra, Yemen"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.48924
 longitude: 53.91675
 language_map_img: Modern_South_Arabian_Languages.svg

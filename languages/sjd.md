@@ -11,6 +11,7 @@ area: Language spoken on the Kola Peninsula of northwestern Russia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 68.21579
 longitude: 35.83479
 language_map_img: Kildin-SamiLanguageLocatorMap.svg

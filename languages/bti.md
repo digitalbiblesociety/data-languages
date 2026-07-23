@@ -10,6 +10,7 @@ area: Papuan language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.79301
 longitude: 136.03841
 glottocode: bura1276

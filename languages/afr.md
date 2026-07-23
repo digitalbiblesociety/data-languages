@@ -12,6 +12,7 @@ area: West Germanic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22
 longitude: 30
 language_map_img: afr.webp

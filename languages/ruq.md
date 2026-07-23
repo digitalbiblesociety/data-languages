@@ -11,6 +11,7 @@ area: Romance language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 41.11735
 longitude: 22.378175
 language_map_img: 500px-South-Balkan-Romance-languages.webp

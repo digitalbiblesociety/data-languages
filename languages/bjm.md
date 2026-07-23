@@ -10,6 +10,7 @@ area: Group of Kurdish dialects
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 33.94978
 longitude: 42.98673
 glottocode: baje1238

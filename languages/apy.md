@@ -11,6 +11,7 @@ area: Cariban language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.49792
 longitude: -54.7457
 glottocode: apal1257

@@ -11,6 +11,7 @@ area: Mixed Mayan language spoken in Guatemala
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 14.6467
 longitude: -90.69885
 glottocode: cakc1235

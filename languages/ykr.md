@@ -9,6 +9,7 @@ location: "Papua New Guinea, Map 16"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.86248
 longitude: 147.46278
 glottocode: yeko1240

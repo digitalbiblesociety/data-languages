@@ -12,6 +12,7 @@ area: Creole language spoken in Manado
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.48099
 longitude: 124.8433
 glottocode: mala1481

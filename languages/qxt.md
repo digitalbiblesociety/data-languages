@@ -12,6 +12,7 @@ area: Quechuan dialect cluster of west-central Peru
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -10.33016
 longitude: -76.27527
 glottocode: sant1433

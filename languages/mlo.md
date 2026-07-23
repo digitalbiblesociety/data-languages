@@ -11,6 +11,7 @@ area: Bak language of Senegal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.83179
 longitude: -16.53832
 glottocode: mlom1238

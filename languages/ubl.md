@@ -12,6 +12,7 @@ area: Inland Bikol language subgroup spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 wikidata_id: Q18664494
 wikipedia_url: "https://en.wikipedia.org/wiki/Buhi%27non_Bikol_language"
 translations:

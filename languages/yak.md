@@ -11,6 +11,7 @@ area: Sahaptian language in the United States
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 46.26552
 longitude: -120.75587
 glottocode: yaki1237

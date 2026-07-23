@@ -12,6 +12,7 @@ area: "Bantu language of Zimbabwe, Mozambique"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.20849
 longitude: 29.75725
 language_map_img: sna.webp

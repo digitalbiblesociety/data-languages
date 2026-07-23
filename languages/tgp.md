@@ -11,6 +11,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.56432
 longitude: 166.95814
 language_map_img: 500px-Vanuatu_-_Espiritu_Santo.webp

@@ -11,6 +11,7 @@ area: Romance language spoken in northeastern Sardinia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 41.11312
 longitude: 9.24279
 language_map_img: 500px-Sardinia_Language_Map.webp

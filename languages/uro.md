@@ -11,6 +11,7 @@ area: Baining language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.64226
 longitude: 151.95294
 glottocode: urap1240

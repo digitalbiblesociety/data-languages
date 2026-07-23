@@ -11,6 +11,7 @@ area: Iroquoian language spoken by the Cherokee people
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 35.46639
 longitude: -83.16303
 language_map_img: Cherokee_lang.webp

@@ -11,6 +11,7 @@ area: Nearly extinct Kainji language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.43572
 longitude: 8.20774
 glottocode: vono1238

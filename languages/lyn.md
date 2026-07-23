@@ -11,6 +11,7 @@ area: Language in the Bantu family
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.22208
 longitude: 18.80369
 glottocode: luya1241

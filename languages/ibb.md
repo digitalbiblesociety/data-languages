@@ -11,6 +11,7 @@ area: Native language of the Ibibio People
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.15279
 longitude: 7.86688
 language_map_img: ibb.webp

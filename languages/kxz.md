@@ -11,6 +11,7 @@ area: Kiwaian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.551
 longitude: 144.3085
 glottocode: kere1286

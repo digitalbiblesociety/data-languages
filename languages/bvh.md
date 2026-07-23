@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.46033
 longitude: 10.45544
 glottocode: bure1242

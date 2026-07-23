@@ -11,6 +11,7 @@ area: Kuki-Chin language of north-east India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.8688
 longitude: 94.53404
 glottocode: komi1270

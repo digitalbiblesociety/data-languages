@@ -11,6 +11,7 @@ area: Cariban language of Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -14.26284
 longitude: -54.7034
 glottocode: baka1277

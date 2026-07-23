@@ -9,6 +9,7 @@ area: Deaf sign language of Zambia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.51343
 longitude: 28.98984
 glottocode: zamb1239

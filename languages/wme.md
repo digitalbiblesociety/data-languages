@@ -11,6 +11,7 @@ area: Kiranti language of Nepal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.14808
 longitude: 86.47646
 glottocode: wamb1257

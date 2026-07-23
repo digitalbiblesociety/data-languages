@@ -11,6 +11,7 @@ area: Endangered Afro-Asiatic language of Kenya
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.46863
 longitude: 37.10079
 glottocode: yaak1241

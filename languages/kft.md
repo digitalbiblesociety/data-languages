@@ -11,6 +11,7 @@ area: Tribal language of Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.69995
 longitude: 74.7355
 glottocode: kanj1259

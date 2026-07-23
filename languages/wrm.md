@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -20.64791
 longitude: 134.37481
 language_map_img: 500px-Warumungu_language.webp

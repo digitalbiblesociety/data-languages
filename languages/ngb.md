@@ -11,6 +11,7 @@ area: Ubangian dialect continuum of Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.56357
 longitude: 21.85251
 glottocode: nort2774

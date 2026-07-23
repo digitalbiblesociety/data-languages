@@ -10,6 +10,7 @@ area: Variety of West Central German
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.33412
 longitude: -87.80644
 language_map_img: Pennsylvania_Dutch_map_distribution.svg

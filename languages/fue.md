@@ -12,6 +12,7 @@ area: Variety of the Fula language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.801
 longitude: 3.988
 glottocode: borg1235

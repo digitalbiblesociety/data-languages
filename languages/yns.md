@@ -11,6 +11,7 @@ area: Bantu language spoken in Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -3.8231
 longitude: 18.23407
 glottocode: yans1239

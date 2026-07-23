@@ -9,6 +9,7 @@ country_name: Ethiopia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: amh
 scripts: [Ethi, Latn]
 wikidata_id: Q33864
 wikipedia_url: "https://en.wikipedia.org/wiki/Oromo_language"

@@ -11,6 +11,7 @@ area: Endangered Chadic language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.22845
 longitude: 9.74694
 glottocode: zang1255

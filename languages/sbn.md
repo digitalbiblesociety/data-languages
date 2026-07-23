@@ -11,6 +11,7 @@ area: Indo-Aryan language native to Sindh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 24.54084
 longitude: 69.00076
 language_map_img: Sindhi-speakers_by_Pakistani_District_-_2017_Census.webp

@@ -12,6 +12,7 @@ area: Variety of Arabic spoken in the Najd region of Saudi Arabia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 30.337142
 longitude: 42.177266
 language_map_img: ars.webp

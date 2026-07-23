@@ -11,6 +11,7 @@ area: Oceanic language of northeast New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.27
 longitude: 144.96477
 glottocode: sepa1241

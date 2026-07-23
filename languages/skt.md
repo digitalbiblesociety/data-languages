@@ -10,6 +10,7 @@ location: Northern Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -2.85653
 longitude: 17.96686
 glottocode: saka1287

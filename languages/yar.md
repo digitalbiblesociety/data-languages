@@ -11,6 +11,7 @@ area: Extinct language of Venezuela
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.32692
 longitude: -66.276
 glottocode: yaba1248

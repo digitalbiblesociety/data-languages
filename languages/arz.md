@@ -12,6 +12,7 @@ area: Arabic variety spoken in Egypt
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 31
 longitude: 31
 language_map_img: arz.webp

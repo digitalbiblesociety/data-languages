@@ -9,6 +9,7 @@ area: Eastern Baltic language spoken in Lithuania
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: lit
 language_map_img: Dialecto_samogitiano.webp
 scripts: [Latn]
 wikidata_id: Q213434

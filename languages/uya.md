@@ -11,6 +11,7 @@ area: Cross River language spoken in Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.39961
 longitude: 8.26925
 glottocode: doko1243

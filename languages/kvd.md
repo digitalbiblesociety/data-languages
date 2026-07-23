@@ -11,6 +11,7 @@ area: Language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.38204
 longitude: 124.79122
 glottocode: kuii1253

@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sulawesi, Indonesia"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.0539
 longitude: 124.6516
 glottocode: tons1239

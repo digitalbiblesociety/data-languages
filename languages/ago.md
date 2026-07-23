@@ -11,6 +11,7 @@ area: Angan language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.40306
 longitude: 145.68228
 glottocode: tain1253

@@ -9,6 +9,7 @@ area: Dialects and descendants of American Sign Language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.87983
 longitude: -71.17218
 glottocode: domi1236

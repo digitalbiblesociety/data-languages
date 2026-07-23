@@ -10,6 +10,7 @@ area: "Language of the Osing people of East Java, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.25262
 longitude: 114.29235
 language_map_img: Osing.svg

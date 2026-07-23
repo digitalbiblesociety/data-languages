@@ -11,6 +11,7 @@ area: "East Geelvink language of Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.44717
 longitude: 137.6289
 glottocode: bauz1241

@@ -10,6 +10,7 @@ location: Southwestern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.67753
 longitude: 102.851673
 glottocode: hani1248

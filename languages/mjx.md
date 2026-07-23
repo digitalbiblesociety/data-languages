@@ -11,6 +11,7 @@ area: Munda language of South Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.1698
 longitude: 86.74451
 language_map_img: 500px-Geographic_distribution_of_Santali_language.webp

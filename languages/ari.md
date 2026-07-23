@@ -11,6 +11,7 @@ area: Arikara Native American language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.647304
 longitude: -98.715822
 language_map_img: 500px-Arikara_lang.webp

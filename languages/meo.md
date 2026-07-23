@@ -12,6 +12,7 @@ area: Malay dialect of northwestern Malaysia and Thailand
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.933
 longitude: 100.492
 language_map_img: 500px-Kedah_Malay_Map.webp

@@ -11,6 +11,7 @@ area: Central Delta language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.72951
 longitude: 6.56333
 glottocode: kugb1241

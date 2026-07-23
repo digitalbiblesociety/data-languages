@@ -11,6 +11,7 @@ area: "Loloish language of Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.51103
 longitude: 101.6518
 glottocode: biyo1243

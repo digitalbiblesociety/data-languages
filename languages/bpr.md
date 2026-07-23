@@ -11,6 +11,7 @@ area: Austronesian language of the southern Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.20529
 longitude: 125.00664
 glottocode: koro1310

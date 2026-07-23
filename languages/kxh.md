@@ -11,6 +11,7 @@ area: South Omotic language spoken in southwestern Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.2101
 longitude: 36.17093
 glottocode: karo1297

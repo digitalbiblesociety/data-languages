@@ -10,6 +10,7 @@ area: Language in Papua
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.37424
 longitude: 138.0675
 glottocode: kone1241

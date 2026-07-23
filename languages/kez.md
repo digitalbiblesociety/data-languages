@@ -11,6 +11,7 @@ area: Upper Cross River language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.70286
 longitude: 8.39343
 glottocode: kuke1242

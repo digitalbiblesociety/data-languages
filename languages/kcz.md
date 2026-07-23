@@ -10,6 +10,7 @@ area: Bantu language spoken in Tanzania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -6.51503
 longitude: 32.18028
 glottocode: kono1265

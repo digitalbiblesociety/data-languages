@@ -11,6 +11,7 @@ area: Papuan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.78077
 longitude: 132.31177
 glottocode: kais1235

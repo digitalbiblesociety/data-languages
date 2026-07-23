@@ -11,6 +11,7 @@ area: Bantu language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.8897
 longitude: 9.40336
 glottocode: beng1282

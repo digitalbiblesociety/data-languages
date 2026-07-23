@@ -11,6 +11,7 @@ area: Austronesian language of New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.21954
 longitude: 133.46812
 glottocode: kowi1239

@@ -11,6 +11,7 @@ area: Language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.35353
 longitude: 13.61308
 glottocode: bana1305

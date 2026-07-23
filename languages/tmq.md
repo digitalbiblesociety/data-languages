@@ -10,6 +10,7 @@ area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.14955
 longitude: 142.34587
 glottocode: tuml1238

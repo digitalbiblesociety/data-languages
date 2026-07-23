@@ -11,6 +11,7 @@ area: Athabaskan language spoken in the cook inlet
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.47124
 longitude: -150.75926
 language_map_img: 500px-Early_Indian_Languages_Alaska.webp

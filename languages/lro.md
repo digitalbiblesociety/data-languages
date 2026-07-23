@@ -11,6 +11,7 @@ area: Atlantic-Congo language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.39154
 longitude: 30.38236
 glottocode: laro1243

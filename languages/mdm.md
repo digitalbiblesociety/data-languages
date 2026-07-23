@@ -11,6 +11,7 @@ area: Ubangian language of DR Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.79827
 longitude: 27.82816
 glottocode: mayo1261

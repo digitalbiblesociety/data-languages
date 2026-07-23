@@ -11,6 +11,7 @@ area: Senegambian language spoken in Guinea-Bissau
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 11.10971
 longitude: -16.14972
 glottocode: bidy1244

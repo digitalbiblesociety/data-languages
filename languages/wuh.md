@@ -11,6 +11,7 @@ area: Chinese–Tibetan–Mongolian creole language of northwestern China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 35.26904
 longitude: 101.95654
 glottocode: wutu1241

@@ -10,6 +10,7 @@ area: Austroasiatic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.08332
 longitude: 97.91665
 glottocode: yinc1238

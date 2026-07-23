@@ -11,6 +11,7 @@ area: Berber language of central Morocco
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 32.741545
 longitude: -2.40872
 language_map_img: Central_Atlas_Tamazight_-_EN.webp

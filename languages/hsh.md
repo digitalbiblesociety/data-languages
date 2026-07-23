@@ -10,6 +10,7 @@ area: Deaf sign language of Hungary
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hun
 latitude: 47.122
 longitude: 19.264
 glottocode: hung1263

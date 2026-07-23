@@ -10,6 +10,7 @@ area: Sign language used predominately in France and French-speaking Switzerland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 46.72252
 longitude: 6.78425
 glottocode: swis1241

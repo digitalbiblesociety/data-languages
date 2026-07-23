@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sumatra, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 4.3733
 longitude: 97.34556
 language_map_img: Languages_of_Northern_Sumatra_en.svg

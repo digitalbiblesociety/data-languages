@@ -10,6 +10,7 @@ area: Moribund Austronesian language of northeast Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.71805
 longitude: 150.92336
 glottocode: teni1244

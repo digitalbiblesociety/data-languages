@@ -11,6 +11,7 @@ area: Language native to the Solomon Islands
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -8.58405
 longitude: 157.29578
 language_map_img: Central_Solomons_languages.webp

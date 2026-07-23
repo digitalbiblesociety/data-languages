@@ -10,6 +10,7 @@ area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.35863
 longitude: 144.21446
 language_map_img: Wiru_language.svg

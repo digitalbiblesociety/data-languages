@@ -11,6 +11,7 @@ area: Kam–Sui language spoken by Yanghuang people of China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.67173
 longitude: 107.30906
 glottocode: tenn1245

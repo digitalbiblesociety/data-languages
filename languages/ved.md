@@ -11,6 +11,7 @@ area: Endangered language of Sri Lanka
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: sin
 latitude: 6.97396
 longitude: 81.26177
 language_map_img: Important_locations_of_Anuradhapura_Kingdom.webp

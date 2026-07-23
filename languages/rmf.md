@@ -11,6 +11,7 @@ area: Variety of the Romani language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 61.182915
 longitude: 19.156445
 scripts: [Latn]

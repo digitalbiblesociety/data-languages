@@ -11,6 +11,7 @@ area: Gur language spoken in Ghana and Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.287295
 longitude: -2.72672
 glottocode: sout2790

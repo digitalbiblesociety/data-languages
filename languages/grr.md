@@ -11,6 +11,7 @@ area: Berber language of Algeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.11067
 longitude: 0.01992
 language_map_img: 500px-Gourara_ksour_-_Linguistic_map.webp

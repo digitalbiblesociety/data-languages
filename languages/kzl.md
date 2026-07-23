@@ -10,6 +10,7 @@ area: Extinct Austronesian language of Indonesia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.39247
 longitude: 127.11763
 glottocode: kaye1241

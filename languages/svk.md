@@ -10,6 +10,7 @@ area: Deaf sign language of Slovakia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: slk
 latitude: 48.04632
 longitude: 18.12475
 glottocode: slov1263

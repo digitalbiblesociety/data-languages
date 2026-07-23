@@ -11,6 +11,7 @@ area: Central Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.5968
 longitude: 82.75859
 glottocode: pott1240

@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Myanmar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 wikidata_id: Q54548740
 wikipedia_url: "https://en.wikipedia.org/wiki/Ganan_language"
 translations:

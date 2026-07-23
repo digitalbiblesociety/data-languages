@@ -11,6 +11,7 @@ area: Cross River language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.68753
 longitude: 8.12005
 glottocode: orin1239

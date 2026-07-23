@@ -11,6 +11,7 @@ area: Manding language of Mali
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 14.05464
 longitude: -9.96404
 glottocode: kago1248

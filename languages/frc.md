@@ -11,6 +11,7 @@ area: "French variety spoken in Louisiana, United States"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 29.68686
 longitude: -91.61325
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: "Mongolic language of Gansu, China"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 37.98815
 longitude: 101.76214
 glottocode: east2337

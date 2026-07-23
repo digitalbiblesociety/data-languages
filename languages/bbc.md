@@ -11,6 +11,7 @@ area: Austronesian language spoken in North Sumatra province in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 2.35498
 longitude: 99.17614
 language_map_img: 500px-Batak_languages.webp

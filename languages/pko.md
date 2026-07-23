@@ -12,6 +12,7 @@ area: Nilotic language spoken in Kenya and Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 1.57023
 longitude: 35.23183
 scripts: [Latn]

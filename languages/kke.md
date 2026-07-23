@@ -11,6 +11,7 @@ area: Mande language of Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.59616
 longitude: -11.44178
 glottocode: kaka1265

@@ -12,6 +12,7 @@ area: Fula language spoken by Fula and Tukolor peoples
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.869355
 longitude: -13.448212
 language_map_img: Fula_language_map.svg

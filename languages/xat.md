@@ -11,6 +11,7 @@ area: Katukinian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -7.25015
 longitude: -64.83193
 glottocode: kata1270

@@ -11,6 +11,7 @@ area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.79989
 longitude: 15.628233
 scripts: [Latn]

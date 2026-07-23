@@ -11,6 +11,7 @@ area: Language in Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.04083
 longitude: 131.96538
 glottocode: mora1239

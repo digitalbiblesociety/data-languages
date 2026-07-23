@@ -11,6 +11,7 @@ area: Tupi–Guarani dialect group of Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -4.64681
 longitude: -50.06211
 glottocode: para1312

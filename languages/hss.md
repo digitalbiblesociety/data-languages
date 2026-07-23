@@ -11,6 +11,7 @@ area: Semitic language spoken in Oman
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 19.6511
 longitude: 56.15619
 language_map_img: Modern_South_Arabian_Languages.svg

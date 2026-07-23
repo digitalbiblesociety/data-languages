@@ -11,6 +11,7 @@ area: Surmic language spoken in Ethiopia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.40416
 longitude: 36.1702
 glottocode: kweg1241

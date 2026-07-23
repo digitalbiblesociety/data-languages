@@ -9,6 +9,7 @@ area: Creole derived from Kutchi and Swahili languages
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.139045
 longitude: 38.62169
 glottocode: cutc1238

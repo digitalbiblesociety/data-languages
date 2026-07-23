@@ -11,6 +11,7 @@ area: Saharan language of eastern Niger and northern Chad
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 15.73584
 longitude: 15.851695
 language_map_img: Toubou_map.svg

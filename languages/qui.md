@@ -10,6 +10,7 @@ area: "Extinct Chimakuan language of Washington state, US"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.91056
 longitude: -124.60311
 glottocode: quil1240

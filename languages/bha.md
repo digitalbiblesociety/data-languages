@@ -11,6 +11,7 @@ area: Indic language spoken in the Patalkot Valley of Madhya Pradesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.34293
 longitude: 83.10707
 glottocode: bhar1241

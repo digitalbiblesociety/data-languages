@@ -11,6 +11,7 @@ area: Afroasiatic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.01194
 longitude: 9.63992
 glottocode: kari1316

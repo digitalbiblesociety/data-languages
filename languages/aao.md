@@ -12,6 +12,7 @@ area: Arabic variety spoken predominantly in the Algerian Sahara
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 20.8884
 longitude: 4.80626
 glottocode: alge1240

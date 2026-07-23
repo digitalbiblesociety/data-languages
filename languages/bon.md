@@ -11,6 +11,7 @@ area: Trans-Fly language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.08879
 longitude: 142.89335
 glottocode: bine1240

@@ -10,6 +10,7 @@ area: Tibeto-Burman language of Western Thailand
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 14.24081
 longitude: 100.09778
 glottocode: ugon1239

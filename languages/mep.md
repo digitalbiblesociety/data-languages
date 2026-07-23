@@ -11,6 +11,7 @@ area: Aboriginal Australian language of the Kimberley region in Western Australi
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -16.3596
 longitude: 128.88869
 language_map_img: 500px-Miriwoong_language.webp

@@ -9,6 +9,7 @@ area: Official language of Papua New Guinea
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.5
 longitude: 147.116667
 glottocode: papu1255

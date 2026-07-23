@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.6771
 longitude: 122.33401
 glottocode: kara1476

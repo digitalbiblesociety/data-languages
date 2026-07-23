@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 9.44744
 longitude: 125.54843
 glottocode: mama1275

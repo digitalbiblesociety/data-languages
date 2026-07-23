@@ -11,6 +11,7 @@ area: Macro-Je language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.58
 longitude: -53
 glottocode: pana1307

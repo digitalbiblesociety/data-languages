@@ -11,6 +11,7 @@ area: Endangered Micronesian language of Saipan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 15.23702
 longitude: 145.75662
 glottocode: tana1281

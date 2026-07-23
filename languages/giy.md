@@ -10,6 +10,7 @@ area: Extinct Australian aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.20007
 longitude: 130.09204
 glottocode: giyu1238

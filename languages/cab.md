@@ -11,6 +11,7 @@ area: Arawakan language of Central America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.352868
 longitude: -86.909058
 glottocode: gari1256

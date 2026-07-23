@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -38.58
 longitude: 146.5
 language_map_img: 500px-Sketch_Map_of_Gippsland_-_Showing_approximately_the_Positions_of_the_Clans_of_the_Kurnai_Tribe.webp

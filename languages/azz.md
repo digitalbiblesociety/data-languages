@@ -11,6 +11,7 @@ area: Eastern Peripheral variety of the Nahuatl language group
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.15536
 longitude: -97.55562
 glottocode: high1278

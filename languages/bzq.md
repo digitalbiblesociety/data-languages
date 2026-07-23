@@ -11,6 +11,7 @@ area: "Austronesian language spoken in North Maluku, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.0008
 longitude: 128.44294
 glottocode: buli1255

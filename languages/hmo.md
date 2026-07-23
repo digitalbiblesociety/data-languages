@@ -11,6 +11,7 @@ area: Austronesian language of Papua New Guinea
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.33333
 longitude: 147.08332
 scripts: [Latn]

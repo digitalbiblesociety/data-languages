@@ -10,6 +10,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -16.210501
 longitude: 168.212109
 glottocode: orko1234

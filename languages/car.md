@@ -11,6 +11,7 @@ area: Endangered South American Indigenous language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.837718
 longitude: -56.832298
 language_map_img: 500px-Kalina.webp

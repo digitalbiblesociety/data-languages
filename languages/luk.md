@@ -11,6 +11,7 @@ area: Language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 28.12876
 longitude: 90.1257
 glottocode: luna1243

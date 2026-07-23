@@ -11,6 +11,7 @@ area: Ok language of Western New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.01385
 longitude: 140.8149
 glottocode: sout2940

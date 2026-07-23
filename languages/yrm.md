@@ -9,6 +9,7 @@ area: Yir-Yoront dialect of Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q8053828
 wikipedia_url: "https://en.wikipedia.org/wiki/Yirrk-Thangalkl_dialect"
 translations:

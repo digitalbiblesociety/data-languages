@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Burma
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.4957
 longitude: 96.99805
 glottocode: dana1252

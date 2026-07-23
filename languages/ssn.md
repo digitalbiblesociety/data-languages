@@ -11,6 +11,7 @@ area: Oromo-speaking people of southeast Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.55656
 longitude: 37.85681
 glottocode: waat1238

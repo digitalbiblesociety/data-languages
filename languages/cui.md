@@ -11,6 +11,7 @@ area: Guahiban language of Colombia and Venezuela
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 6.19829
 longitude: -69.819705
 language_map_img: Cuiba.webp

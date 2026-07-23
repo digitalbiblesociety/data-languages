@@ -11,6 +11,7 @@ area: Eastern Beboid language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.63008
 longitude: 10.59934
 glottocode: nsar1238

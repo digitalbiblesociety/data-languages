@@ -11,6 +11,7 @@ area: Endangered language isolate of Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -11.81195
 longitude: -53.5717
 glottocode: trum1247

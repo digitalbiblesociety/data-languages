@@ -11,6 +11,7 @@ area: Endangered Pama–Nyungan language of Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -32.02447
 longitude: 124.46601
 glottocode: ngad1258

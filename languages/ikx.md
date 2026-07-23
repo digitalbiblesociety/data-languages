@@ -11,6 +11,7 @@ area: Kuliak language of Uganda
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.61407
 longitude: 34.25066
 glottocode: ikkk1242

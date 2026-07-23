@@ -10,6 +10,7 @@ area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.31803
 longitude: 152.0052
 glottocode: mini1251

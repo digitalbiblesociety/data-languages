@@ -11,6 +11,7 @@ area: Dialect cluster of the Nuba Mountains of southern Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.33565
 longitude: 30.73307
 glottocode: lafo1243

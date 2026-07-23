@@ -11,6 +11,7 @@ area: Jivaro language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.99109
 longitude: -77.97965
 glottocode: huam1247

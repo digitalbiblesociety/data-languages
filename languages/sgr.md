@@ -10,6 +10,7 @@ area: Semnani language spoken in northern Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.72
 longitude: 53.3
 glottocode: sang1315

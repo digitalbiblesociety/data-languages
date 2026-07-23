@@ -11,6 +11,7 @@ area: Savanna language spoken in Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.821855
 longitude: 12.25182
 glottocode: peer1241

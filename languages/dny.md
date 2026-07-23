@@ -11,6 +11,7 @@ area: Arawan language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.74962
 longitude: -67.50286
 glottocode: deni1241

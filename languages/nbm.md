@@ -11,6 +11,7 @@ area: Language spoken by the Mbaka people of CAR and Congo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 4
 longitude: 18.12
 glottocode: ngba1284

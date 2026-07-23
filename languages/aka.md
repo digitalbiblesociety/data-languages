@@ -12,6 +12,7 @@ area: Language of Akan lands in Ghana
 status_id: "3"
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 latitude: 6.34756
 longitude: -1.33254
 language_map_img: aka.webp

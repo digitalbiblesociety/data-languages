@@ -10,6 +10,7 @@ area: Language in Western New Guinea
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.87428
 longitude: 140.80325
 glottocode: towe1240

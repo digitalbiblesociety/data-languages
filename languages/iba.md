@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Brunei, Kalimantan, and Sarawak"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.090413
 longitude: 112.934183
 language_map_img: Iban_language_distribution.svg

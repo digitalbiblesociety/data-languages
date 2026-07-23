@@ -10,6 +10,7 @@ area: Language of Sicily and its satellite islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 37.57354
 longitude: 14.04144
 language_map_img: Idioma_siciliano.webp

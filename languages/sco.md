@@ -11,6 +11,7 @@ area: West Germanic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 55.54104
 longitude: -6.00241
 language_map_img: 500px-Scots_speakers_in_the_2011_census.webp

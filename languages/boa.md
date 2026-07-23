@@ -11,6 +11,7 @@ area: Indigenous language spoken in Amazon Basin
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -2.91467
 longitude: -68.90929
 language_map_img: Lingua_bora.webp

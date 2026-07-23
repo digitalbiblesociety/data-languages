@@ -12,6 +12,7 @@ area: "Southern Quechua dialect of Cuzco, Peru"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -14.17541
 longitude: -72.6686
 glottocode: east2551

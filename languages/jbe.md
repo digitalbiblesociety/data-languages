@@ -9,6 +9,7 @@ area: Group of Berber-language varieties
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 32.55935
 longitude: 34.97483
 language_map_img: Judeo_Berber_map.svg

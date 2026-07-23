@@ -11,6 +11,7 @@ area: Tungusic language of eastern Russia and China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 53.85003
 longitude: 108.625523
 language_map_img: Distribution_of_the_Tungusic_languages.svg

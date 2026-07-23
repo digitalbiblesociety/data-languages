@@ -10,6 +10,7 @@ area: Deaf sign language of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.69219
 longitude: 51.09964
 glottocode: pers1244

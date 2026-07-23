@@ -11,6 +11,7 @@ area: Tibetic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.69311
 longitude: 86.32005
 glottocode: jire1238

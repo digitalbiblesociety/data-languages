@@ -11,6 +11,7 @@ area: Language spoken in Colombia and Venezuela
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 6.90948
 longitude: -71.00362
 language_map_img: Guahibo.webp

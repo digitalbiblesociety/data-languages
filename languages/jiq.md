@@ -11,6 +11,7 @@ area: Gyalrongic language of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 31.56552
 longitude: 101.9276
 language_map_img: 500px-Khroskyabs_map.webp

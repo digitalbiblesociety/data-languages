@@ -11,6 +11,7 @@ area: "Western Pahari language of Himachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 32.89687
 longitude: 76.11241
 glottocode: chur1258

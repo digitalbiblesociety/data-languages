@@ -11,6 +11,7 @@ area: Language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.42014
 longitude: 121.89093
 language_map_img: 500px-Ibanag_language_map.webp

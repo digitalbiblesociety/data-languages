@@ -11,6 +11,7 @@ area: Polynesian language spoken in the Marquesas of French Polynesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -8.89412
 longitude: -140.10792
 glottocode: nort2845

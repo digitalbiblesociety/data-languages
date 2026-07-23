@@ -11,6 +11,7 @@ area: Eastern Polynesian language of the Cook Islands
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rar
 latitude: -20
 longitude: -158
 scripts: [Latn]

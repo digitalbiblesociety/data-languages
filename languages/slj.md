@@ -10,6 +10,7 @@ area: Carib language of Brazil
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.74782
 longitude: -56.5107
 glottocode: salu1254

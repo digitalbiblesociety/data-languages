@@ -10,6 +10,7 @@ area: National sign language of Estonia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: est
 latitude: 58.947
 longitude: 24.566
 glottocode: esto1238

@@ -11,6 +11,7 @@ area: Persian dialect spoken by the Hazara people
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 33.3708
 longitude: 64.510477
 scripts: [Arab]

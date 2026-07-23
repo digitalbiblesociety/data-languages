@@ -7,6 +7,7 @@ country_id: PG
 country_name: Papua New Guinea
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.09369
 longitude: 142.027703
 glottocode: unii1234

@@ -11,6 +11,7 @@ area: Pamiri language spoken in Pakistan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 36.01403
 longitude: 71.50765
 glottocode: yidg1240

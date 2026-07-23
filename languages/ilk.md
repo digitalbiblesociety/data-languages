@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Phnes
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.37846
 longitude: 121.54727
 language_map_img: 500px-Ilongot_language_map.webp

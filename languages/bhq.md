@@ -11,6 +11,7 @@ area: "Austronesian language of the Tukangbesi Islands of southeast Sulawesi, In
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.7478
 longitude: 123.94804
 glottocode: tuka1249

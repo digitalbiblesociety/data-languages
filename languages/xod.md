@@ -11,6 +11,7 @@ area: Papuan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.12872
 longitude: 132.44949
 glottocode: koko1265

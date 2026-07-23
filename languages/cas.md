@@ -11,6 +11,7 @@ area: Language of the western Bolivian lowlands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -14.64448
 longitude: -67.83756
 glottocode: mose1249

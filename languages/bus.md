@@ -11,6 +11,7 @@ area: Mande language of Nigeria and Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.52724
 longitude: 3.80058
 glottocode: boko1267

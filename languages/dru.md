@@ -11,6 +11,7 @@ area: Formosan language spoken in Taiwan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.77381
 longitude: 120.84424
 language_map_img: 500px-Formosan_languages_2005.webp

@@ -11,6 +11,7 @@ area: Central Sudanic language spoken in Central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.230657
 longitude: 15.732783
 glottocode: mbay1241

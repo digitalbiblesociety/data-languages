@@ -10,6 +10,7 @@ area: Para-Romani dialect spoken by the Romanichal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 39
 longitude: -78
 glottocode: angl1239

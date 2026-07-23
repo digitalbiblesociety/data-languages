@@ -11,6 +11,7 @@ area: Uralic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 56.12921
 longitude: 52.63548
 scripts: [Cyrl, Latn]

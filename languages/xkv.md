@@ -11,6 +11,7 @@ area: Sotho–Tswana language of southern Botswana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.9208
 longitude: 22.72016
 glottocode: kgal1244

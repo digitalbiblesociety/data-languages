@@ -12,6 +12,7 @@ area: Eastern Baltic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: lav
 scripts: [Latn]
 wikidata_id: Q36212
 wikipedia_url: "https://en.wikipedia.org/wiki/Latgalian_language"

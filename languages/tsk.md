@@ -10,6 +10,7 @@ area: Tibetic language of Tibet
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.80464
 longitude: 89.19308
 glottocode: sder1236

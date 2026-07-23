@@ -12,6 +12,7 @@ area: Indo-Aryan national language of Maldives
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: div
 latitude: 3.82586
 longitude: 73.07456
 scripts: [Thaa]

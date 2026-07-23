@@ -11,6 +11,7 @@ area: Romance language spoken in Spain
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 39.19261
 longitude: -6.10179
 scripts: [Latn]

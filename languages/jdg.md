@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken on Iranian Plateau
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 26.96818
 longitude: 63.534955
 glottocode: jadg1238

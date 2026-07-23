@@ -11,6 +11,7 @@ area: Endangered Arawakan language of Peru
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -12.46525
 longitude: -69.30827
 glottocode: inap1242

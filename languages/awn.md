@@ -11,6 +11,7 @@ area: Cushitic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 10.98191
 longitude: 36.69164
 glottocode: awng1244

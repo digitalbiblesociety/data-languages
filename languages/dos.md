@@ -11,6 +11,7 @@ area: Gur language spoken in Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.18993
 longitude: -4.1493
 glottocode: dogo1295

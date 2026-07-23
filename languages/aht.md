@@ -11,6 +11,7 @@ area: Endangered Athabaskan language of Alaska
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 61.70684
 longitude: -144.88894
 language_map_img: 500px-Ahtna_lang.webp

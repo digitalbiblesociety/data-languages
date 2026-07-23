@@ -11,6 +11,7 @@ area: "Austroasiatic language of Meghalaya state, India"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.97703
 longitude: 91.999805
 language_map_img: 500px-Khasic_Map.webp

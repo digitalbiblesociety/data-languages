@@ -11,6 +11,7 @@ area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -17.68407
 longitude: 168.27482
 glottocode: mele1250

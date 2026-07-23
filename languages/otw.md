@@ -12,6 +12,7 @@ area: Native American dialect
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 44.598835
 longitude: -83.22595
 language_map_img: 500px-OdaawaaAreas.webp

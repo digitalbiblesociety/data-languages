@@ -11,6 +11,7 @@ area: Language isolate of central Tanzania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -5.26918
 longitude: 35.48081
 language_map_img: Sandawe_map.webp

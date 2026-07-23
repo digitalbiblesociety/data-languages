@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.55498
 longitude: 146.14726
 glottocode: bidy1243

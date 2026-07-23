@@ -11,6 +11,7 @@ area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.59133
 longitude: 145.03551
 glottocode: pura1257

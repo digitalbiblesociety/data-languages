@@ -8,6 +8,7 @@ country_name: Kenya
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: swh
 latitude: -0.02158
 longitude: 35.92363
 language_map_img: kln.webp

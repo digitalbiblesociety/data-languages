@@ -9,6 +9,7 @@ country_name: Albania
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: sqi
 language_map_img: sqi.svg
 scripts: [Elba, Latn]
 wikidata_id: Q8748

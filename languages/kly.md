@@ -11,6 +11,7 @@ area: Austronesian language spoken in Indonesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.31213
 longitude: 120.99456
 glottocode: kala1394

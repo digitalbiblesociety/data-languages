@@ -11,6 +11,7 @@ area: Austroasiatic language of Vietnam and China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.430453
 longitude: 102.133203
 glottocode: mang1378

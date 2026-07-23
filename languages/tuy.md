@@ -12,6 +12,7 @@ area: A language of Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 0.66573
 longitude: 35.84986
 glottocode: tuge1241

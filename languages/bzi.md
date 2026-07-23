@@ -11,6 +11,7 @@ area: Loloish language spoken in Thailand and China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 20.85416
 longitude: 99.98623
 glottocode: bisu1244

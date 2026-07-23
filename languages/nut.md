@@ -11,6 +11,7 @@ area: Tai language spoken in Vietnam
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 20.8965
 longitude: 104.28585
 language_map_img: 500px-Nung.webp

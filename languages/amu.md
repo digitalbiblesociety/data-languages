@@ -11,6 +11,7 @@ area: Amuzgo language of Mexico
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.77226
 longitude: -98.18953
 glottocode: guer1243

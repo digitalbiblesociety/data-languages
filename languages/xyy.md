@@ -10,6 +10,7 @@ area: Pama–Nyungan language of southeastern Australia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -35.9
 longitude: 145.01
 glottocode: yort1237

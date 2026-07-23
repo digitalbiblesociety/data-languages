@@ -11,6 +11,7 @@ area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 5.17203
 longitude: 21.85945
 glottocode: kpat1244

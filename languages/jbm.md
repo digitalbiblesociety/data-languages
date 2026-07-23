@@ -11,6 +11,7 @@ area: Dialect of Nigeria
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.65
 longitude: 9.57
 glottocode: biji1246

@@ -12,6 +12,7 @@ area: De facto standard dialect of Mongolian
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: mon
 latitude: 48.32397
 longitude: 106.288735
 glottocode: halh1238

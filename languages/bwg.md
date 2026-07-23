@@ -11,6 +11,7 @@ area: Bantu language of central Mozambique
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -17.67502
 longitude: 33.45344
 glottocode: barw1243

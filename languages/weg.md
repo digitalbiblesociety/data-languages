@@ -9,6 +9,7 @@ area: Endangered Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q7983284
 wikipedia_url: "https://en.wikipedia.org/wiki/Wergaia_dialect"
 translations:

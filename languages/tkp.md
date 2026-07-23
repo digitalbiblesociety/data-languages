@@ -11,6 +11,7 @@ area: Polynesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -12.27661
 longitude: 168.8223
 glottocode: tiko1237

@@ -7,6 +7,7 @@ country_id: KH
 country_name: Cambodia
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 11.557804
 longitude: 104.870261
 glottocode: camb1244

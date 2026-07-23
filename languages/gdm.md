@@ -11,6 +11,7 @@ area: Language isolate spoken in Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.00633
 longitude: 17.61425
 language_map_img: Laal_map.webp

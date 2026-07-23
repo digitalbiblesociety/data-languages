@@ -11,6 +11,7 @@ area: Secondary sign language of Thailand
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.86295
 longitude: 99.03901
 glottocode: chia1237

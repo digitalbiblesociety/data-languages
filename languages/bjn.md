@@ -12,6 +12,7 @@ area: Native language of Banjarese people
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.747105
 longitude: 115.789625
 scripts: [Latn]

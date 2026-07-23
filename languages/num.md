@@ -11,6 +11,7 @@ area: "Language of Tonga's northernmost island"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ton
 latitude: -15.60144
 longitude: -175.63991
 glottocode: niua1240

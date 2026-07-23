@@ -11,6 +11,7 @@ area: Extinct Austronesian language of East Timor
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.40372
 longitude: 127.23865
 language_map_img: 500px-Makuva.webp

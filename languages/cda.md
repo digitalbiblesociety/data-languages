@@ -11,6 +11,7 @@ area: Tibetic language spoken in China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.75524
 longitude: 99.82552
 glottocode: chon1285

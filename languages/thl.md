@@ -11,6 +11,7 @@ area: One of the Indo Aryan Tharu languages spoken by the Tharu people of Nepal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.883445
 longitude: 81.776085
 scripts: [Deva]

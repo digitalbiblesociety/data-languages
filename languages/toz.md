@@ -10,6 +10,7 @@ area: Mbum language of Cameroon and the CAR
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.25936
 longitude: 15.281925
 glottocode: tooo1238

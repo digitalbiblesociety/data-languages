@@ -8,6 +8,7 @@ country_id: PG
 country_name: Papua New Guinea
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.07263
 longitude: 142.012
 glottocode: wara1302

@@ -10,6 +10,7 @@ area: Oghuz Turkic language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 41.170545
 longitude: 24.44567
 scripts: [Grek]

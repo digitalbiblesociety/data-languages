@@ -11,6 +11,7 @@ area: Kwerbic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.88775
 longitude: 138.59509
 glottocode: isir1237

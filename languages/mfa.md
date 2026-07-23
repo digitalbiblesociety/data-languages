@@ -12,6 +12,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 6.38148
 longitude: 101.4103
 language_map_img: 500px-Kelantan-Pattani_Malay_spoke_map.webp

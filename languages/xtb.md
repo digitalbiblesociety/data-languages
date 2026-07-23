@@ -11,6 +11,7 @@ area: Mixtec language of Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.15412
 longitude: -97.78733
 glottocode: chaz1235

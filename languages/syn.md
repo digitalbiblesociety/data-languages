@@ -10,6 +10,7 @@ area: Dialect of Northeastern Neo-Aramaic
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.77764
 longitude: 51.43631
 glottocode: sena1268

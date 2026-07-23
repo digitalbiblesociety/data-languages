@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.32268
 longitude: 122.69928
 glottocode: liab1237

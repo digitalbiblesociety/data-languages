@@ -11,6 +11,7 @@ area: "Lakes Plain language of Irian Jaya, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.71182
 longitude: 138.05252
 glottocode: erit1239

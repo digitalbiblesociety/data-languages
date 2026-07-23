@@ -11,6 +11,7 @@ area: Niger Congo unwritten language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.71937
 longitude: 29.99697
 glottocode: ngil1242

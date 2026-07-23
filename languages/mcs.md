@@ -11,6 +11,7 @@ area: Mbum language spoken in Cameroon and Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.6121
 longitude: 14.00129
 glottocode: mamb1294

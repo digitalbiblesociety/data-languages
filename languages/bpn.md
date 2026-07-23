@@ -11,6 +11,7 @@ area: Hmong–Mien language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.97538
 longitude: 112.32587
 glottocode: dzao1238

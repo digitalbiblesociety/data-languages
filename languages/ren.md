@@ -11,6 +11,7 @@ area: North Bahnaric language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.6066
 longitude: 107.85923
 language_map_img: 500px-Rengao_language.webp

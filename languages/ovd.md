@@ -9,6 +9,7 @@ area: North Germanic language spoken in Sweden
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: swe
 wikidata_id: Q254950
 wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96vdalian"
 translations:

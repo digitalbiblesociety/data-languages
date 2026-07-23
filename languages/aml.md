@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Bangladesh and India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 25.115395
 longitude: 91.626615
 glottocode: warj1242

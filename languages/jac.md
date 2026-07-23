@@ -11,6 +11,7 @@ area: Mayan language spoken in Guatemala
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.66095
 longitude: -91.66327
 glottocode: popt1235

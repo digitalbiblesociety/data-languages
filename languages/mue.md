@@ -11,6 +11,7 @@ area: Mixed Kichwa–Spanish language of Ecuador
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.04518
 longitude: -78.53916
 language_map_img: ECU_orthographic.svg

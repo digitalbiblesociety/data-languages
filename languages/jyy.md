@@ -11,6 +11,7 @@ area: Bongo–Bagirmi language of Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.3707
 longitude: 17.94151
 glottocode: jaya1242

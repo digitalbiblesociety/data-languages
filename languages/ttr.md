@@ -11,6 +11,7 @@ area: Chadic dialect cluster of northeastern Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.0376
 longitude: 11.80953
 glottocode: tera1251

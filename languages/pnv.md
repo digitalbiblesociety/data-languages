@@ -11,6 +11,7 @@ area: Australian Aboriginal language of the Pilbara region in Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.47294
 longitude: 116.53759
 glottocode: pini1244

@@ -11,6 +11,7 @@ area: Secret language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -23.04476
 longitude: -43.64549
 glottocode: cafu1238

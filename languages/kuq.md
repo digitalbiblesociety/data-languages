@@ -11,6 +11,7 @@ area: "Several languages that may more or less called \"Karipuna\" in different 
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.20056
 longitude: -64.28068
 glottocode: kari1317

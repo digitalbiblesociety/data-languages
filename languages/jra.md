@@ -11,6 +11,7 @@ area: Chamic language of Vietnam and Cambodia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 13.616065
 longitude: 107.813025
 glottocode: jara1266

@@ -10,6 +10,7 @@ area: Yam language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.62183
 longitude: 142.03236
 glottocode: nenn1238

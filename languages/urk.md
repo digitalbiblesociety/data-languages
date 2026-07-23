@@ -12,6 +12,7 @@ area: Austronesian language spoken in Thailand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 7.5258
 longitude: 99.07682
 glottocode: urak1238

@@ -10,6 +10,7 @@ area: Endangered Germanic language of Italy
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 46.87768
 longitude: 11.42855
 language_map_img: 500px-Zimbern.webp

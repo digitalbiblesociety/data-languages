@@ -10,6 +10,7 @@ area: Finisterre languages of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.40741
 longitude: 146.8751
 glottocode: nukk1240

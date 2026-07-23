@@ -11,6 +11,7 @@ area: Western Desert dialect of Central Australia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -26.97044
 longitude: 131.35737
 glottocode: pitj1243

@@ -11,6 +11,7 @@ area: Kainji language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.4735
 longitude: 8.76468
 glottocode: izor1238

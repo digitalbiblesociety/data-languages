@@ -11,6 +11,7 @@ area: Northeast Caucasian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.39664
 longitude: 46.1041
 language_map_img: Northeast_Caucasus_languages_map_en.svg

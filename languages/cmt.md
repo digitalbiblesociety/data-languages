@@ -10,6 +10,7 @@ area: Variety of mixed languages mainly spoken in the townships of Gauteng provi
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -26.247
 longitude: 27.942
 glottocode: camt1236

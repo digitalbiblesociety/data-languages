@@ -10,6 +10,7 @@ area: Deaf sign language of Austria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 48.11967
 longitude: 16.22499
 glottocode: aust1252

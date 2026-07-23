@@ -12,6 +12,7 @@ area: "Miao language of Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.60046
 longitude: 106.39604
 glottocode: cent1394

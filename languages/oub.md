@@ -11,6 +11,7 @@ area: Kru language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.399665
 longitude: -7.50585
 glottocode: glio1241

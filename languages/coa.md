@@ -12,6 +12,7 @@ area: Malay based-creole
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -10.33
 longitude: 105.75
 glottocode: coco1260

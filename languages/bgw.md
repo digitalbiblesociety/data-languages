@@ -11,6 +11,7 @@ area: Eastern Indo-Aryan language of India
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.26078
 longitude: 82.24055
 glottocode: bhat1265

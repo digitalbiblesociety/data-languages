@@ -11,6 +11,7 @@ area: Guang language of Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.56489
 longitude: 1.40486
 glottocode: food1238

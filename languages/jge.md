@@ -9,6 +9,7 @@ area: Georgian dialect spoken by Georgian Jews
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.5
 longitude: 34.75
 glottocode: jude1258

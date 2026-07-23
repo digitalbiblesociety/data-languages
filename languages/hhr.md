@@ -11,6 +11,7 @@ area: Jola language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.36518
 longitude: -16.68566
 glottocode: kera1248

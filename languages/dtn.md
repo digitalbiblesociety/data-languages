@@ -10,6 +10,7 @@ area: "B'aga language spoken in Ethiopia"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 11.5284
 longitude: 35.2226
 glottocode: daat1234

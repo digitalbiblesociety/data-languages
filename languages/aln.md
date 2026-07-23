@@ -12,6 +12,7 @@ area: One of two major varieties of the Albanian language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: sqi
 latitude: 42.316993
 longitude: 21.383683
 language_map_img: Albanian_language_map_en.svg

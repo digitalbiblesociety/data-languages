@@ -12,6 +12,7 @@ area: Major branch of Chinese languages
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 40.020884
 longitude: 116.228026
 language_map_img: cmn.svg

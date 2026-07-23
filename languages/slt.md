@@ -11,6 +11,7 @@ area: Loloish language of Laos and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 21.688835
 longitude: 102.13368
 glottocode: sila1247

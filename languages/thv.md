@@ -12,6 +12,7 @@ area: Tuareg language spoken in Algeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 22.590803
 longitude: 8.731693
 glottocode: taha1241

@@ -10,6 +10,7 @@ area: Kra language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.574605
 longitude: 107.239537
 glottocode: gela1264

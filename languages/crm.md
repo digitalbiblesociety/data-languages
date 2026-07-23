@@ -12,6 +12,7 @@ area: "Cree dialect of Ontario, Canada"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 51.06859
 longitude: -80.69116
 scripts: [Cans]

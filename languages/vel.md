@@ -11,6 +11,7 @@ area: Dutch dialect of Low German
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.27016
 longitude: 5.94408
 language_map_img: 500px-Nedersaksisch.webp

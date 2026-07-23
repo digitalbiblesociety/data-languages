@@ -11,6 +11,7 @@ area: Papuan language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.54487
 longitude: 142.25459
 glottocode: boga1247

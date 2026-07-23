@@ -10,6 +10,7 @@ area: Trans–New Guinea language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.10628
 longitude: 132.63746
 glottocode: baha1258

@@ -11,6 +11,7 @@ area: East Manus language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.03429
 longitude: 147.14267
 glottocode: bowa1234

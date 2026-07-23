@@ -10,6 +10,7 @@ area: Central Sudanic language of the DR Congo and Uganda
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.250128
 longitude: 30.870201
 glottocode: ndru1234

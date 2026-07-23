@@ -11,6 +11,7 @@ area: Central Sudanic language of the CAR
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 9.99526
 longitude: 22.99468
 glottocode: kara1482

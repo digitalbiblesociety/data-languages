@@ -11,6 +11,7 @@ area: Tibetic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.673953
 longitude: 86.999427
 scripts: [Deva]

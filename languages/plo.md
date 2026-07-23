@@ -11,6 +11,7 @@ area: Mixe–Zoquean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.89374
 longitude: -94.88634
 glottocode: olut1240

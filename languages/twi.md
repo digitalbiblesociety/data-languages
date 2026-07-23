@@ -11,6 +11,7 @@ country_name: Ghana
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q36850
 wikipedia_url: "https://en.wikipedia.org/wiki/Twi"
 translations:

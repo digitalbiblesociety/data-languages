@@ -6,6 +6,7 @@ country_id: IL
 country_name: Israel
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 32.1151
 longitude: 34.9751
 glottocode: kafr1234

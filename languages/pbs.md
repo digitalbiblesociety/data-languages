@@ -11,6 +11,7 @@ area: Oto-Pamean language group of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 21.37622
 longitude: -99.28979
 language_map_img: 500px-Otomanguean_Languages.webp

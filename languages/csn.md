@@ -10,6 +10,7 @@ area: Deaf sign language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.33532
 longitude: -75.44639
 glottocode: colo1249

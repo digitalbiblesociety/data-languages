@@ -10,6 +10,7 @@ area: Native American language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.542365
 longitude: -123.080292
 language_map_img: Pomoan_languages_map_multicolored.svg

@@ -10,6 +10,7 @@ area: Endangered Sepik language of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.69933
 longitude: 142.01835
 glottocode: kara1495

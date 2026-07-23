@@ -10,6 +10,7 @@ area: Divergent language of South America
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.666
 longitude: -58.653
 glottocode: taru1236

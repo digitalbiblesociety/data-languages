@@ -11,6 +11,7 @@ area: Kainantu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.51563
 longitude: 145.95929
 glottocode: nort2920

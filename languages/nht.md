@@ -11,6 +11,7 @@ area: Central Nahuatl language of Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.77857
 longitude: -98.42704
 glottocode: omet1237

@@ -11,6 +11,7 @@ area: Songhay language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 16.685
 longitude: 2.32653
 language_map_img: Songhay_languages.svg

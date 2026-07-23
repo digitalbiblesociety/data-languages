@@ -11,6 +11,7 @@ area: Austronesian language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 11.64895
 longitude: 109.13813
 glottocode: cacg1235

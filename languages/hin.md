@@ -12,6 +12,7 @@ area: Standardised variety of Hindustani used in India
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25
 longitude: 77
 language_map_img: hin.webp

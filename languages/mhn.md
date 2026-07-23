@@ -10,6 +10,7 @@ area: Upper German variety of Italy
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 46.49164
 longitude: 10.8087
 language_map_img: 500px-Language_distribution_Trentino_2011.webp

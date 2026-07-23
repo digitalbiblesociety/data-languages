@@ -12,6 +12,7 @@ area: "Tai language spoken in Yunnan, China"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.83753
 longitude: 107.3622
 language_map_img: 500px-Nong-Zhuang.webp

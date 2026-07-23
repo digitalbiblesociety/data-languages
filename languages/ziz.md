@@ -11,6 +11,7 @@ area: Chadic language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.468925
 longitude: 13.523335
 glottocode: zizi1238

@@ -11,6 +11,7 @@ area: Manubaran language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.92982
 longitude: 148.30311
 glottocode: mari1438

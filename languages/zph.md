@@ -12,6 +12,7 @@ area: "Zapotec language of Oaxaca, Mexico"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.85537
 longitude: -97.08235
 glottocode: toto1308

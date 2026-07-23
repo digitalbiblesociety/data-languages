@@ -11,6 +11,7 @@ area: Savannas language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.06018
 longitude: 11.27125
 glottocode: kamo1254

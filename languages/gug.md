@@ -11,6 +11,7 @@ area: "Indigenous language, Paraguay variant"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.60551
 longitude: -57.08816
 language_map_img: gug.webp

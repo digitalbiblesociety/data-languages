@@ -11,6 +11,7 @@ area: Awyu language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.99286
 longitude: 138.64289
 glottocode: sawi1257

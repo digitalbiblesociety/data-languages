@@ -11,6 +11,7 @@ area: Bantu language of the Republic of the Congo and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.710055
 longitude: 15.954575
 glottocode: bomw1238

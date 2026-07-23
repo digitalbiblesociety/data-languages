@@ -11,6 +11,7 @@ area: Leko language spoken in Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.274185
 longitude: 11.061485
 glottocode: nyon1241

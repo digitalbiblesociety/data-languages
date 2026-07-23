@@ -11,6 +11,7 @@ area: Gur language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.082395
 longitude: -1.390755
 language_map_img: 500px-Kasena_region_zoomed_in.webp

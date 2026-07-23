@@ -12,6 +12,7 @@ area: Language in the Quechua family
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.14278
 longitude: -76.73046
 glottocode: paca1245

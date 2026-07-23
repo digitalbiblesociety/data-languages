@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Kenya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 2.27065
 longitude: 37.36078
 glottocode: rend1243

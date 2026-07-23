@@ -11,6 +11,7 @@ area: Senagi language spoken in Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.52309
 longitude: 140.94739
 glottocode: dera1245

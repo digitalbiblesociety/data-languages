@@ -12,6 +12,7 @@ area: Sinitic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 29.76462
 longitude: 118.23232
 language_map_img: Idioma_hui.webp

@@ -10,6 +10,7 @@ area: Lower Sepik language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.98259
 longitude: 144.46567
 glottocode: kopa1248

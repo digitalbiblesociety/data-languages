@@ -11,6 +11,7 @@ area: Kainantu–Gorokan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.09974
 longitude: 145.53446
 glottocode: bena1264

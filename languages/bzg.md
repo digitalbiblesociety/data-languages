@@ -10,6 +10,7 @@ area: "Formosan language of the Babuza and Taokas, indigenous peoples of Taiwan"
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.00168
 longitude: 120.58462
 language_map_img: 500px-Formosan_languages.webp

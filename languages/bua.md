@@ -8,6 +8,7 @@ country_name: Mongolia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: mon
 scripts: [Cyrl]
 wikidata_id: Q33120
 wikipedia_url: "https://en.wikipedia.org/wiki/Buryat_language"

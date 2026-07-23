@@ -11,6 +11,7 @@ area: Nilotic language spoken in Sudan Plateau
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.81455
 longitude: 33.54035
 glottocode: maba1273

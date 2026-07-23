@@ -12,6 +12,7 @@ area: Western Iranian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25.108103
 longitude: 59.735338
 glottocode: sout2642

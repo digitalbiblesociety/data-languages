@@ -11,6 +11,7 @@ area: "Munda language of Odisha, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.09102
 longitude: 84.12038
 glottocode: jura1242

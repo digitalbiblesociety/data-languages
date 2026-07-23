@@ -10,6 +10,7 @@ location: Southwestern Canada
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 54.62138
 longitude: -130.496315
 language_map_img: Tsimshianic_map.svg

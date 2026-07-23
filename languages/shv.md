@@ -11,6 +11,7 @@ area: Modern South Arabian language of southwest Oman
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.29154
 longitude: 53.99526
 language_map_img: Modern_South_Arabian_Languages.svg

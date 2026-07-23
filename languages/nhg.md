@@ -11,6 +11,7 @@ area: Nahuatl variety of central Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.88539
 longitude: -98.89301
 glottocode: tete1251

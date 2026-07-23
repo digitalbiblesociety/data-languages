@@ -10,6 +10,7 @@ location: Oman
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 23.63218
 longitude: 58.49163
 glottocode: luwa1238

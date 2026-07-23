@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Malaysia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.11331
 longitude: 102.91576
 glottocode: temo1243

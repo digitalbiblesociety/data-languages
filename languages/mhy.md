@@ -11,6 +11,7 @@ area: "Austronesian East Barito language spoken in central Kalimantan, Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.1239
 longitude: 115.09176
 glottocode: maan1238

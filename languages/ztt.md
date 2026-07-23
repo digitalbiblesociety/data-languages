@@ -12,6 +12,7 @@ area: Zapotecan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.09436
 longitude: -96.88757
 glottocode: teja1235

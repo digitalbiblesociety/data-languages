@@ -11,6 +11,7 @@ area: Siouan language of North Dakota in the United States
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.66312
 longitude: -102.37579
 glottocode: mand1446

@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken in western US
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 41
 longitude: -116
 language_map_img: Shoshone_map.svg

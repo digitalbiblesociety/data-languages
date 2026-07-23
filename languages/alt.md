@@ -11,6 +11,7 @@ area: "Kipchak Turkic language of the Altai Republic, Russia"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 50.13472
 longitude: 86.87051
 language_map_img: Altay.svg

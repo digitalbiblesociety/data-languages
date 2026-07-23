@@ -11,6 +11,7 @@ area: Nilotic language spoken in western Ethiopia and South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.13911
 longitude: 32.38286
 scripts: [Latn]

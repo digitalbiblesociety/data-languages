@@ -11,6 +11,7 @@ area: A Bendi language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.40906
 longitude: 9.2616
 glottocode: uban1243

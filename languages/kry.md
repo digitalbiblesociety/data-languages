@@ -11,6 +11,7 @@ area: Samur language of Azerbaijan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 41.18107
 longitude: 48.18457
 language_map_img: Northeast_Caucasus_languages_map_en.svg

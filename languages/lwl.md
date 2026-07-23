@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Thailand
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 19.01364
 longitude: 98.76132
 scripts: [Thai]

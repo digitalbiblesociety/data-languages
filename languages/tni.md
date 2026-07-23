@@ -9,6 +9,7 @@ area: Extinct language in Papua
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.84228
 longitude: 134.53168
 glottocode: tand1253

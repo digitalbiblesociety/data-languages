@@ -11,6 +11,7 @@ area: Indigenous American language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -7.75236
 longitude: -74.51927
 glottocode: isco1239

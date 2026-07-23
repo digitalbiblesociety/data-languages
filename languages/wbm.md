@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Myanmar and China
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.10242
 longitude: 99.108045
 glottocode: nucl1290

@@ -11,6 +11,7 @@ area: Chibchan language of southeast Costa Rica
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.39794
 longitude: -83.05395
 language_map_img: 500px-Costa-rica_bribri.webp

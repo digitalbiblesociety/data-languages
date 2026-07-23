@@ -11,6 +11,7 @@ area: Topics referred to by the same term
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 47.05157
 longitude: 8.46419
 scripts: [Latn]

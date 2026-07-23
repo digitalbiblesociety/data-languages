@@ -12,6 +12,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.75743
 longitude: 123.40331
 language_map_img: 500px-Bikol_Sentral_language_map.webp

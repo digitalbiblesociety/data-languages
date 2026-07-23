@@ -11,6 +11,7 @@ area: Chinantec language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.9184
 longitude: -96.40743
 glottocode: usil1237

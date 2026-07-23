@@ -10,6 +10,7 @@ area: Endangered Tupian language of South America
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.526
 longitude: -69.166735
 glottocode: omag1248

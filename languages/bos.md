@@ -12,6 +12,7 @@ area: Standardized variety of Serbo-Croatian
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: bos
 latitude: 42.93308
 longitude: 17.67044
 language_map_img: 500px-Bosnianlanguagemap.webp

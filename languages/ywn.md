@@ -11,6 +11,7 @@ area: Panoan language of western Amazonia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.87563
 longitude: -71.81991
 glottocode: yawa1260

@@ -9,6 +9,7 @@ area: Austronesian language spoken in Papua New Guinea
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.6642
 longitude: 146.522
 glottocode: murp1234

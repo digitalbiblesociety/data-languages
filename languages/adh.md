@@ -11,6 +11,7 @@ area: Dialect of Southern Luo of Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 0.73235
 longitude: 34.03408
 glottocode: adho1243

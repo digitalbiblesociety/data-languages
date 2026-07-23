@@ -11,6 +11,7 @@ area: "Jukunoid language of Nigeria, also called Wukari or Kororofa"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.97862
 longitude: 9.83299
 glottocode: wapa1235

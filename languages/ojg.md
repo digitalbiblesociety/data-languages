@@ -12,6 +12,7 @@ area: Ojibwe language of Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.01124
 longitude: -79.75029
 glottocode: east2542

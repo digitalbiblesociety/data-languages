@@ -10,6 +10,7 @@ area: Bantu language of southern Zambia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.52127
 longitude: 28.79335
 glottocode: soli1239

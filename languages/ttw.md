@@ -11,6 +11,7 @@ area: Kenyah language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.85226
 longitude: 114.82014
 glottocode: long1406

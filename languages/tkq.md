@@ -11,6 +11,7 @@ area: Ogoni language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.73213
 longitude: 7.37553
 glottocode: teee1242

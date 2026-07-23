@@ -11,6 +11,7 @@ area: Palaungic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.01635
 longitude: 100.88061
 glottocode: huuu1240

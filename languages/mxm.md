@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.97468
 longitude: 151.52804
 glottocode: mera1242

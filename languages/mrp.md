@@ -11,6 +11,7 @@ area: Central Santo.
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.34978
 longitude: 166.89055
 glottocode: moro1286

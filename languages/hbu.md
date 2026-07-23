@@ -11,6 +11,7 @@ area: Language spoken in central East Timor
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.76565
 longitude: 125.96468
 language_map_img: 500px-Habun.webp

@@ -11,6 +11,7 @@ area: Siouan language of US Midwest
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 43.5
 longitude: -88.5
 glottocode: hoch1243

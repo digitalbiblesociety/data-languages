@@ -10,6 +10,7 @@ area: Southwestern Australian Aboriginal language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -33.11995
 longitude: 118.15081
 language_map_img: Noongar_regions_map.svg

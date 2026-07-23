@@ -9,6 +9,7 @@ area: Deaf sign language of Zimbabwe
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.91276
 longitude: 31.02158
 glottocode: zimb1247

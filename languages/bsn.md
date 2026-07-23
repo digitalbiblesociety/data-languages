@@ -11,6 +11,7 @@ area: Tucanoan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.02193
 longitude: -70.80803
 language_map_img: Barasana.webp

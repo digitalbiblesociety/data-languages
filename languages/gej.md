@@ -11,6 +11,7 @@ area: Gbe language of Togo
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.25971
 longitude: 1.67727
 glottocode: genn1243

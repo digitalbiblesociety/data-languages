@@ -10,6 +10,7 @@ area: Scattered in isolated pockets of Fars Province.
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 29.643
 longitude: 52.925
 glottocode: nort2640

@@ -11,6 +11,7 @@ area: Ivoirian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.38228
 longitude: -4.52522
 glottocode: adio1239

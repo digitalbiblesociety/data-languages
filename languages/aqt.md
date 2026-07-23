@@ -10,6 +10,7 @@ area: Mascoian language spoken in Paraguay
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.85
 longitude: -58.45
 glottocode: anga1316

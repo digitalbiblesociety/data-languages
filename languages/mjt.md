@@ -11,6 +11,7 @@ area: Dravidian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.81236
 longitude: 87.64317
 glottocode: saur1249

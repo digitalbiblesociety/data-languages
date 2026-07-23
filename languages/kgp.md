@@ -11,6 +11,7 @@ area: Southern Je language of southern Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -27.76708
 longitude: -52.53937
 scripts: [Latn]

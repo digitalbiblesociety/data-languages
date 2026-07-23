@@ -8,6 +8,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 scripts: [Arab]
 wikidata_id: Q112670533
 wikipedia_url: "https://en.wikipedia.org/wiki/Lahnda"

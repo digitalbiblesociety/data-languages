@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 4.92183
 longitude: 36.79861
 glottocode: arbo1245

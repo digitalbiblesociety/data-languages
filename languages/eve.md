@@ -11,6 +11,7 @@ area: Tungusic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 70.6687
 longitude: 130.91417
 language_map_img: Distribution_of_the_Tungusic_languages.svg

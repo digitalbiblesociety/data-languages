@@ -11,6 +11,7 @@ area: Apo Duat language spoken in Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.587235
 longitude: 115.66395
 glottocode: saba1265

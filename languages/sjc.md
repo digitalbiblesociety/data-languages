@@ -9,6 +9,7 @@ country_id: CN
 country_name: China
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.18529
 longitude: 117.49351
 glottocode: shao1234

@@ -11,6 +11,7 @@ area: Maban language of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.32054
 longitude: 20.87674
 language_map_img: Runga_-_kibet.svg

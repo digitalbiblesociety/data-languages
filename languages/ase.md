@@ -10,6 +10,7 @@ area: Sign language used predominantly in the US
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.81171
 longitude: -81.61209
 glottocode: amer1248

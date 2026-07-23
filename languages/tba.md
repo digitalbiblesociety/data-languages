@@ -11,6 +11,7 @@ area: Endangered indigenous language of Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.66946
 longitude: -60.53527
 glottocode: aika1237

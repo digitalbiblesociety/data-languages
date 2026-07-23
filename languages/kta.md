@@ -10,6 +10,7 @@ area: Austroasiatic language of Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.89712
 longitude: 108.29295
 language_map_img: 500px-Katua_language.webp

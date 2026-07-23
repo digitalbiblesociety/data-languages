@@ -11,6 +11,7 @@ area: Language of Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 3.54443
 longitude: 114.0389
 glottocode: main1275

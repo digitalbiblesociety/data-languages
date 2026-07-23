@@ -10,6 +10,7 @@ area: Turkic language spoken in Western Siberia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 57.4921
 longitude: 72.5642
 glottocode: sibe1250

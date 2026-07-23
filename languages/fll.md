@@ -11,6 +11,7 @@ area: Languages of northern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.9249
 longitude: 13.65675
 glottocode: nort2770

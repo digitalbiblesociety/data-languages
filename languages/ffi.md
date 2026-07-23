@@ -11,6 +11,7 @@ area: Papuan language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 glottocode: foia1236
 wikidata_id: Q8564176
 wikipedia_url: "https://en.wikipedia.org/wiki/Foia_Foia_language"

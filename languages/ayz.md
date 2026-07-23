@@ -11,6 +11,7 @@ area: Language of West Papua
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.3679
 longitude: 132.59118
 glottocode: maib1239

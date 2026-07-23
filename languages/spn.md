@@ -10,6 +10,7 @@ area: Language in Paraguay
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.49
 longitude: -58.38
 glottocode: sana1298

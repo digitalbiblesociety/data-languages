@@ -10,6 +10,7 @@ area: Para-Romani dialect spoken by the Romanisael
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: swe
 latitude: 62.231265
 longitude: 14.40358
 scripts: [Latn]

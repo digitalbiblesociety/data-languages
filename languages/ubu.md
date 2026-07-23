@@ -11,6 +11,7 @@ area: Hagen language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.9513
 longitude: 143.96989
 glottocode: umbu1258

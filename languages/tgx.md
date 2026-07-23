@@ -11,6 +11,7 @@ area: "Extinct language spoken by the Tagish First Nations people of Yukon Terri
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.24197
 longitude: -134.79868
 glottocode: tagi1240

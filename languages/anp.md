@@ -11,6 +11,7 @@ area: Bihari language of India and Nepal
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.004685
 longitude: 85.533985
 scripts: [Deva]

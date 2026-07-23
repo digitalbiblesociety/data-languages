@@ -12,6 +12,7 @@ area: Zapotec language of a village in Oaxaca
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.8693
 longitude: -97.19119
 glottocode: elot1235

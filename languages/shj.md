@@ -11,6 +11,7 @@ area: Eastern Sudanic language of Suda
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.8525
 longitude: 29.76866
 glottocode: shat1244

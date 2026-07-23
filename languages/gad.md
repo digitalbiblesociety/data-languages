@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.54683
 longitude: 121.17735
 language_map_img: 500px-Gaddang_language_map.webp

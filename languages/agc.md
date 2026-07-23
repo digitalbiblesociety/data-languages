@@ -11,6 +11,7 @@ area: Idomoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.97915
 longitude: 7.71639
 glottocode: agat1236

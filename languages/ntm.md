@@ -11,6 +11,7 @@ area: Language of Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.51908
 longitude: 1.21879
 glottocode: nate1242

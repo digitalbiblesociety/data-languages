@@ -11,6 +11,7 @@ area: Unclassified language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 32.555
 longitude: 76.961
 glottocode: chin1475

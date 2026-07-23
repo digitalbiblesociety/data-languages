@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.03751
 longitude: 146.40948
 glottocode: sout2877

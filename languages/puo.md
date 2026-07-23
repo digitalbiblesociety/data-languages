@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 20.886205
 longitude: 103.93073
 glottocode: puoc1238

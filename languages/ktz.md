@@ -11,6 +11,7 @@ area: "Kx'a language spoken in Southern Africa"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -19.687995
 longitude: 20.767285
 glottocode: juho1239

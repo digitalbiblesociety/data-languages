@@ -11,6 +11,7 @@ area: Kuki-Chin language of Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 23.81919
 longitude: 93.68843
 glottocode: siyi1240

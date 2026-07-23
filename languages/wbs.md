@@ -10,6 +10,7 @@ area: Sign language of the Indian subcontinent
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 glottocode: kolk1234
 wikidata_id: Q32096511
 translations:

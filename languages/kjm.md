@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.66243
 longitude: 103.73637
 glottocode: khan1274

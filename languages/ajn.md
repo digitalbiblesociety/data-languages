@@ -10,6 +10,7 @@ area: Aboriginal Australian language of northern Western Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q16111302
 translations:
   - translation_iso: ara

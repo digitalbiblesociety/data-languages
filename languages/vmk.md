@@ -11,6 +11,7 @@ area: Bantu language spoken in Mozambique
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -14.25105
 longitude: 36.52488
 glottocode: makh1260

@@ -8,6 +8,7 @@ country_id: RS
 country_name: Serbia
 scope: individual
 language_type: living
+iso_lwc: srp
 latitude: 48.7171
 longitude: 22.9579
 wikidata_id: Q35660

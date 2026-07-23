@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in China
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.70131
 longitude: 104.95452
 glottocode: boly1239

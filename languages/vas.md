@@ -11,6 +11,7 @@ area: Western Indo-Aryan language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.36235
 longitude: 73.86524
 glottocode: vasa1239

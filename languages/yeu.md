@@ -11,6 +11,7 @@ area: Dravidian language of South India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 17.37023
 longitude: 81.97482
 glottocode: yeru1240

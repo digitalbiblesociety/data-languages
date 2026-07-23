@@ -11,6 +11,7 @@ area: Edekiri dialect continuum of Benin and Togo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.09729
 longitude: 2.64262
 glottocode: edei1245

@@ -11,6 +11,7 @@ area: Endangered Austronesian language of Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.14654
 longitude: 130.5302
 glottocode: sala1269

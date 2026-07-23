@@ -11,6 +11,7 @@ area: Oceanic language of Vanuatu
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.07915
 longitude: 166.6642
 glottocode: tasm1246

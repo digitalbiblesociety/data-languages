@@ -11,6 +11,7 @@ area: Nilo-Saharan language of Chad and Nigeria
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.52392
 longitude: 14.769495
 glottocode: bagi1246

@@ -9,6 +9,7 @@ country_name: Russia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: rus
 scripts: [Cyrl]
 wikidata_id: Q973685
 wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language"

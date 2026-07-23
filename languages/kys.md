@@ -11,6 +11,7 @@ area: Austronesian dialect cluster of Southeast Asia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.51211
 longitude: 114.48171
 glottocode: bara1370

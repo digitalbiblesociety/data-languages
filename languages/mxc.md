@@ -11,6 +11,7 @@ area: Shona language of Zimbabwe and Mozambique
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.19274
 longitude: 32.805235
 scripts: [Latn]

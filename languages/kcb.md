@@ -10,6 +10,7 @@ area: Endangered Angan language of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.96411
 longitude: 146.20897
 language_map_img: kcb.webp

@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -9.097288
 longitude: 125.239513
 language_map_img: 500px-Bekais.webp

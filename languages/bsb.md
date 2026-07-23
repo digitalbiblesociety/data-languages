@@ -11,6 +11,7 @@ area: Sabahan language spoken in Brunei and Malaysia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.60791
 longitude: 114.51713
 glottocode: brun1245

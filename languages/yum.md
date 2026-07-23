@@ -11,6 +11,7 @@ area: Yuman language spoken in California and Arizona
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 32.78589
 longitude: -114.59862
 glottocode: quec1382

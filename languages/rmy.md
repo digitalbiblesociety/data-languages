@@ -11,6 +11,7 @@ area: Romani dialect group of southeastern Europe
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ron
 latitude: 46.819124
 longitude: 14.845093
 language_map_img: Romany_dialects_Vlax.svg

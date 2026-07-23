@@ -11,6 +11,7 @@ area: "Deaf sign language of Hanoi, Vietnam"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.02446
 longitude: 105.8339
 glottocode: hano1243

@@ -12,6 +12,7 @@ area: Quechua dialect cluster of Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.85887
 longitude: -75.4382
 glottocode: pana1306

@@ -12,6 +12,7 @@ area: Dialect of the language as spoken in the North African country
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 22.00324
 longitude: 15.00136
 language_map_img: ayl.svg

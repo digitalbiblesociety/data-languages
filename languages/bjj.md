@@ -11,6 +11,7 @@ area: "Language spoken in Uttar Pradesh, india"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.1074
 longitude: 79.2883
 language_map_img: bjj.webp

@@ -11,6 +11,7 @@ area: Loloish language spoken in Southeast Asia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 21.230864
 longitude: 100.964344
 glottocode: akha1245

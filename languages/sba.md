@@ -11,6 +11,7 @@ area: "Nilo-Saharan language spoken in Chad, Cameroon and Nigeria"
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.57051
 longitude: 15.41401
 glottocode: ngam1268

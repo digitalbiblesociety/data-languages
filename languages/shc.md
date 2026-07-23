@@ -11,6 +11,7 @@ area: Bantu languages spoken in DRC
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -6.32223
 longitude: 18.35547
 glottocode: sond1250

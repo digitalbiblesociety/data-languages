@@ -11,6 +11,7 @@ area: Rgyalrongic language of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 31.10258
 longitude: 101.72
 language_map_img: 500px-Horpa_map.webp

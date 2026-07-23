@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.97039
 longitude: 107.860385
 language_map_img: 500px-Duan_language.webp

@@ -9,6 +9,7 @@ area: "Extinct language in Mapia Island, West Papua"
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.91825
 longitude: 134.33572
 glottocode: mapi1250

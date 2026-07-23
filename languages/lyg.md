@@ -11,6 +11,7 @@ area: Language of Northeast India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.35
 longitude: 91.05
 glottocode: lyng1241

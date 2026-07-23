@@ -10,6 +10,7 @@ area: West Franconian dialect of German
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 49.701
 longitude: 6.846
 scripts: [Latn]

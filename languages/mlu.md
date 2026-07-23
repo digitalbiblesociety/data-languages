@@ -11,6 +11,7 @@ area: Malaita language of the Solomon Islands
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -8.39233
 longitude: 160.61905
 glottocode: toab1237

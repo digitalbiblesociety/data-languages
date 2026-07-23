@@ -11,6 +11,7 @@ area: Romance language of the West Iberian group
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 42.418055
 longitude: -6.02227
 scripts: [Latn]

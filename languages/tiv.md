@@ -11,6 +11,7 @@ area: Southern Bantoid language of Nigeria
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.88039
 longitude: 9.26287
 language_map_img: tiv.webp

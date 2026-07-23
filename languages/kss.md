@@ -11,6 +11,7 @@ area: Mel language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.324485
 longitude: -10.33767
 glottocode: sout2778

@@ -11,6 +11,7 @@ area: Gbe language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.57292
 longitude: 1.781805
 language_map_img: 500px-Gbe_languages.webp

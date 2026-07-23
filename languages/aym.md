@@ -9,6 +9,7 @@ country_name: Bolivia
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: spa
 scripts: [Latn]
 wikidata_id: Q4627
 wikipedia_url: "https://en.wikipedia.org/wiki/Aymara_language"

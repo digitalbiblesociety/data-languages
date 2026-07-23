@@ -10,6 +10,7 @@ area: Indic language of Pakistan and India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 25.617
 longitude: 69.76
 glottocode: jand1246

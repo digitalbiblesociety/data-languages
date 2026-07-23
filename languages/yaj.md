@@ -11,6 +11,7 @@ area: Ubangian language of the Central African Republic
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 3.95763
 longitude: 16.59073
 glottocode: band1348

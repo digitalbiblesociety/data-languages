@@ -11,6 +11,7 @@ area: Pará Gavião dialect of Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -5.94252
 longitude: -46.75038
 glottocode: krik1239

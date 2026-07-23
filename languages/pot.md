@@ -11,6 +11,7 @@ area: Central Algonquian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.954965
 longitude: -89.18814
 glottocode: pota1247

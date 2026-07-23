@@ -11,6 +11,7 @@ area: Bantu language of Zambia and Zimbabwe
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.422325
 longitude: 27.103495
 glottocode: tong1318

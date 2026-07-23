@@ -9,6 +9,7 @@ location: "Papua New Guinea, Map 15"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.93858
 longitude: 146.54567
 glottocode: zena1237

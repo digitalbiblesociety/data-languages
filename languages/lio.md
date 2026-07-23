@@ -11,6 +11,7 @@ area: Austronesian language of Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.60652
 longitude: 138.7308
 glottocode: liki1241

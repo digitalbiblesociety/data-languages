@@ -11,6 +11,7 @@ area: Language in the Katla language family
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.71758
 longitude: 29.16324
 glottocode: tima1241

@@ -10,6 +10,7 @@ area: Extinct Plateau language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.160672
 longitude: 8.505628
 glottocode: samb1307

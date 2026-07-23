@@ -11,6 +11,7 @@ area: Mongolic language of Northwest China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 36.8177
 longitude: 102.11749
 glottocode: huzh1238

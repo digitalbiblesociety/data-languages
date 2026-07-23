@@ -10,6 +10,7 @@ area: Endangered indigenous language of Ecuador and Colombia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.276675
 longitude: -77.064305
 glottocode: cofa1242

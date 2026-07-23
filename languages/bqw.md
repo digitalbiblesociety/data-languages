@@ -11,6 +11,7 @@ area: Southern Bantoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.01091
 longitude: 10.86175
 glottocode: buru1299

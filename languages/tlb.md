@@ -11,6 +11,7 @@ area: North Halmahera language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.0946
 longitude: 128.15361
 language_map_img: Halmahera_tobelo.webp

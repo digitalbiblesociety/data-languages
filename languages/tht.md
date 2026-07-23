@@ -11,6 +11,7 @@ area: Endangered Athabaskan language of Canada
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 58.44982
 longitude: -130.05238
 glottocode: tahl1239

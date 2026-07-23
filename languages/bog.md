@@ -10,6 +10,7 @@ area: Sign language used in Mali
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 12.651
 longitude: -8.00136
 glottocode: bama1249

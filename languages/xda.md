@@ -10,6 +10,7 @@ area: Extinct Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -33.11470744
 longitude: 150.4952383
 language_map_img: 500px-Dharag-Neighbors1.webp

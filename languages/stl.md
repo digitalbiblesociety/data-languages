@@ -11,6 +11,7 @@ area: Westphalian dialect spoken in Friesland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.89329
 longitude: 6.09112
 glottocode: stel1238

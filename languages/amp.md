@@ -11,6 +11,7 @@ area: "Language of East Sepik Province, Papua New Guinea"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.66307
 longitude: 143.31576
 glottocode: alam1246

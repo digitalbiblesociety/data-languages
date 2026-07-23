@@ -11,6 +11,7 @@ area: Yuman language spoken in California and Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 32.5153
 longitude: -116.609415
 glottocode: kumi1248

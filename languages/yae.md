@@ -11,6 +11,7 @@ area: Indigenous language spoken in Venezuela
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 7.10677
 longitude: -67.59958
 language_map_img: 500px-Inland_Isolates_of_Venezuela.webp

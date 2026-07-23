@@ -11,6 +11,7 @@ area: Kwomtari language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.73034
 longitude: 141.27254
 glottocode: naii1241

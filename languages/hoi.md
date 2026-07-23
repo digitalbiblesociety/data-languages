@@ -11,6 +11,7 @@ area: Extinct Athabaskan language of US
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 62.72662
 longitude: -159.83143
 glottocode: holi1241

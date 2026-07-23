@@ -11,6 +11,7 @@ area: Loloish language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 22.33108
 longitude: 102.75873
 glottocode: coon1239

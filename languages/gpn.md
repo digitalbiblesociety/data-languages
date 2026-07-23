@@ -11,6 +11,7 @@ area: Endangered Papuan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.05047
 longitude: 144.50616
 glottocode: taia1239

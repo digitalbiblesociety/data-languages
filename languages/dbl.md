@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.45162
 longitude: 145.5442
 language_map_img: Djirbalgan_map.webp

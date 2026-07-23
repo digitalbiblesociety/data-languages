@@ -11,6 +11,7 @@ area: Isumrud language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.67372
 longitude: 145.56213
 glottocode: brem1238

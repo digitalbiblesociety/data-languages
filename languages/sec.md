@@ -11,6 +11,7 @@ area: Salishan language of the Shishalh of British Columbia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.47575
 longitude: -123.76474
 language_map_img: 500px-Sechelt01.webp

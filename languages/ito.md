@@ -11,6 +11,7 @@ area: Moribund language of Bolivia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -12.80431
 longitude: -64.35748
 glottocode: iton1250

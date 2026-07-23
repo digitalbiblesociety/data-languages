@@ -9,6 +9,7 @@ area: Sign Language used in Singapore
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.33069
 longitude: 103.86376
 glottocode: sing1237

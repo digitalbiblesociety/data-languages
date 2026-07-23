@@ -11,6 +11,7 @@ area: Afro-Asiatic language of northern Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.64483
 longitude: 14.00059
 glottocode: cuvo1236

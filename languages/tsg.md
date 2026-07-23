@@ -11,6 +11,7 @@ area: Austronesian language of the Tausug people
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 5.122357
 longitude: 118.879693
 language_map_img: 500px-Tausug_language_map.webp

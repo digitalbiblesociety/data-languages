@@ -11,6 +11,7 @@ area: Tibeto-Burman language of southwest China and northern Myanmar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.72919
 longitude: 98.88008
 glottocode: nusu1239

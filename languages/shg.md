@@ -11,6 +11,7 @@ area: Khoe language spoken in Botswana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -21.51998
 longitude: 26.02385
 glottocode: shua1254

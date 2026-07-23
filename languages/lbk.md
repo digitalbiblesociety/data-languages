@@ -12,6 +12,7 @@ area: Bontoc language of the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.08
 longitude: 120.92
 glottocode: cent2292

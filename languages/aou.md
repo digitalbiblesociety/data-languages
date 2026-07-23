@@ -11,6 +11,7 @@ area: Kra language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.8
 longitude: 105.85
 glottocode: aoua1234

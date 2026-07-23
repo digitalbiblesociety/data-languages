@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.3652
 longitude: 152.7808
 glottocode: kand1301

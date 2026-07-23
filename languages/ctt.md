@@ -11,6 +11,7 @@ area: Malayalamoid language spoken in India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.6702
 longitude: 76.3704
 glottocode: waya1264

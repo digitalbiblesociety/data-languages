@@ -11,6 +11,7 @@ area: Arafundi language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.71731
 longitude: 143.93712
 glottocode: nanu1240

@@ -10,6 +10,7 @@ area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.66787
 longitude: 132.54182
 glottocode: argu1237

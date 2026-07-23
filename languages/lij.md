@@ -11,6 +11,7 @@ area: "Gallo-Romance language native to Liguria, northern Italy"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 44.0816
 longitude: 7.90522
 language_map_img: Ligure-Ligurian-map.svg

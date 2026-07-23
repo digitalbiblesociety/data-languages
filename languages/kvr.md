@@ -12,6 +12,7 @@ area: Malayic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.93668
 longitude: 101.40285
 language_map_img: Kerinci_Language_Map_2.svg

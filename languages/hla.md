@@ -10,6 +10,7 @@ location: "Papua New Guinea, Map 13"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.26603
 longitude: 154.66185
 glottocode: hali1244

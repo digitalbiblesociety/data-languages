@@ -11,6 +11,7 @@ area: Language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26
 longitude: 93.5
 glottocode: nyis1236

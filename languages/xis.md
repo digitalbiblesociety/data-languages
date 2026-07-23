@@ -10,6 +10,7 @@ area: Dravidian language of eastern India
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 wikidata_id: Q63339998
 translations:
   - translation_iso: ara

@@ -11,6 +11,7 @@ area: "Siberian Turkic language of the Altai Republic, Russia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 50.89984
 longitude: 88.06722
 language_map_img: Altay.svg

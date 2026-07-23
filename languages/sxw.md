@@ -11,6 +11,7 @@ area: Gbe language spoken in Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.58269
 longitude: 1.92015
 glottocode: saxw1241

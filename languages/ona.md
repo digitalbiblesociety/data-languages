@@ -10,6 +10,7 @@ area: Chonan language spoken by the Selkʼnam people
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -54
 longitude: -68.5
 glottocode: onaa1245

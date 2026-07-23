@@ -11,6 +11,7 @@ area: "Malayalamoid language of Kerala, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.73182
 longitude: 76.07794
 glottocode: pani1256

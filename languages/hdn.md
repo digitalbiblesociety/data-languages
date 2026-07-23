@@ -12,6 +12,7 @@ area: Endangered language spoken in Canada and Alaska
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 54.69307
 longitude: -132.46484
 glottocode: nort2938

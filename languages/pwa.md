@@ -11,6 +11,7 @@ area: Pawala language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.88021
 longitude: 145.08142
 language_map_img: Pawaia_language.svg

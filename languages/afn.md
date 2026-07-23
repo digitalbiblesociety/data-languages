@@ -11,6 +11,7 @@ area: Endangered language of Nigeria
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.58451
 longitude: 7.50186
 glottocode: defa1248

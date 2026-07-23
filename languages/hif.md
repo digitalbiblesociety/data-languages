@@ -10,6 +10,7 @@ area: Indo-Aryan language of most Indo-Fijians
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -17.81477
 longitude: 177.77228
 scripts: [Deva, Latn]

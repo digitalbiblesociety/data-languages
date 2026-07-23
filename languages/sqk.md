@@ -9,6 +9,7 @@ area: Deaf sign language of Albania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sqi
 latitude: 41.328889
 longitude: 19.817778
 glottocode: alba1271

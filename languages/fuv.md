@@ -12,6 +12,7 @@ area: Variety of the Fula language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.99725
 longitude: 11.11882
 language_map_img: fuv.webp

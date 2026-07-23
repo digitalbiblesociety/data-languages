@@ -11,6 +11,7 @@ area: Khmer dialect of northeastern Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 14.46743
 longitude: 103.86313
 scripts: [Thai]

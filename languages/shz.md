@@ -11,6 +11,7 @@ area: Atlantic–Congo language spoken in Burkina Faso and Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 10.59538
 longitude: -5.8581
 glottocode: syen1235

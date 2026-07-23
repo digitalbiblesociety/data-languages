@@ -11,6 +11,7 @@ area: Language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.23853
 longitude: 146.58609
 glottocode: meke1243

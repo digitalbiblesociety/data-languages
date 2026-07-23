@@ -11,6 +11,7 @@ area: Cariban language of Suriname
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 3.19607
 longitude: -55.6294
 glottocode: akur1238

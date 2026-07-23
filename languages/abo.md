@@ -11,6 +11,7 @@ area: Tivoid language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.90621
 longitude: 10.87689
 glottocode: abon1238

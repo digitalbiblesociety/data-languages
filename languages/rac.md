@@ -11,6 +11,7 @@ area: Papuan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.37609
 longitude: 136.35237
 glottocode: rasa1243

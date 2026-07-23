@@ -9,6 +9,7 @@ area: Artificial auxiliary language of the Philippines
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fil
 glottocode: eska1234
 glottolog_family_id: arti1236
 glottolog_family_name: Artificial Language

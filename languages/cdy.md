@@ -11,6 +11,7 @@ area: Kam–Sui language spoken in South China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.23532
 longitude: 109.96041
 glottocode: chad1240

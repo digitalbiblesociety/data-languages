@@ -10,6 +10,7 @@ area: Siouan language of the Dhegihan group once spoken by the Kaw people
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.80439
 longitude: -96.85712
 glottocode: kans1243

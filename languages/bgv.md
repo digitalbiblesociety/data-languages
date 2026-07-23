@@ -10,6 +10,7 @@ location: "Indonesia, Eastern Papua"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.7716
 longitude: 138.63752
 glottocode: wark1247

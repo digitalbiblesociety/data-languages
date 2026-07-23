@@ -11,6 +11,7 @@ area: Romance language of Portugal
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 39.514374
 longitude: -8.688662
 glottocode: mind1263

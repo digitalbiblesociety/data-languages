@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Cameroon and Chad
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.53419
 longitude: 14.84752
 glottocode: malg1250

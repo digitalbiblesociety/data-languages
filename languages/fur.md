@@ -10,6 +10,7 @@ area: "Gallo-Romance language of Friuli, northeast Italy"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 46.14732
 longitude: 13.04927
 language_map_img: 500px-Friulian_Language_distribution.webp

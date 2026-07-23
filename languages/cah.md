@@ -11,6 +11,7 @@ area: Extinct Zaparoan language of Peru
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -3.72665
 longitude: -73.94688
 language_map_img: 500px-Cawarano_language.webp

@@ -12,6 +12,7 @@ area: French-based creole language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: hat
 latitude: 19
 longitude: -73.33
 language_map_img: hat.webp

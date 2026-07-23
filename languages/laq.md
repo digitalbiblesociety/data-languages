@@ -11,6 +11,7 @@ area: Kra language of the Qabia people of Vietnam and China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 23.23836
 longitude: 104.81184
 glottocode: qabi1235

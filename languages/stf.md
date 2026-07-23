@@ -11,6 +11,7 @@ area: Torricelli language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.42155
 longitude: 141.74786
 glottocode: seta1245

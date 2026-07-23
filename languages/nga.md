@@ -11,6 +11,7 @@ area: Gbaya language of DR Congo
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.988875
 longitude: 18.994025
 glottocode: ngba1285

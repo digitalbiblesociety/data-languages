@@ -11,6 +11,7 @@ area: "Mayan language of Chiapas, Mexico"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.48965
 longitude: -92.46983
 glottocode: chol1282

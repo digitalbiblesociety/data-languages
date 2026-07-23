@@ -11,6 +11,7 @@ area: Daju language spoken in South Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.70752
 longitude: 26.11474
 glottocode: njal1239

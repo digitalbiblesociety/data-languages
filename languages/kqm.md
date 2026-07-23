@@ -11,6 +11,7 @@ area: Gur language spoken in West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.72099
 longitude: -4.054165
 glottocode: khis1238

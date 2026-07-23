@@ -11,6 +11,7 @@ area: Tai language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.3616
 longitude: 102.9261
 glottocode: tsun1242

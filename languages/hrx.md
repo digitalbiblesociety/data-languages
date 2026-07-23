@@ -11,6 +11,7 @@ area: Germanic language spoken in South America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -29.3255
 longitude: -51.7219
 language_map_img: hrx.webp

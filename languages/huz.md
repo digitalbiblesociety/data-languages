@@ -11,6 +11,7 @@ area: Northeast Caucasian language spoken in Dagestan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.08076
 longitude: 46.13691
 language_map_img: Northeast_Caucasus_languages_map_en.svg

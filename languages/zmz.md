@@ -11,6 +11,7 @@ area: Banda language spoken in central Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.98003
 longitude: 19.445465
 glottocode: mban1263

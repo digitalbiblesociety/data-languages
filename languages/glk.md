@@ -10,6 +10,7 @@ area: "Iranian language spoken in Gilan Province, Iran"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 37.13437
 longitude: 49.83588
 scripts: [Arab]

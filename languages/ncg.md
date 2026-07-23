@@ -11,6 +11,7 @@ area: Tsimshianic language of northwestern British Columbia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 55.19895
 longitude: -129.19163
 language_map_img: Tsimshianic_map.svg

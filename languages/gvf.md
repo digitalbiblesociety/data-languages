@@ -11,6 +11,7 @@ area: Chimbu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.2249
 longitude: 144.8505
 glottocode: goli1247

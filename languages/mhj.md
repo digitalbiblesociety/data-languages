@@ -10,6 +10,7 @@ area: Possibly extinct Mongolic language in Afghanistan
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 34.25039
 longitude: 62.28016
 language_map_img: 500px-Linguistic_map_of_the_Mongolic_languages.webp

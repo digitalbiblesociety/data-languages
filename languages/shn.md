@@ -11,6 +11,7 @@ area: Kra–Dai language of Myanmar
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 21.599497
 longitude: 98.034223
 language_map_img: 500px-Shan_language.webp

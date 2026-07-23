@@ -11,6 +11,7 @@ area: Surmic language spoken by Mursi people in southwestern Ethiopia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.69801
 longitude: 36.09715
 glottocode: murs1242

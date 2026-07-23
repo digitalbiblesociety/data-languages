@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken in India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.725455
 longitude: 89.333235
 language_map_img: Bodoland_Territorial_Area_Districts.svg

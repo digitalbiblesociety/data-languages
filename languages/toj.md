@@ -11,6 +11,7 @@ area: Mayan language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.25715
 longitude: -91.78248
 glottocode: tojo1241

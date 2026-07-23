@@ -11,6 +11,7 @@ area: Nubian language spoken in Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.15545
 longitude: 30.2709
 glottocode: kada1282

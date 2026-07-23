@@ -11,6 +11,7 @@ area: Adamawa language of northeastern Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.90347
 longitude: 11.71545
 glottocode: nucl1240

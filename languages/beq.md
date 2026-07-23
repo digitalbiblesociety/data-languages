@@ -11,6 +11,7 @@ area: Bantu language spoken in Congo Brazzaville
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -3.95895
 longitude: 14.10001
 glottocode: beem1239

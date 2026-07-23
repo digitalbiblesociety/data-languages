@@ -9,6 +9,7 @@ area: Deaf sign language of Tunisia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.49562
 longitude: 10.03348
 glottocode: tuni1249

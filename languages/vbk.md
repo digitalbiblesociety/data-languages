@@ -12,6 +12,7 @@ area: Bontoc variety of the Philippines
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fil
 wikidata_id: Q63313677
 wikipedia_url: "https://en.wikipedia.org/wiki/Southwestern_Bontoc"
 translations:

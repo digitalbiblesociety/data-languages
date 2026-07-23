@@ -12,6 +12,7 @@ area: Manding language of Mali and Senegal
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.56771
 longitude: -12.80088
 glottocode: west2500

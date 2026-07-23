@@ -9,6 +9,7 @@ area: Oceanic language of New Ireland
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 wikidata_id: Q30323994
 wikipedia_url: "https://en.wikipedia.org/wiki/Niwer_Mil_language"
 translations:

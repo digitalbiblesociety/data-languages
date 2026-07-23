@@ -11,6 +11,7 @@ area: Ubangian language of the CAR
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 6.51218
 longitude: 18.79353
 glottocode: manz1243

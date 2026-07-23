@@ -11,6 +11,7 @@ area: Bisayan language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 11.55432
 longitude: 122.35413
 language_map_img: 500px-Aklanon_language_map.webp

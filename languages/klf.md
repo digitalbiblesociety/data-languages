@@ -11,6 +11,7 @@ area: Maban language spoken in Chad
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.24447
 longitude: 21.53955
 glottocode: kend1253

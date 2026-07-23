@@ -12,6 +12,7 @@ area: "Language of Senegal, the Gambia, and Mauritania"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 15.25336
 longitude: -15.382973
 language_map_img: Wolof_language_map.svg

@@ -11,6 +11,7 @@ area: Tucanoan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.06168
 longitude: -69.64652
 language_map_img: Carapana.webp

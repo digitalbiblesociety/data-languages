@@ -11,6 +11,7 @@ area: Niger–Congo language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.64119
 longitude: 11.99245
 glottocode: dong1293

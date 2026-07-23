@@ -9,6 +9,7 @@ area: Extinct Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q63313740
 translations:
   - translation_iso: ara

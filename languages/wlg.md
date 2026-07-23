@@ -11,6 +11,7 @@ area: Australian Aboriginal language of northern Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.91327
 longitude: 133.72271
 glottocode: kunb1251

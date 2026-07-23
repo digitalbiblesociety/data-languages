@@ -11,6 +11,7 @@ area: Nilotic language spoken in South Sudan and Uganda
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.195225
 longitude: 31.072335
 glottocode: bari1284

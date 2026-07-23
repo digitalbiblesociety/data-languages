@@ -11,6 +11,7 @@ area: "Cariban language of Brazil, Suriname and Guyana"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 2.53616
 longitude: -55.759935
 glottocode: trio1238

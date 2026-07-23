@@ -11,6 +11,7 @@ area: "Semi-bantu language in Adamawa Region, Cameroon"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.87004
 longitude: 11.61045
 glottocode: tika1246

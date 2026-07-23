@@ -11,6 +11,7 @@ area: One of Tor-Kwerba languages in Papua
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.76483
 longitude: 139.88989
 glottocode: orya1242

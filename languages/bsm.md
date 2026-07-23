@@ -10,6 +10,7 @@ area: Austronesian language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.73681
 longitude: 136.03229
 glottocode: busa1254

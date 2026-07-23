@@ -11,6 +11,7 @@ area: Finnic language of northeast Norway
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: nob
 latitude: 69.37724
 longitude: 29.54336
 language_map_img: 500px-Kven_language_map.webp

@@ -11,6 +11,7 @@ area: Gallo-Italic language spoken in the Italian region of Lombardy
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 45.88171
 longitude: 9.395095
 language_map_img: 500px-Lombard_Language_distribution.webp

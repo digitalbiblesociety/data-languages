@@ -11,6 +11,7 @@ area: Celebic language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.45512
 longitude: 120.48283
 glottocode: laiy1246

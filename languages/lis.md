@@ -11,6 +11,7 @@ area: Tibeto-Burman language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.548803
 longitude: 94.01837
 scripts: [Lisu]

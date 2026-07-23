@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in eastern India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.92
 longitude: 87.33
 language_map_img: Kudmali_language_region.webp

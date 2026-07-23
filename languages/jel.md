@@ -11,6 +11,7 @@ area: Bulaka River language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.4453
 longitude: 139.09633
 glottocode: yelm1242

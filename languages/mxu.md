@@ -11,6 +11,7 @@ area: Chadic language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.8806
 longitude: 14.11419
 glottocode: mada1293

@@ -11,6 +11,7 @@ area: Unclassified language of Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -1.7922
 longitude: -69.90988
 glottocode: cara1245

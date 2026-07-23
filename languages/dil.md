@@ -11,6 +11,7 @@ area: Moribund Nubian language of Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.03469
 longitude: 29.60565
 glottocode: dill1242

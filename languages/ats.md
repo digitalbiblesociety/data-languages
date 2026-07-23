@@ -11,6 +11,7 @@ area: Extinct Native American language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.48341
 longitude: -108.73841
 language_map_img: Gros_Ventre_map.svg

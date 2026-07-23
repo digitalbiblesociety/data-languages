@@ -11,6 +11,7 @@ area: Arawan language of Brazil and Peru
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.55268
 longitude: -70.66485
 glottocode: culi1244

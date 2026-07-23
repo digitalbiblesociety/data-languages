@@ -11,6 +11,7 @@ area: Niger-Congo language of Sierra Leone and Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.71107
 longitude: -11.749605
 glottocode: east2387

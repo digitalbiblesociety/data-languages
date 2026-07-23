@@ -11,6 +11,7 @@ area: Mbum language spoken in Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.79442
 longitude: 15.89359
 glottocode: kimm1246

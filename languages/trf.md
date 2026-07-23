@@ -11,6 +11,7 @@ area: English-based creole language spoken in Trinidad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.4208
 longitude: -61.41713
 glottocode: trin1276

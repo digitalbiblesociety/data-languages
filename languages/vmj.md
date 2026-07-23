@@ -11,6 +11,7 @@ area: "Mixtec language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.57738
 longitude: -97.57591
 glottocode: ixta1235

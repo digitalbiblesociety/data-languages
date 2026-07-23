@@ -10,6 +10,7 @@ area: Bantu language spoken in Zambia as part of the Luyi language of western Za
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -17.23137
 longitude: 22.47872
 glottocode: nyen1257

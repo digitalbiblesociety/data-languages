@@ -11,6 +11,7 @@ area: Indo-Aryan language of northern Pakistan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 36.3258
 longitude: 74.7984
 glottocode: doma1260

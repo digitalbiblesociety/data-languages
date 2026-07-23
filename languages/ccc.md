@@ -11,6 +11,7 @@ area: Dormant Arawakan language of Peru
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -5.1149
 longitude: -75.67785
 glottocode: cham1318

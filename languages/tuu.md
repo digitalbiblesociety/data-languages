@@ -10,6 +10,7 @@ area: Native American language spoken in Oregon
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.55628
 longitude: -124.29303
 glottocode: tutu1242

@@ -12,6 +12,7 @@ area: Indo-Aryan Language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28
 longitude: 85
 language_map_img: npi.webp

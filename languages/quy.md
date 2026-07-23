@@ -12,6 +12,7 @@ area: Dialect of the Southern Quechua language in Peru
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -13.84714
 longitude: -74.32246
 glottocode: ayac1239

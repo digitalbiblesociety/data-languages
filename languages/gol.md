@@ -11,6 +11,7 @@ area: Unclassified language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.061935
 longitude: -10.81375
 glottocode: gola1255

@@ -11,6 +11,7 @@ area: Potou language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.36868
 longitude: -4.03188
 glottocode: ebri1238

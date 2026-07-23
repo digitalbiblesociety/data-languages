@@ -10,6 +10,7 @@ area: Nyulnyulan language spoken in Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.00405
 longitude: 122.69265
 language_map_img: 500px-Traditional_lands_of_Australian_Aboriginal_Tribes_around_Derby.webp

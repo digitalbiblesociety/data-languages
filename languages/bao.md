@@ -11,6 +11,7 @@ area: Tucanoan language spoken in South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.30416
 longitude: -70.164405
 glottocode: waim1255

@@ -10,6 +10,7 @@ area: Endangered Afro-Asiatic language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.76404
 longitude: 9.66743
 glottocode: siri1278

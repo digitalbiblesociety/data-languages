@@ -11,6 +11,7 @@ area: "Language spoken on Luzon, Philippines"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.70149
 longitude: 121.71773
 language_map_img: 500px-Yogad_language_map.webp

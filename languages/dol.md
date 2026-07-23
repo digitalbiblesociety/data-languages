@@ -10,6 +10,7 @@ area: "Language of New Guinea, PNG"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.85806
 longitude: 142.65608
 glottocode: doso1239

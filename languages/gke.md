@@ -11,6 +11,7 @@ area: Mbum language of northern Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.09039
 longitude: 14.28884
 glottocode: ndai1238

@@ -9,6 +9,7 @@ area: Deaf sign language of Mauritius
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mfe
 latitude: -20.166667
 longitude: 57.516667
 glottocode: maur1240

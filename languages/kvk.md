@@ -10,6 +10,7 @@ area: Deaf sign language of South Korea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: kor
 latitude: 37.47179
 longitude: 127.60859
 glottocode: kore1273

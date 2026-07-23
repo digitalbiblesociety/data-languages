@@ -11,6 +11,7 @@ area: North Omotic language spoken in western Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 10.65962
 longitude: 35.34498
 glottocode: boro1277

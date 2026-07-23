@@ -11,6 +11,7 @@ area: Endangered Sino-Tibetan language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 33.23973
 longitude: 77.40126
 glottocode: zang1248

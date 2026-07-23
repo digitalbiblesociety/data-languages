@@ -11,6 +11,7 @@ area: Northern Omotic language of Ethiopia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 8.568
 longitude: 34.64701
 glottocode: anfi1235

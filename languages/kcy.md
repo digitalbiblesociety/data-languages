@@ -11,6 +11,7 @@ area: Songhay language of Algeria
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.49571
 longitude: -2.48113
 language_map_img: Songhay_languages.svg

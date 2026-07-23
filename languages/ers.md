@@ -11,6 +11,7 @@ area: Qiangic language cluster of China
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 29.28674
 longitude: 102.21339
 language_map_img: 500px-Ersuic_map.webp

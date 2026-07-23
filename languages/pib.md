@@ -11,6 +11,7 @@ area: Maipurean language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.10862
 longitude: -73.30868
 glottocode: yine1238

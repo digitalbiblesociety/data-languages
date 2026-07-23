@@ -12,6 +12,7 @@ area: Language of Bolivia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -20.28192
 longitude: -64.16621
 glottocode: west2640

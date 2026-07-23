@@ -11,6 +11,7 @@ area: Iranic language spoken in Northwestern Iran and Southeastern Azerbaijan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 38.45524
 longitude: 48.634905
 scripts: [Arab, Cyrl, Latn]

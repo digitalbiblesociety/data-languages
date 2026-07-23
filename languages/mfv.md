@@ -11,6 +11,7 @@ area: Bak language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 12.828967
 longitude: -15.921703
 scripts: [Latn]

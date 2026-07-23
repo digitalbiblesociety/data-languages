@@ -11,6 +11,7 @@ area: Northeast Coast Bantu language of Tanzania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.17978
 longitude: 37.83226
 scripts: [Latn]

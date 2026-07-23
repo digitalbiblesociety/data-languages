@@ -11,6 +11,7 @@ area: Igboid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.25057
 longitude: 6.53895
 glottocode: ogba1241

@@ -11,6 +11,7 @@ area: One of the three Oceanic languages of Utupua (Solomon Islands)
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -11.29577
 longitude: 166.49752
 glottocode: amba1266

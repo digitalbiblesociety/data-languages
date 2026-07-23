@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in China
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.4599
 longitude: 100.182
 language_map_img: 500px-Naxi_language.webp

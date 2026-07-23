@@ -12,6 +12,7 @@ area: Western Romance language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 41.89826
 longitude: 3.393755
 scripts: [Latn]

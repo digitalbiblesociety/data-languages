@@ -10,6 +10,7 @@ area: Language with Basque syntax and Romani vocabulary
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 43.17251
 longitude: -1.46112
 language_map_img: Basque_Country_location_map.webp

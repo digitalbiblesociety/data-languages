@@ -11,6 +11,7 @@ area: Papuan language of Indonesian
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.41983
 longitude: 140.77017
 glottocode: seng1285

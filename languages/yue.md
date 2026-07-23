@@ -12,6 +12,7 @@ area: Primary branch of Chinese spoken in southern China
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23
 longitude: 113
 language_map_img: yue.webp

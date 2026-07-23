@@ -12,6 +12,7 @@ area: Bantu language official in Rwanda
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kin
 latitude: -1.567707
 longitude: 29.644133
 language_map_img: kin.webp

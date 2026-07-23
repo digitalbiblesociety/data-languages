@@ -10,6 +10,7 @@ area: Angan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.02259
 longitude: 145.60346
 glottocode: simb1255

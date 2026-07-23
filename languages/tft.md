@@ -11,6 +11,7 @@ area: Language in North Maluku
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.80562
 longitude: 127.33347
 glottocode: tern1247

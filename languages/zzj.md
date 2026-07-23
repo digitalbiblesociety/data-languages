@@ -12,6 +12,7 @@ area: Various Tai languages used by the Zhuang people of southern China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 21.83753
 longitude: 107.3622
 language_map_img: 500px-Zhuang-dialects-map.webp

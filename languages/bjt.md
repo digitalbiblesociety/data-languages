@@ -11,6 +11,7 @@ area: Bak language group of West Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.53821
 longitude: -15.66585
 scripts: [Latn]

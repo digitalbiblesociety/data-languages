@@ -11,6 +11,7 @@ area: Athabaskan language spoken in the Yukon
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 60.78227
 longitude: -136.57324
 language_map_img: Tutchone_map.svg

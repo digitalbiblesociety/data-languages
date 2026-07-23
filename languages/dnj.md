@@ -10,6 +10,7 @@ area: Mande language of West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 scripts: [Latn]
 glottocode: west2877
 wikidata_id: Q1158971

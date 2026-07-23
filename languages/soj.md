@@ -10,6 +10,7 @@ area: Central Iranian language varieties of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 31.85423
 longitude: 54.59641
 glottocode: soii1239

@@ -11,6 +11,7 @@ area: Sara language of Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.789965
 longitude: 16.01934
 glottocode: laka1254

@@ -11,6 +11,7 @@ area: Micronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.36084
 longitude: 147.03831
 glottocode: sata1237

@@ -11,6 +11,7 @@ area: English-based creole of Solomon Islands
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: pis
 latitude: -9.567
 longitude: 160.137
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Mazatec variety of Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.05412
 longitude: -96.66588
 glottocode: chiq1250

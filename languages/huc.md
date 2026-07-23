@@ -11,6 +11,7 @@ area: Endangered Kxʼa language of Botswana
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -23.93447
 longitude: 24.69828
 glottocode: hoaa1235

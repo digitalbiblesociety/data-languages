@@ -12,6 +12,7 @@ area: Indian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 28.60364
 longitude: 71.45305
 glottocode: bagr1243

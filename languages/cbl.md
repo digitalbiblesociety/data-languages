@@ -11,6 +11,7 @@ area: Language spoken in Burma
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.91
 longitude: 93.68
 glottocode: bual1235

@@ -11,6 +11,7 @@ area: "Language of California, USA"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 39.00214
 longitude: -122.62132
 glottocode: lake1258

@@ -11,6 +11,7 @@ area: English-based creole language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 17.39407
 longitude: -88.62814
 glottocode: beli1260

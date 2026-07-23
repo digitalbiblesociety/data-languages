@@ -8,6 +8,7 @@ country_name: Iran
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: pes
 scripts: [Arab, Latn]
 wikidata_id: Q33049
 wikipedia_url: "https://en.wikipedia.org/wiki/Balochi_language"

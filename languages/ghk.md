@@ -11,6 +11,7 @@ area: Karen language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 19.67411
 longitude: 96.5308
 glottocode: geko1235

@@ -11,6 +11,7 @@ area: Panoan language of western South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.720265
 longitude: -71.1733
 glottocode: cash1254

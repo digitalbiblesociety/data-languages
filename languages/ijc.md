@@ -11,6 +11,7 @@ area: Ijaw language spoken in Nigeria
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.17986
 longitude: 5.51702
 glottocode: izon1238

@@ -11,6 +11,7 @@ area: Edoid language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.04475
 longitude: 6.17647
 glottocode: ikpe1243

@@ -12,6 +12,7 @@ area: Quechuan language of west-central Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -9.38709
 longitude: -77.77681
 glottocode: huay1240

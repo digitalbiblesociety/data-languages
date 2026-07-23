@@ -11,6 +11,7 @@ area: Yapen language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.66738
 longitude: 135.79705
 glottocode: mara1397

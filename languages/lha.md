@@ -11,6 +11,7 @@ area: Kra–Dai language spoken in Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.55149
 longitude: 103.86379
 glottocode: laha1250

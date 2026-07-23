@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Sabah, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 6.48554
 longitude: 116.85329
 glottocode: kota1279

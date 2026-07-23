@@ -11,6 +11,7 @@ area: North Germanic language of the Faroe Islands
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fao
 latitude: 62.07316
 longitude: -6.88497
 scripts: [Latn]

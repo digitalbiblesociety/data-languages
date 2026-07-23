@@ -10,6 +10,7 @@ location: "Côte d&#039;Ivoire"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.144145
 longitude: -8.40954
 glottocode: west2488

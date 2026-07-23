@@ -10,6 +10,7 @@ area: Tai language of Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 22.43734
 longitude: 100.671175
 language_map_img: 500px-Tay_khang_language.webp

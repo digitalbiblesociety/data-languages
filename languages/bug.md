@@ -11,6 +11,7 @@ area: Language spoken in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -0.251495
 longitude: 119.251315
 language_map_img: Bugis-speaking_area.svg

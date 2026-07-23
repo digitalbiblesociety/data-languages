@@ -12,6 +12,7 @@ area: Quechua variety of Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -8.49346
 longitude: -77.53185
 language_map_img: AnqashQ.svg

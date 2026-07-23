@@ -11,6 +11,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -16.19708
 longitude: 167.38662
 language_map_img: 500px-MalakulaMap.webp

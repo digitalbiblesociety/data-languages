@@ -10,6 +10,7 @@ area: Northeastern Neo-Aramaic dialect of Iraqi Jews
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.77445
 longitude: 35.22249
 glottocode: lish1247

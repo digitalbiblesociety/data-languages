@@ -11,6 +11,7 @@ area: Bongo–Bagirmi language of Chad and the CAR
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.39388
 longitude: 19.25663
 glottocode: sara1321

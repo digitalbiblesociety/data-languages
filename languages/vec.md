@@ -11,6 +11,7 @@ area: "Romance language of Veneto, northeast Italy"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 45.40985
 longitude: 13.034455
 language_map_img: vec.webp

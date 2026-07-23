@@ -9,6 +9,7 @@ area: Deaf sign languages used in Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 18.387
 longitude: 104.518
 glottocode: laos1235

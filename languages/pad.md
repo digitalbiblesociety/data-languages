@@ -11,6 +11,7 @@ area: Arauan language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -5.78403
 longitude: -64.28035
 glottocode: paum1247

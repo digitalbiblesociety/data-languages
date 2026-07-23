@@ -11,6 +11,7 @@ area: Romani dialect of the Balkans
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: srp
 latitude: 42.67
 longitude: 21.17
 language_map_img: Romany_dialects_Balkan.svg

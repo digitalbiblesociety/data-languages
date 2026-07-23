@@ -5,6 +5,7 @@ country_id: US
 country_name: United States
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 44.33
 longitude: -77.5
 wikidata_id: Q110736458

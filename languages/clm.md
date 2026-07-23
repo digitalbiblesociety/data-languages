@@ -11,6 +11,7 @@ area: Salishan language of North America
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.07068
 longitude: -123.5115
 language_map_img: 500px-Klallam.webp

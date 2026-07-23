@@ -11,6 +11,7 @@ area: Northern Luzon language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.34407
 longitude: 121.31148
 language_map_img: 500px-Kalinga_dialect_continuum_map.webp

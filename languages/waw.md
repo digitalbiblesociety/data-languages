@@ -11,6 +11,7 @@ area: Cariban language spoken in Brazil and Guyana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.508805
 longitude: -59.14166
 glottocode: waiw1244

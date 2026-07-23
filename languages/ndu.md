@@ -11,6 +11,7 @@ area: Dialect cluster of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.38689
 longitude: 13.39664
 glottocode: dugu1248

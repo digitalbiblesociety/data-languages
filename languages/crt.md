@@ -11,6 +11,7 @@ area: Matacoan language of Argentina
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.1896
 longitude: -63.23831
 glottocode: iyoj1235

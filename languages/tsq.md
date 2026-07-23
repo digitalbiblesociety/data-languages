@@ -10,6 +10,7 @@ area: National sign language of Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 13.7837
 longitude: 100.44545
 glottocode: thai1240

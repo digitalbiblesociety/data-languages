@@ -11,6 +11,7 @@ area: Atlantic–Congo language spoken in Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.33313
 longitude: 13.05682
 glottocode: long1387

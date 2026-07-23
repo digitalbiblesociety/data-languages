@@ -11,6 +11,7 @@ area: Eastern Sudanic language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.38855
 longitude: 29.5803
 glottocode: tese1238

@@ -11,6 +11,7 @@ area: Central Sudanic language of Uganda
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.56143
 longitude: 31.30709
 glottocode: arin1244

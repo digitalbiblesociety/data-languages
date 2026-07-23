@@ -10,6 +10,7 @@ location: "Nigeria, Map 3"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.0839
 longitude: 9.76103
 glottocode: mang1416

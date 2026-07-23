@@ -9,6 +9,7 @@ area: Creole languages of India
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 7.25
 longitude: 80.67
 glottocode: dama1278

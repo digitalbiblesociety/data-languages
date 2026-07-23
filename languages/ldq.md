@@ -11,6 +11,7 @@ area: Atlantic–Congo language of Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.25555
 longitude: 10.94988
 glottocode: lufu1237

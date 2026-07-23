@@ -11,6 +11,7 @@ area: Afro-Asiatic language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.47205
 longitude: 8.96522
 glottocode: mwag1236

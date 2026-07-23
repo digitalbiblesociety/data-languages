@@ -11,6 +11,7 @@ area: Guaicuruan language of Argentina
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -28.09699
 longitude: -60.41448
 glottocode: moco1246

@@ -11,6 +11,7 @@ area: Austronesian language primarily spoken in the islands of Samar and Eastern
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 11.49115
 longitude: 125.01203
 language_map_img: 500px-Waray-Waray_language_map.webp

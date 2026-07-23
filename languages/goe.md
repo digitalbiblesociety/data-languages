@@ -11,6 +11,7 @@ area: Endangered Sino-Tibetan language of Bhutan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.06603
 longitude: 91.16861
 language_map_img: 500px-Sino-Tibetan_Languages_Map.webp

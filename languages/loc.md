@@ -11,6 +11,7 @@ area: Austronesian language of the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 12.28404
 longitude: 122.03037
 language_map_img: 500px-Inonhan_language_map.webp

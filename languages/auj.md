@@ -11,6 +11,7 @@ area: Endangered Berber language of Libya
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.23411
 longitude: 21.18188
 glottocode: awji1241

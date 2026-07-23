@@ -11,6 +11,7 @@ area: Algonquian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.494475
 longitude: -67.40805
 language_map_img: 500px-Wohngebiet_Maliseet.webp

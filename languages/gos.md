@@ -11,6 +11,7 @@ area: Friso-Saxon dialect group
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 53.28422
 longitude: 6.698
 language_map_img: Gronings_kaart.webp

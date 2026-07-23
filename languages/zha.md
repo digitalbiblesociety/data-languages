@@ -10,6 +10,7 @@ country_name: China
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: cmn
 scripts: [Hans, Latn]
 wikidata_id: Q13216
 wikipedia_url: "https://en.wikipedia.org/wiki/Zhuang_languages"

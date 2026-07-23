@@ -10,6 +10,7 @@ area: Dialect of the Tati language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 38.43411
 longitude: 48.28478
 glottocode: harz1239

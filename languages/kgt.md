@@ -11,6 +11,7 @@ area: Moribund Mambiloid language of Nigeria and Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.90525
 longitude: 11.48262
 glottocode: somy1238

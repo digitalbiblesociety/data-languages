@@ -12,6 +12,7 @@ area: Zapotec language of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.04
 longitude: -96.36863
 glottocode: ozol1235

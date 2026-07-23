@@ -11,6 +11,7 @@ area: Trans–New Guinea language of Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.88974
 longitude: 136.0176
 glottocode: ekar1243

@@ -11,6 +11,7 @@ area: Benue–Congo language spoken in Cameroon
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.49017
 longitude: 10.84772
 scripts: [Bamu]

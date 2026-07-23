@@ -12,6 +12,7 @@ area: Group of dialects of the Romani language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: slk
 latitude: 48.196788
 longitude: 20.312905
 language_map_img: Romany_dialects_Central.svg

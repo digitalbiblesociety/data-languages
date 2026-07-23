@@ -11,6 +11,7 @@ area: Aboriginal Malay language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.88296
 longitude: 104.0079
 glottocode: oran1258

@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.13489
 longitude: 101.61389
 glottocode: sela1253

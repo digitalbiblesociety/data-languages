@@ -11,6 +11,7 @@ area: Endangered Newaric language of Nepal
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.37675
 longitude: 85.05843
 glottocode: bara1357

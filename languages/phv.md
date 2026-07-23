@@ -10,6 +10,7 @@ area: Extinct Persian language of Afghanistan
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 31.32675
 longitude: 62.19785
 glottocode: pahl1240

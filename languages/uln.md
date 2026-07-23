@@ -9,6 +9,7 @@ area: German-based creole of Papua New Guinea
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.19566
 longitude: 152.18315
 glottocode: unse1236

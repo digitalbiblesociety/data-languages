@@ -10,6 +10,7 @@ area: Kipchak Turkic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 39.84121
 longitude: 66.3805
 glottocode: krym1236

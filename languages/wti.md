@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken by the Berta in Sudan and Ethiopia
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 10.647405
 longitude: 34.70415
 glottocode: bert1248

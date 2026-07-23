@@ -11,6 +11,7 @@ area: Endangered Mirndi language spoken in Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.16504
 longitude: 133.65904
 glottocode: djin1251

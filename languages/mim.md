@@ -11,6 +11,7 @@ area: Mixtec languages of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.49437
 longitude: -98.46738
 glottocode: alac1244

@@ -11,6 +11,7 @@ area: Kwa language spoken in Togo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.25499
 longitude: 0.67846
 glottocode: igoo1238

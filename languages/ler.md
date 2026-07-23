@@ -11,6 +11,7 @@ area: Oceanic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.33367
 longitude: 147.74163
 glottocode: lenk1247

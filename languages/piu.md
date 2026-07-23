@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -23.29628
 longitude: 130.64348
 language_map_img: 500px-Pintupi_country.webp

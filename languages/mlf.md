@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos and Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 19.273035
 longitude: 101.203525
 glottocode: mall1246

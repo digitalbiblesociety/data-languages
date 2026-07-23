@@ -11,6 +11,7 @@ area: Tai language of Burma
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 24.9041
 longitude: 95.0772
 glottocode: tail1248

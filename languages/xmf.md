@@ -10,6 +10,7 @@ area: Kartvelian language of western Georgia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: kat
 latitude: 42.51289
 longitude: 41.87188
 language_map_img: Kartvelian_languages.webp

@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.83388
 longitude: 77.37721
 glottocode: kull1236

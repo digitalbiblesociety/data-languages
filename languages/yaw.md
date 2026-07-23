@@ -11,6 +11,7 @@ area: Arawakan language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.51038
 longitude: -53.42357
 glottocode: yawa1261

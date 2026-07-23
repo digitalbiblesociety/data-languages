@@ -11,6 +11,7 @@ area: Written standard of the Sardinian language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 40.49001
 longitude: 9.09957
 language_map_img: 500px-Sardinia_Language_Map.webp

@@ -11,6 +11,7 @@ area: Idomoid language of southeast-central Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.19139
 longitude: 7.71261
 language_map_img: 500px-Idoma.jpeg

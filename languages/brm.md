@@ -11,6 +11,7 @@ area: Zande language spoken in DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.34642
 longitude: 26.86102
 glottocode: bara1361

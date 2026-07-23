@@ -11,6 +11,7 @@ area: Muran language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.77713
 longitude: -61.81669
 glottocode: pira1253

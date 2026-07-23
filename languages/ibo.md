@@ -12,6 +12,7 @@ area: "Niger–Congo language of the Igbo people, mainly spoken in Nigeria"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.62705
 longitude: 7.23441
 language_map_img: ibo.webp

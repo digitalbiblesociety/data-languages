@@ -11,6 +11,7 @@ area: Tibetic language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 30.241
 longitude: 79.153
 glottocode: jadd1243

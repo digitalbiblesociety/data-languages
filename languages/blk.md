@@ -11,6 +11,7 @@ area: Karenic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.21099
 longitude: 97.596905
 glottocode: paok1235

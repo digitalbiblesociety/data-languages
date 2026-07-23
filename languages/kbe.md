@@ -11,6 +11,7 @@ area: Aboriginal Australian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.32427
 longitude: 142.89266
 glottocode: kanj1260

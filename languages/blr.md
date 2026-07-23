@@ -11,6 +11,7 @@ area: Language of the Blang people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.009203
 longitude: 99.740473
 glottocode: blan1242

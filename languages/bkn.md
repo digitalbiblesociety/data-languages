@@ -11,6 +11,7 @@ area: Punan language of Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 2.34947
 longitude: 114.89469
 glottocode: buki1248

@@ -12,6 +12,7 @@ area: Athabaskan language of Na-Dené stock in the United States
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.21057
 longitude: -110.08218
 scripts: [Latn]

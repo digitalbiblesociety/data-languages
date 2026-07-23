@@ -11,6 +11,7 @@ area: Language spoken in Ethiopia and Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 11.28731
 longitude: 35.380345
 glottocode: gumu1244

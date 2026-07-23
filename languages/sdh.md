@@ -12,6 +12,7 @@ area: One of the Kurdish languages
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 32.897725
 longitude: 46.59759
 language_map_img: 500px-SOUTHERN_KURDISH.webp

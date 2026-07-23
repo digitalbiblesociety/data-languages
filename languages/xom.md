@@ -11,6 +11,7 @@ area: Nilo-Saharan language spoken in northeast Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 8.941615
 longitude: 34.093915
 glottocode: komo1258

@@ -12,6 +12,7 @@ area: Bantu language spoken mainly in East Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -8.256053
 longitude: 37.624033
 language_map_img: Maeneo_penye_wasemaji_wa_Kiswahili.webp

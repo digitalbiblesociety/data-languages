@@ -11,6 +11,7 @@ area: Language in Highland Papua
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.43455
 longitude: 139.06064
 glottocode: tawo1244

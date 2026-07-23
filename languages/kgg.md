@@ -10,6 +10,7 @@ area: Endangered language isolate of Nepal
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 29.17663
 longitude: 80.63092
 language_map_img: 500px-Kusunda_language.webp

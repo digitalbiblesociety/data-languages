@@ -11,6 +11,7 @@ area: Adamawa language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.578895
 longitude: 14.272165
 glottocode: mbum1254

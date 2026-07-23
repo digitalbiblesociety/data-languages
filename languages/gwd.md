@@ -11,6 +11,7 @@ area: Afro-Asiatic language of southern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.37869
 longitude: 37.2737
 glottocode: gaww1239

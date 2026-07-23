@@ -11,6 +11,7 @@ area: Jewish dialect based on the Persian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 41
 longitude: 64
 glottocode: bukh1238

@@ -10,6 +10,7 @@ area: West Slavic ethnolect
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 50.9656
 longitude: 16.9491
 language_map_img: 500px-Languages_of_CE_Europe-3.webp

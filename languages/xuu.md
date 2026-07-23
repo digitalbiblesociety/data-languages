@@ -11,6 +11,7 @@ area: "Khoe dialect continuum of the Okavango Delta, southwestern Africa"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -16.59051
 longitude: 22.599835
 language_map_img: 500px-Khwelanguage.webp

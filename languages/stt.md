@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 11.69167
 longitude: 106.69098
 language_map_img: 500px-Stieng_language.webp

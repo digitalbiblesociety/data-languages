@@ -11,6 +11,7 @@ area: "Austronesian language of eastern Seram Island, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.61403
 longitude: 130.81465
 glottocode: bati1253

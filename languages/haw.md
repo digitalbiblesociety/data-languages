@@ -11,6 +11,7 @@ area: Endangered Polynesian language of Hawaii
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 19.62965
 longitude: -155.42995
 scripts: [Latn]

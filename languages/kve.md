@@ -10,6 +10,7 @@ location: Malaysia - Sabah
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.53605
 longitude: 117.31699
 glottocode: kala1391

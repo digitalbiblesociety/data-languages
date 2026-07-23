@@ -11,6 +11,7 @@ area: Waja language spoken in Eastern Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.67567
 longitude: 11.52005
 glottocode: diji1241

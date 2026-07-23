@@ -11,6 +11,7 @@ area: Maipurean language spoken in Peru
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.48043
 longitude: -69.76828
 glottocode: mach1268

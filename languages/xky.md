@@ -11,6 +11,7 @@ area: Kayan language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 2.14141
 longitude: 114.2046
 glottocode: umal1239

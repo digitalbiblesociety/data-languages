@@ -11,6 +11,7 @@ area: Bantoid language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.97237
 longitude: 9.39989
 language_map_img: Map_of_the_Mamfe_languages.webp

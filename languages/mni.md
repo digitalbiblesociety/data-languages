@@ -11,6 +11,7 @@ area: Tibeto-Burman language of India
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.440857
 longitude: 93.342623
 language_map_img: 500px-Meitei_language_distribution.webp

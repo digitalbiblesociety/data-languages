@@ -10,6 +10,7 @@ location: Western Central Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.7342
 longitude: -98.26631
 glottocode: texc1235

@@ -11,6 +11,7 @@ area: Dialect chain of the Numic branch of the Uto-Aztecan language family
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.09648
 longitude: -110.3055
 language_map_img: Colorado_River_Numic_map.svg

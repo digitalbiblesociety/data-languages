@@ -11,6 +11,7 @@ area: West Manus language spoken in Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.1143
 longitude: 146.62734
 glottocode: nyin1250

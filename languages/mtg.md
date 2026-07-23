@@ -11,6 +11,7 @@ area: "Language of Highland Papua, Indonesia"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.69676
 longitude: 140.09981
 glottocode: unaa1239

@@ -11,6 +11,7 @@ area: Afro-Asiatic Omotic language of Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 7.27424
 longitude: 35.39224
 glottocode: shek1244

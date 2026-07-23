@@ -10,6 +10,7 @@ area: Language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.95
 longitude: 101.85
 glottocode: enuu1235

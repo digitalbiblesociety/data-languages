@@ -11,6 +11,7 @@ area: Gurma language of Ghana and Togo
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.822245
 longitude: 0.2783
 glottocode: konk1269

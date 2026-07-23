@@ -12,6 +12,7 @@ area: Austroasiatic language of Cambodia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 12.05155
 longitude: 105.015373
 language_map_img: khm.svg

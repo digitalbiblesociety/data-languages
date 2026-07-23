@@ -11,6 +11,7 @@ area: Karen language spoken in Thailand
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.00483
 longitude: 99.63822
 glottocode: phra1235

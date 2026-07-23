@@ -11,6 +11,7 @@ area: Bantu language of Tanzania spoken by the Chaga people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.42862
 longitude: 36.76855
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Southwestern Iranian language of Oman and United Arab Emirates
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 26.16023
 longitude: 56.42019
 glottocode: kumz1235

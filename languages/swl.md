@@ -10,6 +10,7 @@ area: Official sign language of Sweden
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: swe
 latitude: 58.92897
 longitude: 16.11326
 glottocode: swed1236

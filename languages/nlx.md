@@ -11,6 +11,7 @@ area: Indo-Aryan language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.43
 longitude: 74.827
 glottocode: naha1261

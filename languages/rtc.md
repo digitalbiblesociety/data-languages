@@ -11,6 +11,7 @@ area: Kuki-Chin language of Burma
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 wikidata_id: Q7379867
 wikipedia_url: "https://en.wikipedia.org/wiki/Rungtu_language"
 translations:

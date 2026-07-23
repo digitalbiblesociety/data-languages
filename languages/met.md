@@ -11,6 +11,7 @@ area: Austronesian language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.91639
 longitude: 146.85898
 glottocode: mato1252

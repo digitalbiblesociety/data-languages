@@ -10,6 +10,7 @@ area: Bantoid language isolate spoken in Cameroon
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.74997
 longitude: 10.53331
 glottocode: biky1238

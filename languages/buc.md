@@ -11,6 +11,7 @@ area: Dialect of Malagasy spoken in Mayotte
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -12.96521
 longitude: 45.13678
 scripts: [Latn]

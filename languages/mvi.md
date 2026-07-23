@@ -11,6 +11,7 @@ area: Ryukyuan dialect cluster of the Miyako Islands
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 24.75642
 longitude: 125.36309
 language_map_img: 500px-Miyako_map.webp

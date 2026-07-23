@@ -10,6 +10,7 @@ location: "Vanuatu, Enlarged Area"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.5656
 longitude: 166.90179
 language_map_img: 500px-Vanuatu_-_Espiritu_Santo.webp

@@ -11,6 +11,7 @@ area: Papuan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.32432
 longitude: 145.38785
 language_map_img: 500px-Papua_new_guinea_eastern_highlands_province.webp

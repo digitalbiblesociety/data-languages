@@ -10,6 +10,7 @@ location: "India, Map 6"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.52593
 longitude: 79.91637
 glottocode: holi1239

@@ -11,6 +11,7 @@ area: Bantu language spoken in Zambia and Tanzania
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -9.112615
 longitude: 32.31634
 glottocode: nyam1275

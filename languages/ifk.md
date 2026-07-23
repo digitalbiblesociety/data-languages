@@ -11,6 +11,7 @@ area: Austronesian language spoken in Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 16.66464
 longitude: 121.11348
 language_map_img: Ph_locator_ifugao_kiangan.webp

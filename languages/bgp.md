@@ -12,6 +12,7 @@ area: Western Iranian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 28
 longitude: 62
 glottocode: east2304

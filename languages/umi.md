@@ -11,6 +11,7 @@ area: "Punan language of Sarawak, Malaysia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.56623
 longitude: 114.57932
 glottocode: ukit1237

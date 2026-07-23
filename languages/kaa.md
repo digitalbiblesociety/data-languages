@@ -11,6 +11,7 @@ area: "Kipchak Turkic language of Karakalpakstan, Uzbekistan"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: uzn
 latitude: 39.98005
 longitude: 63.32233
 scripts: [Cyrl, Latn]

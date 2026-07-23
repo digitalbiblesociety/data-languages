@@ -10,6 +10,7 @@ area: Sign language used mainly by deaf people in Spain
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 40.03136
 longitude: -3.70738
 glottocode: span1263

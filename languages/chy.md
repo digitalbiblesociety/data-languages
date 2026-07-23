@@ -11,6 +11,7 @@ area: Algonquian language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.53206
 longitude: -106.65888
 language_map_img: Cheyenne_USC2000_PHS.svg

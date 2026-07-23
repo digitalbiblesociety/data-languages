@@ -12,6 +12,7 @@ area: Kipchak Turkic language of Central Asia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kir
 latitude: 42
 longitude: 74
 scripts: [Arab, Cyrl, Latn]

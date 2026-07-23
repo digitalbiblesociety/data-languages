@@ -12,6 +12,7 @@ area: Nguni language of southern South Africa
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -31.03886
 longitude: 28.07686
 language_map_img: South_Africa_2011_Xhosa_speakers_proportion_map.svg

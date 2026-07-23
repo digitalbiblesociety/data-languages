@@ -11,6 +11,7 @@ area: Dialects of Salland region
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.44816
 longitude: 6.29104
 glottocode: sall1238

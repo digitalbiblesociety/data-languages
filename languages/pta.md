@@ -11,6 +11,7 @@ area: Guarani language spoken in Paraguay
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -23.15945
 longitude: -56.11758
 glottocode: pait1247

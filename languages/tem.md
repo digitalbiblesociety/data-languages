@@ -11,6 +11,7 @@ area: Language spoken in Sierra Leone
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 8.90294
 longitude: -12.33307
 scripts: [Latn]

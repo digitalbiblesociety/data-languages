@@ -11,6 +11,7 @@ area: Bantu language of Congo and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 2.304825
 longitude: 14.11747
 language_map_img: 500px-Maka-Njem_ethnic_groups.webp

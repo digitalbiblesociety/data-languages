@@ -10,6 +10,7 @@ area: English-based creole language spoken in parts of the Torres Strait Islands
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.066
 longitude: 142.692
 language_map_img: 500px-Torres_Strait_Islander_Languages_used_at_home.webp

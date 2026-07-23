@@ -11,6 +11,7 @@ area: Endangered Bikol language of Philippines
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.65101
 longitude: 123.33243
 glottocode: isar1235

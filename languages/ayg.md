@@ -11,6 +11,7 @@ area: Guang language spoken in Togo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.2327
 longitude: 0.98348
 glottocode: giny1241

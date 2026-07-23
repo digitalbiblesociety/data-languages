@@ -11,6 +11,7 @@ area: "Mazatecan language of Oaxaca, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.08034
 longitude: -96.49769
 glottocode: jala1237

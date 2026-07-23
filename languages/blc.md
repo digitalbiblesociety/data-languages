@@ -11,6 +11,7 @@ area: "Salishan language of British Columbia, Canada"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 52.34481
 longitude: -126.68948
 glottocode: bell1243

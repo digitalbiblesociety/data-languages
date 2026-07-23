@@ -11,6 +11,7 @@ area: Niger–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.83084
 longitude: 30.25298
 glottocode: lumu1239

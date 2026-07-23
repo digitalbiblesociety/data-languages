@@ -11,6 +11,7 @@ area: Language of Vanuatu
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.33532
 longitude: 167.03365
 glottocode: butm1237

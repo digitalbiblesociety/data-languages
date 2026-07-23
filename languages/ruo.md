@@ -10,6 +10,7 @@ area: Romance language of the Balkans
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hrv
 latitude: 45.433
 longitude: 14.2
 glottocode: istr1245

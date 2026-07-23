@@ -11,6 +11,7 @@ area: Eastern Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.831
 longitude: 93.1695
 scripts: [Arab, Latn, Rohg]

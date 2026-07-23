@@ -11,6 +11,7 @@ area: Southern Sahaptin language of the US
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.63915
 longitude: -118.55167
 glottocode: umat1237

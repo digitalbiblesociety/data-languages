@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.830135
 longitude: 13.66327
 glottocode: vemg1240

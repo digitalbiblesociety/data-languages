@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.07563
 longitude: 141.72365
 glottocode: kuku1280

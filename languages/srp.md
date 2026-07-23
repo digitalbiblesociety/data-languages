@@ -13,6 +13,7 @@ area: South Slavic language of the Balkans
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: srp
 latitude: 44.323844
 longitude: 21.919184
 language_map_img: Serbian_language_status_map.svg

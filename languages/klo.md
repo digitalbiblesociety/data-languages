@@ -11,6 +11,7 @@ area: Plateau language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.03256
 longitude: 10.09794
 glottocode: kapy1238

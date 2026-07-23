@@ -11,6 +11,7 @@ area: Native American language of California
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 37.1935
 longitude: -119.34741
 language_map_img: Mono_map.svg

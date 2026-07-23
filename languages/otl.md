@@ -11,6 +11,7 @@ area: Oto-Manguean language of Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 19.44026
 longitude: -99.5074
 glottocode: tila1239

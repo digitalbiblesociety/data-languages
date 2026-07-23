@@ -10,6 +10,7 @@ area: Iranian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 35.40153
 longitude: 52.99868
 glottocode: lasg1238

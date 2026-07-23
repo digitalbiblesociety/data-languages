@@ -10,6 +10,7 @@ area: Language spoken by Irish Travellers
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53.79071
 longitude: -7.73983
 glottocode: shel1236

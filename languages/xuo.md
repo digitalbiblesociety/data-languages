@@ -11,6 +11,7 @@ area: Mbum language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.97771
 longitude: 15.48432
 glottocode: kuoo1238

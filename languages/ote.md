@@ -11,6 +11,7 @@ area: Mexican language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.22745
 longitude: -99.55642
 glottocode: mezq1235

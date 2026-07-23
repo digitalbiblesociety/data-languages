@@ -11,6 +11,7 @@ area: "Kigoma region, Kigoma Rural District, Uvinza town area west. West of Nyam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.99312
 longitude: 30.56989
 glottocode: vinz1238

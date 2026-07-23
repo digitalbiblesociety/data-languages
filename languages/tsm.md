@@ -10,6 +10,7 @@ area: Deaf sign language of Turkey
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 41.02675
 longitude: 28.85551
 glottocode: turk1288

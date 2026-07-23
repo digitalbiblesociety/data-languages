@@ -11,6 +11,7 @@ area: Salishan dialect continuum
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 48.722045
 longitude: -123.03716
 language_map_img: North_Straits_Salish_map.svg

@@ -11,6 +11,7 @@ area: Chibchan language of Honduras
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 15.80331
 longitude: -85.55802
 glottocode: pech1241

@@ -12,6 +12,7 @@ area: Variant of Arabic spoken in Chad
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.67
 longitude: 13.5
 glottocode: chad1249

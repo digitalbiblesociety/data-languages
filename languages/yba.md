@@ -11,6 +11,7 @@ area: "Idomoid language of Ogoja, Nigeria"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.73852
 longitude: 8.60748
 glottocode: yala1263

@@ -12,6 +12,7 @@ area: Sino-Tibetan language spoken in Bhutan
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.410786
 longitude: 89.581604
 scripts: [Tibt]

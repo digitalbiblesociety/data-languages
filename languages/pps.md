@@ -11,6 +11,7 @@ area: "Oto-Manguean language of Puebla, Mexico"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.68115
 longitude: -97.54592
 glottocode: sanl1248

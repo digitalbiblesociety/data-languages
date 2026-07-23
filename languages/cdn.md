@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in the Indian state of Uttarakhand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 29.70331
 longitude: 80.48317
 glottocode: chau1259

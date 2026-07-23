@@ -11,6 +11,7 @@ area: Siouan language of North America
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.94712
 longitude: -94.66336
 language_map_img: 500px-Oklahoma_Indian_Languages.webp

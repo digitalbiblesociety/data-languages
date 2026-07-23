@@ -11,6 +11,7 @@ area: Dutch creole in Indonesia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -6.16593
 longitude: 106.79976
 glottocode: petj1238

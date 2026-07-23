@@ -11,6 +11,7 @@ area: Tibetic language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.85031
 longitude: 78.5728
 glottocode: bhot1235

@@ -11,6 +11,7 @@ area: Ekoid language of Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.57067
 longitude: 8.82998
 glottocode: mbee1249

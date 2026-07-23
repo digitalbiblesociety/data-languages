@@ -11,6 +11,7 @@ area: Dravidian language of India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.38594
 longitude: 76.00027
 glottocode: kaik1244

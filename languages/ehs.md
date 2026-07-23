@@ -7,6 +7,7 @@ country_id: JP
 country_name: Japan
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 34.178195
 longitude: 133.074929
 glottocode: miya1268

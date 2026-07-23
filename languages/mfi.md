@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.316935
 longitude: 13.899635
 glottocode: wand1278

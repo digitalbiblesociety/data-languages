@@ -11,6 +11,7 @@ area: Tupian dialect cluster of Brazil
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.58788
 longitude: -60.83115
 glottocode: cint1239

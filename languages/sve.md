@@ -10,6 +10,7 @@ area: "Austronesian language spoken in Maluku, Indonesia"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.11241
 longitude: 129.90062
 glottocode: seri1255

@@ -11,6 +11,7 @@ area: Indo-Aryan language of Uttar Pradesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 29.0853
 longitude: 79.42331
 glottocode: buks1238

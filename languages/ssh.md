@@ -12,6 +12,7 @@ area: Arabic variety spoken in Oman and the UAE
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 25.93902
 longitude: 56.171125
 glottocode: shih1239

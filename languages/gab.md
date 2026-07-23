@@ -11,6 +11,7 @@ area: Chadic dialect cluster of Chad
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.33955
 longitude: 16.62304
 glottocode: gabr1253

@@ -9,6 +9,7 @@ area: Nearly extinct language of Chad
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.42495
 longitude: 17.91361
 glottocode: noyy1238

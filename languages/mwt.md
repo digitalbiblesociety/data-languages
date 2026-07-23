@@ -11,6 +11,7 @@ area: Austronesian language spoken in southern Thailand and in western Burma
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 10.14744
 longitude: 98.676545
 glottocode: moke1242

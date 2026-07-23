@@ -11,6 +11,7 @@ area: North Bougainville language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.78724
 longitude: 154.83383
 glottocode: rapo1238

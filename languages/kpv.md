@@ -12,6 +12,7 @@ area: Uralic language spoken in Russia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 64.05268
 longitude: 54.94599
 glottocode: komi1268

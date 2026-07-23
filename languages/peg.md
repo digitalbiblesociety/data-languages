@@ -11,6 +11,7 @@ area: Dravidian language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.34345
 longitude: 83.6552
 glottocode: peng1244

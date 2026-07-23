@@ -11,6 +11,7 @@ area: Athabaskan language spoken in New Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 36.8079
 longitude: -107.00694
 glottocode: jica1244

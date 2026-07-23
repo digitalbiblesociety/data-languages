@@ -11,6 +11,7 @@ area: Mel language of western Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.87529
 longitude: -14.08947
 glottocode: land1256

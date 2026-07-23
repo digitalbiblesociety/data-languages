@@ -11,6 +11,7 @@ area: Papuan language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.4795
 longitude: 147.75695
 glottocode: kate1253

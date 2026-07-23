@@ -10,6 +10,7 @@ location: Southern Thailand
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 6.85668
 longitude: 99.7031
 language_map_img: sou.webp

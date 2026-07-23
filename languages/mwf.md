@@ -11,6 +11,7 @@ area: Language of northern Australia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.74852
 longitude: 129.70152
 glottocode: murr1258

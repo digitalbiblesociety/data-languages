@@ -10,6 +10,7 @@ area: Garo dialect of India
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.506
 longitude: 91.469
 glottocode: ruga1238

@@ -11,6 +11,7 @@ area: Gbe language of Benin
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.41342
 longitude: 2.02985
 glottocode: xwel1235

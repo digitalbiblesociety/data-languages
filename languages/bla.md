@@ -11,6 +11,7 @@ area: Algoquian language spoken in North America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.066915
 longitude: -113.109275
 scripts: [Latn]

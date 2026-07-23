@@ -11,6 +11,7 @@ area: Chibchan language of Nicaragua
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 11.50069
 longitude: -83.85714
 glottocode: rama1270

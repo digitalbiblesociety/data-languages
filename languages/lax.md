@@ -11,6 +11,7 @@ area: Tibeto-Burman language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.06675
 longitude: 92.25834
 language_map_img: 500px-Tiwa.Map.webp

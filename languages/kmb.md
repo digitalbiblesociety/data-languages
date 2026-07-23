@@ -11,6 +11,7 @@ area: Bantu language of northwest Angola
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.97835
 longitude: 14.88926
 scripts: [Latn]

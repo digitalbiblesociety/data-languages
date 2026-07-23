@@ -11,6 +11,7 @@ area: Dravidian language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 10.3524
 longitude: 76.73276
 glottocode: muth1236

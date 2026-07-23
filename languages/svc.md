@@ -11,6 +11,7 @@ area: English-based creole of Saint Vincent and the Grenadines
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 13.24357
 longitude: -61.19632
 glottocode: vinc1243

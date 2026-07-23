@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 30.528
 longitude: 79.567
 glottocode: rong1264

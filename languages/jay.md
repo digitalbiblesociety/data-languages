@@ -11,6 +11,7 @@ area: Australian Aboriginal language of the Crocodile Islands
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.08531
 longitude: 134.87665
 glottocode: yann1237

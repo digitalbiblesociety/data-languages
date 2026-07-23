@@ -11,6 +11,7 @@ area: Tepehua language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.61888
 longitude: -97.93472
 glottocode: hueh1236

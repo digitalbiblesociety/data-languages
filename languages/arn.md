@@ -11,6 +11,7 @@ area: Araucanian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -38.73917
 longitude: -71.27701
 scripts: [Latn]

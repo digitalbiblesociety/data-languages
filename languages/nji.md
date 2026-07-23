@@ -11,6 +11,7 @@ area: Extinct Mirndi language of Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.53489
 longitude: 134.39484
 glottocode: ngar1283

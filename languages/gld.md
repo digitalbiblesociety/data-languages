@@ -11,6 +11,7 @@ area: Tungusic language of eastern Russia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 48.43426
 longitude: 134.797255
 scripts: [Cyrl]

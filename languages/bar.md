@@ -10,6 +10,7 @@ area: Group of German varieties spoken in Bavaria and Austria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 47.923164
 longitude: 13.246026
 language_map_img: bar.webp

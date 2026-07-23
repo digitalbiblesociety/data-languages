@@ -10,6 +10,7 @@ area: Tano language of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.86161
 longitude: -4.47739
 glottocode: krob1245

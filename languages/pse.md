@@ -12,6 +12,7 @@ area: Austronesian spoken language in Indonesia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.79673
 longitude: 103.13721
 language_map_img: Barisan_lects.svg

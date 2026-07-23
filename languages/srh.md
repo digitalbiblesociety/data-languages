@@ -11,6 +11,7 @@ area: Iranian language spoken in China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 37.90501
 longitude: 75.14486
 language_map_img: Sarikoli_Language_in_Xinjiang.webp

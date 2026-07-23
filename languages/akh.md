@@ -11,6 +11,7 @@ area: Engan language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.13347
 longitude: 143.47808
 glottocode: anga1292

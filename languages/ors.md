@@ -10,6 +10,7 @@ location: Malaysia - Peninsular
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 1.45841
 longitude: 103.765635
 glottocode: oran1259

@@ -11,6 +11,7 @@ area: Plateau language of central Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.71442
 longitude: 8.45686
 glottocode: eggo1239

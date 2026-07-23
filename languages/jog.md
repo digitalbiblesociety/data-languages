@@ -9,6 +9,7 @@ area: Indo-European language spoken in Pakistan
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: urd
 wikidata_id: Q19572305
 wikipedia_url: "https://en.wikipedia.org/wiki/Jogi_language"
 translations:

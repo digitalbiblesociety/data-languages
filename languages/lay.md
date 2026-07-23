@@ -10,6 +10,7 @@ area: Bai language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 27.62373
 longitude: 98.46937
 glottocode: lama1289

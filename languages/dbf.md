@@ -11,6 +11,7 @@ area: "Lakes Plain language of West Papua, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.11078
 longitude: 137.38731
 glottocode: edop1238

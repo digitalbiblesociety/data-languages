@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.09085
 longitude: 142.73992
 glottocode: paka1251

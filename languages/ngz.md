@@ -11,6 +11,7 @@ area: Teke language of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.82055
 longitude: 15.62182
 glottocode: ngun1272

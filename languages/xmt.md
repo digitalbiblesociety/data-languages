@@ -11,6 +11,7 @@ area: "Austronesian language spoken in West Papua, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -1.8801
 longitude: 130.07501
 glottocode: matb1237

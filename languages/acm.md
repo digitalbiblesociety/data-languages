@@ -12,6 +12,7 @@ area: Continuum of mutually intelligible varieties of Arabic
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 33.817765
 longitude: 43.109463
 language_map_img: acm.webp

@@ -11,6 +11,7 @@ area: Sino-Tibetan language of Nepal and India
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 28.755375
 longitude: 85.76568
 glottocode: than1259

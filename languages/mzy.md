@@ -10,6 +10,7 @@ area: Deaf sign language of Mozambique
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -19.811
 longitude: 34.613
 glottocode: moza1235

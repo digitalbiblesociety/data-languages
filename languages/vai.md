@@ -11,6 +11,7 @@ area: Mande language of Liberia and Sierra Leone
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.050845
 longitude: -11.32618
 scripts: [Latn, Vaii]

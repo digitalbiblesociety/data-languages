@@ -12,6 +12,7 @@ area: Inuit language varieties spoken in Canada
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 64.34861
 longitude: -96.14797
 scripts: [Latn]

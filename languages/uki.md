@@ -10,6 +10,7 @@ area: Dravidian language spoken in Eastern India
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 language_map_img: Languages_of_Odisha.webp
 wikidata_id: Q33919
 wikipedia_url: "https://en.wikipedia.org/wiki/Kui_language_(India)"

@@ -11,6 +11,7 @@ area: Ijo language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.53194
 longitude: 6.69539
 glottocode: kala1381

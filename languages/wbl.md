@@ -11,6 +11,7 @@ area: Eastern Iranian language spoken by the Wakhi people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 37.176843
 longitude: 73.977698
 glottocode: wakh1245

@@ -11,6 +11,7 @@ area: Kwa language spoken in Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.20273
 longitude: -4.52192
 glottocode: apro1235

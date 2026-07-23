@@ -11,6 +11,7 @@ area: Gbaya language of the CAR
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 4.60014
 longitude: 18.03518
 glottocode: alii1240

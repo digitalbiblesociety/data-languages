@@ -11,6 +11,7 @@ area: Endangered indigenous language of Colombia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.65939
 longitude: -71.46289
 language_map_img: Nukak.webp

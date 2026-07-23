@@ -10,6 +10,7 @@ area: Austronesian language spoken on Sumatra
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -4.8652
 longitude: 103.5719
 glottocode: nasa1239

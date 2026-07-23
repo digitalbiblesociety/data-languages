@@ -11,6 +11,7 @@ area: "Qiangic language spoken in Yunnan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.66262
 longitude: 101.30511
 language_map_img: 500px-Pumi_language.webp

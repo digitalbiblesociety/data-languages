@@ -11,6 +11,7 @@ area: Chuukic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.35087
 longitude: 151.61718
 glottocode: mort1237

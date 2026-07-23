@@ -10,6 +10,7 @@ area: Trans–New Guinea language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.30218
 longitude: 145.09804
 glottocode: noma1262

@@ -10,6 +10,7 @@ area: Dayak language spoken on Borneo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.29738
 longitude: 110.64722
 glottocode: jang1257

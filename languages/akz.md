@@ -11,6 +11,7 @@ area: "Muskogean Language spoken in Texas, US"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 30.76738
 longitude: -94.62848
 scripts: [Latn]

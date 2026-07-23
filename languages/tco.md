@@ -11,6 +11,7 @@ area: Burmese dialect of southern Myanmar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.41039
 longitude: 96.74008
 glottocode: taun1248

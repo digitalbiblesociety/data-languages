@@ -12,6 +12,7 @@ area: "Romance language of northern Aragon, Spain"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 42.46695
 longitude: -0.00919
 scripts: [Latn]

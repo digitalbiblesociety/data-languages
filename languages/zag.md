@@ -11,6 +11,7 @@ area: "Nilo-Saharan language spoken in Chad, Libya, and Sudan"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.48424
 longitude: 23.462557
 scripts: [Latn]

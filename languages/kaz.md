@@ -12,6 +12,7 @@ area: Turkic language mostly spoken in Kazakhstan
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: kaz
 latitude: 41.872878
 longitude: 65.770909
 language_map_img: kaz.webp

@@ -11,6 +11,7 @@ area: Language spoken by the Warruwi people of Northern Territory
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.83927
 longitude: 133.18481
 glottocode: maun1240

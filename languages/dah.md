@@ -11,6 +11,7 @@ area: Finisterre language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.64555
 longitude: 146.45496
 glottocode: gwah1244

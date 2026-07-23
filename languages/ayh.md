@@ -12,6 +12,7 @@ area: Variety of the Arabic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 15.44676
 longitude: 48.65241
 language_map_img: Hadhrami_Arabic.svg

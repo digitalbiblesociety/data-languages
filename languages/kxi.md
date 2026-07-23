@@ -11,6 +11,7 @@ area: Murutic language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.42272
 longitude: 116.19843
 glottocode: keni1249

@@ -11,6 +11,7 @@ area: "Language of the Tenggerese people of East Java, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -7.89069
 longitude: 113.03667
 glottocode: teng1272

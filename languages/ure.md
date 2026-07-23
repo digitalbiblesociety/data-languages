@@ -11,6 +11,7 @@ area: Uru–Chipaya language spoken in Bolivia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -16.72547
 longitude: -68.97119
 glottocode: uruu1244

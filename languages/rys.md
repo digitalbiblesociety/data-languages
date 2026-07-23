@@ -11,6 +11,7 @@ area: Southern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 24.34006
 longitude: 123.80106
 language_map_img: 500px-Yaeyama_map.webp

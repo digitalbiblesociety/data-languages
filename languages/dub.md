@@ -11,6 +11,7 @@ area: "Bhil language of Gujarat, India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.51607
 longitude: 73.218
 glottocode: dubl1239

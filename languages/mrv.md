@@ -11,6 +11,7 @@ area: Oceanic language spoken in French Polynesia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -23.10953
 longitude: -134.97034
 glottocode: mang1401

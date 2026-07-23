@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q16960599
 wikipedia_url: "https://en.wikipedia.org/wiki/Dhungaloo_language"
 translations:

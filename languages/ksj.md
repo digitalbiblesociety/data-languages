@@ -11,6 +11,7 @@ area: Kwalean language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.69571
 longitude: 147.68747
 glottocode: uare1241

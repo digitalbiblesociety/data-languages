@@ -11,6 +11,7 @@ area: "Oceanic language of Manus Province, Papua New Guinea"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.5604
 longitude: 147.28194
 glottocode: balu1257

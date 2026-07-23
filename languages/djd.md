@@ -11,6 +11,7 @@ area: Mirndi language of Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -15.05583
 longitude: 130.0598
 glottocode: djam1255

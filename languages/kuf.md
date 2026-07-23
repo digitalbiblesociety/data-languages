@@ -11,6 +11,7 @@ area: Katuic language spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 15.79493
 longitude: 107.16609
 glottocode: west2398

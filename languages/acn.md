@@ -11,6 +11,7 @@ area: Tibeto-Burman language of China and Myanmar
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.3479
 longitude: 97.74383
 glottocode: acha1249

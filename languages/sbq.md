@@ -11,6 +11,7 @@ area: Madang language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.98243
 longitude: 145.22499
 glottocode: sile1255

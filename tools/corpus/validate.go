@@ -28,6 +28,7 @@ var CanonicalOrder = []string{
 	"status_id",
 	"scope",
 	"language_type",
+	"iso_lwc",
 	"latitude",
 	"longitude",
 	"language_map_img",
@@ -184,6 +185,10 @@ func validateValue(e Entry) string {
 		if !reISO.MatchString(v) {
 			return fmt.Sprintf("value %q must be three lowercase letters (ISO 639-3)", v)
 		}
+	case "iso_lwc":
+		if !reISO.MatchString(v) {
+			return fmt.Sprintf("value %q must be three lowercase letters (ISO 639-3)", v)
+		}
 	case "scope":
 		if !oneOf(v, scopeValues) {
 			return fmt.Sprintf("value %q not in %v", v, scopeValues)
@@ -335,4 +340,3 @@ func listMarkdown(dir string) ([]string, error) {
 	}
 	return out, nil
 }
-

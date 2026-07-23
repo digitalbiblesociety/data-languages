@@ -11,6 +11,7 @@ area: Semitic language of eastern Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 9.30485
 longitude: 42.13324
 glottocode: hara1271

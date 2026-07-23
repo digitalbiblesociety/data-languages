@@ -12,6 +12,7 @@ area: Official language of Myanmar
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.792575
 longitude: 93.96649
 language_map_img: Idioma_birmano.webp

@@ -12,6 +12,7 @@ area: "Afro-Asiatic language spoken in Ethiopia, Djibouti and Eritrea"
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 12.228107
 longitude: 41.808293
 scripts: [Latn]

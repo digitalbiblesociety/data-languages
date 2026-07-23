@@ -10,6 +10,7 @@ location: Southwestern Chad
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.46683
 longitude: 16.25498
 glottocode: goun1238

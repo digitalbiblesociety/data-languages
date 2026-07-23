@@ -11,6 +11,7 @@ area: Kalenjin language of eastern Uganda
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1.33197
 longitude: 34.59914
 glottocode: kups1238

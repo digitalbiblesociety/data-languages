@@ -11,6 +11,7 @@ area: Nilotic language of Ethiopia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.39809
 longitude: 35.62324
 glottocode: nyan1315

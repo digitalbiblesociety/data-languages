@@ -11,6 +11,7 @@ area: Eastern Pauwasi language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.74954
 longitude: 141.09822
 glottocode: kark1258

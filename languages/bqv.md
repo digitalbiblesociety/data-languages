@@ -11,6 +11,7 @@ area: Plateau dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.40519
 longitude: 7.59566
 scripts: [Latn]

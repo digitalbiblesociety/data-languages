@@ -11,6 +11,7 @@ area: Gur language subgroup of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.78465
 longitude: -2.90623
 glottocode: malb1235

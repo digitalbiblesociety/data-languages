@@ -10,6 +10,7 @@ area: "Group of Westphalian, Dutch Low Saxon dialects"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.29257
 longitude: 6.77085
 glottocode: twen1241

@@ -10,6 +10,7 @@ area: Trans–New Guinea language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.763
 longitude: 144.51779
 glottocode: niii1240

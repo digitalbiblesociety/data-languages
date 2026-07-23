@@ -5,6 +5,7 @@ country_id: CR
 country_name: Costa Rica
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 9.4
 longitude: -83.05
 glottocode: brib1244

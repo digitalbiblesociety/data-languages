@@ -11,6 +11,7 @@ area: Tibetic language spoken in Tibet
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.29215
 longitude: 85.42574
 glottocode: kyer1238

@@ -12,6 +12,7 @@ area: Tuareg Berber language of Mali and Niger
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.98783
 longitude: 4.47692
 language_map_img: Tawellemmet.svg

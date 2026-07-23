@@ -11,6 +11,7 @@ area: East New Britain language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.44425
 longitude: 152.09499
 glottocode: taul1251

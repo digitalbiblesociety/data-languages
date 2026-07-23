@@ -9,6 +9,7 @@ country_name: Senegal
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: fra
 scripts: [Adlm, Latn]
 wikidata_id: Q33454
 wikipedia_url: "https://en.wikipedia.org/wiki/Fula_language"

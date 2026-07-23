@@ -11,6 +11,7 @@ area: Ngatikese–English Creole of Micronesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.77982
 longitude: 157.16092
 glottocode: ngat1248

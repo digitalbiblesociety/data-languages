@@ -11,6 +11,7 @@ area: "Extinct Maiduan language of northeastern California, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 40.41023
 longitude: -120.64525
 glottocode: nort2952

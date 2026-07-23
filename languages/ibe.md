@@ -11,6 +11,7 @@ area: Endangered language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.50256
 longitude: 5.95559
 glottocode: akpe1248

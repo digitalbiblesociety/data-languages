@@ -11,6 +11,7 @@ area: Ekoid language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.54442
 longitude: 8.90959
 language_map_img: Map_of_the_Ekoid_languages.webp

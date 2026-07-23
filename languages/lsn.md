@@ -9,6 +9,7 @@ area: Deaf sign language of Tibet
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 29.651803
 longitude: 91.157981
 glottocode: tibe1277

@@ -11,6 +11,7 @@ area: "Hmongic language spoken in Guangxi, China"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 25.76381
 longitude: 110.47396
 glottocode: youn1235

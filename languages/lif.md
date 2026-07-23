@@ -11,6 +11,7 @@ area: Yakthung language of eastern Nepal and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.270335
 longitude: 87.885935
 language_map_img: 500px-Limbu.map.webp

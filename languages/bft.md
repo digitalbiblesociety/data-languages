@@ -11,6 +11,7 @@ area: "Tibetic language of Baltistan, Pakistan"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 34.449115
 longitude: 77.28594
 scripts: [Arab, Tibt]

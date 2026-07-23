@@ -11,6 +11,7 @@ area: Indigenous language isolate spoken in the Western United States
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.81841
 longitude: -119.6403
 language_map_img: 500px-Washo_lang.webp

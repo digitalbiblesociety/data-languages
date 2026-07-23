@@ -11,6 +11,7 @@ area: Oceanic language of New Caledonia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -21.8147
 longitude: 165.79163
 glottocode: tiri1258

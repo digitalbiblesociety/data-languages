@@ -11,6 +11,7 @@ area: Sahaptian language in the United States
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 44.79848
 longitude: -121.43977
 glottocode: teni1238

@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Myanmar and Thailand
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.91166
 longitude: 99.58207
 glottocode: mokk1243

@@ -10,6 +10,7 @@ area: "Language spoken in Morobe Province, Papua New Guinea"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.46208
 longitude: 146.74694
 glottocode: mung1272

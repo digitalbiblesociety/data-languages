@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.74455
 longitude: 9.72453
 glottocode: goem1240

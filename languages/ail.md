@@ -11,6 +11,7 @@ area: Bosavi language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.68656
 longitude: 142.65551
 glottocode: aime1238

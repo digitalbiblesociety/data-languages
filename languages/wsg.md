@@ -11,6 +11,7 @@ area: Dravidian language spoken in India
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.75
 longitude: 80.2
 language_map_img: Gondi_language_map.svg

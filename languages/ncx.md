@@ -11,6 +11,7 @@ area: "Nahuan language of Puebla, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.75453
 longitude: -98.12635
 glottocode: cent2133

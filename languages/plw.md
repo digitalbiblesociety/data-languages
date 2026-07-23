@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 8.83891
 longitude: 117.87051
 glottocode: broo1239

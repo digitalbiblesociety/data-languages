@@ -11,6 +11,7 @@ area: Chinantecan language of Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.79638
 longitude: -96.31873
 glottocode: vall1253

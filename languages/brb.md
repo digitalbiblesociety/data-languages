@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Cambodia and Laos
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 14.59942
 longitude: 107.00836
 language_map_img: 500px-Brao_language.webp

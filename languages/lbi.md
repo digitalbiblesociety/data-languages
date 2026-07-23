@@ -10,6 +10,7 @@ area: Ritual language spoken in Cameroon
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.85817
 longitude: 15.28952
 glottocode: labi1244

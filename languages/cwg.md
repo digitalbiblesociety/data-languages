@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.83331
 longitude: 102.08116
 language_map_img: SemaiMap.webp

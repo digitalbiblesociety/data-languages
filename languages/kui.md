@@ -11,6 +11,7 @@ area: Cariban language spken in Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.3035
 longitude: -53.22611
 glottocode: kuik1246

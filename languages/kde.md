@@ -11,6 +11,7 @@ area: Bantu language spoken in East Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -10.990575
 longitude: 39.51331
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Plateau language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.81552
 longitude: 10.10905
 glottocode: beez1238

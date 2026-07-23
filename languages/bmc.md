@@ -10,6 +10,7 @@ area: Oceanic language spoken in New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.61342
 longitude: 144.81585
 glottocode: biem1237

@@ -11,6 +11,7 @@ area: Manus language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.09163
 longitude: 147.06391
 glottocode: kele1258

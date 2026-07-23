@@ -12,6 +12,7 @@ area: Dialect of the Kanuri language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 11.886274
 longitude: 16.391838
 language_map_img: knc.webp

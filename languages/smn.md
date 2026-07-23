@@ -11,6 +11,7 @@ area: Endangered Uralic language of Finland
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: fin
 latitude: 69.42289
 longitude: 27.86583
 language_map_img: Inari-SamiLanguageLocatorMap.svg

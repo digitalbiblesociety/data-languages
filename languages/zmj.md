@@ -11,6 +11,7 @@ area: "Endangered Aboriginal language spoken in Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -13.87537
 longitude: 129.84387
 glottocode: mari1421

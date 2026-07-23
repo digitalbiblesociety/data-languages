@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in Nepal
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 27.54803
 longitude: 85.0074
 glottocode: koch1253

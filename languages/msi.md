@@ -11,6 +11,7 @@ area: Languages descended from Low Malay
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.64808
 longitude: 117.02407
 language_map_img: 500px-Malay_varieties_in_Southeast_Asia.webp

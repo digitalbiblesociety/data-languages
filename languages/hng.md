@@ -10,6 +10,7 @@ area: Bantu language spoken in Angola and DRC
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -9.164628
 longitude: 18.192062
 glottocode: hung1280

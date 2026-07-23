@@ -11,6 +11,7 @@ area: "Munda language of Uttar Pradesh, India"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 22.87916
 longitude: 83.61376
 glottocode: majh1236

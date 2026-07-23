@@ -10,6 +10,7 @@ area: Extinct Australian Aboriginal language
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.11468
 longitude: 140.33745
 glottocode: maya1280

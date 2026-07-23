@@ -11,6 +11,7 @@ area: "Niger–Congo language of Kordofan, Sudan"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.59398
 longitude: 31.15736
 glottocode: warn1244

@@ -10,6 +10,7 @@ area: Rhaeto-Romance language of northeast Italy
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 46.60651
 longitude: 11.89498
 scripts: [Latn]

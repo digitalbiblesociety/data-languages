@@ -11,6 +11,7 @@ area: Volta–Niger dialect cluster of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.56324
 longitude: 5.89556
 glottocode: arig1246

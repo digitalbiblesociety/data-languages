@@ -11,6 +11,7 @@ area: Endangered Afro-Asiatic language of Chad
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.69795
 longitude: 18.62822
 glottocode: mabi1242

@@ -11,6 +11,7 @@ area: Eastern Nilotic language of South Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.16379
 longitude: 32.6641
 glottocode: otuh1238

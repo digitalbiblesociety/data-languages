@@ -11,6 +11,7 @@ area: Yam language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.74501
 longitude: 141.93052
 glottocode: namb1293

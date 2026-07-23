@@ -11,6 +11,7 @@ area: Papuan Gulf language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -7.30342
 longitude: 143.61799
 glottocode: ikob1240

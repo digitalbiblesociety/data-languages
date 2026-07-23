@@ -11,6 +11,7 @@ area: Thai language related to standard Thai and Lao
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 18.857495
 longitude: 100.20739
 language_map_img: nod.webp

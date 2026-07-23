@@ -11,6 +11,7 @@ area: Mambiloid language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.43829
 longitude: 11.41953
 glottocode: came1252

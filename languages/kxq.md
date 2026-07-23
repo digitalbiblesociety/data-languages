@@ -11,6 +11,7 @@ area: Yam language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.91812
 longitude: 140.89703
 glottocode: smar1235

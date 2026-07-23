@@ -11,6 +11,7 @@ area: Northern Je language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -7.77352
 longitude: -51.67367
 glottocode: kaya1330

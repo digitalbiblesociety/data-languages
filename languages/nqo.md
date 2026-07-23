@@ -10,6 +10,7 @@ area: Standardized Manding koiné of West Africa
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 scripts: [Nkoo]
 glottocode: nkoa1234
 glottolog_family_id: arti1236

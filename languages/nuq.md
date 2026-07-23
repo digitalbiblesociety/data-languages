@@ -10,6 +10,7 @@ area: Endangered Polynesian language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.61878
 longitude: 159.46436
 language_map_img: 500px-Nukumanu_STS099-725-41.webp

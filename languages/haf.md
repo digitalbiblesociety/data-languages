@@ -11,6 +11,7 @@ area: "Deaf sign language of Haiphong, Vietnam"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 20.8537
 longitude: 106.68927
 glottocode: haip1238

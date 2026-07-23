@@ -12,6 +12,7 @@ area: Language in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.077812
 longitude: 104.714355
 glottocode: haji1235

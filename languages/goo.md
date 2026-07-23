@@ -11,6 +11,7 @@ area: East Fijian language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -16.58861
 longitude: 178.59889
 glottocode: gone1237

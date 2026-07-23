@@ -11,6 +11,7 @@ area: Yuman language spoken in Mexico
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 31.60625
 longitude: -115.87053
 glottocode: paip1241

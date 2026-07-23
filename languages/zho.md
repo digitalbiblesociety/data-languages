@@ -10,6 +10,7 @@ country_name: China
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: cmn
 scripts: [Bopo, Hans, Hant, Latn, Phag]
 wikidata_id: Q7850
 wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_language"

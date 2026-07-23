@@ -12,6 +12,7 @@ area: Endangered Arabic languages of Central Asia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: uzn
 latitude: 40.26116
 longitude: 65.38644
 language_map_img: 500px-Central_Asian_Arabic_enclaves.webp

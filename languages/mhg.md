@@ -11,6 +11,7 @@ area: Extinct language of Australia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.18231
 longitude: 132.58697
 language_map_img: Marrgu_language.webp

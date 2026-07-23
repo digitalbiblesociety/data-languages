@@ -11,6 +11,7 @@ area: Eastern Grassfields language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.58608
 longitude: 10.980185
 glottocode: limb1268

@@ -11,6 +11,7 @@ area: Tupi language spoken in South America
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -4.5
 longitude: -74
 language_map_img: 500px-Cocama.webp

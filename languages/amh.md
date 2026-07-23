@@ -12,6 +12,7 @@ area: Semitic language of Ethiopia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 11.708182
 longitude: 39.543456
 language_map_img: amh.webp

@@ -11,6 +11,7 @@ area: Uto-Aztecan language spoken in Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 27.86854
 longitude: -108.43724
 language_map_img: Chihuahua_Etnias_Autoctonas.webp

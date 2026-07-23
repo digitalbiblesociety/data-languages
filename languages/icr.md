@@ -11,6 +11,7 @@ area: English-based creole language of the Afro-Caribbean Raizal people in Colom
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 12.55352
 longitude: -81.70425
 glottocode: sana1297

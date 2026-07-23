@@ -9,6 +9,7 @@ area: Southern Loloish language of northern Laos
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 22.1749
 longitude: 101.7501
 glottocode: chep1243

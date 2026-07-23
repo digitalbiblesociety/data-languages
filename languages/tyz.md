@@ -11,6 +11,7 @@ area: Tai language of Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 21.64483
 longitude: 106.16715
 glottocode: tayy1238

@@ -11,6 +11,7 @@ area: Dravidian language of Kerala and Tamil Nadu
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 11.0602
 longitude: 76.72846
 glottocode: kada1242

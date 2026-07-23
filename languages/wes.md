@@ -10,6 +10,7 @@ area: English-based creole of Cameroon
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.43932
 longitude: 9.80166
 glottocode: came1254

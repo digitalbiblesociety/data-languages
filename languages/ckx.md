@@ -10,6 +10,7 @@ area: Tivoid language spoken in Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.26979
 longitude: 9.77746
 glottocode: caka1240

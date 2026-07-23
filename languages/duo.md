@@ -11,6 +11,7 @@ area: Austronesian language of the Philippines
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 17.37477
 longitude: 122.18812
 language_map_img: 500px-Dupangingan_Agta_language_map.webp

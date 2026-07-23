@@ -11,6 +11,7 @@ area: Arawakan subfamily of northeastern Bolivia
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -15.33313
 longitude: -65.40956
 glottocode: trin1274

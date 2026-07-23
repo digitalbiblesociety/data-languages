@@ -11,6 +11,7 @@ area: Language spoken in Cameroon and Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.85716
 longitude: 9.962605
 glottocode: akum1238

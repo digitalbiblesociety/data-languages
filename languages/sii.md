@@ -11,6 +11,7 @@ area: Nicobarese language of Great Nicobar Island
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 7.02099
 longitude: 93.80636
 glottocode: shom1245

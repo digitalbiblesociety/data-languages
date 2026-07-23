@@ -10,6 +10,7 @@ area: "Language of Arunachal Pradesh, India"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.688
 longitude: 96.349
 glottocode: nefa1235

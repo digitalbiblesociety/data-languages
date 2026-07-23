@@ -11,6 +11,7 @@ area: Keram language spoken in Papua New Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.23181
 longitude: 144.28479
 glottocode: amba1269

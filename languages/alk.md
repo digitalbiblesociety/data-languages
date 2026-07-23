@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 15.5565
 longitude: 106.59719
 glottocode: alak1253

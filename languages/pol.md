@@ -12,6 +12,7 @@ area: West Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: pol
 latitude: 51.843923
 longitude: 18.625487
 language_map_img: Polish_language_map.webp

@@ -11,6 +11,7 @@ area: Polynesian Outlier language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.83
 longitude: 155
 glottocode: nuku1260

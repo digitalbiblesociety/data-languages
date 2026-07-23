@@ -11,6 +11,7 @@ area: Northern Athabaskan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 62.38234
 longitude: -114.19257
 scripts: [Latn]

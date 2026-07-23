@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.27608
 longitude: 83.16136
 language_map_img: 500px-Halbi_map.webp

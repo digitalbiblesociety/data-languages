@@ -11,6 +11,7 @@ area: Athabaskan language spoken in northwestern Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 58.36372
 longitude: -110.83177
 scripts: [Cans, Latn]

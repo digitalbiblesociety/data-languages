@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.67364
 longitude: 146.66168
 glottocode: wamp1247

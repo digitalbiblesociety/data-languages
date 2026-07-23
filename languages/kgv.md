@@ -11,6 +11,7 @@ area: Berau Gulf language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -3.47037
 longitude: 132.67789
 glottocode: kara1499

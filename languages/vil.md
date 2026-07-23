@@ -10,6 +10,7 @@ area: Extinct language of Argentina
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -27.40626
 longitude: -58.96612
 glottocode: vile1241

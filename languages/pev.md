@@ -10,6 +10,7 @@ area: Extinct language of Venezuela
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.248
 longitude: -66.082
 glottocode: pemo1245

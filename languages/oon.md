@@ -11,6 +11,7 @@ area: Ongan language of Little Andaman Island
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 10.69263
 longitude: 92.47067
 glottocode: onge1236

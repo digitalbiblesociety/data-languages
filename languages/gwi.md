@@ -11,6 +11,7 @@ area: Athabaskan language of the Gwich’in indigenous people
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 67.43067
 longitude: -142.962745
 scripts: [Latn]

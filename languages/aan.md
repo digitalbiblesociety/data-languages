@@ -11,6 +11,7 @@ area: Endangered Tupian language of Brazil
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -2.71119
 longitude: -49.30296
 language_map_img: 500px-Tupi_languages.webp

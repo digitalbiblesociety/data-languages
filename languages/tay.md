@@ -11,6 +11,7 @@ area: Austronesian language spoken in Taiwan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 24.52089
 longitude: 121.38819
 language_map_img: Atayal.svg

@@ -10,6 +10,7 @@ area: Indo-Iranian language of Iraq
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 36.375
 longitude: 43.144
 glottocode: shab1251

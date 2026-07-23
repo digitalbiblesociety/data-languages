@@ -11,6 +11,7 @@ area: Foja Range language spoken in Indonesia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.31915
 longitude: 139.67311
 glottocode: mare1261

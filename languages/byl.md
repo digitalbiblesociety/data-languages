@@ -10,6 +10,7 @@ area: Papuan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.21728
 longitude: 139.61748
 glottocode: bayo1260

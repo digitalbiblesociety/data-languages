@@ -11,6 +11,7 @@ area: Kra–Dai language spoken in Myanmar and India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 27.6653
 longitude: 97.035915
 language_map_img: 500px-Khamti_language.webp

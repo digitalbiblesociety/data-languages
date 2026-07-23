@@ -11,6 +11,7 @@ area: Language of Cameroon and Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.26797
 longitude: 13.27068
 glottocode: kolb1240

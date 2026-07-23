@@ -11,6 +11,7 @@ area: Ok language spoken in Indonesia and Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.42956
 longitude: 141.21262
 glottocode: yong1280

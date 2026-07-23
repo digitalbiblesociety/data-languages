@@ -11,6 +11,7 @@ area: Endangered Cariban language spoken in Colombia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.21894
 longitude: -72.06635
 language_map_img: Carijona.webp

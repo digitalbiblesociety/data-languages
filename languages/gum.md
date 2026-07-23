@@ -11,6 +11,7 @@ area: Barbacoan language spoken in Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.55849
 longitude: -76.58197
 glottocode: guam1248

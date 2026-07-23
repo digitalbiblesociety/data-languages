@@ -6,6 +6,7 @@ country_id: TZ
 country_name: Tanzania
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -8.94
 longitude: 36.13
 glottocode: ndwe1234

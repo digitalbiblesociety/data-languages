@@ -8,6 +8,7 @@ country_id: BD
 country_name: Bangladesh
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 22.64424
 longitude: 91.08214
 wikidata_id: Q107548681

@@ -11,6 +11,7 @@ area: Niger-Congo language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.78323
 longitude: 12.07192
 glottocode: voro1240

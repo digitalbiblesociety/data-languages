@@ -11,6 +11,7 @@ area: Eastern Sudanic language spoken in Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.8275
 longitude: 29.3898
 glottocode: nucl1339

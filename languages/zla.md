@@ -7,6 +7,7 @@ country_id: CD
 country_name: DR Congo
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.584
 longitude: 26.74
 glottocode: zula1235

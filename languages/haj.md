@@ -11,6 +11,7 @@ area: Indo-Aryan language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.51429
 longitude: 89.85938
 glottocode: hajo1238

@@ -9,6 +9,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 scripts: [Deva, Latn]
 wikidata_id: Q34239
 wikipedia_url: "https://en.wikipedia.org/wiki/Konkani_language"

@@ -11,6 +11,7 @@ area: Ubangian language of the CAR and DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 4.68467
 longitude: 20.26086
 glottocode: gban1258

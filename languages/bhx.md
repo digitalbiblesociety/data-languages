@@ -10,6 +10,7 @@ area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 21.2665
 longitude: 77.82676
 glottocode: bhal1245

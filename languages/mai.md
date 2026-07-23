@@ -11,6 +11,7 @@ area: Indo-Aryan language spoken in India and Nepal
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.381655
 longitude: 86.22114
 language_map_img: mai.webp

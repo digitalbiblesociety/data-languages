@@ -11,6 +11,7 @@ area: Delta language spoken in Mexico and US
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 32.375965
 longitude: -114.84778
 glottocode: coco1261

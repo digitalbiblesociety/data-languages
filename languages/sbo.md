@@ -10,6 +10,7 @@ area: Austroasiatic language spoken in Malaysia
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.34694
 longitude: 101.06484
 glottocode: sabu1253

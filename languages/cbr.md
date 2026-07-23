@@ -11,6 +11,7 @@ area: Panoan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -8.70232
 longitude: -75.42062
 glottocode: cash1251

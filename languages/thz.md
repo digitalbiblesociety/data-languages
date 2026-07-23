@@ -12,6 +12,7 @@ area: Tuareg Berber language of Niger
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 16.92319
 longitude: 7.6743
 glottocode: taya1257

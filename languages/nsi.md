@@ -10,6 +10,7 @@ area: Dialects and descendants of American Sign Language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.49997
 longitude: 3.16664
 glottocode: nige1240

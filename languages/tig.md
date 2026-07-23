@@ -11,6 +11,7 @@ area: Semitic language spoken in the Horn of Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tir
 latitude: 17.34943
 longitude: 38.22327
 scripts: [Ethi]

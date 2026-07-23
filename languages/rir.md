@@ -11,6 +11,7 @@ area: Dayak language of Borneo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.32189
 longitude: 110.20707
 glottocode: ribu1241

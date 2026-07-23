@@ -11,6 +11,7 @@ area: Zenati Berber language spoken in Algeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 35.18674
 longitude: 6.88901
 language_map_img: 500px-Shawiya_dialects.webp

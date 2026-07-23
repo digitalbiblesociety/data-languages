@@ -11,6 +11,7 @@ area: Dumut language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.34647
 longitude: 140.60387
 glottocode: ketu1238

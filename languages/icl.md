@@ -10,6 +10,7 @@ area: Deaf sign language of Iceland
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: isl
 latitude: 64.17306
 longitude: -20.27305
 glottocode: icel1236

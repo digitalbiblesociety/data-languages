@@ -11,6 +11,7 @@ area: Savanna language spoken in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.53256
 longitude: 11.49724
 glottocode: tsoo1241

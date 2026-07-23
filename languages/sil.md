@@ -11,6 +11,7 @@ area: Gur language cluster spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.63451
 longitude: -1.79707
 glottocode: tumu1242

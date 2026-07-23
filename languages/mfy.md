@@ -11,6 +11,7 @@ area: Uto-Aztecan language of the Americas
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 26.45218
 longitude: -108.98106
 glottocode: mayo1264

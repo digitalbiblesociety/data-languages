@@ -11,6 +11,7 @@ area: Indo-Aryan language of Central Pahari branch spoken in India and Nepal
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 29.562155
 longitude: 80.0171
 scripts: [Deva]

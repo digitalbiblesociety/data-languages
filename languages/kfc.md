@@ -10,6 +10,7 @@ location: "India, Map 7"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 18.26754
 longitude: 82.93402
 glottocode: kond1295

@@ -12,6 +12,7 @@ area: "Saharan dialect continuum of Nigeria, Niger, Chad and Cameroon"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 13.55701
 longitude: 10.70102
 language_map_img: Kanuri_languages_map_001.webp

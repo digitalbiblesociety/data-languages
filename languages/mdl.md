@@ -9,6 +9,7 @@ area: Deaf sign language of Malta
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mlt
 latitude: 35.90695
 longitude: 14.48244
 glottocode: malt1238

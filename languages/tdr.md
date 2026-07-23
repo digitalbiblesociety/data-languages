@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 14.5672
 longitude: 108.11401
 language_map_img: 500px-Todrah_language.webp

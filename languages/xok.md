@@ -11,6 +11,7 @@ area: Macro-Jê language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -26.92172
 longitude: -49.58861
 glottocode: xokl1240

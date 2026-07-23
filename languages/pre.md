@@ -11,6 +11,7 @@ area: Portuguese-based creole of São Tomé and Príncipe
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.614
 longitude: 7.392
 glottocode: prin1242

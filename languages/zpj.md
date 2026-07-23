@@ -11,6 +11,7 @@ location: Eastern Central Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.75649
 longitude: -95.67611
 glottocode: quia1235

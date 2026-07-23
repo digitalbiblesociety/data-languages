@@ -11,6 +11,7 @@ area: Austronesian language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -9.55099
 longitude: 119.34902
 glottocode: weje1237

@@ -11,6 +11,7 @@ area: Omotic language spoken in Ethiopia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 6.45774
 longitude: 36.57628
 glottocode: bask1236

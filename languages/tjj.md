@@ -9,6 +9,7 @@ area: Extinct Australian Aboriginal language
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.032
 longitude: 141.846
 glottocode: yang1305

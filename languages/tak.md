@@ -11,6 +11,7 @@ area: Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.23301
 longitude: 9.85457
 glottocode: tala1295

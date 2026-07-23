@@ -10,6 +10,7 @@ location: Southwestern China
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 24.942535
 longitude: 99.8338
 glottocode: maru1249

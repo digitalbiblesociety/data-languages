@@ -11,6 +11,7 @@ area: Loloish language cluster of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.05
 longitude: 103.7
 glottocode: bokh1237

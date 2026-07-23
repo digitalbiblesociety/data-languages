@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Myanmar and China
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 22.865825
 longitude: 99.375035
 glottocode: para1301

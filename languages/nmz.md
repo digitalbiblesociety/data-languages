@@ -11,6 +11,7 @@ area: African language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.17037
 longitude: 0.58553
 glottocode: nawd1238

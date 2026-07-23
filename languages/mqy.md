@@ -11,6 +11,7 @@ area: "Austronesian language spoken in Flores, Indonesia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -8.55748
 longitude: 120.32889
 language_map_img: 500px-Location_East_Nusa_Tenggara_Greater_Manggarai.webp

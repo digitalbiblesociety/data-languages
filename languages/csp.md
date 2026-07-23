@@ -12,6 +12,7 @@ area: Branch of Chinese spoken in Guangxi
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.011
 longitude: 108.093
 glottocode: sout3250

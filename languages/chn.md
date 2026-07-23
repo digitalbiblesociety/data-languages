@@ -10,6 +10,7 @@ area: Pidgin trade language from the Pacific Northwest
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 55
 longitude: -125
 scripts: [Latn]

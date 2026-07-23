@@ -10,6 +10,7 @@ area: Alemannic dialect
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 10.48533
 longitude: -67.25787
 glottocode: colo1254

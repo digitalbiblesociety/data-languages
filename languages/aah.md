@@ -11,6 +11,7 @@ area: Arapesh language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.461612
 longitude: 142.917031
 glottocode: abua1245

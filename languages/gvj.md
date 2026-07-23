@@ -11,6 +11,7 @@ area: Tupi–Guarani language spoken in Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -3.93574
 longitude: -46.36829
 glottocode: guaj1256

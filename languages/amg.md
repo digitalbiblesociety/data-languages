@@ -11,6 +11,7 @@ area: "Endangered Iwaidjan language of Australia's Northern Territory"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -11.98757
 longitude: 132.87768
 glottocode: amar1271

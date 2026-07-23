@@ -11,6 +11,7 @@ area: Guaicuruan language spoken in Argentina
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.00585
 longitude: -60.15372
 glottocode: pila1245

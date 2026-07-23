@@ -11,6 +11,7 @@ area: Language spoken in parts of Bangladesh
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 20.831
 longitude: 93.1695
 language_map_img: Bengali_dialects_political_map.svg

@@ -11,6 +11,7 @@ area: Siouan language of North America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.75341
 longitude: -102.52777
 glottocode: hida1246

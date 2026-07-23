@@ -11,6 +11,7 @@ area: Macro-Jê language spoken by indigenous people of Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -6.10774
 longitude: -47.63153
 glottocode: apin1244

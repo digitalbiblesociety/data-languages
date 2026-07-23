@@ -11,6 +11,7 @@ area: "Sino-Tibetan languages of Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.28537
 longitude: 94.07232
 glottocode: mari1416

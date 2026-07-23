@@ -12,6 +12,7 @@ area: Bantu language of Uganda
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 0.66884
 longitude: 32.15153
 language_map_img: lug.webp

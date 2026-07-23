@@ -11,6 +11,7 @@ area: Polynesian language of Rapa Nui (Easter Island)
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -27.11299
 longitude: -109.34249
 scripts: [Latn]

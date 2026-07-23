@@ -11,6 +11,7 @@ area: Indigenous language of the Kamëntšá people of Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.14537
 longitude: -76.8931
 glottocode: cams1241

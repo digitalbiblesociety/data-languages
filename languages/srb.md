@@ -11,6 +11,7 @@ area: Munda language spoken in eastern India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.12127
 longitude: 84.19005
 scripts: [Latn, Sora]

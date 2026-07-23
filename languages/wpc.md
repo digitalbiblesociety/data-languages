@@ -11,6 +11,7 @@ area: Piaroan language spoken in South America
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.5621
 longitude: -66.58126
 language_map_img: 500px-Maco_langue.webp

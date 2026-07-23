@@ -12,6 +12,7 @@ area: Arabic variety spoken in the Levant
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 34.170933
 longitude: 36.046843
 language_map_img: Levantine_Arabic_2023.svg

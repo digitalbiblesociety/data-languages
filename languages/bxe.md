@@ -11,6 +11,7 @@ area: Moribund unclassified language of Ethiopia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 5.29807
 longitude: 37.02496
 glottocode: bira1253

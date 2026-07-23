@@ -11,6 +11,7 @@ area: Mande language of Guinea and Liberia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.73729
 longitude: -10.1684
 glottocode: band1352

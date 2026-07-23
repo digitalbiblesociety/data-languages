@@ -11,6 +11,7 @@ location: Southern Central Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.66328
 longitude: -96.85754
 glottocode: ayoq1235

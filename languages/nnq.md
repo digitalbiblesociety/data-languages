@@ -10,6 +10,7 @@ location: Tanzania
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -9.78145
 longitude: 37.98316
 glottocode: ngin1244

@@ -11,6 +11,7 @@ area: Extinct language of northeastern Nigeria
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.59433
 longitude: 11.58534
 glottocode: cent2045

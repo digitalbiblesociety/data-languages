@@ -10,6 +10,7 @@ area: Deaf sign language of Trinidad and Tobago
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.666667
 longitude: -61.516667
 glottocode: trin1277

@@ -11,6 +11,7 @@ area: Ndu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.30064
 longitude: 143.31566
 language_map_img: East_Sepik_in_Papua_New_Guinea.svg

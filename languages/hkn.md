@@ -9,6 +9,7 @@ area: Bahnaric language of Cambodia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: khm
 latitude: 12.95
 longitude: 106.31
 glottocode: melk1242

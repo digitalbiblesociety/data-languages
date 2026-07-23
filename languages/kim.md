@@ -11,6 +11,7 @@ area: Moribund Northeastern Turkic language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 53.7145
 longitude: 98.37923
 language_map_img: 500px-Tofalaria.webp

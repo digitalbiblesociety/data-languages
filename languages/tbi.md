@@ -10,6 +10,7 @@ location: Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.46742
 longitude: 33.97968
 glottocode: gaam1241

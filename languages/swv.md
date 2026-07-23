@@ -12,6 +12,7 @@ area: "Indo-Aryan language of Rajasthan, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.34
 longitude: 75.407
 scripts: [Deva]

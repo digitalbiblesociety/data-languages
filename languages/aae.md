@@ -11,6 +11,7 @@ area: Albanian linguistic varieties of Italy
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 38.91104
 longitude: 16.71645
 language_map_img: Albanian_dialects.svg

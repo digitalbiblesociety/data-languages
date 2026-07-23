@@ -11,6 +11,7 @@ area: Eastern Nilotic language of Kenya and Ethiopia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 4.306875
 longitude: 35.71012
 glottocode: turk1308

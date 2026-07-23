@@ -10,6 +10,7 @@ location: Southern Democratic Republic of Congo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -3.69695
 longitude: 18.43121
 glottocode: hung1278

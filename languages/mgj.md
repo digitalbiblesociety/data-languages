@@ -10,6 +10,7 @@ area: Central ijaw language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.62301
 longitude: 6.50634
 glottocode: abur1244

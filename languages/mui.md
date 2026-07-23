@@ -12,6 +12,7 @@ area: Malayic variety spoken in southern Sumatera
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.93987
 longitude: 103.94461
 language_map_img: Musi_lects.svg

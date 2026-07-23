@@ -11,6 +11,7 @@ area: Kipchak Turkic language with Hebrew influences
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: lit
 latitude: 54.5534
 longitude: 25.10545
 glottocode: kara1464

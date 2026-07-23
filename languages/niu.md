@@ -10,6 +10,7 @@ area: Polynesian language of Niue
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: niu
 latitude: -19.05
 longitude: -170.12
 scripts: [Latn]

@@ -12,6 +12,7 @@ area: Western Ibero-Romance language
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 42.244575
 longitude: -7.534295
 scripts: [Latn]

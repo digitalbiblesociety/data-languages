@@ -7,6 +7,7 @@ country_id: BI
 country_name: Burundi
 scope: individual
 language_type: living
+iso_lwc: run
 latitude: -3.3731
 longitude: 29.9189
 wikidata_id: Q105196488

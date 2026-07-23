@@ -11,6 +11,7 @@ area: Dialect of Nahuatl
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 21.06392
 longitude: -97.90768
 scripts: [Latn]

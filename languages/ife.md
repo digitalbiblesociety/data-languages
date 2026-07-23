@@ -11,6 +11,7 @@ area: Niger–Congo language spoken in Togo and Benin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.635685
 longitude: 1.584945
 scripts: [Latn]

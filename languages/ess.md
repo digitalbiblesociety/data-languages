@@ -11,6 +11,7 @@ area: Endangered Yupik language spoken by the Siberian Yupik people near the Ber
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 63.43083
 longitude: -170.27166
 language_map_img: Asian_Siberian_Yupik_Eskimo_map.svg

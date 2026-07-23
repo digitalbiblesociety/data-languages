@@ -11,6 +11,7 @@ area: "Language used in North-eastern states, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.15203
 longitude: 95.39028
 glottocode: noct1238

@@ -11,6 +11,7 @@ area: Kayan language spoken in Burma
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 19.518285
 longitude: 97.41385
 glottocode: kaya1315

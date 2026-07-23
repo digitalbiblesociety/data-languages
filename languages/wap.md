@@ -11,6 +11,7 @@ area: Arawakan language spoken in Guyana and Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 2.587435
 longitude: -59.80212
 glottocode: wapi1253

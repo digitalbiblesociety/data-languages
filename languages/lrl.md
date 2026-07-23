@@ -10,6 +10,7 @@ area: Iranian language spoken in the south of Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 27.6436
 longitude: 54.63449
 glottocode: lari1253

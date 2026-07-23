@@ -12,6 +12,7 @@ area: Konkani dialects
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 19.24143
 longitude: 73.91659
 language_map_img: 500px-Konkani_languages.webp

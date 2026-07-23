@@ -12,6 +12,7 @@ area: "Austronesian language spoken in Kalimantan, Indonesia"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 1.6687
 longitude: 117.93413
 language_map_img: 500px-Berau_Malay.webp

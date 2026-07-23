@@ -11,6 +11,7 @@ area: Senufo language spoken in Mali
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 9.53815
 longitude: -4.9271
 language_map_img: 500px-Palaka_language.webp

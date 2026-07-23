@@ -11,6 +11,7 @@ area: Sabahan language spoken on Borneo
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 4.39954
 longitude: 117.27931
 glottocode: seru1246

@@ -11,6 +11,7 @@ area: Nahuatl language of Mexico
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.63995
 longitude: -96.97648
 glottocode: oriz1235

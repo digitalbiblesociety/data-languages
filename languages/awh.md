@@ -10,6 +10,7 @@ area: Papuan language of Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.05875
 longitude: 139.72441
 glottocode: awbo1238

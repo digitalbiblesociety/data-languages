@@ -10,6 +10,7 @@ area: Deaf sign language of Mongolia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mon
 latitude: 48.68518
 longitude: 107.5282
 glottocode: mong1264

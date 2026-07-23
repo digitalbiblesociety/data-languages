@@ -11,6 +11,7 @@ area: Panoan language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -11.99684
 longitude: -65.55679
 glottocode: paca1246

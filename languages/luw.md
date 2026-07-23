@@ -10,6 +10,7 @@ area: Endangered language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.9072
 longitude: 9.91259
 glottocode: luoc1235

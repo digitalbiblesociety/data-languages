@@ -11,6 +11,7 @@ area: "Bantu language of Equatorial Guinea, northwest Gabon and neighbouring are
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.723965
 longitude: 11.61454
 language_map_img: 500px-Idioma_fang.webp

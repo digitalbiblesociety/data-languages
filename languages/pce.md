@@ -11,6 +11,7 @@ area: Mon–Khmer dialect cluster spoken in Southeast Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 21.617647
 longitude: 98.09148
 glottocode: ruch1235

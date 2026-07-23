@@ -11,6 +11,7 @@ area: Endangered Salish language of North America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 49.27453
 longitude: -119.294115
 scripts: [Latn]

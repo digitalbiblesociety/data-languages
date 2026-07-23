@@ -11,6 +11,7 @@ area: Arawakan language of Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -20.66136
 longitude: -56.03292
 scripts: [Latn]

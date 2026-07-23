@@ -11,6 +11,7 @@ area: Upper Cross River dialects of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.58316
 longitude: 8.10047
 glottocode: ukpe1249

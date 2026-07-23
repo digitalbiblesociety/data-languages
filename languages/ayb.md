@@ -11,6 +11,7 @@ area: Language group of Benin
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.62654
 longitude: 2.20552
 glottocode: ayiz1245

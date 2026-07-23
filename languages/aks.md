@@ -11,6 +11,7 @@ area: Gur language spoken in Togo and Ghana
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.8858
 longitude: 1.37035
 glottocode: akas1242

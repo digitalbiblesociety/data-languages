@@ -11,6 +11,7 @@ area: "Language of Enga Province, Papua New Guinea"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.42586
 longitude: 143.08884
 glottocode: ipil1240

@@ -10,6 +10,7 @@ area: Left May language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.27412
 longitude: 141.60058
 glottocode: nakw1240

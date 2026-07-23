@@ -11,6 +11,7 @@ area: Endangered Salishan language of the US
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 47.29583
 longitude: -116.71512
 glottocode: coeu1236

@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 23.61242
 longitude: 104.96286
 glottocode: buga1247

@@ -11,6 +11,7 @@ area: Australian Aboriginal language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.30605
 longitude: 134.36499
 glottocode: bura1267

@@ -9,6 +9,7 @@ area: Deaf sign language of Paraguay
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.266667
 longitude: -57.666667
 glottocode: para1318

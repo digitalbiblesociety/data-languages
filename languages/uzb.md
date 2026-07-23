@@ -10,6 +10,7 @@ country_name: Uzbekistan
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: uzn
 scripts: [Arab, Cyrl, Latn]
 wikidata_id: Q9264
 wikipedia_url: "https://en.wikipedia.org/wiki/Uzbek_language"

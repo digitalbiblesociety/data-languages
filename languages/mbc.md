@@ -11,6 +11,7 @@ area: Cariban language spoken in South America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 4.318613
 longitude: -60.220877
 glottocode: macu1259

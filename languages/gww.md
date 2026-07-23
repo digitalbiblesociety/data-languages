@@ -11,6 +11,7 @@ area: Aboriginal Australian language of Western Australia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -14.25155
 longitude: 126.56181
 language_map_img: Worrorran_map.svg

@@ -11,6 +11,7 @@ area: "Kadu language of Kordofan, Sudan"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.51395
 longitude: 30.00302
 glottocode: kron1241

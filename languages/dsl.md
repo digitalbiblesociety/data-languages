@@ -9,6 +9,7 @@ area: Sign language used in Denmark
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: dan
 latitude: 55.82574
 longitude: 12.31866
 glottocode: dani1246

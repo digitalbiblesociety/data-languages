@@ -11,6 +11,7 @@ area: Kra–Dai language family of China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 18.80621
 longitude: 109.4587
 glottocode: hlai1239

@@ -10,6 +10,7 @@ location: Angola
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -15.96162
 longitude: 14.94004
 glottocode: nyan1305

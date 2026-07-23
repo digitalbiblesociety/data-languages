@@ -11,6 +11,7 @@ area: Isolate language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -8.09387
 longitude: 143.30513
 language_map_img: Waia_language.svg

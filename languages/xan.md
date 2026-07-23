@@ -11,6 +11,7 @@ area: Ethiopian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 12.44788
 longitude: 38.83518
 glottocode: xamt1239

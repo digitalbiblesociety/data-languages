@@ -11,6 +11,7 @@ area: Language native to Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.25216
 longitude: 144.58514
 glottocode: kala1397

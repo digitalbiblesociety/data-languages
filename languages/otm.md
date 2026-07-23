@@ -10,6 +10,7 @@ location: Western Central Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 20.59906
 longitude: -98.09783
 glottocode: east2556

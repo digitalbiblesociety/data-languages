@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Vietnam and Cambodia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 12.06354
 longitude: 107.65424
 language_map_img: 500px-Mnong_language.webp

@@ -11,6 +11,7 @@ area: Tupi-Guarani language cluster of Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -8.66822
 longitude: -61.38581
 glottocode: more1262

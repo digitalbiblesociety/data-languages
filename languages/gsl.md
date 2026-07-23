@@ -11,6 +11,7 @@ area: Jola language of Senegal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.77612
 longitude: -16.50265
 glottocode: gusi1246

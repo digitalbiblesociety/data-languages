@@ -11,6 +11,7 @@ area: Chapacuran language of Brazil and Bolivia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -10.69948
 longitude: -64.56152
 language_map_img: 500px-Chapakuran_languages.webp

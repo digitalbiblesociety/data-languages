@@ -11,6 +11,7 @@ area: Banda language of DR Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.57915
 longitude: 19.82638
 glottocode: mono1270

@@ -11,6 +11,7 @@ area: Kordofanian language spoken in Sudan
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 12.03457
 longitude: 30.93062
 glottocode: tago1246

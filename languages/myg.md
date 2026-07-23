@@ -11,6 +11,7 @@ area: Southwest Grassfields language of Cameroon
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.0213
 longitude: 9.59489
 glottocode: mant1267

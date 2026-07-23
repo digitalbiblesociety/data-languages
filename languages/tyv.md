@@ -11,6 +11,7 @@ area: Sayan Turkic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 48.43595
 longitude: 92.669263
 language_map_img: 500px-Tuvan_language_on_the_map.webp

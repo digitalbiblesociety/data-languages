@@ -11,6 +11,7 @@ area: "Finnic language south of Lake Onega, Russia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 60.33531
 longitude: 34.7865
 language_map_img: 500px-2.3-Veps.webp

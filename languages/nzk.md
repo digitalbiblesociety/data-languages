@@ -11,6 +11,7 @@ area: Zande language of Central Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 4.795675
 longitude: 22.825365
 glottocode: nzak1247

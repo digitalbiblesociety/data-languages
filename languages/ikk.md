@@ -11,6 +11,7 @@ area: An Igboid language spoken by the Ika people of southern Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.36423
 longitude: 6.31058
 glottocode: ikaa1238

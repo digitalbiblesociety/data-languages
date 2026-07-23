@@ -10,6 +10,7 @@ area: South African sign language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -25.96551
 longitude: 28.11864
 glottocode: sout1404

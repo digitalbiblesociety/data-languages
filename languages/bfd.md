@@ -11,6 +11,7 @@ area: Grassfields language spoken in Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.14153
 longitude: 10.11939
 scripts: [Latn]

@@ -11,6 +11,7 @@ area: Gujarati language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 24.296645
 longitude: 69.19014
 scripts: [Arab]

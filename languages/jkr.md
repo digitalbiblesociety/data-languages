@@ -11,6 +11,7 @@ area: Sino-Tibetan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.6
 longitude: 92.8
 glottocode: koro1316

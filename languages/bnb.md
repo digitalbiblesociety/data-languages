@@ -11,6 +11,7 @@ area: Murutic language spoken in Malaysia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.32519
 longitude: 116.47389
 glottocode: book1241

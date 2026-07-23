@@ -10,6 +10,7 @@ location: Southwestern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 3.56518
 longitude: 9.99905
 glottocode: bako1249

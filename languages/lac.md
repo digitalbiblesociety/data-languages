@@ -11,6 +11,7 @@ area: Mayan language spoken of Mexico
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 17.02093
 longitude: -91.42348
 glottocode: laca1243

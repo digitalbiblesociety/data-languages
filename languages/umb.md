@@ -11,6 +11,7 @@ area: Bantu language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -12.47635
 longitude: 14.41483
 language_map_img: umb.webp

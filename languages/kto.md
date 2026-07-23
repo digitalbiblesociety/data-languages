@@ -11,6 +11,7 @@ area: Language isolate of Papua New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.06952
 longitude: 151.53735
 language_map_img: 500px-New_Ireland_Languages.webp

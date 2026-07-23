@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -22.3001
 longitude: 166.4449
 glottocode: newc1244

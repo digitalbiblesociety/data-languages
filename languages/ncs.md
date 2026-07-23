@@ -10,6 +10,7 @@ area: Deaf-community sign language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 12.2509
 longitude: -86.33987
 glottocode: nica1238

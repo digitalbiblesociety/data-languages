@@ -11,6 +11,7 @@ area: Efik language of Nigeria
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.59913
 longitude: 7.96002
 glottocode: ukwa1238

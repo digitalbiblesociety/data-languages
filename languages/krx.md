@@ -11,6 +11,7 @@ area: Endangered Jola language of West Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.99184
 longitude: -16.738165
 glottocode: karo1294

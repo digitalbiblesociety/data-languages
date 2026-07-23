@@ -11,6 +11,7 @@ area: Yeniseian language spoken in Siberia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 63.75506
 longitude: 87.54663
 language_map_img: Yeniseian_languages_map.svg

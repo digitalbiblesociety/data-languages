@@ -9,6 +9,7 @@ area: Sign language of the Greek deaf community
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 38.05355
 longitude: 23.37624
 glottocode: gree1271

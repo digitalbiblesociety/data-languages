@@ -10,6 +10,7 @@ area: Guere dialects of Ivory Coast
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.72458
 longitude: -7.3558
 glottocode: daho1238

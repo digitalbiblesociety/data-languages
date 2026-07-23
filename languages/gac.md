@@ -11,6 +11,7 @@ area: Nearly extinct Great Andamanese language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: hin
 wikidata_id: Q56329630
 wikipedia_url: "https://en.wikipedia.org/wiki/Mixed_Great_Andamanese"
 translations:

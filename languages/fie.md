@@ -11,6 +11,7 @@ area: West Chadic language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.49936
 longitude: 9.29503
 glottocode: fyer1241

@@ -10,6 +10,7 @@ area: French-based creole spoken in Saint Lucia
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 8.32601
 longitude: -81.25639
 glottocode: sanm1305

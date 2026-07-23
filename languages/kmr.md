@@ -12,6 +12,7 @@ area: Northern Kurdish dialect
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 37
 longitude: 43
 language_map_img: kmr.webp

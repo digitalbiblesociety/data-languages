@@ -12,6 +12,7 @@ area: Polynesian language spoken in New Zealand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -38.28814
 longitude: 176.54055
 scripts: [Latn]

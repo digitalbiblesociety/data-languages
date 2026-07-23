@@ -11,6 +11,7 @@ area: Papuan language of eastern New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.70051
 longitude: 155.745
 glottocode: tere1278

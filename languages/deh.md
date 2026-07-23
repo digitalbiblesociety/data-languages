@@ -11,6 +11,7 @@ area: Persian language of Pakistan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 29.52046
 longitude: 66.59775
 glottocode: dehw1238

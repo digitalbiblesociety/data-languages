@@ -10,6 +10,7 @@ area: Sign language of the Levant
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 31.82024
 longitude: 36.0829
 glottocode: jord1238

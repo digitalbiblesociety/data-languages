@@ -11,6 +11,7 @@ area: Tuu language of southwestern Botswana and eastern Namibia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -24.20022
 longitude: 20.79583
 language_map_img: Khoisan_languages_historical.svg

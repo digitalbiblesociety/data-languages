@@ -11,6 +11,7 @@ area: Afro-Asiatic language spoken in Nigeria and Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.76068
 longitude: 12.87572
 language_map_img: 500px-Afro_asiatic_peoples_nigeria.webp

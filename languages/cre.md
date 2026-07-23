@@ -9,6 +9,7 @@ country_name: United States
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 scripts: [Cans, Latn]
 wikidata_id: Q33390
 wikipedia_url: "https://en.wikipedia.org/wiki/Cree_language"

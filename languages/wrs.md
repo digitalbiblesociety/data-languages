@@ -11,6 +11,7 @@ area: Papuan language spoken in Southeast Asia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.139
 longitude: 140.93095
 glottocode: wari1266

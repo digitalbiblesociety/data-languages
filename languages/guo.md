@@ -11,6 +11,7 @@ area: Guahiban language of Colombia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 2.8969
 longitude: -71.84405
 language_map_img: Guayabero.webp

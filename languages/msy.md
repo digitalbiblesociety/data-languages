@@ -11,6 +11,7 @@ area: Ramu language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.28957
 longitude: 144.84163
 glottocode: arua1260

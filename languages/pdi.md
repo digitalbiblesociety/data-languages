@@ -10,6 +10,7 @@ area: Southwestern Tai language of China and Vietnam
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.311235
 longitude: 103.48591
 language_map_img: 500px-Pa_Di_language.webp

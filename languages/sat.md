@@ -11,6 +11,7 @@ area: Munda language of South Asia
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.0317
 longitude: 87.818517
 language_map_img: sat.webp

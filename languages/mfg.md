@@ -11,6 +11,7 @@ area: Mande language spoken in Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.68222
 longitude: -14.38504
 glottocode: mixi1241

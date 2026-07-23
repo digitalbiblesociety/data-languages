@@ -11,6 +11,7 @@ area: Ok language spoken in New Guinea
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.38732
 longitude: 142.04036
 language_map_img: Ok-Oksapmin_languages.svg

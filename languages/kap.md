@@ -11,6 +11,7 @@ area: "Tsezic language of southwest Dagestan, Russia"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 42.1206
 longitude: 46.03319
 language_map_img: Northeast_Caucasus_languages_map_en.svg

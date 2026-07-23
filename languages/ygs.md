@@ -9,6 +9,7 @@ area: Indigenous sign language of Australia
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -12.283333
 longitude: 136.816667
 glottocode: yoln1234

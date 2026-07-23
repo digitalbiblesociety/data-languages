@@ -11,6 +11,7 @@ area: English-based creole language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 15.55314
 longitude: -61.3156
 language_map_img: Distribution_of_Antiguan_and_Barbudan_Creole.svg

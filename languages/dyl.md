@@ -6,6 +6,7 @@ country_id: BT
 country_name: Bhutan
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.48405
 longitude: 89.33058
 wikidata_id: Q19882346

@@ -11,6 +11,7 @@ area: Siouan language spoken by the Omaha (Umoⁿhoⁿ) people and the Ponca (Pa
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.09436
 longitude: -96.52947
 language_map_img: 500px-Oklahoma_Indian_Languages.webp

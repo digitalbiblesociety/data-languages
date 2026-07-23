@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.9453
 longitude: 124.50856
 language_map_img: 500px-Maguindanao_language_map.webp

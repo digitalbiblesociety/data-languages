@@ -11,6 +11,7 @@ area: Language of South America
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 5.30115
 longitude: -69.38426
 glottocode: sali1298

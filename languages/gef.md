@@ -11,6 +11,7 @@ area: "Language spoken in Kalimantan, Indonesia"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: ell
 wikidata_id: Q24841855
 wikipedia_url: "https://en.wikipedia.org/wiki/Gerai_language"
 translations:

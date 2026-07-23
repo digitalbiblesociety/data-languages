@@ -11,6 +11,7 @@ area: Indo-Aryan language of Eastern Pahari branch spoken in Nepal
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 29.17076
 longitude: 82.437
 language_map_img: 500px-Jumla_Karnali_locator.webp

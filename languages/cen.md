@@ -10,6 +10,7 @@ area: Dialect continuum of Plateau languages in Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.6896
 longitude: 9.0218
 glottocode: cenn1238

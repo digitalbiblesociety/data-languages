@@ -12,6 +12,7 @@ area: Algonquian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.59677
 longitude: -81.91658
 language_map_img: 500px-Lenape_Languages.webp

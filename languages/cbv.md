@@ -11,6 +11,7 @@ area: Indigenous language of Colombia and Brazil
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 0.88778
 longitude: -69.56589
 language_map_img: Kakwa.webp

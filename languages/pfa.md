@@ -11,6 +11,7 @@ area: Micronesian language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.60286
 longitude: 152.2373
 glottocode: paaf1237

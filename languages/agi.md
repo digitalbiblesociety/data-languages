@@ -11,6 +11,7 @@ area: Reputably reported language later shown to not exist
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.50242
 longitude: 82.29701
 glottocode: agar1251

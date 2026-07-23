@@ -11,6 +11,7 @@ area: Language spoken in East Timor
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -8.74034
 longitude: 126.05874
 language_map_img: 500px-Mideki.webp

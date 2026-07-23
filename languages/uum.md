@@ -11,6 +11,7 @@ area: Kipchak Turkic language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: kat
 latitude: 42.03792
 longitude: 43.994
 glottocode: urum1249

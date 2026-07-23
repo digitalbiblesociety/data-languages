@@ -10,6 +10,7 @@ area: Jimi language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.5591
 longitude: 144.75421
 glottocode: nara1264

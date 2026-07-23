@@ -11,6 +11,7 @@ area: Eastern Indo-Aryan language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 23.65853
 longitude: 84.81136
 language_map_img: sck.svg

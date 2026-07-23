@@ -11,6 +11,7 @@ area: Creole language of Suriname and French Guiana
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 4.3126
 longitude: -54.641915
 glottocode: ndyu1242

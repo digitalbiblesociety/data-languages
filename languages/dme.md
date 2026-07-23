@@ -11,6 +11,7 @@ area: Chadic language of northern Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.75203
 longitude: 14.21344
 glottocode: dugw1239

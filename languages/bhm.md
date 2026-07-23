@@ -11,6 +11,7 @@ area: Afro-Asiatic language of Oman
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 17.4485
 longitude: 53.119
 language_map_img: Modern_South_Arabian_Languages.svg

@@ -10,6 +10,7 @@ area: Creole language developed in Australia from an English-pidgin
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.135
 longitude: 137.669
 glottocode: krio1252

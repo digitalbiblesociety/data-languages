@@ -12,6 +12,7 @@ area: Kalenjin language spoken in Kenya
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: 1.15018
 longitude: 35.58662
 glottocode: mark1255

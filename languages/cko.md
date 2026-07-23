@@ -11,6 +11,7 @@ area: Tano language spoken in West Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.283893
 longitude: 0.56021
 glottocode: anuf1239

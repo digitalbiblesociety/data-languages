@@ -11,6 +11,7 @@ area: Tungusic language spoken in northwest China
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 43.58535
 longitude: 81.00336
 glottocode: xibe1242

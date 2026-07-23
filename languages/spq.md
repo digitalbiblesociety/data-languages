@@ -10,6 +10,7 @@ area: South American language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -4.74563
 longitude: -73.65068
 glottocode: lore1243

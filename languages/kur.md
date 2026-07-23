@@ -10,6 +10,7 @@ country_name: Turkey
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: tur
 language_map_img: kur.webp
 scripts: [Arab, Cyrl, Latn]
 wikidata_id: Q36368

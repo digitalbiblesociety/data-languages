@@ -11,6 +11,7 @@ area: Guaicuruan language
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -19.72224
 longitude: -57.58202
 glottocode: kadi1248

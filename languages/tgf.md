@@ -11,6 +11,7 @@ area: Bodish language spoken in Bhutan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.32312
 longitude: 91.26196
 glottocode: chal1267

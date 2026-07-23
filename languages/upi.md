@@ -10,6 +10,7 @@ area: Language in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.34565
 longitude: 141.15692
 glottocode: umed1238

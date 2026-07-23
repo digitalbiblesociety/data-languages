@@ -10,6 +10,7 @@ area: Persian dialects spoken by Jews in Iran
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: heb
 latitude: 31.45071
 longitude: 43.57147
 scripts: [Hebr]

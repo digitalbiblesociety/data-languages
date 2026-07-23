@@ -11,6 +11,7 @@ area: "Critically endangered Pama–Nyungan language of New South Wales, Austral
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -30.64808
 longitude: 146.17959
 glottocode: wang1291

@@ -11,6 +11,7 @@ area: West Papuan language spoken in Indonesia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: 0.02461
 longitude: 127.74566
 glottocode: tido1248

@@ -11,6 +11,7 @@ area: "Southern Naga language of Manipur, India"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.46435
 longitude: 94.4072
 glottocode: chir1283

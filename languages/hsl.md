@@ -10,6 +10,7 @@ area: Deaf sign language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.486
 longitude: 7.168
 glottocode: haus1246

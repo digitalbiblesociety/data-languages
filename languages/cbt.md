@@ -11,6 +11,7 @@ area: Cahuapanan language spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -5.63764
 longitude: -76.82525
 glottocode: chay1248

@@ -11,6 +11,7 @@ area: Ok language spoken in Indonesia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.13343
 longitude: 140.26914
 glottocode: tang1353

@@ -11,6 +11,7 @@ area: Language family
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -5.09522
 longitude: 144.3375
 glottocode: haru1245

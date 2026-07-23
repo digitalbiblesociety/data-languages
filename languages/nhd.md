@@ -12,6 +12,7 @@ area: Guaraní language of South America
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -25.652143
 longitude: -55.050987
 glottocode: chir1286

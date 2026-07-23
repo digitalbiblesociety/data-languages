@@ -11,6 +11,7 @@ area: Pahoturi language group of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -9.08521
 longitude: 142.53159
 language_map_img: 500px-Map_of_Pahoturi_River_languages.webp

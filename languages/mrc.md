@@ -11,6 +11,7 @@ area: "Native American language of Arizona, US"
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.51232
 longitude: -111.74857
 glottocode: mari1440

@@ -10,6 +10,7 @@ area: Indo-Aryan language of Nepal
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: nep
 latitude: 26.73287
 longitude: 87.53044
 glottocode: musa1263

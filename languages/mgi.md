@@ -11,6 +11,7 @@ area: Plateau language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 8.52193
 longitude: 8.35562
 glottocode: liji1238

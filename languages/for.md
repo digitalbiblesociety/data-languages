@@ -11,6 +11,7 @@ area: Kainantu-Goroka language of Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.64473
 longitude: 145.5065
 glottocode: fore1270

@@ -10,6 +10,7 @@ area: Gallo-Italic language spoken in Italy
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ita
 latitude: 45.46333
 longitude: 8.32366
 language_map_img: 500px-Piedmontese_Language_distribution.webp

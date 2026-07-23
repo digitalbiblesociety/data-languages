@@ -10,6 +10,7 @@ area: Language of Paraguay
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -22.54
 longitude: -58.98
 glottocode: nort2971

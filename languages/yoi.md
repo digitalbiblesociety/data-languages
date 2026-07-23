@@ -11,6 +11,7 @@ area: Southern Ryukyuan language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 24.44997
 longitude: 122.99075
 language_map_img: 500px-Map-yonaguni.webp

@@ -12,6 +12,7 @@ area: Indo-Aryan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 30.47994
 longitude: 70.28278
 glottocode: khet1238

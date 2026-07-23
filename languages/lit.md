@@ -12,6 +12,7 @@ area: Baltic language spoken in Lithuania
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: lit
 latitude: 55.14291
 longitude: 23.96007
 language_map_img: Map_of_Lithuanian_language.svg

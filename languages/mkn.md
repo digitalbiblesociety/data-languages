@@ -11,6 +11,7 @@ area: Malay-based creole language
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -10.25257
 longitude: 123.62974
 glottocode: kupa1239

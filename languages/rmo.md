@@ -11,6 +11,7 @@ area: Romani variety of Central and Western Europe
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 47.5
 longitude: 16.5
 scripts: [Latn]

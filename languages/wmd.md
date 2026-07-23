@@ -11,6 +11,7 @@ area: Nambikwaran language spoken in Brazil
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -13.23958
 longitude: -59.99245
 glottocode: mama1278

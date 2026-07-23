@@ -10,6 +10,7 @@ area: Indo-Iranian language spoken in Afghanistan
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 35.17314
 longitude: 70.8004
 glottocode: pras1239

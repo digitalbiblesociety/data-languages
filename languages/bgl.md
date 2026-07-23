@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Laos and Vietnam
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: lao
 latitude: 18.18657
 longitude: 104.95342
 glottocode: bola1249

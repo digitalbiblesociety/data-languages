@@ -10,6 +10,7 @@ location: Creole Languages of the Northern Caribbean
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 25.284065
 longitude: -79.149985
 glottocode: baha1260

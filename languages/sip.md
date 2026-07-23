@@ -11,6 +11,7 @@ area: "Tibetic language of Nepal and Sikkim, India"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.85795
 longitude: 88.59153
 glottocode: sikk1242

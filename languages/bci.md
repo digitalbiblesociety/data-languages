@@ -11,6 +11,7 @@ area: Language in Ivory Coast
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.42509
 longitude: -4.76565
 language_map_img: bci.webp

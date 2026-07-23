@@ -10,6 +10,7 @@ area: Moribund Southern Bantoid language of Cameroon
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.68152
 longitude: 9.78433
 glottocode: busu1244

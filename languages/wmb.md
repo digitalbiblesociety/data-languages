@@ -11,6 +11,7 @@ area: "Endangered Mirndi language of Australia's Northern Territory"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -17.49595
 longitude: 135.68289
 glottocode: wamb1258

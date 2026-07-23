@@ -10,6 +10,7 @@ area: "Variety of Norman spoken in Jersey, in the Channel Islands"
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: eng
 wikidata_id: Q33850
 wikipedia_url: "https://en.wikipedia.org/wiki/Norman_language"
 translations:

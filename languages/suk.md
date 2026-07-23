@@ -11,6 +11,7 @@ area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -3.16082
 longitude: 32.87653
 language_map_img: suk.webp

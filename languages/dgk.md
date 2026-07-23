@@ -10,6 +10,7 @@ area: Sara language of CAR and Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 8.84278
 longitude: 18.48467
 glottocode: dagb1248

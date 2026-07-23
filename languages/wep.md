@@ -10,6 +10,7 @@ area: Low German dialects spoken in Germany
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 51.459
 longitude: 7.499
 glottocode: west2356

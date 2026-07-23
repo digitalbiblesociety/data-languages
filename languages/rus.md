@@ -12,6 +12,7 @@ area: East Slavic language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: rus
 latitude: 53.919516
 longitude: 72.392575
 language_map_img: Russian_language_status_and_proficiency_in_the_World.svg

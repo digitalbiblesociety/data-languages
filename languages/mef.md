@@ -11,6 +11,7 @@ area: Sino-Tibetan language spoken in Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 25.12916
 longitude: 91.61318
 glottocode: mega1243

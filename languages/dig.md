@@ -11,6 +11,7 @@ area: Bantu language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.62101
 longitude: 39.1752
 glottocode: digo1243

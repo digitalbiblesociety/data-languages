@@ -10,6 +10,7 @@ area: Dominant sign language of Japan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 36.02213
 longitude: 139.07918
 glottocode: japa1238

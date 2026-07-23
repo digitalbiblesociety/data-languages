@@ -11,6 +11,7 @@ area: Bantu language spoken in Equatorial Guinea
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 1.3718
 longitude: 9.61289
 language_map_img: 500px-Idioma_balengue.webp

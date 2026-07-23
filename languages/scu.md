@@ -11,6 +11,7 @@ area: "Sino-Tibetan dialect cluster centered on Himachal Pradesh, India"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.68622
 longitude: 78.38646
 glottocode: shum1243

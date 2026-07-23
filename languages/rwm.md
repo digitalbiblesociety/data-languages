@@ -11,6 +11,7 @@ area: Bantu language of Uganda and the DRC
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 0.81206
 longitude: 30.001415
 glottocode: amba1263

@@ -11,6 +11,7 @@ area: Kalahari language spoken in Botswana and Zimbabwe
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.02366
 longitude: 26.01579
 glottocode: kuaa1238

@@ -11,6 +11,7 @@ area: Language of Nigeria and Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 7.07479
 longitude: 10.09161
 glottocode: kute1248

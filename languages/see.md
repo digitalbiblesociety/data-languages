@@ -11,6 +11,7 @@ area: Iroquoian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 42.6128
 longitude: -79.340345
 language_map_img: Early_Localization_Native_Americans_NY.svg

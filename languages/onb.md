@@ -11,6 +11,7 @@ area: Kra–Dai languages spoken in China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 19.86337
 longitude: 109.97126
 language_map_img: 500px-Langues_Be-Jizhao.webp

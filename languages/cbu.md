@@ -11,6 +11,7 @@ area: Language isolate spoken in Peru
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -4.23835
 longitude: -76.93474
 language_map_img: 500px-Candoshi_language.webp

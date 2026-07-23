@@ -11,6 +11,7 @@ area: Austronesian dialect cluster
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.45338
 longitude: 125.42625
 glottocode: taga1268

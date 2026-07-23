@@ -11,6 +11,7 @@ area: Language spoken in Paraguay and Bolivia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -19.220055
 longitude: -60.217495
 glottocode: ayor1240

@@ -11,6 +11,7 @@ area: Surmic language spoken in Ethiopia and South Sudan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 6.16512
 longitude: 34.94355
 glottocode: kaci1244

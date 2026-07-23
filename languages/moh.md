@@ -11,6 +11,7 @@ area: Iroquoian language spoken by Mohawks in the United States and Canada
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 45.00064
 longitude: -74.624415
 language_map_img: 500px-Mohawklang.webp

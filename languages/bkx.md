@@ -11,6 +11,7 @@ area: Austronesian language spoken in West Timor
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tet
 latitude: -9.32991
 longitude: 124.25622
 glottocode: baik1238

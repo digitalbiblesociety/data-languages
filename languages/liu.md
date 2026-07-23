@@ -11,6 +11,7 @@ area: Daju language spoken in Sudan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.17389
 longitude: 29.80533
 glottocode: logo1261

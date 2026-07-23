@@ -11,6 +11,7 @@ area: Language belonging to the Lezgic group of the Northeast Caucasian language
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: aze
 latitude: 41.22722
 longitude: 48.33533
 language_map_img: Northeast_Caucasus_languages_map_en.svg

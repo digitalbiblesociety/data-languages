@@ -10,6 +10,7 @@ location: "Equatorial Guinea, Gabon and São Tomé e Príncipe"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -1.16762
 longitude: 12.32251
 glottocode: bubi1250

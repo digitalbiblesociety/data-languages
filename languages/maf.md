@@ -11,6 +11,7 @@ area: Afro-Asiatic language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.94295
 longitude: 13.81812
 scripts: [Latn]

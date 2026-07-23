@@ -11,6 +11,7 @@ area: Mambiloid language of Cameroon
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.36656
 longitude: 11.70017
 glottocode: twen1242

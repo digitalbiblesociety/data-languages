@@ -11,6 +11,7 @@ area: Kadu language spoken in Sudan
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 10.84227
 longitude: 29.49142
 glottocode: katc1249

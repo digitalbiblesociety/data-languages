@@ -9,6 +9,7 @@ area: Western Berber language of Niger
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 14.973333
 longitude: 5.699722
 glottocode: tets1235

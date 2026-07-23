@@ -11,6 +11,7 @@ area: Mande language of Burkina Faso
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.54087
 longitude: -4.26497
 language_map_img: Languages_of_Burkina_Faso.webp

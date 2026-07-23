@@ -11,6 +11,7 @@ area: Language of Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.652333
 longitude: 30.776243
 glottocode: kakw1240

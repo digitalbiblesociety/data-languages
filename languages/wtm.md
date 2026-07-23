@@ -11,6 +11,7 @@ area: Indo-Aryan language of India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.736
 longitude: 76.947
 scripts: [Deva]

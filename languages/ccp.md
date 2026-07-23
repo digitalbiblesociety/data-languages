@@ -11,6 +11,7 @@ area: Language of India and Bangladesh
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: ben
 latitude: 23.00148
 longitude: 92.339
 language_map_img: 500px-Chakma.map.webp

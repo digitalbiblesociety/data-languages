@@ -11,6 +11,7 @@ area: Extinct Cushitic language of Tanzania
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -4.00679
 longitude: 36.86477
 glottocode: aasa1238

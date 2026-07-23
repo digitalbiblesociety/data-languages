@@ -11,6 +11,7 @@ area: Athabaskan language spoken in British Columbia
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 53.17629
 longitude: -124.45243
 language_map_img: Dakelh_map.svg

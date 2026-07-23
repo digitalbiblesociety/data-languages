@@ -11,6 +11,7 @@ area: Algonquian language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 46.13812
 longitude: -72.65106
 glottocode: west2630

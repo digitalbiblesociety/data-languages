@@ -12,6 +12,7 @@ area: Senegambian language of West and Central Africa
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 11.132407
 longitude: -3.647633
 language_map_img: Fula_language_map.svg

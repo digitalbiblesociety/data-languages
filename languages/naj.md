@@ -10,6 +10,7 @@ area: Atlantic language of Guinea and Guinea-Bissau
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.039745
 longitude: -14.8188
 glottocode: nalu1240

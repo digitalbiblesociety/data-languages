@@ -11,6 +11,7 @@ area: Language spoken in northern India
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 31.5425
 longitude: 77.04187
 glottocode: mand1409

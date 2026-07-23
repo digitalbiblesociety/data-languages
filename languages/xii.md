@@ -10,6 +10,7 @@ area: Khoe language of South Africa
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -28.42578
 longitude: 20.72598
 glottocode: xiri1242

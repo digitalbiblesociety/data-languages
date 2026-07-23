@@ -12,6 +12,7 @@ area: Zapotec language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.27069
 longitude: -96.40033
 glottocode: amat1238

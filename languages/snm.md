@@ -11,6 +11,7 @@ area: Nilo-Saharan language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 2.8735
 longitude: 31.25
 glottocode: sout2828

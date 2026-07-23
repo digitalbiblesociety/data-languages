@@ -12,6 +12,7 @@ area: "Hmongic language spoken in Guizhou, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 26.81833
 longitude: 107.158
 glottocode: luop1235

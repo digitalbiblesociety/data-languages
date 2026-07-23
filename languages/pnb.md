@@ -12,6 +12,7 @@ area: Indo-Aryan language native to the Punjab
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 30.09484
 longitude: 75.347425
 language_map_img: pnb.webp

@@ -10,6 +10,7 @@ area: Australian Aboriginal language
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 language_map_img: Map_of_Traditional_Lands_of_Australian_Aboriginal_peoples_in_SE_Qld.webp
 wikidata_id: Q31752631
 translations:

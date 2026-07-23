@@ -8,6 +8,7 @@ country_name: United States
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: eng
 scripts: [Latn]
 wikidata_id: Q2665761
 wikipedia_url: "https://en.wikipedia.org/wiki/Delaware_languages"

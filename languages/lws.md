@@ -9,6 +9,7 @@ area: Sign language used in Malawi
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: mlg
 glottocode: mala1549
 glottolog_family_id: sign1238
 glottolog_family_name: Sign Language

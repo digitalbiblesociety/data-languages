@@ -11,6 +11,7 @@ area: Language of Mali and Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.37957
 longitude: -4.92036
 glottocode: dzuu1241

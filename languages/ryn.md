@@ -11,6 +11,7 @@ area: Ryukyuan language spoken in Japan
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: jpn
 latitude: 28.20991
 longitude: 129.45346
 language_map_img: Northern_Amami_Oshima_linguistic_sameness.svg

@@ -11,6 +11,7 @@ area: Dravidian language spoken in West and Central Asia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 28.534703
 longitude: 64.299057
 scripts: [Arab, Latn]

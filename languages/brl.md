@@ -10,6 +10,7 @@ area: Sotho-Tswana language spoken in South Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -22.17
 longitude: 28.33
 language_map_img: South_Africa_2011_Northern_Sotho_speakers_proportion_map.svg

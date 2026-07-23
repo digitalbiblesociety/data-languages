@@ -11,6 +11,7 @@ area: Lowland East Cushitic language of East Africa
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: amh
 latitude: 4.588785
 longitude: 35.98884
 glottocode: daas1238

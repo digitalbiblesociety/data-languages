@@ -8,6 +8,7 @@ country_name: India
 status_id: null
 scope: macrolanguage
 language_type: living
+iso_lwc: hin
 scripts: [Deva]
 wikidata_id: Q13196
 wikipedia_url: "https://en.wikipedia.org/wiki/Rajasthani_languages"

@@ -11,6 +11,7 @@ area: Official language of Malaysia
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 3.088957
 longitude: 101.698608
 language_map_img: Malay_language_Spoken_Area_Map_v1.webp

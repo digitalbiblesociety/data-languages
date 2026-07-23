@@ -11,6 +11,7 @@ area: Modern Hellenic language
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: ell
 latitude: 37.14054
 longitude: 22.73411
 scripts: [Grek]

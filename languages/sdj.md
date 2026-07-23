@@ -10,6 +10,7 @@ location: Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: -4.58488
 longitude: 13.32125
 glottocode: suun1239

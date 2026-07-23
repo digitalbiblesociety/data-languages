@@ -11,6 +11,7 @@ area: Austronesian language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 6.79221
 longitude: 126.18146
 glottocode: mans1262

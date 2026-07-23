@@ -11,6 +11,7 @@ area: Semitic language spoken mostly in Malta
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: mlt
 latitude: 35.8884
 longitude: 14.45082
 scripts: [Latn]

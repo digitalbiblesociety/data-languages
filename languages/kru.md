@@ -11,6 +11,7 @@ area: Dravidian language of eastern India
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 24.46442
 longitude: 86.465675
 scripts: [Deva]

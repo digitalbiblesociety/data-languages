@@ -10,6 +10,7 @@ area: Endangered Uto-Aztecan language of California
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.53238
 longitude: -116.69146
 language_map_img: Cahuilla_language.webp

@@ -11,6 +11,7 @@ area: Tucanoan language spoken in Brazil and Colombia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: 1.07554
 longitude: -69.57049
 language_map_img: Wanano.webp

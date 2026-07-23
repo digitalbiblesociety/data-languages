@@ -11,6 +11,7 @@ area: Loloish language of Myanmar
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: mya
 latitude: 20.75898
 longitude: 100.02854
 glottocode: pyen1239

@@ -12,6 +12,7 @@ area: Hmongic language of south-central China
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 28.33
 longitude: 109.67
 glottocode: west2430

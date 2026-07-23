@@ -10,6 +10,7 @@ area: Polynesian language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 1
 longitude: 154.67
 glottocode: kapi1249

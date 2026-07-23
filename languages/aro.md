@@ -11,6 +11,7 @@ area: Pano–Tacanan language spoken in Bolivia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -12.42423
 longitude: -67.72934
 scripts: [Latn]

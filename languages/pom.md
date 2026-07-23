@@ -10,6 +10,7 @@ area: Endangered Pomoan language of California
 status_id: "10"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 38.93544
 longitude: -122.5985
 language_map_img: Pomoan_languages_map_multicolored.svg

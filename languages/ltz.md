@@ -12,6 +12,7 @@ area: Germanic language spoken in Luxembourg
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: ltz
 latitude: 49.683948
 longitude: 6.149308
 language_map_img: 500px-Moselfrankisch.webp

@@ -11,6 +11,7 @@ area: Endangered Volta-Congo language of Ivory Coast
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 8.20929
 longitude: -5.72944
 glottocode: mbre1244

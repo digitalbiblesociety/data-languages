@@ -10,6 +10,7 @@ area: Volta–Niger language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.00894
 longitude: 6.3146
 glottocode: epie1238

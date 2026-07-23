@@ -11,6 +11,7 @@ area: Jola language spoken in Senegal and Gambia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 12.50885
 longitude: -16.55386
 glottocode: jola1262

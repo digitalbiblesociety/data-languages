@@ -11,6 +11,7 @@ area: Visayan language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 10.81307
 longitude: 122.2969
 language_map_img: 500px-Kinaray-a_language_map.webp

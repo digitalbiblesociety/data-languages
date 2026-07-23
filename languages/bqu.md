@@ -11,6 +11,7 @@ area: Bantu language of South Sudan
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.49213
 longitude: 29.13443
 glottocode: bogu1241

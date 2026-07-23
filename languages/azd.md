@@ -11,6 +11,7 @@ area: Aztecan language spoken in Mexico
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 22.676
 longitude: -104.6259
 glottocode: east2695

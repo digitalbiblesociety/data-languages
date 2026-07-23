@@ -7,6 +7,7 @@ country_id: CI
 country_name: Côte d'Ivoire
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 7.580998
 longitude: -7.562563
 glottocode: gooa1234

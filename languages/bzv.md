@@ -11,6 +11,7 @@ area: Southern Bantu language of Cameroon
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 6.74825
 longitude: 10.5646
 glottocode: bebe1250

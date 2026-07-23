@@ -11,6 +11,7 @@ area: Songhay language of northern Benin
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.66822
 longitude: 3.49109
 language_map_img: Songhay_languages.svg

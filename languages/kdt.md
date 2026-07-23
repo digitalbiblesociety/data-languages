@@ -11,6 +11,7 @@ area: Language of Southeast Asia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tha
 latitude: 14.669807
 longitude: 104.91104
 language_map_img: 500px-Kuy_language.webp

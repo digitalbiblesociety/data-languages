@@ -12,6 +12,7 @@ area: Polynesian language
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: ton
 latitude: -21.17
 longitude: -175.25
 scripts: [Latn]

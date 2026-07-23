@@ -11,6 +11,7 @@ area: Language spoken in Northeast India
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.7686
 longitude: 92.18383
 glottocode: sart1249

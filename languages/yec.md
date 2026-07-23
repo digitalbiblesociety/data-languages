@@ -10,6 +10,7 @@ area: German variety spoken by Yenish people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: deu
 latitude: 48.24834
 longitude: 8.47267
 glottocode: yeni1236

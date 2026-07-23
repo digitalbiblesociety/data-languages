@@ -11,6 +11,7 @@ area: "Tibeto-Burman language of Assam, India"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 26.6882
 longitude: 92.317
 glottocode: kach1279

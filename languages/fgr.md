@@ -11,6 +11,7 @@ area: Central Sudanic language of Chad
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 11.31789
 longitude: 22.56115
 glottocode: fong1243

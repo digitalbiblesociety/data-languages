@@ -11,6 +11,7 @@ area: Ovambo language of Namibia and Angola
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -18.03388
 longitude: 15.72942
 glottocode: kwam1251

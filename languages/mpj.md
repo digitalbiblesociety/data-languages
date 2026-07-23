@@ -11,6 +11,7 @@ area: Variety of the Western Desert language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -24.31936
 longitude: 121.9536
 glottocode: mart1256

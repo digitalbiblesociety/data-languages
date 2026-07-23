@@ -11,6 +11,7 @@ area: Kru dialect continuum of Ivory Coast and Liberia
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 4.56109
 longitude: -7.30644
 glottocode: plap1239

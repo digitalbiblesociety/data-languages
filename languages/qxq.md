@@ -10,6 +10,7 @@ area: Oghuz Turkic language of southwestern Iran
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: pes
 latitude: 28.25931
 longitude: 52.83349
 glottocode: qash1240

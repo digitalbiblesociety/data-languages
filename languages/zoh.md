@@ -11,6 +11,7 @@ area: "Zoquean language of Oaxaca, Mexico"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 16.65428
 longitude: -94.69125
 glottocode: chim1300

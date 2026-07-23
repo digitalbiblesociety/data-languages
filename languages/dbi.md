@@ -10,6 +10,7 @@ area: Plateau language of Nigeria
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 10.22873
 longitude: 7.96099
 glottocode: doka1242

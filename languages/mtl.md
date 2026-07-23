@@ -11,6 +11,7 @@ area: Afroasiatic language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.01778
 longitude: 9.65014
 glottocode: mont1280

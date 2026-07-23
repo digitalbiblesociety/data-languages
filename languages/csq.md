@@ -9,6 +9,7 @@ area: Deaf sign language of Croatia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hrv
 latitude: 45.502
 longitude: 16.796
 glottocode: croa1242

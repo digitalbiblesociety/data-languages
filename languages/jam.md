@@ -11,6 +11,7 @@ area: English-based creole language spoken in Jamaica
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 18.13
 longitude: -77.2612
 scripts: [Latn]

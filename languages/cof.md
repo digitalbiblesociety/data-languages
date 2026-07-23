@@ -11,6 +11,7 @@ area: Barbacoan language spoken in Ecuador
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -0.21181
 longitude: -79.23468
 language_map_img: Barbacoan_languages.webp

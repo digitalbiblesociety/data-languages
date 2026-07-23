@@ -11,6 +11,7 @@ area: Kru language of southwest Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.99802
 longitude: -4.92143
 glottocode: siam1242

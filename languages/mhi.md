@@ -11,6 +11,7 @@ area: Central Sudanic language
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 3.624995
 longitude: 31.847135
 glottocode: madi1260

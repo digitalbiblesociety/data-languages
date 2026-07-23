@@ -11,6 +11,7 @@ area: Endangered Mel language of Sierra Leone
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: kri
 latitude: 7.77585
 longitude: -12.74053
 glottocode: sher1258

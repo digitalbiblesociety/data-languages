@@ -11,6 +11,7 @@ area: "Kra–Dai language spoken in Assam, India"
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 27.81965
 longitude: 95.81309
 glottocode: phak1238

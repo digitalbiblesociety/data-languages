@@ -11,6 +11,7 @@ area: Language of the Democratic Republic of Congo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 1.11602
 longitude: 28.01805
 glottocode: mbod1238

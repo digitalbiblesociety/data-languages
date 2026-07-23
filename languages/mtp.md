@@ -11,6 +11,7 @@ area: Wichí language spoken in Bolivia
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -21.987995
 longitude: -63.59711
 glottocode: wich1262

@@ -12,6 +12,7 @@ area: Turkic language of the Karluk sub-branch
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: uzn
 latitude: 43.748876
 longitude: 59.230956
 language_map_img: uzn.webp

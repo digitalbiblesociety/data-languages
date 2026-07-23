@@ -10,6 +10,7 @@ area: Angkuic language spoken in Burma and China
 status_id: null
 scope: individual
 language_type: living
+iso_lwc: cmn
 wikidata_id: Q23807993
 wikipedia_url: "https://en.wikipedia.org/wiki/Muak_language"
 translations:

@@ -12,6 +12,7 @@ area: South/Eastern branch of Low Franconian spoken in and around Limburg
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 51.015043
 longitude: 5.877053
 scripts: [Latn]

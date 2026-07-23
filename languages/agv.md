@@ -11,6 +11,7 @@ area: Austronesian language spoken in the Philippines
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 14.62541
 longitude: 121.45323
 language_map_img: 500px-Remontado_Dumagat_language_map.webp

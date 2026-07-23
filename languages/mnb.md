@@ -11,6 +11,7 @@ area: "Austronesian language spoken on Muna island, Indonesia"
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -5.40419
 longitude: 122.54076
 glottocode: muna1247

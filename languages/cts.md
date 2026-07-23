@@ -12,6 +12,7 @@ area: Bikol language spoken in the Philippines
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.90317
 longitude: 124.27041
 glottocode: nort2883

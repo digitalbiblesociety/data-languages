@@ -11,6 +11,7 @@ area: "Athabaskan language of California, US"
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 41.09821
 longitude: -123.67988
 language_map_img: California-athabaskan.svg

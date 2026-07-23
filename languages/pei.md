@@ -11,6 +11,7 @@ area: Oto-Pamean language of central Mexico
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 21.29434
 longitude: -100.52427
 glottocode: chic1272

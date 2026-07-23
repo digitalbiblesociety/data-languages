@@ -11,6 +11,7 @@ area: ǃKung language of Southern Africa
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: -21.92
 longitude: 18
 glottocode: kung1261

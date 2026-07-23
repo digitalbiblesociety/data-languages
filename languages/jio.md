@@ -11,6 +11,7 @@ area: "Language of Hainan, China"
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 18.55481
 longitude: 109.85372
 glottocode: jiam1236

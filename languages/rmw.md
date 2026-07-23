@@ -11,6 +11,7 @@ area: Variety of the Romani language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 52.11655
 longitude: -3.7888
 glottocode: wels1246

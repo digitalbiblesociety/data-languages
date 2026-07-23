@@ -12,6 +12,7 @@ area: Tupian language spoken in South America
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -26.018843
 longitude: -52.71103
 glottocode: mbya1239

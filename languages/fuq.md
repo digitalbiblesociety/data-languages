@@ -12,6 +12,7 @@ area: Variety of the Fula language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 15.09071
 longitude: 8.43261
 scripts: [Latn]

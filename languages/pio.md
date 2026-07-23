@@ -11,6 +11,7 @@ area: Endangered Arawakan language of South America
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 4.37718
 longitude: -68.595285
 language_map_img: Piapoco.webp

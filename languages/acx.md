@@ -12,6 +12,7 @@ area: Variety of Peninsular Arabic spoken in Oman
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 23.25
 longitude: 58.5
 glottocode: oman1239

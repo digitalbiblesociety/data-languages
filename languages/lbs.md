@@ -9,6 +9,7 @@ area: Deaf sign language of Libya
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 29.512
 longitude: 17.573
 glottocode: liby1235

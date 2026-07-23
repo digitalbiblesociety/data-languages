@@ -11,6 +11,7 @@ area: Tibetic language of Amdo
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 34.51768
 longitude: 100.48479
 glottocode: amdo1237

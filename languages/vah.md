@@ -11,6 +11,7 @@ area: One of dialect of the Marathi language
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 20.7139
 longitude: 79.75164
 language_map_img: India_Vidarbha_locator_map.svg

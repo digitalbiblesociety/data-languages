@@ -11,6 +11,7 @@ area: Bua language of Chad
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 10.26705
 longitude: 19.5359
 glottocode: gula1265

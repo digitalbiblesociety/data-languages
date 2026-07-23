@@ -11,6 +11,7 @@ area: Sal (Sino-Tibetan) language spoken in India and Bangladesh
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 25.796235
 longitude: 90.25658
 language_map_img: 500px-Koch.map.webp

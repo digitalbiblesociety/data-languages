@@ -11,6 +11,7 @@ area: Language of Mali and Burkina Faso
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bam
 latitude: 10.92344
 longitude: -5.85872
 glottocode: duun1242

@@ -11,6 +11,7 @@ area: Panoan language spoken in Brazil
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: por
 latitude: -9.47288
 longitude: -66.33286
 glottocode: kaxa1239

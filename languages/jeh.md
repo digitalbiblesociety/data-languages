@@ -11,6 +11,7 @@ area: Austroasiatic language of Vietnam and Laos
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: vie
 latitude: 15.23509
 longitude: 107.7531
 language_map_img: 500px-Jeh_language.webp

@@ -12,6 +12,7 @@ area: Dravidian language in South India and North-eastern Sri Lanka
 status_id: "2"
 scope: individual
 language_type: living
+iso_lwc: hin
 latitude: 10.520219
 longitude: 78.825989
 language_map_img: tam.webp

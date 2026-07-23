@@ -11,6 +11,7 @@ area: Iranian language primarily spoken in Badakhshan
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: prs
 latitude: 36.67
 longitude: 71.55
 glottocode: ishk1246

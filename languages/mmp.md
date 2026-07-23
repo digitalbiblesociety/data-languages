@@ -11,6 +11,7 @@ area: Arai–Samaia language of Papua New Guinea
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.05312
 longitude: 141.4197
 glottocode: siaw1243

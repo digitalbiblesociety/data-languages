@@ -12,6 +12,7 @@ area: Turkic language of the Turkish people
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: tur
 latitude: 39.866667
 longitude: 32.866667
 language_map_img: Map_of_Turkish_Language.svg

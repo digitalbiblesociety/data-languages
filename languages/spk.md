@@ -11,6 +11,7 @@ area: Ndu language of Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -4.02247
 longitude: 142.95637
 glottocode: seng1284

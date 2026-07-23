@@ -11,6 +11,7 @@ area: "Popolocan language of Puebla, Mexico"
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: 18.14416
 longitude: -97.58792
 glottocode: mezo1235

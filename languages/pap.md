@@ -11,6 +11,7 @@ area: Creole language in the Dutch Caribbean
 status_id: "1"
 scope: individual
 language_type: living
+iso_lwc: pap
 latitude: 12.48485
 longitude: -69.93988
 language_map_img: ABCEilandenLocatie.webp

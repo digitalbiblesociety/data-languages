@@ -11,6 +11,7 @@ area: Northern Cook Islands Māori dialect
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: rar
 latitude: -8.95454
 longitude: -157.9912
 glottocode: penr1237

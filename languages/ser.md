@@ -10,6 +10,7 @@ area: Uto-Aztecan language of southern California
 status_id: "9"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 33.94787
 longitude: -116.77196
 language_map_img: Serran_languages_map.svg

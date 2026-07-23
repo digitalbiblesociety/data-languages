@@ -12,6 +12,7 @@ area: Austronesian language of Fiji
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: fij
 latitude: -18
 longitude: 178.33
 language_map_img: 500px-Ethnic_Map_of_Fiji.webp

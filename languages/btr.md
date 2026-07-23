@@ -10,6 +10,7 @@ area: Austronesian language spoken in Vanuatu
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: bis
 latitude: -15.25738
 longitude: 168.15868
 glottocode: baet1237

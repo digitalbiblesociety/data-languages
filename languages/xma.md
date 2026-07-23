@@ -11,6 +11,7 @@ area: Bantu language spoken in Tanzania and Somalia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: som
 latitude: 0.00689
 longitude: 42.66256
 glottocode: mush1238

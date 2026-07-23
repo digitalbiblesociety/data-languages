@@ -11,6 +11,7 @@ area: Skou language spoken in Papua New Guinea
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.64636
 longitude: 141.10425
 glottocode: wutu1244

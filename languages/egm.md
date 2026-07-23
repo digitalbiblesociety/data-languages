@@ -5,6 +5,7 @@ country_id: TZ
 country_name: Tanzania
 scope: individual
 language_type: living
+iso_lwc: swh
 latitude: -9.26671
 longitude: 35.0364
 wikidata_id: Q110736897

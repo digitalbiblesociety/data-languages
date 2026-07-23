@@ -11,6 +11,7 @@ area: Central Delta language spoken in Nigeria
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 4.83273
 longitude: 6.41493
 glottocode: odua1238

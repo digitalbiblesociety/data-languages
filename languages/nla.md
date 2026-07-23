@@ -11,6 +11,7 @@ area: Bamileke language of Cameroon
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: fra
 latitude: 5.70306
 longitude: 10.14461
 glottocode: ngom1271

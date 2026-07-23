@@ -11,6 +11,7 @@ area: Torricelli language
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -3.48707
 longitude: 142.49451
 glottocode: brag1240

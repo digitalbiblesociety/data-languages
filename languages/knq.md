@@ -11,6 +11,7 @@ area: Austroasiatic language spoken in Malaysia and Thailand
 status_id: 6b
 scope: individual
 language_type: living
+iso_lwc: zsm
 latitude: 5.750045
 longitude: 101.27709
 glottocode: kint1239

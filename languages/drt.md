@@ -11,6 +11,7 @@ area: "Westphalian dialects of Drenthe, Netherlands"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: nld
 latitude: 52.9024
 longitude: 6.51539
 glottocode: dren1238

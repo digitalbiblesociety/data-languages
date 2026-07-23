@@ -11,6 +11,7 @@ area: Endangered Skou language of Papua New Guinea
 status_id: 8a
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -2.90121
 longitude: 141.71469
 glottocode: puar1240

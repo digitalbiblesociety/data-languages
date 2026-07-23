@@ -10,6 +10,7 @@ location: Southern Philippines
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: fil
 latitude: 13.4588
 longitude: 123.55216
 glottocode: mtir1236

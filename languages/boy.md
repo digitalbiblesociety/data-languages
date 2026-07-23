@@ -10,6 +10,7 @@ area: Moribund Bantu language of Central Africa
 status_id: 8b
 scope: individual
 language_type: living
+iso_lwc: sag
 latitude: 6
 longitude: 26
 glottocode: bodo1272

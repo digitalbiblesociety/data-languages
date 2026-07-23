@@ -11,6 +11,7 @@ area: Language isolate spoken by Burusho people
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: urd
 latitude: 36.2161
 longitude: 74.82364
 glottocode: buru1296

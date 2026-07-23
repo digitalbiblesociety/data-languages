@@ -12,6 +12,7 @@ area: "Quechua variety of Lambayeque, Peru"
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: spa
 latitude: -6.1715
 longitude: -79.46799
 glottocode: lamb1276

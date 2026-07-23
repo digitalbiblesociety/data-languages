@@ -11,6 +11,7 @@ area: English-based creole language spoken in Guyana
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 5.623205
 longitude: -56.94513
 glottocode: creo1235

@@ -10,6 +10,7 @@ area: Sign language used in Ukraine
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: ukr
 latitude: 50.41113
 longitude: 30.55304
 glottocode: ukra1235

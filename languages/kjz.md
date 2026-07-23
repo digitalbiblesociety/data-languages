@@ -11,6 +11,7 @@ area: East Bodish language of north-central Bhutan
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: dzo
 latitude: 27.64941
 longitude: 90.80367
 language_map_img: Languages_of_Bhutan_with_labels.svg

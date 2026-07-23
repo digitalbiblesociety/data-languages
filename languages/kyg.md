@@ -11,6 +11,7 @@ area: Goroka language spoken in Papua New Guinea
 status_id: "5"
 scope: individual
 language_type: living
+iso_lwc: tpi
 latitude: -6.47599
 longitude: 145.46423
 glottocode: keya1238

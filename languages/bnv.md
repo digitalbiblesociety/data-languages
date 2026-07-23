@@ -11,6 +11,7 @@ area: Topics referred to by the same term
 status_id: "7"
 scope: individual
 language_type: living
+iso_lwc: ind
 latitude: -2.09529
 longitude: 139.20752
 glottocode: bone1255

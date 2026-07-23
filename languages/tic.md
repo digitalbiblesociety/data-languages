@@ -11,6 +11,7 @@ area: Atlantic–Congo language of Sudan
 status_id: "4"
 scope: individual
 language_type: living
+iso_lwc: arb
 latitude: 11.09635
 longitude: 30.8092
 glottocode: tira1254

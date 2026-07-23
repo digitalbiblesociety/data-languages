@@ -10,6 +10,7 @@ area: English-based creole languages
 status_id: "3"
 scope: individual
 language_type: living
+iso_lwc: eng
 latitude: 9.65873
 longitude: 4.21068
 language_map_img: pcm.webp

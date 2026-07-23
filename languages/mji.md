@@ -11,6 +11,7 @@ area: Mienic language of Asia
 status_id: 6a
 scope: individual
 language_type: living
+iso_lwc: cmn
 latitude: 22.985607
 longitude: 105.024397
 glottocode: kimm1245
